@@ -1,0 +1,56 @@
+---
+title: "Removing Duplicates From a List in Python"
+date: "2021-12-09"
+categories: 
+  - "python"
+---
+
+Let's go over a few idiomatic ways to remove duplicates from lists in Python.
+
+## Method #1 - Create a new list (simplest)
+
+This is the easiest algorithm to code, but because it requires creating a new list, also requires more memory and is a bit slower.
+
+```
+def remove_duplicates(original):
+  deduped = []
+  for item in original:
+    if item not in deduped:
+      deduped.append(item)
+  return deduped
+```
+
+We take advantage of Python's [in keyword](https://www.w3schools.com/python/ref_keyword_in.asp) here, only adding each item to the final list if it isn't already present.
+
+## Method #2 - Create a new list with syntactic sugar (less code, harder to understand)
+
+```
+def remove_duplicates(original):
+  deduped = []
+  [deduped.append(item) for item in original if item not in deduped]
+  return deduped
+```
+
+This is the same exact code from a performance standpoint but only uses one line. If you're into [code golf](https://code.golf/), then this might be your solution.
+
+## Method #3 - Use the built-in "set" data structure (fast, loses order)
+
+A `[set()](https://www.w3schools.com/python/python_sets.asp)` is a group of values that doesn't contain any duplicates. By casting a list into a set and back, you remove all duplicates. The main drawback here is that you'll lose your ordering.
+
+```
+def remove_duplicates(original):
+  return list(set(original))
+```
+
+This method will be faster in most circumstances than the previous two because each transfer is `O(n)` in [big-o notation](https://qvault.io/big-o-algorithms-course/) terms. A group of two `O(n)` operations is faster than one `O(n^2)` operation. As a bonus, it even uses less code.
+
+## Method #4 - Use an ordered dictionary (fast, maintains order)
+
+By using the [collections](https://docs.python.org/3/library/collections.html) libraries' [OrderedDict](https://docs.python.org/3/library/collections.html#collections.OrderedDict) type, we can maintain the ordering of the list while maintaining the same Big-O that we had with a `set()`.
+
+```
+from collections import OrderedDict
+
+def remove_duplicates(original):
+  return list(OrderedDict.fromkeys(original))
+```
