@@ -1,5 +1,6 @@
 ---
 title: "Education's Shameful State of the Art"
+author: Lane Wagner
 date: "2020-10-05"
 categories: 
   - "misc"

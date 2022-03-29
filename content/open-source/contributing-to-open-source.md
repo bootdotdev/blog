@@ -1,5 +1,6 @@
 ---
 title: "6 Things to Avoid When Contributing to Open-Source Projects"
+author: Lane Wagner
 date: "2020-10-21"
 categories: 
   - "open-source"

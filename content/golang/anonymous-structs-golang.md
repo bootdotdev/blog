@@ -1,5 +1,6 @@
 ---
 title: "What Are Golang's Anonymous Structs?"
+author: Lane Wagner
 date: "2020-04-21"
 categories: 
   - "clean-code"
@@ -12,7 +13,7 @@ Structs in Go are similar to structs in other languages like C. They have typed 
 
 To create an anonymous struct, just instantiate the instance immediately after declaring the type:
 
-```
+```go
 newCar := struct {
     make    string
     model   string
@@ -26,7 +27,7 @@ newCar := struct {
 
 Contrast this with the "normal" way of creating structs:
 
-```
+```go
 // declare the 'car' struct type
 type car struct {
     make    string
@@ -48,7 +49,7 @@ I often use anonymous structs to [marshal and unmarshal JSON data](https://qvaul
 
 Take a look at the code below. We are able to marshal the HTTP request directly into an unnamed struct inline. All the fields are still accessible via the dot operator, but we don't have to worry about another part of our project trying to use a type that wasn't intended for it.
 
-```
+```go
 func createCarHandler(w http.ResponseWriter, req *http.Request) {
     defer req.Body.Close()
     decoder := json.NewDecoder(req.Body)
@@ -75,7 +76,7 @@ Instead of declaring a quick anonymous struct for JSON unmarshalling, I've often
 2. **Maps are vague.** After unmarshalling the data, we are forced to use runtime checks to make sure the data we care about exists. If those checks aren't thorough, it can lead to a nil pointer dereference panic being thrown.
 3. **`map[string]interface{}` is verbose**. Digging into the map isn't as simple as accessing a named field using a dot operator, for example, `newCar.model`. Instead, its something like:
 
-```
+```go
 func createCarHandler(w http.ResponseWriter, req *http.Request) {
     myMap := map[string]interface{}{}
     decoder := json.NewDecoder(req.Body)
@@ -101,7 +102,7 @@ Anonymous structs can clean up your API handlers if used properly. The strong ty
 
 ## Bonus - Use a slices of anonymous structs for easy test data
 
-```
+```go
 var cars = []struct {
     make string
     model string
@@ -115,7 +116,7 @@ var cars = []struct {
 
 ## Bonus #2 - Group a set of global (gasp) variables in a struct
 
-```
+```go
 var apiSettings struct {
     secret      string
     dbConn   string
@@ -123,9 +124,3 @@ var apiSettings struct {
 
 apiSettings.secret = "super-secr3t-p@$$"
 ```
-
-## Related Articles
-
-- [Wrapping Errors in Go – How to Handle Nested Errors](https://qvault.io/2020/03/09/wrapping-errors-in-go-how-to-handle-nested-errors/)
-- [How To Build JWT’s in Go (Golang)](https://qvault.io/2020/03/09/wrapping-errors-in-go-how-to-handle-nested-errors/)
-- [Range Over Ticker In Go With Immediate First Tick](https://qvault.io/2020/04/30/range-over-ticker-in-go-with-immediate-first-tick/)

@@ -1,5 +1,6 @@
 ---
 title: "Golang vs Python: 6 Questions to Decide Which Programming Language is Best For You"
+author: Zulie Rane
 date: "2021-04-29"
 categories: 
   - "golang"

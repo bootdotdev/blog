@@ -1,5 +1,6 @@
 ---
 title: "Comprehensive Guide to Dates and Times in Go"
+author: Lane Wagner
 date: "2021-05-17"
 categories: 
   - "golang"
@@ -11,24 +12,25 @@ Keeping track of time in code has long been every developer's nightmare. While n
 
 ## Table of Contents
 
-- [Overview - How dates and times are stored in Go](#overview)
-    - [Get the current time with time.Now()](#now)
-    - [Create a time object for a specific date](#specific-date)
-- [Printing, parsing, and formatting times in Go](#formatting)
-- [Time durations](#duration)
-- [Convert between separate timezones](#timezones)
-    - [Get the timezone from an existing time object](#existing)
-    - [Create a new time.Location object](#new-location)
-    - [Convert a time from one location to another](#convert-location)
-    - [Custom timezone name](#custom-timezone)
-- [Add and subtract time](#add)
-    - [Add time and duration](#add)
-    - [Get difference between two times](#subtract)
-    - [Compare two times to see which comes after the other](#compare)
-- [Intervals, sleeping, and tickers](#sleep)
-    - [Force the current goroutine to sleep](#sleep)
-    - [Execute code on an interval using tickers](#ticker)
-- [Saving memory with TinyDate and TinyTime](#memory)
+- [Table of Contents](#table-of-contents)
+- [Overview - How dates and times are stored in Go](#overview---how-dates-and-times-are-stored-in-go)
+  - [Get the current time with time.Now()](#get-the-current-time-with-timenow)
+  - [Create a time object for a specific date](#create-a-time-object-for-a-specific-date)
+- [Printing, parsing, and formatting times in Go](#printing-parsing-and-formatting-times-in-go)
+- [Time durations](#time-durations)
+- [Convert between separate timezones and locations](#convert-between-separate-timezones-and-locations)
+  - [Get the timezone from an existing time object](#get-the-timezone-from-an-existing-time-object)
+  - [Create a new `time.Location` object](#create-a-new-timelocation-object)
+  - [Convert a time from one location to another](#convert-a-time-from-one-location-to-another)
+  - [Custom timezone name](#custom-timezone-name)
+- [Add, subtract and compare times](#add-subtract-and-compare-times)
+  - [Add time and duration](#add-time-and-duration)
+  - [Get difference between two times](#get-difference-between-two-times)
+  - [Compare two times to see which comes after the other](#compare-two-times-to-see-which-comes-after-the-other)
+- [Intervals, sleeping, and tickers](#intervals-sleeping-and-tickers)
+  - [Force the current goroutine to sleep](#force-the-current-goroutine-to-sleep)
+  - [Execute code on an interval using tickers](#execute-code-on-an-interval-using-tickers)
+- [Saving memory with TinyDate and TinyTime](#saving-memory-with-tinydate-and-tinytime)
 
 ## Overview - How dates and times are stored in Go
 
@@ -42,7 +44,7 @@ The two most common ways to create a new time object are to use the current time
 
 The `[time.Now()](https://golang.org/pkg/time/#Now)` function returns the current local time. If you work on the backend, it's likely you'll also want to immediately convert it to UTC.
 
-```
+```go
 currentTime := time.Now()
 
 currentTimeUTC := time.Now().UTC()
@@ -52,7 +54,7 @@ currentTimeUTC := time.Now().UTC()
 
 If instead, you want a time object for a specific date, you can use the `time.Date()` function.
 
-```
+```go
 // takes a year, month, day, hour, minute, second, nanosecond, and location
 someonesBirthday := time.Date(1990, time.May, 10, 23, 12, 5, 3, time.UTC)
 ```
@@ -71,7 +73,7 @@ Mon Jan 2 15:04:05 -0700 MST 2006
 
 So if we want to format our time object a specific way, we can just use the constants from the reference time but rearrange them how we want.
 
-```
+```go
 t := time.Now().UTC()
 fmt.Println(t.Format("2006 01 02 MST"))
 
@@ -80,7 +82,7 @@ fmt.Println(t.Format("2006 01 02 MST"))
 
 The [time.Parse()](https://golang.org/pkg/time/#Parse) function works the same way, but takes a time string and a layout as an input, and attempts to create a new time object.
 
-```
+```go
 t, err := time.Parse("2006 01 02 MST", "2021 05 16 UTC")
 if err != nil{
     log.Fatal(err)
@@ -99,7 +101,7 @@ My bane in programming is when developers [don't include units](https://qvault.i
 
 Durations are just a specific kind of `int64`. They represent the elapsed time between two instants as a nanosecond count. the only drawback is that the largest representable duration is ~290 years, which hasn't been a problem for me yet. There are several constants defined by the time package to represent some common durations.
 
-```
+```go
 fiveSeconds := time.Second * 5
 sixMinutes := time.Minute * 6
 oneDay := time.Hour * 24
@@ -111,20 +113,20 @@ Every `time.Time` object is associated with a location, which is basically a tim
 
 ### Get the timezone from an existing time object
 
-```
+```go
 myTime := time.Now()
 myTimezone := myTime.Location()
 ```
 
 ### Create a new `time.Location` object
 
-```
+```go
 mstLocation, err := time.LoadLocation("MST")
 ```
 
 ### Convert a time from one location to another
 
-```
+```go
 loc, err = time.LoadLocation("MST")
 if err != nil{
     log.Fatal(err)
@@ -136,7 +138,7 @@ mstTime := t.In(loc)
 
 A timezone is basically just a name and a duration offset from UTC. If you want a specific timezone but want to change its name you can do that.
 
-```
+```go
 tzName := "CUSTOM-TZ"
 tzOffset := 60*60*5 // seconds east of UTC
 loc := time.FixedZone(tzName, tzOffset)
@@ -152,7 +154,7 @@ There are two primary functions for adding time to an existing time. Keep in min
 
 [time.Add()](https://golang.org/pkg/time/#Time.Add)
 
-```
+```go
 myTime := time.Now().UTC()
 inTenMinutes := myTime.Add(time.Minute * 10)
 // inTenMinutes is 10 minutes in the future
@@ -164,7 +166,7 @@ tenMinutesAgo := myTime.Add(-time.Minute * 10)
 
 [time.AddDate()](https://golang.org/pkg/time/#Time.AddDate)
 
-```
+```go
 myTime := time.Now().UTC()
 
 // adds years, months, and days
@@ -180,7 +182,7 @@ twoDaysAgo := myTime.AddDate(0, 0, -2)
 
 The [sub()](https://golang.org/pkg/time/#Time.Sub) function gets the difference between two times. Keep in mind, the `sub()` function does not subtract a duration from a time. You, perhaps counterintuitively, need to use the `add()` function for that.
 
-```
+```go
 start := time.Date(2020, 2, 1, 3, 0, 0, 0, time.UTC)
 end := time.Date(2021, 2, 1, 12, 0, 0, 0, time.UTC)
 
@@ -194,7 +196,7 @@ There are two functions that should take care of most of your time comparison ne
 
 [time.After()](https://golang.org/pkg/time/#Time.After)
 
-```
+```go
 first := time.Date(2020, 2, 1, 3, 0, 0, 0, time.UTC)
 second := time.Date(2021, 2, 1, 12, 0, 0, 0, time.UTC)
 
@@ -203,7 +205,7 @@ isFirstAfter := first.After(second)
 
 [time.Equal()](https://golang.org/pkg/time/#Time.Equal)
 
-```
+```go
 first := time.Date(2020, 2, 1, 3, 0, 0, 0, time.UTC)
 second := time.Date(2021, 2, 1, 12, 0, 0, 0, time.UTC)
 
@@ -218,7 +220,7 @@ If you need your program to synchronously sleep, there's an easy way to do that,
 
 ### Force the current goroutine to sleep
 
-```
+```go
 fmt.Println("hello")
 time.Sleep(time.Second * 2)
 fmt.Println("world 2 seconds in the future")
@@ -228,7 +230,7 @@ fmt.Println("world 2 seconds in the future")
 
 If you need to do something on a fixed interval, the [time.Ticker](https://golang.org/pkg/time/#Ticker) type makes it easy to do so.
 
-```
+```go
 func doSomethingWithRateLimit() {
     ticker := time.NewTicker(time.Second)
     for range ticker.C {

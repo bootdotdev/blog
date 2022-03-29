@@ -1,5 +1,6 @@
 ---
 title: "(Very) Basic Intro to the Scrypt Hash"
+author: Lane Wagner
 date: "2020-07-25"
 categories: 
   - "cryptography"
@@ -42,7 +43,7 @@ Often times [brute-force attackers](https://qvault.io/2020/02/11/how-do-brute-fo
 
 Scrypt can be visualized by some psuedo-code:
 
-```
+```go
 func Scrypt(
 	passphrase, // string of characters to be hashed
 	salt,  // random salt
@@ -67,7 +68,7 @@ const blockSize = 128 * blockSizeFactor
 
 Scrypt uses [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2) as a child key-derivation function. We use it to generate an initial salt. `PBKDF2` has the following signature:
 
-```
+```go
 func PBKDF2(
 	prf,
 	password,
@@ -79,7 +80,7 @@ func PBKDF2(
 
 We use it as follows:
 
-```
+```go
 const initialSalt = PBKDF2(HMAC-SHA256, passphrase, salt, 1, blockSize * parallelizationFactor)
 ```
 
@@ -87,7 +88,7 @@ const initialSalt = PBKDF2(HMAC-SHA256, passphrase, salt, 1, blockSize * paralle
 
 Next, we mix the salt. We split `initialSalt` into `splitSalt`, which is a 2D array of bytes. Each sub-array contains 1024 bytes
 
-```
+```go
 splitSalt := [][1024]byte(initialSalt)
 for i, block := range splitSalt {
 	newBlock := roMix(block, costFactor)
@@ -97,7 +98,7 @@ for i, block := range splitSalt {
 
 Where `roMix` is the following function:
 
-```
+```go
 func roMix(block, iterations){
 	v := []
 	x := block
@@ -143,13 +144,13 @@ expensiveSalt := append([], splitSalt...)
 
 ### 5 - Return Final KDF
 
-```
+```go
 return PBKDF2(HMAC-SHA256, passphrase, expensiveSalt, 1, desiredKeyLen)
 ```
 
 The final pseudocode for our top level function is as follows:
 
-```
+```go
 func Scrypt(
 	passphrase, // string of characters to be hashed
 	salt,  // random salt

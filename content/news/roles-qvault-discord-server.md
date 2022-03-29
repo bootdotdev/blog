@@ -1,5 +1,6 @@
 ---
 title: "Roles in the Qvault Discord Server"
+author: Lane Wagner
 date: "2021-12-19"
 categories: 
   - "news"

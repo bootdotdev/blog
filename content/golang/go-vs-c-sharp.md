@@ -1,5 +1,6 @@
 ---
 title: "Go vs C#: Compared Over 5 Key Areas"
+author: Meghan Reichenbach
 date: "2021-09-22"
 categories: 
   - "golang"

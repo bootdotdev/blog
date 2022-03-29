@@ -1,5 +1,6 @@
 ---
 title: "Is There a Case for Programmers to Unionize?"
+author: Lane Wagner
 date: "2021-02-15"
 categories: 
   - "jobs"

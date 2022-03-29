@@ -1,5 +1,6 @@
 ---
 title: "How to Get Consistent Line Breaks in VS Code (LF vs CRLF)"
+author: Lane Wagner
 date: "2020-06-18"
 categories: 
   - "clean-code"
@@ -29,7 +30,7 @@ If you want new files to automatically have the correct line endings, then you c
 
 For LF:
 
-```
+```json
 {
     "files.eol": "\n",
 }
@@ -37,7 +38,7 @@ For LF:
 
 CRLF:
 
-```
+```json
 {
     "files.eol": "\r\n",
 }

@@ -1,5 +1,6 @@
 ---
 title: "Base64 vs Base58 Encoding"
+author: Lane Wagner
 date: "2020-11-03"
 categories: 
   - "bitcoin"

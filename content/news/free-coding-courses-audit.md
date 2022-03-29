@@ -1,5 +1,6 @@
 ---
 title: "All Coding Courses on Qvault Are Now Free to Audit"
+author: Lane Wagner
 date: "2021-03-15"
 categories: 
   - "computer-science"

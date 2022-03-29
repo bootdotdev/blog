@@ -1,5 +1,6 @@
 ---
 title: "What's the Difference Between a Certificate or a Diploma in Computer Science in 2021?"
+author: Zulie Rane
 date: "2020-12-02"
 categories: 
   - "computer-science"

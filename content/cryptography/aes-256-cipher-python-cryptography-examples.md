@@ -1,5 +1,6 @@
 ---
 title: "AES-256 Cipher – Python Cryptography Examples"
+author: Lane Wagner
 date: "2020-02-06"
 categories: 
   - "cryptography"
@@ -25,7 +26,7 @@ AES-256 typically requires that the data to be encrypted be delivered in 16-byte
 
 Now we create a simple _encrypt(plain\_text, password)_ function. This function uses the password to encrypt the plain text. Therefore, anyone with access to the encrypted text and the password will be able to decrypt it.
 
-```
+```py
 def encrypt(plain_text, password):
     # generate a random salt
     salt = get_random_bytes(AES.block_size)
@@ -61,7 +62,7 @@ def encrypt(plain_text, password):
 
 ## Decrypting
 
-```
+```py
 def decrypt(enc_dict, password):
     # decode the dictionary entries from base64
     salt = b64decode(enc_dict['salt'])
@@ -92,7 +93,7 @@ def decrypt(enc_dict, password):
 
 You probably want to see it all work in an example script. Look no further!
 
-```
+```py
 # AES 256 encryption/decryption using pycryptodome library
 
 from base64 import b64encode, b64decode

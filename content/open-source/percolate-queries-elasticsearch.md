@@ -1,5 +1,6 @@
 ---
 title: "Percolate Queries in ElasticSearch - How I Built an Alerts System"
+author: Lane Wagner
 date: "2019-11-14"
 categories: 
   - "open-source"
@@ -84,7 +85,7 @@ GET /my-index/_search
 
 Response:
 
-```
+```json
 {
   "took": 1,
   "timed_out": false,
@@ -127,9 +128,3 @@ Because the count was greater than the threshold, the percolate query was return
 ## Use it
 
 Percolate queries are perfect for when you have an ever changing set of criteria (probably created by users) that many documents need to be checked against. I've used it for alerting and auto-tagging systems in the past. Let me know on twitter if you have questions or can think of another interesting use case for them!
-
-## Related Work
-
-- [Is Open-Source Cryptography Really Secure?](https://qvault.io/2020/01/30/is-open-source-cryptography-really-secure/)
-- [Connecting To RabbitMQ In Golang](https://qvault.io/2020/04/29/connecting-to-rabbitmq-in-golang/)
-- [Go-CoNLLU – Some Much Needed Machine Learning Support in Go](https://qvault.io/2020/06/08/go-conllu-some-much-needed-machine-learning-support-in-go/)

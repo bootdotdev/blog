@@ -1,5 +1,6 @@
 ---
 title: "Your Parent's Internet - How to Mitigate Misinformation"
+author: Lane Wagner
 date: "2020-07-31"
 categories: 
   - "misc"

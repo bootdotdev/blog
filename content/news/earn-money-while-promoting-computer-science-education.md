@@ -1,5 +1,6 @@
 ---
 title: "Earn Money While Promoting Computer Science Education"
+author: Lane Wagner
 date: "2020-12-28"
 categories: 
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Achieving Data Integrity Using Cryptography"
+author: Lane Wagner
 date: "2020-05-04"
 categories: 
   - "bitcoin"
@@ -45,13 +46,13 @@ A common use case for checksums is the verification of a download. In this examp
 2. [Download the checksum](https://bitcoin.org/bin/bitcoin-core-0.19.1/SHA256SUMS.asc)
 3. Open a terminal and go to the downloads folder:
 
-```
+```bash
 cd ~/Downloads
 ```
 
 Compute and print the checksum of the downloaded dmg file:
 
-```
+```bash
 shasum -a 256 bitcoin-0.19.1-osx.dmg
 ```
 
@@ -61,7 +62,7 @@ Which should print:
 
 Then print the downloaded (expected) checksum:
 
-```
+```bash
 cat SHA256SUMS.asc | grep bitcoin-0.19.1-osx.dmg
 ```
 

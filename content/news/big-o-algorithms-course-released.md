@@ -1,5 +1,6 @@
 ---
 title: "\"Big-O Algorithms\" Course Released"
+author: Lane Wagner
 date: "2020-09-14"
 categories: 
   - "golang"

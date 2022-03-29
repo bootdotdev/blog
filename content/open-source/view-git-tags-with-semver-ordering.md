@@ -1,5 +1,6 @@
 ---
 title: "View Git Tags with Semver Ordering"
+author: Lane Wagner
 date: "2021-02-09"
 categories: 
   - "misc"
@@ -11,19 +12,19 @@ In order to print all the Git tags in a project in Semver order, simply run `git
 
 Alternatively, if you're on at least version 2 of Git, you won't even need to use the `sort` command, just run:
 
-```
+```bash
 git tag -l --sort=version:refname
 ```
 
 If you want the latest tags at the top of the output, use `-version` to inverse the sort:
 
-```
+```bash
 git tag -l --sort=-version:refname
 ```
 
 If you want your global installation of Git to default to Semver sorting, you can use the following command as of Git v2.1+:
 
-```
+```bash
 git config --global tag.sort version:refname
 ```
 

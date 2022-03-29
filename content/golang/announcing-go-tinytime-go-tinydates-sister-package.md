@@ -1,5 +1,6 @@
 ---
 title: "Announcing Go-TinyTime, Go-TinyDate's Sister Package"
+author: Lane Wagner
 date: "2020-04-02"
 categories: 
   - "golang"
@@ -16,7 +17,7 @@ Don't forget to ⭐ the GitHub: [https://github.com/wagslane/go-tinytime](https:
 
 A normal time.Time object takes at least 16 bytes of memory:
 
-```
+```go
 type Time struct {
 	wall uint64 // 8 bytes
 	ext  int64 // b bytes
@@ -28,7 +29,7 @@ If there is a location set (which there usually is), then this can be higher, us
 
 TinyTime, on the other hand, uses only 4 bytes.
 
-```
+```go
 type TinyTime struct {
 	unix uint32
 }

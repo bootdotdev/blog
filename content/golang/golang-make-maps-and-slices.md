@@ -1,5 +1,6 @@
 ---
 title: "Make Maps and Slices in Golang - A Guide to Initialization"
+author: Lane Wagner
 date: "2020-06-29"
 categories: 
   - "clean-code"
@@ -10,7 +11,7 @@ There are quite a few ways to create new maps and slices in Go, for example, the
 
 ## Slices
 
-```
+```go
 var varStyle []string
 
 literalStyle := []string{}
@@ -32,7 +33,7 @@ makeStyle := make([]string, 0)
 
 ## Maps
 
-```
+```go
 var varStyle map[int]int
 
 literalStyle = map[string]int{}
@@ -50,7 +51,7 @@ makeStyle := make(map[string]int)
 
 `makeStyle := make(map[string]int)` _This is probably what you want_! If you know your space requirements you can optimize for allocation by passing in a size:
 
-```
+```go
 // Give me a map with room for 10 items before needing to allocate more space
 makeStyle := make(map[string]int, 10)
 ```

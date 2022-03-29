@@ -1,5 +1,6 @@
 ---
 title: "Rust vs Go - Which Is More Popular?"
+author: Lane Wagner
 date: "2020-05-06"
 categories: 
   - "golang"
@@ -65,9 +66,3 @@ I think **Go will likely be the go-to for performant backend systems**. Go's ric
 Rust seems like it may steal some of the spotlights from Go in **deeper backend processes** that need to get every ounce of efficiency that they can from the hardware. In microservices and polyglot architectures, it makes sense to mix and match technologies behind the scenes a bit.
 
 Even more important than web programming for Rust, I see it being used for more **systems-level applications**. Rust could easily steal some business from C and C++ for uses in embedded devices, command-line utilities, and so forth.
-
-## Related Reading
-
-- [Running Go in the Browser With Web Assembly (WASM)](https://qvault.io/2020/07/01/running-go-in-the-browser-with-web-assembly-wasm/)
-- [Qvault Classroom Launches Golang Crash Course](https://qvault.io/2020/07/02/qvault-classroom-launches-golang-crash-course/)
-- [Sorting in Go - Don't Reinvent This Wheel](https://qvault.io/2020/05/27/sorting-in-go-dont-reinvent-this-wheel/)

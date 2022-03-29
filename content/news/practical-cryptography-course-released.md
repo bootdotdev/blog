@@ -1,5 +1,6 @@
 ---
 title: "\"Practical Cryptography\" Course Released"
+author: Lane Wagner
 date: "2020-08-14"
 categories: 
   - "cryptography"

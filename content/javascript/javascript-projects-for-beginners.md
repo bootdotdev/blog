@@ -1,5 +1,6 @@
 ---
 title: "17 Simple JavaScript Projects for Beginners"
+author: Zulie Rane
 date: "2021-10-08"
 categories: 
   - "javascript"

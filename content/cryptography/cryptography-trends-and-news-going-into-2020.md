@@ -1,5 +1,6 @@
 ---
 title: "Cryptography Trends And News Going Into 2020"
+author: Lane Wagner
 date: "2020-01-03"
 categories: 
   - "cryptography"

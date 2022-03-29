@@ -1,5 +1,6 @@
 ---
 title: "Unexpected Printf Behavior in Go WASM - Nothing Prints"
+author: Lane Wagner
 date: "2020-08-10"
 categories: 
   - "golang"
@@ -11,7 +12,7 @@ While working on [Qvault's](https://qvault.io) [Go Playground](https://app.qvaul
 
 For those of you who are familiar with the function, when compiled to a "normal" executable `fmt.Printf` prints a formatted string to standard output. As per the official documentation, this program:
 
-```
+```go
 package main
 
 import (
@@ -36,7 +37,7 @@ Spoiler alert: _It doesn't print anything._
 
 However, if you change the program slightly:
 
-```
+```go
 package main
 
 import (
@@ -68,7 +69,7 @@ When compiled to Web Assembly, the `fmt.Printf` function is writing to a buffer,
 
 Take a look at the `writeSync()` code in Go's [wasm\_exec.js](https://github.com/lane-c-wagner/classroom.qvault.io/blob/master/public/wasm_exec.js#L43), which is a required include to execute Go Web Assembly in the browser:
 
-```
+```go
 writeSync(fd, buf) {
 	outputBuf += decoder.decode(buf);
 	const nl = outputBuf.lastIndexOf("\n");

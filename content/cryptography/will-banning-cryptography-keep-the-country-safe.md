@@ -1,5 +1,6 @@
 ---
 title: "Will Banning Cryptography Keep the Country Safe?"
+author: Lane Wagner
 date: "2020-02-05"
 categories: 
   - "cryptography"
@@ -50,9 +51,3 @@ then it probably deserves a thorough examination based on evidence, data, and ra
 - [Witchcraft](https://blog.mass.gov/masslawlib/civil-procedure/witchcraft-law-up-to-the-salem-witchraft-trials-of-1692/)
 - [The Jews](https://en.wikipedia.org/wiki/Anti-Jewish_legislation_in_pre-war_Nazi_Germany)
 - [The Illegals](https://www.washingtonexaminer.com/be-wary-of-emotionally-charged-laws-named-after-dead-people)
-
-## Related Reading
-
-- [They Who Control Encryption](https://qvault.io/2019/07/29/they-who-control-encryption/)
-- [Randomness and Entropy in Node and Electron](https://qvault.io/2019/07/03/randomness-and-entropy-in-node-and-electron/)
-- [Dual Encryption](https://qvault.io/2019/06/20/dual-encryption/)

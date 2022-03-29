@@ -1,5 +1,6 @@
 ---
 title: "Golang Conversions - Ints To Strings And Strong Typing"
+author: Lane Wagner
 date: "2020-03-31"
 categories: 
   - "clean-code"
@@ -8,7 +9,7 @@ categories:
 
 Go is a strongly typed language, which means at any point a developer should know exactly what **type** of value they are dealing with. For example, if we have a function that prints a string, we can't just give it an integer and expect it to work. We have to cast it to a string explicitly:
 
-```
+```go
 func main() {
 	num := 5
 	numString := strconv.Itoa(num)
@@ -40,7 +41,7 @@ In one of our production apps, we were storing millions of **ints** in memory. B
 
 While changing int and float types can save memory, beware of these kinds of optimizations. A program can become quite hard to read if every other line is:
 
-```
+```go
 toRound := float64(someNumber)
 toSave := float32(toRound)
 ```
@@ -51,7 +52,7 @@ The truth is that most of the standard library functions and popular packages (a
 
 Interfaces allow for a kind of [polymorphism in Go](https://qvault.io/2020/03/15/best-practices-for-writing-clean-interfaces-in-go/). Their purpose is **not** to give developers a way to sneak dynamic typing into the language. I've seen developers do things like:
 
-```
+```go
 func jsonToDynamic(dat []byte) {
 	m := map[string]interface{}{}
 	json.Unmarshal(dat, &m)

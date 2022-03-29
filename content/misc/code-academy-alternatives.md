@@ -1,5 +1,6 @@
 ---
 title: "Top 6 Codecademy Alternatives"
+author: Lane Wagner
 date: "2020-10-28"
 categories: 
   - "computer-science"

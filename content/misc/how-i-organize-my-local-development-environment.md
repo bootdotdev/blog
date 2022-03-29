@@ -1,5 +1,6 @@
 ---
 title: "How I Organize My Local Development Environment"
+author: Lane Wagner
 date: "2021-03-17"
 categories: 
   - "golang"
@@ -73,7 +74,7 @@ I use different local ports so that I never accidentally connect to one database
 
 I'm a big fan of small one-off bash scripts. Anytime I find myself doing something monotonous over and over again, I try to write a script to speed it up in the future. "Automate the boring stuff", if you will. If the script is useful generally, I create it's own Git repo within my `~/workspace` for it. If it's scoped to a project, I typically store it in the `scripts` directory of that project. For example, at my full-time job, we often need to update a dependency in all ~20 of our microservices. Running all those upgrade commands and opening pull requests can be tedious. We wrote a script for that:
 
-```
+```bash
 #!/bin/bash
 
 # get github repo list

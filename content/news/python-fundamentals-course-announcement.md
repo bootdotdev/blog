@@ -1,5 +1,6 @@
 ---
 title: "Our Python Fundamentals Course Has Released"
+author: Lane Wagner
 date: "2021-07-27"
 categories: 
   - "news"
@@ -46,5 +47,3 @@ Following our "learning by doing" philosophy, we design our courses to be as int
 And having been on the other side in the recruitment game, we understand how employers think, and what they’re looking for.
 
 We build our courses based on what gets you hired, and support our courses with interview prep articles and courses so you’re fully prepared for your next coding job interview.
-
-[Learn Python Now](https://app.qvault.io/dashboard/courses)

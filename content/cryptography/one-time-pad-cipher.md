@@ -1,5 +1,6 @@
 ---
 title: "Intro to the One-Time Pad Cipher"
+author: Lane Wagner
 date: "2021-06-28"
 categories: 
   - "cryptography"
@@ -94,9 +95,9 @@ The second requirement, that the key can't be reused, is a huge pain! This means
 
 Lastly, the last requirement, that it must be kept secret yet somehow communicated to the intended recipient, is a **tall** order. In fact, all symmetric encryption algorithms suffer from this problem. As a result, if you need to communicate with another entity you probably need to use a separate [asymmetric encryption](https://qvault.io/cryptography/very-basic-intro-to-pgp-gpg/#sym-vs-asym) scheme.
 
-## Example of the one-time pad code in Golang
+## Example of the one-time pad code in Go
 
-```
+```go
 func encrypt(plaintext, key []byte) []byte {
 	final := []byte{}
 	for i := range plaintext {

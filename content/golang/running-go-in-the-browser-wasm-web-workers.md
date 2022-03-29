@@ -1,5 +1,6 @@
 ---
 title: "Running Go in the Browser with WASM and Web Workers"
+author: Lane Wagner
 date: "2020-09-23"
 categories: 
   - "golang"
@@ -16,7 +17,7 @@ In the old Qvault, console output was all printed at once. The program executed,
 
 For example, this code used to print all of its output at once:
 
-```
+```go
 package main
 
 import (
@@ -49,7 +50,7 @@ As you know, we compile code in the editor to WASM on our servers. If you are cu
 
 In order to run a Web Worker, we need a script that defines the worker. It's just a JavaScript file:
 
-```
+```js
 addEventListener('message', async (e) => {
 	// initialize the Go WASM glue
 	const go = new self.Go();
@@ -88,7 +89,7 @@ cat $(go env GOROOT)/misc/wasm/wasm_exec.js
 
 Now that we have a worker file that can execute compiled Web Assembly, let's take a look at how the main thread communicates with the worker. I built an ES6 module that exports some helper functions:
 
-```
+```js
 export function getWorker(lang) {
   return {
     webWorker: new window.Worker(`/${lang}_worker.js`),
@@ -125,7 +126,7 @@ The `useWorker` function is the post interesting part. It takes the worker that 
 
 For example, in our Vue app we use these functions as follows:
 
-```
+```js
 this.output = [];
 this.isLoading = true;
 const wasm = await compileGo(this.code);

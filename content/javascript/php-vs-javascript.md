@@ -1,5 +1,6 @@
 ---
 title: "PHP vs JavaScript: Choosing the Best Language for Beginners, Web Development, and More!"
+author: Meghan Reichenbach
 date: "2021-11-10"
 categories: 
   - "javascript"
@@ -11,12 +12,13 @@ Now I should mention these aren’t just programming languages, but more specifi
 
 In the case of PHP and JavaScript, they are often used to quickly build user interfaces and graphic designs – because they don't need to compile, they're convenient for web-based use cases.
 
-- [Which language is best for beginners?](#beginners)
-- [PHP vs. JavaScript Salary](#salary)
-- [PHP vs JavaScript Performance](#Performance)
-- [When to use PHP vs JavaScript](#when-to)
-- [Which is best for backend development?](#backend)
-- [Which is best for frontend development?](#frontend)
+- [PHP vs JavaScript: Which Is Best for Beginners?](#php-vs-javascript-which-is-best-for-beginners)
+- [PHP vs JavaScript Salary](#php-vs-javascript-salary)
+- [PHP vs JavaScript Performance](#php-vs-javascript-performance)
+- [When to Use PHP vs JavaScript?](#when-to-use-php-vs-javascript)
+  - [JavaScript vs PHP for Backend Development](#javascript-vs-php-for-backend-development)
+  - [JavaScript vs PHP for Frontend Development](#javascript-vs-php-for-frontend-development)
+- [Which One Should You Learn: The Final Results](#which-one-should-you-learn-the-final-results)
 
 JavaScript (JS) is a client-side scripting language, that was developed by Brendan Eich at Netscape in 1995. It’s high-level, multiparadigm, interpreted, and supports dynamic typing. It’s known for working alongside HTML and CSS as one of the backbones of the modern-day internet.
 

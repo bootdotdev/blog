@@ -1,5 +1,6 @@
 ---
 title: "Snyk Security Review"
+author: Lane Wagner
 date: "2019-07-16"
 categories: 
   - "security"

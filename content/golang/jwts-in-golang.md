@@ -1,5 +1,6 @@
 ---
 title: "JWT Authentication in Golang"
+author: Lane Wagner
 date: "2020-02-20"
 categories: 
   - "cryptography"
@@ -34,7 +35,7 @@ For example, when a user logs in to a website secured via JWTs, the flow should 
 
 We're going to use a popular library for dealing with JSON Web Tokens in Go, [jwt-go](https://github.com/dgrijalva/jwt-go). Make sure you have the code cloned locally:
 
-```
+```bash
 go get github.com/dgrijalva/jwt-go
 ```
 
@@ -42,7 +43,7 @@ For simplicity, we're going to use a symmetric encryption scheme. If you go this
 
 First, define a struct that will be used to represent claims to identify your users:
 
-```
+```go
 type customClaims struct {
 	Username string `json:"username"`
 	jwt.StandardClaims
@@ -51,7 +52,7 @@ type customClaims struct {
 
 The `jwt.StandardClaims` struct contains useful fields like `expiry` and `issuer name`. Now we'll create some actual claims for the user that just logged in:
 
-```
+```go
 claims := customClaims{
 	Username: username,
 	StandardClaims: jwt.StandardClaims{
@@ -63,13 +64,13 @@ claims := customClaims{
 
 Next let's create an unsigned token from the claims:
 
-```
+```go
 token := jwt.NewWithClaims(jwt.SigningMethodHS256, claims)
 ```
 
 Then we sign the token using a secure private key. In production make sure you use a real private key, preferably at least 256 bits in length:
 
-```
+```go
 signedToken, err := token.SignedString([]byte("secureSecretText"))
 ```
 
@@ -87,7 +88,7 @@ Authorization: Bearer {jwt}
 
 After receiving the JWT, validate the claims and verify the signature using the same private key:
 
-```
+```go
 token, err := jwt.ParseWithClaims(
 	jwtFromHeader,
 	&customClaims{},
@@ -101,7 +102,7 @@ If the claims have been tampered with then the `err` variable will not be `nil`.
 
 Parse the claims from the token:
 
-```
+```go
 claims, ok := token.Claims.(*customClaims)
 if !ok {
 	return errors.New("couldn't parse claims")
@@ -110,7 +111,7 @@ if !ok {
 
 Check if the token is expired:
 
-```
+```go
 if claims.ExpiresAt < time.Now().UTC().Unix() {
 	return errors.New("jwt is expired")
 }
@@ -118,14 +119,8 @@ if claims.ExpiresAt < time.Now().UTC().Unix() {
 
 You now know the username of the authenticated user!
 
-```
+```go
 username := claims.Username
 ```
 
 For full examples take a look at the package's [tests](https://github.com/dgrijalva/jwt-go/blob/master/example_test.go). Let me know if I missed anything by hitting me up on [Twitter](https://twitter.com/wagslane)!
-
-## Related Reading
-
-- [Building a Music/Video Streaming Server in Go – Using HLS](https://qvault.io/2019/12/03/building-a-music-video-streaming-app-in-go-using-hls/)
-- [Purity in my Programming Please](https://qvault.io/2019/10/30/purity-in-my-programming-please/)
-- [How to: Global Constant Maps and Slices in Go](https://qvault.io/2019/10/21/how-to-global-constant-maps-and-slices-in-go/)

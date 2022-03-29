@@ -1,5 +1,6 @@
 ---
 title: "HLS Video Streaming with Node.JS - A Tutorial"
+author: Lane Wagner
 date: "2020-07-28"
 categories: 
   - "javascript"
@@ -23,13 +24,13 @@ Let's format some media.
 
 Install [FFmpeg](https://www.ffmpeg.org/). If you are on a Mac:
 
-```
+```bash
 brew install ffmpeg
 ```
 
 Navigate to the directory of the mp4 file and run FFMPEG:
 
-```
+```bash
 ffmpeg -i sample-mp4-file.mp4 -profile:v baseline -level 3.0 -s 640x360 -start_number 0 -hls_time 10 -hls_list_size 0 -f hls index.m3u8
 ```
 
@@ -64,7 +65,7 @@ Let's setup a project with the following folder structure:
 
 `main.js` should contain the following code:
 
-```
+```js
 var http = require('http');
 var fs = require('fs');
 
@@ -100,15 +101,10 @@ console.log(`Server running at http://127.0.0.1:${port}/`);
 
 Run your server:
 
-```
+```bash
 node main.js
 ```
 
 Then use [this public tool](https://hls-js-dev.netlify.app/demo/) to make stream your video to the browser.
 
 All done! You can now stream video with Node.JS. The server we built is a very simple example, but you can serve these files in any way you want as long as its over HTTP. The thing that matters is that each path in `index.m3u8` is consistent with the actual URLs of each data file.
-
-## Related Articles from Qvault
-
-- [How To Build JWT’s in Go](https://qvault.io/2020/02/20/how-to-build-jwts-in-go-golang/)
-- [HLS Server in Go](https://qvault.io/2019/12/03/golang-video-stream-server/)

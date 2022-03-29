@@ -1,5 +1,6 @@
 ---
 title: "Variable Shadowing In Rust - \"Let\" Is Immutable But Not Constant"
+author: Lane Wagner
 date: "2020-05-13"
 categories: 
   - "rust"
@@ -13,7 +14,7 @@ Getting started with Rust can be daunting. Rust is well-known for being a [safe]
 
 The simplest way to create a new variable in Rust is by using the "let" keyword:
 
-```
+```rust
 fn main() {
     let my_num = 5;
     println!("{}", my_num);
@@ -22,7 +23,7 @@ fn main() {
 
 [let](https://doc.rust-lang.org/std/keyword.let.html) introduces a new variable into the current scope. By default, new variables are immutable, which means they can't be reassigned. For example:
 
-```
+```rust
 fn main() {
     let my_num = 5;
     my_num = 6;
@@ -36,7 +37,7 @@ which fails to compile with the error: `cannot assign twice to immutable variabl
 
 As we can see above, Rust's immutability offered by the _let_ keyword allows the compiler to ensure that a given variable can't be changed... kind of. The following does **not** fail to compile:
 
-```
+```rust
 fn main() {
     let my_num = 5;
     let my_num = 6;
@@ -48,7 +49,7 @@ We **are** **allowed** to declare a new [variable with the same name](https://qv
 
 Variable shadowing also works in an inner scope. In the outer scope it is in a way the original variable remains "unshadowed":
 
-```
+```rust
 fn main() {
     let my_num = 5;
     // start new scope
@@ -69,7 +70,7 @@ prints:
 
 Notice how the pointer to the new variable is completely different:
 
-```
+```rust
 fn main() {
     let my_num = 5;
     println!("my_num pointer address: {:p}", &my_num);
@@ -93,7 +94,7 @@ tl;dr: Even though variables declared with "let" are immutable, the name of the 
 
 Variables declared with "let" can optionally be declared mutable using the "[mut](https://doc.rust-lang.org/stable/rust-by-example/scope/borrow/mut.html)" keyword:
 
-```
+```rust
 fn main() {
     let mut my_num = 5;
     my_num = 6;
@@ -105,7 +106,7 @@ Prints **6**
 
 Mutable variables are just that - mutable. The value changes but the underlying address in memory is the same:
 
-```
+```rust
 fn main() {
     let mut my_num = 5;
     println!("my_num pointer address: {:p}", &my_num);
@@ -122,9 +123,3 @@ my_num pointer address: 0x7ffee5d6e6fc
 ```
 
 There are other interesting keywords to explore as well like [const](https://doc.rust-lang.org/std/keyword.const.html) and [static](https://doc.rust-lang.org/1.29.2/book/first-edition/const-and-static.html), but we'll save those for another article.
-
-**Want to learn more about Rust?**
-
-- [Loops in Rust; Breaking From Nested Loops](https://qvault.io/2020/05/14/loops-in-rust-breaking-from-nested-loops/)
-- [Concurrency In Rust; Can It Stack Up Against Go’s Goroutines?](https://qvault.io/2020/05/11/concurrency-in-rust-can-it-stack-up-against-gos-goroutines/)
-- [Rust vs Go – Which Is More Popular?](https://qvault.io/2020/05/06/rust-vs-go-which-is-more-popular/)

@@ -1,5 +1,6 @@
 ---
 title: "Top 15 Golang Interview Questions [Updated 2021]"
+author: Lane Wagner
 date: "2020-08-31"
 categories: 
   - "golang"
@@ -9,21 +10,21 @@ tags:
 
 Let's take a look at some good technical questions to be familiar with, whether you are the interviewer or the interviewee.
 
-1. [What's the difference between a goroutine and an operating system thread?](#goroutine-thread)
-2. [Can constants be computed in Go?](#computed-constants)
-3. [What does the Go ecosystem use for package and dependency management?](#package-dep)
-4. [How would you succinctly swap the values of two variables in Go?](#swap)
-5. [Do you have any preferences for error handling methodologies in Go?](#error-handling)
-6. [What is a pointer and when would you use it?](#pointer)
-7. [Describe the difference between sync.Mutex and sync.RWMutex?](#mutexes)
-8. [Consider the following code. What will be the value of s1?](#code-practice)
-9. [Are channels and maps safe for concurrent access?](#concurrent-access)
-10. [How would you sort a slice of custom structs?](#sort-structs)
-11. [Does Go support generic programming?](#generics)
-12. [Is `ni`l only valid on pointer types?](#nil-pointer)
-13. [Does Go provide support for OOP via classes?](#oop-classes)
-14. [How do you export functions from a package?](#export-func)
-15. [What do you like about Go?](#like-go)
+- [1\. What's the difference between a goroutine and an operating system thread?](#1-whats-the-difference-between-a-goroutine-and-an-operating-system-thread)
+- [2\. Can constants be computed in Go?](#2-can-constants-be-computed-in-go)
+- [3\. What does the Go ecosystem use for package and dependency management?](#3-what-does-the-go-ecosystem-use-for-package-and-dependency-management)
+- [4\. How would you succinctly swap the values of two variables in Go?](#4-how-would-you-succinctly-swap-the-values-of-two-variables-in-go)
+- [5\. Do you have any preferences for error handling methodologies in Go?](#5-do-you-have-any-preferences-for-error-handling-methodologies-in-go)
+- [6\. What is a pointer and when would you use it?](#6-what-is-a-pointer-and-when-would-you-use-it)
+- [7\. Describe the difference between sync.Mutex and [sync.RWMutex](https://golang.org/pkg/sync/#RWMutex)](#7-describe-the-difference-between-syncmutex-and-syncrwmutex)
+- [8\. Consider the following code. What will be the value of s1?](#8-consider-the-following-code-what-will-be-the-value-of-s1)
+- [9\. Are channels and maps safe for concurrent access?](#9-are-channels-and-maps-safe-for-concurrent-access)
+- [10\. How would you sort a slice of custom structs?](#10-how-would-you-sort-a-slice-of-custom-structs)
+- [11\. Does Go support generic programming?](#11-does-go-support-generic-programming)
+- [12\. Is `ni`l only valid on pointer types?](#12-is-nil-only-valid-on-pointer-types)
+- [13\. Does Go provide support for OOP via classes?](#13-does-go-provide-support-for-oop-via-classes)
+- [14\. How do you export functions from a package?](#14-how-do-you-export-functions-from-a-package)
+- [15\. What do you like about Go?](#15-what-do-you-like-about-go)
 
 ## 1\. What's the difference between a goroutine and an operating system thread?
 
@@ -39,7 +40,7 @@ Let's take a look at some good technical questions to be familiar with, whether 
 
 Constants can **not** be computed at runtime, their value must be known at compile time. That said, constants can be computed at compile-time, typically as a derivative of other constants. For example:
 
-```
+```go
 const hours = 7643
 
 const minutes = hours * 60
@@ -53,7 +54,7 @@ Go doesn't use a package manager like NPM or Cargo. The Go toolchain provides co
 
 ## 4\. How would you succinctly swap the values of two variables in Go?
 
-```
+```go
 var1, var2 = var2, var1
 ```
 
@@ -61,7 +62,7 @@ var1, var2 = var2, var1
 
 Errors in Go are an interface type, where any type that implements the single `Error()` method can be considered an error:
 
-```
+```go
 type error interface {
     Error() string
 }
@@ -92,7 +93,7 @@ A [RWMutex (read/write)](https://qvault.io/2020/03/19/golang-mutexes-what-is-rwm
 
 ## 8\. Consider the following code. What will be the value of s1?
 
-```
+```go
 primes := [6]int{2, 3, 5, 7, 11, 13}
 s1 := primes[1:4]
 ```
@@ -109,7 +110,7 @@ Channels are safe for concurrent access, for this reason they have blocking oper
 
 I would build a new type that represents a slice of that struct type. For example:
 
-```
+```go
 type fruitSlice[]fruit
 
 type car struct {
@@ -120,7 +121,7 @@ type car struct {
 
 Then I would fulfill the standard library's [sort.Interface](https://golang.org/pkg/sort/#Interface):
 
-```
+```go
 type Interface interface {
     Len() int
     Less(i, j int) bool
@@ -152,7 +153,7 @@ No, Go isn't an object-oriented programming language. Interfaces are the way we 
 
 Exported function in Go just need to be capitalized.
 
-```
+```go
 func DoWork(){
     // this function is usable outside this package
 }

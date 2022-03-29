@@ -1,5 +1,6 @@
 ---
 title: "What Is Entropy In Cryptography?"
+author: Lane Wagner
 date: "2020-09-28"
 categories: 
   - "cryptography"
@@ -55,10 +56,3 @@ A Linux machine that has sufficient entropy in its pool will usually contain 409
 ```
 cat /proc/sys/kernel/random/entropy_avail
 ```
-
-## Related Reading
-
-- [(Very) Basic Intro to Lattices in Cryptography](https://qvault.io/2020/01/23/very-basic-intro-to-lattices-in-cryptography/)
-- [Why is Exclusive Or (XOR) Important in Cryptography?](https://qvault.io/2020/01/18/why-is-exclusive-or-xor-important-in-cryptography/)
-- [AES-256 Cipher – Python Cryptography Examples](https://qvault.io/2020/01/18/why-is-exclusive-or-xor-important-in-cryptography/)
-- [Comprehensive Guide to Learning Computer Science Online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/)

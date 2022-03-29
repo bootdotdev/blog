@@ -1,5 +1,6 @@
 ---
 title: "How to Use Mutexes in Go"
+author: Lane Wagner
 date: "2020-03-19"
 categories: 
   - "golang"
@@ -21,7 +22,7 @@ Mutex is short for _mutual exclusion_. Mutexes keep track of which thread has ac
 
 Let's see some examples! Consider the following program:
 
-```
+```go
 package main
 
 import (
@@ -67,7 +68,7 @@ In Go, it isn't safe to read from and write to the same map at the same time.
 
 ## Mutexes to the rescue
 
-```
+```go
 package main
 
 import (
@@ -117,7 +118,7 @@ In the reading loop we `Lock()` before iterating over the map, and likewise `Unl
 
 Maps are safe for concurrent read access, just not concurrent read/write or write/write access. A read/write mutex allows all readers to access the map at the same time, but a writer will lock out everyone else.
 
-```
+```go
 package main
 
 import (
@@ -163,9 +164,3 @@ func readLoop(m map[int]int, mux *sync.RWMutex) {
 ```
 
 By using a [sync.RWMutex](https://golang.org/pkg/sync/#RWMutex), our program becomes more efficient. We can have as many readers as we want to access our data, but at the same time can assure that writers have exclusive access.
-
-## Related Reading
-
-- [Concurrency In Rust; Can It Stack Up Against Go’s Goroutines?](https://qvault.io/2020/05/11/concurrency-in-rust-can-it-stack-up-against-gos-goroutines/)
-- [Rust vs Go – Which Is More Popular?](https://qvault.io/2020/05/06/rust-vs-go-which-is-more-popular/)
-- [Range Over Ticker In Go With Immediate First Tick](https://qvault.io/2020/04/30/range-over-ticker-in-go-with-immediate-first-tick/)

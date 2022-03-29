@@ -1,5 +1,6 @@
 ---
 title: "Don't Go To Casting Hell - Use Default Native Types in Go"
+author: Lane Wagner
 date: "2020-05-21"
 categories: 
   - "clean-code"
@@ -60,13 +61,13 @@ There is a good reason that the majority of code uses these values. In all of th
 
 The defaults above were chosen in the standard library (and by the vast majority of Gophers) because they are the common-sense, works-most-of-the-time, big-enough-range values. Exposing a [rounding function](https://golang.org/pkg/math/#Round) for _float32_ simply won't be as useful as _float64_. It can't be used by as many values.
 
-```
+```go
 func Round(x float64) float64
 ```
 
 If you have a float32 that you want to round, you first need to cast it:
 
-```
+```go
 math.Round(float64(myFloat32))
 ```
 
@@ -85,9 +86,3 @@ A few good examples of this are the packages I maintain, [go-tinydate](https://g
 ## Use Defaults
 
 Make your life and the lives of your coworkers easy. Use the defaults unless you have a very compelling reason not to.
-
-## Related Reading
-
-- [Lint on Save With VS Code Official Golang Extension](https://qvault.io/2020/06/30/lint-on-save-with-vs-code-official-golang-extension/)
-- [Building a Music/Video Streaming Server in Go – Using HLS](https://qvault.io/2019/12/03/building-a-music-video-streaming-app-in-go-using-hls/)
-- [The Proper Use of Pointers in Go (golang)](https://qvault.io/2019/09/25/the-proper-use-of-pointers-in-go-golang/)

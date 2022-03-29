@@ -1,5 +1,6 @@
 ---
 title: "BitBanged SPI in Go, An Explanation"
+author: Lane Wagner
 date: "2020-01-09"
 categories: 
   - "golang"
@@ -49,7 +50,7 @@ First things first, I needed a great GPIO package. For this project, we built th
 
 The code below should build and run. Please keep in mind that if you are going to use this code, you will need to change the pin numbers to match the pins you used to connect your GPIOs to your ADC.
 
-```
+```go
 package main
 
 import (
@@ -153,9 +154,3 @@ func main() {
 ```
 
 Take a look at the actual SPI repository: [https://github.com/lane-c-wagner/spi](https://github.com/lane-c-wagner/spi)
-
-## Related Reading
-
-- [How to: Global Constant Maps and Slices in Go](https://qvault.io/2019/10/21/how-to-global-constant-maps-and-slices-in-go/)
-- [Constants in Go vs Javascript, and When to Use Them](https://qvault.io/2019/10/14/constants-in-go-vs-javascript-and-when-to-use-them/)
-- [The Proper Use of Pointers in Go (Golang)](https://qvault.io/2019/09/25/the-proper-use-of-pointers-in-go-golang/)

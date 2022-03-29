@@ -1,5 +1,6 @@
 ---
 title: "An Overview of Qvault's Full-Stack Architecture"
+author: Lane Wagner
 date: "2022-01-10"
 categories: 
   - "misc"

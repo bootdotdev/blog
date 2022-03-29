@@ -1,5 +1,6 @@
 ---
 title: "Practical Patterns for Technical Writing"
+author: Ben Barten
 date: "2020-09-22"
 categories: 
   - "clean-code"

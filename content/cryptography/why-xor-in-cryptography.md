@@ -1,5 +1,6 @@
 ---
 title: "Why is Exclusive Or (XOR) Important in Cryptography?"
+author: Lane Wagner
 date: "2020-01-18"
 categories: 
   - "cryptography"
@@ -74,9 +75,3 @@ And, as we demonstrated in our example:
 ## Is XOR used in production ciphers?
 
 The simple XOR cipher isn't used in production because it is impractical to use keys that are the same length as the message body. However, the XOR is still extremely useful. In fact, it is used in almost all symmetric encryption algorithms. XOR is the primary operation in the ["add round key" step of AES-256](https://qvault.io/2020/01/02/very-basic-intro-to-aes-256-cipher/). It is also used in the [DES cipher.](http://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm)
-
-## Related Work
-
-- [HMAC and MAC Explained Simply – Building Secure Auth With JWTs](https://qvault.io/2019/12/12/hmac-and-mac-explained-simply-building-secure-auth-with-jwts/)
-- [Cryptology, Cryptography, and Cryptanalysis – Get your Vocabulary Straight!](https://qvault.io/2019/12/16/cryptology-cryptography-and-cryptanalysis-get-your-vocabulary-straight/)
-- [(Very) Basic Shamir’s Secret Sharing](https://qvault.io/2019/12/26/very-basic-shamirs-secret-sharing/)

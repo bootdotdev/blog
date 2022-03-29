@@ -1,5 +1,6 @@
 ---
 title: "Backend Developers are UX Designers Too"
+author: Lane Wagner
 date: "2021-04-12"
 categories: 
   - "clean-code"
@@ -35,7 +36,7 @@ It mostly comes down to one thing, **clean APIs**. As backend developers, our us
 
 Let's take a look at an example of a poorly written REST API to demonstrate what I mean.
 
-```
+```md
 # Users API - A list of endpoints
 
 ## Create new user

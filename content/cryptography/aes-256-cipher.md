@@ -1,5 +1,6 @@
 ---
 title: "Intro to The AES-256 Cipher"
+author: Lane Wagner
 date: "2020-01-02"
 categories: 
   - "cryptography"

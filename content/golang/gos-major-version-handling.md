@@ -1,5 +1,6 @@
 ---
 title: "Go's Major Versioning Sucks - From a Fanboy"
+author: Lane Wagner
 date: "2020-09-15"
 categories: 
   - "golang"
@@ -13,7 +14,7 @@ Go modules, and the associated commands `go mod` and `go get` can be thought of 
 
 One of the most common operations is to update a dependency in an existing module. For example:
 
-```
+```bash
 # update all dependencies
 go get -u ./...
 
@@ -103,9 +104,3 @@ There is an [open issue on Github](https://github.com/golang/go/issues/40323) th
 Go still has the best toolchain and ecosystem. NPM and PIP can suck it.
 
 If you disagree, @ me on Twitter.
-
-## Related Reading
-
-- [Optimize for Simplicity First](https://qvault.io/2020/08/15/optimize-for-simplicity-first/)
-- [Constant Maps and Slices in Go](https://qvault.io/2019/10/21/golang-constant-maps-slices/)
-- [Saving Memory by Re-ordering Go Structs](https://qvault.io/2020/08/07/saving-a-third-of-our-memory-by-re-ordering-go-struct-fields/)

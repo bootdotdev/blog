@@ -1,5 +1,6 @@
 ---
 title: "Search and Replace Strings in Golang - Top 5 Examples"
+author: Lane Wagner
 date: "2021-04-20"
 categories: 
   - "golang"
@@ -9,7 +10,7 @@ Go has a powerful standard library that makes string manipulation easy right out
 
 ## strings.Replace() signature
 
-```
+```go
 func Replace(s, old, new string, n int) string
 ```
 
@@ -24,7 +25,7 @@ Notes
 
 Let's say you have some comma-separated-values, CSVs. Perhaps you want to separate each word with a _space_ instead of a _comma_. This can be useful if you need to make your delimiters consistent so you can later [split the string into a slice](https://qvault.io/golang/split-strings-golang/).
 
-```
+```go
 package main
 
 import (
@@ -42,7 +43,7 @@ func main() {
 
 It can be useful to only print the replace the first `n` instances of a word. For example, let's say we had some text containing dialogue, like in a movie script. If you want to change the delimiter between the speaker and there lines to be a dash instead of a colon, but _don't_ want to replace any colons in the dialogue, you can set `n=1`.
 
-```
+```go
 package main
 
 import (
@@ -60,7 +61,7 @@ func main() {
 
 Sometimes you just want to strip out specific characters. For example, you may want to remove all periods. To do so, you can simply replace all periods with an empty string.
 
-```
+```go
 package main
 
 import (
@@ -78,7 +79,7 @@ func main() {
 
 If you need to perform the same replacements on many different documents, it can make sense to initialize a [Replacer](https://golang.org/pkg/strings/#Replacer), which is much faster when used repeatedly. It's faster is because it builds a [trie structure](https://en.wikipedia.org/wiki/Trie) under the hood that it keeps in memory, and that structure can be used repeatedly.
 
-```
+```go
 package main
 
 import (
@@ -100,7 +101,7 @@ func main() {
 
 [NewReplacer()](https://golang.org/pkg/strings/#NewReplacer) takes a list of old-new string pairs, so you can use it to perform many different replacement operations.
 
-```
+```go
 func NewReplacer(oldnew ...string) *Replacer
 ```
 
@@ -108,11 +109,11 @@ func NewReplacer(oldnew ...string) *Replacer
 
 We're shifting packages entirely now, and will be using the standard library's [regexp](https://golang.org/pkg/regexp) package. This package exposes a [ReplaceAllString()](https://golang.org/pkg/regexp/#Regexp.ReplaceAllString) function that lets us do more complicated replacements using a standard regex. This may be useful if you need to do some dynamic replacements, or are fluent in regular expressions.
 
-```
+```go
 func (re *Regexp) ReplaceAllString(src, repl string) string
 ```
 
-```
+```go
 package main
 
 import (

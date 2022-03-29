@@ -1,5 +1,6 @@
 ---
 title: "The Pros and Cons of DRY Code"
+author: Lane Wagner
 date: "2021-01-25"
 categories: 
   - "clean-code"
@@ -19,7 +20,7 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself):
 
 While this definition is fairly exhaustive, what I've found people _usually_ mean when they say "DRY code" is that when you find yourself repeating pieces of logic you should instead create a reusable function, interface, class, etc, so that you only have to maintain one copy of it. For example, take the following API calls:
 
-```
+```javascript
 export async function updateUserHandle(handle) {
   if (!isLoggedIn()){
     // redirect to login screen
@@ -71,7 +72,7 @@ export async function updateUserInterests(interestUUIDs) {
 
 You may have noticed, but the beginning of those two API calls are nearly identical - they handle some basic logic that checks to see if the user is properly authenticated and sends that authentication in the request. This might not be a big deal with just two API calls, but what if we have 30? Or maybe 1000? Instead, we can DRY up this code by writing a simple `fetchWithAuth` function that will centralize all the client's authentication logic in a single place:
 
-```
+```js
 async function fetchWithAuth(url, params){
   if (!isLoggedIn()){
     // redirect to login screen
@@ -173,7 +174,7 @@ Pure functions are easy to write good unit tests for - if your abstraction is ea
 
 Take a look at the following example:
 
-```
+```js
 function getArea(height, width){
   return height * width
 }
@@ -181,7 +182,7 @@ function getArea(height, width){
 
 This is a great function! It's very simple, and obviously can be used to calculate the area of any shape. Here's a bad example:
 
-```
+```js
 function getArea(height, width, isTriangle){
   if (isTriangle){
     return (height * width) / 2
@@ -192,7 +193,7 @@ function getArea(height, width, isTriangle){
 
 Special cases are bad news - I'm trying to be too abstract. Instead, I should just create two separate functions:
 
-```
+```js
 function getTriangleArea(height, width){
   return (height * width) / 2
 }

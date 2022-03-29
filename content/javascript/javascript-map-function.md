@@ -1,5 +1,6 @@
 ---
 title: "JavaScript Map Function Explained - A Deep Dive"
+author: Lane Wagner
 date: "2020-01-12"
 categories: 
   - "javascript"
@@ -11,7 +12,7 @@ The built-in JavaScript `map` function returns a new array, where each element i
 
 ### Example Usage
 
-```
+```js
 let newArray = oldArray.map(function callback(currentValue, index, array) {
     // return element for new_array
 }, thisArg)
@@ -21,7 +22,7 @@ The Array object's built-in `map` method takes a function definition as its firs
 
 For instance, a simple example would look like:
 
-```
+```js
 const oldArray = [1, 4, 9, 16];
 
 function double(val, index, arr){
@@ -39,7 +40,7 @@ There is also an optional second parameter to the map function that we will go o
 
 In the above example, in order to double each value in the original array, we only used the `val` argument. It's _extremely_ common to only care about the `val` argument in the map function. When that's all we need we can simplify the syntax, and even throw in some es6 arrow functions:
 
-```
+```js
 const oldArray = [1, 4, 9, 16];
 
 const double = arr => arr * 2;
@@ -53,7 +54,7 @@ By only specifying one argument in our function definition, the interpreter will
 
 We can also use an anonymous function, which means defining the function in the map's input instead of giving it a name. This keeps our code clean and readable (assuming we don't need to reuse the callback function elsewhere)
 
-```
+```js
 const oldArray = [1, 4, 9, 16];
 
 const newArray = oldArray.map(arr => arr * 2);
@@ -65,13 +66,13 @@ const newArray = oldArray.map(arr => arr * 2);
 
 If you remember from earlier, the callback function definition has a second parameter, the index:
 
-```
+```js
 function callback(currentValue, index, array)
 ```
 
 By using the index parameter we can do some more interesting calculations based on the position in the array:
 
-```
+```js
 const oldArray = [1, 4, 9, 16];
 
 const newArray = oldArray.map((val, index) => {
@@ -85,7 +86,7 @@ const newArray = oldArray.map((val, index) => {
 
 The third and final parameter made available to our callback is a copy of the original array. This can be useful if we care about more than just the value or index that we are currently operating on. We can look forward or backward in the array and use other elements as part of our mapping:
 
-```
+```js
 const oldArray = [16, 9, 4, 1];
 
 const newArray = oldArray.map((val, index, arr) => {
@@ -100,13 +101,13 @@ const newArray = oldArray.map((val, index, arr) => {
 
 The map function has an often-overlooked optional second parameter. We can provide an object that will become 'this' within the scope of our callback.
 
-```
+```js
 let newArray = oldArray.map(callbackFunction, thisArg)
 ```
 
 For example, maybe we have a callback that is used in other places in our code, and we want to reuse it, but we just need to change the environment it operates in:
 
-```
+```js
 const oldArray = [1, 4, 9, 16];
 
 function ourFunc(val, index, arr){
@@ -119,10 +120,3 @@ const newArray = oldArray.map(ourFunc, {windowSize: 10});
 ```
 
 Now we can reuse that callback, but change its parameters by modifying 'this'.
-
-## Related Reading
-
-- [Singletons in ES6 – The Good, The Bad, The Ugly](https://qvault.io/2019/11/04/singletons-in-es6-the-good-the-bad-the-ugly/)
-- [Constants in Go vs Javascript, and When to Use Them](https://qvault.io/2019/10/14/constants-in-go-vs-javascript-and-when-to-use-them/)
-- [JavaScript With Statement Explained - A Deep Dive](https://qvault.io/2020/01/15/javascript-with-statement-explained-a-deep-dive/)
-- [Thinking about Recursion: How to Recursively Traverse JSON Objects and the Filesystem](https://qvault.io/2019/09/22/thinking-about-recursion-how-to-recursively-traverse-json-objects-and-the-filesystem/)

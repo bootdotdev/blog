@@ -1,5 +1,6 @@
 ---
 title: "Bcrypt Step by Step"
+author: Lane Wagner
 date: "2020-08-24"
 categories: 
   - "cryptography"
@@ -56,7 +57,7 @@ A slow KDF like Bcrypt solves this problem.
 
 Bcrypt can be visualized with the following Go-like pseudo-code:
 
-```
+```go
 func bcrypt(cost int, salt [16]byte, password [72]byte) (hash string) {
 	// Initialize Blowfish state with expensive key setup algorithm
 	// This is the slow part of the algorithm
@@ -79,7 +80,7 @@ As you can see, Bcrypt depends heavily on the [Blowfish](https://en.wikipedia.or
 
 The `expensiveBlowfishSetup` function can be understood by following pseudo-code:
 
-```
+```go
 // pEighteenSubkeys: array of 18 subkeys
 // sFourSubBoxes: Four substitution boxes
 // Each S-Box is a 256-length array of uint32
@@ -112,7 +113,7 @@ func expensiveBlowfishSetup(cost int, salt [16]byte, password [72]byte) (pEighte
 
 `The expandKey function` is executed an exponentially increasing number of times depending on the value of the `cost` parameter. The `expandKey` function is explained by the following pseudo-code:
 
-```
+```go
 func expandKey(pEighteenSubkeys [18]uint32, sFourSubBoxes [4][256]uint32, salt [16]byte, password [72]byte) (
 	pEighteenSubkeys [18]uint32, sFourSubBoxes [4][256]uint32
 	) {

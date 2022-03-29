@@ -1,5 +1,6 @@
 ---
 title: "Go's WaitGroup vs JavaScript's PromiseAll"
+author: Lane Wagner
 date: "2020-06-04"
 categories: 
   - "golang"
@@ -12,7 +13,7 @@ In applications that are i/o heavy, it can get clunky to synchronously execute h
 
 Let's take a look at an example of synchronous\* JavaScript code:
 
-```
+```js
 const fetch = require('node-fetch')
 
 async function runSync() {
@@ -34,7 +35,7 @@ runSync()
 
 On order to speed this up, we want each network call to the server (using `fetch()`) to happen at the same time. Take a look:
 
-```
+```js
 const fetch = require('node-fetch')
 
 async function runAsync() {
@@ -59,7 +60,7 @@ runAsync()
 
 In Go, we have a similar concept, the standard [sync package's](https://golang.org/pkg/sync/) [WaitGroup](https://golang.org/pkg/sync/#WaitGroup) type. First however, let's take a look at how to synchronously fetch data over the wire:
 
-```
+```go
 package main
 
 import (
@@ -84,7 +85,7 @@ func getAndPrintData(url string) {
 
 As before, the problem here is that each network call is done in succession, wasting time. Let's use some goroutines, which we start by using the `go` keyword:
 
-```
+```go
 package main
 
 import (
@@ -111,7 +112,7 @@ If you run this code, you will see that nothing is printed and the program exits
 
 In order to make sure that we wait for all of our functions to complete, but to still allow them to execute at the same time, we use a `WaitGroup`.
 
-```
+```go
 package main
 
 import (
@@ -153,9 +154,3 @@ First, we create a `WaitGroup`, in our case, `wg`. Then we use the `Add()` funct
 In the main thread we use the _Wait()_ function to block the main thread until all of the goroutines have exited.
 
 WaitGroups in Go are very similar to PromiseAll in JavaScript and can be a useful tool when developing web client applications.
-
-## Related Articles
-
-- [Qvault Launches Golang Crash Course](https://qvault.io/2020/07/02/qvault-classroom-launches-golang-crash-course/)
-- [Rue vs Go - Which Is More Popular?](https://qvault.io/2020/05/06/rust-vs-go-which-is-more-popular/)
-- [JavaScript With Statement Explained - A Deep Dive](https://qvault.io/2020/01/15/javascript-with-statement-explained-a-deep-dive/)

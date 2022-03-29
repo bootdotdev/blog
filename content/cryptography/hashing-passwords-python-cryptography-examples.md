@@ -1,5 +1,6 @@
 ---
 title: "Hashing Passwords - Python Cryptography Examples"
+author: Lane Wagner
 date: "2020-01-29"
 categories: 
   - "cryptography"

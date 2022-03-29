@@ -1,5 +1,6 @@
 ---
 title: "Quantum Programming 101: Superdense Coding Tutorial"
+author: Macauley Coggins
 date: "2020-04-20"
 categories: 
   - "python"
@@ -42,7 +43,7 @@ Next q0 is sent and the receiver has to decode the qubit. This is done by applyi
 
 # Code
 
-```
+```py
 print('\n Superdense Coding')
 print('--------------------------\n')
 
@@ -145,9 +146,3 @@ After running the code you will see something like the following printed on the 
 InteresteWant to learn about Quantum Programming? Head over to [Quantum Computing UK](https://quantumcomputinguk.org/).
 
 For news on Quantum Computing head over to [The Quantum Daily](http://www.thequantumdaily.com/)
-
-## Related Reading
-
-- [Using Concurrent Subscribers – RabbitMQ in Python (pika)](https://qvault.io/2020/05/26/using-concurrent-subscribers-rabbitmq-in-python-pika/)
-- [Is AES-256 Quantum Resistant?](https://qvault.io/2019/07/09/is-aes-256-quantum-resistant/)
-- [Quantum Programming 101: Backend Monitor](https://qvault.io/2020/05/12/quantum-programming-101-backend-monitor/)

@@ -1,5 +1,6 @@
 ---
 title: "What's the Job Outlook for Computer Science Students?"
+author: JBradfield
 date: "2020-12-08"
 categories: 
   - "computer-science"

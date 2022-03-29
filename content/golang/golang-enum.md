@@ -1,5 +1,6 @@
 ---
 title: "How and Why to Write Enums in Go"
+author: Lane Wagner
 date: "2021-04-19"
 categories: 
   - "golang"
@@ -13,7 +14,7 @@ An enum (short for enumerator), is a set of named constant values. An enum is a 
 
 Within a constant declaration, the [iota](https://golang.org/ref/spec#Iota) keyword creates enums as successive untyped integer constants.
 
-```
+```go
 type BodyPart int
 
 const (
@@ -38,7 +39,7 @@ Besides the overlapping answer of the compiler not guaranteeing uniqueness, a st
 
 It's not just about the space though, especially with how powerful modern hardware is. Let's say you had some configuration variables such as the following.
 
-```
+```go
 const (
     statusSuccess = iota
     statusFailed
@@ -53,7 +54,7 @@ Pretend you need to change the name of `statusFailed` to `statusCancelled`, perh
 
 Sometimes, if you're a masochist, or perhaps a Lua developer, you'll want your list of enums to start with a value of `1` instead of the default `0`, you can do that easily in Go.
 
-```
+```go
 const (
     Head = iota + 1  // 1
     Shoulder            // 2
@@ -66,7 +67,7 @@ const (
 
 The `iota` keyword simply represents an incrementing integer constant that's one number larger each time it's used within the same `const` block. You can use it to do whatever math you like.
 
-```
+```go
 const (
     Head = iota + 1        // 0 + 1 = 1
     Shoulder = iota + 2  // 1 + 2 = 3
@@ -81,7 +82,7 @@ With that in mind, remember that just because you _can_ doesn't mean you _should
 
 If you want to skip a value just use the `_` character like you do to ignore return variables.
 
-```
+```go
 const (
     Head = iota // Head = 0
     _
@@ -94,7 +95,7 @@ const (
 
 Go doesn't have any built-in `string` functionality for enums, but it's pretty easy to implement a `String()` method. By using a `String()` method instead of setting the constants themselves as string types, you can get the same benefits of an enum with the "printability" of a string.
 
-```
+```go
 type BodyPart int
 
 const (

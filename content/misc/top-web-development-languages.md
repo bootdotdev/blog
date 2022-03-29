@@ -1,5 +1,6 @@
 ---
 title: "Top Web Development Programming Languages; A Comparison"
+author: Lane Wagner
 date: "2020-11-04"
 categories: 
   - "golang"
@@ -185,8 +186,3 @@ I personally am not a fan of PHP and consider it outdated. I largely agree with 
 PHP is used to build a variety of webpages including simple WordPress websites to way more complex web platforms like Facebook. Flexibility, nativity, multiple integration opportunities and high speed are among the main reasons companies like to use PHP in their web projects.
 
 As you can see from this list, there’s not necessarily any best web development languages or _best web pr_o_gramming languages_ for new developers to learn. It strictly depends on the needs and uniqueness of each project. However, being familiar with several of these basic and popular languages can help shape a more well-rounded and more successful development career.
-
-## Related Reading
-
-- [The 8 Most Popular Coding Languages of 2021](https://qvault.io/2021/01/04/popular-coding-languages-2021/)
-- [Top 4 Coding Languages for Beginners in 2020](https://qvault.io/2020/10/07/top-4-coding-languages-to-learn-for-beginners-2020/)

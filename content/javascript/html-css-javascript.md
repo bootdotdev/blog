@@ -1,5 +1,6 @@
 ---
 title: "HTML vs CSS vs JavaScript Explained"
+author: Jamie Dunmore
 date: "2021-09-27"
 categories: 
   - "misc"

@@ -1,5 +1,6 @@
 ---
 title: "(Very) Basic Intro to Lattices in Cryptography"
+author: Lane Wagner
 date: "2020-08-21"
 categories: 
   - "cryptography"
@@ -71,9 +72,3 @@ Simply put, the goal of SVP is for the attacker to find the shortest vector from
 How is it solved?
 
 Like RSA with classical computers, it is hard to find the shortest vector of a large lattice, especially if it exists in many dimensions. One such slow solution for approximating the shortest vector is [Babai](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Babai)'s algorithm, or [Nearest Plane Algorithm](https://cims.nyu.edu/~regev/teaching/lattices_fall_2004/ln/cvp.pdf), which you can read about in the links provided.
-
-## Related Articles
-
-- [(Very) Basic Intro to Hash Functions (SHA-256, MD-5, etc)](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc/)
-- [(Very) Basic Intro To Elliptic Curve Cryptography](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/)
-- [(Very) Basic Intro to Key Derivation Functions (Argon2, Scrypt, etc)](https://qvault.io/2019/12/30/very-basic-intro-to-key-derivation-functions-argon2-scrypt-etc/)

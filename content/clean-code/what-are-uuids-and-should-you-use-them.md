@@ -1,5 +1,6 @@
 ---
 title: "What are UUIDs, and should you use them?"
+author: Lane Wagner
 date: "2021-07-23"
 categories: 
   - "clean-code"
@@ -11,12 +12,6 @@ tags:
 A universally unique identifier (UUID) is a 128-bit format for creating IDs in code that has become popular in recent years, especially in relation to database keys. By using UUIDs, you ensure that your ID is not just unique in the context of a single database table or web application, but is truly unique in the universe. No other ID in existence should be the same as yours.
 
 It is important to note that while the probability that a UUID will collide with another is not _zero_, its _practically_ zero. The chances of collision are so astronomically low, worrying about it would be ridiculous. The total number of possible UUIDs is `2^128` or `340282366920938463463374607431768211456`.
-
-## UUID Generator Online
-
-Generate UUID!
-
-<script>function uuidv4() { return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) { var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8); return v.toString(16); }); } const button = document.getElementById('uuidButton'); const result = document.getElementById('uuidOut'); <div></div> const genUUID = () => { result.value = uuidv4(); } <div></div> button.addEventListener('click', genUUID);</script>
 
 ## Why use a UUID?
 

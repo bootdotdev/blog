@@ -1,5 +1,6 @@
 ---
 title: "The Nuances of Constants in Go; Go Isn't JavaScript"
+author: Lane Wagner
 date: "2020-10-22"
 categories: 
   - "clean-code"
@@ -43,14 +44,14 @@ In JavaScript, all a `const` does is ensure that the same [name](https://qvault.
 
 Constants in Go must be assigned _before_ the program runs. All constants are computed and saved when the program compiles using `go build`. Constants can rely on the value of other constants, but not on runtime calculations. For example:
 
-```
+```go
 const seconds = 120
 const minutes = seconds / 60
 ```
 
 Works because both values can be known _before_ the program runs. The following will not work:
 
-```
+```go
 func addMinutes(minutes int) {
 	const more = minutes + 60
 	return more
@@ -67,14 +68,14 @@ The Go compiler doesn't need to worry about a constant changing its value, so it
 
 Numeric constants can be much [larger and have much greater precision](https://blog.golang.org/constants#TOC_8.) than normal variables because they have [arbitrary-precision](https://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic#:~:text=In%20computer%20science%2C%20arbitrary%2Dprecision,memory%20of%20the%20host%20system.). When numeric constants are assigned to a variable they must be able to fit the size of the type they are being assigned to. Take a look at the following examples:
 
-```
+```go
 const large = 1e10000
 const E = 2.71828182845904523536028747135266249775724709369995957496696763
 ```
 
 The `large` number can't be printed, but we can still use it in a calculation:
 
-```
+```go
 fmt.Println(large) // won't compile
 
 small := (large / 1e9999) // works as expected
@@ -83,7 +84,7 @@ fmt.Println(small) // prints 10
 
 High precision floating point numbers like E can still be used but the high precision is lost when assigned to a `float64` or `float32`.
 
-```
+```go
 e := math.E
 fmt.Println(e)
 // prints 2.718281828459045
@@ -101,7 +102,7 @@ Constants in Go don't apply to the global variable rule, there is _nothing wrong
 
 ## Declare Multiple Constants as a Block
 
-```
+```go
 const (
 	pi = 3.14
 	timeout = 120 * time.Second
@@ -113,7 +114,7 @@ const (
 
 Numeric, boolean, and string types can all be made constant. This includes things like runes, floats, integers, and even custom types that are based on valid underlying types. For example:
 
-```
+```go
 type myString string
 
 const lane myString = "wagslane"
@@ -127,18 +128,18 @@ By contrast, in JavaScript, _anything_ can be made constant. JavaScript arrays c
 
 In Go, variables can have their typed inferred:
 
-```
+```go
 thisIsAString := "@wagslane"
 ```
 
 Constants, on the other hand, get an untyped flag
 
-```
+```go
 const unTypedString = "@wagslane"
 ```
 
 An untyped string behaves [mostly like a string](https://blog.golang.org/constants#TOC_4.). That is, its a string type, but doesn't have a Go value of type **string**. In order to give it the official Go type of string, it must be declared:
 
-```
+```go
 const typedString string = "@wagslane"
 ```

@@ -1,5 +1,6 @@
 ---
 title: "The Best Ways To Get a Programming Job with No Experience"
+author: Winston Wagner
 date: "2021-01-06"
 categories: 
   - "jobs"

@@ -1,5 +1,6 @@
 ---
 title: "The 8 Most Popular Coding Languages of 2021"
+author: Zulie Rane
 date: "2021-01-04"
 categories: 
   - "misc"

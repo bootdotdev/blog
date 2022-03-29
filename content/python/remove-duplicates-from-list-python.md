@@ -1,5 +1,6 @@
 ---
 title: "Removing Duplicates From a List in Python"
+author: Lane Wagner
 date: "2021-12-09"
 categories: 
   - "python"
@@ -11,7 +12,7 @@ Let's go over a few idiomatic ways to remove duplicates from lists in Python.
 
 This is the easiest algorithm to code, but because it requires creating a new list, also requires more memory and is a bit slower.
 
-```
+```py
 def remove_duplicates(original):
   deduped = []
   for item in original:
@@ -24,7 +25,7 @@ We take advantage of Python's [in keyword](https://www.w3schools.com/python/ref_
 
 ## Method #2 - Create a new list with syntactic sugar (less code, harder to understand)
 
-```
+```py
 def remove_duplicates(original):
   deduped = []
   [deduped.append(item) for item in original if item not in deduped]
@@ -37,7 +38,7 @@ This is the same exact code from a performance standpoint but only uses one line
 
 A `[set()](https://www.w3schools.com/python/python_sets.asp)` is a group of values that doesn't contain any duplicates. By casting a list into a set and back, you remove all duplicates. The main drawback here is that you'll lose your ordering.
 
-```
+```py
 def remove_duplicates(original):
   return list(set(original))
 ```
@@ -48,7 +49,7 @@ This method will be faster in most circumstances than the previous two because e
 
 By using the [collections](https://docs.python.org/3/library/collections.html) libraries' [OrderedDict](https://docs.python.org/3/library/collections.html#collections.OrderedDict) type, we can maintain the ordering of the list while maintaining the same Big-O that we had with a `set()`.
 
-```
+```py
 from collections import OrderedDict
 
 def remove_duplicates(original):

@@ -1,14 +1,16 @@
 {{ partial "header.html" . }}
-<div class="article-meta">
-    <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+<div class="article-meta mb-4">
+    <h1 class="text-3xl font-bold text-white mb-2">{{ .Title | markdownify }}</h1>
+
     {{ if .Params.author }}
-    <h2 class="text-lg font-normal">
+    <p class="text-sm text-gray-250">
         By {{ .Params.author }}
         {{ if (gt .Params.date 0) }}
         on {{ .Date.Format "Jan 02, 2006" }}
         {{ end }}
-    </h2>
+    </p>
     {{ end }}
+
 </div>
 
 <main>

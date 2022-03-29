@@ -1,5 +1,6 @@
 ---
 title: "Best Practices for Commenting Code"
+author: Lane Wagner
 date: "2020-10-29"
 categories: 
   - "clean-code"
@@ -13,7 +14,7 @@ I often hear that we need more and better comments in the code we write. In my e
 
 Incorrect documentation is worse than no documentation, and redundant documentation is worthless. Let's remove the chaff. Developers typically (and rightly) take the path of least resistance when trying to figure out what a piece of code is doing. When provided a function with a comment, many developers will read the comment instead of reading the code itself, especially if the function is long and complex. Let's take a look at this trivial example:
 
-```
+```go
 // replace changes all the commas in the text to colons
 func replace(s string) string {
 	strings.Replace(s, ",", " ", -1)
@@ -24,7 +25,7 @@ When another developer decides to use this function, they expect that commas wil
 
 The solution would be to give the function a [more descriptive name](https://qvault.io/clean-code/naming-variables/) and delete the comment entirely.
 
-```
+```go
 func replaceCommasWithSpaces(s string) string {
 	strings.Replace(s, ",", " ", -1)
 }
@@ -42,7 +43,7 @@ Redundancy is also quite simply a waste of time. Developers remain best-utilized
 
 As we try to weigh the necessity of adding a comment to code, we need to take into account that it's _more_ likely that a comment is needed if it exists at an architectural boundary. For example, when writing a package or library we don't want the users (other developers) of our code to have to worry about the internal workings. The function and class names along will well-written comments (or API docs as the case may be) should be all they need to understand how to use our APIs. The Go standard library has great examples of this:
 
-```
+```go
 // IndexRune returns the index of the first instance of the Unicode code point
 // r, or -1 if rune is not present in s.
 // If r is utf8.RuneError, it returns the first instance of any
@@ -70,7 +71,7 @@ func IndexRune(s string, r rune) int {
 
 Comments and documents that explain _why_ something is happening are quite important and don't apply to any of the previous criticisms I've made of comments. Comments that explain _how_ the code works are often redundant and lazy. For example,
 
-```
+```go
 func cleanInput(input string){
 	input = strings.ReplaceAll(input, "^", "-")
 	input = strings.ReplaceAll(input, "?", "_")
@@ -80,7 +81,7 @@ func cleanInput(input string){
 
 Here it is clear by reading the code that all instances of carets and question marks are being replaced by dashes and underscores... but why?
 
-```
+```go
 func cleanInput(input string){
 	// clean input so that it can be used in a regex
 	input = strings.ReplaceAll(input, "^", "-")

@@ -1,5 +1,6 @@
 ---
 title: "How Long Does It Take To Learn To Code?"
+author: Zulie Rane
 date: "2020-11-10"
 categories: 
   - "jobs"

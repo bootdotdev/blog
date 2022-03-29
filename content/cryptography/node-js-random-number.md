@@ -1,5 +1,6 @@
 ---
 title: "Secure Random Numbers in Node JS"
+author: Lane Wagner
 date: "2019-07-03"
 categories: 
   - "cryptography"

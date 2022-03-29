@@ -1,5 +1,6 @@
 ---
 title: "Build a Social Media Backend Server in our New Gopher Gang Track"
+author: Lane Wagner
 date: "2021-11-29"
 categories: 
   - "golang"

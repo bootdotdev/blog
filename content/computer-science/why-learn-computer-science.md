@@ -1,5 +1,6 @@
 ---
 title: "Why You Should Learn Computer Science"
+author: Lane Wagner
 date: "2019-10-16"
 categories: 
   - "computer-science"

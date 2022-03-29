@@ -1,5 +1,6 @@
 ---
 title: "Vue History Mode - Support Legacy Hash URLs"
+author: Lane Wagner
 date: "2020-07-15"
 categories: 
   - "javascript"
@@ -11,7 +12,7 @@ We have since moved to the newer [HTML5 History Mode](https://router.vuejs.org/g
 
 At the time of writing we have the following routes, you probably have something similar:
 
-```
+```js
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 import Courses from '../views/Courses.vue';
@@ -96,7 +97,7 @@ Our goal is to redirect all of our old hash based (#) routes to the new non-hash
 
 All we do is add the following to our router:
 
-```
+```js
 // Redirect if path begins with a hash (ignore hashes later in path)
 router.beforeEach((to, from, next) => {
   // Redirect if fullPath begins with a hash (ignore hashes later in path)
@@ -111,7 +112,7 @@ router.beforeEach((to, from, next) => {
 
 The full code:
 
-```
+```js
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 import Courses from '../views/Courses.vue';
@@ -200,8 +201,3 @@ router.beforeEach((to, from, next) => {
 
 export default router;
 ```
-
-## Related Articles
-
-- [How to Re-Render a Vue Route When Path Params Change](https://qvault.io/2020/07/07/how-to-rerender-a-vue-route-when-path-parameters-change/)
-- [How to Make a Custom Select Component in Vue](https://qvault.io/2019/09/09/how-to-make-a-custom-select-component-in-vue-js/)

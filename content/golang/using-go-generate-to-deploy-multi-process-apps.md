@@ -1,5 +1,6 @@
 ---
 title: "Using 'Go Generate' To Deploy Multi-Process Apps"
+author: Lane Wagner
 date: "2020-04-22"
 categories: 
   - "clean-code"
@@ -61,7 +62,7 @@ Here we have a **cmd** folder in the root, which then holds a directory for each
 
 In the above project structure, you may have noticed the gen.go file. Here is what it looks like:
 
-```
+```go
 package main
 
 //go:generate go build ./cmd/api
@@ -74,7 +75,7 @@ Now we can run **go generate** from the root of our project and both executables
 
 Have more steps in the build process? Go generate is quite flexible, lets build the production docker image as well (assuming we have a Dockerfile in the root of the project):
 
-```
+```go
 package main
 
 //go:generate go build ./cmd/api

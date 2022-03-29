@@ -1,5 +1,6 @@
 ---
 title: "How to Use Golang's Generics"
+author: Lane Wagner
 date: "2021-12-06"
 categories: 
   - "golang"
@@ -14,7 +15,7 @@ Generics in Go are just around the corner! This is one of the most eagerly-await
 
 Put simply, generics allow programmers to write behavior where the type can be specified later because the type isn't immediately relevant. This is an amazing feature because it permits writing abstract functions that drastically reduce code duplication. For example, the following generic function will split a slice in half, no matter what the types in the slice are.
 
-```
+```go
 func splitAnySlice[T any](s []T) ([]T, []T) {
     mid := len(s)/2
     return s[:mid], s[mid:]
@@ -25,7 +26,7 @@ Think about it, to split a slice into two halves, we don't really care about whe
 
 For example, we could call it with the following code.
 
-```
+```go
 func main() {
     firstInts, secondInts := splitAnySlice([]int{0, 1, 2, 3})
     fmt.Println(firstInts, secondInts)
@@ -83,7 +84,7 @@ According to [the propsal](https://go.googlesource.com/proposal/+/refs/heads/mas
 
 If you do need to know more about the generic types you're working on you can constrain them using interfaces. For example, maybe your function will work with any type that can represent itself as a string.
 
-```
+```go
 type stringer interface {
     String() string
 }
@@ -101,7 +102,7 @@ func concat[T stringer](vals []T) string {
 
 The `comparable` constraint is a predefined constraint as well, just like the `any` constraint. When using the comparable constraint instead of the `any` constraint, you can use the `!=` and `==` operators within your function logic.
 
-```
+```go
 func indexOf[T comparable](s []T, x T) (int, error) {
     for i, v := range s {
         if v == x {
@@ -124,7 +125,7 @@ func main() {
 
 Your interface definitions, which can later be used as constraints can take their own type parameters.
 
-```
+```go
 type vehicleUpgrader[C car, T truck] interface {
     Upgrade(C) T
 }
@@ -134,7 +135,7 @@ type vehicleUpgrader[C car, T truck] interface {
 
 From [the proposal](https://go.googlesource.com/proposal/+/refs/heads/master/design/43651-type-parameters.md#operations-based-on-type-sets), we can simply list a bunch of types to get a new interface/constraint.
 
-```
+```go
 // Ordered is a type constraint that matches any ordered type.
 // An ordered type is one that supports the <, <=, >, and >= operators.
 type Ordered interface {
@@ -149,7 +150,7 @@ type Ordered interface {
 
 We can also mix up parameterized declarations and type lists to get new interfaces.
 
-```
+```go
 type ComparableStringer interface {
     comparable
     String() string
@@ -158,7 +159,7 @@ type ComparableStringer interface {
 
 ### Self referential
 
-```
+```go
 Cloneable interface {
     Clone() Cloneable
 }
@@ -168,7 +169,7 @@ Cloneable interface {
 
 So we know that we can write functions that use generic types, but what if we want to create a custom type that can contain generic types? For example, a slice of order-able objects. The new proposal makes this possible.
 
-```
+```go
 type comparableSlice[T comparable] []T
 
 func allEqual[T comparable](s comparableSlice[T]) bool {
@@ -198,7 +199,7 @@ func main() {
 
 The `var name T` syntax is a simple way to generate the zero value of a generic type in Go. This is especially useful considering idiomatic Go's consistent use of [guard clauses](https://qvault.io/clean-code/guard-clauses).
 
-```
+```go
 func returnZero[T any](s ...T) T {
     var zero T
     return zero
@@ -218,7 +219,7 @@ func main() {
 
 ### No switching on a generic's underlying type
 
-```
+```go
 // DOES NOT WORK
 func is64Bit[T Float](v T) T {
     switch (interface{})(v).(type) {

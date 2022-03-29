@@ -1,5 +1,6 @@
 ---
 title: "How to Break From Nested Loops in Rust"
+author: Lane Wagner
 date: "2020-05-14"
 categories: 
   - "rust"
@@ -9,7 +10,7 @@ Loops in Rust aren't the same as standard C-style languages. The syntax is diffe
 
 ## Standard For-Loop
 
-```
+```rust
 fn main() {
     for x in 0..10 {
         println!("{}", x);
@@ -44,7 +45,7 @@ for var in iterator {
 
 In my opinion, all languages should move to a single syntax with for-loops based on iterators. The simplicity makes Rust's loops easy to read, while the ability to create custom [iterators](https://doc.rust-lang.org/stable/rust-by-example/trait/iter.html) makes it more powerful than even more verbose formats like Go's:
 
-```
+```go
 for i := 0; i < 10; i++ {
 	fmt.Println(i)
 }
@@ -54,7 +55,7 @@ Rust's for-loop doesn't specify what happens after each iteration (i++) or what 
 
 ## Continue and Break
 
-```
+```rust
 for x in 0..10 {
     if x > 5 && x < 7 {
         continue
@@ -79,7 +80,7 @@ The `continue` keyword works in a familiar manner. In this example when `x > 5 A
 
 The `break` keyword is also familiar:
 
-```
+```rust
 for x in 0..10 {
     if x > 5{
         break
@@ -103,7 +104,7 @@ which prints:
 
 Nested loops can get tricky in a lot of languages. What if I want to continue through an outer loop when a condition within an inner loop occurs? We can do the following:
 
-```
+```rust
 'outer: for x in 0..5 {
     for y in 0..5 {
         if y > 2{
@@ -123,9 +124,3 @@ x: 0, y: 2
 ```
 
 By using the label _'outer_ we are able to control explicitly which loop is broken. The default would have been to just break from the inner loop. The same labeling system works with the _continue_ keyword as well.
-
-## Related Reading
-
-- [Rust vs Go – Which Is More Popular?](https://qvault.io/2020/05/06/rust-vs-go-which-is-more-popular/)
-- [(Very) Basic Intro To Elliptic Curve Cryptography](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/)
-- [Building a Music/Video Streaming Server in Go – Using HLS](https://qvault.io/2019/12/03/building-a-music-video-streaming-app-in-go-using-hls/)

@@ -1,5 +1,6 @@
 ---
 title: "How to Make a Simple Vue Custom Select Component"
+author: Lane Wagner
 date: "2020-09-25"
 categories: 
   - "javascript"
@@ -13,7 +14,7 @@ Creating a custom select tag with its own styling is notoriously difficult. Some
 
 ## The HTML
 
-```
+```html
 <template>
   <div class="custom-select" :tabindex="tabindex" @blur="open = false">
     <div class="selected" :class="{ open: open }" @click="open = !open">
@@ -43,7 +44,7 @@ The following is important to note:
 
 ## The JavaScript
 
-```
+```js
 <script>
 export default {
   props: {
@@ -86,7 +87,7 @@ Important things to note about the JavaScript:
 
 ## The CSS
 
-```
+```html
 <style scoped>
 
 .custom-select {
@@ -160,12 +161,3 @@ This CSS is just an example, it's what we use in the [Qvault](https://qvault.io)
 If you put the three sections together in the same file, you will be left with a well-encapsulated custom select single file component! Copying and pasting code gets a bad rep, it's usually much better than importing libraries, especially for visual components. When you do "steal" code from somewhere, always be sure you understand it!
 
 Try to practice good engineering and [computer science principles](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/) by encapsulating your components and building well-thought-out APIs. The [jobs you will qualify for](https://qvault.io/2020/12/09/highest-paying-computer-science-jobs/) will be that much better, and you'll write better code as a result!
-
-## How to make other custom Vue components
-
-Before we move on, if you are looking for our other custom Vue.js components tutorials you can find them here:
-
-- [Custom slider component in Vue](https://qvault.io/2020/11/24/how-to-make-a-custom-slider-component-in-vue/)
-- [Custom tooltip component In Vue](https://qvault.io/2020/08/28/creating-a-custom-tooltip-component-in-vue/)
-- [Custom toggle switch component in Vue](https://qvault.io/2020/07/21/how-to-create-a-custom-toggle-switch-component-in-vue-js/)
-- [Custom checkbox form component in Vue](https://qvault.io/2020/11/25/how-to-create-a-custom-checkbox-form-in-vue/)

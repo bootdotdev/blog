@@ -1,5 +1,6 @@
 ---
 title: "How To Separate Library Packages in Go"
+author: Lane Wagner
 date: "2020-03-29"
 categories: 
   - "golang"
@@ -21,7 +22,7 @@ Now that we've gone over the basics of what a package _is_ let's talk about how 
 
 Oftentimes an application will have complex logic that requires a lot of code. In almost every case the logic that the application cares about can be exposed via an API, and most of the dirty work can be kept within a package. For example, imagine we are building an application that needs to classify images. We could build a package:
 
-```
+```go
 package classifier
 
 // ClassifyImage classifies images as "hotdog" or "not hotdog"
@@ -56,7 +57,7 @@ Any capitalized function in Go is exported, which means that other programs can 
 
 Perhaps one of the most important and most broken rules is that a package shouldn't know anything about its dependents. In other words, a package should never have specific knowledge about a particular application that uses it. For example:
 
-```
+```go
 package classifier
 
 // ClassifyImage uses a slightly different algorithm if
@@ -67,9 +68,3 @@ func ClassifyImage(image []byte, isQvaultImage bool) (imageType string) {
 ```
 
 Here is an example of a clear violation of this rule. An image classifier shouldn't have knowledge of a "Qvault image", which we can infer is an application that happens to depend on this package. The author should have made different types of classifiers for general use, and then the dependents of the package would be able to choose the correct one. Two apps that depend on the same package needn't know about each other.
-
-## Related Reading
-
-- [Qvault Classroom Launches Golang Crash Course](https://qvault.io/2020/07/02/qvault-classroom-launches-golang-crash-course/)
-- [Go’s WaitGroup – JavaScript’s PromiseAll??](https://qvault.io/2020/06/04/gos-waitgroup-javascripts-promiseall/)
-- [Sorting in Go – Don’t Reinvent This Wheel](https://qvault.io/2020/05/27/sorting-in-go-dont-reinvent-this-wheel/)

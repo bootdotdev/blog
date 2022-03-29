@@ -1,5 +1,6 @@
 ---
 title: "Writing Bubble Sort in Go from Scratch"
+author: Lane Wagner
 date: "2021-06-08"
 categories: 
   - "golang"
@@ -9,7 +10,7 @@ Bubble sort is named for the way elements "bubble up" to the top of
 
 ## Full example of the bubble sort algorithm
 
-```
+```go
 func bubbleSort(input []int) []int {
     swapped := true
     for swapped {
@@ -27,7 +28,7 @@ func bubbleSort(input []int) []int {
 
 ## Using the algorithm in code
 
-```
+```go
 func main() {
     unsorted := []int{10, 6, 2, 1, 5, 8, 3, 4, 7, 9}
     sorted := bubbleSort(unsortedInput)

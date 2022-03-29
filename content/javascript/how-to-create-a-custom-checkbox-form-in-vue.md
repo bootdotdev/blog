@@ -1,5 +1,6 @@
 ---
 title: "How to Create a Custom Checkbox Form in Vue"
+author: Lane Wagner
 date: "2020-11-25"
 categories: 
   - "javascript"
@@ -20,7 +21,7 @@ Before we move on, if you are looking for our other custom Vue.js components tut
 
 ## The HTML
 
-```
+```html
 <template>
   <div>
     <div class="checkbox-form">
@@ -50,7 +51,7 @@ As you can see, the important thing here is that we are creating an `input` and 
 
 ## The JavaScript
 
-```
+```js
 export default {
   props: {
     options: {
@@ -76,7 +77,7 @@ We only require one prop: `options`, which represent all of the options availabl
 
 ## The CSS
 
-```
+```css
 .checkbox-form {
 	display: flex;
 	flex-direction: column;
@@ -162,7 +163,7 @@ Nothing too crazy is happening here, but the main takeaway is that we're hiding 
 
 ## Putting it All Together
 
-```
+```html
 <template>
   <div>
     <div class="checkbox-form">

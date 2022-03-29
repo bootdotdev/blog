@@ -1,5 +1,6 @@
 ---
 title: "Converting an Array to JSON Object in JavaScript"
+author: Lane Wagner
 date: "2020-12-21"
 categories: 
   - "javascript"
@@ -11,7 +12,7 @@ JSON, or "JavaScript Object Notation", is an extremely popular data exchange for
 
 Arrays are actually valid JSON! If you're just worried about _validity_, then you don't even need to do any transformations. To prepare your array so that you can make a [fetch request](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) with it, it's as simple as using the `JSON.stringify()` method.
 
-```
+```js
 const resp = await fetch('https://example.com', {
     method: 'POST',
     mode: 'cors',
@@ -28,7 +29,7 @@ The `JSON.stringify()` method converts a JavaScript object, array, or value to
 
 If you don't want the direct string representation of a JSON array, you might want an object where the keys are the _indexes_ of the array.
 
-```
+```js
 ["apple", "orange", "banana"]
 
 // becomes
@@ -42,7 +43,7 @@ If you don't want the direct string representation of a JSON array, you might wa
 
 To get a JSON object from an array with index keys you can use the [Object.assign](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign) method in conjunction with `JSON.stringify`.
 
-```
+```js
 const array = ["apple", "orange", "banana"]
 const jsonString = JSON.stringify(Object.assign({}, array))
 // jsonString becomes
@@ -57,7 +58,7 @@ In general, I would say it's much more likely that an API will expect a top-leve
 
 For example, if I was writing an API that wanted a list of usernames, I'd probably accept the following JSON object:
 
-```
+```js
 {
   "usernames": ["bill", "bob", "karen", "sue"]
 }
@@ -65,7 +66,7 @@ For example, if I was writing an API that wanted a list of usernames, I'd probab
 
 Instead of a "naked" array, which is technically valid JSON:
 
-```
+```js
 ["bill", "bob", "karen", "sue"]
 ```
 

@@ -1,5 +1,6 @@
 ---
 title: "Complete Guide to Removing Elements From Lists in Python"
+author: Lane Wagner
 date: "2021-12-09"
 categories: 
   - "python"
@@ -9,7 +10,7 @@ While lists aren't the most efficient [data structure](https://qvault.io/big-o-d
 
 ## Remove element in Python list by value
 
-```
+```py
 primes = [2, 3, 5, 5, 7, 11]
 
 primes.remove(5)
@@ -27,7 +28,7 @@ primes.remove(5)
 
 If you want to safely remove items, and you aren't sure if they exist in the list or not, you can either catch the error:
 
-```
+```py
 try:
 	primes.remove(5)
 except Exception as e:
@@ -36,7 +37,7 @@ except Exception as e:
 
 Or, you can check for existence first:
 
-```
+```py
 if 5 in primes:
 	primes.remove(5)
 ```
@@ -45,7 +46,7 @@ if 5 in primes:
 
 The `del` statement is a built-in keyword that allows you to remove items from lists. The simplest example deletes the item at a given index.
 
-```
+```py
 primes = [2, 3, 5, 5, 7, 11]
 
 # delete the second item
@@ -66,14 +67,14 @@ del primes[10]
 
 `IndexError: list assignment index out of range`
 
-```
+```py
 if len(primes) >= 10:
 	del primes[10]
 ```
 
 ## Remove multiple of items from a python list
 
-```
+```py
 primes = [2, 3, 5, 5, 7, 11]
 
 # deleting items from 2nd to 4th
@@ -87,7 +88,7 @@ print(primes)
 
 The `.pop()` method removes an item from a list by index and returns that item.
 
-```
+```py
 primes = [2, 3, 5, 7]
 
 # pop the second element

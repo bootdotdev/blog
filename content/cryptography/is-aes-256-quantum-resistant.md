@@ -1,5 +1,6 @@
 ---
 title: "Is AES-256 Quantum Resistant?"
+author: Lane Wagner
 date: "2020-09-10"
 categories: 
   - "cryptography"

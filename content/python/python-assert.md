@@ -1,5 +1,6 @@
 ---
 title: "Python Assert Statement, How to Test a Condition"
+author: Lane Wagner
 date: "2021-12-13"
 categories: 
   - "python"
@@ -7,7 +8,7 @@ categories:
 
 In Python, an assertion is a statement that confirms something about the state of your program. For example, if you write a `createUser` function and you are sure that the user needs to be older than 18, you assert that the `age` field is greater than or equal to 18. You can think of an `assert` statement like a [unit test](https://qvault.io/clean-code/writing-good-unit-tests-dont-mock-database-connections/) that is performed at runtime.
 
-```
+```py
 def createUser(user):
   assert user.age >= 18
 ```
@@ -23,7 +24,7 @@ def createUser(user):
 
 Python has a built-in `assert` statement, and its syntax is as follows.
 
-```
+```py
 assert condition [, error_message]
 ```
 
@@ -33,7 +34,7 @@ If the {condition} is false, an [AssertionError](https://docs.python.org/3/libra
 
 You can catch an assertion error just like you would any other error in Python.
 
-```
+```py
 age = 17
 try:
     assert age >= 18, "too young!"

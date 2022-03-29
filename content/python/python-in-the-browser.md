@@ -1,5 +1,6 @@
 ---
 title: "Running Python in the Browser with Web Assembly"
+author: Lane Wagner
 date: "2020-09-24"
 categories: 
   - "javascript"
@@ -36,7 +37,7 @@ If you want to know how that all works please read [this article about Web Worke
 
 If you have finished that first article on Web Workers, then all you will need to understand the difference between our Python and Go logic is the worker file itself:
 
-```
+```js
 // pull down pyodide from the public CDN
 importScripts('https://pyodide-cdn2.iodide.io/v0.15.0/full/pyodide.js');
 

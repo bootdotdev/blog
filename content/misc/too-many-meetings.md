@@ -1,5 +1,6 @@
 ---
 title: "The 10x Meeting - Solving for Too Many Meetings"
+author: Lane Wagner
 date: "2021-05-10"
 categories: 
   - "jobs"

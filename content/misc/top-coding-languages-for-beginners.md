@@ -1,5 +1,6 @@
 ---
 title: "Top 4 Coding Languages To Learn For Beginners in 2021"
+author: Lane Wagner
 date: "2020-10-07"
 categories: 
   - "misc"

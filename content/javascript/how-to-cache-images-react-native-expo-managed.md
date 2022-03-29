@@ -1,5 +1,6 @@
 ---
 title: "How To Cache Images - React Native Expo (Managed)"
+author: Lane Wagner
 date: "2020-02-04"
 categories: 
   - "javascript"
@@ -13,19 +14,19 @@ Other popular community packages that work on Android contain native code, and a
 
 Install the module:
 
-```
+```bash
 yarn add react-native-expo-cached-image
 ```
 
 Import the component:
 
-```
+```js
 import CachedImage from 'react-native-expo-cached-image';
 ```
 
 Use the component in a render() method:
 
-```
+```html
 <CachedImage
   isBackground
   source={{ uri: 'https://qvault.io/wp-content/uploads/2019/05/QVault-app.png' }}
@@ -34,7 +35,7 @@ Use the component in a render() method:
 
 The CachedImage component has the same props and API as React Native's [Image](https://facebook.github.io/react-native/docs/image) and [ImageBackground](https://facebook.github.io/react-native/docs/imagebackground) components. To use CachedImage as a background image, just pass in the _isBackground_ prop:
 
-```
+```html
 <CachedImage
   isBackground
   source={{ uri: 'https://qvault.io/wp-content/uploads/2019/05/QVault-app.png' }}
@@ -57,7 +58,7 @@ Tip: In order to bust the cache, you can append a query string or anchor text to
 
 As of writing, here is the code, feel free to just copypasta it if you don't want to install the dependency:
 
-```
+```js
 import React, { Component } from 'react';
 import { View, Image, ImageBackground } from 'react-native';
 import * as FileSystem from 'expo-file-system';

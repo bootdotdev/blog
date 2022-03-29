@@ -1,5 +1,6 @@
 ---
 title: "How to Create a Custom Toggle Switch Component in Vue.js"
+author: Lane Wagner
 date: "2020-07-21"
 categories: 
   - "javascript"
@@ -18,7 +19,7 @@ Before we move on, if you are looking for our other custom Vue.js components tut
 
 ## The HTML Template
 
-```
+```html
 <template>
   <div>
     <span
@@ -46,7 +47,7 @@ The toggle-wrapper is what it sounds like, the parent div for our component. The
 
 ## The JavaScript
 
-```
+```js
 export default {
   props: {
     value:{
@@ -77,7 +78,7 @@ We have setup the component such that the user of the component can use the `v-m
 
 ## The CSS
 
-```
+```css
 .gold-mid{
   background-color: #666666;
 }

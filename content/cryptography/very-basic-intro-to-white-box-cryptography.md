@@ -1,5 +1,6 @@
 ---
 title: "(Very) Basic Intro To White-Box Cryptography"
+author: Lane Wagner
 date: "2020-04-27"
 categories: 
   - "cryptography"

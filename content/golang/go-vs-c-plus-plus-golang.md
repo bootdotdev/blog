@@ -1,5 +1,6 @@
 ---
 title: "Golang vs C++: Which is Best For Your Next Project"
+author: Meghan Reichenbach
 date: "2021-07-12"
 categories: 
   - "golang"

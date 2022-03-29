@@ -1,5 +1,6 @@
 ---
 title: "Lint on Save With VS Code Official Golang Extension"
+author: Lane Wagner
 date: "2020-06-30"
 categories: 
   - "golang"
@@ -21,7 +22,7 @@ Next open your [settings.json](https://code.visualstudio.com/docs/getstarted/set
 
 Add the following settings:
 
-```
+```json
 {
     "go.lintOnSave": "file",
     "go.formatTool": "goimports",

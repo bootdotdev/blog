@@ -1,5 +1,6 @@
 ---
 title: "How to Make Pure Functions in Golang"
+author: Lane Wagner
 date: "2020-09-07"
 categories: 
   - "clean-code"
@@ -26,7 +27,7 @@ Because of these properties, pure functions keep applications simple. As we know
 
 Let's take a look at an example function. Using Go, we'll write a `countNamesInText` function that [splits a given string into words delimited by whitespace](https://qvault.io/golang/split-strings-golang/#delimiters), then, counts all the words that match a name pulled from the database.
 
-```
+```go
 totalCounted := map[string]int{}
 
 func countNamesInText(text string) {
@@ -47,7 +48,7 @@ This function is impure for a couple reasons. Let's examine each one.
 
 Instead of mutating a global variable as a means of "returning" data to the caller, we should return the data via a `return` statement:
 
-```
+```go
 func countNamesInText(text string) int {
 	totalCounted := 0
 	name := getNameFromDatabase()
@@ -68,7 +69,7 @@ Now `countNamesInText` is _more_ "pure" because it will not change the applicati
 
 Currently, if we wrote the test:
 
-```
+```go
 func TestCountNamesInText(t *testing.T) {
 	actual := countNamesInText("this word here")
 	if actual != 2{
@@ -81,7 +82,7 @@ It wouldn't work consistently. If the database isn't set up, or if the database 
 
 Let's purify a bit more:
 
-```
+```go
 func countNamesInText(text, name string) int {
 	totalCounted := 0
 	for _, word := range strings.Split(text, " ") {
@@ -95,7 +96,7 @@ func countNamesInText(text, name string) int {
 
 Our function is pure, so we can write a good test:
 
-```
+```go
 func TestCountNamesInText(t *testing.T) {
 	actual := countNamesInText("this word here", "this")
 	if actual != 1{
@@ -106,14 +107,8 @@ func TestCountNamesInText(t *testing.T) {
 
 This is what a call to the function in the application might look like:
 
-```
+```go
 totalCounted := map[string]int{}
 name := getNameFromDatabase()
 totalCounted[name] = countNamesInText("some name in here", name)
 ```
-
-## Related Articles
-
-- [Constants in Go vs Javascript, and When to Use Them](https://qvault.io/2019/10/14/constants-in-go-vs-javascript-and-when-to-use-them/)
-- [Sorting in Go – Don’t Reinvent This Wheel](https://qvault.io/2020/05/27/sorting-in-go-dont-reinvent-this-wheel/)
-- [How to: Global Constant Maps and Slices in Go](https://qvault.io/2019/10/21/how-to-global-constant-maps-and-slices-in-go/)

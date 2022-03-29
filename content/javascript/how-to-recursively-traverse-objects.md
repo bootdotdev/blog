@@ -1,5 +1,6 @@
 ---
 title: "How to Recursively Traverse JSON Objects"
+author: Lane Wagner
 date: "2019-09-22"
 categories: 
   - "javascript"
@@ -15,7 +16,7 @@ Function recursion is a process in computer science that occurs when a function 
 
 For example:
 
-```
+```js
 function printArrayRecursive(arr, i) {
   // base case, stop recurring
   if (i === arr.length){
@@ -31,7 +32,7 @@ In the code above, `printArrayRecursive` prints one element from the list, then 
 
 The same function looks quite a bit different in the **iterative** world, which you are probably more familiar with:
 
-```
+```js
 function printArrayIterative(arr){
   for (let i = 0; i < arr.length; i++){
     console.log(arr[i])
@@ -64,7 +65,7 @@ Even if a compiler supports loops, some problems are easier to solve with a recu
 
 Recursively print all properties of a JSON object:
 
-```
+```js
 function printAllVals(obj) {
   for (let k in obj) {
     if (typeof obj[k] === "object") {
@@ -79,7 +80,7 @@ function printAllVals(obj) {
 
 Recursively print all the filenames of a folder, and its subfolders, and their subfolders, ad infinitum.
 
-```
+```js
 function printSubFiles(dir) {
   files = fs.readdirSync(dir);
   files.forEach(function (file) {
@@ -107,10 +108,3 @@ and
 > _"How do I call myself to get to the next value?"_
 
 Recursion is an important principle to understand for any programmer, and I hope this helps you be just a little better! If you're interested in learning more about recursion and functional programming principles, take a look at our [functional programming course.](https://qvault.io/intro-to-functional-programming/)
-
-## Related Articles
-
-- [How to Re-render a Vue Route When Path Parameters Change](https://qvault.io/2020/07/07/how-to-rerender-a-vue-route-when-path-parameters-change/)
-- [How To Cache Images – React Native Expo (Managed)](https://qvault.io/2020/02/04/how-to-cache-images-react-native-expo-managed/)
-- [JavaScript With Statement Explained – A Deep Dive](https://qvault.io/2020/01/15/javascript-with-statement-explained-a-deep-dive/)
-- [Converting an Array to JSON Object in JavaScript](https://qvault.io/2020/12/21/converting-an-array-to-json-object-in-javascript/)

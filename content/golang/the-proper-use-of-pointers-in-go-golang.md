@@ -1,5 +1,6 @@
 ---
 title: "The Proper Use of Pointers in Go (Golang)"
+author: Lane Wagner
 date: "2019-09-25"
 categories: 
   - "clean-code"
@@ -14,7 +15,7 @@ Many developers that are new to the language, or new to a language that can hand
 
 A pointer is a variable that stores the address of a value, rather than the value itself. If you think of a computer's memory (RAM) as a JSON object, a pointer would be like the key, and a normal variable would be the value.
 
-```
+```json
 {
   "pointer": "variableValue"
 }
@@ -22,22 +23,22 @@ A pointer is a variable that stores the address of a value, rather than the valu
 
 Lets see one in action:
 
-```
+```go
 package main
 
 import "fmt"
 
 func main() {
-        // create a normal string variable
+	// create a normal string variable
 	name := "original"
-        // pass in a pointer to the string variable using '&'
+	// pass in a pointer to the string variable using '&'
 	setName(&name, "qvault")
 	fmt.Println(name)
 }
 
 func setName(ptr *string, newName string) {
-        // dereference the pointer so we can modify the value
-        // and set the value to "qvault"
+	// dereference the pointer so we can modify the value
+	// and set the value to "qvault"
 	*ptr = newName
 }
 ```
@@ -50,7 +51,7 @@ qvault
 
 As you can see, because we have a pointer to the address of the variable_,_ we can modify its value, even within the scope of another function. If the value were not a pointer, this would not work:
 
-```
+```go
 package main
 
 import "fmt"
@@ -78,14 +79,14 @@ Pointers can be useful, but in the same way that they are useful, they can be da
 
 **1\. Creating a pointer: &**
 
-```
+```go
 newString := ""
 newStringPointer := &newString
 ```
 
 If you print that pointer you will see a memory address.
 
-```
+```go
 package main
 
 import "fmt"
@@ -105,7 +106,7 @@ Which is the memory address of that variable in your machine.
 
 In a function signature or type definition, the \* is used to designate that a value is a pointer.
 
-```
+```go
 func passPointer(pointer *string) {
 }
 ```
@@ -114,7 +115,7 @@ func passPointer(pointer *string) {
 
 It can be slightly confusing, but the \* is used to describe a pointer and it is also used as an operator to dereference a pointer.
 
-```
+```go
 func derefPointer(pointer *string) {
 	newStringVariable := *pointer
         // newStringVariable is just a normal string
@@ -150,9 +151,3 @@ Sometimes a function needs to know what something's value is, as well as if it e
 ```
 
 These are some rules of thumb for when to use pointers in your code. If you are unsure, and a normal value will work just fine, I would advise avoiding the pointer. Pointers are useful tools but can lead to nasty bugs or unreadable code quite easily.
-
-## Related Reading
-
-- [Wrapping Errors in Go – How to Handle Nested Errors](https://qvault.io/2020/03/09/wrapping-errors-in-go-how-to-handle-nested-errors/)
-- [Building a Music/Video Streaming Server in Go – Using HLS](https://qvault.io/2019/12/03/building-a-music-video-streaming-app-in-go-using-hls/)
-- [Logging for Gophers – Idiomatic Log Strategies in Go (Golang)](https://qvault.io/2020/01/07/logging-for-gophers-idiomatic-log-strategies-in-go-golang/)

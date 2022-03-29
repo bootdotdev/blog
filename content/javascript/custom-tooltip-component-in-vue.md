@@ -1,5 +1,6 @@
 ---
 title: "Creating a Custom Tooltip Component in Vue"
+author: Lane Wagner
 date: "2020-08-28"
 categories: 
   - "javascript"
@@ -22,7 +23,7 @@ Before we move on, if you are looking for our other custom Vue.js components tut
 
 We are building a single file component, as such it will be a single file with the following structure:
 
-```
+```html
 <template>
   
 </template>
@@ -40,7 +41,7 @@ At the end of this walkthrough we will have a tooltip component that floats abov
 
 ## The HTML
 
-```
+```html
 <template>
   <div class="tooltip-box">
     <slot />
@@ -63,7 +64,7 @@ Fairly simple setup here. We need:
 
 ## The JavaScript
 
-```
+```js
 export default {
   props: { 
     text: {
@@ -78,7 +79,7 @@ Pretty straightforward, all we need is a required prop for our users to specify 
 
 ## The CSS
 
-```
+```css
 .tooltip-box { 
   position: relative;
   display: inline-block;
@@ -129,7 +130,7 @@ The CSS is certainly the most interesting part. A couple key points:
 
 The full component:
 
-```
+```html
 <template>
   <div class="tooltip-box">
     <slot />
@@ -199,7 +200,7 @@ export default {
 
 And how to use it:
 
-```
+```html
 <Tooltip
   text="Difficulty"
  >

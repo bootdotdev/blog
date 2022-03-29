@@ -1,5 +1,6 @@
 ---
 title: "Concurrency In Rust; Can It Stack Up Against Go's Goroutines?"
+author: Lane Wagner
 date: "2020-05-11"
 categories: 
   - "golang"
@@ -12,7 +13,7 @@ One of the primary goals of the Go programming language is to make concurrency s
 
 In Go, concurrency is accomplished by spawning new [goroutines](https://tour.golang.org/concurrency/1):
 
-```
+```go
 package main
 
 import (
@@ -46,13 +47,13 @@ Threading on its own makes use of multiple cores and uses typical operating-syst
 
 Let's take a look at async first. and don't forget to add the following dependencies to your project's `Cargo.toml`:
 
-```
+```toml
 [dependencies]
 futures = "0.3.5"
 async-std = "1.5.0"
 ```
 
-```
+```rust
 use std::time::Duration;
 use futures::executor::block_on;
 use async_std::task;
@@ -115,7 +116,7 @@ Threading in Rust takes advantage of multi-core hardware. When a new thread is s
 
 Let's take a look at the following example:
 
-```
+```rust
 use std::thread;
 use std::time::Duration;
 
@@ -155,8 +156,3 @@ Async/Await can also be good for many short-lived async tasks where new operatin
 Goroutines are more lightweight and efficient than operating-system threads. As a result, a program can spawn more total goroutines than threads. Goroutines also start and clean themselves up faster than threads due to less system overhead.
 
 The big advantage of traditional threading (like that of Rust) over the goroutine model is that no runtime is required. Each Go executable is compiled with a small runtime which manages goroutines, while Rust avoids that extra fluff in the binary.
-
-## Related Reading
-
-- [Rust vs Go – Which Is More Popular?](https://qvault.io/2020/05/06/rust-vs-go-which-is-more-popular/)
-- [Qvault Classroom Launches Golang Crash Course](https://qvault.io/2020/07/02/qvault-classroom-launches-golang-crash-course/)

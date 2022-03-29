@@ -1,5 +1,6 @@
 ---
 title: "Wrapping Errors in Go - How to Handle Nested Errors"
+author: Lane Wagner
 date: "2020-03-09"
 categories: 
   - "clean-code"
@@ -18,7 +19,7 @@ There are plenty of articles that discuss the pros/cons of error handling in Go.
 
 To demonstrate the problem of nested errors, let's take a look at the following function:
 
-```
+```go
 func isInRange(i int) error {
 	const min = 5
 	const max = 10
@@ -33,7 +34,7 @@ _isInRange()_ is a simple function that checks if a number is between two other 
 
 ## The Calling Function
 
-```
+```go
 func getNumberFromStdIn() (int, error) {
 	reader := bufio.NewReader(os.Stdin)
 	text, _, err := reader.ReadLine()
@@ -64,7 +65,7 @@ Where did this come from? We know that _isInRange()_ created the error, but we d
 
 ## Solution: Wrap The Errors
 
-```
+```go
 func getNumberFromStdIn() (int, error) {
 	reader := bufio.NewReader(os.Stdin)
 	text, _, err := reader.ReadLine()
@@ -100,9 +101,3 @@ Nope. Like all rules-of-thumb, there are exceptions.
 For example, if I'm writing a package that exposes the function _getNumberFromStdIn()_ then my users (programmers using my package) don't need to know that _atoi()_ failed, they just need to know that _getNumberFromStdIn()_ failed. I don't need to wrap any errors. In fact, I can probably ignore the underlying error and create my own message from scratch.
 
 If it is glaringly obvious where an error comes from, there is also less reason to wrap it. Wrapping an error, in theory, should never hurt, but it can be unnecessary work. Look at everything on a case-by-case basis.
-
-## Related Works
-
-- [Best Practices For Writing Clean Interfaces in Go](https://qvault.io/2020/03/15/best-practices-for-writing-clean-interfaces-in-go/)
-- [BitBanged SPI in Go, An Explanation](https://qvault.io/2020/01/09/bitbanged-spi-in-go-an-explanation/)
-- [Logging for Gophers – Idiomatic Log Strategies in Go (Golang)](https://qvault.io/2020/01/07/logging-for-gophers-idiomatic-log-strategies-in-go-golang/)

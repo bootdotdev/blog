@@ -1,5 +1,6 @@
 ---
 title: "Free Functional Programming Course Released - JavaScript and PureScript"
+author: Lane Wagner
 date: "2020-10-19"
 categories: 
   - "javascript"
@@ -29,7 +30,7 @@ The course has ~60 exercises currently, and like all of our courses, we will be 
 
 Example PureScript:
 
-```
+```purs
 import Prelude
 import Effect.Console (log)
 
@@ -45,7 +46,7 @@ _I was wrong._
 
 There are so many concepts that are hard to understand in functional programming if the language allows you to circumvent each rule. For example, in JavaScript you can write an immutable stack by exposing some functions:
 
-```
+```js
 function push(stack, s){
     newStack = []
     for (const item of stack){

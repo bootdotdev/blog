@@ -1,5 +1,6 @@
 ---
 title: "(Very) Basic Intro to PGP (GPG)"
+author: Lane Wagner
 date: "2020-07-27"
 categories: 
   - "cryptography"

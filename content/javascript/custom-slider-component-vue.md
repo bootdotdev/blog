@@ -1,5 +1,6 @@
 ---
 title: "How to Make a Custom Slider Component in Vue"
+author: Lane Wagner
 date: "2020-11-24"
 categories: 
   - "javascript"
@@ -22,7 +23,7 @@ Before we move on, if you are looking for our other custom Vue.js components tut
 
 ## The HTML
 
-```
+```html
 <template>
   <div>
     <div class="slider-component">
@@ -46,7 +47,7 @@ That wasn't so bad right? We are building out the data model in such a way the i
 
 ## The JavaScript
 
-```
+```js
 export default {
   props: {
     value: {
@@ -82,7 +83,7 @@ Like I mentioned above, this sets up the use of `v-model`. We set the default `c
 
 You may not be here for exactly my styling, but you're probably here so that you can swap out the styling. Feel free to copypasta my CSS and swap it our for your own sutff!
 
-```
+```css
 .slider-component .slidecontainer {
 	width: 100%;
 }
@@ -127,7 +128,7 @@ The important thing to note here is that we're overriding the browsers defaults 
 
 ## Full Component
 
-```
+```html
 <template>
   <div>
     <div class="slider-component">

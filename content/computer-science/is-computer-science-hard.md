@@ -1,5 +1,6 @@
 ---
 title: "Is Computer Science Really that Hard?"
+author: Lane Wagner
 date: "2021-03-24"
 categories: 
   - "computer-science"

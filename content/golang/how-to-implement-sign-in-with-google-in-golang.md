@@ -1,5 +1,6 @@
 ---
 title: "Authenticate Users with \"Sign In With Google\" in Golang"
+author: Lane Wagner
 date: "2020-07-22"
 categories: 
   - "golang"
@@ -15,7 +16,7 @@ The front-end's job is to do some redirect OAuth magic to obtain a [JWT](https:/
 
 Once you are done with all that, you should have a button on your web page. When a user clicks on the button and authorizes their Google account, you will get a [JWT](https://developers.google.com/identity/sign-in/web/sign-in#get_profile_information) back in the `onSignIn` callback function:
 
-```
+```js
 function onSignIn(googleUser) {
   const googleJWT = googleUser.getAuthResponse().id_token
 }
@@ -27,7 +28,7 @@ All we care about is that JWT. We are going to create a backend function in Go t
 
 Let's build a single function that validates JWT's from Google. It has the following function signature:
 
-```
+```go
 // ValidateGoogleJWT -
 func ValidateGoogleJWT(tokenString string) (GoogleClaims, error) {
 
@@ -40,7 +41,7 @@ func ValidateGoogleJWT(tokenString string) (GoogleClaims, error) {
 
 JWT's are just [JSON objects](https://qvault.io/golang/json-golang/) that are signed with a private key to ensure they haven't been tampered with. The signed JSON object's fields are referred to as "claims". We will be using the most popular JWT library in Go to build our solution: [https://github.com/dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go), and the claims that Google sends have the following shape:
 
-```
+```go
 // GoogleClaims -
 type GoogleClaims struct {
 	Email         string `json:"email"`
@@ -55,7 +56,7 @@ type GoogleClaims struct {
 
 Google hosts their public key over HTTPS. Each time we need to verify a request we can go grab their public key as follows:
 
-```
+```go
 func getGooglePublicKey(keyID string) (string, error) {
 	resp, err := http.Get("https://www.googleapis.com/oauth2/v1/certs")
 	if err != nil {
@@ -85,7 +86,7 @@ The keyID is in the JWT header under the"_kid_" field. If you are confused, don'
 
 Now that we have our claims structure and a way to fetch Google's public key we can finish our validation function:
 
-```
+```go
 // ValidateGoogleJWT -
 func ValidateGoogleJWT(tokenString string) (GoogleClaims, error) {
 	claimsStruct := GoogleClaims{}
@@ -134,7 +135,7 @@ Make sure that you have your client id (the one you used on your front-end that 
 
 If the function returns without an error then you have a struct containing a valid email, first name, and last name, all collected and verified by Google! In your login HTTP handler, you can return a valid cookie or JWT of your own that you use to identify logged-in users on your site. For example:
 
-```
+```go
 func (cfg config) loginHandler(w http.ResponseWriter, r *http.Request) {
 	defer r.Body.Close()
 

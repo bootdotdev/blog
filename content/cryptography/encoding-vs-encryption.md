@@ -1,5 +1,6 @@
 ---
 title: "Encoding vs Encryption - They Aren't the Same"
+author: Lane Wagner
 date: "2019-08-14"
 categories: 
   - "cryptography"

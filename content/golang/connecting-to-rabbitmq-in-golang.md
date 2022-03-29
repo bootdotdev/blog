@@ -1,5 +1,6 @@
 ---
 title: "Using a Low-Level RabbitMQ Client in Golang"
+author: Lane Wagner
 date: "2020-04-29"
 categories: 
   - "golang"
@@ -24,7 +25,7 @@ First things first, there's no reason to reinvent the wheel. We'll use the [amqp
 
 In most of my projects, I build a small rabbit package in the [internal folder of the project](https://qvault.io/2020/03/29/how-to-separate-library-packages-in-go/). It exposes only the rabbit functionality that our project cares about.
 
-```
+```go
 // Conn -
 type Conn struct {
 	Channel *amqp.Channel
@@ -50,7 +51,7 @@ The `Conn` struct just holds a connection to the RabbitMQ server. We'll also exp
 
 Publishing is easy and is thread-safe out-of-the-box. We just need to expose one more function that publishes using the connection. The calling code provides a routing key and a payload.
 
-```
+```go
 // Publish -
 func (conn Conn) Publish(routingKey string, data []byte) error {
 	return conn.Channel.Publish(
@@ -75,7 +76,7 @@ The purpose of this small internal package is to set some defaults for the more 
 
 Consuming is a bit trickier than publishing. We'll use a simple pattern here where we have the app supply a handler function, a queue, the routing key that the queue binds to, and the maximum number of goroutines we should spin up to handle messaegs.
 
-```
+```go
 // StartConsumer -
 func (conn Conn) StartConsumer(
 	queueName,
@@ -145,7 +146,7 @@ Most of the programs I work on are ephemeral - I don't mind if they just restart
 
 ## Testing The Package
 
-```
+```go
 func main() {
 	conn, err := rabbit.GetConn("amqp://guest:guest@localhost")
 	if err != nil {
@@ -178,9 +179,3 @@ func handler(d amqp.Delivery) bool {
 	return true
 }
 ```
-
-## Related Reading
-
-- [The Proper Use of Pointers in Go (golang)](https://qvault.io/2019/09/25/the-proper-use-of-pointers-in-go-golang/)
-- [How to: Global Constant Maps and Slices in Go](https://qvault.io/2019/10/21/how-to-global-constant-maps-and-slices-in-go/)
-- [Top 10 Golang Technical Interview Questions](https://qvault.io/2020/08/31/top-10-technical-go-interview-questions/)

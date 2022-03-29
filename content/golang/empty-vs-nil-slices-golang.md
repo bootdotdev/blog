@@ -1,5 +1,6 @@
 ---
 title: "Should You Return Empty or Nil Slices in Go?"
+author: Lane Wagner
 date: "2020-09-03"
 categories: 
   - "clean-code"
@@ -12,7 +13,7 @@ In Go, we often need to return zero values. Idiomatic Go encourages the use of g
 
 For example, should we use this syntax?
 
-```
+```go
 func getItems(url string) ([]string, error) {
 	data, err := makeRequest(url)
 	if err != nil {
@@ -28,7 +29,7 @@ func getItems(url string) ([]string, error) {
 
 Or perhaps this syntax?
 
-```
+```go
 func getItems(url string) ([]string, error) {
 	data, err := makeRequest(url)
 	if err != nil {
@@ -46,7 +47,7 @@ func getItems(url string) ([]string, error) {
 
 I ran a quick bit of code to show some of the differences between nil and empty slices:
 
-```
+```go
 package main
 
 import (
@@ -87,10 +88,3 @@ They differ in the following ways:
 **Generally speaking, prefer nil**.
 
 According to the [Go wiki](https://github.com/golang/go/wiki/CodeReviewComments#declaring-empty-slices), nil is the preferred style. When we just need to return an empty slice `nil` will work great in practically all cases. It's also easier to type `nil` than `[]string{}` or `make([]string, 0)` and typically gets syntax highlighted which makes it easier to read.
-
-## Related Content
-
-- [Slice and Map Initialization in Go](https://qvault.io/2020/06/29/make-new-and-literals-cheat-sheet-slice-and-map-initialization-in-go/)
-- [Sorting in Go](https://qvault.io/2020/05/27/sorting-in-go-dont-reinvent-this-wheel/)
-- [How to Create Constant Maps and Slices in Go](https://qvault.io/2019/10/21/golang-constant-maps-slices/)
-- [Rust vs Go - Which is More Popular?](https://qvault.io/2020/05/06/rust-vs-go-which-is-more-popular/)

@@ -1,5 +1,6 @@
 ---
 title: "How to Write Insertion Sort in Go"
+author: Lane Wagner
 date: "2021-06-14"
 categories: 
   - "golang"
@@ -13,7 +14,7 @@ Insertion sort builds a final sorted list one item at a time. It's much less eff
 
 ## Full example of the insertion sort algorithm
 
-```
+```go
 func insertionSort(arr []int) []int {
 	for i := 0; i < len(arr); i++ {
 		for j := i; j > 0 && arr[j-1] > arr[j]; j-- {
@@ -28,7 +29,7 @@ As you can see, the `insertionSort()` function starts by iterating over the enti
 
 ## Using insertion sort in code
 
-```
+```go
 func main() {
     fmt.Println(insertionSort([]int{5,3,2,1,0,4))
     // prints

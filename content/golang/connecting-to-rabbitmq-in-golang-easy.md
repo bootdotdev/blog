@@ -1,5 +1,6 @@
 ---
 title: "Using a High-Level RabbitMQ Client in Golang"
+author: Lane Wagner
 date: "2021-03-10"
 categories: 
   - "golang"
@@ -23,7 +24,7 @@ The [go-rabbitmq](https://github.com/wagslane/go-rabbitmq) library provides two 
 
 ### Consuming with the defaults
 
-```
+```go
 consumer, err := rabbitmq.NewConsumer("amqp://user:pass@localhost")
 if err != nil {
     log.Fatal(err)
@@ -51,7 +52,7 @@ The code above does the following:
 
 ### Publishing with the defaults
 
-```
+```go
 publisher, returns, err := rabbitmq.NewPublisher("amqp://user:pass@localhost")
 if err != nil {
     log.Fatal(err)
@@ -72,7 +73,7 @@ The code above does the following:
 
 The full suite of [consuming options](https://pkg.go.dev/github.com/wagslane/go-rabbitmq?utm_source=godoc#ConsumeOptions) is quite large, I didn't want to limit functionality:
 
-```
+```go
 type ConsumeOptions struct {
     QueueDurable      bool
     QueueAutoDelete   bool
@@ -98,7 +99,7 @@ type Table map[string]interface{}
 
 Most of the options are fairly self-explanatory if you look into the feature set of RabbitMQ. For example, durable queues aren't lost on server restart, exclusive queues can't be used by more than one connection, auto-delete queues are deleted when they have no consumers, etc. Let's go over how to set some of the more advanced configurations.
 
-```
+```go
 err = consumer.StartConsuming(
     func(d rabbitmq.Delivery) bool {
         log.Printf("consumed: %v", string(d.Body))
@@ -118,7 +119,7 @@ All that changes is that we pass in function(s) (using Go's variadic feature) th
 
 There are also configuration functions provided that you can use directly:
 
-```
+```go
 err = consumer.StartConsuming(
      func(d rabbitmq.Delivery) bool {
         log.Printf("consumed: %v", string(d.Body))
@@ -136,7 +137,7 @@ err = consumer.StartConsuming(
 
 Frankly, I'm not a huge fan of the mandatory and immediate options. To me, it seems like it breaks a simple tenet of the pub/sub architecture, that is, publishers should be unaware of their consumers. It should be up to the consumers to make sure they're correctly connected and their queues are created. That said, you can still use those options:
 
-```
+```go
 err = publisher.Publish(
     []byte("hello, world"),
     []string{"routing_key"},

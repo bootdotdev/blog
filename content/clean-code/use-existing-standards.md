@@ -1,5 +1,6 @@
 ---
 title: "Check for Standards Before Creating a New One"
+author: Lane Wagner
 date: "2021-06-07"
 categories: 
   - "clean-code"

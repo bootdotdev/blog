@@ -1,5 +1,6 @@
 ---
 title: "Qvault Launches Golang Crash Course - Go Mastery"
+author: Lane Wagner
 date: "2020-07-02"
 categories: 
   - "golang"

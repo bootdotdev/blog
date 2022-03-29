@@ -1,5 +1,6 @@
 ---
 title: "10 Compelling Reasons to Learn Python for Data Science"
+author: Zulie Rane
 date: "2021-08-19"
 categories: 
   - "python"

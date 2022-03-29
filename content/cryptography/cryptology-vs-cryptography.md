@@ -1,5 +1,6 @@
 ---
 title: "Cryptology vs Cryptography - Definitions and Differences"
+author: Lane Wagner
 date: "2019-12-16"
 categories: 
   - "cryptography"

@@ -1,5 +1,6 @@
 ---
 title: "How to Create Constant Maps, Slices, & Arrays in Golang"
+author: Lane Wagner
 date: "2019-10-21"
 categories: 
   - "clean-code"
@@ -24,7 +25,7 @@ The solution, which I explain in more detail later, is to use initialization fun
 
 ### Example of const array in Go
 
-```
+```go
 func getArray() [5]int {
     return [5]int{10, 20, 30, 40, 50} 
 }
@@ -32,7 +33,7 @@ func getArray() [5]int {
 
 ### Example of const slice in Go
 
-```
+```go
 func getSlice() []string {
     return []string{"hello", "world"}
 }
@@ -40,7 +41,7 @@ func getSlice() []string {
 
 ### Example of const map in Go
 
-```
+```go
 func getMap() map[string]int {
     return map[string]int{
         "truck": 5,
@@ -53,7 +54,7 @@ With the quick answer out of the way, let's explore why this is a good solution 
 
 ## A Brief Refresher on Globals and Constants
 
-```
+```go
 package foo
 
 // this is a global constant
@@ -89,7 +90,7 @@ Now that we know a bit about the configurations we make the following decisions:
 
 We then write the following code:
 
-```
+```go
 package main
 
 const rateLimit = 10
@@ -103,7 +104,7 @@ const initializer \[\]string literal is not a constant
 
 [Unlike constants in JavaScript](https://qvault.io/2020/10/22/constants-in-go-vs-javascript-and-when-to-use-them/), Go doesn't allow complex types like slices, maps, or arrays to be constant! Our first instinct may be to lazily switch it to a variable, and add a comment:
 
-```
+```go
 package main
 
 const rateLimit = 10
@@ -118,7 +119,7 @@ Whenever we find ourselves leaving comments like this, we should be aware we are
 
 It's much better to use an initializer function (not to be confused with Go's conventional [init()](https://golang.org/doc/effective_go#init) function). An initializer function is a function that simply declares something and returns it. Like I explained above in the tl;dr a good solution to our problem would be as follows:
 
-```
+```go
 package main
 
 const rateLimit = 10
@@ -135,9 +136,3 @@ Obviously one of the biggest downsides to this approach is that to get a new cop
 ## Good Practices
 
 Being able to keep access to maps and slices that are effectively constant can make your code easier to read, and more importantly, much less error-prone. One of the most sought-after traits of a [computer scientist](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/) for [high-end coding jobs](https://qvault.io/2020/12/09/highest-paying-computer-science-jobs/) is the ability to read, write, and refactor code so that it's more maintainable and easier to understand.
-
-## Related Qvault Reading
-
-- [Slice and Map Initialization in Go](https://qvault.io/2020/06/29/make-new-and-literals-cheat-sheet-slice-and-map-initialization-in-go/)
-- [Golang Logging Best Practices](https://qvault.io/2020/07/01/running-go-in-the-browser-with-web-assembly-wasm/)
-- [Should Your Return Empty or Nil Slices?](https://qvault.io/2020/08/07/saving-a-third-of-our-memory-by-re-ordering-go-struct-fields/)

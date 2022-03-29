@@ -1,5 +1,6 @@
 ---
 title: "Can You Get a Programming Job with Just an Associate's Degree?"
+author: Lane Wagner
 date: "2021-03-22"
 categories: 
   - "jobs"

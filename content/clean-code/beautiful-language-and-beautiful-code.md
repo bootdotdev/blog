@@ -5,6 +5,7 @@ categories:
   - "clean-code"
 tags: 
   - "mailing-list"
+author: Lane Wagner
 ---
 
 "Dead Poet's Society" is a classic film, and has become a recent favorite of mine. There's a scene in particular that I enjoy, where Robin William's character explains that it's bad practice to use terms like "very tired" or "very sad", instead we should use descriptive words like "exhausted" or "morose"!
@@ -23,27 +24,27 @@ _Beautiful language and beautiful code are far from the same._
 
 If you're a part of [/r/shittyprogramming](https://www.reddit.com/r/shittyprogramming/) on Reddit, you may have noticed several weeks back when the community became interested in writing the most ridiculous and inefficient way to calculate whether or not a given number is even. Here are some highlights.
 
-```
+```js
 const isEven = n => 'x'.repeat(n).replace(/xx/g, '') === '';
 ```
 
 [source](https://www.reddit.com/r/shittyprogramming/comments/ntzyg0/iseven_with_regex_in_javascript/)
 
-```
+```js
 function isEven(number) {
-    if (0 == number) {
-        return true;
-    } else if (number < 0) { //I actually don't remember if JS has an absolute value function,
-        return !isEven(number+1); // so this is how we handle negative numbers
-    } else {
-        return !isEven(number-1);
-    }
+	if (0 == number) {
+		return true;
+	} else if (number < 0) { //I actually don't remember if JS has an absolute value function,
+		return !isEven(number+1); // so this is how we handle negative numbers
+	} else {
+		return !isEven(number-1);
+	}
 }
 ```
 
 [source](https://www.reddit.com/r/shittyprogramming/comments/ntmmc6/my_own_iseven_submission/)
 
-```
+```C++
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>

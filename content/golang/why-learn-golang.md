@@ -1,5 +1,6 @@
 ---
 title: "7 Critical Reasons Beginners Should Learn Go in 2021"
+author: Meghan Reichenbach
 date: "2021-02-08"
 categories: 
   - "golang"

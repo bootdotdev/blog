@@ -1,5 +1,6 @@
 ---
 title: "An Intro to Quantum Mechanics; Google's Claim to Quantum Supremacy"
+author: Devanshi Arora
 date: "2020-06-19"
 categories: 
   - "misc"
@@ -28,9 +29,3 @@ In 2019, Google declared that they had achieved quantum supremacy. Google had bu
 Google's quantum computer consisted of 53 qubits in a complex superposition state, defined as quantum supremacy in the near-term devices. But quantum supremacy has not been tested for highly complex states. On paper, it is very easy to show why and how a quantum computer can outperform the classical computer, but the implementation can be more challenging.
 
 Google's achievement is certainly a breakthrough for quantum computing but is still in its infancy. Practical, everyday quantum computers are still a ways away. The classical cost of simulating the quantum circuit increases exponentially as the circuit volume of the circuit increases. A fully error-corrected and scalable quantum machine is yet to be achieved.
-
-## Related Reading
-
-- [Is AES-256 Quantum Resistant?](https://qvault.io/2019/07/09/is-aes-256-quantum-resistant/)
-- [Quantum Programming 101: Backend Monitor](https://qvault.io/2020/05/12/quantum-programming-101-backend-monitor/)
-- [Quantum Programming 101: Superdense Coding Tutorial](https://qvault.io/2020/04/20/quantum-programming-101-superdense-coding-tutorial/)

@@ -1,5 +1,6 @@
 ---
 title: "Using Concurrent Subscribers With RabbitMQ in Python (pika)"
+author: Lane Wagner
 date: "2020-05-26"
 categories: 
   - "open-source"
@@ -20,7 +21,7 @@ pip3 install pika
 
 Let's start by specifying some configurations we will need:
 
-```
+```bash
 # some configuration variables
 RABBIT_URL = 'amqp://username:password@localhost'
 ROUTING_KEY = 'routing_key'
@@ -33,7 +34,7 @@ RABBIT\_URL is the connection string to the rabbit cluster. ROUTING\_KEY is the 
 
 Next let's import all the packages we will be using:
 
-```
+```py
 import json
 import pika
 import time
@@ -45,7 +46,7 @@ The messages we consume will be in JSON format so we need a parser. Pika is the 
   
 In order to make use of the threading package, let's subclass the Thread class:
 
-```
+```py
 class ThreadedConsumer(threading.Thread):
     def __init__(self):
         threading.Thread.__init__(self)
@@ -73,7 +74,7 @@ The constructor will create an entirely new connection to Rabbit because pika is
 
 ## Putting It All Together
 
-```
+```py
 #!/usr/bin/env python3
 
 import json

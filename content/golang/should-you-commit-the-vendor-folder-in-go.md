@@ -1,5 +1,6 @@
 ---
 title: "Should You Commit the Vendor Folder in Go?"
+author: Lane Wagner
 date: "2020-11-16"
 categories: 
   - "golang"
@@ -25,7 +26,7 @@ Yeah. Yeah it will. Most of the time.
 
 The error code above famously [plagued the developer world](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/) because developers were too lazy, or perhaps too sloppy, to write a few simple lines of code. Had a copy of the dependency been committed to all the projects that depended on `leftpad` then nothing would have been broken when the package was removed from `NPM`.
 
-```
+```js
 module.exports = leftpad;
 function leftpad (str, len, ch) {
   str = String(str);

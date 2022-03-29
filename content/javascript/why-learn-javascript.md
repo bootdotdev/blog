@@ -1,5 +1,6 @@
 ---
 title: "6 Critical Reasons Beginner Programmers Should Learn JavaScript in 2021"
+author: Zulie Rane
 date: "2021-05-25"
 categories: 
   - "javascript"

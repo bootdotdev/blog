@@ -1,5 +1,6 @@
 ---
 title: "Qvault's Lead Engineer Interviewed on \"Running in Production\""
+author: Lane Wagner
 date: "2019-12-09"
 categories: 
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Go-CoNLLU - Some Much Needed Machine Learning Support in Go"
+author: Lane Wagner
 date: "2020-06-08"
 categories: 
   - "golang"
@@ -30,7 +31,7 @@ go get github.com/nuvi/go-conllu
 
 Then in a new project:
 
-```
+```go
 package main
 
 import (
@@ -58,9 +59,3 @@ func main() {
 All the sentences and tokens in the corpus will be printed to the console.
 
 If you need a .conllu corpus file you can download the Universal Dependencies English training model here: [en\_ewt-ud](https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/master/en_ewt-ud-train.conllu)[\-](https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/master/en_ewt-ud-train.conllu)[train.conllu](https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/master/en_ewt-ud-train.conllu)
-
-## Related Articles
-
-- [How to Build JWT's In Go](https://qvault.io/2020/02/20/how-to-build-jwts-in-go-golang/)
-- [Building a Music/Video Streaming Server in Go - Using HLS](https://qvault.io/2019/12/03/building-a-music-video-streaming-app-in-go-using-hls/)
-- [How to: Global Constant Maps and Slices in Go](https://qvault.io/2019/10/21/how-to-global-constant-maps-and-slices-in-go/)

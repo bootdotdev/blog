@@ -1,5 +1,6 @@
 ---
 title: "All You Need to Know About Qvault's Achievements System"
+author: Lane Wagner
 date: "2020-11-05"
 categories: 
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Building a Red-Black Binary Tree in Python"
+author: Lane Wagner
 date: "2021-06-21"
 categories: 
   - "python"
@@ -67,7 +68,7 @@ In addition to all the properties of a [Binary Search Tree](https://qv
 
 Our implementation will use a `Tree` class and a `Node` class. The Node will be fairly simple, it's just a constructor.
 
-```
+```py
 class RBNode:
     def __init__(self, val):
         self.red = False
@@ -81,7 +82,7 @@ class RBNode:
 
 Next let's create a tree class with a constructor.
 
-```
+```py
 class RBTree:
     def __init__(self):
         self.nil = RBNode(0)
@@ -93,7 +94,7 @@ class RBTree:
 
 ### Step 3 - Insert method
 
-```
+```py
 def insert(self, val):
     # Ordinary Binary Search Insertion
     new_node = RBNode(val)
@@ -134,7 +135,7 @@ We'll need some rotation methods in our "fix" step that's coming up. Let's code 
 
 ![](/img/rotate_red_black_tree_right.gif)
 
-```
+```py
 # rotate left at node x
 def rotate_left(self, x):
     y = x.right
@@ -155,7 +156,7 @@ def rotate_left(self, x):
 
 ### Step 5 - Rotate right
 
-```
+```py
 # rotate right at node x
 def rotate_right(self, x):
     y = x.left
@@ -178,7 +179,7 @@ def rotate_right(self, x):
 
 The real bread and butter is in this step, it's what makes a red-black tree balanced.
 
-```
+```py
 def fix_insert(self, new_node):
     while new_node != self.root and new_node.parent.red:
         if new_node.parent == new_node.parent.parent.right:
@@ -216,7 +217,7 @@ def fix_insert(self, new_node):
 
 ## Full Example of Red-Black Tree in Code
 
-```
+```py
 import random
 
 

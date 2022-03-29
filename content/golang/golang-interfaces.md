@@ -1,5 +1,6 @@
 ---
 title: "Best Practices for Interfaces in Go"
+author: Lane Wagner
 date: "2020-03-15"
 categories: 
   - "golang"
@@ -13,7 +14,7 @@ In Go, an interface is a custom type that other types are able to _implement_, w
 
 For example, errors in Go are interfaces, and the standard `error` interface is simple, all a type needs to do to be considered an `error` is define an `Error()` method that accepts no parameters and returns a `string`.
 
-```
+```go
 type error interface {
     Error() string
 }
@@ -21,7 +22,7 @@ type error interface {
 
 The simplicity of the `error` interface makes [writing logging](https://qvault.io/2020/01/07/logging-for-gophers-idiomatic-log-strategies-in-go-golang/) and metrics implementations much easier. Let's define a struct that represents a network problem:
 
-```
+```go
 type networkProblem struct {
 	message string
 	code    int
@@ -30,7 +31,7 @@ type networkProblem struct {
 
 Then we can define an `Error()` method:
 
-```
+```go
 func (np networkProblem) Error() string {
 	return fmt.Sprintf("network error! message: %s, code: %v", np.message, np.code)
 }
@@ -38,7 +39,7 @@ func (np networkProblem) Error() string {
 
 Now, we can use an instance of the `networkProblem` struct wherever an error is accepted.
 
-```
+```go
 func handleErr(err error) {
 	fmt.Println(err.Error())
 }
@@ -67,7 +68,7 @@ If there is only one piece of advice that you take away from this article, make 
 
 Here is an example from the standard [HTTP package](https://golang.org/pkg/net/http/#pkg-overview) of a larger interface that's a good example of defining minimal behavior:
 
-```
+```go
 type File interface {
     io.Closer
     io.Reader
@@ -85,7 +86,7 @@ An interface should define what is necessary for other types to classify as a me
 
 For example, let's assume we are building an interface to describe the components necessary to define a car.
 
-```
+```go
 type car interface {
 	Color() string
 	Speed() int
@@ -97,7 +98,7 @@ type car interface {
 
 Instead, the developer should have relied on the native functionality of [type assertion](https://yourbasic.org/golang/type-assertion-switch/) to derive the underlying type when given an instance of the **car** interface. Or, if a sub-interface is needed, it can be defined as:
 
-```
+```go
 type firetruck interface {
 	car
 	HoseLength() int
@@ -119,7 +120,7 @@ Which inherits the required methods from `car` and adds one additional required 
 
 The empty interface doesn't specify any methods, and as such every type in Go implements the empty interface.
 
-```
+```go
 interface{}
 ```
 
@@ -133,7 +134,7 @@ Interfaces can be `nil`, in fact, it's their zero value. That's why when we chec
 
 It's a common "gotcha" in Go to implement a method on a pointer type and expect the underlying type to implement the interface, _it doesn't work like that_.
 
-```
+```go
 type rectangle interface {
     height() int
     width() int
@@ -154,7 +155,7 @@ func (sq *square) height() int {
 
 Though you may expect it to, in this example the `square` type does **not** implement the `rectangle` interface. The `*square` type **does**. If I wanted the `square` type to implement the `rectangle` interface I would just need to remove the pointer receivers.
 
-```
+```go
 type rectangle interface {
     height() int
     width() int
@@ -172,9 +173,3 @@ func (sq square) height() int {
     return sq.length
 }
 ```
-
-## Related Work
-
-- [How To Separate Library Packages in Go](https://qvault.io/2020/03/29/how-to-separate-library-packages-in-go/)
-- [Golang Mutexes – What Is RWMutex For?](https://qvault.io/2020/03/19/golang-mutexes-what-is-rwmutex-for/)
-- [How To Build JWT’s in Go (Golang)](https://qvault.io/2020/02/20/how-to-build-jwts-in-go-golang/)

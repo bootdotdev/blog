@@ -1,5 +1,6 @@
 ---
 title: "Qvault's Refer a Friend Program"
+author: Lane Wagner
 date: "2020-12-29"
 categories: 
   - "news"

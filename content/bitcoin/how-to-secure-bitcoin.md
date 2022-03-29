@@ -1,5 +1,6 @@
 ---
 title: "How to Secure Your Bitcoin"
+author: Lane Wagner
 date: "2019-08-30"
 categories: 
   - "bitcoin"

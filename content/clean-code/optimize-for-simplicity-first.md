@@ -1,5 +1,6 @@
 ---
 title: "Optimize For Simplicity First"
+author: Lane Wagner
 date: "2020-08-15"
 categories: 
   - "clean-code"
@@ -33,7 +34,7 @@ There's nothing wrong with writing reusable functions, and most well-written fun
 
 If there's currently only one place in your application where a function is being called, don't worry about making that function the most generalized version of itself. For example, let's say I have some validation middleware in my [Go API](https://qvault.io/golang/boilerplating-a-new-go-program-microservice/):
 
-```
+```go
 type apiParams struct {
 	OrgID  string
 	UserID string
@@ -52,7 +53,7 @@ func validateParams(params apiParams) error {
 
 A useful function to be sure, but my [craving for DRYness](https://qvault.io/clean-code/dry-code/) may tempt me to do the following:
 
-```
+```go
 type apiParams struct {
 	OrgID  string
 	UserID string

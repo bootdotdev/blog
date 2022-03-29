@@ -1,5 +1,6 @@
 ---
 title: "Coding Interviews - Why you shouldn't give homework"
+author: Lane Wagner
 date: "2021-11-18"
 categories: 
   - "jobs"

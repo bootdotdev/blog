@@ -1,5 +1,6 @@
 ---
 title: "Rust Backend vs Go Backend in Web Development"
+author: Lane Wagner
 date: "2020-07-17"
 categories: 
   - "golang"
@@ -58,7 +59,7 @@ Now that we've compared and contrasted Rust and Go conceptually, let's take a lo
 
 ### Rust HTTP Backend Server Example
 
-```
+```rust
 // example taken from https://gist.github.com/mjohnsullivan/e5182707caf0a9dbdf2d
 
 use std::net::{TcpStream, TcpListener};
@@ -119,7 +120,7 @@ If you take a look at the standard HTTP create, you'll see that it's an intentio
 
 Golang HTTP Backend Server Example
 
-```
+```go
 package main
 
 import (

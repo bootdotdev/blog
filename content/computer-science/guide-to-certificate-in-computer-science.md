@@ -1,5 +1,6 @@
 ---
 title: "Guide to Getting a Certificate in Computer Science in 2021"
+author: Zulie Rane
 date: "2020-12-15"
 categories: 
   - "computer-science"

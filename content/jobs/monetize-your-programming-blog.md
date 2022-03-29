@@ -1,5 +1,6 @@
 ---
 title: "7 Ways for Beginner Coders to Monetize Programming Blogs"
+author: Lane Wagner
 date: "2021-02-26"
 categories: 
   - "jobs"

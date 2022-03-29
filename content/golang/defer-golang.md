@@ -1,5 +1,6 @@
 ---
 title: "How to Properly Use Defer in Golang"
+author: Lane Wagner
 date: "2021-06-01"
 categories: 
   - "golang"
@@ -13,7 +14,7 @@ In the Go programming language, `defer` is a keyword that allows developers to d
 
 ### Simple defer example - hello world
 
-```
+```go
 func main() {
     defer fmt.Println("world") // deferred until main() exits
     fmt.Println("hello")
@@ -28,7 +29,7 @@ func main() {
 
 After programming in Go, it's really hard to remember how I dealt with closing connections or files in other languages. The `defer` statement is a very clean way to deal with any sort of "cleanup" that needs to happen in a function.
 
-```
+```go
 resp, err := http.Get(url)
 if err != nil{
     log.Println(err)
@@ -40,7 +41,7 @@ In Go's standard [http library](https://golang.org/pkg/net/http/), the documenta
 
 In the example above, you might be thinking, "I'll just close the response when I'm done with it, why should I `defer` it?". In my experience, the main reason to use `defer` is due to Go developers' liberal use of guard clauses. When a function has many exit points (places where it can `return` early), you don't want to prefix every return with a response closure. What if you miss one? Let's look at an example.
 
-```
+```go
 func getUser() (User, error) {
     resp, err := http.Get("https://example.tld/users")
     if err != nil{
@@ -62,7 +63,7 @@ func getUser() (User, error) {
 
 Notice how `resp.Body.Close()` needs to be called in two places - at each potential exit point. With `defer`, we can simply our code.
 
-```
+```go
 func getUser() (User, error) {
     resp, err := http.Get("https://example.tld/users")
     if err != nil{
@@ -89,7 +90,7 @@ I don't want to spend too much time on this, but some people have stumbled acros
 
 Simply put, _recover_ is a builtin function that regains control of a panicking goroutine. Recover is only used inside deferred functions. Calling `recover()` inside a deferred function stops the panicking sequence by and retrieves the error message passed to the `panic()` function call.
 
-```
+```go
 func recoverWithMessage() {  
     if r := recover(); r!= nil {
         fmt.Println("recovered from", r)
@@ -125,7 +126,7 @@ The example above is a complicated and non-idiomatic way to handle runtime probl
 
 Unlike other higher-order functions in Go, when you "pass" a function to the `defer` keyword, you pass an entire function call, not just the name of the function. This allows the function's arguments to be evaluated immediately. The `defer` keyword just ensures that the _body_ of the function won't run until the parent function returns.
 
-```
+```go
 func main() {
     printMath(5, 6, multiply) // the "multiply" function is passed without arguments
 }
@@ -152,7 +153,7 @@ defer fmt.Println(x + y)
 
 Deferred function calls are pushed onto a stack data structure. When the parent function returns, all its deferred calls are executed in the reverse order that they were created.
 
-```
+```go
 defer fmt.Println("third")
 defer fmt.Println("second")
 defer fmt.Println("first")

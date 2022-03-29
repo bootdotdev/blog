@@ -1,5 +1,6 @@
 ---
 title: "6 Computer Science Resume Examples for 2021"
+author: Lane Wagner
 date: "2020-12-14"
 categories: 
   - "computer-science"
@@ -15,12 +16,15 @@ As a point of interest before we get started, if you need an extra resume boost,
 
 ## CS Resume Templates - Table of Contents
 
-1. [Entry-Level Web Developer - Computer Science Student](#cs-student-entry-web)
-2. [Front-End Developer Resume Sample - Self-Taught](#self-taught-web-position)
-3. [Mobile Developer Internship Resume Sample - CS Student](#cs-student-mobile-internship)
-4. [Back-End Development Resume Sample - Self-Taught](#self-taught-backend-web)
-5. [DevOps Resume Sample - CS Student](#cs-student-devops-position)
-6. [Game Development Resume Sample - Self-Taught](#self-taught-game-dev)
+- [CS Resume Templates - Table of Contents](#cs-resume-templates---table-of-contents)
+- [Rules of Thumb Checklist](#rules-of-thumb-checklist)
+- [#1 Entry-Level Web Developer - Computer Science Student](#1-entry-level-web-developer---computer-science-student)
+- [#2 Front-End Developer Resume Sample - Self-Taught](#2-front-end-developer-resume-sample---self-taught)
+- [#3 Mobile Developer Internship Resume Sample - CS Student](#3-mobile-developer-internship-resume-sample---cs-student)
+- [#4 Back-End Development Resume Sample - Self-Taught](#4-back-end-development-resume-sample---self-taught)
+- [#5 DevOps Resume Sample - CS Student](#5-devops-resume-sample---cs-student)
+- [#6 Game Development Resume Sample - Self-Taught](#6-game-development-resume-sample---self-taught)
+- [Good Luck](#good-luck)
 
 ## Rules of Thumb Checklist
 

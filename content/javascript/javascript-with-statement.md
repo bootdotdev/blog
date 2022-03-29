@@ -1,5 +1,6 @@
 ---
 title: "JavaScript With Statement Explained – A Deep Dive"
+author: Lane Wagner
 date: "2020-01-15"
 categories: 
   - "javascript"
@@ -13,7 +14,7 @@ Note: Use of the _with_ statement is discouraged. It can lead to strange bugs. T
 
 ### Usage
 
-```
+```js
 with (expression){
   statement
 }
@@ -25,7 +26,7 @@ _statement_: Code that will run with the evaluated expression as the default obj
 
 ## Example
 
-```
+```js
 let car = {color: 'red'}
 with(car){
   console.log(color)
@@ -38,7 +39,7 @@ As you can see, the car object becomes the default object in the scope. The obje
 
 If the variable already exists in the parent scope, it will be overwritten:
 
-```
+```js
 let color = 'blue'
 let car = {color: 'red'}
 with(car){
@@ -58,7 +59,7 @@ with(car){
 
 While using `with` can make long pieces of code easier to read due to the removal of long accessor paths, the danger of potential bugs due to ambiguity isn't worth the convenience.
 
-```
+```js
 with(car.make.model){
   let size = width * height * length;
 }
@@ -69,9 +70,3 @@ let size = car.make.model.width * car.make.model.height * car.make.model.length;
 ```
 
 There's an argument to be made that code will be smaller and easier to send to the browser by using 'with' statements. While true, the gains are negligible, especially when compared to what code minifiers do.
-
-## Related Reading
-
-- [JavaScript Map Function Explained - A Deep Dive](https://qvault.io/2020/01/12/javascript-map-function-explained-a-deep-dive/)
-- [JavaScript vs Java – Differences, Similarities, and History](https://qvault.io/2020/01/14/javascript-vs-java-differences-similarities-and-history/)
-- [Go’s WaitGroup – JavaScript’s PromiseAll??](https://qvault.io/2020/06/04/gos-waitgroup-javascripts-promiseall/)

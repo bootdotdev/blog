@@ -1,5 +1,6 @@
 ---
 title: "Writing Good Unit Tests; Don't Mock Database Connections"
+author: Lane Wagner
 date: "2020-11-23"
 categories: 
   - "clean-code"
@@ -19,7 +20,7 @@ I work on a lot of RESTful Go API servers, and I do my best to write small testa
 
 In Go, unit tests can be executed using the `go test` command and some example source code looks something like this:
 
-```
+```go
 func TestLogPow(t *testing.T) {
 	expected := math.Round(math.Log2(math.Pow(7, 8)))
 	actual := math.Round(logPow(7, 8, 2))
@@ -37,7 +38,7 @@ func TestLogPow(t *testing.T) {
 
 Where we are testing the `logPow` function that looks like this:
 
-```
+```go
 // logPow calculates log_base(x^y)
 // without leaving logspace for each multiplication step
 // this makes it take less space in memory
@@ -65,7 +66,7 @@ In web development, it is commonly regarded as good practice (see [Clean Code](h
 
 Take a look at the following function:
 
-```
+```go
 func saveUser(db *sql.DB, user *User) error {
 	if user.EmailAddress == "" {
 		return errors.New("user requires an email")
@@ -92,7 +93,7 @@ Developers should be able to clone a repo and immediately run tests that pass.
 
 The way to fix the code so that tests can be implemented would be to separate the testable logic. For example:
 
-```
+```go
 func saveUser(db *sql.DB, user *User) error {
 	err := validateUser(user)
 	if err != nil{
@@ -114,7 +115,7 @@ Now our primary function for saving users has been broken into three different f
 
 We don't need to write a test that tests this function as a whole, we can test the parts we care about independently. Assuming the `saveUserInDB` function is just making a SQL query, it probably doesn't need a unit test at all. If the password hashing algorithm contains any more logic than a simple call to a well-tested crypto library then we can easily write a test for it, otherwise, we can trust the tests in the crypto library. The only test we probably need here is to test our own business logic, the `validateUser` function.
 
-```
+```go
 func TestValidateUser(t *testing.T) {
 	err := validateUser(&User{})
 	if err == nil {
@@ -139,7 +140,7 @@ While the last rule of thumb, "unit tests shouldn't depend on infrastructure" is
 
 However, some engineers would rather lazily create a mock database interface and test the whole damn thing.
 
-```
+```go
 type sqlDB interface {
 	Exec(query string, args ...interface{}) (sql.Result, error)
 }
@@ -181,7 +182,7 @@ With this code, we could now write a unit test that calls the entire `saveUser` 
 
 Building on the example of the refactored `saveUser` function before, we sill have two functions that are likely dependent on third party libraries, namely the `hash` function and the `saveUserToDB` function. If we've written our code well, those functions shouldn't do much more than encapsulate a libraries API.
 
-```
+```go
 func hash(password string) (string, error) {
 	const cost = 10
 	bytes, err := bcrypt.GenerateFromPassword([]byte(password), cost)

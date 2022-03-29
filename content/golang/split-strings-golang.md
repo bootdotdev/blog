@@ -1,5 +1,6 @@
 ---
 title: "Splitting a String into a Slice in Golang"
+author: Lane Wagner
 date: "2021-04-15"
 categories: 
   - "golang"
@@ -28,7 +29,7 @@ I can't begin to tell you how often I split strings in Go. More often than not I
 
 Go's rich standard library makes it easy to split a string into a slice. 99% of the time you need to split strings in Go, you'll want the [strings](https://golang.org/pkg/strings) package's [strings.Split() function](https://golang.org/pkg/strings/#Split).
 
-```
+```go
 package main
 
 import (
@@ -52,7 +53,7 @@ The `strings.SplitN()` function takes three arguments: the string to be split, a
 
 To be honest, I don't use this function very often, but it could be useful in niche conditions. For example, if you are working on a large document and are only interested in the first part of the text.
 
-```
+```go
 package main
 
 import (
@@ -74,7 +75,7 @@ func main() {
 
 Similar to `Split()`, the `SplitAfter()` function splits the original string but leaves the delimiters at the end of each substring.
 
-```
+```go
 package main
 
 import (
@@ -94,7 +95,7 @@ func main() {
 
 `SplitAfterN` does the same thing as `SplitAfter` except it only splits the first `N` substrings. Everything else is retained in the final substring.
 
-```
+```go
 package main
 
 import (
@@ -114,7 +115,7 @@ func main() {
 
 The strings package can do more than just separate a string based on a provided delimiter. The [strings.Fields() function](https://golang.org/pkg/strings/#Fields) separates a string **on all kinds of whitespace** and excludes them from the final result. This is useful if you don't care about the type of whitespace, e.g. tabs, spaces, and newlines all count as spaces.
 
-```
+```go
 package main
 
 import (
@@ -135,7 +136,7 @@ func main() {
 
 Regular expressions are a popular way to manipulate strings, and Go's built-in regex engine can help us out. We don't even need to use the `strings` package here, instead we'll use the [regexp package](https://golang.org/pkg/regexp/).
 
-```
+```go
 package main
 
 import (

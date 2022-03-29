@@ -1,5 +1,6 @@
 ---
 title: "The History of Computer Science - A Timeline"
+author: Winston Wagner
 date: "2020-12-03"
 categories: 
   - "computer-science"

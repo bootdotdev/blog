@@ -1,5 +1,6 @@
 ---
 title: "Top 8 Tricks to Learn Coding Fast"
+author: Lane Wagner
 date: "2021-02-22"
 categories: 
   - "jobs"
@@ -7,14 +8,16 @@ categories:
 
 The journey to becoming a gainfully employed software engineer can feel long. The good news is, you can learn smarter not harder. Apply these eight tricks and you'll be learning to program a lot faster than the average bear.
 
-1. [There are no shortcuts. Learn the basics first](#no-shortcuts)
-2. [Don't watch YouTube videos](#no-youtube)
-3. [Learn by doing. Hands-on courses and projects only](#hands-on)
-4. [Googling is a skill. Learn to Google better](#google-it)
-5. [Once you've Googled the same thing three times, write it down](#write-down)
-6. [Become a member of coding communities](#community)
-7. [Contribute to open-source](#open-source)
-8. [When you get seriously stuck, sleep on it](#sleep)
+- [1\. There are no shortcuts. Learn the basics first](#1-there-are-no-shortcuts-learn-the-basics-first)
+- [2\. Don't watch Youtube videos (at least not for everything)](#2-dont-watch-youtube-videos-at-least-not-for-everything)
+- [3\. Learn by doing. Hands-on courses and projects only](#3-learn-by-doing-hands-on-courses-and-projects-only)
+- [4\. Googling is a skill. Learn to Google better](#4-googling-is-a-skill-learn-to-google-better)
+  - [Good Signs](#good-signs)
+  - [Bad Signs](#bad-signs)
+- [5\. Once you've Googled the same thing three times, write it down](#5-once-youve-googled-the-same-thing-three-times-write-it-down)
+- [6\. Become a member of coding communities](#6-become-a-member-of-coding-communities)
+- [7\. Contribute to open-source](#7-contribute-to-open-source)
+- [8\. When you get stuck, sleep on it](#8-when-you-get-stuck-sleep-on-it)
 
 ## 1\. There are no shortcuts. Learn the basics first
 

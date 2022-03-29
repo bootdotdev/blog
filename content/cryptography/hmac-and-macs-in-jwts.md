@@ -1,5 +1,6 @@
 ---
 title: "HMAC and MACs - The Inner Workings of JWTs"
+author: Lane Wagner
 date: "2020-08-05"
 categories: 
   - "cryptography"

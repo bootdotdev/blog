@@ -1,5 +1,6 @@
 ---
 title: "Announcing a \"Basic Intro to Coding\" Course in JavaScript"
+author: Lane Wagner
 date: "2020-07-06"
 categories: 
   - "javascript"

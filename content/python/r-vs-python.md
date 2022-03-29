@@ -1,5 +1,6 @@
 ---
 title: "R vs Python: Which Is Best for Data?"
+author: Meghan Reichenbach
 date: "2021-08-25"
 categories: 
   - "python"

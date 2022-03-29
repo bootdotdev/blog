@@ -1,5 +1,6 @@
 ---
 title: "Running Rust in the Browser with Web Assembly"
+author: Lane Wagner
 date: "2020-10-12"
 categories: 
   - "rust"
@@ -27,13 +28,13 @@ Writing code and shipping it to the server hopefully needs no explanation, it's 
 
 Qvault's server is written in Go. I have a simple HTTP handler with the following signature:
 
-```
+```go
 func (cfg config) compileRustHandler(w http.ResponseWriter, r *http.Request)
 ```
 
 At the start of the function we unmarshal the code which was provided in a JSON body:
 
-```
+```go
 type parameters struct {
 	Code string
 }
@@ -49,7 +50,7 @@ if err != nil {
 
 Next, we create a temporary folder on disk that we'll use as a "scratch pad" to create a Rust project.
 
-```
+```go
 usr, err := user.Current()
 if err != nil {
 	respondWithError(w, 500, "Couldn't get system user")
@@ -74,7 +75,7 @@ As you can see, we create the project under the `.wasm/uuid` path in the home di
 
 Next we setup a helper function that will run an operating system command and return the stderr, if it exists:
 
-```
+```go
 func runCmd(workingDir, name string, args ...string) error {
 	cmd := exec.Command(name, args...)
 	cmd.Dir = filepath.Join(workingDir)
@@ -101,7 +102,7 @@ func runCmd(workingDir, name string, args ...string) error {
 
 Next, (back in the HTTP handler) we use that function to create a new Rust project in our temporary directory:
 
-```
+```go
 const projectName = "main"
 err = runCmd(workingDir, "cargo", "new", projectName)
 if err != nil {
@@ -112,7 +113,7 @@ if err != nil {
 
 After that, we need to write the code we were given to disk. Before we do that, however, we need to add some glue. The glue code will override Rust's print macros so that we can provide JavaScript functions that will capture stdout. I thank [Sterling Demille](https://github.com/DeMille) for open sourcing this glue:
 
-```
+```rust
 // copied from https://github.com/DeMille/wasm-glue
 #![feature(set_stdio)]
 #![feature(panic_col)]
@@ -295,7 +296,7 @@ pub fn hook() {
 
 All we need to do is concatenate that glue code to the user provided code, and call `hook()` as the first thing in `main()`.
 
-```
+```go
 func writeRustToDisk(workingDir, projectName, code string) error {
 	// remove old code
 	codePath := filepath.Join(workingDir, projectName, "src", "main.rs")
@@ -329,7 +330,7 @@ func writeRustToDisk(workingDir, projectName, code string) error {
 
 Where `rustGlue` is just a string constant containing the glue from the previous step, and `addHook` is a function that uses a regex to insert the `hook()` call properly:
 
-```
+```go
 func addHook(code string) string {
 	regex := regexp.MustCompile(`(fn\s*main\(\)\s*)\{`)
 	return regex.ReplaceAllString(code, `fn main(){hook();`)
@@ -338,7 +339,7 @@ func addHook(code string) string {
 
 Next, the all-important compilation step:
 
-```
+```go
 err = runCmd(
 	filepath.Join(workingDir, projectName),
 	"cargo",
@@ -365,7 +366,7 @@ A simple `cargo build` with `WASM` as the target. If there is an error, we strip
 
 We use `[wasm-gc](https://lib.rs/crates/wasm-gc)` to optimize the build:
 
-```
+```go
 err = runCmd(
 	filepath.Join(workingDir, projectName),
 	"wasm-gc",
@@ -382,7 +383,7 @@ if err != nil {
 
 Finally we send the WASM back to the frontend as raw bytes:
 
-```
+```go
 dat, err := ioutil.ReadFile(filepath.Join(workingDir, projectName, "target", "wasm32-unknown-unknown", "release", "main.wasm"))
 if err != nil {
 	respondWithError(w, 500, err.Error())
@@ -397,7 +398,7 @@ The Rust front-end has a lot of similarities to the Go front end. They both use 
 
 The main difference here comes down to the `rust_worker.js` file. The equivalent of `go_worker.js` from the referenced article:
 
-```
+```js
 // send(line) sends a single line of stdout back to the browser to // be rendered in the on-screen console
 function send(line){
   postMessage({

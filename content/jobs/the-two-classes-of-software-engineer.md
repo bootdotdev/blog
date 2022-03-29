@@ -1,5 +1,6 @@
 ---
 title: "The Two Classes of Software Engineer"
+author: Lane Wagner
 date: "2021-03-05"
 categories: 
   - "computer-science"

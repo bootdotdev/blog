@@ -1,5 +1,6 @@
 ---
 title: "How to Structure a Golang Project"
+author: Lane Wagner
 date: "2020-10-01"
 categories: 
   - "golang"
@@ -35,7 +36,7 @@ Next, we create a `cmd` folder where we'll store all the executable `main` packa
 
 We also need a `Makefile` that will automatically build all the executables in the `cmd` directory, run tests, check linting and formatting etc. It looks something like this:
 
-```
+```makefile
 all: test vet fmt lint build
 
 test:
@@ -58,7 +59,7 @@ build:
 
 Now we have simple commands to run from the repo's root that will do most of the common tasks we care about. (The above assumes a single executable named `api` in the `cmd` directory)
 
-```
+```bash
 make build # build the code
 make test # test the code
 make vet # check the vetting
@@ -79,7 +80,7 @@ And it's not like `vendor` is on the same order of magnitude as `node_modules`..
 
 In order to get started, and assuming you actually have a program in your `cmd` folder, just run:
 
-```
+```bash
 go mod init
 go mod tidy # unnecessary first time but good habit
 go mod vendor
@@ -106,7 +107,7 @@ If you're containerizing your apps (you probably should), then you'll need a Doc
 
 A minimal `Dockerfile` could look something like this:
 
-```
+```dockerfile
 FROM debian:stretch-slim
 
 WORKDIR /
@@ -128,7 +129,7 @@ So I'm going to get a bit sloppy here. And the reason for that is Github Actions
 
 That said, the test file is universally useful. In `github/workflows/tests.yml`:
 
-```
+```yaml
 name: Tests
 
 on:
@@ -170,7 +171,7 @@ jobs:
 
 Then, for your deploys you might use _something_ like this in `github/workflows/deploy.yml`:
 
-```
+```yaml
 name: Deploy
 
 on:

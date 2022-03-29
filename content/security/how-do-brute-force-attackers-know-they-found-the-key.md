@@ -1,5 +1,6 @@
 ---
 title: "How Do Brute-Force Attackers Know They Found The Key?"
+author: Lane Wagner
 date: "2020-02-11"
 categories: 
   - "cryptography"
@@ -80,11 +81,4 @@ Instead of the attacker guess every single combination, instead, they may try ev
     
 - baby001, baby002, baby003...
     
-
 Assuming 50,000 words in the English dictionary, there are only 50,000,000 combinations! Again, assuming 200 guesses per second, it would take ~2.9 **days** to crack the password... that isn't very long. It is also trivial for the attacker to throw in special characters for corresponding letters. For example, "_@pp1e001_"
-
-## Related Crypto Articles
-
-- [AES-256 Cipher – Python Cryptography Examples](https://qvault.io/2020/02/06/aes-256-cipher-python-cryptography-examples/)
-- [Will Banning Cryptography Keep the Country Safe?](https://qvault.io/2020/02/05/will-banning-cryptography-keep-the-country-safe/)
-- [Is Open-Source Cryptography Really Secure?](https://qvault.io/2020/01/30/is-open-source-cryptography-really-secure/)

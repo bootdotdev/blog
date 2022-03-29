@@ -1,5 +1,6 @@
 ---
 title: "Advanced Algorithms Course Released on Qvault"
+author: Lane Wagner
 date: "2021-04-05"
 categories: 
   - "computer-science"

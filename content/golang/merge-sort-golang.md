@@ -1,5 +1,6 @@
 ---
 title: "Merge Sort in Golang with Examples"
+author: Lane Wagner
 date: "2021-06-10"
 categories: 
   - "golang"
@@ -24,7 +25,7 @@ Merge sort actually has two functions involved, the recursive `mergeSort` functi
 
 Let's write the `mergeSort()` function first. It's a recursive function, which means it calls itself, and in this case, it actually calls itself _twice_. The point of the `mergeSort` function is to split the array into two roughly equal parts, call itself on those parts, then call `merge()` to fit those halves back together.
 
-```
+```go
 func mergeSort(items []int) []int {
     if len(items) < 2 {
         return items
@@ -37,7 +38,7 @@ func mergeSort(items []int) []int {
 
 The `merge()` function is used for merging two sorted lists back into a single sorted list, its where the "magic" really happens. At the lowest level of recursion, the two "sorted" lists will each have a length of 1. Those single element lists will be merged into a sorted list of length two, and we can build of from there.
 
-```
+```go
 func merge(a []int, b []int) []int {
     final := []int{}
     i := 0
@@ -63,7 +64,7 @@ func merge(a []int, b []int) []int {
 
 ## Using the algorithm in code
 
-```
+```go
 func main() {
     unsorted := []int{10, 6, 2, 1, 5, 8, 3, 4, 7, 9}
     sorted := mergeSort(unsortedInput)

@@ -1,5 +1,6 @@
 ---
 title: "Building an NLP Engine Is Hard, but Not as Hard as Defining Terms"
+author: Lane Wagner
 date: "2021-01-19"
 categories: 
   - "misc"

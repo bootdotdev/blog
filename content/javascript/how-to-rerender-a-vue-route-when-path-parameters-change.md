@@ -1,5 +1,6 @@
 ---
 title: "How to Rerender a Vue Route When Path Parameters Change"
+author: Lane Wagner
 date: "2020-07-07"
 categories: 
   - "javascript"
@@ -37,7 +38,7 @@ In the case of the Qvault Playground, we are just doing the same operation that 
 
 If this is a common problem in your app, you can set your entire [router-view](https://router.vuejs.org/api/#router-view) to re-render when its path changes by providing a key property:
 
-```
+```html
 <router-view :key="$route.fullPath" />
 ```
 

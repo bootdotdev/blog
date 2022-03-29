@@ -1,5 +1,6 @@
 ---
 title: "JavaScript vs Java - Differences, Similarities, and History"
+author: Lane Wagner
 date: "2020-11-06"
 categories: 
   - "javascript"
@@ -88,9 +89,3 @@ In JavaScript, classes are optional, and [functional programming](https://qvault
 **In Java concurrency is readily available** and you can read more about it here: [https://howtodoinjava.com/java-concurrency-tutorial/](https://howtodoinjava.com/java-concurrency-tutorial/)
 
 The way JavaScript makes up for being single-threaded is by use of [asynchronous programming and the event-loop](https://dev.to/steelvoltage/if-javascript-is-single-threaded-how-is-it-asynchronous-56gd). Whenever an API Call or some other long-running process needs to happen without blocking the execution of the rest of the program, the event-loop is responsible for doing the waiting. When the asynchronous task completes, the main thread is able to detect the results of the task.
-
-## Related Articles
-
-- [JavaScript Map Function Explained – A Deep Dive](https://qvault.io/2020/01/12/javascript-map-function-explained-a-deep-dive/)
-- [Benchmarking Array Traversal in Javascript – Going Backwards is Fastest](https://qvault.io/2020/01/12/javascript-map-function-explained-a-deep-dive/)
-- [How to Cache Images - React Native Expo (Managed)](https://qvault.io/2020/01/12/javascript-map-function-explained-a-deep-dive/)

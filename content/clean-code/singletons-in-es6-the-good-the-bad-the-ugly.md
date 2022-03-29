@@ -1,5 +1,6 @@
 ---
 title: "Singletons in ES6 - The Good, The Bad, The Ugly"
+author: Lane Wagner
 date: "2019-11-04"
 categories: 
   - "clean-code"
@@ -27,7 +28,7 @@ Which means a singleton is _almost_ a global instance of a class. Gross.
 
 For the purpose of this article, we will assume we are using ES6 modules in our front-end React or Vue project. An example of a singleton we might want could be:
 
-```
+```js
 // Define our state and initialize it
 let darkMode = false;
 

@@ -1,5 +1,6 @@
 ---
 title: "\"Interview Prep - Golang\" Course Released"
+author: Lane Wagner
 date: "2020-08-26"
 categories: 
   - "golang"

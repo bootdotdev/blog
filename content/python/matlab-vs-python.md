@@ -1,5 +1,6 @@
 ---
 title: "Matlab vs Python: 9 Comparisons For Which Language is Best for You"
+author: Zulie Rane
 date: "2021-10-01"
 categories: 
   - "python"

@@ -1,5 +1,6 @@
 ---
 title: "The Ultimate Guide to JSON in Go"
+author: Lane Wagner
 date: "2021-04-28"
 categories: 
   - "golang"
@@ -11,25 +12,27 @@ As a language designed for the web, Go provides extensive support for working wi
 
 ## Table of Contents
 
-- [Encoding and decoding with struct tags](#encoding-decoding-struct-tags)
-    - [Marshaling JSON](#marshal-json)
-    - [Unmarshalling JSON](#unmarshal-json)
-    - [HTTP Server example](#http-server)
-    - [JSON file example](#json-file)
-    - [Omitempty](#omitempty)
-    - [Ignore fields](#ignore)
-- [Default encoding types](#default-type)
-- [Custom JSON marshaling](#custom-json)
-- [Arbitrary data with map\[string\]interface{}](#arbitrary)
-- [Streaming JSON encodings](#streaming-json)
-- [Pretty printing](#pretty-print)
-- [Faster encoding and decoding with ffjson](#faster-encoding)
+- [Table of Contents](#table-of-contents)
+- [Encoding and decoding with struct tags](#encoding-and-decoding-with-struct-tags)
+  - [Example marshal JSON from struct (encode)](#example-marshal-json-from-struct-encode)
+  - [Example unmarshal JSON to struct (decode)](#example-unmarshal-json-to-struct-decode)
+  - [Example - Go JSON HTTP server](#example---go-json-http-server)
+  - [Example - Reading and writing JSON files](#example---reading-and-writing-json-files)
+    - [Write JSON to a file in Go](#write-json-to-a-file-in-go)
+  - [Tag Options - Omitempty](#tag-options---omitempty)
+  - [Tag Options - Ignore field](#tag-options---ignore-field)
+- [Default encoding types](#default-encoding-types)
+- [Custom JSON marshaling](#custom-json-marshaling)
+- [Arbitrary JSON with map\[string\]interface{}](#arbitrary-json-with-mapstringinterface)
+- [Streaming JSON encodings](#streaming-json-encodings)
+- [Pretty printing JSON](#pretty-printing-json)
+- [Faster JSON encoding and decoding](#faster-json-encoding-and-decoding)
 
 ## Encoding and decoding with struct tags
 
 Go takes a unique approach for working with JSON data. The best way to think about JSON data in Go is as an encoded `struct`. When you encode and decode a struct to JSON, the key of the JSON object will be the name of the struct field unless you give the field an explicit JSON [tag](https://golang.org/ref/spec#Tag).
 
-```
+```go
 type User struct {
     FirstName string `json:"first_name"` // key will be "first_name"
     BirthYear int `json:"birth_year"` // key will be "birth_year"
@@ -41,13 +44,13 @@ type User struct {
 
 The `encoding/json` package exposes a `json.Marshal` function that allows us to generate the JSON encoding of any value, assuming that type has an encoder implemented. The good news is, all the [default types](https://qvault.io/golang/default-native-types-golang/) in Go have an encoder created out-of-the-box, and you'll usually be working with structs containing default-type fields.
 
-```
+```go
 func Marshal(v interface{}) ([]byte, error)
 ```
 
 As you can see, `Marshal()` takes a value as input, and returns the encoded JSON as a slice of bytes on success, or an `error` if something went wrong.
 
-```
+```go
 dat, _ := json.Marshal(`User{
     FirstName: "Lane",
     BirthYear: 1990,
@@ -61,13 +64,13 @@ fmt.Println(string(dat))
 
 ### Example unmarshal JSON to struct (decode)
 
-```
+```go
 func Unmarshal(data []byte, v interface{}) error
 ```
 
 Similarly, the `json.Unmarshal()` function takes some encoded JSON data and a pointer to a value where the encoded JSON should be written, and returns an error if something goes wrong.
 
-```
+```go
 dat := []byte(`{
     "first_name":"Lane",
     "birth_year":1990,
@@ -87,7 +90,7 @@ fmt.Println(user)
 
 Building a JSON API in Go is simple, you don't even need a framework to get access to convenient high-level HTTP support. I typically start by writing two little helper functions, `respondWithJSON` and `responsdWithError`.
 
-```
+```go
 func respondWithJSON(w http.ResponseWriter, code int, payload interface{}) error {
     response, err := json.Marshal(payload)
     if err != nil {
@@ -103,7 +106,7 @@ func respondWithJSON(w http.ResponseWriter, code int, payload interface{})
 
 `respondWithJSON` makes it easy to send a JSON response by simply providing the handler's ResponseWriter, an HTTP status code, and a payload to be marshaled (typically a struct).
 
-```
+```go
 func respondWithError(w http.ResponseWriter, code int, msg string) error {
     return respondWithJSON(w, code, map[string]string{"error": msg})
 }
@@ -111,7 +114,7 @@ func respondWithError(w http.ResponseWriter, code int, msg string) error 
 
 The `respondWithError` function wraps the `respondWithJSON` function and always sends an error message. Now let's take a look at how to build a full HTTP handler.
 
-```
+```go
 func handler(w http.ResponseWriter, r *http.Request) {
     defer r.Body.Close()
     type requestBody struct {
@@ -150,7 +153,7 @@ I use JSON files to store configuration from time to time. Go makes it easy to r
 
 #### Write JSON to a file in Go
 
-```
+```go
 type car struct {
     Speed int    `json:"speed"`
     Make  string `json:"make"`
@@ -171,7 +174,7 @@ if err != nil {
 
 Read JSON from a file in Go
 
-```
+```go
 type car struct {
     Speed int    `json:"speed"`
     Make  string `json:"make"`
@@ -191,11 +194,11 @@ if err != nil {
 
 When marshaling data you can leave out a key completely if the key's value contains a zero value using the `omitempty` tag.
 
-```
+```go
 type User struct {
-     FirstName string `json:"first_name,omitempty"`"
-     BirthYear int `json:"birth_year"`
- }
+  FirstName string `json:"first_name,omitempty"`
+  BirthYear int `json:"birth_year"`
+}
 
 // if FirstName = "" and BirthYear = 0
 // marshaled JSON will be:
@@ -210,11 +213,11 @@ type User struct {
 
 As mentioned above, non-exported (lowercase) fields are ignored by the marshaler. If you want to ignore additional fields you can use the `-` tag.
 
-```
+```go
 type User struct {
-     // FirstName will never be encoded
-     FirstName string `json:"-"`
-     BirthYear int `json:"birth_year"`
+    // FirstName will never be encoded
+    FirstName string `json:"-"`
+    BirthYear int `json:"birth_year"`
  }
 ```
 
@@ -222,12 +225,12 @@ type User struct {
 
 JSON and Go types don't match up 1-to-1. Below is a table that describes the type relationships when encoding and decoding.
 
-| Go Type | JSON Type |
-| --- | --- |
-| `bool` | `boolean` |
-| `float64` | `number` |
-| `string` | `string` |
-| nil pointer | `null` |
+| Go Type                                                   | JSON Type                                                          |
+| --------------------------------------------------------- | ------------------------------------------------------------------ |
+| `bool`                                                    | `boolean`                                                          |
+| `float64`                                                 | `number`                                                           |
+| `string`                                                  | `string`                                                           |
+| nil pointer                                               | `null`                                                             |
 | `[time.Time](https://qvault.io/golang/golang-date-time/)` | [RFC 3339](https://tools.ietf.org/html/rfc3339) timestamp (string) |
 
 You will notice that the `float32` and `int` types are missing. Don't worry, you can certainly encode and decode numbers into these types, they just don't have an explicit type in the JSON specification. For example, if you encode an integer in JSON, it's guaranteed not to have a decimal point. However, if someone converts that JSON value to a floating-point number before you decode it, you'll get a runtime error.
@@ -243,13 +246,13 @@ It's rare to encounter an error when marshaling JSON data, but unmarshalling JSO
 
 While most types have a default way to encode and decode JSON data, you may want custom behavior from time to time. Luckily, the `json.Marshal` and `json.Unmarshal` respect the `[json.Marshaler](https://golang.org/pkg/encoding/json/#Marshaler)` and `[json.Unmarshaler](https://golang.org/pkg/encoding/json/#Unmarshaler)` interfaces. In order to [customize your behavior you just need to overwrite their methods](https://qvault.io/golang/golang-interfaces/) `MarshalJSON` and `UnmarshalJSON` respectively.
 
-```
+```go
 type Marshaler interface {
     MarshalJSON() ([]byte, error)
 }
 ```
 
-```
+```go
 type Unmarshaler interface {
     UnmarshalJSON([]byte) error
 }
@@ -257,7 +260,7 @@ type Unmarshaler interface {
 
 One of the most common scenarios for me is want to encode and decode timestamps in a different format, usually due to interoperability with another language like JavaScript.
 
-```
+```go
 type Group struct {
     ID        string        `json:"id"`
     CreatedAt unixTimestamp `json:"created_at"`
@@ -303,7 +306,7 @@ It's unfortunate when this is the case, but sometimes we have to work with arbit
 
 The best way to handle this case is to unmarshal the data into a `map[string]interface{}`
 
-```
+```go
 dat := []byte(`{
     "first_name": "lane",
     "age": 30
@@ -325,14 +328,14 @@ I want to point out that `map[string]interface{}` should _only_ be used when you
 
 Sometimes you don't have the luxury of reading all the JSON data to or from a `[]byte`. If you need to be able to parse data as it's streamed in or out of your program the `encoding/json` package provides `[Decoder](https://golang.org/pkg/encoding/json/#Decoder)` and `[Encoder](https://golang.org/pkg/encoding/json/#Encoder)` types.
 
-```
+```go
 func NewDecoder(r io.Reader) *Decoder
 func NewEncoder(w io.Writer) *Encoder
 ```
 
 Take a look at the following example. It decodes data from standard in, adds a new key `"id"` with a value of `"gopher-man"` and writes the result to standard out.
 
-```
+```go
 dec := json.NewDecoder(os.Stdin)
 enc := json.NewEncoder(os.Stdout)
 for {
@@ -351,13 +354,13 @@ for {
 
 By default, the `json.Marshal` function compresses all the whitespace in the encoded data for efficiency. If you need to print out your JSON data so that it's more easily readable you can pretty-print it using the [json.MarshalIndent](https://golang.org/pkg/encoding/json/#MarshalIndent) function.
 
-```
+```go
 func MarshalIndent(v interface{}, prefix, indent string) ([]byte, error)
 ```
 
 You can customize how you want your pretty JSON to be formatted, but if you just want it to have proper tabs and newlines you can do the following.
 
-```
+```go
 type user struct {
     Name string
     Age  int

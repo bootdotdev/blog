@@ -1,5 +1,6 @@
 ---
 title: "The Highest-Paying Computer Science Jobs of 2021"
+author: Lane Wagner
 date: "2020-12-09"
 categories: 
   - "computer-science"

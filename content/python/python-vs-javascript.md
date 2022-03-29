@@ -1,5 +1,6 @@
 ---
 title: "Python vs JavaScript: Which Should You Learn First?"
+author: Meghan Reichenbach
 date: "2021-08-24"
 categories: 
   - "javascript"

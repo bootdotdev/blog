@@ -1,5 +1,6 @@
 ---
 title: "Simple Setup - Vue Linting in VS Code"
+author: Lane Wagner
 date: "2020-06-17"
 categories: 
   - "javascript"
@@ -17,7 +18,7 @@ After downloading VS Code, we are going to use 2 plugins. [Vue 2 Snippets](https
 
 You will also want to add the following to your project using our package manager's **devDependencies** if you don't already have them:
 
-```
+```bash
 yarn add eslint --dev
 yarn add eslint-plugin-import --dev
 yarn add eslint-plugin-node --dev
@@ -34,7 +35,7 @@ Now that everything is installed, we just need to do some final setup. VS Code h
 
 Paste in these configurations:
 
-```
+```json
 {
   "files.eol": "\n",
   "editor.codeActionsOnSave": {
@@ -60,7 +61,7 @@ This accomplishes several important things.
 
 We need to set our linting rules:
 
-```
+```json
 {
   "root": true,
   "env": {
@@ -112,7 +113,3 @@ You can obviously change this but this is my boilerplate for Vue CLI projects. T
 ## Done!
 
 If you have any questions or if you've noticed that this article has become obsolete please leave a comment and let me know.
-
-## Related Articles
-
-- [Lint on Save with VS Code Official Golang Extension](https://qvault.io/2020/06/30/lint-on-save-with-vs-code-official-golang-extension/)

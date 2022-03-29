@@ -1,5 +1,6 @@
 ---
 title: "Migrating From Vue-CLI & Webpack to Vitejs"
+author: Lane Wagner
 date: "2021-04-26"
 categories: 
   - "javascript"
@@ -17,14 +18,14 @@ tags:
 
 This particularly resonated with me because my (fairly) simple app's development server took over 10 seconds to start up with the [Vue-cli](https://cli.vuejs.org/) and [Webpack](https://webpack.js.org/), and I've spent many hours in the past trying to configure Webpack and [Babel](https://babeljs.io/), when I just needed basic Vue configurations. Let's look at some quick anecdotal comparisons before I dive into the migration guide, so you can see if the benefits of switching are worth it for you.
 
-|  | Vite | Vue-cli + Webpack |
-| --- | --- | --- |
-| Dev server start time | ~600ms | ~10,000ms |
-| HMR time | Unsure, appears _instant_ | ~2,000ms |
-| Production build time | ~15s | ~22s |
-| Number of bundled JS files | 29 JS modules | 18 JS Modules |
-| Average JS bundle size | ~29kb | ~61kb |
-| Total JS bundle size | ~840kb | ~1098kb |
+|                            | Vite                      | Vue-cli + Webpack |
+| -------------------------- | ------------------------- | ----------------- |
+| Dev server start time      | ~600ms                    | ~10,000ms         |
+| HMR time                   | Unsure, appears _instant_ | ~2,000ms          |
+| Production build time      | ~15s                      | ~22s              |
+| Number of bundled JS files | 29 JS modules             | 18 JS Modules     |
+| Average JS bundle size     | ~29kb                     | ~61kb             |
+| Total JS bundle size       | ~840kb                    | ~1098kb           |
 
 Vite vs Vue-cli + Weback
 
@@ -76,7 +77,7 @@ Finally, because Vite only supports modern browsers (sorry if you have to suppor
 
 Vite doesn't store `index.html` in the `public` folder like you're used to, instead it goes right in the root of your project, so move it there. Vite also needs an additional entry point.
 
-```
+```html
 <body>
   <noscript>
     <strong>
@@ -92,7 +93,7 @@ Vite doesn't store `index.html` in the `public` folder like you're used to, inst
 
 You'll also need to move your static asset references to use a simple `/` rather than `<%= BASE_URL %>`.
 
-```
+```html
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -103,7 +104,7 @@ You'll also need to move your static asset references to use a simple `/` rather
 
 Here is the `vite.config.js` I settled on, it goes in the root of the project.
 
-```
+```js
 import { defineConfig } from 'vite';
 import { createVuePlugin } from 'vite-plugin-vue2';
 import path from 'path';
@@ -169,7 +170,7 @@ I use the following three scripts.
 
 Vite is strict when it comes to `Node.js` code being slipped into your front-end bundle. I ran into an issue where a dependency I had required `global` to be defined. Obviously, the best thing is to not require dependencies like that, but in my case I needed it so I added a little shim in `index.html`.
 
-```
+```html
 <!-- polyfill global because shit dependencies -->
   <script>
     const global = globalThis;

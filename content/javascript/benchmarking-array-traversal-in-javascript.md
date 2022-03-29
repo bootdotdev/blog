@@ -1,5 +1,6 @@
 ---
 title: "Benchmarking Array Traversal in Javascript - Going Backwards is Fastest"
+author: Lane Wagner
 date: "2019-11-08"
 categories: 
   - "javascript"
@@ -13,7 +14,7 @@ For a working example of these benchmarks, take a look at this [codepen](https:/
 
 ## 1st: Vanilla JS - Backwards
 
-```
+```js
 for (let i = arr.length-1; i>=0; i--){}
 ```
 
@@ -23,7 +24,7 @@ Going **backwards is faster** than going forward! At each iteration the loop che
 
 ## 2nd: Vanilla JS - Forwards
 
-```
+```js
 for (let i = 0; i< arr.length; i++){}
 ```
 
@@ -31,7 +32,7 @@ for (let i = 0; i< arr.length; i++){}
 
 ## 3rd: ES6 forEach()
 
-```
+```js
 arr.forEach(function(element) {});
 ```
 
@@ -41,7 +42,7 @@ Slow but with a more convenient syntax, nothing surprising here.
 
 ## 4th: jQuery Each
 
-```
+```js
 $.each(arr, function( index, value ) {});
 ```
 
@@ -51,7 +52,7 @@ Eeeeeew... jQuery. Convenient if you live in 2010. Very Slow.
 
 ## Wildcard: For..Of ES6
 
-```
+```js
 for (const item of arr){}
 ```
 
@@ -60,9 +61,3 @@ First and second time running: 153 Milliseconds
 Third+ times running : ~18 milliseconds
 
 This is weird, and I'm not sure how to explain it. Maybe someone smarter than me can tweet me the answer [@wagslane](https://twitter.com/wagslane) . The first two times running this after a fresh browser load are quite slow, but then it gets blazingly fast. I'm assuming there are some es6 optimizations under the hood that kick in.
-
-## Related JS Articles
-
-- [How to Make a Custom Select Component in Vue.js](https://qvault.io/2019/09/09/how-to-make-a-custom-select-component-in-vue-js/)
-- [How to Re-render a Vue Route When Path Parameters Change](https://qvault.io/2020/07/07/how-to-rerender-a-vue-route-when-path-parameters-change/)
-- [Randomness and Entropy in Node and Electron](https://qvault.io/2019/07/03/randomness-and-entropy-in-node-and-electron/)

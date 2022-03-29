@@ -1,5 +1,6 @@
 ---
 title: "They Who Control Encryption"
+author: Lane Wagner
 date: "2020-08-12"
 categories: 
   - "cryptography"
@@ -65,9 +66,3 @@ Hopefully, this drivel never makes it through the Senat. It contains anti-privac
 We thought the [crypto wars had ended in 2005](https://www.fipr.org/press/050525crypto.html), with Part I of the Electronic Communications Act 2000 being removed, and open-source encryption widely available for public use. It is clear however that there are still those that would have the government control and censor all financial transactions and communications online.
 
 Stay safe online, and keep your liberties in mind.
-
-## Related Posts
-
-- [Is AES-256 Quantum Resistant?](https://qvault.io/2019/07/09/is-aes-256-quantum-resistant/)
-- [(Very) Basic Intro To Elliptic Curve Cryptography](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/) 
-- [Practical Cryptography Course](https://qvault.io/practical-cryptography/)

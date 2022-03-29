@@ -1,5 +1,6 @@
 ---
 title: "9 Outstanding Reasons to Learn Python for Finance"
+author: Zulie Rane
 date: "2021-09-14"
 categories: 
   - "python"

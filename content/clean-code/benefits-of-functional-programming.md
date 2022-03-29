@@ -5,6 +5,7 @@ categories:
   - "clean-code"
 tags: 
   - "sharing"
+author: Lane Wagner
 ---
 
 Functional programming is a way to writing code where programs are created strictly through functions. Functional programming has gained quite a bit of traction in recent years among the development community, mostly because of the benefits it provides.
@@ -66,7 +67,7 @@ As you may have realized, the stateful part of the system is not purely function
 
 Examine the following Go code:
 
-```
+```go
 var radius = 2.0
 
 func areaOfCircle() float64 {
@@ -76,14 +77,14 @@ func areaOfCircle() float64 {
 
 Technically this code will work. As long as everywhere I calculate the area of a circle I first update the global `radius` variable I'll get the correct output. the problem is that examining the signature of the function doesn't give the whole story. A pure function will have a signature that tells you all you need to know about its usage.
 
-```
+```go
 // we don't know which circle's area is being computed, there's no explicit input
 func areaOfCircle() float64
 ```
 
 We can fix the problem by making the function pure:
 
-```
+```go
 func areaOfCircle(radius float64) float64 {
     return 3.14 * radius * radius
 }
@@ -95,7 +96,7 @@ Pure functions are definitionally thread-safe. Code is thread-safe when we can g
 
 For example, take the code from above again.
 
-```
+```go
 var radius = 2.0
 
 func areaOfCircle() float64 {
@@ -109,7 +110,7 @@ If two separate threads ([goroutines](https://qvault.io/2020/05/11/concurrency-i
 
 If you've ever tried to write an interpreter for a programming language, you've realized that recursion is a fairly easy concept to implement, at least when compared to imperative ideas like for-loops. Recursion simply requires that functions are able to call themselves, the rest is up to the developer. For-loops require a bunch of custom code in the interpreter or compiler that does the initialization, checks the end condition, executes the body, then finally executes the update statement.
 
-```
+```go
 for (initialization; condition; update) {
     // body of for loop, executed once per iteration
 }
@@ -119,7 +120,7 @@ I'll readily admit that while recursion is simpler, it's often harder for new pr
 
 #### Imperative power function
 
-```
+```js
 function pow(x, n) {
     let res = 1;
     for (let i = 0; i < n; i++) {
@@ -131,7 +132,7 @@ function pow(x, n) {
 
 #### Functional power function
 
-```
+```js
 function pow(x, n) {
     if (n === 1) {
         return x;

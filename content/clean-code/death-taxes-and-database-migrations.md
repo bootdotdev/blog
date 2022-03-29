@@ -1,5 +1,6 @@
 ---
 title: "Death, Taxes, and Database Migrations"
+author: Lane Wagner
 date: "2021-08-17"
 categories: 
   - "clean-code"

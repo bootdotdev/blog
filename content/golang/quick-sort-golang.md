@@ -1,5 +1,6 @@
 ---
 title: "Quick Sort in Golang"
+author: Lane Wagner
 date: "2021-06-17"
 categories: 
   - "golang"
@@ -28,7 +29,7 @@ Quicksort actually makes use of two functions, the main `quicksort()` function a
 
 In Go, the complete code would look like this.
 
-```
+```go
 func partition(arr []int, low, high int) ([]int, int) {
 	pivot := arr[high]
 	i := low
@@ -49,7 +50,7 @@ The `quickSort()` function is really just a wrapper around the partition functio
 
 ![](/img/quicksort_animation.gif)
 
-```
+```go
 func quickSort(arr []int, low, high int) []int {
 	if low < high {
 		var p int
@@ -63,7 +64,7 @@ func quickSort(arr []int, low, high int) []int {
 
 ## Example of using Quicksort in real code
 
-```
+```go
 fmt.Println(quickSortStart([]int{5, 6, 7, 2, 1, 0))
 // prints
 // [0, 1, 2, 5, 6, 7]

@@ -1,5 +1,6 @@
 ---
 title: "(Very) Basic Intro to Hash Functions (SHA-256, MD5, etc)"
+author: Lane Wagner
 date: "2020-01-01"
 categories: 
   - "bitcoin"
@@ -109,9 +110,3 @@ As you can see, if you start with the same word at the beginning, you will alway
 # Disclaimer
 
 On the steps where I convert from English to binary, and from binary to English, I followed no pattern. Don’t let that confuse you. There are many [different ways to convert binary data to English](https://qvault.io/2020/11/03/base64-vs-base58-encoding/) and back, I just didn’t want to get hung up on that in this article.
-
-## Related Articles
-
-- [(Very) Basic Intro to the Scrypt Hash](https://qvault.io/2019/06/26/very-basic-intro-to-the-scrypt-hash/)
-- [Hashing Passwords – Python Cryptography Examples](https://qvault.io/2020/01/29/hashing-passwords-python-cryptography-examples/)
-- [How SHA-2 Works Step-By-Step (SHA-256)](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)

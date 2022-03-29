@@ -1,5 +1,6 @@
 ---
 title: "Automatic Cross-Platform Deployments with Electron on a CI Server (Travis)"
+author: Lane Wagner
 date: "2019-08-08"
 categories: 
   - "open-source"
@@ -15,13 +16,13 @@ I created a [boilerplate repo](https://github.com/lane-c-wagner/electron-ci-boil
 
 We need a package that will handle packing the app into an executable and deploying to Github releases. [Electron Builder](https://github.com/electron-userland/electron-builder) is a fantastic npm package that handles building, signing, notarizing, and deploying an electron app on all three operating systems. Add it using yarn ([recommended by Electron Builder](https://www.npmjs.com/package/electron-builder#installation)):
 
-```
+```bash
 yarn add electron-builder --dev
 ```
 
 Electron Builder uses your app's package.json file for most configuration.
 
-```
+```json
 {
   "name": "{APP_NAME}",
   "version": "{VERSION_NUMBER}",
@@ -83,7 +84,7 @@ You can setup your test script to actually run tests if you want, the above just
 
 At this point you should be able to run
 
-```
+```bash
 yarn release --publish never
 ```
 
@@ -97,7 +98,7 @@ Navigate to [https://travis-ci.org/](https://travis-ci.org/) and sign up using y
 
 Copy this code into _.travis.yml_ at the root of your repository:
 
-```
+```yaml
 language: node_js
 
 node_js:
@@ -179,7 +180,7 @@ The comments in the above file should explain what each step does, but the basic
 
 Copy this file to _deploy.travis.sh_
 
-```
+```bash
 #! /bin/bash
 if [ "$TRAVIS_OS_NAME" == osx ]; then
     # deploy on mac
@@ -202,6 +203,4 @@ The release will be a draft so after each deployment you need to go in manually 
 
 ## Confused?
 
-If you get lost feel free to keep looking back at the [working example repo](https://github.com/lane-c-wagner/electron-ci-boilerplate) and also make sure to look at the logged errors in Travis. If you have questions I am available on our discord server at the following: [https://discord.gg/EEkFwbv](https://discord.gg/EEkFwbv)
-
-Also, if you are looking for more advanced options take a look at the [Qvault](https://github.com/lane-c-wagner/qvault) code. It uses this method along with support for code signing, auto-updates, and notarization.
+If you get lost feel free to keep looking back at the [working example repo](https://github.com/lane-c-wagner/electron-ci-boilerplate) and also make sure to look at the logged errors in Travis.

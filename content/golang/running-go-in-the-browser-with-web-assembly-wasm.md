@@ -1,5 +1,6 @@
 ---
 title: "Running Go in the Browser With Web Assembly (WASM)"
+author: Lane Wagner
 date: "2020-07-01"
 categories: 
   - "golang"
@@ -15,7 +16,7 @@ Update: There is now a sequel to this article outlining how we run the WASM insi
 
 When a user clicks "run", the code (as text) is sent back to our servers. The server is written in Go. As such the handler for the API looks something like this:
 
-```
+```go
 func compileCodeHandler(w http.ResponseWriter, r *http.Request) {
 	defer r.Body.Close()
 
@@ -114,13 +115,13 @@ As you can see, the handler simply takes code as input and responds with a slice
 
 The front end is quite simple. First, we need to include the official Go WASM executor in our page. Assuming you have a go installation on your machine, this JavaScript file can be found at:
 
-```
+```bash
 $(go env GOROOT)/misc/wasm/wasm_exec.js
 ```
 
 Then include the script in the body of your html:
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -134,7 +135,7 @@ Then include the script in the body of your html:
 
 Because Qvault Classroom's front-end is written as a [Vue.js](https://vuejs.org/) single page app, I've created a small es6 module that runs a WASM byte array and returns the output as an array of lines:
 
-```
+```js
 const go = new window.Go();
 
 export default async function runGoWasm(rawData) {

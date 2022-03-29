@@ -1,5 +1,6 @@
 ---
 title: "All the Ways to Write for Loops in Go"
+author: Lane Wagner
 date: "2021-04-10"
 categories: 
   - "golang"
@@ -9,23 +10,23 @@ tags:
 
 A for loop executes a block of code repeatedly, and in Golang, there are several different ways to write one.
 
-1. [The standard three-component loop](#standard)
-2. [For-range loop](#range)
-    1. [Range over slice](#range-slice)
-    2. [Range over map](#range-map)
-    3. [Range over channel](#range-channel)
-    4. [Range over string](#range-string)
-3. [While loop](#while)
-4. [Optional components loop](#optional-components)
-5. [Infinite loop](#infinite)
-6. [Break from a loop](#break)
-7. [Continue (skip to the next iteration) in a loop](#continue)
+- [#1 The standard three-component loop](#1-the-standard-three-component-loop)
+- [#2 For-range loop](#2-for-range-loop)
+  - [Range over a slice in Go](#range-over-a-slice-in-go)
+  - [Range over a map in Go](#range-over-a-map-in-go)
+  - [Range over a channel in Go](#range-over-a-channel-in-go)
+  - [Range over a string in Go](#range-over-a-string-in-go)
+- [#3 While loop](#3-while-loop)
+- [#4 Optional components loop](#4-optional-components-loop)
+- [#5 Infinite loop](#5-infinite-loop)
+- [#6 Break from a loop](#6-break-from-a-loop)
+- [#7 Continue (skip to the next iteration) in a loop](#7-continue-skip-to-the-next-iteration-in-a-loop)
 
 ## #1 The standard three-component loop
 
 Go has fairly standard syntax for the three-component loop you're used to from C, Java, or JavaScript. The big difference is the lack of parentheses surrounding the components.
 
-```
+```go
 for i := 0; i < 100; i++ {
     sum += i
 }
@@ -50,7 +51,7 @@ More often than not, you'll be looping over a collection of items like a `map`, 
 
 ### Range over a slice in Go
 
-```
+```go
 fruits := []string{"apple", "banana", "pear"}
 for i, fruit := range fruits {
     fmt.Println(i, s)
@@ -64,7 +65,7 @@ for i, fruit := range fruits {
 
 ### Range over a map in Go
 
-```
+```go
 ages := map[string]int{
     "lane":    26,
     "preston": 28,
@@ -82,7 +83,7 @@ for name, age := range ages {
 
 ### Range over a channel in Go
 
-```
+```go
 ch := make(chan int)
 go func() {
     for i := 0; i < 3; i++ {
@@ -106,7 +107,7 @@ fmt.Println("channel closed")
 
 ### Range over a string in Go
 
-```
+```go
 name := "lane"
 for i, char := range name {
      // cast the rune to a string for printing 
@@ -124,7 +125,7 @@ for i, char := range name {
 
 By using one component in a for-loop signature rather than three, we can effectively build a while-loop in Golang. There is no `while` keyword in Go.
 
-```
+```go
 sum := 1
 for sum < 10 {
     sum += sum
@@ -136,7 +137,7 @@ fmt.Println(sum)
 
 Building on the idea of a flexible for-loop, we can omit the init or post statements of the three-component loop as we please.
 
-```
+```go
 i := 0
 for ; sum < 1000; i++ {
     sum += i
@@ -154,7 +155,7 @@ This can be a useful pattern when you want something like a [do-while, or an imm
 
 Infinite loops are useful within goroutines when you have a worker or process that should continue perpetually.
 
-```
+```go
 sum := 0
 for {
     sum++ // repeated forever
@@ -166,7 +167,7 @@ for {
 
 Breaking early from a loop can be useful, especially in a forever loop. The `break` keyword will exit the loop immediately.
 
-```
+```go
 sum := 0
 for {
     sum++
@@ -184,7 +185,7 @@ fmt.Println(sum)
 
 It can be useful to skip to the next iteration of a loop early. This can be a good pattern for [guard clauses](https://qvault.io/clean-code/guard-clauses-how-to-clean-up-conditionals/) within a loop.
 
-```
+```go
 for i := 0; i < 10; i++{
     if i % 2 == 0 {
         continue

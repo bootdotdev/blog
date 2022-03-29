@@ -1,5 +1,6 @@
 ---
 title: "Create a Golang Video Streaming Server Using HLS"
+author: Lane Wagner
 date: "2020-09-04"
 categories: 
   - "golang"
@@ -53,7 +54,7 @@ Let's set up our project with the following folder structure:
 
 Copy the following code into main.go:
 
-```
+```go
 package main
 
 import (
@@ -87,7 +88,7 @@ func addHeaders(h http.Handler) http.HandlerFunc {
 
 Now run the server:
 
-```
+```bash
 go run main.go
 ```
 
@@ -96,9 +97,3 @@ Your server is live! Test your code and listen to the music stream by using an H
 Simply paste your song's URI and listen:
 
 http://localhost:8080/bachgavotteshort/outputlist.m3u8
-
-## Related Articles
-
-- [Building an HLS Streaming Server in NodeJS](https://qvault.io/2020/07/28/hls-video-streaming-with-node-js-a-tutorial/) 
-- [Lint on Save With VS Code Official Golang Extension](https://qvault.io/2020/06/30/lint-on-save-with-vs-code-official-golang-extension/) 
-- [Running Go in the Browser With Web Assembly (WASM)](https://qvault.io/2020/07/01/running-go-in-the-browser-with-web-assembly-wasm/)

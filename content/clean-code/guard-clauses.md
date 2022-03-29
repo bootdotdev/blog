@@ -1,5 +1,6 @@
 ---
 title: "Guard Clauses - How to Clean up Conditionals"
+author: Lane Wagner
 date: "2020-09-06"
 categories: 
   - "clean-code"
@@ -13,7 +14,7 @@ One of the first concepts [new developers](https://qvault.io/) learn is the if/e
 
 Guard Clauses leverage the ability to return early from a function (or continue through a loop) to make nested conditionals one-dimensional. Instead of using if/else chains, we just return early from the function at the end of each conditional block.
 
-```
+```go
 func divide(dividend, divisor int) (int, error) {
 	if divisor == 0 {
 		return 0, errors.New("Can't divide by zero")
@@ -26,7 +27,7 @@ Error handling in Go naturally encourages developers to make use of guard clause
 
 Let's take a look at an exaggerated example of nested conditional logic:
 
-```
+```js
 function getInsuranceAmount(status) {
   let amount;
   if (!status.hasInsurance()){
@@ -51,7 +52,7 @@ function getInsuranceAmount(status) {
 
 Could be written with guard clauses instead:
 
-```
+```js
 function getInsuranceAmount(status) {
   if (!status.hasInsurance()){
     return 1;
