@@ -1,0 +1,16 @@
+<footer>
+  {{ with .Site.Params.footer }}
+    <div class="py-4">
+      <div class="border-t-2 border-blue-500 w-full"></div>
+    </div> 
+    </footer>
+    <div class="flex flex-row justify-center">
+      <span>{{ replace . "{Year}" now.Year | markdownify}}</span>
+    </div>
+    </footer>
+  {{ end }}
+</footer>
+</div>
+</body>
+
+</html>

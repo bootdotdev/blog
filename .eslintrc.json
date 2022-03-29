@@ -1,0 +1,17 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "worker": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:prettier/recommended"
+  ],
+  "plugins": [
+    "html"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 2019
+  }
+}

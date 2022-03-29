@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    {{if ne .Title .Site.Title}}{{ .Title }} | {{ end }}{{ .Site.Title }}
+  </title>
+  <link rel="stylesheet" href="/css/tail-out.css" />
+  <link rel="stylesheet" href="/css/styles.css" />
+  <link rel="stylesheet" href="/css/fonts.css" />
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+  <link rel="manifest" href="/favicons/site.webmanifest">
+  <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
+</head>
+
+<body class="bg-gray-850 text-gray-50 m-0">
+
+  {{ partial "top_nav.html" . }}
+
+  {{ partial "sticky_cta.html" . }}
+
+  <div class="max-w-4xl m-auto p-4">
+    <nav>
+      <ul>
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>

@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+{{ .Content }} 
+
+<ul>
+  {{ $pages := .Pages }}
+  {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
+  {{ range (where $pages "Section" "!=" "") }}
+  <li>
+    <span class="date">{{ .Date.Format "Jan 02, 2006" }} -</span>
+    <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+  </li>
+  {{ end }}
+</ul>
+
+{{ partial "footer.html" . }}
