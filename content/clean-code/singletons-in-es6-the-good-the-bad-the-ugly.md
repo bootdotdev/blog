@@ -1,5 +1,5 @@
 ---
-title: "Singletons in ES6 -  The Good, The Bad, The Ugly"
+title: "Singletons in ES6 - The Good, The Bad, The Ugly"
 date: "2019-11-04"
 categories: 
   - "clean-code"
