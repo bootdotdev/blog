@@ -1,6 +1,12 @@
 {{ partial "header.html" . }}
 
-{{ .Content }} 
+{{ .Content }}
+
+<main class="mb-4 flex flex-row justify-center">
+  <a href="/categories"><span>Categories</span></a>
+  <span class="mx-2"> | </span>
+  <a href="/index.xml"><span>RSS</span></a>
+</main>
 
 <ul>
   {{ $pages := .Pages }}
@@ -10,11 +16,11 @@
     <div class="mb-10">
       <a href="{{ .RelPermalink }}">
         <div class="hover:opacity-80">
-        <h2 class="text-3xl font-bold text-white mb-2">{{ .Title | markdownify }}</h2>
-        <h3 class="text-sm text-gray-250 mb-8">{{ .Date.Format "Jan 02, 2006" }} by {{ .Params.author }}</h3>
-        {{ if .Params.images }}
-        <img loading="lazy" class="rounded mb-4" src="{{ index (.Params.images) 0 }}" />
-      </div>
+          <h2 class="text-3xl font-bold text-white mb-2">{{ .Title | markdownify }}</h2>
+          <h3 class="text-sm text-gray-250 mb-8">{{ .Date.Format "Jan 02, 2006" }} by {{ .Params.author }}</h3>
+          {{ if .Params.images }}
+          <img loading="lazy" class="rounded mb-4" src="{{ index (.Params.images) 0 }}" />
+        </div>
       </a>
       {{ end }}
       <p>{{.Summary}}</p>
