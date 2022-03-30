@@ -20,15 +20,6 @@ And to further highlight the differences between these two languages, Python is 
 
 So how do you choose between these clashing languages? Let’s start by breaking down which language is best for beginners, then focus on salary, performance, different applications, and which one is best for you!
 
-**Table of contents**
-
-- [Which is best for beginners?](#beginners)
-- [Which has a better salary?](#salary)
-- [Which has better performance?](#performance)
-- [Which is best for building web servers?](#web-servers)
-- [Which is best for ML?](#machine-learning)
-- [Which is best for game development?](#game-development)
-
 ![](/img/pythonvsC-1.jpg)
 
 ## Python vs C++ Which Is Best for Beginners?

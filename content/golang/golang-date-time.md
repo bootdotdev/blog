@@ -12,28 +12,6 @@ images:
 
 Keeping track of time in code has long been every developer's nightmare. While no language or package manages time perfectly, I think Golang does a pretty good job out-of-the-box. This full tutorial should answer ~90% of the questions you'll have about time management in Go.
 
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Overview - How dates and times are stored in Go](#overview---how-dates-and-times-are-stored-in-go)
-  - [Get the current time with time.Now()](#get-the-current-time-with-timenow)
-  - [Create a time object for a specific date](#create-a-time-object-for-a-specific-date)
-- [Printing, parsing, and formatting times in Go](#printing-parsing-and-formatting-times-in-go)
-- [Time durations](#time-durations)
-- [Convert between separate timezones and locations](#convert-between-separate-timezones-and-locations)
-  - [Get the timezone from an existing time object](#get-the-timezone-from-an-existing-time-object)
-  - [Create a new `time.Location` object](#create-a-new-timelocation-object)
-  - [Convert a time from one location to another](#convert-a-time-from-one-location-to-another)
-  - [Custom timezone name](#custom-timezone-name)
-- [Add, subtract and compare times](#add-subtract-and-compare-times)
-  - [Add time and duration](#add-time-and-duration)
-  - [Get difference between two times](#get-difference-between-two-times)
-  - [Compare two times to see which comes after the other](#compare-two-times-to-see-which-comes-after-the-other)
-- [Intervals, sleeping, and tickers](#intervals-sleeping-and-tickers)
-  - [Force the current goroutine to sleep](#force-the-current-goroutine-to-sleep)
-  - [Execute code on an interval using tickers](#execute-code-on-an-interval-using-tickers)
-- [Saving memory with TinyDate and TinyTime](#saving-memory-with-tinydate-and-tinytime)
-
 ## Overview - How dates and times are stored in Go
 
 The first thing to know is that you probably don't need any third-party packages to manage times and dates in Go. The Go standard library's [time](https://golang.org/pkg/time/) package is very robust and can do almost anything you're going to want to do.

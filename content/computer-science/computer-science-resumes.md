@@ -16,18 +16,6 @@ I've looked at hundreds of resumes from computer science students, researched ot
 
 As a point of interest before we get started, if you need an extra resume boost, or you're just looking to learn some computer science fundamentals, I've got you covered. Qvault regularly publishes [job-winning CS courses, so sign up here](https://qvault.io/) if you're into that sort of thing.
 
-## CS Resume Templates - Table of Contents
-
-- [CS Resume Templates - Table of Contents](#cs-resume-templates---table-of-contents)
-- [Rules of Thumb Checklist](#rules-of-thumb-checklist)
-- [#1 Entry-Level Web Developer - Computer Science Student](#1-entry-level-web-developer---computer-science-student)
-- [#2 Front-End Developer Resume Sample - Self-Taught](#2-front-end-developer-resume-sample---self-taught)
-- [#3 Mobile Developer Internship Resume Sample - CS Student](#3-mobile-developer-internship-resume-sample---cs-student)
-- [#4 Back-End Development Resume Sample - Self-Taught](#4-back-end-development-resume-sample---self-taught)
-- [#5 DevOps Resume Sample - CS Student](#5-devops-resume-sample---cs-student)
-- [#6 Game Development Resume Sample - Self-Taught](#6-game-development-resume-sample---self-taught)
-- [Good Luck](#good-luck)
-
 ## Rules of Thumb Checklist
 
 As you pick a template and replace the dummy information for your own, keep these important tips in mind.

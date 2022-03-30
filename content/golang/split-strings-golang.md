@@ -10,21 +10,6 @@ images:
 
 I can't begin to tell you how often I split strings in Go. More often than not I'm just parsing a comma-separated list from an environment variable, and Go's standard library gives us some great tools for that kind of manipulation.
 
-## Table of Contents
-
-- [Split by commas or other delimiters](#delimiters)
-    
-    - [strings.Split](#strings-split)
-    
-    - [strings.SplitN](#strings-split-n)
-- [Split by delimiters and retain the delimiters](#retain-delimiters)
-    
-    - [strings.SplitAfter](https://qvault.io/wp-admin/post.php?post=220051&action=edit#strings-split-after)
-    
-    - [strings.SplitAfterN](https://qvault.io/wp-admin/post.php?post=220051&action=edit#strings-split-after-n)
-- [Split by whitespace and newlines](#whitespace)
-- [Split using a regex](#regex)
-
 ## Split by commas or other delimiters
 
 ### strings.Split()

@@ -18,30 +18,6 @@ Encryption transforms a key and input, the _plaintext_, into an encrypted output
 
 A real-world example would be credit card information that you use for purchases on Amazon or other e-commerce sites. The code in your web browser encrypts the plaintext, your card number, into ciphertext, which to someone without the keys would look like illegible, random text. However, once your card number reaches its intended recipient, the online store, their software would decrypt it back into plaintext so they can charge you for your purchase.
 
-## Table of contents
-
-- [What is cryptography?](#what-is-cryptography)
-- [Table of contents](#table-of-contents)
-- [Principles of cryptography](#principles-of-cryptography)
-  - [Confidentiality](#confidentiality)
-  - [Integrity](#integrity)
-  - [Non-repudiation](#non-repudiation)
-  - [Authentication](#authentication)
-- [Guidelines for cryptographers](#guidelines-for-cryptographers)
-- [What practical problems does cryptography solve?](#what-practical-problems-does-cryptography-solve)
-- [Types of cryptography](#types-of-cryptography)
-  - [Symmetric key cryptography](#symmetric-key-cryptography)
-  - [Asymmetric key cryptography](#asymmetric-key-cryptography)
-  - [****Hash Functions****](#hash-functions)
-- [Cryptology vs cryptography vs cryptanalysis](#cryptology-vs-cryptography-vs-cryptanalysis)
-  - [Cryptology](#cryptology)
-  - [Cryptography](#cryptography)
-  - [Cryptanalysis](#cryptanalysis)
-- [What is quantum computing, and will quantum computing break cryptography?](#what-is-quantum-computing-and-will-quantum-computing-break-cryptography)
-- [How do Bitcoin, cryptocurrency and other blockchains utilize cryptography?](#how-do-bitcoin-cryptocurrency-and-other-blockchains-utilize-cryptography)
-- [History of cryptography - A timeline of important events](#history-of-cryptography---a-timeline-of-important-events)
-- [For further study](#for-further-study)
-
 ## Principles of cryptography
 
 The core principles of modern-day cryptography include:

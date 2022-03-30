@@ -12,24 +12,6 @@ images:
 
 As a language designed for the web, Go provides extensive support for working with JSON data. [JSON (JavaScript Object Notation)](https://www.json.org/json-en.html) is an incredibly popular data exchange format whose syntax resembles simple JavaScript objects. It's one of the most common ways for applications to communicate on the modern web.
 
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Encoding and decoding with struct tags](#encoding-and-decoding-with-struct-tags)
-  - [Example marshal JSON from struct (encode)](#example-marshal-json-from-struct-encode)
-  - [Example unmarshal JSON to struct (decode)](#example-unmarshal-json-to-struct-decode)
-  - [Example - Go JSON HTTP server](#example---go-json-http-server)
-  - [Example - Reading and writing JSON files](#example---reading-and-writing-json-files)
-    - [Write JSON to a file in Go](#write-json-to-a-file-in-go)
-  - [Tag Options - Omitempty](#tag-options---omitempty)
-  - [Tag Options - Ignore field](#tag-options---ignore-field)
-- [Default encoding types](#default-encoding-types)
-- [Custom JSON marshaling](#custom-json-marshaling)
-- [Arbitrary JSON with map\[string\]interface{}](#arbitrary-json-with-mapstringinterface)
-- [Streaming JSON encodings](#streaming-json-encodings)
-- [Pretty printing JSON](#pretty-printing-json)
-- [Faster JSON encoding and decoding](#faster-json-encoding-and-decoding)
-
 ## Encoding and decoding with struct tags
 
 Go takes a unique approach for working with JSON data. The best way to think about JSON data in Go is as an encoded `struct`. When you encode and decode a struct to JSON, the key of the JSON object will be the name of the struct field unless you give the field an explicit JSON [tag](https://golang.org/ref/spec#Tag).

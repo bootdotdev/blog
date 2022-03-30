@@ -18,17 +18,6 @@ Nowadays, so much online material that’s designed to help you learn coding or 
 
 If you believe you have the necessary skills but you still can’t get a programming job, you might be falling into one of these eight missteps. The good news is they’re all fixable. At the end of the day, the only prerequisite to getting a coding job is the desire to get a coding job. If you’ve got that, everything else is within your grasp.
 
-## Table of Contents
-
-1. [You haven’t mastered the fundamentals of computer science](#mastered-fundamentals)
-2. [You’re not presenting yourself in a way that demonstrates you’re a good cultural fit](#culture-fit)
-3. [You’re ignoring good interview skills](#interview-skills)
-4. [You don’t have experience](#no-experience)
-5. [You’re trying to master everything](#master-everything)
-6. [You’re pretending to be more talented than you are](#pretending)
-7. [You haven’t demonstrated you want to learn](#want-to-learn)
-8. [You’re ignoring automated filters](#filters)
-
 ## 1\. You haven’t mastered the fundamentals of computer science.
 
 Many people who learn coding at a bootcamp, instead of focusing on [learning computer science online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/), skip steps, and don’t take the time to do it properly. 

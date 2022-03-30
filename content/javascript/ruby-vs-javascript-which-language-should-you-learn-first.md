@@ -22,14 +22,6 @@ And Matsumoto did just that with Ruby, a high-level, general-purpose, multiparad
 
 But which one should you learn first?
 
-**Table of contents**
-
-- [Which is best for beginners?](#beginners)
-- [Which language earns a higher salary?](#salary)
-- [Which has better performance?](#performance)
-- [Which is best for web development?](#web-development)
-- [Which is best for developing mobile and web apps?](#apps)
-
 Both languages have a lot to offer, but when it comes to choosing which one to learn _first,_ there are a few things to look at. We’ll start by examining which is best suited for beginners and offers the best salary, then analyze performance, different applications, and which one is best for you.
 
 ![](/img/jsvsruby-1.jpg)
