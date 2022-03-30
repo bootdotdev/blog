@@ -67,9 +67,3 @@ The idea is to use the simplest, most-controlled solution we reasonably can. In 
 ## Singletons Suck
 
 Redux, Vuex, singletons, and global variables all suck. Try not to use them. I'm just trying to point out that they all suck to varying degrees. Good luck.
-
-## Related Reading
-
-- [Simple Setup – Vue Linting in VS Code](https://qvault.io/2020/06/17/simple-setup-vue-linting-in-vs-code/)
-- [JavaScript vs Java – Differences, Similarities, and History](https://qvault.io/2020/01/14/javascript-vs-java-differences-similarities-and-history/)
-- [How To Cache Images – React Native Expo (Managed)](https://qvault.io/2020/02/04/how-to-cache-images-react-native-expo-managed/)

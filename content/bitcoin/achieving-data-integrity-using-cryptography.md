@@ -75,9 +75,3 @@ Which should match:
 If they match, congratulations! Your download has been verified. No man in the middle altered the program that you downloaded.
 
 Again, keep in mind that in order to verify that the checksum you were provided wasn't tampered with, you would need also to verify the [GPG signature](https://www.gnupg.org/gph/en/manual/x135.html).
-
-## Related Reading
-
-- [How SHA-2 Works Step-By-Step (SHA-256)](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)
-- [How To Build JWT’s in Go (Golang)](https://qvault.io/2020/02/20/how-to-build-jwts-in-go-golang/)
-- [How Do Brute-Force Attackers Know They Found The Key?](https://qvault.io/2020/02/11/how-do-brute-force-attackers-know-they-found-the-key/)

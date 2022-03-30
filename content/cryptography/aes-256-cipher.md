@@ -113,8 +113,3 @@ a5 5a 20 be
 Obviously the Rijndael cipher used in AES is fairly complex but I hope I’ve been able to shed light on a high-level view of what goes on inside! Thanks for reading.
 
 https://www.youtube.com/watch?v=gP4PqVGudtg
-
-## Related Reading
-
-- [AES-256 Cipher – Python Cryptography Examples](https://qvault.io/2020/02/06/aes-256-cipher-python-cryptography-examples/)
-- [Is AES-256 Quantum Resistant?](https://qvault.io/2019/07/09/is-aes-256-quantum-resistant/)

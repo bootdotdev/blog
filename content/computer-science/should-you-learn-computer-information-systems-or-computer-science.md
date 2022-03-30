@@ -29,11 +29,3 @@ On average, IT specialists make a little more per year than Computer Scientists 
 By contrast, someone with an IT background will have an easier time finding a job in general, as even businesses that do not have a focus on developing technology still utilize it. What's more, a Computer Information Systems degree is broader in scope, further increasing opportunity and potential for returns.
 
 For those less interested in programming computers and creating software, but still interested in working in the field of technology, Computer Information Systems seems the way to go. If you have a head for numbers and a love of programming, Computer Science is an excellent way to make a living, provided you are alright with moving to a technological hotspot - or maybe, in this new climate, you could work from home?
-
-## Thanks For Reading!
-
-Take [computer science courses on our new platform](https://app.qvault.io/)
-
-Follow and hit us up on Twitter [@q\_vault](https://twitter.com/q_vault) if you have any questions or comments
-
-[Subscribe](https://mailchi.mp/5c7f5c281bbe/qvault-newsletter-subscribe) to our Newsletter for more programming articles

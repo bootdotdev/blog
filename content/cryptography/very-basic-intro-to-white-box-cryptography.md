@@ -48,9 +48,3 @@ Intertrust recently claimed to launch the first [enterprise-ready solution](http
 Hopefully this gives you a basic understanding of the purpose of white-box crypto, and even a spoiler of how it works from a 1,000 foot level.
 
 Brecht Wyseur's Thesis on White-Box Crypto: [https://www.esat.kuleuven.be/cosic/publications/thesis-152.pdf](https://www.esat.kuleuven.be/cosic/publications/thesis-152.pdf)
-
-## Related Reading
-
-- [How To Build JWT’s in Go (Golang)](https://qvault.io/2020/02/20/how-to-build-jwts-in-go-golang/)
-- [Achieving Data Integrity Using Cryptography](https://qvault.io/2020/05/04/achieving-data-integrity-using-cryptography/)
-- [How SHA-2 Works Step-By-Step (SHA-256)](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)

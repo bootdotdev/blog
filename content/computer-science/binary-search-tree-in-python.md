@@ -389,7 +389,3 @@ Other common uses include:
 - Rendering calculations - Doom (1993) was famously the first game to use a BST
 - Compilers for low-level coding languages parse syntax using a BST
 - Almost every database in existence uses BSTs for key lookups
-
-## Related Reading
-
-- [Building a Linked List in Python](https://qvault.io/2021/01/11/building-a-linked-list-in-python-with-examples/)

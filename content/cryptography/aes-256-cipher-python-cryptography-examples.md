@@ -159,9 +159,3 @@ def main():
 
 main()
 ```
-
-## Related Reading
-
-- [Is AES-256 Quantum Resistant?](https://qvault.io/2019/07/09/is-aes-256-quantum-resistant/) 
-- [Hashing Passwords – Python Cryptography Examples](https://qvault.io/2020/01/29/hashing-passwords-python-cryptography-examples/)
-- [Cryptology, Cryptography, and Cryptanalysis – Get your Vocabulary Straight!](https://qvault.io/2019/12/16/cryptology-cryptography-and-cryptanalysis-get-your-vocabulary-straight/)

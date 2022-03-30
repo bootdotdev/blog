@@ -187,7 +187,3 @@ class Node:
     def __repr__(self):
         return self.val
 ```
-
-## Related Reading
-
-- [Writing a Binary Search Tree in Python](https://qvault.io/2021/01/12/binary-search-tree-in-python/)

@@ -57,7 +57,7 @@ They could then check each hash they find and see if a hash matches an entry in 
 
 For this reason, we need to salt passwords. Luckily Bcrypt handles salting automagically. For the sake of learning, however, let's assume they didn't. If they didn't, our pseudocode would look something like this:
 
-```
+```py
 # Save new password
 salt = creatRandomSalt()
 hashedPassword = hash(newPassword.concat(salt))
@@ -74,7 +74,7 @@ else:
 
 However, since Bcrypt stores the salt automatically with the hashed result in the "{salt}{hashed}" format, we can just use the following code:
 
-```
+```py
 import bcrypt
 
 # password = userInput
@@ -85,9 +85,3 @@ hashAndSalt = bcrypt.hashpw(password.encode(), bcrypt.gensalt())
 # password = userInput
 valid = bcrypt.checkpw(password.encode(), hashAndSalt)
 ```
-
-## Related Reading
-
-- [(Very) Basic Intro to Key Derivation Functions (Argon2, Scrypt, etc](https://qvault.io/2019/12/30/very-basic-intro-to-key-derivation-functions-argon2-scrypt-etc/)
-- [(Very) Basic Intro to Hash Functions (SHA-256, MD-5, etc)](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc/)
-- [(Very) Basic intro to AES-256 Cipher](https://qvault.io/2020/01/02/very-basic-intro-to-aes-256-cipher/)
