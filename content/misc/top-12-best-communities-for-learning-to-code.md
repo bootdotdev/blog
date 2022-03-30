@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-11-12"
 categories: 
   - "misc"
+images:
+  - /img/Best-Practices-For-Writing-Clean-Interfaces-in-Go-1.webp
 ---
 
 Programming communities are so valuable because the life of a programmer can be isolated, especially if you opt to work as a freelancer or in a remote-first position. Even if you don't have a solitary position, getting in touch with other programmers can make it much easier to improve your own skills and learn about new and exciting projects and technologies in the works. Luckily, there are a ton of amazing communities out there dedicated to helping novice programmers improve their skills, meet like-minded devs, and efficiently network with other experienced professionals.

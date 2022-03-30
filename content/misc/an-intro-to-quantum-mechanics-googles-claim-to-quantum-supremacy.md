@@ -4,6 +4,8 @@ author: Devanshi Arora
 date: "2020-06-19"
 categories: 
   - "misc"
+images:
+  - /img/Google_Quantum_Nature_cover_art_small.webp
 ---
 
 The science that deals with the description of the motion and interaction of subatomic particles is known as Quantum Mechanics. Traditional computers utilize the physics of electricity, the flow of electrons controlled by switches, to control their logic. Quantum computers rely instead on the physical properties of electrons, photons, and other tiny bits of matter which are subjected to the laws of quantum mechanics.

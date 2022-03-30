@@ -6,6 +6,8 @@ categories:
 tags: 
   - "sharing"
 author: Lane Wagner
+images:
+  - /img/calculus-on-a-chalkboard.webp
 ---
 
 Functional programming is a way to writing code where programs are created strictly through functions. Functional programming has gained quite a bit of traction in recent years among the development community, mostly because of the benefits it provides.

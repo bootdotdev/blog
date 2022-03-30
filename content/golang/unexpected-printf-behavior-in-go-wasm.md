@@ -6,6 +6,8 @@ categories:
   - "golang"
 tags: 
   - "sharing"
+images:
+  - /img/fmt.Printf.png
 ---
 
 While working on [Qvault's](https://qvault.io) [Go Playground](https://app.qvault.io/playground/go), I came across a very strange error. The standard library's [fmt.Printf()](https://golang.org/pkg/fmt/?m=all#Printf) function prints nothing to the console when called. _Nothing._

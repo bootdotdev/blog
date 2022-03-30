@@ -1,5 +1,9 @@
 {{ partial "header.html" . }}
 <div class="article-meta mb-4">
+    {{ if .Params.images }}
+    <img class="rounded mb-4" src="{{ index (.Params.images) 0 }}" />
+    {{ end }}
+
     <h1 class="text-3xl font-bold text-white mb-2">{{ .Title | markdownify }}</h1>
 
     {{ if .Params.author }}

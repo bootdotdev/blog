@@ -5,6 +5,8 @@ date: "2021-01-12"
 categories: 
   - "computer-science"
   - "python"
+images:
+  - /img/lone-tree-unsplash.webp
 ---
 
 ## What is a Binary Search Tree?

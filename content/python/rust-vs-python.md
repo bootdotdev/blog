@@ -4,6 +4,8 @@ author: Meghan Reichenbach
 date: "2021-09-15"
 categories: 
   - "python"
+images:
+  - /img/Rust-vs-Python-min.webp
 ---
 
 Rust and Python contrast in a unique way because while they both provide back-end web support, Python thrives as a flexible and consistent language, while Rust makes a name for itself with raw power and speed.

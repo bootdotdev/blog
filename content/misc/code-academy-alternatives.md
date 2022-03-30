@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-10-28"
 categories: 
   - "computer-science"
+images:
+  - /img/learning-to-code-alternatives.jpeg
 ---
 
 Learning to code in the digital age is a skill that will serve you well throughout your career and life in general. However, we've found that many get overwhelmed trying to find the right platform, the perfect first language, the best framework, or the best online communities.

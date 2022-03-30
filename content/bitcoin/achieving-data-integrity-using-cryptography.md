@@ -5,6 +5,8 @@ date: "2020-05-04"
 categories: 
   - "bitcoin"
   - "cryptography"
+images:
+  - /img/photo-1542185400-f1c993ecbea2.jpeg
 ---
 
 Data integrity refers to the accuracy, legitimacy, and consistency of information in a system. When a message is sent, particularly using an untrusted medium, data integrity provides us confidence that the message wasn't tampered with. For example, the SSL signature of [Qvault](https://qvault.io/) provides confidence that the webpage and data coming from our servers are really coming from us and not the NSA.
@@ -42,7 +44,7 @@ The [SHA-256](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/
 
 A common use case for checksums is the verification of a download. In this example, we are going to download the Bitcoin Core node software and verify its integrity. For an updated version go [here](https://bitcoin.org/en/download) or just follow along to use version 0.19.1. I will assume you are on Mac OS, for a different OS follow the instructions on the [download page](https://bitcoin.org/en/download).
 
-1. [Downloa](https://bitcoincore.org/bin/bitcoin-core-0.19.1/bitcoin-0.19.1-osx.dmg)[d the program](https://bitcoin.org/bin/bitcoin-core-0.19.1/SHA256SUMS.asc)
+1. [Download the program](https://bitcoincore.org/bin/bitcoin-core-0.19.1/bitcoin-0.19.1-osx.dmg)
 2. [Download the checksum](https://bitcoin.org/bin/bitcoin-core-0.19.1/SHA256SUMS.asc)
 3. Open a terminal and go to the downloads folder:
 

@@ -5,6 +5,8 @@ date: "2019-09-25"
 categories: 
   - "clean-code"
   - "golang"
+images:
+  - /img/photo-1497005367839-6e852de72767.webp
 ---
 
 Go has become increasingly popular in recent years, especially in my local area. It has been consistently displacing other backend languages like Ruby, Python, C# and Java. Go is wanted for its simplicity, explicitness, speed, and low memory consumption.

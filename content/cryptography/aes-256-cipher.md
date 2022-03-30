@@ -5,6 +5,8 @@ date: "2020-01-02"
 categories: 
   - "cryptography"
   - "security"
+images:
+  - /img/1_Th9nPlIhYveMMsG9RvqQsQ.webp
 ---
 
 AES, or “Advanced Encryption Standard”, is an encryption specification that uses the Rijndael cipher as its symmetric key ciphering algorithm. AES encrypts a message with a private key, and no one but the key holder can decrypt the message. A great example of a good use-case for AES-256 is encrypting all the data on the hard drive of a computer when it's not in use.

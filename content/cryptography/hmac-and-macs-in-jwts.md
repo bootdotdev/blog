@@ -5,6 +5,8 @@ date: "2020-08-05"
 categories: 
   - "cryptography"
   - "security"
+images:
+  - /img/cybersecurity-speakers.webp
 ---
 
 HMACs and MACs are authentication codes and are often the backbone of JWT authentication systems. A Message Authentication Code (MAC) is a string of bits that depends on a secret key and is sent with a message to prove the message wasn't tampered with. HMACs are a more strict version of MACs that offer additional security benefits.

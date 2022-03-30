@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-03-15"
 categories: 
   - "golang"
+images:
+  - /img/block-interfaces.jpeg
 ---
 
 Interfaces in Go allow us to treat different types as the same data type temporarily because both types implement the same _kind_ of behavior. They're central to a Go programmer's toolbelt and are often used improperly by new Go developers, which leads to unreadable and often buggy code.

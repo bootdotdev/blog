@@ -1,9 +1,11 @@
 ---
-title: "6 Computer Science Resume Examples for 2021"
+title: "6 Computer Science Resume Examples"
 author: Lane Wagner
 date: "2020-12-14"
 categories: 
   - "computer-science"
+images:
+  - /img/resume-on-clipboard-pexels.jpeg
 ---
 
 It's really hard to get your foot in the door for engineering interviews, especially if you have no experience and are looking for an entry-level position. Often times, more experienced candidates looking to find a [higher-paying job](https://qvault.io/2020/12/09/highest-paying-computer-science-jobs/) can also have trouble. As an employer myself, I can tell you that one of the biggest mistakes I see in 75% of resumes is using a _visually boring template_. When I'm sifting through forty or fifty applicants, it's really easy for my eyes to glaze over. Think of your resume as your website landing page. You need to catch your employer's attention by calling out your biggest accomplishments and selling points at a glance.

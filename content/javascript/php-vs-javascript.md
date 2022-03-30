@@ -4,6 +4,8 @@ author: Meghan Reichenbach
 date: "2021-11-10"
 categories: 
   - "javascript"
+images:
+  - /img/PHPvsJS.webp
 ---
 
 When comparing programming languages, it’s not often that you come across two that actually work well together, but that happens to be the case when it comes to PHP and JavaScript.

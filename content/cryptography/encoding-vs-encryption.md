@@ -5,6 +5,8 @@ date: "2019-08-14"
 categories: 
   - "cryptography"
   - "security"
+images:
+  - /img/stop.webp
 ---
 
 While encryption does _involve_ various methods of encoding data, the two are absolutely not interchangeable. In fact, if you get them mixed up it can result in serious data breaches and security vulnerabilities.

@@ -4,6 +4,8 @@ author: Zulie Rane
 date: "2020-12-02"
 categories: 
   - "computer-science"
+images:
+  - /img/pexels-artem-podrez-4492130-scaled.webp
 ---
 
 When I was looking into getting my first job related to programming, I had no idea what the difference between a certificate and a diploma was. I was terrified that I’d have to go back to school and spend [2-4 years getting a degree](https://qvault.io/jobs/programming-job-with-associates-degree/) in computer science before an employer would even blink in my direction. Unfortunately for me, two degrees in conservation biology aren’t really enough to attract any serious coding employers. Then I learned about boot camps, which eased my concerns some, but I didn’t have the time or money to spend on a 15-week program. 

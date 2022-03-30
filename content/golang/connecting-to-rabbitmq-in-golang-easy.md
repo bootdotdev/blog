@@ -5,6 +5,8 @@ date: "2021-03-10"
 categories: 
   - "golang"
   - "open-source"
+images:
+  - /img/rabbit.webp
 ---
 
 If you've already read my [previous post](https://qvault.io/2020/04/29/connecting-to-rabbitmq-in-golang/), you know that the [amqp package](https://github.com/streadway/amqp) is awesome and you can get up and running with just 40-50 lines of simple code. Unfortunately, the bare-bones amqp library doesn't handle a lot of the stuff you probably wish it did, things like reconnecting logic, the spawning of threads, queue and binding boilerplate, and flow control.
@@ -101,10 +103,28 @@ Most of the options are fairly self-explanatory if you look into the feature set
 
 ```go
 err = consumer.StartConsuming(
-    func(d rabbitmq.Delivery) bool {
+    func(d rabbitmq.Delivery) rabbitmq.Action {
+        log.Printf("consumed: %v", string(d.Body))
+        return rabbitmq.Ack
+    },
+    "my_queue",
+    []string{"routing_key1", "routing_key2"},
+    rabbitmq.WithConsumeOptionsQueueDurable,
+    rabbitmq.WithConsumeOptionsConcurrency(10),
+    rabbitmq.WithConsumeOptionsQOSPrefetch(100),
+)
+```
+
+There are some out-of-the-box configuration function (using Go’s variadic feature) that will mutate a pointer to the configuration struct the way we want. In the above code, we made our queue durable, we tell the consumer we want ten threads running their own handler, and we want the server to send us batches of 100 messages at a time (this just helps with throughput, each handler still only processes a single message at once).
+
+You can also build your own custom function:
+
+```go
+err = consumer.StartConsuming(
+     func(d rabbitmq.Delivery) bool {
         log.Printf("consumed: %v", string(d.Body))
         return true
-    },
+     },
     "my_queue",
     []string{"routing_key1", "routing_key2"},
     func(opts *rabbitmq.ConsumeOptions) {
@@ -115,27 +135,9 @@ err = consumer.StartConsuming(
 )
 ```
 
-All that changes is that we pass in function(s) (using Go's variadic feature) that will mutate a pointer to the configuration struct the way we want. In the above code, we made our queue durable, we tell the consumer we want ten threads running their own handler, and we want the server to send us batches of 100 messages at a time (this just helps with throughput, each handler still only processes a single message at once).
-
-There are also configuration functions provided that you can use directly:
-
-```go
-err = consumer.StartConsuming(
-     func(d rabbitmq.Delivery) bool {
-        log.Printf("consumed: %v", string(d.Body))
-        return true
-     },
-    "my_queue",
-    []string{"routing_key1", "routing_key2"},
-    rabbitmq.WithConsumeOptionsConcurrency(10),
-    rabbitmq.WithConsumeOptionsQueueDurable,
-    rabbitmq.WithConsumeOptionsQuorum,
-)
-```
-
 ## Publishing options
 
-Frankly, I'm not a huge fan of the mandatory and immediate options. To me, it seems like it breaks a simple tenet of the pub/sub architecture, that is, publishers should be unaware of their consumers. It should be up to the consumers to make sure they're correctly connected and their queues are created. That said, you can still use those options:
+Frankly, I’m not a huge fan of the mandatory and immediate options. To me, it seems like it breaks a simple tenet of the pub/sub architecture, that is, publishers should be unaware of their consumers. It should be up to the consumers to make sure they’re correctly connected and their queues are created. That said, you can still use those options:
 
 ```go
 err = publisher.Publish(
@@ -148,4 +150,8 @@ err = publisher.Publish(
 )
 ```
 
-If you have any questions about the library, or suggestions for improvement please open and issue and let's talk about it! I plan to keep the library in `v0` until I'm super sure I'm happy with the API.
+If you have any questions about the library or suggestions for improvement please open an issue on the Github project and let’s talk about it!
+
+## A note on stability
+
+I plan to keep the library in v0 until I’m super sure I’m happy with the API. So be aware there may be very small breaking changes before v1.

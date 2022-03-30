@@ -5,6 +5,8 @@ date: "2020-05-27"
 categories: 
   - "clean-code"
   - "golang"
+images:
+  - /img/eac4ebdf-829a-4d81-8f8b-4dc63a29b174.jpeg
 ---
 
 Sorting is a common task in programming, and for that reason, most languages have a default sorting algorithm in their standard library. Go is one such language. Go has gone about providing sorting functionality in one of the most elegant ways possible, via an interface.

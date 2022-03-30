@@ -4,6 +4,8 @@ author: Zulie Rane
 date: "2021-01-18"
 categories: 
   - "jobs"
+images:
+  - /img/pexels-andrea-piacquadio-3752834-scaled.webp
 ---
 
 If you’re reading this article, you’re well aware of the great benefits that come with a programming job - [high salaries for programmers](https://qvault.io/2020/12/09/highest-paying-computer-science-jobs/), an [expanding job market](https://www.daxx.com/blog/development-trends/software-developer-shortage-us), [exciting opportunities](https://reva.edu.in/blog/exciting-career-opportunities-in-computer-science/). 

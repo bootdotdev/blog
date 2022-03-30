@@ -5,6 +5,8 @@ date: "2019-12-30"
 categories: 
   - "cryptography"
   - "security"
+images:
+  - /img/photo-1553386323-60698d6f7325.webp
 ---
 
 A Key Derivation Function, or KDF, is a [cryptographic algorithm](https://qvault.io/cryptography/what-is-cryptography/) that derives one or more secret keys from a secret value. If you've ever needed to store a password in a database or create a private key from a password, you may have used a KDF. Some examples of popular KDFs are [Argon2](https://en.wikipedia.org/wiki/Argon2), [Scrypt](https://qvault.io/cryptography/very-basic-intro-to-the-scrypt-hash/), and [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2).

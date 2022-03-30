@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-01-12"
 categories: 
   - "javascript"
+images:
+  - /img/photo-1502209524164-acea936639a2.webp
 ---
 
 The built-in JavaScript `map` function returns a new array, where each element in the new array is the result of the corresponding element in the old array after being passed through a callback function. Later in the article, we'll do a deep dive into some more advanced concepts regarding the map function and its uses.

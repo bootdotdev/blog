@@ -1,10 +1,12 @@
 ---
-title: "The Highest-Paying Computer Science Jobs of 2021"
+title: "The Highest-Paying Computer Science Jobs"
 author: Lane Wagner
 date: "2020-12-09"
 categories: 
   - "computer-science"
   - "jobs"
+images:
+  - /img/man-at-computer-with-wallet.jpeg
 ---
 
 There are many jobs within the software industry, and most of them are easier to land, or are higher-paying once you land them, if you have a solid grasp of computer science fundamentals. You don't need a degree from an accredited university in 90% of cases, but you do need to learn the material, whether it be online, on the job, or in a formal setting. Let's explore the most common computer science job titles and their associated compensation, details, and duties.

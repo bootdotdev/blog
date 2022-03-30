@@ -5,6 +5,8 @@ date: "2020-06-08"
 categories: 
   - "golang"
   - "open-source"
+images:
+  - /img/photo-1527474305487-b87b222841cc.webp
 ---
 
 Python is commonly seen as the AI/ML language, but is often a dull blade due to unsafe typing and being slow, like _really_ slow. Many popular natural language processing toolkits only have Python APIs, and we want to see that change. At [Nuvi](https://nuvi.com), a [social media marketing tool](https://bulk.ly/social-media-tools/), we use Go for the majority of our data processing tasks because we can write _simple_ and _fast_ code. Today we are open-sourcing a tool that has helped make our ML lives easier in Go. Say hello to [go-conllu](https://github.com/nuvi/go-conllu).

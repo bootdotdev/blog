@@ -5,6 +5,8 @@ date: "2021-08-24"
 categories: 
   - "javascript"
   - "python"
+images:
+  - /img/Python-vs-JavaScript-min.webp
 ---
 
 From the outset, comparing JavaScript and Python seems a bit like comparing apples and oranges, but surprisingly there are quite a few similarities hidden beneath their popular exterior.

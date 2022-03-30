@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2021-12-13"
 categories: 
   - "python"
+images:
+  - /img/yell.webp
 ---
 
 In Python, an assertion is a statement that confirms something about the state of your program. For example, if you write a `createUser` function and you are sure that the user needs to be older than 18, you assert that the `age` field is greater than or equal to 18. You can think of an `assert` statement like a [unit test](https://qvault.io/clean-code/writing-good-unit-tests-dont-mock-database-connections/) that is performed at runtime.

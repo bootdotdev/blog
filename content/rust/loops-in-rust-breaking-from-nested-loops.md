@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-05-14"
 categories: 
   - "rust"
+images:
+  - /img/photo-1455826581186-3031bc66471d.webp
 ---
 
 Loops in Rust aren't the same as standard C-style languages. The syntax is different and there are some powerful options that make looping easier. First, let's go over some looping basics, then we will cover how to handle breaking and continuing in nested loops in Rust.

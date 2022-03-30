@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-01-15"
 categories: 
   - "javascript"
+images:
+  - /img/photo-1529156069898-49953e39b3ac.jpeg
 ---
 
 JavaScript's built-in `with` statement specifies the default object for the given property and gives us a shorthand for writing long object references. More precisely, it adds the given object to the head of the scope chain.

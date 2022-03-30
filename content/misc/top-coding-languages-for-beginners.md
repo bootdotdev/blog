@@ -1,9 +1,11 @@
 ---
-title: "Top 4 Coding Languages To Learn For Beginners in 2021"
+title: "Top 4 Coding Languages To Learn For Beginners in 2022"
 author: Lane Wagner
 date: "2020-10-07"
 categories: 
   - "misc"
+images:
+  - /img/paper-and-glasses-study.webp
 ---
 
 Coding languages, tools, and frameworks are in a constant state of flux, improvement, deprecation, and popularity swings. Let's take a look at the top 4 languages for new programmers to learn in 2021.

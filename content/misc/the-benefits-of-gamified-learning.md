@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2021-01-20"
 categories: 
   - "misc"
+images:
+  - /img/photo-1552820728-8b83bb6b773f.webp
 ---
 
 Why was that adjustment to college classes so hard? Sitting through hours of lectures and PowerPoints can be challenging for even the most dedicated students.

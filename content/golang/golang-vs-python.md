@@ -7,6 +7,8 @@ categories:
   - "python"
 tags: 
   - "mailing-list"
+images:
+  - /img/decurated-on-medium-1.webp
 ---
 
 ## These two coding languages duke it out - but who’s the winner?

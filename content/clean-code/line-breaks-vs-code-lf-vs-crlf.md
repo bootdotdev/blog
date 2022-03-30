@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-06-18"
 categories: 
   - "clean-code"
+images:
+  - /img/vscode-preview.webp
 ---
 
 Have you ever had the problem where you submit a pull request and the diff is much larger than it should be? Maybe the code looks identical, but GitHub tells you it's completely different?

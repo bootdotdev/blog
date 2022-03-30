@@ -6,6 +6,8 @@ categories:
   - "bitcoin"
   - "cryptography"
   - "security"
+images:
+  - /img/Elliptic-curve-blog-post-min.webp
 ---
 
 Elliptic Curve Cryptography (ECC) is a modern [public-key encryption](https://searchsecurity.techtarget.com/definition/public-key) technique famous for being smaller, faster, and more efficient than incumbents. Bitcoin, for example, uses ECC as its asymmetric cryptosystem because it is so lightweight. The mathematical entity that makes all of this possible is the elliptic curve, so read on to learn how these curves enable some of the most advanced [cryptography](https://qvault.io/cryptography/what-is-cryptography/) in the world.

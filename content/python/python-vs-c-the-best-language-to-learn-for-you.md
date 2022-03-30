@@ -4,6 +4,8 @@ author: Meghan Reichenbach
 date: "2021-11-17"
 categories: 
   - "misc"
+images:
+  - /img/PythonvsC-1-1.webp
 ---
 
 It’s either a blessing or a curse when choosing to learn Python or C++ because there couldn’t be two more opposing languages to compare.

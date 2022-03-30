@@ -6,6 +6,8 @@ categories:
   - "golang"
 tags: 
   - "mailing-list"
+images:
+  - /img/insert.webp
 ---
 
 Insertion sort builds a final sorted list one item at a time. It's much less efficient on large lists than more advanced algorithms like quicksort or [merge sort](https://qvault.io/golang/merge-sort-golang/). Insertion sort is a simple algorithm that works just like you would arrange playing cards in your hands. A slice is first split into sorted and unsorted sections, then values from the unsorted section are inserted into the correct position in the sorted section.

@@ -4,6 +4,8 @@ author: Zulie Rane
 date: "2021-10-25"
 categories: 
   - "python"
+images:
+  - /img/python.webp
 ---
 
 A ruby is a beautiful red gemstone; a python is a beautiful green snake. Aside from that, they're both very popular programming languages. They're popular for different reasons, and they're good at different things. Before you choose between Ruby vs. Python, make sure you ask yourself these 10 questions.

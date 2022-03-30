@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-10-01"
 categories: 
   - "golang"
+images:
+  - /img/organize.webp
 ---
 
 I lead a team that's responsible for anywhere from 15-25 Go microservices at any given time. We're constantly creating new services and libraries, so it's become important to streamline the project creation process. I'm mostly writing this article for myself as a kind of self-documentation, but hopefully, you'll find it useful as you create new Go projects for yourself.

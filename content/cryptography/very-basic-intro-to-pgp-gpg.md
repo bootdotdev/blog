@@ -5,6 +5,8 @@ date: "2020-07-27"
 categories: 
   - "cryptography"
   - "security"
+images:
+  - /img/photo-1477039181047-efb4357d01bd.webp
 ---
 
 [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy), or its open-source alternative, [GPG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard), is a program used to encrypt data such that only an authorized party can decrypt it. In this introduction, we will cover its use-cases and a high-level overview of the algorithms involved.

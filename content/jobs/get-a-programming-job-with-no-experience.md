@@ -2,8 +2,10 @@
 title: "The Best Ways To Get a Programming Job with No Experience"
 author: Winston Wagner
 date: "2021-01-06"
-categories: 
+categories:
   - "jobs"
+images:
+  - /img/Man-at-Desk.webp
 ---
 
 It sounds like a pipe dream. A well-paid programming job, with no experience? Get out of town. Well, as it turns out, it's both just about as difficult as you believe, but probably easier than you think. As with most things, the main obstacle standing in the way of you getting a programming job with no experience is yourself.

@@ -5,6 +5,8 @@ date: "2020-04-29"
 categories: 
   - "golang"
   - "open-source"
+images:
+  - /img/photo-1557431518-26e2500b8680.webp
 ---
 
 [RabbitMQ](https://www.rabbitmq.com/features.html) is a great message broker with awesome Golang support. It's a great pub-sub system, and pub-sub has become a staple communication architecture in micro-services. At my current day job, we use RabbitMQ to push hundreds of millions of social media posts through our Go services daily.

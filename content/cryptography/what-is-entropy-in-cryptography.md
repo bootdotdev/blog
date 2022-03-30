@@ -5,6 +5,8 @@ date: "2020-09-28"
 categories: 
   - "cryptography"
   - "security"
+images:
+  - /img/What-is-entropy.webp
 ---
 
 If you're familiar with the [laws of thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics), you may recognize the second law as the one that deals with entropy. In the realm of physics, entropy represents the degree of disorder in a system. Because systems tend to degrade over time, thermodynamic energy becomes less available to do mechanical work. In cryptography, [entropy](https://en.wikipedia.org/wiki/Entropy_(computing)) has a distinct but similar meaning.

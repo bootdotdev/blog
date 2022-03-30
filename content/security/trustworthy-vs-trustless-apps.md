@@ -5,6 +5,8 @@ date: "2019-07-23"
 categories: 
   - "bitcoin"
   - "security"
+images:
+  - /img/pulse-trust-768x512.webp
 ---
 
 In the wake of the [hearings](https://www.youtube.com/watch?v=h4aPp3wGufY) about Facebook's new Libra blockchain, it is more important than ever that we all understand the difference between _trustworthy_ and _trustless_ apps.

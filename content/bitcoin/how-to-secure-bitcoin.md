@@ -5,6 +5,8 @@ date: "2019-08-30"
 categories: 
   - "bitcoin"
   - "security"
+images:
+  - /img/photo-1523348837708-15d4a09cfac2.jpeg
 ---
 
 If you're new to Bitcoin and cryptocurrency, you may have heard the common phrase [not your keys not your coins](https://www.youtube.com/watch?v=dnC5mFaIW3Q). While self-custody isn't for everyone, its the only way to truly have exclusive control over your funds. If that's what you're into, read on.

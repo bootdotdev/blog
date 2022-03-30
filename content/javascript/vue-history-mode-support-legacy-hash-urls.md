@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-07-15"
 categories: 
   - "javascript"
+images:
+  - /img/history.jpeg
 ---
 
 When we first launched the [Qvault single-page-app](https://app.qvault.io/), we were using [Vue Router's](https://router.vuejs.org/) default hash routing. Hash routing looks ugly to the end-user, and when you want to be able to share parts of your app via direct link those hashes can get really annoying.

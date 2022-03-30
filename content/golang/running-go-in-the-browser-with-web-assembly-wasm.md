@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-07-01"
 categories: 
   - "golang"
+images:
+  - /img/maxresdefault.webp
 ---
 
 If you are familiar with the [Go Playground](https://play.golang.org/), then you know how convenient it is to be able to have a Go scratchpad in the browser. Want to show someone a code snippet? Want to quickly test some syntax? Browser-based code pads are helpful. On that note, I [created a new playground](https://app.qvault.io/playground/go). The cool thing about this new playground that it doesn't use a remote server to run code, just to compile it. The code runs in your browser using [web assembly (WASM)](https://webassembly.org/).

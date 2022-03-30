@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-09-04"
 categories: 
   - "golang"
+images:
+  - /img/stream-party.jpeg
 ---
 
 In this tutorial, we'll go step-by-step through building a video streaming API (which will work for music as well) in Go. Don't worry, it's surprisingly easy to build a robust media streaming server, especially if we utilize a modern communication protocol, HLS.

@@ -5,6 +5,8 @@ date: "2021-03-15"
 categories: 
   - "computer-science"
   - "news"
+images:
+  - /img/twentyintree.jpeg
 ---
 
 Last weekend I did a major revamp of [Qvault's](https://qvault.io/) payment strategy, after toying with the first version since I launched in the summer of 2020, as it turns out, the microtransaction (gem) strategy didn't work out to the benefit of my students, nor to the growth of Qvault. As a result, I've flipped my funding strategy on its head and decided to make all of [Qvault's content](https://qvault.io/) free to audit. Let's take a look at exactly what that means.

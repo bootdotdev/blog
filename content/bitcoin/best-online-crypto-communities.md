@@ -1,9 +1,11 @@
 ---
-title: "Top 8 Online Crypto Communities 2021"
+title: "Top 8 Online Crypto Communities"
 author: Lane Wagner
 date: "2020-01-08"
 categories: 
   - "bitcoin"
+images:
+  - /img/people-at-a-concert-scaled.jpeg
 ---
 
 Crypto has been explosive in 2021. The gains have been even better than the memes! While dancing cat videos are fun, the wise will also take advantage of the various communities as an opportunity to learn more about the technology that supports decentralized money. I've put together a small list of the top crypto communities for you to check out this year!

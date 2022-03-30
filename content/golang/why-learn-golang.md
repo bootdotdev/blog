@@ -1,9 +1,11 @@
 ---
-title: "7 Critical Reasons Beginners Should Learn Go in 2021"
+title: "7 Critical Reasons Beginners Should Learn Go [2022]"
 author: Meghan Reichenbach
 date: "2021-02-08"
 categories: 
   - "golang"
+images:
+  - /img/pexels-jeshootscom-7432-scaled.webp
 ---
 
 ## Why learn Golang, and especially why learn Golang as a beginner coder?

@@ -4,6 +4,8 @@ author: Zulie Rane
 date: "2021-11-09"
 categories: 
   - "javascript"
+images:
+  - /img/Nodejs-vs-Javascript-min.webp
 ---
 
 So you’re a fan of web development? Great! You’re probably already familiar with JavaScript (if not, [check out our JavaScript course here](https://qvault.io/basic-intro-to-coding-javascript-course/)) and may have heard of Node.js as well. But which one is better, and how are they different? When should you pick Node.js vs JavaScript?

@@ -5,6 +5,8 @@ date: "2020-05-11"
 categories: 
   - "golang"
   - "rust"
+images:
+  - /img/photo-1518181835702-6eef8b4b2113.webp
 ---
 
 One of the primary goals of the Go programming language is to make concurrency simpler, faster, and more efficient. With Rust growing in popularity let's see how its concurrency mechanisms stack up against Go's.

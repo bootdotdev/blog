@@ -4,6 +4,8 @@ author: Meghan Reichenbach
 date: "2021-09-23"
 categories: 
   - "golang"
+images:
+  - /img/Golang-vs-Nodejs-min.webp
 ---
 
 In 2009, the computer science world was blessed with two powerful tools: Golang and Node.js.

@@ -8,6 +8,8 @@ categories:
 tags: 
   - "mailing-list"
   - "sharing"
+images:
+  - /img/homework.jpeg
 ---
 
 A while back I went through the interview process at a company I won't name here. The first interview was basically just a phone screen, where I was able to chat with my would-be manager about things like compensation range, tech stack, work duties, etc. It went well! The guy was delightful.

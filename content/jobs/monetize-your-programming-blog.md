@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2021-02-26"
 categories: 
   - "jobs"
+images:
+  - /img/pexels-cottonbro-5077047-scaled.webp
 ---
 
 ## Why shouldn’t your hobby earn you money?

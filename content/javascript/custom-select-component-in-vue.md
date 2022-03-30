@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-09-25"
 categories: 
   - "javascript"
+images:
+  - /img/Custom-Select-Component-Vue.webp
 ---
 
 Creating a custom select tag with its own styling is notoriously difficult. Sometimes it's impossible to build from scratch without a combination of styled divs and custom JavaScript. In this article, you'll learn how to create a custom select component in Vue that can be easily styled with your own CSS. In fact, it's the same component we use in production on Qvault, and you can see it in action on our [JavaScript playground](https://app.qvault.io/playground/js).

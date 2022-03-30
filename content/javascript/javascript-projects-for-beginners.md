@@ -4,6 +4,8 @@ author: Zulie Rane
 date: "2021-10-08"
 categories: 
   - "javascript"
+images:
+  - /img/pexels-tatiana-syrikova-3975590-scaled.webp
 ---
 
 JavaScript is one of those things that if you're not a programmer you'll touch a thousand times every single day, but never know you're doing it. It's everywhere!

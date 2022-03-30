@@ -5,6 +5,8 @@ date: "2020-03-09"
 categories: 
   - "clean-code"
   - "golang"
+images:
+  - /img/photo-1495863367063-b9ac3e6394f7.webp
 ---
 
 Errors in Go are a hot topic. Many newcomers to the language immediately level their first criticism, _"errors in go are clunky! Let me just use try/catch!"_ This criticism is well-meaning but misguided.

@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2021-03-22"
 categories: 
   - "jobs"
+images:
+  - /img/associates-dergree-graduate.webp
 ---
 
 Changing majors is a tale as old as time. A degree that would normally require four years to complete can quickly turn into a more expensive endeavor that takes five or six years for a student that can't decide what they want to study. The interesting thing about programming jobs is that they don't _require_ a degree at all, but if you at least complete an associate's degree, you'll have a better chance of landing that first job.

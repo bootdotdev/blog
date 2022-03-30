@@ -4,6 +4,8 @@ author: Zulie Rane
 date: "2021-08-19"
 categories: 
   - "python"
+images:
+  - /img/pexels-pixabay-45246.jpeg
 ---
 
 **Read this if you don’t know where to start learning data science**

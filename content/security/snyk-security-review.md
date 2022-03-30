@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2019-07-16"
 categories: 
   - "security"
+images:
+  - /img/snyk-logo.png
 ---
 
 We recently integrated [Snyk](https://snyk.io/) into Qvault as a way to get more visibility into known vulnerabilities in Qvault's codebase. Snyk has already patched a [critical vulnerability in lodash](https://snyk.io/blog/snyk-research-team-discovers-severe-prototype-pollution-security-vulnerabilities-affecting-all-versions-of-l) for us. This allowed us to continue releasing new versions before the official fix for [lodash](https://github.com/lodash/lodash) was published a few days ago.

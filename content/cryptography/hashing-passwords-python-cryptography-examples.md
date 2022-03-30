@@ -6,6 +6,8 @@ categories:
   - "cryptography"
   - "python"
   - "security"
+images:
+  - /img/python.jpeg
 ---
 
 Building a from-scratch server or using a lightweight framework is empowering. With that power comes responsibility, specifically the responsibility to securely store user's passwords.

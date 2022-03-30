@@ -4,6 +4,8 @@ author: Winston Wagner
 date: "2020-12-17"
 categories: 
   - "computer-science"
+images:
+  - /img/Ginger-staring-at-computer-scaled.webp
 ---
 
 The most important thing to understand about these two fields of study is that, ultimately, they are similar. At the end of the day, Software Engineering and Computer Science will both help to make you a better programmer and developer, and the only difference between the two is how they are applied. Software Engineering tends to be more practical, and Computer Science tends to be more theoretical. In a way, Software Engineering is just applied Computer Science, and using that as a starting point, we can examine the differences between the two.

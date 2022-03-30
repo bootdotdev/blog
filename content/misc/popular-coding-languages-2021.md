@@ -1,9 +1,11 @@
 ---
-title: "The 8 Most Popular Coding Languages of 2021"
+title: "The 8 Most Popular Coding Languages of 2022"
 author: Zulie Rane
 date: "2021-01-04"
 categories: 
   - "misc"
+images:
+  - /img/pexels-thisisengineering-3861961-1-scaled.jpeg
 ---
 
 ## And more importantly, how to choose the most popular coding language you should learn.

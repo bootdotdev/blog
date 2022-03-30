@@ -6,6 +6,8 @@ categories:
   - "computer-science"
 tags: 
   - "sharing"
+images:
+  - /img/learning-computer-science-online.webp
 ---
 
 Be careful deciding the best way to learn to code, as not all paths are equally effective. Self-taught developers and [bootcamp graduates often struggle](https://qvault.io/jobs/getting-a-job-after-coding-bootcamp-is-hard/) a lot to find their first coding job. In my experience, it's much easier to get your foot in the door when you spend the time learning the CS basics that so many "crash courses" skip over when trying to get students to dive directly into the deep end of application code.

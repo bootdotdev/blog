@@ -5,6 +5,8 @@ date: "2020-04-30"
 categories: 
   - "clean-code"
   - "golang"
+images:
+  - /img/Profile_-_Tick_Toc_Croc.webp
 ---
 
 The Go standard library has a really cool type - [Ticker](https://gobyexample.com/tickers). Tickers are used when you want to do something at a regular interval, similar to JavaScript's [setInterval](https://www.w3schools.com/jsref/met_win_setinterval.asp). Here's an example:

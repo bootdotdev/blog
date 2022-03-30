@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-06-17"
 categories: 
   - "javascript"
+images:
+  - /img/Microsoft.webp
 ---
 
 I'm a [gopher](https://blog.golang.org/gopher) by nature, so I expect consistent styling and linting in my codebases. More importantly, I don't like to think about styling. I like to type haphazardly and then have my editor apply styles automatically on save (`ctrl+s`, `cmd+s`). If you are the same way, hopefully, this will help you in your next Vue.js project.

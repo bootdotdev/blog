@@ -6,6 +6,8 @@ categories:
   - "python"
 tags: 
   - "sharing"
+images:
+  - /img/pexels-diego-madrigal-2062314-scaled.webp
 ---
 
 I’ve made no secret of the fact that I love Python, and that I believe [one of the best ways to learn Python](https://qvault.io/learn-python-course/) is by finding an awesome project you care about to work on. There’s nothing more stimulating than passion and curiosity, and that makes the best projects for Python beginners usually something a little grittier than the standard tutorials. 

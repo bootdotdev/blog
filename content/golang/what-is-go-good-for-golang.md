@@ -4,6 +4,8 @@ author: Jamie Dunmore
 date: "2021-07-16"
 categories: 
   - "golang"
+images:
+  - /img/What-is-Go-good-for-golang-min.webp
 ---
 
 In 2007, frustrated by some of C++’s inefficiencies and overcomplicated nature, and desiring a programming language designed specifically for multi-core processors and effectively managing large projects, three Google engineers, Robert Griesemer, Rob Pike, and Ken Thompson, designed the Go language.

@@ -5,6 +5,8 @@ date: "2020-09-24"
 categories: 
   - "javascript"
   - "python"
+images:
+  - /img/Python-Wasm-Web-Workers.webp
 ---
 
 I've been wanting to expand [Qvault's curriculum](https://qvault.io/), and one of the most requested programming languages has been Python. Because my courses allow students to write and execute code right in the web browser, I decided to look into existing projects that allow a Python interpreter to run in the browser using Web Assembly. I settled on a tool called [Pyodide](https://github.com/iodide-project/pyodide), which does just that.

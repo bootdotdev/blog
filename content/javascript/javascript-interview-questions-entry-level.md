@@ -7,6 +7,8 @@ categories:
   - "jobs"
 tags: 
   - "sharing"
+images:
+  - /img/JavaScript-Interview-Questions.webp
 ---
 
 Versatile, powerful and ever-present, JavaScript is the world's most used programming language (for eight years and counting!) and shows no signs of slowing down.

@@ -5,6 +5,8 @@ date: "2020-07-25"
 categories: 
   - "cryptography"
   - "security"
+images:
+  - /img/litecoin.webp
 ---
 
 Scrypt is a slow-by-design [key derivation function](https://qvault.io/2019/12/30/very-basic-intro-to-key-derivation-functions-argon2-scrypt-etc/) designed to create strong cryptographic keys. Simply put, the purpose of the Scrypt hash is to create a fingerprint of its input data but to do it _very slowly_. A common use-case is to create a strong private key from a password, where the new private key is longer and more secure. Here at [Qvault,](https://qvault.io) we use a similar KDF for securing user passwords.

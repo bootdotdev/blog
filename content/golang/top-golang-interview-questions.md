@@ -1,11 +1,13 @@
 ---
-title: "Top 15 Golang Interview Questions [Updated 2021]"
+title: "Top 15 Golang Interview Questions [Updated 2022]"
 author: Lane Wagner
 date: "2020-08-31"
 categories: 
   - "golang"
 tags: 
   - "sharing"
+images:
+  - /img/whiteboard.webp
 ---
 
 Let's take a look at some good technical questions to be familiar with, whether you are the interviewer or the interviewee.

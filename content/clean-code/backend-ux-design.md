@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2021-04-12"
 categories: 
   - "clean-code"
+images:
+  - /img/design.webp
 ---
 
 Too often I neglect the idea of UX design in backend work. The goal of user experience design is to give users a product that's easy to use. In the world of front-end development, that typically means making it obvious how to navigate your site, using commonly-understood icons, or implementing well-contrasted colors for foreground and background, making your site easy to read.

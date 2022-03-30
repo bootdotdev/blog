@@ -4,6 +4,8 @@ author: Meghan Reichenbach
 date: "2021-09-06"
 categories: 
   - "javascript"
+images:
+  - /img/JavaScript-vs-TypeScript-min.webp
 ---
 
 Whether you’re new or old to the computer science community, you’ve probably asked yourself, “What is TypeScript?” and if you haven’t, it won’t be long before you do.

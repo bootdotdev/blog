@@ -6,6 +6,8 @@ categories:
   - "golang"
   - "javascript"
   - "python"
+images:
+  - /img/Top-Web-Development-Programming-Languages-A-Comparison.webp
 ---
 
 The software development industry is growing at a break-neck pace. Currently, there are close to [19 million](https://www.daxx.com/blog/development-trends/number-software-developers-world#:~:text=According%20to%20Evans%20Data%20Corporation,developers%20reached%204%2C2%20million.) software developers in the world, and this number is expected to [double](https://slashdata-website-cms.s3.amazonaws.com/sample_reports/EiWEyM5bfZe1Kug_.pdf) by 2030.

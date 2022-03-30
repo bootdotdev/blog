@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2021-02-09"
 categories: 
   - "misc"
+images:
+  - /img/semver-info.webp
 ---
 
 If you're like me, you wish all [Git tags](https://git-scm.com/docs/git-tag) adhered to the [Semantic Versioning standard](https://semver.org/). Unfortunately, Semver is just a convention, so Git tags can basically be any string of text. By default when you use the `git tag` command, your output will be in _alphabetical_ order. Being a gopher, almost all the projects I work on are tagged according to Semver standards, which means the default output is fairly useless.

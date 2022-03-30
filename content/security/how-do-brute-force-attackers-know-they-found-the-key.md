@@ -5,6 +5,8 @@ date: "2020-02-11"
 categories: 
   - "cryptography"
   - "security"
+images:
+  - /img/armstrong-1.webp
 ---
 
 Brute force attackers guess passwords, passphrases, and private keys in an attempt to eventually get the right answer and crack the security of a system. They systematically guess every combination. For example, if they were guessing telephone numbers in the US:

@@ -6,6 +6,8 @@ categories:
   - "golang"
 tags: 
   - "mailing-list"
+images:
+  - /img/hand-signal.webp
 ---
 
 ## What is the "defer" keyword in Go?

@@ -4,6 +4,8 @@ author: Meghan Reichenbach
 date: "2021-11-05"
 categories: 
   - "javascript"
+images:
+  - /img/Ruby-vs-JavaScript-min.png
 ---
 
 When broken down into core features – like programming style and code execution – JavaScript and Ruby seem deceivingly similar, but there are a few constitutional differences.

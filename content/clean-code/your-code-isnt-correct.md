@@ -7,6 +7,8 @@ categories:
 tags: 
   - "mailing-list"
   - "sharing"
+images:
+  - /img/done.jpeg
 ---
 
 There is a common trap that we fall into as developers, and it is believing that because some code "worked" that the code was written "correctly". In reality, for most technical problems, a good developer can likely point out several different solutions. Any of those solutions might be perfectly reasonable, while none of them is the single "correct way".

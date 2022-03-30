@@ -5,6 +5,8 @@ date: "2020-06-04"
 categories: 
   - "golang"
   - "javascript"
+images:
+  - /img/the-11-types-of-people-you-find-waiting-in-line-2-5580-1395413282-13_dblbig.webp
 ---
 
 In applications that are i/o heavy, it can get clunky to synchronously execute high-latency functions one after the other. For example, if I have a web page that needs to request seven files from the server before it can show the page, I need to asynchronously fetch all those files at the same time. The alternative of making each request one at a time will take much too long. This is where JavaScript's [PromiseAll](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all) and Go's [WaitGroup](https://golang.org/pkg/sync/#WaitGroup) come in.

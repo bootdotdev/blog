@@ -1,11 +1,13 @@
 ---
-title: "6 Critical Reasons Beginner Programmers Should Learn JavaScript in 2021"
+title: "6 Critical Reasons Beginner Programmers Should Learn JavaScript in 2022"
 author: Zulie Rane
 date: "2021-05-25"
 categories: 
   - "javascript"
 tags: 
   - "mailing-list"
+images:
+  - /img/pexels-artem-podrez-4492129-scaled.jpeg
 ---
 
 “Why learn JavaScript?” I asked my sister when she was in college and starting to pick up the fundamentals of JavaScript. “Isn’t it ancient? Do people still use it?” 

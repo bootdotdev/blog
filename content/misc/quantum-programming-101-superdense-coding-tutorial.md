@@ -4,6 +4,8 @@ author: Macauley Coggins
 date: "2020-04-20"
 categories: 
   - "python"
+images:
+  - /img/QvKyBb3LzY7gFPBxE8FFse-scaled.jpeg
 ---
 
 By [Macauley Coggins](https://thequantumdaily.com/author/macauley-coggins/)

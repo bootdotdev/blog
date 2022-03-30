@@ -6,6 +6,8 @@ categories:
   - "clean-code"
 tags: 
   - "sharing"
+images:
+  - /img/photo-1559041881-74dd9fd9b600.jpeg
 ---
 
 My team has been spending less of our "free" time working on bugs and features from the backlog, and more time refactoring our code and tests. As a result, and perhaps somewhat counterintuitively, we've noticed a significant increase in our throughput of features and bug fixes.

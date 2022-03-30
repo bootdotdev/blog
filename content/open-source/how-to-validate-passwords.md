@@ -5,6 +5,8 @@ date: "2020-10-15"
 categories: 
   - "golang"
   - "open-source"
+images:
+  - /img/6-Tips-Hiring-1.jpeg
 ---
 
 You've probably visited a site and attempted to sign-up only to be met with errors such as:

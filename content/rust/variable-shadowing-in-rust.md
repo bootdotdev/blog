@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-05-13"
 categories: 
   - "rust"
+images:
+  - /img/rustshadow.jpeg
 ---
 
 Let's take a look at some of the common pitfalls with the keywords _let_ and _mut_**.** Then, we will learn how **immutable != constant** by using _variable shadowing_.

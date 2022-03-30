@@ -4,6 +4,8 @@ author: Zulie Rane
 date: "2021-09-09"
 categories: 
   - "python"
+images:
+  - /img/Why-learn-Python.webp
 ---
 
 Simple to learn, endlessly versatile, and perennially in demand by employers paying higher and higher salaries every year — it feels like there’s a million reasons to learn Python. 

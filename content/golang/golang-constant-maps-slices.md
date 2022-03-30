@@ -5,6 +5,8 @@ date: "2019-10-21"
 categories: 
   - "clean-code"
   - "golang"
+images:
+  - /img/Constant-Maps-and-Slices-1.webp
 ---
 
 For the most part, I've found that Go developers are pretty good at using global constants for configuration rather than global variables.

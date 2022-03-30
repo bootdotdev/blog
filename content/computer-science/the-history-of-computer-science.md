@@ -4,6 +4,8 @@ author: Winston Wagner
 date: "2020-12-03"
 categories: 
   - "computer-science"
+images:
+  - /img/Clock-in-City-scaled.jpeg
 ---
 
 ## Prehistory

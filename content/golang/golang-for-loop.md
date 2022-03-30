@@ -6,6 +6,8 @@ categories:
   - "golang"
 tags: 
   - "mailing-list"
+images:
+  - /img/loop-architecture.webp
 ---
 
 A for loop executes a block of code repeatedly, and in Golang, there are several different ways to write one.

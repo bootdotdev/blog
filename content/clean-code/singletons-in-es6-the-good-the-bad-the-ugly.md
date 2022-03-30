@@ -5,6 +5,8 @@ date: "2019-11-04"
 categories: 
   - "clean-code"
   - "javascript"
+images:
+  - /img/photo-1473655443462-4c2bdebc3e1c.webp
 ---
 
 Singletons are fairly controversial as far as I can tell, especially in JavaScript programming. Let's take a look at what they are, when to (maybe) use them, and when not to.

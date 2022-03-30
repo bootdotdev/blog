@@ -5,6 +5,8 @@ date: "2020-05-21"
 categories: 
   - "clean-code"
   - "golang"
+images:
+  - /img/hrll.webp
 ---
 
 Go is strongly typed, and with that, we get many options for simple variable types like integers and floats. The problem arises when we have a _uint16_, and the function we are trying to pass it into takes an `int`. We find code riddled with `int(myUint16)` that can become slow and annoying to read. In other words, when Go developers stray from the "default" type for any given type family, the code can get messy quickly.

@@ -5,6 +5,8 @@ date: "2020-03-31"
 categories: 
   - "clean-code"
   - "golang"
+images:
+  - /img/photo-1500589177368-c810ea3db799.jpeg
 ---
 
 Go is a strongly typed language, which means at any point a developer should know exactly what **type** of value they are dealing with. For example, if we have a function that prints a string, we can't just give it an integer and expect it to work. We have to cast it to a string explicitly:

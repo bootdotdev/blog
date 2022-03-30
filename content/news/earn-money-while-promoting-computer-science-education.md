@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-12-28"
 categories: 
   - "news"
+images:
+  - /mg/smiling-man-with-macbook.jpeg
 ---
 
 We just launched our new affiliate partner program to give Dev bloggers and influencers everywhere an opportunity to make some serious cash while promoting a great educational project. Here are the high-level details:

@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-12-21"
 categories: 
   - "javascript"
+images:
+  - /img/javascript-on-laptop.webp
 ---
 
 JSON, or "JavaScript Object Notation", is an extremely popular data exchange format, especially in web development. Let's go over a few simple ways to convert an array to JSON data.

@@ -5,11 +5,13 @@ date: "2020-04-02"
 categories: 
   - "golang"
   - "open-source"
+images:
+  - /img/everyday-myths-time.jpeg
 ---
 
-[time.Time](https://golang.org/pkg/time/#Time) is the perfect choice for [handling times in Go](https://qvault.io/golang/golang-date-time/) in most cases, it even comes in the standard library! The problem is that the `time.Time{}` struct uses more than **24 bytes** of memory under most conditions. [Go-TinyTime](https://github.com/lane-c-wagner/go-tinytime) solves this problem by restricting the available dates to the range between 1970 - 2106, and only supporting UTC timezones. This brings data usage down to just **4 bytes** of memory.
+[time.Time](https://golang.org/pkg/time/#Time) is the perfect choice for [handling times in Go](https://qvault.io/golang/golang-date-time/) in most cases, it even comes in the standard library! The problem is that the `time.Time{}` struct uses more than **24 bytes** of memory under most conditions. [Go-TinyTime](https://github.com/wagslane/go-tinytime) solves this problem by restricting the available dates to the range between 1970 - 2106, and only supporting UTC timezones. This brings data usage down to just **4 bytes** of memory.
 
-[Go-TinyDate](https://github.com/lane-c-wagner/go-tinydate) is its sister package that allows for a much larger date range but doesn't get more than **day** precision. Between **time.Time**, **go-tinydate**, and **go-tinytime** all of our time problems can be solved using the same API.
+[Go-TinyDate](https://github.com/wagslane/go-tinydate) is its sister package that allows for a much larger date range but doesn't get more than **day** precision. Between **time.Time**, **go-tinydate**, and **go-tinytime** all of our time problems can be solved using the same API.
 
 Don't forget to ⭐ the GitHub: [https://github.com/wagslane/go-tinytime](https://github.com/wagslane/go-tinytime)
 
@@ -39,7 +41,7 @@ We sacrifice timezones and dates older than the unix epoch of 1970, but if these
 
 ## When Should It Be Used?
 
-As the TinyTime [Readme](https://github.com/lane-c-wagner/go-tinytime/blob/master/README.md) states, if you aren't hurting for resources, better to stick with the standard time.Time. The following situations can be good reasons to use to TinyTime:
+As the TinyTime [Readme](https://github.com/wagslane/go-tinytime/blob/master/README.md) states, if you aren't hurting for resources, better to stick with the standard time.Time. The following situations can be good reasons to use to TinyTime:
 
 - You are working in embedded systems and every byte counts
 - You are working on a system that stores thousands of dates, and reducing memory costs by >75% is significant

@@ -7,6 +7,8 @@ categories:
   - "jobs"
 tags: 
   - "sharing"
+images:
+  - /img/coffee-beans-scaled.webp
 ---
 
 "Software engineer" has become a ubiquitous term for people who write, deploy, architect, or sometimes even simply test code. In reality, I think there are two classes of "software engineers"; those who understand computer science well enough to do challenging, innovative work, and those who just get by because they’re familiar with a few high-level tools. The laziness with which the tech industry has adopted the term "software engineer" has made it harder for us to distinguish between the two.

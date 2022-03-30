@@ -6,6 +6,8 @@ categories:
   - "news"
 tags: 
   - "mailing-list"
+images:
+  - /img/videocall.jpeg
 ---
 
 This article contains some of my thoughts on communications for distributed teams and is a response to [No, we won’t have a video call for that!](https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/) by Florian Hass. Read his article first if you haven't yet, he makes some great points!

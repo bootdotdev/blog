@@ -7,6 +7,8 @@ categories:
   - "jobs"
 tags: 
   - "sharing"
+images:
+  - /img/laptop-2557468_1920.webp
 ---
 
 Imagine, like so many folks, that you decide what you want to study when you're just 18. You go to college, finish a four-year degree in mechanical engineering, and then realize what you actually want to do is get a job in coding. There are tons of benefits - pay, flexibility, personal satisfaction. It’s a no-brainer.

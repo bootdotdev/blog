@@ -7,6 +7,8 @@ categories:
 tags: 
   - "mailing-list"
   - "sharing"
+images:
+  - /img/migration.jpeg
 ---
 
 ## In this world, nothing can be said to be certain, except death, taxes, and migrations.

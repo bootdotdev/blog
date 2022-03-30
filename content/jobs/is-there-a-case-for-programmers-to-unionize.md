@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2021-02-15"
 categories: 
   - "jobs"
+images:
+  - /img/worker-union.webp
 ---
 
 I've seen a lot of buzz recently about software developers wanting to form unions. I'm particularly interested in this topic while I'm #indiehacking [Qvault, where my goal is to provide a free-to-audit university-quality CS education](https://qvault.io/). I also want to point out that at the time of writing I'm a full-time software developer working for a separate company (not Qvault). I'm not a manager and Qvault is just a side-project. As of right now, I'm pretty sure I'm a member of the proletariat.

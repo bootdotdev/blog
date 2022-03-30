@@ -6,6 +6,8 @@ categories:
   - "open-source"
 tags: 
   - "sharing"
+images:
+  - /img/6-Things-to-Avoid-When-Contributing-to-Open-Source-Projects.jpeg
 ---
 
 With [#HacktoberFest](https://hacktoberfest.digitalocean.com/) being a thing, there has been an influx of devs desperately trying to contribute to their favorite Open-Source projects. Unfortunately, many of these pull requests have been a waste of time, with the maintainers ultimately unable to use the contributions. Maintainers don't want to waste their time reviewing bad PRs, and contributors don't want to waste their time writing code that will never make it into production.

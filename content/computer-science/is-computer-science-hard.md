@@ -5,6 +5,8 @@ date: "2021-03-24"
 categories: 
   - "computer-science"
   - "jobs"
+images:
+  - /img/guy-yelling-and-pulling-hair.jpeg
 ---
 
 With the influx of interest in the [edTech site I've been building](https://qvault.io/), I've been getting a question that I don't think I had previously taken the time to really think through, "Is computer science hard?". Like most things, the answer depends on your perspective and current situation. That said, my guess is that a standard computer science education is easier than most of my readers think.

@@ -5,6 +5,8 @@ date: "2020-08-12"
 categories: 
   - "cryptography"
   - "security"
+images:
+  - /img/They-Who.png
 ---
 
 If you've seen _The Imitation Game_ or studied computer science in school, you have likely heard of [Enigma](https://en.wikipedia.org/wiki/Enigma_machine), [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), or some of the other advances in [cryptography](https://qvault.io/cryptography/what-is-cryptography/) that took place during the Second World War. During this time and until the 1970s, governments from around the world had near-total control of all cryptographic systems. It was nearly impossible to [learn about encryption](https://qvault.io/practical-cryptography-course/) without going through a government agency.

@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-11-02"
 categories: 
   - "golang"
+images:
+  - /img/fast-car.webp
 ---
 
 Want to learn Go fast? The good news is that Go is one of the simplest programming languages out there. It was designed to have a compact feature set, which means you can learn it much faster than most other languages.

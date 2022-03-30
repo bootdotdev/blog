@@ -8,6 +8,8 @@ categories:
 tags: 
   - "mailing-list"
   - "sharing"
+images:
+  - /img/meetings-on-couch.webp
 ---
 
 Perhaps you've heard of the fabled 10x developer (or 10x engineer) - the one on the team that's 10x as productive as their average colleague. While many, including myself, doubt the existence of such people, **I do think there are meetings that are 10x as productive as the average meeting**. My goal in this article is to break down their properties so we can have 10x fewer meetings.

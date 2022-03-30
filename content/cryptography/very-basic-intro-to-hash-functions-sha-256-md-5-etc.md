@@ -6,6 +6,8 @@ categories:
   - "bitcoin"
   - "cryptography"
   - "security"
+images:
+  - /img/1_RbxKUerkTr8T62uuQ64M8Q.webp
 ---
 
 Hash functions are used to securely store passwords, find duplicate records, quickly store and retrieve data, among other useful computational tasks. As a practical example, all user passwords on [Qvault](https://qvault.io/) are hashed using [Bcrypt](https://qvault.io/2020/08/24/bcrypt-step-by-step/) to ensure that if an attacker were ever to gain access to our database our user's passwords wouldn't be compromised.

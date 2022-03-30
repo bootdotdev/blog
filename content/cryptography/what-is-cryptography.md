@@ -6,6 +6,8 @@ categories:
   - "cryptography"
 tags: 
   - "sharing"
+images:
+  - /img/What-is-cryptography-guide-min.webp
 ---
 
 ## What is cryptography?

@@ -6,6 +6,8 @@ categories:
   - "cryptography"
   - "golang"
   - "security"
+images:
+  - /img/lock.webp
 ---
 
 Bcrypt is a [key derivation function](https://qvault.io/2019/12/30/very-basic-intro-to-key-derivation-functions-argon2-scrypt-etc/), which can be thought of as a special kind of [hash function](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc/). Its purpose is to _slowly_ convert a piece of input data to a fixed-size, deterministic, and unpredictable output. A common use case is to convert a password into an n-bit [cryptographic](https://qvault.io/cryptography/what-is-cryptography/) key, which can then be used for safe authentication.

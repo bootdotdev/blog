@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-10-12"
 categories: 
   - "rust"
+images:
+  - /img/rust.jpeg
 ---
 
 I've recently been working on getting Rust support in the [Qvault app](https://qvault.io/). In order to write a more engaging course, I want students to be able to write and execute code right in the browser. As I've learned from my previous posts on this topic, the easiest way to sandbox code execution on a server is to _not_ execute code on a server. Enter Web Assembly, stage left.

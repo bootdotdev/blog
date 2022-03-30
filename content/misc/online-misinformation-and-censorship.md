@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-07-31"
 categories: 
   - "misc"
+images:
+  - /img/addtext_com_MTM1MjE4MjM2OTg.jpeg
 ---
 
 The age of information is not what we all hoped it would be. We successfully digitized the majority of human knowledge, and we even made it freely accessible to most. Now the problem is different, we have _too much_ information. Answers to most questions can be found in thousands of distinct places online, and the new problem is _"whos information can we trust?"_

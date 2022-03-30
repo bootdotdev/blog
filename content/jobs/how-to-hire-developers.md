@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-10-13"
 categories: 
   - "jobs"
+images:
+  - /img/interview.jpeg
 ---
 
 So you want to hire a developer? Or maybe you just want to know what is going through the heads of employers like myself. Either way, let's dive right into what _I think_ are best practices for hiring programmers. I've found my opinions to be quite controversial, but I do put them into practice in my own career and at [Qvault](https://qvault.io/). When you inevitably disagree with some of my points, feel free to [@ me](https://twitter.com/wagslane).

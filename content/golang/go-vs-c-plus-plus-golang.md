@@ -4,6 +4,8 @@ author: Meghan Reichenbach
 date: "2021-07-12"
 categories: 
   - "golang"
+images:
+  - /img/Go-vs-C-min.webp
 ---
 
 Needing to be a math genius to learn code is a thing of the past, as more high-level programming languages offer an alternative to low-level machine code, making it more accessible than ever to get coding.

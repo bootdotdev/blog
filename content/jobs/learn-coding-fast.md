@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2021-02-22"
 categories: 
   - "jobs"
+images:
+  - /img/fast-motorcycle.webp
 ---
 
 The journey to becoming a gainfully employed software engineer can feel long. The good news is, you can learn smarter not harder. Apply these eight tricks and you'll be learning to program a lot faster than the average bear.

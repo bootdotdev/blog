@@ -4,6 +4,8 @@ author: Meghan Reichenbach
 date: "2021-12-17"
 categories: 
   - "python"
+images:
+  - /img/cvspython.webp
 ---
 
 C# and Python represent the two sides of what it means to be a powerful language.

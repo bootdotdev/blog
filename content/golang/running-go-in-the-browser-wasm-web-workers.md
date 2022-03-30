@@ -5,6 +5,8 @@ date: "2020-09-23"
 categories: 
   - "golang"
   - "javascript"
+images:
+  - /img/WASM-Web-Workers.png
 ---
 
 We've recently made big changes to how we execute Go in the browser on [Qvault](https://qvault.io/) and want to explain the enhancements. Web Workers are the reason we've been able to solve some of the serious browser-related coding problems that were holding us back. Consider this article a sequel to [Running Go in the Browser with Web Assembly](https://qvault.io/2020/07/01/running-go-in-the-browser-with-web-assembly-wasm/).

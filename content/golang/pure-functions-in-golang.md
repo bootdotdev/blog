@@ -5,6 +5,8 @@ date: "2020-09-07"
 categories: 
   - "clean-code"
   - "golang"
+images:
+  - /img/Pure-Functions-in-Go.png
 ---
 
 Pure functions are often hyped up in the JavaScript world, probably because of the abundance of stateful front end applications. While pure functions have their downsides (i.e. inconvenience, potentially large argument lists), they should be used as much as reasonably possible.

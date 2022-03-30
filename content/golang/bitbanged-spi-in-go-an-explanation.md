@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2020-01-09"
 categories: 
   - "golang"
+images:
+  - /img/1_5WD0gV6autEIzv8GMkc5gQ.webp
 ---
 
 I’m going to focus mostly on some design decisions and also how I went about writing an SPI interface using Go on a Raspberry Pi. I assume my readers have a basic understanding of what a Raspberry Pi is, and how basic electronics work. If not, read on anyway and I will be sure to include some valuable resources below.

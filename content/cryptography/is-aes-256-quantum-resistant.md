@@ -7,6 +7,8 @@ categories:
   - "security"
 tags: 
   - "sharing"
+images:
+  - /img/Copy-of-Pure-Functions-in-Go.webp
 ---
 
 With quantum computers getting more powerful each year, many worry about the safety of modern encryption standards. As quantum computers improve in performance and the number of [qubits](https://en.wikipedia.org/wiki/Qubit) used for calculations increases, current cryptosystems are under threat. [AES-256](https://qvault.io/2020/01/02/very-basic-intro-to-aes-256-cipher/) is one of the most powerful symmetric ciphers, but will it remain secure in a post-quantum world?

@@ -4,6 +4,8 @@ author: Zulie Rane
 date: "2021-10-12"
 categories: 
   - "python"
+images:
+  - /img/Best-Ways-To-Learn-Python-min.webp
 ---
 
 Everyone wants to know the best way to learn to code Python nowadays. It’s a great language, as I’ve [written](https://towardsdatascience.com/10-compelling-reasons-to-learn-python-for-data-science-fa31160321cb) [about](https://qvault.io/misc/popular-coding-languages-2021/) before, with great career prospects and tons of useful features. 

@@ -6,6 +6,8 @@ categories:
   - "clean-code"
 tags: 
   - "sharing"
+images:
+  - /img/desert.jpeg
 ---
 
 Clean code is like clean garbage - it's only clean if it doesn't exist. In other words, the only clean code is [no code](https://github.com/kelseyhightower/nocode). Let's start with an acknowledgment that a perfectly clean (empty) codebase is useless, that is, without code, we can't provide value to our users. With that in mind, our pursuit of "clean code" will necessarily consist of tradeoffs. We'll trade usefulness for cleanliness, complexity for speed, ownership for ease of development, and abstractions for reusability.

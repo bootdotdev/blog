@@ -6,6 +6,8 @@ categories:
 tags: 
   - "mailing-list"
 author: Lane Wagner
+images:
+  - /img/language.jpeg
 ---
 
 "Dead Poet's Society" is a classic film, and has become a recent favorite of mine. There's a scene in particular that I enjoy, where Robin William's character explains that it's bad practice to use terms like "very tired" or "very sad", instead we should use descriptive words like "exhausted" or "morose"!
