@@ -63,9 +63,3 @@ When everything went digital, some devices required a "Line Feed" character to t
 As you can imagine, `CRLF` is just both bytes shoved up next to each other: `0000110100001010`.
 
 ![Ascii Table](/img/asciifull.gif)
-
-## Related Content
-
-- [Lint on Save With VS Code Official Golang Extension](https://qvault.io/2020/06/30/lint-on-save-with-vs-code-official-golang-extension/)
-- [Comprehensive Guide to Learn CS Online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/)
-- [How to Get a Certificate in Computer Science](https://qvault.io/2020/12/15/a-certificate-in-computer-science-2021-guide/)

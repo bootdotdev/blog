@@ -26,7 +26,7 @@ Let's go over a quick background of public-key cryptography as a jumping-off poi
 
 Public-key cryptography allows the following to happen:
 
-![encryption algorithm example ](/img/1*6riJ7SDpZICZBMUUaFdZwg.jpeg)
+![encryption algorithm example ](/img/encaes.jpeg)
 
 [wikia](http://itlaw.wikia.com/wiki/Key_pair)
 
@@ -90,7 +90,7 @@ This is probably why most of you are here. The trapdoor function is what makes E
 
 First, we start with an arbitrary point on the curve. Next, we use the dot function to find a new point. Finally, we keep repeating the dot function to hop around the curve until we finally end up at our last point. Let's walk through the algorithm.
 
-![ecc's trapdoor function example](/img/1*ZrzlOZDcYIFVwpypm4w7TQ.gif)
+![ecc's trapdoor function example](/img/lines.gif)
 
 [arstechnica](https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/2/)
 
@@ -120,7 +120,7 @@ No. The second point (we will call it -R below) is actually the result of P dot 
 
 So what is `P dot P`? It is actually just the tangent line of P. See the graphic below:
 
-![dot function elliptical curve ](/img/1*nE-ikZdMf3X3P404LjF_dw.jpeg)
+![dot function elliptical curve ](/img/curve.jpeg)
 
 [Image Source](https://devcentral.f5.com/articles/real-cryptography-has-curves-making-the-case-for-ecc-20832)
 
@@ -128,7 +128,7 @@ So what is `P dot P`? It is actually just the tangent line of P. See the graphic
 
 If the line doesn’t hit the curve close to the origin, we can actually define a maximum X value where the line will wrap back around and start from the beginning again. See the graphic below for an example.
 
-![elliptic curve cryptography illustration](/img/1*TB-tUijsbiCLGuNJ1kNU0g.gif)
+![elliptic curve cryptography illustration](/img/liones.gif)
 
 [Image Source](https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/2/)
 
@@ -143,9 +143,3 @@ If however, you know the number of hops you can use an [exponentiation](https://
 ECC is used as the cryptographic key algorithm in Bitcoin because it potentially can save ~90% of the resources used by a similar RSA system. It seems that each year we see more systems moving from RSA to a more modern elliptic curve approach.
 
 **If you want to learn more about cryptography**, try our [Practical Cryptography course](https://qvault.io/practical-cryptography-course/) for free.
-
-## Related Articles
-
-- [Hashing Passwords - Python Cryptography Examples](https://qvault.io/2020/01/29/hashing-passwords-python-cryptography-examples/)
-- [How SHA-2 Works Step-By-Step (SHA-256)](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)
-- [Is AES-256 Quantum Resistant?](https://qvault.io/2019/07/09/is-aes-256-quantum-resistant/)

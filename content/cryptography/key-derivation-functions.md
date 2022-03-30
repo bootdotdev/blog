@@ -82,9 +82,3 @@ Strengthing extends a key with a random salt, but then [deletes the salt](https:
 ## Should I Use KDFs?
 
 Yes. Most often when storing passwords in databases, but also if any of these other use cases fall into the domain of your code. Tweet me if you have comments or questions. To read more check out the [HKDF paper](https://eprint.iacr.org/2010/264).
-
-## Related Work
-
-- [How To Build JWT’s in Go (Golang)](https://qvault.io/2020/02/20/how-to-build-jwts-in-go-golang/)
-- [(Very) Basic Intro To White-Box Cryptography](https://qvault.io/2020/04/27/very-basic-intro-to-white-box-cryptography/)
-- [How SHA-2 Works Step-By-Step (SHA-256)](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)

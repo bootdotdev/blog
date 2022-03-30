@@ -43,9 +43,3 @@ While it may confuse an attacker for a couple of minutes, this obfuscation offer
 [Elliptic curve cryptography](https://qvault.io/2020/07/21/very-basic-intro-to-elliptic-curve-cryptography/), RSA, [AES-256](https://qvault.io/2020/01/02/very-basic-intro-to-aes-256-cipher/), or another secure algorithm should have been used in the situation above. Ironically, it also probably would have taken less time to implement.
 
 Security can be hard. However, take the time to use best-practices. It will save you so much time and headaches in the long run. Good luck, and stay safe out there!
-
-## Related Articles
-
-  - [Rust vs Go - Which Is More Popular?](https://qvault.io/2020/05/06/rust-vs-go-which-is-more-popular/)  
-  - [Thinking about Recursion: How to Recursively Traverse JSON Objects and the Filesystem](https://qvault.io/2019/09/22/thinking-about-recursion-how-to-recursively-traverse-json-objects-and-the-filesystem/)   
-  - [How to Make a Custom Select Component in Vue.js](https://qvault.io/2019/09/09/how-to-make-a-custom-select-component-in-vue-js/)

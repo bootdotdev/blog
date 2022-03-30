@@ -118,9 +118,3 @@ The solution lies in [finite field arithmetic](https://en.wikipedia.org/wiki/Fin
 Adi Shamir is an Israeli cryptographer famous for Shamir's Secret Sharing, but he is also a co-inventor of the widely used RSA algorithm that the vast majority of the internet is built upon. Shamir was born in Tel Aviv and earned an undergraduate degree [](https://en.wikipedia.org/wiki/Bachelor_of_Science)in math from the university there. Later he obtained his master's and Ph.D. degrees in Computer Science from the Weizmann Institute in 1975 and 1977 respectively.
 
 ![](/img/440px-Adi_Shamir_Royal_Society-200x300.jpg)
-
-## Related Articles
-
-- [Trustworthy vs Trustless Apps](https://qvault.io/2019/07/23/trustworthy-vs-trustless-apps/)
-- [(Very) Basic Intro To Elliptic Curve Cryptography](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/)
-- [Top 10 Online Crypto Communities 2020](https://qvault.io/2020/01/08/top-10-online-crypto-communities-2020/)

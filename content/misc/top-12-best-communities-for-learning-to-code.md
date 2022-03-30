@@ -130,7 +130,7 @@ Slack doesn't need much explanation due to its fame, and the key points are simi
 
 ## [8\. Github](https://github.com/qvault)
 
-![](/img/1*JLYlSLSK8-AZo8gt9UdYqA.jpeg)
+![](/img/github.jpeg)
 
 Github is a unique community in that communication between users isn’t all that simple. Rather, the focus of this platform is to allow developers to share their _code_ in an open-source environment. While it may not be a great community for networking, it’s an excellent community for finding projects and people to collaborate with on the code itself. If you are looking to meet people you can:
 

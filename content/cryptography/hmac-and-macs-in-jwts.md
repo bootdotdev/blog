@@ -90,9 +90,3 @@ Authentication: Bearer header.{"email":"lane@34.106.91.234"}.hmacCode
 - If verification is successful, then the server updates Lane's profile picture
 
 If you feel that I missed anything important, or have any questions, feel free to contact me!
-
-## Related Articles
-
-- [How To Build JWT's in Go (Golang)](https://qvault.io/2020/02/20/how-to-build-jwts-in-go-golang/) 
-- [Achieving Data Integrity Using Cryptography](https://qvault.io/2020/05/04/achieving-data-integrity-using-cryptography/)
-- [Base64 vs Base58 Encoding](https://qvault.io/2020/03/03/base64-vs-base58-encoding/)

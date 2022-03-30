@@ -75,9 +75,3 @@ function getInsuranceAmount(status) {
 The example above is **much** easier to read and understand. When writing code, it's important to try to reduce the cognitive load on the reader by reducing the number of entities they need to think about at any given time.
 
 In the first example, if the developer is trying to figure out when **270** is returned, they need to think about each branch in the logic tree and try to remember which cases matter and which cases don't. With the one dimensional structure offered by guard clauses, it's as simple as stepping through each case in order.
-
-## Related Posts
-
-- [Building a Music/Video Streaming Server in Go - Using HLS](https://qvault.io/2019/12/03/building-a-music-video-streaming-app-in-go-using-hls/)   
-- [How To Build JWT's in Go (Golang)](https://qvault.io/2020/02/20/how-to-build-jwts-in-go-golang/)
-- [How to: Global Constant Maps and Slices in Go](https://qvault.io/2019/10/21/how-to-global-constant-maps-and-slices-in-go/)

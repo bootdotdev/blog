@@ -56,9 +56,3 @@ An attacker could try the following:
 3. ...
 
 If you are implementing AES in a cryptosystem in 2020 you should favor AES-256 over AES-128 for the quantum resistance and extra security that it offers.
-
-## Related Posts
-
-- [(Very) Basic Intro To Elliptic Curve Cryptography](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/) 
-- [How To Build JWT's in Go (Golang)](https://qvault.io/2020/02/20/how-to-build-jwts-in-go-golang/)
-- [Building a Music/Video Streaming Server in Go - Using HLS](https://qvault.io/2019/12/03/building-a-music-video-streaming-app-in-go-using-hls/)

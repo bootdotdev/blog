@@ -143,7 +143,7 @@ input()
 
 After running the code you will see something like the following printed on the screen :
 
-![](/img/2019-09-15 19_19_43-Window.png)
+![](/img/superdense.png)
 
 InteresteWant to learn about Quantum Programming? Head over to [Quantum Computing UK](https://quantumcomputinguk.org/).
 
