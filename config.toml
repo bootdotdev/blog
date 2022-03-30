@@ -5,6 +5,7 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = []
 footnotereturnlinkcontents = "↩"
+paginate = 10
 
 [taxonomies]
   category = "categories"

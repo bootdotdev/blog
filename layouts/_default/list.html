@@ -9,9 +9,8 @@
 </main>
 
 <ul>
-  {{ $pages := .Pages }}
-  {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
-  {{ range (where $pages "Section" "!=" "") }}
+  {{ $paginator := .Paginate (where .Paginator.Pages "Section" "!=" "") }}
+  {{ range $paginator.Pages }}
   <li>
     <div class="mb-10">
       <a href="{{ .RelPermalink }}">
@@ -20,13 +19,15 @@
           <h3 class="text-sm text-gray-250 mb-8">{{ .Date.Format "Jan 02, 2006" }} by {{ .Params.author }}</h3>
           {{ if .Params.images }}
           <img loading="lazy" class="rounded mb-4" src="{{ index (.Params.images) 0 }}" />
+          {{ end }}
         </div>
       </a>
-      {{ end }}
       <p>{{.Summary}}</p>
     </div>
   </li>
   {{ end }}
 </ul>
+
+{{ partial "page_numbers.html" . }}
 
 {{ partial "footer.html" . }}
