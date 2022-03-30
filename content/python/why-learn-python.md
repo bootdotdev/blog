@@ -62,7 +62,14 @@ Python’s large community has developed a wide range of frameworks and librarie
 
 Some major libraries and frameworks for different areas include:
 
-<table><tbody><tr><td><strong>Data Science</strong></td><td>NumPy, SciPy, Pandas, SciKit-Learn, Matplotlib, Pytorch</td></tr><tr><td><strong>Machine Learning</strong></td><td>SciKit-Learn, PyBrain, PyML, TensorFlow, XGBoost, Keras, Seaborn, Theano</td></tr><tr><td><strong>Web development</strong></td><td>Django, Pyramid, Flask, CherryPy, Grok, TurboGears, Web2Py</td></tr><tr><td><strong>Network Programming</strong></td><td>Asyncio, Pulsar, Pyzmq, Diesel, Twisted</td></tr><tr><td><strong>Scraping</strong></td><td>Beautiful Soup, LXML, Selenium, Scrapy, Requests</td></tr></tbody></table>
+|                     |                                                                          |
+| ------------------- | ------------------------------------------------------------------------ |
+| Data Science        | NumPy, SciPy, Pandas, SciKit-Learn, Matplotlib, Pytorch                  |
+| Machine Learning    | SciKit-Learn, PyBrain, PyML, TensorFlow, XGBoost, Keras, Seaborn, Theano |
+| Web development     | Django, Pyramid, Flask, CherryPy, Grok, TurboGears, Web2Py               |
+| Network Programming | Asyncio, Pulsar, Pyzmq, Diesel, Twisted                                  |
+| Scraping            | Beautiful Soup, LXML, Selenium, Scrapy, Requests                         |
+
 
 Most Popular Python Libraries
 

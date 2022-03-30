@@ -40,6 +40,11 @@ Good engineers can be hired. Budgets can be found. Bugs can be fixed. The real c
 
 It's not actually "having bad ideas" that is important. In fact, there is nothing inherently wrong with having good ideas. The problem is when a product manager _believes_ they have good ideas - whether they're good or not. Every idea that a team has should be formed into hypotheses that can be tested in the market, and critically, with some rejection criteria baked in. Let me give some examples.
 
-<table><tbody><tr><td>Hypothesis</td><td>Rejection Criteria</td></tr><tr><td>People want a tool that automatically removes spam better than Gmail.</td><td>Talk to 30 heavy Gmail users, if less than 5 would define their spam as "exhausting", reject.</td></tr><tr><td>Marketing teams write content, but forget to engage with their audiences.</td><td>Create a landing page for a tool that promises to boost Twitter engagement by 20%. Spend $250 on ads targeting social marketers. If less than 10 people sign up for the waiting list, reject.</td></tr></tbody></table>
+|                                                                           |                                                                                                                                                                                               |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hypothesis                                                                | Rejection Criteria                                                                                                                                                                            |
+| People want a tool that automatically removes spam better than Gmail.     | Talk to 30 heavy Gmail users, if less than 5 would define their spam as "exhausting", reject.                                                                                                 |
+| Marketing teams write content, but forget to engage with their audiences. | Create a landing page for a tool that promises to boost Twitter engagement by 20%. Spend $250 on ads targeting social marketers. If less than 10 people sign up for the waiting list, reject. |
+
 
 The best product managers take product ideas, formulate them into testable hypotheses, and then go out and test them with as little bias as they can muster.

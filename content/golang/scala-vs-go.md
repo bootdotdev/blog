@@ -22,7 +22,13 @@ Oppositely, Scala was developed by Martin Odersky at the École Polytechnique F�
 
 Scala is a statically typed, general-purpose, object-oriented language that aims to address the criticisms of Java, while still utilizing the Java platform. Scala is well known for its use in Big Data and machine learning.
 
-<table class="has-fixed-layout"><tbody><tr><td></td><td><strong>Go</strong></td><td><strong>Scala</strong></td></tr><tr><td><strong>Type</strong></td><td>Statically typed</td><td>Statically typed</td></tr><tr><td><strong>Language</strong></td><td>Procedural</td><td>OOP</td></tr><tr><td><strong>Main use</strong></td><td>Large-scale networks</td><td>Big data and ML</td></tr></tbody></table>
+|          |                      |                  |
+| -------- | -------------------- | ---------------- |
+|          | Go                   | Scala            |
+| Type     | Statically typed     | Statically typed |
+| Language | Procedural           | OOP              |
+| Main use | Large-scale networks | Big data and ML  |
+
 
 Choosing between these languages is no easy thing, so I’m here to do the hard work for you. Keep reading to see how the languages compare in skill level, performance, salary, and application to figure out which one is best for you!
 

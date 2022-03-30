@@ -59,7 +59,17 @@ Based on their official headlines it would seem they are in direct competition. 
 
 Here are my current fast and loose opinions on the strengths and weaknesses of each:
 
-<table><tbody><tr><td></td><td>Go</td><td>Rust</td></tr><tr><td>Speed</td><td>✅✅</td><td>✅✅✅</td></tr><tr><td>Memory Safe</td><td>✅✅✅</td><td>✅✅✅</td></tr><tr><td>Simple</td><td>✅✅✅</td><td>✅</td></tr><tr><td>Standard Library</td><td>✅✅✅</td><td>✅✅</td></tr><tr><td>Memory Optimized</td><td>✅✅</td><td>✅✅✅</td></tr><tr><td>Support/Community</td><td>✅✅</td><td>✅</td></tr><tr><td>Concurrency (Simplicity)</td><td>✅✅✅</td><td>✅</td></tr></tbody></table>
+|                          |     |      |
+| ------------------------ | --- | ---- |
+|                          | Go  | Rust |
+| Speed                    | ✅✅  | ✅✅✅  |
+| Memory Safe              | ✅✅✅ | ✅✅✅  |
+| Simple                   | ✅✅✅ | ✅    |
+| Standard Library         | ✅✅✅ | ✅✅   |
+| Memory Optimized         | ✅✅  | ✅✅✅  |
+| Support/Community        | ✅✅  | ✅    |
+| Concurrency (Simplicity) | ✅✅✅ | ✅    |
+
 
 Lane's Sloppy Rust vs Go Comparison
 

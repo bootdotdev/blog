@@ -16,7 +16,17 @@ The most popular coding language of 2021 will be based on what the coder in ques
 
 With so many constantly-shifting languages it’s hard to know where to start, especially as open source languages change all the time, with new packages and frameworks. No matter what your interest or need is, if you want to know what the most popular coding languages will be in 2021, you’ll find them on this list. 
 
-<table><tbody><tr><td>For absolute beginners</td><td><a href="#python" class="rank-math-link">Python</a></td></tr><tr><td>For people who don’t want a programming job</td><td><a href="#r" class="rank-math-link">R</a></td></tr><tr><td>For the highest salary</td><td><a href="#perl" class="rank-math-link">Perl</a></td></tr><tr><td>For mobile app development on iOS</td><td><a href="#swift" class="rank-math-link">Swift</a></td></tr><tr><td>For lateral thinkers</td><td><a href="#ruby" class="rank-math-link">Ruby</a></td></tr><tr><td>For mobile apps and web development</td><td><a href="#javascript" class="rank-math-link">JavaScript</a></td></tr><tr><td>For quickly increasing your salary</td><td><a href="#go" class="rank-math-link">Go</a></td></tr><tr><td>For the future</td><td><a href="#rust" class="rank-math-link">Rust</a></td></tr></tbody></table>
+|                                             |            |
+| ------------------------------------------- | ---------- |
+| For absolute beginners                      | Python     |
+| For people who don’t want a programming job | R          |
+| For the highest salary                      | Perl       |
+| For mobile app development on iOS           | Swift      |
+| For lateral thinkers                        | Ruby       |
+| For mobile apps and web development         | JavaScript |
+| For quickly increasing your salary          | Go         |
+| For the future                              | Rust       |
+
 
 Table describing the most popular coding languages of 2021 for different purposes.
 

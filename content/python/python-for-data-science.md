@@ -18,7 +18,19 @@ I dipped my toe in the data science world using Python for a lot of reasons - it
 
 Even though Python is a general-purpose language, this article gives you 10 solid reasons you should learn Python for data science, and explains what Python is in data science.
 
-<table><tbody><tr><td><a href="https://qvault.io/python/python-for-data-science#learn">1. Python is easy to learn for data science.</a></td></tr><tr><td><a href="https://qvault.io/python/python-for-data-science#read">2. Python is easy to read.</a></td></tr><tr><td><a href="https://qvault.io/python/python-for-data-science#popular">3. Python is a popular language among data scientists.</a></td></tr><tr><td><a href="https://qvault.io/python/python-for-data-science#community">4. There's a vibrant community of Pythonistas in the Data Science world.</a></td></tr><tr><td><a href="https://qvault.io/python/python-for-data-science#libraries">5.The Python data science libraries are comprehensive.</a></td></tr><tr><td><a href="https://qvault.io/python/python-for-data-science#basics">6. Learning basic Python teaches you basic data science.</a></td></tr><tr><td><a href="https://qvault.io/python/python-for-data-science#cleaning">7. Python makes data cleaning easy.</a></td></tr><tr><td><a href="https://qvault.io/python/python-for-data-science#communicate">8. It's simple to communicate data science results with Python.</a></td></tr><tr><td><a href="https://qvault.io/python/python-for-data-science#prototypes">9. Python helps you build quick data science prototypes.</a></td></tr><tr><td><a href="https://qvault.io/python/python-for-data-science#security">10. Python gives you job security beyond data science.</a></td></tr></tbody></table>
+|                                                                          |
+| ------------------------------------------------------------------------ |
+| 1. Python is easy to learn for data science.                             |
+| 2. Python is easy to read.                                               |
+| 3. Python is a popular language among data scientists.                   |
+| 4. There's a vibrant community of Pythonistas in the Data Science world. |
+| 5.The Python data science libraries are comprehensive.                   |
+| 6. Learning basic Python teaches you basic data science.                 |
+| 7. Python makes data cleaning easy.                                      |
+| 8. It's simple to communicate data science results with Python.          |
+| 9. Python helps you build quick data science prototypes.                 |
+| 10. Python gives you job security beyond data science.                   |
+
 
 ## 1\. Python is easy to learn
 

@@ -18,7 +18,19 @@ Ruby is most commonly used to create web applications. Especially with its most 
 
 That should give you enough context to help you understand the basics of the Ruby vs Python discussion, and understand which is best for you in these ten different respects below.
 
-<table><tbody><tr><td><a href="#popular">Which is most popular?</a></td><td>Python</td></tr><tr><td><a href="#beginners">Which is best for beginners?</a></td><td>Python</td></tr><tr><td><meta charset="utf-8"><a href="#performance">Which performs best?</a></td><td>Both are equal</td></tr><tr><td><a href="#web-development">Which is best for web development?</a></td><td>Ruby</td></tr><tr><td><a href="#career">Which is best for your career?</a></td><td>Depends</td></tr><tr><td><meta charset="utf-8"><a href="#AI">Which is best for Artificial Intelligence/Machine Learning/Deep Learning?</a></td><td>Python</td></tr><tr><td><meta charset="utf-8"><a href="#productivity">Which is best for productivity?</a></td><td>Both, depending on personal philosophy</td></tr><tr><td><meta charset="utf-8"><a href="#readable">Which is more readable?</a></td><td>Python</td></tr><tr><td><meta charset="utf-8"><a href="#innovative">Which is more innovative?</a></td><td>Ruby</td></tr><tr><td><a href="http://qvault.io/python/ruby-vs-python#future">Which language will be best</a><a href="#future"> </a><a href="http://qvault.io/python/ruby-vs-python#future">for the future?</a></td><td>Python (with caveats)</td></tr></tbody></table>
+|                                                                           |                                        |
+| ------------------------------------------------------------------------- | -------------------------------------- |
+| Which is most popular?                                                    | Python                                 |
+| Which is best for beginners?                                              | Python                                 |
+| Which performs best?                                                      | Both are equal                         |
+| Which is best for web development?                                        | Ruby                                   |
+| Which is best for your career?                                            | Depends                                |
+| Which is best for Artificial Intelligence/Machine Learning/Deep Learning? | Python                                 |
+| Which is best for productivity?                                           | Both, depending on personal philosophy |
+| Which is more readable?                                                   | Python                                 |
+| Which is more innovative?                                                 | Ruby                                   |
+| Which language will be best for the future?                               | Python (with caveats)                  |
+
 
 ## 1\. Ruby vs Python: Which is most popular?
 

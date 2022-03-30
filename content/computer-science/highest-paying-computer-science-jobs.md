@@ -17,7 +17,29 @@ If you don't feel you have a solid grasp of basic computer science skills yet, d
 
 In the table below you'll find the median salaries for various programming jobs according to [Stack Overflow](https://insights.stackoverflow.com/survey/2020#work-salary-by-developer-type-united-states)'s annual developer survey in 2020. We can expect that in 2021 things will stay relatively similar. Accounting for inflation and industry growth, we'll likely see a growth of around 2-4% for most positions, and once the 2021 data is out, we'll update this chart accordingly.
 
-<table><tbody><tr><td><a href="#engineering-manager" class="rank-math-link">Engineering manager</a></td><td>$152k</td></tr><tr><td><a href="#engineer-site-reliability" class="rank-math-link">Engineer, site reliability</a></td><td>$140k</td></tr><tr><td><a href="#data-scientist-ml" class="rank-math-link">Data scientist or machine learning specialist</a></td><td>$125k</td></tr><tr><td><a href="#devops-specialist" class="rank-math-link">DevOps specialist</a></td><td>$125k</td></tr><tr><td><a href="#data-engineer" class="rank-math-link">Engineer, data</a></td><td>$125k</td></tr><tr><td><a href="#developer-back-end" class="rank-math-link">Developer, back-end</a></td><td>$120k</td></tr><tr><td><a href="#developer-embedded" class="rank-math-link">Developer, embedded applications or devices</a></td><td>$120k</td></tr><tr><td><a href="#developer-mobile" class="rank-math-link">Developer, mobile</a></td><td>$120k</td></tr><tr><td><a href="#computer-scientist" class="rank-math-link">Scientist</a></td><td>$120k</td></tr><tr><td><a href="#developer-desktop" class="rank-math-link">Developer, desktop or enterprise applications</a></td><td>$115k</td></tr><tr><td><a href="#educator" class="rank-math-link">Educator</a></td><td>$115k</td></tr><tr><td><a href="#developer-full-stack" class="rank-math-link">Developer, full-stack</a></td><td>$112k</td></tr><tr><td><a href="#game-developer" class="rank-math-link">Developer, game or graphics</a></td><td>$112k</td></tr><tr><td><a href="#database-administrator" class="rank-math-link">Database administrator</a></td><td>$110k</td></tr><tr><td><a href="#developer-front-end" class="rank-math-link">Developer, front-end</a></td><td>$110k</td></tr><tr><td><a href="#system-administrator" class="rank-math-link">System administrator</a></td><td>$110k</td></tr><tr><td><a href="#developer-qa-test" class="rank-math-link">Developer, QA or test</a></td><td>$105k</td></tr><tr><td><a href="#academic-researcher" class="rank-math-link">Academic researcher</a></td><td>$100k</td></tr><tr><td><a href="#data-business-analyst" class="rank-math-link">Data or business analyst</a></td><td>$100k</td></tr><tr><td><a href="#designer" class="rank-math-link">Designer</a></td><td>$100k</td></tr></tbody></table>
+|                                               |       |
+| --------------------------------------------- | ----- |
+| Engineering manager                           | $152k |
+| Engineer, site reliability                    | $140k |
+| Data scientist or machine learning specialist | $125k |
+| DevOps specialist                             | $125k |
+| Engineer, data                                | $125k |
+| Developer, back-end                           | $120k |
+| Developer, embedded applications or devices   | $120k |
+| Developer, mobile                             | $120k |
+| Scientist                                     | $120k |
+| Developer, desktop or enterprise applications | $115k |
+| Educator                                      | $115k |
+| Developer, full-stack                         | $112k |
+| Developer, game or graphics                   | $112k |
+| Database administrator                        | $110k |
+| Developer, front-end                          | $110k |
+| System administrator                          | $110k |
+| Developer, QA or test                         | $105k |
+| Academic researcher                           | $100k |
+| Data or business analyst                      | $100k |
+| Designer                                      | $100k |
+
 
 Developer Salary Info 2020
 

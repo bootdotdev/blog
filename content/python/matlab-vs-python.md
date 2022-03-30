@@ -16,7 +16,20 @@ No matter if you're just starting out coding and trying to decide which language
 
 If you find yourself in that boat, this article is for you.
 
-<table><tbody><tr><td><a href="#python-history">A Brief History of Python</a></td><td></td></tr><tr><td><a href="#beginner-coders">Matlab versus Python: Which is best for beginner coders?</a></td><td>Both</td></tr><tr><td><a href="#productivity">Matlab versus Python: Which is best for productivity?</a></td><td>Python for newbies, Matlab for specialists</td></tr><tr><td><a href="#computer-science">Matlab versus Python: Which is best for a job in computer science?</a></td><td>Python</td></tr><tr><td><a href="#image-processing">Matlab versus Python: Which is best for image processing?</a></td><td>Matlab</td></tr><tr><td><a href="#machine-learning">Matlab versus Python: Which is best for machine learning?</a></td><td>Python</td></tr><tr><td><a href="#data-science">Matlab versus Python: Which is best for data science?</a></td><td>Python</td></tr><tr><td><a href="#deep-learning">Matlab versus Python: Which is best for deep learning?</a></td><td>Python</td></tr><tr><td><a href="#speed">Matlab versus Python: Which is best for speed?</a></td><td>Both</td></tr><tr><td><a href="#future">Matlab versus Python: Which is best for the future?</a></td><td>Python</td></tr><tr><td><a href="#summary">Matlab versus Python: Which is best, full stop?</a></td><td>Except in a few unique cases, Python</td></tr></tbody></table>
+|                                                                    |                                            |
+| ------------------------------------------------------------------ | ------------------------------------------ |
+| A Brief History of Python                                          |                                            |
+| Matlab versus Python: Which is best for beginner coders?           | Both                                       |
+| Matlab versus Python: Which is best for productivity?              | Python for newbies, Matlab for specialists |
+| Matlab versus Python: Which is best for a job in computer science? | Python                                     |
+| Matlab versus Python: Which is best for image processing?          | Matlab                                     |
+| Matlab versus Python: Which is best for machine learning?          | Python                                     |
+| Matlab versus Python: Which is best for data science?              | Python                                     |
+| Matlab versus Python: Which is best for deep learning?             | Python                                     |
+| Matlab versus Python: Which is best for speed?                     | Both                                       |
+| Matlab versus Python: Which is best for the future?                | Python                                     |
+| Matlab versus Python: Which is best, full stop?                    | Except in a few unique cases, Python       |
+
 
 ## A Brief History of Matlab
 
