@@ -2,7 +2,7 @@
 
 ## Quick start development
 
-Make sure you have `yarn` and the latest version of [hugo](https://gohugo.io/getting-started/installing/) installed.
+Make sure you have `yarn` and the latest version of [hugo](https://gohugo.io/getting-started/installing/) installed on your local machine.
 
 ```bash
 yarn install
