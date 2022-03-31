@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2021-04-19"
 categories: 
   - "golang"
-tags: 
-  - "mailing-list"
 images:
   - /img/list-with-pencil-and-paper.webp
 ---

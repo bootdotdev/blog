@@ -5,8 +5,6 @@ date: "2020-11-19"
 categories: 
   - "computer-science"
   - "jobs"
-tags: 
-  - "sharing"
 images:
   - /img/laptop-2557468_1920.webp
 ---

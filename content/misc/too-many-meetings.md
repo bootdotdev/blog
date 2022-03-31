@@ -5,9 +5,6 @@ date: "2021-05-10"
 categories: 
   - "jobs"
   - "news"
-tags: 
-  - "mailing-list"
-  - "sharing"
 images:
   - /img/meetings-on-couch.webp
 ---

@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2020-09-06"
 categories: 
   - "clean-code"
-tags: 
-  - "sharing"
 images:
   - /img/Guard-Clauses.webp
 ---

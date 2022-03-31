@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2021-06-21"
 categories: 
   - "python"
-tags: 
-  - "mailing-list"
 images:
   - /img/red-black.webp
 ---

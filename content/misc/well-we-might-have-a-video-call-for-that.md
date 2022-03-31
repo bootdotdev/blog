@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2021-09-27"
 categories: 
   - "news"
-tags: 
-  - "mailing-list"
 images:
   - /img/videocall.jpeg
 ---

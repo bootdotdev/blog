@@ -4,9 +4,6 @@ author: Lane Wagner
 date: "2021-07-23"
 categories: 
   - "clean-code"
-tags: 
-  - "mailing-list"
-  - "sharing"
 images:
   - /img/unique.webp
 ---

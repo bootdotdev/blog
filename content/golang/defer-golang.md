@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2021-06-01"
 categories: 
   - "golang"
-tags: 
-  - "mailing-list"
 images:
   - /img/hand-signal.webp
 ---

@@ -5,8 +5,6 @@ date: "2021-03-05"
 categories: 
   - "computer-science"
   - "jobs"
-tags: 
-  - "sharing"
 images:
   - /img/coffee-beans-scaled.webp
 ---

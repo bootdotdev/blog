@@ -5,8 +5,6 @@ date: "2021-04-29"
 categories: 
   - "golang"
   - "python"
-tags: 
-  - "mailing-list"
 images:
   - /img/decurated-on-medium-1.webp
 ---

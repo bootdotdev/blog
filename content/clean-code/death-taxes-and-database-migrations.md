@@ -4,9 +4,6 @@ author: Lane Wagner
 date: "2021-08-17"
 categories: 
   - "clean-code"
-tags: 
-  - "mailing-list"
-  - "sharing"
 images:
   - /img/migration.jpeg
 ---

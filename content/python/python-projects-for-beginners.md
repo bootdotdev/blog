@@ -4,8 +4,6 @@ author: Zulie Rane
 date: "2021-10-06"
 categories: 
   - "python"
-tags: 
-  - "sharing"
 images:
   - /img/pexels-diego-madrigal-2062314-scaled.webp
 ---
@@ -17,29 +15,6 @@ While it’s fine to start with "Hello World", it’s not exactly the most fasci
 You might be sold on the concept of using a project to learn Python, but maybe you’re wondering how you can find the best Python projects for beginners. The good news is that thanks to the awesome community of Pythonistas out there, the prevalence of open source code and data, and the wide world of the internet, you’re bound to find a Python project for beginners that you’ll love.
 
 Full disclosure, some of these will be harder than your usual Python projects for beginners. On the upside, these are fun, interesting projects that will actually teach you Python. You will struggle, you will have to Google stuff, but that's all part of the experience. Here are some ideas to get you started.
-
-- [5 Python Projects for Beginners Using Straight Python or Python Packages](#5-python-projects-for-beginners-using-straight-python-or-python-packages)
-  - [1\. Make a Twitter bot with \`Tweepy\`](#1-make-a-twitter-bot-with-tweepy)
-  - [2\. Write a Create Your Own Adventure script](#2-write-a-create-your-own-adventure-script)
-  - [3\. Create a blog](#3-create-a-blog)
-  - [4\. Make a login system, Part 1 and [Part 2](https://www.youtube.com/watch?v=SUC1aTu092w&t=0s)](#4-make-a-login-system-part-1-and-part-2)
-  - [5\. Connect Python to StackOverflow](#5-connect-python-to-stackoverflow)
-- [3 Python Projects for Beginners Using Courses or Lectures](#3-python-projects-for-beginners-using-courses-or-lectures)
-  - [6\. Complete Our Python Course](#6-complete-our-python-course)
-  - [7\. Coursera’s Python Project option](#7-courseras-python-project-option)
-  - [8\. YouTube lectures](#8-youtube-lectures)
-  - [9\. LinkedIn Learning](#9-linkedin-learning)
-- [4 Python Projects for Beginners Using GitHub](#4-python-projects-for-beginners-using-github)
-  - [10\. Matchmaker game](#10-matchmaker-game)
-  - [11\. Madlibs](#11-madlibs)
-  - [12\. Count Instagram followers and likes](#12-count-instagram-followers-and-likes)
-- [5 Python Projects for Beginners Using Your Own Data](#5-python-projects-for-beginners-using-your-own-data)
-  - [13\. 538](#13-538)
-  - [14\. Tidy Tuesday](#14-tidy-tuesday)
-  - [15\. Buzzfeed](#15-buzzfeed)
-  - [16\. NASA](#16-nasa)
-  - [17\. AWS](#17-aws)
-- [The best Python projects for beginners are deeply, deeply interesting.](#the-best-python-projects-for-beginners-are-deeply-deeply-interesting)
 
 ## 5 Python Projects for Beginners Using Straight Python or Python Packages
 

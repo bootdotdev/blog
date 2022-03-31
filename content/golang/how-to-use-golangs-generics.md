@@ -4,9 +4,6 @@ author: Lane Wagner
 date: "2021-12-06"
 categories: 
   - "golang"
-tags: 
-  - "mailing-list"
-  - "sharing"
 images:
   - /img/blob.webp
 ---

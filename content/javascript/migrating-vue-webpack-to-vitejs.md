@@ -5,8 +5,6 @@ date: "2021-04-26"
 categories: 
   - "javascript"
   - "open-source"
-tags: 
-  - "mailing-list"
 images:
   - /img/Webpack-and-Vue-to-Vite.webp
 ---

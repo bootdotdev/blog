@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2020-11-23"
 categories: 
   - "clean-code"
-tags: 
-  - "sharing"
 images:
   - /img/Writing-Good-Unit-Tests-Dont-Use-Database-Mocking.webp
 ---

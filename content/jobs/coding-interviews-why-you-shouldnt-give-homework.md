@@ -5,9 +5,6 @@ date: "2021-11-18"
 categories: 
   - "jobs"
   - "misc"
-tags: 
-  - "mailing-list"
-  - "sharing"
 images:
   - /img/homework.jpeg
 ---

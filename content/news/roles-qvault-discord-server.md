@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2021-12-19"
 categories: 
   - "news"
-tags: 
-  - "sharing"
 images:
   - /img/discord.jpeg
 ---

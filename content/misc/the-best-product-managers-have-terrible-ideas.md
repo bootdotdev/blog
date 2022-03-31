@@ -4,9 +4,6 @@ author: Lane Wagner
 date: "2021-11-02"
 categories: 
   - "misc"
-tags: 
-  - "mailing-list"
-  - "sharing"
 images:
   - /img/bad-idea.jpeg
 ---

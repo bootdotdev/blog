@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2021-05-17"
 categories: 
   - "golang"
-tags: 
-  - "mailing-list"
 images:
   - /img/clock.webp
 ---

@@ -5,8 +5,6 @@ date: "2021-07-29"
 categories: 
   - "javascript"
   - "jobs"
-tags: 
-  - "sharing"
 images:
   - /img/JavaScript-Interview-Questions.webp
 ---

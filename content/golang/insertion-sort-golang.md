@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2021-06-14"
 categories: 
   - "golang"
-tags: 
-  - "mailing-list"
 images:
   - /img/insert.webp
 ---

@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2019-11-08"
 categories: 
   - "javascript"
-tags: 
-  - "sharing"
 images:
   - /img/photo-1509099652299-30938b0aeb63.jpeg
 ---

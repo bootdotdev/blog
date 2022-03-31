@@ -4,8 +4,6 @@ author: Zulie Rane
 date: "2021-05-25"
 categories: 
   - "javascript"
-tags: 
-  - "mailing-list"
 images:
   - /img/pexels-artem-podrez-4492129-scaled.jpeg
 ---

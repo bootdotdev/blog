@@ -5,8 +5,6 @@ date: "2020-09-03"
 categories: 
   - "clean-code"
   - "golang"
-tags: 
-  - "sharing"
 images:
   - /img/slice.jpeg
 ---

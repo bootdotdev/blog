@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2021-01-25"
 categories: 
   - "clean-code"
-tags: 
-  - "sharing"
 images:
   - /img/desert.jpeg
 ---

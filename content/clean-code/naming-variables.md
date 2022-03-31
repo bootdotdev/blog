@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2021-04-01"
 categories: 
   - "clean-code"
-tags: 
-  - "sharing"
 images:
   - /img/yelling-at-computer.webp
 ---

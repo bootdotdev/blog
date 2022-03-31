@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2020-11-18"
 categories: 
   - "computer-science"
-tags: 
-  - "sharing"
 images:
   - /img/learning-computer-science-online.webp
 ---

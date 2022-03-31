@@ -5,8 +5,6 @@ date: "2020-09-10"
 categories: 
   - "cryptography"
   - "security"
-tags: 
-  - "sharing"
 images:
   - /img/Copy-of-Pure-Functions-in-Go.webp
 ---

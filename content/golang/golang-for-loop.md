@@ -4,25 +4,11 @@ author: Lane Wagner
 date: "2021-04-10"
 categories: 
   - "golang"
-tags: 
-  - "mailing-list"
 images:
   - /img/loop-architecture.webp
 ---
 
 A for loop executes a block of code repeatedly, and in Golang, there are several different ways to write one.
-
-- [#1 The standard three-component loop](#1-the-standard-three-component-loop)
-- [#2 For-range loop](#2-for-range-loop)
-  - [Range over a slice in Go](#range-over-a-slice-in-go)
-  - [Range over a map in Go](#range-over-a-map-in-go)
-  - [Range over a channel in Go](#range-over-a-channel-in-go)
-  - [Range over a string in Go](#range-over-a-string-in-go)
-- [#3 While loop](#3-while-loop)
-- [#4 Optional components loop](#4-optional-components-loop)
-- [#5 Infinite loop](#5-infinite-loop)
-- [#6 Break from a loop](#6-break-from-a-loop)
-- [#7 Continue (skip to the next iteration) in a loop](#7-continue-skip-to-the-next-iteration-in-a-loop)
 
 ## #1 The standard three-component loop
 

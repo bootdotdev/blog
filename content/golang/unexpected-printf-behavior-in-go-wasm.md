@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2020-08-10"
 categories: 
   - "golang"
-tags: 
-  - "sharing"
 images:
   - /img/fmt.Printf.png
 ---

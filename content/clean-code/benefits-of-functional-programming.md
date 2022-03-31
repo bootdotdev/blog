@@ -3,8 +3,6 @@ title: "Top 8 Benefits of Functional Programming"
 date: "2021-02-25"
 categories: 
   - "clean-code"
-tags: 
-  - "sharing"
 author: Lane Wagner
 images:
   - /img/calculus-on-a-chalkboard.webp

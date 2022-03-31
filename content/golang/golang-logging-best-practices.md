@@ -5,8 +5,6 @@ date: "2020-01-07"
 categories: 
   - "clean-code"
   - "golang"
-tags: 
-  - "sharing"
 images:
   - /img/photo-1457524461416-8796b6d23efb-e1589473495660.webp
 ---

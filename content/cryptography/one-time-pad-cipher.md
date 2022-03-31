@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2021-06-28"
 categories: 
   - "cryptography"
-tags: 
-  - "mailing-list"
 images:
   - /img/eyeball-art.webp
 ---

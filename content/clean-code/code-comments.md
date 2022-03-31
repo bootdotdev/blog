@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2020-10-29"
 categories: 
   - "clean-code"
-tags: 
-  - "sharing"
 images:
   - /img/comment.webp
 ---

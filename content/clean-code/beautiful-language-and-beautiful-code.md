@@ -3,9 +3,6 @@ title: "Beautiful Language and Beautiful Code"
 date: "2021-06-30"
 categories: 
   - "clean-code"
-tags: 
-  - "mailing-list"
-author: Lane Wagner
 images:
   - /img/language.jpeg
 ---

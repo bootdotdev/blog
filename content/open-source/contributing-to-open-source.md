@@ -4,8 +4,6 @@ author: Lane Wagner
 date: "2020-10-21"
 categories: 
   - "open-source"
-tags: 
-  - "sharing"
 images:
   - /img/6-Things-to-Avoid-When-Contributing-to-Open-Source-Projects.jpeg
 ---
