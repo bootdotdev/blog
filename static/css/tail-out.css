@@ -506,6 +506,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   left: 0px;
 }
 
+.z-50 {
+  z-index: 50;
+}
+
 .m-0 {
   margin: 0px;
 }

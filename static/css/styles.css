@@ -13,6 +13,12 @@
   --gray-800: #262626;
   --gray-900: #171717;
   --gray-950: #141414;
+
+  --top-nav-bar-height: 60px;
+}
+
+.top-nav-bar-height {
+  height: var(--top-nav-bar-height);
 }
 
 body {
