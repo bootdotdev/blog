@@ -7,7 +7,7 @@
     <h1 class="text-3xl font-bold text-white mb-2">{{ .Title | markdownify }}</h1>
 
     {{ if .Params.author }}
-    <p class="text-sm text-gray-250">
+    <p class="text-sm text-gray-300">
         By {{ .Params.author }}
         {{ if (gt .Params.date 0) }}
         on {{ .Date.Format "Jan 02, 2006" }}

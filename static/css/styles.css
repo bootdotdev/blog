@@ -8,9 +8,11 @@
   --blue-500: #5865F2;
   --blue-600: #4150F1;
 
-  --gray-50: #EBEBEB;
-  --gray-900: #292929;
-  --gray-950: #1F1F1F;
+  --gray-50: #fafafa;
+  --gray-700: #404040;
+  --gray-800: #262626;
+  --gray-900: #171717;
+  --gray-950: #141414;
 }
 
 body {
@@ -66,7 +68,7 @@ main code {
 }
 
 main pre {
-  background: var(--gray-950);
+  background: var(--gray-800);
   padding: 1em;
   overflow-x: auto;
   border-radius: 4px;
@@ -75,8 +77,7 @@ main pre {
 
 main p code {
   padding: 2px 4px 2px 4px;
-  background-color: #373737;
-  color: #EDEDED;
+  background: var(--gray-700);
   border-radius: 4px;
 }
 
@@ -96,7 +97,7 @@ main img, iframe, video {
 }
 
 main blockquote {
-  background: var(--gray-950);
+  background: var(--gray-800);
   border-left: 5px solid var(--gray-50);
   padding: 3px 1em 3px;
   border-radius: 4px;
@@ -124,5 +125,5 @@ main th, td {
 }
 
 main thead, tfoot, tr:nth-child(even) {
-  background: var(--gray-900);
+  background: var(--gray-800);
 }
