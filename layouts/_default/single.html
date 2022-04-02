@@ -21,4 +21,8 @@
     {{ .Content }}
 </main>
 
+{{ if ne .Section "" }}
+{{ partial "signature.html" . }}
+{{ end }}
+
 {{ partial "footer.html" . }}
