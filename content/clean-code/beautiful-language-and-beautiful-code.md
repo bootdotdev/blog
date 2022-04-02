@@ -9,7 +9,7 @@ images:
 
 "Dead Poet's Society" is a classic film, and has become a recent favorite of mine. There's a scene in particular that I enjoy, where Robin William's character explains that it's bad practice to use terms like "very tired" or "very sad", instead we should use descriptive words like "exhausted" or "morose"!
 
-https://www.youtube.com/watch?v=zh79iPi-y-c
+{{< youtube zh79iPi-y-c >}}
 
 I wholeheartedly agree with what's being taught to the students in this scene. It's tiresome to read a novel where the author drones on within the bounds of a lackluster vocabulary. This brings me to the point I wanted to emphasize in this short article:
 

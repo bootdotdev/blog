@@ -23,7 +23,7 @@ Lattice crypto is often based on the [shortest vector problem](https://en.wikipe
 
 In addition, Matthew Dozer has a great introductory video:
 
-https://www.youtube.com/watch?v=37Ri1jpl5p8
+{{< youtube 37Ri1jpl5p8 >}}
 
 [Lattice-Based Crypto for IOT (Khalid, McCarthy, O'Neill)](https://eprint.iacr.org/2019/681.pdf)
 

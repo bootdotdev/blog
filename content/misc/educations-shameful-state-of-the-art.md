@@ -58,7 +58,8 @@ Mastery learning has long been considered impractical in a physical setting. How
 
 Daniel Kahn, a favorite of mine, has a great Ted talk on the subject:
 
-https://www.youtube.com/watch?v=-MTRxRO5SRA
+{{< youtube -MTRxRO5SRA >}}
+
 
 ## Quality over Quantity
 
