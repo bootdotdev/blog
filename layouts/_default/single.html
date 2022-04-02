@@ -22,7 +22,9 @@
 </main>
 
 {{ if ne .Section "" }}
-{{ partial "signature.html" . }}
+    {{ partial "signature.html" . }}
 {{ end }}
+
+{{ partial "related.html" . }}
 
 {{ partial "footer.html" . }}
