@@ -5,7 +5,6 @@ import (
 	"log"
 	"os"
 	"path/filepath"
-	"strconv"
 	"strings"
 )
 
@@ -16,21 +15,11 @@ func main() {
 		log.Fatal("no code")
 		return
 	}
-	if len(os.Args) < 3 {
-		log.Fatal("no para number")
-		return
-	}
 
 	code := os.Args[1]
+	fmt.Println("removing shortcode:", code)
 
-	paraNum, err := strconv.Atoi(os.Args[2])
-	if err != nil {
-		log.Fatalf("para num: %v", err)
-	}
-
-	fmt.Println("adding shortcode:", code, "at paragraph: %v", paraNum)
-
-	err = filepath.Walk(contentPath,
+	err := filepath.Walk(contentPath,
 		func(path string, info os.FileInfo, err error) error {
 			if err != nil {
 				return err
@@ -50,7 +39,7 @@ func main() {
 			if err != nil {
 				return err
 			}
-			added := addShort(string(dat), formattedShort(code), paraNum)
+			added := rmShort(string(dat), formattedShort(code))
 
 			err = os.WriteFile(path, []byte(added), 0644)
 			if err != nil {
@@ -67,34 +56,14 @@ func formattedShort(short string) string {
 	return fmt.Sprintf("{{< %s >}}", short)
 }
 
-func addShort(in, shortcode string, numParas int) (out string) {
+func rmShort(in, shortcode string) (out string) {
 	paras := strings.Split(in, "\n\n")
 	newParas := []string{}
-	added := false
-	for i, para := range paras {
+	for _, para := range paras {
+		if para == shortcode {
+			continue
+		}
 		newParas = append(newParas, para)
-
-		if added {
-			continue
-		}
-		if i < numParas {
-			continue
-		}
-		if i == 0 {
-			continue
-		}
-		if isHeadline(paras[i-1]) {
-			continue
-		}
-		if i == len(paras)-1 {
-			continue
-		}
-		newParas = append(newParas, shortcode)
-		added = true
 	}
 	return strings.Join(newParas, "\n\n")
-}
-
-func isHeadline(in string) bool {
-	return strings.HasPrefix(in, "#")
 }
