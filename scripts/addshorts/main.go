@@ -87,6 +87,9 @@ func addShort(in, shortcode string, sectionNum int) (out string) {
 		}
 
 		// don't place until the end of the section number provided
+		if currentSection < sectionNum {
+			continue
+		}
 		if i+1 >= len(paras) {
 			continue
 		}
