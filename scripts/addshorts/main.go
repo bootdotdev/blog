@@ -74,15 +74,24 @@ func addShort(in, shortcode string, sectionNum int) (out string) {
 
 	currentSection := 0
 
+	inCodeBlock := false
+
 	for i, para := range paras {
 		newParas = append(newParas, para)
 
 		if isHeadline(para) {
 			currentSection++
 		}
+		if isGuard(para) {
+			inCodeBlock = !inCodeBlock
+		}
 
 		// only add it once
 		if added {
+			continue
+		}
+
+		if inCodeBlock {
 			continue
 		}
 
@@ -105,4 +114,8 @@ func addShort(in, shortcode string, sectionNum int) (out string) {
 
 func isHeadline(in string) bool {
 	return strings.HasPrefix(in, "## ")
+}
+
+func isGuard(in string) bool {
+	return strings.HasPrefix(in, "```")
 }
