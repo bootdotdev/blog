@@ -1,7 +1,6 @@
 baseURL = 'https://boot.dev/'
 languageCode = 'en-us'
 title = 'Boot.dev Blog'
-googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = []
 footnotereturnlinkcontents = "↩"
@@ -16,6 +15,7 @@ post = "/:section/:slug/"
 [params]
 description = "We teach computer science through hands-on coding projects. We’re built for developers who want to advance their careers."
 footer = "&copy; [Boot.dev](https://boot.dev) {Year}"
+googleTagManager = "GTM-PT7FHFB"
 
 [markup.highlight]
 anchorLineNos = false
