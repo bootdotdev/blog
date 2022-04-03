@@ -32,6 +32,8 @@ Our Python Fundamentals course features six modules covering:
 
 Completing all six modules will bring you up to an intermediate level, putting you in great position to complete our more advanced Python courses, including our [Data Structures](https://qvault.io/big-o-data-structures-course/) and [Advanced Algorithms](https://qvault.io/advanced-algorithms-course/) courses.
 
+{{< cta1 >}}
+
 ## Why Python?
 
 Python developers are well-paid with a [$120,000 median salary](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states). It's an extremely popular language that's loved by programmers, and the #1 language for data science, machine learning and AI.

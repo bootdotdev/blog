@@ -57,6 +57,8 @@ float64
 complex128
 ```
 
+{{< cta1 >}}
+
 ## Why Do We Care About Defaults?
 
 There is a good reason that the majority of code uses these values. In all of the above cases, the choice of specific sub-types are based on range and precision. `int8` can store values between `-128` and `127`, while `int64` ranges from `-9,223,372,036,854,775,808` to `9,223,372,036,854,775,807. At the same time, int8` uses a single byte while `int64` uses 8x that.

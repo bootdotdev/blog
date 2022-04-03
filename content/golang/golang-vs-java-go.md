@@ -28,6 +28,8 @@ Development started in 2007, led by three Google engineers Robert Griesemer, Rob
 
 Fun fact: Despite the Go dev team's disdain of C++, Go ended up being very syntactically similar to it. The original compiler was also coded in C.
 
+{{< cta1 >}}
+
 ## Golang vs Java: The Basics
 
 Here are the standard qualities of Java and Go:
@@ -87,6 +89,8 @@ That's $20,000 more per year than Java developers, who on average earned $120,00
 Companies want applications and systems developed faster and more efficiently than ever before, and with Golang created to perform those functions, demand for Go programmers is through the roof -- and with that demand comes high salaries.
 
 **Conclusion:** Go devs earn more than Java devs on average.
+
+{{< cta2 >}}
 
 ## Java vs Go: Which Is Best for Web Development?
 

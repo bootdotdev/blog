@@ -18,6 +18,8 @@ By removing content they believe to be dubious, Twitter and Facebook have made t
 
 **This is a problem.**
 
+{{< cta1 >}}
+
 ## So we can't censor?
 
 We certainly can, and we certainly should in some cases. Let's get some obvious ones out of the way:

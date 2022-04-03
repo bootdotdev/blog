@@ -62,6 +62,8 @@ That's why I love this tutorial which is based on a package called `howdoi`. Whe
 
 Once you acknowledge how much time you spend Googling things, you'll realize the value of using this as a Python project for beginners.
 
+{{< cta1 >}}
+
 ## 3 Python Projects for Beginners Using Courses or Lectures
 
 While some of the best Python beginner projects are based on straight Python or use a couple of Python packages, you can also use courses as a way to do a more interactive, guided project. These options are billed as courses that teach you Python, but optionally can be used to complete your first Python project.

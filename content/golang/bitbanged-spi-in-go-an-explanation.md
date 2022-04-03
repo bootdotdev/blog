@@ -30,6 +30,8 @@ I considered C++ at first. C++ is about as fast as it gets, and is a compiled la
 
 It is important to note that the program in question was doing a lot more than just the data collection via SPI interface with an ADC component. There were user inputs, data displays, etc. It was to be a highly concurrent program.
 
+{{< cta1 >}}
+
 ## What is SPI?
 
 ![Master Slave SPI](/img/1_5WD0gV6autEIzv8GMkc5gQ.png)

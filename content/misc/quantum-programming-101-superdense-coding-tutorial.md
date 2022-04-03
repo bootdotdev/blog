@@ -12,6 +12,8 @@ images:
 
 Superdense coding is a quantum communications protocol that allows a user to send 2 classical bits by sending only 1 qubit.
 
+{{< cta1 >}}
+
 ## The Protocol
 
 ![Circuit diagram showing the Superdense coding protocol](https://images.squarespace-cdn.com/content/v1/5d52f7bd9d7b3e0001819015/1568570192389-QKR2T26M5L77MMGSNYSO/ke17ZwdGBToddI8pDm48kHhDgr9o-CO5HUY18_e2tTRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpz_SQtWgrO0Gv26UofgWjnOOGhFSVLwPZgZm2lqxes1sgRVlwGgutYPF4XYvY8iVT8/Superdense_coding.png?format=750w)
@@ -34,6 +36,8 @@ Next the sender has to encode the information they want to send on to q0 by appl
 ## Step 3: Receiver Decodes the Information
 
 Next q0 is sent and the receiver has to decode the qubit. This is done by applying a CNOT where the received q0 is the control and q1 is the target. Then a hadamard gate is applied to q0.
+
+{{< cta2 >}}
 
 ## How To Run The Program
 

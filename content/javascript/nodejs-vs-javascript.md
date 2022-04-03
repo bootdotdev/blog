@@ -44,6 +44,8 @@ Just because the Node.js processing is single-threaded does not mean you can’t
 
 Complementary to JavaScript on its own though, Node.js is on the server-side. Rather than comparing Node.js vs JavaScript, you should understand that Node.js enables JavaScript code to be run on the server. The results are then downloaded and displayed in the browser.
 
+{{< cta1 >}}
+
 ## Advantages and Disadvantages of Node.js vs JavaScript
 
 Both JavaScript on its own and JavaScript used with Node.js have their strengths. The great news is that both are heavily represented in the open-source community ([JavaScript](https://awesomeopensource.com/projects/javascript-library) and [Node.js](https://nodesource.com/blog/top-10-best-nodeJS-open-source-projects)) as well as professional usage. Almost all major companies like [LinkedIn, Netflix, Medium](https://trio.dev/blog/companies-use-node-js), [Facebook, Google, and Microsoft](https://www.ironhack.com/en/web-development/10-major-companies-using-javascript) use both Node.js and JavaScript. All modern tech companies (or even just the IT departments of non-tech companies) will entail roles that require the use of one if not both.

@@ -39,6 +39,8 @@ func ValidateGoogleJWT(tokenString string) (GoogleClaims, error) {
 
 `ValidateGoogleJWT` takes a JWT string (that we get from the front-end) and returns the validated `GoogleClaims` struct if the JWT passes our checks. Otherwise, we will return an error explaining what went wrong.
 
+{{< cta1 >}}
+
 ## Claims
 
 JWT's are just [JSON objects](https://qvault.io/golang/json-golang/) that are signed with a private key to ensure they haven't been tampered with. The signed JSON object's fields are referred to as "claims". We will be using the most popular JWT library in Go to build our solution: [https://github.com/dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go), and the claims that Google sends have the following shape:

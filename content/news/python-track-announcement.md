@@ -31,6 +31,8 @@ These 4 courses feature over 285 interactive lessons where you write Python code
 
 Completing all 4 courses will put you in a great position to land your next coding job -- the courses contain everything you need to become more employable.
 
+{{< cta1 >}}
+
 ## Why Python?
 
 Python developers are well-paid with a [$120,000 median salary](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states). It's an extremely popular language that's loved by programmers, and the #1 language for data science, machine learning and AI.

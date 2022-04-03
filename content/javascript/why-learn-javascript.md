@@ -30,6 +30,8 @@ This demand explains why you should learn JavaScript: [72% of companies](https:/
 
 Even if you don’t want to program websites or apps for a career, being able to create your own website with JavaScript in order to host your portfolio can be a huge help in your job hunt. 
 
+{{< cta1 >}}
+
 ## 2\. It makes you a versatile programmer.
 
 JavaScript is kind of a lingua franca among coding languages. If you know how to code in JavaScript, there’s no cap to the kind of cool stuff you can program. JavaScript gained a foothold by helping developers code on the client-side (frontend) of websites, but recently, there have been additions to the JavaScript frameworks that make it a great language for coding on the server-side or backend of websites using Node.js. 
@@ -67,6 +69,8 @@ Many people ask, “why learn JavaScript when there are so many newer languages 
 By comparison, I also reviewed languages like Python, Perl and JavaScript that have stood the test of years. Thanks to simply existing longer, they have a much more developed library of assets. There are simply more free JavaScript basics courses (like the [free JavaScript course](https://qvault.io/basic-intro-to-coding-javascript-course/) we have at QVault, created specifically for beginners), more tutorials, more YouTube videos, more free textbooks. Plus, there’s a much larger community of developers who can help you with basic errors and questions on places like [StackOverflow, Discord, and newsletters](https://www.reddit.com/r/reactjs/comments/80f9yz/what_are_some_of_the_best_javascript_communities/). 
 
 When you’re learning a new language, it helps tremendously to know you’re not alone, and to rely on the community around you who’s been where you are now. JavaScript has literal generations of devoted coders who are more than happy to lend their expertise to any novice coder still struggling with the basics, hanging out all over the internet like in QVault’s Discord community. That kind of group feeling can make or break your ability to stick with a language.
+
+{{< cta2 >}}
 
 ## 6\. JavaScript can make you a renaissance programmer
 

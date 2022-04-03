@@ -18,6 +18,8 @@ A common use of ECC is to encrypt data so that only authorized parties can decry
 
 For example, in the [Qvault web app](https://qvault.io/), I could use ECC to encrypt a confirmation email so that no one but the recipient could read the message.
 
+{{< cta1 >}}
+
 ## ECC is public-key cryptography
 
 There are many types of public-key cryptography, and Elliptic Curve Cryptography is just one flavor. Other algorithms include [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), [Diffie-Helman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange), etc.
@@ -83,6 +85,8 @@ _Note: In real cryptography, the private key would need to be 200+ digits long t
 ## What Makes Elliptic Curve Cryptography Different?
 
 You would use ECC for the same reasons as RSA. ECC and RSA both generate a public and private key and allow two parties to communicate securely. One advantage to ECC however, is that a 256-bit key in ECC offers about the same security as a 3072-bit key using RSA. ECC allows resource-constrained systems like smartphones, embedded computers, and cryptocurrency networks to use ~10% of the storage space and bandwidth required by RSA.
+
+{{< cta2 >}}
 
 ## ECC’s Trapdoor Function
 

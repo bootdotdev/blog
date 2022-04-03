@@ -16,6 +16,8 @@ Encryption transforms a key and input, the _plaintext_, into an encrypted output
 
 A real-world example would be credit card information that you use for purchases on Amazon or other e-commerce sites. The code in your web browser encrypts the plaintext, your card number, into ciphertext, which to someone without the keys would look like illegible, random text. However, once your card number reaches its intended recipient, the online store, their software would decrypt it back into plaintext so they can charge you for your purchase.
 
+{{< cta1 >}}
+
 ## Principles of cryptography
 
 The core principles of modern-day cryptography include:
@@ -132,6 +134,8 @@ However, because the same plaintext will always hash to the same output, it can 
 
 Popular hashing functions include [SHA-256](https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/), [Bcrypt](https://qvault.io/golang/bcrypt-step-by-step/), and [Scrypt](https://qvault.io/cryptography/very-basic-intro-to-the-scrypt-hash).
 
+{{< cta2 >}}
+
 ## Cryptology vs cryptography vs cryptanalysis
 
 ### Cryptology
@@ -198,6 +202,8 @@ Cryptology is a _very_ young science. Although humans have had rudimentary forms
 - **2000** - [AES](https://qvault.io/cryptography/aes-256-cipher/) accepted as DES replacement. In 1997, NIST again put out a request for proposal for a new block cipher. It received 50 submissions. In 2000, it accepted Rijndael, and christened it as AES or the Advanced Encryption Standard.
 - **2004** - [MD5](https://en.wikipedia.org/wiki/MD5) shown to be vulnerable to collisions
 - **2009** - [Bitcoin](https://bitcoin.org/en/) network launch
+
+{{< cta3 >}}
 
 ## For further study
 

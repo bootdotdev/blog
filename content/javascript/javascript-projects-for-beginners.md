@@ -74,6 +74,8 @@ I don't know about you, but I definitely had an angry bird phase. If you've ever
 
 It's definitely one of the longer tutorials - this one goes on for nearly three hours. But it's super well-organized and laid out, so you won't only have a really cool game at the end of it, you'll really understand a lot of the underlying principles of JavaScript. 
 
+{{< cta1 >}}
+
 ## Section 2: Vue.js JavaScript Projects for Beginners
 
 There are so many different frameworks you can use that do very similar or overlapping things in JavaScript. Vue.js is one of them. Vue.js is great for making applications and interactive user interfaces.

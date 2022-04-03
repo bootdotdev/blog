@@ -15,6 +15,8 @@ Quantum computing may not be coming quite as fast as some in the field had certa
 
 They published a paper in [Nature](https://www.nature.com/articles/s41586-019-1666-5). It stated that their quantum processor solved a problem that, in contrast, a digital computer would take 10,000 years to solve. The problem that was solved deals with generating certifiably random numbers. Their processor, 'Sycamore', uses 53 qubits, which corresponds to a search space of 1016.
 
+{{< cta1 >}}
+
 ## [Lattice-Based Cryptography](https://qvault.io/2020/08/21/very-basic-intro-to-lattices-in-cryptography/)
 
 Lattice-based Cryptography (LBC) is one of our best bets for secure "Post Quantum Cryptography". Therefore, almost half of the second round of [NIST's PQC contest](https://csrc.nist.gov/CSRC/media/Presentations/Round-2-of-the-NIST-PQC-Competition-What-was-NIST/images-media/pqcrypto-may2019-moody.pdf) is based on lattice math.

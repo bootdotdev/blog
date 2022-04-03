@@ -31,6 +31,8 @@ func replaceCommasWithSpaces(s string) string {
 }
 ```
 
+{{< cta1 >}}
+
 ## #2 - Redundant Comments
 
 It would have been strictly better to omit the comment in the example above entirely. The developer would have been forced to go to the single source of truth (the code) and would have interpreted the meaning correctly.

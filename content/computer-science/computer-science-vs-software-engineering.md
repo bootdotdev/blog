@@ -34,6 +34,8 @@ By contrast, Computer Science tends to have a less practical and more theoretica
 
 As you can see, Software Engineering has an obvious focus, while Computer Science can be viewed as a more renaissance study of theoretical computer applications.
 
+{{< cta1 >}}
+
 ## The Overlap
 
 Of course, while there are plenty of differences between Computer Science and Software Engineering, there are many more similarities. As Software Engineering is basically just an applied form of Computer Science, it stands to reason that understanding both enhances the understanding of either. Any Computer Scientist benefits from understanding the practical applications of their craft - in the form of software development, technology management, and the result of programming.

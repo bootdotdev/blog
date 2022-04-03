@@ -30,6 +30,8 @@ However, they’re both held up as answers to a lot of typical coding questions:
 
 The truth, like just about every article I write about how to [learn computer science online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/), is that it’s complicated. The answer to whether you should [learn Go](https://qvault.io/golang/learn-go-fast-best-courses-and-resources/) vs Python depends on if you’re a beginner, what job you want, what your history with computer science is, and what your goal is. 
 
+{{< cta1 >}}
+
 ## Let’s start with a brief historical definition of Golang vs Python
 
 Python slithered onto the coding scene in 1991, written by Guido van Rossum who wanted a successor for a programming language I’ve never even heard of, called ABC programming. Its hallmarks are readability, versatility, and scalability. It’s a beast of a language with tremendous libraries, a fervent community of supporters (called pythonistas), and three versions that are patchily compatible. 
@@ -81,6 +83,8 @@ As I explained in [my write up of the most popular coding languages of 2021](htt
 - It was written to reduce time debugging and reading code, a very valuable skill
 
 It’s less of a generalized language but better for those companies like Uber, Twitch, Dropbox, and of course Google that are hiring Go developers.
+
+{{< cta2 >}}
 
 ## Golang vs Python: Which language is best for machine learning? 
 

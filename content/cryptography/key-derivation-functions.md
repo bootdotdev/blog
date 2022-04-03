@@ -57,6 +57,8 @@ derivedKey = keyDerivationFunction(originalKey, salt, difficulty)
 
 **Difficulty** can be used to make the KDF slower via intense computation, memory, or parallelism requirements. This protects against brute force attacks because it will take an attacker longer per guess.
 
+{{< cta1 >}}
+
 ## Key Stretching
 
 Key stretching is the most common use case for the average developer. The idea is to take a key with low entropy (security or randomness) and stretch it into a longer key that is more secure. Passwords are undoubtedly a great example. For example, many websites use Bcrypt to stretch keys:
@@ -78,6 +80,8 @@ childThree = kdf(masterKey, saltThree, difficulty)
 ## Key Strengthening
 
 Strengthing extends a key with a random salt, but then [deletes the salt](https://en.wikipedia.org/wiki/Key_derivation_function) so it can't be used again. This makes the resulting key stronger without adding significant vulnerabilities to the system.
+
+{{< cta2 >}}
 
 ## Should I Use KDFs?
 

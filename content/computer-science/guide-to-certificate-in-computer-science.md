@@ -26,6 +26,8 @@ It’s tempting to jump right in and just get the certificate in computer scienc
 
 This informal questionnaire gives you the knowledge you need to pick the most efficient certificate that makes sense for you. There are so many out there that could potentially fulfil your needs, so the more you know about your own situation, the better positioned you’ll be to select the right certificate for your needs.
 
+{{< cta1 >}}
+
 ## Step 2: Understand the different types of certificates in computer science.
 
 The great thing about computer science is that there’s no one preferred certificate. This frees you up to select between many options, but it also makes it complicated to choose just one. 
@@ -47,6 +49,8 @@ However, they can sometimes overlap with your existing skill set, meaning you’
 You can also get a certificate in computer science that comes from places like Coursera. These often offer a wider variety of options for computer science certification, from beginners to advanced specialties, and they’re more convenient since they’re built to help you [learn computer science online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/). 
 
 Ultimately, the best way to leverage a certificate in computer science is to prove you have the general knowledge required for the job you want to do. The right certificate will help you accomplish those goals. 
+
+{{< cta2 >}}
 
 ## Step 3: Focus on what a certificate in computer science will give you
 
@@ -85,6 +89,8 @@ Whether you want to show off a portfolio or just want to display your certificat
 The whole point of a certificate is to demonstrate your skills and knowledge in the pursuit of a job in computer science. Ideally, the certificate will follow a course that will teach you the fundamentals that let you do the job you’re applying for. The certificate will get you the interview, but the knowledge is what will actually get you the job.
 
 And once you’ve successfully leveraged your certificate to get your first job, or next job, or better job, don’t stop. Keep learning, keep filling in the gaps that you have in your fundamental knowledge. Keep your eyes open for new opportunities. Keep growing your skills that make you the ideal programmer to hire. A certificate, at the end of the day, is a stamp of approval. Your skills and knowledge are what you bring to the table as an employee. Just display your certificate proudly - but let your skills do the talking.
+
+{{< cta3 >}}
 
 ## You’re just one certificate in computer science away from your dream job in programming.
 

@@ -54,6 +54,8 @@ This is an intriguing aspect for experienced programmers that are familiar with 
 
 **Overall:** Rust lacks that easy intuitive design that makes Python such a clear shout for beginners.
 
+{{< cta1 >}}
+
 ## Rust vs Python Salary: Which is higher paid?
 
 Like most developer roles, both Rust and Python programming jobs pay well.
@@ -117,6 +119,8 @@ Rust has potential, but it struggles with visual implementations and has few dat
 The community also isn’t as big, but it’s very excited about the possibilities Rust poses for the industry. So, it’s not a complete no, but if you’re keen to work as a data scientist now, then Python is your best bet. But definitely keep a lookout for Rust in the future.
 
 **Hot tip:** Once you’re comfortable with Python, take a [Big O data structure class](https://qvault.io/big-o-data-structures-course/) to improve how you interact with the data.
+
+{{< cta2 >}}
 
 ## Rust vs Python for System Development
 

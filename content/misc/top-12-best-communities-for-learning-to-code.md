@@ -35,6 +35,8 @@ The rules on some subreddits can be very strict and a little annoying. Be sure t
 
 It isn’t the most diverse platform and you’re likely to interact mainly with programmers under 35 years of age-- which can be a pain if you want to connect with professionals that have been in the industry for a longer time.
 
+{{< cta1 >}}
+
 ## [2\. HackerNews](https://news.ycombinator.com/)
 
 ![](https://techcrunch.com/wp-content/uploads/2013/05/hacker-news1.jpg?w=600)
@@ -106,6 +108,8 @@ It might be a bit of a surprise to see this social media giant on our list. Howe
 - The platform is known for being a hub for stress and negativity-- even if you’ve only followed development and coding accounts
 - Trolls, bots, and spam are an ongoing issue that can put a damper on your everyday experience with the site
 
+{{< cta2 >}}
+
 ## [6\. Discord](https://discord.com/invite/H2bTNATa)
 
 ![](/img/Discord-privacy-tips-that-you-should-use-.jpg)
@@ -156,6 +160,8 @@ They also recently launched their ambassador program. You can use my referral li
 
 - Their republishing system can't be automated via RSS
 - The sign-up process has too many options and can be overwhelming
+
+{{< cta3 >}}
 
 ## [10\. Medium](https://medium.com/qvault)
 

@@ -31,6 +31,8 @@ C#, on the other hand, was developed in 2000 by Anders Hejlsberg at Microsoft. I
 
 ![](/img/pythonvsC.jpg)
 
+{{< cta1 >}}
+
 ## C# vs Python Comparison
 
 ### Which To Learn First? C# vs Python

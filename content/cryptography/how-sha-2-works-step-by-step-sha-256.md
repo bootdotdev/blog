@@ -22,6 +22,8 @@ Three of the main purposes of a hash function are:
 
 SHA-2 is a very famous and strong family of hash functions because, as you would expect, it serves all the purposes mentioned above.
 
+{{< cta1 >}}
+
 ## SHA-2 Family vs SHA-256
 
 SHA-2 is an algorithm, a generalized idea of how to hash data. SHA-2 has several variants, all of which use the same algorithm but use different constants. SHA-256, for example, sets additional constants that define the behavior of the SHA-2 algorithm, one of these constants is the output size, 256. The 256 and 512 in SHA-256 and SHA-512 refer to the respective digest size in bits.
@@ -350,6 +352,8 @@ f = DF4E1862 = 11011111010011100001100001100010
 g = 71051E01 = 01110001000001010001111000000001
 h = 870F00D0 = 10000111000011110000000011010000
 ```
+
+{{< cta2 >}}
 
 ## Step 7 - Modify Final Values
 

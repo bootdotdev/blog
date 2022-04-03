@@ -62,6 +62,8 @@ type TinyDate struct {
 
 Only **4 bytes!** We give up the ability to track anything more specific than the date, but often that is all we need.
 
+{{< cta1 >}}
+
 ## Quick Start
 
 Create a date and add to it:

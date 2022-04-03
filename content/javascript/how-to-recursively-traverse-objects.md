@@ -49,6 +49,8 @@ In the case of simply printing the items of a list, the iterative approach is be
 - Faster compute time - _Recursive functions come with the overhead of an entire function call for each step_
 - If there is a bug in the recursion, the program is likely to enter an infinite loop
 
+{{< cta1 >}}
+
 ## Why Use Recursion?
 
 Iterative programs can be written using recursion, and all recursive programs can be written using iteration. Both systems are, unless limited by the implementation, [Turing c](https://en.wikipedia.org/wiki/Turing_completeness)[omplete](https://en.wikipedia.org/wiki/Turing_completeness).

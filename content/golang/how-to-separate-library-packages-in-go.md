@@ -16,6 +16,8 @@ In Go, code is organized into packages. Every folder that contains Go code is a 
 
 Library packages allow developers to export code so it can be used by the outside world. **Packages are essentially APIs** where exported functions are user-facing and unexported functions are only for internal use.
 
+{{< cta1 >}}
+
 ## Rules Of Thumb
 
 Now that we've gone over the basics of what a package _is_ let's talk about how to write good packages. The rest of this article will focus on some good rules of thumb to know _when_, _how_, and _why_ to separate code into a new package.

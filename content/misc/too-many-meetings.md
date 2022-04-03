@@ -24,6 +24,8 @@ Meetings are a communication mechanism. In the context of software development, 
 
 **Meetings are none of these things.** Meetings are ways for us to communicate about these things. Meetings serve the same purpose as an email, a call, or a slack channel - they're just another medium through which we can talk about how to accomplish tasks.
 
+{{< cta1 >}}
+
 ## Why a meeting instead of an email?
 
 ![](/img/meeting-email-meme-1024x536.jpeg)

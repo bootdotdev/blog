@@ -18,6 +18,8 @@ Our first failed attempt to build an alerting system utilized [PipelineDB](https
 
 Elasticsearch is a NoSQL distributed database that is good for, well, **searching**. I would never recommend it as a transactional database for basic CRUD actions, but aggregations, metrics, and percolate queries are where it shines.
 
+{{< cta1 >}}
+
 ## What is a percolate query?
 
 Percolate queries can be simply thought of as an inverse search. Instead of sending a _query_ to an index and getting the _matching documents_, you send a _document_ to an index and get the _matching queries_. This is exactly what most alerting systems need.

@@ -25,6 +25,8 @@ Cryptology is the science of secret messages. _Anything_ that has to do with mak
 
 Alan Turing
 
+{{< cta1 >}}
+
 ## Cryptography
 
 > Cryptography is the practice and study of techniques for secure communication in the presence of third parties called adversaries.

@@ -35,6 +35,8 @@ While a degree is tough to balance with a job or life, it’s possible. Coding b
 
 Furthermore, coding bootcamps are specialized. Should you learn Go or Python? A computer science degree would give you a solid foundation with experience in many languages and technologies, while a bootcamp will instead focus on a single path to an entry-level job, even if that means cutting corners and making it harder for you to progress in the future. A coding bootcamp will cost you the option of learning other languages or skills, because you have to commit to a single topic early on. Most coding bootcamp students lack the fundamental knowledge to make the right decision.
 
+{{< cta1 >}}
+
 ## Is a coding bootcamp worth it?
 
 Honestly, it depends what you want. If you’ve done your research, and you’re dedicated to supplementing the streamlined education you get at camp with some online learning, then yes, a coding bootcamp is probably worth it, even with a high price tag. You can easily justify spending $20,000 and four months of your life to get your [perfect job, paying $100k+ with amazing benefits](https://qvault.io/jobs/highest-paying-computer-science-jobs/) and a fantastic work/life balance.

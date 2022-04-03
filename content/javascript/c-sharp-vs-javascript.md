@@ -48,6 +48,8 @@ JavaScript is a highly versatile and compatible language with the Just-In-Time (
 
 In a nutshell, C# is good for beginners because it’s easy to learn, but JavaScript holds more opportunities in terms of employment and versatility.
 
+{{< cta1 >}}
+
 ## C# vs JavaScript Salary
 
 C# and JavaScript rival each other when it comes to salary, with U.S. JavaScript developers [earning $112k a year](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states), and C# developers earning 110K.
@@ -111,6 +113,8 @@ Because JavaScript is the basis of the internet, it makes sense it would intuiti
 JavaScript is supported by game engines and libraries like Phaser, Pixi.js, HTML5, PlayCanvas, and Three.js, just to name a few.
 
 Whether you plan on dabbling or working professionally in the field, both languages offer incredible opportunities to work and develop your own gaming masterpiece. 
+
+{{< cta2 >}}
 
 ## Which Is Better?: The Final Verdict
 

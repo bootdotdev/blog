@@ -102,6 +102,8 @@ func createCarHandler(w http.ResponseWriter, req *http.Request) {
 
 Anonymous structs can clean up your API handlers if used properly. The strong typing they offer while still being a "one-off" solution is a powerful tool.
 
+{{< cta1 >}}
+
 ## Bonus - Use a slices of anonymous structs for easy test data
 
 ```go

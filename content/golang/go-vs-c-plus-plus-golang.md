@@ -24,6 +24,8 @@ The first edition of C++ was released in 1985, originally named C with Classes, 
 
 Golang (or Go) 1.0, however, wasn’t on the market until 2012, after being developed by Robert Griesemer, Rob Pike, and Ken Thompson, who, ironically, were powered by their mutual frustration with C++. In the end, they took the best of everything – the best of Java, Python, and C languages – to create Go. Its C-inspired syntax also makes learning Golang for C++ programmers effortless.
 
+{{< cta1 >}}
+
 ## Go vs C++: Which Has a Better Design?
 
 Let’s start by taking a straightforward view of the basic make-up of these languages.
@@ -117,6 +119,8 @@ Now, this may not sound too bad, except this anomaly can cause the program to cr
 Buffer overflows aren’t naturally a part of C++, but it’s an easy mistake for coders to make if they’re not careful. What gives Go the advantage here is its limitations in the code that prevent this from happening. It doesn’t give coders the option to buffer overflow.
 
 For instance, with Go, you can’t use pointer arithmetic, meaning you can’t step through arrays using pointer values, you have to access them using an index. This forces you to use methods that include checks and bounds, that prevent overflows.
+
+{{< cta2 >}}
 
 ## Advantages of Go vs C++ for Experienced Programmers
 

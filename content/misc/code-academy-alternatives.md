@@ -21,6 +21,8 @@ Learning to code can help you in many aspects of life and for many provides a st
 - Casual dress, very few tech companies have a strict dress code
 - Practice with left-brain analytical thinking
 
+{{< cta1 >}}
+
 ## 6 Codecademy Alternatives
 
 Choosing a coding program online may seem like a daunting task. When my wife started to learn to code, she was overwhelmed and felt that since she knew nothing about programming, she was unequipped to even be able to _choose_ a good program. Don't think that, there _are_ solutions!

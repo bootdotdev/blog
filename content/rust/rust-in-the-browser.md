@@ -14,6 +14,8 @@ I've recently been working on getting Rust support in the [Qvault app](https://q
 
 This recently stopped working due to the `io::set_print` function being completely deprecated. I'm leaving the post up for historical knowledge's sake, but this won't work anymore!
 
+{{< cta1 >}}
+
 ## How It Works
 
 The architecture is fairly simple:

@@ -30,6 +30,8 @@ for (let i = 0; i< arr.length; i++){}
 
 ~39 milliseconds
 
+{{< cta1 >}}
+
 ## 3rd: ES6 forEach()
 
 ```js

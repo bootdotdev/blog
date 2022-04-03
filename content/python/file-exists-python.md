@@ -38,6 +38,8 @@ else:
     print("not found :(")
 ```
 
+{{< cta1 >}}
+
 ## Use pathlib.Path(path).is\_file() to check for only files
 
 ```py

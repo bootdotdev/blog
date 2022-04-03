@@ -82,6 +82,8 @@ func getUser() (User, error) {
 }
 ```
 
+{{< cta1 >}}
+
 ## Defer, panic and recover - Why you shouldn't do it
 
 I don't want to spend too much time on this, but some people have stumbled across Go's built-in `recover()` function and thought it might be a good idea to use `panic()` and `recover()` like `try` and `catch` in other languages.

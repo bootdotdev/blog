@@ -25,6 +25,8 @@ Society needs twice as many software developers as it does mathematicians, chemi
 
 Some of the most successful software developers didn't even take a traditional career path, and that's what we find most exciting about this career's prospects for the future. You can break into the development industry by simply taking [courses online](https://qvault.io/), attending a real-life [boot camp](https://qvault.io/jobs/is-coding-bootcamp-worth-it/), or getting a degree from the university.
 
+{{< cta1 >}}
+
 ## How much do web developers make?
 
 Salary varies based on several factors, such as company location, job title, years of work experience, [education level](https://qvault.io/2020/12/02/difference-between-certificate-or-degree-in-2021/), and the specific type of technologies used, which primarily includes the coding language of the development team.
@@ -68,6 +70,8 @@ It's often the case that [software engineers who've studied computer science ten
 ![](/img/Screen-Shot-2020-10-31-at-1.37.50-PM-1024x536.png)
 
 Again, it's critical to note that the following figures represent _median_ salaries, not the average salary for every worker globally. Median statistics provide a more balanced look at the range of salaries without outliers affecting the results. If you're interested in a complete breakdown check out our article on the [highest paying CS jobs](https://qvault.io/jobs/highest-paying-computer-science-jobs/).
+
+{{< cta2 >}}
 
 ## Does Location Matter For Developer Salaries?
 

@@ -23,6 +23,8 @@ Before we move on, if you are looking for our other custom Vue.js components tut
 - [Custom toggle switch component in Vue](https://qvault.io/2020/07/21/how-to-create-a-custom-toggle-switch-component-in-vue-js/)
 - [Custom checkbox form component in Vue](https://qvault.io/2020/11/25/how-to-create-a-custom-checkbox-form-in-vue/)
 
+{{< cta1 >}}
+
 ## The HTML
 
 ```html

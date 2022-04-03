@@ -14,6 +14,8 @@ Want to learn Go fast? The good news is that Go is one of the simplest programmi
 
 The Go programming language, or Golang for short, is an open-source programming language that helps developers create simple, reliable and efficient software. Go was developed at Google in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. It was designed to be fast, easy and safe to use. Go is quickly becoming one of the most popular programming languages and is one of the [best-paid languages](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states) for developers.
 
+{{< cta1 >}}
+
 ## Best Courses
 
 ### [1\. Go Mastery - Qvault](https://app.qvault.io/)
@@ -83,6 +85,8 @@ My favorite is VS Code because I use it for everything. That said, here is my fu
 - 2\. [Go-Vim](https://github.com/fatih/vim-go)
 - 3\. [GoLand](https://www.jetbrains.com/go/)
 - 4\. [Atom](https://atom.io/) with [go-plus](https://atom.io/packages/go-plus)
+
+{{< cta2 >}}
 
 ## Best Documentation and Tutorials
 

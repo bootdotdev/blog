@@ -43,6 +43,8 @@ It's practically impossible to learn all there is about a field as vast as compu
 
 If you're a coder and are just trying to learn computer science (algorithms, data structures, cryptography, etc) you'll have a much easier time! Coding, while practically inseparable from CS, is actually a different discipline. Learning computer science is possible with just paper and pencil, but it's much easier (and more practical) to use code.
 
+{{< cta1 >}}
+
 ## How long does it take to learn CS?
 
 Again, this depends a lot. If you plan on taking the [university route instead of being self-taught](https://qvault.io/2020/12/02/difference-between-certificate-or-degree-in-2021/), then it will take four years. If instead, you decide to pursue various [online certifications](https://qvault.io/2020/12/15/guide-to-certificate-in-computer-science/) and learn by yourself it can take less time. If you go this route, then you, and not anyone else, are primarily responsible to make sure you cover all the material that you think is most important.

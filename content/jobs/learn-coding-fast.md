@@ -33,6 +33,8 @@ Programming and its sister endeavors [computer science](https://qvault.io/2020/1
 
 There are certainly little shortcuts you can take here or there to get you into an entry-level job faster, but you can't completely skip the fundamentals. It will come back to bite you.
 
+{{< cta1 >}}
+
 ## 2\. Don't watch Youtube videos (at least not for everything)
 
 YouTube is great for learning all sorts of things. It's free, and there are thousands of content creators who share their coding courses and hot programming tricks free of charge. Unfortunately, what you save in money and cognitive strain, you often lose in time.
@@ -82,6 +84,8 @@ _Tip: Your first instinct when you're stuck should be to Google your problem_
 Googling is great, but if you find yourself having to look up the same thing over and over, it's probably best to commit it to memory. If you know it by heart, you'll not only save a lot of time in the future, but you'll be able to recall it in interviews and team meetings.
 
 I've found that if there is a concept or topic I really want to commit to memory, it's best if I write about it. Some people keep notes, personally I just tweet about it or perhaps write a blog post if it requires more space to communicate effectively. Writing things down helps our brains remember them better.
+
+{{< cta2 >}}
 
 ## 6\. Become a member of coding communities
 

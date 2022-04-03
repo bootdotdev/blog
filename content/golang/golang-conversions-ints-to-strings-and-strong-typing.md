@@ -50,6 +50,8 @@ toSave := float32(toRound)
 
 The truth is that most of the standard library functions and popular packages (and hopefully the stuff you write too) uses "default" sizes. For example, [math.Round](https://golang.org/pkg/math/#Round) uses `float64`s and [time.AddDate](https://golang.org/pkg/time/#Time.AddDate) uses `int`s. Unless the memory savings are significant, it's usually best to stick with "normal".
 
+{{< cta1 >}}
+
 ## Interfaces - Not Duck Types
 
 Interfaces allow for a kind of [polymorphism in Go](https://qvault.io/2020/03/15/best-practices-for-writing-clean-interfaces-in-go/). Their purpose is **not** to give developers a way to sneak dynamic typing into the language. I've seen developers do things like:

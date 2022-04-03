@@ -33,6 +33,8 @@ To help you find out, here's a selection of 20 basic JavaScript interview questi
 6. Undefined
 7. Null
 
+{{< cta1 >}}
+
 ## 2 -- What are the differences between global and local variables? And how can having too many global variables negatively affect your code?
 
 **Answer:**
@@ -131,6 +133,8 @@ console.log(doubledPrimes);
 // expected output: Array [6, 10, 14, 22]
 ```
 
+{{< cta2 >}}
+
 ## 7 -- Write a loop that prints every number divisible by 3 from 1-200:
 
 **Answer:**
@@ -195,6 +199,8 @@ for (let i = 0; i < 100; i++) {
   console.log('The number is odd');
 }
 ```
+
+{{< cta3 >}}
 
 ## **10 -- What is JSON? And how would you convert JSON strings into objects, or convert an object into a JSON string?**
 

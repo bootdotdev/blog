@@ -45,6 +45,8 @@ Python is a very different language. It is officially defined [by Wikipedia as](
 
 Python was ideated in the late 1980s and was first implemented in December 1989. It's been around since then, growing more popular, and consistently ranks as one of the most popular languages today. It's got a huge and growing functionality. It's good for simple tasks that beginners might be interested in, and complex tasks that organizations might want.
 
+{{< cta1 >}}
+
 ## Matlab versus Python: Which is best for beginner coders?
 
 I’ll start with an easy question - if you're a brand-new coder and you're wondering whether you should go from Matlab or Python, which is best? (This is assuming you have free access to Matlab through your University or other organization.)
@@ -82,6 +84,8 @@ Matlab is really good at designing and fine-tuning algorithms. It offers a bunch
 Python does offer some external packages for image processing, like Numpy and SciPy. AnalyticsInsight.Net [found](https://www.analyticsinsight.net/understanding-key-differences-python-matlab/) that while both Matlab and Python were able to produce the same results, Matlab was faster.
 
 **While Python can handle image processing, Matlab has native toolboxes designed for image processing, and it's faster.**
+
+{{< cta2 >}}
 
 ## Matlab versus Python: Which is best for machine learning?
 
@@ -122,6 +126,8 @@ I alluded to this above, but MatLab is really fast. There are a couple of functi
 However, it's worth noting that Python does compare favorably to Matlab with the ability to use more than 12 processing cores when running jobs in parallel. I loved [Rob Hicks’s writeup](https://rlhick.people.wm.edu/posts/comparing-the-speed-of-matlab-versus-pythonnumpy-partii.html) of the question where he ran time-consuming econometric problems in Python and Matlab. He wrote all the code, so you can check it out for yourself.
 
 **Matlab is faster than Python, but Python is better at running multiple jobs in parallel.**
+
+{{< cta3 >}}
 
 ## Matlab versus Python: Which is best for the future?
 

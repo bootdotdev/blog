@@ -59,6 +59,8 @@ PureScript helps manage side effects, unknown results, creates clean maintainabl
 
 TypeScript differs in that it’s object-oriented and focuses on debugging and maintaining large-scale client-side JavaScript programs. TypeScript and JavaScript are much more popular than PureScript at the moment, PureScript is mostly useful for educational purposes.
 
+{{< cta1 >}}
+
 ## JavaScript vs TypeScript Salary
 
 They say money is where the heart is, and luckily both languages have got you covered.
@@ -116,6 +118,8 @@ The biggest benefit of TypeScript for large programs though is its ability to ma
 Even though JavaScript has an endless supply of libraries, it simply doesn’t possess the means to build large-scale projects. Its flexibility is great for small applications and programs where details are everything, but it makes JS unstable for large applications.
 
 TS on the other hand is robust and powerful, which is crucial for enterprise projects.
+
+{{< cta2 >}}
 
 ## JavaScript vs TypeScript: Which Is Better?
 

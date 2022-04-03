@@ -21,6 +21,8 @@ Before we move on, if you are looking for our other custom Vue.js components tut
 - [Custom slider component in Vue](https://qvault.io/2020/11/24/how-to-make-a-custom-slider-component-in-vue/)
 - [Custom checkbox form component in Vue](https://qvault.io/2020/11/25/how-to-create-a-custom-checkbox-form-in-vue/)
 
+{{< cta1 >}}
+
 ## The End Goal
 
 We are building a single file component, as such it will be a single file with the following structure:

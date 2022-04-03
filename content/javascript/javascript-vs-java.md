@@ -26,6 +26,8 @@ Java rose quickly to fame and adoption mostly due to its cross-platform nature a
 
 OOP was so popular in the early 2000s that it became (in my opinion) overly widespread. These days it has more appropriately found its correct place in programming, but when JavaScript was first coming into existence OOP was the name of the game.
 
+{{< cta1 >}}
+
 ## JavaScript - Brief History
 
 In 1995, 4 years after Java got its start, Brendan Eich created JavaScript while he worked for Netscape. At the time, Netscape had complete market control of the web browsing industry, while Microsoft was just starting with the Internet Explorer project.

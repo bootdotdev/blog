@@ -17,6 +17,8 @@ Education as an industry is unbelievably far behind when it comes to technologic
 - **Focus on Mastery** - Clumping students together in classes and moving them forward before concepts are mastered is an artifact of the past. Timed-tests and due dates don't exist in Qvault. Students move at their own pace and can't move on until a concept is understood.
 - **Code In-Browser** \- Hands-on is king when learning to code. Our courses are mostly comprised of coding assignments that can be completed right in the browser, even in backend languages like Go.
 
+{{< cta1 >}}
+
 ## Gamify Learning
 
 There is no reason learning shouldn't feel more like a game. The current "learn as you go" courses often don't incentivize students to go _fast_. As a result, many students become disinterested and lose motivation, or end up going so slow that they don't achieve their goals. By treating courses like videogames, we keep students **engaged**.

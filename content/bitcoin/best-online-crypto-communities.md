@@ -16,6 +16,8 @@ Crypto has been explosive in 2021. The gains have been even better than the meme
 
 Bitcointalk is undoubtedly the gold standard for the crypto community on the web. There are 3 million posts and two million members on this platform. There are several sections dedicated to speculation, mining, development, technical support, IOC, and more. Also, the site is available in twenty different languages.
 
+{{< cta1 >}}
+
 ## [#2 Reddit - /r/bitcoin](http://reddit.com/r/bitcoin)
 
 ![reddit logo](/img/1_e3E0OQzfYCuWk0pket5dAA-1024x576.png)
@@ -33,6 +35,8 @@ Do you like NFTs, Dapps, and web 3.0 discussion? If so, the Ethereum subreddit i
 ## [#5 Steemit](https://steemit.com/)
 
 Steemit was one of the first blockchains to focus on social media. In return for posting content and posts, users may win Steem tokens, which are essentially money. Along with this, they can also like and dislike the available posts. Because of the native utility of crypto on the platform, they obviously have a majority of crypto-related content.
+
+{{< cta2 >}}
 
 ## [#6 Telegram](https://telegramcryptogroups.com/)
 

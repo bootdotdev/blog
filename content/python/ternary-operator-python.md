@@ -47,6 +47,8 @@ wifes_account = 200
 print("We have the same" if my_account == wifes_account else "I have more" if my_account > wifes_account else "Wife has more")
 ```
 
+{{< cta1 >}}
+
 ## Should you use ternaries in Python?
 
 Generally speaking, yes. Ternaries are fantastic little bits of syntactic sugar that make code more concise and readable when used sparingly. You should probably never nest ternaries, or try to use them with anything more than a simple assignment operation. By trying to use ternaries too often, your code becomes very hard for others (or yourself) to understand later.

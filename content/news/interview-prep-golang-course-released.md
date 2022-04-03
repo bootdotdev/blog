@@ -24,6 +24,8 @@ The course has two modules and covers many topics, some of which are:
 - Mutexes and concurrency
 - Binary trees
 
+{{< cta1 >}}
+
 ## Why Go?
 
 ![golang gopher](/img/go-300x157.png)

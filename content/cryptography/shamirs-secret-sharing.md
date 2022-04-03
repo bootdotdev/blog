@@ -23,6 +23,8 @@ Luckily, one of the family members is also a cryptographer. Instead of naively s
 - Members of the family need to cooperate to spend the Bitcoin, one family member can't betray the others
 - If a family member dies or loses their share, the other three members can still reconstruct the key
 
+{{< cta1 >}}
+
 ## Understanding the Threshold
 
 Every Shamir sharing scheme has a total number of shares and a threshold. The **threshold is the number of shares required** to reconstruct the original secret. For example, with five shares and a threshold of three, you only need three of the five shares to calculate the original secret.
@@ -106,6 +108,8 @@ Each participant in our scheme now owns one `(x,y)` point, which is a single sha
 ![shamirs secret sharing shares](/img/shamirs-secret-sharing-shares-1024x555.jpg)
 
 In our case, the secret is `1954`.
+
+{{< cta2 >}}
 
 ## It's not actually that simple. We need finite fields.
 

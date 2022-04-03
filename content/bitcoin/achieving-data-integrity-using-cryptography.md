@@ -21,6 +21,8 @@ Data integrity provides protection from a wide range of problems which involve d
 
 **Malicious Actor** - A man-in-the-middle could be altering messages in order to confuse correspondents or learn valuable information.
 
+{{< cta1 >}}
+
 ## Solution - Checksum
 
 A checksum solves all three of the potential data integrity problems listed above. A checksum is a [deterministic](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc/#Scrambles_Data_Deterministically) value derived from the message data and can be transmitted separately. This means checksum for a given message will always be the same.

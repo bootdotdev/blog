@@ -50,6 +50,8 @@ The main three languages used in web page development are HTML, CSS, and JavaScr
 
 > HTML provides the structure, CSS provides the presentation and formatting, and JavaScript makes the elements dynamic and controls their behavior.
 
+{{< cta1 >}}
+
 ## HTML, CSS & JavaScript: What do they do?
 
 HTML gives structure to web pages using each different element, and can also affect font, color, hyperlinks, and images. HTML files have either `.html` or `.htm` extensions when stored.
@@ -150,6 +152,8 @@ HTML tells the web page what it should display rather than how it should display
 HTML is compatible with all browsers, whereas JavaScript can occasionally run into compatibility issues due to different versions of the language being supported by different browsers. Additionally, some browsers (or their users), turn off JavaScript completely, which unsurprisingly breaks most websites.
 
 However, all major browsers support dynamic JavaScript content and unless you use an outdated or extremely niche browser, you'll never run into any JS compatibility issues.
+
+{{< cta2 >}}
 
 ## HTML vs JavaScript: server-side or client-side
 

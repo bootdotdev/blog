@@ -14,6 +14,8 @@ Creating a custom select tag with its own styling is notoriously difficult. Some
 
 ## [Code Sandbox Demo](https://codesandbox.io/s/custom-vuejs-select-component-8nqgd)
 
+{{< cta1 >}}
+
 ## The HTML
 
 ```html

@@ -28,6 +28,8 @@ That said, JavaScript has had major syntax and design improvements over the last
 
 Anyone who wants to get up and running building web applications as quickly as possible. You may miss out on some of the fundamentals of how computer hardware and operating systems work at a lower level, just be sure to go back and learn as you grow as a developer.
 
+{{< cta1 >}}
+
 ## 2\. Go
 
 _Version one released: 2012 by Google_
@@ -113,6 +115,8 @@ Honestly, you probably shouldn't learn Rust _first_. That said, Rust is arguably
 ![](/img/Screen-Shot-2020-10-06-at-7.42.24-PM-1024x543.png)
 
 [Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html)
+
+{{< cta2 >}}
 
 ## Relevant Stack Overflow Popularity Graphs
 

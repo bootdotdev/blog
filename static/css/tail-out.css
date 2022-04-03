@@ -665,9 +665,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-color: rgb(88 101 242 / var(--tw-border-opacity));
 }
 
-.bg-gray-900 {
+.bg-gray-850 {
   --tw-bg-opacity: 1;
-  background-color: rgb(23 23 23 / var(--tw-bg-opacity));
+  background-color: rgb(31 31 31 / var(--tw-bg-opacity));
 }
 
 .bg-gray-800 {
@@ -680,9 +680,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(88 101 242 / var(--tw-bg-opacity));
 }
 
-.bg-gray-850 {
+.bg-gray-900 {
   --tw-bg-opacity: 1;
-  background-color: rgb(31 31 31 / var(--tw-bg-opacity));
+  background-color: rgb(23 23 23 / var(--tw-bg-opacity));
 }
 
 .p-4 {

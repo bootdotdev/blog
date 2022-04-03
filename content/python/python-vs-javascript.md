@@ -25,6 +25,8 @@ Now that we have a better understanding of these two languages, we can finally s
 
 **Hot tip:** Functional programming is more than just a paradigm, it’s a way of thinking and approaching coding as a whole. Improving your [functional programming](https://qvault.io/intro-to-functional-programming/) skills make you a better developer and helps you create better applications.
 
+{{< cta1 >}}
+
 ## JavaScript vs Python: Which is Best For Beginners?
 
 Both languages have excellent advantages for beginners, it just depends on what advantages you’re looking for.
@@ -98,6 +100,8 @@ It’s also compatible with Google’s famous ML and deep learning library Tenso
 Even with this support, however, it was never adopted by the machine learning community. There are limited resources and no promise of new developments any time soon because current investment is focused on Python rather than JavaScript.
 
 **Hot tip:** Machine learning is largely the application of algorithms that use and learn from data. So, the more [advanced your algorithms](https://qvault.io/advanced-algorithms-course/) are, the better machine learning developer you’ll become.
+
+{{< cta2 >}}
 
 ## Python vs JavaScript for Data Science
 

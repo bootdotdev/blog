@@ -51,6 +51,8 @@ When random bytes are desired, they are obtained by taking the SHA hash of the c
 
 To sum up, random data is added to an entropy pool constantly. This randomness is based on hard to predict events within the machine. When a user desires randomness, a [hash](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) is taken of the entropy pool and the result is supplied to the user. When we call any secure randomness function on a Linux machine, we are likely using this driver or one very similar to it.
 
+{{< cta1 >}}
+
 ## How Much Entropy?
 
 A Linux machine that has sufficient entropy in its pool will usually contain 4096 bits of randomness. This is more than enough for several secure calculations to be performed. For perspective, a very strong private key typically contains 256 bits of entropy. If you want to see how much entropy your Linux machine currently has available, you can use the following command:

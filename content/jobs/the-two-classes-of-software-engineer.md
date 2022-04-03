@@ -19,6 +19,8 @@ _I won't be talking about the differences in job titles among software engineers
 
 Before anyone gets too upset, let me acknowledge that the technical skill level of all software engineers could be divided into as many classes as there are engineers in existence. I'm trying to point out that there seems to be a _great divide_ between those who have taken the time to learn algorithms, data structures, and higher maths, and those who took an 8-week crash course in web development.
 
+{{< cta1 >}}
+
 ## Stop gatekeeping
 
 ![](/img/i-am-the-gatekeeper-41079851.jpg)

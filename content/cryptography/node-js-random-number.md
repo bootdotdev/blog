@@ -30,6 +30,8 @@ const max = 100
 const betweenOneAndTen = Math.floor(Math.random() * (max - min)) + min + 1
 ```
 
+{{< cta1 >}}
+
 ## Why is Math.Random insecure?
 
 Many non-secure randomness, or [entropy](https://qvault.io/cryptography/what-is-entropy-in-cryptography/), generators like `Math.Random()` do something similar to the following:

@@ -203,6 +203,8 @@ type User struct {
  }
 ```
 
+{{< cta1 >}}
+
 ## Default encoding types
 
 JSON and Go types don't match up 1-to-1. Below is a table that describes the type relationships when encoding and decoding.
@@ -331,6 +333,8 @@ for {
     }
 }
 ```
+
+{{< cta2 >}}
 
 ## Pretty printing JSON
 

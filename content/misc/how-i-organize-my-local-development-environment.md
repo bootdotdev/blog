@@ -25,6 +25,8 @@ I like this setup for several reasons.
 3. I always know exactly where everything is. Back when I was a student, I would forget where I put different projects or snippets, and that hasn't been a problem for me in a long time.
 4. When I'm at work, sometimes I need to work in a few different repositories at the same time. It's really nice to open VS Code at the `namespace` level and see all the projects for the organization.
 
+{{< cta1 >}}
+
 ## How I start new projects
 
 For any new project, the setup process looks something like this.

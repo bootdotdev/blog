@@ -70,6 +70,8 @@ This is great when you can’t for the life of you figure out which direction to
 
 Ascending in difficulty, completing these Python coding challenges can help you get to grips with this awesome language. 
 
+{{< cta1 >}}
+
 ## For-purpose Coding Challenges
 
 While coding challenges are a great way to learn and brush up on your skills in a particular coding language, programmers might have other reasons to practice coding challenges. 

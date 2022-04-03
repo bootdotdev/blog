@@ -42,6 +42,8 @@ If you’ve already spent time and money on your bootcamp or course, you don’t
 
 There are many resources online, both paid and free, that can help you learn the building blocks. Whether you get the basics from a degree, course, or bootcamp, you can’t expect to do a single course focusing on one niche aspect and get a job. 
 
+{{< cta1 >}}
+
 ## 2\. You’re not presenting yourself in a way that demonstrates you’re a good culture fit
 
 Personally, part of the reason I ended up going for a data science job out of college was because I hated sales, like many other people. But while everyone hates sales, when you’re applying for jobs, you have to know how to sell yourself at every stage of the application process. If you can't get a programming job, it may be because you're neglecting this part of the application process.
@@ -138,6 +140,8 @@ If you can't get a programming job, her solution is to make a spreadsheet of the
 Part of the reason you can’t get a programming job might be because when you are asked to do everything, you only can prove mastery of a very few things. By cutting through the noise and delivering the signal these companies are looking for, you can get the programming job of your dreams. 
 
 What language do you enjoy the most? Which one do you understand best? These answers will help begin to point you in the right direction - both in terms of what sorts of jobs meet your existing skill set, as well as how to market those skills on your resume and during your interview.
+
+{{< cta2 >}}
 
 ## 6\. You’re pretending to be more talented than you are
 

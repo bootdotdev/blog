@@ -20,6 +20,8 @@ I think this is actually a decent description of a good product manager. Notice 
 
 In my experience, product people are rarely much better at pulling ideas out of their asses than engineers are. What makes a good product manager is a relentless need to validate or reject each (probably bad) idea that rears its ugly head.
 
+{{< cta1 >}}
+
 ## How important is having good product people?
 
 According to [failory](https://www.failory.com/blog/startup-failure-rate), The #1 reason startups fail is because they never found product-market fit. 34% of failed ventures are a result of not finding the right problem to solve. The second and third most common reasons, marketing problems and team problems, only account for 22% and 18% of failed startups respectively.

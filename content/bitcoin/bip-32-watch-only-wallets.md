@@ -34,6 +34,8 @@ However, since most wallets have also adopted [BIP 39](https://github.com/bitcoi
 
 Now, on a piece of paper or in a password manager like [Qvault](https://qvault.io), users can backup their seed phrase. Then they know that all the Bitcoins that will ever be stored in their wallet are recoverable.
 
+{{< cta1 >}}
+
 ## Watch only HD wallet
 
 ![eye picture](/img/icon95-20-512.png)

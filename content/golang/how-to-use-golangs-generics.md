@@ -39,6 +39,8 @@ func main() {
 
 Generics are a feature of many popular strongly-typed programming languages due to their amazing ability to reduce duplicate code. In dynamically typed languages like JavaScript and Python, you wouldn't need generics, but in Go, it's an amazing addition to the language.
 
+{{< cta1 >}}
+
 ## Generics in Go, the tl;dr
 
 I'll try to summarize the [specification](https://go.googlesource.com/proposal/+/refs/heads/master/design/43651-type-parameters.md) for generics in Go in a few bullet points.
@@ -163,6 +165,8 @@ Cloneable interface {
     Clone() Cloneable
 }
 ```
+
+{{< cta2 >}}
 
 ## Generic Types vs Generic Functions
 

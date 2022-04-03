@@ -25,6 +25,8 @@ We will work our way from a very high-level view of the document to a detailed a
 7. Iterate and review
 8. Conclusion
 
+{{< cta1 >}}
+
 ## Your Audience
 
 Before you start writing, you should **be clear about who is your audience**. In some cases, it might make sense to explicitly state who this is in the actual document. Make clear which knowledge or skill prerequisites the reader needs to have to understand your document.
@@ -66,6 +68,8 @@ Most likely, you are more familiar with clean code principles than writing skill
 - Eliminate or reduce extraneous words (i.e. at this point in time → now, determine the location of → find)
 - If a sub-clause introduces a new idea, consider putting it in the main clause.
 - Convert long sentences into lists.
+
+{{< cta2 >}}
 
 ## Simple but Undervalued: Lists & Tables
 

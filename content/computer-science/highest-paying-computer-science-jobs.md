@@ -47,6 +47,8 @@ Let's jump into each role and see what makes them worth their salaries, the [fut
 
 The job titles listed here are, for the most part, very different. If you are planning on applying to two or three different kind of jobs, you should also have two or three [distinct resumes](https://qvault.io/2020/12/14/computer-science-resumes/) you use. Each resume can be tailored to the specific job posting.
 
+{{< cta1 >}}
+
 ## Engineering Manager - $152,000/yr
 
 With great responsibility, comes a great salary. I believe Uncle Ben said that. As you can imagine, one way to earn more than the average developer is to manage an entire team of developers. At larger companies, candidates will likely need over ten years of experience to break into management, but at smaller companies, the rules are more flexible, with developers with as few as 5 years able to move into a higher leadership position. With that in mind, smaller companies also often don't pay quite as well, with compensation often tied directly to the performance of the company as a whole.
@@ -112,6 +114,8 @@ DevOps engineers need to have a solid understanding of scripting languages like 
 - Automate repetitive and manual tasks and improve operational maturity
 - Maintain services by measuring and monitoring availability, latency, and overall system health
 - Be part of an engineering team on-call rotation if required
+
+{{< cta2 >}}
 
 ## Engineer, Data - $125,000/yr
 
@@ -203,6 +207,8 @@ Mobile developers are a kind of software engineer. They specialize in mobile sof
 - Create apps that adhere to current Apple App Store and Google Play Store standards
 - Self-manage completion of projects and work with project managers to meet deadlines
 - Develop designs into applications with exactness
+
+{{< cta3 >}}
 
 ## Scientist - $120,000/yr
 

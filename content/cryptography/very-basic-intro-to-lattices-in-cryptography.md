@@ -53,6 +53,8 @@ v2 = (3,0)
 
 As you can see, now the intermediary points (0,1) and (0,1) **no longer exist** in our lattice. There is no way to scale v1 (0,3) and v2 (3,0) to reach those points without using fractional scalars. With lattices, we can only scale by whole integers.
 
+{{< cta1 >}}
+
 ## How Does This Help With Crypto?
 
 [Cryptographic algorithms](https://qvault.io/cryptography/what-is-cryptography/) are typically based on mathematical problems that are easy to verify the answer of, but hard to calculate.

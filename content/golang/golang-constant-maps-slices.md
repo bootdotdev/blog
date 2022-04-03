@@ -73,6 +73,8 @@ When setting configuration globals, which should be read-only, there's **no good
 
 Most people already know this about global variables thankfully, and switching global variables to global constants is a fairly straightforward task.
 
+{{< cta1 >}}
+
 ## What If I Want A Global Array, Map, or Slice?
 
 ![global slice](/img/Screen-Shot-2019-10-21-at-7.50.41-AM.png)

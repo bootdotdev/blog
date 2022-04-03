@@ -20,6 +20,8 @@ Let's take a look at some good technical questions to be familiar with, whether 
 - Goroutines are not hardware-dependent like threads.
 - Goroutines are more lightweight, largely due to [segmented stacks](https://blog.cloudflare.com/how-stacks-are-handled-in-go/#segmentedstacks) in memory
 
+{{< cta1 >}}
+
 ## 2\. Can constants be computed in Go?
 
 Constants can **not** be computed at runtime, their value must be known at compile time. That said, constants can be computed at compile-time, typically as a derivative of other constants. For example:
@@ -86,9 +88,13 @@ s1 := primes[1:4]
 
 When slicing an existing array or slice the first index is inclusive while the last index is exclusive. If an index is omitted on one side of the colon, then all values until the edge of the original slice are included in the result.
 
+{{< cta2 >}}
+
 ## 9\. Are channels and maps safe for concurrent access?
 
 Channels are safe for concurrent access, for this reason they have blocking operations. Maps are unsafe for concurrent access and require a locking mechanism like a mutex to be safely used across goroutines.
+
+{{< cta3 >}}
 
 ## 10\. How would you [sort](https://qvault.io/2020/05/27/sorting-in-go-dont-reinvent-this-wheel/) a slice of custom structs?
 

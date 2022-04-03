@@ -20,6 +20,8 @@ Where a classical bit holds a single binary value as 0 or 1, a [qubit](https://e
 
 Quantum computers are hard to build and are prone to generating errors, and their components are often unstable. In quantum computing, [quantum supremacy](https://en.wikipedia.org/wiki/Quantum_supremacy) is the ultimate goal of solving a problem that a classical or non-quantum computer system might take billions of years to solve. In 2018, 20 qubits were entangled together are were made to talk to one another, then read back the information they individually contained. This was a sort of prototype of the short-term memory of the quantum-computer system.
 
+{{< cta1 >}}
+
 ## Google Claims Quantum Supremacy
 
 In 2019, Google declared that they had achieved quantum supremacy. Google had built a quantum computer that would perform tasks faster than the classical computer. Their computer completed a computation in just 200 seconds (using a chip named [Sycamore](https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html)) which they claimed would take 10,000 years for a traditional supercomputer to solve (which was contested by IBM, who said it would only take 2.5 years).

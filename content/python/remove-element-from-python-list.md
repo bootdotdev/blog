@@ -74,6 +74,8 @@ if len(primes) >= 10:
 	del primes[10]
 ```
 
+{{< cta1 >}}
+
 ## Remove multiple of items from a python list
 
 ```py

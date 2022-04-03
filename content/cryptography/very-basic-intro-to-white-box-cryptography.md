@@ -17,6 +17,8 @@ In penetration testing, white-box testing is where the testers (or attackers) ha
 
 White-box cryptography is appropriately named because attackers have access to the compiled code where the keys exist. The difficult problem that it aims to solve is how to keep those keys safe while using them in execution.
 
+{{< cta1 >}}
+
 ## Kerckhoffs's Principle
 
 [Kerckhoffs's principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle) revolutionized the way we think about [cryptography](https://qvault.io/cryptography/what-is-cryptography/). It states that we should allow the attacker to know everything about a crypto implementation, except the key. If a cryptosystem can stand up to that level of scrutiny it will be the better for it.

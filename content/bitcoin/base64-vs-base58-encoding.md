@@ -22,6 +22,8 @@ Let's rank Base58, Base64, and ASCII encoding against each other using these met
 
 All data is stored in a raw binary format on computers. These encoding formats (Base64, Base58, and ASCII) are just different ways of reading and writing binary data. For example, in Base64 the binary code `000000` represents the letter `A`, but in ASCII the binary `00000000` represents the `NUL` character.
 
+{{< cta1 >}}
+
 ## ASCII Encoding
 
 ![ASCII encoding chart ](/img/Screen-Shot-2020-03-02-at-11.32.00-AM-1024x678.png)

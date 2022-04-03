@@ -20,6 +20,8 @@ This guide won’t mention Google Ads for the simple reason that many programmer
 
 All you need is some programming knowledge, a desire to write, and a blog to put your thoughts on. 
 
+{{< cta1 >}}
+
 ## 1\. Monetize Your Programming Blog With Affiliate links
 
 Affiliate links are when a company or individual gives you a specific link to their product, service, or slates funnel. If someone clicks on that link and makes a purchase, you get a percentage of that revenue. The most common iteration you’ll see for this type of monetization is the Amazon affiliate program. 
@@ -77,6 +79,8 @@ It’s true that these opportunities will increase as your experience increases,
 The only thing you should watch out for is overusing ads. It’s true that you need to make a living somehow, yes, but readers won’t always understand that and get turned off from too many blatant ads, especially if they’re from you. Keep it limited - perhaps one in every five posts, or only on your best-performing posts. You should also try to match ads with blog post subject. That way you retain value for your readers whether they’re regular visitors or one-time readers, but you can still let people know the value you provide. 
 
 In sum, adding your own ads inline on your blog posts can be a great way to raise awareness of your other services and give you some extra income. Even as a beginner coder, there are many services you can offer.
+
+{{< cta2 >}}
 
 ## 5\. Monetize Your Programming Blog by Coaching Beginner Coders
 

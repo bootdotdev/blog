@@ -26,6 +26,8 @@ We also have a [course on functional programming](https://qvault.io/intro-to-fun
 
 Python is dynamically and strongly typed, helping detect any errors you’ve made quickly and painlessly. As an interpreted language, Python code can run as soon as you’ve written it — so there’s no delay in getting results, unlike code written in C++ or Java. And, as it’s open-source, a huge range of frameworks and libraries have been developed on top of Python, for machine learning, AI, and many other uses.
 
+{{< cta1 >}}
+
 ## Why Learn Python?
 
 Here are our top 9 reasons why you should learn Python this year:

@@ -48,6 +48,8 @@ When I started learning Python, part of the reason it was so easy to learn was t
 
 You’ll be reading lots of code as well as sharing it with your coworkers (or strangers on the internet as you try to debug something on StackOverflow). Python makes that easy to do.
 
+{{< cta1 >}}
+
 ## 3\. It’s popular
 
 If you learn Python, you’ll be one of many. It’s one of the most widely used languages in data science (and elsewhere). It’s the third-most widely used language in the world according to [TIOBE’s 2020 index](https://www.tiobe.com/tiobe-index/). And in data science specifically, it’s [emerged as the leader](https://marutitech.com/python-data-science/#Python_emerging_as_the_leader), outstripping my old favorite language R. 
@@ -79,6 +81,8 @@ Even though Python has a practically unlimited number of applications, there’s
 As you go through the standard track of learning how to code in Python, you’ll cross over with some data science basics by default. For example, you’ll start by learning how to set up your environment, importing data, cleaning it, running some statistical analyses on it, creating some nice visualizations, and sharing your findings. And look at that - you’ve done some data science with Python.
 
 As long as you keep typical data science tasks in mind as you look for Python tutorials, you’ll easily be able to find plenty of resources that teach you Python - and simultaneously teach you Python for data science, specifically. Learning basic Python for data science is a natural learning path.
+
+{{< cta2 >}}
 
 ## 7\. Data cleaning is a breeze
 

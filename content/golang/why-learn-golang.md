@@ -26,6 +26,8 @@ For those who want to [learn computer science online](https://qvault.io/2020/11/
 - [7\. Bonus: there are lots of benefits even if you’re experienced](#7-bonus-there-are-lots-of-benefits-even-if-youre-experienced)
 - [Final thoughts on why learn Golang in 2021](#final-thoughts-on-why-learn-golang-in-2021)
 
+{{< cta1 >}}
+
 ## 1\. Go is an easy language for beginners to learn.
 
 Every beginner coder needs to start with a language. The second language is always easier to learn, so you want to start with something that’s easy to pick up. 
@@ -57,6 +59,8 @@ The most practical answer to _"Why learn Golang?"_ is that it can help you get a
 > [Rob Pike](https://talks.golang.org/2012/splash.article#:~:text=Go%20is%20a%20programming%20language,and%20the%20software%20is%20big.)
 
 Several big user-facing Google services use it, including Youtube and dl.google.com (the download server that delivers Chrome, Android, and other downloads). Google’s enormous influence means that other lare companies have also seen the value Go provides and [have adopted it](https://talks.golang.org/2012/splash.article#:~:text=Go%20is%20a%20programming%20language,and%20the%20software%20is%20big.) themselves, including BBC Worldwide, Canonical, Heroku, Nokia, and Soundcloud. 
+
+{{< cta2 >}}
 
 ## 5\. Go provides the best hourly freelancing rate
 

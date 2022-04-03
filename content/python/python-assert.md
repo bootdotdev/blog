@@ -32,6 +32,8 @@ assert condition [, error_message]
 
 If the {condition} is false, an [AssertionError](https://docs.python.org/3/library/exceptions.html#AssertionError) is raised. If the optional second parameter, `error_message` was set, then that error message is used.
 
+{{< cta1 >}}
+
 ## Catching an assertion error
 
 You can catch an assertion error just like you would any other error in Python.

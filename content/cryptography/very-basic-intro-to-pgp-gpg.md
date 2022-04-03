@@ -17,6 +17,8 @@ Both programs (and others) adhere to the [OpenPGP](https://en.wikipedia.org/wiki
 
 The "pretty good" part of "Pretty Good Privacy" is a hilarious understatement. It uses secure building blocks and remains an extremely private (albeit not very user-friendly) protocol for secure communication.
 
+{{< cta1 >}}
+
 ## Symmetric vs Asymmetric Encryption
 
 Asymmetric algorithms allows users to communicate securely without sharing private keys. They are suitable for the encryption of messages meant to be sent over an untrusted medium like emails or text messages.

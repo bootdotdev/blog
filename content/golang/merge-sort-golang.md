@@ -64,6 +64,8 @@ func merge(a []int, b []int) []int {
 }
 ```
 
+{{< cta1 >}}
+
 ## Using the algorithm in code
 
 ```go

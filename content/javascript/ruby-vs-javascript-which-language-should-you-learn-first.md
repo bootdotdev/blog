@@ -46,6 +46,8 @@ JavaScript is not hard to learn, it’s not as simple as Ruby, but the sheer dem
 
 Both languages are cross-platform compatible, boast large communities, and are popular in web development, however, it’s worth noting JS is the world's [most used language](https://insights.stackoverflow.com/survey/2020#most-popular-technologies) by developers regardless of the field they work in. So, even if you don’t learn it first, you’ll likely have to learn it at some point.
 
+{{< cta1 >}}
+
 ## Ruby vs JavaScript Salary
 
 When it comes to salary, both languages fare well.
@@ -115,6 +117,8 @@ JavaScript offers multiple frameworks full of prewritten available code. React, 
 You can also build JS mobile apps with HTML, CSS, and PhoneGap. In this case, PhoneGap is the bridge between the mobile device and the web application codes. And then there’s Ionic, which allows for cross-platform mobile app development.
 
 Essentially, Ruby has the potential to do well in both web development and app development, but it comes down to resources and support. Ruby does not have the investment of developers or companies to make it important to the field, whereas JavaScript has all that and more.
+
+{{< cta2 >}}
 
 ## Ruby vs JavaScript: Which One Should You Learn First?
 

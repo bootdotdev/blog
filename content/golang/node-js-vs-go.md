@@ -36,6 +36,8 @@ Golang’s strength lies in its streamlined concurrency and optimized memory man
 
 Node.js offers JavaScript programmers the opportunity to do back-end web development as well as front-end, widening their skillset, but Golang may be a better option for those that need to learn a powerful back-end language that can scale in the cloud.
 
+{{< cta1 >}}
+
 ## Node.js vs Golang Performance
 
 This is where Node.js and Go’s differences really come into play.
@@ -101,6 +103,8 @@ Golang is much more lucid. It’s designed to handle large data sets, so no worr
 As a concurrent language, Go also allows for multiple machine learning algorithms and programs to run simultaneously with superb speed and possesses an intuitive syntax. However, it does often lack more advanced features like GPU support.
 
 Node.js is a better option for machine learning if you’re highly experienced with JavaScript and are focusing on smaller data sets, but if you’re handling big data and want something more succinct, then Go is the way to go – pun intended.
+
+{{< cta2 >}}
 
 ## Node.js vs Golang: Which Has a Better Community?
 

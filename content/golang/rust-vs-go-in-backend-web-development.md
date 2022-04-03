@@ -29,6 +29,8 @@ Rust v1 released: May 15, 2015
 
 Go v1 released: March 28, 2012
 
+{{< cta1 >}}
+
 ## Performance
 
 Performance metrics generally put Rust squarely ahead of Go, but not by a lot. The Rust compiler and language design allow developers to easily take advantage of optimizations that achieve speeds comparable to the likes of C. On the other hand, Go trades a small amount of speed for simplicity and elegant syntax.
@@ -150,6 +152,8 @@ func main() {
 ```
 
 With Go, on the other hand, it's extremely easy to spin up a production web server, we even get [support for JSON](https://qvault.io/golang/json-golang/), headers, and status codes right from the standard library.
+
+{{< cta2 >}}
 
 ## Concurrency
 

@@ -38,6 +38,8 @@ There are plenty of great reasons to learn a coding language:
 
 The time it’ll take you to learn to program depends on how you’ll measure your desired outcome.
 
+{{< cta1 >}}
+
 ## How Much Time Can You Allot per Week to Learn to Code?
 
 If you’ve got a fulltime job, 4 kids, and a baking hobby, it will take you longer to learn to code than if you don’t -- that’s fine. But it’s important to set up expectations early on. If you think you can commit 30 minutes per week, don’t commit yourself to an hour a day, because you’ll get discouraged when life inevitably happens. Be honest about your time management. 
@@ -65,6 +67,8 @@ Equally, if you think that you’ll be ready to change careers after reading one
 That’s why it’s critical, when thinking about how long it will take to learn a coding language, to have discrete goals and milestones. How long do you think it will take? How will you feel when you inevitably struggle? How will you measure and reward your progress? How will you continue investing time and energy into your goal? 
 
 Your expectations will play a big role in how long it takes you to learn to code.
+
+{{< cta2 >}}
 
 ## What Does Success Look like for You?
 

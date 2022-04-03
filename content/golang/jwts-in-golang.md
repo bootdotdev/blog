@@ -33,6 +33,8 @@ For example, when a user logs in to a website secured via JWTs, the flow should 
 7. The server checks the signature on the JWT to make sure the JWT was originally created by the same server
 8. The server reads the claims and gives permission to the request to operate as "wagslane"
 
+{{< cta1 >}}
+
 ## Create a JWT
 
 We're going to use a popular library for dealing with JSON Web Tokens in Go, [jwt-go](https://github.com/dgrijalva/jwt-go). Make sure you have the code cloned locally:

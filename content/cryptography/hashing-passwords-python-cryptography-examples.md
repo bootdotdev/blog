@@ -24,6 +24,8 @@ To demonstrate the potential dangers, let us assume we DON'T hash passwords on a
 
 Now the attacker can go to other websites, and because a majority of people reuse passwords on different websites, they can hack other systems.
 
+{{< cta1 >}}
+
 ## Solution - Hashing
 
 A [hash function](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) (or more specifically in our case, a [key derivation function](https://qvault.io/2019/12/30/very-basic-intro-to-key-derivation-functions-argon2-scrypt-etc/)) deterministically creates a strong key from a password. Because hashes are one-way, the attacker can't re-create the plaintext password from the hash. Now the attacker would find something like this in the database:

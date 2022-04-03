@@ -24,6 +24,8 @@ The best way to Learn Python interactively is by taking the courses here on Qvau
 
 The cool thing about this course is that it's designed to help you get a job. That means it's not just going to teach you flashy tricks, but guide you through the principles underlying how python works that might trip you up in a potential job interview. It also focuses on tasty job skills to open you up to more career choices, especially in machine learning if that’s your jam.
 
+{{< cta1 >}}
+
 ## The Best Way to Learn Python For Free
 
 You can find free/freemium options to learn Python just about anywhere online, but I love Exercism, freeCodeCamp, and Qvault as the best ways to learn Python for free. Why? Because each offers a unique way of teaching that suits each unique circumstance.
@@ -77,6 +79,8 @@ Codewars has created one of the most innovative ways to learn and practice codin
 Code your way through the ranks while you accrue honor, insight into optimized coding techniques, and gain collaborative wisdom from the bustling community currently surrounding the game.
 
 It does require you to prove an understanding of the language you’ll be training with and this will determine what level you’ll start competing at. It’s not a practical option for those new to coding, but for programmers looking to skill up, this is without a doubt one of the coolest ways to learn Python, as well as train the other languages you know.
+
+{{< cta2 >}}
 
 ## The Best Way to Learn Python the Hard Way
 

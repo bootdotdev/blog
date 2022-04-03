@@ -48,6 +48,8 @@ It's worth pointing out that once you understand the basics of both Python and R
 
 Additionally, I might be biased, but I found the Python community to be exceptionally supportive. There were tutorials, videos, courses, Slack groups, Discord chats - all sorts of content, in other words - to help beginners pick up the new language. Pythonistas are a cool bunch.
 
+{{< cta1 >}}
+
 ## 3\. Ruby vs Python: Which performs best?
 
 No matter whether you're a beginner or an expert coder, you're probably wondering which language performs the best. It may not matter a lot when you're just beginning, but when you want to do something more ambitious and work or as a hobby, the performance of a language will matter.
@@ -83,6 +85,8 @@ However, there's a huge demand for specialized Ruby Developers. Remember how man
 As I mentioned in the section above, Python’s strength is definitely in AI/machine learning/deep learning (all of which are kind of the same thing). There's no particular reason why Python is better, other than the fact that there is a rich ecosystem of libraries and frameworks around AI, machine learning, and deep learning. Libraries include Scikit, NumPy, TensorFlow, Keras, and more.
 
 Plus, new libraries are developed and shared on a regular basis. Ruby is mostly used for Ruby on Rails, whose usefulness kind of caps out at web application development.
+
+{{< cta2 >}}
 
 ## 7\. Ruby vs Python: Which is best for productivity?
 

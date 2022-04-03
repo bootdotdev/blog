@@ -30,6 +30,8 @@ With so many constantly-shifting languages it’s hard to know where to start, e
 
 Table describing the most popular coding languages of 2021 for different purposes.
 
+{{< cta1 >}}
+
 ## 1\. The most popular coding language for absolute beginners: Python
 
 No matter what list you check, Python is almost always listed as the most popular coding language for beginners - on [Qvault’s post on best programming languages for beginners](https://qvault.io/2020/10/07/top-4-coding-languages-to-learn-for-beginners-2020/), [GitHub’s ranking](https://pypl.github.io/PYPL.html), [Stack Overflow’s developer survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted), and is even the [top-most language universities are teaching to computer science majors](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext). 
@@ -70,6 +72,8 @@ R is the most popular coding language for people who don’t code in their jobs 
 
 **Read more:** [Python vs R: Compared](https://qvault.io/python/r-vs-python/)
 
+{{< cta2 >}}
+
 ## The best way to learn R for non-programmers
 
 Especially for folks who don’t have or want a job in programming, I find it’s [best to find a project you really care about and set out a specific goal](https://towardsdatascience.com/the-fastest-way-to-learn-to-code-be-invested-in-your-numbers-ccb24d55d856). You don’t have the necessity from your job - you can get away with not knowing how to code, for now anyway. You don’t have any prior experience coding, so the learning curve will be steep. You need something that you’re deeply passionate about. Only that will get you over the frustrating hurdles, knowledge gaps, and user errors that come with every coder’s beginner journey.
@@ -105,6 +109,8 @@ R, Python, and Perl were all developed last century. Swift, meanwhile, was devel
 Compared to Android apps, iOS has a more robust developer program and handles a lot fo the stickier sides of creating and hosting an app on a store. It’s also [faster](https://infinum.com/the-capsized-eight/android-development-is-30-percent-more-expensive-than-ios) to develop an iOS app compared to Android.
 
 For those reasons, Swift is the most popular coding language for those who want to develop mobile apps for iOS. 
+
+{{< cta3 >}}
 
 ## The best way to learn Swift for app developers
 

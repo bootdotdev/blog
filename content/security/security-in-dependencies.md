@@ -24,6 +24,8 @@ This should be the first question asked when a new dependency is being considere
 - Will our implementation be better? (don't write your own cryptography)
 - Does the language's standard library already have this functionality?
 
+{{< cta1 >}}
+
 ## Review
 
 If we decide that we shouldn't write the code ourselves, we find a valid candidate package. We take a look at the code and ensure:

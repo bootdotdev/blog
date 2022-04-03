@@ -26,6 +26,8 @@ If you're looking for an explanation of a different hash function, we may have y
 - [(Very) Basic Intro to the Scrypt Hash](https://qvault.io/2020/07/25/very-basic-intro-to-the-scrypt-hash/)
 - [Bcrypt Step by Step](https://qvault.io/2020/08/24/bcrypt-step-by-step/)
 
+{{< cta1 >}}
+
 ## Hash Functions Scramble Data Deterministically
 
 Think of a Rubix cube.

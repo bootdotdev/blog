@@ -46,6 +46,8 @@ Overall, both languages offer huge passionate communities that can’t be ignore
 
 But for experienced programmers, both languages are useful, with Python better for those looking to work in experimental fields and wanting to create their own projects, and Java best for those looking to maintain security in traditional institutions and work with a universal solution.
 
+{{< cta1 >}}
+
 ## Python vs Java Performance
 
 When it comes to performance, it’s a bit of a double-edged sword.
@@ -103,6 +105,8 @@ Java doesn’t possess the same popularity with ML, and that’s because it wasn
 Java technically has the bandwidth to support the data, but it wasn’t adopted because it’s too complex to experiment nicely with and it’s not flexible. Java also doesn’t have nearly the amount of library groundwork Python does, but that may be because there wasn’t a demand to develop them.
 
 In the end, Python naturally meshed with this field in a way Java couldn’t compete with.  
+
+{{< cta2 >}}
 
 ## Big Data in Python vs Java
 

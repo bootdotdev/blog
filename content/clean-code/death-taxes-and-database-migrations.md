@@ -14,6 +14,8 @@ Earlier in my career, I would come to a new project and inevitably a hectic migr
 
 Let's be clear about something. Migrations are here to stay, and while we can't be rid of them completely, we can learn how to more painlessly execute them. I've put together a small list of guidelines that have helped me cope with migrations, and maybe they'll help you too.
 
+{{< cta1 >}}
+
 ## #1 Get the names right the first time
 
 Naming variables is hard, but naming database keys and API behaviors is much harder. When you name something that other code and systems rely on, you either won't be able to change it in the future, or that migration is going to be excruciating. I have a few rules of thumb [on variable naming](https://qvault.io/clean-code/naming-variables/), so I won't rehash all the details here. That said, here's a tl;dr.
@@ -51,6 +53,8 @@ Think of your database choice as a tool. If you aren't careful, that tool will m
 I won't go into too much detail on this one either, as I wrote [a whole article on keeping your data simple at rest](https://wagslane.dev/posts/keep-your-data-raw-at-rest/). That said, I'll give you another tl;dr. If you can get away from storing calculated data in your database, you'll never have to move it. In other words, the less you save, the easier your life is. Let me provide an example.
 
 Let's say you have a `height` variable for each user in your database. Now, on the front-end of your application, you need to show everyone who is over 6ft tall that they should get a special size of shirt. You _could_ add a new boolean field in your database, `is_tall` that's set to true for people over 6 feet. My point is that your life will be easier if you do that calculation in your application code each time you query someone's height. If you never save it to disk, you'll never have to migrate it.
+
+{{< cta2 >}}
 
 ## #5 Keep your dependencies organized
 

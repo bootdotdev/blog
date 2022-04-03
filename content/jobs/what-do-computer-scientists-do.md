@@ -54,6 +54,8 @@ The rest of my afternoon is usually just writing more code, with the occasional 
 | Architecture planning (as needed, not planned) | monthly   | 60 minutes    |
 | Product roadmap planning                       | weekly    | 30 minutes    |
 
+{{< cta1 >}}
+
 ## Some key takeaways
 
 So much about your life as a computer scientist will depend on where you go to work. Here are some of the most common benefits.

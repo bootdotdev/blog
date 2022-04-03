@@ -18,6 +18,8 @@ Follow these steps to refer your friends directly from the app.
 4. Copy your unique invite link and share it with as many friends as you want
 5. When friends sign up, you'll both receive free gems
 
+{{< cta1 >}}
+
 ## What are gems?
 
 True to our goal to gamify the experience of computer science education, we've implemented a popular feature that many videogames take advantage of, **virtual currency**. At the time of writing, gems are basically a clout score - they show off how much you've learned and engaged with the curriculum. We have plans to release ways to spend gems on rewards in the future though, so stay tuned.

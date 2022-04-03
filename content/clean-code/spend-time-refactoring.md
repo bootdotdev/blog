@@ -27,6 +27,8 @@ I've found that in articles like this it's important to give as much context to 
 
 ![Go Kubernetes](/img/go_kubernetes-1024x592.png)
 
+{{< cta1 >}}
+
 ## Code Familiarity
 
 With only four engineers on my team and ~15 repositories we're responsible for, it was hard for all four of us to be intimately familiar with all the code. When we needed a new microservice, one team member typically wrote the first iteration, and one other team member did a quick code review. The engineer who did the first iteration would then be primarily responsible for bug fixes and new features relating to that project.

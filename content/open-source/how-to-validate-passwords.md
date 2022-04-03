@@ -27,6 +27,8 @@ We don't care if a password only has lowercase letters if it's long. All that ma
 
 ![Entropy scores measured in bits](/img/rhdADIZYXJM2FxqNf6UOFqU5ar0VX3fayLFpKspN8uI.png)
 
+{{< cta1 >}}
+
 ## How To Determine Entropy Given a Password
 
 The way [go-password-validator](https://github.com/lane-c-wagner/go-password-validator) works is my favorite (obviously, I wrote it), but there is certainly room for improvement. Let's take a look at the process. From its [Readme](https://github.com/lane-c-wagner/go-password-validator#how-it-works):

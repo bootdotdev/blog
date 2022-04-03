@@ -39,6 +39,8 @@ func main() {
 }
 ```
 
+{{< cta1 >}}
+
 ## Why use bubble sort?
 
 Bubble sort is famous for how easy it is to write. It's one of the slowest sorting algorithms, but can be useful for a quick script or when the amount of data to be sorted is guaranteed to be small. If you need a sorting algorithm to use in a production system, I recommend [not reinventing the wheel and using the built-in sort.Sort method](https://qvault.io/golang/sorting-in-go-dont-reinvent-this-wheel/).

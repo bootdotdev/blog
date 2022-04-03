@@ -44,6 +44,8 @@ Although JS is most often used for front end development, it can also be used on
 
 There are over [1.6 billion](https://medium.com/javascript-scene/how-popular-is-javascript-in-2019-823712f7c4b1#:~:text=As%20I%20mentioned%2C%20JavaScript%20is,billion%20web%20sites%20with%20JavaScript).) websites in the world, and JS is used on 95% of them,  including giants like Facebook, YouTube, Gmail, and others.
 
+{{< cta1 >}}
+
 ## 2\. Go (Golang)
 
 ### What Is It?
@@ -134,6 +136,8 @@ Many tout that Java is much easier to learn than the likes of C or C++. However,
 ### Where Is It Used?
 
 Java is the primary language used by some of the most influential software companies around, including IBM and Oracle. In addition, most native Android apps for smartphones and tablets are coded in Java.
+
+{{< cta2 >}}
 
 ## 6\. C#
 

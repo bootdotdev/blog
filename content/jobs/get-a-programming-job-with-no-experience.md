@@ -28,6 +28,8 @@ You see, for you, this may be a breakthrough gig. For your potential employers t
 
 So you know how to code? Good. Learn to **prove it.**
 
+{{< cta1 >}}
+
 ## Personal Projects - A Necessity
 
 So your abilities will speak for themselves in an interview... when a company finally gives you an opportunity to speak. You want those capabilities to be able to talk the ears off any potential employers, but sometimes, even after a glance at your resume and a quick Google, they don't want anything to do with you. It happens - but we have more ways to alleviate that.
@@ -90,6 +92,8 @@ You may be wondering: If I can make my own company, why would I need to get a jo
 File for an LLC or DBA, build an app or two, publish those apps in an app store, and voila. Software development company. You can then list yourself as a software developer for the company you just made, and its all completely legitimate. What's more, since you've basically created your own startup, this proves to potential employers that you have initiative.
 
 Spruce up your company with a well-made website and sleek app design, and you have essentially given your resume the equivalent of a three-piece suit and a haircut.
+
+{{< cta2 >}}
 
 ## Prepare Yourself
 

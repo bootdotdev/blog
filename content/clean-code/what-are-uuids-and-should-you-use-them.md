@@ -30,6 +30,8 @@ Now let's break things down. Let's say we acquire a new company and that company
 
 By using UUIDs (or another kind of universally unique ID) we can save ourselves all this headache. I'm open to the possibility that universally unique IDs could create issues in a system's archiecture, I've just never experienced it, and I can't think of why it would be problematic.
 
+{{< cta1 >}}
+
 ## Why are UUIDs only recently gaining popularity?
 
 All I can really do is guess, but I have a couple of candidate hypotheses.

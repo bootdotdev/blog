@@ -92,6 +92,8 @@ fmt.Println(e)
 // prints 2.718281828459045
 ```
 
+{{< cta1 >}}
+
 ## Should You Use Constants?
 
 Yes. Constants are safer.
@@ -101,6 +103,8 @@ Use constants _wherever possible._ Why would you want to be able to accidentally
 You may be familiar with the idea that global variables in programming are a bad idea. Variables should typically belong to the smallest scope possible.
 
 Constants in Go don't apply to the global variable rule, there is _nothing wrong_ with declaring global constants. Granted, if the constant is only used in one place, it may make sense to declare it there. The point however remains: **it isn't dangerous to declare constants globally**.
+
+{{< cta2 >}}
 
 ## Declare Multiple Constants as a Block
 

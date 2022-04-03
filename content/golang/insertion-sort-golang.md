@@ -37,6 +37,8 @@ func main() {
 }
 ```
 
+{{< cta1 >}}
+
 ## Why use insertion sort?
 
 Insertion sort has a Big O complexity of `O(n^2)`, because that is its worst-case complexity. The outer loop of insertion sort executes `n` times, while the inner loop depends on the input. In the worst case (a reverse sorted array) the inner loop executes `n` times as well. In the best case (a sorted array) the inner loop immediately breaks resulting in a total complexity of `O(n)`.

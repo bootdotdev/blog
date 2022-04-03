@@ -56,6 +56,8 @@ func main() {
 }
 ```
 
+{{< cta1 >}}
+
 ## Split by delimiters and retain the delimiters
 
 ### strings.SplitAfter()

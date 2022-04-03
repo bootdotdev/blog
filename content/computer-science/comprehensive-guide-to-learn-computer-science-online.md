@@ -48,6 +48,8 @@ Also, before diving into all the various requirements, I'd like to point out tha
 
 These topics cover almost everything that a typical CS student would learn at a university, though you obviously need to make sure you go appropriately deep into each topic. Later in the article, we'll cover each topic in more detail, and supply resources to get you started.
 
+{{< cta1 >}}
+
 ## Feeling Overwhelmed? Don't Be.
 
 A typical computer science undergraduate takes [4 years to complete their degree](https://qvault.io/2020/12/02/difference-between-certificate-or-degree-in-2021/). Hopefully, this isn't news to you, that's just how college works. Have hope! If you're teaching yourself, you can cut out the fat and speed up the process. If you follow these tips, you'll likely be able to learn the equivalent of a CS major in less than two years, and should be able to get an internship or a first job after just 3-6 months, depending on how much time you're able to practice and study daily.
@@ -417,6 +419,8 @@ While AI and ML used to be fairly niche fields, they are becoming more and more 
 - Implement and use search algorithms,
 - Design and implement propositional logic to solve problems
 - Design and implement Bayesian networks to solve problems
+
+{{< cta2 >}}
 
 ## Good Luck!
 

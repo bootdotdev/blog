@@ -34,6 +34,8 @@ It's important to note that Qvault still rewards gems directly for each step of 
 
 ![](https://i0.wp.com/qvault.io/wp-content/uploads/2020/11/streak-diamond-min.png?ssl=1)
 
+{{< cta1 >}}
+
 ## Speed Acheivements
 
 Speed achievements are unlocked by completing a certain number of exercises within a certain timeframe. For example, at the time of writing the bronze achievement requires the completion of 10 exercises in 5 minutes.

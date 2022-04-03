@@ -22,6 +22,8 @@ The good news is that in 2021, many of your potential future employers won’t c
 
 The question now becomes which works best for you when looking at the difference between a certificate or a diploma. Let’s look at the pros and cons of a degree versus a certificate when you’re trying to get a programming job.
 
+{{< cta1 >}}
+
 ## Actually, what's the difference between a certificate or a diploma in computer science?
 
 You might look at both and think there's no real difference between a certificate or a diploma: they both give you a piece of paper saying you spent _time_ and _money_ to learn _something_. The difference between a certificate or a diploma in any field comes down to the scope of those three characteristics: time, cost, and specificities. Computer science degrees and certificates are no different.
@@ -57,6 +59,8 @@ If you got your degree in something totally unrelated, you might struggle more t
 One of the brilliant things about existing in this day and age is that there are many generous and clever people online who can give you the knowledge of a degree for free on YouTube, on Medium, or even on Twitter with tutorials and how-tos. All this will give you the skills to shine during your interview - the only thing you need is the piece of paper you can show on your resume to get your foot in the door to start.
 
 By effectively building your own computer science course online and then tactically getting certificates in key areas, you can accomplish the same thing a degree would, for a heck of a lot less money and on a schedule that works best for you.
+
+{{< cta2 >}}
 
 ## Do you have an employer in mind?
 

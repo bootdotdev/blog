@@ -14,6 +14,8 @@ In a previous tutorial we showed how you can get basic information on all quantu
 
 While this function is great to get information on all quantum devices at a glance it is not detailed on specific information such as qubit and gate errors. To get more detailed information on a quantum device (such as configuration and individual qubits and gates) you can use backend\_monitor().
 
+{{< cta1 >}}
+
 ## Implementation
 
 Unlike backend\_overview() this is for getting information on a specific device so you have to pass the device name in to the function as an argument.

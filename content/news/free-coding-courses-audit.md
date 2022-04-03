@@ -21,6 +21,8 @@ If you don't know already, Qvault is a code-in-the-browser computer science prog
 
 All of these were problems for my wife when I told her, _"you don't need to go back to school, you can [learn online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/)!"_. She had problems just knowing where to start with popular course marketplaces and certainly couldn't put together her own curriculum.
 
+{{< cta1 >}}
+
 ## Free computer science courses
 
 Qvault now works on a subscription model with a very permissive free tier. With the free plan, you can work through entire courses, you just aren't able to verify your answers without supporting the project. In other words, you can read all the content and execute the code in a sandbox, you'll just have to decide for yourself when you feel like you've mastered a concept.

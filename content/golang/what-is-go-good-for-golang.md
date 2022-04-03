@@ -65,6 +65,8 @@ Now over 10 years since Go’s original open source release, Go is the second hi
 
 It’s never been a better time to learn Go, and here’s why:
 
+{{< cta1 >}}
+
 ## What is Go Good For?
 
 ### Simple Syntax & Easy To Learn

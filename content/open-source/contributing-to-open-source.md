@@ -22,6 +22,8 @@ Don't open a PR like this:
 
 Your PR should do _one thing_. Large diffs increase the cognitive load of the reviewer and make it easier to get your code into the main branch. If you have beef with multiple issues in a project then open multiple PRs.
 
+{{< cta1 >}}
+
 ## 2\. Don't Break Consistency
 
 This one happens the most often to me in my own projects. Well-intentioned developers open pull requests with any of the following annoyances:
@@ -51,6 +53,8 @@ Some codebases have thousands of open issues, take the [Go language](https://git
 ## 5\. Squash Those Commits
 
 Not every project will require (or care) about [commit squashing](https://github.com/wprig/wprig/wiki/How-to-squash-commits). That said, there are no projects that require _not_ squashing commits. To be on the safe side just give 'em a squash.
+
+{{< cta2 >}}
 
 ## 6\. Be Meaningful
 

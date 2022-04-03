@@ -23,6 +23,8 @@ The entire value proposition of a heuristic is based on trade-offs. Typically we
 
 Example problems and some of their common heuristics are given below.
 
+{{< cta1 >}}
+
 ## Traveling Salesperson Problem (TSP)
 
 ![](/img/tsp-1024x606.jpg)

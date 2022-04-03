@@ -36,6 +36,8 @@ When something needs to be kept secret, always encrypt.
 
 ![Navajo code comic](/img/code_talkers.png)
 
+{{< cta1 >}}
+
 ## 2\. You Probably Suck
 
 If you roll your own crypto, you are likely to overlook vulnerabilities that have been accounted for in open-source versions. By the way, I don't mean that you specifically suck at writing crypto, I mean that no one person (or organization) can reasonably be responsible for vetting all possible attack vectors. Open-source allows the worldwide developer community to help expose problems with the code.

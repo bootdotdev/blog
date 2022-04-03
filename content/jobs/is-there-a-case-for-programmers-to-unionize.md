@@ -35,6 +35,8 @@ For example, geographic tech hubs (San Francisco, we're looking at you) have bec
 - Wealth inequality is a real problem, but I'd rather see a more simple and targeted solution like a small UBI. It would help workers across all industries without needing to add paperwork, membership, and union dues to our already complicated lives.
 - Fewer zoning laws, and better access to public transportation. Americans spend quite a bit on cars, with the [average car owner spending roughly $775/month](https://www.hotcars.com/average-american-spends-roughly-800-a-month-on-their-car/) on car-related expenses. If more of us could walk, bike, or catch trains to get around it would help with the environment and our wallets.
 
+{{< cta1 >}}
+
 ## #2 Difficulty proving your worth without having a silver tongue
 
 I'll be the first to admit that this is a huge problem in the coding industry, and really in any knowledge-based industry where aptitude and impact are hard to measure. There are terrible engineers who make 4x more than seriously talented engineers, simply because they're better at writing resumes, interviewing, building social profiles, or smooth-talking at the negotiating table.
@@ -99,6 +101,8 @@ Regarding domestic experienced workers, employers are at their mercy in the curr
 Regarding domestic entry-level workers, I think the problem is mitigated by the solutions I discussed for problems #4 and #2.
 
 Regarding foreigners looking for sponsorship, I would much rather fix the immigration situation if possible. Workers shouldn't _need_ to be sponsored to come here in my opinion, though I understand that's a controversial idea. Assuming we're unable to empower foreign employees by fixing the laws, unions might certainly help in this regard.
+
+{{< cta2 >}}
 
 ## Can unions solve our problems, and what's the cost?
 

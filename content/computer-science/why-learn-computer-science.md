@@ -24,6 +24,8 @@ In other words, computer science is the study of computers and computational sys
 
 [xkcd](https://xkcd.com/435/)
 
+{{< cta1 >}}
+
 ## The more you understand Computer Science, the better developer you'll be
 
 Core computer science principles such as algorithms and data structures are fundamental to engineering systems that are useful at scale. While its possible to deploy simple web apps without much knowledge of CS fundamentals, as you grow in your career you'll start to brush up against barriers that can only be crossed through additional education.

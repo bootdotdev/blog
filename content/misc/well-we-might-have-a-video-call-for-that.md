@@ -30,6 +30,8 @@ That said, I agree that for a remote team, externalizing the right information i
 
 Processes like deployments, access to company secrets, development environment setup, etc **must be externalized** and rigorously kept up to date.
 
+{{< cta1 >}}
+
 ## "Avoid anything that makes a distributed team run synchronously"
 
 > The reason for this is not just working in different timezones, but also the fact that everyone will have their own daily routine, and/or have their individual times when they are most productive. Which you _will not attempt to synchronize._ (Doing so would mean setting the entire team up for failure.)

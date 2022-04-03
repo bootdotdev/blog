@@ -32,6 +32,8 @@ BST
 - When the tree becomes unbalanced, all fast `O(log(n))` operations quickly degrade to `O(n)`.
 - Since pointers to whole objects are typically involved, a BST can require quite a bit more memory than an array, although this depends on the implementation.
 
+{{< cta1 >}}
+
 ## Implementing a BST in Python
 
 ### Step 1 - BSTNode Class
