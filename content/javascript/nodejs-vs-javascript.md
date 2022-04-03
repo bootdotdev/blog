@@ -94,6 +94,8 @@ Someone with knowledge of Node.js could look into more of a full-stack developme
 
 These tasks can often be more complex, and the pay reflects it. In the U.S., the average base pay for a full stack developer is [$100K](https://www.glassdoor.ie/Salaries/us-full-stack-developer-salary-SRCH_IL.0,2_IN1_KO3,23.htm?clickSource=searchBtn) and can range up to $160K. Do be aware, however, you’ll need to be more knowledgeable about APIs, databases, and more complex backend systems. If you’re interested in this kind of role, it’s best to beef up your skills to include a more traditional backend language like Python, C#, C++, or Java.
 
+{{< cta2 >}}
+
 ## Conclusion: JavaScript vs Node.js
 
 So as you can see, as is always the case when making toolstack decisions, the correct choice depends on the scenario. The good thing is, if you’re already comparing JavaScript and Node.js, then the difference between your options isn’t huge, and since both are based in the same language, switching over won’t be too much of a headache if you realize after some time that the other approach would suit you better.

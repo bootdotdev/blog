@@ -86,6 +86,8 @@ The junior/senior problem seems to mostly be a supply and demand problem, with p
 
 In regards to junior developers not being able to prove their skills, I think there are potential cultural improvements and product innovations that have a lot of potential. For example, inexpensive access to online courses and certificates helps students that didn't go to college prove that they understand certain concepts. The open-source community seems to me to be more inclusive and collaborative, and if you maintain a project you can help by flagging issues with `good first issue` or `help wanted` which encourages newer devs to get their hands dirty and fill out their open-source portfolio.
 
+{{< cta2 >}}
+
 ## #5 Employees are at the mercy of employers
 
 I think a lot of people assume this to be the case, but [software development is one of the fields](https://qvault.io/jobs/whats-the-job-outlook-for-computer-science-students/) that has the _least_ of these worries currently. In a fairly free labor market, the employers hold the cards when unemployment is high and there isn't much investment capital to go around. When capital is cheap (lower interest rates and investors dying for projects to fund) the employees tend to be able to make better demands.
@@ -101,8 +103,6 @@ Regarding domestic experienced workers, employers are at their mercy in the curr
 Regarding domestic entry-level workers, I think the problem is mitigated by the solutions I discussed for problems #4 and #2.
 
 Regarding foreigners looking for sponsorship, I would much rather fix the immigration situation if possible. Workers shouldn't _need_ to be sponsored to come here in my opinion, though I understand that's a controversial idea. Assuming we're unable to empower foreign employees by fixing the laws, unions might certainly help in this regard.
-
-{{< cta2 >}}
 
 ## Can unions solve our problems, and what's the cost?
 

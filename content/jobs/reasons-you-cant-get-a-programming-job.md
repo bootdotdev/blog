@@ -117,6 +117,8 @@ Do you have a blog, GitHub repo, or another portfolio where you can demonstrate 
 
 If you can't get a programming job because of a lack of experience, sharing your passion can be a great way to prove to employers that you can do what they need you to do. 
 
+{{< cta2 >}}
+
 ## 5\. You’re trying to master everything
 
 Again, like the unrealistic requirements in years of experience, many companies contribute to this issue by listing just about every potential language and technical skill that might one day come in useful on their job listings. If you can't get a programming job, it might be because you are trying to master everything you see on job listings.
@@ -140,8 +142,6 @@ If you can't get a programming job, her solution is to make a spreadsheet of the
 Part of the reason you can’t get a programming job might be because when you are asked to do everything, you only can prove mastery of a very few things. By cutting through the noise and delivering the signal these companies are looking for, you can get the programming job of your dreams. 
 
 What language do you enjoy the most? Which one do you understand best? These answers will help begin to point you in the right direction - both in terms of what sorts of jobs meet your existing skill set, as well as how to market those skills on your resume and during your interview.
-
-{{< cta2 >}}
 
 ## 6\. You’re pretending to be more talented than you are
 

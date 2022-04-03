@@ -57,6 +57,8 @@ Active voice is more precise on what to do and is typically also shorter and eas
 
 If you spot passive voice in your documents (form of be + past participle), try to convert it to active voice to make it more direct.
 
+{{< cta2 >}}
+
 ## Writing Clear and Concise Sentences
 
 Technical writing aims to transfer complex knowledge to a broader audience. Therefore, clarity is a top priority. Write short sentences with precise, strong, and specific verbs that leave no room for misinterpretation. Concentrate on the actual facts and avoid marketing speak. Technical writing does not want to convince the reader, because they are already convinced by the time they are reading the document.
@@ -68,8 +70,6 @@ Most likely, you are more familiar with clean code principles than writing skill
 - Eliminate or reduce extraneous words (i.e. at this point in time → now, determine the location of → find)
 - If a sub-clause introduces a new idea, consider putting it in the main clause.
 - Convert long sentences into lists.
-
-{{< cta2 >}}
 
 ## Simple but Undervalued: Lists & Tables
 

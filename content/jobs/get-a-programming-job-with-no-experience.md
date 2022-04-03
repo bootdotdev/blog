@@ -73,6 +73,8 @@ This is no different than putting on a suit to go to an interview. **Put your be
 
 More to the point: **Google your name.** See what shows up. Tailor your online presence to suit your goals. The internet may be a giant, unwieldy leviathan, but that doesn't mean you can't carve off a piece of it and use it for yourself.
 
+{{< cta2 >}}
+
 ## Get to Work
 
 Portfolios are all well and good, but what do you put in them? Well, for lack of a better term... your programming experience. Fortunately 'experience' is a subjective term that can mean a lot of things, and so, we have a broad list of options to choose from when it comes to making our own. If you think you need to land a programming job to have programming experience, well, you're wrong.
@@ -92,8 +94,6 @@ You may be wondering: If I can make my own company, why would I need to get a jo
 File for an LLC or DBA, build an app or two, publish those apps in an app store, and voila. Software development company. You can then list yourself as a software developer for the company you just made, and its all completely legitimate. What's more, since you've basically created your own startup, this proves to potential employers that you have initiative.
 
 Spruce up your company with a well-made website and sleek app design, and you have essentially given your resume the equivalent of a three-piece suit and a haircut.
-
-{{< cta2 >}}
 
 ## Prepare Yourself
 

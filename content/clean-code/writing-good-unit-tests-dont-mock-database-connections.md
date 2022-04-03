@@ -180,6 +180,8 @@ With this code, we could now write a unit test that calls the entire `saveUser` 
 - We have made the _real_ code harder to find by abstracting it behind an interface.
 - The fact that `saveUser` was hard to test was a great signal to us as developers that it needed refactoring. We've silenced a good signal that our code needs to be cleaned up.
 
+{{< cta2 >}}
+
 ## Don't test your dependencies, ensure they pass their own tests
 
 Building on the example of the refactored `saveUser` function before, we sill have two functions that are likely dependent on third party libraries, namely the `hash` function and the `saveUserToDB` function. If we've written our code well, those functions shouldn't do much more than encapsulate a libraries API.

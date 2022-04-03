@@ -124,6 +124,8 @@ It also has a massive community behind it, and for nearly 30 years it has champi
 
 Needless to say, there is no comparison when it comes to JavaScript and frontend development, and it indisputably gets the point for this section.
 
+{{< cta2 >}}
+
 ## Which One Should You Learn: The Final Results
 
 To figure out which language you should learn, you really need to ask yourself “do you want to work in web development?” And if so, then in backend, frontend, or both?

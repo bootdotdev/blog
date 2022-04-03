@@ -97,6 +97,8 @@ Artificial intelligence and Machine Learning are at the forefront of many new te
 - Influence project priorities, deadlines, and deliverables
 - Serve as a key resource to team members on engineering best practices, design, and coding standards
 
+{{< cta2 >}}
+
 ## DevOps Specialist - $125,000/yr
 
 DevOps is a blanket term that includes philosophies, practices, and tools that increase the ability of an organization to deliver software. The idea is to blur the line between software management, deployment, testing, and development to improve products at a faster pace. This speed allows organizations to better serve customers and compete in a growing marketplace.
@@ -114,8 +116,6 @@ DevOps engineers need to have a solid understanding of scripting languages like 
 - Automate repetitive and manual tasks and improve operational maturity
 - Maintain services by measuring and monitoring availability, latency, and overall system health
 - Be part of an engineering team on-call rotation if required
-
-{{< cta2 >}}
 
 ## Engineer, Data - $125,000/yr
 

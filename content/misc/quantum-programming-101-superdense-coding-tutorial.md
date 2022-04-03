@@ -33,11 +33,11 @@ Next the sender has to encode the information they want to send on to q0 by appl
 - If they want to send 10 then they apply a Pauli-Z gate.
 - If they want to send 11 then apply a Pauli-Z gate followed by a Pauli-X gate
 
+{{< cta2 >}}
+
 ## Step 3: Receiver Decodes the Information
 
 Next q0 is sent and the receiver has to decode the qubit. This is done by applying a CNOT where the received q0 is the control and q1 is the target. Then a hadamard gate is applied to q0.
-
-{{< cta2 >}}
 
 ## How To Run The Program
 

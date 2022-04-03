@@ -47,6 +47,8 @@ Currently, the number of people needed in software engineering is still [rapidly
 
 If you're still struggling to find your first job, are wanting to take your career up a level, or you're simply looking for more job security, taking the time to learn more advanced and specialized subjects is the best path.
 
+{{< cta2 >}}
+
 ## How can I become a "computer scientist"?
 
 "Computer scientists" find ways to learn CS in-depth, whether through conventional means like taking classes at a local university or by taking the initiative to relentlessly self-teach online. "Developers" tend to exist on the surface understanding, preferring to learn specific languages, frameworks, and technologies rather than their underpinnings. "Developers" only pick up new skills when they feel the fads of the time are changing.

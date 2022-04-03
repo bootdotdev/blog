@@ -79,6 +79,8 @@ Python gets its readability from using higher levels of abstractions and has str
 
 It’s not all bad, as Python’s coding time is faster. Because its syntax is so simple, you can code programs much faster than in JavaScript. Python also has implementations like Jython and Cython that aim to increase performance, but overall, it’s still not to the level of JavaScript's V8 engine.
 
+{{< cta2 >}}
+
 ## Python vs JavaScript for Machine Learning
 
 When it comes to machine learning, Python’s influence is undeniable.
@@ -100,8 +102,6 @@ It’s also compatible with Google’s famous ML and deep learning library Tenso
 Even with this support, however, it was never adopted by the machine learning community. There are limited resources and no promise of new developments any time soon because current investment is focused on Python rather than JavaScript.
 
 **Hot tip:** Machine learning is largely the application of algorithms that use and learn from data. So, the more [advanced your algorithms](https://qvault.io/advanced-algorithms-course/) are, the better machine learning developer you’ll become.
-
-{{< cta2 >}}
 
 ## Python vs JavaScript for Data Science
 

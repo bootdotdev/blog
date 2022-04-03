@@ -70,6 +70,8 @@ If you want to learn Python fast, the best way is to [find a project](https://qv
 
 Qvault itself also employs a number of smaller projects throughout its courses as a part of its interactive focus on learning. So if you want a more structured environment, but still want the engagement of projects, then Qvault is also a great choice for learning this way.
 
+{{< cta2 >}}
+
 ## The Best Way to Learn Python the Fun Way
 
 After a long day of work, the last thing I want to do is spend my time listening to dull lectures as my eyes begin to blur letters and numbers together. In fact, what I like to do is curl up on the couch and play some games.
@@ -79,8 +81,6 @@ Codewars has created one of the most innovative ways to learn and practice codin
 Code your way through the ranks while you accrue honor, insight into optimized coding techniques, and gain collaborative wisdom from the bustling community currently surrounding the game.
 
 It does require you to prove an understanding of the language you’ll be training with and this will determine what level you’ll start competing at. It’s not a practical option for those new to coding, but for programmers looking to skill up, this is without a doubt one of the coolest ways to learn Python, as well as train the other languages you know.
-
-{{< cta2 >}}
 
 ## The Best Way to Learn Python the Hard Way
 

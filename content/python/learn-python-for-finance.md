@@ -48,6 +48,8 @@ If you’re stumped on how to learn Python for finance, worry no longer. You can
 
 While I’ve found Pythonistas in general to be a friendly, helpful, enthusiastic bunch, it looks like the same is true of the finance-focused Python community too. 
 
+{{< cta2 >}}
+
 ## 5\. It’s the MVP
 
 While I do consider Python to be the most valuable player (if coding languages were in sports leagues), I’m talking about minimum viable products in this section. The finance sector prizes agility and responsiveness as it’s customer-facing.
@@ -57,8 +59,6 @@ In finance, programmers should be able to quickly create a prototype that can be
 If your finance company is a startup, Python is valuable because it helps developers create products quickly and flexibly without wasting resources. If it’s an established corporation, Python is valuable because it increases agility and helps encourage innovation, which is critical for bigger, slower companies. Either way, it’s a great tool for your team.
 
 In sum, Python lets finance coders build a minimum viable product and iterate from there.
-
-{{< cta2 >}}
 
 ## 6\. A Bridge Between Two Worlds
 

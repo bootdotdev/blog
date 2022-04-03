@@ -59,6 +59,8 @@ Median salaries for software engineering careers rank among the highest in any i
 
 According to [data compi](https://www.payscale.com/research/US/Job=Software_Engineer/Salary)[l](https://www.payscale.com/research/US/Job=Software_Engineer/Salary)[ed by PayScale](https://www.payscale.com/research/US/Job=Software_Engineer/Salary), the average hourly wage for software engineers at the end of 2020 is about $35 per hour. However, 10% of entry-level software developers make approximately $20 per hour while the top earners with the most experience and a broad skill set can _earn hundreds of dollars per hour_, especially if they're doing consulting work.
 
+{{< cta2 >}}
+
 ## How Much Does a Software Developer Make a Year Based on Job Title?
 
 Upper management positions in the software engineering field earn impressive annual salaries. While not the average rate, managers can easily make upwards of **$200,000 per year**, especially at larger companies. Salary isn't most the most important thing, however. Often compensation will include equity (ownership) in the company itself. While equity is higher risk than straight cash, it can often result in tens of thousands of dollars in stock value yearly.
@@ -70,8 +72,6 @@ It's often the case that [software engineers who've studied computer science ten
 ![](/img/Screen-Shot-2020-10-31-at-1.37.50-PM-1024x536.png)
 
 Again, it's critical to note that the following figures represent _median_ salaries, not the average salary for every worker globally. Median statistics provide a more balanced look at the range of salaries without outliers affecting the results. If you're interested in a complete breakdown check out our article on the [highest paying CS jobs](https://qvault.io/jobs/highest-paying-computer-science-jobs/).
-
-{{< cta2 >}}
 
 ## Does Location Matter For Developer Salaries?
 

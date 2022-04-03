@@ -83,6 +83,8 @@ Finally, if you have a solid idea of what job you want to go for, speak to as ma
 
 Ultimately, you want to find a way to learn at your own pace. If you can add to that a community of like-minded people to help you along the way, all the better. This is a perfect way to get around the typical limitations of getting a job after coding bootcamp while avoiding going back to college all over again.
 
+{{< cta2 >}}
+
 ## Getting a job after coding bootcamp is closer than you think.
 
 If you’re reading this article after graduating from a coding bootcamp and struggling to get a job, you might feel like you’ve just wasted a ton of time and money and you’re lost as to what to do next.

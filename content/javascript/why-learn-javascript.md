@@ -62,6 +62,8 @@ These assets have grab-and-go JavaScript code that’s been pre-written for your
 
 It’s the difference between building a house from scratch, versus coming to a house that already has the blueprints in place and even a few furnishings that can let you build your dream home faster. You’re still doing the work - and you need to understand how those foundations work, or else you’ll run the risk tearing the whole thing down because you don’t know what you’re doing - but it’s simpler to get the house ready.
 
+{{< cta2 >}}
+
 ## 5\. You’ll find a way to learn.
 
 Many people ask, “why learn JavaScript when there are so many newer languages out there?” When I listed the [most popular coding languages of 2021](https://qvault.io/misc/popular-coding-languages-2021/), I noticed a definite rift. One on hand, relative newcomers like Rust, Go, and Swift are growing rapidly in popularity but don’t have a really wide range of ways to learn yet. [Swift](https://qvault.io/misc/popular-coding-languages-2021/#swift) and [Go](https://qvault.io/misc/popular-coding-languages-2021/#go) are company-sponsored (Apple and Google respectively), and [Rust](https://qvault.io/misc/popular-coding-languages-2021/#rust) users are a tiny minority. No matter how popular in the community, these are bleeding-edge users with a limited set of learning resources. 
@@ -69,8 +71,6 @@ Many people ask, “why learn JavaScript when there are so many newer languages 
 By comparison, I also reviewed languages like Python, Perl and JavaScript that have stood the test of years. Thanks to simply existing longer, they have a much more developed library of assets. There are simply more free JavaScript basics courses (like the [free JavaScript course](https://qvault.io/basic-intro-to-coding-javascript-course/) we have at QVault, created specifically for beginners), more tutorials, more YouTube videos, more free textbooks. Plus, there’s a much larger community of developers who can help you with basic errors and questions on places like [StackOverflow, Discord, and newsletters](https://www.reddit.com/r/reactjs/comments/80f9yz/what_are_some_of_the_best_javascript_communities/). 
 
 When you’re learning a new language, it helps tremendously to know you’re not alone, and to rely on the community around you who’s been where you are now. JavaScript has literal generations of devoted coders who are more than happy to lend their expertise to any novice coder still struggling with the basics, hanging out all over the internet like in QVault’s Discord community. That kind of group feeling can make or break your ability to stick with a language.
-
-{{< cta2 >}}
 
 ## 6\. JavaScript can make you a renaissance programmer
 

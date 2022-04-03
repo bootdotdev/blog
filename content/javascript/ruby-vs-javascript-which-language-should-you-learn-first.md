@@ -100,6 +100,8 @@ JavaScript has a massive community, makes up nearly all of the internet, and if 
 
 With JavaScript, you not only get more versatility, but it’s the field's language, **period**.
 
+{{< cta2 >}}
+
 ## Ruby vs JavaScript: Which Develops Better Web & Mobile Apps?
 
 It’s easy to group web and mobile application development with web development, but in reality, they’re very different concepts.
@@ -117,8 +119,6 @@ JavaScript offers multiple frameworks full of prewritten available code. React, 
 You can also build JS mobile apps with HTML, CSS, and PhoneGap. In this case, PhoneGap is the bridge between the mobile device and the web application codes. And then there’s Ionic, which allows for cross-platform mobile app development.
 
 Essentially, Ruby has the potential to do well in both web development and app development, but it comes down to resources and support. Ruby does not have the investment of developers or companies to make it important to the field, whereas JavaScript has all that and more.
-
-{{< cta2 >}}
 
 ## Ruby vs JavaScript: Which One Should You Learn First?
 

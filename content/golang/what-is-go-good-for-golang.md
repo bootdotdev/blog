@@ -149,6 +149,8 @@ We believe that Go will become a much more widely adopted machine learning langu
 
 - Go is newer, and therefore **has a less extensive library** and community than some languages, such as Python.
 
+{{< cta2 >}}
+
 ## Conclusion: Should You Code in Go?
 
 Go programmers command some of the highest salaries, love writing code with Go, and companies are clamoring to hire Go devs.

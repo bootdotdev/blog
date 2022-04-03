@@ -57,6 +57,8 @@ Front-End Developer Resume Sample - Self-Taught
 
 Mobile Developer Internship Resume Sample - CS Student
 
+{{< cta2 >}}
+
 ## #4 Back-End Development Resume Sample - Self-Taught
 
 [Link to Resume in Google Docs](https://docs.google.com/document/d/1B7tKw2ViDsxMl5ruJxiSpleG0tAuV5bGhn0jvwxQms0/edit?usp=sharing)
@@ -64,8 +66,6 @@ Mobile Developer Internship Resume Sample - CS Student
 ![Back-End Development Resume Sample - Self-Taught](/img/Self-taught-back-end-web-resume-page-001.jpg)
 
 Back-End Development Resume Sample - Self-Taught
-
-{{< cta2 >}}
 
 ## #5 DevOps Resume Sample - CS Student
 

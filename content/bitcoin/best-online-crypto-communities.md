@@ -32,11 +32,11 @@ While the /r/bitcoin subreddit focuses on Bitcoin related news, the /r/cryptocur
 
 Do you like NFTs, Dapps, and web 3.0 discussion? If so, the Ethereum subreddit is where you'll want to be. Ethereum is similar to Bitcoin, the main difference being its execution engine. Etherum is basically a globally distributed virtual machine that allow users to run "smart contracts". The goal is to decentralize generalized computing problems, rather than just money.
 
+{{< cta2 >}}
+
 ## [#5 Steemit](https://steemit.com/)
 
 Steemit was one of the first blockchains to focus on social media. In return for posting content and posts, users may win Steem tokens, which are essentially money. Along with this, they can also like and dislike the available posts. Because of the native utility of crypto on the platform, they obviously have a majority of crypto-related content.
-
-{{< cta2 >}}
 
 ## [#6 Telegram](https://telegramcryptogroups.com/)
 

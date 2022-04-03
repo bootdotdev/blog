@@ -64,6 +64,8 @@ Go has a cleaner syntax with a tighter set of libraries.  It’s helpful for co
 
 If you’re an experienced coder, Golang is a great, easy, and useful language to pick up. You’ll be able to appreciate all the little improvements on other languages that a beginner might not appreciate, like the [naming conventions](https://golang.org/doc/effective_go#names). Go easily wins the battle of Golang vs Python for experienced coders.
 
+{{< cta2 >}}
+
 ## Golang vs Python: Which language is best for a job in computer science? 
 
 Many people, like me, enjoy coding without actually looking for a computer science job. I’m happy as a hobbyist coder who derives the majority of her income from writing. But I’m in the minority.
@@ -83,8 +85,6 @@ As I explained in [my write up of the most popular coding languages of 2021](htt
 - It was written to reduce time debugging and reading code, a very valuable skill
 
 It’s less of a generalized language but better for those companies like Uber, Twitch, Dropbox, and of course Google that are hiring Go developers.
-
-{{< cta2 >}}
 
 ## Golang vs Python: Which language is best for machine learning? 
 

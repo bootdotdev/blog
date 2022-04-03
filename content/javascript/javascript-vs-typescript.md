@@ -101,6 +101,8 @@ Then there’s React.js, a front-end library that essentially upgrades JavaScrip
 
 TypeScript simply adds static types to JavaScript programs, offers rich support for JSX, and safely models mutability. It makes writing correct, maintainable code easier. TS can support back-end and front-end development, just like JavaScript. With that in mind, there isn't a clear winner for which is better on the web.
 
+{{< cta2 >}}
+
 ## TypeScript vs JavaScript for Enterprise Projects
 
 Aside from adding static types and debugging to JavaScript, this is where the value of TypeScript truly shines.
@@ -118,8 +120,6 @@ The biggest benefit of TypeScript for large programs though is its ability to ma
 Even though JavaScript has an endless supply of libraries, it simply doesn’t possess the means to build large-scale projects. Its flexibility is great for small applications and programs where details are everything, but it makes JS unstable for large applications.
 
 TS on the other hand is robust and powerful, which is crucial for enterprise projects.
-
-{{< cta2 >}}
 
 ## JavaScript vs TypeScript: Which Is Better?
 

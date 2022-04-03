@@ -79,6 +79,8 @@ func main() {
 }
 ```
 
+{{< cta2 >}}
+
 ## Example #4 - Replacing in multiple strings (high performance)
 
 If you need to perform the same replacements on many different documents, it can make sense to initialize a [Replacer](https://golang.org/pkg/strings/#Replacer), which is much faster when used repeatedly. It's faster is because it builds a [trie structure](https://en.wikipedia.org/wiki/Trie) under the hood that it keeps in memory, and that structure can be used repeatedly.
@@ -108,8 +110,6 @@ func main() {
 ```go
 func NewReplacer(oldnew ...string) *Replacer
 ```
-
-{{< cta2 >}}
 
 ## Example #5 - Complicated Replacements with Regex
 

@@ -74,6 +74,8 @@ Ecosystems like SciPy make data science tasks much easier. (SciPy is pronounced 
 
 The really exciting thing is that new Python packages for data science are being released all the time as more Pythonistas join the community and make their own contributions. Python libraries for data science are popular and constantly evolving. For instance, Keras is a minimalist library used for deep learning that was released in 2015. Since then, it’s become a critical component of the Python library ecosystem. 
 
+{{< cta2 >}}
+
 ## 6\. Teaches the basics
 
 Even though Python has a practically unlimited number of applications, there’s actually a lot of overlap between learning Python and data science. You can easily learn data science basics with Python just by running through some basic tutorials. Data scientists use Python for retrieving, cleaning, visualizing and building models - so if you want to use Python to learn data science, that’s where you can start.
@@ -81,8 +83,6 @@ Even though Python has a practically unlimited number of applications, there’s
 As you go through the standard track of learning how to code in Python, you’ll cross over with some data science basics by default. For example, you’ll start by learning how to set up your environment, importing data, cleaning it, running some statistical analyses on it, creating some nice visualizations, and sharing your findings. And look at that - you’ve done some data science with Python.
 
 As long as you keep typical data science tasks in mind as you look for Python tutorials, you’ll easily be able to find plenty of resources that teach you Python - and simultaneously teach you Python for data science, specifically. Learning basic Python for data science is a natural learning path.
-
-{{< cta2 >}}
 
 ## 7\. Data cleaning is a breeze
 

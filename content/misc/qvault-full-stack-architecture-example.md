@@ -57,11 +57,11 @@ Here are some more of the technologies I use on the backend:
 
 I really like [PostgresQL](https://www.postgresql.org/). I'm of the opinion that it's one the best general-purpose solution for new apps, though I do try to build my apps so [I can move to more specialized storage mechanisms](https://qvault.io/clean-code/death-taxes-and-database-migrations/) if need be. The application backend uses this Postgres instance running in Google Cloud SQL to persist things like user preferences, exercise completions, etc.
 
+{{< cta2 >}}
+
 ## Payments - Stripe
 
 Not too much to say about Stripe, other than it makes payments pretty seamless for our [pro accounts](https://app.qvault.io/pricing). My biggest complaint about Stripe is that I had to write an annoying about of code for the "lifetime subscription" option because Stripe doesn't have that built-in.
-
-{{< cta2 >}}
 
 ## Deployments and source control - Github/Github Actions
 

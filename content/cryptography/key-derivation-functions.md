@@ -77,11 +77,11 @@ childTwo = kdf(masterKey, saltTwo, difficulty)
 childThree = kdf(masterKey, saltThree, difficulty)
 ```
 
+{{< cta2 >}}
+
 ## Key Strengthening
 
 Strengthing extends a key with a random salt, but then [deletes the salt](https://en.wikipedia.org/wiki/Key_derivation_function) so it can't be used again. This makes the resulting key stronger without adding significant vulnerabilities to the system.
-
-{{< cta2 >}}
 
 ## Should I Use KDFs?
 

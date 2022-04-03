@@ -44,13 +44,13 @@ Many universities, along with the typical majors and minors, offer the option to
 
 However, they can sometimes overlap with your existing skill set, meaning you’ll waste time on stuff you already know, or they can be too specialized and complex, not suitable for entry-level computer science hopefuls. They’re also tied to the university’s schedule, so they’re not as convenient as other options here.
 
+{{< cta2 >}}
+
 ## The general knowledge certificate
 
 You can also get a certificate in computer science that comes from places like Coursera. These often offer a wider variety of options for computer science certification, from beginners to advanced specialties, and they’re more convenient since they’re built to help you [learn computer science online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/). 
 
 Ultimately, the best way to leverage a certificate in computer science is to prove you have the general knowledge required for the job you want to do. The right certificate will help you accomplish those goals. 
-
-{{< cta2 >}}
 
 ## Step 3: Focus on what a certificate in computer science will give you
 

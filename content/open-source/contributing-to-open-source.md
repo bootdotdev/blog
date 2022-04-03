@@ -50,11 +50,11 @@ This will help mitigate the creation of pointless PRs that will never be accepte
 
 Some codebases have thousands of open issues, take the [Go language](https://github.com/golang/go) project or the [nocode repository](https://github.com/kelseyhightower/nocode) as an example. No one wants to read your duplicate issue or review your duplicate pull request. Make sure there isn't an existing open _or closed_ issue for what you are trying to address.
 
+{{< cta2 >}}
+
 ## 5\. Squash Those Commits
 
 Not every project will require (or care) about [commit squashing](https://github.com/wprig/wprig/wiki/How-to-squash-commits). That said, there are no projects that require _not_ squashing commits. To be on the safe side just give 'em a squash.
-
-{{< cta2 >}}
 
 ## 6\. Be Meaningful
 

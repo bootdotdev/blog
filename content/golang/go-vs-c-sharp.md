@@ -80,6 +80,8 @@ The same trend is seen globally, with Golang developers raking in $74k a year in
 
 And just to add insult to injury, Go was also ranked above C# as most loved and most wanted by developers on the same survey, so if the pay isn’t convincing enough, maybe its popularity amongst professionals is.
 
+{{< cta2 >}}
+
 ## C# vs Go: Which Is Best for Web Development?
 
 Both languages possess the bandwidth to work in web development, but one does it better.
@@ -93,8 +95,6 @@ Golang, on the other hand, was built to handle one of the largest and most compl
 Go’s also incredibly fast, managing its multithreading system seamlessly with static typing and a cutting-edge garbage collector. It’s not compatible with as many frameworks as C#, but you don’t need really them.
 
 When it comes to web development, C# offers more versatility in terms of adding 3rd party tools, but as a single-thread language by default. building out a multi-threaded application can be painful.
-
-{{< cta2 >}}
 
 ## Go vs C#: Which Is Best for Game Development?
 

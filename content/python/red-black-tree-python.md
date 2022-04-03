@@ -177,6 +177,8 @@ def rotate_right(self, x):
     x.parent = y
 ```
 
+{{< cta2 >}}
+
 ## Step 6 - Fix insert
 
 The real bread and butter is in this step, it's what makes a red-black tree balanced.

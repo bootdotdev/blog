@@ -91,6 +91,8 @@ The confidentiality and integrity protection provided by cryptographic protocols
 
 Cryptography isn't only useful for data in transit, it can also be used to protect data at rest. Data that is simply stored on a disk in a database can be encrypted to prevent future accesses from reading it. This kind of encryption happens when you lock your phone or computer and keeps your information safe if your devices are stolen.
 
+{{< cta2 >}}
+
 ## Types of cryptography
 
 There are three main types of cryptography:
@@ -133,8 +135,6 @@ The third most common type of cryptography involves [hash functions](https://qva
 However, because the same plaintext will always hash to the same output, it can be used to, for example, compare passwords without ever storing them.
 
 Popular hashing functions include [SHA-256](https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/), [Bcrypt](https://qvault.io/golang/bcrypt-step-by-step/), and [Scrypt](https://qvault.io/cryptography/very-basic-intro-to-the-scrypt-hash).
-
-{{< cta2 >}}
 
 ## Cryptology vs cryptography vs cryptanalysis
 

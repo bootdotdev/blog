@@ -147,13 +147,13 @@ HTML can combine JavaScript within scripts that convert HTML's static form into 
 
 HTML tells the web page what it should display rather than how it should display it, whereas JavaScript instructs the web page on how exactly the data and content should be displayed. 
 
+{{< cta2 >}}
+
 ## HTML vs JavaScript: Browser compatibility
 
 HTML is compatible with all browsers, whereas JavaScript can occasionally run into compatibility issues due to different versions of the language being supported by different browsers. Additionally, some browsers (or their users), turn off JavaScript completely, which unsurprisingly breaks most websites.
 
 However, all major browsers support dynamic JavaScript content and unless you use an outdated or extremely niche browser, you'll never run into any JS compatibility issues.
-
-{{< cta2 >}}
 
 ## HTML vs JavaScript: server-side or client-side
 

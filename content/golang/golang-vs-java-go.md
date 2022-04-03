@@ -78,6 +78,8 @@ What you lose in excess libraries and tech stacks, you gain in speed and perform
 
 **Conclusion:** Deciding which language is better for professionals depends on what kind of applications you’re developing. Java is better for those working on complex applications and Golang is best for more sizeable developments.
 
+{{< cta2 >}}
+
 ## Java vs Go: Which Is Better Paid?
 
 While it’s nice to think we’re in tech for the passion, a key factor in learning new skills or a new programming language is the salary.
@@ -89,8 +91,6 @@ That's $20,000 more per year than Java developers, who on average earned $120,00
 Companies want applications and systems developed faster and more efficiently than ever before, and with Golang created to perform those functions, demand for Go programmers is through the roof -- and with that demand comes high salaries.
 
 **Conclusion:** Go devs earn more than Java devs on average.
-
-{{< cta2 >}}
 
 ## Java vs Go: Which Is Best for Web Development?
 

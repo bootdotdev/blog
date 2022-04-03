@@ -51,6 +51,8 @@ An example heuristic for this problem is a greedy algorithm, which sorts the ite
 
 Search engine optimization has been sought after for as long as search engines have been around. Individuals using search engines want to find the information they are looking for as swiftly as possible. With such an incredible amount of information available, search engines must utilize heuristics in order to expedite the search process. At the start, a heuristic could try each possibility at each step, but as the search continues, it can choose to stop the search at any time if the current possibility is worse than the best solution already located. In this way, the search engine can be optimized for speed and correctness.
 
+{{< cta2 >}}
+
 ## Applying Heuristics to Your Algorithms
 
 In order to apply heuristics to your algorithms, you need to know the solution or goal you're looking for ahead of time. If you know your end goal, you can specify rules that can help you achieve it. If the algorithm is being designed to find out how many moves a knight can make on a square, 8x8 chessboard while visiting every square, it's possible to create a heuristic that causes the knight to always choose the path with the most available moves afterward.

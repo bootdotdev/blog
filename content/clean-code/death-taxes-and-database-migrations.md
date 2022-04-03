@@ -46,6 +46,8 @@ Forget about changing a database schema for a second, the only thing worse than 
 
 Think of your database choice as a tool. If you aren't careful, that tool will morph into a more invasive framework.
 
+{{< cta2 >}}
+
 ## #4 Careful about what you save to disk
 
 ![](/img/programming_meme.jpg)
@@ -53,8 +55,6 @@ Think of your database choice as a tool. If you aren't careful, that tool will m
 I won't go into too much detail on this one either, as I wrote [a whole article on keeping your data simple at rest](https://wagslane.dev/posts/keep-your-data-raw-at-rest/). That said, I'll give you another tl;dr. If you can get away from storing calculated data in your database, you'll never have to move it. In other words, the less you save, the easier your life is. Let me provide an example.
 
 Let's say you have a `height` variable for each user in your database. Now, on the front-end of your application, you need to show everyone who is over 6ft tall that they should get a special size of shirt. You _could_ add a new boolean field in your database, `is_tall` that's set to true for people over 6 feet. My point is that your life will be easier if you do that calculation in your application code each time you query someone's height. If you never save it to disk, you'll never have to migrate it.
-
-{{< cta2 >}}
 
 ## #5 Keep your dependencies organized
 

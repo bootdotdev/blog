@@ -36,6 +36,8 @@ SHA-2 is a successor to the SHA-1 hash and remains one of the strongest hash fu
 
 SHA-256 is formally defined in the National Institute of Standards and Technology's [FIPS 180-4](http://csrc.nist.gov/groups/ST/toolkit/secure_hashing.html). Along with standardization and formalization comes a list of [test vectors](http://csrc.nist.gov/groups/ST/toolkit/examples.html#aHashing) that allow developers to ensure they've implemented the algorithm properly.
 
+{{< cta2 >}}
+
 ## Step-by-step SHA-256 hash of "hello world"
 
 ### Step 1 - Pre-Processing
@@ -352,8 +354,6 @@ f = DF4E1862 = 11011111010011100001100001100010
 g = 71051E01 = 01110001000001010001111000000001
 h = 870F00D0 = 10000111000011110000000011010000
 ```
-
-{{< cta2 >}}
 
 ## Step 7 - Modify Final Values
 

@@ -111,6 +111,8 @@ Let’s walk through an example algorithm I’m making up on the fly for this de
 
 As you can see, if you start with the same word at the beginning, you will always get the same output at the end. However, if you even change one letter, the outcome will be drastically changed.
 
+{{< cta2 >}}
+
 ## Disclaimer
 
 On the steps where I convert from English to binary, and from binary to English, I followed no pattern. Don’t let that confuse you. There are many [different ways to convert binary data to English](https://qvault.io/2020/11/03/base64-vs-base58-encoding/) and back, I just didn’t want to get hung up on that in this article.

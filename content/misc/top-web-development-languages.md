@@ -119,6 +119,8 @@ Traditionally, Python has been very widely used in the following industries:
 - Machine Learning
 - FinTech and the Financial Industry
 
+{{< cta2 >}}
+
 ## 5\. Java
 
 ### What Is It?
@@ -136,8 +138,6 @@ Many tout that Java is much easier to learn than the likes of C or C++. However,
 ### Where Is It Used?
 
 Java is the primary language used by some of the most influential software companies around, including IBM and Oracle. In addition, most native Android apps for smartphones and tablets are coded in Java.
-
-{{< cta2 >}}
 
 ## 6\. C#
 

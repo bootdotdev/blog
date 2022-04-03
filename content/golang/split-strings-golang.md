@@ -140,6 +140,8 @@ func main() {
 }
 ```
 
+{{< cta2 >}}
+
 ## Gotcha - Strings in Go are special
 
 If you work with a lot of strings, you should know that [Go handles strings differently](https://blog.golang.org/strings) than other languages like Java, C, and Python. Strings in Go are read-only slices of bytes, and those bytes are arbitrary-they can be anything. Strings in Go are not required to contain Unicode text, UTF-8 text, or any other encoding format.

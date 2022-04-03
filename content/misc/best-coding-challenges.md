@@ -116,6 +116,8 @@ This is far from a comprehensive list of coding challenges, so I’ve listed som
 - [Project Euler](https://projecteuler.net/) is less career-focused, and more about challenging your understanding of basic computer science principles. The challenges there serve as a great baseline for your fundamentals.
 - [Exercism.io](https://exercism.io/) helpfully breaks challenges down by language, so you can choose if you want a Python coding challenge, one for Julia, or any of their other 50 language tracks.
 
+{{< cta2 >}}
+
 ## Coding challenges are a great way to boost your skills
 
 Maybe you’re doing it for fun. Maybe you’re doing it to polish your language skills. Maybe you’re trying to get a job. No matter what your need, these coding challenges are a great resource to help motivate you to accomplish whatever it is you’re trying to do with coding. 

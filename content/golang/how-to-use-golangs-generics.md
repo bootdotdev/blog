@@ -120,6 +120,8 @@ func main() {
 }
 ```
 
+{{< cta2 >}}
+
 ## Custom constraints
 
 ### Parametric constraints
@@ -165,8 +167,6 @@ Cloneable interface {
     Clone() Cloneable
 }
 ```
-
-{{< cta2 >}}
 
 ## Generic Types vs Generic Functions
 

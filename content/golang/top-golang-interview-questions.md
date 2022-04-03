@@ -44,6 +44,8 @@ Go doesn't use a package manager like NPM or Cargo. The Go toolchain provides co
 var1, var2 = var2, var1
 ```
 
+{{< cta2 >}}
+
 ## 5\. Do you have any preferences for error handling methodologies in Go?
 
 Errors in Go are an interface type, where any type that implements the single `Error()` method can be considered an error:
@@ -87,8 +89,6 @@ s1 := primes[1:4]
 `s1` will be: `[3 5 7]`
 
 When slicing an existing array or slice the first index is inclusive while the last index is exclusive. If an index is omitted on one side of the colon, then all values until the edge of the original slice are included in the result.
-
-{{< cta2 >}}
 
 ## 9\. Are channels and maps safe for concurrent access?
 

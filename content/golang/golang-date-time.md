@@ -124,6 +124,8 @@ tzOffset := 60*60*5 // seconds east of UTC
 loc := time.FixedZone(tzName, tzOffset)
 ```
 
+{{< cta2 >}}
+
 ## Add, subtract and compare times
 
 Times and durations naturally work well together, and several helper functions are available to do basic time arithmetic and comparisons.

@@ -106,6 +106,8 @@ I wasn’t kidding earlier when I said C++ is a drawn-out, complex, and lengthy 
 
 Features that make Go fun and easy to use, like the garbage collector, end up adding drag to the performance time, whereas C++’s minimalist and traditional structure makes it perfect for boosting performance.
 
+{{< cta2 >}}
+
 ## Golang vs C++: Which Has Better Security?
 
 Programming languages are either built for power or safety, and if C++ offers better performance, then you can probably guess which language has the better security.
@@ -119,8 +121,6 @@ Now, this may not sound too bad, except this anomaly can cause the program to cr
 Buffer overflows aren’t naturally a part of C++, but it’s an easy mistake for coders to make if they’re not careful. What gives Go the advantage here is its limitations in the code that prevent this from happening. It doesn’t give coders the option to buffer overflow.
 
 For instance, with Go, you can’t use pointer arithmetic, meaning you can’t step through arrays using pointer values, you have to access them using an index. This forces you to use methods that include checks and bounds, that prevent overflows.
-
-{{< cta2 >}}
 
 ## Advantages of Go vs C++ for Experienced Programmers
 

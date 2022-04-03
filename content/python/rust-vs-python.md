@@ -102,6 +102,8 @@ The community truly does make or break a language's potential in any field, beca
 
 **Hot tip:** Machine learning is essentially algorithms. Algorithms that leverage statistics to learn patterns and behaviors, so the more [advanced you are with algorithms](https://qvault.io/advanced-algorithms-course/) the better your ML skills become.
 
+{{< cta2 >}}
+
 ## Rust vs Python for Data Science
 
 Much like machine learning, Python also reigns supreme in data science, and for similar reasons.
@@ -119,8 +121,6 @@ Rust has potential, but it struggles with visual implementations and has few dat
 The community also isn’t as big, but it’s very excited about the possibilities Rust poses for the industry. So, it’s not a complete no, but if you’re keen to work as a data scientist now, then Python is your best bet. But definitely keep a lookout for Rust in the future.
 
 **Hot tip:** Once you’re comfortable with Python, take a [Big O data structure class](https://qvault.io/big-o-data-structures-course/) to improve how you interact with the data.
-
-{{< cta2 >}}
 
 ## Rust vs Python for System Development
 

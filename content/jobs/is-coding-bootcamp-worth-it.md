@@ -79,6 +79,8 @@ Plus, you’ll have to do a lot of the legwork proving you’re worth a chance. 
 
 There are also places to get a [computer science certificate online](https://qvault.io/jobs/guide-to-certificate-in-computer-science/) that are much more accessibly-priced than both coding bootcamps and computer science degrees. For example, [Qvault](https://qvault.io/) is an online computer science learning platform that offers courses in coding fundamentals, computer science basics, Go, practical cryptography, and more. Qvault charges on a monthly or yearly basis, which comes to between $144 to $480 for two years’ worth of access. It also hosts a portfolio where you can show potential employers the skills and experience you've gained.
 
+{{< cta2 >}}
+
 ## What's the right choice for me?
 
 At the end of the day, only you can answer that. Is a coding bootcamp worth it? Should you aim for a diploma instead? Can you lean into a [self-taught curriculum](https://github.com/qvault/curriculum)? Is an online certificate enough for you? I can’t answer that for you, because the right answer differs for everyone. 

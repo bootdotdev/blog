@@ -109,6 +109,8 @@ As the TinyDate [Readme](https://github.com/wagslane/go-tinydate/blob/master/REA
 
 The main reason? Timezones are the most memory heavy part of a time.Time struct, yet the best practice is **usually** to store dates and times only in UTC. TinyDate stays tiny by always storing dates in UTC, but still gives the ability to calculate dates in other timezones via methods like [ParseInLocation](https://godoc.org/github.com/wagslane/go-tinydate#ParseInLocation) [FromTime](https://godoc.org/github.com/wagslane/go-tinydate#FromTime) and [ToTime](https://godoc.org/github.com/wagslane/go-tinydate#TinyDate.ToTime).
 
+{{< cta2 >}}
+
 ## API
 
 The tinydate.Tinydate API largely mirrors that of time.Time. The only methods missing are the ones that make no sense without timezone or intra-day support. Check out the godoc for reference: [https://godoc.org/github.com/wagslane/go-tinydate](https://godoc.org/github.com/wagslane/go-tinydate)

@@ -64,6 +64,8 @@ def encrypt(plain_text, password):
 5. [Base64](https://qvault.io/cryptography/base64-vs-base58-encoding/): We encode all of our bytes-type data into base64 a convenient string representation
 6. [Tag (MAC)](https://qvault.io/cryptography/hmac-and-macs-in-jwts/): The tag is used to authenticate the data when using AES in GCM mode. This ensures no one can change our data without us knowing about it when we decrypt.
 
+{{< cta2 >}}
+
 ## Decrypting
 
 ```py

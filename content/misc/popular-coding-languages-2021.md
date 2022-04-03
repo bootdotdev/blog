@@ -64,6 +64,8 @@ If you’re looking to get a job in anything that isn’t programming, R is the 
 
 [source](https://st1.ning.com/topology/rest/1.0/file/get/3840441960?profile=original)
 
+{{< cta2 >}}
+
 ## Why it’s popular for this purpose
 
 In their R versus Python tutorial, [Datacamp writes](https://s3.amazonaws.com/assets.datacamp.com/email/other/Python+vs+R.pdf) that R is used by “statisticians, engineers, and scientists without computer programming skills. It’s popular in academia, finance, pharmaceuticals, media, and marketing.” 
@@ -71,8 +73,6 @@ In their R versus Python tutorial, [Datacamp writes](https://s3.amazonaws.com/as
 R is the most popular coding language for people who don’t code in their jobs for a few very valid reasons. First, it’s open-source. Like Python, there’s no need to pay any money. It also has an [integrated development editor, RStudio](https://rstudio.com/products/rstudio/download/), that makes it even easier to use. It has a robust ecosystem of open source packages that make it very simple for anyone to run statistical analysis in a few lines of code and create a publication-ready graphic in just a few more lines.
 
 **Read more:** [Python vs R: Compared](https://qvault.io/python/r-vs-python/)
-
-{{< cta2 >}}
 
 ## The best way to learn R for non-programmers
 

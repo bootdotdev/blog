@@ -96,6 +96,8 @@ Rust gives the programmer fine-grained control over how the code interacts with 
 
 Honestly, you probably shouldn't learn Rust _first_. That said, Rust is arguably the best _second_ language on the list. Rust is probably the most complex language on this list, but along with that complexity comes power, speed, and ultimately the opportunity for the developer to learn more about how code interacts directly with the hardware.
 
+{{< cta2 >}}
+
 ## Performance Benchmarks
 
 ### Go vs Rust
@@ -115,8 +117,6 @@ Honestly, you probably shouldn't learn Rust _first_. That said, Rust is arguably
 ![](/img/Screen-Shot-2020-10-06-at-7.42.24-PM-1024x543.png)
 
 [Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html)
-
-{{< cta2 >}}
 
 ## Relevant Stack Overflow Popularity Graphs
 

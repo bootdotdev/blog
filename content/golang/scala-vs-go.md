@@ -70,6 +70,8 @@ According to [Payscale](https://www.payscale.com/research/US/Skill=Go_(Golang)_P
 
 **Conclusion:** The data has Scala as the highest-paid language, with Go second. However, both of these are very highly paid.
 
+{{< cta2 >}}
+
 ## Go vs Scala Performance
 
 When comparing Go and Scala’s performance, things can get a bit misty. Opinions vary widely on which language performs better, but like most things on this list, it comes down to what you’re using the language for.
@@ -83,8 +85,6 @@ Go was also built to handle Google’s massive network servers with low RAM and 
 The same pattern is seen with stream processing. When Scala developers use Akka, the process becomes more complex, but they get a massive ecosystem and more functionality, and while Go only has its native tools, it can scale up in the future.
 
 **In a nutshell,** nothing about comparing Go’s and Scala’s performance is straightforward, however, Go’s advantage is it supports advanced performance without the need for any additional frameworks. This creates a more streamlined experience for the developer, and its low CPU usage also makes it cheaper to run.
-
-{{< cta2 >}}
 
 ## Scala vs Go: Which Is Best for Web Development?
 

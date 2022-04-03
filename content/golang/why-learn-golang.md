@@ -50,6 +50,8 @@ The benefits of this may be harder for beginner programmers to understand, becau
 
 Essentially, Go is great for beginners because [you can do multiple things at once](https://stackoverflow.blog/2020/11/02/go-golang-learn-fast-programming-languages/) easily. Most production software systems need to be able to do lots of things all at the same time. While other languages often have mechanisms to accomplish this, they can be overly-complex, slow, or result in buggy code. Go is frequently recognized by the developer community as a leader in simplifying concurrent applications.
 
+{{< cta2 >}}
+
 ## 4\. Go can help you land a job at Google (or other large companies)
 
 The most practical answer to _"Why learn Golang?"_ is that it can help you get a job [faster](https://qvault.io/2021/02/22/learn-coding-fast/). Go was developed by Google and was designed to be powerful, yet simple to use and learn. Learning the language one of the largest tech companies developed and built specifically to help with the problem of complexity will give you a leg up.
@@ -59,8 +61,6 @@ The most practical answer to _"Why learn Golang?"_ is that it can help you get a
 > [Rob Pike](https://talks.golang.org/2012/splash.article#:~:text=Go%20is%20a%20programming%20language,and%20the%20software%20is%20big.)
 
 Several big user-facing Google services use it, including Youtube and dl.google.com (the download server that delivers Chrome, Android, and other downloads). Google’s enormous influence means that other lare companies have also seen the value Go provides and [have adopted it](https://talks.golang.org/2012/splash.article#:~:text=Go%20is%20a%20programming%20language,and%20the%20software%20is%20big.) themselves, including BBC Worldwide, Canonical, Heroku, Nokia, and Soundcloud. 
-
-{{< cta2 >}}
 
 ## 5\. Go provides the best hourly freelancing rate
 

@@ -308,6 +308,8 @@ for k, v := range m {
 
 I want to point out that `map[string]interface{}` should _only_ be used when you absolutely have to. If you have a priori knowledge of the shape of the data, _please_ use a `struct` or some other concrete type. Avoid the dynamic typing provided by interfaces when working with JSON, if you want, you can always [use anonymous structs for one-off usage](https://qvault.io/golang/what-are-golangs-anonymous-structs/).
 
+{{< cta2 >}}
+
 ## Streaming JSON encodings
 
 Sometimes you don't have the luxury of reading all the JSON data to or from a `[]byte`. If you need to be able to parse data as it's streamed in or out of your program the `encoding/json` package provides `[Decoder](https://golang.org/pkg/encoding/json/#Decoder)` and `[Encoder](https://golang.org/pkg/encoding/json/#Encoder)` types.
@@ -333,8 +335,6 @@ for {
     }
 }
 ```
-
-{{< cta2 >}}
 
 ## Pretty printing JSON
 

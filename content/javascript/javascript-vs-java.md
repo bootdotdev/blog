@@ -86,6 +86,8 @@ In Java, **everything** is a class and OOP is enforced in an authoritarian manne
 
 In JavaScript, classes are optional, and [functional programming](https://qvault.io/intro-to-functional-programming/) is possible and even [encouraged](https://qvault.io/2021/02/25/benefits-of-functional-programming/) lately. JavaScript has most of the OOP paradigms available in the language. However, [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) is not as robust as it is with Java.
 
+{{< cta2 >}}
+
 ## Threading and Concurrency
 
 **JavaScript is single-threaded**, which means that it will never execute code at the same time. Concurrent programming is a feature of most languages, and JavaScript is fairly unique in not being able to accomplish the task.

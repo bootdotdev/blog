@@ -80,6 +80,8 @@ const (
 
 With that in mind, remember that just because you _can_ doesn't mean you _should_.
 
+{{< cta2 >}}
+
 ## Using enums that skip values
 
 If you want to skip a value just use the `_` character like you do to ignore return variables.

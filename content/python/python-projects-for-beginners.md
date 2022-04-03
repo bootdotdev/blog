@@ -166,6 +166,8 @@ Naturally, AWS doesn't own this data - they just host it for a variety of govern
 
 Have a browse, poke around, and find what looks interesting to you.
 
+{{< cta2 >}}
+
 ## The best Python projects for beginners are deeply, deeply interesting.
 
 I reject the idea that Python programming projects for beginners have to be easy. Instead, I think it's much more important that the projects are fascinating, gritty, challenging, and rewarding. This list of Python project topics for beginners will probably push you to your limits, will make you angrily smash your keyboard, and might even cause you to struggle. 

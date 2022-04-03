@@ -288,6 +288,8 @@ Computational theory, apart from pure math, is one of the most "pure" computer s
 - Study finite automata and how they can be used to model real-world problems
 - Understand the limits of computational models and the real-world systems that rely on them
 
+{{< cta2 >}}
+
 ## Optional Topics - Choose at Least 2
 
 ### 1 - Cryptography
@@ -419,8 +421,6 @@ While AI and ML used to be fairly niche fields, they are becoming more and more 
 - Implement and use search algorithms,
 - Design and implement propositional logic to solve problems
 - Design and implement Bayesian networks to solve problems
-
-{{< cta2 >}}
 
 ## Good Luck!
 

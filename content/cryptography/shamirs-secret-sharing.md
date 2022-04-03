@@ -91,6 +91,8 @@ y = 1954 + 43\*4 + 12\*4^2 = 2318
 
 (4, 2318)
 
+{{< cta2 >}}
+
 ## Reconstruction
 
 Each participant in our scheme now owns one `(x,y)` point, which is a single share. Remember that we set our threshold to 3 and that 3 points define a parabola (polynomial of degree 2) perfectly. That means that if we use three points, we can draw a parabola and calculate a0 (the secret). Let's assume we have control of shares 1, 2, and 4.
@@ -108,8 +110,6 @@ Each participant in our scheme now owns one `(x,y)` point, which is a single sha
 ![shamirs secret sharing shares](/img/shamirs-secret-sharing-shares-1024x555.jpg)
 
 In our case, the secret is `1954`.
-
-{{< cta2 >}}
 
 ## It's not actually that simple. We need finite fields.
 

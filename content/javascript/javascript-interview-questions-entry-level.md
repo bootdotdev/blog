@@ -90,6 +90,8 @@ console.log("Him & I are \"good\" friends.")
 
 The `\` character is used before the double quotes to be able to use these in the string.
 
+{{< cta2 >}}
+
 ## 5 -- Explain the `.pop()` and `.push()` methods using the following array:
 
 ```js
@@ -132,8 +134,6 @@ const doubledPrimes = primes.map(x => x * 2);
 console.log(doubledPrimes);
 // expected output: Array [6, 10, 14, 22]
 ```
-
-{{< cta2 >}}
 
 ## 7 -- Write a loop that prints every number divisible by 3 from 1-200:
 

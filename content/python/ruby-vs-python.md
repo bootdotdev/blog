@@ -80,13 +80,13 @@ However, there's a huge demand for specialized Ruby Developers. Remember how man
 
 [StackOverflow’s survey](https://insights.stackoverflow.com/survey/2021#work-salary) suggests Ruby developers may _currently_ earn a higher salary - the average salary is around $80k, with 11-12 years of experience. Python, by comparison, earns an average salary of $61k with 9-10 years of experience. Interestingly, this may be a remnant of old trends. [Current predictions](https://www.bitdegree.org/tutorials/ruby-vs-python/) looking at job postings, rather than the salary of existing developers, suggest that Python developers earn more than Ruby developers today.
 
+{{< cta2 >}}
+
 ## 6\. Ruby vs Python: Which is best for Artificial Intelligence/Machine Learning/Deep Learning?
 
 As I mentioned in the section above, Python’s strength is definitely in AI/machine learning/deep learning (all of which are kind of the same thing). There's no particular reason why Python is better, other than the fact that there is a rich ecosystem of libraries and frameworks around AI, machine learning, and deep learning. Libraries include Scikit, NumPy, TensorFlow, Keras, and more.
 
 Plus, new libraries are developed and shared on a regular basis. Ruby is mostly used for Ruby on Rails, whose usefulness kind of caps out at web application development.
-
-{{< cta2 >}}
 
 ## 7\. Ruby vs Python: Which is best for productivity?
 

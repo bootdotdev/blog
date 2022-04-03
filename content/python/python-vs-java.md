@@ -90,6 +90,8 @@ This all circles back to my comment on being a great language not only for profe
 
 Java doesn’t hold much weight in video games, but it does well on mobile games and web-based games using Flash, however, it’s not iOS compatible and only works with Android mobile games. It'll only add value to your skillset if you’re solely focusing on the Android mobile gaming market.
 
+{{< cta2 >}}
+
 ## Machine Learning in Java vs Python
 
 Artificial Intelligence (AI) and Machine Learning (ML) are a near necessity nowadays as processing, analyzing, and using data has become integral to every business. Therefore, it should come as no surprise that Python dominates this field.
@@ -105,8 +107,6 @@ Java doesn’t possess the same popularity with ML, and that’s because it wasn
 Java technically has the bandwidth to support the data, but it wasn’t adopted because it’s too complex to experiment nicely with and it’s not flexible. Java also doesn’t have nearly the amount of library groundwork Python does, but that may be because there wasn’t a demand to develop them.
 
 In the end, Python naturally meshed with this field in a way Java couldn’t compete with.  
-
-{{< cta2 >}}
 
 ## Big Data in Python vs Java
 

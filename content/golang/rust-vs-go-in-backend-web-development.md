@@ -57,6 +57,8 @@ There are times during the development of a web application that development spe
 
 It's also worth noting that Go and Rust are both growing in popularity. If you want to read more on that, take a look this related article, ["Rust vs Go - Which is More Popular?"](https://qvault.io/2020/05/06/rust-vs-go-which-is-more-popular/).
 
+{{< cta2 >}}
+
 ## Code Comparison
 
 Now that we've compared and contrasted Rust and Go conceptually, let's take a look at what a simple HTTP server would look like in both languages.
@@ -152,8 +154,6 @@ func main() {
 ```
 
 With Go, on the other hand, it's extremely easy to spin up a production web server, we even get [support for JSON](https://qvault.io/golang/json-golang/), headers, and status codes right from the standard library.
-
-{{< cta2 >}}
 
 ## Concurrency
 

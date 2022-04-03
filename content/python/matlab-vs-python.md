@@ -75,6 +75,8 @@ Plus, Matlab is mostly used in schools and universities. This means that if you 
 
 **Python is indubitably best for getting a job in computer science.**
 
+{{< cta2 >}}
+
 ## Matlab versus Python: Which is best for image processing?
 
 Image processing is a method to extract or enhance an image. While it was first used to enhance lunar images in the 60s, today it has [a much wider use range](https://www.analyticsvidhya.com/blog/2021/05/digital-image-processing-real-life-applications-and-getting-started-in-python/), including image correction, social media filters, medical technology, computer vision, and pattern recognition.
@@ -84,8 +86,6 @@ Matlab is really good at designing and fine-tuning algorithms. It offers a bunch
 Python does offer some external packages for image processing, like Numpy and SciPy. AnalyticsInsight.Net [found](https://www.analyticsinsight.net/understanding-key-differences-python-matlab/) that while both Matlab and Python were able to produce the same results, Matlab was faster.
 
 **While Python can handle image processing, Matlab has native toolboxes designed for image processing, and it's faster.**
-
-{{< cta2 >}}
 
 ## Matlab versus Python: Which is best for machine learning?
 

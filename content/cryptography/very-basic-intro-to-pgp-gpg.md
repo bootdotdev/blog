@@ -57,6 +57,8 @@ Let's go through each step of how a PGP message exchange works:
 
 That's it! If you have questions be sure to reach out on [Twitter](https://twitter.com/wagslane).
 
+{{< cta2 >}}
+
 ## Which Algorithms are Used?
 
 PGP defines in the official [RFC 4880](https://tools.ietf.org/html/rfc4880) which algorithms must and should be supported by PGP clients. Let's go over each one.

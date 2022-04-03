@@ -96,6 +96,8 @@ This will create three new things in your project root:
 - `go.sum` - hashes of dependencies for security reasons
 - vendor directory - source code of all dependencies
 
+{{< cta2 >}}
+
 ## Step 4 - .gitignore
 
 I don't like pre-built `.gitignore` files, I like project-specific ones so I start from scratch. This is my typical starting point:
@@ -126,8 +128,6 @@ CMD ["/bin/sh"]
 We use a lightweight OS, Debian stretch-slim. Remember, we're deploying statically compiled executables! Go is a compiled language, we don't need to include the whole Go toolchain in our deploys.
 
 After that, we just add our executables to the `/bin` directory and launch a shell.
-
-{{< cta2 >}}
 
 ## Step 6 - Github Actions (optional)
 

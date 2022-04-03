@@ -58,6 +58,8 @@ While there probably are textbooks out there for any coding language you like, i
 
 Coding is popular enough that free and paid resources exist for just about any language you may want to learn, no matter whether YouTube videos, courses, or textbooks are right for you.
 
+{{< cta2 >}}
+
 ## What Are Your Expectations about Learning to Code?
 
 If you believe it takes real programmers just three to six months to learn a programming language, and it’s already taken you more than seven months, that can be hugely demoralizing. 
@@ -67,8 +69,6 @@ Equally, if you think that you’ll be ready to change careers after reading one
 That’s why it’s critical, when thinking about how long it will take to learn a coding language, to have discrete goals and milestones. How long do you think it will take? How will you feel when you inevitably struggle? How will you measure and reward your progress? How will you continue investing time and energy into your goal? 
 
 Your expectations will play a big role in how long it takes you to learn to code.
-
-{{< cta2 >}}
 
 ## What Does Success Look like for You?
 

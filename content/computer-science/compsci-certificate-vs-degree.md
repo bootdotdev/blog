@@ -50,6 +50,8 @@ That being said, especially this past year has taught us that it is possible to 
 
 A possible path, if you’re really short on time and money, is to spend some time learning the basics of computer science online, through YouTube videos or even Wikipedia, then tactically choosing courses that will give you a certification in the area that matters most for you for your programming career.
 
+{{< cta2 >}}
+
 ## Do you have any knowledge of computer science basics?
 
 When I started looking for my job, I was familiar with some mathematical and statistical fundamentals thanks to my biology degree, where we covered a lot of math. That, plus my pre-existing knowledge in R, made it relatively easy for me to pick up some SQL on the side. It took me just a few weeks of my evenings to finish the course and proudly add the certificate to my [resume](https://qvault.io/2020/12/14/computer-science-resumes/). 
@@ -59,8 +61,6 @@ If you got your degree in something totally unrelated, you might struggle more t
 One of the brilliant things about existing in this day and age is that there are many generous and clever people online who can give you the knowledge of a degree for free on YouTube, on Medium, or even on Twitter with tutorials and how-tos. All this will give you the skills to shine during your interview - the only thing you need is the piece of paper you can show on your resume to get your foot in the door to start.
 
 By effectively building your own computer science course online and then tactically getting certificates in key areas, you can accomplish the same thing a degree would, for a heck of a lot less money and on a schedule that works best for you.
-
-{{< cta2 >}}
 
 ## Do you have an employer in mind?
 

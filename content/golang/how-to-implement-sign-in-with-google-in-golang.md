@@ -86,6 +86,8 @@ func getGooglePublicKey(keyID string) (string, error) {
 
 The keyID is in the JWT header under the"_kid_" field. If you are confused, don't worry, it will make sense in the next section.
 
+{{< cta2 >}}
+
 ## Complete Validation Function
 
 Now that we have our claims structure and a way to fetch Google's public key we can finish our validation function:

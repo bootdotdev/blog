@@ -47,6 +47,8 @@ I don't want to beat a dead horse, the reasoning here is largely the same as wit
 
 ![Happy Birthday to the Ground](/img/happy_birthday_to_ground.gif)
 
+{{< cta2 >}}
+
 ## Try It Yourself
 
 Since adding a consistent refactoring process to our team's routine, we've been able to put _more_ features through to production while spending _less_ time working on them. Let me know what you think and if you have a different experience.

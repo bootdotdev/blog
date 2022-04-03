@@ -61,6 +61,8 @@ If however, you're interested in getting the same quality programming education 
 
 Programmers and software engineers are some of the most well-compensated career paths, especially for not requiring a four-year degree. As you've seen from the jobs listed above, and if you need more information you can check out my other article, [How Much Do Software Engineer's Make?](https://qvault.io/2020/11/09/how-much-do-software-engineers-make/), engineers in the US typically make low six figures per year. Salaries in the $70k-150k are commonplace.
 
+{{< cta2 >}}
+
 ## What is an associate's degree?
 
 An associate's degree is a quick ~2-year degree. Sometimes they're generalized, giving a student a basic overview of core higher-education subjects. In other cases, they can be focused on specific industries that provide training for a specific career.

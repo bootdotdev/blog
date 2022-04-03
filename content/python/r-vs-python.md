@@ -78,6 +78,8 @@ That said, Python does offer a more well-rounded choice and better repertoire wi
 
 **Conclusion:** Python is better for higher salaries and is more in-demand by employers.
 
+{{< cta2 >}}
+
 ## R vs Python Performance
 
 Usually, with performance, there’s a clear winner, but things aren’t so clean-cut this time. This is because Python performs a range of functions, while R is primarily kept to data analysis and data visualizations.
@@ -93,8 +95,6 @@ Along with performing better, Python also codes quicker. Its straightforward syn
 R is more complex in that performance is heavily reliant on how you’re using the code. With R, a task can be written in several ways and still work, so you need to make sure you’re writing the most efficient task possible. This negatively affects coding time, plus the fact it takes longer to navigate R packages.
 
 **Conclusion:** Python’s focus on simplicity helps give it an edge during performance and coding time.
-
-{{< cta2 >}}
 
 ## R vs Python for Machine Learning
 

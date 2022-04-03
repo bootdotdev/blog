@@ -82,11 +82,11 @@ In the example above the public key is a very large number, and the private key 
 
 _Note: In real cryptography, the private key would need to be 200+ digits long to be considered secure._
 
+{{< cta2 >}}
+
 ## What Makes Elliptic Curve Cryptography Different?
 
 You would use ECC for the same reasons as RSA. ECC and RSA both generate a public and private key and allow two parties to communicate securely. One advantage to ECC however, is that a 256-bit key in ECC offers about the same security as a 3072-bit key using RSA. ECC allows resource-constrained systems like smartphones, embedded computers, and cryptocurrency networks to use ~10% of the storage space and bandwidth required by RSA.
-
-{{< cta2 >}}
 
 ## ECC’s Trapdoor Function
 

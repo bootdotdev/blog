@@ -54,6 +54,8 @@ No one cares. White-boarding is just a convenient way to ignore dumb things that
 
 I don't ask React developers to build binary trees. I don't ask candidates for the data team to talk about Redux vs React Context. Keep the questions _applicable_, and don't be afraid to use a goddamn whiteboard.
 
+{{< cta2 >}}
+
 ## #5 - Homework
 
 Fuck coding homework. It's a waste of time for several reasons:
@@ -72,8 +74,6 @@ Homework can make sense for candidates that have effectively no experience (very
 - They don't mind doing some extra work to land a job, so you won't weed out the good ones.
 - They don't have much open-source code to share
 - Junior devs learn FAST. A project from 3 months ago likely won't accurately reflect where they are at today.
-
-{{< cta2 >}}
 
 ## \# 6 - Compensation
 

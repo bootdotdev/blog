@@ -77,6 +77,8 @@ Dave Cheney is a personal favorite of mine. He was one of the first Gophers and 
 
 ### [4\. Thoughts and links about programming](https://research.swtch.com/), by [Russ Cox](https://swtch.com/~rsc/)
 
+{{< cta2 >}}
+
 ## Best Editors and IDEs
 
 My favorite is VS Code because I use it for everything. That said, here is my full list:
@@ -85,8 +87,6 @@ My favorite is VS Code because I use it for everything. That said, here is my fu
 - 2\. [Go-Vim](https://github.com/fatih/vim-go)
 - 3\. [GoLand](https://www.jetbrains.com/go/)
 - 4\. [Atom](https://atom.io/) with [go-plus](https://atom.io/packages/go-plus)
-
-{{< cta2 >}}
 
 ## Best Documentation and Tutorials
 

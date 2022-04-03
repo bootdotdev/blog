@@ -64,6 +64,8 @@ This type of blog is multipurpose - it creates additional authenticity, explaini
 
 In sum, selling your code is great because as a programmer, no matter if you’re a beginner coder or not, you’ll have produced some kind of hobby code that does a neat thing. You can document the journey on your blog, and sell the final product. This is an infinitely scalable source of income, and also doesn't take a lot of additional work other than what you’d already be doing.
 
+{{< cta2 >}}
+
 ## 4\. Monetize Your Programming Blog by Promoting Other Services
 
 While Google ads are tricky to scale into a worthwhile revenue stream, your own service ads are likely to be much more convincing to a casual reader. 
@@ -79,8 +81,6 @@ It’s true that these opportunities will increase as your experience increases,
 The only thing you should watch out for is overusing ads. It’s true that you need to make a living somehow, yes, but readers won’t always understand that and get turned off from too many blatant ads, especially if they’re from you. Keep it limited - perhaps one in every five posts, or only on your best-performing posts. You should also try to match ads with blog post subject. That way you retain value for your readers whether they’re regular visitors or one-time readers, but you can still let people know the value you provide. 
 
 In sum, adding your own ads inline on your blog posts can be a great way to raise awareness of your other services and give you some extra income. Even as a beginner coder, there are many services you can offer.
-
-{{< cta2 >}}
 
 ## 5\. Monetize Your Programming Blog by Coaching Beginner Coders
 

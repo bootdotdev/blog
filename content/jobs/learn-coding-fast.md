@@ -79,13 +79,13 @@ Some people are really good at googling stuff, and others aren't. The good news 
 
 _Tip: Your first instinct when you're stuck should be to Google your problem_
 
+{{< cta2 >}}
+
 ## 5\. Once you've Googled the same thing three times, write it down
 
 Googling is great, but if you find yourself having to look up the same thing over and over, it's probably best to commit it to memory. If you know it by heart, you'll not only save a lot of time in the future, but you'll be able to recall it in interviews and team meetings.
 
 I've found that if there is a concept or topic I really want to commit to memory, it's best if I write about it. Some people keep notes, personally I just tweet about it or perhaps write a blog post if it requires more space to communicate effectively. Writing things down helps our brains remember them better.
-
-{{< cta2 >}}
 
 ## 6\. Become a member of coding communities
 

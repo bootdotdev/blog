@@ -88,6 +88,8 @@ The community is quite inexperienced. Sometimes it can feel like the blind leadi
 - URLs are automatically left as relative when importing markdown from RSS feed.
 - Lack of post analytics is a serious loss for hardcore bloggers.
 
+{{< cta2 >}}
+
 ## [5\. Twitter](https://twitter.com/q_vault)
 
 ![](/img/logo.png)
@@ -107,8 +109,6 @@ It might be a bit of a surprise to see this social media giant on our list. Howe
 
 - The platform is known for being a hub for stress and negativity-- even if you’ve only followed development and coding accounts
 - Trolls, bots, and spam are an ongoing issue that can put a damper on your everyday experience with the site
-
-{{< cta2 >}}
 
 ## [6\. Discord](https://discord.com/invite/H2bTNATa)
 

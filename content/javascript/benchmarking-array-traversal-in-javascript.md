@@ -52,6 +52,8 @@ $.each(arr, function( index, value ) {});
 
 Eeeeeew... jQuery. Convenient if you live in 2010. Very Slow.
 
+{{< cta2 >}}
+
 ## Wildcard: For..Of ES6
 
 ```js

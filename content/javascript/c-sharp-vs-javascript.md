@@ -96,6 +96,8 @@ The kicker, however, as we know, is that C# was made by Microsoft for Microsoft,
 
 Essentially, if you’re planning on focusing on Windows backend development, then C# is a no-brainer, but JavaScript is quintessential to this field, and if you want to work in it, then there’s no avoiding JavaScript’s importance.
 
+{{< cta2 >}}
+
 ## C# vs JavaScript for Game Development
 
 Game development brings a fulfilling blend of programming and creativity, and C languages found a natural home in the field.
@@ -113,8 +115,6 @@ Because JavaScript is the basis of the internet, it makes sense it would intuiti
 JavaScript is supported by game engines and libraries like Phaser, Pixi.js, HTML5, PlayCanvas, and Three.js, just to name a few.
 
 Whether you plan on dabbling or working professionally in the field, both languages offer incredible opportunities to work and develop your own gaming masterpiece. 
-
-{{< cta2 >}}
 
 ## Which Is Better?: The Final Verdict
 
