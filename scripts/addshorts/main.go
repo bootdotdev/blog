@@ -72,7 +72,7 @@ func addShort(in, shortcode string, sectionNum int) (out string) {
 	newParas := []string{}
 	added := false
 
-	currentSection := 0
+	currentSection := 1
 
 	inCodeBlock := false
 
