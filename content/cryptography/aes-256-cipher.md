@@ -11,8 +11,6 @@ images:
 
 AES, or “Advanced Encryption Standard”, is an encryption specification that uses the Rijndael cipher as its symmetric key ciphering algorithm. AES encrypts a message with a private key, and no one but the key holder can decrypt the message. A great example of a good use-case for AES-256 is encrypting all the data on the hard drive of a computer when it's not in use.
 
-{{< cta1 >}}
-
 # Symmetric Encryption vs Asymmetric Encryption
 
 **Symmetric encryption uses the same key** for encryption and decryption and **asymmetric encryption uses different keys.**

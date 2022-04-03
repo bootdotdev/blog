@@ -101,5 +101,5 @@ func addShort(in, shortcode string, sectionNum int) (out string) {
 }
 
 func isHeadline(in string) bool {
-	return strings.HasPrefix(in, "# ")
+	return strings.HasPrefix(in, "## ")
 }
