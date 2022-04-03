@@ -28,7 +28,9 @@ func main() {
 		log.Fatalf("section number: %v", err)
 	}
 
-	fmt.Println("adding shortcode:", code, "at section: %v", sectionNum)
+	fmt.Println("adding shortcode:", code, "at end of section:", sectionNum)
+
+	count := 0
 
 	err = filepath.Walk(contentPath,
 		func(path string, info os.FileInfo, err error) error {
@@ -50,27 +52,30 @@ func main() {
 			if err != nil {
 				return err
 			}
-			added := addShort(string(dat), formattedShort(code), sectionNum)
+			out, added := addShort(string(dat), formattedShort(code), sectionNum)
+			if added {
+				count++
+			}
 
-			err = os.WriteFile(path, []byte(added), 0644)
+			err = os.WriteFile(path, []byte(out), 0644)
 			if err != nil {
 				return err
 			}
 			return nil
 		})
 	if err != nil {
-		log.Println(err)
+		log.Fatal(err)
 	}
+	fmt.Println("added", count, "shortcodes")
 }
 
 func formattedShort(short string) string {
 	return fmt.Sprintf("{{< %s >}}", short)
 }
 
-func addShort(in, shortcode string, sectionNum int) (out string) {
+func addShort(in, shortcode string, sectionNum int) (out string, added bool) {
 	paras := strings.Split(in, "\n\n")
 	newParas := []string{}
-	added := false
 
 	currentSection := 1
 
@@ -109,7 +114,7 @@ func addShort(in, shortcode string, sectionNum int) (out string) {
 		newParas = append(newParas, shortcode)
 		added = true
 	}
-	return strings.Join(newParas, "\n\n")
+	return strings.Join(newParas, "\n\n"), added
 }
 
 func isHeadline(in string) bool {
