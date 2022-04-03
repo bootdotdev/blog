@@ -10,7 +10,7 @@ images:
 
 I’m going to focus mostly on some design decisions and also how I went about writing an SPI interface using Go on a Raspberry Pi. I assume my readers have a basic understanding of what a Raspberry Pi is, and how basic electronics work. If not, read on anyway and I will be sure to include some valuable resources below.
 
-# Why Go?
+## Why Go?
 
 In a past life, I worked on hardware interfacing software. The first thing I can certainly tell you is that I hate C. Don’t get me wrong, I understand the appeal of having lightning-fast code. Also, the ability to manipulate memory and low-level functions is useful. I also understand the headache of writing concurrent C code, and anyone familiar with Go knows that this is where it shines.
 
@@ -30,7 +30,7 @@ I considered C++ at first. C++ is about as fast as it gets, and is a compiled la
 
 It is important to note that the program in question was doing a lot more than just the data collection via SPI interface with an ADC component. There were user inputs, data displays, etc. It was to be a highly concurrent program.
 
-# What is SPI?
+## What is SPI?
 
 ![Master Slave SPI](/img/1_5WD0gV6autEIzv8GMkc5gQ.png)
 
@@ -38,7 +38,7 @@ It is important to note that the program in question was doing a lot more than j
 
 SPI stands for serial peripheral interface. I don’t want to get too far off track, but basically it is just a protocol for a master (your program) to communicate with the hardware (like a thermometer or analog to digital converter). If you want to learn more check out the link in the picture’s caption.
 
-# My Environment
+## My Environment
 
 - Device: Raspberry Pi 3B (We used the compute module for production)
 - IDE: VS Code
@@ -46,7 +46,7 @@ SPI stands for serial peripheral interface. I don’t want to get too far off tr
 - Hardware: Breadboard, jumper wires, an ADC that uses an SPI interface
 - OS: [Raspbian](https://www.raspberrypi.org/downloads/)
 
-# Implementation
+## Implementation
 
 First things first, I needed a great GPIO package. For this project, we built the code to be able to use any of the GPIO pins on the Pi. I used Dave Cheney’s library: [https://github.com/davecheney/gpio](https://github.com/davecheney/gpio)
 

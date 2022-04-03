@@ -72,9 +72,9 @@ There’s no real end to learning to code - you can always refine, tweak, and im
 
 Not only that, but programming languages themselves change, evolve, and improve over time. Python and R, for example, constantly have new packages available that can make it easier to understand or complete a task. As the number of programmers grows, new solutions, packages, and updates are released and the coding ecosystem that revolves around that language changes over time. 
 
-By understanding what a successful ending looks like for you, you’ll be able to stay motivated to reach those goals. 
-
-# Asking How Long It Takes to Learn to Code Is the Wrong Question
+By understanding what a successful ending looks like for you, you’ll be able to stay motivated to reach those goals.
+ 
+## Asking How Long It Takes to Learn to Code Is the Wrong Question
 
 The most important question shouldn’t be how long it takes to become a programmer, but how long does it take to get started, and how can you personally stay motivated enough to reach your personal milestones. How can you make it easy, fun, and rewarding to learn the programming language of your choice? 
 

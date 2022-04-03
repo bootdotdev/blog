@@ -203,7 +203,7 @@ The second method is less intuitive: remember that recruiters are human, too. Yo
 
 It’s a way to put yourself on their radar, and make sure your name is already familiar if your resume does come up. Never forget that a human touch goes a long way.
 
-# Final thoughts on why you can’t get a programming job
+## Final thoughts on why you can’t get a programming job
 
 It’s possible to get rejected at two potential stages: getting an interview and getting a job offer after the interview. To maximize your chances if you can't get a programming job, see where you’re struggling and apply the relevant tips there.
 

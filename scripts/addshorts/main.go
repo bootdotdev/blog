@@ -17,18 +17,18 @@ func main() {
 		return
 	}
 	if len(os.Args) < 3 {
-		log.Fatal("no para number")
+		log.Fatal("no section number")
 		return
 	}
 
 	code := os.Args[1]
 
-	paraNum, err := strconv.Atoi(os.Args[2])
+	sectionNum, err := strconv.Atoi(os.Args[2])
 	if err != nil {
-		log.Fatalf("para num: %v", err)
+		log.Fatalf("section number: %v", err)
 	}
 
-	fmt.Println("adding shortcode:", code, "at paragraph: %v", paraNum)
+	fmt.Println("adding shortcode:", code, "at section: %v", sectionNum)
 
 	err = filepath.Walk(contentPath,
 		func(path string, info os.FileInfo, err error) error {
@@ -50,7 +50,7 @@ func main() {
 			if err != nil {
 				return err
 			}
-			added := addShort(string(dat), formattedShort(code), paraNum)
+			added := addShort(string(dat), formattedShort(code), sectionNum)
 
 			err = os.WriteFile(path, []byte(added), 0644)
 			if err != nil {
@@ -67,28 +67,33 @@ func formattedShort(short string) string {
 	return fmt.Sprintf("{{< %s >}}", short)
 }
 
-func addShort(in, shortcode string, numParas int) (out string) {
+func addShort(in, shortcode string, sectionNum int) (out string) {
 	paras := strings.Split(in, "\n\n")
 	newParas := []string{}
 	added := false
+
+	currentSection := 0
+
 	for i, para := range paras {
 		newParas = append(newParas, para)
 
+		if isHeadline(para) {
+			currentSection++
+		}
+
+		// only add it once
 		if added {
 			continue
 		}
-		if i < numParas {
+
+		// don't place until the end of the section number provided
+		if i+1 >= len(paras) {
 			continue
 		}
-		if i == 0 {
+		if !isHeadline(paras[i+1]) {
 			continue
 		}
-		if isHeadline(paras[i-1]) {
-			continue
-		}
-		if i == len(paras)-1 {
-			continue
-		}
+
 		newParas = append(newParas, shortcode)
 		added = true
 	}
@@ -96,5 +101,5 @@ func addShort(in, shortcode string, numParas int) (out string) {
 }
 
 func isHeadline(in string) bool {
-	return strings.HasPrefix(in, "#")
+	return strings.HasPrefix(in, "# ")
 }

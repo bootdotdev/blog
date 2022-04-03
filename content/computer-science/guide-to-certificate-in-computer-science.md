@@ -15,7 +15,7 @@ While computer science certificates take time and sometimes money to complete, t
 
 This article will guide you through the six steps you’ll need to find the right certificate in computer science for you, complete it, and leverage it to get your dream job in computer science.  There’s no right answer, so this guide is intended to help you reflect on what computer science certificate is going to help you achieve your goals.
 
-# Step 1: Do your research on which certificate in computer science makes the most sense for you.
+## Step 1: Do your research on which certificate in computer science makes the most sense for you.
 
 It’s tempting to jump right in and just get the certificate in computer science that you see first, but it will pay off to do some serious introspection first. While computer science certificates are more affordable and accessible than a degree, you still don’t want to waste time or money on the wrong one. Lay down the groundwork and answer the following questions:
 
@@ -26,7 +26,7 @@ It’s tempting to jump right in and just get the certificate in computer scienc
 
 This informal questionnaire gives you the knowledge you need to pick the most efficient certificate that makes sense for you. There are so many out there that could potentially fulfil your needs, so the more you know about your own situation, the better positioned you’ll be to select the right certificate for your needs.
 
-# Step 2: Understand the different types of certificates in computer science.
+## Step 2: Understand the different types of certificates in computer science.
 
 The great thing about computer science is that there’s no one preferred certificate. This frees you up to select between many options, but it also makes it complicated to choose just one. 
 
@@ -48,7 +48,7 @@ You can also get a certificate in computer science that comes from places like C
 
 Ultimately, the best way to leverage a certificate in computer science is to prove you have the general knowledge required for the job you want to do. The right certificate will help you accomplish those goals. 
 
-# Step 3: Focus on what a certificate in computer science will give you
+## Step 3: Focus on what a certificate in computer science will give you
 
 At this stage, you should totally understand your own motivations for wanting to get certified, and you should have an idea of the potential options that could give you a certificate in computer science.
 
@@ -60,7 +60,7 @@ They should also actually either teach you the skills you need or prove you alre
 
 Especially where some certificates can be very expensive and time-consuming to achieve, you want to make sure they will do the one thing you need them to do: certify you have the computer science understanding and skills needed.
 
-# Step 4:  Find one that will help you do the work
+## Step 4:  Find one that will help you do the work
 
 Half the battle is picking the right certificate in computer science for you, but the next half is actually doing it. It doesn't matter if it’s your ideal certificate if you can’t actually complete it.  There are two things you should do that could help.
 
@@ -70,7 +70,7 @@ Second, motivate yourself. Especially if you’re at the beginning of your codin
 
 Both internal and external sources of drive will be necessary to get this done. If you can plan ahead and both pick out a course that aligns to your learning and working style and identify a couple of motivational tricks you can use, the easier it’ll be to actually complete the certificate in computer science that’s going to land you your [dream programming job](https://qvault.io/2020/12/09/highest-paying-computer-science-jobs/).
 
-# Step 5: Do the work.
+## Step 5: Do the work.
 
 This step will appear relatively short, because there’s only so much that can be said here. The more work you did on steps 1-4, the easier step 5 will be. Monitor your progress - if there are milestones you can physically track as you move through the certification, do so. If you’re finding you’re stumbling, look for a quick win. Rely on family and friends to keep you on target. You can even post in communities like [Reddit, Twitter, and Discord](https://qvault.io/2020/11/12/top-12-best-communities-for-learning-to-code/) to find inspiration, support, help and ideas to carry on. There’s a common misconception that all programmers are lonely, isolated folks, but like most other people, having a community is helpful in finding motivation and support to keep going when the going gets tough.
 
@@ -78,7 +78,7 @@ If you’re finding that despite all your hard work in picking out the right com
 
 Whatever it takes, complete your certificate in computer science. 
 
-# Step 6: Proudly display your certificate.
+## Step 6: Proudly display your certificate.
 
 Whether you want to show off a portfolio or just want to display your certificate in computer science on LinkedIn, a certificate’s job is not complete until other people know you have it, too.
 
@@ -86,7 +86,7 @@ The whole point of a certificate is to demonstrate your skills and knowledge in 
 
 And once you’ve successfully leveraged your certificate to get your first job, or next job, or better job, don’t stop. Keep learning, keep filling in the gaps that you have in your fundamental knowledge. Keep your eyes open for new opportunities. Keep growing your skills that make you the ideal programmer to hire. A certificate, at the end of the day, is a stamp of approval. Your skills and knowledge are what you bring to the table as an employee. Just display your certificate proudly - but let your skills do the talking.
 
-# You’re just one certificate in computer science away from your dream job in programming.
+## You’re just one certificate in computer science away from your dream job in programming.
 
 Getting a certificate in computer science is not a shortcut to getting a degree. It’s not a way to game the system, or a way to circumvent the need to get a grounding in the basics of computer science. All it is is a way of demonstrating to companies what computer science skills and experiences you have, as certified by an external source. 
 

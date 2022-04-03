@@ -19,16 +19,20 @@ yarn serve
 
 Use the following scripts to manage global shortcodes.
 
-### Add a SHORTCODE to all posts after PARAGRAPH_NUMBER
+### Build the scripts
 
 ```bash
 make buildscripts
-./bin/addshorts SHORTCODE PARAGRAPH_NUMBER
+```
+
+### Add a SHORTCODE to all posts at the end of SECTION_NUMBER
+
+```bash
+./bin/addshorts SHORTCODE SECTION_NUMBER
 ```
 
 ### Remove SHORTCODE from all posts
 
 ```bash
-make buildscripts
 ./bin/rmshorts SHORTCODE
 ```

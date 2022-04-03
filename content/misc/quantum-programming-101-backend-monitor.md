@@ -8,13 +8,13 @@ images:
   - /img/QvKyBb3LzY7gFPBxE8FFse-scaled.jpeg
 ---
 
-# Introduction
+## Introduction
 
 In a previous tutorial we showed how you can get basic information on all quantum devices using backend\_overview().
 
 While this function is great to get information on all quantum devices at a glance it is not detailed on specific information such as qubit and gate errors. To get more detailed information on a quantum device (such as configuration and individual qubits and gates) you can use backend\_monitor().
 
-# Implementation
+## Implementation
 
 Unlike backend\_overview() this is for getting information on a specific device so you have to pass the device name in to the function as an argument.
 
@@ -30,13 +30,13 @@ and for another device like IBMQ Vigo:
 backend_monitor(provider.backends.ibmq_vigo)
 ```
 
-# Steps
+## Steps
 
 1. Copy and paste the code below in to a python file
 2. Enter your API token in the IBMQ.enable\_account('Insert API token here') part
 3. Save and run
 
-# Code
+## Code
 
 ```py
 from qiskit import IBMQ
@@ -51,7 +51,7 @@ print('\nPress any key to close')
 input()
 ```
 
-# Output
+## Output
 
 After the code is ran you will be given a list of information about the device including the configuration and specific information on individual qubits and gates.
 

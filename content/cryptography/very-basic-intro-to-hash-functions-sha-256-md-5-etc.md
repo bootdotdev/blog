@@ -26,7 +26,7 @@ If you're looking for an explanation of a different hash function, we may have y
 - [(Very) Basic Intro to the Scrypt Hash](https://qvault.io/2020/07/25/very-basic-intro-to-the-scrypt-hash/)
 - [Bcrypt Step by Step](https://qvault.io/2020/08/24/bcrypt-step-by-step/)
 
-# Hash Functions Scramble Data Deterministically
+## Hash Functions Scramble Data Deterministically
 
 Think of a Rubix cube.
 
@@ -44,7 +44,7 @@ Now, if anyone were to see the scrambled version, they wouldn’t know my origin
 
 If a website stores passwords in plain-text (not hashed) it is a huge breach of security. If someone were to hack that site’s database and find all the emails stored with plain-text passwords, they could then use those combinations and try them on other websites.
 
-# No Matter the Input, the Output is the Same Size
+## No Matter the Input, the Output is the Same Size
 
 If I hash a single word the output will be a certain size (in the case of SHA-256, a particular hashing function, the size is 256 bits). If I hash a book, the output will be _the same size_.
 
@@ -58,7 +58,7 @@ When a program stores data in a map, a key and value are given to the map. When 
 
 Because keys are like addresses, they can’t be too large. If I want to store books in a data map I can hash the contents of the book and use the hash as a key. As a programmer, I can simply use the hash to look up the contents of the book instead of trying to sort through thousands of records by title, author, etc.
 
-# How Do They Work?
+## How Do They Work?
 
 Here is the real challenge of writing this article. I’m going to keep it extremely simple and omit the actual implementation details while giving you a basic idea of what the computer actually does when it hashes some data.
 
@@ -109,6 +109,6 @@ Let’s walk through an example algorithm I’m making up on the fly for this de
 
 As you can see, if you start with the same word at the beginning, you will always get the same output at the end. However, if you even change one letter, the outcome will be drastically changed.
 
-# Disclaimer
+## Disclaimer
 
 On the steps where I convert from English to binary, and from binary to English, I followed no pattern. Don’t let that confuse you. There are many [different ways to convert binary data to English](https://qvault.io/2020/11/03/base64-vs-base58-encoding/) and back, I just didn’t want to get hung up on that in this article.

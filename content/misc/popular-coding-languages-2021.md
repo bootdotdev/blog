@@ -30,7 +30,7 @@ With so many constantly-shifting languages it’s hard to know where to start, e
 
 Table describing the most popular coding languages of 2021 for different purposes.
 
-# 1\. The most popular coding language for absolute beginners: Python
+## 1\. The most popular coding language for absolute beginners: Python
 
 No matter what list you check, Python is almost always listed as the most popular coding language for beginners - on [Qvault’s post on best programming languages for beginners](https://qvault.io/2020/10/07/top-4-coding-languages-to-learn-for-beginners-2020/), [GitHub’s ranking](https://pypl.github.io/PYPL.html), [Stack Overflow’s developer survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted), and is even the [top-most language universities are teaching to computer science majors](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext). 
 
