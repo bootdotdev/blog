@@ -9,15 +9,15 @@ images:
   - /img/photo-1553386323-60698d6f7325.webp
 ---
 
-A Key Derivation Function, or KDF, is a [cryptographic algorithm](https://qvault.io/cryptography/what-is-cryptography/) that derives one or more secret keys from a secret value. If you've ever needed to store a password in a database or create a private key from a password, you may have used a KDF. Some examples of popular KDFs are [Argon2](https://en.wikipedia.org/wiki/Argon2), [Scrypt](https://qvault.io/cryptography/very-basic-intro-to-the-scrypt-hash/), and [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2).
+A Key Derivation Function, or KDF, is a [cryptographic algorithm](/cryptography/what-is-cryptography/) that derives one or more secret keys from a secret value. If you've ever needed to store a password in a database or create a private key from a password, you may have used a KDF. Some examples of popular KDFs are [Argon2](https://en.wikipedia.org/wiki/Argon2), [Scrypt](/cryptography/very-basic-intro-to-the-scrypt-hash/), and [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2).
 
 ## Are KDFs Just Hash Functions?
 
-No, but there is overlap. In order to understand KDFs, let's first go through a quick refresher on [hash functions.](https://qvault.io/security/very-basic-intro-to-hash-functions-sha-256-md-5-etc/)
+No, but there is overlap. In order to understand KDFs, let's first go through a quick refresher on [hash functions.](/security/hash-functions/)
 
 Some hash functions for example:
 
-- [SHA-256](https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/)
+- [SHA-256](/cryptography/how-sha-2-works-step-by-step-sha-256/)
 - MD5
 
 A hash function takes an input and creates an output. In most password hashing scenarios it looks something like this:

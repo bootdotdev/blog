@@ -10,13 +10,13 @@ images:
   - /img/Elliptic-curve-blog-post-min.webp
 ---
 
-Elliptic Curve Cryptography (ECC) is a modern [public-key encryption](https://searchsecurity.techtarget.com/definition/public-key) technique famous for being smaller, faster, and more efficient than incumbents. Bitcoin, for example, uses ECC as its asymmetric cryptosystem because it is so lightweight. The mathematical entity that makes all of this possible is the elliptic curve, so read on to learn how these curves enable some of the most advanced [cryptography](https://qvault.io/cryptography/what-is-cryptography/) in the world.
+Elliptic Curve Cryptography (ECC) is a modern [public-key encryption](https://searchsecurity.techtarget.com/definition/public-key) technique famous for being smaller, faster, and more efficient than incumbents. Bitcoin, for example, uses ECC as its asymmetric cryptosystem because it is so lightweight. The mathematical entity that makes all of this possible is the elliptic curve, so read on to learn how these curves enable some of the most advanced [cryptography](/cryptography/what-is-cryptography/) in the world.
 
 ## What is elliptic curve cryptography used for?
 
 A common use of ECC is to encrypt data so that only authorized parties can decrypt it. This has several obvious use cases, but is most commonly used to encrypt Internet traffic.
 
-For example, in the [Qvault web app](https://qvault.io/), I could use ECC to encrypt a confirmation email so that no one but the recipient could read the message.
+For example, in the [boot.dev web app](https://boot.dev/), I could use ECC to encrypt a confirmation email so that no one but the recipient could read the message.
 
 {{< cta1 >}}
 
@@ -146,4 +146,4 @@ If however, you know the number of hops you can use an [exponentiation](https://
 
 ECC is used as the cryptographic key algorithm in Bitcoin because it potentially can save ~90% of the resources used by a similar RSA system. It seems that each year we see more systems moving from RSA to a more modern elliptic curve approach.
 
-**If you want to learn more about cryptography**, try our [Practical Cryptography course](https://qvault.io/practical-cryptography-course/) for free.
+**If you want to learn more about cryptography**, try our [Practical Cryptography course](https://boot.dev/practical-cryptography-course/) for free.

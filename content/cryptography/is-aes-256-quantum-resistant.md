@@ -9,7 +9,7 @@ images:
   - /img/Copy-of-Pure-Functions-in-Go.webp
 ---
 
-With quantum computers getting more powerful each year, many worry about the safety of modern encryption standards. As quantum computers improve in performance and the number of [qubits](https://en.wikipedia.org/wiki/Qubit) used for calculations increases, current cryptosystems are under threat. [AES-256](https://qvault.io/2020/01/02/very-basic-intro-to-aes-256-cipher/) is one of the most powerful symmetric ciphers, but will it remain secure in a post-quantum world?
+With quantum computers getting more powerful each year, many worry about the safety of modern encryption standards. As quantum computers improve in performance and the number of [qubits](https://en.wikipedia.org/wiki/Qubit) used for calculations increases, current cryptosystems are under threat. [AES-256](/cryptography/aes-256-cipher/) is one of the most powerful symmetric ciphers, but will it remain secure in a post-quantum world?
 
 ## What will break post-quantum?
 
@@ -25,7 +25,7 @@ The following are examples of encryption that Shor's algorithm can break:
 
 - [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 - [Diffie Hellman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
-- [ECC](https://qvault.io/2020/07/21/very-basic-intro-to-elliptic-curve-cryptography/)
+- [ECC](/cryptography/elliptic-curve-cryptography/)
 
 {{< cta1 >}}
 
@@ -41,7 +41,7 @@ Symmetric encryption, or more specifically AES-256, is believed to be quantum-re
 
 ## A Caveat
 
-It is important to remember that [256-bit keys derived](https://qvault.io/2019/12/30/very-basic-intro-to-key-derivation-functions-argon2-scrypt-etc/) from passwords actually can have less than 256-bits of entropy. If the owner of the key generated it from a weak password an attacker can try deriving keys from common passwords instead of trying random 256-bit numbers.
+It is important to remember that [256-bit keys derived](/cryptography/key-derivation-functions/) from passwords actually can have less than 256-bits of entropy. If the owner of the key generated it from a weak password an attacker can try deriving keys from common passwords instead of trying random 256-bit numbers.
 
 For example, instead of randomly trying
 

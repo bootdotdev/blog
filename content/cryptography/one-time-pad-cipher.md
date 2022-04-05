@@ -8,7 +8,7 @@ images:
   - /img/eyeball-art.webp
 ---
 
-In [cryptography](https://qvault.io/cryptography/what-is-cryptography/), the one-time pad, or OTP is a way of encrypting information so securely that it's impossible to be cracked. That said, OTP has a major drawback in that it requires both parties to have access to the _same_ key before a message is encrypted.
+In [cryptography](/cryptography/what-is-cryptography/), the one-time pad, or OTP is a way of encrypting information so securely that it's impossible to be cracked. That said, OTP has a major drawback in that it requires both parties to have access to the _same_ key before a message is encrypted.
 
 ## How the one-time pad cipher works
 
@@ -25,7 +25,7 @@ true XOR true = false
 false XOR false = false
 ```
 
-Check out my other article, [why exclusive or is important in cryptography](https://qvault.io/cryptography/why-xor-in-cryptography/), if you want more information.
+Check out my other article, [why exclusive or is important in cryptography](/cryptography/why-xor-in-cryptography/), if you want more information.
 
 ### One-time pad step-by-step
 
@@ -93,7 +93,7 @@ In accordance with the requirements outlined above, it's really hard to implemen
 
 The second requirement, that the key can't be reused, is a huge pain! This means memorizing keys is out of the question because I always need a new one. Not only that, but whatever security vulnerabilities are introduced by needing to communicate a shared key to my intended recipient will be repeated each time a new message is sent.
 
-Lastly, the last requirement, that it must be kept secret yet somehow communicated to the intended recipient, is a **tall** order. In fact, all symmetric encryption algorithms suffer from this problem. As a result, if you need to communicate with another entity you probably need to use a separate [asymmetric encryption](https://qvault.io/cryptography/very-basic-intro-to-pgp-gpg/#sym-vs-asym) scheme.
+Lastly, the last requirement, that it must be kept secret yet somehow communicated to the intended recipient, is a **tall** order. In fact, all symmetric encryption algorithms suffer from this problem. As a result, if you need to communicate with another entity you probably need to use a separate [asymmetric encryption](/cryptography/very-basic-intro-to-pgp-gpg/#sym-vs-asym) scheme.
 
 ## Example of the one-time pad code in Go
 

@@ -17,7 +17,7 @@ They published a paper in [Nature](https://www.nature.com/articles/s41586-019-16
 
 {{< cta1 >}}
 
-## [Lattice-Based Cryptography](https://qvault.io/2020/08/21/very-basic-intro-to-lattices-in-cryptography/)
+## [Lattice-Based Cryptography](/cryptography/very-basic-intro-to-lattices-in-cryptography/)
 
 Lattice-based Cryptography (LBC) is one of our best bets for secure "Post Quantum Cryptography". Therefore, almost half of the second round of [NIST's PQC contest](https://csrc.nist.gov/CSRC/media/Presentations/Round-2-of-the-NIST-PQC-Competition-What-was-NIST/images-media/pqcrypto-may2019-moody.pdf) is based on lattice math.
 
@@ -35,7 +35,7 @@ In addition, Matthew Dozer has a great introductory video:
 
 ![bitcoin logo](/img/5a521fa72f93c7a8d5137fcf.png)
 
-Instead of the current [ECDSA](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/) implementation, Bitcoin might be switching to [Schnorr signatures](https://en.bitcoin.it/wiki/Schnorr) in order to get more efficiency when signing transactions. Instead of signing each transaction separately, with Schnorr, we can generate a single signature to validate many transactions at once. This allows Bitcoin to scale by requiring less data to be broadcast on the network when grouping transactions.
+Instead of the current [ECDSA](/cryptography/elliptic-curve-cryptography/) implementation, Bitcoin might be switching to [Schnorr signatures](https://en.bitcoin.it/wiki/Schnorr) in order to get more efficiency when signing transactions. Instead of signing each transaction separately, with Schnorr, we can generate a single signature to validate many transactions at once. This allows Bitcoin to scale by requiring less data to be broadcast on the network when grouping transactions.
 
 ## More Rigorous Testing of Hash Functions
 

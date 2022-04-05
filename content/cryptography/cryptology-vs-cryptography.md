@@ -9,9 +9,9 @@ images:
   - /img/e2ccd365950e1e853a2c3a4f27d8b92c.jpeg
 ---
 
-Many new developers are jumping right into writing code, usually for those fat paychecks, without learning much about the [history of Computer Science](https://qvault.io/computer-science/the-history-of-computer-science/). Alan Turing is recognized as the father of Computer Science, though many don't know that his roots were in cryptology and mathematics. It was out of cryptology, cryptography, and mathematics that computer science was born.
+Many new developers are jumping right into writing code, usually for those fat paychecks, without learning much about the [history of Computer Science](/computer-science/the-history-of-computer-science/). Alan Turing is recognized as the father of Computer Science, though many don't know that his roots were in cryptology and mathematics. It was out of cryptology, cryptography, and mathematics that computer science was born.
 
-What many computer scientists even these days don't recognize is that [cryptography](https://qvault.io/cryptography/what-is-cryptography/) and cryptography are not the same. In fact, many people say cryptography when they really are referring to cryptology or cryptanalysis. Let's go over the formal definitions of each term, and look at how they compare one to another.
+What many computer scientists even these days don't recognize is that [cryptography](/cryptography/what-is-cryptography/) and cryptography are not the same. In fact, many people say cryptography when they really are referring to cryptology or cryptanalysis. Let's go over the formal definitions of each term, and look at how they compare one to another.
 
 ## Cryptology
 
