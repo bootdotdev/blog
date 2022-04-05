@@ -16,7 +16,7 @@ This combination makes Go one of the most effective languages for large-scale in
 
 ![go vs python javascript c c++](/img/Go-language-vs-Python-Javascript-C-min-1.png)
 
-The open-source Go project was first announced in 2009, and version 1.0 was officially released in 2012. Major new features have since been added, such as [generics](https://qvault.io/golang/how-to-use-golangs-generics/) and error handling in 2018.
+The open-source Go project was first announced in 2009, and version 1.0 was officially released in 2012. Major new features have since been added, such as [generics](/golang/how-to-use-golangs-generics/) and error handling in 2018.
 
 **Go vs Golang: what to call Go**  
   
@@ -35,7 +35,7 @@ The difference between Go and dynamically typed languages like JavaScript and Py
 
 Statically typed programs will fail to compile until errors have been fixed, whereas dynamic scripts can start up even if they contain key errors that may crash later during execution.
 
-- For more differences between Go and dynamically typed languages like Python, read our [Go vs Python guide](https://qvault.io/golang/golang-vs-python/)
+- For more differences between Go and dynamically typed languages like Python, read our [Go vs Python guide](/golang/golang-vs-python/)
 
 Go’s static typing ensures conversions and compatibility while avoiding the run-type errors and difficulty debugging that can occur with dynamically typed languages.
 
@@ -77,7 +77,7 @@ For example, Go has very few data types, such as `int`, `string`, `bool`, `float
 
 The language itself is similar to C, just without some of C’s frustrating inefficiencies that reduce the time required to clean complex code. If you have either previous Java or C experience, you’ll have no issues understanding Go as all these languages follow the same procedural approach.
 
-- And if you're struggling to find a course that teaches you Go right from the beginning, try our [Go Mastery course](https://qvault.io/go-mastery-course/).
+- And if you're struggling to find a course that teaches you Go right from the beginning, try our [Go Mastery course](https://boot.dev/go-mastery-course/).
 
 ### Go is Fast
 
@@ -123,7 +123,7 @@ Large web apps like Monzo’s online banking app have been built in Go since the
 
 SoundCloud have also been using Go [since as early as 2012](https://developers.soundcloud.com/blog/go-at-soundcloud) in their build and deployment system, though they mostly use Ruby on Rails. SoundCloud developed what eventually became Prometheus in 2012, which is now used by [AT&T, Honeywell, JP Morgan & Chase, and many other large companies](https://discovery.hgdata.com/product/prometheus).
 
-Our [Qvault web app](https://app.qvault.io/), designed to teach you computer science interactively, is also written in Go.
+Our [boot.dev web app](https://boot.dev/), designed to teach you computer science interactively, is also written in Go.
 
 Other large companies that use Go include Google & YouTube (obviously), Medium, BBC, Dailymotion, SendGrid, and Badoo.
 
@@ -159,4 +159,4 @@ So should you learn Go, too?
 
 We absolutely think so.
 
-We’re huge fans of Golang at Qvault, and created our [Go Mastery courses](https://qvault.io/go-mastery-course/) to help teach Go as effectively as possible — by learning by doing. Our interactive lessons have you code in Go to fix problems, create programs, and we even built a specialized [Go Interview Prep course](https://qvault.io/golang/interview-prep-golang-course-released/) for landing a job once you’ve gained the core skills.
+We’re huge fans of Golang at boot.dev, and created our [Go Mastery courses](https://boot.dev/go-mastery-course/) to help teach Go as effectively as possible — by learning by doing. Our interactive lessons have you code in Go to fix problems, create programs, and we even built a specialized [Go Interview Prep course](https://boot.dev/golang/interview-prep-golang-course-released/) for landing a job once you’ve gained the core skills.

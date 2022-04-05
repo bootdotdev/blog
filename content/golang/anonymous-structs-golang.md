@@ -47,7 +47,7 @@ newCar := car{
 
 ## When should I use an anonymous struct?
 
-I often use anonymous structs to [marshal and unmarshal JSON data](https://qvault.io/golang/json-golang/) in HTTP handlers. If a struct is only meant to be used once, then it makes sense to declare it in such a way that developers down the road won't be tempted to accidentally use it again.
+I often use anonymous structs to [marshal and unmarshal JSON data](/golang/json-golang/) in HTTP handlers. If a struct is only meant to be used once, then it makes sense to declare it in such a way that developers down the road won't be tempted to accidentally use it again.
 
 Take a look at the code below. We are able to marshal the HTTP request directly into an unnamed struct inline. All the fields are still accessible via the dot operator, but we don't have to worry about another part of our project trying to use a type that wasn't intended for it.
 

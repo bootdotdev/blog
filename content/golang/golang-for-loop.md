@@ -139,7 +139,7 @@ for i := 0; sum < 1000; {
 }
 ```
 
-This can be a useful pattern when you want something like a [do-while, or an immediate first tick from a ticker.](https://qvault.io/golang/range-over-ticker-in-go-with-immediate-first-tick/)
+This can be a useful pattern when you want something like a [do-while, or an immediate first tick from a ticker.](/golang/range-over-ticker-in-go-with-immediate-first-tick/)
 
 ## #5 Infinite loop
 
@@ -175,7 +175,7 @@ fmt.Println(sum)
 
 ## #7 Continue (skip to the next iteration) in a loop
 
-It can be useful to skip to the next iteration of a loop early. This can be a good pattern for [guard clauses](https://qvault.io/clean-code/guard-clauses-how-to-clean-up-conditionals/) within a loop.
+It can be useful to skip to the next iteration of a loop early. This can be a good pattern for [guard clauses](/clean-code/guard-clauses/) within a loop.
 
 ```go
 for i := 0; i < 10; i++{

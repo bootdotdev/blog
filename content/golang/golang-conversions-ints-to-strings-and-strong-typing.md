@@ -37,7 +37,7 @@ In addition to strong typing being faster, strong typing allows the developer to
 
 ## Strong Typing Saves Memory
 
-![red floppy disk](https://i0.wp.com/qvault.io/wp-content/uploads/2020/03/photo-1533279443086-d1c19a186416.jpeg?fit=742%2C417&ssl=1)
+![red floppy disk](https://i0.wp.com/boot.dev/wp-content/uploads/2020/03/photo-1533279443086-d1c19a186416.jpeg?fit=742%2C417&ssl=1)
 
 In one of our production apps, we were storing millions of **ints** in memory. Being on 64-bit machines, this means that we were storing 64 bits for each integer when in reality the integer stored was never greater than 10. By swapping out **ints** for **uint8s** we saved 80% of the memory that our application was using. The guy paying our cloud bill was quite happy about that.
 
@@ -54,7 +54,7 @@ The truth is that most of the standard library functions and popular packages (a
 
 ## Interfaces - Not Duck Types
 
-Interfaces allow for a kind of [polymorphism in Go](https://qvault.io/2020/03/15/best-practices-for-writing-clean-interfaces-in-go/). Their purpose is **not** to give developers a way to sneak dynamic typing into the language. I've seen developers do things like:
+Interfaces allow for a kind of [polymorphism in Go](/golang/golang-interfaces/). Their purpose is **not** to give developers a way to sneak dynamic typing into the language. I've seen developers do things like:
 
 ```go
 func jsonToDynamic(dat []byte) {
@@ -64,4 +64,4 @@ func jsonToDynamic(dat []byte) {
 }
 ```
 
-I humbly ask... why? [When unmarshalling JSON](https://qvault.io/golang/json-golang/), 99% of the time we should know the shape of the object. If we know the shape of the object, then we should unmarshal into a struct where each field's type is declared. We will even get a nice unmarshal error if the shape is malformed.
+I humbly ask... why? [When unmarshalling JSON](/golang/json-golang/), 99% of the time we should know the shape of the object. If we know the shape of the object, then we should unmarshal into a struct where each field's type is declared. We will even get a nice unmarshal error if the shape is malformed.

@@ -8,7 +8,7 @@ images:
   - /img/insert.webp
 ---
 
-Insertion sort builds a final sorted list one item at a time. It's much less efficient on large lists than more advanced algorithms like quicksort or [merge sort](https://qvault.io/golang/merge-sort-golang/). Insertion sort is a simple algorithm that works just like you would arrange playing cards in your hands. A slice is first split into sorted and unsorted sections, then values from the unsorted section are inserted into the correct position in the sorted section.
+Insertion sort builds a final sorted list one item at a time. It's much less efficient on large lists than more advanced algorithms like quicksort or [merge sort](/golang/merge-sort-golang/). Insertion sort is a simple algorithm that works just like you would arrange playing cards in your hands. A slice is first split into sorted and unsorted sections, then values from the unsorted section are inserted into the correct position in the sorted section.
 
 ![](/img/insertionsort.gif)
 
@@ -43,7 +43,7 @@ func main() {
 
 Insertion sort has a Big O complexity of `O(n^2)`, because that is its worst-case complexity. The outer loop of insertion sort executes `n` times, while the inner loop depends on the input. In the worst case (a reverse sorted array) the inner loop executes `n` times as well. In the best case (a sorted array) the inner loop immediately breaks resulting in a total complexity of `O(n)`.
 
-Like [bubble sort](https://qvault.io/golang/bubble-sort-golang/), the algorithm is just too slow for general-purpose production use, but can be a great learning tool. Here are some additional properties of insertion sort.
+Like [bubble sort](/golang/bubble-sort-golang/), the algorithm is just too slow for general-purpose production use, but can be a great learning tool. Here are some additional properties of insertion sort.
 
 - Simple implementation, easy to write
 - Fast for very small data sets

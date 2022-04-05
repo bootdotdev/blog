@@ -24,7 +24,7 @@ type User struct {
 
 ### Example marshal JSON from struct (encode)
 
-The `encoding/json` package exposes a `json.Marshal` function that allows us to generate the JSON encoding of any value, assuming that type has an encoder implemented. The good news is, all the [default types](https://qvault.io/golang/default-native-types-golang/) in Go have an encoder created out-of-the-box, and you'll usually be working with structs containing default-type fields.
+The `encoding/json` package exposes a `json.Marshal` function that allows us to generate the JSON encoding of any value, assuming that type has an encoder implemented. The good news is, all the [default types](/golang/default-native-types-golang/) in Go have an encoder created out-of-the-box, and you'll usually be working with structs containing default-type fields.
 
 ```go
 func Marshal(v interface{}) ([]byte, error)
@@ -209,13 +209,13 @@ type User struct {
 
 JSON and Go types don't match up 1-to-1. Below is a table that describes the type relationships when encoding and decoding.
 
-| Go Type                                                   | JSON Type                                                          |
-| --------------------------------------------------------- | ------------------------------------------------------------------ |
-| `bool`                                                    | `boolean`                                                          |
-| `float64`                                                 | `number`                                                           |
-| `string`                                                  | `string`                                                           |
-| nil pointer                                               | `null`                                                             |
-| `[time.Time](https://qvault.io/golang/golang-date-time/)` | [RFC 3339](https://tools.ietf.org/html/rfc3339) timestamp (string) |
+| Go Type                                | JSON Type                                                          |
+| -------------------------------------- | ------------------------------------------------------------------ |
+| `bool`                                 | `boolean`                                                          |
+| `float64`                              | `number`                                                           |
+| `string`                               | `string`                                                           |
+| nil pointer                            | `null`                                                             |
+| [time.Time](/golang/golang-date-time/) | [RFC 3339](https://tools.ietf.org/html/rfc3339) timestamp (string) |
 
 You will notice that the `float32` and `int` types are missing. Don't worry, you can certainly encode and decode numbers into these types, they just don't have an explicit type in the JSON specification. For example, if you encode an integer in JSON, it's guaranteed not to have a decimal point. However, if someone converts that JSON value to a floating-point number before you decode it, you'll get a runtime error.
 
@@ -228,7 +228,7 @@ It's rare to encounter an error when marshaling JSON data, but unmarshalling JSO
 
 ## Custom JSON marshaling
 
-While most types have a default way to encode and decode JSON data, you may want custom behavior from time to time. Luckily, the `json.Marshal` and `json.Unmarshal` respect the `[json.Marshaler](https://golang.org/pkg/encoding/json/#Marshaler)` and `[json.Unmarshaler](https://golang.org/pkg/encoding/json/#Unmarshaler)` interfaces. In order to [customize your behavior you just need to overwrite their methods](https://qvault.io/golang/golang-interfaces/) `MarshalJSON` and `UnmarshalJSON` respectively.
+While most types have a default way to encode and decode JSON data, you may want custom behavior from time to time. Luckily, the `json.Marshal` and `json.Unmarshal` respect the `[json.Marshaler](https://golang.org/pkg/encoding/json/#Marshaler)` and `[json.Unmarshaler](https://golang.org/pkg/encoding/json/#Unmarshaler)` interfaces. In order to [customize your behavior you just need to overwrite their methods](/golang/golang-interfaces/) `MarshalJSON` and `UnmarshalJSON` respectively.
 
 ```go
 type Marshaler interface {
@@ -306,7 +306,7 @@ for k, v := range m {
 // key: age, value: 30
 ```
 
-I want to point out that `map[string]interface{}` should _only_ be used when you absolutely have to. If you have a priori knowledge of the shape of the data, _please_ use a `struct` or some other concrete type. Avoid the dynamic typing provided by interfaces when working with JSON, if you want, you can always [use anonymous structs for one-off usage](https://qvault.io/golang/what-are-golangs-anonymous-structs/).
+I want to point out that `map[string]interface{}` should _only_ be used when you absolutely have to. If you have a priori knowledge of the shape of the data, _please_ use a `struct` or some other concrete type. Avoid the dynamic typing provided by interfaces when working with JSON, if you want, you can always [use anonymous structs for one-off usage](/golang/anonymous-structs-golang/).
 
 {{< cta2 >}}
 

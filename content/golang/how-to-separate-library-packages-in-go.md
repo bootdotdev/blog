@@ -65,10 +65,10 @@ Perhaps one of the most important and most broken rules is that a package should
 package classifier
 
 // ClassifyImage uses a slightly different algorithm if
-// the image comes from qvault.io
-func ClassifyImage(image []byte, isQvaultImage bool) (imageType string) {
+// the image comes from boot.dev
+func ClassifyImage(image []byte, isBootdotdevImage bool) (imageType string) {
 	return hasHotdogColors(image) && hasHotdogShape(image)
 }
 ```
 
-Here is an example of a clear violation of this rule. An image classifier shouldn't have knowledge of a "Qvault image", which we can infer is an application that happens to depend on this package. The author should have made different types of classifiers for general use, and then the dependents of the package would be able to choose the correct one. Two apps that depend on the same package needn't know about each other.
+Here is an example of a clear violation of this rule. An image classifier shouldn't have knowledge of a "boot.dev image", which we can infer is an application that happens to depend on this package. The author should have made different types of classifiers for general use, and then the dependents of the package would be able to choose the correct one. Two apps that depend on the same package needn't know about each other.

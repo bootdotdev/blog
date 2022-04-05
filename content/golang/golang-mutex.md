@@ -12,7 +12,7 @@ Golang is King when it comes to concurrency. No other language has so many tools
 
 ## What problem do mutexes solve?
 
-We don't want multiple threads accessing the same memory at the same time. In concurrent programming, we have many different threads (or in Go, [goroutines](https://qvault.io/2020/05/11/concurrency-in-rust-can-it-stack-up-against-gos-goroutines/)) that all potentially have access to the same variables in memory.
+We don't want multiple threads accessing the same memory at the same time. In concurrent programming, we have many different threads (or in Go, [goroutines](/rust/concurrency-in-rust-can-it-stack-up-against-gos-goroutines/)) that all potentially have access to the same variables in memory.
 
 One case that mutexes help us avoid is the **concurrent read/write problem**. This occurs when one thread is writing to a variable while another variable is concurrently reading from that same variable. The program will panic because the reader could be reading bad data that is being mutated in place.
 
@@ -114,7 +114,7 @@ func readLoop(m map[int]int, mux *sync.Mutex) {
 }
 ```
 
-In the code above we create a `sync.Mutex{}` and [name it mux](https://qvault.io/clean-code/naming-variables/). In the write loop, we `Lock()` the mutex before writing, and `Unlock()` it when we're done. This ensures that no other threads can `Lock()` the mutex while we have it locked - those threads will block and wait until we `Unlock()` it.
+In the code above we create a `sync.Mutex{}` and [name it mux](/clean-code/naming-variables/). In the write loop, we `Lock()` the mutex before writing, and `Unlock()` it when we're done. This ensures that no other threads can `Lock()` the mutex while we have it locked - those threads will block and wait until we `Unlock()` it.
 
 In the reading loop we `Lock()` before iterating over the map, and likewise `Unlock()` when we're done.
 

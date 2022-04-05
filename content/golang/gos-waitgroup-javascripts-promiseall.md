@@ -19,7 +19,7 @@ Let's take a look at an example of synchronous\* JavaScript code:
 const fetch = require('node-fetch')
 
 async function runSync() {
-    const resp = await fetch('https://qvault.io')
+    const resp = await fetch('https://boot.dev')
     let text = await resp.text()
     console.log(text)
     const resp2 = await fetch('https://github.com')
@@ -41,7 +41,7 @@ On order to speed this up, we want each network call to the server (using `fetch
 const fetch = require('node-fetch')
 
 async function runAsync() {
-    const promise1 = fetch('https://qvault.io')
+    const promise1 = fetch('https://boot.dev')
     const promise2 = fetch('https://github.com')
     const promise3 = fetch('https://gitlab.io')
 
@@ -72,7 +72,7 @@ import (
 )
 
 func main() {
-	getAndPrintData("https://qvault.io")
+	getAndPrintData("https://boot.dev")
 	getAndPrintData("https://github.com")
 	getAndPrintData("https://gitlab.io")
 }
@@ -97,7 +97,7 @@ import (
 )
 
 func main() {
-	go getAndPrintData("https://qvault.io")
+	go getAndPrintData("https://boot.dev")
 	go getAndPrintData("https://github.com")
 	go getAndPrintData("https://gitlab.io")
 }
@@ -130,7 +130,7 @@ func main() {
 
 	go func() {
 		defer wg.Done()
-		getAndPrintData("https://qvault.io")
+		getAndPrintData("https://boot.dev")
 	}()
 	go func() {
 		defer wg.Done()
@@ -151,7 +151,7 @@ func getAndPrintData(url string) {
 }
 ```
 
-First, we create a `WaitGroup`, in our case, `wg`. Then we use the `Add()` function to let the WaitGroup know there are 3 counters to wait for. We pass a pointer to the WaitGroup to each goroutine and use [the `defer` keyword](https://qvault.io/golang/defer-golang/) to mark a counter done when each goroutine exits.
+First, we create a `WaitGroup`, in our case, `wg`. Then we use the `Add()` function to let the WaitGroup know there are 3 counters to wait for. We pass a pointer to the WaitGroup to each goroutine and use [the `defer` keyword](/golang/defer-golang/) to mark a counter done when each goroutine exits.
 
 In the main thread we use the _Wait()_ function to block the main thread until all of the goroutines have exited.
 

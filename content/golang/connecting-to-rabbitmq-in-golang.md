@@ -11,7 +11,7 @@ images:
 
 [RabbitMQ](https://www.rabbitmq.com/features.html) is a great message broker with awesome Golang support. It's a great pub-sub system, and pub-sub has become a staple communication architecture in micro-services. At my current day job, we use RabbitMQ to push hundreds of millions of social media posts through our Go services daily.
 
-In this post, we're going to go over how to implement the low-level open-source [amqp](https://godoc.org/github.com/streadway/amqp) package. If instead, you want a higher-level abstraction that provides reasonable defaults, queue boilerplate, and automatic reconnections, check out my new post, [Using a High-Level RabbitMQ Client in Golang](https://qvault.io/2021/03/10/connecting-to-rabbitmq-in-golang-easy/).
+In this post, we're going to go over how to implement the low-level open-source [amqp](https://godoc.org/github.com/streadway/amqp) package. If instead, you want a higher-level abstraction that provides reasonable defaults, queue boilerplate, and automatic reconnections, check out my new post, [Using a High-Level RabbitMQ Client in Golang](/golang/connecting-to-rabbitmq-in-golang-easy/).
 
 ## Brief Overview On Rabbit
 
@@ -27,7 +27,7 @@ The subscribing service (the consumer) can pull messages off of a queue one at a
 
 First things first, there's no reason to reinvent the wheel. We'll use the [amqp](https://godoc.org/github.com/streadway/amqp) package provided by streadway to handle the nitty-gritty of the connection details.
 
-In most of my projects, I build a small rabbit package in the [internal folder of the project](https://qvault.io/2020/03/29/how-to-separate-library-packages-in-go/). It exposes only the rabbit functionality that our project cares about.
+In most of my projects, I build a small rabbit package in the [internal folder of the project](/golang/how-to-separate-library-packages-in-go/). It exposes only the rabbit functionality that our project cares about.
 
 ```go
 // Conn -
