@@ -8,7 +8,7 @@ images:
   - /img/Custom-Select-Component-Vue.webp
 ---
 
-Creating a custom select tag with its own styling is notoriously difficult. Sometimes it's impossible to build from scratch without a combination of styled divs and custom JavaScript. In this article, you'll learn how to create a custom select component in Vue that can be easily styled with your own CSS. In fact, it's the same component we use in production on Qvault, and you can see it in action on our [JavaScript playground](https://app.qvault.io/playground/js).
+Creating a custom select tag with its own styling is notoriously difficult. Sometimes it's impossible to build from scratch without a combination of styled divs and custom JavaScript. In this article, you'll learn how to create a custom select component in Vue that can be easily styled with your own CSS. In fact, it's the same component we use in production on boot.dev, and you can see it in action on our [JavaScript playground](https://boot.dev/playground/js).
 
 ![Vue Custom Select Example](/img/Screen-Shot-2020-09-25-at-7.09.42-AM.png)
 
@@ -160,8 +160,8 @@ Important things to note about the JavaScript:
 </style>
 ```
 
-This CSS is just an example, it's what we use in the [Qvault](https://qvault.io) app. Feel free to change the styling to whatever your needs are.
+This CSS is just an example, it's what we use in the [boot.dev](https://boot.dev) app. Feel free to change the styling to whatever your needs are.
 
 If you put the three sections together in the same file, you will be left with a well-encapsulated custom select single file component! Copying and pasting code gets a bad rep, it's usually much better than importing libraries, especially for visual components. When you do "steal" code from somewhere, always be sure you understand it!
 
-Try to practice good engineering and [computer science principles](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/) by encapsulating your components and building well-thought-out APIs. The [jobs you will qualify for](https://qvault.io/2020/12/09/highest-paying-computer-science-jobs/) will be that much better, and you'll write better code as a result!
+Try to practice good engineering and [computer science principles](/computer-science/comprehensive-guide-to-learn-computer-science-online/) by encapsulating your components and building well-thought-out APIs. The [jobs you will qualify for](/jobs/highest-paying-computer-science-jobs/) will be that much better, and you'll write better code as a result!

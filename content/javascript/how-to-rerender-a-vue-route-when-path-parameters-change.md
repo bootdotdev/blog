@@ -12,9 +12,9 @@ In single-page apps that use the [Vue Router](https://router.vuejs.org/), it's c
 
 ## How to Fix It
 
-The solution is to use another Vue hook, [beforeRouteUpdate()](https://router.vuejs.org/guide/advanced/navigation-guards.html#in-component-guards). Let's take the example of the [Qvault](https://qvault.io/) [Playground](https://app.qvault.io/playground/go). The last parameter in the Playground's path is the code language, _"js"_ or _"go"_. If the boilerplate code were only fetched using a _mounted()_ hook, then when a user changed the path parameter the boilerplate code wouldn't reload.
+The solution is to use another Vue hook, [beforeRouteUpdate()](https://router.vuejs.org/guide/advanced/navigation-guards.html#in-component-guards). Let's take the example of the [boot.dev](https://boot.dev/) [Playground](https://app.boot.dev/playground/go). The last parameter in the Playground's path is the code language, _"js"_ or _"go"_. If the boilerplate code were only fetched using a _mounted()_ hook, then when a user changed the path parameter the boilerplate code wouldn't reload.
 
-The reason that it _does_ reload is that the Qvault SPA also has the following _beforeRouteUpdate()_ hook:
+The reason that it _does_ reload is that the boot.dev SPA also has the following _beforeRouteUpdate()_ hook:
 
 ```
 beforeRouteUpdate (to, from, next) {
@@ -34,7 +34,7 @@ According to the [docs](https://router.vuejs.org/guide/advanced/navigation-guard
     - **`next('/')` or `next({ path: '/' })`**: redirect to a different location. The current navigation will be aborted and a new one will be started. You can pass any location object to `next`, which allows you to specify options like `replace: true`, `name: 'home'` and any option used in [`router-link`'s `to` prop](https://router.vuejs.org/api/#to) or [`router.push`](https://router.vuejs.org/api/#router-push)
     - **`next(error)`**: (2.4.0+) if the argument passed to `next` is an instance of `Error`, the navigation will be aborted and the error will be passed to callbacks registered via [`router.onError()`](https://router.vuejs.org/api/#router-onerror).
 
-In the case of the Qvault Playground, we are just doing the same operation that the _mounted()_ hook does: we check the language and fetch the boiler plate.
+In the case of the boot.dev Playground, we are just doing the same operation that the _mounted()_ hook does: we check the language and fetch the boiler plate.
 
 ## What If I Want All Routes To Update?
 

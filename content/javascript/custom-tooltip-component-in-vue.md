@@ -10,16 +10,16 @@ images:
 
 There are plenty of libraries out there that will have you up and running with a good tooltip solution in minutes. However, if you are like me, you are sick and tired of giant dependency trees that have the distinct possibility of breaking at any time. For that reason, we're going to build a custom single file tooltip component that you can build yourself and tweak to your heart's content. It might take 15 minutes instead of 3... sorry about that.
 
-As it happens, this is also the boilerplate for the tooltip component we use on [Qvault's coding app.](https://app.qvault.io/)
+As it happens, this is also the boilerplate for the tooltip component we use on [boot.dev's coding app.](https://boot.dev/)
 
 ## How to make other custom Vue components
 
 Before we move on, if you are looking for our other custom Vue.js components tutorials you can find them here:
 
-- [Custom select component in Vue](https://qvault.io/2020/09/25/how-to-make-a-custom-select-component-in-vue-js/)
-- [Custom toggle switch component in Vue](https://qvault.io/2020/07/21/how-to-create-a-custom-toggle-switch-component-in-vue-js/)
-- [Custom slider component in Vue](https://qvault.io/2020/11/24/how-to-make-a-custom-slider-component-in-vue/)
-- [Custom checkbox form component in Vue](https://qvault.io/2020/11/25/how-to-create-a-custom-checkbox-form-in-vue/)
+- [Custom select component in Vue](/javascript/custom-select-component-in-vue/)
+- [Custom toggle switch component in Vue](/javascript/how-to-create-a-custom-toggle-switch-component-in-vue-js/)
+- [Custom slider component in Vue](/javascript/custom-slider-component-vue/)
+- [Custom checkbox form component in Vue](/javascript/how-to-create-a-custom-checkbox-form-in-vue/)
 
 {{< cta1 >}}
 

@@ -8,7 +8,7 @@ images:
   - /img/java-vs-javascript.webp
 ---
 
-The naming of Java and JavaScript confuses many new programmers. They sound so similar, so one might think they have the same use-cases, similar properties, or maybe the same company created both languages. None of those assumptions are true! JavaScript is primarily used as a front-end in-the-browser language, like how we use it for [Qvault's courses](https://qvault.io/). Java has been used for everything from games, to desktop apps, to backend APIs. Let's go over the differences between JavaScript vs Java in this quick read.
+The naming of Java and JavaScript confuses many new programmers. They sound so similar, so one might think they have the same use-cases, similar properties, or maybe the same company created both languages. None of those assumptions are true! JavaScript is primarily used as a front-end in-the-browser language, like how we use it for [boot.dev's courses](https://boot.dev/). Java has been used for everything from games, to desktop apps, to backend APIs. Let's go over the differences between JavaScript vs Java in this quick read.
 
 ## Java - Brief History
 
@@ -84,7 +84,7 @@ What really slows JavaScript down is that it is interpreting code at runtime. At
 
 In Java, **everything** is a class and OOP is enforced in an authoritarian manner.
 
-In JavaScript, classes are optional, and [functional programming](https://qvault.io/intro-to-functional-programming/) is possible and even [encouraged](https://qvault.io/2021/02/25/benefits-of-functional-programming/) lately. JavaScript has most of the OOP paradigms available in the language. However, [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) is not as robust as it is with Java.
+In JavaScript, classes are optional, and [functional programming](https://boot.dev/intro-to-functional-programming/) is possible and even [encouraged](/clean-code/benefits-of-functional-programming/) lately. JavaScript has most of the OOP paradigms available in the language. However, [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) is not as robust as it is with Java.
 
 {{< cta2 >}}
 
