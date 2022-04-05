@@ -755,6 +755,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   line-height: 1.5rem;
 }
 
+<<<<<<< HEAD
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
@@ -765,6 +766,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   line-height: 2.5rem;
 }
 
+=======
+>>>>>>> 0cfcc13f77e9f191deaa5df81ba266b02d2f2e72
 .font-bold {
   font-weight: 700;
 }
@@ -782,6 +785,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(250 250 250 / var(--tw-text-opacity));
 }
 
+.text-blue-300 {
+  --tw-text-opacity: 1;
+  color: rgb(180 186 248 / var(--tw-text-opacity));
+}
+
 .text-blue-400 {
   --tw-text-opacity: 1;
   color: rgb(141 150 246 / var(--tw-text-opacity));
@@ -797,6 +805,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(163 163 163 / var(--tw-text-opacity));
 }
 
+<<<<<<< HEAD
 .text-gray-300 {
   --tw-text-opacity: 1;
   color: rgb(212 212 212 / var(--tw-text-opacity));
@@ -807,6 +816,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(180 186 248 / var(--tw-text-opacity));
 }
 
+=======
+>>>>>>> 0cfcc13f77e9f191deaa5df81ba266b02d2f2e72
 .underline {
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
