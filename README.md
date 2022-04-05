@@ -15,6 +15,22 @@ yarn serve
 * Markdown All in One by Yu Zhang
 * Eslint by Microsoft
 
+## Check for broken links
+
+In one terminal start the server on `localhost:1313`
+
+```bash
+yarn serve
+```
+
+Then run the check:
+
+```bash
+make buildscripts && ./bin/linkcheck
+```
+
+It will print any issues.
+
 ## Shortcodes
 
 Use the following scripts to manage global shortcodes.
