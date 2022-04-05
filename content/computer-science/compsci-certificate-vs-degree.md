@@ -8,17 +8,17 @@ images:
   - /img/pexels-artem-podrez-4492130-scaled.webp
 ---
 
-When I was looking into getting my first job related to programming, I had no idea what the difference between a certificate and a diploma was. I was terrified that I’d have to go back to school and spend [2-4 years getting a degree](https://qvault.io/jobs/programming-job-with-associates-degree/) in computer science before an employer would even blink in my direction. Unfortunately for me, two degrees in conservation biology aren’t really enough to attract any serious coding employers. Then I learned about boot camps, which eased my concerns some, but I didn’t have the time or money to spend on a 15-week program. 
+When I was looking into getting my first job related to programming, I had no idea what the difference between a certificate and a diploma was. I was terrified that I’d have to go back to school and spend [2-4 years getting a degree](/jobs/programming-job-with-associates-degree/) in computer science before an employer would even blink in my direction. Unfortunately for me, two degrees in conservation biology aren’t really enough to attract any serious coding employers. Then I learned about boot camps, which eased my concerns some, but I didn’t have the time or money to spend on a 15-week program. 
 
-The thing that ended up helping me get my first programming job was actually an online certificate I received after completing an intro to SQL course - and of course the relevant knowledge that came with my certificate. The good news is that nowadays there are plenty of [great options like Qvault](https://qvault.io/) that will teach you to code online, and hook you up with the certificate you need to get a job.
+The thing that ended up helping me get my first programming job was actually an online certificate I received after completing an intro to SQL course - and of course the relevant knowledge that came with my certificate. The good news is that nowadays there are plenty of [great options like Boot.dev](https://boot.dev/) that will teach you to code online, and hook you up with the certificate you need to get a job.
 
 ## I know what a degree is, but what exactly is a computer science certificate?
 
-A computer science certificate is an informal CS certification that programming professionals can choose to get instead of a four-year degree. Understanding the difference between a certificate or a degree in computer science will help you know which is best for you to get your first job in programming. If you want to get a coding job, you probably already know that your employers want to hire a candidate who has some kind of experience and ideally, solid qualifications. But this is where it’s easy to get stuck. Do you need a formal college degree, or can you [learn computer science online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/) and make just get an online certificate to prove your worth to employers?
+A computer science certificate is an informal CS certification that programming professionals can choose to get instead of a four-year degree. Understanding the difference between a certificate or a degree in computer science will help you know which is best for you to get your first job in programming. If you want to get a coding job, you probably already know that your employers want to hire a candidate who has some kind of experience and ideally, solid qualifications. But this is where it’s easy to get stuck. Do you need a formal college degree, or can you [learn computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/) and make just get an online certificate to prove your worth to employers?
 
 Both are ways of getting the knowledge you’ll be tested on in your interview, so it’s worth making sure you’ve picked the option that fits your current lifestyle and needs. As a just-graduated cat mom of two and cheese shop floor assistant, I couldn’t go back to school and I couldn’t dedicate months of my life to a coding boot camp - I just needed something to prove I had the chops to do what I said I could.
 
-The good news is that in 2021, many of your potential future employers won’t care if you have an Ivy League degree or if you haven’t left your house all year. If your [resume looks stellar](https://qvault.io/2020/12/14/computer-science-resumes/) and you can prove that you have what it takes to be successful in your job, you’ll be set.
+The good news is that in 2021, many of your potential future employers won’t care if you have an Ivy League degree or if you haven’t left your house all year. If your [resume looks stellar](/computer-science/computer-science-resumes/) and you can prove that you have what it takes to be successful in your job, you’ll be set.
 
 The question now becomes which works best for you when looking at the difference between a certificate or a diploma. Let’s look at the pros and cons of a degree versus a certificate when you’re trying to get a programming job.
 
@@ -30,7 +30,7 @@ You might look at both and think there's no real difference between a certificat
 
 A degree, as you probably know, is broad. It takes a lot of money and a lot of time to complete a degree in computer science, but what you get in return is a wide knowledge base, touching on several different topics of potential interest, and covering the fundamentals in a way that will make it easy for you to pick up specifics later. 
 
-An [online certificate](https://qvault.io/2020/12/15/a-certificate-in-computer-science-2021-guide/), meanwhile, is narrower in scope. It costs some time and some money to complete, and you get a more specific set of skills and experiences in return. There are certificates at every level: for beginners like me with SQL, all the way to certifying you for a very particular and specialized skill.
+An [online certificate](/jobs/guide-to-certificate-in-computer-science/), meanwhile, is narrower in scope. It costs some time and some money to complete, and you get a more specific set of skills and experiences in return. There are certificates at every level: for beginners like me with SQL, all the way to certifying you for a very particular and specialized skill.
 
 ## Do you know exactly what you want to do in your programming job? 
 
@@ -38,7 +38,7 @@ When I set out to get my job, I had only a very vague idea of what I wanted to d
 
 If you have a more specific idea than me, like you know you want to be a data scientist or that you want to be a front-end engineer, you’ll have an easier time than I did picking a course to complete for a certificate. This is a much more highly specialized knowledge that you can use to prove your worth to employers.
 
-If you’re still unsure and just know you want something programming-related, it’s worth spending some time deciding what it is you want to do before launching yourself into a degree or a certificate. You can do something similar to what I did, and look at several [CS job descriptions](https://qvault.io/2020/12/09/highest-paying-computer-science-jobs/) to see what universal skills would be handy to have or talk to any programmers you know today to see what they’d say. It might even be worth doing an “Intro to X” type course before you sink time and cash into a degree that might not end up being your passion.
+If you’re still unsure and just know you want something programming-related, it’s worth spending some time deciding what it is you want to do before launching yourself into a degree or a certificate. You can do something similar to what I did, and look at several [CS job descriptions](/jobs/highest-paying-computer-science-jobs/) to see what universal skills would be handy to have or talk to any programmers you know today to see what they’d say. It might even be worth doing an “Intro to X” type course before you sink time and cash into a degree that might not end up being your passion.
 
 ## How much time and money do you have to learn computer science?
 
@@ -46,7 +46,7 @@ As I said, I already had a job that I needed to keep in order to keep my cats fe
 
 If you do, however, there are definitely advantages. Getting a degree, even if it’s part-time or at night school, will let you cover all the bases of computer science in a way that you can then build on later. The unspoken second advantage is that like every other field, success in computer science often comes down to who you know. One of your classmates might be the next startup success, and getting to broaden your network through a degree is a benefit not enough people talk about in my opinion.
 
-That being said, especially this past year has taught us that it is possible to build any kind of community online, even [communities for learning to code](https://qvault.io/2020/11/12/top-12-best-communities-for-learning-to-code/). Plenty of courses that offer certificates are starting to offer more community-based interactions like Slack groups, discord chats, and Facebook groups that make it easy to build relationships with your peers. 
+That being said, especially this past year has taught us that it is possible to build any kind of community online, even [communities for learning to code](/misc/top-12-best-communities-for-learning-to-code/). Plenty of courses that offer certificates are starting to offer more community-based interactions like Slack groups, discord chats, and Facebook groups that make it easy to build relationships with your peers. 
 
 A possible path, if you’re really short on time and money, is to spend some time learning the basics of computer science online, through YouTube videos or even Wikipedia, then tactically choosing courses that will give you a certification in the area that matters most for you for your programming career.
 
@@ -54,7 +54,7 @@ A possible path, if you’re really short on time and money, is to spend some ti
 
 ## Do you have any knowledge of computer science basics?
 
-When I started looking for my job, I was familiar with some mathematical and statistical fundamentals thanks to my biology degree, where we covered a lot of math. That, plus my pre-existing knowledge in R, made it relatively easy for me to pick up some SQL on the side. It took me just a few weeks of my evenings to finish the course and proudly add the certificate to my [resume](https://qvault.io/2020/12/14/computer-science-resumes/). 
+When I started looking for my job, I was familiar with some mathematical and statistical fundamentals thanks to my biology degree, where we covered a lot of math. That, plus my pre-existing knowledge in R, made it relatively easy for me to pick up some SQL on the side. It took me just a few weeks of my evenings to finish the course and proudly add the certificate to my [resume](/computer-science/computer-science-resumes/). 
 
 If you got your degree in something totally unrelated, you might struggle more to jump right into the certificate area. A degree in computer science really is the best choice for a comprehensive grounding in all the fundamentals you need. However, if you’re unwilling or unable to do so, there are still options by using courses to get computer science certificates online that can still accomplish your aims.
 
