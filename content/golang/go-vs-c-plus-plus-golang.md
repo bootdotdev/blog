@@ -14,7 +14,7 @@ But with dozens of languages available, which ones are worth learning?
 
 Regardless of whether you plan to work in computer science, or casually dabble in code, the best thing you can do is understand what each language does and who uses them. That way, you know you’re learning a language that benefits you.
 
-Now, you may have seen our breakdown of [Golang vs. Python](https://qvault.io/golang/golang-vs-python/), but now it's time to see how Golang matches up to C++. We’ll compare their design, performance, speed, and security, as well as discuss key differences between the two languages and how they're used in the real world.
+Now, you may have seen our breakdown of [Golang vs. Python](/golang/golang-vs-python/), but now it's time to see how Golang matches up to C++. We’ll compare their design, performance, speed, and security, as well as discuss key differences between the two languages and how they're used in the real world.
 
 ## Golang vs C++: A Brief History
 
@@ -74,7 +74,7 @@ Object-oriented (or OOP) is when you manipulate the object, rather than the logi
 
 Now again, it doesn’t possess as many layers as high-level languages, but it has enough that you can directly control the action you’re trying to achieve. This isn’t an easy job though, as creating programs based on the interaction of objects is extremely complex.
 
-It's important to note that while C++ is an OOP language, it's also a multi-paradigm language, so it can support procedural and [functional programming](https://qvault.io/intro-to-functional-programming/). However, OOP, especially with modern C++, is its most common application.
+It's important to note that while C++ is an OOP language, it's also a multi-paradigm language, so it can support procedural and [functional programming](https://boot.dev/intro-to-functional-programming/). However, OOP, especially with modern C++, is its most common application.
 
 Golang, on the other hand, is a procedural language. For this, you simply write down the steps of the task in the order you want the computer to run them. It’s based on the concept of a series of computational steps. Golang is also a multi-paradigm language and supports functional programming.
 
@@ -164,6 +164,6 @@ C++ is perfect for traditionalists that like to get their hands dirty in code an
 
 **Golang is the modern person’s language**. People from all kinds of backgrounds are making the shift to tech, and Go welcomes them with open arms. It’s easy to use and has a scalable nature that promises a fruitful career to anyone using it.
 
-We're big fans of Go at Qvault, so much so that we've created three courses to help you learn Go! No matter your skill level, our two [Go Mastery courses](https://qvault.io/go-mastery-course/) will get you the skills you need to work as a Go programmer, and once you've got the skills, our [Go Interview Prep](https://qvault.io/go-mastery-course/) course will get you prepped to land that job!
+We're big fans of Go at boot.dev, so much so that we've created three courses to help you learn Go! No matter your skill level, our two [Go Mastery courses](https://boot.dev/go-mastery-course/) will get you the skills you need to work as a Go programmer, and once you've got the skills, our [Go Interview Prep](https://boot.dev/go-mastery-course/) course will get you prepped to land that job!
 
 Overall, to figure out which one is best, you need to figure which one are _you_. No matter the choice, Golang and C++ only continue to grow in popularity and will benefit you way into the future.

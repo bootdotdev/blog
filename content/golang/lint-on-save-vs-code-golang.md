@@ -49,4 +49,4 @@ Simply put, [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) does
 
 If it still isn't working, you likely need to reload your VS Code window and/or install the missing tools that VS Code is prompting you to install via popups in the bottom-right of the editor.
 
-I will do my best to keep this guide up to date. Let me know if it isn't working for you via [Twitter](https://qvault.io/contact/) or the [Qvault Discord](https://qvault.io/contact/).
+I will do my best to keep this guide up to date. Let me know if it isn't working for you via [Twitter](/contact/) or the [boot.dev Discord](/contact/).

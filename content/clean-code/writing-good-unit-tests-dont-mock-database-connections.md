@@ -58,7 +58,7 @@ The goal of unit tests is to test a "unit", or small portion, of code. If we can
 
 ## Good code is easier to test
 
-`logPow` is a perfect candidate for a suite of unit tests. It's a mathematical function with predictable outputs for any given inputs. Not all functions we write will be nearly this straightforward to test. However, if we can write small and ideally [pure functions where possible](https://qvault.io/2020/09/07/purity-in-my-programming-please/), writing tests for them becomes much easier.
+`logPow` is a perfect candidate for a suite of unit tests. It's a mathematical function with predictable outputs for any given inputs. Not all functions we write will be nearly this straightforward to test. However, if we can write small and ideally [pure functions where possible](/golang/pure-functions-in-golang/), writing tests for them becomes much easier.
 
 **Testing shouldn't be hard.** Simple code is easy to test.
 

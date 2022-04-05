@@ -9,7 +9,7 @@ images:
   - /img/everyday-myths-time.jpeg
 ---
 
-[time.Time](https://golang.org/pkg/time/#Time) is the perfect choice for [handling times in Go](https://qvault.io/golang/golang-date-time/) in most cases, it even comes in the standard library! The problem is that the `time.Time{}` struct uses more than **24 bytes** of memory under most conditions. [Go-TinyTime](https://github.com/wagslane/go-tinytime) solves this problem by restricting the available dates to the range between 1970 - 2106, and only supporting UTC timezones. This brings data usage down to just **4 bytes** of memory.
+[time.Time](https://golang.org/pkg/time/#Time) is the perfect choice for [handling times in Go](/golang/golang-date-time/) in most cases, it even comes in the standard library! The problem is that the `time.Time{}` struct uses more than **24 bytes** of memory under most conditions. [Go-TinyTime](https://github.com/wagslane/go-tinytime) solves this problem by restricting the available dates to the range between 1970 - 2106, and only supporting UTC timezones. This brings data usage down to just **4 bytes** of memory.
 
 [Go-TinyDate](https://github.com/wagslane/go-tinydate) is its sister package that allows for a much larger date range but doesn't get more than **day** precision. Between **time.Time**, **go-tinydate**, and **go-tinytime** all of our time problems can be solved using the same API.
 
@@ -56,6 +56,6 @@ The tinytime.TinyTime API largely mirrors that of time.Time. The only methods mi
 
 ## TinyDate
 
-If you need a larger date range, be sure to check out the [intro to Go-TinyDate](https://qvault.io/2020/03/23/i-wrote-go-tinydate-the-missing-golang-date-package/).
+If you need a larger date range, be sure to check out the [intro to Go-TinyDate](/golang/i-wrote-go-tinydate-the-missing-golang-date-package/).
 
 ![tiny fragile box](/img/package-1024x683.jpeg)

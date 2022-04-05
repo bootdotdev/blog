@@ -10,7 +10,7 @@ images:
 
 Clean code is like clean garbage - it's only clean if it doesn't exist. In other words, the only clean code is [no code](https://github.com/kelseyhightower/nocode). Let's start with an acknowledgment that a perfectly clean (empty) codebase is useless, that is, without code, we can't provide value to our users. With that in mind, our pursuit of "clean code" will necessarily consist of tradeoffs. We'll trade usefulness for cleanliness, complexity for speed, ownership for ease of development, and abstractions for reusability.
 
-DRY (don't repeat yourself) code is often held aloft as an ideal in the quest for clean code. Let's explore why I think DRY can be a good [heuristic](https://qvault.io/2020/11/30/examples-of-heuristics-in-computer-science/), but far from an absolute.
+DRY (don't repeat yourself) code is often held aloft as an ideal in the quest for clean code. Let's explore why I think DRY can be a good [heuristic](/computer-science/examples-of-heuristics-in-computer-science/), but far from an absolute.
 
 ## What is DRY Code?
 
@@ -168,7 +168,7 @@ WET stands for "write everything twice", and forces you to think a bit harder ab
 
 ### 2\. Is it testable?
 
-Most functions should be predictable and testable. They should behave like math functions or [pure functions](https://qvault.io/golang/pure-functions-in-golang/) - given a set of inputs you'll always receive the same outputs, and the state of the program isn't mutated. If the code you're thinking about condensing into a function can be a pure function, then it's likely a better idea than if it were an impure function.
+Most functions should be predictable and testable. They should behave like math functions or [pure functions](/golang/pure-functions-in-golang/) - given a set of inputs you'll always receive the same outputs, and the state of the program isn't mutated. If the code you're thinking about condensing into a function can be a pure function, then it's likely a better idea than if it were an impure function.
 
 Pure functions are easy to write good unit tests for - if your abstraction is easily testable it's more likely to be a good abstraction.
 

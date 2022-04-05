@@ -31,7 +31,7 @@ Let's jump right into the top 8 reasons you should look into a functional style 
 
 ### 1\. Pure functions are better than impure functions
 
-A [pure function](https://qvault.io/2020/09/07/how-to-make-pure-functions-in-go/) is a function that has both of the following properties:
+A [pure function](/golang/pure-functions-in-golang/) is a function that has both of the following properties:
 
 - Its return value is the same for the same arguments (no variation with local static variables, non-local variables, mutable reference arguments, or input streams from I/O devices).
 - Its evaluation has no side effects (no mutation of local static variables, non-local variables, mutable reference arguments or I/O streams).
@@ -104,7 +104,7 @@ func areaOfCircle() float64 {
 }
 ```
 
-If two separate threads ([goroutines](https://qvault.io/2020/05/11/concurrency-in-rust-can-it-stack-up-against-gos-goroutines/)) are accessing the `areaOfCircle` function at the same time and altering the value of `radius`, one process could easily overwrite the other's value of radius and one thread ends up with the output that was intended for the other thread.
+If two separate threads ([goroutines](/rust/concurrency-in-rust-can-it-stack-up-against-gos-goroutines/?_ga=2.84789082.296037147.1649171050-1013439933.1641951325)) are accessing the `areaOfCircle` function at the same time and altering the value of `radius`, one process could easily overwrite the other's value of radius and one thread ends up with the output that was intended for the other thread.
 
 ### 7\. Recursion is simpler, though not necessarily easier to learn
 

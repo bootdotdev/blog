@@ -8,7 +8,7 @@ images:
   - /img/00overlooked-alanturing-3-facebookJumbo.webp
 ---
 
-Software engineering and [computer science](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/) are [not the same](https://qvault.io/computer-science/computer-science-vs-software-engineering/). Computer scientists aren't always software engineers, and unfortunately, many software engineers don't know much about computer science. Software engineers focus on building products, writing maintainable code, and deploying maintainable architecture. Computer Science is the fundamental mathematics that software engineering is built upon.
+Software engineering and [computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/) are [not the same](/computer-science/computer-science-vs-software-engineering/). Computer scientists aren't always software engineers, and unfortunately, many software engineers don't know much about computer science. Software engineers focus on building products, writing maintainable code, and deploying maintainable architecture. Computer Science is the fundamental mathematics that software engineering is built upon.
 
 ## What exactly is computer science?
 
@@ -40,6 +40,6 @@ Nowadays, front-end developers need to have strong logic and programming skills 
 
 ## Where should you start learning?
 
-There are millions of topics in the computer science field, and no one understands them all, but below I've listed some good starting points. You could even spend years just studying [history of computer science](https://qvault.io/2020/12/03/the-history-of-computer-science/), but if you're looking for a job in tech, your time will be better spent learning the actual concepts.
+There are millions of topics in the computer science field, and no one understands them all, but below I've listed some good starting points. You could even spend years just studying [history of computer science](/computer-science/the-history-of-computer-science/), but if you're looking for a job in tech, your time will be better spent learning the actual concepts.
 
-In the following list, we'll give a quick breakdown of the most important concepts to study, though we have a more detailed list in our [comprehensive guide to learning CS online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/) if you're interested in that.
+In the following list, we'll give a quick breakdown of the most important concepts to study, though we have a more detailed list in our [comprehensive guide to learning CS online](/computer-science/comprehensive-guide-to-learn-computer-science-online/) if you're interested in that.

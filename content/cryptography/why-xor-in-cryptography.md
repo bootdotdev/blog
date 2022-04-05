@@ -9,7 +9,7 @@ images:
   - /img/math.webp
 ---
 
-If you are getting into [cryptography](https://qvault.io/cryptography/what-is-cryptography/), or just trying to understand the fundamentals, you may have noticed that the `exclusive-or` (XOR) operation is used quite often, especially in ciphers. XOR is a simple bitwise operation that allows cryptographers to create strong encryption systems, and consequently is a fundamental building block of practically all modern ciphers. Let's dive into the details and see what makes XOR so important.
+If you are getting into [cryptography](/cryptography/what-is-cryptography/), or just trying to understand the fundamentals, you may have noticed that the `exclusive-or` (XOR) operation is used quite often, especially in ciphers. XOR is a simple bitwise operation that allows cryptographers to create strong encryption systems, and consequently is a fundamental building block of practically all modern ciphers. Let's dive into the details and see what makes XOR so important.
 
 ## What is XOR (**⊕**)?
 
@@ -76,4 +76,4 @@ And, as we demonstrated in our example:
 
 ## Is XOR used in production ciphers?
 
-The simple XOR cipher isn't used in production because it is impractical to use keys that are the same length as the message body. However, the XOR is still extremely useful. In fact, it is used in almost all symmetric encryption algorithms. XOR is the primary operation in the ["add round key" step of AES-256](https://qvault.io/2020/01/02/very-basic-intro-to-aes-256-cipher/). It is also used in the [DES cipher.](http://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm)
+The simple XOR cipher isn't used in production because it is impractical to use keys that are the same length as the message body. However, the XOR is still extremely useful. In fact, it is used in almost all symmetric encryption algorithms. XOR is the primary operation in the ["add round key" step of AES-256](/cryptography/aes-256-cipher/). It is also used in the [DES cipher.](http://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm)

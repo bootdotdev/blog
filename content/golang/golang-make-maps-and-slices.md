@@ -23,7 +23,7 @@ newStyle := new([]string)
 makeStyle := make([]string, 0)
 ```
 
-`var varStyle []string` is the idiomatic way to declare an _empty_ slice. The slice is actually `nil`, which means it will be `null` when [marshalled to JSON](https://qvault.io/golang/json-golang/) and will succeed nil checks.
+`var varStyle []string` is the idiomatic way to declare an _empty_ slice. The slice is actually `nil`, which means it will be `null` when [marshalled to JSON](/golang/json-golang/) and will succeed nil checks.
 
 `literalStyle := []string{}` should probably only be used when the literal is going to **start with values in it**, as in `literalStyle := []string{"cat", "dog", etc}`. Otherwise prefer `make()`
 
@@ -58,4 +58,4 @@ makeStyle := make(map[string]int)
 makeStyle := make(map[string]int, 10)
 ```
 
-Check out our [How To: Global Constant Maps and Slices](https://qvault.io/2019/10/21/how-to-global-constant-maps-and-slices-in-go/) article if you want to learn more about the proper use of maps and slices in Go.
+Check out our [How To: Global Constant Maps and Slices](/golang/golang-constant-maps-slices/) article if you want to learn more about the proper use of maps and slices in Go.

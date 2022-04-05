@@ -25,13 +25,13 @@ Asymmetric encryption is preferred when you want someone to be able to send you
 
 The secret key used in AES-256 must be 256 bits long. In order to use a password or passphrase as the key, a [hashing algorithm](https://blog.goodaudience.com/very-basic-intro-to-hash-functions-sha-256-md-5-etc-ed721622ff8) needs to be used to extend the length.
 
-The shorter the password or passphrase, the easier it is for an attacker to decrypt the data by guessing passwords, hashing them, and attempting to decrypt the message. In order to mitigate this threat, some applications enforce safeguards, such as using a [KDF](https://qvault.io/2019/12/30/very-basic-intro-to-key-derivation-functions-argon2-scrypt-etc/).
+The shorter the password or passphrase, the easier it is for an attacker to decrypt the data by guessing passwords, hashing them, and attempting to decrypt the message. In order to mitigate this threat, some applications enforce safeguards, such as using a [KDF](/cryptography/key-derivation-functions/).
 
 # Encryption Process Overview
 
 Let's walk through the steps of the AES ciphering process, also known as the [Rijndael](https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf) cipher.
 
-1\. Choose a password, then derive a short key from that password (using a function like [Scrypt](https://qvault.io/2020/07/25/very-basic-intro-to-the-scrypt-hash/) or [SHA-256](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)). This short key will then be expanded using a [key schedule](https://en.wikipedia.org/wiki/Rijndael_key_schedule) to get separate “round keys” for each round of AES-256.
+1\. Choose a password, then derive a short key from that password (using a function like [Scrypt](/cryptography/very-basic-intro-to-the-scrypt-hash/) or [SHA-256](/cryptography/how-sha-2-works-step-by-step-sha-256/)). This short key will then be expanded using a [key schedule](https://en.wikipedia.org/wiki/Rijndael_key_schedule) to get separate “round keys” for each round of AES-256.
 
 password: password12345678 →
 short key: aafeeba6959ebeeb96519d5dcf0bcc069f81e4bb56c246d04872db92666e6d4b →

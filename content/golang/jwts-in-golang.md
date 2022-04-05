@@ -18,7 +18,7 @@ Go is becoming very popular for backend web development, and JWT's are one of th
 > 
 > [https://jwt.io/](https://jwt.io/)
 
-More simply put, JWT's are [encoded JSON objects](https://qvault.io/golang/json-golang/) that have been signed by the server, verifying authenticity.
+More simply put, JWT's are [encoded JSON objects](/golang/json-golang/) that have been signed by the server, verifying authenticity.
 
 For example, when a user logs in to a website secured via JWTs, the flow should look something like this:
 
@@ -26,7 +26,7 @@ For example, when a user logs in to a website secured via JWTs, the flow should 
 2. The server verifies username and password are correct
 3. The server creates a JSON object (also known as the "claims") that looks something like this:
     1. `{"username":"wagslane"}`
-4. The server [encodes](https://qvault.io/2019/08/14/stop-with-the-obfuscation-encoding-and-encryption-are-not-the-same/) and [signs](https://qvault.io/2019/12/12/hmac-and-mac-explained-simply-building-secure-auth-with-jwts/) the JSON object, creating a JWT:
+4. The server [encodes](/security/encoding-vs-encryption/) and [signs](/cryptography/hmac-and-macs-in-jwts/) the JSON object, creating a JWT:
     1. `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndhZ3NsYW5lIn0.ov6d8XtwQoKUwsYahk9UwH333NICElFSs6ag6pINyPQ`
 5. The user's web client saves the JWT for later use
 6. When the user makes a request to a protected endpoint, it passes the JWT along in an HTTP header

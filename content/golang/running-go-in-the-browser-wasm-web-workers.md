@@ -9,13 +9,13 @@ images:
   - /img/WASM-Web-Workers.png
 ---
 
-We've recently made big changes to how we execute Go in the browser on [Qvault](https://qvault.io/) and want to explain the enhancements. Web Workers are the reason we've been able to solve some of the serious browser-related coding problems that were holding us back. Consider this article a sequel to [Running Go in the Browser with Web Assembly](https://qvault.io/2020/07/01/running-go-in-the-browser-with-web-assembly-wasm/).
+We've recently made big changes to how we execute Go in the browser on [boot.dev](https://boot.dev/) and want to explain the enhancements. Web Workers are the reason we've been able to solve some of the serious browser-related coding problems that were holding us back. Consider this article a sequel to [Running Go in the Browser with Web Assembly](/golang/running-go-in-the-browser-with-web-assembly-wasm/).
 
-While publishing our latest course, [Big-O Algorithms](https://qvault.io/big-o-algorithms-course/), we needed a way to print console output while code is still executing. We ran into a problem when running computationally expensive algorithms in the browser; the browser gets so bogged down that it can't render new lines of output. We decided to implement web workers, and they solved the problem handily.
+While publishing our latest course, [Big-O Algorithms](https://boot.dev/big-o-algorithms-course/), we needed a way to print console output while code is still executing. We ran into a problem when running computationally expensive algorithms in the browser; the browser gets so bogged down that it can't render new lines of output. We decided to implement web workers, and they solved the problem handily.
 
 ## The Problem
 
-In the old Qvault, console output was all printed at once. The program executed, then the output was displayed. We found this to be less than ideal because it is often useful to see _when_ something prints, especially when trying to optimize an algorithm for speed.
+In the old boot.dev, console output was all printed at once. The program executed, then the output was displayed. We found this to be less than ideal because it is often useful to see _when_ something prints, especially when trying to optimize an algorithm for speed.
 
 For example, this code used to print all of its output at once:
 
@@ -36,7 +36,7 @@ func main(){
 }
 ```
 
-Since adding Web Workers, now it appropriately prints each number at the time of execution. You can see for yourself on the [playground here](https://app.qvault.io/playground/go).
+Since adding Web Workers, now it appropriately prints each number at the time of execution. You can see for yourself on the [playground here](https://boot.dev/playground/go).
 
 ## What Is a Web Worker?
 
@@ -48,7 +48,7 @@ In other words, its a way for us to finally break free from the single-threaded 
 
 ## How It Works - The Worker
 
-As you know, we compile code in the editor to WASM on our servers. If you are curious about that part, you can read about it in our [previous post.](https://qvault.io/2020/07/01/running-go-in-the-browser-with-web-assembly-wasm/) Once the code is compiled to Web Assembly, it's shipped back to our front end for execution.
+As you know, we compile code in the editor to WASM on our servers. If you are curious about that part, you can read about it in our [previous post.](/golang/running-go-in-the-browser-with-web-assembly-wasm/) Once the code is compiled to Web Assembly, it's shipped back to our front end for execution.
 
 In order to run a Web Worker, we need a script that defines the worker. It's just a JavaScript file:
 

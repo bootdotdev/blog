@@ -34,7 +34,7 @@ cd go-rabbitmq
 
 ## Step 2 - Folder Structure
 
-After running `cd` to get into our new project, we create an `internal` directory that will store packages that are meant to be scoped to this project. It will usually contain packages like `database`, `kafka`, `bayesian`, etc. If you didn't know, the [`internal` directory](https://qvault.io/2020/03/29/how-to-separate-library-packages-in-go/) is a Go convention and doesn't allow the Go compiler to accidentally use its packages in an external project.
+After running `cd` to get into our new project, we create an `internal` directory that will store packages that are meant to be scoped to this project. It will usually contain packages like `database`, `kafka`, `bayesian`, etc. If you didn't know, the [`internal` directory](/golang/how-to-separate-library-packages-in-go/) is a Go convention and doesn't allow the Go compiler to accidentally use its packages in an external project.
 
 Next, we create a `cmd` folder where we'll store all the executable `main` packages that will be built at compile time. Each executable will have its own directory in `cmd`.
 

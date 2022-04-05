@@ -11,7 +11,7 @@ images:
 
 There are many jobs within the software industry, and most of them are easier to land, or are higher-paying once you land them, if you have a solid grasp of computer science fundamentals. You don't need a degree from an accredited university in 90% of cases, but you do need to learn the material, whether it be online, on the job, or in a formal setting. Let's explore the most common computer science job titles and their associated compensation, details, and duties.
 
-If you don't feel you have a solid grasp of basic computer science skills yet, don't worry! Here at Qvault, we offer straight-forward courses designed to get you a computer science job, without having to take out student loans or go to night school. You can [sign up and demo them](https://qvault.io/) for free.
+If you don't feel you have a solid grasp of basic computer science skills yet, don't worry! Here at Boot.dev, we offer straight-forward courses designed to get you a computer science job, without having to take out student loans or go to night school. You can [sign up and demo them](https://boot.dev/) for free.
 
 ## Median salaries for CS jobs in the US
 
@@ -43,9 +43,9 @@ In the table below you'll find the median salaries for various programming jobs 
 
 Developer Salary Info 2020
 
-Let's jump into each role and see what makes them worth their salaries, the [future outlooks](https://qvault.io/2020/12/08/whats-the-job-outlook-for-computer-science-students/) for the positions, the average level of experience required for each position, and some of the best ways you can move into one of these careers. Oftentimes a degree is useful for landing these jobs, but it is almost never required, and [learning computer science online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/) is a great alternative that can save serious time and money.
+Let's jump into each role and see what makes them worth their salaries, the [future outlooks](/jobs/whats-the-job-outlook-for-computer-science-students/) for the positions, the average level of experience required for each position, and some of the best ways you can move into one of these careers. Oftentimes a degree is useful for landing these jobs, but it is almost never required, and [learning computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/) is a great alternative that can save serious time and money.
 
-The job titles listed here are, for the most part, very different. If you are planning on applying to two or three different kind of jobs, you should also have two or three [distinct resumes](https://qvault.io/2020/12/14/computer-science-resumes/) you use. Each resume can be tailored to the specific job posting.
+The job titles listed here are, for the most part, very different. If you are planning on applying to two or three different kind of jobs, you should also have two or three [distinct resumes](/computer-science/computer-science-resumes/) you use. Each resume can be tailored to the specific job posting.
 
 {{< cta1 >}}
 
@@ -84,7 +84,7 @@ If you haven't heard of DevOps, you probably need to get your head out of the sa
 
 ## Data Scientist or Machine Learning Specialist - $125,000/yr
 
-Artificial intelligence and Machine Learning are at the forefront of many new technologies such as self-driving cars, personal digital assistants (Google Assistant, Amazon Alexa), and even just automated vacuums like the Roomba. Since this field is growing so quickly, it can be hard for employers to find great talent, and competition is fierce. Becoming familiar with common AI algorithms, [heuristics](https://qvault.io/2020/11/30/examples-of-heuristics-in-computer-science/), and frameworks like Tensorflow can be enough to get yourself a job in the industry.
+Artificial intelligence and Machine Learning are at the forefront of many new technologies such as self-driving cars, personal digital assistants (Google Assistant, Amazon Alexa), and even just automated vacuums like the Roomba. Since this field is growing so quickly, it can be hard for employers to find great talent, and competition is fierce. Becoming familiar with common AI algorithms, [heuristics](/computer-science/examples-of-heuristics-in-computer-science/), and frameworks like Tensorflow can be enough to get yourself a job in the industry.
 
 ### Responsibilities:
 
@@ -238,7 +238,7 @@ Desktop developers write code for applications that run natively on computer's o
 
 ## Educator - $115,000/yr
 
-Programming teachers, instructors, and professors can provide instruction on a wide range of computer science and coding courses. Curriculums vary widely depending on if the educator works at a university, for an eLearning site, or at a [developer bootcamp](https://qvault.io/2020/11/19/getting-a-job-after-coding-bootcamp-is-hard/).
+Programming teachers, instructors, and professors can provide instruction on a wide range of computer science and coding courses. Curriculums vary widely depending on if the educator works at a university, for an eLearning site, or at a [developer bootcamp](/jobs/getting-a-job-after-coding-bootcamp-is-hard/).
 
 ### Responsibilities:
 
@@ -349,4 +349,4 @@ UI/UX designers typically don't need any CS or programming experience, but I've 
 
 ## Good Luck!
 
-If you're new to the computer science field, be sure to check out our article on getting your [first coding job without any experience](https://qvault.io/2021/01/06/get-a-programming-job-with-no-experience/).
+If you're new to the computer science field, be sure to check out our article on getting your [first coding job without any experience](/jobs/get-a-programming-job-with-no-experience/).

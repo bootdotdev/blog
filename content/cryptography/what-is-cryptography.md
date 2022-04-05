@@ -35,7 +35,7 @@ Data Confidentiality ensures that the data is limited to those who are authorize
 
 ### Integrity
 
-[Data integrity](https://qvault.io/cryptography/achieving-data-integrity-using-cryptography/) refers to the accuracy, legitimacy, and consistency of information in a system. When a message is sent, particularly using an untrusted medium like the internet, data integrity ensures us that a message wasn’t tampered with or accidentally altered.
+[Data integrity](/cryptography/achieving-data-integrity-using-cryptography/) refers to the accuracy, legitimacy, and consistency of information in a system. When a message is sent, particularly using an untrusted medium like the internet, data integrity ensures us that a message wasn’t tampered with or accidentally altered.
 
 Let's use the example of military orders. We're at war and an army general needs to send an order of retreat to his troops across the sea. Without a guarantee of data integrity, a hacker could intercept the message, change the order, and send it on its way. The army might receive an order to advance and walk right into a trap the general knew about.
 
@@ -49,12 +49,12 @@ Non-repudiation is similar to data integrity, but it has more to do with knowing
 
 There are two kinds of authentication typically used in cryptography.
 
-1. Integrity authentication like a [MAC or HMAC](https://qvault.io/cryptography/hmac-and-macs-in-jwts/) ensures that data hasn't been tampered with.
+1. Integrity authentication like a [MAC or HMAC](/cryptography/hmac-and-macs-in-jwts/) ensures that data hasn't been tampered with.
 2. Source authentication, like an [SSL certificate](https://en.wikipedia.org/wiki/Certificate_authority), can be used to verify the identity of who created the information. Every time you connect to a website over HTTPS, your browser ensures that you're connected to the site you think you are by checking the SSL certificate.
 
 ## Guidelines for cryptographers
 
-[Never try to design your own cryptosystem. The best cryptographers in the world](https://qvault.io/cryptography/is-open-source-cryptography-really-secure/) routinely design cryptosystems with serious security flaws. As it turns out, it's _really_ hard to build a secure system. There are just too many attack vectors to consider.
+[Never try to design your own cryptosystem. The best cryptographers in the world](/cryptography/is-open-source-cryptography-really-secure/) routinely design cryptosystems with serious security flaws. As it turns out, it's _really_ hard to build a secure system. There are just too many attack vectors to consider.
 
 For a cryptosystem to be considered "secure enough" it needs to go through intense scrutiny by the security community. "Security through obscurity", or the fact that attackers may not have knowledge of your system, is something that should never be relied on. In fact, good systems do expose to attackers how they work. Only the private keys should be kept secret.
 
@@ -69,12 +69,12 @@ Always take reasonable steps to protect any keys that your software systems use.
 Let's take a look at a few rules of thumb for securely storing keys.
 
 1. **Protect your private keys with strong access control lists**, or ACLs. Follow the principle of least privilege, that is, only allow those you really need the keys to get access to them.
-2. **Use a secure password or secret manager** to keep track of your keys. Good secret managers will encrypt your keys using a strong [key-derivation function](https://qvault.io/cryptography/key-derivation-functions/) like [bcrypt](https://qvault.io/golang/bcrypt-step-by-step/) or [scrypt](https://qvault.io/cryptography/very-basic-intro-to-the-scrypt-hash/).
+2. **Use a secure password or secret manager** to keep track of your keys. Good secret managers will encrypt your keys using a strong [key-derivation function](/cryptography/key-derivation-functions/) like [bcrypt](/cryptography/bcrypt-step-by-step/) or [scrypt](/cryptography/very-basic-intro-to-the-scrypt-hash/).
 3. **In extreme cases, a hardware security module** is a physical device that can be used to store keys offline securely. Software applications can then access HSMs connected to the same machine. The HSM actualy performs decryption on the HSM itself, so the keys never leave the device.
 
 Lastly, ensure you only use key strengths and operating modes that comply with the latest industry best practices. For example, AES-256 should typically be used over AES-128, if for no other reason than its larger key size provides more entropy when going up against a quantum algorithm.
 
-For more information, read our post on [whether open-source cryptography really is secure](https://qvault.io/cryptography/is-open-source-cryptography-really-secure/)
+For more information, read our post on [whether open-source cryptography really is secure](/cryptography/is-open-source-cryptography-really-secure/)
 
 ## What practical problems does cryptography solve?
 
@@ -107,7 +107,7 @@ Symmetric encryption uses the **same key** for encryption and decryption. The se
 
 The answer is that for communication to another party, you'll probably want to use asymmetric encryption, which we'll cover shortly. Symmetric encryption excels when you're encrypting information at rest. For example, your password manager encrypts your passwords, but they aren't being sent to anyone. You only need one key, because you're the only one using it.
 
-Common symmetric encryption algorithms include [AES](https://qvault.io/cryptography/aes-256-cipher/) and [DES](https://en.wikipedia.org/wiki/Data_Encryption_Standard).
+Common symmetric encryption algorithms include [AES](/cryptography/aes-256-cipher/) and [DES](https://en.wikipedia.org/wiki/Data_Encryption_Standard).
 
 ![symmetric encryption vs asymmetric encryption](/img/Symmetric-vs-Asymmetric-Cryptography-min-1024x1024.png)
 
@@ -119,7 +119,7 @@ If I want to receive a message from my wife, I would send her my public key. The
 
 My wife would then use my public key to encrypt a message for me. Now, since I'm the only one that owns the corresponding private key, I'll be able to decrypt that message once I receive it.
 
-Common asymmetric encryption algorithms [ECC](https://qvault.io/cryptography/elliptic-curve-cryptography) and [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)).
+Common asymmetric encryption algorithms [ECC](/cryptography/elliptic-curve-cryptography/) and [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)).
 
 | Properties              | Symmetric                       | Asymmetric                                        |
 | ----------------------- | ------------------------------- | ------------------------------------------------- |
@@ -130,11 +130,11 @@ Common asymmetric encryption algorithms [ECC](https://qvault.io/cryptography/ell
 
 ### ****Hash Functions****
 
-The third most common type of cryptography involves [hash functions](https://qvault.io/security/very-basic-intro-to-hash-functions-sha-256-md-5-etc/). No key is used in this algorithm. A fixed-length value is calculated from the plaintext, which makes it impossible for the contents of the plaintext to be recovered.
+The third most common type of cryptography involves [hash functions](/security/hash-functions/). No key is used in this algorithm. A fixed-length value is calculated from the plaintext, which makes it impossible for the contents of the plaintext to be recovered.
 
 However, because the same plaintext will always hash to the same output, it can be used to, for example, compare passwords without ever storing them.
 
-Popular hashing functions include [SHA-256](https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/), [Bcrypt](https://qvault.io/golang/bcrypt-step-by-step/), and [Scrypt](https://qvault.io/cryptography/very-basic-intro-to-the-scrypt-hash).
+Popular hashing functions include [SHA-256](/cryptography/how-sha-2-works-step-by-step-sha-256/), [Bcrypt](/cryptography/bcrypt-step-by-step/), and [Scrypt](/cryptography/very-basic-intro-to-the-scrypt-hash/).
 
 ## Cryptology vs cryptography vs cryptanalysis
 
@@ -152,7 +152,7 @@ Cryptology is extremely heavy on mathematics, such as number theory and the appl
 
 People often lazily use "cryptography" in place of the word "cryptology", but in reality, cryptography focuses only on building cryptosystems.
 
-For example, the design of [AES-256](https://qvault.io/cryptography/aes-256-cipher/), the system that allows us to encrypt the personal information on our phones and laptops, would have been primarily _cryptography_ work.
+For example, the design of [AES-256](/cryptography/aes-256-cipher/), the system that allows us to encrypt the personal information on our phones and laptops, would have been primarily _cryptography_ work.
 
 ### Cryptanalysis
 
@@ -160,7 +160,7 @@ Cryptanalysis is the inverse of cryptography. It's the study of how to break s
 
 Imagine that the FBI gets ahold of your personal mobile phone, and they want to snoop around to see what you've been up to. The methods they would employ to "crack" the code and decrypt the contents of your phone would be cryptanalysis techniques.
 
-For more information, we have a full post on [cryptology vs cryptography](https://qvault.io/security/cryptology-vs-cryptography/)
+For more information, we have a full post on [cryptology vs cryptography](/security/cryptology-vs-cryptography/)
 
 ## What is quantum computing, and will quantum computing break cryptography?
 
@@ -168,9 +168,9 @@ Where a classical bit holds a single binary value such as `0` or `1`, a [qubit](
 
 Many asymmetric encryption algorithms have been mathematically proven to be broken by quantum computers using [Shor’s algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm). Because algorithms like RSA rely heavily on the fact that normal computers can’t find prime factors quickly, they have remained secure for years. With quantum computers breaking that assumption, then it may be time to find new standards.
 
-On the other hand, symmetric encryption, or more specifically [AES-256](https://qvault.io/cryptography/aes-256-cipher/), is believed to be quantum-resistant. That means that [quantum computers are not expected](https://en.wikipedia.org/wiki/Post-quantum_cryptography#Symmetric_key_quantum_resistance) to be able to reduce the attack time enough to be effective if the key sizes are large enough.
+On the other hand, symmetric encryption, or more specifically [AES-256](/cryptography/aes-256-cipher/), is believed to be quantum-resistant. That means that [quantum computers are not expected](https://en.wikipedia.org/wiki/Post-quantum_cryptography#Symmetric_key_quantum_resistance) to be able to reduce the attack time enough to be effective if the key sizes are large enough.
 
-For more information, read our post on [whether AES-256 is quantum resistant](https://qvault.io/cryptography/is-aes-256-quantum-resistant/)
+For more information, read our post on [whether AES-256 is quantum resistant](/cryptography/is-aes-256-quantum-resistant/)
 
 ## How do Bitcoin, cryptocurrency and other blockchains utilize cryptography?
 
@@ -199,7 +199,7 @@ Cryptology is a _very_ young science. Although humans have had rudimentary forms
 - **1994** - [Secure Sockets Layer (SSL)](https://en.wikipedia.org/wiki/Secure_Sockets_Layer) encryption protocol released by Netscape, which now secures the majority of the modern web.
 - **1994** – [Peter Shor devises an algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm) which lets quantum computers determine the factorization of large integers quickly.
 - **1997** - DES Broken by exhaustive search. In 1997 and the following years, DES was broken by an exhaustive search attack. The main problem with DES was the small size of the encryption key. As computing power increased, it became easy to brute force all the different combinations of the key to get a possible plaintext message.
-- **2000** - [AES](https://qvault.io/cryptography/aes-256-cipher/) accepted as DES replacement. In 1997, NIST again put out a request for proposal for a new block cipher. It received 50 submissions. In 2000, it accepted Rijndael, and christened it as AES or the Advanced Encryption Standard.
+- **2000** - [AES](/cryptography/aes-256-cipher/) accepted as DES replacement. In 1997, NIST again put out a request for proposal for a new block cipher. It received 50 submissions. In 2000, it accepted Rijndael, and christened it as AES or the Advanced Encryption Standard.
 - **2004** - [MD5](https://en.wikipedia.org/wiki/MD5) shown to be vulnerable to collisions
 - **2009** - [Bitcoin](https://bitcoin.org/en/) network launch
 
@@ -207,6 +207,6 @@ Cryptology is a _very_ young science. Although humans have had rudimentary forms
 
 ## For further study
 
-**For beginners:** If you've been inspired to learn cryptography as a beginner to coding and computer science, we have an entire computer science course curriculum to take you from complete beginner to graduate level. As cryptography is a more advanced topic, we suggest you start with our [Intro to Coding with JavaScript courses](https://qvault.io/basic-intro-to-coding-javascript-course/).
+**For beginners:** If you've been inspired to learn cryptography as a beginner to coding and computer science, we have an entire computer science course curriculum to take you from complete beginner to graduate level. As cryptography is a more advanced topic, we suggest you start with our [Intro to Coding with JavaScript courses](https://boot.dev/basic-intro-to-coding-javascript-course/).
 
-**For experienced coders:** We recommend our [Practical Cryptography course](https://qvault.io/practical-cryptography-course/) which covers everything from the basics of encryption and brute force attacks to stream ciphers, block ciphers, and hash functions.
+**For experienced coders:** We recommend our [Practical Cryptography course](https://boot.dev/practical-cryptography-course/) which covers everything from the basics of encryption and brute force attacks to stream ciphers, block ciphers, and hash functions.

@@ -10,9 +10,9 @@ images:
   - /img/1_RbxKUerkTr8T62uuQ64M8Q.webp
 ---
 
-Hash functions are used to securely store passwords, find duplicate records, quickly store and retrieve data, among other useful computational tasks. As a practical example, all user passwords on [Qvault](https://qvault.io/) are hashed using [Bcrypt](https://qvault.io/2020/08/24/bcrypt-step-by-step/) to ensure that if an attacker were ever to gain access to our database our user's passwords wouldn't be compromised.
+Hash functions are used to securely store passwords, find duplicate records, quickly store and retrieve data, among other useful computational tasks. As a practical example, all user passwords on [boot.dev](https://boot.dev/) are hashed using [Bcrypt](/cryptography/bcrypt-step-by-step/) to ensure that if an attacker were ever to gain access to our database our user's passwords wouldn't be compromised.
 
-I want to focus on several important features of [cryptographic](https://qvault.io/cryptography/what-is-cryptography/) hash functions, arguably the most important features:
+I want to focus on several important features of [cryptographic](/cryptography/what-is-cryptography/) hash functions, arguably the most important features:
 
 - Hash functions scramble data deterministically
 - No matter the input, the output of a hash function always has the same size
@@ -22,9 +22,9 @@ I want to focus on several important features of [cryptographic](https://qvault.
 
 If you're looking for an explanation of a different hash function, we may have you covered
 
-- [How SHA-2 Works Step by Step](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)
-- [(Very) Basic Intro to the Scrypt Hash](https://qvault.io/2020/07/25/very-basic-intro-to-the-scrypt-hash/)
-- [Bcrypt Step by Step](https://qvault.io/2020/08/24/bcrypt-step-by-step/)
+- [How SHA-2 Works Step by Step](/cryptography/how-sha-2-works-step-by-step-sha-256/)
+- [(Very) Basic Intro to the Scrypt Hash](/cryptography/very-basic-intro-to-the-scrypt-hash/)
+- [Bcrypt Step by Step](/cryptography/bcrypt-step-by-step/)
 
 {{< cta1 >}}
 
@@ -115,4 +115,4 @@ As you can see, if you start with the same word at the beginning, you will alway
 
 ## Disclaimer
 
-On the steps where I convert from English to binary, and from binary to English, I followed no pattern. Don’t let that confuse you. There are many [different ways to convert binary data to English](https://qvault.io/2020/11/03/base64-vs-base58-encoding/) and back, I just didn’t want to get hung up on that in this article.
+On the steps where I convert from English to binary, and from binary to English, I followed no pattern. Don’t let that confuse you. There are many [different ways to convert binary data to English](/cryptography/base64-vs-base58-encoding/) and back, I just didn’t want to get hung up on that in this article.

@@ -8,7 +8,7 @@ images:
   - /img/Small-Man-on-Map-scaled.webp
 ---
 
-Heuristics in [computer science](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/) and artificial intelligence are "rules of thumb" used in algorithms to assist in finding approximate solutions to complex problems. Often, there's simply too much data to sift through in order to come to a solution in a timely manner, so a heuristic algorithm is used to trade exactness for speed. However, because heuristics are based on individual rules unique to the problem they are solving, the specifics of the heuristics vary from problem to problem.
+Heuristics in [computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/) and artificial intelligence are "rules of thumb" used in algorithms to assist in finding approximate solutions to complex problems. Often, there's simply too much data to sift through in order to come to a solution in a timely manner, so a heuristic algorithm is used to trade exactness for speed. However, because heuristics are based on individual rules unique to the problem they are solving, the specifics of the heuristics vary from problem to problem.
 
 Heuristics aim to produce solutions in a _reasonable time frame_ that are _good enough_ for solving the problem at hand. The solution produced using a heuristic may not be the perfect or exact solution, but it's valuable as an approximate or best-guess solution. Some problems would require hundreds of thousands of years for an exact answer, but we can product an approximate solution almost instantly.
 
@@ -29,7 +29,7 @@ Example problems and some of their common heuristics are given below.
 
 ![](/img/tsp-1024x606.jpg)
 
-The TSP is a famous [algorithm with a Big-O](https://qvault.io/big-o-algorithms-course/) complexity of `O(n!)` and asks the question:
+The TSP is a famous [algorithm with a Big-O](https://boot.dev/big-o-algorithms-course/) complexity of `O(n!)` and asks the question:
 
 > Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?
 

@@ -28,7 +28,7 @@ Now the attacker can go to other websites, and because a majority of people reus
 
 ## Solution - Hashing
 
-A [hash function](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) (or more specifically in our case, a [key derivation function](https://qvault.io/2019/12/30/very-basic-intro-to-key-derivation-functions-argon2-scrypt-etc/)) deterministically creates a strong key from a password. Because hashes are one-way, the attacker can't re-create the plaintext password from the hash. Now the attacker would find something like this in the database:
+A [hash function](/security/hash-functions/) (or more specifically in our case, a [key derivation function](/cryptography/key-derivation-functions/)) deterministically creates a strong key from a password. Because hashes are one-way, the attacker can't re-create the plaintext password from the hash. Now the attacker would find something like this in the database:
 
 > user.one@gmail.com - cab864878af008fbc550087940ffacdb79a7f82201725e3350e25d6cfbdd4255
 
@@ -36,7 +36,7 @@ A [hash function](https://qvault.io/2020/01/01/very-basic-intro-to-hash-function
 
 They won't be able to use the hash to log in on other systems because they don't have access to the original password.
 
-In Python, [Bcrypt](https://qvault.io/2020/08/24/bcrypt-step-by-step/) is a strong key derivation function that can be used in production systems:
+In Python, [Bcrypt](/cryptography/bcrypt-step-by-step/) is a strong key derivation function that can be used in production systems:
 
 ```
 import bcrypt

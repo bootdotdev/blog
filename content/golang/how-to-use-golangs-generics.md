@@ -64,7 +64,7 @@ Generics will finally give Go developers an elegant way to write amazing utility
 
 ## What is a constraint?
 
-Sometimes you need the logic in your generic function to know a thing or two about the types in question. Constraints are [interfaces](https://qvault.io/golang/golang-interfaces/) that allow you to write generics that only operate within the constraint of a given interface type. In the first example above, we used the `any` constraint, which is comparable to the empty `interface{}`, because it means the type in question could be anything.
+Sometimes you need the logic in your generic function to know a thing or two about the types in question. Constraints are [interfaces](/golang/golang-interfaces/) that allow you to write generics that only operate within the constraint of a given interface type. In the first example above, we used the `any` constraint, which is comparable to the empty `interface{}`, because it means the type in question could be anything.
 
 ### Any constraint
 
@@ -200,7 +200,7 @@ func main() {
 
 ## Get the zero value of a generic
 
-The `var name T` syntax is a simple way to generate the zero value of a generic type in Go. This is especially useful considering idiomatic Go's consistent use of [guard clauses](https://qvault.io/clean-code/guard-clauses).
+The `var name T` syntax is a simple way to generate the zero value of a generic type in Go. This is especially useful considering idiomatic Go's consistent use of [guard clauses](/clean-code/guard-clauses/).
 
 ```go
 func returnZero[T any](s ...T) T {
@@ -244,7 +244,7 @@ If you were hoping generics would make Go an object-oriented language with full 
 
 Interfaces in Go are a form of generic programming in that they let us require disparate types to implement the same APIs. We then write functions that implement those interface types, and those functions will work for any type that implements those methods. Tada, we have a beautiful abstraction layer.
 
-The problem with this approach in many cases is that it requires each type to rewrite its logic, even if the logic is identical. Generics in Go use interfaces as constraints because interfaces are already the perfect thing to enforce the requisite APIs, but generics add a new feature, type parameters, which can [DRY up our code](https://qvault.io/clean-code/dry-code/).
+The problem with this approach in many cases is that it requires each type to rewrite its logic, even if the logic is identical. Generics in Go use interfaces as constraints because interfaces are already the perfect thing to enforce the requisite APIs, but generics add a new feature, type parameters, which can [DRY up our code](/clean-code/dry-code/).
 
 ## Generics vs code generation
 
@@ -254,7 +254,7 @@ Now, with generics, we can stop generating so much code! Code generation will st
 
 ## Using generics now
 
-You can play with generics today with Go 1.18! Make sure you just get your local toolchain updated to the latest version. You can get going immediately by playing around on [Qvault’s Golang playground](https://app.qvault.io/playground/go), it’s running 1.18 at the time of writing.
+You can play with generics today with Go 1.18! Make sure you just get your local toolchain updated to the latest version. You can get going immediately by playing around on [boot.dev's Golang playground](https://boot.dev/playground/go), it’s running 1.18 at the time of writing.
 
 ## How do generics work under the hood?
 
@@ -272,6 +272,6 @@ He suggests adopting an "Of" suffix for the updated functions. For example, [syn
 
 ## Do generics change what is "idiomatic"?
 
-Definitely. A trivial example is that it used to be wise to [use `float64` by default](https://qvault.io/golang/default-native-types-golang/) if you need a numeric type. Now there are many cases where you can use some kind of numeric constraint and open your code up to more reuse.
+Definitely. A trivial example is that it used to be wise to [use `float64` by default](/golang/default-native-types-golang/) if you need a numeric type. Now there are many cases where you can use some kind of numeric constraint and open your code up to more reuse.
 
 I'm excited to see what new best practices emerge as generics make their way into production code and we all get to play around with them.

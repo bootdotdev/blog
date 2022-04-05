@@ -41,7 +41,7 @@ someonesBirthday := time.Date(1990, time.May, 10, 23, 12, 5, 3, time.UTC)
 
 ## Printing, parsing, and formatting times in Go
 
-While dates and times are typically stored as `time.Time` objects _within_ Go programs, we frequently need to save them to databases, [marshal them to JSON](https://qvault.io/golang/json-golang/), or just print them to the console. It's nice that Go provides functions to format and parse dates easily. That said, the way it's handled is unique compared to most coding languages.
+While dates and times are typically stored as `time.Time` objects _within_ Go programs, we frequently need to save them to databases, [marshal them to JSON](/golang/json-golang/), or just print them to the console. It's nice that Go provides functions to format and parse dates easily. That said, the way it's handled is unique compared to most coding languages.
 
 Let's say we have a time object and we want to be able to print in a specific format. The Go formatting engine takes a layout of specific constants and uses that as an example for how to format the time.
 
@@ -77,7 +77,7 @@ As I mentioned above in the comment, the default parsing and formatting layout f
 
 ## Time durations
 
-My bane in programming is when developers [don't include units](https://qvault.io/clean-code/naming-variables/#units) in their calculations. Inevitably one developer assumes the variable `timeElapsed` (an int) represents seconds, it really represents milliseconds. In Go, this isn't a problem as long as everyone adheres to the standard of the `[time.Duration](https://golang.org/pkg/time/#Duration)` type.
+My bane in programming is when developers [don't include units](/clean-code/naming-variables/#units) in their calculations. Inevitably one developer assumes the variable `timeElapsed` (an int) represents seconds, it really represents milliseconds. In Go, this isn't a problem as long as everyone adheres to the standard of the `[time.Duration](https://golang.org/pkg/time/#Duration)` type.
 
 Durations are just a specific kind of `int64`. They represent the elapsed time between two instants as a nanosecond count. the only drawback is that the largest representable duration is ~290 years, which hasn't been a problem for me yet. There are several constants defined by the time package to represent some common durations.
 
@@ -222,7 +222,7 @@ func doSomethingWithRateLimit() {
 }
 ```
 
-The first tick to come through the ticker channel is after the first duration. If you want an immediate first tick you can [read about that here](https://qvault.io/golang/range-over-ticker-in-go-with-immediate-first-tick/).
+The first tick to come through the ticker channel is after the first duration. If you want an immediate first tick you can [read about that here](/golang/range-over-ticker-in-go-with-immediate-first-tick/).
 
 ## Saving memory with TinyDate and TinyTime
 

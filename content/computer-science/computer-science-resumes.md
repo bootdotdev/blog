@@ -8,13 +8,13 @@ images:
   - /img/resume-on-clipboard-pexels.jpeg
 ---
 
-It's really hard to get your foot in the door for engineering interviews, especially if you have no experience and are looking for an entry-level position. Often times, more experienced candidates looking to find a [higher-paying job](https://qvault.io/2020/12/09/highest-paying-computer-science-jobs/) can also have trouble. As an employer myself, I can tell you that one of the biggest mistakes I see in 75% of resumes is using a _visually boring template_. When I'm sifting through forty or fifty applicants, it's really easy for my eyes to glaze over. Think of your resume as your website landing page. You need to catch your employer's attention by calling out your biggest accomplishments and selling points at a glance.
+It's really hard to get your foot in the door for engineering interviews, especially if you have no experience and are looking for an entry-level position. Often times, more experienced candidates looking to find a [higher-paying job](/jobs/highest-paying-computer-science-jobs/) can also have trouble. As an employer myself, I can tell you that one of the biggest mistakes I see in 75% of resumes is using a _visually boring template_. When I'm sifting through forty or fifty applicants, it's really easy for my eyes to glaze over. Think of your resume as your website landing page. You need to catch your employer's attention by calling out your biggest accomplishments and selling points at a glance.
 
 A pile of hundreds of computer science resumes stands staunchly opposed to your bright coding future. To stand out in the crowd and land the interviews you'll need to get that dream job, you’ll need to write a _fantastic_ computer science resume.
 
 I've looked at hundreds of resumes from computer science students, researched other's opinions about what works and what doesn't, and compiled a list of the top 6 resume templates that will help you get your point across no matter your work experience, desired job position, or schooling history. These template samples are meant to be copied! Take one of these resume templates and swap all the information out for your own.
 
-As a point of interest before we get started, if you need an extra resume boost, or you're just looking to learn some computer science fundamentals, I've got you covered. Qvault regularly publishes [job-winning CS courses, so sign up here](https://qvault.io/) if you're into that sort of thing.
+As a point of interest before we get started, if you need an extra resume boost, or you're just looking to learn some computer science fundamentals, I've got you covered. Boot.dev regularly publishes [job-winning CS courses, so sign up here](https://boot.dev/) if you're into that sort of thing.
 
 ## Rules of Thumb Checklist
 
@@ -27,9 +27,9 @@ As you pick a template and replace the dummy information for your own, keep thes
 - **If a position asks for a specific technology, don't be afraid to spend a day or two brushing up on the specifics of it.** Assuming you get an interview, do a more in-depth look at it, and consider building a toy project using it to prepare for the interview.
 - **Use color to emphasize important points.** These templates are designed to catch the eye. There's nothing more boring than a black and white resume.
 - **Spell and grammar check!** Especially if English is your second language.
-- If you haven't been to school or received a formal education, don't worry! You can land entry-level jobs even if you [learned computer science by yourself online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/). Just be sure to include the courses and programs you completed.
+- If you haven't been to school or received a formal education, don't worry! You can land entry-level jobs even if you [learned computer science by yourself online](/computer-science/comprehensive-guide-to-learn-computer-science-online/). Just be sure to include the courses and programs you completed.
 - When you fail to land an interview, **ask your point of contact if they can provide feedback** as to why you were rejected. Don't take the feedback personally, but use it to improve your resume for the next application.
-- If you need extra help, join [Qvault's Discord channel](https://discord.com/invite/xCQxj2vb) and post your resume! We have a friendly community willing to give you feedback and help.
+- If you need extra help, join [Boot.dev's Discord channel](https://discord.com/invite/xCQxj2vb) and post your resume! We have a friendly community willing to give you feedback and help.
 
 {{< cta1 >}}
 
@@ -85,4 +85,4 @@ Game Development Resume Sample - Self-Taught
 
 ## Good Luck
 
-Good luck in your job search! If you're having trouble finding a job mainly due to a lack of real job experience, check out our [article on getting your first coding job](https://qvault.io/2021/01/06/get-a-programming-job-with-no-experience/).
+Good luck in your job search! If you're having trouble finding a job mainly due to a lack of real job experience, check out our [article on getting your first coding job](/jobs/get-a-programming-job-with-no-experience/).

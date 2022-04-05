@@ -8,7 +8,7 @@ images:
   - /img/Should-You-Commit-Your-Vendor-Folder_.webp
 ---
 
-The answer to the age-old question of, "_should I commit the vendor dependencies in my Go project to source control?_" is "_almost always_". As an FYI, we here at [Qvault](https://qvault.io) use Go for all of our backend work, and we always commit our vendor folders. Let's take a look at the reasoning behind my claim that committing dependencies is ideal.
+The answer to the age-old question of, "_should I commit the vendor dependencies in my Go project to source control?_" is "_almost always_". As an FYI, we here at [boot.dev](https://boot.dev) use Go for all of our backend work, and we always commit our vendor folders. Let's take a look at the reasoning behind my claim that committing dependencies is ideal.
 
 ## What Is the Vendor Folder?
 

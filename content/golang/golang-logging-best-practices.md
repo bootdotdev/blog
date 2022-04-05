@@ -21,7 +21,7 @@ Let's discuss a few rules of thumb for logging in Go, as well as some features y
 
 ## #1 - Use Errors Where Appropriate, Not Strings
 
-Go has a built-in `error` type, which allows developers to easily differentiate errors from "normal" strings and check to make sure functions exit without a problem in a more explicit way. The `error` type is an [interface](https://qvault.io/2020/03/15/best-practices-for-writing-clean-interfaces-in-go/) that simply requires the type in question to define an `Error()` function that prints itself as a string.
+Go has a built-in `error` type, which allows developers to easily differentiate errors from "normal" strings and check to make sure functions exit without a problem in a more explicit way. The `error` type is an [interface](/golang/golang-interfaces/) that simply requires the type in question to define an `Error()` function that prints itself as a string.
 
 ```go
 type error interface {
@@ -157,4 +157,4 @@ It's often tempting to roll your own logging package, but I would advise that in
 
 ## Best Practices
 
-Glad you've made it this far! Learning to properly handle errors in Go is one of the things that sets advanced developers apart from newcomers. Striving to improve the readability and developer usability of your code will make you a better [computer scientist](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/), and help you find more [worthwhile jobs](https://qvault.io/2020/12/09/highest-paying-computer-science-jobs/) in the future.
+Glad you've made it this far! Learning to properly handle errors in Go is one of the things that sets advanced developers apart from newcomers. Striving to improve the readability and developer usability of your code will make you a better [computer scientist](/computer-science/comprehensive-guide-to-learn-computer-science-online/), and help you find more [worthwhile jobs](/jobs/highest-paying-computer-science-jobs/) in the future.

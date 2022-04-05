@@ -85,7 +85,7 @@ That's about it. The only reason to deviate from the defaults is to squeeze out 
 
 For example, I probably wouldn't swap out a single _uint32_ for _uint8_, even if I was certain I would only need 8 bytes. However, If I have a slice of uints that can potentially hold thousands of values, I may see a significant memory savings by doing a few type conversions and using _uint8_.
 
-A few good examples of this are the packages I maintain, [go-tinydate](https://github.com/lane-c-wagner/go-tinydate), and [go-tinytime](https://github.com/lane-c-wagner/go-tinytime). Usually, I encourage users NOT to use them, and to just use the [default time.Time](https://qvault.io/golang/golang-date-time/). However, in my backend career, there have been applications that went from using 16GB of RAM down to less than 4GB by making the swap to TinyDate or TinyTime.
+A few good examples of this are the packages I maintain, [go-tinydate](https://github.com/lane-c-wagner/go-tinydate), and [go-tinytime](https://github.com/lane-c-wagner/go-tinytime). Usually, I encourage users NOT to use them, and to just use the [default time.Time](/golang/golang-date-time/). However, in my backend career, there have been applications that went from using 16GB of RAM down to less than 4GB by making the swap to TinyDate or TinyTime.
 
 ## Use Defaults
 

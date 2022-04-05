@@ -13,7 +13,7 @@ While encryption does _involve_ various methods of encoding data, the two are ab
 
 [Encryption](https://en.wikipedia.org/wiki/Encryption) is a specific subset of encoding where the encoded messages can only be accessed by authorized parties (the ones holding the decryption keys).
 
-[Encoding](https://qvault.io/2020/11/03/base64-vs-base58-encoding/) is simply a way of representing data in a specific format. For example, raw binary data can be encoded and decoded using the ASCII format as shown in the table below.
+[Encoding](/cryptography/base64-vs-base58-encoding/) is simply a way of representing data in a specific format. For example, raw binary data can be encoded and decoded using the ASCII format as shown in the table below.
 
 ![encoding chart ](/img/asciifull.gif)
 
@@ -40,6 +40,6 @@ At a job where I worked in the past, a developer before me built his own encodin
 
 While it may confuse an attacker for a couple of minutes, this obfuscation offers more potential bugs in terms of needless complexity than it does security benefits. With free and easy to use encryption libraries available in all major programming languages, there is no excuse to try to bake your own these days.
 
-[Elliptic curve cryptography](https://qvault.io/2020/07/21/very-basic-intro-to-elliptic-curve-cryptography/), RSA, [AES-256](https://qvault.io/2020/01/02/very-basic-intro-to-aes-256-cipher/), or another secure algorithm should have been used in the situation above. Ironically, it also probably would have taken less time to implement.
+[Elliptic curve cryptography](/cryptography/elliptic-curve-cryptography/), RSA, [AES-256](/cryptography/aes-256-cipher/), or another secure algorithm should have been used in the situation above. Ironically, it also probably would have taken less time to implement.
 
 Security can be hard. However, take the time to use best-practices. It will save you so much time and headaches in the long run. Good luck, and stay safe out there!

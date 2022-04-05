@@ -14,7 +14,7 @@ Users love convenience. If your goal is to make it easy for users to register wi
 
 We aren't going to focus on the front-end part of the authentication process because that's the easy part. That said, for any of this to make sense we will briefly touch on how it works.
 
-The front-end's job is to do some redirect OAuth magic to obtain a [JWT](https://qvault.io/2020/02/20/how-to-build-jwts-in-go-golang/) signed by Google. This is accomplished by [including Google's SDK](https://developers.google.com/identity/sign-in/web/sign-in#load_the_google_platform_library) in your HTML, [making an application](https://developers.google.com/identity/sign-in/web/sign-in#create_authorization_credentials) in GCP, and [creating a button](https://developers.google.com/identity/sign-in/web/sign-in#add_a_google_sign-in_button) using the proper class. I would recommend following [Google's quick tutorial](https://developers.google.com/identity/sign-in/web/sign-in) to get this working.
+The front-end's job is to do some redirect OAuth magic to obtain a [JWT](/cryptography/jwts-in-golang/) signed by Google. This is accomplished by [including Google's SDK](https://developers.google.com/identity/sign-in/web/sign-in#load_the_google_platform_library) in your HTML, [making an application](https://developers.google.com/identity/sign-in/web/sign-in#create_authorization_credentials) in GCP, and [creating a button](https://developers.google.com/identity/sign-in/web/sign-in#add_a_google_sign-in_button) using the proper class. I would recommend following [Google's quick tutorial](https://developers.google.com/identity/sign-in/web/sign-in) to get this working.
 
 Once you are done with all that, you should have a button on your web page. When a user clicks on the button and authorizes their Google account, you will get a [JWT](https://developers.google.com/identity/sign-in/web/sign-in#get_profile_information) back in the `onSignIn` callback function:
 
@@ -43,7 +43,7 @@ func ValidateGoogleJWT(tokenString string) (GoogleClaims, error) {
 
 ## Claims
 
-JWT's are just [JSON objects](https://qvault.io/golang/json-golang/) that are signed with a private key to ensure they haven't been tampered with. The signed JSON object's fields are referred to as "claims". We will be using the most popular JWT library in Go to build our solution: [https://github.com/dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go), and the claims that Google sends have the following shape:
+JWT's are just [JSON objects](/golang/json-golang/) that are signed with a private key to ensure they haven't been tampered with. The signed JSON object's fields are referred to as "claims". We will be using the most popular JWT library in Go to build our solution: [https://github.com/dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go), and the claims that Google sends have the following shape:
 
 ```go
 // GoogleClaims -
@@ -183,4 +183,4 @@ func (cfg config) loginHandler(w http.ResponseWriter, r *http.Request) {
 }
 ```
 
-Let me know if this guide can be improved or if you have any questions. This is _roughly_ the process that we use at [Qvault](https://qvault.io/) and it has worked well for us.
+Let me know if this guide can be improved or if you have any questions. This is _roughly_ the process that we use at [boot.dev](https://boot.dev/) and it has worked well for us.

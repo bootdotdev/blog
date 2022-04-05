@@ -25,7 +25,7 @@ Notes
 
 ## Example #1 - Replacing delimiters
 
-Let's say you have some comma-separated-values, CSVs. Perhaps you want to separate each word with a _space_ instead of a _comma_. This can be useful if you need to make your delimiters consistent so you can later [split the string into a slice](https://qvault.io/golang/split-strings-golang/).
+Let's say you have some comma-separated-values, CSVs. Perhaps you want to separate each word with a _space_ instead of a _comma_. This can be useful if you need to make your delimiters consistent so you can later [split the string into a slice](/golang/split-strings-golang/).
 
 ```go
 package main

@@ -22,7 +22,7 @@ type error interface {
 }
 ```
 
-The simplicity of the `error` interface makes [writing logging](https://qvault.io/2020/01/07/logging-for-gophers-idiomatic-log-strategies-in-go-golang/) and metrics implementations much easier. Let's define a struct that represents a network problem:
+The simplicity of the `error` interface makes [writing logging](/golang/golang-logging-best-practices/) and metrics implementations much easier. Let's define a struct that represents a network problem:
 
 ```go
 type networkProblem struct {
@@ -128,7 +128,7 @@ The empty interface doesn't specify any methods, and as such every type in Go im
 interface{}
 ```
 
-It's for this reason that developers sometimes use a `map[string]interface{}` to work with [arbitrary JSON data](https://qvault.io/golang/json-golang/), although I recommend using [anonymous structs instead where possible](https://qvault.io/golang/what-are-golangs-anonymous-structs/).
+It's for this reason that developers sometimes use a `map[string]interface{}` to work with [arbitrary JSON data](/golang/json-golang/), although I recommend using [anonymous structs instead where possible](/golang/anonymous-structs-golang/).
 
 ### Zero value of an interface
 

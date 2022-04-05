@@ -9,7 +9,7 @@ images:
   - /img/slice.jpeg
 ---
 
-In Go, we often need to return zero values. Idiomatic Go encourages the use of guard clauses, and [guard clauses](https://qvault.io/2019/08/16/guard-clauses-how-to-clean-up-conditionals/) necessitate the need to return early. When returning early with an error, by convention all other return values should be zero values. The confusion arises with data types like maps and slices. Should maps and slices be returned as a simple `nil` value, or should an empty but instantiated value be returned?
+In Go, we often need to return zero values. Idiomatic Go encourages the use of guard clauses, and [guard clauses](/clean-code/guard-clauses/) necessitate the need to return early. When returning early with an error, by convention all other return values should be zero values. The confusion arises with data types like maps and slices. Should maps and slices be returned as a simple `nil` value, or should an empty but instantiated value be returned?
 
 For example, should we use this syntax?
 
@@ -81,7 +81,7 @@ As you can see there are some similarities between nil and empty slices:
 They differ in the following ways:
 
 - Only a `nil` slice will succeed a nil check
-- When [encoded as JSON](https://qvault.io/golang/json-golang/) using the standard library, the nil slice becomes `null` and the empty slice becomes `[]`
+- When [encoded as JSON](/golang/json-golang/) using the standard library, the nil slice becomes `null` and the empty slice becomes `[]`
 
 ## Which Should I Do?
 
