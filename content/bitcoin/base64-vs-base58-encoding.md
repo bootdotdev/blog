@@ -9,7 +9,7 @@ images:
   - /img/Base64-vs-Base58-Encoding.webp
 ---
 
-Base64 is one of the most popular encoding formats for representing data. Have some binary data? Base64 encodes it for convenient readability and parsing. Base58 is just another encoding format (with 58 characters instead of 64, and has gained popularity largely due to Bitcoin and other cryptocurrencies. Also, if you came here confused, encryption and encoding are not the same! Take a look at this article for more [information on encryption vs encoding](https://qvault.io/2019/08/14/stop-with-the-obfuscation-encoding-and-encryption-are-not-the-same/).
+Base64 is one of the most popular encoding formats for representing data. Have some binary data? Base64 encodes it for convenient readability and parsing. Base58 is just another encoding format (with 58 characters instead of 64, and has gained popularity largely due to Bitcoin and other cryptocurrencies. Also, if you came here confused, encryption and encoding are not the same! Take a look at this article for more [information on encryption vs encoding](/security/encoding-vs-encryption/).
 
 When it comes to data _encoding_, there is typically a trade-off made between:
 
@@ -70,7 +70,7 @@ Very similar to that of Base64, but due to 6 fewer characters, not quite as effi
 
 Take a look at some of our other crypto and Bitcoin articles:
 
-- [Achieving Data Integrity Using Cryptography](https://qvault.io/2020/05/04/achieving-data-integrity-using-cryptography/)
-- [Top 10 Online Crypto Communities 2020](https://qvault.io/2020/01/08/top-10-online-crypto-communities-2020/)
-- [Is AES-256 Quantum Resistant?](https://qvault.io/2019/07/09/is-aes-256-quantum-resistant/)
-- [(Very) Basic Intro To Elliptic Curve Cryptography](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/)
+- [Achieving Data Integrity Using Cryptography](/bitcoin/achieving-data-integrity-using-cryptography/)
+- [Top 10 Online Crypto Communities 2020](/bitcoin/best-online-crypto-communities/)
+- [Is AES-256 Quantum Resistant?](/cryptography/is-aes-256-quantum-resistant/)
+- [(Very) Basic Intro To Elliptic Curve Cryptography](/cryptography/elliptic-curve-cryptography/)

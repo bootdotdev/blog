@@ -9,7 +9,7 @@ images:
   - /img/photo-1542185400-f1c993ecbea2.jpeg
 ---
 
-Data integrity refers to the accuracy, legitimacy, and consistency of information in a system. When a message is sent, particularly using an untrusted medium, data integrity provides us confidence that the message wasn't tampered with. For example, the SSL signature of [Qvault](https://qvault.io/) provides confidence that the webpage and data coming from our servers are really coming from us and not the NSA.
+Data integrity refers to the accuracy, legitimacy, and consistency of information in a system. When a message is sent, particularly using an untrusted medium, data integrity provides us confidence that the message wasn't tampered with. For example, the SSL signature of [Boot.dev](https://blog.boot.dev) provides confidence that the webpage and data coming from our servers are really coming from us and not the NSA.
 
 ## What Are Potential Causes of Illegitimate Data?
 
@@ -25,7 +25,7 @@ Data integrity provides protection from a wide range of problems which involve d
 
 ## Solution - Checksum
 
-A checksum solves all three of the potential data integrity problems listed above. A checksum is a [deterministic](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc/#Scrambles_Data_Deterministically) value derived from the message data and can be transmitted separately. This means checksum for a given message will always be the same.
+A checksum solves all three of the potential data integrity problems listed above. A checksum is a [deterministic](/security/hash-functions/#Scrambles_Data_Deterministically) value derived from the message data and can be transmitted separately. This means checksum for a given message will always be the same.
 
 The receiver of a message can generate a checksum from the message, and if the generated checksum matches the one that was sent then the message couldn't have been tampered with.
 
@@ -33,10 +33,10 @@ It is important to note that if the medium over which the checksum was obtained 
 
 ## What Makes a Good Checksum?
 
-There are many types of checksums, but the best checksums are typically [cryptographic hash functions](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc). Hash functions which have the following properties make great checksums for validating data integrity:
+There are many types of checksums, but the best checksums are typically [cryptographic hash functions](/security/hash-functions/). Hash functions which have the following properties make great checksums for validating data integrity:
 
 - **Deterministic** - The hash of the same message will always be the same, no randomness
-- **Fast** - computing a checksum shouldn't use unnecessary resources (A [KDF](https://qvault.io/2019/12/30/very-basic-intro-to-key-derivation-functions-argon2-scrypt-etc/) is an inefficient checksum)
+- **Fast** - computing a checksum shouldn't use unnecessary resources (A [KDF](/cryptography/key-derivation-functions/) is an inefficient checksum)
 - **Rare collisions** - The likelihood of two different messages creating the same checksum should be astronomically unlikely
 - **Small** - The result of the hash (AKA the "digest") should be short - no need to waste a lot of data.
 

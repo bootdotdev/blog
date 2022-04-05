@@ -35,7 +35,7 @@ This is the simplest method, and for many people it's a good start.
 - Can be physically stolen
 - Free
 - Easily destroyed (eaten by a dog, burned, soaked, etc)
-- Easily lost, but can be mitigated by using [Shamir's Secret Sharing](https://qvault.io/cryptography/shamirs-secret-sharing/), which requires more technical knowledge
+- Easily lost, but can be mitigated by using [Shamir's Secret Sharing](/cryptography/shamirs-secret-sharing/), which requires more technical knowledge
 
 ### Storing the seed phrase on metal
 
@@ -45,9 +45,9 @@ Here you would etch the words into steel or store them using a product like [Cry
 - More difficult to get created
 - Can be physically stolen
 - Protects against destruction
-- Easily lost, but can be mitigated by using [Shamir's Secret Sharing](https://qvault.io/cryptography/shamirs-secret-sharing/), which requires more technical knowledge
+- Easily lost, but can be mitigated by using [Shamir's Secret Sharing](/cryptography/shamirs-secret-sharing/), which requires more technical knowledge
 - Can't be hacked
-- Easily lost, but can be mitigated by using [Shamir's Secret Sharing](https://qvault.io/cryptography/shamirs-secret-sharing/), which requires more technical knowledge
+- Easily lost, but can be mitigated by using [Shamir's Secret Sharing](/cryptography/shamirs-secret-sharing/), which requires more technical knowledge
 
 ### Storing the seed phrase in your brain
 
