@@ -8,7 +8,7 @@ images:
   - /img/Guard-Clauses.webp
 ---
 
-One of the first concepts [new developers](https://qvault.io/) learn is the if/else statement. If/else statements are the most common way to execute conditional logic. However, complex and nested if/else statements can quickly become a cognitive burden and compromise the readability of a program.
+One of the first concepts [new developers](https://blog.boot.dev/) learn is the if/else statement. If/else statements are the most common way to execute conditional logic. However, complex and nested if/else statements can quickly become a cognitive burden and compromise the readability of a program.
 
 ## Guard Clauses
 

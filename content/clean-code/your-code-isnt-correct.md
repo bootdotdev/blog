@@ -12,7 +12,7 @@ There is a common trap that we fall into as developers, and it is believing that
 
 ## Different solutions optimize for for different things
 
-You can only optimize for a few things at once, and there are always tradeoffs. Bloated memory consumption often makes way for faster computation speed. Simple syntax often leads to a lack of control or configurability. Different solutions to the same problem often optimize for slightly different things. I'm personally a fan of [optimizing for simplicity first](https://qvault.io/clean-code/optimize-for-simplicity-first/), but "simple" means different things to different people.
+You can only optimize for a few things at once, and there are always tradeoffs. Bloated memory consumption often makes way for faster computation speed. Simple syntax often leads to a lack of control or configurability. Different solutions to the same problem often optimize for slightly different things. I'm personally a fan of [optimizing for simplicity first](/clean-code/optimize-for-simplicity-first/), but "simple" means different things to different people.
 
 In some cases, short and concise variable names might be simple. In some cases, a longer name with 4 or 5 words might be simpler.
 

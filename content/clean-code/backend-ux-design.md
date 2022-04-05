@@ -28,7 +28,7 @@ In other words, UX design is all about making it easy for your users to interact
 
 Bad UX Design on Door
 
-Sometimes it's easier to understand through bad examples. In the image above, a door with a handle is clearly labeled _push_. Why does the door have a handle at all if it can't be pulled? It's just bad UX and gives off mixed signals. If the builder had used push plates, there would be no need for words at all. [Simplicity breeds understanding](https://qvault.io/clean-code/optimize-for-simplicity-first/).
+Sometimes it's easier to understand through bad examples. In the image above, a door with a handle is clearly labeled _push_. Why does the door have a handle at all if it can't be pulled? It's just bad UX and gives off mixed signals. If the builder had used push plates, there would be no need for words at all. [Simplicity breeds understanding](/clean-code/optimize-for-simplicity-first/).
 
 ![](/img/push-panel-on-door.jpg)
 
@@ -108,4 +108,4 @@ In a RESTful-ish API, you'd expect the primary key used in a resource path to be
 
 Let's strive to make our APIs easy to understand and work with. Many companies like Stripe and Mailgun have made created entire products that are just APIs. As such, their API UX design is of utmost importance.
 
-The buck doesn't stop with REST, It was just a quick example. If you're writing a [library or package](https://qvault.io/golang/how-to-separate-library-packages-in-go/), it has an API, so make sure it's a good one. Keep your authentication protocols simple. Make decisions that simplify the lives of your users, even if it means a smidge of extra code on your end. Remember, it's easy to change internal logic, but fixing a bad API is difficult - it requires breaking changes and major version upgrades.
+The buck doesn't stop with REST, It was just a quick example. If you're writing a [library or package](/golang/how-to-separate-library-packages-in-go/), it has an API, so make sure it's a good one. Keep your authentication protocols simple. Make decisions that simplify the lives of your users, even if it means a smidge of extra code on your end. Remember, it's easy to change internal logic, but fixing a bad API is difficult - it requires breaking changes and major version upgrades.
