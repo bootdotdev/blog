@@ -765,11 +765,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   line-height: 1.5rem;
 }
 
-.text-6xl {
-  font-size: 3.75rem;
-  line-height: 1;
-}
-
 .font-bold {
   font-weight: 700;
 }
@@ -792,6 +787,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(212 212 212 / var(--tw-text-opacity));
 }
 
+.text-blue-300 {
+  --tw-text-opacity: 1;
+  color: rgb(180 186 248 / var(--tw-text-opacity));
+}
+
 .text-blue-400 {
   --tw-text-opacity: 1;
   color: rgb(141 150 246 / var(--tw-text-opacity));
@@ -805,11 +805,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .text-gray-400 {
   --tw-text-opacity: 1;
   color: rgb(163 163 163 / var(--tw-text-opacity));
-}
-
-.text-blue-300 {
-  --tw-text-opacity: 1;
-  color: rgb(180 186 248 / var(--tw-text-opacity));
 }
 
 .underline {
@@ -835,11 +830,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .hover\:text-white:hover {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
-.hover\:text-black:hover {
-  --tw-text-opacity: 1;
-  color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 
 .hover\:opacity-80:hover {
