@@ -23,7 +23,7 @@ In one terminal start the server on `localhost:1313`
 yarn serve
 ```
 
-Then run the check:
+Then run the check in another terminal:
 
 ```bash
 make buildscripts && ./bin/linkcheck
