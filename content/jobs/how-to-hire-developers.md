@@ -8,7 +8,7 @@ images:
   - /img/interview.jpeg
 ---
 
-So you want to hire a developer? Or maybe you just want to know what is going through the heads of employers like myself. Either way, let's dive right into what _I think_ are best practices for hiring programmers. I've found my opinions to be quite controversial, but I do put them into practice in my own career and at [Qvault](https://qvault.io/). When you inevitably disagree with some of my points, feel free to [@ me](https://twitter.com/wagslane).
+So you want to hire a developer? Or maybe you just want to know what is going through the heads of employers like myself. Either way, let's dive right into what _I think_ are best practices for hiring programmers. I've found my opinions to be quite controversial, but I do put them into practice in my own career and at [boot.dev](https://boot.dev/). When you inevitably disagree with some of my points, feel free to [@ me](https://twitter.com/wagslane).
 
 The following process assumes essentially no HR to help (which I think is probably a good thing), and definitely no recruiters. I only have experience hiring direct to small(ish) companies.
 
