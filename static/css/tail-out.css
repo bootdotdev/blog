@@ -576,16 +576,16 @@ Ensure the default browser behavior of the `hidden` attribute.
   display: none;
 }
 
-.h-16 {
-  height: 4rem;
+.h-full {
+  height: 100%;
 }
 
 .h-6 {
   height: 1.5rem;
 }
 
-.h-8 {
-  height: 2rem;
+.h-10 {
+  height: 2.5rem;
 }
 
 .w-full {
@@ -762,6 +762,11 @@ Ensure the default browser behavior of the `hidden` attribute.
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
 }
 
 .text-base {

@@ -1,6 +1,6 @@
 <nav class="bg-gray-800 z-50">
   <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 top-nav-bar-height">
-    <div class="relative flex items-center justify-between h-16">
+    <div class="relative flex items-center justify-between h-full">
 
       <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
         <button type="button" onclick="clickMobileMenuToggle()"
@@ -20,42 +20,42 @@
 
       <div class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
         <div class="flex-shrink-0">
-          <router-link to="/">
+          <a href="https://boot.dev">
             <div class="flex flex-row items-center">
               <img
-                class="block h-8 w-auto mr-2"
+                class="block h-10 w-auto mr-2"
                 src="/img/boot_dev_logo_full_256.png"
                 alt="Boot.dev Logo"
               />
-              <h2 class="text-2xl">
+              <h2 class="text-xl font-bold">
                 Boot<span class="text-blue-400">.dev</span>
               </h2>
             </div>
-          </router-link>
+          </a>
         </div>
         <div class="hidden sm:block sm:ml-6">
-          <div class="flex space-x-4">
-            <a href="https://app.qvault.io" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">
+          <div class="flex space-x-4 text-sm h-full items-center">
+            <a href="https://boot.dev" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
               Login
             </a>
 
-            <a href="https://app.qvault.io/courses" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">
+            <a href="https://boot.dev/courses" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
               Courses
             </a>
 
-            <a href="https://app.qvault.io/pricing" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">
+            <a href="https://boot.dev/pricing" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
               Pricing
             </a>
 
-            <a href="https://discord.gg/EEkFwbv" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">
+            <a href="https://discord.gg/EEkFwbv" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
               Community
             </a>
 
-            <a href="/about" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">
+            <a href="/about" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
               About
             </a>
 
-            <a href="/" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">
+            <a href="/" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
               Blog
             </a>
           </div>
@@ -66,15 +66,15 @@
 
   <div class="sm:hidden" id="mobile-menu" style="display:none">
     <div class="px-2 pt-2 pb-3 space-y-1">
-      <a href="https://app.qvault.io" class="bg-gray-900 text-white block px-3 py-2 rounded-md text-base font-medium" aria-current="page">
+      <a href="https://boot.dev" class="bg-gray-900 text-white block px-3 py-2 rounded-md text-base font-medium" aria-current="page">
         Login
       </a>
 
-      <a href="https://app.qvault.io/courses" class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
+      <a href="https://boot.dev/courses" class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
         Courses
       </a>
 
-      <a href="https://app.qvault.io/pricing" class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
+      <a href="https://boot.dev/pricing" class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
         Pricing
       </a>
 

@@ -85,7 +85,7 @@ There are several roles you will automatically earn through your activity within
 qvault sync {api_key}
 ```
 
-Where `{api_key}` is the API key for your account on the [Qvault website](https://app.qvault.io/), which you can change and update in your [settings](https://app.qvault.io/dashboard/settings). Here are the roles that you'll unlock automatically:
+Where `{api_key}` is the API key for your account on the [Qvault website](https://boot.dev/), which you can change and update in your [settings](https://boot.dev/dashboard/settings). Here are the roles that you'll unlock automatically:
 
 - pupil - You've completed at least 3 exercises in any course
 - scholar - You've completed at least 1 course
