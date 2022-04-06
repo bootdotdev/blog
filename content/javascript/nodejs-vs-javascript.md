@@ -8,11 +8,11 @@ images:
   - /img/Nodejs-vs-Javascript-min.webp
 ---
 
-So you’re a fan of web development? Great! You’re probably already familiar with JavaScript (if not, [check out our JavaScript course here](https://boot.dev/basic-intro-to-coding-javascript-course/)) and may have heard of Node.js as well. But which one is better, and how are they different? When should you pick Node.js vs JavaScript?
+So you’re a fan of web development? Great! You’re probably already familiar with JavaScript (if not, [check out our JavaScript course here](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb)) and may have heard of Node.js as well. But which one is better, and how are they different? When should you pick Node.js vs JavaScript?
 
 **To be clear, there isn't really a decision to be made when choosing JavaScript or Node.js, you'll likely use both if you're running JavaScript outside of a browser. JavaScript is a programming language, and Node.js is a JavaScript interpreter.**
 
-During one of my first professional coding interviews, the main piece of feedback I was given was to learn JavaScript. It’s a versatile and incredibly [easy-to-learn language](/misc/popular-coding-languages/). You can get a working algorithm or website up and running in no time. Since most of the websites on the Internet are implemented using JavaScript, [there is no shortage of tutorials to guide you](https://boot.dev/basic-intro-to-coding-javascript-course/).
+During one of my first professional coding interviews, the main piece of feedback I was given was to learn JavaScript. It’s a versatile and incredibly [easy-to-learn language](/misc/popular-coding-languages-2021/). You can get a working algorithm or website up and running in no time. Since most of the websites on the Internet are implemented using JavaScript, [there is no shortage of tutorials to guide you](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb).
 
 It’s a great language for beginners and a must-know for anyone interested in UI or front-end development. Node.js can be more elusive to wrap your head around. And guess what: it’s not even a programming language!
 
@@ -28,7 +28,7 @@ JavaScript versus Node.js boils down to the matter of a flexible and simple fron
 
 JavaScript is omnipresent on today’s internet: [95%](https://generalassemb.ly/blog/what-makes-javascript-so-popular/#:~:text=There%20are%20over%201.8%20Billion,to%20Github's%202020%20Octoverse%20Report.) of the Internet’s websites use it. There likely isn’t a professional website that doesn’t use JavaScript. It’s essential for an elevated user experience when it comes to speed, reliability, and aesthetics of a website. 
 
-JavaScript is a scripting language upon which most websites are based. It is often used [in combination with HTML and CSS](/misc/html-css-javascript/) to render web pages, as JavaScript can be used to dynamically update HTML elements. It allows you to automatically refresh the page to update data, display information using cool visuals, and create interactive elements.
+JavaScript is a scripting language upon which most websites are based. It is often used [in combination with HTML and CSS](/javascript/html-css-javascript/) to render web pages, as JavaScript can be used to dynamically update HTML elements. It allows you to automatically refresh the page to update data, display information using cool visuals, and create interactive elements.
 
 JavaScript is an interpreted language, meaning it is handed over to the browser or Node.js in its original JavaScript form instead of being compiled into machine code, like Golang, C, and C++ are. Modern browsers often use just-in-time (JIT) compiling with JavaScript in order to run it more efficiently. JIT compilation compiles the code as it is run. You can read more about it in the context of Node.js and JavaScript [here](https://blog.bitsrc.io/the-jit-in-javascript-just-in-time-compiler-798b66e44143). However, since this is done at runtime, JavaScript is still considered an interpreted language.
 

@@ -13,7 +13,7 @@ While encryption does _involve_ various methods of encoding data, the two are ab
 
 [Encryption](https://en.wikipedia.org/wiki/Encryption) is a specific subset of encoding where the encoded messages can only be accessed by authorized parties (the ones holding the decryption keys).
 
-[Encoding](/cryptography/base64-vs-base58-encoding/) is simply a way of representing data in a specific format. For example, raw binary data can be encoded and decoded using the ASCII format as shown in the table below.
+[Encoding](/bitcoin/base64-vs-base58-encoding/) is simply a way of representing data in a specific format. For example, raw binary data can be encoded and decoded using the ASCII format as shown in the table below.
 
 ![encoding chart ](/img/asciifull.gif)
 

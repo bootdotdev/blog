@@ -28,7 +28,7 @@ Now the attacker can go to other websites, and because a majority of people reus
 
 ## Solution - Hashing
 
-A [hash function](/security/hash-functions/) (or more specifically in our case, a [key derivation function](/cryptography/key-derivation-functions/)) deterministically creates a strong key from a password. Because hashes are one-way, the attacker can't re-create the plaintext password from the hash. Now the attacker would find something like this in the database:
+A [hash function](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) (or more specifically in our case, a [key derivation function](/cryptography/key-derivation-functions/)) deterministically creates a strong key from a password. Because hashes are one-way, the attacker can't re-create the plaintext password from the hash. Now the attacker would find something like this in the database:
 
 > user.one@gmail.com - cab864878af008fbc550087940ffacdb79a7f82201725e3350e25d6cfbdd4255
 

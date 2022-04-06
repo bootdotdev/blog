@@ -22,7 +22,7 @@ View our [full course curriculum here](https://github.com/bootdotdev/curriculum)
 
 **The entire Python Track consists of:**
 
-1. **[Python Fundamentals](https://boot.dev/learn-python-course/)**
+1. **[Python Fundamentals](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/)**
 2. **[Big-O Algorithms](https://boot.dev/big-o-algorithms-course/)**
 3. **[Big-O Data Structures](https://boot.dev/big-o-data-structures-course/)**
 4. **[Advanced Algorithms](https://boot.dev/advanced-algorithms-course/)**

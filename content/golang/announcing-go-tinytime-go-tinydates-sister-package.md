@@ -56,6 +56,6 @@ The tinytime.TinyTime API largely mirrors that of time.Time. The only methods mi
 
 ## TinyDate
 
-If you need a larger date range, be sure to check out the [intro to Go-TinyDate](/golang/i-wrote-go-tinydate-the-missing-golang-date-package/).
+If you need a larger date range, be sure to check out the [intro to Go-TinyDate](/open-source/i-wrote-go-tinydate-the-missing-golang-date-package/).
 
 ![tiny fragile box](/img/package-1024x683.jpeg)

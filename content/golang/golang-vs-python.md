@@ -11,18 +11,8 @@ images:
 
 ## These two coding languages duke it out - but who’s the winner?
 
-| Question                                                                                           | Tentative Winner               |
-| -------------------------------------------------------------------------------------------------- | ------------------------------ |
-| [Brief historic description of Golang vs Python](#history-of-golang-vs-python)                     | \-                             |
-| [Golang vs Python: Which coding language is best for beginners?](#for-beginners)                   | Python                         |
-| [Golang vs Python: Which coding language is best for experienced coders?](#for-experienced-coders) | Go                             |
-| [Golang vs Python: Which language is best for a job in computer science?](#for-job)                | Either                         |
-| [Golang vs Python: Which language is best for machine learning?](#machine-learning)                | Python                         |
-| [Golang versus Python: Which language is best for programmer productivity?](#for-productivity)     | Go                             |
-| [Golang vs Python: Which language is best for the future?](#for-future)                            | Go                             |
-| [So what's the final answer in Golang vs Python?](#golang-vs-python)                               | Depends on where you're going! |
 
-In a world where the ability to write any code at all is a tremendous advantage, often the biggest problem coders face is knowing _which_ language to start learning, rather than whether to learn one at all. There are different languages for just about every purpose you could think of. Of those [popular coding languages](/misc/popular-coding-languages/), programmers often face an intense battle of Golang vs Python. (The official name is Go, but the website is Golang.org, so programmers typically refer to it as either interchangeably.)
+In a world where the ability to write any code at all is a tremendous advantage, often the biggest problem coders face is knowing _which_ language to start learning, rather than whether to learn one at all. There are different languages for just about every purpose you could think of. Of those [popular coding languages](/misc/popular-coding-languages-2021/), programmers often face an intense battle of Golang vs Python. (The official name is Go, but the website is Golang.org, so programmers typically refer to it as either interchangeably.)
 
 On the surface, the two are remarkably dissimilar: Python was created 1991, an oldster in coding years, while Go was first published in 2012 by Google, making it a relative newcomer. Go is known for its speed, while Python is known to be a slower language. Python is versatile, while Go is stricter in syntax and formatting.
 
@@ -46,7 +36,7 @@ Python is pretty universally known to be best for absolute coding babies. To giv
 
 Python is written in a way that makes it ideal for literal beginner coders to pick up. People who are brand new to coding concepts will find Python an easier language to learn than Go. Go is possible for beginners to learn - I’ve written a whole post about why [beginners should learn Go in 2021](/golang/why-learn-golang/) - but a lot of the main features and benefits of Golang are better appreciated by veteran coders. 
 
-Python, meanwhile, is a winner for me in terms of which language is best for absolute coding beginners. To paraphrase myself from a previous article on [which language is most popular in 2021](/misc/popular-coding-languages/), Python is good for beginners because it:
+Python, meanwhile, is a winner for me in terms of which language is best for absolute coding beginners. To paraphrase myself from a previous article on [which language is most popular in 2021](/misc/popular-coding-languages-2021/), Python is good for beginners because it:
 
 - Reads like English
 - Is fast enough to build a functional prototype very quickly
@@ -78,7 +68,7 @@ Alternatively, if you’re ambitiously aiming for one of the [highest-paying job
 
 (Pun intended.)
 
-As I explained in [my write up of the most popular coding languages of 2021](/misc/popular-coding-languages/), Go is known for being a top-ticket language because:
+As I explained in [my write up of the most popular coding languages of 2021](/misc/popular-coding-languages-2021/), Go is known for being a top-ticket language because:
 
 - It’s built for big projects, usually run by companies with big paychecks
 - It’s faster and easier to learn than Perl, which is the top-earning language

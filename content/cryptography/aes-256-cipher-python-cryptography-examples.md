@@ -61,7 +61,7 @@ def encrypt(plain_text, password):
     1. N is the cost factor. It must be a power of two, and the higher it is the more secure the key, but the more resources it requires to run.
     2. R is the block size.
     3. P is the parallelization factor, useful for running on multiple cores.
-5. [Base64](/cryptography/base64-vs-base58-encoding/): We encode all of our bytes-type data into base64 a convenient string representation
+5. [Base64](/bitcoin/base64-vs-base58-encoding/): We encode all of our bytes-type data into base64 a convenient string representation
 6. [Tag (MAC)](/cryptography/hmac-and-macs-in-jwts/): The tag is used to authenticate the data when using AES in GCM mode. This ensures no one can change our data without us knowing about it when we decrypt.
 
 {{< cta2 >}}

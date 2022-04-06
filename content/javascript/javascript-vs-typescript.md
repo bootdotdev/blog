@@ -40,7 +40,7 @@ Oppositely, TypeScript is recommended as a second language.
 
 It has a steeper learning curve and a strict set of rules. Because TypeScript is a superset of JavaScript, it makes sense to learn JavaScript first, then tackle TypeScript once you understand the basics.
 
-Overall, JavaScript is the best for beginners, but the best route is to learn both. If you already have some coding skills but want to further improve, [our Functional Programming course teaches JavaScript and PureScript.](https://boot.dev/intro-to-functional-programming/) If you haven't heard of PureScript before, here's a quick comparison with TypeScript:
+Overall, JavaScript is the best for beginners, but the best route is to learn both. If you already have some coding skills but want to further improve, [our Functional Programming course teaches JavaScript and PureScript.](https://boot.dev/course/b1459f0c-21eb-41e5-b7f3-562ef69d344c/65e3ea51-a0c4-41d6-9e4f-750942bcb0c9/f0d6c12b-fe3f-4920-a6a0-b2ae830b1658) If you haven't heard of PureScript before, here's a quick comparison with TypeScript:
 
 ### TypeScript vs PureScript: A Mini Comparison
 
@@ -135,6 +135,6 @@ In the end, adopting both languages will set you up for the best success career-
 
 ## For Further Study
 
-**For beginners**: we recommend our [Intro to Coding with JavaScript courses](https://boot.dev/basic-intro-to-coding-javascript-course/) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
+**For beginners**: we recommend our [Intro to Coding with JavaScript courses](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
 
-**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://boot.dev/intro-to-functional-programming/), which mixes JS with PureScript. We also recommend our [Go Mastery courses](https://boot.dev/go-mastery-course/) for anyone looking to learn Golang, as well as our [Python Fundamentals course](https://boot.dev/learn-python-course/).
+**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://boot.dev/course/b1459f0c-21eb-41e5-b7f3-562ef69d344c/65e3ea51-a0c4-41d6-9e4f-750942bcb0c9/f0d6c12b-fe3f-4920-a6a0-b2ae830b1658), which mixes JS with PureScript. We also recommend our [Go Mastery courses](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b) for anyone looking to learn Golang, as well as our [Python Fundamentals course](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/).

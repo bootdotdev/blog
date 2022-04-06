@@ -8,7 +8,7 @@ images:
   - /img/Best-Ways-To-Learn-Python-min.webp
 ---
 
-Everyone wants to know the best way to learn to code Python nowadays. It’s a great language, as I’ve [written](https://towardsdatascience.com/10-compelling-reasons-to-learn-python-for-data-science-fa31160321cb) [about](/misc/popular-coding-languages/) before, with great career prospects and tons of useful features. 
+Everyone wants to know the best way to learn to code Python nowadays. It’s a great language, as I’ve [written about](https://towardsdatascience.com/10-compelling-reasons-to-learn-python-for-data-science-fa31160321cb) before, with great career prospects and tons of useful features. 
 
 For as many reasons as there are to learn Python, there is probably an equivalent number of ways to learn Python. You can already tell because this is a listicle and not a tweet, but the best method to learn Python does not have a single answer.
 
@@ -20,7 +20,7 @@ This list does not try to answer the end-all, be-all best way to learn Python. I
 
 While you're looking through this list and seeing a lot of challenging options that include self-driven work, reading textbooks, watching lectures, and wondering, “What is the best way to learn Python programming that doesn’t require me to read a textbook?”, you're probably the kind of person who benefits from interactive teaching. I think this is the most efficient way to learn Python because the knowledge is much stickier.
 
-The best way to Learn Python interactively is by taking the courses here on boot.dev. The [Python Fundamentals](https://boot.dev/learn-python-course/) course helps you learn by doing. You'll be writing real code into the browser and it'll interactively guide you through the lessons. 
+The best way to Learn Python interactively is by taking the courses here on boot.dev. The [Python Fundamentals](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/) course helps you learn by doing. You'll be writing real code into the browser and it'll interactively guide you through the lessons. 
 
 The cool thing about this course is that it's designed to help you get a job. That means it's not just going to teach you flashy tricks, but guide you through the principles underlying how python works that might trip you up in a potential job interview. It also focuses on tasty job skills to open you up to more career choices, especially in machine learning if that’s your jam.
 
@@ -129,4 +129,4 @@ What is the best way to learn Python? There isn’t one. No matter which way you
 
 Take action and learn Python
 
-If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/learn-python-course/) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
+If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.

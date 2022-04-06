@@ -25,7 +25,7 @@ Data integrity provides protection from a wide range of problems which involve d
 
 ## Solution - Checksum
 
-A checksum solves all three of the potential data integrity problems listed above. A checksum is a [deterministic](/security/hash-functions/#Scrambles_Data_Deterministically) value derived from the message data and can be transmitted separately. This means checksum for a given message will always be the same.
+A checksum solves all three of the potential data integrity problems listed above. A checksum is a [deterministic](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) value derived from the message data and can be transmitted separately. This means checksum for a given message will always be the same.
 
 The receiver of a message can generate a checksum from the message, and if the generated checksum matches the one that was sent then the message couldn't have been tampered with.
 
@@ -33,7 +33,7 @@ It is important to note that if the medium over which the checksum was obtained 
 
 ## What Makes a Good Checksum?
 
-There are many types of checksums, but the best checksums are typically [cryptographic hash functions](/security/hash-functions/). Hash functions which have the following properties make great checksums for validating data integrity:
+There are many types of checksums, but the best checksums are typically [cryptographic hash functions](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/). Hash functions which have the following properties make great checksums for validating data integrity:
 
 - **Deterministic** - The hash of the same message will always be the same, no randomness
 - **Fast** - computing a checksum shouldn't use unnecessary resources (A [KDF](/cryptography/key-derivation-functions/) is an inefficient checksum)

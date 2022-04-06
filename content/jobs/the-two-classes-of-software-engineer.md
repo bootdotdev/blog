@@ -13,7 +13,7 @@ images:
 
 For the sake of this article, I'm going to refer to those who've taken the time to study in-depth as "_computer scientists_", and those who skipped the boring stuff to learn how to deploy a React portfolio as "_developers_". Keep in mind I just need some words to work with, there's nothing wrong with the term "developer" and there's nothing magic about the title "computer scientist".
 
-_I won't be talking about the differences in job titles among software engineers. If that's what you're here for check out [this other article on how much money different kinds of engineers make](/jobs/highest-paying-computer-science-jobs/)._
+_I won't be talking about the differences in job titles among software engineers. If that's what you're here for check out [this other article on how much money different kinds of engineers make](/computer-science/highest-paying-computer-science-jobs/)._
 
 ## It isn't binary, there's obviously a spectrum of skill
 
@@ -55,4 +55,4 @@ If you're still struggling to find your first job, are wanting to take your care
 
 If you seek deeper technical fulfillment, don't settle for writing CRUD applications and API calls. Don't be afraid to watch lectures on YouTube, take some challenging CS courses, or start a for-fun project that will require more technical prowess than you're used to. If you're interested in learning CS online, check out my other post, "[A Comprehensive Guide to Learn Computer Science Online](/computer-science/comprehensive-guide-to-learn-computer-science-online/)".
 
-If you're worried about not being able to prove your knowledge if you're just learning in an unaccredited way online, look into [CS certifications](/jobs/guide-to-certificate-in-computer-science/).
+If you're worried about not being able to prove your knowledge if you're just learning in an unaccredited way online, look into [CS certifications](/computer-science/guide-to-certificate-in-computer-science/).

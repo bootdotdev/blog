@@ -93,7 +93,7 @@ In accordance with the requirements outlined above, it's really hard to implemen
 
 The second requirement, that the key can't be reused, is a huge pain! This means memorizing keys is out of the question because I always need a new one. Not only that, but whatever security vulnerabilities are introduced by needing to communicate a shared key to my intended recipient will be repeated each time a new message is sent.
 
-Lastly, the last requirement, that it must be kept secret yet somehow communicated to the intended recipient, is a **tall** order. In fact, all symmetric encryption algorithms suffer from this problem. As a result, if you need to communicate with another entity you probably need to use a separate [asymmetric encryption](/cryptography/very-basic-intro-to-pgp-gpg/#sym-vs-asym) scheme.
+Lastly, the last requirement, that it must be kept secret yet somehow communicated to the intended recipient, is a **tall** order. In fact, all symmetric encryption algorithms suffer from this problem. As a result, if you need to communicate with another entity you probably need to use a separate [asymmetric encryption](/cryptography/very-basic-intro-to-pgp-gpg/) scheme.
 
 ## Example of the one-time pad code in Go
 

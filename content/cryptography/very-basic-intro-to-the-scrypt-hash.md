@@ -22,13 +22,13 @@ That long 256-bit key can now be used as a private key to encrypt and decrypt da
 
 Some cryptocurrencies, like [Litecoin](https://litecoin.org/), use Scrypt as their proof-of-work algorithm due to how slow and memory-intensive the key derivation process is. By using a slower and more memory-intensive algorithm, it's harder for engineers to create specialized hardware (ASICs) to mine the coin.
 
-## Other [hash function](/security/hash-functions/) explainers
+## Other [hash function](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) explainers
 
 Before we move on, if you're looking for an explanation of a different hash function, we may have you covered
 
 - [SHA-2 Hash Step by Step](/cryptography/how-sha-2-works-step-by-step-sha-256/)
 - [Bcrypt Step by Step](/cryptography/bcrypt-step-by-step/)
-- [(Very) Basic Intro to Hash Functions](/security/hash-functions/)
+- [(Very) Basic Intro to Hash Functions](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/)
 
 ## Why Not Encrypt With The Password Directly?
 
@@ -39,7 +39,7 @@ Furthermore, using a KDF like Scrypt provides additional benefits over a traditi
 - Computationally expensive and slow
 - Memory intensive (potentially several gigabytes of RAM is used to execute the hash)
 
-Often times [brute-force attackers](/cryptography/how-do-brute-force-attackers-know-they-found-the-key/) will try to break encryption by guessing passwords over and over until they get it right. AES-256 and SHA-2 are fast, so an attacker would be able to guess many passwords per second. By using a slow hashing function like Scrypt to derive a key, we can force the attacker to waste more resources trying to break in.
+Often times [brute-force attackers](/security/how-do-brute-force-attackers-know-they-found-the-key/) will try to break encryption by guessing passwords over and over until they get it right. AES-256 and SHA-2 are fast, so an attacker would be able to guess many passwords per second. By using a slow hashing function like Scrypt to derive a key, we can force the attacker to waste more resources trying to break in.
 
 ## Scrypt Step-by-Step
 

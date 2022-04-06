@@ -10,7 +10,7 @@ images:
   - /img/lock.webp
 ---
 
-Bcrypt is a [key derivation function](/cryptography/key-derivation-functions/), which can be thought of as a special kind of [hash function](/security/hash-functions/). Its purpose is to _slowly_ convert a piece of input data to a fixed-size, deterministic, and unpredictable output. A common use case is to convert a password into an n-bit [cryptographic](/cryptography/what-is-cryptography/) key, which can then be used for safe authentication.
+Bcrypt is a [key derivation function](/cryptography/key-derivation-functions/), which can be thought of as a special kind of [hash function](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/). Its purpose is to _slowly_ convert a piece of input data to a fixed-size, deterministic, and unpredictable output. A common use case is to convert a password into an n-bit [cryptographic](/cryptography/what-is-cryptography/) key, which can then be used for safe authentication.
 
 ## What does a Bcrypt hash look like?
 
@@ -172,4 +172,4 @@ If you're looking for an explanation of a different hash function, we may have y
 
 - [How SHA-2 Works Step by Step](/cryptography/how-sha-2-works-step-by-step-sha-256/)
 - [(Very) Basic Intro to the Scrypt Hash](/cryptography/very-basic-intro-to-the-scrypt-hash/)
-- [(Very) Basic Intro to Hash Functions](/security/hash-functions/)
+- [(Very) Basic Intro to Hash Functions](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/)

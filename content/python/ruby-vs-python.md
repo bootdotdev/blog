@@ -124,4 +124,4 @@ No matter which language you choose in the Python and Ruby comparison, you'll be
 
 Take action and learn Python
 
-If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/learn-python-course/) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
+If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.

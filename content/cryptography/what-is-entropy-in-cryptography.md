@@ -49,7 +49,7 @@ Again, from the comments:
 
 When random bytes are desired, they are obtained by taking the SHA hash of the contents of the "entropy pool". 
 
-To sum up, random data is added to an entropy pool constantly. This randomness is based on hard to predict events within the machine. When a user desires randomness, a [hash](/security/hash-functions/) is taken of the entropy pool and the result is supplied to the user. When we call any secure randomness function on a Linux machine, we are likely using this driver or one very similar to it.
+To sum up, random data is added to an entropy pool constantly. This randomness is based on hard to predict events within the machine. When a user desires randomness, a [hash](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) is taken of the entropy pool and the result is supplied to the user. When we call any secure randomness function on a Linux machine, we are likely using this driver or one very similar to it.
 
 {{< cta1 >}}
 

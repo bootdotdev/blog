@@ -30,7 +30,7 @@ You might look at both and think there's no real difference between a certificat
 
 A degree, as you probably know, is broad. It takes a lot of money and a lot of time to complete a degree in computer science, but what you get in return is a wide knowledge base, touching on several different topics of potential interest, and covering the fundamentals in a way that will make it easy for you to pick up specifics later. 
 
-An [online certificate](/jobs/guide-to-certificate-in-computer-science/), meanwhile, is narrower in scope. It costs some time and some money to complete, and you get a more specific set of skills and experiences in return. There are certificates at every level: for beginners like me with SQL, all the way to certifying you for a very particular and specialized skill.
+An [online certificate](/computer-science/guide-to-certificate-in-computer-science/), meanwhile, is narrower in scope. It costs some time and some money to complete, and you get a more specific set of skills and experiences in return. There are certificates at every level: for beginners like me with SQL, all the way to certifying you for a very particular and specialized skill.
 
 ## Do you know exactly what you want to do in your programming job? 
 
@@ -38,7 +38,7 @@ When I set out to get my job, I had only a very vague idea of what I wanted to d
 
 If you have a more specific idea than me, like you know you want to be a data scientist or that you want to be a front-end engineer, you’ll have an easier time than I did picking a course to complete for a certificate. This is a much more highly specialized knowledge that you can use to prove your worth to employers.
 
-If you’re still unsure and just know you want something programming-related, it’s worth spending some time deciding what it is you want to do before launching yourself into a degree or a certificate. You can do something similar to what I did, and look at several [CS job descriptions](/jobs/highest-paying-computer-science-jobs/) to see what universal skills would be handy to have or talk to any programmers you know today to see what they’d say. It might even be worth doing an “Intro to X” type course before you sink time and cash into a degree that might not end up being your passion.
+If you’re still unsure and just know you want something programming-related, it’s worth spending some time deciding what it is you want to do before launching yourself into a degree or a certificate. You can do something similar to what I did, and look at several [CS job descriptions](/computer-science/highest-paying-computer-science-jobs/) to see what universal skills would be handy to have or talk to any programmers you know today to see what they’d say. It might even be worth doing an “Intro to X” type course before you sink time and cash into a degree that might not end up being your passion.
 
 ## How much time and money do you have to learn computer science?
 
