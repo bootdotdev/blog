@@ -10,22 +10,22 @@ We recently took a look at our course curriculum and felt that our current Big-O
 
 ...This led to a larger conversation on how we can help people who don't want an entire computer science syllabus, and who want more targeted learning -- such as a more in-depth journey through Python.
 
-View our [full course curriculum here](https://github.com/qvault/curriculum)
+View our [full course curriculum here](https://github.com/bootdotdev/curriculum)
 
-**The result:** with how important Python is, we designed the first Qvault Track as a more bite-size course selection for anyone looking to learn certain concepts, languages, or pass a certain type of technical interview and land their dream job.
+**The result:** with how important Python is, we designed the first boot.dev Track as a more bite-size course selection for anyone looking to learn certain concepts, languages, or pass a certain type of technical interview and land their dream job.
 
 ## What's Included?
 
-[Our first Track](https://github.com/qvault/curriculum/blob/main/ALGOS_DS_TRACK.md), featuring our Python courses, starts with our Python Fundamentals course for Python beginners without much previous experience. Then, you move through our Algorithms and Data Structures courses, finishing up with our Advanced Algorithms course.
+[Our first Track](https://github.com/bootdotdev/curriculum/blob/main/ALGOS_DS_TRACK.md), featuring our Python courses, starts with our Python Fundamentals course for Python beginners without much previous experience. Then, you move through our Algorithms and Data Structures courses, finishing up with our Advanced Algorithms course.
 
-[Start the track now](https://app.qvault.io/)
+[Start the track now](https://boot.dev/)
 
 **The entire Python Track consists of:**
 
-1. **[Python Fundamentals](https://qvault.io/learn-python-course/)**
-2. **[Big-O Algorithms](https://qvault.io/big-o-algorithms-course/)**
-3. **[Big-O Data Structures](https://qvault.io/big-o-data-structures-course/)**
-4. **[Advanced Algorithms](https://qvault.io/advanced-algorithms-course/)**
+1. **[Python Fundamentals](https://boot.dev/learn-python-course/)**
+2. **[Big-O Algorithms](https://boot.dev/big-o-algorithms-course/)**
+3. **[Big-O Data Structures](https://boot.dev/big-o-data-structures-course/)**
+4. **[Advanced Algorithms](https://boot.dev/advanced-algorithms-course/)**
 
 These 4 courses feature over 285 interactive lessons where you write Python code to solve challenges and gain practical experience to advance your skills. It's all browser-based with no downloads, and it's ideal for any would-be Python programmers starting from scratch, as well as for anyone more advanced who wants to ace their next technical interview by jumping straight in at the Big-O Algorithms course.
 
@@ -41,15 +41,15 @@ Python reads closer to standard English than almost any other language, is simpl
 
 Python is only going to become an even more dominant force in the world of programming in the future, and with its accessibility and shallower learning curve, we're confident that learning Python is one of the best things you can do in your programming journey.
 
-## Future Plans For Qvault Tracks
+## Future Plans For Boot.dev Tracks
 
 While this Python Track is our first released track, we have designs on a range of others. These aren't replacing our commitment to building a complete grad-level computer science degree set of courses -- we're simply packaging our existing courses so that those of you looking for more targeted learning can quickly train up, while those who want to complete the entire degree can still do that.
 
-Our goal is to help you get to where you want to be, in the most effective way possible. For some, that's blitzing straight through our Python courses (or our Go courses if you want to be part of Gopher Gang 😀), while some want the entire computer science degree experience. With Tracks, you're free to tailor your own Qvault experience and gear your learning to whatever works best for you!
+Our goal is to help you get to where you want to be, in the most effective way possible. For some, that's blitzing straight through our Python courses (or our Go courses if you want to be part of Gopher Gang 😀), while some want the entire computer science degree experience. With Tracks, you're free to tailor your own boot.dev experience and gear your learning to whatever works best for you!
 
-## Why Qvault?
+## Why Boot.dev?
 
-At Qvault we’re focused on one thing: [teaching computer science](https://qvault.io/computer-science/comprehensive-guide-to-learn-computer-science-online/).
+At boot.dev we’re focused on one thing: [teaching computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/).
 
 Following our "learning by doing" philosophy, we design our courses to be as interactive as possible, cementing learning and helping you to actively code along to challenges, lessons, and answer multiple-choice questions. 
 
@@ -57,4 +57,4 @@ And having been on the other side in the recruitment game, we understand how emp
 
 We build our courses based on what gets you hired, and support our courses with interview prep articles and courses so you’re fully prepared for your next coding job interview.
 
-[Learn To Code With Qvault Now](https://app.qvault.io/)
+[Learn To Code With boot.dev Now](https://boot.dev/)

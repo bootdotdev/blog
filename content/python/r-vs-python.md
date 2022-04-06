@@ -52,7 +52,7 @@ Both languages are popular for data science, it just depends on what kind of dat
 
 Python is great for mathematical functions and big data. Along with being a strong language, it has libraries like [Numpy](https://numpy.org/) for mathematics, [Pandas](https://pandas.pydata.org/) for data structures, [Keras](https://keras.io/) for modeling, and [Scikit-Learn](https://scikit-learn.org/stable/) as the industry-standard library for Python data science projects – as well as many others focusing on data visualizations and data mining.
 
-You can also read our article on [Python for data science](https://qvault.io/python/python-for-data-science/)
+You can also read our article on [Python for data science](/python/python-for-data-science/)
 
 It also has a massive thriving and welcoming community, which is perfect as an open-source language since it means endless free resources.
 
@@ -136,6 +136,6 @@ However, if you want to strictly study data and access statistical help, have no
 
 In the end, both languages offer amazing resources, benefits, and careers, but your goals need to align with them to get the most out of either language.
 
-**If you're looking to learn Python**, we designed our [Python Fundamentals](https://qvault.io/learn-python-course/) course to teach you the fundamentals and reach an intermediate skill level. From there, you'll have the tools you need to land an entry-level Python job. If you've already got the fundamentals down, we also have a [data structures course](https://qvault.io/big-o-data-structures-course/) and [advanced algorithms course](https://qvault.io/advanced-algorithms-course/) to finetune your Python skills.
+**If you're looking to learn Python**, we designed our [Python Fundamentals](https://boot.dev/learn-python-course/) course to teach you the fundamentals and reach an intermediate skill level. From there, you'll have the tools you need to land an entry-level Python job. If you've already got the fundamentals down, we also have a [data structures course](https://boot.dev/big-o-data-structures-course/) and [advanced algorithms course](https://boot.dev/advanced-algorithms-course/) to finetune your Python skills.
 
 Our courses are fully interactive, where you code the answer to each lesson's challenge, giving you hands-on experience in real-life mimicking scenarios. Learning by doing is the most effective way to fast-track your learning and get qualified and employed in your dream coding role.

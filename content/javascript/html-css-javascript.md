@@ -73,10 +73,10 @@ HTML elements include `<p>` paragraph tags, `<h1>` and other heading tags, and m
 
 **An example of HTML, CSS & JavaScript uses**
 
-HTML is used to create the static structure of a page. For example, if I wanted the H3 heading of a new Qvault page to say “Qvault is the best computer science education site”, with a paragraph underneath reinforcing this by saying “And if you disagree, try out our courses and be convinced!”, you could easily implement this structure with the following HTML code:
+HTML is used to create the static structure of a page. For example, if I wanted the H3 heading of a new boot.dev page to say “Boot.dev is the best computer science education site”, with a paragraph underneath reinforcing this by saying “And if you disagree, try out our courses and be convinced!”, you could easily implement this structure with the following HTML code:
 
 ```
-<h3> Qvault is the best computer science education site </h3>
+<h3> Boot.dev is the best computer science education site </h3>
 
 <p> And if you disagree, try out our courses and be convinced! </p>
 ```

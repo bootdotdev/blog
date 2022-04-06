@@ -11,7 +11,7 @@ images:
 
 At work, computer scientists build and deploy programs, algorithms, and systems to solve real-world problems. In most tech jobs, they spend the majority of their time working in teams on new software products. Some computer scientists are more research-oriented however, and may spend time developing new algorithms or pushing the boundaries of what academia knows about certain CS questions.
 
-It's important to understand that most students with a [computer science degree become developers or software engineers](https://qvault.io/2020/12/17/computer-science-vs-software-engineering/). Instead of their career being research-focused as you might expect of someone with the "scientist" title, they likely do more implementation (engineering) than theoretical (science) work. This isn't always that case of course, but it does represent the majority of graduates.
+It's important to understand that most students with a [computer science degree become developers or software engineers](/computer-science/computer-science-vs-software-engineering/). Instead of their career being research-focused as you might expect of someone with the "scientist" title, they likely do more implementation (engineering) than theoretical (science) work. This isn't always that case of course, but it does represent the majority of graduates.
 
 ## A day in the life of a computer scientist/software engineer
 
@@ -63,7 +63,7 @@ So much about your life as a computer scientist will depend on where you go to w
 - **Flexible hours.** I typically work from 7AM to 4PM. My brother (a developer as well) usually works from 9:30AM to 6:30 PM.
 - **Work from home.** Increasingly more and more companies are open to fully-remote work.
 - **Good work environment.** Many tech companies are able to raise quite frankly insane amounts of capital. Because they're interested in retaining top talent, they often have cool amenities. For example, I've had office ping pong tables, massage chairs, catered meals, gyms, etc.
-- [**Good pay.**](https://qvault.io/2020/11/09/how-much-do-software-engineers-make/) Companies are still having a hard time finding good talent.
+- [**Good pay.**](/misc/how-much-do-software-engineers-make/) Companies are still having a hard time finding good talent.
 
 ## Tools I use as a software engineer
 

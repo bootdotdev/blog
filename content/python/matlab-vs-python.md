@@ -10,7 +10,7 @@ images:
 
 Matlab and Python both can do quite different and incredible things, which makes Matlab versus Python an interesting question. The better question is more nuanced. When considering Matlab vs Python, which is best for _you_? 
 
-If you're [learning computer science online](https://qvault.io/computer-science/comprehensive-guide-to-learn-computer-science-online/) with any language, you're already in a great place. Coding is a hugely valuable skill, no matter which language you go with. But with such a wide variety of programming languages available, picking the right one is tough.
+If you're [learning computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/) with any language, you're already in a great place. Coding is a hugely valuable skill, no matter which language you go with. But with such a wide variety of programming languages available, picking the right one is tough.
 
 No matter if you're just starting out coding and trying to decide which language is best to pick up, or you already have five languages under your belt and you're wondering which should be the sixth,  it can be hard to choose the right one to pursue. There are new awesome languages coming up all the time, like Rust. There are more niche languages like R that are expanding their capabilities. And of course, there are Matlab and Python to choose between as well.
 
@@ -71,7 +71,7 @@ It's possible that as you get more advanced or more specialized in the mathemati
 
 Many new programming students pick up a keyboard because they want to get into computer science. If that's the case for you, then there's only one answer for which is best between Matlab and Python: Python is considered the lingua franca for computer science. If you want to get a job in computer science, scan any of the job postings and you’ll see most if not all require some knowledge in Python. Hardly any will mention Matlab as even a benefit, let alone a requirement. 
 
-Plus, Matlab is mostly used in schools and universities. This means that if you want to learn Matlab once you've left school, you'll find it really expensive. Python, meanwhile, has a much wider array of [courses](https://qvault.io/learn-python-course/) and tutorials that can teach you anywhere from the basics to pretty advanced stuff. 
+Plus, Matlab is mostly used in schools and universities. This means that if you want to learn Matlab once you've left school, you'll find it really expensive. Python, meanwhile, has a much wider array of [courses](https://boot.dev/learn-python-course/) and tutorials that can teach you anywhere from the basics to pretty advanced stuff. 
 
 **Python is indubitably best for getting a job in computer science.**
 
@@ -149,4 +149,4 @@ I'm not saying you shouldn't learn Matlab if you get the opportunity. (And if yo
 
 Take action and learn Python
 
-If you're looking to learn Python, we built our [Python Fundamentals course](https://qvault.io/learn-python-course/) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
+If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/learn-python-course/) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.

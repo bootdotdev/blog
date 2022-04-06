@@ -29,7 +29,7 @@ There are so many coding boot camps, crash courses, and YouTube videos making hu
 
 _This is baloney._
 
-Programming and its sister endeavors [computer science](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/) and [software engineering](https://qvault.io/2020/12/17/computer-science-vs-software-engineering/) are complex topics that take a minute to digest. The fastest way to learn to code is to start with the basics. If you try to skip fundamental concepts, when you get to the harder stuff you'll have serious misunderstandings that will hinder your progress. Since you'll be forced to go back to the basics anyway, it's easier to just start there.
+Programming and its sister endeavors [computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/) and [software engineering](/computer-science/computer-science-vs-software-engineering/) are complex topics that take a minute to digest. The fastest way to learn to code is to start with the basics. If you try to skip fundamental concepts, when you get to the harder stuff you'll have serious misunderstandings that will hinder your progress. Since you'll be forced to go back to the basics anyway, it's easier to just start there.
 
 There are certainly little shortcuts you can take here or there to get you into an entry-level job faster, but you can't completely skip the fundamentals. It will come back to bite you.
 
@@ -61,7 +61,7 @@ _Tip: Build a project as you make your way through any learning material. A pers
 
 ## 4\. Googling is a skill. Learn to Google better
 
-Some people are really good at googling stuff, and others aren't. The good news is that googling is a skill you can learn; mostly through practice. Pay attention to what the search results look like when you run a query, and learn to examine them effectively to know whether you should spend time clicking through to the page. Here are some basic [heuristics](https://qvault.io/2020/11/30/examples-of-heuristics-in-computer-science/) that can help you know if a result is worth clicking on and skimming through.
+Some people are really good at googling stuff, and others aren't. The good news is that googling is a skill you can learn; mostly through practice. Pay attention to what the search results look like when you run a query, and learn to examine them effectively to know whether you should spend time clicking through to the page. Here are some basic [heuristics](/computer-science/examples-of-heuristics-in-computer-science/) that can help you know if a result is worth clicking on and skimming through.
 
 ### Good Signs
 
@@ -89,7 +89,7 @@ I've found that if there is a concept or topic I really want to commit to memory
 
 ## 6\. Become a member of coding communities
 
-It's hard to be excited about something if you don't keep up on the exciting news, memes, and innovations that are happening in the space. I've compiled a list of some of my [favorite coding communities](https://qvault.io/2020/11/12/top-12-best-communities-for-learning-to-code/). Join the ones that interest you and hit me up [personally](https://twitter.com/wagslane) if you want to connect as well.
+It's hard to be excited about something if you don't keep up on the exciting news, memes, and innovations that are happening in the space. I've compiled a list of some of my [favorite coding communities](/misc/top-12-best-communities-for-learning-to-code/). Join the ones that interest you and hit me up [personally](https://twitter.com/wagslane) if you want to connect as well.
 
 _Tip: You'll learn things from personal conversations that you could never pick up in a book. Communities can give you various expert perspectives on complex topics._
 
@@ -97,7 +97,7 @@ _Tip: You'll learn things from personal conversations that you could never pick 
 
 If you don't yet have a coding job, it can be hard to learn collaboration skills that you will need out in the real world. 99% of the time, coding isn't a thing you do alone, you have to learn to work with others on a team project.
 
-The best way I've found to get this experience when you're out on your own is to look for [open-source projects on Github](https://qvault.io/open-source/contributing-to-open-source/) and Gitlab that interest you. You can get to know the maintainers, fix open bug issues, and propose and work on new features. If you aren't working on open-source, you'll be at a huge disadvantage when it comes time to [compete for your first job](https://qvault.io/jobs/getting-a-job-after-coding-bootcamp-is-hard/).
+The best way I've found to get this experience when you're out on your own is to look for [open-source projects on Github](/open-source/contributing-to-open-source/) and Gitlab that interest you. You can get to know the maintainers, fix open bug issues, and propose and work on new features. If you aren't working on open-source, you'll be at a huge disadvantage when it comes time to [compete for your first job](/jobs/getting-a-job-after-coding-bootcamp-is-hard/).
 
 _Tip: Employers will want to see your Github profile, make it impressive!_
 

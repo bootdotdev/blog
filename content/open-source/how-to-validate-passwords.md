@@ -23,7 +23,7 @@ Not only are the rules above quite annoying, but they can also be a security _fl
 
 ## The Problem - Allow Users to Use Any Password Format as Long as It Has Enough Entropy
 
-We don't care if a password only has lowercase letters if it's long. All that matters is the [entropy](https://qvault.io/2020/09/28/what-is-entropy-in-cryptography/). Entropy in this context refers to the number of brute-force guesses it would take to guess a password, and we measure it in bits (the exponent in `2^n`). Refer to the following chart to see how various entropy levels contribute to the time it takes to brute force a password.
+We don't care if a password only has lowercase letters if it's long. All that matters is the [entropy](/cryptography/what-is-entropy-in-cryptography/). Entropy in this context refers to the number of brute-force guesses it would take to guess a password, and we measure it in bits (the exponent in `2^n`). Refer to the following chart to see how various entropy levels contribute to the time it takes to brute force a password.
 
 ![Entropy scores measured in bits](/img/rhdADIZYXJM2FxqNf6UOFqU5ar0VX3fayLFpKspN8uI.png)
 

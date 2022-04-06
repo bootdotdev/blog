@@ -8,11 +8,11 @@ images:
   - /img/How-Long-Does-It-Take-to-Learn-to-Code.jpeg
 ---
 
-There are so many obvious reasons to learn to code: freelancing opportunities, career advancement, [salary increase](https://qvault.io/2020/11/09/how-much-do-software-engineers-make/), and personal satisfaction among others. The advantages are so many that it’s worth the investment, no matter how many obstacles you might encounter.
+There are so many obvious reasons to learn to code: freelancing opportunities, career advancement, [salary increase](/misc/how-much-do-software-engineers-make/), and personal satisfaction among others. The advantages are so many that it’s worth the investment, no matter how many obstacles you might encounter.
 
 One such obstacle is the common misunderstanding about how _long_ it takes to learn to code. When I first started thinking about learning to code, my main concern was that I wouldn’t have time, or that it would take several years just to learn the coding language I’d chosen, [R](https://en.wikipedia.org/wiki/R_(programming_language)). I had vivid recollections of trying to learn to code by reading a textbook in college, and the thought of spending long evenings curled up by a dense and dry textbook really put me off.
 
-The truth is, the answer is complex. The length of time it’ll take you to learn a language depends on a lot of your requirements and decisions - for instance, if you’re looking at learning basic JavaScript, [it may be quicker](https://qvault.io/2020/11/04/top-web-development-programming-languages-a-comparison) than an entire framework like Ruby on Rails. 
+The truth is, the answer is complex. The length of time it’ll take you to learn a language depends on a lot of your requirements and decisions - for instance, if you’re looking at learning basic JavaScript, [it may be quicker](/golang/top-web-development-languages/) than an entire framework like Ruby on Rails. 
 
 Rather than asking yourself how long it would take to become a programmer or learn a coding language, it’s better to ask yourself what your _plan_ is. Consider the following factors:
 
@@ -54,7 +54,7 @@ Depending on your goal, it’s worth researching which language is easiest and h
 
 ## What Method Are You Using to Learn?
 
-While there probably are textbooks out there for any coding language you like, it’s best to spend some time experimenting with different methods to see what works best for you. A [recent study from 2020 shows](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3654313) that gamification, a newer strategy for learning skills, can help drive motivation and engagement. For example, [Qvault’s gamified computer science learning platform](https://qvault.io/2020/11/05/qvault-releases-achievements-the-gamification-of-education-continues/) uses achievements and gems to motivate students to not just start, but to achieve goals and complete courses. 
+While there probably are textbooks out there for any coding language you like, it’s best to spend some time experimenting with different methods to see what works best for you. A [recent study from 2020 shows](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3654313) that gamification, a newer strategy for learning skills, can help drive motivation and engagement. For example, [boot.dev’s gamified computer science learning platform](/news/qvaults-achievements-system/) uses achievements and gems to motivate students to not just start, but to achieve goals and complete courses. 
 
 Coding is popular enough that free and paid resources exist for just about any language you may want to learn, no matter whether YouTube videos, courses, or textbooks are right for you.
 

@@ -12,7 +12,7 @@ When broken down into core features – like programming style and code executio
 
 One being that JavaScript has always been about furthering technology.
 
-Before JS, there was only [HTML and CSS](https://qvault.io/misc/html-css-javascript/), which instructed and described how a web page should work and look, but JavaScript gave it life with dynamic web pages. This not only made web pages interactive, but it changed their functionality forever.
+Before JS, there was only [HTML and CSS](/misc/html-css-javascript/), which instructed and described how a web page should work and look, but JavaScript gave it life with dynamic web pages. This not only made web pages interactive, but it changed their functionality forever.
 
 It’s amazing to think that in 1995, Brendan Eich developed this interpreted, high-level, multiparadigm scripting and programming language in just 10 days, and it would go on to become the industry standard client-side language.  
 
@@ -132,6 +132,6 @@ In the end, you have to choose the language that suits your needs best, and luck
 
 **For taking action:**
 
-**For beginners**: we recommend our [Intro to Coding with JavaScript courses](https://qvault.io/basic-intro-to-coding-javascript-course/) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
+**For beginners**: we recommend our [Intro to Coding with JavaScript courses](https://boot.dev/basic-intro-to-coding-javascript-course/) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
 
-**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://qvault.io/intro-to-functional-programming/), which mixes JS with PureScript. We also recommend our [Go Mastery courses](https://qvault.io/go-mastery-course/) for anyone looking to learn Golang, as well as our [Python Fundamentals course](https://qvault.io/learn-python-course/).
+**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://boot.dev/intro-to-functional-programming/), which mixes JS with PureScript. We also recommend our [Go Mastery courses](https://boot.dev/go-mastery-course/) for anyone looking to learn Golang, as well as our [Python Fundamentals course](https://boot.dev/learn-python-course/).

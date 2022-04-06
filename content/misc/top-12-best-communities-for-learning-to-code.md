@@ -27,7 +27,7 @@ Reddit is a massive community that touches on virtually all topics. It boasts th
 
 ### Pros
 
-You can find subreddits dedicated to everything related to programming, from [beginner’s courses to advanced code resources](https://app.qvault.io/), and casual chats to advice columns. The platform is easy to use and operates like a traditional forum, just more modern and user-friendly. You’ll get honest answers and helpful critiques, although trolls and users with chips on their shoulders pop up periodically. You can save, upvote, downvote, and share content with ease through the website.
+You can find subreddits dedicated to everything related to programming, from [beginner’s courses to advanced code resources](https://boot.dev/), and casual chats to advice columns. The platform is easy to use and operates like a traditional forum, just more modern and user-friendly. You’ll get honest answers and helpful critiques, although trolls and users with chips on their shoulders pop up periodically. You can save, upvote, downvote, and share content with ease through the website.
 
 ### Cons
 
@@ -114,7 +114,7 @@ It might be a bit of a surprise to see this social media giant on our list. Howe
 
 ![](/img/Discord-privacy-tips-that-you-should-use-.jpg)
 
-Discord has many different servers where developers can chat in real time. We have our own Discord server for Qvault, so feel free to hop into that.
+Discord has many different servers where developers can chat in real time. We have our own Discord server for boot.dev, so feel free to hop into that.
 
 ### Pros
 
@@ -132,7 +132,7 @@ You probably want to use the desktop client, meaning it's not easy to access the
 
 Slack doesn't need much explanation due to its fame, and the key points are similar to Discord. The main differences are that Slack requires a paid plan to unlock some important features like persisted message history. There are many good servers, but one of my favorites is the [Gophers server](https://gophers.slack.com/messages/general/) if you are into the Go language.
 
-## [8\. Github](https://github.com/qvault)
+## [8\. Github](https://github.com/bootdotdev)
 
 ![](/img/github.jpeg)
 

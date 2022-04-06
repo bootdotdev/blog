@@ -39,7 +39,7 @@ If we decide that we shouldn't write the code ourselves, we find a valid candida
 
 ## Locking Versions
 
-For any dependencies that are more security-critical, it is important to lock versions, and ideally [vendor the original source code](https://qvault.io/2020/11/16/should-you-commit-the-vendor-folder-in-go/). For example, we perhaps have done a solid review of package '**abc**' and determined that **v1.4.4** is stable and secure. We want to ensure that we don't carelessly update that package without reviewing the changes. A package manager like yarn keeps the digital fingerprints of each dependency so that once v1.4.4 code is brought in, it can't be maliciously swapped out.
+For any dependencies that are more security-critical, it is important to lock versions, and ideally [vendor the original source code](/golang/should-you-commit-the-vendor-folder-in-go/). For example, we perhaps have done a solid review of package '**abc**' and determined that **v1.4.4** is stable and secure. We want to ensure that we don't carelessly update that package without reviewing the changes. A package manager like yarn keeps the digital fingerprints of each dependency so that once v1.4.4 code is brought in, it can't be maliciously swapped out.
 
 Vulnerabilities in updates aren't protected by this feature. For this reason, we try to use **'1.4.4'** vs **'~1.4.4'** or **'^1.4.4'**. By not including the tilde or the caret, we tell yarn that we don't want to automatically update this package.
 

@@ -22,7 +22,7 @@ We don’t want to give you ten different “Data Structures” courses. We’ll
 
 Maybe as soon as five years from now any high-school graduate will be able to build a rudimentary web application. It’s possible that application development becomes the next decade’s “blue-collar” job. Understanding computer science concepts like algorithms, data structures, distributed computing, or cryptography will be the way to stand out as a developer.
 
-At Qvault, we don’t focus on the latest hyped-up framework. We teach evergreen skills that will serve you well through an entire career in computer science.
+At boot.dev, we don’t focus on the latest hyped-up framework. We teach evergreen skills that will serve you well through an entire career in computer science.
 
 ## A mix of guided and unguided learning is essential.
 

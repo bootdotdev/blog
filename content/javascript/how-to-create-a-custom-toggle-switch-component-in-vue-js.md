@@ -8,16 +8,16 @@ images:
   - /img/Screen-Shot-2020-07-20-at-2.webp
 ---
 
-Custom toggle switches are a pain to code from scratch. So many lines for such a simple UI widget! In this quick tutorial, we will learn how to build a fully encapsulated toggle switch component in Vue.js. The component we're building is used currently on [Qvault's](https://qvault.io/) [login page](https://app.qvault.io/). Go take a look to see a live demo.
+Custom toggle switches are a pain to code from scratch. So many lines for such a simple UI widget! In this quick tutorial, we will learn how to build a fully encapsulated toggle switch component in Vue.js. The component we're building is used currently on [boot.dev's login page](https://boot.dev/). Go take a look to see a live demo.
 
 ## How to make other custom Vue components
 
 Before we move on, if you are looking for our other custom Vue.js components tutorials you can find them here:
 
-- [Custom select component in Vue](https://qvault.io/2020/09/25/how-to-make-a-custom-select-component-in-vue-js/)
-- [Custom tooltip component In Vue](https://qvault.io/2020/08/28/creating-a-custom-tooltip-component-in-vue/)
-- [Custom slider component in Vue](https://qvault.io/2020/11/24/how-to-make-a-custom-slider-component-in-vue/)
-- [Custom checkbox form component in Vue](https://qvault.io/2020/11/25/how-to-create-a-custom-checkbox-form-in-vue/)
+- [Custom select component in Vue](/javascript/custom-select-component-in-vue/)
+- [Custom tooltip component In Vue](/javascript/custom-tooltip-component-in-vue/)
+- [Custom slider component in Vue](/javascript/custom-slider-component-vue/)
+- [Custom checkbox form component in Vue](/javascript/how-to-create-a-custom-checkbox-form-in-vue/)
 
 {{< cta1 >}}
 

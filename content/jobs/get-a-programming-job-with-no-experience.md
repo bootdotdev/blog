@@ -46,7 +46,7 @@ As such, you should make your Github/Gitlab profile - or whatever portfolio you 
 
 Any reasonable employer is going to be suspect of the skills of a junior developer with no work experience, and so you run the risk of getting your resume dismissed outright. Being able to prove that you can code doesn't mean anything if you don't get a chance to prove it. Do your best to build a great resume, it's effort well spent, especially since you can use the same resume to apply to many different jobs. Getting the resume right once has a great return on investment.
 
-According to [Lane Wagner's article on Computer Science resume's for 2021](https://qvault.io/2020/12/14/computer-science-resumes/), here are some of the best rules of thumb to help you out:
+According to [Lane Wagner's article on Computer Science resume's for 2021](/computer-science/computer-science-resumes/), here are some of the best rules of thumb to help you out:
 
 - Tweak your resume for each position you apply for
 - Include only relevant information

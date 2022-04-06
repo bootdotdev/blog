@@ -10,7 +10,7 @@ images:
 
 Creating a custom slider component can be tricky, especially if you want to create a lean standalone Vue component. In this quick article, you’ll learn how to build a fully customizable slider component in Vue. Feel free to swap out the majority of the CSS to get the styling you want, but I'll give you a good jumping-off point.
 
-In fact, the component we'll be building is the exact same component that we use in production, and you can see it in action in the signup workflow for our [coding courses](https://qvault.io/).
+In fact, the component we'll be building is the exact same component that we use in production, and you can see it in action in the signup workflow for our [coding courses](https://boot.dev/).
 
 You can see a [full demo on codesandbox here](https://codesandbox.io/s/custom-vue-slider-component-8esy1). If you're like me, you prefer to build your own lightweight UI components, rather than import a bloaty library that you don't have the ability to modify and change easily.
 
@@ -18,10 +18,10 @@ You can see a [full demo on codesandbox here](https://codesandbox.io/s/custom-vu
 
 Before we move on, if you are looking for our other custom Vue.js components tutorials you can find them here:
 
-- [Custom select component in Vue](https://qvault.io/2020/09/25/how-to-make-a-custom-select-component-in-vue-js/)
-- [Custom tooltip component In Vue](https://qvault.io/2020/08/28/creating-a-custom-tooltip-component-in-vue/)
-- [Custom toggle switch component in Vue](https://qvault.io/2020/07/21/how-to-create-a-custom-toggle-switch-component-in-vue-js/)
-- [Custom checkbox form component in Vue](https://qvault.io/2020/11/25/how-to-create-a-custom-checkbox-form-in-vue/)
+- [Custom select component in Vue](/javascript/custom-select-component-in-vue/)
+- [Custom tooltip component In Vue](/javascript/custom-tooltip-component-in-vue/)
+- [Custom toggle switch component in Vue](/javascript/how-to-create-a-custom-toggle-switch-component-in-vue-js/)
+- [Custom checkbox form component in Vue](/javascript/how-to-create-a-custom-checkbox-form-in-vue/)
 
 {{< cta1 >}}
 

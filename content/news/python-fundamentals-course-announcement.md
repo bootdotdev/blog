@@ -7,17 +7,17 @@ categories:
   - "python"
 ---
 
-We’ve just launched our latest course, [Python Fundamentals](https://qvault.io/learn-python-course/).
+We’ve just launched our latest course, [Python Fundamentals](https://boot.dev/learn-python-course/).
 
-[Start the "Python Fundamentals" Course Now](https://app.qvault.io/dashboard/courses)
+[Start the "Python Fundamentals" Course Now](https://boot.dev/dashboard/courses)
 
 **What’s more:** to celebrate the release, we’re offering full FREE access to the entire course — yep, you can take the entire course for free for a month — but the code expires in just 14 days. Simply enter this code at checkout:
 
 YAYPYTHON
 
-Featuring more than 65 interactive, code-in-your-browser lessons across six modules, this course is perfect for new-to-beginner students who have completed our [Intro To Coding with JavaScript Courses](https://qvault.io/basic-intro-to-coding-javascript-course/) and picked up the basics of a trickier language by taking [Go Mastery 1](https://qvault.io/go-mastery-course/).
+Featuring more than 65 interactive, code-in-your-browser lessons across six modules, this course is perfect for new-to-beginner students who have completed our [Intro To Coding with JavaScript Courses](https://boot.dev/basic-intro-to-coding-javascript-course/) and picked up the basics of a trickier language by taking [Go Mastery 1](https://boot.dev/go-mastery-course/).
 
-View our [full course curriculum here](https://github.com/qvault/curriculum)
+View our [full course curriculum here](https://github.com/bootdotdev/curriculum)
 
 ## What’s included?
 
@@ -30,7 +30,7 @@ Our Python Fundamentals course features six modules covering:
 5. **Functions**
 6. **Dictionaries and sets**
 
-Completing all six modules will bring you up to an intermediate level, putting you in great position to complete our more advanced Python courses, including our [Data Structures](https://qvault.io/big-o-data-structures-course/) and [Advanced Algorithms](https://qvault.io/advanced-algorithms-course/) courses.
+Completing all six modules will bring you up to an intermediate level, putting you in great position to complete our more advanced Python courses, including our [Data Structures](https://boot.dev/big-o-data-structures-course/) and [Advanced Algorithms](https://boot.dev/advanced-algorithms-course/) courses.
 
 {{< cta1 >}}
 
@@ -40,9 +40,9 @@ Python developers are well-paid with a [$120,000 median salary](https://insights
 
 Python reads closer to standard English than almost any other language, is simpler to learn than most, and there are huge amounts of open dev positions currently left unfilled as companies hunt for Python programmers worldwide.
 
-## Why Qvault?
+## Why Boot.dev?
 
-At Qvault we’re focused on one thing: [teaching computer science](https://qvault.io/computer-science/comprehensive-guide-to-learn-computer-science-online/).
+At boot.dev we’re focused on one thing: [teaching computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/).
 
 Following our "learning by doing" philosophy, we design our courses to be as interactive as possible, cementing learning and helping you to actively code along to challenges, lessons, and answer multiple-choice questions. 
 

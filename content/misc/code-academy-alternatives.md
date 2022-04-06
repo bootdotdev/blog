@@ -27,25 +27,25 @@ Learning to code can help you in many aspects of life and for many provides a st
 
 Choosing a coding program online may seem like a daunting task. When my wife started to learn to code, she was overwhelmed and felt that since she knew nothing about programming, she was unequipped to even be able to _choose_ a good program. Don't think that, there _are_ solutions!
 
-### [1\. Qvault](https://qvault.io/)
+### [1\. Boot.dev](https://boot.dev/)
 
-[![Qvault Logo - Learn to Code](/img/QVault-app-min-150x150.png)](https://app.qvault.io/)
+[![Qvault Logo - Learn to Code](/img/QVault-app-min-150x150.png)](https://boot.dev/)
 
-Time for a shameless plug, [Qvault](https://qvault.io/) is a great place to start. While coding can be complicated, Qvault is a browser-based web app that makes it simple. With several different courses and difficulties to choose from, Qvault is perfect for anyone from an absolute-beginner that doesn't know where to start, to a senior developer that's just looking to learn a new language or concept.
+Time for a shameless plug, [boot.dev](https://boot.dev/) is a great place to start. While coding can be complicated, boot.dev is a browser-based web app that makes it simple. With several different courses and difficulties to choose from, boot.dev is perfect for anyone from an absolute-beginner that doesn't know where to start, to a senior developer that's just looking to learn a new language or concept.
 
 **Key points:**
 
-- Qvault makes its courses feel like videogames.
-- Qvault focuses on quality over quantity. All their content is created and curated by Qvault, no scammy third party courses.
+- boot.dev makes its courses feel like videogames.
+- boot.dev focuses on quality over quantity. All their content is created and curated by boot.dev, no scammy third party courses.
 - All-in-one feel. All code is written and executed right in the browser.
 - Tutorials are text-based, interactive, and easy to follow.
-- Qvault focuses on [computer science, not just programming](https://qvault.io/2019/10/16/learning-some-computer-science-will-make-you-a-better-and-more-expensive-engineer/).
-- Qvault is a new platform and doesn't have an abundance of courses yet, but new ones are added frequently
-- Qvault hosts developer profiles and certificates that are free forever
+- boot.dev focuses on [computer science, not just programming](/computer-science/why-learn-computer-science/).
+- boot.dev is a new platform and doesn't have an abundance of courses yet, but new ones are added frequently
+- boot.dev hosts developer profiles and certificates that are free forever
 
 **Takeaway:**
 
-Qvault is a particularly good choice for beginner to mid-level students that want to learn computer science, not just coding.
+Boot.dev is a particularly good choice for beginner to mid-level students that want to learn computer science, not just coding.
 
 ### [2\. Free Code Camp](https://www.freecodecamp.org/)
 

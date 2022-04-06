@@ -56,7 +56,7 @@ D
 
 ## Properties of a red-black tree
 
-In addition to all the properties of a [Binary Search Tree](https://qvault.io/python/binary-search-tree-in-python/), a red-black tree must have the following:
+In addition to all the properties of a [Binary Search Tree](/python/binary-search-tree-in-python/), a red-black tree must have the following:
 
 1. Each node is either red or black
 2. The root is black. This rule is sometimes omitted. Since the root can always be changed from red to black, but not necessarily vice versa, this rule has little effect on analysis.

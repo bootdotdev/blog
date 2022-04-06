@@ -12,11 +12,11 @@ images:
 
 There are two ways to get a programming certificate online - universities and online courses. In the simplest possible terms, a programming certificate is something that lets you walk up to an employer and say, “Hello, yes, I know how to SQL. Here’s a piece of paper that proves it. You should hire me.”
 
-When described that way, you can instantly see how [getting a programming certificate compares with getting a degree](https://qvault.io/2020/12/02/difference-between-certificate-or-degree-in-2021/) - they both act as proof from external sources that help demonstrate your competence. The real difference is that a programming certificate is usually more specific, while a diploma demonstrates broader expertise. 
+When described that way, you can instantly see how [getting a programming certificate compares with getting a degree](/computer-science/compsci-certificate-vs-degree/) - they both act as proof from external sources that help demonstrate your competence. The real difference is that a programming certificate is usually more specific, while a diploma demonstrates broader expertise. 
 
-It makes sense that people are interested in getting a programming certificate online, rather than going to an in-person university or boot camp - it’s more flexible and convenient (not to mention much safer during a pandemic) to [learn computer science online](https://qvault.io/computer-science/comprehensive-guide-to-learn-computer-science-online/). Both online courses and universities are equipped to offer these to their students. 
+It makes sense that people are interested in getting a programming certificate online, rather than going to an in-person university or boot camp - it’s more flexible and convenient (not to mention much safer during a pandemic) to [learn computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/). Both online courses and universities are equipped to offer these to their students. 
 
-I’ve already written about the benefits and [difference between getting a programming certificate instead of a diploma](https://qvault.io/computer-science/difference-between-certificate-or-degree-in-2021/), so I’ll summarize:
+I’ve already written about the benefits and [difference between getting a programming certificate instead of a diploma](/computer-science/compsci-certificate-vs-degree/), so I’ll summarize:
 
 - Time. If  - and this is a big if! - you know what you want, you don’t have to spend four years getting a broad base of knowledge to secure the evidence of your skills.
 - Money. A programming certificate (or even several) can be a heck of a lot cheaper than a diploma.
@@ -55,19 +55,19 @@ There are two real differences to get a programming certificate online from an o
 
 They also differ in that they can be much less expensive, as well as flexible because they’re self-paced. Many online courses have the option to contact real people with questions or feedback, but for the most part, you’re expected to complete the tasks and reading on your own without any prompting.
 
-I’ve written before about [how to get a programming certificate](https://qvault.io/jobs/guide-to-certificate-in-computer-science/) online from an online course, so I’ll summarize here:
+I’ve written before about [how to get a programming certificate](/jobs/guide-to-certificate-in-computer-science/) online from an online course, so I’ll summarize here:
 
 1. **Do your research** on which certificate in computer science makes the most sense for you.
 2. **Understand the different types** of certificates in computer science.
 3. **Focus on what a certificate in computer science will give you.** Are you looking for a freelance boost, or a new job?
 4. **Find a source that will help you do the work.** Self-motivation can be tough, so find a course that is built to whatever you need to motivate yourself, whether gamification or companionship.
 5. **Do the work.** The more you do to make sure your choice is right in steps 1-4, the easier this one will be.
-6. **Proudly display your certificate.** For instance, tons of students have gone through Codecademy to get a programming certificate online, so employers have an idea of the reputation, and what they can expect from an employee who got a certificate from them. Meanwhile, Qvault is a lesser-known example, but they offer the opportunity to create a [public developer portfolio page](https://app.qvault.io/u/wagslane) you can link to on your resume. 
+6. **Proudly display your certificate.** For instance, tons of students have gone through Codecademy to get a programming certificate online, so employers have an idea of the reputation, and what they can expect from an employee who got a certificate from them. Meanwhile, boot.dev is a lesser-known example, but they offer the opportunity to create a [public developer portfolio page](https://boot.dev/u/wagslane) you can link to on your resume. 
 
 Examples:
 
 - [Codecademy](https://www.codecademy.com/). Offers several different course options from specific languages to skills for a career path, to topics such as web development. It costs $39.99/month or $240/year when billed annually for the standard plan.
-- [Qvault](https://qvault.io/). Offers a range of courses from intros to coding, to specific languages, to skill development such as data structures. It costs $20/month or $72/year when billed annually for the standard plan.
+- [Boot.dev](https://boot.dev/). Offers a range of courses from intros to coding, to specific languages, to skill development such as data structures. It costs $20/month or $72/year when billed annually for the standard plan.
 - [Pluralsight](https://www.pluralsight.com/product/skills/individuals). This online course catalog is built specifically to help you get a job with the skills you learn. The standard plan costs $29/month of $299/year when billed annually.
 
 In summary, the process to get a programming certificate online from an online course comes with real benefits - it tends to be cheaper, and more self-paced than getting one from a university. However, that can also be a disadvantage - it’s easier to be motivated to complete something when you’ve invested a lot of money, and someone is guiding you through the process. To combat those disadvantages, ensure you select an online course with a solid community that can help get you motivated to actually get the course done. 

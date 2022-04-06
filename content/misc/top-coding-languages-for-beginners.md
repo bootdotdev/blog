@@ -10,7 +10,7 @@ images:
 
 Coding languages, tools, and frameworks are in a constant state of flux, improvement, deprecation, and popularity swings. Let's take a look at the top 4 languages for new programmers to learn in 2021.
 
-As it happens, we support all four of the top languages on the [Qvault app](https://qvault.io/), and have courses for JavaScript and Go, with Rust and Python courses in active development. If you are interested in furthering your career, be sure to check it out.
+As it happens, we support all four of the top languages on the [boot.dev app](https://boot.dev/), and have courses for JavaScript and Go, with Rust and Python courses in active development. If you are interested in furthering your career, be sure to check it out.
 
 ## 1\. JavaScript
 
@@ -90,7 +90,7 @@ Rust stands alone as the fastest language on this list, and in many cases, is on
 
 Rust gives the programmer fine-grained control over how the code interacts with the hardware, which makes it a great replacement for C in embedded systems programming. Rust also gives the developer the power to optimize the compiled executable in various ways which ultimately means more performant code.
 
-[Rust is used in backend web development like Go](https://qvault.io/2020/07/17/rust-vs-go-in-backend-web-development) but has really found its place as a systems language.
+[Rust is used in backend web development like Go](/rust/rust-vs-go-in-backend-web-development/) but has really found its place as a systems language.
 
 ### Who Should Learn Rust First?
 

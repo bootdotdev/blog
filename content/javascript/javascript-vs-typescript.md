@@ -40,7 +40,7 @@ Oppositely, TypeScript is recommended as a second language.
 
 It has a steeper learning curve and a strict set of rules. Because TypeScript is a superset of JavaScript, it makes sense to learn JavaScript first, then tackle TypeScript once you understand the basics.
 
-Overall, JavaScript is the best for beginners, but the best route is to learn both. If you already have some coding skills but want to further improve, [our Functional Programming course teaches JavaScript and PureScript.](https://qvault.io/intro-to-functional-programming/) If you haven't heard of PureScript before, here's a quick comparison with TypeScript:
+Overall, JavaScript is the best for beginners, but the best route is to learn both. If you already have some coding skills but want to further improve, [our Functional Programming course teaches JavaScript and PureScript.](https://boot.dev/intro-to-functional-programming/) If you haven't heard of PureScript before, here's a quick comparison with TypeScript:
 
 ### TypeScript vs PureScript: A Mini Comparison
 
@@ -135,6 +135,6 @@ In the end, adopting both languages will set you up for the best success career-
 
 ## For Further Study
 
-**For beginners**: we recommend our [Intro to Coding with JavaScript courses](https://qvault.io/basic-intro-to-coding-javascript-course/) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
+**For beginners**: we recommend our [Intro to Coding with JavaScript courses](https://boot.dev/basic-intro-to-coding-javascript-course/) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
 
-**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://qvault.io/intro-to-functional-programming/), which mixes JS with PureScript. We also recommend our [Go Mastery courses](https://qvault.io/go-mastery-course/) for anyone looking to learn Golang, as well as our [Python Fundamentals course](https://qvault.io/learn-python-course/).
+**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://boot.dev/intro-to-functional-programming/), which mixes JS with PureScript. We also recommend our [Go Mastery courses](https://boot.dev/go-mastery-course/) for anyone looking to learn Golang, as well as our [Python Fundamentals course](https://boot.dev/learn-python-course/).
