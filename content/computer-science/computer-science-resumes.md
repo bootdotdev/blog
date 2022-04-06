@@ -8,7 +8,7 @@ images:
   - /img/resume-on-clipboard-pexels.jpeg
 ---
 
-It's really hard to get your foot in the door for engineering interviews, especially if you have no experience and are looking for an entry-level position. Often times, more experienced candidates looking to find a [higher-paying job](/jobs/highest-paying-computer-science-jobs/) can also have trouble. As an employer myself, I can tell you that one of the biggest mistakes I see in 75% of resumes is using a _visually boring template_. When I'm sifting through forty or fifty applicants, it's really easy for my eyes to glaze over. Think of your resume as your website landing page. You need to catch your employer's attention by calling out your biggest accomplishments and selling points at a glance.
+It's really hard to get your foot in the door for engineering interviews, especially if you have no experience and are looking for an entry-level position. Often times, more experienced candidates looking to find a [higher-paying job](/computer-science/highest-paying-computer-science-jobs/) can also have trouble. As an employer myself, I can tell you that one of the biggest mistakes I see in 75% of resumes is using a _visually boring template_. When I'm sifting through forty or fifty applicants, it's really easy for my eyes to glaze over. Think of your resume as your website landing page. You need to catch your employer's attention by calling out your biggest accomplishments and selling points at a glance.
 
 A pile of hundreds of computer science resumes stands staunchly opposed to your bright coding future. To stand out in the crowd and land the interviews you'll need to get that dream job, you’ll need to write a _fantastic_ computer science resume.
 

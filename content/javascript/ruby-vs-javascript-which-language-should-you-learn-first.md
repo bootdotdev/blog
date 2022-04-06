@@ -12,7 +12,7 @@ When broken down into core features – like programming style and code executio
 
 One being that JavaScript has always been about furthering technology.
 
-Before JS, there was only [HTML and CSS](/misc/html-css-javascript/), which instructed and described how a web page should work and look, but JavaScript gave it life with dynamic web pages. This not only made web pages interactive, but it changed their functionality forever.
+Before JS, there was only [HTML and CSS](/javascript/html-css-javascript/), which instructed and described how a web page should work and look, but JavaScript gave it life with dynamic web pages. This not only made web pages interactive, but it changed their functionality forever.
 
 It’s amazing to think that in 1995, Brendan Eich developed this interpreted, high-level, multiparadigm scripting and programming language in just 10 days, and it would go on to become the industry standard client-side language.  
 
@@ -132,6 +132,6 @@ In the end, you have to choose the language that suits your needs best, and luck
 
 **For taking action:**
 
-**For beginners**: we recommend our [Intro to Coding with JavaScript courses](https://boot.dev/basic-intro-to-coding-javascript-course/) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
+**For beginners**: we recommend our [Intro to Coding with JavaScript courses](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
 
-**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://boot.dev/intro-to-functional-programming/), which mixes JS with PureScript. We also recommend our [Go Mastery courses](https://boot.dev/go-mastery-course/) for anyone looking to learn Golang, as well as our [Python Fundamentals course](https://boot.dev/learn-python-course/).
+**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://boot.dev/course/b1459f0c-21eb-41e5-b7f3-562ef69d344c/65e3ea51-a0c4-41d6-9e4f-750942bcb0c9/f0d6c12b-fe3f-4920-a6a0-b2ae830b1658), which mixes JS with PureScript. We also recommend our [Go Mastery courses](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b) for anyone looking to learn Golang, as well as our [Python Fundamentals course](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/).

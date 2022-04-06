@@ -47,7 +47,7 @@ If you're a coder and are just trying to learn computer science (algorithms, dat
 
 ## How long does it take to learn CS?
 
-Again, this depends a lot. If you plan on taking the [university route instead of being self-taught](/computer-science/compsci-certificate-vs-degree/), then it will take four years. If instead, you decide to pursue various [online certifications](/jobs/guide-to-certificate-in-computer-science/) and learn by yourself it can take less time. If you go this route, then you, and not anyone else, are primarily responsible to make sure you cover all the material that you think is most important.
+Again, this depends a lot. If you plan on taking the [university route instead of being self-taught](/computer-science/compsci-certificate-vs-degree/), then it will take four years. If instead, you decide to pursue various [online certifications](/computer-science/guide-to-certificate-in-computer-science/) and learn by yourself it can take less time. If you go this route, then you, and not anyone else, are primarily responsible to make sure you cover all the material that you think is most important.
 
 ## What else makes CS a hard subject?
 

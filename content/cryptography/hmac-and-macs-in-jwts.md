@@ -17,7 +17,7 @@ MACs are exactly what they sound like; small codes that allow receivers of messa
 
 ![MAC diagram](/img/Screen-Shot-2019-12-12-at-7.49.24-AM.png)
 
-One way this is accomplished is by using a [hash function,](/security/hash-functions/) for instance, [SHA-256](/cryptography/how-sha-2-works-step-by-step-sha-256/). Simply put, a hash function takes an input and then returns an output, where:
+One way this is accomplished is by using a [hash function,](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) for instance, [SHA-256](/cryptography/how-sha-2-works-step-by-step-sha-256/). Simply put, a hash function takes an input and then returns an output, where:
 
 - The output is very unlikely to be the same for different inputs
 - The output is always the same for the same inputs

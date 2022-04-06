@@ -49,17 +49,17 @@ Assuming your plan is to attend a university, it could make a lot of sense to su
 - Data or business analyst: $100k
 - Designer: $100k
 
-For a deep dive into how much the various job titles earn on average check out my other article, [The Highest-Paying Computer Science Jobs](/jobs/highest-paying-computer-science-jobs/).
+For a deep dive into how much the various job titles earn on average check out my other article, [The Highest-Paying Computer Science Jobs](/computer-science/highest-paying-computer-science-jobs/).
 
 ## Is an associate's degree in programming worth it?
 
 Associate's degrees and full bachelor's degrees can be great options for prospective students. They have the advantage of providing face-time with professors, the opportunity to network with students and faculty, and a rigid structure that incentivizes you to keep moving forward. Some jobs, like the [ones listed here on Jooble](https://jooble.org/jobs-associate-programmer), are specific to associate-level programmers.
 
-If however, you're interested in getting the same quality programming education on a more flexible schedule, it could make sense to opt for an [online CS program](/computer-science/comprehensive-guide-to-learn-computer-science-online/) that offers [certificates](/jobs/guide-to-certificate-in-computer-science/).
+If however, you're interested in getting the same quality programming education on a more flexible schedule, it could make sense to opt for an [online CS program](/computer-science/comprehensive-guide-to-learn-computer-science-online/) that offers [certificates](/computer-science/guide-to-certificate-in-computer-science/).
 
 ## How much do computer programmers make?
 
-Programmers and software engineers are some of the most well-compensated career paths, especially for not requiring a four-year degree. As you've seen from the jobs listed above, and if you need more information you can check out my other article, [How Much Do Software Engineer's Make?](/misc/how-much-do-software-engineers-make/), engineers in the US typically make low six figures per year. Salaries in the $70k-150k are commonplace.
+Programmers and software engineers are some of the most well-compensated career paths, especially for not requiring a four-year degree. As you've seen from the jobs listed above, and if you need more information you can check out my other article, [How Much Do Software Engineer's Make?](/jobs/how-much-do-software-engineers-make/), engineers in the US typically make low six figures per year. Salaries in the $70k-150k are commonplace.
 
 {{< cta2 >}}
 

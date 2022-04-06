@@ -43,7 +43,7 @@ And globally:
 
 As it happens, we have several great Go courses to jumpstart your career:
 
-- [Go Mastery](https://boot.dev/go-mastery-course/)
+- [Go Mastery](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b)
 - [Big-O Algorithms (Go)](https://boot.dev/big-o-algorithms-course/)
 - [Practical Cryptography (Go)](https://boot.dev/practical-cryptography-course/)
 
@@ -71,7 +71,7 @@ It's often the case that [software engineers who've studied computer science ten
 
 ![](/img/Screen-Shot-2020-10-31-at-1.37.50-PM-1024x536.png)
 
-Again, it's critical to note that the following figures represent _median_ salaries, not the average salary for every worker globally. Median statistics provide a more balanced look at the range of salaries without outliers affecting the results. If you're interested in a complete breakdown check out our article on the [highest paying CS jobs](/jobs/highest-paying-computer-science-jobs/).
+Again, it's critical to note that the following figures represent _median_ salaries, not the average salary for every worker globally. Median statistics provide a more balanced look at the range of salaries without outliers affecting the results. If you're interested in a complete breakdown check out our article on the [highest paying CS jobs](/computer-science/highest-paying-computer-science-jobs/).
 
 ## Does Location Matter For Developer Salaries?
 

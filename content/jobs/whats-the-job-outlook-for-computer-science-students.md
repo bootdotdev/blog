@@ -24,9 +24,9 @@ For instance, some leading software engineers get job offers with a $100K+ start
 - Software Engineer in Test
 - Database Administrator
 - Backend/Frontend Web Developer
-- For a more comprehensive view, see our [list of highest-paying CS jobs](/jobs/highest-paying-computer-science-jobs/)
+- For a more comprehensive view, see our [list of highest-paying CS jobs](/computer-science/highest-paying-computer-science-jobs/)
 
-Even with such high salaries, software and web developers, programmers, and testers have the [most number of open jobs to be filled today](/misc/how-much-do-software-engineers-make/), according to the U.S. Bureau of Labor Statistics. This just goes to show how valuable these skills have become today.
+Even with such high salaries, software and web developers, programmers, and testers have the [most number of open jobs to be filled today](/jobs/how-much-do-software-engineers-make/), according to the U.S. Bureau of Labor Statistics. This just goes to show how valuable these skills have become today.
 
 Indeed, in the middle of a global health crisis that has endangered millions of jobs across different fields of expertise, IT professionals are faring well overall — even better than most. The [impact of the pandemic on tech jobs and businesses](https://www.computerweekly.com/news/252487612/Coronavirus-The-pandemics-impact-on-tech-jobs-now-and-in-the-future) may have been worrying at first, with other fields having it worse, but things have since settled, and the future of tech is looking as bright as ever. Technology is seen as the ultimate solution to getting out of this crisis as soon as possible, so huge investments are to be expected — and therefore, more work and learning to be anticipated.
 

@@ -12,7 +12,7 @@ images:
 
 How can you decide what the most popular coding language is? It’s like trying to pick the most popular ice cream flavor - everyone has a favorite. The truth is that different coders prefer different coding languages for different reasons, and just when you think you can say a single coding language reigns supreme, a new one crops up, or an older one becomes relevant for a new application.
 
-The most popular coding language of 2021 will be based on what the coder in question wants to accomplish and what they’ve already learned or done. For experienced [coders hoping to increase their salary](/jobs/highest-paying-computer-science-jobs/), the most popular coding language will be different than for programmers who are just starting out and want an entry-level coding [job after a coding bootcamp](/jobs/getting-a-job-after-coding-bootcamp-is-hard/).
+The most popular coding language of 2021 will be based on what the coder in question wants to accomplish and what they’ve already learned or done. For experienced [coders hoping to increase their salary](/computer-science/highest-paying-computer-science-jobs/), the most popular coding language will be different than for programmers who are just starting out and want an entry-level coding [job after a coding bootcamp](/jobs/getting-a-job-after-coding-bootcamp-is-hard/).
 
 With so many constantly-shifting languages it’s hard to know where to start, especially as open source languages change all the time, with new packages and frameworks. No matter what your interest or need is, if you want to know what the most popular coding languages will be in 2021, you’ll find them on this list. 
 
@@ -168,7 +168,7 @@ It’s also possible to learn it just by reading since the syntax is clear enoug
 
 As a language built by Google for the internet, you can imagine there are several free web-based resources that can help you on your way to learn. First, several sources recommended checking out [A Tour of Go](https://tour.golang.org/welcome/1) where you learn to use Go. It’s interactive and you run your own code snippets on the website itself. It’s divided into modules, which makes it easy to keep track of where you are and reference back if necessary.
 
-Once you’ve grasped the basics, some other great resources include [Go By Example](https://gobyexample.com/) and [Go Mastery](https://boot.dev/go-mastery-course/), where you’ll learn to find examples of code for typical or common tasks.
+Once you’ve grasped the basics, some other great resources include [Go By Example](https://gobyexample.com/) and [Go Mastery](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b), where you’ll learn to find examples of code for typical or common tasks.
 
 # 8\. The most popular coding language in 2022: Rust
 

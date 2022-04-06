@@ -7,7 +7,7 @@ categories:
   - "news"
 ---
 
-We just launched the new [boot.dev](https://boot.dev/) computer science platform and can't be more excited. Our first crash course in Go, "_[Go Mastery](https://boot.dev/go-mastery-course/)_" is now available! We teach students by allowing them to write, compile, and run backend code directly in the browser.
+We just launched the new [boot.dev](https://boot.dev/) computer science platform and can't be more excited. Our first crash course in Go, "_[Go Mastery](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b)_" is now available! We teach students by allowing them to write, compile, and run backend code directly in the browser.
 
 ## Our Difference
 

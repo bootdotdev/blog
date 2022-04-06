@@ -9,7 +9,7 @@ images:
   - /img/go-vs-rust.webp
 ---
 
-Rust and Go are two of the industry's biggest successes when it comes to developing modern programming languages. Both languages compete in terms of backend [web development](/golang/top-web-development-languages/), and it's a fierce competition. Golang and Rust are new languages, have growing communities, and are fast and efficient. When it comes to microservice architectures, frameworks, and apps, Rust and Go are household names on the backend.
+Rust and Go are two of the industry's biggest successes when it comes to developing modern programming languages. Both languages compete in terms of backend [web development](/misc/top-web-development-languages/), and it's a fierce competition. Golang and Rust are new languages, have growing communities, and are fast and efficient. When it comes to microservice architectures, frameworks, and apps, Rust and Go are household names on the backend.
 
 ## Similarities
 
@@ -55,7 +55,7 @@ While both approaches have their pros and cons, generally speaking Rust's compil
 
 There are times during the development of a web application that development speed is more important than app speed. Python is a great example, it is one of the slowest languages but has some of the cleanest syntax. While Go is generally faster and uses less memory than languages like Java, C#, JavaScript, Python, and Ruby, it makes a performance trade-off to allow for fast and simple development.
 
-It's also worth noting that Go and Rust are both growing in popularity. If you want to read more on that, take a look this related article, ["Rust vs Go - Which is More Popular?"](/rust/rust-vs-go-popularity/).
+It's also worth noting that Go and Rust are both growing in popularity. If you want to read more on that, take a look this related article, ["Rust vs Go - Which is More Popular?"](/golang/rust-vs-go-popularity/).
 
 {{< cta2 >}}
 
@@ -180,4 +180,4 @@ As usual, there is no outright winner, the results are more nuanced than that.
 - Developer speed
 - Concurrency mechanisms
 
-One mark of a successful [computer scientist, even a self-taught one](/computer-science/comprehensive-guide-to-learn-computer-science-online/), is being able to choose good tools for a given project. It doesn't mean you need to be an expert with every language, database, technology, and framework under the sun, but it does mean you need to be familiar with enough of them to make informed decisions. Being capable to make those decisions will set you apart and give you more opportunities to advance your [programming career](/jobs/highest-paying-computer-science-jobs/).
+One mark of a successful [computer scientist, even a self-taught one](/computer-science/comprehensive-guide-to-learn-computer-science-online/), is being able to choose good tools for a given project. It doesn't mean you need to be an expert with every language, database, technology, and framework under the sun, but it does mean you need to be familiar with enough of them to make informed decisions. Being capable to make those decisions will set you apart and give you more opportunities to advance your [programming career](/computer-science/highest-paying-computer-science-jobs/).

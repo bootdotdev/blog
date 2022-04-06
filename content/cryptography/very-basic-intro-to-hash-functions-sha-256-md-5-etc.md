@@ -115,4 +115,4 @@ As you can see, if you start with the same word at the beginning, you will alway
 
 ## Disclaimer
 
-On the steps where I convert from English to binary, and from binary to English, I followed no pattern. Don’t let that confuse you. There are many [different ways to convert binary data to English](/cryptography/base64-vs-base58-encoding/) and back, I just didn’t want to get hung up on that in this article.
+On the steps where I convert from English to binary, and from binary to English, I followed no pattern. Don’t let that confuse you. There are many [different ways to convert binary data to English](/bitcoin/base64-vs-base58-encoding/) and back, I just didn’t want to get hung up on that in this article.

@@ -157,4 +157,4 @@ It's often tempting to roll your own logging package, but I would advise that in
 
 ## Best Practices
 
-Glad you've made it this far! Learning to properly handle errors in Go is one of the things that sets advanced developers apart from newcomers. Striving to improve the readability and developer usability of your code will make you a better [computer scientist](/computer-science/comprehensive-guide-to-learn-computer-science-online/), and help you find more [worthwhile jobs](/jobs/highest-paying-computer-science-jobs/) in the future.
+Glad you've made it this far! Learning to properly handle errors in Go is one of the things that sets advanced developers apart from newcomers. Striving to improve the readability and developer usability of your code will make you a better [computer scientist](/computer-science/comprehensive-guide-to-learn-computer-science-online/), and help you find more [worthwhile jobs](/computer-science/highest-paying-computer-science-jobs/) in the future.

@@ -120,6 +120,6 @@ All in all, these are two top-end languages that provide invaluable skills and w
 
 **Take action and learn to code:**
 
-**Learn Golang:** with our [Go Mastery courses](https://boot.dev/go-mastery-course/). Our two Go courses cover everything from the basics to advanced concepts like concurrency, and we even have a Go Interview Prep course to help you ace your interview to land your dream coding job.
+**Learn Golang:** with our [Go Mastery courses](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b). Our two Go courses cover everything from the basics to advanced concepts like concurrency, and we even have a Go Interview Prep course to help you ace your interview to land your dream coding job.
 
 All our courses are part of our wider [computer science curriculum](https://github.com/bootdotdev/curriculum) to take anyone from complete beginner to CS grad level

@@ -7,7 +7,7 @@ categories:
   - "python"
 ---
 
-We’ve just launched our latest course, [Python Fundamentals](https://boot.dev/learn-python-course/).
+We’ve just launched our latest course, [Python Fundamentals](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/).
 
 [Start the "Python Fundamentals" Course Now](https://boot.dev/dashboard/courses)
 
@@ -15,7 +15,7 @@ We’ve just launched our latest course, [Python Fundamentals](https://boot.dev/
 
 YAYPYTHON
 
-Featuring more than 65 interactive, code-in-your-browser lessons across six modules, this course is perfect for new-to-beginner students who have completed our [Intro To Coding with JavaScript Courses](https://boot.dev/basic-intro-to-coding-javascript-course/) and picked up the basics of a trickier language by taking [Go Mastery 1](https://boot.dev/go-mastery-course/).
+Featuring more than 65 interactive, code-in-your-browser lessons across six modules, this course is perfect for new-to-beginner students who have completed our [Intro To Coding with JavaScript Courses](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb) and picked up the basics of a trickier language by taking [Go Mastery 1](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b).
 
 View our [full course curriculum here](https://github.com/bootdotdev/curriculum)
 

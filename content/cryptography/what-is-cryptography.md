@@ -35,7 +35,7 @@ Data Confidentiality ensures that the data is limited to those who are authorize
 
 ### Integrity
 
-[Data integrity](/cryptography/achieving-data-integrity-using-cryptography/) refers to the accuracy, legitimacy, and consistency of information in a system. When a message is sent, particularly using an untrusted medium like the internet, data integrity ensures us that a message wasn’t tampered with or accidentally altered.
+[Data integrity](/bitcoin/achieving-data-integrity-using-cryptography/) refers to the accuracy, legitimacy, and consistency of information in a system. When a message is sent, particularly using an untrusted medium like the internet, data integrity ensures us that a message wasn’t tampered with or accidentally altered.
 
 Let's use the example of military orders. We're at war and an army general needs to send an order of retreat to his troops across the sea. Without a guarantee of data integrity, a hacker could intercept the message, change the order, and send it on its way. The army might receive an order to advance and walk right into a trap the general knew about.
 
@@ -130,7 +130,7 @@ Common asymmetric encryption algorithms [ECC](/cryptography/elliptic-curve-crypt
 
 ### ****Hash Functions****
 
-The third most common type of cryptography involves [hash functions](/security/hash-functions/). No key is used in this algorithm. A fixed-length value is calculated from the plaintext, which makes it impossible for the contents of the plaintext to be recovered.
+The third most common type of cryptography involves [hash functions](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/). No key is used in this algorithm. A fixed-length value is calculated from the plaintext, which makes it impossible for the contents of the plaintext to be recovered.
 
 However, because the same plaintext will always hash to the same output, it can be used to, for example, compare passwords without ever storing them.
 
@@ -160,7 +160,7 @@ Cryptanalysis is the inverse of cryptography. It's the study of how to break s
 
 Imagine that the FBI gets ahold of your personal mobile phone, and they want to snoop around to see what you've been up to. The methods they would employ to "crack" the code and decrypt the contents of your phone would be cryptanalysis techniques.
 
-For more information, we have a full post on [cryptology vs cryptography](/security/cryptology-vs-cryptography/)
+For more information, we have a full post on [cryptology vs cryptography](/cryptography/cryptology-vs-cryptography/)
 
 ## What is quantum computing, and will quantum computing break cryptography?
 
@@ -207,6 +207,6 @@ Cryptology is a _very_ young science. Although humans have had rudimentary forms
 
 ## For further study
 
-**For beginners:** If you've been inspired to learn cryptography as a beginner to coding and computer science, we have an entire computer science course curriculum to take you from complete beginner to graduate level. As cryptography is a more advanced topic, we suggest you start with our [Intro to Coding with JavaScript courses](https://boot.dev/basic-intro-to-coding-javascript-course/).
+**For beginners:** If you've been inspired to learn cryptography as a beginner to coding and computer science, we have an entire computer science course curriculum to take you from complete beginner to graduate level. As cryptography is a more advanced topic, we suggest you start with our [Intro to Coding with JavaScript courses](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb).
 
 **For experienced coders:** We recommend our [Practical Cryptography course](https://boot.dev/practical-cryptography-course/) which covers everything from the basics of encryption and brute force attacks to stream ciphers, block ciphers, and hash functions.

@@ -52,11 +52,11 @@ There are over [1.6 billion](https://medium.com/javascript-scene/how-popular-is-
 
 Go, also known as "Golang", is an open-source programming language primarily used to build simple, reliable, and efficient software. This statically typed, compiled programming language was designed by a team of professionals at Google in 2007 (making it one of the youngest languages on this list). 
 
-Go was built as an alternative to C and Java, and was driven by the needs of Google’s app developers to serve their network servers and distributed systems. Since then, Go has expanded to meet the needs of many programmers working on large projects and is frequently [compared to Rust](/rust/rust-vs-go-in-backend-web-development/) in terms of back-end performance. 
+Go was built as an alternative to C and Java, and was driven by the needs of Google’s app developers to serve their network servers and distributed systems. Since then, Go has expanded to meet the needs of many programmers working on large projects and is frequently [compared to Rust](/golang/rust-vs-go-in-backend-web-development/) in terms of back-end performance. 
 
 ### Is It Easy to Learn?
 
-Thanks to its simple and modern structure, [Go is quite easy for new developers](https://boot.dev/go-mastery-course/) to learn, as shown by its quick growth in popularity. Syntactically, Go is very similar to C (_discussed below)_, but with the additional features of memory safety, garbage collection (which can detect and clear wasted disk space), structural typing, and CSP-style concurrency.
+Thanks to its simple and modern structure, [Go is quite easy for new developers](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b) to learn, as shown by its quick growth in popularity. Syntactically, Go is very similar to C (_discussed below)_, but with the additional features of memory safety, garbage collection (which can detect and clear wasted disk space), structural typing, and CSP-style concurrency.
 
 ### Where Is It Used?
 

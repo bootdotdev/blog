@@ -106,7 +106,7 @@ Much to our surprise, when we try to compile this code we get the following erro
 
 const initializer \[\]string literal is not a constant
 
-[Unlike constants in JavaScript](/golang/constants-in-go-vs-javascript-and-when-to-use-them/), Go doesn't allow complex types like slices, maps, or arrays to be constant! Our first instinct may be to lazily switch it to a variable, and add a comment:
+[Unlike constants in JavaScript](/clean-code/constants-in-go-vs-javascript-and-when-to-use-them/), Go doesn't allow complex types like slices, maps, or arrays to be constant! Our first instinct may be to lazily switch it to a variable, and add a comment:
 
 ```go
 package main
@@ -139,4 +139,4 @@ Obviously one of the biggest downsides to this approach is that to get a new cop
 
 ## Good Practices
 
-Being able to keep access to maps and slices that are effectively constant can make your code easier to read, and more importantly, much less error-prone. One of the most sought-after traits of a [computer scientist](/computer-science/comprehensive-guide-to-learn-computer-science-online/) for [high-end coding jobs](/jobs/highest-paying-computer-science-jobs/) is the ability to read, write, and refactor code so that it's more maintainable and easier to understand.
+Being able to keep access to maps and slices that are effectively constant can make your code easier to read, and more importantly, much less error-prone. One of the most sought-after traits of a [computer scientist](/computer-science/comprehensive-guide-to-learn-computer-science-online/) for [high-end coding jobs](/computer-science/highest-paying-computer-science-jobs/) is the ability to read, write, and refactor code so that it's more maintainable and easier to understand.

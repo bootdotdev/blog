@@ -28,7 +28,7 @@ There are several reasons as to why this is a good rule to live by, let's examin
 
 If a developer is operating under the assumption that attackers won't know about the details of their code, they may be tempted to try to build in security that is dependent on that.
 
-For example, they may [encode data in a confusing way instead of encrypting it](/security/encoding-vs-encryption/), assuming that the enemy will think it is encrypted, or not be able to guess HOW it was encoded.
+For example, they may [encode data in a confusing way instead of encrypting it](/cryptography/encoding-vs-encryption/), assuming that the enemy will think it is encrypted, or not be able to guess HOW it was encoded.
 
 **BAD.**
 

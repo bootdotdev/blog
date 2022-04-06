@@ -66,7 +66,7 @@ Do you browse Reddit, Twitter, or Facebook in your free time? Make a small chang
 
 ### 3\. Interview and Get a Job Early (within the first year)
 
-You are teaching yourself online, and the best way to catapult your education is to get an internship or entry-level job _as soon as you are able to_. Depending on the [kind of CS job](/jobs/highest-paying-computer-science-jobs/) you're interested in, you can start earlier or later, as some require more or less experience.
+You are teaching yourself online, and the best way to catapult your education is to get an internship or entry-level job _as soon as you are able to_. Depending on the [kind of CS job](/computer-science/highest-paying-computer-science-jobs/) you're interested in, you can start earlier or later, as some require more or less experience.
 
 ## Why Learn Computer Science at All?
 
@@ -219,7 +219,7 @@ Personally, I recommend learning backend APIs using the Go programming language 
 
 #### Resources
 
-- [Go Mastery - For Backend](https://boot.dev/go-mastery-course/)
+- [Go Mastery - For Backend](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b)
 - [The Odin Project - Comprehensive Web Tutorials](https://www.theodinproject.com/)
 
 #### Goals
@@ -256,7 +256,7 @@ Functional programming concepts and styles are especially important in web devel
 
 #### Resources
 
-- Boot.dev's [Intro to Functional Programming course](https://boot.dev/intro-to-functional-programming/)
+- Boot.dev's [Intro to Functional Programming course](https://boot.dev/course/b1459f0c-21eb-41e5-b7f3-562ef69d344c/65e3ea51-a0c4-41d6-9e4f-750942bcb0c9/f0d6c12b-fe3f-4920-a6a0-b2ae830b1658)
 - eBook: [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/book.pdf)
 
 #### Goals
@@ -367,7 +367,7 @@ Distributed systems is the study of programs that can efficiently take advantage
 
 #### Resources
 
-- Boot.dev's [Go Mastery course](https://boot.dev/go-mastery-course/)
+- Boot.dev's [Go Mastery course](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b)
 - [Dixie State's Chord Assignment](http://cit.dixie.edu/cs/3410/asst_chord.php)
 - [Google's BigTable Research Paper - Read and take notes!](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf)
 - [Understanding Paxos](https://understandingpaxos.wordpress.com/)

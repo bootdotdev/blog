@@ -55,7 +55,7 @@ There are two real differences to get a programming certificate online from an o
 
 They also differ in that they can be much less expensive, as well as flexible because they’re self-paced. Many online courses have the option to contact real people with questions or feedback, but for the most part, you’re expected to complete the tasks and reading on your own without any prompting.
 
-I’ve written before about [how to get a programming certificate](/jobs/guide-to-certificate-in-computer-science/) online from an online course, so I’ll summarize here:
+I’ve written before about [how to get a programming certificate](/computer-science/guide-to-certificate-in-computer-science/) online from an online course, so I’ll summarize here:
 
 1. **Do your research** on which certificate in computer science makes the most sense for you.
 2. **Understand the different types** of certificates in computer science.

@@ -74,7 +74,7 @@ Object-oriented (or OOP) is when you manipulate the object, rather than the logi
 
 Now again, it doesn’t possess as many layers as high-level languages, but it has enough that you can directly control the action you’re trying to achieve. This isn’t an easy job though, as creating programs based on the interaction of objects is extremely complex.
 
-It's important to note that while C++ is an OOP language, it's also a multi-paradigm language, so it can support procedural and [functional programming](https://boot.dev/intro-to-functional-programming/). However, OOP, especially with modern C++, is its most common application.
+It's important to note that while C++ is an OOP language, it's also a multi-paradigm language, so it can support procedural and [functional programming](https://boot.dev/course/b1459f0c-21eb-41e5-b7f3-562ef69d344c/65e3ea51-a0c4-41d6-9e4f-750942bcb0c9/f0d6c12b-fe3f-4920-a6a0-b2ae830b1658). However, OOP, especially with modern C++, is its most common application.
 
 Golang, on the other hand, is a procedural language. For this, you simply write down the steps of the task in the order you want the computer to run them. It’s based on the concept of a series of computational steps. Golang is also a multi-paradigm language and supports functional programming.
 
@@ -164,6 +164,6 @@ C++ is perfect for traditionalists that like to get their hands dirty in code an
 
 **Golang is the modern person’s language**. People from all kinds of backgrounds are making the shift to tech, and Go welcomes them with open arms. It’s easy to use and has a scalable nature that promises a fruitful career to anyone using it.
 
-We're big fans of Go at boot.dev, so much so that we've created three courses to help you learn Go! No matter your skill level, our two [Go Mastery courses](https://boot.dev/go-mastery-course/) will get you the skills you need to work as a Go programmer, and once you've got the skills, our [Go Interview Prep](https://boot.dev/go-mastery-course/) course will get you prepped to land that job!
+We're big fans of Go at boot.dev, so much so that we've created three courses to help you learn Go! No matter your skill level, our two [Go Mastery courses](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b) will get you the skills you need to work as a Go programmer, and once you've got the skills, our [Go Interview Prep](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b) course will get you prepped to land that job!
 
 Overall, to figure out which one is best, you need to figure which one are _you_. No matter the choice, Golang and C++ only continue to grow in popularity and will benefit you way into the future.
