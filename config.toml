@@ -1,4 +1,4 @@
-baseURL = 'https://boot.dev/'
+baseURL = 'https://boot.boot.dev/'
 languageCode = 'en-us'
 title = 'Boot.dev Blog'
 disqusShortname = ""
