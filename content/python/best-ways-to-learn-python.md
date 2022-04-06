@@ -8,7 +8,7 @@ images:
   - /img/Best-Ways-To-Learn-Python-min.webp
 ---
 
-Everyone wants to know the best way to learn to code Python nowadays. It’s a great language, as I’ve [written](https://towardsdatascience.com/10-compelling-reasons-to-learn-python-for-data-science-fa31160321cb) [about](https://qvault.io/misc/popular-coding-languages-2021/) before, with great career prospects and tons of useful features. 
+Everyone wants to know the best way to learn to code Python nowadays. It’s a great language, as I’ve [written](https://towardsdatascience.com/10-compelling-reasons-to-learn-python-for-data-science-fa31160321cb) [about](/misc/popular-coding-languages/) before, with great career prospects and tons of useful features. 
 
 For as many reasons as there are to learn Python, there is probably an equivalent number of ways to learn Python. You can already tell because this is a listicle and not a tweet, but the best method to learn Python does not have a single answer.
 
@@ -20,7 +20,7 @@ This list does not try to answer the end-all, be-all best way to learn Python. I
 
 While you're looking through this list and seeing a lot of challenging options that include self-driven work, reading textbooks, watching lectures, and wondering, “What is the best way to learn Python programming that doesn’t require me to read a textbook?”, you're probably the kind of person who benefits from interactive teaching. I think this is the most efficient way to learn Python because the knowledge is much stickier.
 
-The best way to Learn Python interactively is by taking the courses here on Qvault. The [Python Fundamentals](https://qvault.io/learn-python-course/) course helps you learn by doing. You'll be writing real code into the browser and it'll interactively guide you through the lessons. 
+The best way to Learn Python interactively is by taking the courses here on boot.dev. The [Python Fundamentals](https://boot.dev/learn-python-course/) course helps you learn by doing. You'll be writing real code into the browser and it'll interactively guide you through the lessons. 
 
 The cool thing about this course is that it's designed to help you get a job. That means it's not just going to teach you flashy tricks, but guide you through the principles underlying how python works that might trip you up in a potential job interview. It also focuses on tasty job skills to open you up to more career choices, especially in machine learning if that’s your jam.
 
@@ -28,9 +28,9 @@ The cool thing about this course is that it's designed to help you get a job. Th
 
 ## The Best Way to Learn Python For Free
 
-You can find free/freemium options to learn Python just about anywhere online, but I love Exercism, freeCodeCamp, and Qvault as the best ways to learn Python for free. Why? Because each offers a unique way of teaching that suits each unique circumstance.
+You can find free/freemium options to learn Python just about anywhere online, but I love Exercism, freeCodeCamp, and boot.dev as the best ways to learn Python for free. Why? Because each offers a unique way of teaching that suits each unique circumstance.
 
-Qvault offers all its courses and tracks for free. These aren’t just any free courses though if you’ll remember these are interactive courses that believe in learning by doing. There is a paid-for Pro option that offers extra features, but taking and completing the courses is completely free. You can always switch to Pro later on, but the chance to experience the platform first before investing is always a win in my book. 
+Boot.dev offers all its courses and tracks for free. These aren’t just any free courses though if you’ll remember these are interactive courses that believe in learning by doing. There is a paid-for Pro option that offers extra features, but taking and completing the courses is completely free. You can always switch to Pro later on, but the chance to experience the platform first before investing is always a win in my book. 
 
 There are also ways to learn Python for free that are charitable. 
 
@@ -64,11 +64,11 @@ Every time I tried to learn them, I found that books didn't help me, courses did
 
 I did it by accident - it’s not like I asked myself, “Hm, Zulie, how best to learn Python?” Instead I had a driving need to know whether asking questions in my [Instagram captions](http://instagram.com/astridandchumbo) meant more engagement on my cat pictures. R is not great at scraping and Python is, so I needed to learn Python. 
 
-If you want to learn Python fast, the best way is to [find a project](https://qvault.io/python/python-projects-for-beginners/) that you really care about and that will drive you batty unless you solve it. Position yourself so that the only obstacle standing between you and the answers you crave is your knowledge of Python. That’s how I picked up Python basics extremely quickly.
+If you want to learn Python fast, the best way is to [find a project](/python/python-projects-for-beginners/) that you really care about and that will drive you batty unless you solve it. Position yourself so that the only obstacle standing between you and the answers you crave is your knowledge of Python. That’s how I picked up Python basics extremely quickly.
 
-**Read more:** 17 [Python projects for beginners we recommend](https://qvault.io/python/python-projects-for-beginners/).
+**Read more:** 17 [Python projects for beginners we recommend](/python/python-projects-for-beginners/).
 
-Qvault itself also employs a number of smaller projects throughout its courses as a part of its interactive focus on learning. So if you want a more structured environment, but still want the engagement of projects, then Qvault is also a great choice for learning this way.
+Boot.dev itself also employs a number of smaller projects throughout its courses as a part of its interactive focus on learning. So if you want a more structured environment, but still want the engagement of projects, then boot.dev is also a great choice for learning this way.
 
 {{< cta2 >}}
 
@@ -112,7 +112,7 @@ If you complete a Python course and you don't get a certificate, did it even hap
 
 Sites like Coursera offer courses run by actual institutions. For example, the most popular Python course is offered by the University of Michigan. These courses take time: for example, the University of Michigan course expects that it'll take you approximately 8 months to complete, working at 3 hours per week, so it's not a quick option. You can enroll for free for 7 days and after that, you'll be paying $49 per month for that particular course.
 
-If you don’t have that kind of time, then Qvault also offers certificates along with their courses. And similarly to Coursera’s specializations, where institutions will create multi-course programs covering a variety of topics, Qvault has “tracks” where you’ll cover beginner to advanced subjects of Python suited for coders of all skill levels.
+If you don’t have that kind of time, then boot.dev also offers certificates along with their courses. And similarly to Coursera’s specializations, where institutions will create multi-course programs covering a variety of topics, boot.dev has “tracks” where you’ll cover beginner to advanced subjects of Python suited for coders of all skill levels.
 
 ## The Best Way to Learn Python for You
 
@@ -129,4 +129,4 @@ What is the best way to learn Python? There isn’t one. No matter which way you
 
 Take action and learn Python
 
-If you're looking to learn Python, we built our [Python Fundamentals course](https://qvault.io/learn-python-course/) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
+If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/learn-python-course/) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
