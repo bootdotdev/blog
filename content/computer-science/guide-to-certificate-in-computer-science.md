@@ -72,7 +72,7 @@ First, include ease of completion in your criteria for selecting a certificate i
 
 Second, motivate yourself. Especially if you’re at the beginning of your coding career, it can be really demoralizing to apply to jobs and constantly be put through the rejection mill. Getting a computer science certificate is going to help you in that regard. Maybe you can motivate yourself financially, like promising yourself a gift if you finish. Maybe you can let other people know you’re working on this goal, so they can monitor and cheer you on. There are plenty of ways to motivate yourself to finish the computer science certificate - you just have to find the right one.
 
-Both internal and external sources of drive will be necessary to get this done. If you can plan ahead and both pick out a course that aligns to your learning and working style and identify a couple of motivational tricks you can use, the easier it’ll be to actually complete the certificate in computer science that’s going to land you your [dream programming job](/jobs/highest-paying-computer-science-jobs/).
+Both internal and external sources of drive will be necessary to get this done. If you can plan ahead and both pick out a course that aligns to your learning and working style and identify a couple of motivational tricks you can use, the easier it’ll be to actually complete the certificate in computer science that’s going to land you your [dream programming job](/computer-science/highest-paying-computer-science-jobs/).
 
 ## Step 5: Do the work.
 

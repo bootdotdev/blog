@@ -13,7 +13,7 @@ A Key Derivation Function, or KDF, is a [cryptographic algorithm](/cryptography/
 
 ## Are KDFs Just Hash Functions?
 
-No, but there is overlap. In order to understand KDFs, let's first go through a quick refresher on [hash functions.](/security/hash-functions/)
+No, but there is overlap. In order to understand KDFs, let's first go through a quick refresher on [hash functions.](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/)
 
 Some hash functions for example:
 

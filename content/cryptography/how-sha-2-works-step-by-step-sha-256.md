@@ -10,7 +10,7 @@ images:
   - /img/1_Gs1cLsPT1FdiGZeI0h2RiQ-scaled-e1594217355954.webp
 ---
 
-SHA-2 (Secure Hash Algorithm 2), of which SHA-256 is a part, is one of the most popular [hash algorithms](/security/hash-functions/) around. In this article, we will break down each step of the [cryptographic algorithm](/cryptography/what-is-cryptography/) and work through a real example by hand. SHA-2 is known for its security (it hasn't [broken down like SHA-1](https://shattered.io/)) and its speed. In cases where [keys are not generated](/cryptography/key-derivation-functions/), such as mining Bitcoin, a fast hash algorithm like SHA-2 often has the upper hand.
+SHA-2 (Secure Hash Algorithm 2), of which SHA-256 is a part, is one of the most popular [hash algorithms](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) around. In this article, we will break down each step of the [cryptographic algorithm](/cryptography/what-is-cryptography/) and work through a real example by hand. SHA-2 is known for its security (it hasn't [broken down like SHA-1](https://shattered.io/)) and its speed. In cases where [keys are not generated](/cryptography/key-derivation-functions/), such as mining Bitcoin, a fast hash algorithm like SHA-2 often has the upper hand.
 
 ## What Is a Hash Function?
 
@@ -100,7 +100,7 @@ h7 := 0x5be0cd19
 
 ### Step 3 - Initialize Round Constants (k)
 
-Similar to step 2, we are creating some constants (_Learn more about constants and when to use them [here](/golang/constants-in-go-vs-javascript-and-when-to-use-them/)_). This time, there are 64 of them. Each value (0-63) is the first 32 bits of the fractional parts of the cube roots of the first 64 primes (2 - 311).
+Similar to step 2, we are creating some constants (_Learn more about constants and when to use them [here](/clean-code/constants-in-go-vs-javascript-and-when-to-use-them/)_). This time, there are 64 of them. Each value (0-63) is the first 32 bits of the fractional parts of the cube roots of the first 64 primes (2 - 311).
 
 ```
 0x428a2f98 0x71374491 0xb5c0fbcf 0xe9b5dba5 0x3956c25b 0x59f111f1 0x923f82a4 0xab1c5ed5
@@ -381,7 +381,7 @@ digest = h0 append h1 append h2 append h3 append h4 append h5 append h6 append h
 
 Done! We've been through every step (sans some iterations) of SHA-256 in excruciating detail :)
 
-I'm glad you've made it this far! Going step-by-step through the SHA-256 algorithm isn't exactly a walk in the park. Learning the fundamentals that underpin web security can be a huge boon to your [career as a computer scientist](/jobs/highest-paying-computer-science-jobs/), however, so keep it up!
+I'm glad you've made it this far! Going step-by-step through the SHA-256 algorithm isn't exactly a walk in the park. Learning the fundamentals that underpin web security can be a huge boon to your [career as a computer scientist](/computer-science/highest-paying-computer-science-jobs/), however, so keep it up!
 
 ## The Pseudocode
 
@@ -484,5 +484,5 @@ digest := hash := h0 append h1 append h2 append h3 append h4 append h5 append h6
 If you're looking for an explanation of a different hash function, we may have you covered
 
 - [(Very) Basic Intro to the Scrypt Hash](/cryptography/very-basic-intro-to-the-scrypt-hash/)
-- [Bcrypt Step by Step](/golang/bcrypt-step-by-step/)
-- [(Very) Basic Intro to Hash Functions](/security/hash-functions/)
+- [Bcrypt Step by Step](/cryptography/bcrypt-step-by-step/)
+- [(Very) Basic Intro to Hash Functions](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/)

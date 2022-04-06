@@ -89,7 +89,7 @@ PGP defines in the official [RFC 4880](https://tools.ietf.org/html/rfc4880) whic
 
 ### Digital Signature Algorithms:
 
-> Implementations MUST implement [SHA-1](/cryptography/how-sha-2-works-step-by-step-sha-256/). Implementations MAY implement other algorithms. [MD5](/security/hash-functions/) is deprecated.
+> Implementations MUST implement [SHA-1](/cryptography/how-sha-2-works-step-by-step-sha-256/). Implementations MAY implement other algorithms. [MD5](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) is deprecated.
 > 
 > [https://tools.ietf.org/html/rfc4880#section-9.4](https://tools.ietf.org/html/rfc4880#section-9.4)
 

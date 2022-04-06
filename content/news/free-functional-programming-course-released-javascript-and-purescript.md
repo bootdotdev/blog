@@ -6,7 +6,7 @@ categories:
   - "javascript"
 ---
 
-We just launched our new ["Intro to Functional Programming" course](https://boot.dev/intro-to-functional-programming/), and frankly, I'm a bit exhausted (more on that later). This course is an interactive code-in-the-browser course that teaches the basics of FP in JavaScript and PureScript.
+We just launched our new ["Intro to Functional Programming" course](https://boot.dev/course/b1459f0c-21eb-41e5-b7f3-562ef69d344c/65e3ea51-a0c4-41d6-9e4f-750942bcb0c9/f0d6c12b-fe3f-4920-a6a0-b2ae830b1658), and frankly, I'm a bit exhausted (more on that later). This course is an interactive code-in-the-browser course that teaches the basics of FP in JavaScript and PureScript.
 
 In order to celebrate this launch, we will be offering the course for **free** on signup (using the 250 free signup gems) for the **entire month of October**! Even if you can't take the course this month, be sure to create an account and claim the offer :)
 

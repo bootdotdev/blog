@@ -30,7 +30,7 @@ Python is an excellent beginner language because of its insanely low learning cu
 
 Python also supports functional and procedural programming, the two easiest paradigms to learn, and comes with an amazing set of standard libraries, giving you access to an extensive list of facilities.
 
-We have an interactive course so you can [learn functional programming](https://boot.dev/intro-to-functional-programming/).
+We have an interactive course so you can [learn functional programming](https://boot.dev/course/b1459f0c-21eb-41e5-b7f3-562ef69d344c/65e3ea51-a0c4-41d6-9e4f-750942bcb0c9/f0d6c12b-fe3f-4920-a6a0-b2ae830b1658).
 
 Aside from being easy to learn, Python’s also versatile. Its simplistic but powerful design has made it an excellent language for experimental fields, like machine learning and data science, but its security has also made it a key choice in back-end web development.
 
@@ -156,6 +156,6 @@ So, it’s really about which one is best for _you_ and your goals. Regardless, 
 
 **For Further Study**
 
-If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/learn-python-course/) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
+If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
 
-[Learn Python Now](https://boot.dev/learn-python-course/)
+[Learn Python Now](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/)

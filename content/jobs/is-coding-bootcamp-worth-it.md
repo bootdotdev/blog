@@ -39,7 +39,7 @@ Furthermore, coding bootcamps are specialized. Should you learn Go or Python? A 
 
 ## Is a coding bootcamp worth it?
 
-Honestly, it depends what you want. If you’ve done your research, and you’re dedicated to supplementing the streamlined education you get at camp with some online learning, then yes, a coding bootcamp is probably worth it, even with a high price tag. You can easily justify spending $20,000 and four months of your life to get your [perfect job, paying $100k+ with amazing benefits](/jobs/highest-paying-computer-science-jobs/) and a fantastic work/life balance.
+Honestly, it depends what you want. If you’ve done your research, and you’re dedicated to supplementing the streamlined education you get at camp with some online learning, then yes, a coding bootcamp is probably worth it, even with a high price tag. You can easily justify spending $20,000 and four months of your life to get your [perfect job, paying $100k+ with amazing benefits](/computer-science/highest-paying-computer-science-jobs/) and a fantastic work/life balance.
 
 If not, then no, a coding bootcamp isn’t worth it for you. You run the risk of spending months and a ton of money on something that might get you an interview, but won’t prepare you for the actual interview’s demands. Worse, you might find yourself in the position of spending that time and money on a specific program, only to realize you actually want to learn a different skill or language.
 
@@ -77,7 +77,7 @@ The advantages are obvious - it’s free, or very cheap. It’s entirely self-pa
 
 Plus, you’ll have to do a lot of the legwork proving you’re worth a chance. The diplomas and coding bootcamp certificates do a good job of proving to employers you have knowledge and will get you through to the interview. Being self-taught means you’ll have to find another way to demonstrate your knowledge on your resume to get your foot in the interview door. In that regard, is a coding bootcamp worth it? Yes.
 
-There are also places to get a [computer science certificate online](/jobs/guide-to-certificate-in-computer-science/) that are much more accessibly-priced than both coding bootcamps and computer science degrees. For example, [boot.dev](https://boot.dev/) is an online computer science learning platform that offers courses in coding fundamentals, computer science basics, Go, practical cryptography, and more. Boot.dev charges on a monthly or yearly basis, which comes to between $144 to $480 for two years’ worth of access. It also hosts a portfolio where you can show potential employers the skills and experience you've gained.
+There are also places to get a [computer science certificate online](/computer-science/guide-to-certificate-in-computer-science/) that are much more accessibly-priced than both coding bootcamps and computer science degrees. For example, [boot.dev](https://boot.dev/) is an online computer science learning platform that offers courses in coding fundamentals, computer science basics, Go, practical cryptography, and more. Boot.dev charges on a monthly or yearly basis, which comes to between $144 to $480 for two years’ worth of access. It also hosts a portfolio where you can show potential employers the skills and experience you've gained.
 
 {{< cta2 >}}
 

@@ -164,4 +164,4 @@ This CSS is just an example, it's what we use in the [boot.dev](https://boot.dev
 
 If you put the three sections together in the same file, you will be left with a well-encapsulated custom select single file component! Copying and pasting code gets a bad rep, it's usually much better than importing libraries, especially for visual components. When you do "steal" code from somewhere, always be sure you understand it!
 
-Try to practice good engineering and [computer science principles](/computer-science/comprehensive-guide-to-learn-computer-science-online/) by encapsulating your components and building well-thought-out APIs. The [jobs you will qualify for](/jobs/highest-paying-computer-science-jobs/) will be that much better, and you'll write better code as a result!
+Try to practice good engineering and [computer science principles](/computer-science/comprehensive-guide-to-learn-computer-science-online/) by encapsulating your components and building well-thought-out APIs. The [jobs you will qualify for](/computer-science/highest-paying-computer-science-jobs/) will be that much better, and you'll write better code as a result!

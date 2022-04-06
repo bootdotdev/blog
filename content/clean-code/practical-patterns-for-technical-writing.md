@@ -35,9 +35,9 @@ Technical documentation aims to break down a complex topic to make it understand
 
 ## Structuring Your Document Into Paragraphs
 
-The system you are describing usually consists of multiple parts. The structure of your document should mimic these parts and nothing more. There are multiple studies on [how people read online](//www.nngroup.com/articles/how-people-read-online/%3E)). In short, people usually scan documents and do not read every sentence. Thus, t**he structure of your document should be self-explanatory**. If a reader needs to read a two-sided introduction to understand what the document is about, it is likely that you will lose their attention.
+The system you are describing usually consists of multiple parts. The structure of your document should mimic these parts and nothing more. There are multiple studies on [how people read online](www.nngroup.com/articles/how-people-read-online/%3E)). In short, people usually scan documents and do not read every sentence. Thus, t**he structure of your document should be self-explanatory**. If a reader needs to read a two-sided introduction to understand what the document is about, it is likely that you will lose their attention.
 
-To make your structure easily understandable, it helps to ask the three Ws which I picked up in this [Google course on technical writing](//developers.google.com/tech-writing/overview%3E)).
+To make your structure easily understandable, it helps to ask the three Ws which I picked up in this [Google course on technical writing](developers.google.com/tech-writing/overview%3E)).
 
 ### The 3 W's
 

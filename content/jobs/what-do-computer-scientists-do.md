@@ -63,7 +63,7 @@ So much about your life as a computer scientist will depend on where you go to w
 - **Flexible hours.** I typically work from 7AM to 4PM. My brother (a developer as well) usually works from 9:30AM to 6:30 PM.
 - **Work from home.** Increasingly more and more companies are open to fully-remote work.
 - **Good work environment.** Many tech companies are able to raise quite frankly insane amounts of capital. Because they're interested in retaining top talent, they often have cool amenities. For example, I've had office ping pong tables, massage chairs, catered meals, gyms, etc.
-- [**Good pay.**](/misc/how-much-do-software-engineers-make/) Companies are still having a hard time finding good talent.
+- [**Good pay.**](/jobs/how-much-do-software-engineers-make/) Companies are still having a hard time finding good talent.
 
 ## Tools I use as a software engineer
 

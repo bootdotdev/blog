@@ -8,11 +8,11 @@ images:
   - /img/How-Long-Does-It-Take-to-Learn-to-Code.jpeg
 ---
 
-There are so many obvious reasons to learn to code: freelancing opportunities, career advancement, [salary increase](/misc/how-much-do-software-engineers-make/), and personal satisfaction among others. The advantages are so many that it’s worth the investment, no matter how many obstacles you might encounter.
+There are so many obvious reasons to learn to code: freelancing opportunities, career advancement, [salary increase](/jobs/how-much-do-software-engineers-make/), and personal satisfaction among others. The advantages are so many that it’s worth the investment, no matter how many obstacles you might encounter.
 
 One such obstacle is the common misunderstanding about how _long_ it takes to learn to code. When I first started thinking about learning to code, my main concern was that I wouldn’t have time, or that it would take several years just to learn the coding language I’d chosen, [R](https://en.wikipedia.org/wiki/R_(programming_language)). I had vivid recollections of trying to learn to code by reading a textbook in college, and the thought of spending long evenings curled up by a dense and dry textbook really put me off.
 
-The truth is, the answer is complex. The length of time it’ll take you to learn a language depends on a lot of your requirements and decisions - for instance, if you’re looking at learning basic JavaScript, [it may be quicker](/golang/top-web-development-languages/) than an entire framework like Ruby on Rails. 
+The truth is, the answer is complex. The length of time it’ll take you to learn a language depends on a lot of your requirements and decisions - for instance, if you’re looking at learning basic JavaScript, [it may be quicker](/misc/top-web-development-languages/) than an entire framework like Ruby on Rails. 
 
 Rather than asking yourself how long it would take to become a programmer or learn a coding language, it’s better to ask yourself what your _plan_ is. Consider the following factors:
 

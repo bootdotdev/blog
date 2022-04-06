@@ -9,7 +9,7 @@ images:
   - /img/Base64-vs-Base58-Encoding.webp
 ---
 
-Base64 is one of the most popular encoding formats for representing data. Have some binary data? Base64 encodes it for convenient readability and parsing. Base58 is just another encoding format (with 58 characters instead of 64, and has gained popularity largely due to Bitcoin and other cryptocurrencies. Also, if you came here confused, encryption and encoding are not the same! Take a look at this article for more [information on encryption vs encoding](/security/encoding-vs-encryption/).
+Base64 is one of the most popular encoding formats for representing data. Have some binary data? Base64 encodes it for convenient readability and parsing. Base58 is just another encoding format (with 58 characters instead of 64, and has gained popularity largely due to Bitcoin and other cryptocurrencies. Also, if you came here confused, encryption and encoding are not the same! Take a look at this article for more [information on encryption vs encoding](/cryptography/encoding-vs-encryption/).
 
 When it comes to data _encoding_, there is typically a trade-off made between:
 
