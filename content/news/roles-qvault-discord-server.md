@@ -1,5 +1,5 @@
 ---
-title: "Roles in the Qvault Discord Server"
+title: "Roles in the Boot.dev Discord Server"
 author: Lane Wagner
 date: "2021-12-19"
 categories: 
