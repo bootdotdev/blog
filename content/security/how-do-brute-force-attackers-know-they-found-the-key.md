@@ -29,7 +29,7 @@ Let's answer the question three times, one for three different common systems.
 
 ## Cipher Text With Authentication
 
-In this case, let's assume we have direct access to an encrypted hard drive (like that of a MacBook) that has been ciphered using [AES-256-GCM](https://qvault.io/2020/01/02/very-basic-intro-to-aes-256-cipher/). Because we have access to the raw encrypted data, we can't be locked out for too many failed attempts. 😈
+In this case, let's assume we have direct access to an encrypted hard drive (like that of a MacBook) that has been ciphered using [AES-256-GCM](/cryptography/aes-256-cipher/). Because we have access to the raw encrypted data, we can't be locked out for too many failed attempts. 😈
 
 Since we are free to guess as hard and as fast as we can, all we need to know is when to stop deciphering. This is easy if the encryption was done using an authentication tag as required by [GCM mode](https://en.wikipedia.org/wiki/Galois/Counter_Mode). When we get the correct password, the authentication tag will check out.
 
@@ -61,7 +61,7 @@ _Again, this would never work in practicality, the search space is 2^256_
 
 ![Sig Curtis](/img/maxresdefault-1024x576.jpg)
 
-[A brute-force attack](https://en.wikipedia.org/wiki/Brute-force_attack) in [cryptography](https://qvault.io/cryptography/what-is-cryptography/) is when an attacker guesses many passwords in succession hoping to _eventually_ get one right.
+[A brute-force attack](https://en.wikipedia.org/wiki/Brute-force_attack) in [cryptography](/cryptography/what-is-cryptography/) is when an attacker guesses many passwords in succession hoping to _eventually_ get one right.
 
 For example, the most naive form of brute force attack would be to try every permutation of characters from length 0 to length n.
 
