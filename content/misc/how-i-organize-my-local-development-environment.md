@@ -36,7 +36,7 @@ For any new project, the setup process looks something like this.
 3. Clone the repo down to my local workspace as described above
 4. Change the repo settings to auto-delete head branches (I hate branch-creep)
 
-Because I usually work in Go, I then setup some boilerplate. I have an [entirely separate post](https://qvault.io/2020/10/01/boilerplating-a-new-go-program-microservice/) on that process, so you can check that out if you're interested in Go-specific boilerplate.
+Because I usually work in Go, I then setup some boilerplate. I have an [entirely separate post](/golang/golang-project-structure/) on that process, so you can check that out if you're interested in Go-specific boilerplate.
 
 ## How I develop locally - some of my favorite tools
 

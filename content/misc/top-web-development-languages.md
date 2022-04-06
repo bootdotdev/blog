@@ -12,7 +12,7 @@ images:
 
 The software development industry is growing at a break-neck pace. Currently, there are close to [19 million](https://www.daxx.com/blog/development-trends/number-software-developers-world#:~:text=According%20to%20Evans%20Data%20Corporation,developers%20reached%204%2C2%20million.) software developers in the world, and this number is expected to [double](https://slashdata-website-cms.s3.amazonaws.com/sample_reports/EiWEyM5bfZe1Kug_.pdf) by 2030.
 
-If you are someone [looking to break into the industry](https://qvault.io/), the first step is to learn and understand the different programming languages and the unique purposes they serve.  
+If you are someone [looking to break into the industry](https://boot.dev/), the first step is to learn and understand the different programming languages and the unique purposes they serve.  
   
 There are _hundreds_ of different programming languages in use today, however, the eight we’ll be exploring in the list below are some of the most widely-used and in-demand for an array of job titles, namely software development, mobile development, and game development.  
   
@@ -36,7 +36,7 @@ JS is often associated with TypeScript, a syntactical superset of JS that adds o
 
 ### Is It Easy to Learn?
 
-Luckily, the ever-popular JS is also one of the easiest programming languages [for beginners to learn](https://qvault.io/basic-intro-to-coding-course/) due to a forgiving, and flexible syntax that works across almost all browsers. Because of its immense popularity, it is advised by industry professionals that anyone looking to enter into software development learn JS. 
+Luckily, the ever-popular JS is also one of the easiest programming languages [for beginners to learn](https://boot.dev/basic-intro-to-coding-course/) due to a forgiving, and flexible syntax that works across almost all browsers. Because of its immense popularity, it is advised by industry professionals that anyone looking to enter into software development learn JS. 
 
 ### Where Is It Used?
 
@@ -52,11 +52,11 @@ There are over [1.6 billion](https://medium.com/javascript-scene/how-popular-is-
 
 Go, also known as "Golang", is an open-source programming language primarily used to build simple, reliable, and efficient software. This statically typed, compiled programming language was designed by a team of professionals at Google in 2007 (making it one of the youngest languages on this list). 
 
-Go was built as an alternative to C and Java, and was driven by the needs of Google’s app developers to serve their network servers and distributed systems. Since then, Go has expanded to meet the needs of many programmers working on large projects and is frequently [compared to Rust](https://qvault.io/2020/07/17/rust-vs-go-in-backend-web-development/) in terms of back-end performance. 
+Go was built as an alternative to C and Java, and was driven by the needs of Google’s app developers to serve their network servers and distributed systems. Since then, Go has expanded to meet the needs of many programmers working on large projects and is frequently [compared to Rust](/rust/rust-vs-go-in-backend-web-development/) in terms of back-end performance. 
 
 ### Is It Easy to Learn?
 
-Thanks to its simple and modern structure, [Go is quite easy for new developers](https://qvault.io/go-mastery-course/) to learn, as shown by its quick growth in popularity. Syntactically, Go is very similar to C (_discussed below)_, but with the additional features of memory safety, garbage collection (which can detect and clear wasted disk space), structural typing, and CSP-style concurrency.
+Thanks to its simple and modern structure, [Go is quite easy for new developers](https://boot.dev/go-mastery-course/) to learn, as shown by its quick growth in popularity. Syntactically, Go is very similar to C (_discussed below)_, but with the additional features of memory safety, garbage collection (which can detect and clear wasted disk space), structural typing, and CSP-style concurrency.
 
 ### Where Is It Used?
 
@@ -159,7 +159,7 @@ C# is (not surprisingly) the primary language used by developers working with Mi
 
 ### What Is It?
 
-Elixir is a [functional](https://qvault.io/2021/02/25/benefits-of-functional-programming/), concurrent, general-purpose programming language that runs on the BEAM virtual machine used to implement the Erlang programming language. More simply put, Elixir builds on top of the Erlang programming language and shares the same abstractions for building distributed, fault-tolerant applications. 
+Elixir is a [functional](/clean-code/benefits-of-functional-programming/), concurrent, general-purpose programming language that runs on the BEAM virtual machine used to implement the Erlang programming language. More simply put, Elixir builds on top of the Erlang programming language and shares the same abstractions for building distributed, fault-tolerant applications. 
 
 Elixir is widely-used for writing highly-concurrent web applications. (For example, a multiuser chat server with multiple rooms).
 

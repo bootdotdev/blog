@@ -12,7 +12,7 @@ images:
 
 How can you decide what the most popular coding language is? It’s like trying to pick the most popular ice cream flavor - everyone has a favorite. The truth is that different coders prefer different coding languages for different reasons, and just when you think you can say a single coding language reigns supreme, a new one crops up, or an older one becomes relevant for a new application.
 
-The most popular coding language of 2021 will be based on what the coder in question wants to accomplish and what they’ve already learned or done. For experienced [coders hoping to increase their salary](https://qvault.io/2020/12/09/highest-paying-computer-science-jobs/), the most popular coding language will be different than for programmers who are just starting out and want an entry-level coding [job after a coding bootcamp](https://qvault.io/2020/11/19/getting-a-job-after-coding-bootcamp-is-hard/).
+The most popular coding language of 2021 will be based on what the coder in question wants to accomplish and what they’ve already learned or done. For experienced [coders hoping to increase their salary](/jobs/highest-paying-computer-science-jobs/), the most popular coding language will be different than for programmers who are just starting out and want an entry-level coding [job after a coding bootcamp](/jobs/getting-a-job-after-coding-bootcamp-is-hard/).
 
 With so many constantly-shifting languages it’s hard to know where to start, especially as open source languages change all the time, with new packages and frameworks. No matter what your interest or need is, if you want to know what the most popular coding languages will be in 2021, you’ll find them on this list. 
 
@@ -34,7 +34,7 @@ Table describing the most popular coding languages of 2021 for different purpose
 
 ## 1\. The most popular coding language for absolute beginners: Python
 
-No matter what list you check, Python is almost always listed as the most popular coding language for beginners - on [Qvault’s post on best programming languages for beginners](https://qvault.io/2020/10/07/top-4-coding-languages-to-learn-for-beginners-2020/), [GitHub’s ranking](https://pypl.github.io/PYPL.html), [Stack Overflow’s developer survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted), and is even the [top-most language universities are teaching to computer science majors](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext). 
+No matter what list you check, Python is almost always listed as the most popular coding language for beginners - on [boot.dev’s post on best programming languages for beginners](/misc/top-coding-languages-for-beginners/), [GitHub’s ranking](https://pypl.github.io/PYPL.html), [Stack Overflow’s developer survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted), and is even the [top-most language universities are teaching to computer science majors](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext). 
 
 It’s not a fast-grower like Rust, it’s not an old institution like JS. But it is an unstoppable juggernaut of a language. It’s been around for 3 decades now and it’s experienced steady growth in use and popularity long enough to make it top just about anyone’s chart.
 
@@ -72,7 +72,7 @@ In their R versus Python tutorial, [Datacamp writes](https://s3.amazonaws.com/as
 
 R is the most popular coding language for people who don’t code in their jobs for a few very valid reasons. First, it’s open-source. Like Python, there’s no need to pay any money. It also has an [integrated development editor, RStudio](https://rstudio.com/products/rstudio/download/), that makes it even easier to use. It has a robust ecosystem of open source packages that make it very simple for anyone to run statistical analysis in a few lines of code and create a publication-ready graphic in just a few more lines.
 
-**Read more:** [Python vs R: Compared](https://qvault.io/python/r-vs-python/)
+**Read more:** [Python vs R: Compared](/python/r-vs-python/)
 
 ## The best way to learn R for non-programmers
 
@@ -148,7 +148,7 @@ It’s also standardized, meaning that updates and releases with new versions fr
 
 ## The best way to learn JavaScript for web developers
 
-If you search “learn JavaScript,” it’s easy to become overwhelmed with the quantity of information, tutorials, and guides. It’s hard to even know which frameworks and libraries you need. That’s why I recommend a hierarchical approach that lets you systematically and consistently progress with learning the most popular coding language for web developers. Some examples include [JS: The Right Way](http://jstherightway.org/), and [Qvault's Basic Intro to Coding](https://qvault.io/basic-intro-to-coding-course/).
+If you search “learn JavaScript,” it’s easy to become overwhelmed with the quantity of information, tutorials, and guides. It’s hard to even know which frameworks and libraries you need. That’s why I recommend a hierarchical approach that lets you systematically and consistently progress with learning the most popular coding language for web developers. Some examples include [JS: The Right Way](http://jstherightway.org/), and [boot.dev's Basic Intro to Coding](https://boot.dev/basic-intro-to-coding-course/).
 
 # 7\. The most popular coding language to quickly increase your salary: Go
 
@@ -168,7 +168,7 @@ It’s also possible to learn it just by reading since the syntax is clear enoug
 
 As a language built by Google for the internet, you can imagine there are several free web-based resources that can help you on your way to learn. First, several sources recommended checking out [A Tour of Go](https://tour.golang.org/welcome/1) where you learn to use Go. It’s interactive and you run your own code snippets on the website itself. It’s divided into modules, which makes it easy to keep track of where you are and reference back if necessary.
 
-Once you’ve grasped the basics, some other great resources include [Go By Example](https://gobyexample.com/) and [Go Mastery](https://qvault.io/go-mastery-course/), where you’ll learn to find examples of code for typical or common tasks.
+Once you’ve grasped the basics, some other great resources include [Go By Example](https://gobyexample.com/) and [Go Mastery](https://boot.dev/go-mastery-course/), where you’ll learn to find examples of code for typical or common tasks.
 
 # 8\. The most popular coding language in 2022: Rust
 

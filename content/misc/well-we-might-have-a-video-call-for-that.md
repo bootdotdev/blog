@@ -10,7 +10,7 @@ images:
 
 This article contains some of my thoughts on communications for distributed teams and is a response to [No, we won’t have a video call for that!](https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/) by Florian Hass. Read his article first if you haven't yet, he makes some great points!
 
-I really enjoyed Florian's article, and while we agree on a lot of things, like [Scrum being a bad idea](https://qvault.io/misc/leave-scrum-to-rugby-i-like-getting-stuff-done/), I found some key points I disagree with. Let's start with the disagreements, because they tend to be more interesting, and then I'll follow up by emphasizing some of his ideas I agree with.
+I really enjoyed Florian's article, and while we agree on a lot of things, like [Scrum being a bad idea](https://wagslane.dev/posts/leave-scrum-to-rugby/), I found some key points I disagree with. Let's start with the disagreements, because they tend to be more interesting, and then I'll follow up by emphasizing some of his ideas I agree with.
 
 Like Florian, my thoughts here **are not science**. I'm presenting anecdotes and sharing what I've found works well through personal experience. I have zero data to back this up.
 
