@@ -8,11 +8,11 @@ images:
   - /img/maxresdefault.webp
 ---
 
-If you are familiar with the [Go Playground](https://play.golang.org/), then you know how convenient it is to be able to have a Go scratchpad in the browser. Want to show someone a code snippet? Want to quickly test some syntax? Browser-based code pads are helpful. On that note, I [created a new playground](https://app.qvault.io/playground/go). The cool thing about this new playground that it doesn't use a remote server to run code, just to compile it. The code runs in your browser using [web assembly (WASM)](https://webassembly.org/).
+If you are familiar with the [Go Playground](https://play.golang.org/), then you know how convenient it is to be able to have a Go scratchpad in the browser. Want to show someone a code snippet? Want to quickly test some syntax? Browser-based code pads are helpful. On that note, I [created a new playground](https://boot.dev/playground/go). The cool thing about this new playground that it doesn't use a remote server to run code, just to compile it. The code runs in your browser using [web assembly (WASM)](https://webassembly.org/).
 
-The Playground can be found here: [https://](https://classroom.qvault.io/playground/go)[app](https://app.qvault.io/playground/go)[.qvault.io/playground/go](https://classroom.qvault.io/playground/go)
+The Playground can be found here: [Boot.dev playground](https://boot.dev/playground/go)
 
-Update: There is now a sequel to this article outlining how we run the WASM inside Web Workers which can be [found here](https://qvault.io/2020/09/23/running-go-in-the-browser-with-wasm-and-web-workers/).
+Update: There is now a sequel to this article outlining how we run the WASM inside Web Workers which can be [found here](/golang/running-go-in-the-browser-wasm-web-workers/).
 
 ## How Does It Work?
 
@@ -127,7 +127,7 @@ Then include the script in the body of your html:
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Qvault Classroom - Learn Coding</title>
+    <title>Boot.dev Classroom - Learn Coding</title>
   </head>
   <body>
     <script src="wasm_exec.js"></script>
@@ -135,7 +135,7 @@ Then include the script in the body of your html:
 </html>
 ```
 
-Because Qvault Classroom's front-end is written as a [Vue.js](https://vuejs.org/) single page app, I've created a small es6 module that runs a WASM byte array and returns the output as an array of lines:
+Because Boot.dev's Classroom's front-end is written as a [Vue.js](https://vuejs.org/) single page app, I've created a small es6 module that runs a WASM byte array and returns the output as an array of lines:
 
 ```js
 const go = new window.Go();
@@ -153,4 +153,4 @@ export default async function runGoWasm(rawData) {
 
 That's it! Running Go in the browser is pretty easy :)
 
-If you want to try our [Go Mastery](https://qvault.io/go-mastery/) course that uses the WASM playground as its backbone, [s](https://classroom.qvault.io/#/)[i](https://classroom.qvault.io/)[gn up here!](https://classroom.qvault.io/#/)
+If you want to try our [Go Mastery](https://boot.dev/go-mastery/) course that uses the WASM playground as its backbone, [sign up here!](https://boot.dev/)

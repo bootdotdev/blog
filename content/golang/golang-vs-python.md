@@ -22,13 +22,13 @@ images:
 | [Golang vs Python: Which language is best for the future?](#for-future)                            | Go                             |
 | [So what's the final answer in Golang vs Python?](#golang-vs-python)                               | Depends on where you're going! |
 
-In a world where the ability to write any code at all is a tremendous advantage, often the biggest problem coders face is knowing _which_ language to start learning, rather than whether to learn one at all. There are different languages for just about every purpose you could think of. Of those [popular coding languages](https://qvault.io/misc/popular-coding-languages-2021/), programmers often face an intense battle of Golang vs Python. (The official name is Go, but the website is Golang.org, so programmers typically refer to it as either interchangeably.)
+In a world where the ability to write any code at all is a tremendous advantage, often the biggest problem coders face is knowing _which_ language to start learning, rather than whether to learn one at all. There are different languages for just about every purpose you could think of. Of those [popular coding languages](/misc/popular-coding-languages/), programmers often face an intense battle of Golang vs Python. (The official name is Go, but the website is Golang.org, so programmers typically refer to it as either interchangeably.)
 
 On the surface, the two are remarkably dissimilar: Python was created 1991, an oldster in coding years, while Go was first published in 2012 by Google, making it a relative newcomer. Go is known for its speed, while Python is known to be a slower language. Python is versatile, while Go is stricter in syntax and formatting.
 
 However, they’re both held up as answers to a lot of typical coding questions: which is the best language to learn as a beginner? Which language is best to gain a computer programming job? Which coding language is _best_? Each has its adherents who claim their language is the best no matter what. 
 
-The truth, like just about every article I write about how to [learn computer science online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/), is that it’s complicated. The answer to whether you should [learn Go](https://qvault.io/golang/learn-go-fast-best-courses-and-resources/) vs Python depends on if you’re a beginner, what job you want, what your history with computer science is, and what your goal is. 
+The truth, like just about every article I write about how to [learn computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/), is that it’s complicated. The answer to whether you should [learn Go](/golang/learn-go-fast/) vs Python depends on if you’re a beginner, what job you want, what your history with computer science is, and what your goal is. 
 
 {{< cta1 >}}
 
@@ -44,9 +44,9 @@ This background is useful to keep in your head when you begin to think about Gol
 
 Python is pretty universally known to be best for absolute coding babies. To give you some context, I was able to follow instructions to run an Instagram activity automation bot written in Python with extremely little coding prowess. The bot was complex, but my successful implementation grew my [cats’ Instagram account](http://instagram.com/astridandchumbo) to nearly 16k followers by simulating my activity of likes on photos. (Instagram later cracked down on these sorts of remote engagement.) I found the errors easy to troubleshoot, the language easy to read, and the community incredibly supportive. In short, a good language for a complete novice like myself.
 
-Python is written in a way that makes it ideal for literal beginner coders to pick up. People who are brand new to coding concepts will find Python an easier language to learn than Go. Go is possible for beginners to learn - I’ve written a whole post about why [beginners should learn Go in 2021](https://qvault.io/golang/why-learn-golang-in-2021/) - but a lot of the main features and benefits of Golang are better appreciated by veteran coders. 
+Python is written in a way that makes it ideal for literal beginner coders to pick up. People who are brand new to coding concepts will find Python an easier language to learn than Go. Go is possible for beginners to learn - I’ve written a whole post about why [beginners should learn Go in 2021](/golang/why-learn-golang/) - but a lot of the main features and benefits of Golang are better appreciated by veteran coders. 
 
-Python, meanwhile, is a winner for me in terms of which language is best for absolute coding beginners. To paraphrase myself from a previous article on [which language is most popular in 2021](https://qvault.io/misc/popular-coding-languages-2021/), Python is good for beginners because it:
+Python, meanwhile, is a winner for me in terms of which language is best for absolute coding beginners. To paraphrase myself from a previous article on [which language is most popular in 2021](/misc/popular-coding-languages/), Python is good for beginners because it:
 
 - Reads like English
 - Is fast enough to build a functional prototype very quickly
@@ -78,7 +78,7 @@ Alternatively, if you’re ambitiously aiming for one of the [highest-paying job
 
 (Pun intended.)
 
-As I explained in [my write up of the most popular coding languages of 2021](https://qvault.io/misc/popular-coding-languages-2021/), Go is known for being a top-ticket language because:
+As I explained in [my write up of the most popular coding languages of 2021](/misc/popular-coding-languages/), Go is known for being a top-ticket language because:
 
 - It’s built for big projects, usually run by companies with big paychecks
 - It’s faster and easier to learn than Perl, which is the top-earning language

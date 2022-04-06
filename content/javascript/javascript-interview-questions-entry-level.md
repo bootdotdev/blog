@@ -13,7 +13,7 @@ Versatile, powerful and ever-present, JavaScript is the world's most used progra
 
 94.5% of web pages use JavaScript, it's one of the 10 most-loved programming languages, and with median salaries of [$112,000](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states) in the US, JavaScript offers a way to fast-track your way to higher earnings if you're thinking of switching careers.
 
-You've mastered the basics -- perhaps by taking our [Intro to JavaScript course](https://qvault.io/basic-intro-to-coding-javascript-course/) -- and tried your hand at some simpler JavaScript projects or challenges.
+You've mastered the basics -- perhaps by taking our [Intro to JavaScript course](https://boot.dev/basic-intro-to-coding-javascript-course/) -- and tried your hand at some simpler JavaScript projects or challenges.
 
 But are you ready for an entry-level junior dev role writing JavaScript?
 
@@ -95,23 +95,23 @@ The `\` character is used before the double quotes to be able to use these in th
 ## 5 -- Explain the `.pop()` and `.push()` methods using the following array:
 
 ```js
-let qvault = ["the", "best", "coding", "courses", "ever", "like", "totally"];
+let bootdotdev = ["the", "best", "coding", "courses", "ever", "like", "totally"];
 ```
 
-1. What would happen if you used `qvault.pop()`
-2. What would happen if you used `qvault.push("definitely", "buy", "it")`
+1. What would happen if you used `bootdotdev.pop()`
+2. What would happen if you used `bootdotdev.push("definitely", "buy", "it")`
 
 **Answers:**
 
-The `.pop()` method removes the last element in the array and returns it. In the array above, `qvault.pop()` would return `"totally"`.
+The `.pop()` method removes the last element in the array and returns it. In the array above, `bootdotdev.pop()` would return `"totally"`.
 
 The `.push()` method instead adds any included elements to the end of the array, and returns the new length of that array. In the array above, pushing:
 
 ```js
-qvault.push("definitely", "buy", "it")
+bootdotdev.push("definitely", "buy", "it")
 ```
 
-would return the length `10` , and if you `console.log(qvault)` you would get:
+would return the length `10` , and if you `console.log(bootdotdev)` you would get:
 
 ```js
 ["the","best","coding","courses","ever","like","totally","definitely","buy","it"]
@@ -231,18 +231,18 @@ JSON.stringify()
 If one parameter is written, this will be used as the start parameter, and if two parameters are written, the second element will be used as the end parameter.
 
 ```js
-const reasonsToTryQvault = ["free trial", "interactive", "browser based", "helpful community", "range of content"]; 
+const reasonsToTryBootdotdev = ["free trial", "interactive", "browser based", "helpful community", "range of content"]; 
 
-reasonsToTryQvault.slice(2,4)
+reasonsToTryBootdotdev.slice(2,4)
 // ["browser based", "helpful community"]
 ```
 
 The `.splice()` method instead modifies the original array. It returns the deleted elements as arrays, and is often use to insert or remove elements to or from an existing array.
 
 ```js
-const reasonsToTryQvault = ["free trial", "interactive", "browser based", "helpful community", "range of content"]; 
-const removed = reasonsToTryQvault.splice(2,4)
-console.log(reasonsToTryQvault)
+const reasonsToTryBootdotdev = ["free trial", "interactive", "browser based", "helpful community", "range of content"]; 
+const removed = reasonsToTryBootdotdev.splice(2,4)
+console.log(reasonsToTryBootdotdev)
 // ["free trial","interactive"]
 
 console.log(removed)

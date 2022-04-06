@@ -58,11 +58,11 @@ type error interface {
 
 Whenever a function has a possibility to go wrong, like a network call or a type conversion, the function should return an error as its last return variable. The caller should check the error value, and any value other than `nil` is considered an error.
 
-Idiomatic Go developers should prefer [guard clauses](https://qvault.io/2019/08/16/guard-clauses-how-to-clean-up-conditionals/) over if-else chains, especially when handling errors. Errors should also be [wrapped in a meaningful way](https://qvault.io/2020/03/09/wrapping-errors-in-go-how-to-handle-nested-errors/) as they are passed up the call stack if appropriate.
+Idiomatic Go developers should prefer [guard clauses](/clean-code/guard-clauses/) over if-else chains, especially when handling errors. Errors should also be [wrapped in a meaningful way](/golang/wrapping-errors-in-go-how-to-handle-nested-errors/) as they are passed up the call stack if appropriate.
 
 ## 6\. What is a pointer and when would you use it?
 
-A [pointer](https://qvault.io/2019/09/25/the-proper-use-of-pointers-in-go-golang/) holds the memory address of a value.
+A [pointer](/golang/the-proper-use-of-pointers-in-go-golang/) holds the memory address of a value.
 
 - `&` generates a pointer to its operand.
 - `*` dereferences a pointer (exposes the underlying value).
@@ -71,13 +71,13 @@ Pointers can be used to:
 
 - Allow a function to directly mutate a value that is passed to it
 - To increase performance in edge cases. Sometimes passing a large struct of data results in inefficient copying of data
-- To signify the lack of a value. For example, when [unmarshalling JSON data](https://qvault.io/golang/json-golang/) into a struct it can be useful to know if a key was absent rather than it being present with the zero value.
+- To signify the lack of a value. For example, when [unmarshalling JSON data](/golang/json-golang/) into a struct it can be useful to know if a key was absent rather than it being present with the zero value.
 
 ## 7\. Describe the difference between [sync.Mutex](https://golang.org/pkg/sync/#Mutex) and [sync.RWMutex](https://golang.org/pkg/sync/#RWMutex)
 
 The normal mutex locks data so that only one goroutine can access it at a time.
 
-A [RWMutex (read/write)](https://qvault.io/2020/03/19/golang-mutexes-what-is-rwmutex-for/) can lock data for "reading" and for "writing". When locked for reading, other readers can also lock and access data. When locked for writing no other goroutines, including other readers can access the data.
+A [RWMutex (read/write)](/golang/golang-mutex/) can lock data for "reading" and for "writing". When locked for reading, other readers can also lock and access data. When locked for writing no other goroutines, including other readers can access the data.
 
 ## 8\. Consider the following code. What will be the value of s1?
 
@@ -96,7 +96,7 @@ Channels are safe for concurrent access, for this reason they have blocking oper
 
 {{< cta3 >}}
 
-## 10\. How would you [sort](https://qvault.io/2020/05/27/sorting-in-go-dont-reinvent-this-wheel/) a slice of custom structs?
+## 10\. How would you [sort](/golang/sorting-in-go-dont-reinvent-this-wheel/) a slice of custom structs?
 
 I would build a new type that represents a slice of that struct type. For example:
 
@@ -127,7 +127,7 @@ sort.Sort(fruitSlice(cars))
 
 ## 11\. Does Go support generic programming?
 
-Go doesn't currently support [generics](https://qvault.io/golang/how-to-use-golangs-generics/), but [support is coming in 1.18](https://blog.golang.org/generics-proposal). Generics will allow us as developers to write code that operates on types without needing to re-implement the same function multiple times for all the different types.
+Go doesn't currently support [generics](/golang/how-to-use-golangs-generics/), but [support is coming in 1.18](https://blog.golang.org/generics-proposal). Generics will allow us as developers to write code that operates on types without needing to re-implement the same function multiple times for all the different types.
 
 For example, say you want to implement a Binary Tree in Go, that can store any type of item. This _should_ be easy, because the binary tree shouldn't care about the types it stores, it never needs direct access to them. Currently, you only have two options: rewrite the tree for every type you want to support, or use an interface and cast the type every time you insert or remove something from the tree, neither of which are ideal solutions.
 
@@ -155,7 +155,7 @@ func doWork(){
 
 ## 15\. What do you like about Go?
 
-Well, this one's up to you, but [I have a few things in mind](https://qvault.io/golang/why-learn-golang-in-2021/).
+Well, this one's up to you, but [I have a few things in mind](/golang/why-learn-golang/).
 
 - Easy for beginners
 - Modern language with simple syntax

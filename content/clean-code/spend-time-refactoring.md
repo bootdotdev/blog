@@ -21,7 +21,7 @@ I've found that in articles like this it's important to give as much context to 
 - 4 engineers on my team, ~16 in the company
 - Tech stack - Go, Postgres, ElasticSearch and RabbitMQ
 - Microservices architecture on Kubernetes
-- Kanban-style development process - [no scrum](https://qvault.io/misc/leave-scrum-to-rugby-i-like-getting-stuff-done/)
+- Kanban-style development process - [no scrum](https://wagslane.dev/posts/leave-scrum-to-rugby/)
 - Our team is responsible for ~15 repositories
 - Each repo represents a small service in a data pipeline process that handles sorting and NLP of social media posts
 

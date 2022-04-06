@@ -22,7 +22,7 @@ The formatting option lets us template out how the final string will look, then 
 s := fmt.Sprintf("%v has been subscribed since %v.\n", user.Name, user.CreatedAt)
 ```
 
-`%v` is a simple token that will be replaced by the default format of whatever the given arguments are. In our case, it was a `string` and a `[time.Time](https://qvault.io/golang/golang-date-time/)`. Check out the [documentation](https://golang.org/pkg/fmt) for all the formatting options.
+`%v` is a simple token that will be replaced by the default format of whatever the given arguments are. In our case, it was a `string` and a [time.Time](/golang/golang-date-time/). Check out the [documentation](https://golang.org/pkg/fmt) for all the formatting options.
 
 ## Efficient string concatenation
 
@@ -42,7 +42,7 @@ Next, let's add a title string to our list.
 b.WriteString("user list\n")
 ```
 
-Now we'll iterate from 0-9, and for each number write a line containing "`user #{i}`". Because `strings.Builder` implements the `io.Writer` [interface](https://qvault.io/golang/golang-interfaces/), we can use the standard `fmt.Fprintf` function.
+Now we'll iterate from 0-9, and for each number write a line containing "`user #{i}`". Because `strings.Builder` implements the `io.Writer` [interface](/golang/golang-interfaces/), we can use the standard `fmt.Fprintf` function.
 
 ```go
 for i := 0; i < 10; i++ {

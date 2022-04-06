@@ -8,7 +8,7 @@ images:
   - /img/trash.webp
 ---
 
-While lists aren't the most efficient [data structure](https://qvault.io/big-o-data-structures-course/) if you'll be doing lots of deleting from the middle, there are definitely good ways to accomplish the task. The built-in `[remove()](https://python-reference.readthedocs.io/en/latest/docs/list/remove.html)` method should be your first option. Let's go over some examples.
+While lists aren't the most efficient [data structure](https://boot.dev/big-o-data-structures-course/) if you'll be doing lots of deleting from the middle, there are definitely good ways to accomplish the task. The built-in `[remove()](https://python-reference.readthedocs.io/en/latest/docs/list/remove.html)` method should be your first option. Let's go over some examples.
 
 ## Remove element in Python list by value
 

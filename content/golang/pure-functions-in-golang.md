@@ -29,7 +29,7 @@ Because of these properties, pure functions keep applications simple. As we know
 
 ## Example in Go
 
-Let's take a look at an example function. Using Go, we'll write a `countNamesInText` function that [splits a given string into words delimited by whitespace](https://qvault.io/golang/split-strings-golang/#delimiters), then, counts all the words that match a name pulled from the database.
+Let's take a look at an example function. Using Go, we'll write a `countNamesInText` function that [splits a given string into words delimited by whitespace](/golang/split-strings-golang/#delimiters), then, counts all the words that match a name pulled from the database.
 
 ```go
 totalCounted := map[string]int{}

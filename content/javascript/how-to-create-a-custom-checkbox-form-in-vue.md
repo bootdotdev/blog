@@ -10,16 +10,16 @@ images:
 
 You have a problem. The browser's default checkbox form is ugly and outdated, but importing an entire library just to change the styling seems like overkill. Instead, let's build a custom checkbox form component from scratch. It will take 15 minutes to type up, or just 3 if you just copy and paste my boilerplate code.
 
-Before we dive into how it works, you can see a live demo [here](https://codesandbox.io/s/custom-checkbox-component-u378c?file=/src/components/Checkbox.vue), or you can see how we are using it in production on the signup flow of Qvault's [coding courses platform.](https://qvault.io/)
+Before we dive into how it works, you can see a live demo [here](https://codesandbox.io/s/custom-checkbox-component-u378c?file=/src/components/Checkbox.vue), or you can see how we are using it in production on the signup flow of boot.dev's [coding courses platform.](https://boot.dev/)
 
 ## How to make other custom Vue components
 
 Before we move on, if you are looking for our other custom Vue.js components tutorials you can find them here:
 
-- [Custom select component in Vue](https://qvault.io/2020/09/25/how-to-make-a-custom-select-component-in-vue-js/)
-- [Custom tooltip component In Vue](https://qvault.io/2020/08/28/creating-a-custom-tooltip-component-in-vue/)
-- [Custom toggle switch component in Vue](https://qvault.io/2020/07/21/how-to-create-a-custom-toggle-switch-component-in-vue-js/)
-- [Custom slider component in Vue](https://qvault.io/2020/11/24/how-to-make-a-custom-slider-component-in-vue/)
+- [Custom select component in Vue](/javascript/custom-select-component-in-vue/)
+- [Custom tooltip component In Vue](/javascript/custom-tooltip-component-in-vue/)
+- [Custom toggle switch component in Vue](/javascript/how-to-create-a-custom-toggle-switch-component-in-vue-js/)
+- [Custom slider component in Vue](/javascript/custom-slider-component-vue/)
 
 {{< cta1 >}}
 

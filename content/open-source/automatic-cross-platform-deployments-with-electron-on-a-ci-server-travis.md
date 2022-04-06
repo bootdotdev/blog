@@ -82,7 +82,7 @@ Replace all the configuration variables with your own values. The configuration 
 
 You should have a license file named LICENSE at the root of your directory, as well as a copy called license\_en.txt in your build folder (build/license\_en.txt). Electron builder uses those licenses as the license agreement for the installers.
 
-Good practice for an appId is a reverse domain name. For example, ours is _io.qvault.app_.
+Good practice for an appId is a reverse domain name. For example, ours is _dev.boot_.
 
 You can setup your test script to actually run tests if you want, the above just prints "success" to the screen. We will configure Travis to run those tests on the CI server.
 

@@ -9,7 +9,7 @@ images:
   - /img/library-scaled.webp
 ---
 
-_Adi Shamir's Secret Sharing_ is a [cryptographic algorithm](https://qvault.io/cryptography/what-is-cryptography/) that allows distinct parties to jointly share ownership of a single secret by holding _shares_. The original secret can only be reconstructed by using a minimum number of shares, which allows different parties to cooperate without the need to fully trust one another.
+_Adi Shamir's Secret Sharing_ is a [cryptographic algorithm](/cryptography/what-is-cryptography/) that allows distinct parties to jointly share ownership of a single secret by holding _shares_. The original secret can only be reconstructed by using a minimum number of shares, which allows different parties to cooperate without the need to fully trust one another.
 
 ## Example Problem
 

@@ -39,7 +39,7 @@ The practical problem is that the math behind encryption is already public knowl
 > 
 > \- Government People, Probably
 
-While true, the world can't unlearn math. Outlawing companies' abilities to protect their customer's data doesn't make illicit [cryptography](https://qvault.io/cryptography/what-is-cryptography/) more difficult.
+While true, the world can't unlearn math. Outlawing companies' abilities to protect their customer's data doesn't make illicit [cryptography](/cryptography/what-is-cryptography/) more difficult.
 
 Obviously, Emotional bills based on irrational fears are rarely a good idea to push quickly through congress. Of course, Politicians typically use these kinds of proposals to create a problem. Then, they can "solve" it in order to seem like a hero.
 

@@ -9,7 +9,7 @@ images:
   - /img/pexels-cottonbro-5076527-scaled.webp
 ---
 
-There are so many reasons to want to get a certificate in computer science in 2021, especially when you [compare it to alternatives like getting a degree](https://qvault.io/2020/12/02/difference-between-certificate-or-degree-in-2021/) or attending a coding bootcamp.
+There are so many reasons to want to get a certificate in computer science in 2021, especially when you [compare it to alternatives like getting a degree](/computer-science/compsci-certificate-vs-degree/) or attending a coding bootcamp.
 
 While computer science certificates take time and sometimes money to complete, they still accomplish the same aim as degrees and bootcamps: to show future employers that you have the skills and understanding required to get the programming job of your dreams, and you can get one in a heck of a lot less time and money than a degree. Sometimes certificates in computer science are a prerequisite for the job you want, but oftentimes, they’re just a handy way to prove your chops.
 
@@ -48,7 +48,7 @@ However, they can sometimes overlap with your existing skill set, meaning you’
 
 ## The general knowledge certificate
 
-You can also get a certificate in computer science that comes from places like Coursera. These often offer a wider variety of options for computer science certification, from beginners to advanced specialties, and they’re more convenient since they’re built to help you [learn computer science online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/). 
+You can also get a certificate in computer science that comes from places like Coursera. These often offer a wider variety of options for computer science certification, from beginners to advanced specialties, and they’re more convenient since they’re built to help you [learn computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/). 
 
 Ultimately, the best way to leverage a certificate in computer science is to prove you have the general knowledge required for the job you want to do. The right certificate will help you accomplish those goals. 
 
@@ -58,9 +58,9 @@ At this stage, you should totally understand your own motivations for wanting to
 
 Before you make your final decision, you will want to consider the main goal of your computer science certificate. The one thing that makes it a great option is that it’s like a stamp of approval - a way to show employers that you know what you’re doing, and look, someone else agrees. 
 
-To get that from a certificate in computer science, you can conduct a cost-benefit analysis on the certificate you have in mind. For example, some places let you build a [developer portfolio](https://app.qvault.io/u/wagslane) that will show not just the certificate, but all the skills leading up to it that you will have completed in order to be awarded the certificate. Others only offer a badge to paste on LinkedIn, or a piece of paper you can produce if asked.
+To get that from a certificate in computer science, you can conduct a cost-benefit analysis on the certificate you have in mind. For example, some places let you build a [developer portfolio](https://boot.dev/u/wagslane) that will show not just the certificate, but all the skills leading up to it that you will have completed in order to be awarded the certificate. Others only offer a badge to paste on LinkedIn, or a piece of paper you can produce if asked.
 
-They should also actually either teach you the skills you need or prove you already know them. It’s no good to wield your computer science certificate on your [resume](https://qvault.io/2020/12/14/computer-science-resumes/) to land a job interview, then fail to answer their questions due to a fundamental lack of comprehension.
+They should also actually either teach you the skills you need or prove you already know them. It’s no good to wield your computer science certificate on your [resume](/computer-science/computer-science-resumes/) to land a job interview, then fail to answer their questions due to a fundamental lack of comprehension.
 
 Especially where some certificates can be very expensive and time-consuming to achieve, you want to make sure they will do the one thing you need them to do: certify you have the computer science understanding and skills needed.
 
@@ -72,11 +72,11 @@ First, include ease of completion in your criteria for selecting a certificate i
 
 Second, motivate yourself. Especially if you’re at the beginning of your coding career, it can be really demoralizing to apply to jobs and constantly be put through the rejection mill. Getting a computer science certificate is going to help you in that regard. Maybe you can motivate yourself financially, like promising yourself a gift if you finish. Maybe you can let other people know you’re working on this goal, so they can monitor and cheer you on. There are plenty of ways to motivate yourself to finish the computer science certificate - you just have to find the right one.
 
-Both internal and external sources of drive will be necessary to get this done. If you can plan ahead and both pick out a course that aligns to your learning and working style and identify a couple of motivational tricks you can use, the easier it’ll be to actually complete the certificate in computer science that’s going to land you your [dream programming job](https://qvault.io/2020/12/09/highest-paying-computer-science-jobs/).
+Both internal and external sources of drive will be necessary to get this done. If you can plan ahead and both pick out a course that aligns to your learning and working style and identify a couple of motivational tricks you can use, the easier it’ll be to actually complete the certificate in computer science that’s going to land you your [dream programming job](/jobs/highest-paying-computer-science-jobs/).
 
 ## Step 5: Do the work.
 
-This step will appear relatively short, because there’s only so much that can be said here. The more work you did on steps 1-4, the easier step 5 will be. Monitor your progress - if there are milestones you can physically track as you move through the certification, do so. If you’re finding you’re stumbling, look for a quick win. Rely on family and friends to keep you on target. You can even post in communities like [Reddit, Twitter, and Discord](https://qvault.io/2020/11/12/top-12-best-communities-for-learning-to-code/) to find inspiration, support, help and ideas to carry on. There’s a common misconception that all programmers are lonely, isolated folks, but like most other people, having a community is helpful in finding motivation and support to keep going when the going gets tough.
+This step will appear relatively short, because there’s only so much that can be said here. The more work you did on steps 1-4, the easier step 5 will be. Monitor your progress - if there are milestones you can physically track as you move through the certification, do so. If you’re finding you’re stumbling, look for a quick win. Rely on family and friends to keep you on target. You can even post in communities like [Reddit, Twitter, and Discord](/misc/top-12-best-communities-for-learning-to-code/) to find inspiration, support, help and ideas to carry on. There’s a common misconception that all programmers are lonely, isolated folks, but like most other people, having a community is helpful in finding motivation and support to keep going when the going gets tough.
 
 If you’re finding that despite all your hard work in picking out the right computer science certificate to aim for, it’s still tough to make it through, you can pause and try something else. Most places that offer computer science certificates are at-will completion, so you do them at your own pace. When you start to struggle, see if you can find a shorter, perhaps cheaper or even free course and certificate to get. The smaller, quicker win might help you brush up on skills, and it’ll motivate you to keep going. 
 

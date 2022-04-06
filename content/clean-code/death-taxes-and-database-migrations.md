@@ -18,7 +18,7 @@ Let's be clear about something. Migrations are here to stay, and while we can't 
 
 ## #1 Get the names right the first time
 
-Naming variables is hard, but naming database keys and API behaviors is much harder. When you name something that other code and systems rely on, you either won't be able to change it in the future, or that migration is going to be excruciating. I have a few rules of thumb [on variable naming](https://qvault.io/clean-code/naming-variables/), so I won't rehash all the details here. That said, here's a tl;dr.
+Naming variables is hard, but naming database keys and API behaviors is much harder. When you name something that other code and systems rely on, you either won't be able to change it in the future, or that migration is going to be excruciating. I have a few rules of thumb [on variable naming](/clean-code/naming-variables/), so I won't rehash all the details here. That said, here's a tl;dr.
 
 1. Following existing naming conventions of the language or framework that you’re using. In Python, use `snake_case`.
 2. Single letter variables have a place, and that place is rare.

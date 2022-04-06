@@ -12,7 +12,7 @@ images:
 
 Programming is a very lucrative skill to have, whether as a professional career, a freelance gig, or even just a hobby. For programmers who know how, there’s a real opportunity to turn their knowledge and expertise into cold hard cash. 
 
-When you combine the ability to program or code with the ability to write in a way that resonates with an audience, that’s a jackpot.  The best part is that you don’t even need to go to college or have five years of experience at Google to have a successful and lucrative programming blog - if you [learn computer science online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/) and set up a learning course for yourself, you’ll have all you need to turn your blog into profit. 
+When you combine the ability to program or code with the ability to write in a way that resonates with an audience, that’s a jackpot.  The best part is that you don’t even need to go to college or have five years of experience at Google to have a successful and lucrative programming blog - if you [learn computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/) and set up a learning course for yourself, you’ll have all you need to turn your blog into profit. 
 
 The internet is full of readers who want to be entertained, educated, engaged. A programmer who can tap into that audience has a ton of options for monetization.
 
@@ -30,7 +30,7 @@ As a programmer, no matter what your expertise level is, you have valuable exper
 
 By joining some affiliate programs and mentioning their products or services when you write, you can begin getting rewards from your readers. They won’t have to pay anything extra for taking advantage of your hard-won experience, and you’ll profit without having to make a single sale yourself.
 
-The best part is that you don’t need to be an expert coder - even if you’re blogging about your beginning journey into coding, and you’re still in the process of learning to code, you can still make recommendations that others will value. For example, Qvault is a platform that provides computer science courses and certificates. When [programmers refer others](https://qvault.io/affiliates/) to the platform, they receive 50% of any payments, which is useful for beginner coders especially. You don't need to be an expert coder - you can just say, "Hey, this course worked great for me."
+The best part is that you don’t need to be an expert coder - even if you’re blogging about your beginning journey into coding, and you’re still in the process of learning to code, you can still make recommendations that others will value. For example, boot.dev is a platform that provides computer science courses and certificates. When [programmers refer others](/affiliates/) to the platform, they receive 50% of any payments, which is useful for beginner coders especially. You don't need to be an expert coder - you can just say, "Hey, this course worked great for me."
 
 To maximize the potential of this, ensure you make a disclaimer about your affiliate links. As long as you’re honest about them, your readers won’t mind. Explain why you love what you’re recommending. This ensures your voice remains authentic on your blog and not too “salesy” which can turn readers off.
 

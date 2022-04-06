@@ -10,7 +10,7 @@ images:
   - /img/photo-1497285597995-6ed7de6bfebd.webp
 ---
 
-The purpose of [cryptography](https://qvault.io/cryptography/what-is-cryptography/) is to keep information private, and the purpose of open-source is to make code public... So we shouldn't open-source our cryptography algorithms right?
+The purpose of [cryptography](/cryptography/what-is-cryptography/) is to keep information private, and the purpose of open-source is to make code public... So we shouldn't open-source our cryptography algorithms right?
 
 I've been asked this several times by multiple people so I figured it is a subject worth addressing. Many developers seem to be under the impression that crypto and security systems (the application-specific implementation of cryptosystems) are more secure if their details are kept private.
 
@@ -28,7 +28,7 @@ There are several reasons as to why this is a good rule to live by, let's examin
 
 If a developer is operating under the assumption that attackers won't know about the details of their code, they may be tempted to try to build in security that is dependent on that.
 
-For example, they may [encode data in a confusing way instead of encrypting it](https://qvault.io/2019/08/14/stop-with-the-obfuscation-encoding-and-encryption-are-not-the-same/), assuming that the enemy will think it is encrypted, or not be able to guess HOW it was encoded.
+For example, they may [encode data in a confusing way instead of encrypting it](/security/encoding-vs-encryption/), assuming that the enemy will think it is encrypted, or not be able to guess HOW it was encoded.
 
 **BAD.**
 

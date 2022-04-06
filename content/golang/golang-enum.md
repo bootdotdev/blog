@@ -48,7 +48,7 @@ const (
 )
 ```
 
-Pretend you need to change the name of `statusFailed` to `statusCancelled`, perhaps to become consistent with the rest of the codebase. If you had previously used the value `failed` instead of an enum, and now that value is strewn all across various databases, it becomes _really_ hard to change it. If you had just used an `enum`, you can [change the name](https://qvault.io/clean-code/naming-variables/) without touching the value and your code remains clean.
+Pretend you need to change the name of `statusFailed` to `statusCancelled`, perhaps to become consistent with the rest of the codebase. If you had previously used the value `failed` instead of an enum, and now that value is strewn all across various databases, it becomes _really_ hard to change it. If you had just used an `enum`, you can [change the name](/clean-code/naming-variables/) without touching the value and your code remains clean.
 
 {{< cta1 >}}
 
@@ -114,4 +114,4 @@ func (bp BodyPart) String() string {
 }
 ```
 
-There are some "gotchas" to this approach, however, so be careful. If the number of declarations in your `const` block is different than the number of entries in the "[constant slice](https://qvault.io/golang/golang-constant-maps-slices/)" created by your `String()` method, the compiler won't alert you to the potential "out of bounds" error. Also, if you ever update the name of one of the constants don't forget to update its corresponding string in the list.
+There are some "gotchas" to this approach, however, so be careful. If the number of declarations in your `const` block is different than the number of entries in the "[constant slice](/golang/golang-constant-maps-slices/)" created by your `String()` method, the compiler won't alert you to the potential "out of bounds" error. Also, if you ever update the name of one of the constants don't forget to update its corresponding string in the list.

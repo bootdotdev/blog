@@ -33,7 +33,7 @@ func main() {
 }
 ```
 
-As per the [docs](https://golang.org/pkg/time/#Ticker), a ticker is a struct that holds a receive-only channel of [time.Time objects](https://qvault.io/golang/golang-date-time/).
+As per the [docs](https://golang.org/pkg/time/#Ticker), a ticker is a struct that holds a receive-only channel of [time.Time objects](/golang/golang-date-time/).
 
 ```go
 type Ticker struct {
@@ -55,7 +55,7 @@ func doSomethingWithRateLimit() {
 
 There is in fact a better option!
 
-In Go, a channel can also be iterated over in a normal [for-loop](https://qvault.io/golang/golang-for-loop/), so our solution is to build a for loop that executes automatically on the first iteration, then waits for each subsequent loop.
+In Go, a channel can also be iterated over in a normal [for-loop](/golang/golang-for-loop/), so our solution is to build a for loop that executes automatically on the first iteration, then waits for each subsequent loop.
 
 ```go
 package main

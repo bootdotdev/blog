@@ -9,7 +9,7 @@ images:
   - /img/litecoin.webp
 ---
 
-Scrypt is a slow-by-design [key derivation function](https://qvault.io/2019/12/30/very-basic-intro-to-key-derivation-functions-argon2-scrypt-etc/) designed to create strong cryptographic keys. Simply put, the purpose of the Scrypt hash is to create a fingerprint of its input data but to do it _very slowly_. A common use-case is to create a strong private key from a password, where the new private key is longer and more secure. Here at [Qvault,](https://qvault.io) we use a similar KDF for securing user passwords.
+Scrypt is a slow-by-design [key derivation function](/cryptography/key-derivation-functions/) designed to create strong cryptographic keys. Simply put, the purpose of the Scrypt hash is to create a fingerprint of its input data but to do it _very slowly_. A common use-case is to create a strong private key from a password, where the new private key is longer and more secure. Here at [boot.dev,](https://boot.dev) we use a similar KDF for securing user passwords.
 
 Let's pretend your password is `password1234`. By using Scrypt, we can extend that deterministically into a 256-bit key:
 
@@ -18,28 +18,28 @@ password1234 ->
 AwEEDA4HCwQFAA8DAwwHDQwPDwUOBwoOCQACAgUJBQ0JAAYNBAMCDQ4JCQgLDwcGDQMDDgMKAQsNBAkLAwsACA==
 ```
 
-That long 256-bit key can now be used as a private key to encrypt and decrypt data. For example, it could be the key in an [AES-256](https://qvault.io/2020/01/02/very-basic-intro-to-aes-256-cipher/) cipher.
+That long 256-bit key can now be used as a private key to encrypt and decrypt data. For example, it could be the key in an [AES-256](/cryptography/aes-256-cipher/) cipher.
 
 Some cryptocurrencies, like [Litecoin](https://litecoin.org/), use Scrypt as their proof-of-work algorithm due to how slow and memory-intensive the key derivation process is. By using a slower and more memory-intensive algorithm, it's harder for engineers to create specialized hardware (ASICs) to mine the coin.
 
-## Other [hash function](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) explainers
+## Other [hash function](/security/hash-functions/) explainers
 
 Before we move on, if you're looking for an explanation of a different hash function, we may have you covered
 
-- [SHA-2 Hash Step by Step](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)
-- [Bcrypt Step by Step](https://qvault.io/2020/08/24/bcrypt-step-by-step/)
-- [(Very) Basic Intro to Hash Functions](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc/)
+- [SHA-2 Hash Step by Step](/cryptography/how-sha-2-works-step-by-step-sha-256/)
+- [Bcrypt Step by Step](/cryptography/bcrypt-step-by-step/)
+- [(Very) Basic Intro to Hash Functions](/security/hash-functions/)
 
 ## Why Not Encrypt With The Password Directly?
 
 Most encryption algorithms, including AES-256, require that a key of sufficient length is used. By hashing the password, we can derive a longer, more secure, fixed-size key.
 
-Furthermore, using a KDF like Scrypt provides additional benefits over a traditional hash function like [SHA-2](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/):
+Furthermore, using a KDF like Scrypt provides additional benefits over a traditional hash function like [SHA-2](/cryptography/how-sha-2-works-step-by-step-sha-256/):
 
 - Computationally expensive and slow
 - Memory intensive (potentially several gigabytes of RAM is used to execute the hash)
 
-Often times [brute-force attackers](https://qvault.io/2020/02/11/how-do-brute-force-attackers-know-they-found-the-key/) will try to break encryption by guessing passwords over and over until they get it right. AES-256 and SHA-2 are fast, so an attacker would be able to guess many passwords per second. By using a slow hashing function like Scrypt to derive a key, we can force the attacker to waste more resources trying to break in.
+Often times [brute-force attackers](/cryptography/how-do-brute-force-attackers-know-they-found-the-key/) will try to break encryption by guessing passwords over and over until they get it right. AES-256 and SHA-2 are fast, so an attacker would be able to guess many passwords per second. By using a slow hashing function like Scrypt to derive a key, we can force the attacker to waste more resources trying to break in.
 
 ## Scrypt Step-by-Step
 
@@ -138,7 +138,7 @@ func blockMix(block){
 
 ### 4 - Finalize Salt
 
-Now `splitSalt` has been mixed in such a computationally exhausting way that we will call it an `expensiveSalt`. Expensive salt will be a single array of bytes, so we need to [concatenate](https://qvault.io/golang/strings-builder-concatenation-golang/) all the subarrays in `splitSalt`.
+Now `splitSalt` has been mixed in such a computationally exhausting way that we will call it an `expensiveSalt`. Expensive salt will be a single array of bytes, so we need to [concatenate](/golang/strings-builder-concatenation-golang/) all the subarrays in `splitSalt`.
 
 ```
 expensiveSalt := append([], splitSalt...)

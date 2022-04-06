@@ -74,4 +74,4 @@ Instead of a "naked" array, which is technically valid JSON:
 
 The reason that I generally prefer top-level objects is that I can add additional fields to the object in the future, without requiring large changes to the code. I also like it because it "self-documents" in a way. When you look at the first request body you can tell it's an array of usernames, in the second example, those strings could be anything.
 
-And if this isn't making sense to you, you might want to check out our [computer science courses](https://qvault.io/courses/).
+And if this isn't making sense to you, you might want to check out our [computer science courses](https://boot.dev/courses/).

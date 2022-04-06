@@ -10,7 +10,7 @@ images:
   - /img/lock.webp
 ---
 
-Bcrypt is a [key derivation function](https://qvault.io/2019/12/30/very-basic-intro-to-key-derivation-functions-argon2-scrypt-etc/), which can be thought of as a special kind of [hash function](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc/). Its purpose is to _slowly_ convert a piece of input data to a fixed-size, deterministic, and unpredictable output. A common use case is to convert a password into an n-bit [cryptographic](https://qvault.io/cryptography/what-is-cryptography/) key, which can then be used for safe authentication.
+Bcrypt is a [key derivation function](/cryptography/key-derivation-functions/), which can be thought of as a special kind of [hash function](/security/hash-functions/). Its purpose is to _slowly_ convert a piece of input data to a fixed-size, deterministic, and unpredictable output. A common use case is to convert a password into an n-bit [cryptographic](/cryptography/what-is-cryptography/) key, which can then be used for safe authentication.
 
 ## What does a Bcrypt hash look like?
 
@@ -38,7 +38,7 @@ Alg   Cost                  Salt                                            Hash
 
 In web development, it is insecure to store user's passwords in plain text. If an attacker were to gain access to the server's database they could find raw email/password combinations and use them to attack the same users on other sites.
 
-At the _very least_ we must hash user's passwords, but hash functions like [SHA-2](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/) and MD5 are too fast to be secure. Using a KDF like Bcrypt provides security benefits over fast hashes because it is computationally expensive and slow. If an attacker gains access to a database of password hashes made with fast algorithms it is easy for them to "reverse" the hashes by guessing different inputs and seeing if the outputs match.
+At the _very least_ we must hash user's passwords, but hash functions like [SHA-2](/cryptography/how-sha-2-works-step-by-step-sha-256/) and MD5 are too fast to be secure. Using a KDF like Bcrypt provides security benefits over fast hashes because it is computationally expensive and slow. If an attacker gains access to a database of password hashes made with fast algorithms it is easy for them to "reverse" the hashes by guessing different inputs and seeing if the outputs match.
 
 For example, let's say the attacker finds the following entry in a database:
 
@@ -170,6 +170,6 @@ It helps me to visualize the details of the pseudo-code by using a more "real" p
 
 If you're looking for an explanation of a different hash function, we may have you covered
 
-- [How SHA-2 Works Step by Step](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)
-- [(Very) Basic Intro to the Scrypt Hash](https://qvault.io/2020/07/25/very-basic-intro-to-the-scrypt-hash/)
-- [(Very) Basic Intro to Hash Functions](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc/)
+- [How SHA-2 Works Step by Step](/cryptography/how-sha-2-works-step-by-step-sha-256/)
+- [(Very) Basic Intro to the Scrypt Hash](/cryptography/very-basic-intro-to-the-scrypt-hash/)
+- [(Very) Basic Intro to Hash Functions](/security/hash-functions/)

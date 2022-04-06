@@ -14,7 +14,7 @@ There are many good reasons why learning Go is a popular idea altogether - Stack
 
 It’s practical, too, as it was [developed specifically by Google](https://talks.golang.org/2012/splash.article#:~:text=The%20goals%20of%20the%20Go,and%20maintain%E2%80%94large%20software%20systems.) to “eliminate the slowness and clumsiness of software development at Google, and thereby to make the process more productive and scalable. The language was designed by and for people who write—and read and debug and maintain—large software systems.”
 
-For those who want to [learn computer science online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/), it's also worth mentioning that Go is a good basic language that can help build foundational blocks that will be suitable for other languages you may go on to learn. Beyond all the reasons that make Go a great language to learn, there are seven factors that make it a perfect language specifically for beginner coders. Why learn Golang in 2021? Let’s jump into the reasons.
+For those who want to [learn computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/), it's also worth mentioning that Go is a good basic language that can help build foundational blocks that will be suitable for other languages you may go on to learn. Beyond all the reasons that make Go a great language to learn, there are seven factors that make it a perfect language specifically for beginner coders. Why learn Golang in 2021? Let’s jump into the reasons.
 
 - [Why learn Golang, and especially why learn Golang as a beginner coder?](#why-learn-golang-and-especially-why-learn-golang-as-a-beginner-coder)
 - [1\. Go is an easy language for beginners to learn.](#1-go-is-an-easy-language-for-beginners-to-learn)
@@ -54,7 +54,7 @@ Essentially, Go is great for beginners because [you can do multiple things at on
 
 ## 4\. Go can help you land a job at Google (or other large companies)
 
-The most practical answer to _"Why learn Golang?"_ is that it can help you get a job [faster](https://qvault.io/2021/02/22/learn-coding-fast/). Go was developed by Google and was designed to be powerful, yet simple to use and learn. Learning the language one of the largest tech companies developed and built specifically to help with the problem of complexity will give you a leg up.
+The most practical answer to _"Why learn Golang?"_ is that it can help you get a job [faster](/jobs/learn-coding-fast/). Go was developed by Google and was designed to be powerful, yet simple to use and learn. Learning the language one of the largest tech companies developed and built specifically to help with the problem of complexity will give you a leg up.
 
 > The Go programming language was conceived in late 2007 as an answer to some of the problems we were seeing developing software infrastructure at Google…\[t\]he problems introduced by multicore processors, networked systems, massive computation clusters, and the web programming model were being worked around rather than addressed head-on.
 > 

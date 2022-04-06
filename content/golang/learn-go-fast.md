@@ -18,11 +18,11 @@ The Go programming language, or Golang for short, is an open-source programming 
 
 ## Best Courses
 
-### [1\. Go Mastery - Qvault](https://app.qvault.io/)
+### [1\. Go Mastery - Boot.dev](https://boot.dev/)
 
 ![](/img/social-150x150.jpg)
 
-We obviously have to give ourselves credit! We have recently released our new [Go Mastery course](https://qvault.io/go-mastery-course/). This course can be taken entirely in the browser and covers all the basic syntax and concepts of Go. If you have some development experience and want to start your Go career, this is the course for you.
+We obviously have to give ourselves credit! We have recently released our new [Go Mastery course](https://boot.dev/go-mastery-course/). This course can be taken entirely in the browser and covers all the basic syntax and concepts of Go. If you have some development experience and want to start your Go career, this is the course for you.
 
 ### [2\. Go By Example](https://gobyexample.com/)
 
@@ -63,9 +63,9 @@ If you are into real-time discussion then the Gophers slack channel is the place
 
 ## Best Blogs
 
-### [1\. Qvault Go Category](https://qvault.io/category/golang/)
+### [1\. Boot.dev Go Category](https://boot.dev/category/golang/)
 
-We regularly publish Go-related content and you can follow it by sorting for "golang" on Qvault. you can also grab the RSS feed [here](https://qvault.io/category/languages/golang/feed/).
+We regularly publish Go-related content and you can follow it by sorting for "golang" on boot.dev. you can also grab the RSS feed [here](/category/languages/golang/feed/).
 
 ### [2\. The Go Blog](https://blog.golang.org/)
 

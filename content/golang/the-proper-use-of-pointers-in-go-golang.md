@@ -34,13 +34,13 @@ func main() {
 	// create a normal string variable
 	name := "original"
 	// pass in a pointer to the string variable using '&'
-	setName(&name, "qvault")
+	setName(&name, "boot.dev")
 	fmt.Println(name)
 }
 
 func setName(ptr *string, newName string) {
 	// dereference the pointer so we can modify the value
-	// and set the value to "qvault"
+	// and set the value to "boot.dev"
 	*ptr = newName
 }
 ```
@@ -48,7 +48,7 @@ func setName(ptr *string, newName string) {
 This prints:
 
 ```
-qvault
+boot.dev
 ```
 
 As you can see, because we have a pointer to the address of the variable_,_ we can modify its value, even within the scope of another function. If the value were not a pointer, this would not work:
@@ -60,7 +60,7 @@ import "fmt"
 
 func main() {
 	name := "original"
-	setNameBroken(name, "qvault")
+	setNameBroken(name, "boot.dev")
 	fmt.Println(name)
 }
 
@@ -138,10 +138,10 @@ If you have a string that contains an entire novel in memory it gets really expe
 
 **3\. Need a Nil Value Option**
 
-Sometimes a function needs to know what something's value is, as well as if it exists or not. I usually use this when [decoding JSON](https://qvault.io/golang/json-golang/) to know if a field exists or not. For example, if a JSON object is:
+Sometimes a function needs to know what something's value is, as well as if it exists or not. I usually use this when [decoding JSON](/golang/json-golang/) to know if a field exists or not. For example, if a JSON object is:
 
 ```
-{ "name": "qvault" } ----> *name: "qvault"
+{ "name": "boot.dev" } ----> *name: "boot.dev"
 ```
 
 ```

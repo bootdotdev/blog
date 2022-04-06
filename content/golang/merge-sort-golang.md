@@ -8,7 +8,7 @@ images:
   - /img/swirl.webp
 ---
 
-Merge sort is a recursive sorting algorithm and, luckily for us, it's quite a bit faster than [bubble sort](https://qvault.io/golang/bubble-sort-golang/). Merge sort is a [divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm).
+Merge sort is a recursive sorting algorithm and, luckily for us, it's quite a bit faster than [bubble sort](/golang/bubble-sort-golang/). Merge sort is a [divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm).
 
 ### Divide
 
@@ -89,7 +89,7 @@ func main() {
 - Extra memory. Most sorting algorithms can be performed using a single copy of the original array. Merge sort requires an extra array in memory to merge the sorted subarrays.
 - Recursive: Merge sort requires many recursive function calls, and function calls can have significant resource overhead.
 
-If you need a sorting algorithm to use in a production system, I recommend [not reinventing the wheel and using the built-in sort.Sort method](https://qvault.io/golang/sorting-in-go-dont-reinvent-this-wheel/).
+If you need a sorting algorithm to use in a production system, I recommend [not reinventing the wheel and using the built-in sort.Sort method](/golang/sorting-in-go-dont-reinvent-this-wheel/).
 
 ## Merge sort Big-O complexity
 

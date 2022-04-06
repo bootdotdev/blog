@@ -22,7 +22,7 @@ Coding challenges are a great way to give yourself a reason to pick up a new cod
 
 Before you dive into these sixteen challenges, it's worth thinking about what the purpose. If you want to secure a specific job, language challenges like these below will be helpful, but not the end-all-be-all -- you'd be better off doing a more holistic challenge.
 
-But if you're just keen to [test yourself on your Go](https://qvault.io/go-mastery-course/) mastery, for example, then language-based challenges like these are best.
+But if you're just keen to [test yourself on your Go](https://boot.dev/go-mastery-course/) mastery, for example, then language-based challenges like these are best.
 
 ### Javascript
 

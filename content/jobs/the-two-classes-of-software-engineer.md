@@ -13,7 +13,7 @@ images:
 
 For the sake of this article, I'm going to refer to those who've taken the time to study in-depth as "_computer scientists_", and those who skipped the boring stuff to learn how to deploy a React portfolio as "_developers_". Keep in mind I just need some words to work with, there's nothing wrong with the term "developer" and there's nothing magic about the title "computer scientist".
 
-_I won't be talking about the differences in job titles among software engineers. If that's what you're here for check out [this other article on how much money different kinds of engineers make](https://qvault.io/2020/12/09/highest-paying-computer-science-jobs/)._
+_I won't be talking about the differences in job titles among software engineers. If that's what you're here for check out [this other article on how much money different kinds of engineers make](/jobs/highest-paying-computer-science-jobs/)._
 
 ## It isn't binary, there's obviously a spectrum of skill
 
@@ -43,7 +43,7 @@ Over time, and often as soon as the first year of employment, "computer scientis
 
 ## Demand won't always be higher than supply
 
-Currently, the number of people needed in software engineering is still [rapidly increasing](http://econdataus.com/claim400k.htm), but (anecdotally, and if anyone has good data on this please let me know) it seems when I talk with entry-level engineers that they're having an increasingly hard time landing a _first job_. With greater competition at the junior levels, it seems more and more apparent that "get-rich-quick" paths [don't often produce the best results](https://qvault.io/2020/11/19/getting-a-job-after-coding-bootcamp-is-hard/).
+Currently, the number of people needed in software engineering is still [rapidly increasing](http://econdataus.com/claim400k.htm), but (anecdotally, and if anyone has good data on this please let me know) it seems when I talk with entry-level engineers that they're having an increasingly hard time landing a _first job_. With greater competition at the junior levels, it seems more and more apparent that "get-rich-quick" paths [don't often produce the best results](/jobs/getting-a-job-after-coding-bootcamp-is-hard/).
 
 If you're still struggling to find your first job, are wanting to take your career up a level, or you're simply looking for more job security, taking the time to learn more advanced and specialized subjects is the best path.
 
@@ -53,6 +53,6 @@ If you're still struggling to find your first job, are wanting to take your care
 
 "Computer scientists" find ways to learn CS in-depth, whether through conventional means like taking classes at a local university or by taking the initiative to relentlessly self-teach online. "Developers" tend to exist on the surface understanding, preferring to learn specific languages, frameworks, and technologies rather than their underpinnings. "Developers" only pick up new skills when they feel the fads of the time are changing.
 
-If you seek deeper technical fulfillment, don't settle for writing CRUD applications and API calls. Don't be afraid to watch lectures on YouTube, take some challenging CS courses, or start a for-fun project that will require more technical prowess than you're used to. If you're interested in learning CS online, check out my other post, "[A Comprehensive Guide to Learn Computer Science Online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/)".
+If you seek deeper technical fulfillment, don't settle for writing CRUD applications and API calls. Don't be afraid to watch lectures on YouTube, take some challenging CS courses, or start a for-fun project that will require more technical prowess than you're used to. If you're interested in learning CS online, check out my other post, "[A Comprehensive Guide to Learn Computer Science Online](/computer-science/comprehensive-guide-to-learn-computer-science-online/)".
 
-If you're worried about not being able to prove your knowledge if you're just learning in an unaccredited way online, look into [CS certifications](https://qvault.io/2020/12/15/guide-to-certificate-in-computer-science/).
+If you're worried about not being able to prove your knowledge if you're just learning in an unaccredited way online, look into [CS certifications](/jobs/guide-to-certificate-in-computer-science/).

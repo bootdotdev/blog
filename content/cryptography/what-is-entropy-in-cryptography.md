@@ -11,9 +11,9 @@ images:
 
 If you're familiar with the [laws of thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics), you may recognize the second law as the one that deals with entropy. In the realm of physics, entropy represents the degree of disorder in a system. Because systems tend to degrade over time, thermodynamic energy becomes less available to do mechanical work. In cryptography, [entropy](https://en.wikipedia.org/wiki/Entropy_(computing)) has a distinct but similar meaning.
 
-In [cryptography](https://qvault.io/cryptography/what-is-cryptography/), entropy refers to the randomness collected by a system for use in algorithms that require random data. A lack of good entropy can leave a cryptosystem vulnerable and unable to encrypt data securely.
+In [cryptography](/cryptography/what-is-cryptography/), entropy refers to the randomness collected by a system for use in algorithms that require random data. A lack of good entropy can leave a cryptosystem vulnerable and unable to encrypt data securely.
 
-For example, the [Qvault app](https://qvault.io/) generates random coupon codes from time to time. If the coupon codes weren't generated with enough randomness, attackers could pre-compute the codes and steal all the gems!
+For example, the [boot.dev](https://boot.dev/) generates random coupon codes from time to time. If the coupon codes weren't generated with enough randomness, attackers could pre-compute the codes and steal all the gems!
 
 ## Computers are Deterministic
 
@@ -49,7 +49,7 @@ Again, from the comments:
 
 When random bytes are desired, they are obtained by taking the SHA hash of the contents of the "entropy pool". 
 
-To sum up, random data is added to an entropy pool constantly. This randomness is based on hard to predict events within the machine. When a user desires randomness, a [hash](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) is taken of the entropy pool and the result is supplied to the user. When we call any secure randomness function on a Linux machine, we are likely using this driver or one very similar to it.
+To sum up, random data is added to an entropy pool constantly. This randomness is based on hard to predict events within the machine. When a user desires randomness, a [hash](/security/hash-functions/) is taken of the entropy pool and the result is supplied to the user. When we call any secure randomness function on a Linux machine, we are likely using this driver or one very similar to it.
 
 {{< cta1 >}}
 

@@ -12,7 +12,7 @@ Software engineering continues to be one of the most lucrative career paths in t
 
 ## Why Are Engineers Compensated So Well?
 
-At the end of the day, like all professions, it comes down to supply and demand. [Computer science is a "hard" subject](https://qvault.io/computer-science/comprehensive-guide-to-learn-computer-science-online/) just like anything else in STEM, but unlike math or traditional engineering, there are _so many more open jobs_ that need to be filled. Take a look at the following number of jobs reported by the [U.S. Bureau of Labor](https://www.bls.gov/emp/tables/emp-by-detailed-occupation.htm) in 2019:
+At the end of the day, like all professions, it comes down to supply and demand. [Computer science is a "hard" subject](/computer-science/comprehensive-guide-to-learn-computer-science-online/) just like anything else in STEM, but unlike math or traditional engineering, there are _so many more open jobs_ that need to be filled. Take a look at the following number of jobs reported by the [U.S. Bureau of Labor](https://www.bls.gov/emp/tables/emp-by-detailed-occupation.htm) in 2019:
 
 - Software and web developers, programmers, and testers: **~1,857,000**
 - Mathematicians: **~2,900**
@@ -21,15 +21,15 @@ At the end of the day, like all professions, it comes down to supply and demand.
 - Electrical Engineers: **~193,000**
 - Mechanical Engineers: **~316,300**
 
-Society needs twice as many software developers as it does mathematicians, chemical engineers, civil engineers, electrical engineers, and mechanical engineers _combined_. For this reason, [learning to code](https://qvault.io/) is a valuable skill that will ensure you're a highly compensated member of society for the foreseeable future.
+Society needs twice as many software developers as it does mathematicians, chemical engineers, civil engineers, electrical engineers, and mechanical engineers _combined_. For this reason, [learning to code](https://boot.dev/) is a valuable skill that will ensure you're a highly compensated member of society for the foreseeable future.
 
-Some of the most successful software developers didn't even take a traditional career path, and that's what we find most exciting about this career's prospects for the future. You can break into the development industry by simply taking [courses online](https://qvault.io/), attending a real-life [boot camp](https://qvault.io/jobs/is-coding-bootcamp-worth-it/), or getting a degree from the university.
+Some of the most successful software developers didn't even take a traditional career path, and that's what we find most exciting about this career's prospects for the future. You can break into the development industry by simply taking [courses online](https://boot.dev/), attending a real-life [boot camp](/jobs/is-coding-bootcamp-worth-it/), or getting a degree from the university.
 
 {{< cta1 >}}
 
 ## How much do web developers make?
 
-Salary varies based on several factors, such as company location, job title, years of work experience, [education level](https://qvault.io/2020/12/02/difference-between-certificate-or-degree-in-2021/), and the specific type of technologies used, which primarily includes the coding language of the development team.
+Salary varies based on several factors, such as company location, job title, years of work experience, [education level](/computer-science/compsci-certificate-vs-degree/), and the specific type of technologies used, which primarily includes the coding language of the development team.
 
 Let's take a look at the [Stack Overflow 2020 survey](https://insights.stackoverflow.com/survey/2020#overview) to see which languages are the highest paying, and which you should learn. Stack Overflow thrives as a community hub and resources for programmers, so data that they glean forms a fairly representative picture of what software developers actually make in the real world.
 
@@ -43,9 +43,9 @@ And globally:
 
 As it happens, we have several great Go courses to jumpstart your career:
 
-- [Go Mastery](https://qvault.io/go-mastery-course/)
-- [Big-O Algorithms (Go)](https://qvault.io/big-o-algorithms-course/)
-- [Practical Cryptography (Go)](https://qvault.io/practical-cryptography-course/)
+- [Go Mastery](https://boot.dev/go-mastery-course/)
+- [Big-O Algorithms (Go)](https://boot.dev/big-o-algorithms-course/)
+- [Practical Cryptography (Go)](https://boot.dev/practical-cryptography-course/)
 
 ## Is It Best to Specialize in One Language?
 
@@ -67,11 +67,11 @@ Upper management positions in the software engineering field earn impressive ann
 
 Another one of the most attractive aspects of software development as a career is that technology, innovation, and entrepreneurship go hand-in-hand. It's common for software developers to start their careers working for big tech, only to move on to found their own companies after learning the business. Even the meekest of companies, founded in garages and rented homes (e.g., Apple, Microsoft, and Facebook), have the potential to grow into multi-national multi-billion dollar corporations.
 
-It's often the case that [software engineers who've studied computer science tend to make more](https://qvault.io/computer-science/computer-science-vs-software-engineering/) and have an easier time finding promotions within companies. According to [Stack Overflow's data](https://insights.stackoverflow.com/survey/2020#work-salary-by-developer-type-united-states), the top-paying developer job titles in the USA are:
+It's often the case that [software engineers who've studied computer science tend to make more](/computer-science/computer-science-vs-software-engineering/) and have an easier time finding promotions within companies. According to [Stack Overflow's data](https://insights.stackoverflow.com/survey/2020#work-salary-by-developer-type-united-states), the top-paying developer job titles in the USA are:
 
 ![](/img/Screen-Shot-2020-10-31-at-1.37.50-PM-1024x536.png)
 
-Again, it's critical to note that the following figures represent _median_ salaries, not the average salary for every worker globally. Median statistics provide a more balanced look at the range of salaries without outliers affecting the results. If you're interested in a complete breakdown check out our article on the [highest paying CS jobs](https://qvault.io/jobs/highest-paying-computer-science-jobs/).
+Again, it's critical to note that the following figures represent _median_ salaries, not the average salary for every worker globally. Median statistics provide a more balanced look at the range of salaries without outliers affecting the results. If you're interested in a complete breakdown check out our article on the [highest paying CS jobs](/jobs/highest-paying-computer-science-jobs/).
 
 ## Does Location Matter For Developer Salaries?
 
@@ -83,4 +83,4 @@ The average annual salary in San Francisco for a software developer with a simil
 
 By any analysis, a career as a software engineer is one of the most lucrative in the world if job seekers get hired by an American company. Otherwise, salaries drop precipitously due to several factors that include the currency exchange rate and cost of living.
 
-Hopefully this information will help you as you seek to grow your development career! Don't forget to check out [Qvault](https://app.qvault.io/) if you are ready to get started with some [courses](https://app.qvault.io/)!
+Hopefully this information will help you as you seek to grow your development career! Don't forget to check out [boot.dev](https://boot.dev/) if you are ready to get started with some [courses](https://boot.dev/)!

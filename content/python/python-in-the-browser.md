@@ -9,9 +9,9 @@ images:
   - /img/Python-Wasm-Web-Workers.webp
 ---
 
-I've been wanting to expand [Qvault's curriculum](https://qvault.io/), and one of the most requested programming languages has been Python. Because my courses allow students to write and execute code right in the web browser, I decided to look into existing projects that allow a Python interpreter to run in the browser using Web Assembly. I settled on a tool called [Pyodide](https://github.com/iodide-project/pyodide), which does just that.
+I've been wanting to expand [boot.dev's curriculum](https://boot.dev/), and one of the most requested programming languages has been Python. Because my courses allow students to write and execute code right in the web browser, I decided to look into existing projects that allow a Python interpreter to run in the browser using Web Assembly. I settled on a tool called [Pyodide](https://github.com/iodide-project/pyodide), which does just that.
 
-To see it in action, check out the [finished product, a Python playground](https://app.qvault.io/playground/py).
+To see it in action, check out the [finished product, a Python playground](https://boot.dev/playground/py).
 
 ## What is Pyodide?
 
@@ -21,7 +21,7 @@ Pyodide is an open-source project that comprises a Python interpreter that has b
 > 
 > [webassembly.org](https://webassembly.org/)
 
-In other words, normally only JavaScript can run in a browser, but if you can compile your source code to Wasm, then you can run _any_ programming language in the browser. (At the time of writing we run Python, Rust, and Go this way on our [playground](https://app.qvault.io/playground/py) and in our [courses](https://qvault.io/))
+In other words, normally only JavaScript can run in a browser, but if you can compile your source code to Wasm, then you can run _any_ programming language in the browser. (At the time of writing we run Python, Rust, and Go this way on our [playground](https://boot.dev/playground/py) and in our [courses](https://boot.dev/))
 
 > Pyodide brings the Python 3.8 runtime to the browser via WebAssembly, along with the Python scientific stack including NumPy, Pandas, Matplotlib, parts of SciPy, and NetworkX. The `packages` directory lists over 35 packages which are currently available.
 > 
@@ -37,7 +37,7 @@ My Python execution plan is quite similar to the way I run Go code in the browse
 - Write a worker helper that abstracts the details of spinning up, communicating, and terminating workers
 - Implement the helper in the view so that users can execute code and see the code's output
 
-If you want to know how that all works please read [this article about Web Workers and WASM in Go before continuing.](https://qvault.io/2020/09/23/running-go-in-the-browser-with-wasm-and-web-workers/)
+If you want to know how that all works please read [this article about Web Workers and WASM in Go before continuing.](/golang/running-go-in-the-browser-wasm-web-workers/)
 
 If you have finished that first article on Web Workers, then all you will need to understand the difference between our Python and Go logic is the worker file itself:
 

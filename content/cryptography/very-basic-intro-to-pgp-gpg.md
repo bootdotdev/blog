@@ -35,7 +35,7 @@ OpenPGP, the protocol to which PGP and GPG adhere, can really be looked at as a 
 
 - Symmetric encryption
 - Asymmetric encryption
-- Hashing and [Digital Signatures](https://qvault.io/2019/12/12/hmac-and-mac-explained-simply-building-secure-auth-with-jwts/)
+- Hashing and [Digital Signatures](/cryptography/hmac-and-macs-in-jwts/)
 - Compression
 
 ## Putting It All Together
@@ -67,7 +67,7 @@ PGP defines in the official [RFC 4880](https://tools.ietf.org/html/rfc4880) whic
 
 > Implementations MUST implement [TripleDES](https://en.wikipedia.org/wiki/Triple_DES).
 > 
-> Implementations SHOULD implement [AES-128](https://qvault.io/2020/01/02/very-basic-intro-to-aes-256-cipher/) and [CAST5](https://en.wikipedia.org/wiki/CAST-128).
+> Implementations SHOULD implement [AES-128](/cryptography/aes-256-cipher/) and [CAST5](https://en.wikipedia.org/wiki/CAST-128).
 > 
 > Implementations that interoperate with PGP 2.6 or earlier need to support [IDEA](https://en.wikipedia.org/wiki/International_Data_Encryption_Algorithm), as that is the only symmetric cipher those versions use. Implementations MAY implement any other algorithm.
 > 
@@ -81,7 +81,7 @@ PGP defines in the official [RFC 4880](https://tools.ietf.org/html/rfc4880) whic
 > 
 > RSA Encrypt-Only and RSA Sign-Only are deprecated and SHOULD NOT be generated but may be interpreted.
 > 
-> See section 13.8 for notes on [Elliptic Curve](https://qvault.io/2020/07/21/very-basic-intro-to-elliptic-curve-cryptography/), ECDSA, Elgamal Encrypt or Sign, and X9.42.
+> See section 13.8 for notes on [Elliptic Curve](/cryptography/elliptic-curve-cryptography/), ECDSA, Elgamal Encrypt or Sign, and X9.42.
 > 
 > _Implementations MAY implement any other algorithm._
 > 
@@ -89,7 +89,7 @@ PGP defines in the official [RFC 4880](https://tools.ietf.org/html/rfc4880) whic
 
 ### Digital Signature Algorithms:
 
-> Implementations MUST implement [SHA-1](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/). Implementations MAY implement other algorithms. [MD5](https://qvault.io/2020/01/01/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) is deprecated.
+> Implementations MUST implement [SHA-1](/cryptography/how-sha-2-works-step-by-step-sha-256/). Implementations MAY implement other algorithms. [MD5](/security/hash-functions/) is deprecated.
 > 
 > [https://tools.ietf.org/html/rfc4880#section-9.4](https://tools.ietf.org/html/rfc4880#section-9.4)
 

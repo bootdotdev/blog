@@ -23,7 +23,7 @@ func replace(s string) string {
 
 When another developer decides to use this function, they expect that commas will be replaced by colons. As this code clearly shows, however, the commas will be replaced by _spaces_. Because of the incorrect comment, a reader may take the comment at its word and introduce a bug, they may "fix" the comment and leave an existing bug, or they may "fix" the code and introduce a new bug. The point is, a bug is very likely to be produced if the reader isn't careful.
 
-The solution would be to give the function a [more descriptive name](https://qvault.io/clean-code/naming-variables/) and delete the comment entirely.
+The solution would be to give the function a [more descriptive name](/clean-code/naming-variables/) and delete the comment entirely.
 
 ```go
 func replaceCommasWithSpaces(s string) string {

@@ -126,4 +126,4 @@ In the end, both languages offer high-paying opportunities, job stability, and a
 
 **If you're interested in learning Go**, we have designed our Go Mastery courses to take you from any skill level and give you the skills you need to land a Go programming job. The two courses cover the basics, and move on to more complex topics like currying and concurrency, and we even have a Go interview prep course to help you ace the interview.
 
-[Start Learning Go with Qvault here](https://qvault.io/go-mastery-course/)
+[Start Learning Go with boot.dev here](https://boot.dev/go-mastery-course/)

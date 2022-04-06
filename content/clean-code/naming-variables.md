@@ -44,7 +44,7 @@ Special mention: SQL is its own language, and databases have their own naming co
 
 ### 2\. Single letter variables have a place, and that place is rare
 
-Single letter variables make sense in [loops](https://qvault.io/golang/golang-for-loop/), and in scopes that are ~5 lines long. The obvious examples are `i`, `j`, and `k` for nested iterations, and `k` and `v` for keys and values in map or dictionary iterations. That said, again, err on the side of being _descriptive_. If you're iterating over rows and columns in a matrix, it might be a lot easier to keep track of if you make the variables a bit longer.
+Single letter variables make sense in [loops](/golang/golang-for-loop/), and in scopes that are ~5 lines long. The obvious examples are `i`, `j`, and `k` for nested iterations, and `k` and `v` for keys and values in map or dictionary iterations. That said, again, err on the side of being _descriptive_. If you're iterating over rows and columns in a matrix, it might be a lot easier to keep track of if you make the variables a bit longer.
 
 ```py
 for i in range(len(matrix)):
@@ -138,7 +138,7 @@ If you need to do even rudimentary algebra in your code, be sure to document why
 const y = m * x + b
 ```
 
-If the next dev is familiar with this formula for modeling lines, you'll be fine. That said, make it easier on them by using descriptive variables and [adding in a comment](https://qvault.io/clean-code/code-comments/) to explain the math.
+If the next dev is familiar with this formula for modeling lines, you'll be fine. That said, make it easier on them by using descriptive variables and [adding in a comment](/clean-code/code-comments/) to explain the math.
 
 ```go
 // slope-intercept formula

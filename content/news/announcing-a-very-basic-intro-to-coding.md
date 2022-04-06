@@ -7,7 +7,7 @@ categories:
   - "news"
 ---
 
-The [Qvault app](https://app.qvault.io/) - our new gamified learning platform - just launched its first [JavaScript coding course](https://qvault.io/basic-intro-to-coding-course/)! This one is short, sweet, and to the point. We created a thirty-exercise, two-module course that caters to students who have never seen a single line of code before. That's right, this is a code-in-the-browser course for absolute beginners.
+The [boot.dev app](https://boot.dev/) - our new gamified learning platform - just launched its first [JavaScript coding course](https://boot.dev/basic-intro-to-coding-course/)! This one is short, sweet, and to the point. We created a thirty-exercise, two-module course that caters to students who have never seen a single line of code before. That's right, this is a code-in-the-browser course for absolute beginners.
 
 ## What is Taught?
 
@@ -40,4 +40,4 @@ One of the next courses in our pipeline is a direct sequel to "(_Very) Basic Int
 
 ## What If I'm Not a Beginner?
 
-That's great! Qvaults focus is on computer science fundamentals, and many of our courses are for more experiences developers.
+That's great! boot.dev's focus is on computer science fundamentals, and many of our courses are for more experiences developers.

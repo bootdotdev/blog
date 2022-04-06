@@ -8,7 +8,7 @@ images:
   - /img/rust.jpeg
 ---
 
-I've recently been working on getting Rust support in the [Qvault app](https://qvault.io/). In order to write a more engaging course, I want students to be able to write and execute code right in the browser. As I've learned from my previous posts on this topic, the easiest way to sandbox code execution on a server is to _not_ execute code on a server. Enter Web Assembly, stage left.
+I've recently been working on getting Rust support in the [boot.dev app](https://boot.dev/). In order to write a more engaging course, I want students to be able to write and execute code right in the browser. As I've learned from my previous posts on this topic, the easiest way to sandbox code execution on a server is to _not_ execute code on a server. Enter Web Assembly, stage left.
 
 ## Deprecation Disclaimer!
 
@@ -30,7 +30,7 @@ Writing code and shipping it to the server hopefully needs no explanation, it's 
 
 ## Compiling the Code
 
-Qvault's server is written in Go. I have a simple HTTP handler with the following signature:
+Boot.dev's server is written in Go. I have a simple HTTP handler with the following signature:
 
 ```go
 func (cfg config) compileRustHandler(w http.ResponseWriter, r *http.Request)
@@ -398,7 +398,7 @@ w.Write(dat)
 
 ## Frontend - Executing the WASM Bundle
 
-The Rust front-end has a lot of similarities to the Go front end. They both use Web Workers to optimize the user experience of executing potentially expensive code in the browser. If you need to catch-up on how that's done, read up on my [web workers explanation here](https://qvault.io/2020/09/23/running-go-in-the-browser-with-wasm-and-web-workers/).
+The Rust front-end has a lot of similarities to the Go front end. They both use Web Workers to optimize the user experience of executing potentially expensive code in the browser. If you need to catch-up on how that's done, read up on my [web workers explanation here](/golang/running-go-in-the-browser-wasm-web-workers/).
 
 The main difference here comes down to the `rust_worker.js` file. The equivalent of `go_worker.js` from the referenced article:
 

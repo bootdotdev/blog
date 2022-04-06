@@ -9,7 +9,7 @@ images:
   - /img/guy-yelling-and-pulling-hair.jpeg
 ---
 
-With the influx of interest in the [edTech site I've been building](https://qvault.io/), I've been getting a question that I don't think I had previously taken the time to really think through, "Is computer science hard?". Like most things, the answer depends on your perspective and current situation. That said, my guess is that a standard computer science education is easier than most of my readers think.
+With the influx of interest in the [edTech site I've been building](https://boot.dev/), I've been getting a question that I don't think I had previously taken the time to really think through, "Is computer science hard?". Like most things, the answer depends on your perspective and current situation. That said, my guess is that a standard computer science education is easier than most of my readers think.
 
 Take as an analogy two friends, one weighs 300 lbs and is trying desperately to lose weight, the other friend weighs 100 lbs and wants to pack some on. If you were to ask them, "is gaining weight really that hard?" You'd get wildly different answers. There are so many factors including appetite, exercise, metabolic rate, starting weight, work routine, etc. In a similar fashion, some of the biggest factors when determining an answer to the question, "Is computer science hard to learn" would be:
 
@@ -19,7 +19,7 @@ Take as an analogy two friends, one weighs 300 lbs and is trying desperately to 
 - [Do you like to look things up and do research on your own?](#research)
 - [Have you ever written code before?](#code)
 
-The more of those questions you can answer "yes" to, the easier it will be to [learn computer science](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/). That said, no matter your answers, it's always possible for you to start learning, even without any experience if you have the desire. The important question that only you can answer is "do you _want_ to learn computer science?".
+The more of those questions you can answer "yes" to, the easier it will be to [learn computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/). That said, no matter your answers, it's always possible for you to start learning, even without any experience if you have the desire. The important question that only you can answer is "do you _want_ to learn computer science?".
 
 ## Some factors that affect the difficulty of learning computer science
 
@@ -29,7 +29,7 @@ It should be fairly obvious that the more you know about computers in general, t
 
 ### 2\. Have you taken a good amount of math?
 
-Assuming your goal is to [learn computer science, and not just basic software development](https://qvault.io/2020/12/17/computer-science-vs-software-engineering/), the more math you've taken the better off you'll be. For example, if you've never even learned basic algebra it's going to take a minute to catch up. There's a surprising amount of algebra and basic math in even the most simple algorithms. Trigonometry and Calculus help a lot also but aren't as necessary as a solid algebra foundation.
+Assuming your goal is to [learn computer science, and not just basic software development](/computer-science/computer-science-vs-software-engineering/), the more math you've taken the better off you'll be. For example, if you've never even learned basic algebra it's going to take a minute to catch up. There's a surprising amount of algebra and basic math in even the most simple algorithms. Trigonometry and Calculus help a lot also but aren't as necessary as a solid algebra foundation.
 
 ### 3\. Do you like to tinker?
 
@@ -47,7 +47,7 @@ If you're a coder and are just trying to learn computer science (algorithms, dat
 
 ## How long does it take to learn CS?
 
-Again, this depends a lot. If you plan on taking the [university route instead of being self-taught](https://qvault.io/2020/12/02/difference-between-certificate-or-degree-in-2021/), then it will take four years. If instead, you decide to pursue various [online certifications](https://qvault.io/2020/12/15/guide-to-certificate-in-computer-science/) and learn by yourself it can take less time. If you go this route, then you, and not anyone else, are primarily responsible to make sure you cover all the material that you think is most important.
+Again, this depends a lot. If you plan on taking the [university route instead of being self-taught](/computer-science/compsci-certificate-vs-degree/), then it will take four years. If instead, you decide to pursue various [online certifications](/jobs/guide-to-certificate-in-computer-science/) and learn by yourself it can take less time. If you go this route, then you, and not anyone else, are primarily responsible to make sure you cover all the material that you think is most important.
 
 ## What else makes CS a hard subject?
 

@@ -12,7 +12,7 @@ Golang (or Go) and Java offer an interesting comparison because despite their wi
 
 But which one is best for you?
 
-We'll start by breaking down the languages, how they work and how they’re used – like I did with [Golang vs C++](https://qvault.io/golang/go-vs-c-plus-plus-golang/) – to help you decide which language is best suited for you.
+We'll start by breaking down the languages, how they work and how they’re used – like I did with [Golang vs C++](/golang/go-vs-c-plus-plus-golang/) – to help you decide which language is best suited for you.
 
 First we introduce each language's history, and go through their design. Then, we’ll see how stack up against each other in performance, certain applications, popularity, and salary.
 
@@ -146,6 +146,6 @@ Are you more into traditional coding? Do you prefer greater control over the int
 
 However, if you’re more interested in learning the latest technology, or eager to join the industry and learn a language fast that promises a highly-paid career, then Golang is your perfect choice.
 
-We're big fans of Go here at Qvault, which is why we created our [Go Mastery courses](https://qvault.io/go-mastery-course/) to help programmers learn Go and take advantage of all its benefits. Our course takes you from complete beginner, all way through even the more advanced concepts -- and then when you've gained the skills, our [Go Interview Prep](https://qvault.io/go-mastery-course/) course is designed to get you a job programming Go.
+We're big fans of Go here at boot.dev, which is why we created our [Go Mastery courses](https://boot.dev/go-mastery-course/) to help programmers learn Go and take advantage of all its benefits. Our course takes you from complete beginner, all way through even the more advanced concepts -- and then when you've gained the skills, our [Go Interview Prep](https://boot.dev/go-mastery-course/) course is designed to get you a job programming Go.
 
 But no matter which language you choose, both Go and Java are highly respected, extremely popular, and are well worth learning.

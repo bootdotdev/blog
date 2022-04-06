@@ -8,7 +8,7 @@ images:
   - /img/learning-computer-science-online.webp
 ---
 
-Be careful deciding the best way to learn to code, as not all paths are equally effective. Self-taught developers and [bootcamp graduates often struggle](https://qvault.io/jobs/getting-a-job-after-coding-bootcamp-is-hard/) a lot to find their first coding job. In my experience, it's much easier to get your foot in the door when you spend the time learning the CS basics that so many "crash courses" skip over when trying to get students to dive directly into the deep end of application code.
+Be careful deciding the best way to learn to code, as not all paths are equally effective. Self-taught developers and [bootcamp graduates often struggle](/jobs/getting-a-job-after-coding-bootcamp-is-hard/) a lot to find their first coding job. In my experience, it's much easier to get your foot in the door when you spend the time learning the CS basics that so many "crash courses" skip over when trying to get students to dive directly into the deep end of application code.
 
 Skipping CS basics and starting with web servers is like skipping biology 101 to take a three-week "seminar" in cranial surgery. That said, there is also a problem with students spending 4+ years and thousands of dollars when the same computer science education can be acquired online for a fraction of the investment.
 
@@ -18,21 +18,21 @@ Learning computer science is an inexpensive and effective way to start your codi
 
 There are several main topics studied by computer science students in universities around the world. We will consider some of these topics as "mandatory" and others as "elective" or "optional". Take a look at the list below to get an idea. You should study these topics in the order given.
 
-Also, before diving into all the various requirements, I'd like to point out that I recently launched [Qvault - a resource designed to teach computer science through coding exercises](https://qvault.io/). If you're interested in a simple hands-on approach be sure to take a look at that, it's even free to audit.
+Also, before diving into all the various requirements, I'd like to point out that I recently launched [Boot.dev - a resource designed to teach computer science through coding exercises](https://boot.dev/). If you're interested in a simple hands-on approach be sure to take a look at that, it's even free to audit.
 
 ### Study These Computer Science Topics - Required
 
-| Subjects                                                                                                                                                                                        | Rationale                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [Coding](#coding)                                                                                                                                                                               | You need to learn to code to put computer science concepts into practice                                                |
-| [Computer Architecture and Hardware](#Computer-Architecture-and-Hardware)                                                                                                                       | If you don't understand the physical machines your code runs on, you're at a disadvantage.                              |
-| [Algorithms and Data Structures](#Algorithms-and-Data-Structures)                                                                                                                               | Arguably the most practical application of CS to most day jobs, learn to write fast code.                               |
-| [CS Math](#CS-Math)                                                                                                                                                                             | I'd rather teach a mathematician to code than teach a coder math.                                                       |
-| [Databases](#Databases)                                                                                                                                                                         | Very few applications get away without a data store, you need to know how to use them.                                  |
-| [Web Deve](https://qvault.io/wp-admin/post.php?post=84493&action=edit#Web-Development)[l](#Web-Development)[opment](https://qvault.io/wp-admin/post.php?post=84493&action=edit#Web-Development) | Most jobs in the industry are involved with the web, you need to learn the tools.                                       |
-| [Graphics Programming](#graphics)                                                                                                                                                               | Almost all users interact with our software graphically, so understanding how that works is incredibly important.       |
-| [Functional Programming](#Functional-Programming)                                                                                                                                               | Functional programming is useful for learning important concepts like recursion and is growing as a practical paradigm. |
-| [Computational Theory](#Computational-Theory)                                                                                                                                                   | You've gotta learn about the limits to what computers can do theoretically, even if we assume the best hardware.        |
+| Subjects                                                                                                                                                                                                | Rationale                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [Coding](#coding)                                                                                                                                                                                       | You need to learn to code to put computer science concepts into practice                                                |
+| [Computer Architecture and Hardware](#Computer-Architecture-and-Hardware)                                                                                                                               | If you don't understand the physical machines your code runs on, you're at a disadvantage.                              |
+| [Algorithms and Data Structures](#Algorithms-and-Data-Structures)                                                                                                                                       | Arguably the most practical application of CS to most day jobs, learn to write fast code.                               |
+| [CS Math](#CS-Math)                                                                                                                                                                                     | I'd rather teach a mathematician to code than teach a coder math.                                                       |
+| [Databases](#Databases)                                                                                                                                                                                 | Very few applications get away without a data store, you need to know how to use them.                                  |
+| [Web Deve](https://blog.boot.dev/wp-admin/post.php?post=84493&action=edit#Web-Development)[l](#Web-Development)[opment](https://blog.boot.dev/wp-admin/post.php?post=84493&action=edit#Web-Development) | Most jobs in the industry are involved with the web, you need to learn the tools.                                       |
+| [Graphics Programming](#graphics)                                                                                                                                                                       | Almost all users interact with our software graphically, so understanding how that works is incredibly important.       |
+| [Functional Programming](#Functional-Programming)                                                                                                                                                       | Functional programming is useful for learning important concepts like recursion and is growing as a practical paradigm. |
+| [Computational Theory](#Computational-Theory)                                                                                                                                                           | You've gotta learn about the limits to what computers can do theoretically, even if we assume the best hardware.        |
 
 ### Optional - Choose at least 2
 
@@ -52,9 +52,9 @@ These topics cover almost everything that a typical CS student would learn at a 
 
 ## Feeling Overwhelmed? Don't Be.
 
-A typical computer science undergraduate takes [4 years to complete their degree](https://qvault.io/2020/12/02/difference-between-certificate-or-degree-in-2021/). Hopefully, this isn't news to you, that's just how college works. Have hope! If you're teaching yourself, you can cut out the fat and speed up the process. If you follow these tips, you'll likely be able to learn the equivalent of a CS major in less than two years, and should be able to get an internship or a first job after just 3-6 months, depending on how much time you're able to practice and study daily.
+A typical computer science undergraduate takes [4 years to complete their degree](/computer-science/compsci-certificate-vs-degree/). Hopefully, this isn't news to you, that's just how college works. Have hope! If you're teaching yourself, you can cut out the fat and speed up the process. If you follow these tips, you'll likely be able to learn the equivalent of a CS major in less than two years, and should be able to get an internship or a first job after just 3-6 months, depending on how much time you're able to practice and study daily.
 
-Keep in mind, getting a job usually requires more than just knowing your stuff. Getting [certificates](https://qvault.io/2020/12/02/difference-between-certificate-or-degree-in-2021/) and completing real projects along the way gives you something concrete to put on your resume that will fill in for the missing CS degree.
+Keep in mind, getting a job usually requires more than just knowing your stuff. Getting [certificates](/computer-science/compsci-certificate-vs-degree/) and completing real projects along the way gives you something concrete to put on your resume that will fill in for the missing CS degree.
 
 ### 1\. Watch Lectures on YouTube, not Tutorials
 
@@ -62,11 +62,11 @@ Tutorials and courses should involve coding, and I'll recommend some resources f
 
 ### 2\. Get Involved in Dev Communities
 
-Do you browse Reddit, Twitter, or Facebook in your free time? Make a small change to your online content consumption and start reading about technology-related content instead, or in addition to what you already consume. Check out this [list of communities](https://qvault.io/2020/11/12/top-12-best-communities-for-learning-to-code/) to make yourself a part of.
+Do you browse Reddit, Twitter, or Facebook in your free time? Make a small change to your online content consumption and start reading about technology-related content instead, or in addition to what you already consume. Check out this [list of communities](/misc/top-12-best-communities-for-learning-to-code/) to make yourself a part of.
 
 ### 3\. Interview and Get a Job Early (within the first year)
 
-You are teaching yourself online, and the best way to catapult your education is to get an internship or entry-level job _as soon as you are able to_. Depending on the [kind of CS job](https://qvault.io/2020/12/09/highest-paying-computer-science-jobs/) you're interested in, you can start earlier or later, as some require more or less experience.
+You are teaching yourself online, and the best way to catapult your education is to get an internship or entry-level job _as soon as you are able to_. Depending on the [kind of CS job](/jobs/highest-paying-computer-science-jobs/) you're interested in, you can start earlier or later, as some require more or less experience.
 
 ## Why Learn Computer Science at All?
 
@@ -90,7 +90,7 @@ Coding can be really fun and has a low barrier to entry. The goal here is to get
 
 #### Resources
 
-- [Qvault's Basic Intro to Coding Courses](https://qvault.io/basic-intro-to-coding-course/)
+- [Bootd.dev's Basic Intro to Coding Courses](https://boot.dev/basic-intro-to-coding-course/)
 - [Edabit JavaScript Challenges](https://edabit.com/challenges/javascript)
 - [A Byte of Python](https://python.swaroopch.com/)
 - [The Python Tutorial](https://docs.python.org/3/tutorial/)
@@ -142,12 +142,10 @@ The study of algorithms and data structures is the bread and butter of computer 
 I'm in complete agreement with the traditional education system that that familiarity with common algorithms and data structures is vital to the success of any developer. Understanding these basic problem-solving skills will also benefit you in any aspect of your career and life.
 
 ![](/img/travelling_salesman_problem.png)
-
 #### Resources
-
-- [Qvault's Big-O Algorithms course](https://qvault.io/big-o-algorithms-course/)
-- [Qvault's Big-O Data Structures course](https://qvault.io/big-o-data-structures-course/)
-- [Qvault's Advanced Algorithms course](https://qvault.io/advanced-algorithms-course/)
+- [Boot.dev's Big-O Algorithms course](https://boot.dev/big-o-algorithms-course/)
+- [Boot.dev's Big-O Data Structures course](https://boot.dev/big-o-data-structures-course/)
+- [Boot.dev's Advanced Algorithms course](https://boot.dev/advanced-algorithms-course/)
 - [Data-Structures & Algorithms with JavaScript](https://github.com/GauravWalia19/Free-Algorithms-Books/blob/master/Library/src/JAVASCRIPT/Data-Structures-%26-Algorithms-with-JavaScript.pdf)
 - [Steven Skiena's Video Lectures](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
 - ["Algorithms" book by Dasgupta](https://freecomputerbooks.com/Algorithms.html)
@@ -221,7 +219,7 @@ Personally, I recommend learning backend APIs using the Go programming language 
 
 #### Resources
 
-- [Go Mastery - For Backend](https://qvault.io/go-mastery-course/)
+- [Go Mastery - For Backend](https://boot.dev/go-mastery-course/)
 - [The Odin Project - Comprehensive Web Tutorials](https://www.theodinproject.com/)
 
 #### Goals
@@ -258,7 +256,7 @@ Functional programming concepts and styles are especially important in web devel
 
 #### Resources
 
-- Qvault's [Intro to Functional Programming course](https://qvault.io/intro-to-functional-programming/)
+- Boot.dev's [Intro to Functional Programming course](https://boot.dev/intro-to-functional-programming/)
 - eBook: [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/book.pdf)
 
 #### Goals
@@ -300,7 +298,7 @@ Cryptography underpins the security of all digital applications. Valuable engine
 
 #### Resources
 
-- Qvault's [Practical Cryptography course](https://qvault.io/practical-cryptography-course/)
+- Boot.dev's [Practical Cryptography course](https://boot.dev/practical-cryptography-course/)
 - Christof Paar's [Youtube Lectures](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
 
 #### Goals
@@ -369,7 +367,7 @@ Distributed systems is the study of programs that can efficiently take advantage
 
 #### Resources
 
-- Qvault's [Go Mastery course](https://qvault.io/go-mastery-course/)
+- Boot.dev's [Go Mastery course](https://boot.dev/go-mastery-course/)
 - [Dixie State's Chord Assignment](http://cit.dixie.edu/cs/3410/asst_chord.php)
 - [Google's BigTable Research Paper - Read and take notes!](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf)
 - [Understanding Paxos](https://understandingpaxos.wordpress.com/)
@@ -413,7 +411,7 @@ While AI and ML used to be fairly niche fields, they are becoming more and more 
 #### Goals
 
 - Classical AI search algorithms: uninformed search, informed search, local search
-- Important AI concepts like [heuristics](https://qvault.io/2020/11/30/examples-of-heuristics-in-computer-science/) and greedy algorithms
+- Important AI concepts like [heuristics](/computer-science/examples-of-heuristics-in-computer-science/) and greedy algorithms
 - Propositional and first-order logic
 - Probability and probabilistic reasoning
 - Machine-learning basics and neural networks using a Keras

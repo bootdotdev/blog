@@ -49,7 +49,7 @@ fn main() {
 }
 ```
 
-We **are** **allowed** to declare a new [variable with the same name](https://qvault.io/clean-code/naming-variables/), even all in the same scope. This doesn't mutate "_my\_num_", it creates a new variable with a new spot in memory. The name "_my\_num_" now refers to the new variable, and the old variable is no longer accessible by its name.
+We **are** **allowed** to declare a new [variable with the same name](/clean-code/naming-variables/), even all in the same scope. This doesn't mutate "_my\_num_", it creates a new variable with a new spot in memory. The name "_my\_num_" now refers to the new variable, and the old variable is no longer accessible by its name.
 
 Variable shadowing also works in an inner scope. In the outer scope it is in a way the original variable remains "unshadowed":
 

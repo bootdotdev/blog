@@ -10,7 +10,7 @@ images:
   - /img/6-dice-game-1024x350.webp
 ---
 
-Randomness is a hard problem for computers. Most functions that generate randomness are **not** considered [cryptographically](https://qvault.io/cryptography/what-is-cryptography/) secure. What this means is that it's possible for attackers to take a good guess at what number a non-secure randomness generator generated. In the case of guessing a randomly generated private key, for example, this can be catastrophic.
+Randomness is a hard problem for computers. Most functions that generate randomness are **not** considered [cryptographically](/cryptography/what-is-cryptography/) secure. What this means is that it's possible for attackers to take a good guess at what number a non-secure randomness generator generated. In the case of guessing a randomly generated private key, for example, this can be catastrophic.
 
 ## How to generate insecure random numbers
 
@@ -34,7 +34,7 @@ const betweenOneAndTen = Math.floor(Math.random() * (max - min)) + min + 1
 
 ## Why is Math.Random insecure?
 
-Many non-secure randomness, or [entropy](https://qvault.io/cryptography/what-is-entropy-in-cryptography/), generators like `Math.Random()` do something similar to the following:
+Many non-secure randomness, or [entropy](/cryptography/what-is-entropy-in-cryptography/), generators like `Math.Random()` do something similar to the following:
 
 ```
 function getRandom(timestamp, maxNumber){
@@ -63,7 +63,7 @@ However, weak pseudo-randomness can be **catastrophically dangerous** if one is 
 
 Node's built-in `[crypto.randomBytes()](https://nodejs.org/api/crypto.html#crypto_crypto_randombytes_size_callback)` function is a cryptographically secure random number generator that is based on [openssl](https://wiki.openssl.org/index.php/Random_Numbers#Initialization). Depending on the operating system of the user, `randomBytes` will use `/dev/urandom` (Unix) or \`CryptoGenRandom (Windows).
 
-While still pseudo-random sources, the important thing is that they are _not guessable_ by an attacker. In other words, after using `crypto.randomBytes()` to generate a secret key for [AES-256 encryption](https://qvault.io/cryptography/aes-256-cipher/), no one will be able to guess the key.
+While still pseudo-random sources, the important thing is that they are _not guessable_ by an attacker. In other words, after using `crypto.randomBytes()` to generate a secret key for [AES-256 encryption](/cryptography/aes-256-cipher/), no one will be able to guess the key.
 
 ## Should I always use crypto.randomBytes()?
 

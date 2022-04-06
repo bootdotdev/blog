@@ -12,7 +12,7 @@ JavaScript (JS), once regarded as simply a “glue language”, has gone on to b
 
 First appearing in 1995, JavaScript is a high-level, dynamically typed, multiparadigm scripting language that also functions as an object-oriented programming language.
 
-JavaScript was invented as a way to hold together and automate different components of a web page [while blending seamlessly with HTML and CSS](https://qvault.io/misc/html-css-javascript/). In essence, HTML added content, CSS edited the appearance, and JavaScript glued it all together and added dynamic behavior.
+JavaScript was invented as a way to hold together and automate different components of a web page [while blending seamlessly with HTML and CSS](/misc/html-css-javascript/). In essence, HTML added content, CSS edited the appearance, and JavaScript glued it all together and added dynamic behavior.
 
 On the other hand, we also have C#, pronounced C Sharp, which isn’t _just_ a programming language, but rather a part of a larger ecosystem of Windows OS, Visual Studio, and Microsoft that requires the .NET runtime to work.
 
@@ -130,6 +130,6 @@ Regardless of which suits your preferences, both jobs bring well-paid, creative,
 
 **For taking action:**
 
-**For beginners**: we recommend our [Intro to Coding with JavaScript courses](https://qvault.io/basic-intro-to-coding-javascript-course/) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
+**For beginners**: we recommend our [Intro to Coding with JavaScript courses](https://boot.dev/basic-intro-to-coding-javascript-course/) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
 
-**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://qvault.io/intro-to-functional-programming/), which mixes JS with PureScript. We also recommend our [Go Mastery courses](https://qvault.io/go-mastery-course/) for anyone looking to learn Golang, as well as our [Python Fundamentals course](https://qvault.io/learn-python-course/).
+**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://boot.dev/intro-to-functional-programming/), which mixes JS with PureScript. We also recommend our [Go Mastery courses](https://boot.dev/go-mastery-course/) for anyone looking to learn Golang, as well as our [Python Fundamentals course](https://boot.dev/learn-python-course/).

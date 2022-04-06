@@ -8,7 +8,7 @@ images:
   - /img/pexels-andrea-piacquadio-3752834-scaled.webp
 ---
 
-If you’re reading this article, you’re well aware of the great benefits that come with a programming job - [high salaries for programmers](https://qvault.io/2020/12/09/highest-paying-computer-science-jobs/), an [expanding job market](https://www.daxx.com/blog/development-trends/software-developer-shortage-us), [exciting opportunities](https://reva.edu.in/blog/exciting-career-opportunities-in-computer-science/). 
+If you’re reading this article, you’re well aware of the great benefits that come with a programming job - [high salaries for programmers](/jobs/highest-paying-computer-science-jobs/), an [expanding job market](https://www.daxx.com/blog/development-trends/software-developer-shortage-us), [exciting opportunities](https://reva.edu.in/blog/exciting-career-opportunities-in-computer-science/). 
 
 You’re also aware that employers are increasingly desperate for seasoned, qualified, talented programmers. [DAXX blog](https://www.daxx.com/blog/development-trends/software-developer-shortage-us) writes that in 2020, while there are 1.4 million unfulfilled jobs, there will be only 400,000 computer science graduates. Of course more hobby coders or bootcamp programmers might fill in some of those ranks, but overall, the demand for the jobs far outweighs the supply of programmers.
 
@@ -20,7 +20,7 @@ If you believe you have the necessary skills but you still can’t get a program
 
 ## 1\. You haven’t mastered the fundamentals of computer science.
 
-Many people who learn coding at a bootcamp, instead of focusing on [learning computer science online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/), skip steps, and don’t take the time to do it properly. 
+Many people who learn coding at a bootcamp, instead of focusing on [learning computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/), skip steps, and don’t take the time to do it properly. 
 
 These bootcamps are designed to get you a very specific set of skills in a certain range of time. What they’re not designed to do is teach you the underpinnings of computer science - algorithms, computer architecture and hardware, data structures, databases, and computational theory to name a few. 
 
