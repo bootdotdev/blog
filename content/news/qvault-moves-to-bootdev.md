@@ -4,6 +4,8 @@ author: Lane Wagner
 date: "2022-04-07"
 categories: 
   - "news"
+images:
+  - /img/qvaultmovestoboot.webp
 ---
 
 We’ll keep this announcement short – we’ve moved Qvault.io to [Boot.dev](https://boot.dev)! As you know, we’ve been hard at work bootstrapping on online computer science bootcamp. Qvault (now Boot.dev) is a simple CS curriculum where our students build real projects using modern programming languages and technologies.
