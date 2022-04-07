@@ -874,10 +874,6 @@ Ensure the default browser behavior of the `hidden` attribute.
     display: block;
   }
 
-  .sm\:flex {
-    display: flex;
-  }
-
   .sm\:hidden {
     display: none;
   }
