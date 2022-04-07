@@ -8,7 +8,7 @@ images:
 
 We’ve had many readers ask how they can help educate others by sharing Boot.dev's mission, and now we have a simple solution! If you have a social following, blog, or Youtube channel you can earn by helping others find their path to a CS education!
 
-If you’re interested in promoting computer science education and don’t mind making some money as well then become a [Boot.dev affiliate partner by creating an account on Rewardful](https://qvault.getrewardful.com/). The idea is simple, you’ll get a personal referral link. Any time someone that you referred upgrades to a [patron account](https://boot.dev/pricing), you’re paid 35% of the sale directly via PayPal.
+If you’re interested in promoting computer science education and don’t mind making some money as well then become a [Boot.dev affiliate partner by creating an account on Rewardful](https://bootdev.getrewardful.com/signup). The idea is simple, you’ll get a personal referral link. Any time someone that you referred upgrades to a [patron account](https://boot.dev/pricing), you’re paid 35% of the sale directly via PayPal.
 
 ## Earn 35% on every sale.
 
@@ -16,7 +16,7 @@ We offer some of the most competitive affiliate rates because we’ve put so muc
 
 ## Get up and running in seconds.
 
-Getting started is as easy as creating a [Rewardful account using our link](https://qvault.getrewardful.com/). They’ll provide you a link to Boot.dev that you can share and you’re ready to go! There are no catches, no hidden fees, and no subscription costs. Give it a shot, at worst you’ll lose 5 minutes of your time.
+Getting started is as easy as creating a [Rewardful account using our link](https://bootdev.getrewardful.com/). They’ll provide you a link to Boot.dev that you can share and you’re ready to go! There are no catches, no hidden fees, and no subscription costs. Give it a shot, at worst you’ll lose 5 minutes of your time.
 
 Keep in mind you can link to any page on boot.dev or blog.boot.dev. As long as the `?via=your_name` tag is appended to the end of the URL you’ll be rewarded for the visitors.
 
