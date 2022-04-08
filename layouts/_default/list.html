@@ -10,7 +10,7 @@
 
 <ul>
   {{ $paginator := .Paginate (where .Paginator.Pages "Section" "!=" "") }}
-  {{ range $paginator.Pages }}
+  {{ range $index, $val := $paginator.Pages }}
   <li>
     <div class="mb-10">
       <a href="{{ .RelPermalink }}">
@@ -18,7 +18,12 @@
           <h2 class="text-3xl font-bold text-white mb-2">{{ .Title | markdownify }}</h2>
           <h3 class="text-sm text-gray-300 mb-8">{{ .Date.Format "Jan 02, 2006" }} by {{ .Params.author }}</h3>
           {{ if .Params.images }}
-          <img loading="lazy" class="rounded mb-4" src="{{ index (.Params.images) 0 }}" />
+          <img
+          {{ if gt $index 1 }}
+            loading="lazy"
+          {{ end }}
+          class="rounded mb-4" src="{{ index (.Params.images) 0 }}" />
+
           {{ end }}
         </div>
       </a>
