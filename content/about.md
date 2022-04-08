@@ -3,7 +3,7 @@ title: "About Boot.dev - Our Method"
 author: Lane Wagner
 date: "2020-02-06"
 images:
-  - /img/codebreaker-replica-ft.webp
+  - /img/800/codebreaker-replica-ft.webp
 ---
 
 At [Boot.dev](https://boot.dev), we believe humans enjoy learning. We’re naturally curious creatures. And this means it should be much, much easier to become a software developer. 

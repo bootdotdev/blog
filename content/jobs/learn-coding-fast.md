@@ -5,7 +5,7 @@ date: "2021-02-22"
 categories: 
   - "jobs"
 images:
-  - /img/fast-motorcycle.webp
+  - /img/800/fast-motorcycle.webp
 ---
 
 The journey to becoming a gainfully employed software engineer can feel long. The good news is, you can learn smarter not harder. Apply these eight tricks and you'll be learning to program a lot faster than the average bear.
@@ -23,7 +23,7 @@ The journey to becoming a gainfully employed software engineer can feel long. Th
 
 ## 1\. There are no shortcuts. Learn the basics first
 
-![](/img/shortcut-maze-300x183.jpg)
+![](/img/800/shortcut-maze-300x183.jpg)
 
 There are so many coding boot camps, crash courses, and YouTube videos making huge promises that they can teach you how to code and land you a job in just a few short weeks.
 

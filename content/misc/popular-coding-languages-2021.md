@@ -5,7 +5,7 @@ date: "2021-01-04"
 categories: 
   - "misc"
 images:
-  - /img/pexels-thisisengineering-3861961-1-scaled.jpeg
+  - /img/800/pexels-thisisengineering-3861961-1-scaled.jpeg
 ---
 
 ## And more importantly, how to choose the most popular coding language you should learn.
@@ -38,7 +38,7 @@ No matter what list you check, Python is almost always listed as the most popula
 
 It’s not a fast-grower like Rust, it’s not an old institution like JS. But it is an unstoppable juggernaut of a language. It’s been around for 3 decades now and it’s experienced steady growth in use and popularity long enough to make it top just about anyone’s chart.
 
-![python vs java](/img/python-vs-java-popularity-1024x283.png)
+![python vs java](/img/800/python-vs-java-popularity-1024x283.png)
 
 [Source](https://pypl.github.io/PYPL.html)
 

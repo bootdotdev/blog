@@ -5,7 +5,7 @@ date: "2020-11-18"
 categories: 
   - "computer-science"
 images:
-  - /img/learning-computer-science-online.webp
+  - /img/800/learning-computer-science-online.webp
 ---
 
 Be careful deciding the best way to learn to code, as not all paths are equally effective. Self-taught developers and [bootcamp graduates often struggle](/jobs/getting-a-job-after-coding-bootcamp-is-hard/) a lot to find their first coding job. In my experience, it's much easier to get your foot in the door when you spend the time learning the CS basics that so many "crash courses" skip over when trying to get students to dive directly into the deep end of application code.
@@ -86,7 +86,7 @@ We've recently had an influx of thousands of self-taught developers or Bootcamp 
 
 Coding can be really fun and has a low barrier to entry. The goal here is to get a solid grasp of **one or two** programming languages. I recommend JavaScript, or Python as some of the most well-suited first languages for new developers. The goal here is simply to start writing code and have fun with it! There are tons of projects and courses out there that are great for absolute beginners.
 
-![Coding](/img/Coding-body-image-.jpg)
+![Coding](/img/800/Coding-body-image-.jpg)
 
 #### Resources
 
@@ -112,7 +112,7 @@ Computer architecture is arguably the most overlooked subject among the bootcamp
 
 Computers are built of various components (hardware) including the CPU, memory, busses, clocks, and the peripheral devices you are familiar with like the mouse and keyboard. All of these components must communicate with each other and provide a necessary service to the user, but as software developers, the most important components for us to understand are memory (RAM) and the processor (CPU).
 
-![Computer Architecture and Hardware](/img/Blog-Post-Header.png)
+![Computer Architecture and Hardware](/img/800/Blog-Post-Header.png)
 
 For example, how does a processor know to take the following expression written in JavaScript, `let sum = 5 + 3` and compute the result of 5 plus 3?
 
@@ -141,7 +141,7 @@ The study of algorithms and data structures is the bread and butter of computer 
 
 I'm in complete agreement with the traditional education system that that familiarity with common algorithms and data structures is vital to the success of any developer. Understanding these basic problem-solving skills will also benefit you in any aspect of your career and life.
 
-![](/img/travelling_salesman_problem.png)
+![](/img/800/travelling_salesman_problem.png)
 #### Resources
 - [Boot.dev's Big-O Algorithms course](https://boot.dev/big-o-algorithms-course/)
 - [Boot.dev's Big-O Data Structures course](https://boot.dev/big-o-data-structures-course/)
@@ -194,7 +194,7 @@ Having a solid understanding of the math that makes computer science work will g
 
 Database knowledge and theory is one of the most practically applicable topics to most engineering jobs. I've never worked at a company where we didn't have multiple databases, and the most successful engineers at the company wee usually the ones who knew a little something about how to use them.
 
-![](/img/databases.jpg)
+![](/img/800/databases.jpg)
 
 #### Resources
 
@@ -233,7 +233,7 @@ Personally, I recommend learning backend APIs using the Go programming language 
 
 From gaming and video editing software to web browsers, graphics programming is a high-performance, rapidly evolving subject within the industry. You'll want to start with a fairly low-level tool like OpenGL so you can understand what most frameworks like [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US/) are built upon. Once you've built a few small projects, I'd recommend using a higher-level framework like one of the ones mentioned above, or even a browser-based tool like WebGL to build a simple game.
 
-![](/img/video-game-graphics.jpg)
+![](/img/800/video-game-graphics.jpg)
 
 Resources
 
@@ -294,7 +294,7 @@ Computational theory, apart from pure math, is one of the most "pure" computer s
 
 Cryptography underpins the security of all digital applications. Valuable engineers need an understanding of not only the best security practices but _how_ and _why_ those best practices work. Cryptography can be a math-heavy subject depending on how deep you dive into the material, so it's probably a good idea to brush up on your math basics as you work through crypto material.
 
-![Cryptography](/img/1_zSPtMkp70YN9JDhFRaHHXA.jpeg)
+![Cryptography](/img/800/1_zSPtMkp70YN9JDhFRaHHXA.jpeg)
 
 #### Resources
 
@@ -314,7 +314,7 @@ Cryptography underpins the security of all digital applications. Valuable engine
 
 Every once in awhile, something goes wrong with a companies server connections, and only the most experience developers are able to deal with the outage. Those developers are more valuable resources, and as a result command higher salaries. An understanding of networking basics is a huge boon to your engineering career.
 
-![Networking](/img/4-Types-of-Business-Networking-Opportunities-to-Consider.jpg)
+![Networking](/img/800/4-Types-of-Business-Networking-Opportunities-to-Consider.jpg)
 
 #### Resources
 
@@ -339,7 +339,7 @@ Every once in awhile, something goes wrong with a companies server connections, 
 
 While many popular programming languages like JavaScript and Python are interpreted, many are compiled directly to machine code.
 
-![Compilers](/img/compileProcess.jpg)
+![Compilers](/img/800/compileProcess.jpg)
 
 #### Resources
 
@@ -363,7 +363,7 @@ The internet has become so unbelievably huge, that very few popular services onl
 
 Distributed systems is the study of programs that can efficiently take advantage of hardware wired together over a network, and it's become more relevant all the time.
 
-![Distributed Systems](/img/1_tYxWuyksovxA1Thu8PggPQ.jpeg)
+![Distributed Systems](/img/800/1_tYxWuyksovxA1Thu8PggPQ.jpeg)
 
 #### Resources
 
@@ -382,7 +382,7 @@ Distributed systems is the study of programs that can efficiently take advantage
 
 It's hard to write good software without understanding the software that your software runs on. Just like an understanding of CPU architecture, a good knowledge of how operating systems work will make you a valuable asset to any organization. Most developers only have a cursory knowledge of how Linux operates, and if you deploy on Linux like most of the world, your expertise will be well-rewarded.
 
-![Operating Systems](/img/img_5b68e80f77e33.png)
+![Operating Systems](/img/800/img_5b68e80f77e33.png)
 
 #### Resources
 

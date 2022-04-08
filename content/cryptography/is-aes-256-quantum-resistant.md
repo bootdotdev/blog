@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/Copy-of-Pure-Functions-in-Go.webp
+  - /img/800/Copy-of-Pure-Functions-in-Go.webp
 ---
 
 With quantum computers getting more powerful each year, many worry about the safety of modern encryption standards. As quantum computers improve in performance and the number of [qubits](https://en.wikipedia.org/wiki/Qubit) used for calculations increases, current cryptosystems are under threat. [AES-256](/cryptography/aes-256-cipher/) is one of the most powerful symmetric ciphers, but will it remain secure in a post-quantum world?
@@ -17,7 +17,7 @@ Many asymmetric encryption algorithms have been mathematically proven to be brok
 
 > Given an integer **N**, find its prime factors.
 
-![number flow](/img/1_2wIjQH7NdYAmMI9nQa8BJw.png)
+![number flow](/img/800/1_2wIjQH7NdYAmMI9nQa8BJw.png)
 
 Because algorithms like RSA rely heavily on the fact that normal computers can't find prime factors quickly, they have remained secure for years. With quantum computers breaking that assumption, then it may be time to find new standards.
 
@@ -33,7 +33,7 @@ The following are examples of encryption that Shor's algorithm can break:
 
 Symmetric encryption, or more specifically AES-256, is believed to be quantum-resistant. That means that [quantum computers are not expected](https://en.wikipedia.org/wiki/Post-quantum_cryptography#Symmetric_key_quantum_resistance) to be able to reduce the attack time enough to be effective if the key sizes are large enough.
 
-![symmetric kittens](/img/mddjVaf-1024x977.jpg)
+![symmetric kittens](/img/800/mddjVaf-1024x977.jpg)
 
 [Symmetric Cats](https://i.imgur.com/mddjVaf.jpg)
 

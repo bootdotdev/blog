@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/photo-1509822929063-6b6cfc9b42f2.jpeg
+  - /img/800/photo-1509822929063-6b6cfc9b42f2.jpeg
 ---
 
 We all have hundreds of online accounts. Ideally, as many of those accounts as possible have unique passwords. Unique passwords however present a difficult problem.
@@ -19,7 +19,7 @@ Which should be used? A password or passphrase?
 
 ## Passphrases are Better Than Passwords
 
-![password comic](/img/password_strength.png)
+![password comic](/img/800/password_strength.png)
 
 [https://xkcd.com/936/](https://xkcd.com/936/)
 
@@ -41,7 +41,7 @@ If we take the base 2 logarithm of the number of possibilities then we arrive at
 
 The chart below gives a rough idea of how long a given password or passphrase will take to crack based on how many bits of entropy it has and how many guesses per second the attacker can make (which depends on their hardware).
 
-![password chart ](/img/rhdADIZYXJM2FxqNf6UOFqU5ar0VX3fayLFpKspN8uI.png)
+![password chart ](/img/800/rhdADIZYXJM2FxqNf6UOFqU5ar0VX3fayLFpKspN8uI.png)
 
 [entropy chart](https://www.reddit.com/r/dataisbeautiful/comments/322lbk/time_required_to_bruteforce_crack_a_password/)
 

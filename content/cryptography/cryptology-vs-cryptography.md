@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/e2ccd365950e1e853a2c3a4f27d8b92c.jpeg
+  - /img/800/e2ccd365950e1e853a2c3a4f27d8b92c.jpeg
 ---
 
 Many new developers are jumping right into writing code, usually for those fat paychecks, without learning much about the [history of Computer Science](/computer-science/the-history-of-computer-science/). Alan Turing is recognized as the father of Computer Science, though many don't know that his roots were in cryptology and mathematics. It was out of cryptology, cryptography, and mathematics that computer science was born.
@@ -21,7 +21,7 @@ What many computer scientists even these days don't recognize is that [cryptogra
 
 Cryptology is the science of secret messages. _Anything_ that has to do with making or breaking codes falls into cryptology's domain. Cryptology can also be thought of as the study of **encryption and decryption.**
 
-![alan turing](/img/00overlooked-alanturing-3-facebookJumbo-1024x536.jpg)
+![alan turing](/img/800/00overlooked-alanturing-3-facebookJumbo-1024x536.jpg)
 
 Alan Turing
 

@@ -5,7 +5,7 @@ date: "2020-10-05"
 categories: 
   - "misc"
 images:
-  - /img/shame-scaled.jpeg
+  - /img/800/shame-scaled.jpeg
 ---
 
 Higher education had its problems before Covid-19. Now the crippling inefficiencies, backbreaking cost, and lack of alternatives are being forced into the spotlight. We're working on what will eventually grow into the alternative to overpriced universities and ineffective Bootcamps at [boot.dev](https://boot.dev/). In the meantime, let's take a look at education's biggest problems, and how we can solve them.

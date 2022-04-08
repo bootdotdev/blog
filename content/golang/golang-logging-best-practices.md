@@ -6,7 +6,7 @@ categories:
   - "clean-code"
   - "golang"
 images:
-  - /img/photo-1457524461416-8796b6d23efb-e1589473495660.webp
+  - /img/800/photo-1457524461416-8796b6d23efb-e1589473495660.webp
 ---
 
 Let's discuss a few rules of thumb for logging in Go, as well as some features you may not have heard of that can make debugging easier. Best practices for logging in Go are not so obvious and sometimes we need to look closer to see what is the best choice, considering the unique situation of error handling in Go.
@@ -55,7 +55,7 @@ func divide(a, b float64) (float64, error) {
 
 ## #2 - Wrap Errors
 
-![Mummy Wrap Errors](/img/mummy_0.jpg)
+![Mummy Wrap Errors](/img/800/mummy_0.jpg)
 
 Often times out of laziness we simply pass errors up a call chain. For example, let's look at this function that formats hours and minutes into a time message:
 

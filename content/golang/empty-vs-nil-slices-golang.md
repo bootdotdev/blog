@@ -6,7 +6,7 @@ categories:
   - "clean-code"
   - "golang"
 images:
-  - /img/slice.jpeg
+  - /img/800/slice.jpeg
 ---
 
 In Go, we often need to return zero values. Idiomatic Go encourages the use of guard clauses, and [guard clauses](/clean-code/guard-clauses/) necessitate the need to return early. When returning early with an error, by convention all other return values should be zero values. The confusion arises with data types like maps and slices. Should maps and slices be returned as a simple `nil` value, or should an empty but instantiated value be returned?

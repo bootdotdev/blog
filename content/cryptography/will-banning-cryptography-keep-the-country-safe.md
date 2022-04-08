@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/photo-1522251670181-320150ad6dab.jpeg
+  - /img/800/photo-1522251670181-320150ad6dab.jpeg
 ---
 
 Politicians in the United States have been claiming recently that end-to-end encryption is certainly too dangerous to permit. This movement is serious. Congress even [introduced a bill](https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rUwvwv0X.db8/v0) that would remove the protections that we currently have that allow us to legally encrypt information. Lindsey Graham is one such proponent of this restrictive legislation:
@@ -17,7 +17,7 @@ Politicians in the United States have been claiming recently that end-to-end enc
 
 ## What Is End-To-End Encryption?
 
-![squire padlock](/img/photo-1484043937869-a468066a4fbd-1024x683.jpeg)
+![squire padlock](/img/800/photo-1484043937869-a468066a4fbd-1024x683.jpeg)
 
 [James Sutton](https://unsplash.com/photos/FqaybX9ZiOU)
 

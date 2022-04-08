@@ -6,7 +6,7 @@ categories:
   - "clean-code"
   - "golang"
 images:
-  - /img/Go_Lang_Gopher.webp
+  - /img/800/Go_Lang_Gopher.webp
 ---
 
 There are quite a few ways to create new maps and slices in Go, for example, they can both be initialized using the `make()` function, the `new()` function, as literals, or by using the `var` keyword. With so many choices, which option is best? Or perhaps better asked, which one is best in your situation? Let's take a look.

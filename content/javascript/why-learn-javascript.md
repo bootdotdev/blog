@@ -5,7 +5,7 @@ date: "2021-05-25"
 categories: 
   - "javascript"
 images:
-  - /img/pexels-artem-podrez-4492129-scaled.jpeg
+  - /img/800/pexels-artem-podrez-4492129-scaled.jpeg
 ---
 
 “Why learn JavaScript?” I asked my sister when she was in college and starting to pick up the fundamentals of JavaScript. “Isn’t it ancient? Do people still use it?” 

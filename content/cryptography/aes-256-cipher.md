@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/1_Th9nPlIhYveMMsG9RvqQsQ.webp
+  - /img/800/1_Th9nPlIhYveMMsG9RvqQsQ.webp
 ---
 
 AES, or “Advanced Encryption Standard”, is an encryption specification that uses the Rijndael cipher as its symmetric key ciphering algorithm. AES encrypts a message with a private key, and no one but the key holder can decrypt the message. A great example of a good use-case for AES-256 is encrypting all the data on the hard drive of a computer when it's not in use.
@@ -19,7 +19,7 @@ Asymmetric encryption is preferred when you want someone to be able to send you
 
 **Symmetric** encryption is preferred when you are encrypting **only for yourself**.
 
-![symmetric vs asymmetric key systems](/img/1_oe-Kk1FfLPNO5sAAl-4N-g.jpeg)
+![symmetric vs asymmetric key systems](/img/800/1_oe-Kk1FfLPNO5sAAl-4N-g.jpeg)
 
 # AES-256 Secret Key
 
@@ -74,7 +74,7 @@ Message:
 
 5\. In the resulting table, use the [substitution box to change each 2-character byte to its corresponding byte](https://www.researchgate.net/figure/Rijndael-S-box-S-RD_fig7_325428613):
 
-![substitution box table](/img/1_zLuZtQ6nFl0ADElv8lTSyg.png)
+![substitution box table](/img/800/1_zLuZtQ6nFl0ADElv8lTSyg.png)
 
 [Research Gate](https://www.researchgate.net/figure/Rijndael-S-box-S-RD_fig7_325428613)
 
@@ -97,7 +97,7 @@ a5 5a 20 be
 
 7\. Mix Columns. Each column is modulo multiplied by the [Rijndael’s Galois Field](https://www.samiam.org/galois.html). The math involved is outside the scope of this article, so I won’t be including the example output matrix.
 
-![mixcolumns in aes example](/img/1_RIsEo_r50T1595fhc7CKEw-1.png)
+![mixcolumns in aes example](/img/800/1_RIsEo_r50T1595fhc7CKEw-1.png)
 
 [Common lounge](https://www.commonlounge.com/discussion/e32fdd267aaa4240a4464723bc74d0a5)
 

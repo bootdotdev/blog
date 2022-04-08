@@ -5,7 +5,7 @@ date: "2021-11-02"
 categories: 
   - "misc"
 images:
-  - /img/bad-idea.jpeg
+  - /img/800/bad-idea.jpeg
 ---
 
 It's hard finding good product people. That fact is really a tragedy because they are probably the most important part of any product-focused organization. I think there is a misconception in the software industry that product managers have a good sense of "what users want", "what the next feature should be" or "ux design". In reality, I've come to believe that the best product managers aren't good at any of that, _and they know it_.

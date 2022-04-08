@@ -6,14 +6,14 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/They-Who.png
+  - /img/800/They-Who.png
 ---
 
 If you've seen _The Imitation Game_ or studied computer science in school, you have likely heard of [Enigma](https://en.wikipedia.org/wiki/Enigma_machine), [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), or some of the other advances in [cryptography](/cryptography/what-is-cryptography/) that took place during the Second World War. During this time and until the 1970s, governments from around the world had near-total control of all cryptographic systems. It was nearly impossible to [learn about encryption](https://boot.dev/practical-cryptography-course/) without going through a government agency.
 
 One of the major contributing factors to cryptography becoming a discipline within the public domain was Whitfield Diffie and Martin Hellman's invention of public-key cryptography in 1976. This new kind of asymmetric cryptography revolutionized cryptography. It also allowed the public to leverage the technology to the people's advantage for the first time.
 
-![](/img/0052f9ea49249a3d54b3a056888f6d44-1024x512.jpg)
+![](/img/800/0052f9ea49249a3d54b3a056888f6d44-1024x512.jpg)
 
 The Crypto Wars
 
@@ -29,7 +29,7 @@ During the cold war, the USA [classified encryption technology as munitions](htt
 
 Another explicit attempt to sidestep the public's right to privacy was [the clipper chip](https://en.wikipedia.org/wiki/Clipper_chip), which was an attempt by the Clinton administration to get companies to use a specific hardware device for encryption that the government had back-door access to.
 
-![clipper chip ](/img/800px-MYK-78_Clipper_chip_markings.jpg)
+![clipper chip ](/img/800/800px-MYK-78_Clipper_chip_markings.jpg)
 
 Clipper Chip
 
@@ -41,7 +41,7 @@ In 2013 Edward Snowden revealed that the NSA had a secret project called [Bullru
 
 In 2014 James Comey, then FBI director [called for front-door access](https://www.schneier.com/blog/archives/2014/10/more_crypto_war.html) to all secure communications via keys given to the government by companies offering encryption products. Luckily this didn't go through.
 
-![james comey fbi agent](/img/file-20180420-163962-1mrc3zg.jpg)
+![james comey fbi agent](/img/800/file-20180420-163962-1mrc3zg.jpg)
 
 James Comey, FBI
 

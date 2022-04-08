@@ -5,7 +5,7 @@ date: "2021-06-08"
 categories: 
   - "golang"
 images:
-  - /img/bubbles-in-water.webp
+  - /img/800/bubbles-in-water.webp
 ---
 
 Bubble sort is named for the way elements "bubble up" to the top of the list. Bubble sort repeatedly steps through a slice and compares adjacent elements, swapping them if they are out of order. It continues to loop over the [slice](/golang/golang-make-maps-and-slices/) until the whole list is completely sorted.

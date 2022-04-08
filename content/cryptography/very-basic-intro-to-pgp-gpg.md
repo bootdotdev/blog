@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/photo-1477039181047-efb4357d01bd.webp
+  - /img/800/photo-1477039181047-efb4357d01bd.webp
 ---
 
 [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy), or its open-source alternative, [GPG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard), is a program used to encrypt data such that only an authorized party can decrypt it. In this introduction, we will cover its use-cases and a high-level overview of the algorithms involved.
@@ -25,7 +25,7 @@ Asymmetric algorithms allows users to communicate securely without sharing priva
 
 Symmetric algorithms are computationally fast. They are primarily used to encrypt data at rest, such as files on a hard drive.
 
-![Asymmetric vs Symmetric encryption pgp](/img/Asymmetric-vs-Symmetric.png)
+![Asymmetric vs Symmetric encryption pgp](/img/800/Asymmetric-vs-Symmetric.png)
 
 PGP is a hybrid cryptosystem, it takes advantage of certain benefits from symmetric and asymmetric systems. PGP uses asymmetric keys to encrypt symmetric keys, which are used to encrypt messages. This keeps PGP computationally efficient while also allowing users to own their own private keys.
 
@@ -53,7 +53,7 @@ Let's go through each step of how a PGP message exchange works:
 9. The data is decompressed
 10. The receiver verifies the digital signature using the sender's public key
 
-![PGP Step by Step flowchart](/img/Untitled-Project-792x1024.jpg)
+![PGP Step by Step flowchart](/img/800/Untitled-Project-792x1024.jpg)
 
 That's it! If you have questions be sure to reach out on [Twitter](https://twitter.com/wagslane).
 

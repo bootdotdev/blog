@@ -7,7 +7,7 @@ categories:
   - "open-source"
   - "security"
 images:
-  - /img/photo-1497285597995-6ed7de6bfebd.webp
+  - /img/800/photo-1497285597995-6ed7de6bfebd.webp
 ---
 
 The purpose of [cryptography](/cryptography/what-is-cryptography/) is to keep information private, and the purpose of open-source is to make code public... So we shouldn't open-source our cryptography algorithms right?
@@ -34,7 +34,7 @@ For example, they may [encode data in a confusing way instead of encrypting it](
 
 When something needs to be kept secret, always encrypt.
 
-![Navajo code comic](/img/code_talkers.png)
+![Navajo code comic](/img/800/code_talkers.png)
 
 {{< cta1 >}}
 
@@ -42,7 +42,7 @@ When something needs to be kept secret, always encrypt.
 
 If you roll your own crypto, you are likely to overlook vulnerabilities that have been accounted for in open-source versions. By the way, I don't mean that you specifically suck at writing crypto, I mean that no one person (or organization) can reasonably be responsible for vetting all possible attack vectors. Open-source allows the worldwide developer community to help expose problems with the code.
 
-![L is for loser](/img/loser.png)
+![L is for loser](/img/800/loser.png)
 
 Not only are you likely to have problems in underlying mathematics and algorithms, but it is likely that your application-level implementation will also have vulnerabilities. There are no industry standard best practices to follow for your custom algorithms.
 

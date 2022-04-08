@@ -5,7 +5,7 @@ date: "2020-04-20"
 categories: 
   - "python"
 images:
-  - /img/QvKyBb3LzY7gFPBxE8FFse-scaled.jpeg
+  - /img/800/QvKyBb3LzY7gFPBxE8FFse-scaled.jpeg
 ---
 
 ## What is Superdense coding?
@@ -145,7 +145,7 @@ input()
 
 After running the code you will see something like the following printed on the screen :
 
-![](/img/superdense.png)
+![](/img/800/superdense.png)
 
 InteresteWant to learn about Quantum Programming? Head over to [Quantum Computing UK](https://quantumcomputinguk.org/).
 

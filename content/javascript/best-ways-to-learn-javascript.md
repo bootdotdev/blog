@@ -5,7 +5,7 @@ date: "2022-02-05"
 categories: 
   - "javascript"
 images:
-  - /img/bestwaystolearnJavaScript.webp
+  - /img/800/bestwaystolearnJavaScript.webp
 ---
 
 JavaScript is undoubtedly one of the best languages any developer could pick up, whether they’ve been in the game for years or are just starting out. Powering over 97% of today’s websites, you’ll likely be faced with the need to use JavaScript at some point, regardless of the field you work in, because of how embedded the language is in the online world.

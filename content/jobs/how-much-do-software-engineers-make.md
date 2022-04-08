@@ -5,7 +5,7 @@ date: "2020-11-09"
 categories: 
   - "misc"
 images:
-  - /img/cash.webp
+  - /img/800/cash.webp
 ---
 
 Software engineering continues to be one of the most lucrative career paths in the tech industry. The rewards go well beyond a high salary, corporate health insurance plans, and an increased opportunity to advance. Software engineers often receive benefits like unlimited time off, not needing to have shifts covered, lax or no dress code, and cool office amenities like free drinks, snacks, ping pong, etc. It can be a really great work culture.
@@ -35,11 +35,11 @@ Let's take a look at the [Stack Overflow 2020 survey](https://insights.stackover
 
 The top-paying languages in the USA are (with median salaries):
 
-![Best Paying Programming Languages](/img/Screen-Shot-2020-07-09-at-7.46.49-AM-1024x469-1.png)
+![Best Paying Programming Languages](/img/800/Screen-Shot-2020-07-09-at-7.46.49-AM-1024x469-1.png)
 
 And globally:
 
-![](/img/Screen-Shot-2020-10-31-at-12.10.25-PM-1024x390.png)
+![](/img/800/Screen-Shot-2020-10-31-at-12.10.25-PM-1024x390.png)
 
 As it happens, we have several great Go courses to jumpstart your career:
 
@@ -69,7 +69,7 @@ Another one of the most attractive aspects of software development as a career i
 
 It's often the case that [software engineers who've studied computer science tend to make more](/computer-science/computer-science-vs-software-engineering/) and have an easier time finding promotions within companies. According to [Stack Overflow's data](https://insights.stackoverflow.com/survey/2020#work-salary-by-developer-type-united-states), the top-paying developer job titles in the USA are:
 
-![](/img/Screen-Shot-2020-10-31-at-1.37.50-PM-1024x536.png)
+![](/img/800/Screen-Shot-2020-10-31-at-1.37.50-PM-1024x536.png)
 
 Again, it's critical to note that the following figures represent _median_ salaries, not the average salary for every worker globally. Median statistics provide a more balanced look at the range of salaries without outliers affecting the results. If you're interested in a complete breakdown check out our article on the [highest paying CS jobs](/computer-science/highest-paying-computer-science-jobs/).
 

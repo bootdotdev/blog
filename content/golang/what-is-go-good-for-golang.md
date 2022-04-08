@@ -5,7 +5,7 @@ date: "2021-07-16"
 categories: 
   - "golang"
 images:
-  - /img/What-is-Go-good-for-golang-min.webp
+  - /img/800/What-is-Go-good-for-golang-min.webp
 ---
 
 In 2007, frustrated by some of C++’s inefficiencies and overcomplicated nature, and desiring a programming language designed specifically for multi-core processors and effectively managing large projects, three Google engineers, Robert Griesemer, Rob Pike, and Ken Thompson, designed the Go language.
@@ -14,7 +14,7 @@ The goal was to build an improved C++ that was much easier to use — Go was dev
 
 This combination makes Go one of the most effective languages for large-scale infrastructure, and one of the simplest languages for debugging complex projects.
 
-![go vs python javascript c c++](/img/Go-language-vs-Python-Javascript-C-min-1.png)
+![go vs python javascript c c++](/img/800/Go-language-vs-Python-Javascript-C-min-1.png)
 
 The open-source Go project was first announced in 2009, and version 1.0 was officially released in 2012. Major new features have since been added, such as [generics](/golang/how-to-use-golangs-generics/) and error handling in 2018.
 
@@ -39,7 +39,7 @@ Statically typed programs will fail to compile until errors have been fixed, whe
 
 Go’s static typing ensures conversions and compatibility while avoiding the run-type errors and difficulty debugging that can occur with dynamically typed languages.
 
-![dynamic vs statically typed languages golang](/img/Static-vs-dynamic-languages-min.png)
+![dynamic vs statically typed languages golang](/img/800/Static-vs-dynamic-languages-min.png)
 
 ### Go is compiled rather than interpreted
 
@@ -47,7 +47,7 @@ As a compiled language, Go is expressed in the instructions of the target machin
 
 This lets Go runs faster and offer better performance than interpreted language programs. Compiled language errors prevent the code from compiling, whereas errors in the interpreted language programs are found at run-time, with interpreted languages able to modify code even while the program is still running.
 
-![interpreted vs compiled languages go golang](/img/Compiled-vs-Interpreted-languages-golang-min-1.png)
+![interpreted vs compiled languages go golang](/img/800/Compiled-vs-Interpreted-languages-golang-min-1.png)
 
 ### Concurrent & multi-core support
 

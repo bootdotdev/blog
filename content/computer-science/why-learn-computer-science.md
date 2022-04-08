@@ -5,7 +5,7 @@ date: "2019-10-16"
 categories: 
   - "computer-science"
 images:
-  - /img/00overlooked-alanturing-3-facebookJumbo.webp
+  - /img/800/00overlooked-alanturing-3-facebookJumbo.webp
 ---
 
 Software engineering and [computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/) are [not the same](/computer-science/computer-science-vs-software-engineering/). Computer scientists aren't always software engineers, and unfortunately, many software engineers don't know much about computer science. Software engineers focus on building products, writing maintainable code, and deploying maintainable architecture. Computer Science is the fundamental mathematics that software engineering is built upon.
@@ -20,7 +20,7 @@ In other words, computer science is the study of computers and computational sys
 
 **Mechanical engineering is to physics as software engineering is to computer science.**
 
-![feilds comic](/img/purity.png)
+![feilds comic](/img/800/purity.png)
 
 [xkcd](https://xkcd.com/435/)
 

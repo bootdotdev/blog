@@ -5,7 +5,7 @@ date: "2021-06-24"
 categories: 
   - "misc"
 images:
-  - /img/pexels-anna-shvets-5262957-scaled.webp
+  - /img/800/pexels-anna-shvets-5262957-scaled.webp
 ---
 
 Coding challenges are a fun way to improve your coding quickly.

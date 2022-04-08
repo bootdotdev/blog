@@ -5,7 +5,7 @@ date: "2020-08-28"
 categories: 
   - "javascript"
 images:
-  - /img/Copy-of-Bcrypt.webp
+  - /img/800/Copy-of-Bcrypt.webp
 ---
 
 There are plenty of libraries out there that will have you up and running with a good tooltip solution in minutes. However, if you are like me, you are sick and tired of giant dependency trees that have the distinct possibility of breaking at any time. For that reason, we're going to build a custom single file tooltip component that you can build yourself and tweak to your heart's content. It might take 15 minutes instead of 3... sorry about that.

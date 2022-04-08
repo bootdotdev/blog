@@ -5,7 +5,7 @@ date: "2022-01-24"
 categories: 
   - "python"
 images:
-  - /img/howhardispythontolearn.webp
+  - /img/800/howhardispythontolearn.webp
 ---
 
 One of the difficulties of learning to program is first being able to read code. The great thing about Python is that it was [designed with readability in mind](https://www.python.org/about/). For many programming beginners wondering how hard [Python is to learn](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1), this article will help set expectations and give four strategies to learn Python fast, no matter what your skill level is. Since Python was designed to be easy to read, this makes it ideal for learning to program. Understanding code that’s been written by others is a key stepping stone to being able to program yourself. 

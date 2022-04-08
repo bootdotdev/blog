@@ -52,3 +52,17 @@ make buildscripts
 ```bash
 ./bin/rmshorts SHORTCODE
 ```
+
+## Resize images
+
+Place original images go in in `static/img/raw`
+
+Create a directory `static/img/X` where `X` is the max width of the new images.
+
+```bash
+yarn image-min
+```
+
+This resizes all the images and places them in the new folder. 
+
+Delete the raw images.

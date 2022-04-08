@@ -6,7 +6,7 @@ categories:
   - "golang"
   - "python"
 images:
-  - /img/decurated-on-medium-1.webp
+  - /img/800/decurated-on-medium-1.webp
 ---
 
 ## These two coding languages duke it out - but who’s the winner?
@@ -100,7 +100,7 @@ Python definitely has the corner on the versatility market simply through the sh
 
 It’s interesting to note that Python is sometimes recommended as the most productive language for beginners - it’s easy to get a quick program up and running in Python, and it’s possible to do almost anything in Python.
 
-![in golang vs python, python can be considered more productive because beginners can accomplish just about anything in it, as this XCDC comic notes. It shows a stick figure flying, saying it learned python just last night and that it's caused programming to be fun again.](/img/python-1.png)
+![in golang vs python, python can be considered more productive because beginners can accomplish just about anything in it, as this XCDC comic notes. It shows a stick figure flying, saying it learned python just last night and that it's caused programming to be fun again.](/img/800/python-1.png)
 
 [XKCD](https://xkcd.com/353/)
 

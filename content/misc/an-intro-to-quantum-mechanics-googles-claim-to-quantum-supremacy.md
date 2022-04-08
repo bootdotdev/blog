@@ -5,7 +5,7 @@ date: "2020-06-19"
 categories: 
   - "misc"
 images:
-  - /img/Google_Quantum_Nature_cover_art_small.webp
+  - /img/800/Google_Quantum_Nature_cover_art_small.webp
 ---
 
 The science that deals with the description of the motion and interaction of subatomic particles is known as Quantum Mechanics. Traditional computers utilize the physics of electricity, the flow of electrons controlled by switches, to control their logic. Quantum computers rely instead on the physical properties of electrons, photons, and other tiny bits of matter which are subjected to the laws of quantum mechanics.
@@ -26,7 +26,7 @@ Quantum computers are hard to build and are prone to generating errors, and thei
 
 In 2019, Google declared that they had achieved quantum supremacy. Google had built a quantum computer that would perform tasks faster than the classical computer. Their computer completed a computation in just 200 seconds (using a chip named [Sycamore](https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html)) which they claimed would take 10,000 years for a traditional supercomputer to solve (which was contested by IBM, who said it would only take 2.5 years).
 
-![](/img/30Aaronson1-superJumbo-1-1024x674.png)
+![](/img/800/30Aaronson1-superJumbo-1-1024x674.png)
 
 ## Hello, Quantum Revolution!
 

@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/stop.webp
+  - /img/800/stop.webp
 ---
 
 While encryption does _involve_ various methods of encoding data, the two are absolutely not interchangeable. In fact, if you get them mixed up it can result in serious data breaches and security vulnerabilities.
@@ -15,7 +15,7 @@ While encryption does _involve_ various methods of encoding data, the two are ab
 
 [Encoding](/bitcoin/base64-vs-base58-encoding/) is simply a way of representing data in a specific format. For example, raw binary data can be encoded and decoded using the ASCII format as shown in the table below.
 
-![encoding chart ](/img/asciifull.gif)
+![encoding chart ](/img/800/asciifull.gif)
 
 In the context of programming and cybersecurity, encoding offers **absolutely no security**. Sometimes formats like JWTs or Base64 outputs can confuse entry-level programmers because they appear encrypted when in reality **they aren't!** An attacker can easily figure out the protocol used to encode the data and reverse it. For example, in the case of ASCII encoding it's as simple as looking up each bytecode in the table above.
 
@@ -26,7 +26,7 @@ To illustrate this point, try the following tools to see how easy it is to decod
 - [https://jwt.io/](https://jwt.io/)
 - [https://www.base64encode.org](https://www.base64encode.org/)
 
-![navajo code comic](/img/code_talkers.png)
+![navajo code comic](/img/800/code_talkers.png)
 
 [https://xkcd.com/2](https://xkcd.com/257/)[57/](https://xkcd.com/257/)
 

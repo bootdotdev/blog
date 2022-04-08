@@ -6,7 +6,7 @@ categories:
   - "computer-science"
   - "python"
 images:
-  - /img/lone-tree-unsplash.webp
+  - /img/800/lone-tree-unsplash.webp
 ---
 
 ## What is a Binary Search Tree?
@@ -17,7 +17,7 @@ Binary trees are useful for storing data in an organized manner so that it can b
 
 To be precise, binary search trees provide an average Big-O complexity of `O(log(n))` for search, insert, update, and delete operations. Log(n) is much faster than the linear `O(n)` time required to find elements in an unsorted array. Many popular production databases such as PostgreSQL and MySQL use binary trees under the hood to speed up CRUD operations.
 
-![Binary Search Tree](/img/bst.jpg)
+![Binary Search Tree](/img/800/bst.jpg)
 
 BST
 

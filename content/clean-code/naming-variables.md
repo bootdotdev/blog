@@ -5,7 +5,7 @@ date: "2021-04-01"
 categories: 
   - "clean-code"
 images:
-  - /img/yelling-at-computer.webp
+  - /img/800/yelling-at-computer.webp
 ---
 
 I've noticed that bugs introduced into an existing code base are often due to poor variable naming more than one might suspect. For example, a developer uses a `rateLimit` variable expecting it to be denominated in _seconds_ while it really represents _minutes_, resulting in a 6x slower schedule. Another developer expects `dbConnection` to be an open database connection, but instead, it's just the connection URI.

@@ -5,7 +5,7 @@ date: "2021-06-10"
 categories: 
   - "golang"
 images:
-  - /img/swirl.webp
+  - /img/800/swirl.webp
 ---
 
 Merge sort is a recursive sorting algorithm and, luckily for us, it's quite a bit faster than [bubble sort](/golang/bubble-sort-golang/). Merge sort is a [divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm).
@@ -19,7 +19,7 @@ Merge sort is a recursive sorting algorithm and, luckily for us, it's qu
 
 - Merge the two halves to form a sorted array
 
-![](/img/merge_sort_gif.gif)
+![](/img/800/merge_sort_gif.gif)
 
 ## Full example of the merge sort algorithm
 

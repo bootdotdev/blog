@@ -11,7 +11,7 @@ The [boot.dev app](https://boot.dev/) - our new gamified learning platform - jus
 
 ## What is Taught?
 
-![](/img/12433210.jpg)
+![](/img/800/12433210.jpg)
 
 The course is made of 80% code completion exercises and 20% multiple-choice questions.
 

@@ -5,7 +5,7 @@ date: "2022-04-07"
 categories: 
   - "news"
 images:
-  - /img/qvaultmovestoboot.webp
+  - /img/800/qvaultmovestoboot.webp
 ---
 
 We’ll keep this announcement short – we’ve moved Qvault.io to [Boot.dev](https://boot.dev)! As you know, we’ve been hard at work bootstrapping on online computer science bootcamp. Qvault (now Boot.dev) is a simple CS curriculum where our students build real projects using modern programming languages and technologies.
@@ -16,9 +16,9 @@ Anyhow, we think the new name does a much better job conveying our project’s g
 
 Boot.dev is a developer-first workspace, and as such we’ve switched to a (default) dark mode. Let us know what you think.
 
-![screenshot of boot.dev home](/img/screenshot-home.webp)
+![screenshot of boot.dev home](/img/800/screenshot-home.webp)
 
-![screenshot of boot.dev course](/img/screenshot-course.webp)
+![screenshot of boot.dev course](/img/800/screenshot-course.webp)
 
 ## New guiding principles
 

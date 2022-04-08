@@ -5,7 +5,7 @@ date: "2021-10-06"
 categories: 
   - "python"
 images:
-  - /img/pexels-diego-madrigal-2062314-scaled.webp
+  - /img/800/pexels-diego-madrigal-2062314-scaled.webp
 ---
 
 I’ve made no secret of the fact that I love Python, and that I believe [one of the best ways to learn Python](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/) is by finding an awesome project you care about to work on. There’s nothing more stimulating than passion and curiosity, and that makes the best projects for Python beginners usually something a little grittier than the standard tutorials. 

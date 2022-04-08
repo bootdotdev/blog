@@ -7,7 +7,7 @@ categories:
   - "javascript"
   - "security"
 images:
-  - /img/6-dice-game-1024x350.webp
+  - /img/800/6-dice-game-1024x350.webp
 ---
 
 Randomness is a hard problem for computers. Most functions that generate randomness are **not** considered [cryptographically](/cryptography/what-is-cryptography/) secure. What this means is that it's possible for attackers to take a good guess at what number a non-secure randomness generator generated. In the case of guessing a randomly generated private key, for example, this can be catastrophic.

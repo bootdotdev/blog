@@ -6,7 +6,7 @@ categories:
   - "javascript"
   - "python"
 images:
-  - /img/statue_holding.webp
+  - /img/800/statue_holding.webp
 ---
 
 Anyone who’s anyone in the tech world has heard of Python. It’s one of the most popular programming languages across the world, and it’s been near the top of rankings for years. [Wired](https://www.wired.com/story/python-language-more-popular-than-ever/) reported that it’s tied for second with Java behind JavaScript.
@@ -23,7 +23,7 @@ Python is a high-level interpreted programming language that makes use of garbag
 
 Julia was created in 2012 by Jeff Bezanson, Stefan Karpinski, Viral B. Shah, and Alan Edelman. They created Julia with the goal of taking [all the strengths](https://julialang.org/blog/2012/02/why-we-created-julia/) of various programming languages, such as R, C, Matlab, Python, and Ruby, while eliminating their drawbacks when it comes to “scientific computing, machine learning, data mining, large-scale linear algebra, distributed and parallel computing”. Since it was made with these applications in mind, it can be quite a powerhouse if your use case falls into these categories.
 
-![julia vs python](/img/juliavpython.webp)
+![julia vs python](/img/800/juliavpython.webp)
 
 ## Julia versus Python: Popularity
 

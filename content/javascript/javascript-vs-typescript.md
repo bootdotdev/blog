@@ -5,7 +5,7 @@ date: "2021-09-06"
 categories: 
   - "javascript"
 images:
-  - /img/JavaScript-vs-TypeScript-min.webp
+  - /img/800/JavaScript-vs-TypeScript-min.webp
 ---
 
 Whether you’re new or old to the computer science community, you’ve probably asked yourself, “What is TypeScript?” and if you haven’t, it won’t be long before you do.
@@ -22,7 +22,7 @@ In a turn of events, TS was actually released by Microsoft in 2012, and was deve
 
 If you’re interested in learning more, then stay tuned to find out which language is best. I’ll start by naming which language is best for beginners, then compare salary, performance, and which is best suited for web development, enterprise projects, and you!
 
-![javascript vs typescript which is best for beginners, which has a higher salary, which is most wanted by employers, which is best for web development and enterprise projects](/img/JavaScript-vs-TypeScript-for-beginners-salary-web-dev-min-1.png)
+![javascript vs typescript which is best for beginners, which has a higher salary, which is most wanted by employers, which is best for web development and enterprise projects](/img/800/JavaScript-vs-TypeScript-for-beginners-salary-web-dev-min-1.png)
 
 ## TypeScript vs JavaScript for Beginners
 

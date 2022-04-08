@@ -5,7 +5,7 @@ date: "2020-07-07"
 categories: 
   - "javascript"
 images:
-  - /img/paint-over-dark-628x354-1.webp
+  - /img/800/paint-over-dark-628x354-1.webp
 ---
 
 In single-page apps that use the [Vue Router](https://router.vuejs.org/), it's common to create a path parameter that changes the behavior of a route. Often a problem occurs however when a user alters the path manually in the address bar. Manually changing the URL does **not** rerender the view! This can cause unexpected behavior because _mounted()_ hooks don't fire and nested components don't reload.

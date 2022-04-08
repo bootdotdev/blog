@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/armstrong-1.webp
+  - /img/800/armstrong-1.webp
 ---
 
 Brute force attackers guess passwords, passphrases, and private keys in an attempt to eventually get the right answer and crack the security of a system. They systematically guess every combination. For example, if they were guessing telephone numbers in the US:
@@ -41,7 +41,7 @@ However, if the server doesn't have these kinds of protections in place, then it
 
 ## Public-Private Key Encryption
 
-![encryption chart](/img/1_Th9nPlIhYveMMsG9RvqQsQ-1024x621.png)
+![encryption chart](/img/800/1_Th9nPlIhYveMMsG9RvqQsQ-1024x621.png)
 
 Symmetric Cipher vs Asymmetric Public Key Encryption
 
@@ -59,7 +59,7 @@ _Again, this would never work in practicality, the search space is 2^256_
 
 ## Brute-Force Attacks Explained
 
-![Sig Curtis](/img/maxresdefault-1024x576.jpg)
+![Sig Curtis](/img/800/maxresdefault-1024x576.jpg)
 
 [A brute-force attack](https://en.wikipedia.org/wiki/Brute-force_attack) in [cryptography](/cryptography/what-is-cryptography/) is when an attacker guesses many passwords in succession hoping to _eventually_ get one right.
 

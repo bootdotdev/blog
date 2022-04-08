@@ -5,7 +5,7 @@ date: "2021-12-19"
 categories: 
   - "news"
 images:
-  - /img/discord.jpeg
+  - /img/800/discord.jpeg
 ---
 
 In our [community Discord server](https://discord.gg/EEkFwbv), we have two main groups of roles you can take on as a member, _earned_ roles and _declared_ roles. Earned roles, as you would expect, you have to earn! You can get them in various ways as we'll discuss shortly, but you can't just ask for them. Declared roles on the other hand you simply assign to yourself, and are a way of showing the community what kinds of technologies you enjoy learning about, and what your programming goals are.

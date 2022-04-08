@@ -3,7 +3,7 @@ title: "Affiliates"
 author: Lane Wagner
 date: "2020-02-06"
 images:
- - /img/iStock-1081960210.jpeg
+ - /img/800/iStock-1081960210.jpeg
 ---
 
 We’ve had many readers ask how they can help educate others by sharing Boot.dev's mission, and now we have a simple solution! If you have a social following, blog, or Youtube channel you can earn by helping others find their path to a CS education!

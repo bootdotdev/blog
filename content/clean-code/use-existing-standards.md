@@ -5,7 +5,7 @@ date: "2021-06-07"
 categories: 
   - "clean-code"
 images:
-  - /img/flags.webp
+  - /img/800/flags.webp
 ---
 
 I recently had a ticket opened on my team's backlog board requesting the ability to bypass our API's caching system. For context, our front-end team uses my team's API to make fairly heavy requests to ElasticSearch, and one of the features of our API gateway is to cache the results of heavy aggregations for ~30 seconds. It turns out, every once in a while they need to run two of the same query within the ~30-second caching window and want an updated result set.
@@ -33,7 +33,7 @@ Using the standard header `Cache-Control: no-store` not only makes my job easier
 
 I do want to point out, however, that just because you've decided to use a fairly well-supported standard, doesn't mean there aren't other standards your users will expect. It also doesn't mean that your users are aware of the existence of the standard you've chosen.
 
-![](/img/standards.png)
+![](/img/800/standards.png)
 
 [https://xkcd.com/927/](https://xkcd.com/927/)
 

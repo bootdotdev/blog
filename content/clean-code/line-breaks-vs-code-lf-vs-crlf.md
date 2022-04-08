@@ -5,14 +5,14 @@ date: "2020-06-18"
 categories: 
   - "clean-code"
 images:
-  - /img/vscode-preview.webp
+  - /img/800/vscode-preview.webp
 ---
 
 Have you ever had the problem where you submit a pull request and the diff is much larger than it should be? Maybe the code looks identical, but GitHub tells you it's completely different?
 
 This is typically due to a difference in **line endings**, especially the difference in `LF` vs. `CRLF`. Unix systems like Linux and macOS use `LF`, the line feed character, for line breaks by default. Windows, on the other hand, is special and uses `CR/LF`, carriage return AND line feed character, by default.
 
-![Michael Scott condescending to the Windows OS](/img/12bb747ebc3c94d638257f18ab25d307-300x244.jpg)
+![Michael Scott condescending to the Windows OS](/img/800/12bb747ebc3c94d638257f18ab25d307-300x244.jpg)
 
 Michael Scott On Windows Line Endings
 
@@ -22,7 +22,7 @@ Unless you work on a Windows-only team, the answer is almost always to change al
 
 If you're here to quickly fix a single file that you're having problems with, you're in luck. At the bottom right of the screen in [VS Code](https://code.visualstudio.com/), click the little button that says `LF` or `CRLF`. After changing it to your preference, Voila, the file you're editing now has the correct line breaks.
 
-![vscode crlf lf line endings switch](/img/vscode-crlf-lf-line-endings-switch.jpg)
+![vscode crlf lf line endings switch](/img/800/vscode-crlf-lf-line-endings-switch.jpg)
 
 Click the LF/CRLF button to toggle line endings
 
@@ -58,10 +58,10 @@ This setting will not automatically fix all files in your project that have the 
 
 When everything went digital, some devices required a "Line Feed" character to terminate lines, so Microsoft decided to just make a new-line have _both_ characters so that they would work correctly on all devices.
 
-![](/img/typewriter-form-unsplash-with-carriage-300x200.jpeg)
+![](/img/800/typewriter-form-unsplash-with-carriage-300x200.jpeg)
 
 `CR` and `LF` are just bytecodes. Computers store text characters as numbers in binary, just 1's and 0s. Carriage Return (`CR`), is represented in [ASCII](https://en.wikipedia.org/wiki/ASCII) (a common character encoding protocol) as 13, or in binary, `00001101`. Likewise, the line feed character (`LF`) is 10 or `00001010`.
 
 As you can imagine, `CRLF` is just both bytes shoved up next to each other: `0000110100001010`.
 
-![Ascii Table](/img/asciifull.gif)
+![Ascii Table](/img/800/asciifull.gif)

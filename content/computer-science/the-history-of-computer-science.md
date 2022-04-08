@@ -5,12 +5,12 @@ date: "2020-12-03"
 categories: 
   - "computer-science"
 images:
-  - /img/Clock-in-City-scaled.jpeg
+  - /img/800/Clock-in-City-scaled.jpeg
 ---
 
 ## Prehistory
 
-![](/img/NAMA_Machine_dAnticythere_1-300x268.jpg)
+![](/img/800/NAMA_Machine_dAnticythere_1-300x268.jpg)
 
 The Antikthyera Mechanism
 
@@ -26,7 +26,7 @@ Like many things, the Industrial Revolution proved necessary to catalyze an iter
 
 In 1936, Alan Turing published his work on the [Turing Machines](https://en.wikipedia.org/wiki/Turing_machine), the first abstract digital computer. This machine is the basis for all modern computers and introduced the concept of the stored program. While at the time this machine was hypothetical, it would not be long before it became a reality, with nearly all modern programming languages touting the [turning complete](https://en.wikipedia.org/wiki/Turing_completeness) label. Helping this process along, Akira Nakashima's switching circuit theory helped pave the way for the use of binary in digital computers. His work became the basis for circuit design going forward, especially after the theory became known to electrical engineers during World War II.
 
-![](/img/alan-turing-9512017-1-402-300x194.jpg)
+![](/img/800/alan-turing-9512017-1-402-300x194.jpg)
 
 Alan Turing
 
@@ -36,7 +36,7 @@ The first digital computer, the Atanasoff-Berry Computer, was built on the Iowa 
 
 Following the development of the MOSFET, the idea of a personal computer became more and more appealing. The issue was, most computers were prohibitively expensive, and used almost exclusively by governments, corporations, militaries, and universities. That was, until the invention of the Microprocessor. While it had been possible for some time to develop a microcomputer, the processors still requires several large circuit boards in order to function. However, once it was found that the processor could be placed on a single, integrated circuit - thanks to MOSFET - it was able to be commercialized. In 1972, the introduction of the Intel 4004 caused the cost of Microprocessors to decline rapidly, and the stage was set for personal computer to become a household item.
 
-![](/img/mosfet_construction-300x293.png)
+![](/img/800/mosfet_construction-300x293.png)
 
 MOSFET Diagram
 

@@ -6,7 +6,7 @@ categories:
   - "computer-science"
   - "jobs"
 images:
-  - /img/pexels-cottonbro-5076527-scaled.webp
+  - /img/800/pexels-cottonbro-5076527-scaled.webp
 ---
 
 There are so many reasons to want to get a certificate in computer science in 2021, especially when you [compare it to alternatives like getting a degree](/computer-science/compsci-certificate-vs-degree/) or attending a coding bootcamp.

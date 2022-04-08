@@ -5,7 +5,7 @@ date: "2021-11-10"
 categories: 
   - "javascript"
 images:
-  - /img/PHPvsJS.webp
+  - /img/800/PHPvsJS.webp
 ---
 
 When comparing programming languages, it’s not often that you come across two that actually work well together, but that happens to be the case when it comes to PHP and JavaScript.
@@ -26,7 +26,7 @@ PHP and JavaScript together created a stunning environment of web development, h
 
 I’ll start by comparing which language is best for beginners, then move on to salary, performance, web development, and which one is best for you!
 
-![](/img/jsvsphp-2.jpg)
+![](/img/800/jsvsphp-2.jpg)
 
 ## PHP vs JavaScript: Which Is Best for Beginners?
 

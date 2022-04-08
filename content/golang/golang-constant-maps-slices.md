@@ -6,7 +6,7 @@ categories:
   - "clean-code"
   - "golang"
 images:
-  - /img/Constant-Maps-and-Slices-1.webp
+  - /img/800/Constant-Maps-and-Slices-1.webp
 ---
 
 For the most part, I've found that Go developers are pretty good at using global constants for configuration rather than global variables.
@@ -77,7 +77,7 @@ Most people already know this about global variables thankfully, and switching g
 
 ## What If I Want A Global Array, Map, or Slice?
 
-![global slice](/img/Screen-Shot-2019-10-21-at-7.50.41-AM.png)
+![global slice](/img/800/Screen-Shot-2019-10-21-at-7.50.41-AM.png)
 
 Let's assume the following situation:
 

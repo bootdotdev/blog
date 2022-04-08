@@ -5,7 +5,7 @@ date: "2020-10-28"
 categories: 
   - "computer-science"
 images:
-  - /img/learning-to-code-alternatives.jpeg
+  - /img/800/learning-to-code-alternatives.jpeg
 ---
 
 Learning to code in the digital age is a skill that will serve you well throughout your career and life in general. However, we've found that many get overwhelmed trying to find the right platform, the perfect first language, the best framework, or the best online communities.
@@ -29,7 +29,7 @@ Choosing a coding program online may seem like a daunting task. When my wife sta
 
 ### [1\. Boot.dev](https://boot.dev/)
 
-[![Qvault Logo - Learn to Code](/img/QVault-app-min-150x150.png)](https://boot.dev/)
+[![Qvault Logo - Learn to Code](/img/800/QVault-app-min-150x150.png)](https://boot.dev/)
 
 Time for a shameless plug, [boot.dev](https://boot.dev/) is a great place to start. While coding can be complicated, boot.dev is a browser-based web app that makes it simple. With several different courses and difficulties to choose from, boot.dev is perfect for anyone from an absolute-beginner that doesn't know where to start, to a senior developer that's just looking to learn a new language or concept.
 

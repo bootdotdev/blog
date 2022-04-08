@@ -5,7 +5,7 @@ date: "2021-08-17"
 categories: 
   - "clean-code"
 images:
-  - /img/migration.jpeg
+  - /img/800/migration.jpeg
 ---
 
 ## In this world, nothing can be said to be certain, except death, taxes, and migrations.
@@ -50,7 +50,7 @@ Think of your database choice as a tool. If you aren't careful, that tool will m
 
 ## #4 Careful about what you save to disk
 
-![](/img/programming_meme.jpg)
+![](/img/800/programming_meme.jpg)
 
 I won't go into too much detail on this one either, as I wrote [a whole article on keeping your data simple at rest](https://wagslane.dev/posts/keep-your-data-raw-at-rest/). That said, I'll give you another tl;dr. If you can get away from storing calculated data in your database, you'll never have to move it. In other words, the less you save, the easier your life is. Let me provide an example.
 
@@ -60,4 +60,4 @@ Let's say you have a `height` variable for each user in your database. Now, on t
 
 While you _can_ make a globally accessible database connection and write SQL queries in any old place, **don't do it**. You'll save yourself a lot of headache by writing a package or module that abstracts knowledge of the database "implementation details" away from the business logic. This is classic "clean architecture" stuff by Uncle Bob Martin, but it won't just keep your code clean, it will make future database changes much easier.
 
-![](/img/CleanArchitecture.jpg)
+![](/img/800/CleanArchitecture.jpg)

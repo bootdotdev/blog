@@ -5,7 +5,7 @@ date: "2020-12-14"
 categories: 
   - "computer-science"
 images:
-  - /img/resume-on-clipboard-pexels.jpeg
+  - /img/800/resume-on-clipboard-pexels.jpeg
 ---
 
 It's really hard to get your foot in the door for engineering interviews, especially if you have no experience and are looking for an entry-level position. Often times, more experienced candidates looking to find a [higher-paying job](/computer-science/highest-paying-computer-science-jobs/) can also have trouble. As an employer myself, I can tell you that one of the biggest mistakes I see in 75% of resumes is using a _visually boring template_. When I'm sifting through forty or fifty applicants, it's really easy for my eyes to glaze over. Think of your resume as your website landing page. You need to catch your employer's attention by calling out your biggest accomplishments and selling points at a glance.
@@ -37,7 +37,7 @@ As you pick a template and replace the dummy information for your own, keep thes
 
 [Link to Resume in Google Docs](https://docs.google.com/document/d/1tHF3aJanamLxxqO2drRCoNwxw5ETBCuLiqulBupW4M0/edit?usp=sharing)
 
-![CS student entry level web resume](/img/CS-student-entry-level-web-resume-page-001-1.jpg)
+![CS student entry level web resume](/img/800/CS-student-entry-level-web-resume-page-001-1.jpg)
 
 Entry-Level Web Developer - Computer Science Student
 
@@ -45,7 +45,7 @@ Entry-Level Web Developer - Computer Science Student
 
 [Link to Resume in Google Docs](https://docs.google.com/document/d/1W7An1H3mQbtx8J8419LgHxTIbuA-24zmV6H2KLRF6gs/edit?usp=sharing)
 
-![Front-End Developer Resume Sample - Self-Taught](/img/Self-taught-front-end-web-resume-page-001.jpg)
+![Front-End Developer Resume Sample - Self-Taught](/img/800/Self-taught-front-end-web-resume-page-001.jpg)
 
 Front-End Developer Resume Sample - Self-Taught
 
@@ -53,7 +53,7 @@ Front-End Developer Resume Sample - Self-Taught
 
 [Link to Resume in Google Docs](https://docs.google.com/document/d/1K4DmVd8OKn1pBeqVoDrnMJgiEqKebMRqYXOczF2qxtA/edit?usp=sharing)
 
-![Mobile Developer Internship Resume Sample - CS Student](/img/CS-student-mobile-internship-resume-page-001.jpg)
+![Mobile Developer Internship Resume Sample - CS Student](/img/800/CS-student-mobile-internship-resume-page-001.jpg)
 
 Mobile Developer Internship Resume Sample - CS Student
 
@@ -63,7 +63,7 @@ Mobile Developer Internship Resume Sample - CS Student
 
 [Link to Resume in Google Docs](https://docs.google.com/document/d/1B7tKw2ViDsxMl5ruJxiSpleG0tAuV5bGhn0jvwxQms0/edit?usp=sharing)
 
-![Back-End Development Resume Sample - Self-Taught](/img/Self-taught-back-end-web-resume-page-001.jpg)
+![Back-End Development Resume Sample - Self-Taught](/img/800/Self-taught-back-end-web-resume-page-001.jpg)
 
 Back-End Development Resume Sample - Self-Taught
 
@@ -71,7 +71,7 @@ Back-End Development Resume Sample - Self-Taught
 
 [Link to Resume in Google Docs](https://docs.google.com/document/d/1skTEEymyn0-szPZn_A2cBm84DlRTh4PHki_7b5UQhB8/edit?usp=sharing)
 
-![DevOps Resume Sample - CS Student](/img/cs-student-devops-resume-page-001.jpg)
+![DevOps Resume Sample - CS Student](/img/800/cs-student-devops-resume-page-001.jpg)
 
 DevOps Resume Sample - CS Student
 
@@ -79,7 +79,7 @@ DevOps Resume Sample - CS Student
 
 [Link to Resume in Google Docs](https://docs.google.com/document/d/1T4G3afOykA2es0Icfs81FZin7vVjkDBlkUYE31UeHd8/edit?usp=sharing)
 
-![Game Development Resume Sample - Self-Taught](/img/Self-taught-game-dev-resume-page-001.jpg)
+![Game Development Resume Sample - Self-Taught](/img/800/Self-taught-game-dev-resume-page-001.jpg)
 
 Game Development Resume Sample - Self-Taught
 

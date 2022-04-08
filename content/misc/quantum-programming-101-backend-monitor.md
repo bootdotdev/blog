@@ -5,7 +5,7 @@ date: "2020-05-12"
 categories: 
   - "misc"
 images:
-  - /img/QvKyBb3LzY7gFPBxE8FFse-scaled.jpeg
+  - /img/800/QvKyBb3LzY7gFPBxE8FFse-scaled.jpeg
 ---
 
 ## Introduction

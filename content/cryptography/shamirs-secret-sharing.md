@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/library-scaled.webp
+  - /img/800/library-scaled.webp
 ---
 
 _Adi Shamir's Secret Sharing_ is a [cryptographic algorithm](/cryptography/what-is-cryptography/) that allows distinct parties to jointly share ownership of a single secret by holding _shares_. The original secret can only be reconstructed by using a minimum number of shares, which allows different parties to cooperate without the need to fully trust one another.
@@ -99,15 +99,15 @@ Each participant in our scheme now owns one `(x,y)` point, which is a single sha
 
 ### Step 1 - Plot the points (shares) that we control
 
-![shamirs secret sharing no line](/img/shamirs-secret-sharing-no-line-1024x498.jpg)
+![shamirs secret sharing no line](/img/800/shamirs-secret-sharing-no-line-1024x498.jpg)
 
 ### Step 2 - Draw the corresponding parabola
 
-![shamirs secret sharing](/img/shamirs-secret-sharing-1024x540.jpg)
+![shamirs secret sharing](/img/800/shamirs-secret-sharing-1024x540.jpg)
 
 ### Step 3 - Find the point where `x=0`. It's `y` value is the secret
 
-![shamirs secret sharing shares](/img/shamirs-secret-sharing-shares-1024x555.jpg)
+![shamirs secret sharing shares](/img/800/shamirs-secret-sharing-shares-1024x555.jpg)
 
 In our case, the secret is `1954`.
 
@@ -121,4 +121,4 @@ The solution lies in [finite field arithmetic](https://en.wikipedia.org/wiki/Fin
 
 Adi Shamir is an Israeli cryptographer famous for Shamir's Secret Sharing, but he is also a co-inventor of the widely used RSA algorithm that the vast majority of the internet is built upon. Shamir was born in Tel Aviv and earned an undergraduate degree [](https://en.wikipedia.org/wiki/Bachelor_of_Science)in math from the university there. Later he obtained his master's and Ph.D. degrees in Computer Science from the Weizmann Institute in 1975 and 1977 respectively.
 
-![](/img/440px-Adi_Shamir_Royal_Society-200x300.jpg)
+![](/img/800/440px-Adi_Shamir_Royal_Society-200x300.jpg)

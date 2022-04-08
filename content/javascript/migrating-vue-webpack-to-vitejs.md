@@ -6,7 +6,7 @@ categories:
   - "javascript"
   - "open-source"
 images:
-  - /img/Webpack-and-Vue-to-Vite.webp
+  - /img/800/Webpack-and-Vue-to-Vite.webp
 ---
 
 [Boot.dev's web app that hosts all of my coding courses](https://boot.dev/) is a single-page application written in Vue 2, with plans to migrate to Vue 3 _soon™©®_. In the meantime, I happened across a cool new tooling app called [Vite](https://github.com/vitejs/vite) that promised a few things that caught my attention.

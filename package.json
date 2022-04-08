@@ -4,7 +4,8 @@
   "scripts": {
     "serve": "concurrently --kill-others \"tailwindcss -i ./static/css/tail-in.css -o ./static/css/tail-out.css --watch\" \"hugo server -D\"",
     "lint": "eslint . --ext .js,.html",
-    "lint:fix": "eslint . --fix --ext .js,.html"
+    "lint:fix": "eslint . --fix --ext .js,.html",
+    "image-min": "node scripts/js/image-min.js"
   },
   "repository": "https://github.com/qvault/blog",
   "author": "wagslane <lane.c.wagner@gmail.com>",
@@ -16,6 +17,7 @@
     "eslint-plugin-html": "^6.2.0",
     "eslint-plugin-prettier": "^4.0.0",
     "prettier": "^2.6.1",
+    "sharp": "^0.30.3",
     "tailwindcss": "^3.0.23"
   }
 }

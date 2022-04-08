@@ -5,7 +5,7 @@ date: "2020-06-30"
 categories: 
   - "golang"
 images:
-  - /img/Screen-Shot-2020-06-25-at-8.webp
+  - /img/800/Screen-Shot-2020-06-25-at-8.webp
 ---
 
 Go has hard opinions about how you should style and format your code, and because of this, setting up your VS Code environment to enforce linting on save can be very efficient. The big upside of this is that you don't need to spend hours setting up tools like ESLint, Prettier, JSLint, etc. That said, in order to take advantage of the styling and listing tools available in the toolchain, you need a dev environment that makes them easy to use.
@@ -18,7 +18,7 @@ First, make sure you have the latest version of Go installed on your machine (as
 
 Next install the [Official Golang VS Code Plugin](https://code.visualstudio.com/docs/languages/go)
 
-![official golang vs code extension](/img/Screen-Shot-2020-06-25-at-8.34.33-AM-1024x310.png)
+![official golang vs code extension](/img/800/Screen-Shot-2020-06-25-at-8.34.33-AM-1024x310.png)
 
 Next open your [settings.json](https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations) file in VS Code. These settings can be specific to in a single project, workspace or your entire machine.
 

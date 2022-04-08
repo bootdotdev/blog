@@ -7,7 +7,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/frozen.jpeg
+  - /img/800/frozen.jpeg
 ---
 
 [Bitcoin improvement proposal 32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) is, in my opinion, one of the most important BIPs we have. (Thanks [Peter Wuille](https://twitter.com/pwuille)!) BIP 32 gave us Hierarchical Deterministic Wallets. That is, the ability to create a tree of keys from a single seed.
@@ -38,7 +38,7 @@ Now, on a piece of paper or in a password manager like [Boot.dev](https://blog.b
 
 ## Watch only HD wallet
 
-![eye picture](/img/icon95-20-512.png)
+![eye picture](/img/800/icon95-20-512.png)
 
 A watch-only HD wallet is a the same as a normal HD wallet except that it can't spend coins, only store them. Watch only wallets are perfect for users who want a wallet to receive new coins easily but don't want to spend regularly from that wallet, similar to a savings account.
 

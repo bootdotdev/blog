@@ -5,7 +5,7 @@ date: "2020-10-26"
 categories: 
   - "open-source"
 images:
-  - /img/The-Nuances-of-Constants-in-Go-Go-Isnt-JavaScript.webp
+  - /img/800/The-Nuances-of-Constants-in-Go-Go-Isnt-JavaScript.webp
 ---
 
 Where I work, we use a repo-per-namespace setup and so it often happens that I want to restart all pods and deployments in a single Kubernetes namespace.

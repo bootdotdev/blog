@@ -5,7 +5,7 @@ date: "2019-09-22"
 categories: 
   - "javascript"
 images:
-  - /img/photo-1527266237111-a4989d028b4b.webp
+  - /img/800/photo-1527266237111-a4989d028b4b.webp
 ---
 
 I've found that it's pretty rare that I need recursion in application code, but every once in a while I need to write a function that operates on a tree of unknown depth, such as a JSON object, and that's often best solved recursively. Even though recursion is rare, it is important to recognize when a problem is best solved recursively so that we can implement a good solution when the time comes.
@@ -14,7 +14,7 @@ I've found that it's pretty rare that I need recursion in application code, but 
 
 Function recursion is a process in computer science that occurs when a function calls itself.
 
-![man answering two phones](/img/cut.jpg)
+![man answering two phones](/img/800/cut.jpg)
 
 For example:
 
@@ -55,7 +55,7 @@ In the case of simply printing the items of a list, the iterative approach is be
 
 Iterative programs can be written using recursion, and all recursive programs can be written using iteration. Both systems are, unless limited by the implementation, [Turing c](https://en.wikipedia.org/wiki/Turing_completeness)[omplete](https://en.wikipedia.org/wiki/Turing_completeness).
 
-![mechanical turing machine ](/img/mechanical-turing-machine-in-wood-vo8izckhif0mp4-shot0001_featured.png)
+![mechanical turing machine ](/img/800/mechanical-turing-machine-in-wood-vo8izckhif0mp4-shot0001_featured.png)
 
 [mechanical turing machine](https://hackaday.com/2018/03/08/mechanical-wooden-turing-machine/)
 

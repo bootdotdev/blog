@@ -5,7 +5,7 @@ date: "2021-12-09"
 categories: 
   - "python"
 images:
-  - /img/list.webp
+  - /img/800/list.webp
 ---
 
 Let's go over a few idiomatic ways to remove duplicates from lists in Python.

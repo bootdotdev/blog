@@ -5,7 +5,7 @@ date: "2021-10-07"
 categories: 
   - "javascript"
 images:
-  - /img/JavaScript-vs-C-Sharp-min.png
+  - /img/800/JavaScript-vs-C-Sharp-min.png
 ---
 
 JavaScript (JS), once regarded as simply a “glue language”, has gone on to become [the most popular programming language](https://www.statista.com/statistics/793628/worldwide-developer-survey-most-used-languages/) in the world.
@@ -28,7 +28,7 @@ C# is a general-purpose, statically typed, multiparadigm programming language, m
 
 How do these languages compare though? Let’s find out by analyzing which language is best for beginners, offers better salary, performance, and is best for game development, web development, and you!
 
-![javascript vs C# for which is best for beginners, which earns higher salaries, which has better performance, and which is best for web development and game development.](/img/JavaScript-vs-C-on-performance-which-is-best-for-game-development-and-web-development-and-which-earns-higher-salaries-min.png)
+![javascript vs C# for which is best for beginners, which earns higher salaries, which has better performance, and which is best for web development and game development.](/img/800/JavaScript-vs-C-on-performance-which-is-best-for-game-development-and-web-development-and-which-earns-higher-salaries-min.png)
 
 ## C# vs JavaScript: Which Is Best for Beginners?
 

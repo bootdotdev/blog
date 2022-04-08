@@ -5,7 +5,7 @@ date: "2020-09-01"
 categories: 
   - "clean-code"
 images:
-  - /img/photo-1559041881-74dd9fd9b600.jpeg
+  - /img/800/photo-1559041881-74dd9fd9b600.jpeg
 ---
 
 My team has been spending less of our "free" time working on bugs and features from the backlog, and more time refactoring our code and tests. As a result, and perhaps somewhat counterintuitively, we've noticed a significant increase in our throughput of features and bug fixes.
@@ -25,7 +25,7 @@ I've found that in articles like this it's important to give as much context to 
 - Our team is responsible for ~15 repositories
 - Each repo represents a small service in a data pipeline process that handles sorting and NLP of social media posts
 
-![Go Kubernetes](/img/go_kubernetes-1024x592.png)
+![Go Kubernetes](/img/800/go_kubernetes-1024x592.png)
 
 {{< cta1 >}}
 
@@ -45,7 +45,7 @@ Ideally, you would do the refactoring _first_ and _then_ fix the bug (assuming t
 
 I don't want to beat a dead horse, the reasoning here is largely the same as with bug fixes. Adding features to a messy codebase just makes it messier. It's like frosting a cake that's already been dropped on the ground. I guess the cake would taste better if you still felt inclined to eat it, but you've made the inevitable clean-up harder.
 
-![Happy Birthday to the Ground](/img/happy_birthday_to_ground.gif)
+![Happy Birthday to the Ground](/img/800/happy_birthday_to_ground.gif)
 
 {{< cta2 >}}
 

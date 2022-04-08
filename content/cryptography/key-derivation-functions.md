@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/photo-1553386323-60698d6f7325.webp
+  - /img/800/photo-1553386323-60698d6f7325.webp
 ---
 
 A Key Derivation Function, or KDF, is a [cryptographic algorithm](/cryptography/what-is-cryptography/) that derives one or more secret keys from a secret value. If you've ever needed to store a password in a database or create a private key from a password, you may have used a KDF. Some examples of popular KDFs are [Argon2](https://en.wikipedia.org/wiki/Argon2), [Scrypt](/cryptography/very-basic-intro-to-the-scrypt-hash/), and [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2).
@@ -38,7 +38,7 @@ There are different types of KDFs. Some are based on stream or block ciphers, bu
 
 As it turns out, all hash-based KDFs are secure hash functions, but not all hash functions are hashed-based KDFs.
 
-![kdf vs hash ](/img/Capture-1.png)
+![kdf vs hash ](/img/800/Capture-1.png)
 
 In addition to the properties of a hash function, KDFs can serve the following purposes:
 

@@ -5,7 +5,7 @@ date: "2020-09-04"
 categories: 
   - "golang"
 images:
-  - /img/stream-party.jpeg
+  - /img/800/stream-party.jpeg
 ---
 
 In this tutorial, we'll go step-by-step through building a video streaming API (which will work for music as well) in Go. Don't worry, it's surprisingly easy to build a robust media streaming server, especially if we utilize a modern communication protocol, HLS.
@@ -20,7 +20,7 @@ HLS is a streaming protocol that allows large media files to be served as many s
 
 Using [FFmpeg](https://www.ffmpeg.org/), we can easily convert mp3 files to HLS format, which consists of multiple files. One of these files contains the metadata (.m3u8) and is served first. This metadata file tells the client where to get each data file, and what each data file contains. The data files have a .ts extension and typically contain ~10 seconds of audio and are served one-at-a-time at the client's request.
 
-![FFmpeg](/img/1_mgCxTQSqrTvKsmDRmuRa7w-1024x499.jpeg)
+![FFmpeg](/img/800/1_mgCxTQSqrTvKsmDRmuRa7w-1024x499.jpeg)
 
 {{< cta1 >}}
 
@@ -54,7 +54,7 @@ As I eluded to above, HLS is very simple on the server-side. All we need to do i
 
 Let's set up our project with the following folder structure:
 
-![](/img/Screen-Shot-2019-12-03-at-8.57.28-AM.png)
+![](/img/800/Screen-Shot-2019-12-03-at-8.57.28-AM.png)
 
 Copy the following code into main.go:
 

@@ -7,7 +7,7 @@ categories:
   - "golang"
   - "javascript"
 images:
-  - /img/The-Nuances-of-Constants-in-Go-Go-Isnt-JavaScript.webp
+  - /img/800/The-Nuances-of-Constants-in-Go-Go-Isnt-JavaScript.webp
 ---
 
 Constants can be confusing and easy to misuse in Go if you are coming from an untyped language. Let's take a look at some of the nuanced details of how they work in Go. It's probably unsurprising, but Go's constants are almost nothing like JavaScript's bastardized version of the concept.

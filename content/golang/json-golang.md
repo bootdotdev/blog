@@ -5,7 +5,7 @@ date: "2021-04-28"
 categories: 
   - "golang"
 images:
-  - /img/json_data.webp
+  - /img/800/json_data.webp
 ---
 
 As a language designed for the web, Go provides extensive support for working with JSON data. [JSON (JavaScript Object Notation)](https://www.json.org/json-en.html) is an incredibly popular data exchange format whose syntax resembles simple JavaScript objects. It's one of the most common ways for applications to communicate on the modern web.

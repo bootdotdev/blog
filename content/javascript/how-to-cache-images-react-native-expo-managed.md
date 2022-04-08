@@ -5,7 +5,7 @@ date: "2020-02-04"
 categories: 
   - "javascript"
 images:
-  - /img/photo-1571858253340-84d2811a8d7e.jpeg
+  - /img/800/photo-1571858253340-84d2811a8d7e.jpeg
 ---
 
 Caching images in React Native can be easy, even if you are using Expo's managed workflow. The problem many devs run into is that React Native only supports [caching images on IOS](https://facebook.github.io/react-native/docs/images#cache-control-ios-only) out of the box.
@@ -56,7 +56,7 @@ Tip: In order to bust the cache, you can append a query string or anchor text to
 
 ## Code
 
-![programmer with three screens](/img/photo-1550439062-609e1531270e-1024x683.jpg)
+![programmer with three screens](/img/800/photo-1550439062-609e1531270e-1024x683.jpg)
 
 [max\_duz](https://unsplash.com/@max_duz)
 

@@ -6,7 +6,7 @@ categories:
   - "golang"
   - "rust"
 images:
-  - /img/Rust-vs-Go-Which-is-More-Popular_.jpeg
+  - /img/800/Rust-vs-Go-Which-is-More-Popular_.jpeg
 ---
 
 Go and Rust are two of the hottest compiled programming languages, but which is more popular, Go or Rust?. I develop in Go full-time and love it, and I'm learning more about Rust recently - it's an exciting language. Let's explore some differences between the two and look at which is growing faster in the popularity polls.
@@ -15,11 +15,11 @@ Go and Rust are two of the hottest compiled programming languages, but which is 
 
 According to the StackOverflow [2019 surveys](https://insights.stackoverflow.com/survey/2019#technology-_-programming-scripting-and-markup-languages), Go is ahead in the polls when it comes to programming and markup languages.
 
-![](/img/Screen-Shot-2020-05-05-at-8.07.37-PM-815x1024.png)
+![](/img/800/Screen-Shot-2020-05-05-at-8.07.37-PM-815x1024.png)
 
 However, compare that to the previous year:
 
-![](/img/Screen-Shot-2020-05-05-at-8.15.06-PM-880x1024.png)
+![](/img/800/Screen-Shot-2020-05-05-at-8.15.06-PM-880x1024.png)
 
 Rust **wasn't even on the chart** just one year before.
 
@@ -27,13 +27,13 @@ Go did grow by an impressive 1.6%, but it would seem Rust might be growing even 
 
 Some more supporting evidence for the hypothesis that Rust is growing faster is another poll - [the most loved languages survey](https://insights.stackoverflow.com/survey/2019#technology-_-most-loved-dreaded-and-wanted-languages):
 
-![](/img/Screen-Shot-2020-05-05-at-8.18.40-PM-747x1024.png)
+![](/img/800/Screen-Shot-2020-05-05-at-8.18.40-PM-747x1024.png)
 
 Rust is a clear leader here, but Go isn't far behind. There is a lot of hype around Rust right now, for good reason.
 
 Let's take a look at the most dreaded languages:
 
-![](/img/Screen-Shot-2020-05-05-at-8.19.08-PM-725x1024.png)
+![](/img/800/Screen-Shot-2020-05-05-at-8.19.08-PM-725x1024.png)
 
 No one dreads Rust. I suspect that a contributing factor is that Rust isn't used much yet. That said, the data indicates that Rust is currently more loved and less dreaded. Hard to argue with that.
 
@@ -45,13 +45,13 @@ Go actually makes the most dreaded chart, but close to the bottom. I suspect mos
 
 I don't think one is strictly better than the other, and a lot comes down to preference. Let's examine the claims made by the maintainers:
 
-![](/img/Golang-1024x578.png)
+![](/img/800/Golang-1024x578.png)
 
 > Go is an open-source programming language that makes it easy to build simple, reliable, and efficient software.
 > 
 > [golang.org](https://golang.org/)
 
-![](/img/rust-social.jpg)
+![](/img/800/rust-social.jpg)
 
 > A language empowering everyone to build reliable and efficient software.
 > 

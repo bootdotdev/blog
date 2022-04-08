@@ -5,7 +5,7 @@ date: "2021-07-12"
 categories: 
   - "golang"
 images:
-  - /img/Go-vs-C-min.webp
+  - /img/800/Go-vs-C-min.webp
 ---
 
 Needing to be a math genius to learn code is a thing of the past, as more high-level programming languages offer an alternative to low-level machine code, making it more accessible than ever to get coding.
@@ -64,7 +64,7 @@ However, if you break through the surface, you find rocks, shells, sand, fish â€
 
 **C++ is like the lakebed.** With a bottom-up approach, you build each specific layer, code each rock, fish, and shell, until you get to the surface -- you have full creative control, and full responsibility.
 
-![go vs c++ for performance, compile time, versatility, earning potential and which is most loved by programmers](/img/Go-vs-C-performance-compile-time-min-min.png)
+![go vs c++ for performance, compile time, versatility, earning potential and which is most loved by programmers](/img/800/Go-vs-C-performance-compile-time-min-min.png)
 
 ### Different Language Types: Go vs C++ and OOP vs Procedural
 

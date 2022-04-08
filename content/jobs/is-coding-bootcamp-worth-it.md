@@ -6,7 +6,7 @@ categories:
   - "computer-science"
   - "jobs"
 images:
-  - /img/pexels-olia-danilevich-4974915-scaled.jpeg
+  - /img/800/pexels-olia-danilevich-4974915-scaled.jpeg
 ---
 
 When you're in a position of wondering, "_Is a coding bootcamp worth it?_" you should look at several factors. Coding bootcamp costs, on average, [around $13,000](https://www.nerdwallet.com/article/loans/student-loans/how-much-is-coding-bootcamp). This holds true no matter if you choose to attend coding bootcamp in person or online, though there's a lot of variance in how much coding bootcamp costs, ranging from $3,000 to $20,000 depending on the language, the length, and who’s running it.
@@ -63,7 +63,7 @@ Like a coding bootcamp, is a computer science degree worth it? Yes, under certai
 
 You run the risk of spending years and a ton of money when you don’t actually need to. Even worse, you run the risk of spending money and time and then still dropping out before graduating, like [40% of US](https://educationdata.org/college-dropout-rates) undergraduates do. 
 
-![](/img/college-job-comic-1024x553.png)
+![](/img/800/college-job-comic-1024x553.png)
 
 [Tweet image via @dinoman\_j](https://twitter.com/dinoman_j/status/1371871108392235011) 
 

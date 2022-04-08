@@ -5,7 +5,7 @@ date: "2020-11-30"
 categories: 
   - "computer-science"
 images:
-  - /img/Small-Man-on-Map-scaled.webp
+  - /img/800/Small-Man-on-Map-scaled.webp
 ---
 
 Heuristics in [computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/) and artificial intelligence are "rules of thumb" used in algorithms to assist in finding approximate solutions to complex problems. Often, there's simply too much data to sift through in order to come to a solution in a timely manner, so a heuristic algorithm is used to trade exactness for speed. However, because heuristics are based on individual rules unique to the problem they are solving, the specifics of the heuristics vary from problem to problem.
@@ -27,7 +27,7 @@ Example problems and some of their common heuristics are given below.
 
 ## Traveling Salesperson Problem (TSP)
 
-![](/img/tsp-1024x606.jpg)
+![](/img/800/tsp-1024x606.jpg)
 
 The TSP is a famous [algorithm with a Big-O](https://boot.dev/big-o-algorithms-course/) complexity of `O(n!)` and asks the question:
 
@@ -39,7 +39,7 @@ The nearest-neighbor (NN) heuristic solves this problem nicely: the computer alw
 
 ## Knapsack Problem
 
-![](/img/knapsack.jpg)
+![](/img/800/knapsack.jpg)
 
 The knapsack problem poses the issue:
 

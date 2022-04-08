@@ -5,14 +5,14 @@ date: "2019-07-16"
 categories: 
   - "security"
 images:
-  - /img/snyk-logo.png
+  - /img/800/snyk-logo.png
 ---
 
 We recently integrated [Snyk](https://snyk.io/) into boot.dev as a way to get more visibility into known vulnerabilities in boot.dev's codebase. Snyk has already patched a [critical vulnerability in lodash](https://snyk.io/blog/snyk-research-team-discovers-severe-prototype-pollution-security-vulnerabilities-affecting-all-versions-of-l) for us. This allowed us to continue releasing new versions before the official fix for [lodash](https://github.com/lodash/lodash) was published a few days ago.
 
 We can't speak to whether Snyk is a cost-effective tool for commercial applications. However, their support for the open-source community by offering free integrations is worth the few minutes it takes to install.
 
-![snyk](/img/download.png)
+![snyk](/img/800/download.png)
 
 Their [quick start page allows developers to integrate their GitHub](https://app.snyk.io/signup) repository, then use the command-line tool to detect and apply any patches to their code.
 

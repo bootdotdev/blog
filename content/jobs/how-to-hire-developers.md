@@ -5,7 +5,7 @@ date: "2020-10-13"
 categories: 
   - "jobs"
 images:
-  - /img/interview.jpeg
+  - /img/800/interview.jpeg
 ---
 
 So you want to hire a developer? Or maybe you just want to know what is going through the heads of employers like myself. Either way, let's dive right into what _I think_ are best practices for hiring programmers. I've found my opinions to be quite controversial, but I do put them into practice in my own career and at [boot.dev](https://boot.dev/). When you inevitably disagree with some of my points, feel free to [@ me](https://twitter.com/wagslane).
@@ -44,7 +44,7 @@ I've found there are diminishing returns on your time spent trying to find a can
 
 **X Axis:** Number of candidates interviewed
 
-![Log(x)+4](/img/Screen-Shot-2020-10-13-at-7.24.24-AM-e1602595625480.png)
+![Log(x)+4](/img/800/Screen-Shot-2020-10-13-at-7.24.24-AM-e1602595625480.png)
 
 ## #4 - Whiteboarding
 

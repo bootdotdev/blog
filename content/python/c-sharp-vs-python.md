@@ -5,7 +5,7 @@ date: "2021-12-17"
 categories: 
   - "python"
 images:
-  - /img/cvspython.webp
+  - /img/800/cvspython.webp
 ---
 
 C# and Python represent the two sides of what it means to be a powerful language.
@@ -29,7 +29,7 @@ Python was developed by Guido van Rossum in 1991. It’s a high-level, interpret
 
 C#, on the other hand, was developed in 2000 by Anders Hejlsberg at Microsoft. It’s a statically typed, general-purpose language, that supports true OOP, functional, and component-oriented programming, along with others. C# acts as a more modernized and high-level version of C++ and is known as an insanely fast language.
 
-![](/img/pythonvsC.jpg)
+![](/img/800/pythonvsC.jpg)
 
 {{< cta1 >}}
 

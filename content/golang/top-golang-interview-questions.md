@@ -5,7 +5,7 @@ date: "2020-08-31"
 categories: 
   - "golang"
 images:
-  - /img/whiteboard.webp
+  - /img/800/whiteboard.webp
 ---
 
 Let's take a look at some good technical questions to be familiar with, whether you are the interviewer or the interviewee.

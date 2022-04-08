@@ -6,7 +6,7 @@ categories:
   - "golang"
   - "rust"
 images:
-  - /img/go-vs-rust.webp
+  - /img/800/go-vs-rust.webp
 ---
 
 Rust and Go are two of the industry's biggest successes when it comes to developing modern programming languages. Both languages compete in terms of backend [web development](/misc/top-web-development-languages/), and it's a fierce competition. Golang and Rust are new languages, have growing communities, and are fast and efficient. When it comes to microservice architectures, frameworks, and apps, Rust and Go are household names on the backend.
@@ -35,7 +35,7 @@ Go v1 released: March 28, 2012
 
 Performance metrics generally put Rust squarely ahead of Go, but not by a lot. The Rust compiler and language design allow developers to easily take advantage of optimizations that achieve speeds comparable to the likes of C. On the other hand, Go trades a small amount of speed for simplicity and elegant syntax.
 
-![](/img/rust-vs-go-speed.png)
+![](/img/800/rust-vs-go-speed.png)
 
 [benchmarksgame](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/rust-go.html)
 
@@ -47,7 +47,7 @@ Rust makes use of compile-time ownership strategy through [zero-cost abstraction
 
 While both approaches have their pros and cons, generally speaking Rust's compiler optimizations result in more performant programs. Alternatively, Go's application code is cleaner because memory management is fully handled by the runtime.
 
-![](/img/rust-vs-go-memory.png)
+![](/img/800/rust-vs-go-memory.png)
 
 [benchmarksgame](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/rust-go.html)
 

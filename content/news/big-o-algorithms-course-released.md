@@ -25,7 +25,7 @@ We are already planning a sequel to this course, so keep an eye out for that. Th
 
 ## Coding?
 
-![golang gopher slice literal](/img/Go_Lang_Gopher.jpg)
+![golang gopher slice literal](/img/800/Go_Lang_Gopher.jpg)
 
 Coding projects in this course are all written in Go (Golang)! If you aren't familiar with Go yet, take our [Go Mastery](https://boot.dev/go-mastery/) course. It's a growing language and is becoming a cornerstone of back-end and DevOps engineering. All coding assignments and quizzes, as usual, are completed right in the browser. We pride ourselves on keeping our content engaging and all in one convenient place.
 

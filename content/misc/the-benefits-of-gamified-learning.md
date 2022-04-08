@@ -5,7 +5,7 @@ date: "2021-01-20"
 categories: 
   - "misc"
 images:
-  - /img/photo-1552820728-8b83bb6b773f.webp
+  - /img/800/photo-1552820728-8b83bb6b773f.webp
 ---
 
 Why was that adjustment to college classes so hard? Sitting through hours of lectures and PowerPoints can be challenging for even the most dedicated students.
@@ -61,7 +61,7 @@ Autonomous learning allows you to learn at your own pace. In a classroom setting
 
 Learning progresses so much [faster](/jobs/learn-coding-fast/) when it's enjoyable. Beating levels and interacting with others online is what makes video games fun and it releases [endorphins](https://learningsolutionsmag.com/articles/1414/four-tips-gamification-according-to-endorphins)! Endorphins act similarly to opioids. They reduce pain and increase pleasure. Endorphins are released in response to certain stimuli. Most commonly, we connect endorphins to things like exercise, food, or sex. However, that feeling of accomplishment and excitement you get when you beat that really hard level you have been stuck on is also due to a release of endorphins. Endorphins improve memory and therefore improve your chances of success. You're more likely to continue doing something that you find enjoyable.
 
-![Gaming Makes You Happy Meme](/img/gaming-makes-you-happy-776x1024.jpg)
+![Gaming Makes You Happy Meme](/img/800/gaming-makes-you-happy-776x1024.jpg)
 
 ## Disadvantages of Gamified Learning
 

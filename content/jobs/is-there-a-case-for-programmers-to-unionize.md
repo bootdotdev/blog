@@ -5,7 +5,7 @@ date: "2021-02-15"
 categories: 
   - "jobs"
 images:
-  - /img/worker-union.webp
+  - /img/800/worker-union.webp
 ---
 
 I've seen a lot of buzz recently about software developers wanting to form unions. I'm particularly interested in this topic while I'm #indiehacking [boot.dev, where my goal is to provide a free-to-audit university-quality CS education](https://boot.dev/). I also want to point out that at the time of writing I'm a full-time software developer working for a separate company (not boot.dev). I'm not a manager and boot.dev is just a side-project. As of right now, I'm pretty sure I'm a member of the proletariat.
@@ -74,7 +74,7 @@ I can see unionization being the correct choice if bigoted executives are explic
 
 Spend a few minutes in [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/) or [/r/programmerhumor](https://www.reddit.com/r/ProgrammerHumor/) and it will become readily apparent that entry-level developers have a really hard time finding their first job. Who would hire someone with no previous experience? On the flip side, senior developers are constantly complaining about all the recruiters that won't leave them alone, and they're among some of the most well-compensated people in the workforce.
 
-![1 / 1 – programmer humor meme recruiter](/img/programmer-humor-meme.png)
+![1 / 1 – programmer humor meme recruiter](/img/800/programmer-humor-meme.png)
 
 **This is a real problem.**
 

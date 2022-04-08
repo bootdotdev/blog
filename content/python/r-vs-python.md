@@ -5,7 +5,7 @@ date: "2021-08-25"
 categories: 
   - "python"
 images:
-  - /img/R-vs-Python-min.png
+  - /img/800/R-vs-Python-min.png
 ---
 
 Python and R made a name for themselves as top-end competitors in the world of data science for their ability to seamlessly navigate and handle data. But what sets these languages apart from each other?

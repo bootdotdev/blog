@@ -5,7 +5,7 @@ date: "2020-11-10"
 categories: 
   - "jobs"
 images:
-  - /img/How-Long-Does-It-Take-to-Learn-to-Code.jpeg
+  - /img/800/How-Long-Does-It-Take-to-Learn-to-Code.jpeg
 ---
 
 There are so many obvious reasons to learn to code: freelancing opportunities, career advancement, [salary increase](/jobs/how-much-do-software-engineers-make/), and personal satisfaction among others. The advantages are so many that it’s worth the investment, no matter how many obstacles you might encounter.

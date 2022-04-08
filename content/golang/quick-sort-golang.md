@@ -5,7 +5,7 @@ date: "2021-06-17"
 categories: 
   - "golang"
 images:
-  - /img/quick.webp
+  - /img/800/quick.webp
 ---
 
 Quicksort is an efficient sorting algorithm commonly used in production sorting implementations. Like [Merge Sort](/golang/merge-sort-golang/), Quicksort is a [divide-and-conquer algorithm](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm). As the name implies, Quicksort is one of the fastest sorting algorithms, but you have to pay attention to detail in your implementation because if you're not careful, your speed can drop quickly.
@@ -29,7 +29,7 @@ Quicksort is an efficient sorting algorithm commonly used in production sorting 
 
 Quicksort actually makes use of two functions, the main `quicksort()` function as well as the `partition()` function. The meat of the algorithm counter-intuitively lives in the `partition()` function. It's responsible for finding the pivot and moving everything to the correct side of the pivot.
 
-![](/img/partition_function.gif)
+![](/img/800/partition_function.gif)
 
 In Go, the complete code would look like this.
 
@@ -52,7 +52,7 @@ func partition(arr []int, low, high int) ([]int, int) {
 
 The `quickSort()` function is really just a wrapper around the partition function, and it handles the recursive nature of the algorithm.
 
-![](/img/quicksort_animation.gif)
+![](/img/800/quicksort_animation.gif)
 
 ```go
 func quickSort(arr []int, low, high int) []int {

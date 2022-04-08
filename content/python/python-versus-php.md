@@ -5,7 +5,7 @@ date: "2021-11-05"
 categories: 
   - "python"
 images:
-  - /img/pexels-pixabay-67280.jpeg
+  - /img/800/pexels-pixabay-67280.jpeg
 ---
 
 PHP famously claims to be the backend programming language for just under [80% of the Internet](https://w3techs.com/technologies/details/pl-php). However, if you look at the popularity rankings of programming languages, Python is consistently far ahead of PHP. How can that be? Both languages can be used for backend web development, and PHP was even specifically made for that. So which one is better, Python or PHP? If I were starting fresh, I’d pick learning Python versus PHP any day, and here’s why.
@@ -20,7 +20,7 @@ PHP was created in 1994 by Rasmus Lerdorf. His first use for it was tracking who
 
 PHP has also been deemed a general-purpose scripting language. It was one of the first few server-side languages which developers could embed into HTML, which makes it easier to produce jazzy and interactive websites.
 
-![python vs php](/img/pythonvsphp.webp)
+![python vs php](/img/800/pythonvsphp.webp)
 
 ## Python versus PHP: Easiest to Learn
 

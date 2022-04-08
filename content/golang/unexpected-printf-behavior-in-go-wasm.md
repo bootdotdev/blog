@@ -5,7 +5,7 @@ date: "2020-08-10"
 categories: 
   - "golang"
 images:
-  - /img/fmt.Printf.png
+  - /img/800/fmt.Printf.png
 ---
 
 While working on [boot.dev's](https://boot.dev) [Go Playground](https://boot.dev/playground/go), I came across a very strange error. The standard library's [fmt.Printf()](https://golang.org/pkg/fmt/?m=all#Printf) function prints nothing to the console when called. _Nothing._

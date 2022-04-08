@@ -5,7 +5,7 @@ date: "2021-09-15"
 categories: 
   - "python"
 images:
-  - /img/Rust-vs-Python-min.webp
+  - /img/800/Rust-vs-Python-min.webp
 ---
 
 Rust and Python contrast in a unique way because while they both provide back-end web support, Python thrives as a flexible and consistent language, while Rust makes a name for itself with raw power and speed.
@@ -38,7 +38,7 @@ Both are innovative fields that offer very different environments.  
 
 It’s also incredibly popular, with companies like Spotify, Netflix, and Dropbox using Python to develop their platforms, along with its massive community of developers.
 
-![rust vs python performance, salary, for beginners, for machine learning and data science, and for system development](/img/Rust-vs-Python-Performance-Salary-min.png)
+![rust vs python performance, salary, for beginners, for machine learning and data science, and for system development](/img/800/Rust-vs-Python-Performance-Salary-min.png)
 
 Rust, on the other hand, works better as a later foray into programming. If you know C++ or C, Rust has a similar syntax so it may be easier for you to pick up.
 

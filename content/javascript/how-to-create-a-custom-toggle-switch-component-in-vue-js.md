@@ -5,7 +5,7 @@ date: "2020-07-21"
 categories: 
   - "javascript"
 images:
-  - /img/Screen-Shot-2020-07-20-at-2.webp
+  - /img/800/Screen-Shot-2020-07-20-at-2.webp
 ---
 
 Custom toggle switches are a pain to code from scratch. So many lines for such a simple UI widget! In this quick tutorial, we will learn how to build a fully encapsulated toggle switch component in Vue.js. The component we're building is used currently on [boot.dev's login page](https://boot.dev/). Go take a look to see a live demo.

@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/Lattice-Based-Cryptography.png
+  - /img/800/Lattice-Based-Cryptography.png
 ---
 
 Lattice-based cryptography, an important contender in the race for quantum-safe encryption, describes constructions of cryptographic primitives that involve mathematical lattices. Lattices, as they relate to crypto, have been coming into the spotlight recently. In January 2019, Many of the semifinalists in the [NIST post-quantum-cryptography competition](https://www.nist.gov/news-events/news/2019/01/nist-reveals-26-algorithms-advancing-post-quantum-crypto-semifinals) were based on lattices. Lattice-based cryptography has promising aspects that give us hope for cryptographic security in a post-quantum world.
@@ -29,7 +29,7 @@ More simply put, a lattice is defined by basis vectors, which are only able to b
 
 For example, let's create a lattice of all the integers in a two-dimensional plane:
 
-![two dimensional lattice](/img/Capture-1024x740.png)
+![two dimensional lattice](/img/800/Capture-1024x740.png)
 
 The definition of our lattice contains only 2 basis vectors,
 
@@ -37,11 +37,11 @@ v1 = (0,1)
 
 v2 = (1,0)
 
-![lattice with two vectors](/img/Capture2-1-1024x740.png)
+![lattice with two vectors](/img/800/Capture2-1-1024x740.png)
 
 Our lattice is the set of **all** values that can be reached by any combination and scale of our basis vectors. For example, the point (2,0) is in our lattice because it can be reached by 2\*v1
 
-![lattice with combination of vectors](/img/Capture3-1-1024x740.png)
+![lattice with combination of vectors](/img/800/Capture3-1-1024x740.png)
 
 Similarly, we could create an entirely new lattice by changing our basis vectors to
 
@@ -49,7 +49,7 @@ v1 = (0,3)
 
 v2 = (3,0)
 
-![lattice with change of basic vectors](/img/Capture5-1-1024x583.png)
+![lattice with change of basic vectors](/img/800/Capture5-1-1024x583.png)
 
 As you can see, now the intermediary points (0,1) and (0,1) **no longer exist** in our lattice. There is no way to scale v1 (0,3) and v2 (3,0) to reach those points without using fractional scalars. With lattices, we can only scale by whole integers.
 
@@ -67,7 +67,7 @@ In the quantum world, things don't look so peachy. [Shor's algorithm](https://en
 
 ## Shortest Vector Problem
 
-![shortest vector problem](/img/220px-SVP.svg_.png)
+![shortest vector problem](/img/800/220px-SVP.svg_.png)
 
 [The shortest vector problem (SVP)](https://en.wikipedia.org/wiki/Lattice_problem#Shortest_vector_problem_(SVP)) is one of the fundamentals problems presented by lattices that allow them to be useful in cryptography.
 

@@ -5,7 +5,7 @@ date: "2020-06-17"
 categories: 
   - "javascript"
 images:
-  - /img/Microsoft.webp
+  - /img/800/Microsoft.webp
 ---
 
 I'm a [gopher](https://blog.golang.org/gopher) by nature, so I expect consistent styling and linting in my codebases. More importantly, I don't like to think about styling. I like to type haphazardly and then have my editor apply styles automatically on save (`ctrl+s`, `cmd+s`). If you are the same way, hopefully, this will help you in your next Vue.js project.
@@ -16,7 +16,7 @@ I'm a [gopher](https://blog.golang.org/gopher) by nature, so I expect consistent
 
 After downloading VS Code, we are going to use 2 plugins. [Vue 2 Snippets](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) [](https://marketplace.visualstudio.com/items?itemName=octref.vetur)and [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint). Vue 2 Snippets will basically just provide some Vue specific auto completes, but Eslint will do the more important work of linting our code.
 
-![](/img/Microsoft.VisualStudio.Services.Icons-2-150x150.png)
+![](/img/800/Microsoft.VisualStudio.Services.Icons-2-150x150.png)
 
 You will also want to add the following to your project using our package manager's **devDependencies** if you don't already have them:
 

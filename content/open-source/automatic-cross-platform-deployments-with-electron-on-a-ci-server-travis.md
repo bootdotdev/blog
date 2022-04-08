@@ -5,7 +5,7 @@ date: "2019-08-08"
 categories: 
   - "open-source"
 images:
-  - /img/electron2.webp
+  - /img/800/electron2.webp
 ---
 
 This is a tutorial on how to set up an Electron app on [Travis CI](https://travis-ci.org/), so that new versions are deployed to [Github Releases](https://help.github.com/en/articles/creating-releases) with a simple pull request.
@@ -96,7 +96,7 @@ which will build and package your app locally into the _dist_ directory. However
 
 ## Travis CI
 
-![travis ci](/img/TravisCI-Full-Color.png)
+![travis ci](/img/800/TravisCI-Full-Color.png)
 
 Navigate to [https://travis-ci.org/](https://travis-ci.org/) and sign up using your Github account. Once signed in you should be able to select which repository you want to connect to Travis.
 

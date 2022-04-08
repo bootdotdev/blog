@@ -5,7 +5,7 @@ date: "2021-11-05"
 categories: 
   - "javascript"
 images:
-  - /img/Ruby-vs-JavaScript-min.png
+  - /img/800/Ruby-vs-JavaScript-min.png
 ---
 
 When broken down into core features – like programming style and code execution – JavaScript and Ruby seem deceivingly similar, but there are a few constitutional differences.
@@ -24,7 +24,7 @@ But which one should you learn first?
 
 Both languages have a lot to offer, but when it comes to choosing which one to learn _first,_ there are a few things to look at. We’ll start by examining which is best suited for beginners and offers the best salary, then analyze performance, different applications, and which one is best for you.
 
-![](/img/jsvsruby-1.jpg)
+![](/img/800/jsvsruby-1.jpg)
 
 ## Ruby vs JavaScript: Which Is Best for Beginners?
 

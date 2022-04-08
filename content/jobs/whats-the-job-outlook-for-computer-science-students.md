@@ -6,7 +6,7 @@ categories:
   - "computer-science"
   - "jobs"
 images:
-  - /img/pexels-photo-4974915-1-scaled.webp
+  - /img/800/pexels-photo-4974915-1-scaled.webp
 ---
 
 As the world becomes more and more dependent on technology, the demand for computer skills has increased immensely as well. The opportunities in information technology across all industries have never been greater, as worldwide ICT spending is expected to reach [$4.3 trillion this year](https://www.businesswire.com/news/home/20200218005150/en/Worldwide-ICT-Spending-to-Reach-4.3-Trillion-in-2020-Led-by-Investments-in-Devices-Applications-and-IT-Services-According-to-a-New-IDC-Spending-Guide).

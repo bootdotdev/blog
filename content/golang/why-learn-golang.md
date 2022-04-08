@@ -5,7 +5,7 @@ date: "2021-02-08"
 categories: 
   - "golang"
 images:
-  - /img/pexels-jeshootscom-7432-scaled.webp
+  - /img/800/pexels-jeshootscom-7432-scaled.webp
 ---
 
 ## Why learn Golang, and especially why learn Golang as a beginner coder?

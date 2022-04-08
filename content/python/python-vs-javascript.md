@@ -6,7 +6,7 @@ categories:
   - "javascript"
   - "python"
 images:
-  - /img/Python-vs-JavaScript-min.webp
+  - /img/800/Python-vs-JavaScript-min.webp
 ---
 
 From the outset, comparing JavaScript and Python seems a bit like comparing apples and oranges, but surprisingly there are quite a few similarities hidden beneath their popular exterior.
@@ -37,7 +37,7 @@ It’s also a procedural language, one of the easiest paradigms to learn, and ha
 
 Aside from being easy to learn, Python has an amazing standard library full of useful features, and excellent compatibility with industry-preferred third-party tools. And with a huge community of enthusiastic developers, there’s no short supply of open-source frameworks and libraries at your disposal, giving you plenty of diverse Python applications.
 
-![Python vs JavaScript compared on which is best for beginners, which has better performance, which is best for machine learning and data science, for front end development, and which has a higher salary](/img/Python-vs-JavaScript-compared-salary-performance-data-science-web-development-min-1.png)
+![Python vs JavaScript compared on which is best for beginners, which has better performance, which is best for machine learning and data science, for front end development, and which has a higher salary](/img/800/Python-vs-JavaScript-compared-salary-performance-data-science-web-development-min-1.png)
 
 This is particularly handy for accessing libraries for fields like AI, back-end development, and even finance and fintech when leveraging large mathematical data sets.
 

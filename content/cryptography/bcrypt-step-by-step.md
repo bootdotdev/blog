@@ -7,7 +7,7 @@ categories:
   - "golang"
   - "security"
 images:
-  - /img/lock.webp
+  - /img/800/lock.webp
 ---
 
 Bcrypt is a [key derivation function](/cryptography/key-derivation-functions/), which can be thought of as a special kind of [hash function](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/). Its purpose is to _slowly_ convert a piece of input data to a fixed-size, deterministic, and unpredictable output. A common use case is to convert a password into an n-bit [cryptographic](/cryptography/what-is-cryptography/) key, which can then be used for safe authentication.

@@ -5,7 +5,7 @@ date: "2021-07-23"
 categories: 
   - "clean-code"
 images:
-  - /img/unique.webp
+  - /img/800/unique.webp
 ---
 
 A universally unique identifier (UUID) is a 128-bit format for creating IDs in code that has become popular in recent years, especially in relation to database keys. By using UUIDs, you ensure that your ID is not just unique in the context of a single database table or web application, but is truly unique in the universe. No other ID in existence should be the same as yours.

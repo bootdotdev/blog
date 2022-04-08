@@ -5,7 +5,7 @@ date: "2020-11-06"
 categories: 
   - "javascript"
 images:
-  - /img/java-vs-javascript.webp
+  - /img/800/java-vs-javascript.webp
 ---
 
 The naming of Java and JavaScript confuses many new programmers. They sound so similar, so one might think they have the same use-cases, similar properties, or maybe the same company created both languages. None of those assumptions are true! JavaScript is primarily used as a front-end in-the-browser language, like how we use it for [boot.dev's courses](https://boot.dev/). Java has been used for everything from games, to desktop apps, to backend APIs. Let's go over the differences between JavaScript vs Java in this quick read.
@@ -54,7 +54,7 @@ This was the case for a long time. However, in the last decade, front-end develo
 
 ## Runtimes, Speed, and Benchmarks
 
-![runner in starting blocks](/img/photo-1461896836934-ffe607ba8211-1024x683.jpeg)
+![runner in starting blocks](/img/800/photo-1461896836934-ffe607ba8211-1024x683.jpeg)
 
 Most compiled languages like C, C++, and Go compile code directly into machine instructions. Those instructions are specific to a CPU architecture and operating system. **Neither Java nor JavaScript are typically compiled in this way.**
 
@@ -74,7 +74,7 @@ JavaScript is an interpreted language that has many different interpreter implem
 
 As you can see in the following benchmarks, Java fairly consistently performs better than Node in regards to memory and CPU:
 
-![binary trees](/img/Screen-Shot-2020-01-13-at-8.51.55-AM.png)
+![binary trees](/img/800/Screen-Shot-2020-01-13-at-8.51.55-AM.png)
 
 [source](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/javascript.html)
 

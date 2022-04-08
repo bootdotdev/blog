@@ -6,7 +6,7 @@ categories:
   - "golang"
   - "rust"
 images:
-  - /img/photo-1518181835702-6eef8b4b2113.webp
+  - /img/800/photo-1518181835702-6eef8b4b2113.webp
 ---
 
 One of the primary goals of the Go programming language is to make concurrency simpler, faster, and more efficient. With Rust growing in popularity let's see how its concurrency mechanisms stack up against Go's.
@@ -149,7 +149,7 @@ You've heard it before but no approach is _best_, they are all just _different_.
 
 Goroutines are very different from async/await. Async/Await explicitly accomplishes concurrency, but not necessarily parallelism. In other words, while async/await _logically_ executes two functions at once, it doesn't always _practically_ do so. It all depends on the [executor](https://docs.rs/futures/0.2.1/futures/executor/index.html) that is used.
 
-![](/img/Untitled.jpg)
+![](/img/800/Untitled.jpg)
 
 Async/Await is a useful paradigm for programs that have heavy I/O wait times but aren't doing long-running compute-heavy workloads.
 

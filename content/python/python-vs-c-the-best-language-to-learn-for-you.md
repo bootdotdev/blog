@@ -5,7 +5,7 @@ date: "2021-11-17"
 categories: 
   - "misc"
 images:
-  - /img/PythonvsC-1-1.webp
+  - /img/800/PythonvsC-1-1.webp
 ---
 
 It’s either a blessing or a curse when choosing to learn Python or C++ because there couldn’t be two more opposing languages to compare.
@@ -20,7 +20,7 @@ And to further highlight the differences between these two languages, Python is 
 
 So how do you choose between these clashing languages? Let’s start by breaking down which language is best for beginners, then focus on salary, performance, different applications, and which one is best for you!
 
-![](/img/pythonvsC-1.jpg)
+![](/img/800/pythonvsC-1.jpg)
 
 ## Python vs C++ Which Is Best for Beginners?
 

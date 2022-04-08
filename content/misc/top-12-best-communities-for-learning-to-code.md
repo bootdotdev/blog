@@ -5,14 +5,14 @@ date: "2020-11-12"
 categories: 
   - "misc"
 images:
-  - /img/Best-Practices-For-Writing-Clean-Interfaces-in-Go-1.webp
+  - /img/800/Best-Practices-For-Writing-Clean-Interfaces-in-Go-1.webp
 ---
 
 Programming communities are so valuable because the life of a programmer can be isolated, especially if you opt to work as a freelancer or in a remote-first position. Even if you don't have a solitary position, getting in touch with other programmers can make it much easier to improve your own skills and learn about new and exciting projects and technologies in the works. Luckily, there are a ton of amazing communities out there dedicated to helping novice programmers improve their skills, meet like-minded devs, and efficiently network with other experienced professionals.
 
 ## 1\. Top Coding Subreddits
 
-![](/img/Reddit-512.png)
+![](/img/800/Reddit-512.png)
 
 Reddit is a massive community that touches on virtually all topics. It boasts thousands of sub-communities called subreddits, so finding a place to have endless conversations about niche programming activities is quite easy to do. Even though the site is fairly anonymous, networking can be done easily via the platform’s user-friendly mail and chat functions for users. Some popular Reddit communities for programming include:
 
@@ -92,7 +92,7 @@ The community is quite inexperienced. Sometimes it can feel like the blind leadi
 
 ## [5\. Twitter](https://twitter.com/q_vault)
 
-![](/img/logo.png)
+![](/img/800/logo.png)
 
 It might be a bit of a surprise to see this social media giant on our list. However Twitter can be a pretty great place to not only network with other programmers but also to keep your thumb on the pulse of the industry. Twitter is simple, you can use it to share content on other platforms, draft short tidbits to share with your followers, follow important figures in the development community, and contact or network with other developers in your niche.
 
@@ -112,7 +112,7 @@ It might be a bit of a surprise to see this social media giant on our list. Howe
 
 ## [6\. Discord](https://discord.com/invite/H2bTNATa)
 
-![](/img/Discord-privacy-tips-that-you-should-use-.jpg)
+![](/img/800/Discord-privacy-tips-that-you-should-use-.jpg)
 
 Discord has many different servers where developers can chat in real time. We have our own Discord server for boot.dev, so feel free to hop into that.
 
@@ -128,13 +128,13 @@ You probably want to use the desktop client, meaning it's not easy to access the
 
 ## 7\. Slack
 
-![](/img/Slack-Logo.png)
+![](/img/800/Slack-Logo.png)
 
 Slack doesn't need much explanation due to its fame, and the key points are similar to Discord. The main differences are that Slack requires a paid plan to unlock some important features like persisted message history. There are many good servers, but one of my favorites is the [Gophers server](https://gophers.slack.com/messages/general/) if you are into the Go language.
 
 ## [8\. Github](https://github.com/bootdotdev)
 
-![](/img/github.jpeg)
+![](/img/800/github.jpeg)
 
 Github is a unique community in that communication between users isn’t all that simple. Rather, the focus of this platform is to allow developers to share their _code_ in an open-source environment. While it may not be a great community for networking, it’s an excellent community for finding projects and people to collaborate with on the code itself. If you are looking to meet people you can:
 
@@ -144,7 +144,7 @@ Github is a unique community in that communication between users isn’t all tha
 
 ## [9\. Hashnode](https://wagslane.hashnode.dev/)
 
-![](/img/KRJOep1kV.png)
+![](/img/800/KRJOep1kV.png)
 
 This online community is dedicated to helping developers share knowledge and improve their individual careers. A global platform, Hashnode is discussion-based, meaning users can communicate openly for networking, write stories, ask anonymous questions, launch polls, etc. Think of it as a social media platform for devs.
 
@@ -165,7 +165,7 @@ They also recently launched their ambassador program. You can use my referral li
 
 ## [10\. Medium](https://medium.com/qvault)
 
-![](/img/1J-PcIDrkewUmwrTZuJIIJA-1600x800.jpeg)
+![](/img/800/1J-PcIDrkewUmwrTZuJIIJA-1600x800.jpeg)
 
 Like Reddit, Medium is a large blogging platform that touches on pretty much every topic imaginable, it's not specific to code at all. While the programming community on the platform is pretty small, that can actually make it easier to connect with programmers for the purpose of making friends or networking. It can be an excellent place to write and read programming content.
 

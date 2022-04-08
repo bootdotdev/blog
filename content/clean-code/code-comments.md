@@ -5,7 +5,7 @@ date: "2020-10-29"
 categories: 
   - "clean-code"
 images:
-  - /img/comment.webp
+  - /img/800/comment.webp
 ---
 
 I often hear that we need more and better comments in the code we write. In my experience, we often need _better_ comments, we rarely need more, and often we need _less_. Before you crucify me for my sacrilege, let me explain.

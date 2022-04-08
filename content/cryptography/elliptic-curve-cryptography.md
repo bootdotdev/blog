@@ -7,7 +7,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/Elliptic-curve-blog-post-min.webp
+  - /img/800/Elliptic-curve-blog-post-min.webp
 ---
 
 Elliptic Curve Cryptography (ECC) is a modern [public-key encryption](https://searchsecurity.techtarget.com/definition/public-key) technique famous for being smaller, faster, and more efficient than incumbents. Bitcoin, for example, uses ECC as its asymmetric cryptosystem because it is so lightweight. The mathematical entity that makes all of this possible is the elliptic curve, so read on to learn how these curves enable some of the most advanced [cryptography](/cryptography/what-is-cryptography/) in the world.
@@ -28,7 +28,7 @@ Let's go over a quick background of public-key cryptography as a jumping-off poi
 
 Public-key cryptography allows the following to happen:
 
-![encryption algorithm example ](/img/encaes.jpeg)
+![encryption algorithm example ](/img/800/encaes.jpeg)
 
 [wikia](http://itlaw.wikia.com/wiki/Key_pair)
 
@@ -94,7 +94,7 @@ This is probably why most of you are here. The trapdoor function is what makes E
 
 First, we start with an arbitrary point on the curve. Next, we use the dot function to find a new point. Finally, we keep repeating the dot function to hop around the curve until we finally end up at our last point. Let's walk through the algorithm.
 
-![ecc's trapdoor function example](/img/lines.gif)
+![ecc's trapdoor function example](/img/800/lines.gif)
 
 [arstechnica](https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/2/)
 
@@ -124,7 +124,7 @@ No. The second point (we will call it -R below) is actually the result of P dot 
 
 So what is `P dot P`? It is actually just the tangent line of P. See the graphic below:
 
-![dot function elliptical curve ](/img/curve.jpeg)
+![dot function elliptical curve ](/img/800/curve.jpeg)
 
 [Image Source](https://devcentral.f5.com/articles/real-cryptography-has-curves-making-the-case-for-ecc-20832)
 
@@ -132,7 +132,7 @@ So what is `P dot P`? It is actually just the tangent line of P. See the graphic
 
 If the line doesn’t hit the curve close to the origin, we can actually define a maximum X value where the line will wrap back around and start from the beginning again. See the graphic below for an example.
 
-![elliptic curve cryptography illustration](/img/liones.gif)
+![elliptic curve cryptography illustration](/img/800/liones.gif)
 
 [Image Source](https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/2/)
 

@@ -6,12 +6,12 @@ categories:
   - "computer-science"
   - "python"
 images:
-  - /img/list.jpeg
+  - /img/800/list.jpeg
 ---
 
 A linked list is a linear data structure where elements are not stored next to each other in memory. The elements in a linked list are linked using pointers or references. Linked lists are an ordered collection of objects, similar to a normal list. Linked lists stand apart from lists in how they store elements in memory. While regular lists like arrays and slices use a contiguous memory block to store references to their data, linked lists store _references_, aka _pointers_ as part of each element.
 
-![array vs linked list](/img/difference-between-arrays-and-linked-list-1024x431.jpg)
+![array vs linked list](/img/800/difference-between-arrays-and-linked-list-1024x431.jpg)
 
 [source](https://www.faceprep.in/data-structures/linked-list-vs-array/)
 

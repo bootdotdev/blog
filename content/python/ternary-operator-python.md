@@ -5,7 +5,7 @@ date: "2021-12-09"
 categories: 
   - "python"
 images:
-  - /img/ternary.webp
+  - /img/800/ternary.webp
 ---
 
 Developers love concise code that's easy to read. A ternary operator in Python is a piece of syntax that lets you perform a small if/else statement in a single line. Let's take a look at a few examples.

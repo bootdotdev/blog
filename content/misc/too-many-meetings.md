@@ -6,7 +6,7 @@ categories:
   - "jobs"
   - "news"
 images:
-  - /img/meetings-on-couch.webp
+  - /img/800/meetings-on-couch.webp
 ---
 
 Perhaps you've heard of the fabled 10x developer (or 10x engineer) - the one on the team that's 10x as productive as their average colleague. While many, including myself, doubt the existence of such people, **I do think there are meetings that are 10x as productive as the average meeting**. My goal in this article is to break down their properties so we can have 10x fewer meetings.
@@ -28,7 +28,7 @@ Meetings are a communication mechanism. In the context of software development, 
 
 ## Why a meeting instead of an email?
 
-![](/img/meeting-email-meme-1024x536.jpeg)
+![](/img/800/meeting-email-meme-1024x536.jpeg)
 
 There are many companies that make the goal of a 10x meeting more attainable because they set the bar for meeting productivity right in the dirt, we just have to lazily roll over it.
 
@@ -54,7 +54,7 @@ Now that we know the goal of a good meeting is to communicate in ways that are m
 
 ## Turn down those meetings
 
-![smokey bear meme useless meetings](/img/Add-a-heading-1024x576.jpg)
+![smokey bear meme useless meetings](/img/800/Add-a-heading-1024x576.jpg)
 
 If you're a scheduler, you can obviously stop scheduling dumb meetings. Remember - the number of meetings you and your coworkers are attending is _not a KPI_, it's not a measure of productivity. In fact, freeing up your team's time to get _actual work_ done does have a positive impact on productivity.
 

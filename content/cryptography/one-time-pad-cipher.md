@@ -5,7 +5,7 @@ date: "2021-06-28"
 categories: 
   - "cryptography"
 images:
-  - /img/eyeball-art.webp
+  - /img/800/eyeball-art.webp
 ---
 
 In [cryptography](/cryptography/what-is-cryptography/), the one-time pad, or OTP is a way of encrypting information so securely that it's impossible to be cracked. That said, OTP has a major drawback in that it requires both parties to have access to the _same_ key before a message is encrypted.

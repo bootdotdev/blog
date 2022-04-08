@@ -5,7 +5,7 @@ date: "2021-11-09"
 categories: 
   - "javascript"
 images:
-  - /img/Nodejs-vs-Javascript-min.webp
+  - /img/800/Nodejs-vs-Javascript-min.webp
 ---
 
 So you’re a fan of web development? Great! You’re probably already familiar with JavaScript (if not, [check out our JavaScript course here](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb)) and may have heard of Node.js as well. But which one is better, and how are they different? When should you pick Node.js vs JavaScript?

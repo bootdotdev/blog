@@ -2,7 +2,8 @@
   "root": true,
   "env": {
     "browser": true,
-    "worker": true
+    "worker": true,
+    "node": true
   },
   "extends": [
     "eslint:recommended",

@@ -5,7 +5,7 @@ date: "2021-09-08"
 categories: 
   - "cryptography"
 images:
-  - /img/What-is-cryptography-guide-min.webp
+  - /img/800/What-is-cryptography-guide-min.webp
 ---
 
 ## What is cryptography?
@@ -109,7 +109,7 @@ The answer is that for communication to another party, you'll probably want to u
 
 Common symmetric encryption algorithms include [AES](/cryptography/aes-256-cipher/) and [DES](https://en.wikipedia.org/wiki/Data_Encryption_Standard).
 
-![symmetric encryption vs asymmetric encryption](/img/Symmetric-vs-Asymmetric-Cryptography-min-1024x1024.png)
+![symmetric encryption vs asymmetric encryption](/img/800/Symmetric-vs-Asymmetric-Cryptography-min-1024x1024.png)
 
 ### Asymmetric key cryptography
 

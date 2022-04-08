@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/cybersecurity-speakers.webp
+  - /img/800/cybersecurity-speakers.webp
 ---
 
 HMACs and MACs are authentication codes and are often the backbone of JWT authentication systems. A Message Authentication Code (MAC) is a string of bits that depends on a secret key and is sent with a message to prove the message wasn't tampered with. HMACs are a more strict version of MACs that offer additional security benefits.
@@ -15,7 +15,7 @@ HMACs and MACs are authentication codes and are often the backbone of JWT authen
 
 MACs are exactly what they sound like; small codes that allow receivers of messages to know who the sender was (authentication). A MAC code is calculated by using a message and a secret key as inputs. Anyone who has a copy of that secret key can then verify that that code and message were created by someone with the same key.
 
-![MAC diagram](/img/Screen-Shot-2019-12-12-at-7.49.24-AM.png)
+![MAC diagram](/img/800/Screen-Shot-2019-12-12-at-7.49.24-AM.png)
 
 One way this is accomplished is by using a [hash function,](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) for instance, [SHA-256](/cryptography/how-sha-2-works-step-by-step-sha-256/). Simply put, a hash function takes an input and then returns an output, where:
 

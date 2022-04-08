@@ -5,7 +5,7 @@ date: "2021-09-22"
 categories: 
   - "golang"
 images:
-  - /img/Go-vs-C-Sharp-min.webp
+  - /img/800/Go-vs-C-Sharp-min.webp
 ---
 
 Golang and C# offer a unique mixture of similarities and differences, having both been inspired by the same language but operating in vastly different ways.
@@ -34,7 +34,7 @@ Go and C# also have similar capabilities and a rich collection of base class lib
 
 Go’s garbage collector and asynchronous abilities are slightly more optimized, but both languages execute these features solidly.
 
-![go vs c sharp for experienced programmers, high salaries, performance, web development and game development](/img/Go-vs-C-Sharp-salary-performance-web-development-game-min-1.png)
+![go vs c sharp for experienced programmers, high salaries, performance, web development and game development](/img/800/Go-vs-C-Sharp-salary-performance-web-development-game-min-1.png)
 
 {{< cta1 >}}
 

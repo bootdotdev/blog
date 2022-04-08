@@ -6,7 +6,7 @@ categories:
   - "golang"
   - "open-source"
 images:
-  - /img/photo-1557431518-26e2500b8680.webp
+  - /img/800/photo-1557431518-26e2500b8680.webp
 ---
 
 [RabbitMQ](https://www.rabbitmq.com/features.html) is a great message broker with awesome Golang support. It's a great pub-sub system, and pub-sub has become a staple communication architecture in micro-services. At my current day job, we use RabbitMQ to push hundreds of millions of social media posts through our Go services daily.
@@ -17,7 +17,7 @@ In this post, we're going to go over how to implement the low-level open-source 
 
 The two main entities to be aware of with Rabbit are `routing keys` and `queues`. A service publishes a message (JSON in our case) to a routing key. RabbitMQ then _copies_ that message into each queue that's subscribed to that routing key.
 
-![](/img/exchanges-bidings-routing-keys.png)
+![](/img/800/exchanges-bidings-routing-keys.png)
 
 The subscribing service (the consumer) can pull messages off of a queue one at a time. It's worthwhile to note that a queue can also receive messages from multiple routing keys, but we won't be diving into that here.
 

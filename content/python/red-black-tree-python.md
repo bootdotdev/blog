@@ -5,7 +5,7 @@ date: "2021-06-21"
 categories: 
   - "python"
 images:
-  - /img/red-black.webp
+  - /img/800/red-black.webp
 ---
 
 A red-black tree is a kind of self-balancing binary search tree. Each node stores an extra bit, which we will call the color, red or black. The color ensures that the tree remains _approximately_ balanced during insertions and deletions. When the tree is modified, the new tree is rearranged and repainted to restore the coloring properties that constrain how unbalanced the tree can become in the worst case.
@@ -135,7 +135,7 @@ The insert method will look a lot like a traditional binary tree insert method. 
 
 We'll need some rotation methods in our "fix" step that's coming up. Let's code those now.
 
-![](/img/rotate_red_black_tree_right.gif)
+![](/img/800/rotate_red_black_tree_right.gif)
 
 ```py
 # rotate left at node x

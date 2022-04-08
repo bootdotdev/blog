@@ -5,7 +5,7 @@ date: "2021-01-06"
 categories:
   - "jobs"
 images:
-  - /img/Man-at-Desk.webp
+  - /img/800/Man-at-Desk.webp
 ---
 
 It sounds like a pipe dream. A well-paid programming job, with no experience? Get out of town. Well, as it turns out, it's both just about as difficult as you believe, but probably easier than you think. As with most things, the main obstacle standing in the way of you getting a programming job with no experience is yourself.
@@ -14,7 +14,7 @@ So what are the best ways to get a programming job with no experience? And are y
 
 ## Know Your Stuff
 
-![](/img/undraw_hacker_mind_6y85-1024x694.png)
+![](/img/800/undraw_hacker_mind_6y85-1024x694.png)
 
 This sounds braindead, I know, but you'd be surprised how many people apply for positions they're absolutely unqualified for. And I'm not saying that they don't have the requisite experience or education boxes checked - I mean these people apply for jobs that they have no way to succeed at. There's nothing a prospective employer hates more than hiring someone who can't do what they said they could.
 
@@ -65,7 +65,7 @@ If your potential employer is interested in your resume, they're certainly going
 
 If nothing else, having a microblog can indicate that you're dedicated to the idea of software development and have more than a passing interest in the field. Open-source projects, personal endeavors, or even school assignments - all of these can show up when your name is Googled, and you should do your best to make sure that they do. You're trying to get a programming job with no experience - generate some interest!
 
-![](/img/undraw_Social_media_re_w12q-1024x710.png)
+![](/img/800/undraw_Social_media_re_w12q-1024x710.png)
 
 I made an aside moments ago about tailoring your social media appropriately - do that. Make sure it's professional, or at least business casual. If you can't do that, then do your best to divorce your social media from your name. That way, you can leave plenty of space between who you are, and who you want employers to see.
 
@@ -83,7 +83,7 @@ You've heard of the app store, right? I'd imagine you have. Android, iPhone, or 
 
 So, make an app. Any app. Make an app that allows you to press a button every time you see a bug, and then automatically generates a chart of the number of bugs you see on a daily basis compared to previous days. It doesn't matter what the app is, just that you made it, put it on the store, and put a link to it in your portfolio. Proof that you can write and deploy code.
 
-![](/img/undraw_QA_engineers_dg5p-1-1024x734.png)
+![](/img/800/undraw_QA_engineers_dg5p-1-1024x734.png)
 
 Bonus points if your app is actually useful, and people actually download it. Maybe you'll even make some money on the side.
 
@@ -117,7 +117,7 @@ You have to keep bothering people until you get what you want from them. By defa
 
 That's quite an improvement from being forgotten, I'd say. So don't be forgotten.
 
-![](/img/undraw_phone_call_grmk-1024x637.png)
+![](/img/800/undraw_phone_call_grmk-1024x637.png)
 
 Persistence isn't the only thing that is going to be memorable, though. This gets a little tactical, but don't be afraid to be outlandish. If you've been failing to find a good job for months, try offering to work for free as an intern, or in a contracting position for a low rate. Emphasize the _temporary_, _trial nature_ of this arrangement, but don't be afraid to offer it. Do anything to give yourself an opportunity to prove yourself to a potential employer.
 

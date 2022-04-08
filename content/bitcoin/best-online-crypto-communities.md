@@ -5,14 +5,14 @@ date: "2020-01-08"
 categories: 
   - "bitcoin"
 images:
-  - /img/people-at-a-concert-scaled.jpeg
+  - /img/800/people-at-a-concert-scaled.jpeg
 ---
 
 Crypto has been explosive in 2021. The gains have been even better than the memes! While dancing cat videos are fun, the wise will also take advantage of the various communities as an opportunity to learn more about the technology that supports decentralized money. I've put together a small list of the top crypto communities for you to check out this year!
 
 ## [#1 Bitcointalk](https://bitcointalk.org/)
 
-![bitcoin coin](/img/btc.png)
+![bitcoin coin](/img/800/btc.png)
 
 Bitcointalk is undoubtedly the gold standard for the crypto community on the web. There are 3 million posts and two million members on this platform. There are several sections dedicated to speculation, mining, development, technical support, IOC, and more. Also, the site is available in twenty different languages.
 
@@ -20,7 +20,7 @@ Bitcointalk is undoubtedly the gold standard for the crypto community on the web
 
 ## [#2 Reddit - /r/bitcoin](http://reddit.com/r/bitcoin)
 
-![reddit logo](/img/1_e3E0OQzfYCuWk0pket5dAA-1024x576.png)
+![reddit logo](/img/800/1_e3E0OQzfYCuWk0pket5dAA-1024x576.png)
 
 Reddit has the most siloed and specific communities in regards to crypto. It's a great place to go, but beware, tribalism runs deep and if you are in favor of the "wrong coin" on the wrong subreddit, you may just get banned.
 
@@ -40,19 +40,19 @@ Steemit was one of the first blockchains to focus on social media. In return for
 
 ## [#6 Telegram](https://telegramcryptogroups.com/)
 
-![telegram logo](/img/unnamed.png)
+![telegram logo](/img/800/unnamed.png)
 
 Telegram is seen as a competitor of WhatsApp as it is also a chatting App. Numerous Crypto professionals have made groups. Some of these groups require little payment while there are some groups that are also free.
 
 ## [#7 Medium](https://medium.com/search?q=crypto)
 
-![medium](/img/1_I0E7U5xI-4UvnkExSGKp_w.png)
+![medium](/img/800/1_I0E7U5xI-4UvnkExSGKp_w.png)
 
 Medium is referred to as a backer on the community of Crypto. Albeit it does not directly belong to the direct digital currency community. Medium could further be explained as a microblogging site, and it is also a renowned place for Crypto Content.
 
 ## [#8 Discord](https://top.gg/servers/tag/crypto)
 
-![discord logo](/img/discord-logo-logodownload-download-logotipos-1.png)
+![discord logo](/img/800/discord-logo-logodownload-download-logotipos-1.png)
 
 Similar to Telegram, discord has live chats and servers dedicated to various crypto communities. If you want to talk in real-time, and sometimes even over voice chat, Discord might be the place for you. Discord DMs are often full of bots and scammers though, so beware while on the platform! Run from anyone trying to give you "free money".
 

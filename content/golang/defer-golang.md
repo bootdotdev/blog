@@ -5,7 +5,7 @@ date: "2021-06-01"
 categories: 
   - "golang"
 images:
-  - /img/hand-signal.webp
+  - /img/800/hand-signal.webp
 ---
 
 ## What is the "defer" keyword in Go?

@@ -5,7 +5,7 @@ categories:
   - "clean-code"
 author: Lane Wagner
 images:
-  - /img/calculus-on-a-chalkboard.webp
+  - /img/800/calculus-on-a-chalkboard.webp
 ---
 
 Functional programming is a way to writing code where programs are created strictly through functions. Functional programming has gained quite a bit of traction in recent years among the development community, mostly because of the benefits it provides.
@@ -40,7 +40,7 @@ Because pure functions ensure that the state of the outside program isn't altere
 
 ### 2\. Pure functions are easier to test
 
-![](/img/testing-in-bio-lab-300x204.jpeg)
+![](/img/800/testing-in-bio-lab-300x204.jpeg)
 
 Pure functions are very easy to test for a couple reasons:
 
@@ -57,7 +57,7 @@ Debugging and writing code with fewer bugs becomes quite a bit easier with pure 
 
 Let's take a look at the [Elm architecture](https://guide.elm-lang.org/architecture/) as an example. Elm is a purely functional programming language used to render webpages on the front end of an application.
 
-![](/img/elm-architecture-300x230.jpg)
+![](/img/800/elm-architecture-300x230.jpg)
 
 The Elm code is purely functional. It takes "state" as an input and converts it into the HTML that will render on the page. Whenever the user interacts with the page, the state is updated _outside_ of the Elm code. That state is then fed back into the Elm code and a new HTML output is produced.
 

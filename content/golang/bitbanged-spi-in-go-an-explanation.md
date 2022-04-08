@@ -5,7 +5,7 @@ date: "2020-01-09"
 categories: 
   - "golang"
 images:
-  - /img/1_5WD0gV6autEIzv8GMkc5gQ.webp
+  - /img/800/1_5WD0gV6autEIzv8GMkc5gQ.webp
 ---
 
 I’m going to focus mostly on some design decisions and also how I went about writing an SPI interface using Go on a Raspberry Pi. I assume my readers have a basic understanding of what a Raspberry Pi is, and how basic electronics work. If not, read on anyway and I will be sure to include some valuable resources below.
@@ -14,7 +14,7 @@ I’m going to focus mostly on some design decisions and also how I went about w
 
 In a past life, I worked on hardware interfacing software. The first thing I can certainly tell you is that I hate C. Don’t get me wrong, I understand the appeal of having lightning-fast code. Also, the ability to manipulate memory and low-level functions is useful. I also understand the headache of writing concurrent C code, and anyone familiar with Go knows that this is where it shines.
 
-![Raspberry Pi 3](/img/1_l-OnL3gWfBBOTceP8V-vXw.jpeg)
+![Raspberry Pi 3](/img/800/1_l-OnL3gWfBBOTceP8V-vXw.jpeg)
 
 [https://www.raspberrypi.org/blog/compute-module-3-launch/](https://www.raspberrypi.org/blog/compute-module-3-launch/)
 
@@ -34,7 +34,7 @@ It is important to note that the program in question was doing a lot more than j
 
 ## What is SPI?
 
-![Master Slave SPI](/img/1_5WD0gV6autEIzv8GMkc5gQ.png)
+![Master Slave SPI](/img/800/1_5WD0gV6autEIzv8GMkc5gQ.png)
 
 [http://www.circuitbasics.com/basics-of-the-spi-communication-protocol/](http://www.circuitbasics.com/basics-of-the-spi-communication-protocol/)
 

@@ -5,7 +5,7 @@ date: "2020-11-16"
 categories: 
   - "golang"
 images:
-  - /img/Should-You-Commit-Your-Vendor-Folder_.webp
+  - /img/800/Should-You-Commit-Your-Vendor-Folder_.webp
 ---
 
 The answer to the age-old question of, "_should I commit the vendor dependencies in my Go project to source control?_" is "_almost always_". As an FYI, we here at [boot.dev](https://boot.dev) use Go for all of our backend work, and we always commit our vendor folders. Let's take a look at the reasoning behind my claim that committing dependencies is ideal.
@@ -16,7 +16,7 @@ If you are coming from Node.js land, Golang's vendor folder is basically the sam
 
 `node_modules` is infamous for its large size.
 
-![node_modules is the heaviest object in the universe](/img/tfugj4n3l6ez-300x216.png)
+![node_modules is the heaviest object in the universe](/img/800/tfugj4n3l6ez-300x216.png)
 
 As a result, conventional wisdom in the Node community is to add `node_modules` to the `.gitignore` file in order to save space. After all, a quick `npm install` (or in Go's case `go get`) will grab everything right?
 

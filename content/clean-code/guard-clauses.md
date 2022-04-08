@@ -5,7 +5,7 @@ date: "2020-09-06"
 categories: 
   - "clean-code"
 images:
-  - /img/Guard-Clauses.webp
+  - /img/800/Guard-Clauses.webp
 ---
 
 One of the first concepts [new developers](https://blog.boot.dev/) learn is the if/else statement. If/else statements are the most common way to execute conditional logic. However, complex and nested if/else statements can quickly become a cognitive burden and compromise the readability of a program.

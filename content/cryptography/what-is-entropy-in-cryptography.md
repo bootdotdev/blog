@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/What-is-entropy.webp
+  - /img/800/What-is-entropy.webp
 ---
 
 If you're familiar with the [laws of thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics), you may recognize the second law as the one that deals with entropy. In the realm of physics, entropy represents the degree of disorder in a system. Because systems tend to degrade over time, thermodynamic energy becomes less available to do mechanical work. In cryptography, [entropy](https://en.wikipedia.org/wiki/Entropy_(computing)) has a distinct but similar meaning.
@@ -41,7 +41,7 @@ Sources of randomness from the environment include inter-keyboard timings, inter
 
 When a user is clicking around or typing, those timings (along with other system timings), are used as inputs to a pool of randomness, an "entropy pool". Since these events could happen at any time, and it would be hard to predict when they will happen in advance.
 
-![hot tub](/img/gross-jacuzzi-pool-water.jpg)
+![hot tub](/img/800/gross-jacuzzi-pool-water.jpg)
 
 Entropy Pool, Probably
 

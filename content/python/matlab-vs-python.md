@@ -5,7 +5,7 @@ date: "2021-10-01"
 categories: 
   - "python"
 images:
-  - /img/Matlab-vs-Python.webp
+  - /img/800/Matlab-vs-Python.webp
 ---
 
 Matlab and Python both can do quite different and incredible things, which makes Matlab versus Python an interesting question. The better question is more nuanced. When considering Matlab vs Python, which is best for _you_? 

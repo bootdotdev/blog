@@ -5,7 +5,7 @@ date: "2020-10-01"
 categories: 
   - "golang"
 images:
-  - /img/organize.webp
+  - /img/800/organize.webp
 ---
 
 I lead a team that's responsible for anywhere from 15-25 Go microservices at any given time. We're constantly creating new services and libraries, so it's become important to streamline the project creation process. I'm mostly writing this article for myself as a kind of self-documentation, but hopefully, you'll find it useful as you create new Go projects for yourself.
@@ -14,7 +14,7 @@ I lead a team that's responsible for anywhere from 15-25 Go microservices at any
 
 By the end of this walkthrough, you'll have a project structure that looks something like this.
 
-![Golang Microservice Boilerplate Directory](/img/Screen-Shot-2020-09-30-at-8.55.37-PM.png)
+![Golang Microservice Boilerplate Directory](/img/800/Screen-Shot-2020-09-30-at-8.55.37-PM.png)
 
 {{< cta1 >}}
 
@@ -80,7 +80,7 @@ We always vendor dependencies on my team. This means we use the `go mod` tool to
 
 And it's not like `vendor` is on the same order of magnitude as `node_modules`...
 
-![node_modules is the heaviest object in the universe](/img/tfugj4n3l6ez-300x216.png)
+![node_modules is the heaviest object in the universe](/img/800/tfugj4n3l6ez-300x216.png)
 
 In order to get started, and assuming you actually have a program in your `cmd` folder, just run:
 

@@ -24,4 +24,4 @@ Follow these steps to refer your friends directly from the app.
 
 True to our goal to gamify the experience of computer science education, we've implemented a popular feature that many videogames take advantage of, **virtual currency**. At the time of writing, gems are basically a clout score - they show off how much you've learned and engaged with the curriculum. We have plans to release ways to spend gems on rewards in the future though, so stay tuned.
 
-![Boot.dev Gems](/img/gem-3.a9c3dec3-300x300.png)
+![Boot.dev Gems](/img/800/gem-3.a9c3dec3-300x300.png)

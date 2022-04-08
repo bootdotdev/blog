@@ -5,7 +5,7 @@ date: "2020-09-22"
 categories: 
   - "clean-code"
 images:
-  - /img/Practical-Patterns-Techincal-Writing.webp
+  - /img/800/Practical-Patterns-Techincal-Writing.webp
 ---
 
 Writing technical documents like API or architectural documentation which exceeds a simple flow diagram can be a daunting task. If you have some experience with technical documents, you will probably agree that there is nothing more frustrating than bad documentation.

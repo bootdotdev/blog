@@ -5,7 +5,7 @@ date: "2022-01-22"
 categories: 
   - "javascript"
 images:
-  - /img/JavaScript-vs-C-plus-plus-min.webp
+  - /img/800/JavaScript-vs-C-plus-plus-min.webp
 ---
 
 Every coder is told to learn JavaScript, seeing that it’s the foundation of the world wide web. And… every coder is taught that C++ is one of the most useful modern coding languages to learn. So no matter if you’re brand new to the coding world, or you have a few languages under your belt, you might be wondering whether you should tackle JavaScript vs C++ for your first (or next) language. 
@@ -42,7 +42,7 @@ I want to start by saying that both languages are truly fantastic in terms of su
 
 But beyond learning, there are some places where JavaScript shines over C++ and vice versa.
 
-![js vs c++](/img/JSvsC.webp)
+![js vs c++](/img/800/JSvsC.webp)
 
 ### JavaScript Advantages
 
@@ -56,7 +56,7 @@ For more reading (which I recommend!) check out [Oracle’s help doc](https://do
 
 JavaScript has a loose programming style. If you mess up, there’s some grace around how errors are handled. C++ comparatively is more old-school, where you need all your curly brackets and semi-colons precisely in place. It’s rigid whereas JavaScript is flexible. 
 
-![who would win](img/pastedzero.png)
+![who would win](img/800/pastedzero.png)
 
 ### C++ Advantages 
 

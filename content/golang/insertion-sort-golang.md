@@ -5,12 +5,12 @@ date: "2021-06-14"
 categories: 
   - "golang"
 images:
-  - /img/insert.webp
+  - /img/800/insert.webp
 ---
 
 Insertion sort builds a final sorted list one item at a time. It's much less efficient on large lists than more advanced algorithms like quicksort or [merge sort](/golang/merge-sort-golang/). Insertion sort is a simple algorithm that works just like you would arrange playing cards in your hands. A slice is first split into sorted and unsorted sections, then values from the unsorted section are inserted into the correct position in the sorted section.
 
-![](/img/insertionsort.gif)
+![](/img/800/insertionsort.gif)
 
 ## Full example of the insertion sort algorithm
 

@@ -6,7 +6,7 @@ categories:
   - "clean-code"
   - "javascript"
 images:
-  - /img/photo-1473655443462-4c2bdebc3e1c.webp
+  - /img/800/photo-1473655443462-4c2bdebc3e1c.webp
 ---
 
 Singletons are fairly controversial as far as I can tell, especially in JavaScript programming. Let's take a look at what they are, when to (maybe) use them, and when not to.
@@ -56,7 +56,7 @@ The singleton instance **isn't actually globally scoped**: in order to modify st
 
 Here's my over-simplified opinion in the form of a flowchart:
 
-![flowchart](/img/Screen-Shot-2019-11-04-at-9.29.33-AM.png)
+![flowchart](/img/800/Screen-Shot-2019-11-04-at-9.29.33-AM.png)
 
 The idea is to use the simplest, most-controlled solution we reasonably can. In order of least evil --> most evil:
 

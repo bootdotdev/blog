@@ -5,7 +5,7 @@ date: "2021-09-10"
 categories: 
   - "python"
 images:
-  - /img/Python-vs-Java-min.webp
+  - /img/800/Python-vs-Java-min.webp
 ---
 
 Comparing Python and Java is a bit like comparing boats and cars. They both get you from point A to B and are fun to show off, but that’s where the similarities end. And the same with Python and Java, they’re both programming languages and known for powerful server-side coding, but after that, they become completely different tools.
@@ -36,7 +36,7 @@ As we saw in the intro, Java is a universal language, and adding Java to your to
 
 Java’s also key in a lot of traditional work environments, like finance, and flourishes with desktop GUI applications and enterprise applications. So, if you work or are looking to work in a large company, then Java’s an excellent skill to have.
 
-![python vs java performance, salary, for machine learning and big data, enterprise applications, and which is best for beginners](/img/Python-vs-Java-performance-salary-for-beginners-machine-learning-min.png)
+![python vs java performance, salary, for machine learning and big data, enterprise applications, and which is best for beginners](/img/800/Python-vs-Java-performance-salary-for-beginners-machine-learning-min.png)
 
 Alternatively, Python’s a great tool to have because it’s easy to learn for everyone. You can use it for a variety of applications and it’s becoming increasingly popular in newer industries such as gaming, AI, and graphic design. Its brevity, fluidity, and experimental support truly make it an exciting language to learn.
 

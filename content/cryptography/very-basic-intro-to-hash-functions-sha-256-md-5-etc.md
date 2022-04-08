@@ -7,7 +7,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/1_RbxKUerkTr8T62uuQ64M8Q.webp
+  - /img/800/1_RbxKUerkTr8T62uuQ64M8Q.webp
 ---
 
 Hash functions are used to securely store passwords, find duplicate records, quickly store and retrieve data, among other useful computational tasks. As a practical example, all user passwords on [boot.dev](https://boot.dev/) are hashed using [Bcrypt](/cryptography/bcrypt-step-by-step/) to ensure that if an attacker were ever to gain access to our database our user's passwords wouldn't be compromised.
@@ -32,7 +32,7 @@ If you're looking for an explanation of a different hash function, we may have y
 
 Think of a Rubix cube.
 
-![completed rubix cube ](/img/1_-PWqlRo2P97cfzZAbdVMlA-300x169.jpeg)
+![completed rubix cube ](/img/800/1_-PWqlRo2P97cfzZAbdVMlA-300x169.jpeg)
 
 I start with the cube unscrambled. If I start twisting randomly, by the end I will end up with something that does not resemble anything close to what I started with. Also, if I were to start over and do the exact same series of moves, I would be able to repeatedly get the exact same outcome. Even though the outcome may _appear_ random, it isn’t at all. That is what **deterministic** means.
 
@@ -52,7 +52,7 @@ If I hash a single word the output will be a certain size (in the case of SHA-25
 
 This is another important feature because it can save us computing time. A classic example is using a hash as a key in a data map. A data map is a simple structure used in computer science to store data.
 
-![key value database ](/img/1_5Hj62cCTpkVekPwVaS0q_g.gif)
+![key value database ](/img/800/1_5Hj62cCTpkVekPwVaS0q_g.gif)
 
 [source](http://www.ingenioussql.com/tag/key-value-store/)
 

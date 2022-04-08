@@ -5,7 +5,7 @@ date: "2021-11-29"
 categories: 
   - "clean-code"
 images:
-  - /img/done.jpeg
+  - /img/800/done.jpeg
 ---
 
 There is a common trap that we fall into as developers, and it is believing that because some code "worked" that the code was written "correctly". In reality, for most technical problems, a good developer can likely point out several different solutions. Any of those solutions might be perfectly reasonable, while none of them is the single "correct way".
@@ -28,7 +28,7 @@ In short, when you're reviewing someone else's code, and it looks different from
 
 I _really_ don't agree with the conclusion of this somewhat popular meme, and I cringe a bit when I see newer developers sharing it.
 
-![](/img/hqdefault.jpg)
+![](/img/800/hqdefault.jpg)
 
 If you need to maintain your code into the future, as most of us do, please revisit it and update it! Tech debt is real debt.
 

@@ -5,7 +5,7 @@ date: "2020-07-22"
 categories: 
   - "golang"
 images:
-  - /img/Screen-Shot-2020-07-20-at-3.webp
+  - /img/800/Screen-Shot-2020-07-20-at-3.webp
 ---
 
 Users love convenience. If your goal is to make it easy for users to register with your app or website, then implementing the "Sign in with Google" option should be at the top of your priority list. If you are like me, then you may find Google's documentation on the subject to be lackluster at best, and downright confusing at worst. Here we will go step-by-step through the authentication process so you can implement Google sign-in easily.

@@ -5,7 +5,7 @@ date: "2021-09-23"
 categories: 
   - "golang"
 images:
-  - /img/Golang-vs-Nodejs-min.webp
+  - /img/800/Golang-vs-Nodejs-min.webp
 ---
 
 In 2009, the computer science world was blessed with two powerful tools: Golang and Node.js.
@@ -18,7 +18,7 @@ The key takeaway from this comparison is Golang is a programming language, where
 
 Now, it may seem silly to compare such seemingly unrelated tools, but they’re both known and created for web development, as well as other similar applications. To find out which is best for you, I’m going to answer which has better performance, salary, community, and application, so you can see how they meet your needs!
 
-![go vs nodejs on which is better for beginners, which commands a higher salary, which has better performance, which is better for web development](/img/Go-vs-NodeJS-JavaScript-min-1.png)
+![go vs nodejs on which is better for beginners, which commands a higher salary, which has better performance, which is better for web development](/img/800/Go-vs-NodeJS-JavaScript-min-1.png)
 
 ## Golang vs Node.js: Which Is Better for Experienced Programmers?
 

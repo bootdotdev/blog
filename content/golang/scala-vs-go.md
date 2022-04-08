@@ -5,7 +5,7 @@ date: "2021-08-18"
 categories: 
   - "golang"
 images:
-  - /img/Scala-vs-Go-min.webp
+  - /img/800/Scala-vs-Go-min.webp
 ---
 
 Scala and Golang are newer languages, only coming on to the scene after the turn of the century, but in that time they’ve managed to become two of _the_ [highest-paid languages](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states) for developers, with the industry benefiting from their fresh creation.

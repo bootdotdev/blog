@@ -5,7 +5,7 @@ date: "2020-01-15"
 categories: 
   - "javascript"
 images:
-  - /img/photo-1529156069898-49953e39b3ac.jpeg
+  - /img/800/photo-1529156069898-49953e39b3ac.jpeg
 ---
 
 JavaScript's built-in `with` statement specifies the default object for the given property and gives us a shorthand for writing long object references. More precisely, it adds the given object to the head of the scope chain.
@@ -53,7 +53,7 @@ with(car){
 
 ## Why Shouldn't I Use 'With'?
 
-![stop sign in bushes](/img/photo-1550770203-e14cc04c58fa-1024x680.jpeg)
+![stop sign in bushes](/img/800/photo-1550770203-e14cc04c58fa-1024x680.jpeg)
 
 > Using `with` is not recommended, and is forbidden in ECMAScript 5 [strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions_and_function_scope/Strict_mode). The recommended alternative is to assign the object whose properties you want to access to a temporary variable.
 > 

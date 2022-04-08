@@ -6,7 +6,7 @@ categories:
   - "bitcoin"
   - "cryptography"
 images:
-  - /img/Base64-vs-Base58-Encoding.webp
+  - /img/800/Base64-vs-Base58-Encoding.webp
 ---
 
 Base64 is one of the most popular encoding formats for representing data. Have some binary data? Base64 encodes it for convenient readability and parsing. Base58 is just another encoding format (with 58 characters instead of 64, and has gained popularity largely due to Bitcoin and other cryptocurrencies. Also, if you came here confused, encryption and encoding are not the same! Take a look at this article for more [information on encryption vs encoding](/cryptography/encoding-vs-encryption/).
@@ -26,7 +26,7 @@ All data is stored in a raw binary format on computers. These encoding formats (
 
 ## ASCII Encoding
 
-![ASCII encoding chart ](/img/Screen-Shot-2020-03-02-at-11.32.00-AM-1024x678.png)
+![ASCII encoding chart ](/img/800/Screen-Shot-2020-03-02-at-11.32.00-AM-1024x678.png)
 
 ### Human Readability Rank: 1st
 
@@ -40,7 +40,7 @@ You could also call ASCII Base128 because its alphabet is made up of 128 charact
 
 ## Base64
 
-![base64 chart](/img/Screen-Shot-2020-03-02-at-11.31.40-AM-1024x773.png)
+![base64 chart](/img/800/Screen-Shot-2020-03-02-at-11.31.40-AM-1024x773.png)
 
 ### Human Readability Rank: 3rd
 
@@ -56,7 +56,7 @@ Each character only takes 6 bits of data, and a padding character, **`=`**, is u
 
 ## Base58
 
-![base58 chart](/img/Screen-Shot-2020-03-02-at-11.32.34-AM-1024x877.png)
+![base58 chart](/img/800/Screen-Shot-2020-03-02-at-11.32.34-AM-1024x877.png)
 
 ### Human Readability Rank: 2nd
 

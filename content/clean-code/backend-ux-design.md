@@ -5,7 +5,7 @@ date: "2021-04-12"
 categories: 
   - "clean-code"
 images:
-  - /img/design.webp
+  - /img/800/design.webp
 ---
 
 Too often I neglect the idea of UX design in backend work. The goal of user experience design is to give users a product that's easy to use. In the world of front-end development, that typically means making it obvious how to navigate your site, using commonly-understood icons, or implementing well-contrasted colors for foreground and background, making your site easy to read.
@@ -24,13 +24,13 @@ In other words, UX design is all about making it easy for your users to interact
 
 ## Examples of UX Design
 
-![door push handle ux](/img/door-push-handle.jpeg)
+![door push handle ux](/img/800/door-push-handle.jpeg)
 
 Bad UX Design on Door
 
 Sometimes it's easier to understand through bad examples. In the image above, a door with a handle is clearly labeled _push_. Why does the door have a handle at all if it can't be pulled? It's just bad UX and gives off mixed signals. If the builder had used push plates, there would be no need for words at all. [Simplicity breeds understanding](https://wagslane.dev/posts/optimize-for-simplicit-first/).
 
-![](/img/push-panel-on-door.jpg)
+![](/img/800/push-panel-on-door.jpg)
 
 I like to think of good UX design as the death of user manuals. Remember user manuals? You might still get them for tools or household appliances. In the early days of software, installable CD ROMs often came with user manuals. Can you imagine needing to open a user manual to figure out how to login to Facebook? No, the goal with UX is to make your software (or product) so easy to use that you get very few questions, even without providing explicit instructions.
 

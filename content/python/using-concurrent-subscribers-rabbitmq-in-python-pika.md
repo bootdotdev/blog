@@ -6,7 +6,7 @@ categories:
   - "open-source"
   - "python"
 images:
-  - /img/2E2B1BD900000578-0-image-a-19_1446807445687.webp
+  - /img/800/2E2B1BD900000578-0-image-a-19_1446807445687.webp
 ---
 
 It's a fairly common scenario to subscribe to a Rabbit queue and process messages before acknowledging receipt. The [pika package](https://pypi.org/project/pika/) for dealing with RabbitMQ in Python however is only single-threaded out of the box. If we want to make a network or database call before each acknowledgment our subscribers can get _really_ slow.

@@ -5,7 +5,7 @@ date: "2021-05-04"
 categories: 
   - "golang"
 images:
-  - /img/knot-in-string-unsplash.jpeg
+  - /img/800/knot-in-string-unsplash.jpeg
 ---
 
 The Go standard library makes concatenating strings easy. Concatenation is just a fancy word for adding strings together to make a larger string. For example, if we concatenate `"hello"`, `" "` and `"world"` we'd get `"hello world"`.

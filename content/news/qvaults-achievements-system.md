@@ -28,9 +28,9 @@ Streaks are earned by completing many exercises in a row correctly without submi
 
 It's important to note that boot.dev still rewards gems directly for each step of the streak, but now achievements are given at larger intervals in addition to those bonuses.
 
-![](/img/streak-gold-min.png)
+![](/img/800/streak-gold-min.png)
 
-![](/img/streak-plat-min.png)
+![](/img/800/streak-plat-min.png)
 
 ![](https://i0.wp.com/boot.dev/wp-content/uploads/2020/11/streak-diamond-min.png?ssl=1)
 
@@ -40,9 +40,9 @@ It's important to note that boot.dev still rewards gems directly for each step o
 
 Speed achievements are unlocked by completing a certain number of exercises within a certain timeframe. For example, at the time of writing the bronze achievement requires the completion of 10 exercises in 5 minutes.
 
-![](/img/speed-gold-min.png)
+![](/img/800/speed-gold-min.png)
 
-![](/img/speed-plat-min.png)
+![](/img/800/speed-plat-min.png)
 
 ![](https://i0.wp.com/boot.dev/wp-content/uploads/2020/11/speed-diamond-min.png?ssl=1)
 
@@ -50,9 +50,9 @@ Speed achievements are unlocked by completing a certain number of exercises with
 
 The primary goal of devotion achievements is to help students stay motivates and engaged, and to not give up on their coding journey. Students are awarded for completing exercises for a given number of days in a row. For example, the gold devotion achievement rewards 300 free gems if a student completes at least one exercise daily for a month.
 
-![](/img/engage-gold-min.png)
+![](/img/800/engage-gold-min.png)
 
-![](/img/engage-plat-min.png)
+![](/img/800/engage-plat-min.png)
 
 ![](https://i0.wp.com/boot.dev/wp-content/uploads/2020/11/engage-diamond-min.png?ssl=1)
 

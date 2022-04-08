@@ -5,7 +5,7 @@ date: "2021-12-08"
 categories: 
   - "python"
 images:
-  - /img/file.webp
+  - /img/800/file.webp
 ---
 
 When working with files in Python, you'll often need to check if a file exists before you do anything else with it, such as reading from or writing to it. Luckily, the Python standard library makes this a piece of cake.

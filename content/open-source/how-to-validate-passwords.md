@@ -6,7 +6,7 @@ categories:
   - "golang"
   - "open-source"
 images:
-  - /img/6-Tips-Hiring-1.jpeg
+  - /img/800/6-Tips-Hiring-1.jpeg
 ---
 
 You've probably visited a site and attempted to sign-up only to be met with errors such as:
@@ -19,13 +19,13 @@ I just released a package in Go that solves this problem. Check it out and give 
 
 Not only are the rules above quite annoying, but they can also be a security _flaw_ in the system. Take for example a strong passphrase: `super worm eaten human trike`. That passphrase has plenty of entropy (randomness) but it wouldn't pass the first two validation steps given above. [XKCD](https://xkcd.com/936/) puts this best:
 
-![XKCD passphrases - correct horse battery staple](/img/1_7v6djGHv-AC6Jeg9I5Eamg.png)
+![XKCD passphrases - correct horse battery staple](/img/800/1_7v6djGHv-AC6Jeg9I5Eamg.png)
 
 ## The Problem - Allow Users to Use Any Password Format as Long as It Has Enough Entropy
 
 We don't care if a password only has lowercase letters if it's long. All that matters is the [entropy](/cryptography/what-is-entropy-in-cryptography/). Entropy in this context refers to the number of brute-force guesses it would take to guess a password, and we measure it in bits (the exponent in `2^n`). Refer to the following chart to see how various entropy levels contribute to the time it takes to brute force a password.
 
-![Entropy scores measured in bits](/img/rhdADIZYXJM2FxqNf6UOFqU5ar0VX3fayLFpKspN8uI.png)
+![Entropy scores measured in bits](/img/800/rhdADIZYXJM2FxqNf6UOFqU5ar0VX3fayLFpKspN8uI.png)
 
 {{< cta1 >}}
 

@@ -5,7 +5,7 @@ date: "2020-07-28"
 categories: 
   - "javascript"
 images:
-  - /img/HlsStreamingNodeJs.webp
+  - /img/800/HlsStreamingNodeJs.webp
 ---
 
 In this quick tutorial, we'll build a robust video (or music) streaming API using Node JS. Don’t worry, it's surprisingly easy since we will be utilizing a modern protocol, [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming), or HLS.
@@ -63,7 +63,7 @@ That's the worst part! Now we just need to setup a Node server that can serve th
 
 Let's setup a project with the following folder structure:
 
-![](/img/Screen-Shot-2020-07-28-at-8.24.48-AM.png)
+![](/img/800/Screen-Shot-2020-07-28-at-8.24.48-AM.png)
 
 `main.js` is in the root of the project along with the _videos_ folder.
 

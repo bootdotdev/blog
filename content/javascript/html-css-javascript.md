@@ -5,14 +5,14 @@ date: "2021-09-27"
 categories: 
   - "misc"
 images:
-  - /img/HTML-vs-CSS-vs-JavaScript-min.webp
+  - /img/800/HTML-vs-CSS-vs-JavaScript-min.webp
 ---
 
 HTML, CSS, and JavaScript are the most important tools in your arsenal for all your web design escapades. Rather than compete, they complement and augment each other, and their power expounds when they're combined -- like internet Power Rangers.
 
 JavaScript brings HTML to life, CSS makes HTML beautiful, and HTML gives JavaScript and CSS their structure on a web page. Here we'll run through the major differences between HTML, CSS, and JavaScript as programming languages.
 
-![](/img/HTML-CSS-JavaScript-power-rangers-min.jpg)
+![](/img/800/HTML-CSS-JavaScript-power-rangers-min.jpg)
 
 When they combine forces they're unstoppable -- the internet's Power Rangers.
 
@@ -26,7 +26,7 @@ You need bones (the structure), skin (the aesthetics), and you need to make it c
 
 That's how you build a webpage, too:
 
-![building a webpage with HTML, CSS and JavaScript](/img/Building-a-webpage-with-HTML-CSS-and-JavaScript-min-1024x576.png)
+![building a webpage with HTML, CSS and JavaScript](/img/800/Building-a-webpage-with-HTML-CSS-and-JavaScript-min-1024x576.png)
 
 ### HTML
 
@@ -83,7 +83,7 @@ HTML is used to create the static structure of a page. For example, if I wanted 
 
 And it would render the following on a web page:
 
-![](/img/HTML-example-web-page.jpeg)
+![](/img/800/HTML-example-web-page.jpeg)
 
 However, this content is the boring HTML default, and you may want to style it differently. You can make the content look better by adding styling via CSS, and by adding JavaScript you can make the content interactive.
 
@@ -105,7 +105,7 @@ h3 {
 
 So that your original HTML changes to:
 
-![](/img/CSS-example-code.jpeg)
+![](/img/800/CSS-example-code.jpeg)
 
 This obviously doesn't look great yet, but shows how CSS changes the style of your content.
 

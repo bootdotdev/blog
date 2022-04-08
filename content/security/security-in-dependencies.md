@@ -5,7 +5,7 @@ date: "2019-08-21"
 categories: 
   - "security"
 images:
-  - /img/photo-1495145910046-717b12bffcf7.jpeg
+  - /img/800/photo-1495145910046-717b12bffcf7.jpeg
 ---
 
 Choosing the right dependencies is a difficult task. Assuming the developer of an application is the best programmer in the world, the "best" thing to do would be to write the entire codebase alone. This would eliminate the bugs, vulnerabilities, and malicious intrusions of inferior developers.

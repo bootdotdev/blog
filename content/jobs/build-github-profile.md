@@ -5,7 +5,7 @@ date: "2022-03-04"
 categories: 
   - "jobs"
 images:
-  - /img/github.webp
+  - /img/800/github.webp
 ---
 
 I’ve reviewed a lot of resumes, both as an engineering manager and in the monthly resume workshops we do in the [Boot.dev Discord group](https://discord.gg/EEkFwbv). I’m convinced that these days a developer’s Github profile is just as important as their resume itself. If you haven’t started your first job yet, this advice is doubly important. Anyone looking to hire an entry-level developer is going to be diving into your public Github presence looking to get an idea for where your skill level is at.
@@ -50,7 +50,7 @@ If you don’t yet have a job, don’t fall into the trap of not keeping your pr
 
 By the way, this is what the heatmap I’m talking about looks like. More green is better.
 
-![github heatmap](/img/github_heatmap.webp)
+![github heatmap](/img/800/github_heatmap.webp)
 
 ## Make your embarassing repositories private
 

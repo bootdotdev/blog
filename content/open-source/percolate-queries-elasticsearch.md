@@ -5,7 +5,7 @@ date: "2019-11-14"
 categories: 
   - "open-source"
 images:
-  - /img/How-We-Used-Percolate-Queries-in-Elasticsearch-To-Build-a-Fast-Alerts-System.jpeg
+  - /img/800/How-We-Used-Percolate-Queries-in-Elasticsearch-To-Build-a-Fast-Alerts-System.jpeg
 ---
 
 Once upon a time, a company I worked for had a problem, we had thousands of messages flowing through our data pipeline every second, and we wanted to be able to send real-time emails, SMS, and Slack alerts when messages matching specific criteria were found. A simple solution built using [ElasticSearch's percolate queries](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-percolate-query.html) ended up being our saving grace.
@@ -14,7 +14,7 @@ Our first failed attempt to build an alerting system utilized [PipelineDB](https
 
 ## Enter ElasticSearch
 
-![elasticsearch](/img/elasticsearch-logo-300x139.png)
+![elasticsearch](/img/800/elasticsearch-logo-300x139.png)
 
 Elasticsearch is a NoSQL distributed database that is good for, well, **searching**. I would never recommend it as a transactional database for basic CRUD actions, but aggregations, metrics, and percolate queries are where it shines.
 
