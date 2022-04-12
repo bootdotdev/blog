@@ -12,32 +12,24 @@ In our [community Discord server](https://discord.gg/EEkFwbv), we have two main 
 
 ## Declared roles
 
-We have a Discord bot in our community server that you can issue commands to by typing a command in the `#qvault-bot-cli` channel. The commands take the following form.
+We have a Discord bot in our community server that you can issue commands to by typing a command in the `#bot-cli` channel. The commands take the following form.
 
 ```
-qvault {command}
+/{command}
 ```
 
-You can also shorten the `qvault` command by using the `qv` alias.
+When you type the `/`, Discord should prompt you with a little menu to choose your command and it's available options.
+
+To add a role, use the `addrole` command.
 
 ```
-qv {command}
+/addrole @golang
 ```
 
-To add a role, use the `add-role` command. You can add one or many roles
+To remove a role, use the `rmrole` command.
 
 ```
-qvault add-role javascript
-```
-
-```
-qvault add-role python golang
-```
-
-To remove a role, use the `rm-role` command. You can remove one or many roles.
-
-```
-qv rm-role python
+/rmrole @python
 ```
 
 Keep in mind, this will _only work for declared roles_. The following roles are all declared roles that you can update on your own.
@@ -77,20 +69,25 @@ Keep in mind, this will _only work for declared roles_. The following roles are 
 - they-them
 - ask-pronouns
 
+### Roles for notifications
+
+- notify-workshops
+- notify-morning-coffee
+
 ## Earned Roles
 
 There are several roles you will automatically earn through your activity within Qvault's courses and projects. In order to connect your discord account to your Qvault account so that roles can be properly assigned, run the following command.
 
 ```
-qvault sync {api_key}
+/sync {api_key}
 ```
 
-Where `{api_key}` is the API key for your account on the [Qvault website](https://boot.dev/), which you can change and update in your [settings](https://boot.dev/dashboard/settings). Here are the roles that you'll unlock automatically:
+Where `{api_key}` is the API key for your account on the [Boot.dev website](https://boot.dev/), which you can change and update in your [settings](https://boot.dev/dashboard/settings). Here are the roles that you'll unlock automatically:
 
-- pupil - You've completed at least 3 exercises in any course
-- scholar - You've completed at least 1 course
-- sage - You've completed 4 or more courses
+- pupil - You've completed at least 25 exercises
+- scholar - You've completed at least 100 exercises
+- sage - You've completed 400 or more exercises
 
-If for any reason you didn't get a role auto-assigned that you've earned, just message one of the Qvault team members and they'll unlock it for you.
+If for any reason you didn't get a role auto-assigned that you've earned, just drop a message in the `#bug-reports` channel and the team will unlock it for you.
 
-Thanks for reading and welcome to our coding community if you're new!
+Thanks for reading and welcome to our coding community!
