@@ -43,11 +43,11 @@ Our implementation won't use a `Tree` class, but instead just a `Node` class. Bi
 First, we create a constructor:
 
 ```py
-class BSTNode:
-    def __init__(self, val=None):
-        self.left = None
-        self.right = None
-        self.val = val
+class BSTNode:
+    def __init__(self, val=None):
+        self.left = None
+        self.right = None
+        self.val = val
 ```
 
 We'll allow a value (key) to be provided, but if one isn't provided we'll just set it to `None`. We'll also initialize both children of the new node to `None`.
@@ -69,25 +69,25 @@ We need a way to insert new data into the tree. Inserting a new node should appe
 The insert method is as follows:
 
 ```py
-def insert(self, val):
-    if not self.val:
-        self.val = val
-        return
+def insert(self, val):
+    if not self.val:
+        self.val = val
+        return
 
-    if self.val == val:
-        return
+    if self.val == val:
+        return
 
-    if val < self.val:
-        if self.left:
-            self.left.insert(val)
-            return
-        self.left = BSTNode(val)
-        return
+    if val < self.val:
+        if self.left:
+            self.left.insert(val)
+            return
+        self.left = BSTNode(val)
+        return
 
-    if self.right:
-        self.right.insert(val)
-        return
-    self.right = BSTNode(val)
+    if self.right:
+        self.right.insert(val)
+        return
+    self.right = BSTNode(val)
 ```
 
 If the node doesn't yet have a value, we can just set the given value and return. If we ever try to insert a value that also exists, we can also simply return as this can be considered a `noop`. If the given value is less than our node's value and we already have a left child then we recursively call `insert` on our left child. If we don't have a left child yet then we just make the given value our new left child. We can do the same (but inverted) for our right side.
@@ -95,17 +95,17 @@ If the node doesn't yet have a value, we can just set the given value and return
 ### Step 3 - Get Min and Get Max
 
 ```py
-def get_min(self):
-    current = self
-    while current.left is not None:
-        current = current.left
-    return current.val
+def get_min(self):
+    current = self
+    while current.left is not None:
+        current = current.left
+    return current.val
 
-def get_max(self):
-    current = self
-    while current.right is not None:
-        current = current.right
-    return current.val
+def get_max(self):
+    current = self
+    while current.right is not None:
+        current = current.right
+    return current.val
 ```
 
 `getMin` and `getMax` are useful helper functions, and they're easy to write! They are simple recursive functions that traverse the edges of the tree to find the smallest or largest values stored therein.
@@ -113,63 +113,63 @@ def get_max(self):
 ### Step 4 - Delete
 
 ```py
-def delete(self, val):
-    if self == None:
-        return self
-    if val < self.val:
-        self.left = self.left.delete(val)
-        return self
-    if val > self.val:
-        self.right = self.right.delete(val)
-        return self
-    if self.right == None:
-        return self.left
-    if self.left == None:
-        return self.right
-    min_larger_node = self.right
-    while min_larger_node.left:
-        min_larger_node = min_larger_node.left
-    self.val = min_larger_node.val
-    self.right = self.right.delete(min_larger_node.val)
-    return selfdef delete(self, val):
-    if self == None:
-        return self
-    if val < self.val:
-        if self.left:
-            self.left = self.left.delete(val)
-        return self
-    if val > self.val:
-        if self.right:
-            self.right = self.right.delete(val)
-        return self
-    if self.right == None:
-        return self.left
-    if self.left == None:
-        return self.right
-    min_larger_node = self.right
-    while min_larger_node.left:
-        min_larger_node = min_larger_node.left
-    self.val = min_larger_node.val
-    self.right = self.right.delete(min_larger_node.val)
-    return selfdef delete(self, val):
-    if self == None:
-        return self
-    if val < self.val:
-        self.left = self.left.delete(val)
-        return self
-    if val > self.val:
-        self.right = self.right.delete(val)
-        return self
-    if self.right == None:
-        return self.left
-    if self.left == None:
-        return self.right
-    min_larger_node = self.right
-    while min_larger_node.left:
-        min_larger_node = min_larger_node.left
-    self.val = min_larger_node.val
-    self.right = self.right.delete(min_larger_node.val)
-    return self
+def delete(self, val):
+    if self == None:
+        return self
+    if val < self.val:
+        self.left = self.left.delete(val)
+        return self
+    if val > self.val:
+        self.right = self.right.delete(val)
+        return self
+    if self.right == None:
+        return self.left
+    if self.left == None:
+        return self.right
+    min_larger_node = self.right
+    while min_larger_node.left:
+        min_larger_node = min_larger_node.left
+    self.val = min_larger_node.val
+    self.right = self.right.delete(min_larger_node.val)
+    return selfdef delete(self, val):
+    if self == None:
+        return self
+    if val < self.val:
+        if self.left:
+            self.left = self.left.delete(val)
+        return self
+    if val > self.val:
+        if self.right:
+            self.right = self.right.delete(val)
+        return self
+    if self.right == None:
+        return self.left
+    if self.left == None:
+        return self.right
+    min_larger_node = self.right
+    while min_larger_node.left:
+        min_larger_node = min_larger_node.left
+    self.val = min_larger_node.val
+    self.right = self.right.delete(min_larger_node.val)
+    return selfdef delete(self, val):
+    if self == None:
+        return self
+    if val < self.val:
+        self.left = self.left.delete(val)
+        return self
+    if val > self.val:
+        self.right = self.right.delete(val)
+        return self
+    if self.right == None:
+        return self.left
+    if self.left == None:
+        return self.right
+    min_larger_node = self.right
+    while min_larger_node.left:
+        min_larger_node = min_larger_node.left
+    self.val = min_larger_node.val
+    self.right = self.right.delete(min_larger_node.val)
+    return self
 ```
 
 The delete operation is one of the more complex ones. It is a recursive function as well, but it also returns the new state of the given node after performing the delete operation. This allows a parent whose child has been deleted to properly set it's `left` or `right` data member to `None`.
@@ -179,18 +179,18 @@ The delete operation is one of the more complex ones. It is a recursive function
 The exists function is another simple recursive function that returns `True` or `False` depending on whether a given value already exists in the tree.
 
 ```py
-def exists(self, val):
-    if val == self.val:
-        return True
+def exists(self, val):
+    if val == self.val:
+        return True
 
-    if val < self.val:
-        if self.left == None:
-            return False
-        return self.left.exists(val)
+    if val < self.val:
+        if self.left == None:
+            return False
+        return self.left.exists(val)
 
-    if self.right == None:
-        return False
-    return self.right.exists(val)
+    if self.right == None:
+        return False
+    return self.right.exists(val)
 ```
 
 ### Step 6 - Inorder
@@ -198,180 +198,180 @@ def exists(self, val):
 It's useful to be able to print out the tree in a readable format. The `inorder` method print's the values in the tree in the order of their keys.
 
 ```py
-def inorder(self, vals):
-    if self.left is not None:
-        self.left.inorder(vals)
-    if self.val is not None:
-        vals.append(self.val)
-    if self.right is not None:
-        self.right.inorder(vals)
-    return vals
+def inorder(self, vals):
+    if self.left is not None:
+        self.left.inorder(vals)
+    if self.val is not None:
+        vals.append(self.val)
+    if self.right is not None:
+        self.right.inorder(vals)
+    return vals
 ```
 
 ### Step 7 - Preorder
 
 ```py
-def preorder(self, vals):
-    if self.val is not None:
-        vals.append(self.val)
-    if self.left is not None:
-        self.left.preorder(vals)
-    if self.right is not None:
-        self.right.preorder(vals)
-    return vals
+def preorder(self, vals):
+    if self.val is not None:
+        vals.append(self.val)
+    if self.left is not None:
+        self.left.preorder(vals)
+    if self.right is not None:
+        self.right.preorder(vals)
+    return vals
 ```
 
 ### Step 8 - Postorder
 
 ```py
-def postorder(self, vals):
-    if self.left is not None:
-        self.left.postorder(vals)
-    if self.right is not None:
-        self.right.postorder(vals)
-    if self.val is not None:
-        vals.append(self.val)
-    return vals
+def postorder(self, vals):
+    if self.left is not None:
+        self.left.postorder(vals)
+    if self.right is not None:
+        self.right.postorder(vals)
+    if self.val is not None:
+        vals.append(self.val)
+    return vals
 ```
 
 ### Using the BST
 
 ```py
-def main():
-    nums = [12, 6, 18, 19, 21, 11, 3, 5, 4, 24, 18]
-    bst = BSTNode()
-    for num in nums:
-        bst.insert(num)
-    print("preorder:")
-    print(bst.preorder([]))
-    print("#")
+def main():
+    nums = [12, 6, 18, 19, 21, 11, 3, 5, 4, 24, 18]
+    bst = BSTNode()
+    for num in nums:
+        bst.insert(num)
+    print("preorder:")
+    print(bst.preorder([]))
+    print("#")
 
-    print("postorder:")
-    print(bst.postorder([]))
-    print("#")
+    print("postorder:")
+    print(bst.postorder([]))
+    print("#")
 
-    print("inorder:")
-    print(bst.inorder([]))
-    print("#")
+    print("inorder:")
+    print(bst.inorder([]))
+    print("#")
 
-    nums = [2, 6, 20]
-    print("deleting " + str(nums))
-    for num in nums:
-        bst.delete(num)
-    print("#")
+    nums = [2, 6, 20]
+    print("deleting " + str(nums))
+    for num in nums:
+        bst.delete(num)
+    print("#")
 
-    print("4 exists:")
-    print(bst.exists(4))
-    print("2 exists:")
-    print(bst.exists(2))
-    print("12 exists:")
-    print(bst.exists(12))
-    print("18 exists:")
-    print(bst.exists(18))
+    print("4 exists:")
+    print(bst.exists(4))
+    print("2 exists:")
+    print(bst.exists(2))
+    print("12 exists:")
+    print(bst.exists(12))
+    print("18 exists:")
+    print(bst.exists(18))
 ```
 
 ## Full Binary Search Tree in Python
 
 ```py
-class BSTNode:
-    def __init__(self, val=None):
-        self.left = None
-        self.right = None
-        self.val = val
+class BSTNode:
+    def __init__(self, val=None):
+        self.left = None
+        self.right = None
+        self.val = val
 
-    def insert(self, val):
-        if not self.val:
-            self.val = val
-            return
+    def insert(self, val):
+        if not self.val:
+            self.val = val
+            return
 
-        if self.val == val:
-            return
+        if self.val == val:
+            return
 
-        if val < self.val:
-            if self.left:
-                self.left.insert(val)
-                return
-            self.left = BSTNode(val)
-            return
+        if val < self.val:
+            if self.left:
+                self.left.insert(val)
+                return
+            self.left = BSTNode(val)
+            return
 
-        if self.right:
-            self.right.insert(val)
-            return
-        self.right = BSTNode(val)
+        if self.right:
+            self.right.insert(val)
+            return
+        self.right = BSTNode(val)
 
-    def get_min(self):
-        current = self
-        while current.left is not None:
-            current = current.left
-        return current.val
+    def get_min(self):
+        current = self
+        while current.left is not None:
+            current = current.left
+        return current.val
 
-    def get_max(self):
-        current = self
-        while current.right is not None:
-            current = current.right
-        return current.val
+    def get_max(self):
+        current = self
+        while current.right is not None:
+            current = current.right
+        return current.val
 
-    def delete(self, val):
-        if self == None:
-            return self
-        if val < self.val:
-            if self.left:
-                self.left = self.left.delete(val)
-            return self
-        if val > self.val:
-            if self.right:
-                self.right = self.right.delete(val)
-            return self
-        if self.right == None:
-            return self.left
-        if self.left == None:
-            return self.right
-        min_larger_node = self.right
-        while min_larger_node.left:
-            min_larger_node = min_larger_node.left
-        self.val = min_larger_node.val
-        self.right = self.right.delete(min_larger_node.val)
-        return self
+    def delete(self, val):
+        if self == None:
+            return self
+        if val < self.val:
+            if self.left:
+                self.left = self.left.delete(val)
+            return self
+        if val > self.val:
+            if self.right:
+                self.right = self.right.delete(val)
+            return self
+        if self.right == None:
+            return self.left
+        if self.left == None:
+            return self.right
+        min_larger_node = self.right
+        while min_larger_node.left:
+            min_larger_node = min_larger_node.left
+        self.val = min_larger_node.val
+        self.right = self.right.delete(min_larger_node.val)
+        return self
 
-    def exists(self, val):
-        if val == self.val:
-            return True
+    def exists(self, val):
+        if val == self.val:
+            return True
 
-        if val < self.val:
-            if self.left == None:
-                return False
-            return self.left.exists(val)
+        if val < self.val:
+            if self.left == None:
+                return False
+            return self.left.exists(val)
 
-        if self.right == None:
-            return False
-        return self.right.exists(val)
+        if self.right == None:
+            return False
+        return self.right.exists(val)
 
-    def preorder(self, vals):
-        if self.val is not None:
-            vals.append(self.val)
-        if self.left is not None:
-            self.left.preorder(vals)
-        if self.right is not None:
-            self.right.preorder(vals)
-        return vals
+    def preorder(self, vals):
+        if self.val is not None:
+            vals.append(self.val)
+        if self.left is not None:
+            self.left.preorder(vals)
+        if self.right is not None:
+            self.right.preorder(vals)
+        return vals
 
-    def inorder(self, vals):
-        if self.left is not None:
-            self.left.inorder(vals)
-        if self.val is not None:
-            vals.append(self.val)
-        if self.right is not None:
-            self.right.inorder(vals)
-        return vals
+    def inorder(self, vals):
+        if self.left is not None:
+            self.left.inorder(vals)
+        if self.val is not None:
+            vals.append(self.val)
+        if self.right is not None:
+            self.right.inorder(vals)
+        return vals
 
-    def postorder(self, vals):
-        if self.left is not None:
-            self.left.postorder(vals)
-        if self.right is not None:
-            self.right.postorder(vals)
-        if self.val is not None:
-            vals.append(self.val)
-        return vals
+    def postorder(self, vals):
+        if self.left is not None:
+            self.left.postorder(vals)
+        if self.right is not None:
+            self.right.postorder(vals)
+        if self.val is not None:
+            vals.append(self.val)
+        return vals
 ```
 
 ## Where would you use a binary search tree in real life?

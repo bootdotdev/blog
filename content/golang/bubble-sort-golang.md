@@ -8,32 +8,32 @@ images:
   - /img/800/bubbles-in-water.webp
 ---
 
-Bubble sort is named for the way elements "bubble up" to the top of the list. Bubble sort repeatedly steps through a slice and compares adjacent elements, swapping them if they are out of order. It continues to loop over the [slice](/golang/golang-make-maps-and-slices/) until the whole list is completely sorted.
+Bubble sort is named for the way elements "bubble up" to the top of the list. Bubble sort repeatedly steps through a slice and compares adjacent elements, swapping them if they are out of order. It continues to loop over the [slice](/golang/golang-make-maps-and-slices/) until the whole list is completely sorted.
 
 ## Full example of the bubble sort algorithm
 
 ```go
-func bubbleSort(input []int) []int {
-    swapped := true
-    for swapped {
-        swapped = false
-        for i := 1; i < len(input); i++ {
-            if input[i-1] > input[i] {
-                input[i], input[i-1] = input[i-1], input[i]
-                swapped = true
-            }
-        }
-    }
-    return input
+func bubbleSort(input []int) []int {
+    swapped := true
+    for swapped {
+        swapped = false
+        for i := 1; i < len(input); i++ {
+            if input[i-1] > input[i] {
+                input[i], input[i-1] = input[i-1], input[i]
+                swapped = true
+            }
+        }
+    }
+    return input
 }
 ```
 
 ## Using the algorithm in code
 
 ```go
-func main() {
-    unsorted := []int{10, 6, 2, 1, 5, 8, 3, 4, 7, 9}
-    sorted := bubbleSort(unsortedInput)
+func main() {
+    unsorted := []int{10, 6, 2, 1, 5, 8, 3, 4, 7, 9}
+    sorted := bubbleSort(unsortedInput)
 
     // sorted = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 }

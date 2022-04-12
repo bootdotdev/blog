@@ -17,13 +17,13 @@ To see it in action, check out the [finished product, a Python playground](https
 
 Pyodide is an open-source project that comprises a Python interpreter that has been compiled to Web Assembly.
 
-> WebAssembly (abbreviated _Wasm_) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.
+> WebAssembly (abbreviated _Wasm_) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.
 > 
 > [webassembly.org](https://webassembly.org/)
 
 In other words, normally only JavaScript can run in a browser, but if you can compile your source code to Wasm, then you can run _any_ programming language in the browser. (At the time of writing we run Python, Rust, and Go this way on our [playground](https://boot.dev/playground/py) and in our [courses](https://boot.dev/))
 
-> Pyodide brings the Python 3.8 runtime to the browser via WebAssembly, along with the Python scientific stack including NumPy, Pandas, Matplotlib, parts of SciPy, and NetworkX. The `packages` directory lists over 35 packages which are currently available.
+> Pyodide brings the Python 3.8 runtime to the browser via WebAssembly, along with the Python scientific stack including NumPy, Pandas, Matplotlib, parts of SciPy, and NetworkX. The `packages` directory lists over 35 packages which are currently available.
 > 
 > [Github Project](https://github.com/iodide-project/pyodide)
 

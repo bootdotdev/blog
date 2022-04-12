@@ -115,6 +115,6 @@ The project we're working on currently has also turned out to be a vague and dif
 
 The following however posed an interesting problem:
 
-> Do I want a $42 @gucci lipstick yes I do.... can I afford it right now No I cant  but it’s soooo good!!!!!!!
+> Do I want a $42 @gucci lipstick yes I do.... can I afford it right now No I cant  but it’s soooo good!!!!!!!
 
 While it's obviously promoting Gucci, it isn't actually soliciting direct action from the reader. There's no call to action. Is this a requirement of a solicitation as scored by Nuvi? We're not sure yet - but we're figuring that out.

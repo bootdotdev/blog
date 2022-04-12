@@ -12,7 +12,7 @@ An enum (short for enumerator), is a set of named constant values. An enum is a 
 
 ## Example of an idiomatic enum
 
-Within a constant declaration, the [iota](https://golang.org/ref/spec#Iota) keyword creates enums as successive untyped integer constants.
+Within a constant declaration, the [iota](https://golang.org/ref/spec#Iota) keyword creates enums as successive untyped integer constants.
 
 ```go
 type BodyPart int
@@ -40,11 +40,11 @@ Besides the overlapping answer of the compiler not guaranteeing uniqueness, a st
 It's not just about the space though, especially with how powerful modern hardware is. Let's say you had some configuration variables such as the following.
 
 ```go
-const (
-    statusSuccess = iota
-    statusFailed
-    statusPending
-    statusComplete
+const (
+    statusSuccess = iota
+    statusFailed
+    statusPending
+    statusComplete
 )
 ```
 
@@ -100,13 +100,13 @@ const (
 Go doesn't have any built-in `string` functionality for enums, but it's pretty easy to implement a `String()` method. By using a `String()` method instead of setting the constants themselves as string types, you can get the same benefits of an enum with the "printability" of a string.
 
 ```go
-type BodyPart int
+type BodyPart int
 
-const (
-    Head BodyPart = iota // Head = 0
-    Shoulder // Shoulder = 1
-    Knee // Knee = 2
-    Toe // Toe = 3
+const (
+    Head BodyPart = iota // Head = 0
+    Shoulder // Shoulder = 1
+    Knee // Knee = 2
+    Toe // Toe = 3
 )
 
 func (bp BodyPart) String() string {

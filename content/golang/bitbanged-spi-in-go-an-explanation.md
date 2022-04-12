@@ -20,11 +20,11 @@ In a past life, I worked on hardware interfacing software. The first thing I can
 
 The project that first got me interested in using Go for embedded applications was one where we decided to use a Raspberry Pi Compute Module 3 to interact with ADC (analog to digital converter) components, and collect data using several of these components.
 
-I quickly threw together a prototype in Python using the standard [Python GPIO library](https://pypi.org/project/RPi.GPIO/), and was satisfied with the initial results. It was apparent however that for a more industrial solution we needed an application that was:
+I quickly threw together a prototype in Python using the standard [Python GPIO library](https://pypi.org/project/RPi.GPIO/), and was satisfied with the initial results. It was apparent however that for a more industrial solution we needed an application that was:
 
-- **Faster** — Able to support more operations per second at lower memory and CPU usage.
-- **Compiled** — We didn’t want anyone to be able to pop out the Compute Module and steal our source code.
-- **Maintainable** — We had a very small team, and none of us were very experienced with firmware so we wanted to abstract up a bit if possible.
+- **Faster** — Able to support more operations per second at lower memory and CPU usage.
+- **Compiled** — We didn’t want anyone to be able to pop out the Compute Module and steal our source code.
+- **Maintainable** — We had a very small team, and none of us were very experienced with firmware so we wanted to abstract up a bit if possible.
 
 I considered C++ at first. C++ is about as fast as it gets, and is a compiled language. I’m quite comfortable in C++ and have written many applications using it, but we ultimately decided on Go instead for the simple fact the concurrent programming in Go is as easy as it gets. C++ may run a bit faster, but we knew that if we wrote this particular program in Go, it would likely be about half the size (in lines of code) and we were more confident in our ability to keep the code clean and maintainable.
 
@@ -44,13 +44,13 @@ SPI stands for serial peripheral interface. I don’t want to get too far off tr
 
 - Device: Raspberry Pi 3B (We used the compute module for production)
 - IDE: VS Code
-- Remote Editing: [Check out this tutorial to edit code on the pi using VS Code remotely](https://blog.technologee.co.uk/remote-editing-using-vs-code/)
+- Remote Editing: [Check out this tutorial to edit code on the pi using VS Code remotely](https://blog.technologee.co.uk/remote-editing-using-vs-code/)
 - Hardware: Breadboard, jumper wires, an ADC that uses an SPI interface
-- OS: [Raspbian](https://www.raspberrypi.org/downloads/)
+- OS: [Raspbian](https://www.raspberrypi.org/downloads/)
 
 ## Implementation
 
-First things first, I needed a great GPIO package. For this project, we built the code to be able to use any of the GPIO pins on the Pi. I used Dave Cheney’s library: [https://github.com/davecheney/gpio](https://github.com/davecheney/gpio)
+First things first, I needed a great GPIO package. For this project, we built the code to be able to use any of the GPIO pins on the Pi. I used Dave Cheney’s library: [https://github.com/davecheney/gpio](https://github.com/davecheney/gpio)
 
 The code below should build and run. Please keep in mind that if you are going to use this code, you will need to change the pin numbers to match the pins you used to connect your GPIOs to your ADC.
 
@@ -157,4 +157,4 @@ func main() {
 }
 ```
 
-Take a look at the actual SPI repository: [https://github.com/lane-c-wagner/spi](https://github.com/lane-c-wagner/spi)
+Take a look at the actual SPI repository: [https://github.com/lane-c-wagner/spi](https://github.com/lane-c-wagner/spi)

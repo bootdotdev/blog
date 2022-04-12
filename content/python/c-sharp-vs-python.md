@@ -133,7 +133,7 @@ While C# is fine to use in machine learning, it doesn’t have the same backing 
 
 C# and Python are powerful, versatile, and important languages that are sure to make you highly employable, highly paid, and completely fulfilled. But which one do you choose?
 
-C# is best for creatives. As the reigning champion in the field of game development, this is best for those looking to create games, or alternatively master Windows applications and programs. It’s tough to learn and requires you to be extremely competent in the language before working professionally, so it’s best for those that already know a language, namely Java or C++.  
+C# is best for creatives. As the reigning champion in the field of game development, this is best for those looking to create games, or alternatively master Windows applications and programs. It’s tough to learn and requires you to be extremely competent in the language before working professionally, so it’s best for those that already know a language, namely Java or C++.  
 
 On the other hand, Python is best for experimenters. Its hold in the machine learning industry means you’ll spend a lot of your time computing and understanding data and discovering new ways to apply it. It’s also a common language used amongst trendy startups, so if you want to be in the latest tech companies, this would also be an excellent choice.
 

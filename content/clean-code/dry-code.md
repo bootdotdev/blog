@@ -16,7 +16,7 @@ DRY (don't repeat yourself) code is often held aloft as an ideal in the quest fo
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself):
 
-> **Don't repeat yourself** is a principle aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.
+> **Don't repeat yourself** is a principle aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.
 
 While this definition is fairly exhaustive, what I've found people _usually_ mean when they say "DRY code" is that when you find yourself repeating pieces of logic you should instead create a reusable function, interface, class, etc, so that you only have to maintain one copy of it. For example, take the following API calls:
 

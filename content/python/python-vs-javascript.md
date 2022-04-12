@@ -139,7 +139,7 @@ Python, however, sticks to the background focusing on back-end development. Its 
 
 Asking which is better is like asking which came first, the chicken or the egg?
 
-While structurally there are some similarities between JavaScript and Python, they bring different expertise to programming.  
+While structurally there are some similarities between JavaScript and Python, they bring different expertise to programming.  
 
 If you’re interested in a modern yet established language, working in start-up environments, and getting creative with web development, then JavaScript is the language for you. However, if robust and minimalist languages, experimental fields, and pushing the boundaries on AI and machine learning intrigue you, then Python is your ticket to this kind of career.
 

@@ -12,7 +12,7 @@ Generics in Go have been [released with Go 1.18](https://go.dev/blog/go1.18)! Th
 
 ## What is a generic type?
 
-Put simply, generics allow programmers to write behavior where the type can be specified later because the type isn't immediately relevant. This is an amazing feature because it permits writing abstract functions that drastically reduce code duplication. For example, the following generic function will split a slice in half, no matter what the types in the slice are.
+Put simply, generics allow programmers to write behavior where the type can be specified later because the type isn't immediately relevant. This is an amazing feature because it permits writing abstract functions that drastically reduce code duplication. For example, the following generic function will split a slice in half, no matter what the types in the slice are.
 
 ```go
 func splitAnySlice[T any](s []T) ([]T, []T) {
@@ -76,12 +76,12 @@ According to [the propsal](https://go.googlesource.com/proposal/+/refs/heads/mas
 - assign other values of the same type to those variables
 - pass those variables to functions or return them from functions
 - take the address of those variables
-- convert or assign values of those types to the type `interface{}`
-- convert a value of type `T` to type `T` (permitted but useless)
+- convert or assign values of those types to the type `interface{}`
+- convert a value of type `T` to type `T` (permitted but useless)
 - use a type assertion to convert an interface value to the type
 - use the type as a case in a type switch
 - define and use composite types that use those types, such as a slice of that type
-- pass the type to some predeclared functions such as `new`
+- pass the type to some predeclared functions such as `new`
 
 If you do need to know more about the generic types you're working on you can constrain them using interfaces. For example, maybe your function will work with any type that can represent itself as a string.
 
@@ -170,7 +170,7 @@ Cloneable interface {
 
 ## Generic Types vs Generic Functions
 
-So we know that we can write functions that use generic types, but what if we want to create a custom type that can contain generic types? For example, a slice of order-able objects. The new proposal makes this possible.
+So we know that we can write functions that use generic types, but what if we want to create a custom type that can contain generic types? For example, a slice of order-able objects. The new proposal makes this possible.
 
 ```go
 type comparableSlice[T comparable] []T

@@ -55,7 +55,7 @@ with(car){
 
 ![stop sign in bushes](/img/800/photo-1550770203-e14cc04c58fa-1024x680.jpeg)
 
-> Using `with` is not recommended, and is forbidden in ECMAScript 5 [strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions_and_function_scope/Strict_mode). The recommended alternative is to assign the object whose properties you want to access to a temporary variable.
+> Using `with` is not recommended, and is forbidden in ECMAScript 5 [strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions_and_function_scope/Strict_mode). The recommended alternative is to assign the object whose properties you want to access to a temporary variable.
 > 
 > [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/with)
 

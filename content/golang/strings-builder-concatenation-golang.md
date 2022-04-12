@@ -26,7 +26,7 @@ s := fmt.Sprintf("%v has been subscribed since %v.\n", user.Name, user.CreatedAt
 
 ## Efficient string concatenation
 
-Go 1.10+ released the awesome `[strings.Builder](https://golang.org/pkg/strings/#Builder)` type, which lets us more efficiently build strings. Because it minimizes memory copying, `strings.Builder` is a high-performance option when it comes to doing bulk string concatenation.
+Go 1.10+ released the awesome `[strings.Builder](https://golang.org/pkg/strings/#Builder)` type, which lets us more efficiently build strings. Because it minimizes memory copying, `strings.Builder` is a high-performance option when it comes to doing bulk string concatenation.
 
 ### Quickly writing a user list - example
 
@@ -66,13 +66,13 @@ import (
     "strings"
 )
 
-func main() {
-    var b strings.Builder
-    b.WriteString("user list\n")
-    for i := 0; i < 10; i++ {
-        fmt.Fprintf(&b, "user #%d\n", i)
-    }
-    fmt.Println(b.String())
+func main() {
+    var b strings.Builder
+    b.WriteString("user list\n")
+    for i := 0; i < 10; i++ {
+        fmt.Fprintf(&b, "user #%d\n", i)
+    }
+    fmt.Println(b.String())
 }
 ```
 
@@ -97,13 +97,13 @@ import (
     "strings"
 )
 
-func main() {
-    var b strings.Builder
+func main() {
+    var b strings.Builder
     b.Grow(90) // we will be writing 90 bytes
-    b.WriteString("user list\n")
-    for i := 0; i < 10; i++ {
-        fmt.Fprintf(&b, "user #%d\n", i)
-    }
-    fmt.Println(b.String())
+    b.WriteString("user list\n")
+    for i := 0; i < 10; i++ {
+        fmt.Fprintf(&b, "user #%d\n", i)
+    }
+    fmt.Println(b.String())
 }
 ```

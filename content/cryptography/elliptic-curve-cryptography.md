@@ -12,7 +12,7 @@ images:
 
 Elliptic Curve Cryptography (ECC) is a modern [public-key encryption](https://searchsecurity.techtarget.com/definition/public-key) technique famous for being smaller, faster, and more efficient than incumbents. Bitcoin, for example, uses ECC as its asymmetric cryptosystem because it is so lightweight. The mathematical entity that makes all of this possible is the elliptic curve, so read on to learn how these curves enable some of the most advanced [cryptography](/cryptography/what-is-cryptography/) in the world.
 
-## What is elliptic curve cryptography used for?
+## What is elliptic curve cryptography used for?
 
 A common use of ECC is to encrypt data so that only authorized parties can decrypt it. This has several obvious use cases, but is most commonly used to encrypt Internet traffic.
 
@@ -56,7 +56,7 @@ As you can see, this form of encryption can be quite useful. Here are some key p
 - Computers can quickly use the public key to encrypt a message, and quickly use the private key to decrypt a message.
 - Computers require a _very_ long time (millions of years) to derive the original data from the encrypted message if they don’t have the private key.
 
-## How it Works: The Trapdoor Function
+## How it Works: The Trapdoor Function
 
 The crux of all public-key cryptographic algorithms is that they each have their own unique trapdoor function**.** A trapdoor function is a function that can only be computed one way, or at least can only be computed one way _easily_ (in less than millions of years using modern computers).
 
@@ -88,7 +88,7 @@ _Note: In real cryptography, the private key would need to be 200+ digits long t
 
 You would use ECC for the same reasons as RSA. ECC and RSA both generate a public and private key and allow two parties to communicate securely. One advantage to ECC however, is that a 256-bit key in ECC offers about the same security as a 3072-bit key using RSA. ECC allows resource-constrained systems like smartphones, embedded computers, and cryptocurrency networks to use ~10% of the storage space and bandwidth required by RSA.
 
-## ECC’s Trapdoor Function
+## ECC’s Trapdoor Function
 
 This is probably why most of you are here. The trapdoor function is what makes ECC special and different than RSA. The trapdoor function is similar to a mathematical game of pool.
 
@@ -116,7 +116,7 @@ Private Key: Number of hops from A to E
 
 Here are a few questions I had when I first learned about ECC. Hopefully, I can address them properly.
 
-### 1\. How is the second point found? If the dot function is basically drawing a line between two points, don’t you need a second point to start with?
+### 1\. How is the second point found? If the dot function is basically drawing a line between two points, don’t you need a second point to start with?
 
 No. The second point (we will call it -R below) is actually the result of P dot P (let’s assume the first point is called P)
 
@@ -128,7 +128,7 @@ So what is `P dot P`? It is actually just the tangent line of P. See the graphic
 
 [Image Source](https://devcentral.f5.com/articles/real-cryptography-has-curves-making-the-case-for-ecc-20832)
 
-### 2\. What happens if the dot function produces a line that will go way off out to some extreme?
+### 2\. What happens if the dot function produces a line that will go way off out to some extreme?
 
 If the line doesn’t hit the curve close to the origin, we can actually define a maximum X value where the line will wrap back around and start from the beginning again. See the graphic below for an example.
 

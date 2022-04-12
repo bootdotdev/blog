@@ -179,7 +179,7 @@ Common back-end databases
 
 ## Developer, Embedded Applications or Devices - $120,000/yr
 
-Embedded software engineers develop software that controls various devices and machines that aren't jsut traditional computers. Integrating software engineering with non-computer devices leads to the development of embedded systems. Embedded systems are most common in medical, consumer electronics, manufacturing science, aviation, automotive industries.
+Embedded software engineers develop software that controls various devices and machines that aren't jsut traditional computers. Integrating software engineering with non-computer devices leads to the development of embedded systems. Embedded systems are most common in medical, consumer electronics, manufacturing science, aviation, automotive industries.
 
 A typical embedded system requires a wide range of programming tools, microprocessors, IDEs, and operating systems. Think of the code that runs the remote control that's connected to your TV. There isn't an operating system that executes a `.exe` file, but there is code running on the device. Embedded application engineers write that code.
 

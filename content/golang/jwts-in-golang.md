@@ -14,7 +14,7 @@ Go is becoming very popular for backend web development, and JWT's are one of th
 
 ## What is a JWT?
 
-> JSON Web Tokens are an open, industry-standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
+> JSON Web Tokens are an open, industry-standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
 > 
 > [https://jwt.io/](https://jwt.io/)
 
@@ -27,7 +27,11 @@ For example, when a user logs in to a website secured via JWTs, the flow should 
 3. The server creates a JSON object (also known as the "claims") that looks something like this:
     1. `{"username":"wagslane"}`
 4. The server [encodes](/cryptography/encoding-vs-encryption/) and [signs](/cryptography/hmac-and-macs-in-jwts/) the JSON object, creating a JWT:
-    1. `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndhZ3NsYW5lIn0.ov6d8XtwQoKUwsYahk9UwH333NICElFSs6ag6pINyPQ`
+
+```
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndhZ3NsYW5lIn0.ov6d8XtwQoKUwsYahk9UwH333NICElFSs6ag6pINyPQ
+```
+
 5. The user's web client saves the JWT for later use
 6. When the user makes a request to a protected endpoint, it passes the JWT along in an HTTP header
 7. The server checks the signature on the JWT to make sure the JWT was originally created by the same server

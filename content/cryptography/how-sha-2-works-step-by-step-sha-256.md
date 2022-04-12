@@ -30,11 +30,11 @@ SHA-2 is an algorithm, a generalized idea of how to hash data. SHA-2 has several
 
 ## SHA-2 Family vs SHA-1
 
-SHA-2 is a successor to the SHA-1 hash and remains one of the strongest hash functions in use today. SHA-256, as opposed to SHA-1, hasn't been compromised. For this reason, there's really no reason to use SHA-1 these days, it isn't safe. The flexibility of output size (224, 256, 512, etc) also allows SHA-2 to pair well with popular [KDFs](/cryptography/key-derivation-functions/) and ciphers like [AES-256](/cryptography/aes-256-cipher/).
+SHA-2 is a successor to the SHA-1 hash and remains one of the strongest hash functions in use today. SHA-256, as opposed to SHA-1, hasn't been compromised. For this reason, there's really no reason to use SHA-1 these days, it isn't safe. The flexibility of output size (224, 256, 512, etc) also allows SHA-2 to pair well with popular [KDFs](/cryptography/key-derivation-functions/) and ciphers like [AES-256](/cryptography/aes-256-cipher/).
 
 ## Formal Acceptance by NIST
 
-SHA-256 is formally defined in the National Institute of Standards and Technology's [FIPS 180-4](http://csrc.nist.gov/groups/ST/toolkit/secure_hashing.html). Along with standardization and formalization comes a list of [test vectors](http://csrc.nist.gov/groups/ST/toolkit/examples.html#aHashing) that allow developers to ensure they've implemented the algorithm properly.
+SHA-256 is formally defined in the National Institute of Standards and Technology's [FIPS 180-4](http://csrc.nist.gov/groups/ST/toolkit/secure_hashing.html). Along with standardization and formalization comes a list of [test vectors](http://csrc.nist.gov/groups/ST/toolkit/examples.html#aHashing) that allow developers to ensure they've implemented the algorithm properly.
 
 {{< cta2 >}}
 

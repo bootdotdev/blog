@@ -113,7 +113,7 @@ CSS does far more than just changing text and background colors, with new featur
 
 JavaScript can then be added to bring these styled pages (via the CSS) pages to life. This could be as simple as making a button clickable, taking a customer to the checkout page, or for clicking to read another news article, or inputting a math sum into an online calculator that returns the answer to any numbers you select.
 
-You can create more complex calculators fairly easily by adding more elements within a JavaScript function, such as developing an interest rate calculator based on inputs of the original starting amount invested, based on a certain interest rate, and based on a certain amount of time. 
+You can create more complex calculators fairly easily by adding more elements within a JavaScript function, such as developing an interest rate calculator based on inputs of the original starting amount invested, based on a certain interest rate, and based on a certain amount of time. 
 
 ## HTML vs CSS vs JavaScript: Which is easier to learn?
 
@@ -131,7 +131,7 @@ Despite this, JavaScript and Python are still considered two of the easiest prog
 
 ### HTML: Is it a programming language? The debate
 
-HTML’s lack of executable logic has led to intense debates around whether it is a programming language or not. 
+HTML’s lack of executable logic has led to intense debates around whether it is a programming language or not. 
 
 HTML isn’t executable; it marks up pages with tags for the browser to infer the purpose for the viewer. As a markup language, you can’t carry out executable tasks in HTML, for example, you couldn’t add two numbers together.
 
@@ -145,7 +145,7 @@ Therefore, without programming logic, some do not consider it a programming lang
 
 HTML can combine JavaScript within scripts that convert HTML's static form into dynamic content by modifying the web page contents without reloading the page. However, the reverse cannot occur. JavaScript doesn't really embed HTML.
 
-HTML tells the web page what it should display rather than how it should display it, whereas JavaScript instructs the web page on how exactly the data and content should be displayed. 
+HTML tells the web page what it should display rather than how it should display it, whereas JavaScript instructs the web page on how exactly the data and content should be displayed. 
 
 {{< cta2 >}}
 

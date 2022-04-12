@@ -58,7 +58,7 @@ It also has a massive thriving and welcoming community, which is perfect as an o
 
 Alternatively, R’s greatness in data science lies with statistical data. It has a set of packages called the [Tidyverse](https://www.tidyverse.org/), which are powerful but easy-to-learn tools for importing, manipulating, visualizing, and reporting on data.
 
-The real difference for R is it’s a programming language for non-programmers. Think researchers, academics, and anyone using statistics, but isn’t necessarily a “developer”.  R gives these users easy access to high-grade data visualization and charts.  
+The real difference for R is it’s a programming language for non-programmers. Think researchers, academics, and anyone using statistics, but isn’t necessarily a “developer”.  R gives these users easy access to high-grade data visualization and charts.  
 
 R also has the [Shiny](https://shiny.rstudio.com/) package for dashboard creations, which allows those with little technical experience to easily craft and publish dashboards to share with colleagues.
 

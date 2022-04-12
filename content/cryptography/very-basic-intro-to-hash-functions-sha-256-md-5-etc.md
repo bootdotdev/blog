@@ -34,7 +34,7 @@ Think of a Rubix cube.
 
 ![completed rubix cube ](/img/800/1_-PWqlRo2P97cfzZAbdVMlA-300x169.jpeg)
 
-I start with the cube unscrambled. If I start twisting randomly, by the end I will end up with something that does not resemble anything close to what I started with. Also, if I were to start over and do the exact same series of moves, I would be able to repeatedly get the exact same outcome. Even though the outcome may _appear_ random, it isn’t at all. That is what **deterministic** means.
+I start with the cube unscrambled. If I start twisting randomly, by the end I will end up with something that does not resemble anything close to what I started with. Also, if I were to start over and do the exact same series of moves, I would be able to repeatedly get the exact same outcome. Even though the outcome may _appear_ random, it isn’t at all. That is what **deterministic** means.
 
 Determinism is important for securely storing a password. For instance, let’s pretend my password is “iLoveBitcoin”
 
@@ -48,7 +48,7 @@ If a website stores passwords in plain-text (not hashed) it is a huge breach of 
 
 ## No Matter the Input, the Output is the Same Size
 
-If I hash a single word the output will be a certain size (in the case of SHA-256, a particular hashing function, the size is 256 bits). If I hash a book, the output will be _the same size_.
+If I hash a single word the output will be a certain size (in the case of SHA-256, a particular hashing function, the size is 256 bits). If I hash a book, the output will be _the same size_.
 
 This is another important feature because it can save us computing time. A classic example is using a hash as a key in a data map. A data map is a simple structure used in computer science to store data.
 
@@ -56,7 +56,7 @@ This is another important feature because it can save us computing time. A class
 
 [source](http://www.ingenioussql.com/tag/key-value-store/)
 
-When a program stores data in a map, a key and value are given to the map. When a program wants to access the value, it can give the appropriate key to the map and receive the corresponding value. Data maps are good because they can find data _instantly._ The key is used as an address that the computer can find immediately, instead of taking hours searching through millions of records.
+When a program stores data in a map, a key and value are given to the map. When a program wants to access the value, it can give the appropriate key to the map and receive the corresponding value. Data maps are good because they can find data _instantly._ The key is used as an address that the computer can find immediately, instead of taking hours searching through millions of records.
 
 Because keys are like addresses, they can’t be too large. If I want to store books in a data map I can hash the contents of the book and use the hash as a key. As a programmer, I can simply use the hash to look up the contents of the book instead of trying to sort through thousands of records by title, author, etc.
 
@@ -64,7 +64,7 @@ Because keys are like addresses, they can’t be too large. If I want to store b
 
 Here is the real challenge of writing this article. I’m going to keep it extremely simple and omit the actual implementation details while giving you a basic idea of what the computer actually does when it hashes some data.
 
-Let’s walk through an example algorithm I’m making up on the fly for this demonstration, **LANEHASH:**
+Let’s walk through an example algorithm I’m making up on the fly for this demonstration, **LANEHASH:**
 
 - We start with some data to hash
 
@@ -103,11 +103,11 @@ Let’s walk through an example algorithm I’m making up on the fly for this de
 
 - We chop 9 bits off the right side to get exactly 16 bits
 
-> 1011110001001101**001000000** → 1011110001001101
+> 1011110001001101**001000000** → 1011110001001101
 
 - We convert that binary data back to English
 
-> 1011110001001101 → “8sj209dsns02k2”
+> 1011110001001101 → “8sj209dsns02k2”
 
 As you can see, if you start with the same word at the beginning, you will always get the same output at the end. However, if you even change one letter, the outcome will be drastically changed.
 

@@ -14,7 +14,7 @@ Randomness is a hard problem for computers. Most functions that generate randomn
 
 ## How to generate insecure random numbers
 
-**`Math.random()`** is a built-in function in JavaScript that returns a floating-point, pseudo-random number in the range 0 to less than 1. By always generating a number between 0 and 1, you can scale the result up to whatever size you need.
+**`Math.random()`** is a built-in function in JavaScript that returns a floating-point, pseudo-random number in the range 0 to less than 1. By always generating a number between 0 and 1, you can scale the result up to whatever size you need.
 
 ### Example - Random number between 0 and 9
 
@@ -61,7 +61,7 @@ However, weak pseudo-randomness can be **catastrophically dangerous** if one is 
 
 ## Use crypto.randomBytes() for cryptographically secure psuedo-randomness
 
-Node's built-in `[crypto.randomBytes()](https://nodejs.org/api/crypto.html#crypto_crypto_randombytes_size_callback)` function is a cryptographically secure random number generator that is based on [openssl](https://wiki.openssl.org/index.php/Random_Numbers#Initialization). Depending on the operating system of the user, `randomBytes` will use `/dev/urandom` (Unix) or \`CryptoGenRandom (Windows).
+Node's built-in [crypto.randomBytes()](https://nodejs.org/api/crypto.html#crypto_crypto_randombytes_size_callback) function is a cryptographically secure random number generator that is based on [openssl](https://wiki.openssl.org/index.php/Random_Numbers#Initialization). Depending on the operating system of the user, `randomBytes` will use `/dev/urandom` (Unix) or \`CryptoGenRandom (Windows).
 
 While still pseudo-random sources, the important thing is that they are _not guessable_ by an attacker. In other words, after using `crypto.randomBytes()` to generate a secret key for [AES-256 encryption](/cryptography/aes-256-cipher/), no one will be able to guess the key.
 

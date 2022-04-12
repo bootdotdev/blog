@@ -142,7 +142,7 @@ If the next dev is familiar with this formula for modeling lines, you'll be fine
 
 ```go
 // slope-intercept formula
-// y = mx + b
+// y = mx + b
 const targetY = slope * point.x + yIntercept
 ```
 

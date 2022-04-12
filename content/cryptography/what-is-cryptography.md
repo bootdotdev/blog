@@ -60,7 +60,7 @@ For a cryptosystem to be considered "secure enough" it needs to go through inten
 
 > _The enemy knows the system. One ought to design systems under the assumption that the enemy will immediately gain full familiarity with them._
 > 
-> According to [Kerckhoffs’s principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)
+> According to [Kerckhoffs’s principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)
 
 Always take reasonable steps to protect any keys that your software systems use.
 
@@ -140,7 +140,7 @@ Popular hashing functions include [SHA-256](/cryptography/how-sha-2-works-step-b
 
 ### Cryptology
 
-Cryptology is the science of secret messages. Anything that has to do with making or breaking codes falls into cryptology’s domain. Cryptology can also be thought of as the study of encryption and decryption. In a nutshell, cryptography and cryptanalysis are the two branches under the umbrella of cryptology.
+Cryptology is the science of secret messages. Anything that has to do with making or breaking codes falls into cryptology’s domain. Cryptology can also be thought of as the study of encryption and decryption. In a nutshell, cryptography and cryptanalysis are the two branches under the umbrella of cryptology.
 
 - Cryptography: Study of building secure cryptosystems.
 - Cryptanalysis : Study of breaking cryptosystems.
@@ -150,13 +150,13 @@ Cryptology is extremely heavy on mathematics, such as number theory and the appl
 
 ### Cryptography
 
-People often lazily use "cryptography" in place of the word "cryptology", but in reality, cryptography focuses only on building cryptosystems.
+People often lazily use "cryptography" in place of the word "cryptology", but in reality, cryptography focuses only on building cryptosystems.
 
 For example, the design of [AES-256](/cryptography/aes-256-cipher/), the system that allows us to encrypt the personal information on our phones and laptops, would have been primarily _cryptography_ work.
 
 ### Cryptanalysis
 
-Cryptanalysis is the inverse of cryptography. It's the study of how to break secret codes, not make them. Having a solid understanding of cryptanalysis is fundamental in cryptography, however, as one must know their enemy.
+Cryptanalysis is the inverse of cryptography. It's the study of how to break secret codes, not make them. Having a solid understanding of cryptanalysis is fundamental in cryptography, however, as one must know their enemy.
 
 Imagine that the FBI gets ahold of your personal mobile phone, and they want to snoop around to see what you've been up to. The methods they would employ to "crack" the code and decrypt the contents of your phone would be cryptanalysis techniques.
 
@@ -166,9 +166,9 @@ For more information, we have a full post on [cryptology vs cryptography](/crypt
 
 Where a classical bit holds a single binary value such as `0` or `1`, a [qubit](https://en.wikipedia.org/wiki/Qubit) can hold both values simultaneously. This means a single qubit can hold much more information than a classical bit, and all this is made possible by the phenomenon of [superposition](https://en.wikipedia.org/wiki/Quantum_superposition). This unique property allows them to process information in potentially logarithmic time, or in other words, exponentially faster than classical computers.
 
-Many asymmetric encryption algorithms have been mathematically proven to be broken by quantum computers using [Shor’s algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm). Because algorithms like RSA rely heavily on the fact that normal computers can’t find prime factors quickly, they have remained secure for years. With quantum computers breaking that assumption, then it may be time to find new standards.
+Many asymmetric encryption algorithms have been mathematically proven to be broken by quantum computers using [Shor’s algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm). Because algorithms like RSA rely heavily on the fact that normal computers can’t find prime factors quickly, they have remained secure for years. With quantum computers breaking that assumption, then it may be time to find new standards.
 
-On the other hand, symmetric encryption, or more specifically [AES-256](/cryptography/aes-256-cipher/), is believed to be quantum-resistant. That means that [quantum computers are not expected](https://en.wikipedia.org/wiki/Post-quantum_cryptography#Symmetric_key_quantum_resistance) to be able to reduce the attack time enough to be effective if the key sizes are large enough.
+On the other hand, symmetric encryption, or more specifically [AES-256](/cryptography/aes-256-cipher/), is believed to be quantum-resistant. That means that [quantum computers are not expected](https://en.wikipedia.org/wiki/Post-quantum_cryptography#Symmetric_key_quantum_resistance) to be able to reduce the attack time enough to be effective if the key sizes are large enough.
 
 For more information, read our post on [whether AES-256 is quantum resistant](/cryptography/is-aes-256-quantum-resistant/)
 
@@ -187,19 +187,19 @@ If you're interested in reading more in-depth about how Bitcoin works, you can d
 Cryptology is a _very_ young science. Although humans have had rudimentary forms of cryptography for thousands of years, the systematic study of cryptology as a science only began about a hundred years ago. The advent of computers made cryptography many orders of magnitude more complex than it had been previously.
 
 - **1900 BC** - First evidence of altered symbols in text found in the [tomb of Khnumhotep](https://en.wikipedia.org/wiki/Khnumhotep_II) II in Egypt. The writings weren't meant to be secret, but are the first evidence we have of someone altering encoding symbols.
-- **100 BC** - [Ceasar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher). Julius Caesar was known to use a form of encryption to convey secret messages to his army generals posted on the war front. This substitution cipher, known as the Caesar cipher, is perhaps the most mentioned historic cipher (an algorithm used for encryption or decryption) in academic literature. It's a simple cipher where each character of the plain text is simply substituted by another character to form the ciphertext. For example, "a" becomes "d", "b" becomes "e", and so on.
+- **100 BC** - [Ceasar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher). Julius Caesar was known to use a form of encryption to convey secret messages to his army generals posted on the war front. This substitution cipher, known as the Caesar cipher, is perhaps the most mentioned historic cipher (an algorithm used for encryption or decryption) in academic literature. It's a simple cipher where each character of the plain text is simply substituted by another character to form the ciphertext. For example, "a" becomes "d", "b" becomes "e", and so on.
 - **500 AD** - [Vigenere's Cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher). Vigenere designed a cipher that is said to have been the first cipher to use a secret key.
 - **1800** [Hebern Rotor Machine](https://en.wikipedia.org/wiki/Hebern_rotor_machine). In the early 1800s, when everything became electric, Hebern designed an electromechanical device that used a single rotor in which the secret key is embedded in a rotating disk. The key encoded a [substitution box](https://en.wikipedia.org/wiki/S-box) and each keystroke on the keyboard resulted in the output of ciphertext. Like the caesar and vigenere ciphers, Hebern's machine was broken by using letter frequencies.
 - **1918** - [Enigma Machine](https://en.wikipedia.org/wiki/Enigma_machine). The Engima machine was invented by German engineer Arthur Scherbius at the end of World War I and was heavily used by German forces during World War II. The Enigma machine used 3 or more rotors that spin at different speeds as you type on the keyboard and output corresponding letters of the ciphertext. In the case of Enigma, the key was the initial setting of the rotors.
-- **1943** Alan Turing and others on his team at Bletchley Park, complete the "Heath Robinson", a specialized machine for cipher-breaking. This team was also responsible for cracking the Enigma Machine during the second world war.
-- **1948** – Claude Shannon [writes a paper](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) that is responsible for establishing our modern mathematical basis of information theory.
+- **1943** Alan Turing and others on his team at Bletchley Park, complete the "Heath Robinson", a specialized machine for cipher-breaking. This team was also responsible for cracking the Enigma Machine during the second world war.
+- **1948** – Claude Shannon [writes a paper](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) that is responsible for establishing our modern mathematical basis of information theory.
 - **1970** - [Lucifer Cipher](https://en.wikipedia.org/wiki/Lucifer_(cipher)). In the early 1970s, a team from IBM designed a cipher called Lucifer. The Nation Bureau of Standards (now NIST) in the U.S. put out a request for proposals for a block cipher that would become a national standard. Lucifer was eventually accepted and became [DES](https://en.wikipedia.org/wiki/Data_Encryption_Standard) (Data Encryption Standard).
-- **1977** - [RSA public key encryption](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) invented by Ron Rivest, Adi Shamir and Leonard Adleman.
-- **1991** - Phil Zimmermann releases [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy).
-- **1994** - [Secure Sockets Layer (SSL)](https://en.wikipedia.org/wiki/Secure_Sockets_Layer) encryption protocol released by Netscape, which now secures the majority of the modern web.
-- **1994** – [Peter Shor devises an algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm) which lets quantum computers determine the factorization of large integers quickly.
+- **1977** - [RSA public key encryption](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) invented by Ron Rivest, Adi Shamir and Leonard Adleman.
+- **1991** - Phil Zimmermann releases [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy).
+- **1994** - [Secure Sockets Layer (SSL)](https://en.wikipedia.org/wiki/Secure_Sockets_Layer) encryption protocol released by Netscape, which now secures the majority of the modern web.
+- **1994** – [Peter Shor devises an algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm) which lets quantum computers determine the factorization of large integers quickly.
 - **1997** - DES Broken by exhaustive search. In 1997 and the following years, DES was broken by an exhaustive search attack. The main problem with DES was the small size of the encryption key. As computing power increased, it became easy to brute force all the different combinations of the key to get a possible plaintext message.
-- **2000** - [AES](/cryptography/aes-256-cipher/) accepted as DES replacement. In 1997, NIST again put out a request for proposal for a new block cipher. It received 50 submissions. In 2000, it accepted Rijndael, and christened it as AES or the Advanced Encryption Standard.
+- **2000** - [AES](/cryptography/aes-256-cipher/) accepted as DES replacement. In 1997, NIST again put out a request for proposal for a new block cipher. It received 50 submissions. In 2000, it accepted Rijndael, and christened it as AES or the Advanced Encryption Standard.
 - **2004** - [MD5](https://en.wikipedia.org/wiki/MD5) shown to be vulnerable to collisions
 - **2009** - [Bitcoin](https://bitcoin.org/en/) network launch
 

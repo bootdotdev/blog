@@ -43,7 +43,7 @@ Go’s static typing ensures conversions and compatibility while avoiding the ru
 
 ### Go is compiled rather than interpreted
 
-As a compiled language, Go is expressed in the instructions of the target machine in 0s and 1s. Whereas interpreted languages are interpreted (without compiling it into machine code), the program instructions use a virtual machine rather than the target machine. 
+As a compiled language, Go is expressed in the instructions of the target machine in 0s and 1s. Whereas interpreted languages are interpreted (without compiling it into machine code), the program instructions use a virtual machine rather than the target machine. 
 
 This lets Go runs faster and offer better performance than interpreted language programs. Compiled language errors prevent the code from compiling, whereas errors in the interpreted language programs are found at run-time, with interpreted languages able to modify code even while the program is still running.
 
@@ -55,7 +55,7 @@ Since Go was designed from the very beginning to run on multiple cores, it has r
 
 Go uses “goroutines” and channels, concurrent functions that allow the rest of the program to compute while they run, making for efficient dependency management.
 
-Goroutines are great as they continue if you have a network timeout or even an entire database failure, so you can work around any problems that come up. Go’s automatic garbage collection mimics Python and makes for a more convenient coding experience. 
+Goroutines are great as they continue if you have a network timeout or even an entire database failure, so you can work around any problems that come up. Go’s automatic garbage collection mimics Python and makes for a more convenient coding experience. 
 
 Go modules is Golang’s simple package manager publishable using a small set of commands. Go’s Gofmt tool is helpful for automatically formatting and indenting code, with other tools like Go run, Go get and Godoc also convenient. It’s very versatile, and easy to replace your scripting languages with Golang.
 
@@ -81,7 +81,7 @@ The language itself is similar to C, just without some of C’s frustrating inef
 
 ### Go is Fast
 
-Go code is compiled and directly translated into processor-understandable formats. This makes it far faster than languages like Java that first need to compile into byte code, before executing it via a virtual machine (VM). 
+Go code is compiled and directly translated into processor-understandable formats. This makes it far faster than languages like Java that first need to compile into byte code, before executing it via a virtual machine (VM). 
 
 Boasting small application sizes, Go binary files can be up to 10x smaller than their Java equivalent. This is especially notable for large applications deployed on multiple servers, heavily reducing file loading time and [making for much improved performance](https://www.bmc.com/blogs/go-vs-java/#:~:text=Go%20is%20faster%20than%20Java,Go%20performed%20better%20than%20Java.).
 
@@ -97,11 +97,11 @@ Goroutines are scalable and non-blocking, ideal for when multiple concurrent pro
 
 Golang’s quick and efficient compilation makes it effective for even the largest projects. Even the most complex projects can be quickly built and worked on efficiently to reduce bugs and aid easy debugging.
 
-On large projects where many developers work together to maintain and develop in teams, it’s integral that they be able to work in sync and understand each other’s solutions. Go is designed based on the philosophy that there should be very few solutions (ideally just one) rather than a wide variety of ambiguous solutions, so that maintaining these large and complex projects is as simple as possible. 
+On large projects where many developers work together to maintain and develop in teams, it’s integral that they be able to work in sync and understand each other’s solutions. Go is designed based on the philosophy that there should be very few solutions (ideally just one) rather than a wide variety of ambiguous solutions, so that maintaining these large and complex projects is as simple as possible. 
 
 ## What is Go Used For?
 
-### Infrastructure 
+### Infrastructure 
 
 Popular open source tools like Kubernetes, Docker and Prometheus are written in Go for container deployment, scaling and management for running and bundling applications.
 

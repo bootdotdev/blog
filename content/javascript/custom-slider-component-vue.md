@@ -8,7 +8,7 @@ images:
   - /img/800/vue-custom-slider.webp
 ---
 
-Creating a custom slider component can be tricky, especially if you want to create a lean standalone Vue component. In this quick article, you’ll learn how to build a fully customizable slider component in Vue. Feel free to swap out the majority of the CSS to get the styling you want, but I'll give you a good jumping-off point.
+Creating a custom slider component can be tricky, especially if you want to create a lean standalone Vue component. In this quick article, you’ll learn how to build a fully customizable slider component in Vue. Feel free to swap out the majority of the CSS to get the styling you want, but I'll give you a good jumping-off point.
 
 In fact, the component we'll be building is the exact same component that we use in production, and you can see it in action in the signup workflow for our [coding courses](https://boot.dev/).
 

@@ -8,9 +8,9 @@ images:
   - /img/800/calculus-on-a-chalkboard.webp
 ---
 
-Functional programming is a way to writing code where programs are created strictly through functions. Functional programming has gained quite a bit of traction in recent years among the development community, mostly because of the benefits it provides.
+Functional programming is a way to writing code where programs are created strictly through functions. Functional programming has gained quite a bit of traction in recent years among the development community, mostly because of the benefits it provides.
 
-Functional programming is a declarative way to write provably correct code. Function definitions are expressions that simply map inputs to outputs, rather than a sequence of statements that update the state of the application.
+Functional programming is a declarative way to write provably correct code. Function definitions are expressions that simply map inputs to outputs, rather than a sequence of statements that update the state of the application.
 
 Let's jump right into the top 8 reasons you should look into a functional style of coding, or perhaps switching to a completely functional programming language.
 

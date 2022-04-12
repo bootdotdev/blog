@@ -16,9 +16,9 @@ Heuristics aim to produce solutions in a _reasonable time frame_ that are _good 
 
 The entire value proposition of a heuristic is based on trade-offs. Typically we are trading accuracy for time. That said, there are several different levers we have to pull when designing a good heuristic.
 
-- _Optimality:_ Many problems have multiple solutions, for example, "what is a good path to get from city A to city B? Do we need the best path, or will a good path be good enough?
-- _Completeness:_ When there are multiple valid solutions to a problem do we need to find all of them? Will a subset of valid solutions suffice?
-- _Accuracy:_ Many questions don't have a correct answer. For example, "Will Tommy like a pair of boots or a pair of gloves for Christmas?" A hueristic can improve accuracy in these situations.
+- _Optimality:_ Many problems have multiple solutions, for example, "what is a good path to get from city A to city B? Do we need the best path, or will a good path be good enough?
+- _Completeness:_ When there are multiple valid solutions to a problem do we need to find all of them? Will a subset of valid solutions suffice?
+- _Accuracy:_ Many questions don't have a correct answer. For example, "Will Tommy like a pair of boots or a pair of gloves for Christmas?" A hueristic can improve accuracy in these situations.
 - _Execution time_: The primary goal of a heuristic is to provide a quick answer that's good enough. Some heuristics are only marginally quicker than classic methods.
 
 Example problems and some of their common heuristics are given below.

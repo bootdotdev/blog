@@ -14,14 +14,14 @@ Quicksort is an efficient sorting algorithm commonly used in production sorting 
 
 - Select a pivot element that will _preferably_ end up close to the center of the sorted pack
 - Move everything onto the "greater than" or "less than" side of the pivot
-- The pivot is now in its **final** position
-- Recursively repeat the operation on both sides of the pivot
+- The pivot is now in its **final** position
+- Recursively repeat the operation on both sides of the pivot
 
 {{< cta1 >}}
 
 ## Conquer
 
-- Return a sorted array after all elements have been through the pivot operation
+- Return a sorted array after all elements have been through the pivot operation
 
 ## Quicksort Pseudocode
 
@@ -82,21 +82,21 @@ In the worst case, the input is already sorted. An already sorted array results 
 
 Quick sort has the following properties.
 
-- Very fast in the average case
-- In-Place: Saves on memory, doesn't need to do a lot of copying and allocating
-- More complex implementation
-- Typically unstable: changes the relative order of elements with equal keys
+- Very fast in the average case
+- In-Place: Saves on memory, doesn't need to do a lot of copying and allocating
+- More complex implementation
+- Typically unstable: changes the relative order of elements with equal keys
 
 ## Ensuring a fast runtime in Quicksort
 
-While the version of quicksort that we implemented is almost always able to perform at speeds of `O(n*log(n))`, it's Big O complexity is still technically `O(n^2)`. We can fix this by altering the algorithm slightly. There are two approaches:
+While the version of quicksort that we implemented is almost always able to perform at speeds of `O(n*log(n))`, it's Big O complexity is still technically `O(n^2)`. We can fix this by altering the algorithm slightly. There are two approaches:
 
-- Shuffle input randomly before sorting. This can trivially be done in `O(n)` time.
-- Actively find the median of a sample of data from the partition, this can be done in `O(1)` time.
+- Shuffle input randomly before sorting. This can trivially be done in `O(n)` time.
+- Actively find the median of a sample of data from the partition, this can be done in `O(1)` time.
 
 ### Random shuffling optimization
 
-The random approach is easy to code, works practically all of the time, and as such is often used. The idea is to quickly shuffle the list before sorting it. The likelihood of shuffling into a sorted list is astronomically unlikely, and is also _more_ unlikely the larger the input.
+The random approach is easy to code, works practically all of the time, and as such is often used. The idea is to quickly shuffle the list before sorting it. The likelihood of shuffling into a sorted list is astronomically unlikely, and is also _more_ unlikely the larger the input.
 
 ### Finding the median optimization
 

@@ -25,7 +25,7 @@ _Single._
 
 _Time._
 
-> In mathematics, computer science, and physics, a **deterministic system** is a system in which no randomness is involved in the development of future states of the system. A deterministic model will thus always produce the same output from a given starting condition or initial state
+> In mathematics, computer science, and physics, a **deterministic system** is a system in which no randomness is involved in the development of future states of the system. A deterministic model will thus always produce the same output from a given starting condition or initial state
 > 
 > [Wikipedia](https://en.wikipedia.org/wiki/Deterministic_system)
 

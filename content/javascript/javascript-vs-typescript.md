@@ -91,7 +91,7 @@ JavaScript was built for the World Wide Web, so it should come as no surprise th
 
 JavaScript _is_ the scripting language that brought us dynamic client-side web pages. By dynamic, I mean interactive user experiences with the web pages, i.e. content like images and text that can change. HTML only creates static web pages.
 
-Client-side dynamic web pages are when the interactive behavior is happening within the specific web page, as opposed to server-side dynamic web pages where it’s sourced from between pages. 
+Client-side dynamic web pages are when the interactive behavior is happening within the specific web page, as opposed to server-side dynamic web pages where it’s sourced from between pages. 
 
 Along with being the founding father of modern web pages, JavaScript has an incredible catalog of libraries and frameworks that completely changed the game for both front-end and back-end web development.
 

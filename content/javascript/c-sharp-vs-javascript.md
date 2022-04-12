@@ -44,7 +44,7 @@ JavaScript is more of a “great equalizer” among programming languages. It’
 
 JavaScript is easy to pick up as well. It has a much more fluid structure, being weakly, dynamically typed. However, it’s not as complex as C#. JavaScript also uses asynchronous programming with its call and response functions, as opposed to C# explicit multithreading.
 
-JavaScript is a highly versatile and compatible language with the Just-In-Time (JIT) compiler, Node.js, and React library allowing it to be utilized in every aspect of web, mobile app, and desktop app development. It’s also [used by 97.6%](https://w3techs.com/technologies/details/cp-javascript) of all websites, so there is – and always will be – a demand for the skill.
+JavaScript is a highly versatile and compatible language with the Just-In-Time (JIT) compiler, Node.js, and React library allowing it to be utilized in every aspect of web, mobile app, and desktop app development. It’s also [used by 97.6%](https://w3techs.com/technologies/details/cp-javascript) of all websites, so there is – and always will be – a demand for the skill.
 
 In a nutshell, C# is good for beginners because it’s easy to learn, but JavaScript holds more opportunities in terms of employment and versatility.
 
@@ -90,9 +90,9 @@ Aside from being the industry choice, JS has amazing cross-platform support, off
 
 There’s also the React library that revolutionized JavaScript’s front-end development and the MEAN stack (MongoDB, Express.js, Angular.js, Node.js) that help make JavaScript the dexterous web development language seen today.
 
-Oppositely, C# does not support front-end development. C# specializes in backend development as a strong, secure language and works well for enterprise projects and Windows applications. It also offers dynamic server-side web pages and apps.  
+Oppositely, C# does not support front-end development. C# specializes in backend development as a strong, secure language and works well for enterprise projects and Windows applications. It also offers dynamic server-side web pages and apps.  
 
-The kicker, however, as we know, is that C# was made by Microsoft for Microsoft, which hampers it from having the same well-rounded web development approach as JavaScript.  
+The kicker, however, as we know, is that C# was made by Microsoft for Microsoft, which hampers it from having the same well-rounded web development approach as JavaScript.  
 
 Essentially, if you’re planning on focusing on Windows backend development, then C# is a no-brainer, but JavaScript is quintessential to this field, and if you want to work in it, then there’s no avoiding JavaScript’s importance.
 
@@ -114,7 +114,7 @@ Because JavaScript is the basis of the internet, it makes sense it would intuiti
 
 JavaScript is supported by game engines and libraries like Phaser, Pixi.js, HTML5, PlayCanvas, and Three.js, just to name a few.
 
-Whether you plan on dabbling or working professionally in the field, both languages offer incredible opportunities to work and develop your own gaming masterpiece. 
+Whether you plan on dabbling or working professionally in the field, both languages offer incredible opportunities to work and develop your own gaming masterpiece. 
 
 ## Which Is Better?: The Final Verdict
 

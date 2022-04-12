@@ -8,11 +8,11 @@ images:
   - /img/800/eyeball-art.webp
 ---
 
-In [cryptography](/cryptography/what-is-cryptography/), the one-time pad, or OTP is a way of encrypting information so securely that it's impossible to be cracked. That said, OTP has a major drawback in that it requires both parties to have access to the _same_ key before a message is encrypted.
+In [cryptography](/cryptography/what-is-cryptography/), the one-time pad, or OTP is a way of encrypting information so securely that it's impossible to be cracked. That said, OTP has a major drawback in that it requires both parties to have access to the _same_ key before a message is encrypted.
 
 ## How the one-time pad cipher works
 
-When using the one-time pad, a message and a secret key are required to start. Each bit of the original message, assuming we can use binary data, is encrypted by using an `XOR` operation on it and the corresponding bit from the secret key.
+When using the one-time pad, a message and a secret key are required to start. Each bit of the original message, assuming we can use binary data, is encrypted by using an `XOR` operation on it and the corresponding bit from the secret key.
 
 ### Refresher on XOR
 
@@ -80,8 +80,8 @@ A cipher is said to have [perfect security](https://en.wikipedia.org/wiki/Inform
 
 1. The key must be _at least_ as long as the plaintext
 2. The key must _never be reused_
-3. The key must be kept completely secret to the outside world yet shared by both parties
-4. The key must have a uniform distribution that is independent of the plaintext
+3. The key must be kept completely secret to the outside world yet shared by both parties
+4. The key must have a uniform distribution that is independent of the plaintext
 
 The [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) is a great example of a cipher that is _not_ perfectly secure _or_ practically secure. As we demonstrated earlier, when given access to the ciphertext of a Caesar cipher, an attacker can see the positions and patterns of characters in the plaintext.
 

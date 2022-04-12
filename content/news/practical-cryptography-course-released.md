@@ -28,4 +28,4 @@ We are already planning a sequel to this course which will cover public-key cryp
 
 ![golang gopher](/img/800/go-300x157.png)
 
-Coding projects in this course are all written in Go, a language that is soaring in popularity among DevOps, backend, and security engineers. If you aren't familiar with Go yet, take our [Go Mastery](https://boot.dev/go-mastery/) course first! All coding is done directly in the app, no need to mess around with configuring a local dev setup.
+Coding projects in this course are all written in Go, a language that is soaring in popularity among DevOps, backend, and security engineers. If you aren't familiar with Go yet, take our [Go Mastery](https://boot.dev/go-mastery/) course first! All coding is done directly in the app, no need to mess around with configuring a local dev setup.

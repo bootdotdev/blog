@@ -8,7 +8,7 @@ images:
   - /img/800/pexels-diego-madrigal-2062314-scaled.webp
 ---
 
-I’ve made no secret of the fact that I love Python, and that I believe [one of the best ways to learn Python](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/) is by finding an awesome project you care about to work on. There’s nothing more stimulating than passion and curiosity, and that makes the best projects for Python beginners usually something a little grittier than the standard tutorials. 
+I’ve made no secret of the fact that I love Python, and that I believe [one of the best ways to learn Python](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/) is by finding an awesome project you care about to work on. There’s nothing more stimulating than passion and curiosity, and that makes the best projects for Python beginners usually something a little grittier than the standard tutorials. 
 
 While it’s fine to start with "Hello World", it’s not exactly the most fascinating of projects and won’t keep you going when the going gets tough.
 
@@ -50,11 +50,11 @@ This Python project for beginners is great for anybody who wants to be a future 
 
 Rather than a written tutorial, you should watch these two YouTube videos to learn how to make a login system. They walk you through both the practical steps of what code you're going to need, as well as the more theoretical steps explaining the concepts behind what you're making.
 
-Part one is about 25 minutes long, while part two is 32 minutes long. 
+Part one is about 25 minutes long, while part two is 32 minutes long. 
 
 ### [5\. Connect Python to StackOverflow](https://pypi.org/project/howdoi/)
 
-Think of this option as less of a project for Python beginners, and more of something I think should be a requirement for every Python user ever. 
+Think of this option as less of a project for Python beginners, and more of something I think should be a requirement for every Python user ever. 
 
 Something I've learned about coding is that it's rare that you are typing frantically at your keyboard and writing lines of code that magically fill your screen. Instead, it looks a little bit more like copying scrappy code from all around the internet and Googling it on StackOverflow when it doesn't do what it's supposed to.
 
@@ -80,7 +80,7 @@ Our first course, Python Fundamentals, is designed to take you from a complete b
 
 ### [7\. Coursera’s Python Project option](https://www.coursera.org/learn/python-project-for-data-science)
 
-Coursera is normally what I recommend to people who want to secure a certificate for their Python experience, and not necessarily as a source of Python projects for beginners. However, it also is replete with courses that either act as a project or let you select a project yourself. 
+Coursera is normally what I recommend to people who want to secure a certificate for their Python experience, and not necessarily as a source of Python projects for beginners. However, it also is replete with courses that either act as a project or let you select a project yourself. 
 
 For example, this Python project for data science is intended for you to demonstrate foundational Python skills for working with data. It has a bunch of lectures, but you'll also be doing a hands-on project developing a simple dashboard using Python.
 
@@ -104,7 +104,7 @@ Again, like Coursera, it's not free but you can start for free with their month-
 
 ## 4 Python Projects for Beginners Using GitHub
 
-Ah, GitHub, one of my favorite places on the internet. GitHub is an awesome resource for a ton of reasons: first, it's free! Second, for a language like Python, there is a robust and friendly community full of Pythonistas who have created projects, tutorials, articles, open-source code, etc, that they are so excited to share with you. 
+Ah, GitHub, one of my favorite places on the internet. GitHub is an awesome resource for a ton of reasons: first, it's free! Second, for a language like Python, there is a robust and friendly community full of Pythonistas who have created projects, tutorials, articles, open-source code, etc, that they are so excited to share with you. 
 
 As you can imagine, that makes it a great place to find some awesome Python project ideas for beginners. These are my favorite three - definitely more simple beginner Python projects than others on this list - but feel free to explore for yourself and discover your own.
 
@@ -124,7 +124,7 @@ All you need to do is install the random module and then head over to the direct
 
 This project is for another one of the social media addicts out there like me. It's a script that counts the number of followings, followers, and posts of any account. It takes the username from the terminal and shows you the output.
 
-I like this tutorial because you can do what you want with it. If you want to just run it, run it! But you can also look into the more complex script and try to figure out what's going on. Take what you want from this learning experience. 
+I like this tutorial because you can do what you want with it. If you want to just run it, run it! But you can also look into the more complex script and try to figure out what's going on. Take what you want from this learning experience. 
 
 ## 5 Python Projects for Beginners Using Your Own Data
 
@@ -136,9 +136,9 @@ Here are five great sources of internet data you can use to create your very own
 
 ### [13\. 538](https://data.fivethirtyeight.com/)
 
-Nate Silver gets regularly dunked on these days, but the good news is his website 538 is still a really cool place to find easy beginner Python projects. Just check out this website and scroll down the list to see if there's anything that's interesting to you. 
+Nate Silver gets regularly dunked on these days, but the good news is his website 538 is still a really cool place to find easy beginner Python projects. Just check out this website and scroll down the list to see if there's anything that's interesting to you. 
 
-It's constantly updating, so right now I'm looking at club soccer predictions, MLB predictions,  political predictions, and more. Have a look for yourself and see what you want to dive into. See how 538 ran their analyses, and do your own alongside.
+It's constantly updating, so right now I'm looking at club soccer predictions, MLB predictions,  political predictions, and more. Have a look for yourself and see what you want to dive into. See how 538 ran their analyses, and do your own alongside.
 
 ### [14\. Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
 
@@ -154,13 +154,13 @@ They look at H2 Visa certification data, firearm background checks, political do
 
 ### [16\. NASA](https://pds.nasa.gov/datasearch/data-search/)
 
-Space represents one of the greatest mysteries of our time. If you ever dreamed of being an astronaut, like me, this might be the place for you to investigate data. The planetary data system run by NASA Offers data based on tons of different targets that you can choose, including comets, asteroids, all the planets, and even solar wind. 
+Space represents one of the greatest mysteries of our time. If you ever dreamed of being an astronaut, like me, this might be the place for you to investigate data. The planetary data system run by NASA Offers data based on tons of different targets that you can choose, including comets, asteroids, all the planets, and even solar wind. 
 
 This potential project might be a challenge for Python beginners, but if this is the kind of data that interests you, it'll be worth it.
 
 ### [17\. AWS](https://github.com/awslabs/open-data-registry/)
 
-It shouldn't be a surprise to anybody that AWS has an [absolutely enormous registry of open data](https://registry.opendata.aws/). They have data sets from the Allen Institute for AI, Digital Earth Africa, Facebook data for good, more stuff from NASA, and even an Amazon sustainability data initiative. 
+It shouldn't be a surprise to anybody that AWS has an [absolutely enormous registry of open data](https://registry.opendata.aws/). They have data sets from the Allen Institute for AI, Digital Earth Africa, Facebook data for good, more stuff from NASA, and even an Amazon sustainability data initiative. 
 
 Naturally, AWS doesn't own this data - they just host it for a variety of government organizations, researchers, businesses, and individuals that have chosen to make this open. Their GitHub repo also contains a few examples of how to use the data.
 
@@ -170,7 +170,7 @@ Have a browse, poke around, and find what looks interesting to you.
 
 ## The best Python projects for beginners are deeply, deeply interesting.
 
-I reject the idea that Python programming projects for beginners have to be easy. Instead, I think it's much more important that the projects are fascinating, gritty, challenging, and rewarding. This list of Python project topics for beginners will probably push you to your limits, will make you angrily smash your keyboard, and might even cause you to struggle. 
+I reject the idea that Python programming projects for beginners have to be easy. Instead, I think it's much more important that the projects are fascinating, gritty, challenging, and rewarding. This list of Python project topics for beginners will probably push you to your limits, will make you angrily smash your keyboard, and might even cause you to struggle. 
 
 But in the end, you will have completed a much more rewarding project than just a simple project in Python, like running hello world or any of the other bog-standard tutorials.
 

@@ -48,7 +48,7 @@ UUIDs take up 128 bits in memory and can take up more if stored as a string. In 
 
 While you could just generate 32 random digits and call your home-grown ID format "good enough", it's nice to use [standards that already exist](/clean-code/use-existing-standards/). Aside from the fact that there are safe libraries you can use to work with standard UUIDs, it's nice to look at the UUID format and know "hey, this is an ID"! If you roll your own format, you'll likely confuse members of your team. They could think it's an encoded JWT, or perhaps a private key. Best to avoid that confusion.
 
-A UUID is made up of 32 [hex (base-16)](https://simple.wikipedia.org/wiki/Hexadecimal) digits, displayed in five sections. For example, `bc2d0f53-5041-46e8-a14c-267875a49f0c`. The sections are broken in the form 8-4-4-4-12. Including the four hyphens, it comes to a total of 36 characters. UUIDs are also typically displayed in lowercase, which to be honest is a bit unique for hex encoding. You can read more about the specifics of UUID formatting on [Wikipedia](https://en.wikipedia.org/wiki/Universally_unique_identifier#Format).
+A UUID is made up of 32 [hex (base-16)](https://simple.wikipedia.org/wiki/Hexadecimal) digits, displayed in five sections. For example, `bc2d0f53-5041-46e8-a14c-267875a49f0c`. The sections are broken in the form 8-4-4-4-12. Including the four hyphens, it comes to a total of 36 characters. UUIDs are also typically displayed in lowercase, which to be honest is a bit unique for hex encoding. You can read more about the specifics of UUID formatting on [Wikipedia](https://en.wikipedia.org/wiki/Universally_unique_identifier#Format).
 
 ### UUID Versions
 

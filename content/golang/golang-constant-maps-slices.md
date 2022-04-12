@@ -21,7 +21,7 @@ If you're looking for a quick answer: Go doesn't support `const` arrays.
 
 It also doesn't support constant maps, slices, or other complex types. From the official [specification](https://golang.org/ref/spec#Constants):
 
-> There are _boolean constants_, _rune constants_, _integer constants_, _floating-point constants_, _complex constants_, and _string constants_. Rune, integer, floating-point, and complex constants are collectively called _numeric constants_.
+> There are _boolean constants_, _rune constants_, _integer constants_, _floating-point constants_, _complex constants_, and _string constants_. Rune, integer, floating-point, and complex constants are collectively called _numeric constants_.
 
 The solution, which I explain in more detail later, is to use initialization functions. While of course the variables once created are still changeable, at least you can always get a new copy with the guarantee that it has the correct values.
 

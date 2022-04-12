@@ -47,7 +47,7 @@ I don't think one is strictly better than the other, and a lot comes down to pre
 
 ![](/img/800/Golang-1024x578.png)
 
-> Go is an open-source programming language that makes it easy to build simple, reliable, and efficient software.
+> Go is an open-source programming language that makes it easy to build simple, reliable, and efficient software.
 > 
 > [golang.org](https://golang.org/)
 

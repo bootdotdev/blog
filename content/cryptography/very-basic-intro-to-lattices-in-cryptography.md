@@ -9,11 +9,11 @@ images:
   - /img/800/Lattice-Based-Cryptography.png
 ---
 
-Lattice-based cryptography, an important contender in the race for quantum-safe encryption, describes constructions of cryptographic primitives that involve mathematical lattices. Lattices, as they relate to crypto, have been coming into the spotlight recently. In January 2019, Many of the semifinalists in the [NIST post-quantum-cryptography competition](https://www.nist.gov/news-events/news/2019/01/nist-reveals-26-algorithms-advancing-post-quantum-crypto-semifinals) were based on lattices. Lattice-based cryptography has promising aspects that give us hope for cryptographic security in a post-quantum world.
+Lattice-based cryptography, an important contender in the race for quantum-safe encryption, describes constructions of cryptographic primitives that involve mathematical lattices. Lattices, as they relate to crypto, have been coming into the spotlight recently. In January 2019, Many of the semifinalists in the [NIST post-quantum-cryptography competition](https://www.nist.gov/news-events/news/2019/01/nist-reveals-26-algorithms-advancing-post-quantum-crypto-semifinals) were based on lattices. Lattice-based cryptography has promising aspects that give us hope for cryptographic security in a post-quantum world.
 
 ## What is a Lattice?
 
-According to [Wikipedia](https://en.wikipedia.org/wiki/Lattice-based_cryptography), a lattice is the set of all integer linear combinations of basis vectors:
+According to [Wikipedia](https://en.wikipedia.org/wiki/Lattice-based_cryptography), a lattice is the set of all integer linear combinations of basis vectors:
 
 ```
 b1,...,bn E R^n

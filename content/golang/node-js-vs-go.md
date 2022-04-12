@@ -114,7 +114,7 @@ This support is particularly useful when troubleshooting or learning new framewo
 
 On the other hand, Golang’s community is still small and new.
 
-It’s definitely growing in popularity, but it has yet to reach its full potential, especially in data science and machine learning. While the community may not have the experience to help with troubleshooting, you do have the opportunity to learn together.  
+It’s definitely growing in popularity, but it has yet to reach its full potential, especially in data science and machine learning. While the community may not have the experience to help with troubleshooting, you do have the opportunity to learn together.  
 
 ## Go vs Node.js: The Final Verdict
 

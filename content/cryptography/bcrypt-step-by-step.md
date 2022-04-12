@@ -28,7 +28,7 @@ $2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy
 Alg   Cost                  Salt                                            Hash
 
 - `2a`: The hash algorithm identifier (Bcrypt)
-- `10`: Cost factor (2`10` = 1,024 rounds of key expansion)
+- `10`: Cost factor (2`10` = 1,024 rounds of key expansion)
 - `N9qo8uLOickgx2ZMRZoMye`: 16-byte (128-bit) salt, base64 encoded to 22 characters
 - `IjZAgcfl7p92ldGxad68LJZdL17lhWy`: 24-byte (192-bit) hash, base64 encoded to 31 characters
 

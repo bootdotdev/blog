@@ -10,7 +10,7 @@ images:
 
 Rust and Python contrast in a unique way because while they both provide back-end web support, Python thrives as a flexible and consistent language, while Rust makes a name for itself with raw power and speed.
 
-Python, named after the comedic group Monty Python, is a high-level, interpreted, general-purpose language created by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in 1991. Python is dynamically typed and supports procedural, functional, and object-oriented programming.
+Python, named after the comedic group Monty Python, is a high-level, interpreted, general-purpose language created by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in 1991. Python is dynamically typed and supports procedural, functional, and object-oriented programming.
 
 Python’s most famed for its intuitive design and work with AI, web development, and Big Data.
 
@@ -34,7 +34,7 @@ We have an interactive course so you can [learn functional programming](https://
 
 Aside from being easy to learn, Python’s also versatile. Its simplistic but powerful design has made it an excellent language for experimental fields, like machine learning and data science, but its security has also made it a key choice in back-end web development.
 
-Both are innovative fields that offer very different environments.  
+Both are innovative fields that offer very different environments.  
 
 It’s also incredibly popular, with companies like Spotify, Netflix, and Dropbox using Python to develop their platforms, along with its massive community of developers.
 

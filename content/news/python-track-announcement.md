@@ -51,7 +51,7 @@ Our goal is to help you get to where you want to be, in the most effective way p
 
 At boot.dev we’re focused on one thing: [teaching computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/).
 
-Following our "learning by doing" philosophy, we design our courses to be as interactive as possible, cementing learning and helping you to actively code along to challenges, lessons, and answer multiple-choice questions. 
+Following our "learning by doing" philosophy, we design our courses to be as interactive as possible, cementing learning and helping you to actively code along to challenges, lessons, and answer multiple-choice questions. 
 
 And having been on the other side in the recruitment game, we understand how employers think, and what they’re looking for.
 

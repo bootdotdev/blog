@@ -45,16 +45,17 @@ Insertion sort has a Big O complexity of `O(n^2)`, because that is its worst-cas
 
 Like [bubble sort](/golang/bubble-sort-golang/), the algorithm is just too slow for general-purpose production use, but can be a great learning tool. Here are some additional properties of insertion sort.
 
-- Simple implementation, easy to write
-- Fast for very small data sets
-- Faster than other simple sorting algorithms like Bubble Sort
-- Adaptive: Faster for partially sorted data sets
-- Stable: Does not change the relative order of elements with equal keys
-- In-Place: Only requires a constant amount of memory
-- Online: Can sort a list as it receives it
+- Simple implementation, easy to write
+- Fast for very small data sets
+- Faster than other simple sorting algorithms like Bubble Sort
+- Adaptive: Faster for partially sorted data sets
+- Stable: Does not change the relative order of elements with equal keys
+- In-Place: Only requires a constant amount of memory
+- Online: Can sort a list as it receives it
 
-Some production sorting implementations use merge sort for very small inputs under a certain threshold (very small, like 10ish). Insertion sort is better for very small lists than some of the faster algorithms because:
+Some production sorting implementations use merge sort for ver small inputs under a certain threshold (a very small threshold, usually about 10 items). Insertion sort is better for very small lists than some of the faster algorithms because:
 
-- There is no recursion overhead
-- Tiny memory footprint
-- It's a stable sort as described above
+
+- There is no recursion overhead
+- Tiny memory footprint
+- It's a stable sort as described above

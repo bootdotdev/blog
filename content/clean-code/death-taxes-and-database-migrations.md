@@ -8,7 +8,7 @@ images:
   - /img/800/migration.jpeg
 ---
 
-## In this world, nothing can be said to be certain, except death, taxes, and migrations.
+## In this world, nothing can be said to be certain, except death, taxes, and migrations.
 
 Earlier in my career, I would come to a new project and inevitably a hectic migration would be underway. It's not always a "stop the world" change, it can be as simple as switching from NPM to Yarn, but something is always changing. I used to naively believe my managers when they said cute things like "just this once" or "we'll finally have our dependencies up to date."
 

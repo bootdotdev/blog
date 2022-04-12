@@ -10,7 +10,7 @@ images:
 
 Comparing Python and Java is a bit like comparing boats and cars. They both get you from point A to B and are fun to show off, but that’s where the similarities end. And the same with Python and Java, they’re both programming languages and known for powerful server-side coding, but after that, they become completely different tools.
 
-Python is a multiparadigm, general-purpose programming language created by Netherland-based Guido van Rossum at the Centrum Wiskunde & Informatica (CWI). First released in 1991, making it older than Java, it’s since adopted the term “batteries included” from the programming community due to its tricked-out standard library.
+Python is a multiparadigm, general-purpose programming language created by Netherland-based Guido van Rossum at the Centrum Wiskunde & Informatica (CWI). First released in 1991, making it older than Java, it’s since adopted the term “batteries included” from the programming community due to its tricked-out standard library.
 
 Java, on the other hand, is a class-based, object-oriented language designed by James Gosling at Sun Microsystems, which has since been taken over by Oracle. It first appeared in 1995 sporting the famous JVM and “write once, run anywhere” motto, and continues to battle Python as the [most popular programming language](https://pypl.github.io/PYPL.html).
 
@@ -82,7 +82,7 @@ Now, I’m not saying to choose a language based on a popularity contest…but I
 
 It’s no secret that C languages reign supreme in game development, but that doesn’t mean other languages don’t have merit in the field.
 
-Python may not be as popular as C++ in the industry, but it’s made a nice name for itself with games like Battlefield 2, EVE Online, and Pirates of the Caribbean on its portfolio. It also has a nice selection of frameworks that support game development, like Pygame, PyKyra, Pyglet – and much more. 
+Python may not be as popular as C++ in the industry, but it’s made a nice name for itself with games like Battlefield 2, EVE Online, and Pirates of the Caribbean on its portfolio. It also has a nice selection of frameworks that support game development, like Pygame, PyKyra, Pyglet – and much more. 
 
 Python’s particularly skilled at image processing, graphics development, and the rapid prototyping of games. So even if you don’t build with it, you can use it to easily progress through the prototyping stage.
 
@@ -106,7 +106,7 @@ Java doesn’t possess the same popularity with ML, and that’s because it wasn
 
 Java technically has the bandwidth to support the data, but it wasn’t adopted because it’s too complex to experiment nicely with and it’s not flexible. Java also doesn’t have nearly the amount of library groundwork Python does, but that may be because there wasn’t a demand to develop them.
 
-In the end, Python naturally meshed with this field in a way Java couldn’t compete with.  
+In the end, Python naturally meshed with this field in a way Java couldn’t compete with.  
 
 ## Big Data in Python vs Java
 

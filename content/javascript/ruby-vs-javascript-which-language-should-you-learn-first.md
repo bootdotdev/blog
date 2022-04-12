@@ -14,7 +14,7 @@ One being that JavaScript has always been about furthering technology.
 
 Before JS, there was only [HTML and CSS](/javascript/html-css-javascript/), which instructed and described how a web page should work and look, but JavaScript gave it life with dynamic web pages. This not only made web pages interactive, but it changed their functionality forever.
 
-It’s amazing to think that in 1995, Brendan Eich developed this interpreted, high-level, multiparadigm scripting and programming language in just 10 days, and it would go on to become the industry standard client-side language.  
+It’s amazing to think that in 1995, Brendan Eich developed this interpreted, high-level, multiparadigm scripting and programming language in just 10 days, and it would go on to become the industry standard client-side language.  
 
 Yet, while JavaScript was built to meet the needs of technology, Ruby was built to meet the needs of the programmer. Appearing in the same year, Japanese-based Yukihiro “Matz” Matsumoto wanted to create a fun language that inspired productivity while being a true object-oriented programming language.
 

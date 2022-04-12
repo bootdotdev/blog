@@ -37,7 +37,7 @@ If you’ve graduated from a coding boot camp and you’re tearing your hair out
 
 ## What is a coding bootcamp anyway?
 
-Coding bootcamps really started to spring up in the 2010s to fill a [void in the job market](/jobs/whats-the-job-outlook-for-computer-science-students/). To this day there are at least [1.4 programming jobs](https://www.daxx.com/blog/development-trends/software-developer-shortage-us) just waiting to be filled by qualified candidates. What's more, the number of college graduates with four-year degrees wasn't even close to being able to satisfy the industry's insatiable need for more developers.
+Coding bootcamps really started to spring up in the 2010s to fill a [void in the job market](/jobs/whats-the-job-outlook-for-computer-science-students/). To this day there are at least [1.4 programming jobs](https://www.daxx.com/blog/development-trends/software-developer-shortage-us) just waiting to be filled by qualified candidates. What's more, the number of college graduates with four-year degrees wasn't even close to being able to satisfy the industry's insatiable need for more developers.
 
 The idea behind coding bootcamps is to quickly funnel students through a condensed, rigorous curriculum that gives them the only minimum knowledge they need for an entry-level job. The only problem is that over the last decade, many employers started to question the quality of the education provided by these bootcamps.
 
@@ -57,7 +57,7 @@ After you graduate, you might get to the interview stage for a job, only to find
 
 In short, even if you can attend a coding bootcamp, it’s not the _complete_ solution many people think it is - you’ll still lack the fundamental computer science knowledge that would make you stand out at job interviews and will let you actually do the job you want to be hired for. People who try getting a job after coding bootcamp will find it harder than they expect.
 
-The obvious answer to this is to study [computer science at college](/computer-science/compsci-certificate-vs-degree/), but that’s even more expensive and time-consuming, and plenty of folks don’t realize they want to do computer science until after they’ve already graduated college. 
+The obvious answer to this is to study [computer science at college](/computer-science/compsci-certificate-vs-degree/), but that’s even more expensive and time-consuming, and plenty of folks don’t realize they want to do computer science until after they’ve already graduated college. 
 
 So what’s the solution?
 

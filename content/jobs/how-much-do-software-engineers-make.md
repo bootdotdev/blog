@@ -71,13 +71,13 @@ It's often the case that [software engineers who've studied computer science ten
 
 ![](/img/800/Screen-Shot-2020-10-31-at-1.37.50-PM-1024x536.png)
 
-Again, it's critical to note that the following figures represent _median_ salaries, not the average salary for every worker globally. Median statistics provide a more balanced look at the range of salaries without outliers affecting the results. If you're interested in a complete breakdown check out our article on the [highest paying CS jobs](/computer-science/highest-paying-computer-science-jobs/).
+Again, it's critical to note that the following figures represent _median_ salaries, not the average salary for every worker globally. Median statistics provide a more balanced look at the range of salaries without outliers affecting the results. If you're interested in a complete breakdown check out our article on the [highest paying CS jobs](/computer-science/highest-paying-computer-science-jobs/).
 
 ## Does Location Matter For Developer Salaries?
 
 Generally, U.S. workers make far more than other workers around the world, with the US averages around double the global averages. _But why?_ Again, mostly supply and demand. The largest tech companies in the world are still mostly located in the USA (though that is changing). Many employers prefer to have their employees close, so the demand for developers in the US is huge.
 
-Even salaries within the US fluctuate greatly. For example, data featured by GlassDoor shows that a software developer based in Salt Lake City, Utah, makes around **~$80,000 on average**, but this figure is **13 percent below** the national rate.
+Even salaries within the US fluctuate greatly. For example, data featured by GlassDoor shows that a software developer based in Salt Lake City, Utah, makes around **~$80,000 on average**, but this figure is **13 percent below** the national rate.
 
 The average annual salary in San Francisco for a software developer with a similar skill set is **$115,822** – a significant difference.
 

@@ -75,7 +75,7 @@ This is the official Golang blog maintained by Go team. Can't recommend it enoug
 
 Dave Cheney is a personal favorite of mine. He was one of the first Gophers and has been a prolific writer and fantastic community member.
 
-### [4\. Thoughts and links about programming](https://research.swtch.com/), by [Russ Cox](https://swtch.com/~rsc/)
+### [4\. Thoughts and links about programming](https://research.swtch.com/), by [Russ Cox](https://swtch.com/~rsc/)
 
 {{< cta2 >}}
 

@@ -64,8 +64,8 @@ Idiomatic Go developers should prefer [guard clauses](/clean-code/guard-clauses/
 
 A [pointer](/golang/the-proper-use-of-pointers-in-go-golang/) holds the memory address of a value.
 
-- `&` generates a pointer to its operand.
-- `*` dereferences a pointer (exposes the underlying value).
+- `&` generates a pointer to its operand.
+- `*` dereferences a pointer (exposes the underlying value).
 
 Pointers can be used to:
 
@@ -86,7 +86,7 @@ primes := [6]int{2, 3, 5, 7, 11, 13}
 s1 := primes[1:4]
 ```
 
-`s1` will be: `[3 5 7]`
+`s1` will be: `[3 5 7]`
 
 When slicing an existing array or slice the first index is inclusive while the last index is exclusive. If an index is omitted on one side of the colon, then all values until the edge of the original slice are included in the result.
 
@@ -133,7 +133,7 @@ For example, say you want to implement a Binary Tree in Go, that can store any t
 
 ## 12\. Is `ni`l only valid on pointer types?
 
-Nope! `nil` is the zero value for pointers, interfaces, maps, slices, channels, and function types. `nil` represents an _uninitialized_ value.
+Nope! `nil` is the zero value for pointers, interfaces, maps, slices, channels, and function types. `nil` represents an _uninitialized_ value.
 
 ## 13\. Does Go provide support for OOP via classes?
 

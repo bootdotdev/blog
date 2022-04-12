@@ -14,11 +14,11 @@ I really enjoyed Florian's article, and while we agree on a lot of things, like 
 
 Like Florian, my thoughts here **are not science**. I'm presenting anecdotes and sharing what I've found works well through personal experience. I have zero data to back this up.
 
-## "A capable distributed team habitually externalizes information"
+## "A capable distributed team habitually externalizes information"
 
 > Information is generally far less useful when it is only stored in one person’s head, as opposed to being accessible in a shared system that everyone trusts and can use. If you take important information out of your own head and store it in a medium that allows others to easily find and contextualise it, that’s a win for everyone....
 > 
-> ...While _sharing_ information in a chat is extremely easy, it is also a “fire and forget” mode of communications. Chat makes it difficult to find information after the fact. If you’ve ever attempted to scour a busy Slack or IRC archive for a discussion on a specific topic that you only remember to have happened a “few months ago”, you’ll agree with me here.
+> ...While _sharing_ information in a chat is extremely easy, it is also a “fire and forget” mode of communications. Chat makes it difficult to find information after the fact. If you’ve ever attempted to scour a busy Slack or IRC archive for a discussion on a specific topic that you only remember to have happened a “few months ago”, you’ll agree with me here.
 
 While I agree with this in a lot of cases, the problem is that most communication contains information that simply doesn't need to be distributed to everyone. If I documented even as little as 10% of the information my team communicates between itself on slack, our Wiki would get insanely unwieldy.
 
@@ -34,7 +34,7 @@ Processes like deployments, access to company secrets, development environment s
 
 ## "Avoid anything that makes a distributed team run synchronously"
 
-> The reason for this is not just working in different timezones, but also the fact that everyone will have their own daily routine, and/or have their individual times when they are most productive. Which you _will not attempt to synchronize._ (Doing so would mean setting the entire team up for failure.)
+> The reason for this is not just working in different timezones, but also the fact that everyone will have their own daily routine, and/or have their individual times when they are most productive. Which you _will not attempt to synchronize._ (Doing so would mean setting the entire team up for failure.)
 
 If you've read my article about [meetings](https://qvault.io/news/too-many-meetings/), you might assume that I completely agree with Florian here. My only problem with this section of his article is that I _really_ enjoy taking certain email threads or slack conversations into an impromptu, synchronous slack call. This happens for me ~2 times a day on average. Don't get me wrong, I don't want a meeting when it can be an email or a quick slack message. What I hate is having a _discussion_ over email or slack. It's just so damn slow.
 

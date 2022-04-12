@@ -15,8 +15,8 @@ Pure functions are often hyped up in the JavaScript world, probably because of t
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Pure_function), a Pure function has the following properties:
 
-1. Its return value is the always same for the same arguments
-2. Its evaluation has no side effects (no mutation of data outside the function)
+1. Its return value is the always same for the same arguments
+2. Its evaluation has no side effects (no mutation of data outside the function)
 
 Which means that as a developer I know two important things:
 

@@ -8,7 +8,7 @@ images:
   - /img/800/Why-learn-Python.webp
 ---
 
-Simple to learn, endlessly versatile, and perennially in demand by employers paying higher and higher salaries every year — it feels like there’s a million reasons to learn Python. 
+Simple to learn, endlessly versatile, and perennially in demand by employers paying higher and higher salaries every year — it feels like there’s a million reasons to learn Python. 
 
 I mean, what’s not to love about being a Python programmer?
 

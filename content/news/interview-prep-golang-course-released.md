@@ -30,4 +30,4 @@ The course has two modules and covers many topics, some of which are:
 
 ![golang gopher](/img/800/go-300x157.png)
 
-Go is soaring in popularity among DevOps, backend, and security engineers. If you aren't familiar with Go yet, take a look at our [Go Mastery](https://boot.dev/go-mastery/) course! All code is written and scored in the browser, so no need to worry about spinning up a local development environment and copying/pasting answers.
+Go is soaring in popularity among DevOps, backend, and security engineers. If you aren't familiar with Go yet, take a look at our [Go Mastery](https://boot.dev/go-mastery/) course! All code is written and scored in the browser, so no need to worry about spinning up a local development environment and copying/pasting answers.

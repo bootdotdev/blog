@@ -60,7 +60,7 @@ When everything went digital, some devices required a "Line Feed" character to t
 
 ![](/img/800/typewriter-form-unsplash-with-carriage-300x200.jpeg)
 
-`CR` and `LF` are just bytecodes. Computers store text characters as numbers in binary, just 1's and 0s. Carriage Return (`CR`), is represented in [ASCII](https://en.wikipedia.org/wiki/ASCII) (a common character encoding protocol) as 13, or in binary, `00001101`. Likewise, the line feed character (`LF`) is 10 or `00001010`.
+`CR` and `LF` are just bytecodes. Computers store text characters as numbers in binary, just 1's and 0s. Carriage Return (`CR`), is represented in [ASCII](https://en.wikipedia.org/wiki/ASCII) (a common character encoding protocol) as 13, or in binary, `00001101`. Likewise, the line feed character (`LF`) is 10 or `00001010`.
 
 As you can imagine, `CRLF` is just both bytes shoved up next to each other: `0000110100001010`.
 

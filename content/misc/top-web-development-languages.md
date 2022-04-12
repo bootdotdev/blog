@@ -28,7 +28,7 @@ First, let's recap the difference between a _language_ and a _framework_. A lang
 
 ### What Is It?
 
-JavaScript is (primarily) a front-end programming language used to create interactive effects within web browsers, and is basically the only way to get stuff done in the browser. JS is used to seamlessly display information that does not remain static on a web page. JavaScript helps with timely content updates, interactive maps, animated graphics, scrolling videos, etc. 
+JavaScript is (primarily) a front-end programming language used to create interactive effects within web browsers, and is basically the only way to get stuff done in the browser. JS is used to seamlessly display information that does not remain static on a web page. JavaScript helps with timely content updates, interactive maps, animated graphics, scrolling videos, etc. 
 
 The large majority of today’s software developers use JS on a very regular basis. In fact, this programming language was ranked most popular among developers going on [eight years](https://fossbytes.com/javascript-most-popular-programming-language-stack-overflow/) in a row.
 
@@ -36,13 +36,13 @@ JS is often associated with TypeScript, a syntactical superset of JS that adds o
 
 ### Is It Easy to Learn?
 
-Luckily, the ever-popular JS is also one of the easiest programming languages [for beginners to learn](https://boot.dev/basic-intro-to-coding-course/) due to a forgiving, and flexible syntax that works across almost all browsers. Because of its immense popularity, it is advised by industry professionals that anyone looking to enter into software development learn JS. 
+Luckily, the ever-popular JS is also one of the easiest programming languages [for beginners to learn](https://boot.dev/basic-intro-to-coding-course/) due to a forgiving, and flexible syntax that works across almost all browsers. Because of its immense popularity, it is advised by industry professionals that anyone looking to enter into software development learn JS. 
 
 ### Where Is It Used?
 
 Although JS is most often used for front end development, it can also be used on the server-side through Node.js.
 
-There are over [1.6 billion](https://medium.com/javascript-scene/how-popular-is-javascript-in-2019-823712f7c4b1#:~:text=As%20I%20mentioned%2C%20JavaScript%20is,billion%20web%20sites%20with%20JavaScript).) websites in the world, and JS is used on 95% of them,  including giants like Facebook, YouTube, Gmail, and others.
+There are over [1.6 billion](https://medium.com/javascript-scene/how-popular-is-javascript-in-2019-823712f7c4b1#:~:text=As%20I%20mentioned%2C%20JavaScript%20is,billion%20web%20sites%20with%20JavaScript).) websites in the world, and JS is used on 95% of them,  including giants like Facebook, YouTube, Gmail, and others.
 
 {{< cta1 >}}
 
@@ -50,9 +50,9 @@ There are over [1.6 billion](https://medium.com/javascript-scene/how-popular-is-
 
 ### What Is It?
 
-Go, also known as "Golang", is an open-source programming language primarily used to build simple, reliable, and efficient software. This statically typed, compiled programming language was designed by a team of professionals at Google in 2007 (making it one of the youngest languages on this list). 
+Go, also known as "Golang", is an open-source programming language primarily used to build simple, reliable, and efficient software. This statically typed, compiled programming language was designed by a team of professionals at Google in 2007 (making it one of the youngest languages on this list). 
 
-Go was built as an alternative to C and Java, and was driven by the needs of Google’s app developers to serve their network servers and distributed systems. Since then, Go has expanded to meet the needs of many programmers working on large projects and is frequently [compared to Rust](/golang/rust-vs-go-in-backend-web-development/) in terms of back-end performance. 
+Go was built as an alternative to C and Java, and was driven by the needs of Google’s app developers to serve their network servers and distributed systems. Since then, Go has expanded to meet the needs of many programmers working on large projects and is frequently [compared to Rust](/golang/rust-vs-go-in-backend-web-development/) in terms of back-end performance. 
 
 ### Is It Easy to Learn?
 
@@ -60,19 +60,19 @@ Thanks to its simple and modern structure, [Go is quite easy for new developers]
 
 ### Where Is It Used?
 
-Go is incredibly popular with back-end developers due to its inherently simple, readable, and maintainable code. It is currently used by companies such as Uber, Twitch, Soundcloud, and others. 
+Go is incredibly popular with back-end developers due to its inherently simple, readable, and maintainable code. It is currently used by companies such as Uber, Twitch, Soundcloud, and others. 
 
 ## 3\. Ruby (on Rails)
 
 ### What Is It?
 
-Ruby is a programming language and Ruby on Rails is an open-source web _framework_ that, like Go, is fairly new to the programming game. Rails is a model–view–controller framework, providing default structures for a database, a web service, and web pages. It is most often used to create web apps. 
+Ruby is a programming language and Ruby on Rails is an open-source web _framework_ that, like Go, is fairly new to the programming game. Rails is a model–view–controller framework, providing default structures for a database, a web service, and web pages. It is most often used to create web apps. 
 
 Ruby on Rails uses the traditional Ruby programming language, and the framework focuses on three main principles:
 
 - Rapid development
 - Convention over configuration
-- Less repetition 
+- Less repetition 
 
 #### Rapid Development
 
@@ -80,27 +80,27 @@ There’s a wide variety of libraries called ‘ruby gems to use as resources to
 
 #### Convention over Configuration
 
-Rails has a lot of built-in implicit behaviors that are designed by the framework, which removes the need for the programmer to specify each one.   
+Rails has a lot of built-in implicit behaviors that are designed by the framework, which removes the need for the programmer to specify each one.   
 
 #### Less Repetition
 
-Rails abstracts and simplifies common repetitive tasks, so programmers are able to write less code and in-turn, save more time. 
+Rails abstracts and simplifies common repetitive tasks, so programmers are able to write less code and in-turn, save more time. 
 
 ### Is It Easy to Learn?
 
-Some say learning Rails can be difficult because there are many independent concepts to grasp. However, if you already have an understanding of the Ruby programming language that can help lower the learning curve for Rails. 
+Some say learning Rails can be difficult because there are many independent concepts to grasp. However, if you already have an understanding of the Ruby programming language that can help lower the learning curve for Rails. 
 
 It’s important to note that security and debugging can sometimes be difficult with Rails, especially when dealing with slightly more complex application requirements.
 
 ### Where Is It Used?
 
-Rails is used by companies running the gamut from small start-ups to giants like Twitter, Hulu, GitHub, Groupon, and more. 
+Rails is used by companies running the gamut from small start-ups to giants like Twitter, Hulu, GitHub, Groupon, and more. 
 
 ## 4\. Python (Django and Flask)
 
 ### What Is It?
 
-Python as a programming language has been described as both _beautiful_ and _intuitive_. This high-level programming language and its core design philosophy is all about code readability and a syntax which allows programmers to express concepts in a few lines of code. 
+Python as a programming language has been described as both _beautiful_ and _intuitive_. This high-level programming language and its core design philosophy is all about code readability and a syntax which allows programmers to express concepts in a few lines of code. 
 
 There are primarily two frameworks used with Python: [Django](https://www.djangoproject.com/) (a full-stack web framework) and [Flask](https://flask.palletsprojects.com/en/1.1.x/) (a micro, lightweight web framework).
 
@@ -145,7 +145,7 @@ Java is the primary language used by some of the most influential software compa
 
 C# (pronounced C-Sharp) is a general-purpose, multi-paradigm programming language that encompasses strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines.  
   
-In layman's terms, C# is a programming language that aims to combine the computing power of C++ with the programming ease of Visual Basic. It was designed by Microsoft to work within their ".NET" framework. 
+In layman's terms, C# is a programming language that aims to combine the computing power of C++ with the programming ease of Visual Basic. It was designed by Microsoft to work within their ".NET" framework. 
 
 ### Is It Easy to Learn?
 
@@ -159,19 +159,19 @@ C# is (not surprisingly) the primary language used by developers working with Mi
 
 ### What Is It?
 
-Elixir is a [functional](/clean-code/benefits-of-functional-programming/), concurrent, general-purpose programming language that runs on the BEAM virtual machine used to implement the Erlang programming language. More simply put, Elixir builds on top of the Erlang programming language and shares the same abstractions for building distributed, fault-tolerant applications. 
+Elixir is a [functional](/clean-code/benefits-of-functional-programming/), concurrent, general-purpose programming language that runs on the BEAM virtual machine used to implement the Erlang programming language. More simply put, Elixir builds on top of the Erlang programming language and shares the same abstractions for building distributed, fault-tolerant applications. 
 
 Elixir is widely-used for writing highly-concurrent web applications. (For example, a multiuser chat server with multiple rooms).
 
 ### Is It Easy to Learn?
 
-Because Elixir is built on top of [Erlang](https://www.erlang.org/), Elixir is able to leverage any Erlang library, which means that developers have a lot of resources to fall back on. 
+Because Elixir is built on top of [Erlang](https://www.erlang.org/), Elixir is able to leverage any Erlang library, which means that developers have a lot of resources to fall back on. 
 
 Elixir was born by leveraging lessons learned from languages like Ruby with the runtime characteristics of Erlang. Many use cases that are not inherently sequential or CPU-bound can benefit from the features of Elixir.
 
 ### Where Is It Used?
 
-Many well-known companies use Elixir for a wide variety of uses. Pepsi uses Elixir for marketing automation and supply chain optimization. Pinterest utilizes Elixir to speed up the performance of their notification system. Moz switched to Elixir from Ruby in order to use smaller data files and improve the speed of their API. 
+Many well-known companies use Elixir for a wide variety of uses. Pepsi uses Elixir for marketing automation and supply chain optimization. Pinterest utilizes Elixir to speed up the performance of their notification system. Moz switched to Elixir from Ruby in order to use smaller data files and improve the speed of their API. 
 
 ## 8\. PHP
 

@@ -40,7 +40,7 @@ Since adding Web Workers, now it appropriately prints each number at the time of
 
 ## What Is a Web Worker?
 
-> Web Workers are a simple means for web content to run scripts in background threads.
+> Web Workers are a simple means for web content to run scripts in background threads.
 > 
 > [Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 

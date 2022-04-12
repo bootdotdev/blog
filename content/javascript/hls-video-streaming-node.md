@@ -26,7 +26,7 @@ HLS allows us to serve large media files as many smaller files. We will use a pr
 
 Let's format some media.
 
-Install [FFmpeg](https://www.ffmpeg.org/). If you are on a Mac:
+Install [FFmpeg](https://www.ffmpeg.org/). If you are on a Mac:
 
 ```bash
 brew install ffmpeg

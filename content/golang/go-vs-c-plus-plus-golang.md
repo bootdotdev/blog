@@ -76,7 +76,7 @@ Now again, it doesn’t possess as many layers as high-level languages, but it h
 
 It's important to note that while C++ is an OOP language, it's also a multi-paradigm language, so it can support procedural and [functional programming](https://boot.dev/course/b1459f0c-21eb-41e5-b7f3-562ef69d344c/65e3ea51-a0c4-41d6-9e4f-750942bcb0c9/f0d6c12b-fe3f-4920-a6a0-b2ae830b1658). However, OOP, especially with modern C++, is its most common application.
 
-Golang, on the other hand, is a procedural language. For this, you simply write down the steps of the task in the order you want the computer to run them. It’s based on the concept of a series of computational steps. Golang is also a multi-paradigm language and supports functional programming.
+Golang, on the other hand, is a procedural language. For this, you simply write down the steps of the task in the order you want the computer to run them. It’s based on the concept of a series of computational steps. Golang is also a multi-paradigm language and supports functional programming.
 
 Overall, in terms of design, Golang is better in the sense it's more user-friendly, but if you’re looking for more control then C++ is a better choice.
 
@@ -90,7 +90,7 @@ Harkening back to our understanding of Golang as a high-level language, Go was p
 
 Go also has a faster compile time. Codes must be compiled before they run, and after every change you make – a.k.a. you'll be compiling _a lot_. So, this is necessary when considering coding speed.
 
-Compile time is dependent on what you’re coding, however, C++ is famous for its slow compile time. Go’s compact style makes compiling quicker than C++’s long drawn-out form. 
+Compile time is dependent on what you’re coding, however, C++ is famous for its slow compile time. Go’s compact style makes compiling quicker than C++’s long drawn-out form. 
 
 Overall, Golang beats C++ hands down when it comes to coding speed.
 

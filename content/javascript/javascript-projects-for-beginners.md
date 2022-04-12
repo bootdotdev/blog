@@ -40,11 +40,11 @@ Building a whole website is a massive endeavor. Let’s start with one of the sm
 
 The guy making the videos has 1.62 million subscribers and tons of positive comments. I found his teaching style to be really engaging and straightforward. He also offers the full code so you can check it out and poke around for yourself.
 
-### 3\. Build a restaurant menu page 
+### 3\. Build a restaurant menu page 
 
-Maybe I'm hungry as I write this because this is the first of several food-based tutorials we're going to be looking at. In fact, of my top 10 JavaScript projects for beginners, solidly half would be food-related. 
+Maybe I'm hungry as I write this because this is the first of several food-based tutorials we're going to be looking at. In fact, of my top 10 JavaScript projects for beginners, solidly half would be food-related. 
 
-[This tutorial](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=8185s) is one of 15 total tutorials from a YouTube video called build 15 easy JavaScript projects walking through vanilla JavaScript. It takes you through how to make a restaurant menu page that will filter through different food menus. 
+[This tutorial](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=8185s) is one of 15 total tutorials from a YouTube video called build 15 easy JavaScript projects walking through vanilla JavaScript. It takes you through how to make a restaurant menu page that will filter through different food menus. 
 
 It'll teach you the higher-order functions like map, reduce, and filter. Higher-order functions are great to learn because they have really high reusability, so you'll get to code smarter, not harder.
 
@@ -62,7 +62,7 @@ It's one of the best JavaScript projects you can complete for your future career
 
 Back to the food. This basic javascript project tutorial will teach you to update and delete items from a grocery list, which walks you through the process of creating a simple CRUD. (CRUD just means create, read, update, and delete.)
 
-It’s actually [another project](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb) from the same person who did the restaurant menu page tutorial, so maybe he was hungry as well.  If you’ve got the time and inclination I really recommend checking out all eight hours of his 15 JavaScript projects. It's the kind of content that I can't believe he gives away for free, it’s so in-depth and valuable.
+It’s actually [another project](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb) from the same person who did the restaurant menu page tutorial, so maybe he was hungry as well.  If you’ve got the time and inclination I really recommend checking out all eight hours of his 15 JavaScript projects. It's the kind of content that I can't believe he gives away for free, it’s so in-depth and valuable.
 
 ![](https://lh6.googleusercontent.com/0cC_hjLSF_O0gajrBwlJ6zw561jl0VANXOpoJxUAB6hJiPRc_nEh0ImWdHq3aO5KnXV9tqdbcy2i2wyTCzBjLfM69zrHbyEHViN7UThGiJF3jwLg4HlwZR4L6iNN6d_BIjEl_SNT=s0)
 
@@ -72,7 +72,7 @@ It’s actually [another project](https://boot.dev/course/2af5c197-21eb-48b4-bd9
 
 I don't know about you, but I definitely had an angry bird phase. If you've ever wanted to make your own platformer game [this great](https://www.youtube.com/watch?v=w-OKdSHRlfA) JavaScript project tutorial is for you. This tutorial runs you through the concept of object-oriented programming, and the model, view, controller software pattern. You'll pick up a lot of concepts in this tutorial like for loops, switch statements, and OOP principles.
 
-It's definitely one of the longer tutorials - this one goes on for nearly three hours. But it's super well-organized and laid out, so you won't only have a really cool game at the end of it, you'll really understand a lot of the underlying principles of JavaScript. 
+It's definitely one of the longer tutorials - this one goes on for nearly three hours. But it's super well-organized and laid out, so you won't only have a really cool game at the end of it, you'll really understand a lot of the underlying principles of JavaScript. 
 
 {{< cta1 >}}
 
@@ -86,15 +86,15 @@ While React does a similar thing and is more popular (and some would say more us
 
 Yes, we're back on food JavaScript projects. If you love cooking, or if you're disorganized and struggle to keep all your recipes in one place, [this recipes app](https://hackernoon.com/how-to-build-a-recipe-app-using-vue-js-and-vuex-7830998050b9) is a great tutorial for JavaScript beginners. There are three elements for this app: the listing with all the recipes, a form to add a new recipe, and a detailed view of the selected recipe. (It's also full of tantalizing pictures of chicken fajita pasta.)
 
-It uses a lot of frameworks - you'll be using vue2, vuex, vuetify, and Cosmic.js. It's definitely on the more ambitious side of JavaScript projects for beginners. But it'll create something really cool, beautiful, and potentially useful. 
+It uses a lot of frameworks - you'll be using vue2, vuex, vuetify, and Cosmic.js. It's definitely on the more ambitious side of JavaScript projects for beginners. But it'll create something really cool, beautiful, and potentially useful. 
 
 ### 8\. News Website
 
-If you like to keep up-to-date in these trying times, good for you. [Here's a tutorial](https://www.youtube.com/watch?v=8wPClWnmmCc) that will teach you to build a news web application with Vue.js. 
+If you like to keep up-to-date in these trying times, good for you. [Here's a tutorial](https://www.youtube.com/watch?v=8wPClWnmmCc) that will teach you to build a news web application with Vue.js. 
 
-This tutorial uses the API from newsapi.org. It's definitely more self-guided than some of the other tutorials on this list - the video just shows the guy typing and he doesn't explain anything - but I still found it useful. 
+This tutorial uses the API from newsapi.org. It's definitely more self-guided than some of the other tutorials on this list - the video just shows the guy typing and he doesn't explain anything - but I still found it useful. 
 
-Especially compared to some of the other tutorials above, this one's on the shorter side only: 16 minutes. If you like this guy, you'll be pleased to hear that he has [a whole playlist of 14 videos](https://www.youtube.com/playlist?list=PLINmvGGUwYc3fsN0ba_ZSZE0ywDeS0cd2) of JavaScript starter projects for learning how to use Vue.js. 
+Especially compared to some of the other tutorials above, this one's on the shorter side only: 16 minutes. If you like this guy, you'll be pleased to hear that he has [a whole playlist of 14 videos](https://www.youtube.com/playlist?list=PLINmvGGUwYc3fsN0ba_ZSZE0ywDeS0cd2) of JavaScript starter projects for learning how to use Vue.js. 
 
 ### 9\. To-do app
 
@@ -102,15 +102,15 @@ I love [this tutorial](https://www.youtube.com/playlist?list=PLINmvGGUwYc3fsN0ba
 
 If you want a JavaScript project for beginners that will help you stay on top of things, this tutorial will show you how to create a to-do app. Throughout the process, you'll also learn the core concepts of Vue.js.
 
- I also quite like CJ's mustache. ![](https://lh5.googleusercontent.com/WFNGiaMIsDIZihUhO3Y6fd5W7xihd13JRfJ6pROitd6sFRLM5gPa0LuoPYNLEkQWvG1JtCwmn_-oCk4ucIMFZsDz-qjBSHoWgD5J-pR9RBrGJYnBDuOT7ApB5oi0YwVAPVWuftW1=s0)
+ I also quite like CJ's mustache. ![](https://lh5.googleusercontent.com/WFNGiaMIsDIZihUhO3Y6fd5W7xihd13JRfJ6pROitd6sFRLM5gPa0LuoPYNLEkQWvG1JtCwmn_-oCk4ucIMFZsDz-qjBSHoWgD5J-pR9RBrGJYnBDuOT7ApB5oi0YwVAPVWuftW1=s0)
 
 ### 10\. User reg and login
 
-[This tutorial](https://jasonwatmore.com/post/2018/07/14/vue-vuex-user-registration-and-login-tutorial-example) walks you through how to build a simple user registration and login system. Just like Python \[link to Python projects for beginners\], being able to create a login is a great project because it's a pretty necessary job. If you want to get into JavaScript careers, you'll be doing this. 
+[This tutorial](https://jasonwatmore.com/post/2018/07/14/vue-vuex-user-registration-and-login-tutorial-example) walks you through how to build a simple user registration and login system. Just like Python \[link to Python projects for beginners\], being able to create a login is a great project because it's a pretty necessary job. If you want to get into JavaScript careers, you'll be doing this. 
 
 You can read the article I linked above, and you can also check out the [GitHub repo](https://github.com/cornflourblue/vue-vuex-registration-login-example) that has all the details.
 
-### 11\. Trello clone 
+### 11\. Trello clone 
 
 A great way to learn to code JavaScript for beginners is to create clones of things that already exist. That's why I recommend this tutorial which teaches you to build a Trello clone built with Vue.js. You have a target you can aim for, so you can see what needs tweaking or even improving! I love Trello, and use it practically every day, so I found this tutorial really interesting.
 
@@ -122,7 +122,7 @@ When I was eighteen, I moved to England and found that everybody there uses Cels
 
 This temperature converter website tutorial could have saved me that pain. I love [this tutorial](https://www.codementor.io/projects/web/temperature-converter-website-atx32dy7mf), because it will show you several different solutions that other developers implemented, what tools they used, and how they did it. If you're more interested in mobile apps, you can see the [tutorial](https://www.codementor.io/projects/temperature-converter-mobile-app-atx32h5e71) on how to build a temperature converter there instead.
 
-## Section 3: Angular JavaScript Projects for Beginners 
+## Section 3: Angular JavaScript Projects for Beginners 
 
 Angular is both a platform and framework for building single-page client applications using HTML and TypeScript. It's good for scalability. I've added it to the end of this list because it'll probably be something that really only dedicated JavaScript beginners want to look at, but it is really worth getting familiar with. It shores up a lot of JavaScript’s weaknesses for single-page applications, which are only getting more popular.
 
@@ -136,7 +136,7 @@ This is the kind of project that would be very difficult with vanilla JavaScript
 
 By the end of this tutorial, you will have developed an audio player app. You will have handled audio operations and application state. You also have even secured your application using Auth0. The writer of the tutorial also included all his code on [his GitHub repo](https://github.com/imsingh/auth0-audio/).
 
-### 14\. Bare Bones 
+### 14\. Bare Bones 
 
 Remember how I said I don't like Hello World projects?
 
@@ -144,9 +144,9 @@ Remember how I said I don't like Hello World projects?
 
 It's a GitHub repo with a very short readme file and has the npm modules, configuration, scripts, folders, and routing in place. It's a minimal app - perfect for poking around. Get it up, get it running, and see where you go next.
 
-### 15\. Budget calculator 
+### 15\. Budget calculator 
 
-I'm a little weird in that I love doing my budget. Every Sunday morning, I sit down and fill out my budget spreadsheet. That's why this budget calculator application using Angular was so appealing to me. 
+I'm a little weird in that I love doing my budget. Every Sunday morning, I sit down and fill out my budget spreadsheet. That's why this budget calculator application using Angular was so appealing to me. 
 
 [The tutorial](https://www.youtube.com/watch?v=sU4z4Ti-8OQ&t=3s) is about two hours long and focuses on designing the user interface. It covers topics like Angular forms, displaying dialogues, and component interaction. Like any self-respecting coding tutorial creator, he also linked to [his GitHub repo](https://github.com/Devstackr/budget-app-angular) for that project. JavaScript projects with example code are the best to learn from.
 
@@ -156,9 +156,9 @@ I find it a visually appealing app - it’s very satisfying to make these kinds 
 
 ### 16\. Create a Google map powered by Angular
 
-Who doesn't love maps? [This tutorial](https://blog.ng-book.com/angular-and-google-maps-a-tutorial/) teaches you to create interactive Google Maps powered by Angular. That's a pretty cool idea! 
+Who doesn't love maps? [This tutorial](https://blog.ng-book.com/angular-and-google-maps-a-tutorial/) teaches you to create interactive Google Maps powered by Angular. That's a pretty cool idea! 
 
-The tutorial walks you through instantiating the map, geocoding by address and location, working with markers, and programmatically adjusting the radii (plural for radius, of course) of circles for location. There’s also [a GitHub repo](https://github.com/bodrovis/GoogleMapsAngular) where you can snag the code. 
+The tutorial walks you through instantiating the map, geocoding by address and location, working with markers, and programmatically adjusting the radii (plural for radius, of course) of circles for location. There’s also [a GitHub repo](https://github.com/bodrovis/GoogleMapsAngular) where you can snag the code. 
 
 The written tutorial is pretty comprehensive. It runs at about a 9-minute read, but of course, you'll spend much longer implementing the code. I love this tutorial because it gave you all the code, but also explained what the code was doing, why it was important, and even how you could tweak it yourself.
 
@@ -168,13 +168,13 @@ Having a personal blog is something I am very passionate about. I believe anybod
 
 [This](https://soshace.com/how-to-create-a-personal-blogging-website-part-2/) [tutorial](https://soshace.com/how-to-create-a-personal-blogging-website-part-2/) walks you through creating the front end of a personal blog. It's a little beyond what I would consider beginner, but it's still a great passion project. It's something you can work on more than one, with no real end date. You can also use your personal blog as a portfolio of sorts.
 
-The style of this written tutorial assumes that you don't know anything. That's why I like it for beginners, even though creating the front end of your blog is pretty advanced. 
+The style of this written tutorial assumes that you don't know anything. That's why I like it for beginners, even though creating the front end of your blog is pretty advanced. 
 
 ## These seventeen JavaScript projects for beginners are a good place to start
 
 There are so many more libraries and frameworks beyond what I've provided you in this article, but this is a good starting point for beginners. I referred to a couple of other frameworks that you might be interested in checking out throughout the course of this article. As you dive deeper into JavaScript, you'll be exposed to more and more of these. There are practically countless small JavaScript projects for practice you can find, using any of the frameworks that appeal to you.
 
-JavaScript is an amazing language to learn, whether you're a beginner programmer or a seasoned coating better end. As the internet plays a bigger role in our lives, the foundations that it is built on are remarkably interesting to learn about. These projects allow you to look a little bit behind the curtain, and learn about the websites you look at every single day. 
+JavaScript is an amazing language to learn, whether you're a beginner programmer or a seasoned coating better end. As the internet plays a bigger role in our lives, the foundations that it is built on are remarkably interesting to learn about. These projects allow you to look a little bit behind the curtain, and learn about the websites you look at every single day. 
 
 These great JavaScript practice projects can all be tricky to do. I'm not going to pretend they're simple, but that's what makes them so great. When you complete this project, you'll have built something you're proud of. There's no better feeling in the world.
 

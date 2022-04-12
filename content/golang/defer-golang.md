@@ -90,7 +90,7 @@ I don't want to spend too much time on this, but some people have stumbled acros
 
 ### What is the recover() function in Go?
 
-Simply put, _recover_ is a builtin function that regains control of a panicking goroutine. Recover is only used inside deferred functions. Calling `recover()` inside a deferred function stops the panicking sequence by and retrieves the error message passed to the `panic()` function call.
+Simply put, _recover_ is a builtin function that regains control of a panicking goroutine. Recover is only used inside deferred functions. Calling `recover()` inside a deferred function stops the panicking sequence by and retrieves the error message passed to the `panic()` function call.
 
 ```go
 func recoverWithMessage() {  

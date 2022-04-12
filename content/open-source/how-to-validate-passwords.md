@@ -40,16 +40,16 @@ The current character sets include:
 - 26 lowercase letters
 - 26 uppercase
 - 10 digits
-- 32 special characters - `!"#$%&'()*+,-./:;<=>?@[\]^_{|}~`
+- 32 special characters - `!"#$%&'()*+,-./:;<=>?@[\]^_{|}~`
 
-Using at least one character from each set your base number will be `94: 26+26+10+32 = 94`
+Using at least one character from each set your base number will be `94: 26+26+10+32 = 94`
 
-Every unique character that doesn't match one of those sets will add `1` to the base.
+Every unique character that doesn't match one of those sets will add `1` to the base.
 
-If you only use, for example, lowercase letters and numbers, your base will be `36: 26+10 = 36`.
+If you only use, for example, lowercase letters and numbers, your base will be `36: 26+10 = 36`.
 
-After we have calculated a base, the total number of brute-force-guesses is found using the following formulae: `base^length`
+After we have calculated a base, the total number of brute-force-guesses is found using the following formulae: `base^length`
 
-A password using base 26 with 7 characters would require `26^7`, or `8031810176` guesses.
+A password using base 26 with 7 characters would require `26^7`, or `8031810176` guesses.
 
-Once we know the number of guesses it would take, we can calculate the actual entropy in bits using `log2(guesses)`
+Once we know the number of guesses it would take, we can calculate the actual entropy in bits using `log2(guesses)`

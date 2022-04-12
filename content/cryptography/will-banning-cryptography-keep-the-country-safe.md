@@ -21,7 +21,7 @@ Politicians in the United States have been claiming recently that end-to-end enc
 
 [James Sutton](https://unsplash.com/photos/FqaybX9ZiOU)
 
-> **End-to-end encryption** (**E2EE**) is a system of communication where only the communicating users can read the messages. That is, it prevents potential eavesdroppers.
+> **End-to-end encryption** (**E2EE**) is a system of communication where only the communicating users can read the messages. That is, it prevents potential eavesdroppers.
 > 
 > [Wikipe](https://en.wikipedia.org/wiki/End-to-end_encryption)[d](https://en.wikipedia.org/wiki/End-to-end_encryption)[ia](https://en.wikipedia.org/wiki/End-to-end_encryption)
 

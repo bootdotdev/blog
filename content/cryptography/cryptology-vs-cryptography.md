@@ -19,7 +19,7 @@ What many computer scientists even these days don't recognize is that [cryptogra
 > 
 > [https://www.merriam-webster.com/dictionary/cryptology](https://www.merriam-webster.com/dictionary/cryptology)
 
-Cryptology is the science of secret messages. _Anything_ that has to do with making or breaking codes falls into cryptology's domain. Cryptology can also be thought of as the study of **encryption and decryption.**
+Cryptology is the science of secret messages. _Anything_ that has to do with making or breaking codes falls into cryptology's domain. Cryptology can also be thought of as the study of **encryption and decryption.**
 
 ![alan turing](/img/800/00overlooked-alanturing-3-facebookJumbo-1024x536.jpg)
 
@@ -29,7 +29,7 @@ Alan Turing
 
 ## Cryptography
 
-> Cryptography is the practice and study of techniques for secure communication in the presence of third parties called adversaries.
+> Cryptography is the practice and study of techniques for secure communication in the presence of third parties called adversaries.
 > 
 > [https://en.wikipedia.org/wiki/Cryptography](https://en.wikipedia.org/wiki/Cryptography)
 
@@ -37,7 +37,7 @@ People often lazily use Cryptography in place of the word cryptology, but in rea
 
 ## Cryptanalysis
 
-> You use **Cryptanalysis** to breach cryptographic security systems and gain access to the contents of encrypted messages, even if the cryptographic key is unknown.
+> You use **Cryptanalysis** to breach cryptographic security systems and gain access to the contents of encrypted messages, even if the cryptographic key is unknown.
 > 
 > [https://en.wikipedia.org/wiki/Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis)
 
@@ -45,7 +45,7 @@ Cryptanalysis is the inverse of cryptography, this is, in contrast, the study of
 
 ## Honorable Mention - Cryptocurrency
 
-> A **cryptocurrency** is a digital asset designed to work as a medium of exchange that uses strong cryptography to secure financial transactions, control the creation of additional units, and also verify the transfer of assets.
+> A **cryptocurrency** is a digital asset designed to work as a medium of exchange that uses strong cryptography to secure financial transactions, control the creation of additional units, and also verify the transfer of assets.
 > 
 > [https://en.wikipedia.org/wiki/Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)
 

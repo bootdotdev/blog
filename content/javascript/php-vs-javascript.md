@@ -60,7 +60,7 @@ However, when you look at the ratings for [most wanted and loved](https://insigh
 
 58% of people who use JavaScript reported they loved it and want to continue working with the language, but only 37% of people who use PHP stated the same. PHP also ranked 6th for the most dreaded language, with 62% of developers using the language expressing they have no interest in continuing to do so.
 
-JavaScript, on the other hand, continues its high streak coming in second as the most wanted language by developers, and first for most popular.  
+JavaScript, on the other hand, continues its high streak coming in second as the most wanted language by developers, and first for most popular.  
 
 From these figures, it tells me that PHP earns decent money, the market simply isn’t there. Developers seem uninterested in continuing to use it or to learn the language, so JavaScript earns this point for earning a higher salary and proving to be an unbeatable asset.
 

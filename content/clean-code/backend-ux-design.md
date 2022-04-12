@@ -14,7 +14,7 @@ I'm here to contend that UX is extremely important in backend development as wel
 
 ## What is UX (user experience) design?
 
-> User experience design (UXD, UED, or XD) is the process of supporting user behavior through usability, usefulness, and desirability provided in the interaction with a product. User experience design encompasses traditional human-computer interaction (HCI) design and extends it by addressing all aspects of a product or service as perceived by users.
+> User experience design (UXD, UED, or XD) is the process of supporting user behavior through usability, usefulness, and desirability provided in the interaction with a product. User experience design encompasses traditional human-computer interaction (HCI) design and extends it by addressing all aspects of a product or service as perceived by users.
 > 
 > [Wikipedia](https://en.wikipedia.org/wiki/User_experience_design)
 

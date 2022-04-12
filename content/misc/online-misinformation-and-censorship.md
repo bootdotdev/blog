@@ -63,7 +63,7 @@ Social platforms **should not** be eager to:
 
 By removing misleading content, platforms run the risk of fueling an [argumentum ad martyrdom](https://rationalwiki.org/wiki/Argumentum_ad_martyrdom) mentality. Removing information can have an adverse effect, causing people to suspect there is a nefarious reason for removing it.
 
-> But the fact that some geniuses were laughed at does not imply that all who are laughed at are geniuses. They laughed at Columbus, they laughed at Fulton, they laughed at the Wright brothers. But they also laughed at Bozo the Clown.
+> But the fact that some geniuses were laughed at does not imply that all who are laughed at are geniuses. They laughed at Columbus, they laughed at Fulton, they laughed at the Wright brothers. But they also laughed at Bozo the Clown.
 > 
 > \- Carl Sagan, Probably
 

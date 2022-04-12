@@ -126,14 +126,14 @@ Because smaller colleges often provide more insight into a "standard" course loa
 | CS 2810                                                         | Computer Organization and Architecture         |
 | CS 3005                                                         | Programming in C++                             |
 | CS 3200                                                         | Web Application Development I                  |
-| CS 3400                                                         | Operating Systems 1                            |
-| or CS 3410                                                      | Distributed Systems                            |
+| CS 3400                                                         | Operating Systems 1                            |
+| or CS 3410                                                      | Distributed Systems                            |
 | CS 3510                                                         | Advanced Algorithms/Data Structures            |
 | CS 3520                                                         | Programming Languages                          |
 | CS 3530                                                         | Computational Theory                           |
 | CS 3600                                                         | Graphics Programming                           |
 | CS 4300                                                         | Artificial Intelligence                        |
-| or CS 4320                                                      | Machine Learning                               |
+| or CS 4320                                                      | Machine Learning                               |
 | CS 4307                                                         | Database Design & Management                   |
 | CS 4550                                                         | Compilers                                      |
 | CS 4600                                                         | Senior Project                                 |
@@ -142,10 +142,10 @@ Because smaller colleges often provide more insight into a "standard" course loa
 | MATH 1210                                                       | Calculus I (MA)                                |
 | MATH 1220                                                       | Calculus II (MA)                               |
 | BIOL 1610                                                       |
-| & BIOL 1615                                                     | Principles of Biology I (LS)                   |
+| & BIOL 1615                                                     | Principles of Biology I (LS)                   |
 | and Principles of Biology I Lab (LAB)                           |
 | PHYS 2210                                                       |
-| & PHYS 2215                                                     | Physics/Scientists Engineers I (PS)            |
+| & PHYS 2215                                                     | Physics/Scientists Engineers I (PS)            |
 | and Physics/Scientists Engineers I Lab (LAB)                    |
 | **Math & Science Elective Requirements - 8 of the following**   |                                                |
 | MATH 2210                                                       | Multivariable Calculus (MA)                    |
@@ -153,26 +153,26 @@ Because smaller colleges often provide more insight into a "standard" course loa
 | MATH 2280                                                       | Ordinary Differential Equations                |
 | MATH 3400                                                       | Probability & Statistics                       |
 | BIOL 1620                                                       |
-| & BIOL 1625                                                     | Principles of Biology II                       |
+| & BIOL 1625                                                     | Principles of Biology II                       |
 | and Principles of Biology II Lab                                |
 | BIOL 2060                                                       |
-| & BIOL 2065                                                     | Principles of Microbiology                     |
+| & BIOL 2065                                                     | Principles of Microbiology                     |
 | and Principles of Microbiology Lab                              |
 | CHEM 1210                                                       |
-| & CHEM 1215                                                     | Principles of Chemistry I (PS)                 |
+| & CHEM 1215                                                     | Principles of Chemistry I (PS)                 |
 | and Principles of Chemistry I Lab (LAB)                         |
 | CHEM 1220                                                       |
-| & CHEM 1225                                                     | Principles of Chemistry II                     |
+| & CHEM 1225                                                     | Principles of Chemistry II                     |
 | and Principles of Chemistry II Lab                              |
 | PHYS 2220                                                       |
-| & PHYS 2225                                                     | Physics/Scientists EngineersII                 |
+| & PHYS 2225                                                     | Physics/Scientists EngineersII                 |
 | and Physics/Scientists Engineers II Lab                         |
 | **Computer Science Elective Requirements** - 9 of the following |                                                |
 | CS 3010                                                         | Mobile Application Development for Android     |
 | CS 3020                                                         | Mobile Application Development: iOS            |
 | CS 3150                                                         | Computer Networks                              |
-| CS 3400                                                         | Operating Systems 1                            |
-| or CS 3410                                                      | Distributed Systems                            |
+| CS 3400                                                         | Operating Systems 1                            |
+| or CS 3410                                                      | Distributed Systems                            |
 | CS 3440                                                         | Software Practices                             |
 | CS 3500                                                         | Application Development                        |
 | CS 4200                                                         | Web Application Development II                 |

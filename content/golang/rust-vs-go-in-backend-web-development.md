@@ -43,7 +43,7 @@ Performance metrics generally put Rust squarely ahead of Go, but not by a lot. T
 
 Both languages claim the title of "memory-safe" but take different approaches to achieve it. Rust catches memory errors at compile-time while Go uses a garbage collector at runtime.
 
-Rust makes use of compile-time ownership strategy through [zero-cost abstractions](https://boats.gitlab.io/blog/post/zero-cost-abstractions/). If a Rust program is not memory safe, it will fail to compile. To anyone who frequently deals with memory errors in C languages, this is recognized as an amazing feature. Instead of clever compiler optimizations, the Go compiler adds a small runtime to the completed executable that manages the allocation and release of memory. 
+Rust makes use of compile-time ownership strategy through [zero-cost abstractions](https://boats.gitlab.io/blog/post/zero-cost-abstractions/). If a Rust program is not memory safe, it will fail to compile. To anyone who frequently deals with memory errors in C languages, this is recognized as an amazing feature. Instead of clever compiler optimizations, the Go compiler adds a small runtime to the completed executable that manages the allocation and release of memory. 
 
 While both approaches have their pros and cons, generally speaking Rust's compiler optimizations result in more performant programs. Alternatively, Go's application code is cleaner because memory management is fully handled by the runtime.
 
@@ -120,7 +120,7 @@ As you'll notice in the code above, we can spin up a fairly simple HTTP server w
 
 If you take a look at the standard HTTP create, you'll see that it's an intentional choice not to standardize an implementation.
 
-> You will notably _not_ find an implementation of sending requests or spinning up a server in this crate. It's intended that this crate is the "standard library" for HTTP clients and servers without dictating any particular implementation. Note that this crate is still early on in its lifecycle so the support libraries that integrate with the `http` crate are a work in progress! Stay tuned and we'll be sure to highlight crates here in the future.
+> You will notably _not_ find an implementation of sending requests or spinning up a server in this crate. It's intended that this crate is the "standard library" for HTTP clients and servers without dictating any particular implementation. Note that this crate is still early on in its lifecycle so the support libraries that integrate with the `http` crate are a work in progress! Stay tuned and we'll be sure to highlight crates here in the future.
 > 
 > [http - Rust](https://docs.rs/http/0.2.1/http/)
 

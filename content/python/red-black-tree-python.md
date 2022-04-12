@@ -56,19 +56,19 @@ D
 
 ## Properties of a red-black tree
 
-In addition to all the properties of a [Binary Search Tree](/computer-science/binary-search-tree-in-python/), a red-black tree must have the following:
+In addition to all the properties of a [Binary Search Tree](/computer-science/binary-search-tree-in-python/), a red-black tree must have the following:
 
-1. Each node is either red or black
-2. The root is black. This rule is sometimes omitted. Since the root can always be changed from red to black, but not necessarily vice versa, this rule has little effect on analysis.
-3. All `nil` leaf nodes are black.
-4. If a node is red, then both its children are black.
-5. All paths from a single node go through the same number of black nodes in order to reach any of its descendant `nil` nodes.
+1. Each node is either red or black
+2. The root is black. This rule is sometimes omitted. Since the root can always be changed from red to black, but not necessarily vice versa, this rule has little effect on analysis.
+3. All `nil` leaf nodes are black.
+4. If a node is red, then both its children are black.
+5. All paths from a single node go through the same number of black nodes in order to reach any of its descendant `nil` nodes.
 
 ## Implementing a Red-Black Tree in Python
 
 ### Step 1 – RBNode Class
 
-Our implementation will use a `Tree` class and a `Node` class. The Node will be fairly simple, it's just a constructor.
+Our implementation will use a `Tree` class and a `Node` class. The Node will be fairly simple, it's just a constructor.
 
 ```py
 class RBNode:

@@ -13,17 +13,17 @@ AES, or “Advanced Encryption Standard”, is an encryption specification that 
 
 # Symmetric Encryption vs Asymmetric Encryption
 
-**Symmetric encryption uses the same key** for encryption and decryption and **asymmetric encryption uses different keys.**
+**Symmetric encryption uses the same key** for encryption and decryption and **asymmetric encryption uses different keys.**
 
-Asymmetric encryption is preferred when you want someone to be able to send you encrypted data, but **you don’t want to share your private key**.
+Asymmetric encryption is preferred when you want someone to be able to send you encrypted data, but **you don’t want to share your private key**.
 
-**Symmetric** encryption is preferred when you are encrypting **only for yourself**.
+**Symmetric** encryption is preferred when you are encrypting **only for yourself**.
 
 ![symmetric vs asymmetric key systems](/img/800/1_oe-Kk1FfLPNO5sAAl-4N-g.jpeg)
 
 # AES-256 Secret Key
 
-The secret key used in AES-256 must be 256 bits long. In order to use a password or passphrase as the key, a [hashing algorithm](https://blog.goodaudience.com/very-basic-intro-to-hash-functions-sha-256-md-5-etc-ed721622ff8) needs to be used to extend the length.
+The secret key used in AES-256 must be 256 bits long. In order to use a password or passphrase as the key, a [hashing algorithm](https://blog.goodaudience.com/very-basic-intro-to-hash-functions-sha-256-md-5-etc-ed721622ff8) needs to be used to extend the length.
 
 The shorter the password or passphrase, the easier it is for an attacker to decrypt the data by guessing passwords, hashing them, and attempting to decrypt the message. In order to mitigate this threat, some applications enforce safeguards, such as using a [KDF](/cryptography/key-derivation-functions/).
 
@@ -31,7 +31,7 @@ The shorter the password or passphrase, the easier it is for an attacker to decr
 
 Let's walk through the steps of the AES ciphering process, also known as the [Rijndael](https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf) cipher.
 
-1\. Choose a password, then derive a short key from that password (using a function like [Scrypt](/cryptography/very-basic-intro-to-the-scrypt-hash/) or [SHA-256](/cryptography/how-sha-2-works-step-by-step-sha-256/)). This short key will then be expanded using a [key schedule](https://en.wikipedia.org/wiki/Rijndael_key_schedule) to get separate “round keys” for each round of AES-256.
+1\. Choose a password, then derive a short key from that password (using a function like [Scrypt](/cryptography/very-basic-intro-to-the-scrypt-hash/) or [SHA-256](/cryptography/how-sha-2-works-step-by-step-sha-256/)). This short key will then be expanded using a [key schedule](https://en.wikipedia.org/wiki/Rijndael_key_schedule) to get separate “round keys” for each round of AES-256.
 
 password: password12345678 →
 short key: aafeeba6959ebeeb96519d5dcf0bcc069f81e4bb56c246d04872db92666e6d4b →
@@ -72,7 +72,7 @@ Message:
 44 42 15 06
 52 10 01 16
 
-5\. In the resulting table, use the [substitution box to change each 2-character byte to its corresponding byte](https://www.researchgate.net/figure/Rijndael-S-box-S-RD_fig7_325428613):
+5\. In the resulting table, use the [substitution box to change each 2-character byte to its corresponding byte](https://www.researchgate.net/figure/Rijndael-S-box-S-RD_fig7_325428613):
 
 ![substitution box table](/img/800/1_zLuZtQ6nFl0ADElv8lTSyg.png)
 
@@ -95,7 +95,7 @@ a5 5a 20 be
 59 6f 1b 2c
 47 00 7c 7c
 
-7\. Mix Columns. Each column is modulo multiplied by the [Rijndael’s Galois Field](https://www.samiam.org/galois.html). The math involved is outside the scope of this article, so I won’t be including the example output matrix.
+7\. Mix Columns. Each column is modulo multiplied by the [Rijndael’s Galois Field](https://www.samiam.org/galois.html). The math involved is outside the scope of this article, so I won’t be including the example output matrix.
 
 ![mixcolumns in aes example](/img/800/1_RIsEo_r50T1595fhc7CKEw-1.png)
 
