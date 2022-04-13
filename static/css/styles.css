@@ -29,20 +29,20 @@ main h2 {
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 1rem;
-  color: var(--blue-300)
+  color: var(--blue-400)
 }
 
 main h3 {
   font-weight: 600;
   font-size: 1.25rem;
   margin-bottom: 1rem;
-  color: var(--blue-300)
+  color: var(--blue-400)
 }
 
 main h4 {
   font-weight: 600;
   margin-bottom: 1rem;
-  color: var(--blue-300)
+  color: var(--blue-400)
 }
 
 main p {
@@ -98,7 +98,9 @@ main img {
   border-radius: 5px;
 }
 
-main img, iframe, video {
+main img,
+iframe,
+video {
   max-width: 100%;
   display: block;
   margin-left: auto;
@@ -129,10 +131,13 @@ main table thead th {
   border-bottom: 1px solid var(--blue-500);
 }
 
-main th, td {
+main th,
+td {
   padding: 5px;
 }
 
-main thead, tfoot, tr:nth-child(even) {
+main thead,
+tfoot,
+tr:nth-child(even) {
   background: var(--gray-800);
 }

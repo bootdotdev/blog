@@ -4,7 +4,7 @@
     <img class="rounded mb-4" width="736" height="414" src="{{ index (.Params.images) 0 }}" />
     {{ end }}
 
-    <h1 class="text-4xl font-bold text-blue-300 mb-2">{{ .Title | markdownify }}</h1>
+    <h1 class="text-4xl font-bold text-blue-400 mb-2">{{ .Title | markdownify }}</h1>
 
     {{ if .Params.author }}
     <p class="text-sm text-gray-300">

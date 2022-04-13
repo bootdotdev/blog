@@ -9,7 +9,7 @@ const maxWidth = 800;
 fs.readdirSync(srcDir).forEach(async (file) => {
   try {
     const src = `${srcDir}/${file}`;
-    const dest = `${directory}/${maxWidth}/${file}`;
+    const dest = `${directory}/${maxWidth}/${file}.webp`;
 
     if (file === `${maxWidth}`) {
       return;

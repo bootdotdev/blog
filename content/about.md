@@ -3,7 +3,7 @@ title: "About Boot.dev - Our Method"
 author: Lane Wagner
 date: "2020-02-06"
 images:
-  - /img/800/codebreaker-replica-ft.webp
+  - /img/800/our_method_banner.png.webp
 ---
 
 At [Boot.dev](https://boot.dev), we believe humans enjoy learning. We’re naturally curious creatures. And this means it should be much, much easier to become a software developer. 
@@ -12,29 +12,31 @@ A good diet isn’t just a month of eating less sugar - it’s a lifestyle chang
 
 The following principles guide our thinking as we continue to build and develop resources for our community. We update them as we learn.
 
-## Finding information is easy. Finding the best information is hard.
+## You can't learn to code if you aren't writing code.
 
-If you’re willing to parse through thousands of Wikipedia pages, scholarly articles, and blog posts, you can learn anything online today.
+Many new learners are lured into watching hours of online lectures and YouTube videos, only to find they're unable to build even the most basic applications when they start a project alone. Writing real code *while learning* new concepts is more effective nearly every time.
 
-We don’t want to give you ten different “Data Structures” courses. We’ll give you a single option, the one we think is best for you.
+## It's not hard to find coding courses online, but it is hard to find good ones.
 
-## As programming becomes easier, differentiating yourself becomes harder.
+If you’re willing to drudge through thousands of Wikipedia pages, scholarly articles, and blog posts, you can learn anything online today. We don’t want to give you ten different “Data Structures” courses by ten different authors. We’ll give you a single option, and update it religiously to make sure it's the best one.
 
-Maybe as soon as five years from now any high-school graduate will be able to build a rudimentary web application. It’s possible that application development becomes the next decade’s “blue-collar” job. Understanding computer science concepts like algorithms, data structures, distributed computing, or cryptography will be the way to stand out as a developer.
+## Mastering CS fundamentals is the best way to differentiate yourself as a junior developer.
 
-At boot.dev, we don’t focus on the latest hyped-up framework. We teach evergreen skills that will serve you well through an entire career in computer science.
+Maybe as soon as five years from now any high-school graduate will be able to build a rudimentary web application. It is possible that application development becomes the next decade’s “blue-collar” job. Understanding computer science concepts like algorithms, data structures, distributed computing, or cryptography will be the way to stand out as a developer.
+
+At boot.dev, we don’t focus on the latest hyped-up framework. We teach evergreen skills that will serve you well through your entire career in software engineering.
+
+## Traditional boot camps are too fast, CS degrees are too slow.
+
+The coding education world is plagued with clickbait like "You can learn to code online in 8 short weeks” or fake assertions like “you need a 4-year computer science degree".
+
+We think that somewhere between 6 months and 2 years of learning is a reasonable expectation for you if you’re able to spend a couple of hours studying each day. And that just gets you to your first job! If you stop learning just because you have an entry-level position, your career will stagnate.
+
+It’s not as sexy as pretending we can teach you to code like a pro in eight weeks, nor is it as lucrative as demanding $40,000 for a full degree, but we think it's the best way. If you’re looking for fake promises or get-rich-quick schemes, you won’t find them here.
 
 ## A mix of guided and unguided learning is essential.
 
 “Tutorial hell” is when you keep watching tutorials one after another, and you feel like you’re learning a lot, but as soon as the instructions go away you realize you just don’t know how to apply what you learned to real-world problems. We provide guided courses designed to teach you new concepts, then we give you actual projects to build so that you can apply what you've learned in a real application.
-
-## Boot camps are too fast, degrees are too slow.
-
-The coding education world is plagued with clickbait like "You can learn to code online in 8 short weeks” or fake assertions like “you need a 4-year computer science degree".
-
-We think that anywhere from 6 months to 2 years of learning is a reasonable expectation for you if you’re able to spend a couple of hours per day. And that just gets you to your first job! If you stop learning just because you have an entry-level position, your career will stagnate.
-
-It’s not as sexy as pretending we can teach you to code like a pro in eight weeks, nor is it as lucrative as demanding $40,000 for a full degree, but we think it's the best way. If you’re looking for fake promises or get-rich-quick schemes, you won’t find them here.
 
 ## Learning the “soft lessons” from mentors is as important as grokking cold-hard facts.
 
@@ -44,7 +46,7 @@ For example, you might learn in a course that PostgreSQL is a relational databas
 
 Our courses offer a mix of the computer science facts you need to internalize as well as the community of experienced coders to give them context.
 
-## Mastery is important, grades are not.
+## Understanding and retaining information is important, grades are not.
 
 In an ideal learning environment, students don’t move from one concept to the next until they’ve shown mastery of the first. In traditional schooling speak, that means only A-plus students should move on to the next class.
 
@@ -68,7 +70,7 @@ The [zone of proximal development](https://en.wikipedia.org/wiki/Zone_of_proxima
 
 The vertical bar on the letter "T" represents the depth of your knowledge in a specialization, and the horizontal bar represents the shallow breadth of your knowledge across all facets of software engineering. For example, you can build a strong vertical bar by focusing primarily on backend development in Golang. At the same time, you can build a shallow wide bar by doing small projects in JavaScript, Vue, Python, embedded firmware, functional programming, networking, distributed systems, or anything else that piques your interest.
 
-## You need to have the skills and be able to prove them too
+## Your coding skills don't matter if you don't know how to show them off to a potential employer.
 
 You can be the best developer in the world, but if you’re not able to prove yourself to potential employers you will never find a programming job. Spending time working on your portfolio and resume will make your job search possible, then practicing the interviewing skills you'll need will ensure a successful job hunt.
 
@@ -78,7 +80,7 @@ We offer all the courses and tools you need to learn to code, but we also have a
 
 “Learning to code” doesn’t take a fixed amount of time. There isn’t a magic threshold to cross that separates the “coders” from the “non-coders”. Your learning path never ends, but along the way, you’ll become qualified for different kinds of software engineering jobs. If you’re looking for your first job, you can streamline this process by focusing on the most important skills for your goal. If your goal is to become a backend web developer, the things you need to learn before starting your job search are different than if you want to write mobile applications on iOS.
 
-## The ideal first coding job is not freelancing
+## The ideal first coding job is a full-time gig
 
 Often developers think that freelancing will somehow be easier than passing coding interviews. Trouble is, when you freelance, you spend a significant portion of your time trying to find clients, and that’s time you aren’t spending coding. Second, the best part of working on a team as a junior developer is that you get all of your bad habits corrected by more senior engineers. If you jump right into freelancing you’ll miss out on the best part of junior jobs – the mentorship and experience.
 
