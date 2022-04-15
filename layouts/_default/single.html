@@ -6,12 +6,20 @@
 
     <h1 class="text-4xl font-bold text-blue-400 mb-2">{{ .Title | markdownify }}</h1>
 
+    {{ $date := .Params.date.Format "Jan 2, 2006" }}
     {{ if .Params.author }}
     <p class="text-sm text-gray-300">
         By {{ .Params.author }}
         {{ if (gt .Params.date 0) }}
-        on {{ .Date.Format "Jan 02, 2006" }}
+        on {{ $date }}
         {{ end }}
+    </p>
+    {{ end }}
+
+    {{ $lastmod := .Params.lastmod.Format "Jan 2, 2006" }}
+    {{ if and (ne $lastmod $date) (gt .Params.lastmod .Params.date) }}
+    <p class="text-sm text-gray-300">
+        Last updated on {{ $lastmod }}
     </p>
     {{ end }}
 
