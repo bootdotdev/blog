@@ -56,9 +56,9 @@ func getNumberFromStdIn() (int, error) {
 }
 ```
 
-As you can see, `getNumberFromStdIn()` calls `isInRange()`. The problem with the above code is that if an error happens within _getNumberFromStdIn()_ and subsequently is logged to the console, it is almost impossible to tell where the error came from.
+As you can see, `getNumberFromStdIn()` calls `isInRange()`. The problem with the above code is that if an error happens within `getNumberFromStdIn()` and subsequently is logged to the console, it is almost impossible to tell where the error came from.
 
-For example, if isInRange's error is logged to the console during execution:
+For example, if `isInRange`'s error is logged to the console during execution:
 
 ```
 isInRange: 3 must be between 5 and 10
@@ -66,7 +66,7 @@ isInRange: 3 must be between 5 and 10
 
 Where did this come from? We know that `isInRange()` created the error, but we don't know where `isInRange()` was called. Was `isInRange()` called by `getNumberFromStdIn()`? Or somewhere else? Perhaps we grep through our codebase and see that `isInRange()` is called hundreds of times! Now our task to find the root of the error becomes much more difficult than it needs to be.
 
-## Solution: Wrap The Errors
+## The solution? Wrap the errors with some context
 
 The [fmt.Errorf()](https://pkg.go.dev/fmt#Errorf) function is a favorite of mine, I use it in most functions I write. It allows us to format error messages, and more importantly to wrap errors within each other, which has the nice benefit of our error messages looking more like stack traces.
 
@@ -102,11 +102,11 @@ Now, when `isInRange()` is called in this specific location, we get a formatted 
 getNumberFromStdIn: isInRange: 3 must be between 5 and 10
 ```
 
-By wrapping errors and building well-formatted error messages, we can keep better track of where errors are happening. When I'm being lazy about logging, I typically just add the name of the function being called to my error, but can make the message say whatever you want. For example, I'll often include parameter information so I know which inputs caused the error.
+By wrapping errors and building well-formatted error messages, we can keep better track of where errors are happening. I often just add the name of the function being called to my error messages, but we can make the message say whatever we want. For example, I'll often include parameter information in the error so I know which inputs caused the error.
 
 ## Why use %w?
 
-For quite a while I was using `%v` in the `fmt.Errorf` function, and for the most part it worked as intended. The problem with `%v` really only arises when it comes time to compare two errors using the [errors.Is](https://pkg.go.dev/errors#Is) function. For example. I'll often want to check if a error as an "end of file" error, so I'll use the following check:
+For quite a while I was using `%v` as the interpolated value in the `fmt.Errorf` function, and for the most part it worked as intended. The problem with `%v` really only arises when it comes time to compare two errors using the [errors.Is](https://pkg.go.dev/errors#Is) function. For example. I'll often want to check if a error as an "end of file" error, so I'll use the following check:
 
 ```go
 if errors.Is(err, io.EOF) {
@@ -152,10 +152,12 @@ if errors.Is(err, io.EOF) {
 }
 ```
 
+As far as I know, when working with errors it's *always better* to use `%w` over `%v`.
+
 ## Should I always wrap errors?
 
-Nope. Like all rules-of-thumb, there are exceptions.
+Like all rules-of-thumb, there are exceptions.
 
 For example, if I'm writing a package that exposes the function `getNumberFromStdIn()` then my users (programmers using my package) don't need to know that `atoi()` failed, they just need to know that `getNumberFromStdIn()` failed. I probably don't want to be exposing too much internal logic to my API users. In fact, I can probably ignore the underlying error and create my own message from scratch that's more helpful to the end-user.
 
-If it is glaringly obvious where an error comes from, there is also less reason to wrap it. Wrapping an error, in theory, should never hurt, but it *can* be unnecessary work. As always, look at everything on a case-by-case basis.
+If it is glaringly obvious where an error comes from, there is also less reason to wrap it. Wrapping an error, in theory, should never hurt, but it *can* be unnecessarily verbose and a lot of extra work. As always, look at everything on a case-by-case basis.
