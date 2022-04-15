@@ -45,7 +45,7 @@ As it happens, we have several great Go courses to jumpstart your career:
 
 - [Go Mastery](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b)
 - [Big-O Algorithms (Go)](https://boot.dev/big-o-algorithms-course/)
-- [Practical Cryptography (Go)](https://boot.dev/practical-cryptography-course/)
+- [Practical Cryptography (Go)](https://boot.dev/course/6321ddbf-49eb-4748-9737-6bc12e8bb705/4907b729-6a49-409c-a634-d64d357f9a8b/5c7bdecf-b3be-4947-aea6-749e2d1d96b4)
 
 ## Is It Best to Specialize in One Language?
 

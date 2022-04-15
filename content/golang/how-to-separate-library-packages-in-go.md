@@ -22,7 +22,7 @@ Library packages allow developers to export code so it can be used by the outsid
 
 Now that we've gone over the basics of what a package _is_ let's talk about how to write good packages. The rest of this article will focus on some good rules of thumb to know _when_, _how_, and _why_ to separate code into a new package.
 
-## 1\. Hide Internal Functions
+## 1. Hide Internal Functions
 
 Oftentimes an application will have complex logic that requires a lot of code. In almost every case the logic that the application cares about can be exposed via an API, and most of the dirty work can be kept within a package. For example, imagine we are building an application that needs to classify images. We could build a package:
 
@@ -47,17 +47,17 @@ func hasHotdogColors(image []byte) bool {
 
 We create an API by **only** exposing the function(s) that the application-level needs to know about. All other logic is unexported to keep a clean separation of concerns. The application doesn't need to know **how** to classify an image, just the **result** of the classification.
 
-## 2\. Don't Change a Package's API
+## 2. Don't Change a Package's API
 
 The unexported functions within a package can and should change often for testing, refactoring, and bug fixing.
 
 A well-designed library will have a stable API so that users aren't receiving breaking changes each time they update the package version. In Go, this means not changing exported function's signatures.
 
-## 3\. Don't Export Functions From Main
+## 3. Don't Export Functions From Main
 
 Any capitalized function in Go is exported, which means that other programs can import and call those functions. Main packages can contain exported functions, but as a general rule **don't do it**. It is confusing to future readers of the code, and in most cases accomplishes nothing.
 
-## 4\. Packages Should Have No Knowledge of Dependents
+## 4. Packages Should Have No Knowledge of Dependents
 
 Perhaps one of the most important and most broken rules is that a package shouldn't know anything about its dependents. In other words, a package should never have specific knowledge about a particular application that uses it. For example:
 

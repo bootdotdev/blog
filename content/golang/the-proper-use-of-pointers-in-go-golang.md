@@ -79,7 +79,7 @@ Pointers can be useful, but in the same way that they are useful, they can be da
 
 ## Syntax
 
-**1\. Creating a pointer: &**
+**1. Creating a pointer: &**
 
 ```go
 newString := ""
@@ -104,7 +104,7 @@ prints: 0xc00000e1e0
 
 Which is the memory address of that variable in your machine.
 
-**2\. Describing a pointer: \***
+**2. Describing a pointer: \***
 
 In a function signature or type definition, the \* is used to designate that a value is a pointer.
 
@@ -113,7 +113,7 @@ func passPointer(pointer *string) {
 }
 ```
 
-**3\. Dereferencing a pointer: \***
+**3. Dereferencing a pointer: \***
 
 It can be slightly confusing, but the \* is used to describe a pointer and it is also used as an operator to dereference a pointer.
 
@@ -128,15 +128,15 @@ func derefPointer(pointer *string) {
 
 There are probably many nuanced cases for when a pointer is a good idea, but I would guess that 95% of the time when you use a pointer, it should be for one the following reasons:
 
-**1\. A function that mutates one of its parameters**
+**1. A function that mutates one of its parameters**
 
 When I call a function that takes a pointer as an argument, I expect that my variable will be mutated. If you aren't mutating the variable in your function, then you probably shouldn't be using a pointer.
 
-**2\. Better Performance**
+**2. Better Performance**
 
 If you have a string that contains an entire novel in memory it gets really expensive to copy that variable each time it is passed to a new function. It may be worthwhile to pass a pointer instead, which will save CPU and memory. This comes at the cost of readability however, so only make this optimization if you must.
 
-**3\. Need a Nil Value Option**
+**3. Need a Nil Value Option**
 
 Sometimes a function needs to know what something's value is, as well as if it exists or not. I usually use this when [decoding JSON](/golang/json-golang/) to know if a field exists or not. For example, if a JSON object is:
 

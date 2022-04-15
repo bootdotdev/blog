@@ -10,7 +10,7 @@ images:
 
 Programming communities are so valuable because the life of a programmer can be isolated, especially if you opt to work as a freelancer or in a remote-first position. Even if you don't have a solitary position, getting in touch with other programmers can make it much easier to improve your own skills and learn about new and exciting projects and technologies in the works. Luckily, there are a ton of amazing communities out there dedicated to helping novice programmers improve their skills, meet like-minded devs, and efficiently network with other experienced professionals.
 
-## 1\. Top Coding Subreddits
+## 1. Top Coding Subreddits
 
 ![](/img/800/Reddit-512.png)
 
@@ -37,7 +37,7 @@ It isn’t the most diverse platform and you’re likely to interact mainly with
 
 {{< cta1 >}}
 
-## [2\. HackerNews](https://news.ycombinator.com/)
+## [2. HackerNews](https://news.ycombinator.com/)
 
 ![](https://techcrunch.com/wp-content/uploads/2013/05/hacker-news1.jpg?w=600)
 
@@ -51,7 +51,7 @@ Perfect for experienced and established developers to further improve their know
 
 The graphic design and UI of the site has left a lot to be desired and is frankly quite ugly. This was likely by design however, and the site is actually quite easy to use once you get over it's early 2000's look.
 
-## [3\. Lobste.rs](https://lobste.rs/)
+## [3. Lobste.rs](https://lobste.rs/)
 
 Lobste.rs is a community that is computing-focused and centered around discussion and link aggregation. This platform has been around for a few years and is quite popular with established and experienced programmers. It utilizes a tagging system to help filter submissions and has a “flag explanations” feature that makes having civil disagreements more enjoyable and helpful.
 
@@ -68,7 +68,7 @@ Lobste.rs is a community that is computing-focused and centered around discussio
 - The design of the platform is outdated like HackerNews or old-school Reddit, though some people prefer this
 - Invite-only in order to post. You need to find someone in the cool-kids-club to get you a link.
 
-## [4\. Dev.to](https://dev.to/)
+## [4. Dev.to](https://dev.to/)
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--g3JdSGe6--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/rainbowdev.svg)
 
@@ -90,7 +90,7 @@ The community is quite inexperienced. Sometimes it can feel like the blind leadi
 
 {{< cta2 >}}
 
-## [5\. Twitter](https://twitter.com/q_vault)
+## [5. Twitter](https://twitter.com/q_vault)
 
 ![](/img/800/logo.png)
 
@@ -110,7 +110,7 @@ It might be a bit of a surprise to see this social media giant on our list. Howe
 - The platform is known for being a hub for stress and negativity-- even if you’ve only followed development and coding accounts
 - Trolls, bots, and spam are an ongoing issue that can put a damper on your everyday experience with the site
 
-## [6\. Discord](https://discord.com/invite/H2bTNATa)
+## [6. Discord](https://discord.com/invite/H2bTNATa)
 
 ![](/img/800/Discord-privacy-tips-that-you-should-use-.jpg)
 
@@ -126,13 +126,13 @@ Discord has many different servers where developers can chat in real time. We ha
 
 You probably want to use the desktop client, meaning it's not easy to access the communities from the browser.
 
-## 7\. Slack
+## 7. Slack
 
 ![](/img/800/Slack-Logo.png)
 
 Slack doesn't need much explanation due to its fame, and the key points are similar to Discord. The main differences are that Slack requires a paid plan to unlock some important features like persisted message history. There are many good servers, but one of my favorites is the [Gophers server](https://gophers.slack.com/messages/general/) if you are into the Go language.
 
-## [8\. Github](https://github.com/bootdotdev)
+## [8. Github](https://github.com/bootdotdev)
 
 ![](/img/800/github.jpeg)
 
@@ -142,7 +142,7 @@ Github is a unique community in that communication between users isn’t all tha
 - Open pull requests and contribute to existing projects
 - Start your own project and invite your network to help
 
-## [9\. Hashnode](https://wagslane.hashnode.dev/)
+## [9. Hashnode](https://wagslane.hashnode.dev/)
 
 ![](/img/800/KRJOep1kV.png)
 
@@ -163,7 +163,7 @@ They also recently launched their ambassador program. You can use my referral li
 
 {{< cta3 >}}
 
-## [10\. Medium](https://medium.com/qvault)
+## [10. Medium](https://medium.com/qvault)
 
 ![](/img/800/1J-PcIDrkewUmwrTZuJIIJA-1600x800.jpeg)
 
@@ -183,7 +183,7 @@ Like Reddit, Medium is a large blogging platform that touches on pretty much eve
 - The Medium paywall makes accessing a lot of content on the site difficult, and has angered the development community in recent years
 - The premium content monetization system, while admirable, won’t make you much money unless an editor likes your article and gives it front-page exposure. In many cases, the best way to get “discovered” is by being invited to join a publication on the platform.
 
-## 11\. Facebook Groups
+## 11. Facebook Groups
 
 Facebook groups are easy to search up and find for any niche in programming you might want. This can be especially useful if you want to find geographically local groups so you can connect with other devs in your areas. You can do pretty much anything with Facebook groups, depending on the group you join-- post code for critique, explore programming content, network, ask for advice, rant and rave about the industry, etc. Facebook also has [Developer Circles](https://developers.facebook.com/developercircles/), a program designed to help developers connect with local colleagues and share content.
 
@@ -199,7 +199,7 @@ Facebook groups are easy to search up and find for any niche in programming you 
 - Groups are moderated like traditional forums, but there can often be little in the way of accountability
 - Google searches won’t show Facebook groups, so it can be difficult to market them and increase their user bases
 
-## [12\. Toptal](https://www.toptal.com/)
+## [12. Toptal](https://www.toptal.com/)
 
 If you’re more interested in meeting very talented developers, Toptal could be the spot for you. Especially if you’re interested in hiring a freelancer for your own ongoing project. This network of freelance developers has users from over a hundred countries, and the blog section is written entirely by the userbase.
 

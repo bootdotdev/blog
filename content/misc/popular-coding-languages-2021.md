@@ -32,7 +32,7 @@ Table describing the most popular coding languages of 2021 for different purpose
 
 {{< cta1 >}}
 
-## 1\. The most popular coding language for absolute beginners: Python
+## 1. The most popular coding language for absolute beginners: Python
 
 No matter what list you check, Python is almost always listed as the most popular coding language for beginners - on [boot.dev’s post on best programming languages for beginners](/misc/top-coding-languages-for-beginners/), [GitHub’s ranking](https://pypl.github.io/PYPL.html), [Stack Overflow’s developer survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted), and is even the [top-most language universities are teaching to computer science majors](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext). 
 
@@ -54,7 +54,7 @@ Python’s the most popular coding language for beginners because it comes with 
 
 You should also take advantage of the rich and supportive online community of Python users and lovers. Most Pythonistas will remember their own days of learning Python and gladly lend a hand to beginners. Check out the [Python subreddit](https://www.reddit.com/r/Python/), read and post [Python questions on Stack Overflow](https://stackoverflow.com/questions/tagged/python), and see if you can find a coding buddy on a Discord group or a Slack channel. 
 
-# 2\. The most popular coding language for people who don’t want a programming job: R 
+# 2. The most popular coding language for people who don’t want a programming job: R 
 
 When I worked as a customer success manager, my job involved absolutely no coding. However, I still found it incredibly beneficial to be able to run analyses in R - looking at retention, churn, amount of communication and more. R is another open-source coding language, less popular than Python but still very active and beloved in the data science community.
 
@@ -78,7 +78,7 @@ R is the most popular coding language for people who don’t code in their jobs 
 
 Especially for folks who don’t have or want a job in programming, I find it’s [best to find a project you really care about and set out a specific goal](https://towardsdatascience.com/the-fastest-way-to-learn-to-code-be-invested-in-your-numbers-ccb24d55d856). You don’t have the necessity from your job - you can get away with not knowing how to code, for now anyway. You don’t have any prior experience coding, so the learning curve will be steep. You need something that you’re deeply passionate about. Only that will get you over the frustrating hurdles, knowledge gaps, and user errors that come with every coder’s beginner journey.
 
-# 3\. The most popular coding language to increase your salary: Perl 
+# 3. The most popular coding language to increase your salary: Perl 
 
 Perl is one of the most contradictory languages on this list in that it has the highest global salary ($75k median annual salary), but is also the most dreaded language (71.4%), according to [Stack Overflow’s survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages). But if you want to get a higher salary in your programming job, there is no more popular coding language. It’s known for being the predecessor to the more popular PHP, and also for being a bit of a flaming dumpster heap of a language. 
 
@@ -98,7 +98,7 @@ However, with the latest releases of Perl that fixes many user experience issues
 
 The [learn.perl.org website](https://learn.perl.org/books/beginning-perl/) is probably the best place to start learning Perl. Unlike R and Python where many users learn from googling and copy-pasting code chunks, it may be best to stay away from places like Stack Overflow where bad code snippets may still be floating around. [Modern Perl](http://onyxneon.com/books/modern_perl/modern_perl_a4.pdf) is also a relatively recent document that may avoid a lot of out-of-date opinionated tutorials, while the [Perl Cookbook](http://rgonzo.us/shiny/books/perlcookbook.pdf) stands up as a tried-and-tested resource. 
 
-# 4\. The most popular coding language for mobile app development on iOS: Swift
+# 4. The most popular coding language for mobile app development on iOS: Swift
 
 R, Python, and Perl were all developed last century. Swift, meanwhile, was developed only in 2014 specifically for the purpose of being an Apple programming language. As the name implies, it has a reputation for being a speedy way to build iOS apps, [quickly overtaking](https://buildfire.com/programming-languages-for-mobile-app-development/#) Objective-C which was originally built for that purpose. [Apple.com itself says](https://www.apple.com/swift/) Swift is 2.6x faster than Objective-C and 8.4x faster than Python. Even though it’s a young language, it's the 9th [most-loved language](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages) on Stack Overflow’s developer survey of 2020. To write an iOS app, there's no other most popular coding language.
 
@@ -118,7 +118,7 @@ Apple obviously has a vested interest in helping developers learn Swift, so it�
 
 After that, the best method is simply to get your feet wet and [design your first app using Swift](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/). 
 
-# 5\. The most popular coding language for lateral thinkers: Ruby 
+# 5. The most popular coding language for lateral thinkers: Ruby 
 
 Ruby is one of the [most popular coding languages for startups](https://stackify.com/popular-programming-languages-2018/#:~:text=Ruby%20is%20one%20of%20the%20most%20popular%20languages%20among%20tech%20startups.&text=First%2C%20Ruby%20has%20an%20incredibly,time%20than%20in%20other%20frameworks.) - it’s a language where there’s more than one way to do things, with a very simple syntax that enables the “move fast and break things” ethos of many startups favored by lateral thinkers. 
 
@@ -132,7 +132,7 @@ For many beginner coders, it can feel limiting to work with a language like Pyth
 
 Because of Ruby’s dynamic nature, there isn’t a single method to learn things. While it’s important that you go into it understanding core coding concepts like variables, data structures and conditional statements, the simplicity of Ruby and Ruby on Rails means that once you’ve grasped the basics, the next step should be trying to build a simple web app of your own.
 
-# 6\. The most popular coding language for mobile apps and web development: JavaScript 
+# 6. The most popular coding language for mobile apps and web development: JavaScript 
 
 JavaScript is the most popular coding language for the web, responsible for interactive websites. Developed in 1995, it’s [used by 95% of websites](https://w3techs.com/technologies/details/cp-javascript/) as the dominant client-side scripting language today. As Node.js was developed, many people began using JavaScript on the server-side, too. Along with CSS and HTML, it’s what builds what you see anytime you hop onto the World Wide Web.
 
@@ -150,7 +150,7 @@ It’s also standardized, meaning that updates and releases with new versions fr
 
 If you search “learn JavaScript,” it’s easy to become overwhelmed with the quantity of information, tutorials, and guides. It’s hard to even know which frameworks and libraries you need. That’s why I recommend a hierarchical approach that lets you systematically and consistently progress with learning the most popular coding language for web developers. Some examples include [JS: The Right Way](http://jstherightway.org/), and [boot.dev's Basic Intro to Coding](https://boot.dev/basic-intro-to-coding-course/).
 
-# 7\. The most popular coding language to quickly increase your salary: Go
+# 7. The most popular coding language to quickly increase your salary: Go
 
 Go was developed at Google, influenced by coding language giant C, but built to avoid the pitfalls of C++, which was [universally despised](https://www.drdobbs.com/open-source/interview-with-ken-thompson/229502480) by the developers of Go. The aim was to build a language that was fit for purpose in an era of enormous code bases. It’s now used by [several big companies](https://brainhub.eu/library/companies-using-golang/) - Google is obviously among them, but Uber, Twitch, and Dropbox also feature in the list. 
 
@@ -170,7 +170,7 @@ As a language built by Google for the internet, you can imagine there are severa
 
 Once you’ve grasped the basics, some other great resources include [Go By Example](https://gobyexample.com/) and [Go Mastery](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b), where you’ll learn to find examples of code for typical or common tasks.
 
-# 8\. The most popular coding language in 2022: Rust
+# 8. The most popular coding language in 2022: Rust
 
 Rust is the most-loved language for the fifth year running and is the fifth-most wanted language (14.6%) according to the [2020 Stack Overflow’s Developer Survey](http://jstherightway.org/). So why is it not top of the list despite being objective the most popular coding language of all? Because according to the very same survey, [97% of those survey respondents had never used Rust](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/). It also has an uncertain future.
 

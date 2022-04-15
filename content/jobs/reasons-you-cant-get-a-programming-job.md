@@ -18,7 +18,7 @@ Nowadays, so much online material that’s designed to help you learn coding or 
 
 If you believe you have the necessary skills but you still can’t get a programming job, you might be falling into one of these eight missteps. The good news is they’re all fixable. At the end of the day, the only prerequisite to getting a coding job is the desire to get a coding job. If you’ve got that, everything else is within your grasp.
 
-## 1\. You haven’t mastered the fundamentals of computer science.
+## 1. You haven’t mastered the fundamentals of computer science.
 
 Many people who learn coding at a bootcamp, instead of focusing on [learning computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/), skip steps, and don’t take the time to do it properly. 
 
@@ -44,7 +44,7 @@ There are many resources online, both paid and free, that can help you learn the
 
 {{< cta1 >}}
 
-## 2\. You’re not presenting yourself in a way that demonstrates you’re a good culture fit
+## 2. You’re not presenting yourself in a way that demonstrates you’re a good culture fit
 
 Personally, part of the reason I ended up going for a data science job out of college was because I hated sales, like many other people. But while everyone hates sales, when you’re applying for jobs, you have to know how to sell yourself at every stage of the application process. If you can't get a programming job, it may be because you're neglecting this part of the application process.
 
@@ -66,7 +66,7 @@ Do you show passion, engagement and curiosity? What extracurriculars have you do
 
 Take time to research your potential future employer and what non-technical qualities current employees show. This will give you the strongest chance of presenting yourself favorably from both a skills perspective as well as a culture fit. 
 
-## 3\. You’re ignoring good interview skills
+## 3. You’re ignoring good interview skills
 
 In a similar vein, if you can't get a coding job, it might be that you’re ignoring common and vital interview skills. 
 
@@ -91,7 +91,7 @@ If you’re getting to the interview stage and still can’t get a programming j
 
 This shows interviewers that you’re not just a superb coder, but you’re a good interviewer, and hence a good communicator. 
 
-## 4\. You don’t have experience
+## 4. You don’t have experience
 
 Don't blame yourself too much if you can't get a programming job for this reason. This is a problem compounded by the job listings posted by employers. It seems like every employer needs coders who have at least five years of experience in a language that only came into creation one year ago. This leads to coders applying for jobs that might be considered a bit of a stretch in terms of their applicable experience.
 
@@ -119,7 +119,7 @@ If you can't get a programming job because of a lack of experience, sharing your
 
 {{< cta2 >}}
 
-## 5\. You’re trying to master everything
+## 5. You’re trying to master everything
 
 Again, like the unrealistic requirements in years of experience, many companies contribute to this issue by listing just about every potential language and technical skill that might one day come in useful on their job listings. If you can't get a programming job, it might be because you are trying to master everything you see on job listings.
 
@@ -143,7 +143,7 @@ Part of the reason you can’t get a programming job might be because when you a
 
 What language do you enjoy the most? Which one do you understand best? These answers will help begin to point you in the right direction - both in terms of what sorts of jobs meet your existing skill set, as well as how to market those skills on your resume and during your interview.
 
-## 6\. You’re pretending to be more talented than you are
+## 6. You’re pretending to be more talented than you are
 
 Of course, people who can't get a programming job might be desperate enough to stretch the truth in order to try to cover every point. With job listings as unrealistic as they can sometimes be, this is only to be expected. But it might actually be stopping you from getting a programming job.
 
@@ -163,7 +163,7 @@ By sticking to what you do know, both on the job application and in the intervie
 
 Consider an employer who meets two candidates: one who says they can do something that they can’t, and one who says it’s beyond their current skill set, but demonstrates how they’ve grown their skills over the past year. The latter is much more appealing to employers. If you can't get a programming job, consider how to pare back your alleged skills to keep it as real as possible.
 
-## 7\. You haven’t demonstrated you want to learn
+## 7. You haven’t demonstrated you want to learn
 
 It’s interesting to note that [LinkedIn Workplace Learning’s 2020 report](https://learning.linkedin.com/resources/workplace-learning-report) shows that the most in-demand skills aren’t technical ones at all, but rather soft skills. The reason, they postulate, is because technical skills age quickly. A vital skill one year is redundant the next. Soft skills, like the basics of computer science, underpin every single other skill that might be attractive to employers. 
 
@@ -185,7 +185,7 @@ It’s also a good idea to brush up on the latest programming trends. You don’
 
 Finally, don’t limit yourself to only showing a passion for learning computer science. What else do you enjoy learning? Instruments, spoken languages, watercolor techniques and more can all be ways to showcase your love of learning. 
 
-## 8\. You’re ignoring automated filters
+## 8. You’re ignoring automated filters
 
 If nothing on this list of mistakes applies to you and you still can't get a programming job, it might be because technology is working against you. Even though most people applying for programming or coding jobs are deeply technical, it’s easy to overlook the fact that the recruitment process is automated. Take [Amazon as an example](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G), who got into trouble back in 2018 when it turned out that their recruitment AI was mistakenly showing bias against women. Many qualified individuals didn’t even have their resumes looked at due to faulty automation.
 

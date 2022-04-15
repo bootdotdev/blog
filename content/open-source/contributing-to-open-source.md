@@ -12,7 +12,7 @@ With [#HacktoberFest](https://hacktoberfest.digitalocean.com/) being a thing, th
 
 Let's take a look at some common pitfalls that developers fall prey to when working on an open-source project.
 
-## 1\. Pull Requests Should Handle ONE Thing
+## 1. Pull Requests Should Handle ONE Thing
 
 Don't open a PR like this:
 
@@ -24,7 +24,7 @@ Your PR should do _one thing_. Large diffs increase the cognitive load of the re
 
 {{< cta1 >}}
 
-## 2\. Don't Break Consistency
+## 2. Don't Break Consistency
 
 This one happens the most often to me in my own projects. Well-intentioned developers open pull requests with any of the following annoyances:
 
@@ -36,7 +36,7 @@ When you contribute to an existing project, use the existing styling. No one giv
 
 If you think styling needs to change, see points #1 and #3.
 
-## 3\. Don't Start Work Without Approval
+## 3. Don't Start Work Without Approval
 
 If you hop into a Github repo and find something you don't like, don't immediately open a pull request. Follow these steps instead:
 
@@ -46,16 +46,16 @@ If you hop into a Github repo and find something you don't like, don't immediate
 
 This will help mitigate the creation of pointless PRs that will never be accepted on the basis of a flawed premise.
 
-## 4\. Don't Re-Open Known Problems/Solutions
+## 4. Don't Re-Open Known Problems/Solutions
 
 Some codebases have thousands of open issues, take the [Go language](https://github.com/golang/go) project or the [nocode repository](https://github.com/kelseyhightower/nocode) as an example. No one wants to read your duplicate issue or review your duplicate pull request. Make sure there isn't an existing open _or closed_ issue for what you are trying to address.
 
 {{< cta2 >}}
 
-## 5\. Squash Those Commits
+## 5. Squash Those Commits
 
 Not every project will require (or care) about [commit squashing](https://github.com/wprig/wprig/wiki/How-to-squash-commits). That said, there are no projects that require _not_ squashing commits. To be on the safe side just give 'em a squash.
 
-## 6\. Be Meaningful
+## 6. Be Meaningful
 
 Rewording documentation and other frivolous changes make you look like [these assholes](https://github.com/whatwg/html/pulls?q=is%3Apr+is%3Aclosed+label%3Aspam). This particularly [atrocious example](https://github.com/whatwg/html/pull/6075) is not only scoped to pointless documentation changes but actually makes the documentation _worse_.

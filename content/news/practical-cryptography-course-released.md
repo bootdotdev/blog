@@ -9,7 +9,7 @@ categories:
   - "security"
 ---
 
-We just launched our new _[Practical Cryptography](https://boot.dev/practical-cryptography-course/)_ course, a code-in-the-browser tutorial where students build [cryptographic](/cryptography/what-is-cryptography/) functions in the Go programming language. _Practical Cryptography_ stands out among online cryptography courses because it not only teaches crypto fundamentals, but it allows users to get hands-on experience building out the code.
+We just launched our new _[Practical Cryptography](https://boot.dev/course/6321ddbf-49eb-4748-9737-6bc12e8bb705/4907b729-6a49-409c-a634-d64d357f9a8b/5c7bdecf-b3be-4947-aea6-749e2d1d96b4)_ course, a code-in-the-browser tutorial where students build [cryptographic](/cryptography/what-is-cryptography/) functions in the Go programming language. _Practical Cryptography_ stands out among online cryptography courses because it not only teaches crypto fundamentals, but it allows users to get hands-on experience building out the code.
 
 ## What's Included?
 

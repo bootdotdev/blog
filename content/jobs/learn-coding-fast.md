@@ -10,18 +10,18 @@ images:
 
 The journey to becoming a gainfully employed software engineer can feel long. The good news is, you can learn smarter not harder. Apply these eight tricks and you'll be learning to program a lot faster than the average bear.
 
-- [1\. There are no shortcuts. Learn the basics first](#1-there-are-no-shortcuts-learn-the-basics-first)
-- [2\. Don't watch Youtube videos (at least not for everything)](#2-dont-watch-youtube-videos-at-least-not-for-everything)
-- [3\. Learn by doing. Hands-on courses and projects only](#3-learn-by-doing-hands-on-courses-and-projects-only)
-- [4\. Googling is a skill. Learn to Google better](#4-googling-is-a-skill-learn-to-google-better)
+- [1. There are no shortcuts. Learn the basics first](#1-there-are-no-shortcuts-learn-the-basics-first)
+- [2. Don't watch Youtube videos (at least not for everything)](#2-dont-watch-youtube-videos-at-least-not-for-everything)
+- [3. Learn by doing. Hands-on courses and projects only](#3-learn-by-doing-hands-on-courses-and-projects-only)
+- [4. Googling is a skill. Learn to Google better](#4-googling-is-a-skill-learn-to-google-better)
   - [Good Signs](#good-signs)
   - [Bad Signs](#bad-signs)
-- [5\. Once you've Googled the same thing three times, write it down](#5-once-youve-googled-the-same-thing-three-times-write-it-down)
-- [6\. Become a member of coding communities](#6-become-a-member-of-coding-communities)
-- [7\. Contribute to open-source](#7-contribute-to-open-source)
-- [8\. When you get stuck, sleep on it](#8-when-you-get-stuck-sleep-on-it)
+- [5. Once you've Googled the same thing three times, write it down](#5-once-youve-googled-the-same-thing-three-times-write-it-down)
+- [6. Become a member of coding communities](#6-become-a-member-of-coding-communities)
+- [7. Contribute to open-source](#7-contribute-to-open-source)
+- [8. When you get stuck, sleep on it](#8-when-you-get-stuck-sleep-on-it)
 
-## 1\. There are no shortcuts. Learn the basics first
+## 1. There are no shortcuts. Learn the basics first
 
 ![](/img/800/shortcut-maze-300x183.jpg)
 
@@ -35,7 +35,7 @@ There are certainly little shortcuts you can take here or there to get you into 
 
 {{< cta1 >}}
 
-## 2\. Don't watch Youtube videos (at least not for everything)
+## 2. Don't watch Youtube videos (at least not for everything)
 
 YouTube is great for learning all sorts of things. It's free, and there are thousands of content creators who share their coding courses and hot programming tricks free of charge. Unfortunately, what you save in money and cognitive strain, you often lose in time.
 
@@ -49,7 +49,7 @@ Here's the thing though, _videos do have a place in your coding education_. Whil
 
 For example, a video that says it will teach you how to build a pop-up component for a website would better be consumed as a blog post. However, a lecture on how the Go and Rust programming languages differ might be a great video to watch while sipping a morning coffee.
 
-## 3\. Learn by doing. Hands-on courses and projects only
+## 3. Learn by doing. Hands-on courses and projects only
 
 If you want to learn to code, you need to spend a lot of time coding. Seems like a no-brainer right?
 
@@ -59,7 +59,7 @@ Courses that do allow you to write and submit code for feedback are probably the
 
 _Tip: Build a project as you make your way through any learning material. A personal project you can publish to Github is a great way to get started._
 
-## 4\. Googling is a skill. Learn to Google better
+## 4. Googling is a skill. Learn to Google better
 
 Some people are really good at googling stuff, and others aren't. The good news is that googling is a skill you can learn; mostly through practice. Pay attention to what the search results look like when you run a query, and learn to examine them effectively to know whether you should spend time clicking through to the page. Here are some basic [heuristics](/computer-science/examples-of-heuristics-in-computer-science/) that can help you know if a result is worth clicking on and skimming through.
 
@@ -81,19 +81,19 @@ _Tip: Your first instinct when you're stuck should be to Google your problem_
 
 {{< cta2 >}}
 
-## 5\. Once you've Googled the same thing three times, write it down
+## 5. Once you've Googled the same thing three times, write it down
 
 Googling is great, but if you find yourself having to look up the same thing over and over, it's probably best to commit it to memory. If you know it by heart, you'll not only save a lot of time in the future, but you'll be able to recall it in interviews and team meetings.
 
 I've found that if there is a concept or topic I really want to commit to memory, it's best if I write about it. Some people keep notes, personally I just tweet about it or perhaps write a blog post if it requires more space to communicate effectively. Writing things down helps our brains remember them better.
 
-## 6\. Become a member of coding communities
+## 6. Become a member of coding communities
 
 It's hard to be excited about something if you don't keep up on the exciting news, memes, and innovations that are happening in the space. I've compiled a list of some of my [favorite coding communities](/misc/top-12-best-communities-for-learning-to-code/). Join the ones that interest you and hit me up [personally](https://twitter.com/wagslane) if you want to connect as well.
 
 _Tip: You'll learn things from personal conversations that you could never pick up in a book. Communities can give you various expert perspectives on complex topics._
 
-## 7\. Contribute to open-source
+## 7. Contribute to open-source
 
 If you don't yet have a coding job, it can be hard to learn collaboration skills that you will need out in the real world. 99% of the time, coding isn't a thing you do alone, you have to learn to work with others on a team project.
 
@@ -101,7 +101,7 @@ The best way I've found to get this experience when you're out on your own is to
 
 _Tip: Employers will want to see your Github profile, make it impressive!_
 
-## 8\. When you get stuck, sleep on it
+## 8. When you get stuck, sleep on it
 
 Some of the biggest algorithmic and architectural "breakthroughs" I've had have been while I'm falling asleep, or when I get a fresh look at a problem the next day. Sometimes our brains get stuck in a state where it can be hard to see a good solution - we probably just have the wrong things loading in RAM. Letting your brain get a full reboot can be seriously helpful when you hit a serious roadblock.
 

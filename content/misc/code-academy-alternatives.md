@@ -27,7 +27,7 @@ Learning to code can help you in many aspects of life and for many provides a st
 
 Choosing a coding program online may seem like a daunting task. When my wife started to learn to code, she was overwhelmed and felt that since she knew nothing about programming, she was unequipped to even be able to _choose_ a good program. Don't think that, there _are_ solutions!
 
-### [1\. Boot.dev](https://boot.dev/)
+### [1. Boot.dev](https://boot.dev/)
 
 [![Qvault Logo - Learn to Code](/img/800/QVault-app-min-150x150.png)](https://boot.dev/)
 
@@ -47,7 +47,7 @@ Time for a shameless plug, [boot.dev](https://boot.dev/) is a great place to sta
 
 Boot.dev is a particularly good choice for beginner to mid-level students that want to learn computer science, not just coding.
 
-### [2\. Free Code Camp](https://www.freecodecamp.org/)
+### [2. Free Code Camp](https://www.freecodecamp.org/)
 
 Free Code Camp is another good option and is completely free. Free code camp is focused less on computer science and more on web development. Free code camp is an open-source community, which means that many users online contribute to the content. This means that the content is well-vetted for high accuracy, but there is also less of a central vision for the curriculum.
 
@@ -63,7 +63,7 @@ Free Code Camp is another good option and is completely free. Free code camp is 
 
 Great for students who already have some experience with technology and are willing to sacrifice some simplicity for a completely free curriculum.
 
-### [3\. Exercism](https://exercism.io/)
+### [3. Exercism](https://exercism.io/)
 
 Exercism is a good alternative for beginners who want a personalized learning experience with a human mentor. Exercism also free and open-source like Free Code Camp. Exercism relies on unpaid volunteers who are willing to spend time mentoring students and doing code reviews.
 
@@ -78,7 +78,7 @@ Exercism is a good alternative for beginners who want a personalized learning ex
 
 A good choice for someone who wants to learn from a real person.
 
-### [4\. Tutorials Point](https://www.tutorialspoint.com/)
+### [4. Tutorials Point](https://www.tutorialspoint.com/)
 
 Tutorials Point doesn't have courses so much as it has, well, tutorials. It's known for free tutorials and documentation that can be accessed without needing to log in. The use-case for Tutorials Point is more like technical documentation than a learning curriculum. It's a great place to find an answer to a specific question.
 
@@ -88,7 +88,7 @@ Tutorials Point doesn't have courses so much as it has, well, tutorials. It's kn
 - Not really a structured curriculum, more like one-off tutorials
 - Great for finding answers to specific questions and queries
 
-### [5\. TreeHouse](https://teamtreehouse.com/)
+### [5. TreeHouse](https://teamtreehouse.com/)
 
 TreeHouse is a paid option, but it does a good job of teaching people, especially people that prefer videos. Like many platforms, Treehouse has a focus on web design, development, and IOS. I'm personally a fan of learning by coding, but I understand that some prefer videos.
 
@@ -98,7 +98,7 @@ TreeHouse is a paid option, but it does a good job of teaching people, especiall
 - Focus on web development
 - Mostly video courses
 
-### [6\. Udemy](https://www.udemy.com/)
+### [6. Udemy](https://www.udemy.com/)
 
 Udemy is a behemoth platform with an insane amount of content. Users are able to create their own courses which is a blessing and a curse. Udemy is great because you can find a course for anything. That said, it can sometimes be hard to know if the course you are buying is the _best_ one on a given subject.
 

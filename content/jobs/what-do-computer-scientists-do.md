@@ -17,31 +17,31 @@ It's important to understand that most students with a [computer science degree 
 
 I can't speak for every developer or computer scientist, but I usually do some version of the following on a daily basis.
 
-### 1\. Drink a black coffee, plop down at my computer and open [Hacker News](https://news.ycombinator.com/)
+### 1. Drink a black coffee, plop down at my computer and open [Hacker News](https://news.ycombinator.com/)
 
 I usually spend ~20 minutes reading coding news/articles while I sip my coffee. It keeps me up-to-dateish on what's going on in the industry and stops me from writing _really_ bad code before I've had a chance to wake up.
 
-### 2\. Open Slack, respond to missed questions from my team and make sure no emergencies are ensuing
+### 2. Open Slack, respond to missed questions from my team and make sure no emergencies are ensuing
 
 I work as a backend Go developer, so every few months I wake up to a service having issues and needing to be fixed immediately. I typically start my workday by just making sure that the infrastructure is having a good morning.
 
-### 3\. Write code until my team is online/in the office
+### 3. Write code until my team is online/in the office
 
 I'm an early bird, so my workday usually starts about 7AM. I also usually work from an office but during the pandemic we've all been at home. As a result, I have a couple hours to myself before the rest of my team of 4 hop online.
 
-### 4\. Standup meeting
+### 4. Standup meeting
 
 Once everyone's online we have a quick ~10 minute standup meeting to review what we're doing through the rest of the day and make sure everyone can get the help they need if they're having particular issues with a project.
 
-### 5\. Write some more code
+### 5. Write some more code
 
 When I say "write code" during this schedule, it doesn't literally just mean writing new code. It also means reviewing others' code and providing feedback, looking for and fixing bugs, cleaning up existing code, or working on a plan for how we will architect a new system or service.
 
-### 6\. Lunch and Smash Bros
+### 6. Lunch and Smash Bros
 
 My team really likes Super Smash Bros on the Nintendo Switch. We usually eat lunch then spend about ~45 minutes kicking each other's asses in SSB. About once a week the company will cater lunch and one of us will present on a technical topic they found interesting to the rest of the team. We call it "Lunch n Learn".
 
-### 7\. Write more code
+### 7. Write more code
 
 The rest of my afternoon is usually just writing more code, with the occasional meeting to discuss product direction or high-level plans. I'm currently in a team lead position, and I do my best to keep meetings to a minimum. The only meetings I have on a regular basis are:
 

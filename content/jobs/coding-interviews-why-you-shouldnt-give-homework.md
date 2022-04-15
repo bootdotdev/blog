@@ -35,7 +35,7 @@ The goal of both parties in the interview process should be to properly convey o
 
 Preferences are going to change by candidate, but I can tell you what I enjoy most both as an interviewer and an interviewee. Let's go over all the types of interviews I've had in descending order of preference. Keep in mind, it's often best to mix and match these techniques.
 
-### 1\. The code presentation
+### 1. The code presentation
 
 This one is great, it's by far my favorite kind of technical interview approach. The idea is simple, the candidate brings a piece of code that they wrote either at a previous company or on a personal project, and walks the interviewer through the code.
 
@@ -45,11 +45,11 @@ This one is great, it's by far my favorite kind of technical interview approach.
 
 The only problem here is it requires the candidate to have some code that they have permission to share in an interview. Not all candidates will have that, especially more junior developers.
 
-### 2\. The whiteboard
+### 2. The whiteboard
 
 This is probably a controversial opinion, but I actually quite enjoy whiteboarding. I'd much rather work through a technical problem with lines, boxes, and pseudocode than attempt to get syntax right while someone is watching me. Again, maybe it's just me, but I can usually reason through a problem much better if I'm not required to worry about small implementation details at the same time.
 
-### 3\. The questioning
+### 3. The questioning
 
 This one will rarely work on it's own, but is important to use in tandem with another technique. The idea is to ask probing technical questions to gauge the breadth and depth of a candidate's experience. There are no problems here to solve, the goal is just to try to learn about the candidate's skill set. Questions and prompts I often use include:
 
@@ -57,11 +57,11 @@ This one will rarely work on it's own, but is important to use in tandem with an
 - Tell me about your biggest pet peeve regarding coding style
 - If you had to learn one new programming language, which one would it be and why?
 
-### 4\. The live coding
+### 4. The live coding
 
 We all know what this is. I don't love live coding, but if you're going to do it, I think it's much better to just have the candidate screen share and let them work on their local machine. I've had interviews where I had to use weird web app text editors that I'm not used to, and Google even made me write code in a Google doc... that was awful. If you want to see how a candidate performs, let them perform on their home turf.
 
-### 5\. The homework
+### 5. The homework
 
 We already talked about homework so I won't rehash it all here, but know that it's at the bottom of my personal list. That said, I understand that a lot of people would put it about live coding, and maybe even some of the other methods.
 

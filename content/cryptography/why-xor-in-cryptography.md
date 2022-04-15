@@ -38,15 +38,15 @@ Then the XOR cipher is certainly **impossible** to crack. This is known as a [on
 
 For instance, let's simply encrypt the word "hi"
 
-1\. First, convert "hi" to binary, here is a free tool: [https://www.rapidtables.com/convert/number/ascii-to-binary.html](https://www.rapidtables.com/convert/number/ascii-to-binary.html))
+1. First, convert "hi" to binary, here is a free tool: [https://www.rapidtables.com/convert/number/ascii-to-binary.html](https://www.rapidtables.com/convert/number/ascii-to-binary.html))
 
 01101000 01101001
 
-2\. Next, create a random secret key that has the same length:
+2. Next, create a random secret key that has the same length:
 
 01010010 01000101
 
-3\. Then, create an encrypted message by XOR'ing the message and the key:
+3. Then, create an encrypted message by XOR'ing the message and the key:
 
 01101000 01101001 ("hi")
 XOR
@@ -54,7 +54,7 @@ XOR
 =
 00111010 00101100 (encrypted message)
 
-4\. Finally, decrypt the message by XOR'ing the key with the encrypted message again:
+4. Finally, decrypt the message by XOR'ing the key with the encrypted message again:
 
 00111010 00101100 (encrypted message)
 XOR

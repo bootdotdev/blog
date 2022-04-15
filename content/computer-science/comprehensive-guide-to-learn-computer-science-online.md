@@ -56,15 +56,15 @@ A typical computer science undergraduate takes [4 years to complete their degree
 
 Keep in mind, getting a job usually requires more than just knowing your stuff. Getting [certificates](/computer-science/compsci-certificate-vs-degree/) and completing real projects along the way gives you something concrete to put on your resume that will fill in for the missing CS degree.
 
-### 1\. Watch Lectures on YouTube, not Tutorials
+### 1. Watch Lectures on YouTube, not Tutorials
 
 Tutorials and courses should involve coding, and I'll recommend some resources for doing that. Lectures on the other hand are useful for learning concepts that don't necessarily require hands-on experience. You can watch those videos over breakfast or on the train.
 
-### 2\. Get Involved in Dev Communities
+### 2. Get Involved in Dev Communities
 
 Do you browse Reddit, Twitter, or Facebook in your free time? Make a small change to your online content consumption and start reading about technology-related content instead, or in addition to what you already consume. Check out this [list of communities](/misc/top-12-best-communities-for-learning-to-code/) to make yourself a part of.
 
-### 3\. Interview and Get a Job Early (within the first year)
+### 3. Interview and Get a Job Early (within the first year)
 
 You are teaching yourself online, and the best way to catapult your education is to get an internship or entry-level job _as soon as you are able to_. Depending on the [kind of CS job](/computer-science/highest-paying-computer-science-jobs/) you're interested in, you can start earlier or later, as some require more or less experience.
 
@@ -298,7 +298,7 @@ Cryptography underpins the security of all digital applications. Valuable engine
 
 #### Resources
 
-- Boot.dev's [Practical Cryptography course](https://boot.dev/practical-cryptography-course/)
+- Boot.dev's [Practical Cryptography course](https://boot.dev/course/6321ddbf-49eb-4748-9737-6bc12e8bb705/4907b729-6a49-409c-a634-d64d357f9a8b/5c7bdecf-b3be-4947-aea6-749e2d1d96b4)
 - Christof Paar's [Youtube Lectures](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
 
 #### Goals

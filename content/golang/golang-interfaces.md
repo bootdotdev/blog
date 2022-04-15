@@ -66,7 +66,7 @@ Writing clean interfaces is **hard**. Frankly, anytime you're dealing with abstr
 2. [Interfaces should have no knowledge of satisfying types](#no-knowledge)
 3. [Interfaces are not classes](#not-classes)
 
-### 1\. Keep Interfaces Small
+### 1. Keep Interfaces Small
 
 If there is only one piece of advice that you take away from this article, make it this: **keep interfaces small!** Interfaces are meant to define the _minimal_ behavior necessary to accurately represent an idea or concept.
 
@@ -84,7 +84,7 @@ type File interface {
 
 Any type that satisfies the interface's behaviors can be considered by the HTTP package as a _File_. This is convenient because the HTTP package doesn't need to know if it's dealing with a file on disk, a network buffer, or a simple `[]byte`.
 
-### 2\. Interfaces Should Have No Knowledge of Satisfying Types
+### 2. Interfaces Should Have No Knowledge of Satisfying Types
 
 An interface should define what is necessary for other types to classify as a member of that interface. They shouldn't be aware of any types that happen to satisfy the interface at design time.
 
@@ -111,7 +111,7 @@ type firetruck interface {
 
 Which inherits the required methods from `car` and adds one additional required method to make the car a `firetruck`.
 
-### 3\. Interfaces Are Not Classes
+### 3. Interfaces Are Not Classes
 
 - Interfaces are not classes, they are slimmer.
 - Interfaces don't have constructors or deconstructors that require that data is created or destroyed.

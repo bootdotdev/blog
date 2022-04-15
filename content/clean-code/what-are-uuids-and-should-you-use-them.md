@@ -36,11 +36,11 @@ By using UUIDs (or another kind of universally unique ID) we can save ourselves 
 
 All I can really do is guess, but I have a couple of candidate hypotheses.
 
-### 1\. Making a UUID is slightly more complicated than just incrementing an integer
+### 1. Making a UUID is slightly more complicated than just incrementing an integer
 
 You have to have a bit of custom code that generates a specific format of the string, and you need to ensure that you have enough [entropy](/cryptography/what-is-entropy-in-cryptography/) in your system to ensure uniqueness.
 
-### 2\. They take up a bit more memory
+### 2. They take up a bit more memory
 
 UUIDs take up 128 bits in memory and can take up more if stored as a string. In systems where resources are precious, it could make sense to use a more compact format. That said, in modern web development, I think we'd be penny-wise and dollar-stupid to care about such negligible resource usage.
 

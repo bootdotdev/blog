@@ -12,7 +12,7 @@ Coding languages, tools, and frameworks are in a constant state of flux, improve
 
 As it happens, we support all four of the top languages on the [boot.dev app](https://boot.dev/), and have courses for JavaScript and Go, with Rust and Python courses in active development. If you are interested in furthering your career, be sure to check it out.
 
-## 1\. JavaScript
+## 1. JavaScript
 
 _Created: 1995 by Brendan Eich_
 
@@ -30,7 +30,7 @@ Anyone who wants to get up and running building web applications as quickly as p
 
 {{< cta1 >}}
 
-## 2\. Go
+## 2. Go
 
 _Version one released: 2012 by Google_
 
@@ -54,7 +54,7 @@ Anyone interested in DevOps or backend development should learn Go. You will lik
 
 [Stack Overflow](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states)
 
-## 3\. Python
+## 3. Python
 
 _Created: 1991 by Guido van Rossum_
 
@@ -74,7 +74,7 @@ Python is great for educational purposes, particularly for learning computer sci
 
 Python is also a great first choice if you have an interest in machine learning. Python is basically the go-to language for AI/ML and Tensorflow is the state of the art in that field.
 
-## 4\. Rust
+## 4. Rust
 
 _Version one released: 2015 by Graydon Hoare_
 

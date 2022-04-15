@@ -38,7 +38,7 @@ We create two keys, a public key, and a private key. The public key is given fre
 
 Let’s pretend that Facebook is going to receive a private post from Donald Trump. Facebook needs to be able to ensure that when the ex-president sends his post over the internet, no one in the middle (Like the NSA, or an internet service provider) can read the message. The entire exchange using public-key cryptography would go like this:
 
-- Donald Trump Notifies Facebook that he wants to send them a private post
+- Donald Trump notifies Facebook that he wants to send them a private post
 - Facebook sends Donald Trump their public key
 - Donald Trump uses the public key to encrypt his post:
 
@@ -58,7 +58,7 @@ As you can see, this form of encryption can be quite useful. Here are some key p
 
 ## How it Works: The Trapdoor Function
 
-The crux of all public-key cryptographic algorithms is that they each have their own unique trapdoor function**.** A trapdoor function is a function that can only be computed one way, or at least can only be computed one way _easily_ (in less than millions of years using modern computers).
+The crux of all public-key cryptographic algorithms is that they each have their own unique trapdoor function. A trapdoor function is a function that can only be computed one way, or at least can only be computed one way _easily_ (in less than millions of years using modern computers).
 
 ### Not a trapdoor function:
 
@@ -112,11 +112,11 @@ Public Key: Starting Point A, Ending Point E
 
 Private Key: Number of hops from A to E
 
-## Some Elliptic Curve Cryptography Questions, Answered
+## Answers to some elliptic curve cryptography questions
 
 Here are a few questions I had when I first learned about ECC. Hopefully, I can address them properly.
 
-### 1\. How is the second point found? If the dot function is basically drawing a line between two points, don’t you need a second point to start with?
+### 1. How is the second point found? If the dot function is basically drawing a line between two points, don’t you need a second point to start with?
 
 No. The second point (we will call it -R below) is actually the result of P dot P (let’s assume the first point is called P)
 
@@ -128,7 +128,7 @@ So what is `P dot P`? It is actually just the tangent line of P. See the graphic
 
 [Image Source](https://devcentral.f5.com/articles/real-cryptography-has-curves-making-the-case-for-ecc-20832)
 
-### 2\. What happens if the dot function produces a line that will go way off out to some extreme?
+### 2. What happens if the dot function produces a line that will go way off out to some extreme?
 
 If the line doesn’t hit the curve close to the origin, we can actually define a maximum X value where the line will wrap back around and start from the beginning again. See the graphic below for an example.
 
@@ -136,7 +136,7 @@ If the line doesn’t hit the curve close to the origin, we can actually define 
 
 [Image Source](https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/2/)
 
-### 3\. If the number of hops is the private key, can't I just count the hops until I hit the endpoint?
+### 3. If the number of hops is the private key, can't I just count the hops until I hit the endpoint?
 
 Nope! The number of hops is _very_ large, something like `2^256`. It would take far too long to compute each hop one by one, for example `p dot p dot p dot p ...`.
 
@@ -146,4 +146,4 @@ If however, you know the number of hops you can use an [exponentiation](https://
 
 ECC is used as the cryptographic key algorithm in Bitcoin because it potentially can save ~90% of the resources used by a similar RSA system. It seems that each year we see more systems moving from RSA to a more modern elliptic curve approach.
 
-**If you want to learn more about cryptography**, try our [Practical Cryptography course](https://boot.dev/practical-cryptography-course/) for free.
+**If you want to learn more about cryptography**, try our [Practical Cryptography course](https://boot.dev/course/6321ddbf-49eb-4748-9737-6bc12e8bb705/4907b729-6a49-409c-a634-d64d357f9a8b/5c7bdecf-b3be-4947-aea6-749e2d1d96b4) for free.

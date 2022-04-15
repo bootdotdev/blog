@@ -48,7 +48,7 @@ func countNamesInText(text string) {
 
 This function is impure for a couple reasons. Let's examine each one.
 
-### 1\. Program state is mutated by calling countNamesInText()
+### 1. Program state is mutated by calling countNamesInText()
 
 Instead of mutating a global variable as a means of "returning" data to the caller, we should return the data via a `return` statement:
 
@@ -67,7 +67,7 @@ func countNamesInText(text string) int {
 
 Now `countNamesInText` is _more_ "pure" because it will not change the application's state, though you may have noticed that we still have another problem.
 
-### 2\. Database Argument
+### 2. Database Argument
 
 `countNamesInText` is still impure because the "name" value, which affects the result of the function call, is retrieved from a database. In order for our function to be self-contained, that value should instead be passed as a parameter.
 

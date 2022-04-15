@@ -32,7 +32,7 @@ Even though Python is a general-purpose language, this article gives you 10 soli
 | 10. Python gives you job security beyond data science.                   |
 
 
-## 1\. Python is easy to learn
+## 1. Python is easy to learn
 
 Coding can be intimidating, especially for a beginner. But Python is the exception. It has a remarkably simple syntax and vocabulary so you can pick it up relatively quickly, especially compared to more complex languages like C, C++, and Java. Python, for data scientists, is an obvious choice of a language to learn.
 
@@ -40,7 +40,7 @@ It’s so simple that Next Academy actually recommends it as a [great choice](ht
 
 If you want to get into data science, Python is a great choice of coding language because you can add it to your tool belt pretty quickly and with a minimum of pain. Learning data science with Python for beginners can be a simple solution.
 
-## 2\. It’s easy to read
+## 2. It’s easy to read
 
 Python has a clean and simple syntax that mirrors English, so whatever you build will be understood by you and many people, even if they’re not Pythonistas themselves.
 
@@ -50,7 +50,7 @@ You’ll be reading lots of code as well as sharing it with your coworkers (or s
 
 {{< cta1 >}}
 
-## 3\. It’s popular
+## 3. It’s popular
 
 If you learn Python, you’ll be one of many. It’s one of the most widely used languages in data science (and elsewhere). It’s the third-most widely used language in the world according to [TIOBE’s 2020 index](https://www.tiobe.com/tiobe-index/). And in data science specifically, it’s [emerged as the leader](https://marutitech.com/python-data-science/), outstripping my old favorite language R. 
 
@@ -58,7 +58,7 @@ As I alluded to above, many companies are using Python to build frameworks and p
 
 If you want to get into data science, you won’t get far without knowing at least some Python. Luckily it’s a joy to learn!
 
-## 4\. Huge Community of Pythonistas
+## 4. Huge Community of Pythonistas
 
 I remember when I learned the name of someone who codes in Python: a Pythonista. I loved it. And one of the prime benefits of learning Python for data science is that you’ll get access to an incredible community of Pythonistas and become one yourself. (There are more benefits than just the cool name.)
 
@@ -66,7 +66,7 @@ Because it’s been around for three decades, because it is easy to learn and ea
 
 The reason this makes learning python such a great choice for data science is because learning any kind of language is hard, especially if you’re feeling professional pressure. Communities like the ones that have sprung up around Python make that easier.
 
-## 5\. Comprehensive set of data science libraries
+## 5. Comprehensive set of data science libraries
 
 Python as a language for data science rocks on its own. But on top of the simple syntax, easy vocab, readability, community, and every other benefit I’ve already listed, there are the libraries. Libraries like Pandas, statsmodels, NumPy, SciPy, and Scikit-Learn are very popular in the data science communities. 
 
@@ -76,7 +76,7 @@ The really exciting thing is that new Python packages for data science are being
 
 {{< cta2 >}}
 
-## 6\. Teaches the basics
+## 6. Teaches the basics
 
 Even though Python has a practically unlimited number of applications, there’s actually a lot of overlap between learning Python and data science. You can easily learn data science basics with Python just by running through some basic tutorials. Data scientists use Python for retrieving, cleaning, visualizing and building models - so if you want to use Python to learn data science, that’s where you can start.
 
@@ -84,7 +84,7 @@ As you go through the standard track of learning how to code in Python, you’ll
 
 As long as you keep typical data science tasks in mind as you look for Python tutorials, you’ll easily be able to find plenty of resources that teach you Python - and simultaneously teach you Python for data science, specifically. Learning basic Python for data science is a natural learning path.
 
-## 7\. Data cleaning is a breeze
+## 7. Data cleaning is a breeze
 
 The phrase “data science,” for me, conjures up images of Neo in the Matrix wearing a cool coat and doing cool stuff. A lot of people don’t realize data science is a LOT of much-less-glamorous data cleaning. Conservative estimates place data cleaning at 80% of a data scientist’s typical workload. But good news: Python is great at that!
 
@@ -92,7 +92,7 @@ If you want to get into data science, you need to come to terms with the fact th
 
 Two of the libraries I mentioned early, NumPy and Pandas, are [really great](https://realpython.com/python-data-cleaning-numpy-pandas/) at cleaning data. 
 
-## 8\. Communication
+## 8. Communication
 
 After you’re done cleaning your data, the next biggest component is communicating your findings. Data science is not just lines of code - it means communicating results of key stakeholders. A good viz is crucial for that. 
 
@@ -102,7 +102,7 @@ A lot of people assume data science stops at the analysis, but like everything e
 
 Python has a lot of great tools to make easy visualizations, like the very basic matplotlib and its two children Pandas and seaborn (both built on matplotlib). If you can easily make a good viz to communicate or illustrate the data, the battle is half won. Python makes that easy.
 
-## 9\. Quick prototypes
+## 9. Quick prototypes
 
 A little-known fact is that data scientist projects are expensive. In fact, Chris Chapo, the SVP of data and analytics at Gap [once said](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/) that “87% data projects will fail.” It takes time, energy, resources and a lot of patience to build something that works.
 
@@ -114,7 +114,7 @@ The authors of Fuzzing Book [wrote](https://www.fuzzingbook.org/beta/html/Protot
 
 Python makes it easy to run dynamic analysis (analyzing program execution as it runs) and static analysis (analyzing code without running it), both of which make prototyping a dream.
 
-## 10\. Job security
+## 10. Job security
 
 This article is about why it makes sense to learn python for data science. But… many occupations and career paths that once seemed as stable as mountains faded away, or were replaced with algorithms.
 

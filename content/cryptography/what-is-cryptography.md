@@ -209,4 +209,4 @@ Cryptology is a _very_ young science. Although humans have had rudimentary forms
 
 **For beginners:** If you've been inspired to learn cryptography as a beginner to coding and computer science, we have an entire computer science course curriculum to take you from complete beginner to graduate level. As cryptography is a more advanced topic, we suggest you start with our [Intro to Coding with JavaScript courses](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb).
 
-**For experienced coders:** We recommend our [Practical Cryptography course](https://boot.dev/practical-cryptography-course/) which covers everything from the basics of encryption and brute force attacks to stream ciphers, block ciphers, and hash functions.
+**For experienced coders:** We recommend our [Practical Cryptography course](https://boot.dev/course/6321ddbf-49eb-4748-9737-6bc12e8bb705/4907b729-6a49-409c-a634-d64d357f9a8b/5c7bdecf-b3be-4947-aea6-749e2d1d96b4) which covers everything from the basics of encryption and brute force attacks to stream ciphers, block ciphers, and hash functions.

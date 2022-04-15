@@ -24,7 +24,7 @@ In this article we’ll compare and contrast:
 
 First, let's recap the difference between a _language_ and a _framework_. A language is syntax, grammar, semantics (and sometimes a core library) that implementers are required to support. A framework is an additional cohesive set of code that provides high-level tools for programming in any given language.
 
-## 1\. JavaScript (and TypeScript)
+## 1. JavaScript (and TypeScript)
 
 ### What Is It?
 
@@ -46,7 +46,7 @@ There are over [1.6 billion](https://medium.com/javascript-scene/how-popular-is-
 
 {{< cta1 >}}
 
-## 2\. Go (Golang)
+## 2. Go (Golang)
 
 ### What Is It?
 
@@ -62,7 +62,7 @@ Thanks to its simple and modern structure, [Go is quite easy for new developers]
 
 Go is incredibly popular with back-end developers due to its inherently simple, readable, and maintainable code. It is currently used by companies such as Uber, Twitch, Soundcloud, and others. 
 
-## 3\. Ruby (on Rails)
+## 3. Ruby (on Rails)
 
 ### What Is It?
 
@@ -96,7 +96,7 @@ It’s important to note that security and debugging can sometimes be difficult 
 
 Rails is used by companies running the gamut from small start-ups to giants like Twitter, Hulu, GitHub, Groupon, and more. 
 
-## 4\. Python (Django and Flask)
+## 4. Python (Django and Flask)
 
 ### What Is It?
 
@@ -121,7 +121,7 @@ Traditionally, Python has been very widely used in the following industries:
 
 {{< cta2 >}}
 
-## 5\. Java
+## 5. Java
 
 ### What Is It?
 
@@ -139,7 +139,7 @@ Many tout that Java is much easier to learn than the likes of C or C++. However,
 
 Java is the primary language used by some of the most influential software companies around, including IBM and Oracle. In addition, most native Android apps for smartphones and tablets are coded in Java.
 
-## 6\. C#
+## 6. C#
 
 ### What Is It?
 
@@ -155,7 +155,7 @@ While many get C# confused with languages of a similar name such as C and C++, C
 
 C# is (not surprisingly) the primary language used by developers working with Microsoft technologies (including) Windows phone apps. It’s also used for the popular game development engine, Unity, as the primary language.
 
-## 7\. Elixir
+## 7. Elixir
 
 ### What Is It?
 
@@ -173,7 +173,7 @@ Elixir was born by leveraging lessons learned from languages like Ruby with the 
 
 Many well-known companies use Elixir for a wide variety of uses. Pepsi uses Elixir for marketing automation and supply chain optimization. Pinterest utilizes Elixir to speed up the performance of their notification system. Moz switched to Elixir from Ruby in order to use smaller data files and improve the speed of their API. 
 
-## 8\. PHP
+## 8. PHP
 
 ### What Is It?
 

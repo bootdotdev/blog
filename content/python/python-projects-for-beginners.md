@@ -20,7 +20,7 @@ Full disclosure, some of these will be harder than your usual Python projects fo
 
 These Python projects for beginners come straight from the source: they use vanilla Python, or they use some really cool Python packages. These Python projects for beginners will be loaded with helpful docs, commentary, and experiences of other Python beginners who have tried and loved these projects.
 
-### [1\. Make a Twitter bot with \`Tweepy\`](https://realpython.com/twitter-bot-python-tweepy/)
+### [1. Make a Twitter bot with \`Tweepy\`](https://realpython.com/twitter-bot-python-tweepy/)
 
 Obsessed with social media? Me, too. I follow several bots (like [this hilarious one](https://twitter.com/kauIhiIoshudon) based on a great book I read) and always wondered how to make one.
 
@@ -28,13 +28,13 @@ While this tutorial sounds advanced for a Python beginner, it's also something t
 
 Yes, it's a lot of work! But it'll be fun, it'll teach you a lot of skills, and be interesting enough to keep you going through the sticky patches.
 
-### [2\. Write a Create Your Own Adventure script](https://coding-grace-guide.readthedocs.io/en/latest/guide/lessonplans/beginners-python-text-based-adventure.html)
+### [2. Write a Create Your Own Adventure script](https://coding-grace-guide.readthedocs.io/en/latest/guide/lessonplans/beginners-python-text-based-adventure.html)
 
 I used to love these books when I was a kid, and I was really excited to learn that you can create your own using Python! This tutorial is great because it runs through every single step you'll need and explains a lot of the background code you'll be using.
 
 It's also great because in the end, you'll have created something by yourself with your own hands, that you really love. It's something you can share with friends, with family, with strangers on the internet. Let your creativity take over and use these Python projects for beginners to learn the basics.
 
-### [3\. Create a blog](https://djangocentral.com/building-a-blog-application-with-django/)
+### [3. Create a blog](https://djangocentral.com/building-a-blog-application-with-django/)
 
 Hey, you're reading this on a blog! Guess what? You can make a blog using a combination of Python and Django.
 
@@ -44,7 +44,7 @@ This uses a common Python framework called Django. Django is an open-source web 
 
 This project is perfect if you have something to say and need a place to say it. As a bonus, you can use your Python-built blog to impress potential employers and land your dream Python job.
 
-### 4\. Make a login system, [Part 1](https://www.youtube.com/watch?v=RHu3mQodroM) and [Part 2](https://www.youtube.com/watch?v=SUC1aTu092w&t=0s)
+### 4. Make a login system, [Part 1](https://www.youtube.com/watch?v=RHu3mQodroM) and [Part 2](https://www.youtube.com/watch?v=SUC1aTu092w&t=0s)
 
 This Python project for beginners is great for anybody who wants to be a future web developer. Every good website needs a login system, and the great news is you can do that with Python. This option is less of a passion project and more of a practical project but it will teach you a lot of skills you need and the outcome is an interactive system that really works.
 
@@ -52,7 +52,7 @@ Rather than a written tutorial, you should watch these two YouTube videos to lea
 
 Part one is about 25 minutes long, while part two is 32 minutes long. 
 
-### [5\. Connect Python to StackOverflow](https://pypi.org/project/howdoi/)
+### [5. Connect Python to StackOverflow](https://pypi.org/project/howdoi/)
 
 Think of this option as less of a project for Python beginners, and more of something I think should be a requirement for every Python user ever. 
 
@@ -68,7 +68,7 @@ Once you acknowledge how much time you spend Googling things, you'll realize the
 
 While some of the best Python beginner projects are based on straight Python or use a couple of Python packages, you can also use courses as a way to do a more interactive, guided project. These options are billed as courses that teach you Python, but optionally can be used to complete your first Python project.
 
-### [6\. Complete Our Python Course](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/)
+### [6. Complete Our Python Course](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/)
 
 There are tons of courses online to learn Python, but with boot.dev you build the components of a real-life application - a movie review app.
 
@@ -78,13 +78,13 @@ Our first course, Python Fundamentals, is designed to take you from a complete b
 
 [Learn Python with boot.dev Here](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/)
 
-### [7\. Coursera’s Python Project option](https://www.coursera.org/learn/python-project-for-data-science)
+### [7. Coursera’s Python Project option](https://www.coursera.org/learn/python-project-for-data-science)
 
 Coursera is normally what I recommend to people who want to secure a certificate for their Python experience, and not necessarily as a source of Python projects for beginners. However, it also is replete with courses that either act as a project or let you select a project yourself. 
 
 For example, this Python project for data science is intended for you to demonstrate foundational Python skills for working with data. It has a bunch of lectures, but you'll also be doing a hands-on project developing a simple dashboard using Python.
 
-### [8\. YouTube lectures](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
+### [8. YouTube lectures](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
 
 Have you ever wanted to make a neural network that makes images become really trippy using Python and Tensorflow, mimicking the effects of hallucinogenic drugs? Well, who wouldn’t? And now you can learn how with [t](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)h[is](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5) YouTube lecture/tutorial.
 
@@ -94,7 +94,7 @@ We also have an article on [Python for data science](https://boot.dev/python/pyt
 
 If you’re not a fan of this particular Python project for beginners, you can check out his other videos to see if there’s a project that does grab your attention.
 
-### [9\. LinkedIn Learning](https://www.linkedin.com/learning/python-projects)
+### [9. LinkedIn Learning](https://www.linkedin.com/learning/python-projects)
 
 It surprised me to learn this as well, but it turns out LinkedIn is more than just a place for CEOs to make grandstanding claims about how cool their company is.
 
@@ -108,19 +108,19 @@ Ah, GitHub, one of my favorite places on the internet. GitHub is an awesome reso
 
 As you can imagine, that makes it a great place to find some awesome Python project ideas for beginners. These are my favorite three - definitely more simple beginner Python projects than others on this list - but feel free to explore for yourself and discover your own.
 
-### [10\. Matchmaker game](https://github.com/ndleah/python-mini-project/tree/main/Matchmaker)
+### [10. Matchmaker game](https://github.com/ndleah/python-mini-project/tree/main/Matchmaker)
 
 This tutorial is billed as a mini-project, and that's absolutely the reality. All you need to do to run this game is open a terminal in the folder where your script is located and run the following command: \`Python Matchmaker.py\`.
 
 That's it, it's up and running! What I love about this Python project for beginners is that it teaches you the basics, and it lets you see the power of Python. I consider it to be a little bit better than the Hello World example at getting Python beginners invested in learning Python.
 
-### [11\. Madlibs](https://github.com/ShrutiSolani/python-mini-project/tree/main/Madlibs)
+### [11. Madlibs](https://github.com/ShrutiSolani/python-mini-project/tree/main/Madlibs)
 
 Who didn't love Mad Libs as a kid? This tutorial is another really simple mini-project that will help you get to terms with a lot of the basic Python environment elements and is just a fun way to see how cool Python can be.
 
 All you need to do is install the random module and then head over to the directory where your Python file is saved and run the following command: `python madlibs.py`
 
-### [12\. Count Instagram followers and likes](https://github.com/ankitdobhal/Awesome-Python-Scripts/blob/master/Web-Scraping/Instagram/instagram_count.py)
+### [12. Count Instagram followers and likes](https://github.com/ankitdobhal/Awesome-Python-Scripts/blob/master/Web-Scraping/Instagram/instagram_count.py)
 
 This project is for another one of the social media addicts out there like me. It's a script that counts the number of followings, followers, and posts of any account. It takes the username from the terminal and shows you the output.
 
@@ -134,31 +134,31 @@ With the state of the internet today, you can really easily find data from prett
 
 Here are five great sources of internet data you can use to create your very own basic Python project for beginners. Consider these simple Python projects just a place to start.
 
-### [13\. 538](https://data.fivethirtyeight.com/)
+### [13. 538](https://data.fivethirtyeight.com/)
 
 Nate Silver gets regularly dunked on these days, but the good news is his website 538 is still a really cool place to find easy beginner Python projects. Just check out this website and scroll down the list to see if there's anything that's interesting to you. 
 
 It's constantly updating, so right now I'm looking at club soccer predictions, MLB predictions,  political predictions, and more. Have a look for yourself and see what you want to dive into. See how 538 ran their analyses, and do your own alongside.
 
-### [14\. Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
+### [14. Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
 
 This is slightly cheeky because these programming projects are originally intended to be for R rather than Python. But they're both great languages for data science. The Tidy Tuesday GitHub repo has new data every single Tuesday as well as some interesting ideas for beginner projects with Python and visualization ideas that you can borrow.
 
 Examples from the past few weeks include Transit costs, art collections, the Kenya census, wealth and income, and a lot more. Let yourself be inspired by the data or even the projects that other people are doing around that data.
 
-### [15\. Buzzfeed](https://github.com/BuzzFeedNews)
+### [15. Buzzfeed](https://github.com/BuzzFeedNews)
 
 Yep, I know, they do more than quizzes! Their GitHub repo is another fantastic source of open source data, analyses, libraries, tools and guides. Have a look, see what interests you, and start analyzing!
 
 They look at H2 Visa certification data, firearm background checks, political donations, nursing home data, and more.
 
-### [16\. NASA](https://pds.nasa.gov/datasearch/data-search/)
+### [16. NASA](https://pds.nasa.gov/datasearch/data-search/)
 
 Space represents one of the greatest mysteries of our time. If you ever dreamed of being an astronaut, like me, this might be the place for you to investigate data. The planetary data system run by NASA Offers data based on tons of different targets that you can choose, including comets, asteroids, all the planets, and even solar wind. 
 
 This potential project might be a challenge for Python beginners, but if this is the kind of data that interests you, it'll be worth it.
 
-### [17\. AWS](https://github.com/awslabs/open-data-registry/)
+### [17. AWS](https://github.com/awslabs/open-data-registry/)
 
 It shouldn't be a surprise to anybody that AWS has an [absolutely enormous registry of open data](https://registry.opendata.aws/). They have data sets from the Allen Institute for AI, Digital Earth Africa, Facebook data for good, more stuff from NASA, and even an Amazon sustainability data initiative. 
 

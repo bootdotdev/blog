@@ -24,7 +24,7 @@ In other words, attackers should be allowed to know our algorithms inside and ou
 
 There are several reasons as to why this is a good rule to live by, let's examine each one.
 
-## 1\. Obfuscation Isn't Encryption
+## 1. Obfuscation Isn't Encryption
 
 If a developer is operating under the assumption that attackers won't know about the details of their code, they may be tempted to try to build in security that is dependent on that.
 
@@ -38,7 +38,7 @@ When something needs to be kept secret, always encrypt.
 
 {{< cta1 >}}
 
-## 2\. You Probably Suck
+## 2. You Probably Suck
 
 If you roll your own crypto, you are likely to overlook vulnerabilities that have been accounted for in open-source versions. By the way, I don't mean that you specifically suck at writing crypto, I mean that no one person (or organization) can reasonably be responsible for vetting all possible attack vectors. Open-source allows the worldwide developer community to help expose problems with the code.
 
@@ -46,7 +46,7 @@ If you roll your own crypto, you are likely to overlook vulnerabilities that hav
 
 Not only are you likely to have problems in underlying mathematics and algorithms, but it is likely that your application-level implementation will also have vulnerabilities. There are no industry standard best practices to follow for your custom algorithms.
 
-## 3\. Get New Updates
+## 3. Get New Updates
 
 By using popular crypto libraries that are regularly updated, your code won't be vulnerable to the recently discovered attacks on the algorithms you are using.
 

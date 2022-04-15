@@ -32,7 +32,7 @@ That should give you enough context to help you understand the basics of the Rub
 | Which language will be best for the future?                               | Python (with caveats)                  |
 
 
-## 1\. Ruby vs Python: Which is most popular?
+## 1. Ruby vs Python: Which is most popular?
 
 Both Ruby and Python are much-loved languages among the developer Community. But there's no question about which is more popular - it’s Python. Looking at the [2020 StackOverflow developer survey](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-programming-scripting-and-markup-languages), you can see that Python traded places with SQL to become the third most popular language for developers. You have to scroll down quite a way to see Ruby, which comes in at a lowly 17. 
 
@@ -40,7 +40,7 @@ Ruby was definitely more popular a couple of years ago, but in the developer com
 
 It's not just among enthusiasts where Python is more popular. If you want to get a job, remote jobs at StackOverflow show 5x as many results when you search for [Python](https://stackoverflow.com/jobs?q=python) vs. [Ruby](https://stackoverflow.com/jobs?q=ruby). 
 
-## 2\. Ruby vs Python: Which is best for beginners?
+## 2. Ruby vs Python: Which is best for beginners?
 
 If you're a novice coder like me, there's no question when choosing which is best for beginners: it’s Python. When looking at Ruby vs Python for syntax, Python’s syntax is super clear to read and write, very similar to English. This is what makes it really good for beginners to pick up and start getting to grips with the coding concepts.
 
@@ -50,7 +50,7 @@ Additionally, I might be biased, but I found the Python community to be exceptio
 
 {{< cta1 >}}
 
-## 3\. Ruby vs Python: Which performs best?
+## 3. Ruby vs Python: Which performs best?
 
 No matter whether you're a beginner or an expert coder, you're probably wondering which language performs the best. It may not matter a lot when you're just beginning, but when you want to do something more ambitious and work or as a hobby, the performance of a language will matter.
 
@@ -60,7 +60,7 @@ The author points out that if you're really looking at pure language performance
 
 I agree, so I won't pick a winner in terms of performance or benchmarking between Ruby versus python. If you have a specific task in mind, I recommend you check through the post yourself and see the various instances where Python shines over Ruby or vice versa.
 
-## 4\. Ruby vs Python: Which is best for web development?
+## 4. Ruby vs Python: Which is best for web development?
 
 This is actually a question of Ruby on Rails versus Python, or Python’s web app framework, Django.
 
@@ -70,7 +70,7 @@ That being said, Python’s web-app framework "Django" is a viable second option
 
 So, Ruby or Python for web development? Both frameworks give you the generic functionalities to build a web application; they help you reuse code which saves you time, money, and energy - pretty much everything you value as a developer. I'd recommend using Django for the same reasons you use Python – if you're relying on machine learning and AI for core features. If you're expecting rapid prototyping, fast growth, and lots of changes down the road, I'd recommend Ruby on Rails.
 
-## 5\. Ruby vs Python: Which is best for your career?
+## 5. Ruby vs Python: Which is best for your career?
 
 Python vs Ruby: the jobs edition. I'd recommend Python to help you get your foot in the door as a developer. However, if you enjoy the rough and tumble of startup life later in your career, learning Ruby and Rails could be extremely valuable.
 
@@ -82,13 +82,13 @@ However, there's a huge demand for specialized Ruby Developers. Remember how man
 
 {{< cta2 >}}
 
-## 6\. Ruby vs Python: Which is best for Artificial Intelligence/Machine Learning/Deep Learning?
+## 6. Ruby vs Python: Which is best for Artificial Intelligence/Machine Learning/Deep Learning?
 
 As I mentioned in the section above, Python’s strength is definitely in AI/machine learning/deep learning (all of which are kind of the same thing). There's no particular reason why Python is better, other than the fact that there is a rich ecosystem of libraries and frameworks around AI, machine learning, and deep learning. Libraries include Scikit, NumPy, TensorFlow, Keras, and more.
 
 Plus, new libraries are developed and shared on a regular basis. Ruby is mostly used for Ruby on Rails, whose usefulness kind of caps out at web application development.
 
-## 7\. Ruby vs Python: Which is best for productivity?
+## 7. Ruby vs Python: Which is best for productivity?
 
 The nice thing about both Ruby _and_ Python is that both have exceptional frameworks and shortcuts that I've been talking about this whole time. They're built to be reusable, scalable, and help you develop good coding habits that will make you more productive down the line, no matter what language you learn.
 
@@ -98,13 +98,13 @@ I found the [Ruby on Rails Doctrine](https://rubyonrails.org/doctrine/) really i
 
 Read both, decide which one you identify with more strongly, and there's your answer of which is more productive between Ruby and Python.
 
-## 8\. Ruby vs Python: Which is more readable?
+## 8. Ruby vs Python: Which is more readable?
 
 Should you choose the Ruby programming language vs Python for readability? This is another easy one -  Python is found universally to have simpler syntax than Ruby. For some people, it can actually be kind of annoying because it's so strict when it comes to code indentation and white space. That being said, its readability is part of what's driven its huge adoption in popularity especially in the data science field.
 
 However, it's not like Ruby is dense and difficult to read. It produces elegant and readable code, and allows for developers to retain their originality and creativity when it comes to writing code. This is because Ruby offers multiple solutions to the same problem, unlike python. I find this makes it slightly less readable than Python, but it's not as bad as something like Perl.
 
-## 9\. Ruby vs Python: Which is more innovative?
+## 9. Ruby vs Python: Which is more innovative?
 
 Ruby coders love to tout [Ruby’s development model](https://www.educba.com/python-vs-ruby-performance/) of “move fast and break things.” This means it's likely more innovative than Python, or at least used in more modern projects. Python has had a slow, steady growth over the years.
 
@@ -112,7 +112,7 @@ Coding in Ruby encourages diverse and different solutions to similar problems, R
 
 Python’s growth and development is slower, but very much present. There are new packages arriving on a regular basis, and their adoption tends to be pretty stable and universal. For example, TensorFlow was only [released](https://en.wikipedia.org/wiki/TensorFlow) six years ago by Google. However, today it's recognized and used as the de facto machine learning and AI library.
 
-## 10\. Ruby vs Python: Which language will be best for the future?
+## 10. Ruby vs Python: Which language will be best for the future?
 
 If I had a crystal ball, I would peer into it right now to ask this question. It's the most important question any new coder can ask themselves: which language has the biggest potential for the future? Which language will empower me to make the best career choice in five years’ time?
 

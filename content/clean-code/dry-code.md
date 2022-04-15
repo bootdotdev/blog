@@ -124,13 +124,13 @@ export async function updateUserInterests(interestUUIDs) {
 
 Seems like a good idea to reduce code duplication right? Well, yes, in general it is. That said, let's look at some of the drawbacks that come along with too much centralization.
 
-### 1\. Too many abstractions
+### 1. Too many abstractions
 
 Sometimes code is the same at a given point in time, but later on, it becomes distinct in some way. It's really hard to guarantee that duplicate blocks of code will remain perfect copies of each other forever. A hypothetical example of this would be if the Facebook and Instagram APIs had the exact same way to create a social post. Just because they're _coincidentally_ the same, probably doesn't mean that the logic should only be written once.
 
 The solution is likely to remain disciplined about splitting out code that, while it may be similar now, is only _coincidentally_ similar. We should try to only merge code that's _fundamentally_ the same. A great example would be a math function like `log2`. That function should work for every case where you need to calculate a logarithm - each call is _fundamentally_ the same.
 
-### 2\. External dependency creation
+### 2. External dependency creation
 
 If two different projects share the same logic, it can often make sense to centralize it in a library package. While this is often a great idea, it can add overhead and can end up being more trouble than it's worth. For example, even if the abstraction makes sense, you're definitely adding at least the following complexity to the project:
 
@@ -139,7 +139,7 @@ If two different projects share the same logic, it can often make sense to centr
 - Often involves more remote infrastructure like NPM or PyPy
 - Gets harder to make "breaking" changes to the libraries core functions - requires a higher standard of code quality and architecture
 
-### 3\. Localization complexity
+### 3. Localization complexity
 
 When debugging or reading code, it would be easiest if the flow of logic started at the top of a file and flowed in a linear path. For example:
 
@@ -160,19 +160,19 @@ With a highly compartmentalized project, when we see a function called `getUser`
 
 Since no code is perfect, we need to make use of some heuristics (rules of thumb), to try to work towards a cleaner codebase.
 
-### 1\. WET code, or the rule of three
+### 1. WET code, or the rule of three
 
 WET is a better rule of thumb in my opinion than DRY.
 
 WET stands for "write everything twice", and forces you to think a bit harder about whether or not a piece of logic _deserves_ an abstraction. The rule of three is an alternative that says you should wait until you've written something three times before breaking it out.
 
-### 2\. Is it testable?
+### 2. Is it testable?
 
 Most functions should be predictable and testable. They should behave like math functions or [pure functions](/golang/pure-functions-in-golang/) - given a set of inputs you'll always receive the same outputs, and the state of the program isn't mutated. If the code you're thinking about condensing into a function can be a pure function, then it's likely a better idea than if it were an impure function.
 
 Pure functions are easy to write good unit tests for - if your abstraction is easily testable it's more likely to be a good abstraction.
 
-### 3\. Are there special cases or arguments only used by a fraction of callers?
+### 3. Are there special cases or arguments only used by a fraction of callers?
 
 Take a look at the following example:
 

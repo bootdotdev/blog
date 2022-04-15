@@ -32,7 +32,7 @@ Python is dynamically and strongly typed, helping detect any errors you’ve mad
 
 Here are our top 9 reasons why you should learn Python this year:
 
-### 1\. Python is incredibly versatile
+### 1. Python is incredibly versatile
 
 Python was originally popular back in the 90s for scripting and automation — and many Python developers will have read the infamous "[Automate The Boring Stuff](https://automatetheboringstuff.com/)" book for Python scripting.
 
@@ -42,7 +42,7 @@ Research by [ActiveState](https://www.activestate.com/wp-content/uploads/2019/04
 
 Not only does it serve so many industries, but it’s also incredibly versatile in how it works and adapts. You can seamlessly program in Python on Windows, Mac, or Linux, and you can even perform cross-language operations, for example, to call Java or C++ code.
 
-### 2\. Python is easy to learn and write
+### 2. Python is easy to learn and write
 
 Python is widely considered a very easy language to learn and write. Guido van Rossum focused on making it as simple and lean as possible, getting rid of anything complex, and keeping only what’s necessary.
 
@@ -54,7 +54,7 @@ The readability and efficiency make Python one of the easiest languages to learn
 
 [A WP Engine survey](https://wpengine.co.uk/developers-feel-programming-languages/) found that developers considered Python the world’s second easiest-to-learn programming language — only more difficult to learn than HTML!
 
-### 3\. Enormous community and huge range of libraries and frameworks
+### 3. Enormous community and huge range of libraries and frameworks
 
 One of the biggest advantages of being such a popular language is the large community that surrounds it. Beyond just the Python community as a whole, sub-communities discussing and advising on areas like machine learning, AI and web development are an invaluable source of information and inspiration — especially when you’re just getting started and learning the ropes.
 
@@ -77,7 +77,7 @@ Most Popular Python Libraries
 
 And this popularity also means it’s frequently updated — many updates have been introduced in just the last few years, bringing general performance increases and more natively built-in functions. Python updates are launched generally every 1-2 months.
 
-### 4\. Wide use in data science and machine learning
+### 4. Wide use in data science and machine learning
 
 R was long considered the gold standard for data science programming languages, but Python has emerged as a serious contender for R’s crown.
 
@@ -87,7 +87,7 @@ Dig deeper with our article [comparing R vs Python](https://boot.dev/python/r-vs
 
 Python is also considered more scalable and overall easier to maintain than R. Python data science packages like NumPy and Pandas greatly add to your data science capabilities, and Python is also used extensively to collect and conduct research for machine learning and AI, with frameworks such as Google’s TensorFlow also available.
 
-### 5\. High paid and very in demand by employers
+### 5. High paid and very in demand by employers
 
 [StackOverflow's 2020 survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted) named Python the most wanted programming language by developers. More and more devs see the value in Python and are looking to learn in order to meet the enormous glut in demand for Python programmers wanted by employers worldwide.
 
@@ -95,7 +95,7 @@ Not only is it in demand, but it’s also one of the most loved languages by Pyt
 
 All this demand has pushed salaries sky-high, with the median salary for a Python developer currently [$120,000 per year](https://insights.stackoverflow.com/survey/2020#top-paying-technologies) in the US. That makes Python one of the highest-paid programming languages around, only narrowly edged out by the highest-paid languages like Go.
 
-### 6\. Widely used in cybersecurity
+### 6. Widely used in cybersecurity
 
 Python’s versatility makes it a very desirable language for security professionals. By default and with no third-party add-ons, you can create port scanning, attack simulations, wireless network scanning, load generation, intrusion detecting systems, and much more.
 
@@ -103,7 +103,7 @@ And you can do even more when you factor in third-party libraries and frameworks
 
 Python’s skill with automation is priceless for security — [90% of data breaches in the UK in 2019](https://www.infosecurity-magazine.com/news/90-data-breaches-human-error/) were down to human error. This proves just how important automating away human errors are to keep your business or project safer, and why simple and intuitive languages are so valuable.
 
-### 7\. As a scripting language, Python is great for automation
+### 7. As a scripting language, Python is great for automation
 
 Python’s great data structure support — with many types including lists, dictionaries, sets, and tuples — make it easy to manage data, and automate data creation and storage.
 
@@ -111,7 +111,7 @@ Mainly used for scraping data, tools including Selenium, Beautiful Soup, Request
 
 You can automate almost anything if you’ve got the Python skills, but a few automation projects include reading and writing files, automatically sending emails, interacting with APIs, converting currencies, and converting images (for example from PNG to JPG).
 
-### 8\. Wide uses in finance
+### 8. Wide uses in finance
 
 Finance and banking are known for some of the highest salaries around, and Python is hugely popular for finance — and still growing in popularity.
 
@@ -121,7 +121,7 @@ Scipy, NumPy, Matplotlib, and a range of other add-ons make it easier than ever 
 
 Economists use Python for their economic analysis due to its simplicity and flatter learning curve. Stripe, Venmo, Robinhood, cryptocurrency Dash, and many other huge projects have also adopted Python.
 
-### 9\. Many of the world’s largest companies use Python
+### 9. Many of the world’s largest companies use Python
 
 If you're looking for a job with one of the world's largest companies, your Python skills may be what gets you in the door.
 

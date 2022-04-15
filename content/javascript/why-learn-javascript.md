@@ -20,7 +20,7 @@ Now, a bit wiser, I know there are several good answers to why beginner programm
 
 Let’s get into six reasons why you, a beginner programmer, should learn JavaScript.
 
-## 1\. You’ll be a popular hire in whatever you want to do.
+## 1. You’ll be a popular hire in whatever you want to do.
 
 Getting a job in programming is the absolute number one reason you should learn JavaScript. It’s been pretty well-documented that computer science graduates are among the most sought-after of grads. So much so that it’s actually increasingly common to [get a programming job without a degree](/jobs/get-a-programming-job-with-no-experience/) at all. Companies need more employees that can code than are currently graduating from college. 
 
@@ -32,7 +32,7 @@ Even if you don’t want to program websites or apps for a career, being able to
 
 {{< cta1 >}}
 
-## 2\. It makes you a versatile programmer.
+## 2. It makes you a versatile programmer.
 
 JavaScript is kind of a lingua franca among coding languages. If you know how to code in JavaScript, there’s no cap to the kind of cool stuff you can program. JavaScript gained a foothold by helping developers code on the client-side (frontend) of websites, but recently, there have been additions to the JavaScript frameworks that make it a great language for coding on the server-side or backend of websites using Node.js. 
 
@@ -42,7 +42,7 @@ Plus, you can get in on some app action, creating web apps, mobile apps, and des
 
 In short, if you can learn JavaScript, there’s very little you can’t accomplish with this workhorse of a coding language. Unlike R, that’s best for data viz and statistics; or Swift, that’s only useful for iOS, JavaScript is a great language to learn to accomplish a lot of different things. Why learn JavaScript? Because it’ll see you through a wide range of programming tasks you might want to accomplish. 
 
-## 3\. It comes pre-installed in your browser.
+## 3. It comes pre-installed in your browser.
 
 Running is the perfect hobby for me because I don’t need anything other than a sports bra and some running shoes to get a workout in. Part of the reason behind why learning JavaScript is awesome is that it’s kind of like the running of coding languages - you don’t need any fancy equipment, development environments, or branded textbook. If you have a computer with a browser, you can code in JavaScript. 
 
@@ -52,7 +52,7 @@ This makes it ultra-accessible for beginners like me. With a very basic understa
 
 You can also learn by poking around in the Javascript that runs an overwhelming majority of websites, by right-clicking and selecting “inspect” on any website. It’s a fun way to pick apart pre-existing JavaScript and see what happens when you change things. ![](https://lh3.googleusercontent.com/TXbn1zmVBTRwSROeE1dRagznXw-tHXP0aSGV9bo0oOsZsLJLPRoTTizBGpuMXd7msGheRemVGIHHZ1FdGnBb9cBmoz8rmxHSv97Zg3K0c5Z4Ai6UDUysJjzmrAr1HlFr_bvWNvJk)
 
-## 4\. There are a lot of shortcuts, when you’re ready to take them.
+## 4. There are a lot of shortcuts, when you’re ready to take them.
 
 Coding can include a lot of repetitive tasks - there are shortcuts in JavaScript that can make your life easier. It’s best to understand the underlying bones of any language before you start looking for shortcuts. However, if you use JavaScript for anything serious, there will be a time when you have a good understanding of the basics of Javascript. At that point, you might want to know how to make things easier. 
 
@@ -64,7 +64,7 @@ It’s the difference between building a house from scratch, versus coming to a 
 
 {{< cta2 >}}
 
-## 5\. You’ll find a way to learn.
+## 5. You’ll find a way to learn.
 
 Many people ask, “why learn JavaScript when there are so many newer languages out there?” When I listed the [most popular coding languages of 2021](/misc/popular-coding-languages-2021/), I noticed a definite rift. One on hand, relative newcomers like Rust, Go, and Swift are growing rapidly in popularity but don’t have a really wide range of ways to learn yet. [Swift](/misc/popular-coding-languages-2021/) and [Go](/misc/popular-coding-languages-2021/) are company-sponsored (Apple and Google respectively), and [Rust](/misc/popular-coding-languages-2021/) users are a tiny minority. No matter how popular in the community, these are bleeding-edge users with a limited set of learning resources. 
 
@@ -72,7 +72,7 @@ By comparison, I also reviewed languages like Python, Perl and JavaScript that h
 
 When you’re learning a new language, it helps tremendously to know you’re not alone, and to rely on the community around you who’s been where you are now. JavaScript has literal generations of devoted coders who are more than happy to lend their expertise to any novice coder still struggling with the basics, hanging out all over the internet like in boot.dev’s Discord community. That kind of group feeling can make or break your ability to stick with a language.
 
-## 6\. JavaScript can make you a renaissance programmer
+## 6. JavaScript can make you a renaissance programmer
 
 Nowadays, knowing only one coding language is good, but most jobs ask that you can code in more than one language. JavaScript is a great contender for that first one for the reasons listed above, but also because it’s a great primer to any future programming languages you might want to learn. The benefits of JavaScript are fantastic on their own, but it’s also good to know that learning JavaScript first is a good bet for any up-and-coming programmer.
 

@@ -22,7 +22,7 @@ All you need is some programming knowledge, a desire to write, and a blog to put
 
 {{< cta1 >}}
 
-## 1\. Monetize Your Programming Blog With Affiliate links
+## 1. Monetize Your Programming Blog With Affiliate links
 
 Affiliate links are when a company or individual gives you a specific link to their product, service, or slates funnel. If someone clicks on that link and makes a purchase, you get a percentage of that revenue. The most common iteration you’ll see for this type of monetization is the Amazon affiliate program. 
 
@@ -36,7 +36,7 @@ To maximize the potential of this, ensure you make a disclaimer about your affil
 
 In sum, affiliate links mean that readers who click on your links and make a purchase pay nothing extra, you get the benefit of monetizing your experience, and you help support a platform you believe in. 
 
-## 2\. Monetize Your Programming Blog With Sponsored Posts
+## 2. Monetize Your Programming Blog With Sponsored Posts
 
 Just like any other industry, brands may pay you to discuss their products or services with a sponsored post. If you have an audience, no matter if it’s small or large, brands will pay you money to get in front of that audience.
 
@@ -50,7 +50,7 @@ With sponsored posts, the key is to ensure the focus is not on the brand, but ra
 
 In sum, sponsored posts are a way for brands to pay you to write about them obliquely. You don’t have to wait until you have a huge audience - start when you have a modest, but engaged audience. As long as you stay honest and authentic, your readers won’t mind it.
 
-## 3\. Monetize Your Programming Blog By Selling Your Own Code
+## 3. Monetize Your Programming Blog By Selling Your Own Code
 
 Your programming blog can be monetized by selling the code you write. Here, you’re using the blog as a way to prove expertise or at least some experience. Once readers have a chance to see how good you are at what you do, they may be tempted to buy from you.
 
@@ -66,7 +66,7 @@ In sum, selling your code is great because as a programmer, no matter if you’r
 
 {{< cta2 >}}
 
-## 4\. Monetize Your Programming Blog by Promoting Other Services
+## 4. Monetize Your Programming Blog by Promoting Other Services
 
 While Google ads are tricky to scale into a worthwhile revenue stream, your own service ads are likely to be much more convincing to a casual reader. 
 
@@ -82,7 +82,7 @@ The only thing you should watch out for is overusing ads. It’s true that you n
 
 In sum, adding your own ads inline on your blog posts can be a great way to raise awareness of your other services and give you some extra income. Even as a beginner coder, there are many services you can offer.
 
-## 5\. Monetize Your Programming Blog by Coaching Beginner Coders
+## 5. Monetize Your Programming Blog by Coaching Beginner Coders
 
 One of the unspoken rules of making money on the internet is that you should give away all your value for free. Why? Because no matter how valuable or tailored it is, you will still get readers who look at your tutorials, guides, reference sheets, and say, “Hey, this is great. Can you customize this for me and my situation?”
 
@@ -96,7 +96,7 @@ As an example, take a look at [Dan Bader’s blog](https://dbader.org/), which i
 
 In sum, coaching readers is a great way to add additional value to the readers who really want to go that extra step. As long as you treat your coaching like the gold dust it is and offer as much value as you can up front, you’ll ensure your coaching business flourishes on your programming blog. 
 
-## 6\. Monetize Your Programming Blog by Advertising Your Freelance Services
+## 6. Monetize Your Programming Blog by Advertising Your Freelance Services
 
 About a year ago, I wrote a blog post on [the fastest way to learn to code](https://towardsdatascience.com/the-fastest-way-to-learn-to-code-be-invested-in-your-numbers-ccb24d55d856). It ranked on Google’s front page, and as a result, I got a freelance client who read the post, enjoyed it, and wanted to hire me to do [freelance programming blogging](https://www.youtube.com/watch?v=lQ8_2ioQLys) on the company’s behalf. 
 
@@ -106,7 +106,7 @@ In my case, my client had to jump through a few hoops in order to find my contac
 
 In sum, using your programming blog to show that you’re an able writer about programming, and let potential freelance clients know that you’re looking for this kind of work. It’s a great way to use your programming blog to earn money from something that isn’t programming!
 
-## 7\. Monetize Your Programming Blog By Getting a Job
+## 7. Monetize Your Programming Blog By Getting a Job
 
 While it’s great to use your hobby to make a bit of money on the side, it’s perfectly valid to want to use your coding blog to get a coding job. In this instance, having a coding blog in a particular niche can help raise your personal brand in that area. A website also works really well as a supplement to any coding portfolio you may have. 
 
