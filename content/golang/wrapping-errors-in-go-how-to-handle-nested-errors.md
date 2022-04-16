@@ -154,6 +154,21 @@ if errors.Is(err, io.EOF) {
 
 As far as I know, when working with errors it's *always better* to use `%w` over `%v`.
 
+## Manually unwrapping errors
+
+To be honest, I've never felt the need to manually unwrap an error. That said, I'm sure there are cases where you would want to do so. The standard library provides a convenient [errors.Unwrap](https://pkg.go.dev/errors#Unwrap) function to do just that.
+
+```go
+err1 := errors.New("no user id provided")
+err2 := fmt.Errorf("error on cronos server: [%w]", err1)
+fmt.Println(err2)
+// prints: "error on cronos server: [no user id provided]"
+fmt.Println(errors.Unwrap(err2))
+// prints: "no user id provided"
+```
+
+As an example, I might wrap an error with some sensitive context that's useful to my internal team, but maybe we need to unwrap it before returning it over an HTTP API for security purposes.
+
 ## Should I always wrap errors?
 
 Like all rules-of-thumb, there are exceptions.
