@@ -10,15 +10,6 @@ images:
 
 Custom toggle switches are a pain to code from scratch. So many lines for such a simple UI widget! In this quick tutorial, we will learn how to build a fully encapsulated toggle switch component in Vue.js. The component we're building is used currently on [boot.dev's login page](https://boot.dev/). Go take a look to see a live demo.
 
-## How to make other custom Vue components
-
-Before we move on, if you are looking for our other custom Vue.js components tutorials you can find them here:
-
-- [Custom select component in Vue](/javascript/custom-select-component-in-vue/)
-- [Custom tooltip component In Vue](/javascript/custom-tooltip-component-in-vue/)
-- [Custom slider component in Vue](/javascript/custom-slider-component-vue/)
-- [Custom checkbox form component in Vue](/javascript/how-to-create-a-custom-checkbox-form-in-vue/)
-
 {{< cta1 >}}
 
 ## The HTML Template

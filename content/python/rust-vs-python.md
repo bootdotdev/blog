@@ -100,7 +100,7 @@ Rust lacks the libraries and frameworks needed to manage ML, and tech giants and
 
 The community truly does make or break a language's potential in any field, because it directly influences the demand and creation of tools to support them. Overall, Python has the intrinsic and communal support to dominate as a machine learning language.
 
-**Hot tip:** Machine learning is essentially algorithms. Algorithms that leverage statistics to learn patterns and behaviors, so the more [advanced you are with algorithms](https://boot.dev/advanced-algorithms-course/) the better your ML skills become.
+**Hot tip:** Machine learning is essentially algorithms. Algorithms that leverage statistics to learn patterns and behaviors, so the more [advanced you are with algorithms](https://boot.dev/course/aaad49fb-0dc5-43c6-992c-96d3f83ee663/573c4cc4-f178-4465-bb76-5ee4718f12a6/dfef3058-b62d-4774-be32-80d933a0a766/) the better your ML skills become.
 
 {{< cta2 >}}
 
@@ -120,7 +120,7 @@ Rust has potential, but it struggles with visual implementations and has few dat
 
 The community also isn’t as big, but it’s very excited about the possibilities Rust poses for the industry. So, it’s not a complete no, but if you’re keen to work as a data scientist now, then Python is your best bet. But definitely keep a lookout for Rust in the future.
 
-**Hot tip:** Once you’re comfortable with Python, take a [Big O data structure class](https://boot.dev/big-o-data-structures-course/) to improve how you interact with the data.
+**Hot tip:** Once you’re comfortable with Python, take a [Big O data structure class](https://boot.dev/course/7bbb53ed-2106-4f6b-b885-e7645c2ff9d8/a9d59658-4e3c-441e-973b-147cc3c7e9de/666a9872-74d2-46d9-910a-63581b306302/) to improve how you interact with the data.
 
 ## Rust vs Python for System Development
 

@@ -26,11 +26,11 @@ We obviously have to give ourselves credit! We have recently released our new [G
 
 ### [2. Go By Example](https://gobyexample.com/)
 
-Similar to Go Mastery, this course is a great way to learn the basics in the browser. This course is great and has been around for a while with a lot of support from the community. You won't get automated feedback for correct answers, but it's still a fantastic resource.
+Similar to Go Mastery, this course is a great way to learn the basics in the browser. This course has been around for a while and has a lot of support from the community. You won't get automated feedback for correct answers, but it's still a fantastic resource.
 
 ### [3. A Tour of Go](https://tour.golang.org/welcome/1)
 
-The tour of go is supported officially by the Go language, and as such has some great high-quality information. Similar to Go By Example, the Tour of Go isn't a course with a certificate or quizzes but is more like beginner-friendly documentation and tutorials.
+The tour of go is supported officially by the Go language, and as such has some great high-quality information. Similar to "Go By Example", the Tour of Go isn't a course with a certificate or quizzes but is more like beginner-friendly documentation and tutorials.
 
 The tour uses the Go Playground for its computation backend (as mentioned below). The tour is great if you are unsure of whether or not you want to commit to a full course and just want to play around with the language.
 
@@ -63,7 +63,7 @@ If you are into real-time discussion then the Gophers slack channel is the place
 
 ## Best Blogs
 
-### [1. Boot.dev Go Category](https://boot.dev/category/golang/)
+### [1. Boot.dev Go Category](/golang)
 
 We regularly publish Go-related content and you can follow it by sorting for "golang" on boot.dev. you can also grab the RSS feed [here](/index.xml).
 

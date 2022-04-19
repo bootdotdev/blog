@@ -165,11 +165,3 @@ func expandKey(pEighteenSubkeys [18]uint32, sFourSubBoxes [4][256]uint32, salt [
 ```
 
 It helps me to visualize the details of the pseudo-code by using a more "real" programming syntax like Go. If that doesn't help you then take a look at the code on the [Wikipedia](https://en.wikipedia.org/wiki/Bcrypt#Algorithm) page here.
-
-## Other hash function explainers
-
-If you're looking for an explanation of a different hash function, we may have you covered
-
-- [How SHA-2 Works Step by Step](/cryptography/how-sha-2-works-step-by-step-sha-256/)
-- [(Very) Basic Intro to the Scrypt Hash](/cryptography/very-basic-intro-to-the-scrypt-hash/)
-- [(Very) Basic Intro to Hash Functions](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/)

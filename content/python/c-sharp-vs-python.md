@@ -14,15 +14,6 @@ C# is fast, lightweight, and flexible, while Python is robust, simple, and secur
 
 Let’s find out as we compare Python and C#’s learning curve, speed, salary, and see how they rank for backend development, game development, and machine learning. By the end of this guide, you’ll know which language is best for you!
 
-**We cover:**
-
-- [Which should you learn first?](#learnfirst)
-- [Which has better speed?](#speed)
-- [Which has a better salary?](#salary)
-- [Which is best for game development?](#game)
-- [Which is best for backend development?](#backend)
-- [Which is best for machine learning?](#machine)
-
 ## A Quick Overview
 
 Python was developed by Guido van Rossum in 1991. It’s a high-level, interpreted, dynamically typed language that supports OOP, procedural, and functional programming. It’s often described as “batteries included” because of how jam-packed of useful resources the language is.

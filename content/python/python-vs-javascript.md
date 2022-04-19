@@ -101,7 +101,7 @@ It’s also compatible with Google’s famous ML and deep learning library Tenso
 
 Even with this support, however, it was never adopted by the machine learning community. There are limited resources and no promise of new developments any time soon because current investment is focused on Python rather than JavaScript.
 
-**Hot tip:** Machine learning is largely the application of algorithms that use and learn from data. So, the more [advanced your algorithms](https://boot.dev/advanced-algorithms-course/) are, the better machine learning developer you’ll become.
+**Hot tip:** Machine learning is largely the application of algorithms that use and learn from data. So, the more [advanced your algorithms](https://boot.dev/course/aaad49fb-0dc5-43c6-992c-96d3f83ee663/573c4cc4-f178-4465-bb76-5ee4718f12a6/dfef3058-b62d-4774-be32-80d933a0a766/) are, the better machine learning developer you’ll become.
 
 ## Python vs JavaScript for Data Science
 
@@ -117,7 +117,7 @@ JavaScript has asynchronous capabilities, so its programs run smaller tasks in t
 
 JavaScript’s potential is growing in the field, although right now it’s best for small projects as it can’t handle Big Data like Python _yet._ JavaScript also doesn’t have the same investment from developers and companies to beef up its data support.
 
-**Hot tip:** Avoid getting weighed down navigating data structures by studying [Big O](https://boot.dev/big-o-data-structures-course/) [notation](https://boot.dev/big-o-data-structures-course/). This will help you sift through the noise and find the best solution for you and your project faster.
+**Hot tip:** Avoid getting weighed down navigating data structures by studying [Big O](https://boot.dev/course/7bbb53ed-2106-4f6b-b885-e7645c2ff9d8/a9d59658-4e3c-441e-973b-147cc3c7e9de/666a9872-74d2-46d9-910a-63581b306302/) [notation](https://boot.dev/course/7bbb53ed-2106-4f6b-b885-e7645c2ff9d8/a9d59658-4e3c-441e-973b-147cc3c7e9de/666a9872-74d2-46d9-910a-63581b306302/). This will help you sift through the noise and find the best solution for you and your project faster.
 
 ## Python vs JavaScript for Front-End Development
 

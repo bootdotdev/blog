@@ -36,7 +36,7 @@ JS is often associated with TypeScript, a syntactical superset of JS that adds o
 
 ### Is It Easy to Learn?
 
-Luckily, the ever-popular JS is also one of the easiest programming languages [for beginners to learn](https://boot.dev/basic-intro-to-coding-course/) due to a forgiving, and flexible syntax that works across almost all browsers. Because of its immense popularity, it is advised by industry professionals that anyone looking to enter into software development learn JS. 
+Luckily, the ever-popular JS is also one of the easiest programming languages [for beginners to learn](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb/) due to a forgiving, and flexible syntax that works across almost all browsers. Because of its immense popularity, it is advised by industry professionals that anyone looking to enter into software development learn JS. 
 
 ### Where Is It Used?
 

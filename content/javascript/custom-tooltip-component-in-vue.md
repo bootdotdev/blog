@@ -12,15 +12,6 @@ There are plenty of libraries out there that will have you up and running with a
 
 As it happens, this is also the boilerplate for the tooltip component we use on [boot.dev's coding app.](https://boot.dev/)
 
-## How to make other custom Vue components
-
-Before we move on, if you are looking for our other custom Vue.js components tutorials you can find them here:
-
-- [Custom select component in Vue](/javascript/custom-select-component-in-vue/)
-- [Custom toggle switch component in Vue](/javascript/how-to-create-a-custom-toggle-switch-component-in-vue-js/)
-- [Custom slider component in Vue](/javascript/custom-slider-component-vue/)
-- [Custom checkbox form component in Vue](/javascript/how-to-create-a-custom-checkbox-form-in-vue/)
-
 {{< cta1 >}}
 
 ## The End Goal

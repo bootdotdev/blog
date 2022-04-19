@@ -30,7 +30,7 @@ Our Python Fundamentals course features six modules covering:
 5. **Functions**
 6. **Dictionaries and sets**
 
-Completing all six modules will bring you up to an intermediate level, putting you in great position to complete our more advanced Python courses, including our [Data Structures](https://boot.dev/big-o-data-structures-course/) and [Advanced Algorithms](https://boot.dev/advanced-algorithms-course/) courses.
+Completing all six modules will bring you up to an intermediate level, putting you in great position to complete our more advanced Python courses, including our [Data Structures](https://boot.dev/course/7bbb53ed-2106-4f6b-b885-e7645c2ff9d8/a9d59658-4e3c-441e-973b-147cc3c7e9de/666a9872-74d2-46d9-910a-63581b306302/) and [Advanced Algorithms](https://boot.dev/course/aaad49fb-0dc5-43c6-992c-96d3f83ee663/573c4cc4-f178-4465-bb76-5ee4718f12a6/dfef3058-b62d-4774-be32-80d933a0a766/) courses.
 
 {{< cta1 >}}
 

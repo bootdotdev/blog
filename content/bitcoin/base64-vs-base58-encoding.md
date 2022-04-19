@@ -67,10 +67,3 @@ Satoshi Nakamoto, also the anonymous creator of Bitcoin, invented Base58. The go
 ### Data Compression Rank: 3rd
 
 Very similar to that of Base64, but due to 6 fewer characters, not quite as efficient. Additionally, the parsing is slightly more awkward due to the base not being a power of 2.
-
-Take a look at some of our other crypto and Bitcoin articles:
-
-- [Achieving Data Integrity Using Cryptography](/bitcoin/achieving-data-integrity-using-cryptography/)
-- [Top 10 Online Crypto Communities 2020](/bitcoin/best-online-crypto-communities/)
-- [Is AES-256 Quantum Resistant?](/cryptography/is-aes-256-quantum-resistant/)
-- [(Very) Basic Intro To Elliptic Curve Cryptography](/cryptography/elliptic-curve-cryptography/)

@@ -148,7 +148,7 @@ It’s also standardized, meaning that updates and releases with new versions fr
 
 ## The best way to learn JavaScript for web developers
 
-If you search “learn JavaScript,” it’s easy to become overwhelmed with the quantity of information, tutorials, and guides. It’s hard to even know which frameworks and libraries you need. That’s why I recommend a hierarchical approach that lets you systematically and consistently progress with learning the most popular coding language for web developers. Some examples include [JS: The Right Way](http://jstherightway.org/), and [boot.dev's Basic Intro to Coding](https://boot.dev/basic-intro-to-coding-course/).
+If you search “learn JavaScript,” it’s easy to become overwhelmed with the quantity of information, tutorials, and guides. It’s hard to even know which frameworks and libraries you need. That’s why I recommend a hierarchical approach that lets you systematically and consistently progress with learning the most popular coding language for web developers. Some examples include [JS: The Right Way](http://jstherightway.org/), and [boot.dev's Basic Intro to Coding](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb/).
 
 # 7. The most popular coding language to quickly increase your salary: Go
 

@@ -29,7 +29,7 @@ Example problems and some of their common heuristics are given below.
 
 ![](/img/800/tsp-1024x606.jpg)
 
-The TSP is a famous [algorithm with a Big-O](https://boot.dev/big-o-algorithms-course/) complexity of `O(n!)` and asks the question:
+The TSP is a famous [algorithm with a Big-O](https://boot.dev/course/884342fc-5469-47b4-8125-8bfc897428a8/67214b76-2e4b-4fc1-9610-2cf8c7c1c3a2/02e0d979-6758-493f-bf4f-bf7256fa7174/) complexity of `O(n!)` and asks the question:
 
 > Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?
 

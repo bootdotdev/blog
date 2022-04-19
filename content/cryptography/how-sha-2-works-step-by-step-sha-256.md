@@ -478,11 +478,3 @@ for each chunk
 Produce the final hash value (big-endian):
 digest := hash := h0 append h1 append h2 append h3 append h4 append h5 append h6 append h7
 ```
-
-## Other hash function explainers
-
-If you're looking for an explanation of a different hash function, we may have you covered
-
-- [(Very) Basic Intro to the Scrypt Hash](/cryptography/very-basic-intro-to-the-scrypt-hash/)
-- [Bcrypt Step by Step](/cryptography/bcrypt-step-by-step/)
-- [(Very) Basic Intro to Hash Functions](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/)

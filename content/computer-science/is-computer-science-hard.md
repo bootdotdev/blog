@@ -13,11 +13,11 @@ With the influx of interest in the [edTech site I've been building](https://boot
 
 Take as an analogy two friends, one weighs 300 lbs and is trying desperately to lose weight, the other friend weighs 100 lbs and wants to pack some on. If you were to ask them, "is gaining weight really that hard?" You'd get wildly different answers. There are so many factors including appetite, exercise, metabolic rate, starting weight, work routine, etc. In a similar fashion, some of the biggest factors when determining an answer to the question, "Is computer science hard to learn" would be:
 
-- [Do you have experience with computers in general?](#experience-computers)
-- [Have you taken a good amount of math?](#math)
-- [Do you like to tinker?](#tinker)
-- [Do you like to look things up and do research on your own?](#research)
-- [Have you ever written code before?](#code)
+- Do you have experience with computers in general?
+- Have you taken a good amount of math?
+- Do you like to tinker?
+- Do you like to look things up and do research on your own?
+- Have you ever written code before?
 
 The more of those questions you can answer "yes" to, the easier it will be to [learn computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/). That said, no matter your answers, it's always possible for you to start learning, even without any experience if you have the desire. The important question that only you can answer is "do you _want_ to learn computer science?".
 

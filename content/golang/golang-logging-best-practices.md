@@ -11,13 +11,12 @@ images:
 
 Let's discuss a few rules of thumb for logging in Go, as well as some features you may not have heard of that can make debugging easier. Best practices for logging in Go are not so obvious and sometimes we need to look closer to see what is the best choice, considering the unique situation of error handling in Go.
 
-- [#1 - Use Errors Where Appropriate, Not Strings](#1---use-errors-where-appropriate-not-strings)
-- [#2 - Wrap Errors](#2---wrap-errors)
-- [#3 - Use Formatters Like fmt.Errorf()](#3---use-formatters-like-fmterrorf)
-- [#4 - Format Structs Where Appropriate](#4---format-structs-where-appropriate)
-- [#5 - Use the variadic forms of functions like fmt.Println()](#5---use-the-variadic-forms-of-functions-like-fmtprintln)
-- [#6 - Use the Built-in Log Package](#6---use-the-built-in-log-package)
-- [Best Practices](#best-practices)
+1. Use Errors Where Appropriate, Not Strings
+2. Wrap Errors
+3. Use Formatters Like fmt.Errorf()
+4. Format Structs Where Appropriate
+5. Use the variadic forms of functions like fmt.Println()
+6. Use the Built-in Log Package
 
 ## #1 - Use Errors Where Appropriate, Not Strings
 

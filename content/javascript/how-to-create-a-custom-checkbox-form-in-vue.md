@@ -12,15 +12,6 @@ You have a problem. The browser's default checkbox form is ugly and outdated, bu
 
 Before we dive into how it works, you can see a live demo [here](https://codesandbox.io/s/custom-checkbox-component-u378c?file=/src/components/Checkbox.vue), or you can see how we are using it in production on the signup flow of boot.dev's [coding courses platform.](https://boot.dev/)
 
-## How to make other custom Vue components
-
-Before we move on, if you are looking for our other custom Vue.js components tutorials you can find them here:
-
-- [Custom select component in Vue](/javascript/custom-select-component-in-vue/)
-- [Custom tooltip component In Vue](/javascript/custom-tooltip-component-in-vue/)
-- [Custom toggle switch component in Vue](/javascript/how-to-create-a-custom-toggle-switch-component-in-vue-js/)
-- [Custom slider component in Vue](/javascript/custom-slider-component-vue/)
-
 {{< cta1 >}}
 
 ## The HTML

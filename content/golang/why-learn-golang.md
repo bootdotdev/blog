@@ -16,16 +16,6 @@ It’s practical, too, as it was [developed specifically by Google](https://talk
 
 For those who want to [learn computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/), it's also worth mentioning that Go is a good basic language that can help build foundational blocks that will be suitable for other languages you may go on to learn. Beyond all the reasons that make Go a great language to learn, there are seven factors that make it a perfect language specifically for beginner coders. Why learn Golang in 2021? Let’s jump into the reasons.
 
-- [Why learn Golang, and especially why learn Golang as a beginner coder?](#why-learn-golang-and-especially-why-learn-golang-as-a-beginner-coder)
-- [1. Go is an easy language for beginners to learn.](#1-go-is-an-easy-language-for-beginners-to-learn)
-- [2. Go is a new language on the coding scene.](#2-go-is-a-new-language-on-the-coding-scene)
-- [3. Go is a concurrent language](#3-go-is-a-concurrent-language)
-- [4. Go can help you land a job at Google (or other large companies)](#4-go-can-help-you-land-a-job-at-google-or-other-large-companies)
-- [5. Go provides the best hourly freelancing rate](#5-go-provides-the-best-hourly-freelancing-rate)
-- [6. Go is built for software engineers, not coding academics](#6-go-is-built-for-software-engineers-not-coding-academics)
-- [7. Bonus: there are lots of benefits even if you’re experienced](#7-bonus-there-are-lots-of-benefits-even-if-youre-experienced)
-- [Final thoughts on why learn Golang in 2021](#final-thoughts-on-why-learn-golang-in-2021)
-
 {{< cta1 >}}
 
 ## 1. Go is an easy language for beginners to learn.

@@ -7,7 +7,7 @@ categories:
   - "news"
 ---
 
-We've launched our new _[Big-O Algorithms](https://boot.dev/big-o-algorithms-course/)_ course! We wrote this course for engineers who need a refresher on computer science basics or want to learn the fundamentals for the first time.
+We've launched our new _[Big-O Algorithms](https://boot.dev/course/884342fc-5469-47b4-8125-8bfc897428a8/67214b76-2e4b-4fc1-9610-2cf8c7c1c3a2/02e0d979-6758-493f-bf4f-bf7256fa7174/)_ course! We wrote this course for engineers who need a refresher on computer science basics or want to learn the fundamentals for the first time.
 
 The study of algorithmic complexity is often overlooked by new developers, and we've found that get-rich-quick boot camps often skimp on these details. It’s impossible to become a senior developer without being familiar with the concepts in this course, so we figured it was high time we published it.
 

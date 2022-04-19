@@ -12,16 +12,6 @@ I've noticed that bugs introduced into an existing code base are often due to po
 
 Using descriptive, concise, and conventional variable names often set apart a senior from a junior developer. Here are some of my rules of thumb for high-quality variable nomenclature.
 
-- [1. Following existing naming conventions of the language or framework you're using](#1-following-existing-naming-conventions-of-the-language-or-framework-youre-using)
-- [2. Single letter variables have a place, and that place is rare](#2-single-letter-variables-have-a-place-and-that-place-is-rare)
-- [3. Include units in your variable names](#3-include-units-in-your-variable-names)
-- [4. Include types in your variables names if it isn't obvious](#4-include-types-in-your-variables-names-if-it-isnt-obvious)
-- [5. Make variables names as long as necessary but no longer](#5-make-variables-names-as-long-as-necessary-but-no-longer)
-- [6. Include the meaning of complex calculations in your variable names](#6-include-the-meaning-of-complex-calculations-in-your-variable-names)
-- [7. Use the properly pluralized form of the variable](#7-use-the-properly-pluralized-form-of-the-variable)
-- [8. Don't use abbreviations or acronyms without sufficient context](#8-dont-use-abbreviations-or-acronyms-without-sufficient-context)
-- [9. No magic numbers or magic values, use a variable](#9-no-magic-numbers-or-magic-values-use-a-variable)
-
 ### 1. Following existing naming conventions of the language or framework you're using
 
 Different languages and frameworks (and the communities that use them) typically have a standard way of styling variable and function names. For example, in Python and Ruby it's preferred to style variables and fields using snake case.

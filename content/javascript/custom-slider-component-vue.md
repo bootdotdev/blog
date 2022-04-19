@@ -14,15 +14,6 @@ In fact, the component we'll be building is the exact same component that we use
 
 You can see a [full demo on codesandbox here](https://codesandbox.io/s/custom-vue-slider-component-8esy1). If you're like me, you prefer to build your own lightweight UI components, rather than import a bloaty library that you don't have the ability to modify and change easily.
 
-## How to make other custom Vue components
-
-Before we move on, if you are looking for our other custom Vue.js components tutorials you can find them here:
-
-- [Custom select component in Vue](/javascript/custom-select-component-in-vue/)
-- [Custom tooltip component In Vue](/javascript/custom-tooltip-component-in-vue/)
-- [Custom toggle switch component in Vue](/javascript/how-to-create-a-custom-toggle-switch-component-in-vue-js/)
-- [Custom checkbox form component in Vue](/javascript/how-to-create-a-custom-checkbox-form-in-vue/)
-
 {{< cta1 >}}
 
 ## The HTML

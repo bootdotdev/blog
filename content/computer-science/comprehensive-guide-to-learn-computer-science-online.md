@@ -22,29 +22,28 @@ Also, before diving into all the various requirements, I'd like to point out tha
 
 ### Study These Computer Science Topics - Required
 
-| Subjects                                                                                                                                                                                                | Rationale                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [Coding](#coding)                                                                                                                                                                                       | You need to learn to code to put computer science concepts into practice                                                |
-| [Computer Architecture and Hardware](#Computer-Architecture-and-Hardware)                                                                                                                               | If you don't understand the physical machines your code runs on, you're at a disadvantage.                              |
-| [Algorithms and Data Structures](#Algorithms-and-Data-Structures)                                                                                                                                       | Arguably the most practical application of CS to most day jobs, learn to write fast code.                               |
-| [CS Math](#CS-Math)                                                                                                                                                                                     | I'd rather teach a mathematician to code than teach a coder math.                                                       |
-| [Databases](#Databases)                                                                                                                                                                                 | Very few applications get away without a data store, you need to know how to use them.                                  |
-| [Web Deve](https://blog.boot.dev/wp-admin/post.php?post=84493&action=edit#Web-Development)[l](#Web-Development)[opment](https://blog.boot.dev/wp-admin/post.php?post=84493&action=edit#Web-Development) | Most jobs in the industry are involved with the web, you need to learn the tools.                                       |
-| [Graphics Programming](#graphics)                                                                                                                                                                       | Almost all users interact with our software graphically, so understanding how that works is incredibly important.       |
-| [Functional Programming](#Functional-Programming)                                                                                                                                                       | Functional programming is useful for learning important concepts like recursion and is growing as a practical paradigm. |
-| [Computational Theory](#Computational-Theory)                                                                                                                                                           | You've gotta learn about the limits to what computers can do theoretically, even if we assume the best hardware.        |
+| Subjects                           | Rationale                                                                                                               |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Coding                             | You need to learn to code to put computer science concepts into practice                                                |
+| Computer Architecture and Hardware | If you don't understand the physical machines your code runs on, you're at a disadvantage.                              |
+| Algorithms and Data Structures     | Arguably the most practical application of CS to most day jobs, learn to write fast code.                               |
+| CS Math                            | I'd rather teach a mathematician to code than teach a coder math.                                                       |
+| Databases                          | Very few applications get away without a data store, you need to know how to use them.                                  |
+| Web Development                    | Most jobs in the industry are involved with the web, you need to learn the tools.                                       |
+| Graphics Programming               | Almost all users interact with our software graphically, so understanding how that works is incredibly important.       |
+| Functional Programming             | Functional programming is useful for learning important concepts like recursion and is growing as a practical paradigm. |
+| Computational Theory               | You've gotta learn about the limits to what computers can do theoretically, even if we assume the best hardware.        |
 
 ### Optional - Choose at least 2
 
-| Subjects                                                                                                                | Rationale                                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Cryptography](#Cryptography)                                                                                           | Cryptography is what makes secure communication possible. If you ever plan to work on the web this is important stuff.                                    |
-| [Networking](#Networking)                                                                                               | While you may not need to set up servers on your own, it's important to know how complex networks are built.                                              |
-| [Compilers](#Compilers)                                                                                                 | Compilers allow us to write high-level code that executes on physical machines, a solid understanding of how they work is valuable.                       |
-| [](http://distributed-systems/)[Distributed Systems](#Distributed-Systems)                                              | With the advance of Docker, Kubernetes, and the cloud, learning to build scalable distributed systems that can communicate and stay in sync is paramount. |
-| [Operating Systems](#Operating-Systems)                                                                                 |
-| Operating systems manage all of our code, they have complete control over our execution environments. Get to know them. |
-| [Artificial Intelligence and Machine Learning](#Artificial-Intelligence-and-Machine-Learning)                           | AI and ML are growing more and more each year. There will likely always be jobs in teaching computers to teach themselves.                                |
+| Subjects                                     | Rationale                                                                                                                                                 |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cryptography                                 | Cryptography is what makes secure communication possible. If you ever plan to work on the web this is important stuff.                                    |
+| Networking                                   | While you may not need to set up servers on your own, it's important to know how complex networks are built.                                              |
+| Compilers                                    | Compilers allow us to write high-level code that executes on physical machines, a solid understanding of how they work is valuable.                       |
+| Distributed Systems                          | With the advance of Docker, Kubernetes, and the cloud, learning to build scalable distributed systems that can communicate and stay in sync is paramount. |
+| Operating Systems                            | Operating systems manage all of our code, they have complete control over our execution environments. Get to know them.                                   |
+| Artificial Intelligence and Machine Learning | AI and ML are growing more and more each year. There will likely always be jobs in teaching computers to teach themselves.                                |
 
 These topics cover almost everything that a typical CS student would learn at a university, though you obviously need to make sure you go appropriately deep into each topic. Later in the article, we'll cover each topic in more detail, and supply resources to get you started.
 
@@ -90,7 +89,7 @@ Coding can be really fun and has a low barrier to entry. The goal here is to get
 
 #### Resources
 
-- [Bootd.dev's Basic Intro to Coding Courses](https://boot.dev/basic-intro-to-coding-course/)
+- [Bootd.dev's Basic Intro to Coding Courses](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb/)
 - [Edabit JavaScript Challenges](https://edabit.com/challenges/javascript)
 - [A Byte of Python](https://python.swaroopch.com/)
 - [The Python Tutorial](https://docs.python.org/3/tutorial/)
@@ -143,9 +142,9 @@ I'm in complete agreement with the traditional education system that that famili
 
 ![](/img/800/travelling_salesman_problem.png)
 #### Resources
-- [Boot.dev's Big-O Algorithms course](https://boot.dev/big-o-algorithms-course/)
-- [Boot.dev's Big-O Data Structures course](https://boot.dev/big-o-data-structures-course/)
-- [Boot.dev's Advanced Algorithms course](https://boot.dev/advanced-algorithms-course/)
+- [Boot.dev's Big-O Algorithms course](https://boot.dev/course/884342fc-5469-47b4-8125-8bfc897428a8/67214b76-2e4b-4fc1-9610-2cf8c7c1c3a2/02e0d979-6758-493f-bf4f-bf7256fa7174/)
+- [Boot.dev's Big-O Data Structures course](https://boot.dev/course/7bbb53ed-2106-4f6b-b885-e7645c2ff9d8/a9d59658-4e3c-441e-973b-147cc3c7e9de/666a9872-74d2-46d9-910a-63581b306302/)
+- [Boot.dev's Advanced Algorithms course](https://boot.dev/course/aaad49fb-0dc5-43c6-992c-96d3f83ee663/573c4cc4-f178-4465-bb76-5ee4718f12a6/dfef3058-b62d-4774-be32-80d933a0a766/)
 - [Data-Structures & Algorithms with JavaScript](https://github.com/GauravWalia19/Free-Algorithms-Books/blob/master/Library/src/JAVASCRIPT/Data-Structures-%26-Algorithms-with-JavaScript.pdf)
 - [Steven Skiena's Video Lectures](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
 - ["Algorithms" book by Dasgupta](https://freecomputerbooks.com/Algorithms.html)

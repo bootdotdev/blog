@@ -11,7 +11,7 @@ images:
 
 We've recently made big changes to how we execute Go in the browser on [boot.dev](https://boot.dev/) and want to explain the enhancements. Web Workers are the reason we've been able to solve some of the serious browser-related coding problems that were holding us back. Consider this article a sequel to [Running Go in the Browser with Web Assembly](/golang/running-go-in-the-browser-with-web-assembly-wasm/).
 
-While publishing our latest course, [Big-O Algorithms](https://boot.dev/big-o-algorithms-course/), we needed a way to print console output while code is still executing. We ran into a problem when running computationally expensive algorithms in the browser; the browser gets so bogged down that it can't render new lines of output. We decided to implement web workers, and they solved the problem handily.
+While publishing our latest course, [Big-O Algorithms](https://boot.dev/course/884342fc-5469-47b4-8125-8bfc897428a8/67214b76-2e4b-4fc1-9610-2cf8c7c1c3a2/02e0d979-6758-493f-bf4f-bf7256fa7174/), we needed a way to print console output while code is still executing. We ran into a problem when running computationally expensive algorithms in the browser; the browser gets so bogged down that it can't render new lines of output. We decided to implement web workers, and they solved the problem handily.
 
 ## The Problem
 
