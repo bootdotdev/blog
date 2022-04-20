@@ -5,7 +5,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
-    {{if ne .Title .Site.Title}}{{ .Title }} | {{ end }}{{ .Site.Title }}
+    {{if eq .Title .Site.Title}}
+    {{ .Site.Title }}
+    {{ else }}
+    {{ .Title }} | Boot.dev
+    {{ end }}
   </title>
   <link rel="stylesheet" href="/css/tail-out.css" />
   <link rel="stylesheet" href="/css/styles.css" />
