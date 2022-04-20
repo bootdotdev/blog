@@ -2,17 +2,20 @@
 title: "Best Practices for Commenting Code"
 author: Lane Wagner
 date: "2020-10-29"
+lastmod: "2022-04-19"
 categories: 
   - "clean-code"
 images:
   - /img/800/comment.webp
 ---
 
-I often hear that we need more and better comments in the code we write. In my experience, we often need _better_ comments, we rarely need more, and often we need _less_. Before you crucify me for my sacrilege, let me explain.
+I often hear that we need more and better comments in the code we write. In my experience, we frequently need *better* comments, we rarely need *more*, and we sometimes need *less*. Before you crucify me for my sacrilege, let me explain by giving you some of the "rules of thumb" I use for deciding when I should add a comment to my code.
 
-## #1 - Incorrect Comments
+## First, do no harm. If a comment is incorrect or outdated, update it or remove it
 
-Incorrect documentation is worse than no documentation, and redundant documentation is worthless. Let's remove the chaff. Developers typically (and rightly) take the path of least resistance when trying to figure out what a piece of code is doing. When provided a function with a comment, many developers will read the comment instead of reading the code itself, especially if the function is long and complex. Let's take a look at this trivial example:
+Incorrect documentation is **worse** than no documentation.
+
+When reading code, developers typically take the path of least resistance when trying to understand how it works. When provided a function with a comment, most developers will read the comment instead of reading the code itself, especially if the function is long and complex. Let's take a look at this trivial example of a small function:
 
 ```go
 // replace changes all the commas in the text to colons
@@ -21,9 +24,13 @@ func replace(s string) string {
 }
 ```
 
-When another developer decides to use this function, they expect that commas will be replaced by colons. As this code clearly shows, however, the commas will be replaced by _spaces_. Because of the incorrect comment, a reader may take the comment at its word and introduce a bug, they may "fix" the comment and leave an existing bug, or they may "fix" the code and introduce a new bug. The point is, a bug is very likely to be produced if the reader isn't careful.
+When another developer decides to use this function, they expect that commas will be replaced by *colons*. As this code clearly shows, however, the commas will be replaced by *spaces*. Because of the incorrect comment, it is likely that a reader will take any of the following actions:
 
-The solution would be to give the function a [more descriptive name](/clean-code/naming-variables/) and delete the comment entirely.
+* Assume the comment describes the expected behavior and potentially introduce a new bug
+* Assume the code describes the expected behavior and potentially leave an existing bug
+* Assume the comment describes what the code actually does, and use the function in new places, introducing more bugs.
+
+The best solution with a small function like this would probably be to give the function a [more descriptive name](/clean-code/naming-variables) and delete the comment entirely.
 
 ```go
 func replaceCommasWithSpaces(s string) string {
@@ -31,19 +38,59 @@ func replaceCommasWithSpaces(s string) string {
 }
 ```
 
+It's worth pointing out that the function name and the behavior could conflict as well, but at least now we only have 2 things to keep in sync:
+
+* The behavior
+* The function name
+
+Instead of trying to keep 3 things in sync:
+
+* The behavior
+* The function name
+* The comment
+
+We also have the added benefit of re-emphasizing the expected behavior on readers of the code that calls this function, rather than just the readers of the function definition.
+
 {{< cta1 >}}
 
-## #2 - Redundant Comments
+## Avoid redundant comments. Strive for a single source of truth
 
-It would have been strictly better to omit the comment in the example above entirely. The developer would have been forced to go to the single source of truth (the code) and would have interpreted the meaning correctly.
+When a comment describes something that can easily be read in code, it runs the risk of being redundant. Redundancy in documentation is generally bad, especially if the code in question is updated frequently. With duplicate documentation you run the risk of two different parts of the documentation disagreeing with each other. At that point, your reader will not only be confused, but will be forced to go to the absolute source of truth, the code, to see what's going on.
 
-Comments and documentation should, to some extent, follow the DRY principle (don't repeat yourself). If the code _clearly_ states what is happening, why add a comment? If functionality changes then _two_ things need to be updated! If the code doesn't clearly state what is happening, then a developer's first instinct should be to make the code more readable, not to add a comment.
+Comments and documentation should, to some extent, follow the DRY principle (don't repeat yourself). If the code *clearly* states what is happening, why add a comment? If the expected bahavior changes then *two* things need to be updated instead of one!
 
-Redundancy is also quite simply a waste of time. Developers remain best-utilized writing code, architecting systems, and creating tests. We should only write documentation when absolutely necessary.
+If your code doesn't clearly state what is happening, your first instinct should be to make the code more readable. If the nature of the code is complex, or if you don't have time due to business contraints to do some [refactoring](/clean-code/spend-time-refactoring/), then there is nothing wrong with adding explanatory comments.
 
-## #3 - Comments for the Outside World - AKA Documentation
+## Comments should explain "why" not "how"
 
-As we try to weigh the necessity of adding a comment to code, we need to take into account that it's _more_ likely that a comment is needed if it exists at an architectural boundary. For example, when writing a package or library we don't want the users (other developers) of our code to have to worry about the internal workings. The function and class names along will well-written comments (or API docs as the case may be) should be all they need to understand how to use our APIs. The Go standard library has great examples of this:
+Comments and documentation that explain *why* something is happening are *extremely* important. Like we've talked about so far, comments that explain *how* the code works are often redundant and unnecessary. For example,
+
+```go
+func cleanInput(input string){
+	input = strings.ReplaceAll(input, "^", "-")
+	input = strings.ReplaceAll(input, "?", "_")
+	...
+}
+```
+
+It is clear by reading the code that all instances of carets and question marks are being replaced by dashes and underscores... but it's not clear *why* would we want to replace them.
+
+```go
+func cleanInput(input string){
+	// clean input so that it can be used in a regex
+	input = strings.ReplaceAll(input, "^", "-")
+	input = strings.ReplaceAll(input, "?", "_")
+	...
+}
+```
+
+A comment that explains that carets and question marks are removed for later use in a regex is an example of a good comment because it's often impossible to express the "why" in code.
+
+## Always write comments at API boundries
+
+As we try to weigh the necessity of adding a comment to code, we should take into account that up until this point we've mostly been talking about comments for **internal maintainers** of the code base. The best practices change drastically when we write comments for external *users* of our code. A good example of this would be godoc comments on the exported functions of a package.
+
+When writing a package or library, we don't want the users of our code (the developers running `go get` or `npm install`) to have to worry about the internal implementation details. Good abstractions are black boxes. The Go standard library has great examples of this:
 
 ```go
 // IndexRune returns the index of the first instance of the Unicode code point
@@ -68,30 +115,5 @@ func IndexRune(s string, r rune) int {
 	}
 }
 ```
-
-## #4 - Comments Should Explain 'Why' not 'How'
-
-Comments and documents that explain _why_ something is happening are quite important and don't apply to any of the previous criticisms I've made of comments. Comments that explain _how_ the code works are often redundant and lazy. For example,
-
-```go
-func cleanInput(input string){
-	input = strings.ReplaceAll(input, "^", "-")
-	input = strings.ReplaceAll(input, "?", "_")
-	...
-}
-```
-
-Here it is clear by reading the code that all instances of carets and question marks are being replaced by dashes and underscores... but why?
-
-```go
-func cleanInput(input string){
-	// clean input so that it can be used in a regex
-	input = strings.ReplaceAll(input, "^", "-")
-	input = strings.ReplaceAll(input, "?", "_")
-	...
-}
-```
-
-A comment that explains that carets and question marks are removed for later use in a regex is an example of a good comment because it's often hard to express the "why" in code.
 
 Hopefully, these rules of thumb help when you are trying to clean up your code and write better comments!
