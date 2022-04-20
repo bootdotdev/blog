@@ -66,3 +66,9 @@ yarn image-min
 This resizes all the images and places them in the new folder. 
 
 Delete the raw images.
+
+## Docx to markdown
+
+Add `.docx` file to `docx/` directory.
+
+`./scripts/docxmd.sh path_to_docx`
