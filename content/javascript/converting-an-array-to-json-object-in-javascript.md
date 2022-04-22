@@ -2,32 +2,42 @@
 title: "Converting an Array to JSON Object in JavaScript"
 author: Lane Wagner
 date: "2020-12-21"
+lastmod: "2022-04-21"
 categories: 
   - "javascript"
 images:
   - /img/800/javascript-on-laptop.webp
 ---
 
-JSON, or "JavaScript Object Notation", is an extremely popular data exchange format, especially in web development. Let's go over a few simple ways to convert an array to JSON data.
+JSON, or "JavaScript Object Notation", is an extremely popular data exchange format, especially in web development. Let's go over a few simple ways to convert a JavaScript array to JSON data.
 
-## Quick Answer - JS Array to JSON
+## JS Array to JSON using JSON.stringify() 
 
-Arrays are actually valid JSON! If you're just worried about _validity_, then you don't even need to do any transformations. To prepare your array so that you can make a [fetch request](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) with it, it's as simple as using the `JSON.stringify()` method.
+The [JSON.stringify()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify) method converts a JavaScript object, array, or value to a JSON string. If you so choose, you can then send that JSON string to a backend server using the Fetch API or another communication library.
 
 ```js
 const resp = await fetch('https://example.com', {
-    method: 'POST',
-    mode: 'cors',
-    headers: {
-      'Content-Type': 'application/json'
-    },
-    body: JSON.stringify([1, 2, 3, 4, 5])
-  });
+  method: 'POST',
+  mode: 'cors',
+  headers: {
+    'Content-Type': 'application/json'
+  },
+  body: JSON.stringify([1, 2, 3, 4, 5])
+});
 ```
 
-The `JSON.stringify()` method converts a JavaScript object, array, or value to a JSON string that can be sent over the wire using the Fetch API (or another communication library).
+Because an array structure at the top-level is valid JSON, if you're just worried about _validity_, then you don't even need to do any transformations. To prepare your array so that you can make a [fetch request](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) with it, it's as simple as using the `JSON.stringify()` method as we saw above.
 
-## Weird Answer - Array to JSON with indexes as keys
+If you want to convert back to an in-memory array, you can use [JSON.parse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse) on the string.
+
+
+```js
+const arr = JSON.parse("[1, 2, 3]")
+// arr is an array
+// [1, 2, 3]
+```
+
+## Array to JSON with indexes as keys
 
 If you don't want the direct string representation of a JSON array, you might want an object where the keys are the _indexes_ of the array.
 
@@ -52,7 +62,19 @@ const jsonString = JSON.stringify(Object.assign({}, array))
 // {"0":"apple","1":"orange","2":"banana"} 
 ```
 
-## When should you use arrays vs objects?
+## Convert each item in an array into JSON
+
+If for some insane reason you need to stringify all the items in an array, but not the array as a whole, the [.map()](/javascript/javascript-map-function/) function is useful.
+
+```js
+const arr = [1, 2, 3]
+
+const jsonStrings = arr.map(item => JSON.stringify(item))
+
+const backToNumbers = jsonStrings.map((s) => JSON.parse(s))
+```
+
+## When dealing with an API, should you use objects or arrays?
 
 If you're writing client-side code, it's likely that you won't get to decide. The API (back end) system that you're working with will probably have documentation that will specify the shape of the data it expects.
 
@@ -60,7 +82,7 @@ In general, I would say it's much more likely that an API will expect a top-leve
 
 For example, if I was writing an API that wanted a list of usernames, I'd probably accept the following JSON object:
 
-```js
+```json
 {
   "usernames": ["bill", "bob", "karen", "sue"]
 }
@@ -68,7 +90,7 @@ For example, if I was writing an API that wanted a list of usernames, I'd probab
 
 Instead of a "naked" array, which is technically valid JSON:
 
-```js
+```json
 ["bill", "bob", "karen", "sue"]
 ```
 
