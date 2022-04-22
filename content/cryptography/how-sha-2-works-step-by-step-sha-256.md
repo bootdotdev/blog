@@ -25,7 +25,7 @@ If you're not familiar with SHA-256, try out the generator below. Just enter any
 
 Like we mentioned above, a hash function generates a "fingerprint" for a given input string. For example, if we were to hash the entire text of JRR Tolkien's "The Lord of The Rings" series using the SHA 256 algorithm, we would get a 256-bit output almost unique to that book's text. If we changed even a single letter in the book, the output hash would be *wildly* different.
 
-It's worth noting that we say the output of a hash is "almost unique" because there are a **finite** number of output strings, after all, there are only ever 256 bits in the output. The number of possible inputs, however, is **infinite**, meaning some inputs will hash to the same output. When this happens, it's called a "collision", and it is nearly impossible. After all, in SHA-256 there are 2^256 possible outputs. Let me write out that number for you:
+It's worth noting that we say the output of a hash is "almost unique" because there are a **finite** number of output strings, after all, there are only ever 256 bits in the output. The number of possible inputs, however, is **infinite**, meaning some inputs will hash to the same output. When this happens, it's called a "collision", and it is nearly impossible. After all, in SHA-256 there are `2^256` possible outputs. Let me write out that number for you:
 
 ```
 115,792,089,237,316,195,423,570,985,008,687,907,853,269,984,665,640,564,039,457,584,007,913,129,639,936 possible outputs for SHA-256
