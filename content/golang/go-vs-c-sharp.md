@@ -2,49 +2,48 @@
 title: "Go vs C#: Compared Over 5 Key Areas"
 author: Meghan Reichenbach
 date: "2021-09-22"
+lastmod: "2022-04-22"
 categories: 
   - "golang"
 images:
   - /img/800/Go-vs-C-Sharp-min.webp
 ---
 
-Golang and C# offer a unique mixture of similarities and differences, having both been inspired by the same language but operating in vastly different ways.
+Golang and C# offer a unique mixture of similarities and differences, having both been inspired by the same language, C.
 
-Golang is a procedural, open-source, compiled programming language developed by Google developers in 2009, after reaching their wits end with C++. The developers decided to create a language that could handle Google’s immense network servers without sacrificing readability, speed, and simplicity.
+Golang is a procedural, open-source, compiled programming language developed by a team at Google in 2009, after reaching their wits end with C++. The developers decided to create a language that could handle Google’s immense network servers without sacrificing readability, speed, and simplicity.
 
-Golang continues to grow in popularity and has a devoted following of programmers affectionately known as Gophers.
+Go continues to grow in popularity and has a devoted following of programmers affectionately known as "Gophers".
 
-C# on the other hand is an object-oriented (OOP), general-purpose programing language that was created in 2000 as a part of Microsoft’s .NET initiative. It came about after Sun, the original developer of Java, refused to let Microsoft edit their language, and thus C# was born.
+C# on the other hand is an object-oriented (OOP), general-purpose programing language that was created in 2000 as a part of Microsoft’s .NET initiative. It came about after Sun Microsystems, the original developer of Java, refused to let Microsoft edit their language, and thus C# was born.
 
-It’s important to note that C# is supported by the .NET framework, which supports multiple languages. You can use C# without .NET, but it’s not common or recommended as integrating .NET and C# is what gives C# its advantageous libraries and versatility.
-
-Now it’s time to see how these languages match up.  
+It’s important to note that C# is supported by the .NET framework, which supports multiple languages. You can use C# without .NET, but it’s not very common. .NET is what gives C# its advantageous libraries and versatility.
 
 If you’re interested in finding out which language best suits you, then keep reading as I compare salary, performance, job opportunities, and the advantages they pose for programmers.
 
-## Similarities Between C# and Golang
+## Similarities between C# and Golang
 
 Before we get our hands dirty with comparisons, there are a few important similarities to discuss.
 
-As far as language makeup, Go and C# are both cross-platform languages with C language origins. C# is C-based, so it has a very similar syntax to the C language, and the .NET framework allows it to work cross-platform, although it works best in Windows.
+As far as language makeup, Go and C# are both cross-platform languages with C language origins. C# is a object-oriented and C-based, so it has a very similar syntax to the C language, and the .NET framework allows it to work cross-platform, although it works best in Windows. C# is also "Microsoft's Java", so in a lot of ways it inherits class-based styling from Java, something Go does *not* do.
 
-Golang is “C-inspired” but for all intents and purposes, it too has a very similar syntax to C language, except with a greater emphasis on readability.
+Golang is “C-inspired” but for all intents and purposes, it too has a similar syntax to the C language, but places a greater emphasis on readability.
 
 Go and C# also have similar capabilities and a rich collection of base class libraries. They both support asynchronous operations, possess a compiler, powerful garbage collector, and modular programming architecture.
 
-Go’s garbage collector and asynchronous abilities are slightly more optimized, but both languages execute these features solidly.
+Go’s memory management concurrency primitives are slightly more powerful (my opinion), but both languages execute these features in a well-designed manner.
 
 ![go vs c sharp for experienced programmers, high salaries, performance, web development and game development](/img/800/Go-vs-C-Sharp-salary-performance-web-development-game-min-1.png)
 
 {{< cta1 >}}
 
-## Go vs C#: Which Is Better for Experienced Programmers?
+## Go vs C#: Which is better for experienced programmers?
 
 Golang and C# both offer distinct advantages for experienced programmers.
 
-C# is ideal for experienced programmers with previous knowledge of C languages, as the syntax is similar, making learning trouble-free. However, this edge begins to falter when it comes to bigger projects. While it may be easy to pick up, there’s still an incredible amount of code to learn for advanced programs.
+C# is ideal for experienced programmers with previous knowledge of OOP langauges like Java and Python. The syntax is similar, making learning trouble-free. However, this edge begins to falter when it comes to bigger projects. While it may be easy to pick up, there’s still an incredible amount of code to learn for advanced programs.
 
-If you work with Windows, then C# is particularly useful as well, as it’s a Microsoft language and a popular choice for Windows desktop applications. Alternatively, C# with .NET is also an excellent choice if you plan to focus on mobile apps and game development. With C# you’ll be joining a large community, which is crucial for extra support and error handling.
+If you work with Windows, then C# is particularly useful as well, as it’s a Microsoft language and a popular choice for Windows desktop applications. Alternatively, C# with .NET is also an excellent choice if you plan to focus on mobile apps, game development, or backend programming. With C# you’ll be joining a large community, which is crucial for extra support and error handling.
 
 The real focus here though is the .NET framework and the diversity of libraries and tools it brings to C#.
 
@@ -52,25 +51,25 @@ Golang, like C#, is easy to learn for C programmers but also for anyone else. Th
 
 Large-scale projects, network servers, or cloud services all work well with Golang’s nature. Its standard library comes ready to handle massive workloads and is even making its way into Big Data and machine learning. Since Golang is much newer than C#, it doesn’t come with the same bustling community, but it's definitely growing.
 
-The key difference here is Go’s tools are native, while C# gets them from a framework. We’re not saying .NET isn’t impressive, but having optimized performance without the need for outside support encourages smoother programming.
+The key difference here is that *most* of Go’s tools are native, while C# gets them from various frameworks and libraries. We’re not saying .NET isn’t impressive, but having optimized performance without the need for outside support encourages smoother programming.
 
-Overall, C# is a better option if you’re working on Windows applications and small-scale jobs, but Golang takes the lead in cross-platform work and larger-scale projects.
+Overall, C# is a better option if you’re working on Windows applications or game development due to it's object oriented nature, but Go quite often pulls ahread in cross-platform work and web development.
 
-## Go vs C# Performance: Which Is Faster?
+## Go vs C# Performance: Which is faster?
 
 When it comes to performance, the best thing about these two languages is that they both perform well compared to interpreted languages like JavaScript and Python, but their strength comes in different ways.
 
-Go’s performance excels because of how lightweight the language is. Compile-time checks, error handling, and memory management are all efficient because there’s no complex code to sift through. Go’s low resource usage and static typing also help compiling and memory management run faster and boost performance, even with concurrent operations and a garbage collector.
+Go’s performance excels because of how lightweight the language is. Compile-time checks, error handling, and memory management are all efficient because there’s no complex syntax features for the compiler to deal with. Go’s low resource usage and static typing also help compiling and memory management run faster and boost performance, even with concurrent operations and a garbage collector.
 
-Go also compiles into each machine’s native binary, rather than cross-platform binary like C#.
+Go also compiles into each machine’s native binary, rather than bytecode that runs within a virtual machine like C#.
 
-Alternatively, C#’s performance stems from the .NET framework, which powers C#’s garbage collector and error handling. C# performs exceptionally well on windows machines where it's most optimized and moderately well cross-platform.
+Alternatively, C#’s performance stems from the .NET framework, which powers C#’s garbage collector and error handling. C# performs exceptionally well on windows machines where it's most optimized, buts still holds its own on Linux and Mac.
 
 While C# is powerful, it’s still slower than Go. Why? Mostly due to C#'s heavier feature set, Go is simply more lightweight. There’s less overhead to your code in Go. Go programs tend to have smaller memory footprints, and generate fewer instructions. Go's simple language provides certain constraints that enable additional automatic optimization, optimizations that are otherwise unlikely to be made, like escape analysis and the inlining of lambda functions.
 
-In the end, Golang’s performance beats C# because of its simplistic style that allows it to run fast no matter what, whereas C# typically only thrives in specific environments. 
+In the end, Golang’s raw CPU speed is very similar to C#, but because of its simplistic style and native compilation, its memory usage is much lighter and Go code compiles **much** faster than C# code. 
 
-## Go vs C#: Which Has the Best Salary?
+## Go vs C#: Which has the best salary?
 
 It’s no secret that the tech industry is a well-paying one, especially as a developer.
 
@@ -82,7 +81,7 @@ And just to add insult to injury, Go was also ranked above C# as most loved and 
 
 {{< cta2 >}}
 
-## C# vs Go: Which Is Best for Web Development?
+## C# (.net) vs Go: Which is best for web development?
 
 Both languages possess the bandwidth to work in web development, but one does it better.
 
@@ -96,7 +95,7 @@ Go’s also incredibly fast, managing its multithreading system seamlessly with 
 
 When it comes to web development, C# offers more versatility in terms of adding 3rd party tools, but as a single-thread language by default. building out a multi-threaded application can be painful.
 
-## Go vs C#: Which Is Best for Game Development?
+## Go vs C#: Which is best for game development?
 
 Game development is where C#’s versatility really comes in handy.
 
@@ -108,7 +107,7 @@ Golang _can_ be used in game development and offers decent performance while doi
 
 So, while the possibility is there for Go, C# is definitely the leader in the gaming space.
 
-## Go vs C#: The Final Verdict
+## Go vs C#: The final verdict
 
 Chances are if you’re here wanting to learn a new language, it’s either because you’re looking for an easier one to use, new job opportunities, or staying on-trend, so here’s my advice to you.
 
@@ -117,9 +116,3 @@ C# is a superb choice If you’re a devoted Windows programmer, interested in ge
 However, Golang is a better option for those looking for enterprise-worthy back-end support a team can pick up fast, or if you’re interested in DevOps, and wider potential of future work.  
 
 All in all, these are two top-end languages that provide invaluable skills and will unquestionably level up your server-side development and résumé.
-
-**Take action and learn to code:**
-
-**Learn Golang:** with our [Go Mastery courses](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b). Our two Go courses cover everything from the basics to advanced concepts like concurrency, and we even have a Go Interview Prep course to help you ace your interview to land your dream coding job.
-
-All our courses are part of our wider [computer science curriculum](https://github.com/bootdotdev/curriculum) to take anyone from complete beginner to CS grad level
