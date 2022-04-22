@@ -89,7 +89,7 @@ func saveUser(db *sql.DB, user *User) error {
 }
 ```
 
-There's no way to test this function without having a database connection available at the time of testing. If a new developer clones the project they will need to set up a database or else tests will fail. If you set up continuous integration testing pipelines they will also fail without a dummy database on the server. The point is, this is _bad_.
+There's no way to test this function without having a database connection available at the time of testing. If a new developer clones the project they will need to set up a database or else tests will fail. If you set up CI pipeline tests they will also fail without a dummy database on the server. The point is, this is _bad_.
 
 Developers should be able to clone a repo and immediately run tests that pass.
 
@@ -195,5 +195,22 @@ func hash(password string) (string, error) {
 ```
 
 There is no reason I can see to write a test for the `hash` function. Before importing the `bcrypt` library I should have done due diligence and made sure that the maintainers of that codebase have written good tests. Once I'm confident that they had done so, I don't need to redundantly test all the exported functions.
+
+## So what do I do, just not test my database layer?
+
+Nope, I think you absolutely should test your database layer, I just don't think you should be using *mocks*. Where possible, I think it makes a ton of sense to write automated tests for your database logic. The way that you implement the tests will probably depend quite a bit on your tech stack, but let me give you an example of something I'd be happy to see.
+
+You could write an test script that spins up a *very real* instance of your database within a docker container, and executes *your exact queries* in a series of tests. Maybe it:
+
+1. Creates the db schema
+2. Inserts a bunch of records
+3. Checks that the insertions worked
+4. Updates some of the records
+5. Makes sure the updates performed as expected
+6. Deletes some stuff
+7. Makes sure stuff got deleted
+8. Tears down the database
+
+When done this way, you're always testing code that actually gets deployed to production. Again, the biggest problem with mocking is that there are logical paths that your code takes that never see the real-world.
 
 If you have any questions or comments about the article be sure to contact me on social and let me know.
