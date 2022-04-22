@@ -201,7 +201,7 @@ There is no reason I can see to write a test for the `hash` function. Before imp
 
 Nope, I think you absolutely should test your database layer, I just don't think you should be using *mocks*. Where possible, I think it makes a ton of sense to write automated tests for your database logic. The way that you implement the tests will probably depend quite a bit on your tech stack, but let me give you an example of something I'd be happy to see.
 
-You could write an test script that spins up a *very real* instance of your database within a docker container, and executes *your exact queries* in a series of tests. Maybe it:
+You could write a test script that spins up a *very real* instance of your database within a docker container, and executes *your exact queries* in a series of tests. Maybe it:
 
 1. Creates the db schema
 2. Inserts a bunch of records
@@ -212,6 +212,6 @@ You could write an test script that spins up a *very real* instance of your data
 7. Makes sure stuff got deleted
 8. Tears down the database
 
-When done this way, you're always testing code that actually gets deployed to production. Again, the biggest problem with mocking is that there are logical paths that your code takes that never see the real-world.
+When done this way, you're always testing code that actually gets deployed to production. Again, the biggest problem with mocking is that there are execution paths being tested that never are taken in production.
 
 If you have any questions or comments about the article be sure to contact me on social and let me know.
