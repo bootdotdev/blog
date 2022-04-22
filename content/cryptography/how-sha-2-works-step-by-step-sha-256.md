@@ -12,6 +12,12 @@ images:
 
 SHA-2 (Secure Hash Algorithm 2), of which SHA-256 is a part, is one of the most popular [hash algorithms](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) around. In this article, we will break down each step of the [cryptographic algorithm](/cryptography/what-is-cryptography/) and work through a real example by hand. SHA-2 is known for its security (it hasn't [broken down like SHA-1](https://shattered.io/)) and its speed. In cases where [keys are not generated](/cryptography/key-derivation-functions/), such as mining Bitcoin, a fast hash algorithm like SHA-2 often has the upper hand.
 
+## SHA 256 generator online
+
+If you're not familiar with SHA256, try out the generator below. Just enter any message and click the "hash" button.
+
+{{< sha256gen >}}
+
 ## What Is a Hash Function?
 
 Three of the main purposes of a hash function are:
