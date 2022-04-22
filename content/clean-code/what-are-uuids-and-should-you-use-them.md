@@ -61,3 +61,12 @@ There are 5 versions of UUIDs out there. Versions 1 and 2 are time and [MAC](htt
 The term GUID, which stands for Globally Unique Identifier, is an industry standard defined by Microsoft. As we know, UUID stands for Universal Unique Identifier. So the two terms basically mean the same thing. Apart from the fact that GUIDs (Microsoft's version) and UUIDs (an [open Internet standard defined by RFC4122](https://datatracker.ietf.org/doc/html/rfc4122)) look similar and serve similar purposes, there are minor differences.
 
 Some GUIDs may contain any hex digit in any position, while RFC4122 requires specific values for the version and variant fields. Also, GUIDs are typically written in upper case, while UUIDs should be written in lower case. Sometimes these subtle differences can cause incompatibilities between code libraries.
+
+## UUIDS vs IDs
+
+At the end of the day, all UUIDs are IDs, but not all IDs are UUIDs. A UUID is a specific type of ID that has a format like this: `3ba0b72f-4c70-4266-a117-fe64b0498f65`. We've discussed the benefits of using UUIDs as IDs above. Other common forms of IDs include:
+
+* Integers - 0, 1, 2, 3, etc
+* Slugs - Predefined strings like `status_processing`, `status_failed`, and `status_new`
+
+In reality, anything can be used as an ID, but the best IDs are unique, small, recognizable and efficient.
