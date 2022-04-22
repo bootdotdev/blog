@@ -13,7 +13,7 @@ An anonymous struct is just like a normal struct, but it is defined without a na
 
 Structs in Go are similar to structs in other languages like C. They have typed collections of fields and are used to group data to make it more manageable for us as programmers.
 
-To create an anonymous struct, just instantiate the instance immediately after declaring the type:
+To create an anonymous struct, just instantiate the instance immediately using a second pair of brackets after declaring the type:
 
 ```go
 newCar := struct {
@@ -27,7 +27,7 @@ newCar := struct {
 }
 ```
 
-Contrast this with the "normal" way of creating structs:
+Contrast this with creating a named struct type:
 
 ```go
 // declare the 'car' struct type
@@ -72,11 +72,11 @@ func createCarHandler(w http.ResponseWriter, req *http.Request) {
 
 ### Don't use `map[string]interface{}` for JSON data if you can avoid it.
 
-Instead of declaring a quick anonymous struct for JSON unmarshalling, I've often seen `map[string]interface{}` used. This is terrible in most scenarios for several reasons:
+Instead of declaring a quick anonymous struct for JSON unmarshalling, I've often seen `map[string]interface{}` used. This is *terrible* in most scenarios for several reasons:
 
-1. **No type checking.** If the client sends a key called "model" as a `bool`, but it was supposed to be a `string`, then unmarshalling into a map won't catch the error
-2. **Maps are vague.** After unmarshalling the data, we are forced to use runtime checks to make sure the data we care about exists. If those checks aren't thorough, it can lead to a nil pointer dereference panic being thrown.
-3. **`map[string]interface{}` is verbose**. Digging into the map isn't as simple as accessing a named field using a dot operator, for example, `newCar.model`. Instead, its something like:
+1. **No type checking.** If the client sends a key called "name" with a `bool` value, but your code is expecting a `string`, then unmarshalling into a map won't catch the error
+2. **Maps are vague.** After unmarshalling the data, we are forced to use runtime checks to make sure the data we care about exists. If those checks aren't thorough, it can lead to a [nil pointer dereference panic](https://boot.dev/course/41357578-6185-4d07-b463-d4efdb3635c0/cf9303e7-45a2-4ecb-8b89-847832112f79/88624902-f053-41da-b04a-6563d3599323) being thrown.
+3. **`map[string]interface{}` is verbose**. Digging into the map isn't as simple as accessing a named field using a dot operator, for example, `newCar.model`. Instead, it is something like:
 
 ```go
 func createCarHandler(w http.ResponseWriter, req *http.Request) {

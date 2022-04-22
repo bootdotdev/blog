@@ -11,17 +11,27 @@ images:
   - /img/800/1_Gs1cLsPT1FdiGZeI0h2RiQ-scaled-e1594217355954.webp
 ---
 
-SHA-2 (Secure Hash Algorithm 2), of which SHA-256 is a part, is one of the most popular [hash algorithms](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) around. In this article, we will break down each step of the [cryptographic algorithm](/cryptography/what-is-cryptography/) and work through a real example by hand. SHA-2 is known for its security (it hasn't [broken down like SHA-1](https://shattered.io/)) and its speed. In cases where [keys are not generated](/cryptography/key-derivation-functions/), such as mining Bitcoin, a fast hash algorithm like SHA-2 often has the upper hand.
+SHA-2 (Secure Hash Algorithm 2), of which SHA-256 is a part, is one of the most popular [hash algorithms](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) around. A cryptographic hash, also often referred to as a "digest", "fingerprint" or "signature", is an *almost perfectly unique* string of characters that is generated from a separate piece of input text. For example, SHA-256 generates a 256-bit (32-byte) signature.
+
+Further down in this article, we will break down each step of SHA 256's [cryptographic algorithm](/cryptography/what-is-cryptography/) and work through a real example by hand.
 
 ## SHA 256 generator online
 
-If you're not familiar with SHA256, try out the generator below. Just enter any message and click the "hash" button.
+If you're not familiar with SHA-256, try out the generator below. Just enter any message and click the "hash" button.
 
 {{< sha256gen >}}
 
-## What Is a Hash Function?
+## What is a hash function?
 
-Three of the main purposes of a hash function are:
+Like we mentioned above, a hash function generates a "fingerprint" for a given input string. For example, if we were to hash the entire text of JRR Tolkien's "The Lord of The Rings" series using the SHA 256 algorithm, we would get a 256-bit output almost unique to that book's text. If we changed even a single letter in the book, the output hash would be *wildly* different.
+
+It's worth noting that we say the output of a hash is "almost unique" because there are a **finite** number of output strings, after all, there are only ever 256 bits in the output. The number of possible inputs, however, is **infinite**, meaning some inputs will hash to the same output. When this happens, it's called a "collision", and it is nearly impossible. After all, in SHA-256 there are 2^256 possible outputs. Let me write out that number for you:
+
+```
+115,792,089,237,316,195,423,570,985,008,687,907,853,269,984,665,640,564,039,457,584,007,913,129,639,936 possible outputs for SHA-256
+```
+
+The three of the main purposes of a hash function are:
 
 - To scramble data deterministically
 - To accept an input of arbitrary length and output a fixed length result
@@ -31,17 +41,19 @@ SHA-2 is a very famous and strong family of hash functions because, as you would
 
 {{< cta1 >}}
 
-## SHA-2 Family vs SHA-256
+## SHA-2 family vs SHA-256
 
 SHA-2 is an algorithm, a generalized idea of how to hash data. SHA-2 has several variants, all of which use the same algorithm but use different constants. SHA-256, for example, sets additional constants that define the behavior of the SHA-2 algorithm, one of these constants is the output size, 256. The 256 and 512 in SHA-256 and SHA-512 refer to the respective digest size in bits.
 
-## SHA-2 Family vs SHA-1
+## SHA-2 family vs SHA-1
 
 SHA-2 is a successor to the SHA-1 hash and remains one of the strongest hash functions in use today. SHA-256, as opposed to SHA-1, hasn't been compromised. For this reason, there's really no reason to use SHA-1 these days, it isn't safe. The flexibility of output size (224, 256, 512, etc) also allows SHA-2 to pair well with popular [KDFs](/cryptography/key-derivation-functions/) and ciphers like [AES-256](/cryptography/aes-256-cipher/).
 
-## Formal Acceptance by NIST
+## Formal acceptance by NIST
 
 SHA-256 is formally defined in the National Institute of Standards and Technology's [FIPS 180-4](http://csrc.nist.gov/groups/ST/toolkit/secure_hashing.html). Along with standardization and formalization comes a list of [test vectors](http://csrc.nist.gov/groups/ST/toolkit/examples.html#aHashing) that allow developers to ensure they've implemented the algorithm properly.
+
+SHA-2 is known for its security (it hasn't [broken down like SHA-1](https://shattered.io/)) and its speed. In cases where [keys are not generated](/cryptography/key-derivation-functions/), such as mining Bitcoin, a fast hash algorithm like SHA-2 often has the upper hand.
 
 {{< cta2 >}}
 

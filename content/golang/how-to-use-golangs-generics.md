@@ -12,7 +12,7 @@ Generics in Go have been [released with Go 1.18](https://go.dev/blog/go1.18)! Th
 
 ## What is a generic type?
 
-Put simply, generics allow programmers to write behavior where the type can be specified later because the type isn't immediately relevant. This is an amazing feature because it permits writing abstract functions that drastically reduce code duplication. For example, the following generic function will split a slice in half, no matter what the types in the slice are.
+Put simply, generics allow programmers to write behavior where the type can be specified later because the type isn't immediately relevant. This is an amazing feature because it allows us to write abstract functions that drastically reduce code duplication. For example, the following generic function will split a slice in half, no matter what the types in the slice are.
 
 ```go
 func splitAnySlice[T any](s []T) ([]T, []T) {
