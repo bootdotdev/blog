@@ -13,7 +13,7 @@ images:
 
 I wholeheartedly agree with what's being taught to the students in this scene. It's tiresome to read a novel where the author drones on within the bounds of a lackluster vocabulary. This brings me to the point I wanted to emphasize in this short article:
 
-_Beautiful language and beautiful code are far from the same._
+Beautiful language and beautiful code are far from the same.
 
 **Beautiful language** doesn't simply communicate instructions from one human to another. Language well-used arouses emotions, illustrates scenery, exposes nuance, and can sing through rhyme and meter. Its purpose isn't purely functional, it's a rich medium of creative expression.
 

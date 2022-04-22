@@ -42,12 +42,12 @@ Let’s pretend that Facebook is going to receive a private post from Donald Tru
 - Facebook sends Donald Trump their public key
 - Donald Trump uses the public key to encrypt his post:
 
-_“I love Fox and Friends” + Public Key = “s80s1s9sadjds9s”_
+`“I love Fox and Friends” + Public Key = “s80s1s9sadjds9s”`
 
 - Donald Trump sends only the encrypted message to Facebook
 - Facebook uses its private key to decrypt the message:
 
-_“s80s1s9sadjds9s” + Private Key = “I love Fox and Friends”_
+`“s80s1s9sadjds9s” + Private Key = “I love Fox and Friends”`
 
 As you can see, this form of encryption can be quite useful. Here are some key points:
 
@@ -70,7 +70,7 @@ If I’m given A and B I can compute C. However, if I’m given B and C I can al
 
 `"I love Fox and Friends” + Public Key --> s80s1s9sadjds9s`
 
-If given _“I love Fox and Friends”_ and the public key, I can produce `s80s1s9sadjds9s`, but if given `s80s1s9sadjds9s` and the Public Key I can’t produce _“I love Fox and Friends”_
+If given “I love Fox and Friends” and the public key, I can produce `s80s1s9sadjds9s`, but if given `s80s1s9sadjds9s` and the Public Key I can’t produce “I love Fox and Friends”
 
 In RSA, which is arguably the most widely used public-key cryptosystem, the trapdoor function relies on how hard it is to factor large numbers into their prime factors.
 
@@ -80,7 +80,7 @@ In RSA, which is arguably the most widely used public-key cryptosystem, the trap
 
 In the example above the public key is a very large number, and the private key is the two prime factors of the public key. This is a good example of a Trapdoor Function because it is very easy to multiply the numbers in the private key together to get the public key, but if all you have is the public key it will take a very long time using a computer to re-create the private key.
 
-_Note: In real cryptography, the private key would need to be 200+ digits long to be considered secure._
+> In real cryptography, the private key would need to be 200+ digits long to be considered secure.
 
 {{< cta2 >}}
 
