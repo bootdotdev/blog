@@ -12,7 +12,7 @@ In single-page apps that use the [Vue Router](https://router.vuejs.org/), it's c
 
 ## How to Fix It
 
-The solution is to use another Vue hook, [beforeRouteUpdate()](https://router.vuejs.org/guide/advanced/navigation-guards.html#in-component-guards). Let's take the example of the [boot.dev](https://boot.dev/) [Playground](https://app.boot.dev/playground/go). The last parameter in the Playground's path is the code language, _"js"_ or _"go"_. If the boilerplate code were only fetched using a _mounted()_ hook, then when a user changed the path parameter the boilerplate code wouldn't reload.
+The solution is to use another Vue hook, [beforeRouteUpdate()](https://router.vuejs.org/guide/advanced/navigation-guards.html#in-component-guards). Let's take the example of the [boot.dev](https://boot.dev/) [Playground](https://app.boot.dev/playground/go). The last parameter in the Playground's path is the code language, `js` or `go`. If the boilerplate code were only fetched using a _mounted()_ hook, then when a user changed the path parameter the boilerplate code wouldn't reload.
 
 The reason that it _does_ reload is that the boot.dev SPA also has the following _beforeRouteUpdate()_ hook:
 

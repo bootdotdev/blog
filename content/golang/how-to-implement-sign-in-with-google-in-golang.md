@@ -84,7 +84,7 @@ func getGooglePublicKey(keyID string) (string, error) {
 }
 ```
 
-The keyID is in the JWT header under the"_kid_" field. If you are confused, don't worry, it will make sense in the next section.
+The keyID is in the JWT header under the `kid` field. If you are confused, don't worry, it will make sense in the next section.
 
 {{< cta2 >}}
 

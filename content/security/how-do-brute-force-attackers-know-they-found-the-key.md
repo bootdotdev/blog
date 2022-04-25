@@ -83,4 +83,4 @@ Instead of the attacker guess every single combination, instead, they may try ev
     
 - baby001, baby002, baby003...
     
-Assuming 50,000 words in the English dictionary, there are only 50,000,000 combinations! Again, assuming 200 guesses per second, it would take ~2.9 **days** to crack the password... that isn't very long. It is also trivial for the attacker to throw in special characters for corresponding letters. For example, "_@pp1e001_"
+Assuming 50,000 words in the English dictionary, there are only 50,000,000 combinations! Again, assuming 200 guesses per second, it would take ~2.9 **days** to crack the password... that isn't very long. It is also trivial for the attacker to throw in special characters for corresponding letters. For example, `@pp1e001`

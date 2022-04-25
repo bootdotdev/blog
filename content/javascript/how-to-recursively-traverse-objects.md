@@ -101,14 +101,14 @@ function printSubFiles(dir) {
 
 When trying to figure out how to write a function recursively, think:
 
-> _"What is my base case? What should stop the recursion from continuing?"_
+> What is my base case? What should stop the recursion from continuing?
 
 Once that's hammered out, the rest of the function just needs to answer the questions,
 
-> _"What do I want to do with my current value?"_
+> What do I want to do with my current value?
 
 and
 
-> _"How do I call myself to get to the next value?"_
+> How do I call myself to get to the next value?
 
 Recursion is an important principle to understand for any programmer, and I hope this helps you be just a little better! If you're interested in learning more about recursion and functional programming principles, take a look at our [functional programming course.](https://boot.dev/course/b1459f0c-21eb-41e5-b7f3-562ef69d344c/65e3ea51-a0c4-41d6-9e4f-750942bcb0c9/f0d6c12b-fe3f-4920-a6a0-b2ae830b1658)

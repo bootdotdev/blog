@@ -10,7 +10,7 @@ images:
 
 My worst enemy is processes that a developer spun up years ago on a server everyone has forgotten about. I don't know how to find these systems reliably, I don't know where they came from, what depends on them, and if they are safe to delete. For example, the dreaded `15 6 2 1 * /home/lane/backup.sh`. You may recognize this as a Unix cronjob, a job that is scheduled to run on a server periodically.
 
-You may be thinking, _"Why is that scary? We use cronjobs all the time!"_
+You may be thinking, "Why is that scary? We use cronjobs all the time!"
 
 If the code that manages the crontab is exists in source control within the organization's central repositories, then I actually have very little to complain about. My beef is when an engineer hops onto a server and starts up a cron job without that configuration existing anywhere in code.
 

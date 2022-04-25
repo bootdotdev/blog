@@ -10,7 +10,7 @@ images:
   - /img/800/photo-1495863367063-b9ac3e6394f7.webp
 ---
 
-Errors in Go are a hot topic. Many newcomers to the language immediately level their first criticism, _"errors in go are clunky! Let me just use try/catch!"_ This criticism is well-meaning but misguided.
+Errors in Go are a hot topic. Many newcomers to the language immediately level their first criticism, "errors in go are clunky! Let me just use try/catch!" This criticism is well-meaning but misguided.
 
 The paradigm of errors as a type, rather than something to be thrown and cause panics, allows for more control of how to handle "bad" state. It also forces developers to think about errors at every step.
 

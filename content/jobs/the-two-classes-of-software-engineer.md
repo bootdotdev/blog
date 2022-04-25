@@ -11,7 +11,7 @@ images:
 
 "Software engineer" has become a ubiquitous term for people who write, deploy, architect, or sometimes even simply test code. In reality, I think there are two classes of "software engineers"; those who understand computer science well enough to do challenging, innovative work, and those who just get by because they’re familiar with a few high-level tools. The laziness with which the tech industry has adopted the term "software engineer" has made it harder for us to distinguish between the two.
 
-For the sake of this article, I'm going to refer to those who've taken the time to study in-depth as "_computer scientists_", and those who skipped the boring stuff to learn how to deploy a React portfolio as "_developers_". Keep in mind I just need some words to work with, there's nothing wrong with the term "developer" and there's nothing magic about the title "computer scientist".
+For the sake of this article, I'm going to refer to those who've taken the time to study in-depth as "computer scientists", and those who skipped the boring stuff to learn how to deploy a React portfolio as "developers". Keep in mind I just need some words to work with, there's nothing wrong with the term "developer" and there's nothing magic about the title "computer scientist".
 
 _I won't be talking about the differences in job titles among software engineers. If that's what you're here for check out [this other article on how much money different kinds of engineers make](/computer-science/highest-paying-computer-science-jobs/)._
 
@@ -31,7 +31,7 @@ I think the divide is primarily a result of a simple anecdotal observation I kee
 
 My goal is to articulate the importance of _continuing education_, even after getting that first great job. It doesn't matter if you got your start by attending college, going to a boot camp, or taking online courses, you can become a "computer scientist" - there's no reason to settle as a "developer".
 
-I also want to point out that I don't think the distinction between the two classes lies simply in a gap of knowledge. Being a "_computer scientist_" is more about how you approach and embrace _learning_ and less about what you know _today_. You'll never know all there is to know about an industry as massive as the software industry, but the way you go about learning (or not learning) is what will make you successful.
+I also want to point out that I don't think the distinction between the two classes lies simply in a gap of knowledge. Being a "computer scientist" is more about how you approach and embrace learning and less about what you know today. You'll never know all there is to know about an industry as massive as the software industry, but the way you go about learning (or not learning) is what will make you successful.
 
 ## But why? I can make six figures without inverting binary trees
 

@@ -49,6 +49,6 @@ Cryptanalysis is the inverse of cryptography, this is, in contrast, the study of
 > 
 > [https://en.wikipedia.org/wiki/Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)
 
-In the past few years, the slang term "_crypto_" has been hijacked. It used to mean _cryptography_ or _cryptanalysis_ but has recently come to be understood as _cryptocurrency_.
+In the past few years, the slang term "crypto" has been hijacked. It used to mean _cryptography_ or _cryptanalysis_ but has recently come to be understood as _cryptocurrency_.
 
 Cryptocurrencies such as [Bitcoin](https://bitcoin.org/en/) utilize cryptographic techniques to securely transfer digital assets without a central authority.

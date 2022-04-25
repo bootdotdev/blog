@@ -31,7 +31,7 @@ We use JavaScript throughout the course for two reasons:
 
 ## What's Next?
 
-One of the next courses in our pipeline is a direct sequel to "(_Very) Basic Intro to Coding_". We need to cover other core coding concepts like:
+One of the next courses in our pipeline is a direct sequel to "(Very) Basic Intro to Coding". We need to cover other core coding concepts like:
 
 - Functions
 - Objects

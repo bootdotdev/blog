@@ -19,7 +19,7 @@ If you don't know already, boot.dev is a code-in-the-browser computer science pr
 - Focus on computer science. Too many boot camps and online courses skip CS fundamentals.
 - Hands-on. We learn by writing and executing code, videos have their place but the majority of coding education should be interactive.
 
-All of these were problems for my wife when I told her, _"you don't need to go back to school, you can [learn online](/computer-science/comprehensive-guide-to-learn-computer-science-online/)!"_. She had problems just knowing where to start with popular course marketplaces and certainly couldn't put together her own curriculum.
+All of these were problems for my wife when I told her, "you don't need to go back to school, you can [learn online](/computer-science/comprehensive-guide-to-learn-computer-science-online/)!". She had problems just knowing where to start with popular course marketplaces and certainly couldn't put together her own curriculum.
 
 {{< cta1 >}}
 

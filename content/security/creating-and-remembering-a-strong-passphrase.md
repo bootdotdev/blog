@@ -53,7 +53,7 @@ The _correct horse battery staple_ from the above XKCD is a good example, but I'
 
 _banana army acid nose spray_
 
-I would probably imagine an army of bananas doing acid while being sprayed out of a giant nose. If I repeat "_banana army acid nose spray_" out loud a couple times while imagining this ridiculous scene, then I can memorize it in just a couple seconds.
+I would probably imagine an army of bananas doing acid while being sprayed out of a giant nose. If I repeat "banana army acid nose spray" out loud a couple times while imagining this ridiculous scene, then I can memorize it in just a couple seconds.
 
 Repeating it a couple times allows you to remember the exact order of the words, but picturing the image is what will cement ii in your mind for the long term.
 

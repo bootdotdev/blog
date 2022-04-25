@@ -25,6 +25,6 @@ Facebook is at best a trustworthy app. They say they will keep our information s
 
 Ideally an application is trustworthy **and** trustless. It is open source and manages user data properly, which can be verified by the users and community. It also means that the developers aren't anonymous and are available in case something goes wrong.
 
-However, if you have to choose between a trustworthy and a trustless app, trustless is better every time. "_Don't trust, verify_" is the best motto when it comes to your private data.
+However, if you have to choose between a trustworthy and a trustless app, trustless is better every time. "Don't trust, verify" is the best motto when it comes to your private data.
 
 [Bitcoin](https://bitcoin.org) is better than banks, and open-source security software will always be safer than proprietary solutions. Stay safe out there and always do your own research!

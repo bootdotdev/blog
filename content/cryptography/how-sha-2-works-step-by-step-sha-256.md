@@ -134,7 +134,7 @@ Similar to step 2, we are creating some constants (_Learn more about constants a
 
 ### Step 4 - Chunk Loop
 
-The following steps will happen for each 512-bit "chunk" of data from our input. In our case, because _"hello world"_ is so short, we only have one chunk. At each iteration of the loop, we will be mutating the hash values h0-h7, which will be the final output.
+The following steps will happen for each 512-bit "chunk" of data from our input. In our case, because "hello world" is so short, we only have one chunk. At each iteration of the loop, we will be mutating the hash values h0-h7, which will be the final output.
 
 ### Step 5 - Create Message Schedule (w)
 
