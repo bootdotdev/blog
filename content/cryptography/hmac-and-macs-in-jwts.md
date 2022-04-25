@@ -88,7 +88,7 @@ Authentication: Bearer header.{"email":"lane@34.106.91.234"}.hmacCode
 ```
 
 - The server parses the JWT. The JWT says the user is `"lane@34.106.91.234"`
-- The server verifies that the user really is Lane by validating the HMAC code. Only someone with access to the secret key _'thisIsASecretKey1234'_ could have made the HMAC code that corresponds to the 'lane@34.106.91.234' message
+- The server verifies that the user really is Lane by validating the HMAC code. Only someone with access to the secret key `thisIsASecretKey1234` could have made the HMAC code that corresponds to the `lane@34.106.91.234` message
 - If verification is successful, then the server updates Lane's profile picture
 
 If you feel that I missed anything important, or have any questions, feel free to contact me!

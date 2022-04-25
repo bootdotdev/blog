@@ -127,4 +127,4 @@ x: 0, y: 1
 x: 0, y: 2
 ```
 
-By using the label _'outer_ we are able to control explicitly which loop is broken. The default would have been to just break from the inner loop. The same labeling system works with the _continue_ keyword as well.
+By using the label `'outer` we are able to control explicitly which loop is broken. The default would have been to just break from the inner loop. The same labeling system works with the _continue_ keyword as well.
