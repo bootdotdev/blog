@@ -2,7 +2,7 @@
 title: "Why should you learn Golang? [2022]"
 author: Meghan Reichenbach
 date: "2021-02-08"
-lastmod: "2022-4-24"
+lastmod: "2022-04-24"
 categories: 
   - "golang"
 images:
