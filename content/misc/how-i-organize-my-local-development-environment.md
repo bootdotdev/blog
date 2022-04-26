@@ -3,7 +3,7 @@ title: "How I Organize My Local Development Environment"
 author: Lane Wagner
 date: "2021-03-17"
 categories: 
-  - "golang"
+  - "misc"
 images:
   - /img/800/organize.webp
 ---

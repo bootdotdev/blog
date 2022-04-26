@@ -3,7 +3,7 @@ title: "Quantum Programming 101: Backend Monitor"
 author: Macauley Coggins
 date: "2020-05-12"
 categories: 
-  - "misc"
+  - "python"
 images:
   - /img/800/QvKyBb3LzY7gFPBxE8FFse-scaled.jpeg
 ---

@@ -1,110 +1,113 @@
 ---
-title: "Top 6 Codecademy Alternatives"
-author: Lane Wagner
-date: "2020-10-28"
+title: "8 Codecademy Alternatives That Will Get You Where You Need to Go"
+author: Zulie Rane
+date: "2022-04-26"
 categories: 
-  - "computer-science"
+  - "misc"
 images:
-  - /img/800/learning-to-code-alternatives.jpeg
+  - /img/800/photo-1533073526757-2c8ca1df9f1c.avif.webp
 ---
 
-Learning to code in the digital age is a skill that will serve you well throughout your career and life in general. However, we've found that many get overwhelmed trying to find the right platform, the perfect first language, the best framework, or the best online communities.
+Just last month, Codecademy was [sold](https://www.businesswire.com/news/home/20220404006017/en/Skillsoft-Completes-Acquisition-of-Codecademy) to Skillsoft for $525 million. Not too shabby, and entirely well-deserved if you ask me. I’ll be straight with you, I love Codecademy. Maybe you’re wondering why I’m opening with that in an article about its alternatives, but I want to start with the history so you can really grasp what Codecademy alternatives are good for.
 
-There are many options out there, and where you're at in your educational journey will determine where you should start. Let's dive into the top 6 best code academy alternatives and what their strong suits are.
+Codecademy was launched in 2011 by a Columbia dropout and his Columbia non-dropout friend, it was one of the very first online learning platforms for coding. And it was revolutionary – for its time. Up till then, wannabe coders had to take a whole-ass computer science degree or watch grainy YouTube videos and figure out command lines themselves. With Codecademy’s cheery interface and free guided classes, suddenly everyone could learn to code.
 
-## Why Learn to Code?
+After Codecademy raised $12.5 million in funding, other smart people got the bright idea that maybe there’s a market for user-friendly coding platforms. The computer science job market began to heat up, creating a deficit of skilled workers that’s [still](https://www.bls.gov/ooh/computer-and-information-technology/home.htm) in place today according to the Bureau of Labor Statistics. Today, there are dozens of alternatives to Codecademy
 
-Learning to code can help you in many aspects of life and for many provides a stable career with a bright outlook. In addition to a great salary, becoming a developer can provide some of the following benefits:
+Because most courses have similar pricing, I’ll be comparing these Codecademy alternatives mostly on other merits. Just for comparison’s sake, though, you should know that Codecademy has a free tier. To get access to the career tracks and extended courses, you’ll have to pay for the Pro tier, which costs $39.99 per month ($19.99 if billed annually).
 
-- Remote work, depending on the company
-- Flexible schedule, no one needs to cover your shift
-- Casual dress, very few tech companies have a strict dress code
-- Practice with left-brain analytical thinking
+It’s a great platform. But it can’t do everything. It has a number of shortcomings that make it less than a perfect solution in a number of circumstances. If you’ve stumbled upon this article because you’ve googled “alternative to Codecademy,” you’re probably in one of those circumstances.
 
-{{< cta1 >}}
+Let’s get into our lineup and see if you can’t find a better option.
 
-## 6 Codecademy Alternatives
+## Boot.dev: Nail the Fundamentals
 
-Choosing a coding program online may seem like a daunting task. When my wife started to learn to code, she was overwhelmed and felt that since she knew nothing about programming, she was unequipped to even be able to _choose_ a good program. Don't think that, there _are_ solutions!
+The issue with Codeacademy is that it’s geared toward shoehorning in all the skills without the basic underpinnings that actually make you *get* computer science.
 
-### [1. Boot.dev](https://boot.dev/)
+Let’s be clear: The Codecademy courses are decent for beginners. They walk you through most of the skills you need. But as any industry veteran knows, the listed skills on your resume don’t mean much. It’s the portfolio that gets you the interview, and the real-time skills you show at the interview that get you the job.
 
-[![Qvault Logo - Learn to Code](/img/800/QVault-app-min-150x150.png)](https://boot.dev/)
+Codecademy’s courses, especially the Pro ones, will get you the skills and maybe even a project or two for your portfolio. But your understanding of computer science fundamentals will never really be challenged. When it comes to getting a job with Codecademy, you might be let down by your lack of conceptual understanding.
 
-Time for a shameless plug, [boot.dev](https://boot.dev/) is a great place to start. While coding can be complicated, boot.dev is a browser-based web app that makes it simple. With several different courses and difficulties to choose from, boot.dev is perfect for anyone from an absolute-beginner that doesn't know where to start, to a senior developer that's just looking to learn a new language or concept.
+[Boot.dev](https://boot.dev), by contrast, is all about building strong foundations. The courses are geared around concepts and use coding languages to help you grasp those concepts, like Functional Programming or Big-O algorithms.
 
-**Key points:**
+Price comparison: Boot.dev costs $29.99 a month, or $16/month when billed annually. There’s also a free sandbox version.
 
-- boot.dev makes its courses feel like videogames.
-- boot.dev focuses on quality over quantity. All their content is created and curated by boot.dev, no scammy third party courses.
-- All-in-one feel. All code is written and executed right in the browser.
-- Tutorials are text-based, interactive, and easy to follow.
-- boot.dev focuses on [computer science, not just programming](/computer-science/why-learn-computer-science/).
-- boot.dev is a new platform and doesn't have an abundance of courses yet, but new ones are added frequently
-- boot.dev hosts developer profiles and certificates that are free forever
+## Datacamp: Go Deeper into Data Science
 
-**Takeaway:**
+Codecademy has a solid Data Science Career Path track. But it just has the one. As you may imagine, it’s close to impossible to stick all of Data Science Career knowledge into a single course. While it does delve into a wide range of tools, languages, and concepts, that breadth makes it tough to feel like you’ve got a good grounding in what you really need from a course that allegedly is going to give you career knowledge.
 
-Boot.dev is a particularly good choice for beginner to mid-level students that want to learn computer science, not just coding.
+Datacamp is the Codeacaemy alternative I recommend if you want a little more flexibility in the (extremely broad) field of data science. Datacamp offers multiple career paths, which makes sense since data scientists are not a conglomerate. Each track will discuss a single language and a smaller selection of concepts and tools than the Codeacademy one. However, if you do all the Datacamp courses, you’ve got a better grounding in data science than if you do the single Codecademy one. Even if you don’t, you still have more flexibility to choose the area of data science that appeals most to you.
 
-### [2. Free Code Camp](https://www.freecodecamp.org/)
+Price comparison: The two are comparable. For Datacamp’s pro version, you’ll pay $39.99 per month, or $12.42 per month if you get billed annually.
 
-Free Code Camp is another good option and is completely free. Free code camp is focused less on computer science and more on web development. Free code camp is an open-source community, which means that many users online contribute to the content. This means that the content is well-vetted for high accuracy, but there is also less of a central vision for the curriculum.
+## Code.org: Don’t Pay
 
-**Key points:**
+Usually, you get what you pay for. Code.org is a great exception to this rule as it is a kick-ass resource that is completely free. Brothers Hadi Partovi and Ali Partovi founded this non-profit mostly because 90% of American schools don’t teach code.
 
-- Free
-- Open-source
-- Web-development focused
-- Mostly JavaScript, HTML, and CSS
-- Most assignments online, some offline
+Code.org is the coolest of all Codecademy alternatives, ethically speaking. It’s a non-profit that focuses on bringing coding literacy to high schools, focusing on rural and urban schools. They also spend a lot of resources appealing to female and minority students since they’re historically most at risk of not getting any comp sci education before college.
 
-**Takeaway:**
+The main problem is that it’s aimed at literal children. But honestly, when I started coding, I probably had the same skills as a particularly enterprising 7-year-old since I was one of the aforementioned girls who didn’t get any comp-sci education prior to college. I love their Disney/video game/animal-oriented courses. Alongside their courses, they also offer “Hour of Code” tutorials that only take an hour to get something out of. These are great for quick wins.
 
-Great for students who already have some experience with technology and are willing to sacrifice some simplicity for a completely free curriculum.
+Price comparison: literally free.
 
-### [3. Exercism](https://exercism.io/)
+## freeCodeCamp: Learn Web Development
 
-Exercism is a good alternative for beginners who want a personalized learning experience with a human mentor. Exercism also free and open-source like Free Code Camp. Exercism relies on unpaid volunteers who are willing to spend time mentoring students and doing code reviews.
+freeCodeCamp has a very relatable origin story. Back in 2014, a teacher named Quincy Larson wanted to learn to code so he’d be able to make better learning tools for his students. His journey was so circuitous and painful that he was inspired to create freeCodeCamp as a way to save anyone else from having to do the same thing as him.
 
-**Key Points:**
+Compared to Codecademy, FreeCodeCamp is like an older (and free) sister in the web development field. The curriculum is intense - a full 2,080 hours or about a year of full-time coding. It also partners extensively with other nonprofits to build web applications.
 
-- Free
-- Open-source
-- Human interaction with a mentor
-- Can be more time consuming due to waiting on mentors and real-time communication
+The only downside is that it’s heavily based on web development.
 
-**Takeaway:**
+Price comparison: again, free. It’s in the name.
 
-A good choice for someone who wants to learn from a real person.
+## Coursera: Get High-Quality Video Tutorials
 
-### [4. Tutorials Point](https://www.tutorialspoint.com/)
+Coursera is basically a video platform that pulls in resources from a ton of highly respected institutions. If you search “computer science” on their site, you’ll see video course options ranging from Princeton to IBM. They do offer some guided projects (like building a web app with Python and Flask, for example), but their strength is their massive library of content.
 
-Tutorials Point doesn't have courses so much as it has, well, tutorials. It's known for free tutorials and documentation that can be accessed without needing to log in. The use-case for Tutorials Point is more like technical documentation than a learning curriculum. It's a great place to find an answer to a specific question.
+It’s excellent for videos. It’s less great for anything else. As a Codecademy alternative, it’s best for those who are looking for prestigious certifications or who prefer video learning.
 
-**Key points:**
+Price comparison: $39-$79 per month
 
-- Free and doesn't require login
-- Not really a structured curriculum, more like one-off tutorials
-- Great for finding answers to specific questions and queries
+## Zero to Mastery: Aimed at Real Beginners
 
-### [5. TreeHouse](https://teamtreehouse.com/)
+Zero to Mastery is an interesting one. Basically, it’s a collection of experts who made video courses on a ton of different subjects, all hosted on Udemy. I myself am a Zero to Mastery teacher - my course on the basics of blogging is coming out in just a few weeks.
 
-TreeHouse is a paid option, but it does a good job of teaching people, especially people that prefer videos. Like many platforms, Treehouse has a focus on web design, development, and IOS. I'm personally a fan of learning by coding, but I understand that some prefer videos.
+The great thing about ZTM, especially as an alternative to Codecademy, is that it really does start from zero as the name implies which is great for beginners. Is Codecademy good for beginners? I would argue it depends a lot on the beginner in question.
 
-**Key points:**
+Zero to Mastery, meanwhile, assumes absolutely no prior knowledge. You get hand-fed little nuggets of info from charismatic, charming teachers who know their stuff.
 
-- Paid SaaS model with a free trial
-- Focus on web development
-- Mostly video courses
+Even though it’s primarily video tutorials, they offer workbooks and projects to complete on the side. There’s a pretty big range of courses and tracks, too. What I also like about it is that it updates regularly, which is a massive pro for any computer science/data science learning platform.
 
-### [6. Udemy](https://www.udemy.com/)
+Price comparison: $39.99 monthly, or $23/month when billed annually.
 
-Udemy is a behemoth platform with an insane amount of content. Users are able to create their own courses which is a blessing and a curse. Udemy is great because you can find a course for anything. That said, it can sometimes be hard to know if the course you are buying is the _best_ one on a given subject.
+## edX: Guided Learning
 
-**Key points:**
+Remember how I was saying that before platforms like Codecademy got their start, your only options were degrees or DIY-ing it? edX is a throwback to that era but in a good way. Harvard and MIT worked together to build this MOOC that is like an online degree, basically, but very affordable and flexible.
 
-- Some paid courses, some free
-- Tons of content
-- Quantity over quality
-- You can probably find that niche course about underwater basket weaving
+Every course has a weekly learning sequence. Students get a set of short videos mixed in with interactive exercises that let them practice those concepts they just learned. There’s also a pretty solid community, not dissimilar from what you’d get in a real campus class – forums where students and teachers can post and answer questions.
+
+All in all, it’s quite similar to Coursera, but with more hands-on learning. It’s so structured and guided. As a Codecademy alternative, it’s best for folks who don’t want to rely on video courses only
+
+Because it’s so highly respected, you can also get a certificate that is accepted at plenty of universities. So it’s like a degree-lite - it costs between $50 and $300 to get a certificate upon completing a course.
+
+Price comparison: the vast majority of edX courses are free, but you do have to pay a one-time fee to take the certified version.
+
+## DIY: DIYers Only
+
+My final alternative to Codecademy is to learn on your own. Honestly, the information is out there. Nowadays, most enlightened employers don’t really *need* a certificate saying you completed this boot camp or that course. If you have a portfolio of projects and you can hold your own in interviews, you’re on your way.
+
+YouTube videos, textbooks, free tiers of any/all the Codecademy alternatives mentioned above - all of them will help you DIY your way to know how to code. My biology degree did teach me the basics of R, but I never really “got” it until I was forced to actually google what a for loop is and implement it in my own code. I was motivated to do that because I was dying to answer a research question for my Masters and nobody else felt like helping me. (Fair enough.) Google, StackOverflow, R textbooks, GitHub, and most importantly, my burning desire to satisfy my curiosity taught me how to code.
+
+DIY learning is a good Codecademy alternative if you don’t like guided learning at all. Personally, I have never been motivated by a screen telling me what to do next. Course-sponsored projects have never gripped me. So I know other people like me are out there.
+
+Price: free, but at the cost of many frustrated fruitless hours staring at your screen begging to know why the code isn’t working and knowing it’s your own fault for not going through a regimented learning program.
+
+## What’s the very best Codecademy alternative?
+
+There’s never going to be a single Codecademy alternative that’s perfect for every single person who wants to learn to code. Each of these platforms was made by a different person or team, with different motivations and goals. Everyone comes to their coding journey from a slightly different place, and with different needs. Some of those coding needs aren’t even met yet – it’s tough to find a coding course or platform for non-English speakers.
+
+As I said, when I tried Codecademy back in 2015, the “best” Codecademy alternative for me was writing off courses and programs entirely and doing it all myself. That would not work for a lot of people.
+
+Instead of offering a definitive or ranked list, I wanted to make a list with all the details you would need to make the choice for yourself. Look through this list of Codecademy alternatives and see which one speaks to you. You may even find that Codecademy is your best bet after all. And most of these options offer some kind of free tier, so you should definitely feel free to try any out that look interesting.
+
+Disagree? Any you’d like to add? Let me know in the comments?
