@@ -24,6 +24,10 @@ fs.readdirSync(srcDir).forEach(async (file) => {
       .resize(maxWidth, null, { withoutEnlargement: true }) // width, height
       .webp()
       .toFile(dest);
+
+    fs.unlinkSync(src);
+
+    console.log(`minified to: ${dest}`);
   } catch (err) {
     console.log(err, file);
   }

@@ -46,6 +46,14 @@ For example, you might learn in a course that PostgreSQL is a relational databas
 
 Our courses offer a mix of the computer science facts you need to internalize as well as the community of experienced coders to give them context.
 
+## There is something magical about learning with others.
+
+Similar to gaining insights from mentors, it's really important to also have other learners with you who are learning the same things. There are a couple great reasons for this, but a few of the most important include:
+
+* The empathy you share with others who are learning the same thing is insanely high. You'll have an easier time helping each other, and will also be more willing to do so.
+* The motivation provided by peers is strong. Keeping each other accountable and on track is a great way to overcome common motivation issues with online learning.
+* Explaining a concept to a fellow learner that needs help is one of the best ways to learn yourself. When you teach something, you automatically reinforce your learning on that topic in a serious way.
+
 ## Understanding and retaining information is important, grades are not.
 
 In an ideal learning environment, students don’t move from one concept to the next until they’ve shown mastery of the first. In traditional schooling speak, that means only A-plus students should move on to the next class.
