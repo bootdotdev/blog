@@ -69,3 +69,11 @@ If you already have blog posts or videos that get organic traffic, consider addi
 ### Avoid low-effort posts
 
 Don’t just tweet your affiliate link with no context, provide value to your audience every time you create content. Low-effort posts won’t result in sales for you or us, and they just ruin your personal brand.
+
+## Assets
+
+![image](/img/800/boot_dev_logo_full_256.png)
+
+![image](/img/800/1500x500.jpeg.webp)
+
+![image](/img/800/278813076_975866303132499_5198202077541208923_n.png.webp)
