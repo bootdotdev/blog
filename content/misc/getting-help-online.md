@@ -1,7 +1,7 @@
 ---
 title: "How Not to Ask for Help Online"
 author: Lane Wagner
-date: "2021-05-20"
+date: "2022-05-20"
 categories: 
   - "misc"
 images:
