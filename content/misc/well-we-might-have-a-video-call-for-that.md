@@ -36,7 +36,7 @@ Processes like deployments, access to company secrets, development environment s
 
 > The reason for this is not just working in different timezones, but also the fact that everyone will have their own daily routine, and/or have their individual times when they are most productive. Which you _will not attempt to synchronize._ (Doing so would mean setting the entire team up for failure.)
 
-If you've read my article about [meetings](https://qvault.io/news/too-many-meetings/), you might assume that I completely agree with Florian here. My only problem with this section of his article is that I _really_ enjoy taking certain email threads or slack conversations into an impromptu, synchronous slack call. This happens for me ~2 times a day on average. Don't get me wrong, I don't want a meeting when it can be an email or a quick slack message. What I hate is having a _discussion_ over email or slack. It's just so damn slow.
+If you've read my article about [meetings](/misc/too-many-meetings/), you might assume that I completely agree with Florian here. My only problem with this section of his article is that I _really_ enjoy taking certain email threads or slack conversations into an impromptu, synchronous slack call. This happens for me ~2 times a day on average. Don't get me wrong, I don't want a meeting when it can be an email or a quick slack message. What I hate is having a _discussion_ over email or slack. It's just so damn slow.
 
 Examples of good email/slack messages:
 

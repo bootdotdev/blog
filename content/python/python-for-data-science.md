@@ -62,7 +62,7 @@ If you want to get into data science, you won’t get far without knowing at lea
 
 I remember when I learned the name of someone who codes in Python: a Pythonista. I loved it. And one of the prime benefits of learning Python for data science is that you’ll get access to an incredible community of Pythonistas and become one yourself. (There are more benefits than just the cool name.)
 
-Because it’s been around for three decades, because it is easy to learn and easy to build with, because it’s remained relevant to so many people and companies for long, there is a huge and enthusiastic community of Pythonistas out there who are more than happy to share their tips, answer your questions, correct your code, and discuss new ideas. You can find them anywhere - Reddit has a [particularly active community](https://www.reddit.com/r/Python/), but you even have [Discord groups](https://discord.me/qvault) popping up to chat about Python.
+Because it’s been around for three decades, because it is easy to learn and easy to build with, because it’s remained relevant to so many people and companies for long, there is a huge and enthusiastic community of Pythonistas out there who are more than happy to share their tips, answer your questions, correct your code, and discuss new ideas. You can find them anywhere - Reddit has a [particularly active community](https://www.reddit.com/r/Python/), but you even have [Discord groups](https://discord.gg/EEkFwbv) popping up to chat about Python.
 
 The reason this makes learning python such a great choice for data science is because learning any kind of language is hard, especially if you’re feeling professional pressure. Communities like the ones that have sprung up around Python make that easier.
 
