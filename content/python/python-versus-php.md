@@ -68,7 +68,7 @@ Python has undergone two major version changes since its inception, and though y
 
 PHP on the other hand is already on its 8th major version, which was only released in 2020. This update is a major one. If you check out the examples posted in their documentation of changes from PHP 7 to PH 8, there are syntax changes scattered throughout, even just the tags for an HTTP request method in a controller. 
 
-This new version makes PHP more readable and concise, but it’s still a lot less pretty to look at than Python. It can cause [major security issues](https://qvault.io/python/python-versus-php-nine-reasons/#:~:text=major%20security%20issues) if you do not use the most up-to-date version of PHP, which means it is crucial that you stick with the newest version. This will cut down on the amount of available learning material you can use, making it harder to get all of your questions answered.
+This new version makes PHP more readable and concise, but it’s still a lot less pretty to look at than Python. It can cause [major security issues](/python/python-versus-php/#python-versus-php-security) if you do not use the most up-to-date version of PHP, which means it is crucial that you stick with the newest version. This will cut down on the amount of available learning material you can use, making it harder to get all of your questions answered.
 
 ## Python versus PHP: Security
 

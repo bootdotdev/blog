@@ -67,7 +67,7 @@ Kim is 22 years old.Kim is 22 years old.
 
 When compiled to Web Assembly, the `fmt.Printf` function is writing to a buffer, and that buffer is not cleared until a newline character is printed to standard out. In other words, you can call `fmt.Printf` as many times as you want, but nothing is printed until a `\n` character comes through standard output.
 
-Take a look at the `writeSync()` code in Go's [wasm\_exec.js](https://github.com/lane-c-wagner/classroom.qvault.io/blob/master/public/wasm_exec.js#L43), which is a required include to execute Go Web Assembly in the browser:
+Take a look at the `writeSync()` code in Go's `wasm_exec.js`, which is a required dependency to execute Go Web Assembly in the browser:
 
 ```go
 writeSync(fd, buf) {

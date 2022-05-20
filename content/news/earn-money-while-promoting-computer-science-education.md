@@ -18,4 +18,4 @@ We just launched our new affiliate partner program to give Dev bloggers and infl
 
 You can read more about the program on our [affiliate page here.](/affiliates/)
 
-Or you can sign up and [get started right away here](https://qvault.getrewardful.com/).
+Or you can sign up and [get started right away here](https://bootdev.getrewardful.com/signup).

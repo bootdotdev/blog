@@ -27,7 +27,7 @@ const frameRate = 60
 - Must be able to be assigned at compile time. The value of a `const` can't be the result of a runtime calculation
 - Run faster because the compiler can make specific optimizations
 - Cannot change. The compiler will not allow them to be re-assigned
-- Only work with some types. [Arrays, Slices, Maps, Structs, etc... can't be made constant (or can they?)](https://qvault.io/2019/10/21/golang-constant-maps-slices/)
+- Only work with some types. [Arrays, Slices, Maps, Structs, etc... can't be made constant (or can they?)](/golang/golang-constant-maps-slices/)
 - Are not normal Go types unless explicitly assigned as such
 
 ### Constants in JavaScript
@@ -40,7 +40,7 @@ The takeaway if you are coming from JavaScript is that Go's constants are just _
 
 In Go, constants provide _complete safety_ in regards to the value they hold. They cannot be computed (making them used less often), but are guaranteed to always reference the same value.
 
-In JavaScript, all a `const` does is ensure that the same [name](https://qvault.io/clean-code/naming-variables/) can't be changed to reference a different variable in the same scope.
+In JavaScript, all a `const` does is ensure that the same [name](/clean-code/naming-variables) can't be changed to reference a different variable in the same scope.
 
 ## Go's Constants Must Be Assigned At Compile Time
 
@@ -126,7 +126,7 @@ type myString string
 const lane myString = "wagslane"
 ```
 
-Other types like arrays, slices, and maps can not be declared as constant. This makes sense because those types are essentially just pointers, which are addresses of mutable data. However, I have written [another article on the elegant ways to get "effectively constant" slices and maps in Go](https://qvault.io/2019/10/21/golang-constant-maps-slices/).
+Other types like arrays, slices, and maps can not be declared as constant. This makes sense because those types are essentially just pointers, which are addresses of mutable data. However, I have written [another article on the elegant ways to get "effectively constant" slices and maps in Go](/golang/golang-constant-maps-slices/).
 
 By contrast, in JavaScript, _anything_ can be made constant. JavaScript arrays can be declared as constant, but it doesn't stop the programmer from mutating the elements of the array! The only safety JavaScript's `const` provides is that the variable can't be explicitly reassigned.
 

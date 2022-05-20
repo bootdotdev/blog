@@ -40,7 +40,7 @@ There are many types of checksums, but the best checksums are typically [cryptog
 - **Rare collisions** - The likelihood of two different messages creating the same checksum should be astronomically unlikely
 - **Small** - The result of the hash (AKA the "digest") should be short - no need to waste a lot of data.
 
-The [SHA-256](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/) hash function is often used to create checksum digests.
+The [SHA-256](/cryptography/how-sha-2-works-step-by-step-sha-256/) hash function is often used to create checksum digests.
 
 ## Example - Validating a Real Checksum
 
