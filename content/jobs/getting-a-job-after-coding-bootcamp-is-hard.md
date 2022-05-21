@@ -61,19 +61,17 @@ The obvious answer to this is to study [computer science at college](/computer-s
 
 So what’s the solution?
 
-## Learn at your own pace with online computer science courses
+## Learn at your own pace
 
-Your ideal solution is something that allows you to learn those basics, get your applied practice, and do it all while still working or raising a family. Fortunately, the internet is a huge place and there is an endless amount of content that can help you learn the basics of computer science.
+Your ideal solution is something that allows you to learn those basics, get your applied practice, and do it all while still working or raising a family. Fortunately, the internet is a huge place and there is an endless amount of content that can help you learn from a [coding bootcamp completely online](/education/top-online-bootcamps).
 
-The rigid, time-intensive structure of bootcamps doesn't suit most people, and giving people freedom and empowerment over their own CS learning adventure -- on their own terms and time -- was one of the main drivers at boot.dev for creating our interactive coding courses.
+The rigid, time-intensive structure of in-person bootcamps doesn't suit many people, and giving people freedom and empowerment over their own CS learning adventure -- on their own terms and time -- was one of the main drivers at boot.dev for creating our interactive coding courses.
 
 We wanted to create courses that people could dip in and out of, but that could still engage and teach effectively -- with our _learn by doing_ philosophy front and center.
 
 We've created a set of courses that form an equivalent CS degree, but that you can take on your own time, and even just take courses based on your own interests, such as our [Python Track](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/). Actually completing real-life-mimicking lesson challenges forces you to learn and retain the concepts, and puts you far ahead of video lecture learners in your computer science journey.
 
 If you've completed a coding bootcamp but are still struggling to land a job, we've designed courses especially for you. Common areas that stump people in technical interviews include data structures and algorithms, which we've dedicated three courses to covering.
-
-[Start Learning Now](https://boot.dev/dashboard/courses)
 
 ## Other options for self-study
 
