@@ -30,6 +30,8 @@ The package [typing](https://docs.python.org/3/library/typing.html) allows assig
 
 There also exist tools for static type checking, like [mypy](http://mypy-lang.org/). This can make it easier to find bugs with less debugging. Static typing also makes your code a lot easier to understand. Mypy is able to infer the types of other variables, so static and dynamic typing can be mixed when using it, so you only need to statically type where it makes sense.
 
+{{< cta1 >}}
+
 ## Python Best Practices #2: Docstrings
 
 Writing meaningful comments and documentation is always important. It helps others understand the gist of a class, method, or package by reading through it without having to thoroughly inspect the code just to get an idea of what’s going on. For example, if you’re debating between using two methods from a package that do similar but distinct things, it’s great to have documentation to quickly understand what the difference is without having to read through the source code. 
@@ -58,6 +60,8 @@ Testing is a crucial part of software development. Any piece of code that goes i
 
 Although unittest is a handy framework, there is still room for improvement. [Pytest](https://docs.pytest.org/en/6.2.x/) is a great package for elevated testing. For example, using pytest, you can easily parametrize fixtures and functions using the parametrize decorator, where you can pass in arguments for tests along with the corresponding expected output.
 
+{{< cta2 >}}
+
 ## Python Best Practices #5: Architecture
 
 Structuring your Python project is key to its success. It’s very important that you set up your repository with a meaningful and simple folder structure. You should be able to quickly find what you’re looking for, and files should be strictly organized. Tests should be kept separate from production code.
@@ -79,6 +83,8 @@ Another important aspect of managing your application’s execution environment 
 Last but not least is naming conventions. The names of variables, modules, and classes, and functions is incredibly important. Although Python is known as one of the most readable programming languages, if your [variables and objects are named poorly](/clean-code/naming-variables), or even worse, in a confusing manner, then any other developers will struggle trying to make heads or tails of your code. 
 
 Python has an [official guide](https://www.python.org/dev/peps/pep-0008/) to it as well, which is a great jumping-off point. The key here is consistency. If you’re working with others, make sure you’ve all agreed to one naming strategy.
+
+{{< cta3 >}}
 
 ## Python Best Practices Are Critical to Good Coding
 

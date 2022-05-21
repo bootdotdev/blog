@@ -130,6 +130,8 @@ Other types like arrays, slices, and maps can not be declared as constant. This 
 
 By contrast, in JavaScript, _anything_ can be made constant. JavaScript arrays can be declared as constant, but it doesn't stop the programmer from mutating the elements of the array! The only safety JavaScript's `const` provides is that the variable can't be explicitly reassigned.
 
+{{< cta3 >}}
+
 ## Constants Are Untyped By Default
 
 In Go, variables can have their typed inferred:

@@ -90,11 +90,11 @@ s1 := primes[1:4]
 
 When slicing an existing array or slice the first index is inclusive while the last index is exclusive. If an index is omitted on one side of the colon, then all values until the edge of the original slice are included in the result.
 
+{{< cta3 >}}
+
 ## 9. Are channels and maps safe for concurrent access?
 
 Channels are safe for concurrent access, for this reason they have blocking operations. Maps are unsafe for concurrent access and require a locking mechanism like a mutex to be safely used across goroutines.
-
-{{< cta3 >}}
 
 ## 10. How would you [sort](/golang/sorting-in-go-dont-reinvent-this-wheel/) a slice of custom structs?
 

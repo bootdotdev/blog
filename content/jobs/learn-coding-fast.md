@@ -90,6 +90,8 @@ The best way I've found to get this experience when you're out on your own is to
 
 _Tip: Employers will want to see your Github profile, make it impressive!_
 
+{{< cta3 >}}
+
 ## 8. When you get stuck, sleep on it
 
 Some of the biggest algorithmic and architectural "breakthroughs" I've had have been while I'm falling asleep, or when I get a fresh look at a problem the next day. Sometimes our brains get stuck in a state where it can be hard to see a good solution - we probably just have the wrong things loading in RAM. Letting your brain get a full reboot can be seriously helpful when you hit a serious roadblock.

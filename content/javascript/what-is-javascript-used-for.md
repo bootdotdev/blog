@@ -32,6 +32,8 @@ JavaScript is widely known for making the Internet pretty. There are a lot of gr
 
 You may remember the [New York Times’ visual coverage](https://www.nytimes.com/interactive/2021/world/covid-cases.html) of the global Covid-19 outbreak, like this one. Americans alone use 4.2 million GB of internet data every single minute. Big data is here to stay, and in order to make sense of all of this data, we need data visualizations. There are so many different ways to visually represent data, from a simple pie chart to heatmaps of electricity sources. JavaScript is a must-use web development programming language for visualizing complex data sets.
 
+{{< cta1 >}}
+
 ## Web Server and Server Applications with JavaScript
 
 What is JavaScript used for, other than the frontend web? Well, the Node.js framework is used to create server-based applications. Node.js enables JavaScript code to be run on the server. The results are then downloaded and displayed in the browser. Node.js also has an HTTP module that can be used to build an HTTP server. Node.js was designed to build scalable server applications.
@@ -55,6 +57,8 @@ And other than those three uses, what is JavaScript used for? Although Python te
 The classic way in which machine learning developers make their models available is by having them run on a server and allow requests and share results via an API. There are several situations, however, where it is advantageous to run the model on the end user’s device. For example, the model that recognizes the faces of your contacts in the photos that are stored in your phone could be run locally on your device, so your photos remain private and never leave your device.
 
 Another advantage of machine learning with JavaScript is that your [machine learning application](https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/) can run in all modern browsers, which makes it accessible to a lot more people than if they have to set up their development environment to get your Python code running. TensorFlow.js allows you to convert Python TensorFlow models to run in the browser too, so you can take any work you’ve already done there and convert it. There are tons of cool projects that use TensorFlow.js for live tools, like YouTube’s LipSync or this model used to classify [baseball pitch types](https://github.com/tensorflow/tfjs-examples/tree/master/baseball-node).
+
+{{< cta2 >}}
 
 ## Career Possibilities with JavaScript
 

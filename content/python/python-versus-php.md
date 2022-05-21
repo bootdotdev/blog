@@ -22,6 +22,8 @@ PHP has also been deemed a general-purpose scripting language. It was one of the
 
 ![python vs php](/img/800/pythonvsphp.webp)
 
+{{< cta1 >}}
+
 ## Python versus PHP: Easiest to Learn
 
 Python was created with the intent to be incredibly easy to understand. Most people who are not familiar with programming can fairly easily read through a Python script and get the gist of it, as long as whoever wrote it was good at [naming variables](/clean-code/naming-variables)! 
@@ -48,6 +50,8 @@ When it comes to popularity, Python leads by a wide margin. No matter which rank
 
 The main reason PHP is so widely used comes down to legacy websites, and WordPress. WordPress is an open-source no-code tool for managing websites, and since it’s written in PHP and is so popular, PHP gets a nice usage bump. WordPress also used to be more loved than it is today, so any old websites built using PHP back when it was cool are likely still using it.
 
+{{< cta2 >}}
+
 ## Python versus PHP: Libraries
 
 [Python has over 137,000 libraries](https://www.mygreatlearning.com/blog/open-source-python-libraries/#:~:text=There%20are%20over%20137%2C000%20python,data%20manipulation%20applications%20and%20more.). Python libraries are incredibly powerful and active chunks of code that can make your life as a developer significantly easier. Whether you’re talking about machine learning, network programming, or web development, there are myriad libraries to help you implement powerful tools.
@@ -69,6 +73,8 @@ Python has undergone two major version changes since its inception, and though y
 PHP on the other hand is already on its 8th major version, which was only released in 2020. This update is a major one. If you check out the examples posted in their documentation of changes from PHP 7 to PH 8, there are syntax changes scattered throughout, even just the tags for an HTTP request method in a controller. 
 
 This new version makes PHP more readable and concise, but it’s still a lot less pretty to look at than Python. It can cause [major security issues](/python/python-versus-php/#python-versus-php-security) if you do not use the most up-to-date version of PHP, which means it is crucial that you stick with the newest version. This will cut down on the amount of available learning material you can use, making it harder to get all of your questions answered.
+
+{{< cta3 >}}
 
 ## Python versus PHP: Security
 

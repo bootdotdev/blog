@@ -104,6 +104,8 @@ Should you choose the Ruby programming language vs Python for readability? This 
 
 However, it's not like Ruby is dense and difficult to read. It produces elegant and readable code, and allows for developers to retain their originality and creativity when it comes to writing code. This is because Ruby offers multiple solutions to the same problem, unlike python. I find this makes it slightly less readable than Python, but it's not as bad as something like Perl.
 
+{{< cta3 >}}
+
 ## 9. Ruby vs Python: Which is more innovative?
 
 Ruby coders love to tout [Ruby’s development model](https://www.educba.com/python-vs-ruby-performance/) of “move fast and break things.” This means it's likely more innovative than Python, or at least used in more modern projects. Python has had a slow, steady growth over the years.

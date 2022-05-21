@@ -14,8 +14,6 @@ In fact, the component we'll be building is the exact same component that we use
 
 You can see a [full demo on codesandbox here](https://codesandbox.io/s/custom-vue-slider-component-8esy1). If you're like me, you prefer to build your own lightweight UI components, rather than import a bloaty library that you don't have the ability to modify and change easily.
 
-{{< cta1 >}}
-
 ## The HTML
 
 ```html
@@ -73,6 +71,8 @@ export default {
 ```
 
 Like I mentioned above, this sets up the use of `v-model`. We set the default `currentValue` to the `this.value` prop, and by emitting the current value with the `@input` hook, we are good to go.
+
+{{< cta1 >}}
 
 ## The CSS
 

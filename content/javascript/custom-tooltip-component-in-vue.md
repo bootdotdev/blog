@@ -12,8 +12,6 @@ There are plenty of libraries out there that will have you up and running with a
 
 As it happens, this is also the boilerplate for the tooltip component we use on [boot.dev's coding app.](https://boot.dev/)
 
-{{< cta1 >}}
-
 ## The End Goal
 
 We are building a single file component, as such it will be a single file with the following structure:
@@ -56,6 +54,8 @@ Fairly simple setup here. We need:
 - An outer `tooltip-box` to encapsulate the entire component and ensure positioning.
 - A slot tag to inject the child component (whatever is hovered over to show the tooltip).
 - A `span` that will house the text of our tooltip.
+
+{{< cta1 >}}
 
 ## The JavaScript
 

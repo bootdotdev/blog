@@ -28,6 +28,8 @@ You can even practice without the courses on their site, by accessing Boot.dev�
 
 Boot.dev’s emphasis on interactivity makes it interesting, but it’s not even the best part. Boot.dev’s overall goal is to get you primed and ready for a career with JavaScript. Aside from hands-on practice, you’ll also be greeted with developmental techniques that are geared towards preparing you for job interviews, as well as more specialized coding skills like functional programming, making it by far one of the best ways to learn JS.
 
+{{< cta1 >}}
+
 ## Learn JavaScript for free
 
 I get it, it’s hard to invest money in an online course when:
@@ -68,6 +70,8 @@ Another way is by joining an open-source JavaScript project. These are free proj
 
 However, if you want a project-based learning method, but don’t feel comfortable enough to jump into creating your first program, Boot.dev does employ a series of mini-projects throughout their courses, so you get the efficiency of project-based learning, but in a more secure environment
 
+{{< cta2 >}}
+
 ## Learn JavaScript the fun way
 
 If you’re like me, after a day of work the last thing I want to do is come home, listen to lectures, and force my brain to retain crucial information as it turns to mush from the long day. Instead, I’d much rather zone out to a movie, or better yet, play some mindless games.
@@ -107,6 +111,8 @@ Coursera is one of the top sites for this as an online e-learning site that prov
 These courses often come with graded work, long-time commitments, and the occasional strict schedule, however, being able to show you know JavaScript from an established university looks good on your portfolio and helps build your reputation.
 
 That said, there are other faster and more affordable routes to take to receive certification. For instance, with the Boot.dev subscription, you’ll receive a certificate when you complete a course for only 8$ a month, while Coursera ranges from $45 a month and up, depending on the course you take. With Boot.dev you’re also able to complete the course quicker, whereas Coursera’s courses take anywhere from 6 to 10 months.
+
+{{< cta3 >}}
 
 ## The Best Way to Learn JavaScript for You
 

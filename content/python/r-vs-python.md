@@ -126,6 +126,8 @@ R was developed by statisticians for statisticians to make data modeling and vis
 
 **Conclusion:** Python is the clear winner for back-end development, but also if you want to access this, plus a wide range of other options.
 
+{{< cta3 >}}
+
 ## R vs Python: The Final Verdict
 
 When choosing between R and Python, the main thing you need to focus on is your goal. Because these languages offer similar value, it comes down to your specific wants to figure out which one is best.

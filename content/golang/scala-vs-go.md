@@ -114,6 +114,8 @@ On the other hand, Go is still very new to Big Data. While it possesses the powe
 
 **Conclusion:** Scala is best for Big Data.
 
+{{< cta3 >}}
+
 ## Scala vs Go: The Final Verdict
 
 Like all great questions, the answer is never simple. When deciding which language is best, it depends on your preferred field of work and background.

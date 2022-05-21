@@ -18,6 +18,8 @@ I’m amazed whenever I click on a candidate’s Github profile and the first se
 
 Apart from just pinning your best six, you should also put those in order, with your best works at the top. Consider that most people are going to only look at your first one or two repositories, so make sure those are your best ones.
 
+{{< cta1 >}}
+
 ## Give yourself a profile picture, username and bio
 
 Fill out your profile. Seriously, it takes 3 minutes tops. If you have an embarrassing username that you created years ago, update it. If you have the default avatar, add a professional photo of yourself, or a cool AI-generated image or something.
@@ -42,6 +44,8 @@ Github recently added a new feature that allows you to add a markdown-styled int
 
 You can add a [Readme to your profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) by creating a repo with the same name as your Github username and using the default Readme in that repo. It’s driven completely by convention. Here’s an [example of mine](https://github.com/wagslane/wagslane).
 
+{{< cta2 >}}
+
 ## If your heatmap is bare, you should be coding more
 
 First off, I highly recommend using a personal Github account for all your coding work, even professional work. Github makes it really easy to join and leave organizations, so there’s no reason to muck around with job-specific accounts. The added benefit to this, besides the convenience, is that your contribution heatmap will look amazing because of all the extra work that would have gone unnoticed.
@@ -61,6 +65,8 @@ When I was in school, private repositories were a paid feature of GitHub, but no
 Many junior developers make the mistake of only working on applications. While your calculator and todo apps are worthwhile, you’ll get a lot more bonus points from potential employers if you mix in some other types of projects. Libraries and packages that are designed to be useful to other developers are a great way to show off your skills and differentiate yourself. Most entry-level devs aren’t publishing those!
 
 Additionally, if you’re able to make small but meaningful contributions to medium to large existing open-source projects, that can be a gold mine of bragging rights when it comes time to interview.
+
+{{< cta3 >}}
 
 ## Try to get some stars
 

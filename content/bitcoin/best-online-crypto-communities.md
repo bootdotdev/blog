@@ -50,6 +50,8 @@ Telegram is seen as a competitor of WhatsApp as it is also a chatting App. Numer
 
 Medium is referred to as a backer on the community of Crypto. Albeit it does not directly belong to the direct digital currency community. Medium could further be explained as a microblogging site, and it is also a renowned place for Crypto Content.
 
+{{< cta3 >}}
+
 ## [#8 Discord](https://top.gg/servers/tag/crypto)
 
 ![discord logo](/img/800/discord-logo-logodownload-download-logotipos-1.png)

@@ -37,8 +37,6 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndhZ3NsYW5lIn0.ov6d8XtwQoK
 7. The server checks the signature on the JWT to make sure the JWT was originally created by the same server
 8. The server reads the claims and gives permission to the request to operate as "wagslane"
 
-{{< cta1 >}}
-
 ## Create a JWT
 
 We're going to use a popular library for dealing with JSON Web Tokens in Go, [jwt-go](https://github.com/dgrijalva/jwt-go). Make sure you have the code cloned locally:
@@ -83,6 +81,8 @@ signedToken, err := token.SignedString([]byte("secureSecretText"))
 ```
 
 Finally, the signed token can be sent back to the client.
+
+{{< cta1 >}}
 
 ## Validating a JWT
 

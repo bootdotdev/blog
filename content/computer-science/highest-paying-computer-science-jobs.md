@@ -177,6 +177,8 @@ Common back-end databases
 - Identify and participate in code refactoring needs
 - Participate in code reviews and architecture discussions
 
+{{< cta3 >}}
+
 ## Developer, Embedded Applications or Devices - $120,000/yr
 
 Embedded software engineers develop software that controls various devices and machines that aren't jsut traditional computers. Integrating software engineering with non-computer devices leads to the development of embedded systems. Embedded systems are most common in medical, consumer electronics, manufacturing science, aviation, automotive industries.
@@ -207,8 +209,6 @@ Mobile developers are a kind of software engineer. They specialize in mobile sof
 - Create apps that adhere to current Apple App Store and Google Play Store standards
 - Self-manage completion of projects and work with project managers to meet deadlines
 - Develop designs into applications with exactness
-
-{{< cta3 >}}
 
 ## Scientist - $120,000/yr
 

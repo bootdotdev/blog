@@ -172,6 +172,8 @@ On the other hand, symmetric encryption, or more specifically [AES-256](/cryptog
 
 For more information, read our post on [whether AES-256 is quantum resistant](/cryptography/is-aes-256-quantum-resistant/)
 
+{{< cta3 >}}
+
 ## How do Bitcoin, cryptocurrency and other blockchains utilize cryptography?
 
 Bitcoin and other cryptocurrencies rely on cryptographic algorithms to function, hence the "crypto" in the name. Bitcoin uses two primary cryptographic methods. The first is asymmetric encryption. A bitcoin wallet is, at its core, a collection of private keys that can be used to sign transactions on the network. Bitcoin and other blockchain technologies utilize cryptographic signatures, which are a form of asymmetric encryption, to guarantee that when you send a Bitcoin to your friend, it was actually you that sent it.
@@ -202,8 +204,6 @@ Cryptology is a _very_ young science. Although humans have had rudimentary forms
 - **2000** - [AES](/cryptography/aes-256-cipher/) accepted as DES replacement. In 1997, NIST again put out a request for proposal for a new block cipher. It received 50 submissions. In 2000, it accepted Rijndael, and christened it as AES or the Advanced Encryption Standard.
 - **2004** - [MD5](https://en.wikipedia.org/wiki/MD5) shown to be vulnerable to collisions
 - **2009** - [Bitcoin](https://bitcoin.org/en/) network launch
-
-{{< cta3 >}}
 
 ## For further study
 

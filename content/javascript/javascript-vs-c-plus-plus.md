@@ -36,6 +36,8 @@ Compare that to C++, which is a middle-level programming language developed by B
 
 To summarize, I could tell you everything you need to know by simply saying that JavaScript is a “scripting” language whereas C++ is a “programming” language. Scripting languages make coding easier and faster because they run inside another existing program. Programming languages, at least in this context, are made to make full-fledged code and software development easier. You can feed lines from a programming language directly to a computer and it’ll do what you want it to do.
 
+{{< cta1 >}}
+
 ## Advantages and disadvantages of JavaScript vs C++
 
 I want to start by saying that both languages are truly fantastic in terms of support and community. Because they’ve both been around for such a long time, there’s a robust group of folks, both experts and novices, who hang out on Discord groups, Slack channels, Reddit threads, StackOverflow answers. There are textbooks, tutorials, walkthroughs, guides, and generally more content to teach you either C++ or JavaScript than you could consume in a lifetime of learning.

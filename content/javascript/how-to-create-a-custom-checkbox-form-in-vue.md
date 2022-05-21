@@ -12,8 +12,6 @@ You have a problem. The browser's default checkbox form is ugly and outdated, bu
 
 Before we dive into how it works, you can see a live demo [here](https://codesandbox.io/s/custom-checkbox-component-u378c?file=/src/components/Checkbox.vue), or you can see how we are using it in production on the signup flow of boot.dev's [coding courses platform.](https://boot.dev/)
 
-{{< cta1 >}}
-
 ## The HTML
 
 ```html
@@ -69,6 +67,8 @@ export default {
 ```
 
 We only require one prop: `options`, which represent all of the options available to the user. As boxes are checked, we add them to the `checked` state variable, and each time that variable changes we emit it so that the parent can stay reactive.
+
+{{< cta1 >}}
 
 ## The CSS
 

@@ -10,8 +10,6 @@ images:
 
 Custom toggle switches are a pain to code from scratch. So many lines for such a simple UI widget! In this quick tutorial, we will learn how to build a fully encapsulated toggle switch component in Vue.js. The component we're building is used currently on [boot.dev's login page](https://boot.dev/). Go take a look to see a live demo.
 
-{{< cta1 >}}
-
 ## The HTML Template
 
 ```html
@@ -70,6 +68,8 @@ export default {
 ```
 
 We have setup the component such that the user of the component can use the `v-model` attribute to get/set the current state of the switch. We have setup the `backgroundStyles` and `indicatorStyles` to dynamically change some CSS for us as the state updates.
+
+{{< cta1 >}}
 
 ## The CSS
 

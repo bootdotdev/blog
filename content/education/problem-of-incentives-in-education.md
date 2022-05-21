@@ -44,6 +44,8 @@ Only "George" and "Sally" have their incentives *aligned* with those of the comp
 * Percentage-based transaction fees
 * Free returns on e-commerce purchases
 
+{{< cta1 >}}
+
 ## The problem with university
 
 I think it's safe to say that Austen was right when he pointed out on the podcast that universities aren't incentivized enough to care about job placement rates. Not only do the institutions have no reason to worry about job placement, oftentimes the professors themselves consider teaching an afterthought. Many are there primarily to do research, publish papers, and advance the boundaries of their field.
@@ -74,6 +76,8 @@ Let's review what they *are not highly* incentivized to do:
 
 * Teach their students in a way that will help them advance post-placement
 * Provide an education to those that are less likely to be high performers
+
+{{< cta2 >}}
 
 ## What other models could be better?
 

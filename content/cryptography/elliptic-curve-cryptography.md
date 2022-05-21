@@ -142,6 +142,8 @@ Nope! The number of hops is _very_ large, something like `2^256`. It would take 
 
 If however, you know the number of hops you can use an [exponentiation](https://en.wikipedia.org/wiki/Exponentiation_by_squaring) trick to find the ending point quite quickly. For example, and omitting the details of elliptic curve operations: `2P = P dot P` and then `4P = 2P dot 2P`. This allows you to get up to those crazy high calculations exponentially faster.
 
+{{< cta3 >}}
+
 ## Who Cares?
 
 ECC is used as the cryptographic key algorithm in Bitcoin because it potentially can save ~90% of the resources used by a similar RSA system. It seems that each year we see more systems moving from RSA to a more modern elliptic curve approach.

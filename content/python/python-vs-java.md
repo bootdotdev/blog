@@ -128,6 +128,8 @@ A couple of things against Python when creating enterprise applications is that 
 
 Java has been in the game for _years_ and has established its dominance in the community and field, making it harder for Python to get in on the action.
 
+{{< cta3 >}}
+
 ## Java vs Python: The Final Verdict
 
 The hardest part about choosing which language is best is that both Python and Java are so different. Therefore, the question isn’t about which language is best, it’s about which language is best for _you and your project_.

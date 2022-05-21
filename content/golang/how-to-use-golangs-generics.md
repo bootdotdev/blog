@@ -218,6 +218,8 @@ func main() {
 }
 ```
 
+{{< cta3 >}}
+
 ## Limitations of generics
 
 ### No switching on a generic's underlying type

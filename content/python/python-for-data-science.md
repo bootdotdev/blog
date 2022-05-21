@@ -102,6 +102,8 @@ A lot of people assume data science stops at the analysis, but like everything e
 
 Python has a lot of great tools to make easy visualizations, like the very basic matplotlib and its two children Pandas and seaborn (both built on matplotlib). If you can easily make a good viz to communicate or illustrate the data, the battle is half won. Python makes that easy.
 
+{{< cta3 >}}
+
 ## 9. Quick prototypes
 
 A little-known fact is that data scientist projects are expensive. In fact, Chris Chapo, the SVP of data and analytics at Gap [once said](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/) that “87% data projects will fail.” It takes time, energy, resources and a lot of patience to build something that works.

@@ -135,6 +135,8 @@ Python, however, sticks to the background focusing on back-end development. Its 
 
 **Overall,** JavaScript’s universal support and ability to move between front-end and back-end give it a level of versatility that can’t be ignored.
 
+{{< cta3 >}}
+
 ## Which Is Better, Python or JavaScript?
 
 Asking which is better is like asking which came first, the chicken or the egg?

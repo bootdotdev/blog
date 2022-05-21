@@ -114,6 +114,8 @@ Sites like Coursera offer courses run by actual institutions. For example, the m
 
 If you don’t have that kind of time, then boot.dev also offers certificates along with their courses. And similarly to Coursera’s specializations, where institutions will create multi-course programs covering a variety of topics, boot.dev has “tracks” where you’ll cover beginner to advanced subjects of Python suited for coders of all skill levels.
 
+{{< cta3 >}}
+
 ## The Best Way to Learn Python for You
 
 The best way to learn Python depends on different factors: 

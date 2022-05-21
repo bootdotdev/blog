@@ -15,6 +15,8 @@ Our first hackathon will be a quick one! We tried to find a time that would work
 
 The judges will take an hour to review the projects, and we’ll meet back up at 3PM PST to announce winners and look at what everyone built. If you don’t finish in time, don’t worry! Work on it after the event, this is a great opportunity to build a project that can go on your resume.
 
+{{< cta1 >}}
+
 ## The project – A digital instrument
 
 Your goal is to build a digital instrument. Something like virtual piano. You can use any programming languages, tools, frameworks, or libraries that you want. The only requirement is that the user can interact with the “instrument” and sound will play through the speakers. It doesn’t need to be a piano, it just needs to make sounds.
@@ -46,6 +48,8 @@ We’ll score your project using the following metrics:
 
 * Product – how cool the application is from a user’s perspective? Does it have great features? Are there any noticeable bugs
 * Technical merit – How well is the code organized and architected? Is it a clean code base?
+
+{{< cta2 >}}
 
 ## Good luck!
 

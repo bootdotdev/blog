@@ -76,6 +76,8 @@ Beyond just using Python as a framework for finance companies, some organization
 
 If you want to learn Python programming for finance, it should be clear that you’re not alone: plenty of companies have done the very same thing.
 
+{{< cta3 >}}
+
 ## 8. Here Today, Still Here Tomorrow 
 
 There’s nothing worse than dedicating time to learning a coding language for a job and then discovering that language is becoming obsolete, or is being replaced by an up-and-comer.
@@ -89,8 +91,6 @@ Python will still be useful for financial analysis in a decade or two. Using Pyt
 What can you do with Python in finance? Dig into cryptocurrency. I was actually surprised to learn that Python is becoming a key player in the cryptocurrency space. I had a quick look on libraries.io (a list of all libraries available for Python) and [found 327 packages](https://libraries.io/search?keywords=blockchain&languages=Python) that deal with cryptocurrency and blockchains. 
 
 Products like Dash, Anaconda and CryptoSignal have taken advantage of how easy it is to use Python to retrieve and analyze cryptocurrency pricing. If you’re invested in the cryptocurrency scene, Python is a must for you. 
-
-{{< cta3 >}}
 
 ## Python and Finance Are a Match Made in Heaven
 

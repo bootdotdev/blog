@@ -62,6 +62,8 @@ The term GUID, which stands for Globally Unique Identifier, is an industry stand
 
 Some GUIDs may contain any hex digit in any position, while RFC4122 requires specific values for the version and variant fields. Also, GUIDs are typically written in upper case, while UUIDs should be written in lower case. Sometimes these subtle differences can cause incompatibilities between code libraries.
 
+{{< cta2 >}}
+
 ## UUIDS vs IDs
 
 At the end of the day, all UUIDs are IDs, but not all IDs are UUIDs. A UUID is a specific type of ID that has a format like this: `3ba0b72f-4c70-4266-a117-fe64b0498f65`. We've discussed the benefits of using UUIDs as IDs above. Other common forms of IDs include:

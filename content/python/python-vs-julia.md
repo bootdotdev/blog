@@ -26,6 +26,8 @@ Julia was created in 2012 by Jeff Bezanson, Stefan Karpinski, Viral B. Shah, and
 
 ![julia vs python](/img/800/juliavpython.webp)
 
+{{< cta1 >}}
+
 ## Julia versus python in terms of popularity
 
 So who wins the popularity contest, Julia or Python? You might have guessed it already, depending on how familiar you are with the languages or by looking at the age of each language respectively. In this case, there’s a clear winner. Python is *significantly* more popular than Julia. In 2019 over [8.2 million developers](https://www.zdnet.com/article/programming-languages-python-developers-now-outnumber-java-ones/) used Python, and that figure continues to grow. Python has an impressively active open-source community. There are over [137,000 Python libraries](https://www.mygreatlearning.com/blog/open-source-python-libraries/#:~:text=There%20are%20over%20137%2C000%20python,data%20manipulation%20applications%20and%20more.), some of which are true powerhouses, like Numpy, Pandas, PyTorch, TensorFlow, and many more. 
@@ -56,6 +58,8 @@ Python has a lot of strong [machine learning libraries](https://towardsdatascien
 
 Julia’s original creators decided that Julia should be just as fast as C. They followed through on their promise, which means implementing additional functions for machine learning purposes in Julia is less complex than with Python, and you don’t give up any [performance](https://entwickler.de/machine-learning/julia-ist-bei-einfachen-machine-learning-aufgaben-mit-python-vergleichbar-aber-besser-geeignet-fur-komplexere/). When looking at Julia versus Python in terms of speed for machine learning, Julia steals the show.
 
+{{< cta2 >}}
+
 ## Is Python or Julia better for data science?
 
 Julia is faster when loading data in, which is very important for data scientists. Julia can also [work directly](https://www.analyticsvidhya.com/blog/2020/08/what-is-better-for-data-science-learning-and-work-julia-or-python/) with external libraries, including those in Python, C, and Fortran. Julia is better than Python when it comes to memory management, both by default and by allowing more manual control of it. 
@@ -85,6 +89,8 @@ If you’re looking to compare the speed of Python versus Julia, there are sever
 Julia joined the [Petaflop Club](https://www.hpcwire.com/off-the-wire/julia-joins-petaflop-club/), a list of programming languages that “have achieved peak performance exceeding one petaflop per second.” Celeste, a Julia application that processes the entire Sloan Digital Sky Survey (SDSS) data set, was the first written in Julia to achieve this. The only other languages in this club are C, C++, and Fortran. By the way, one petaflop per second is ridiculously fast. C, C++, and Fortran are all significantly lower-level programming languages, which makes them painstaking to work with. If you check out this [list of benchmarks](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/julia-python3.html) comparing Julia and Python, you’ll see that Julia is always faster, and somewhere between 2 and 120 times faster. Julia versus Python for speed reveals a clear winner.
 
 As it stands now, Julia is generally much faster than Python in most cases. Julia’s creators set out for it to be just as fast as C, and it’s clear Python has some catching up to do. The work to speed up Python is actually already underway. Van Rossum, Python’s original creator, has said he [plans](https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf) to double the speed of Python by October 2022 and increase it by a factor of five in the next four years.
+
+{{< cta3 >}}
 
 ## How the tables have turned
 

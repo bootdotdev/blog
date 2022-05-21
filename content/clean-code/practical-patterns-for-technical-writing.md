@@ -95,6 +95,8 @@ So far, we've had a high-level view of the concepts of technical writing. Here a
 
 **Disambiguate pronouns.** Pronouns can only be used after introducing the noun. Furthermore, they should be used as close as possible to the noun. A rule of thumb can be: If you introduced a second noun between your noun and the respective pronoun, avoid the pronoun and rather repeat the noun.
 
+{{< cta3 >}}
+
 ## Iterate and Review
 
 As with anything, iteration, fast feedback, and reviews are important. Make use of the people around you. Maybe some of the people you work with are similar to your target audience. If you do not have access to people for a peer review, you can define personas and try to put yourself into the shoes of one of these personas and read your document.

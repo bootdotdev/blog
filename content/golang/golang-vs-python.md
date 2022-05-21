@@ -106,6 +106,8 @@ It’s interesting to note that Python is sometimes recommended as the most prod
 
 However, in this battle of "Golang vs Python: which is the most productive language?" I rank Go as the best simply because it’s intended to be more productive, easier to debug, is all formatted in a similar style, and above all, it’s simple to read. Never forget that coding is a collaborative act - the less time you have to spend to understand what someone else has coded, the easier it is to contribute productively.
 
+{{< cta3 >}}
+
 ## Golang vs Python: Which language is best for the future? 
 
 Like every other person on earth, I can’t see into the future. But I can make an educated guess. When it comes to weighing up Golang vs Python in terms of the most future-proof language, my guess is Go. That said, Python is still on a major growth track so it's also a great choice, I don't think either language will be falling too far out of favor in the near future.

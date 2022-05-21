@@ -44,8 +44,6 @@ function leftpad (str, len, ch) {
 }
 ```
 
-{{< cta1 >}}
-
 ## Why should Go's vendor folder be any different than node_modules?
 
 Luckily, up to this point, the [Go community has been much more rigorous](https://research.swtch.com/deps) about using few dependencies. When dependencies are kept to a minimum, it's easy to commit the entire `vendor` folder without incurring the huge data cost that the average `node_modules` folder would demand.

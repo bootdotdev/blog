@@ -16,6 +16,8 @@ In the past, you’d need a degree to get a job in computer science. But today, 
 
 A quick distinction: many coding bootcamps are in person. But thanks to the pandemic (and regular convenience) some of the best coding bootcamps are now online. These are often more affordable and flexible. Some coding bootcamps are even part-time.
 
+{{< cta1 >}}
+
 ## What is the structure of an online coding bootcamp?
 
 A good online coding bootcamp will be a mix of instructor-led lessons, independent study, practice assignments, and group projects, much like you’d get at a university degree. The main difference is the speed at which you do these. Many online coding bootcamps require a steep time commitment of full-time work for 13-22 weeks in some cases. (Part-time or self-directed bootcamps range from 20-60 weeks.)
@@ -47,6 +49,8 @@ Since their business model relies on your future employment, this online coding 
 **Duration:** 24 weeks full-time, also part-time offers for 52 weeks. They did not provide an hourly estimate, but 60+ per week is fairly normal for bootcamps.
 
 **Structure:** Mix of pair programming, live lectures, office hours, group projects, and homework.
+
+{{< cta2 >}}
 
 ## 2. Coding Dojo Online Coding Bootcamp: Geared for Beginners
 
@@ -91,6 +95,8 @@ If you have any questions, they have plenty of events and [admissions staff](htt
 **Duration:** option to learn full-time (15 weeks) or on a flexible pace schedule (20, 40, or 60 weeks). They expect a forty-hour week from you, with some “prework” requirements to get you up to speed.
 
 **Structure:** They spend some time teaching you about the fundamentals of programming, which is key for any online coding bootcamp. You’ll also get daily touchpoints with your cohort, group work with instructor help, paired with programming sessions, lab time with instructional staff, and community support. It’s worth noting that their part-time offering is much more self-driven – you’ll get mostly recorded lectures, with optional live weekly lectures and office hours, weekly check-ins with instructors, and have the chance to chat with classmates and instructors via Slack.
+
+{{< cta3 >}}
 
 ## 5. General Assembly Online Coding Bootcamp: For Industry Connections
 

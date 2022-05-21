@@ -14,6 +14,8 @@ At Boot.dev we've launched "community insights"! Insights make it possible for o
 
 If you're interested in joining our self-paced, online-only computer science bootcamp, you can [sign up for free here](https://boot.dev).
 
+{{< cta1 >}}
+
 ## Why insights?
 
 We've been tossing around a few different ideas for awhile, including:

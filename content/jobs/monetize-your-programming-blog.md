@@ -106,6 +106,8 @@ In my case, my client had to jump through a few hoops in order to find my contac
 
 In sum, using your programming blog to show that you’re an able writer about programming, and let potential freelance clients know that you’re looking for this kind of work. It’s a great way to use your programming blog to earn money from something that isn’t programming!
 
+{{< cta3 >}}
+
 ## 7. Monetize Your Programming Blog By Getting a Job
 
 While it’s great to use your hobby to make a bit of money on the side, it’s perfectly valid to want to use your coding blog to get a coding job. In this instance, having a coding blog in a particular niche can help raise your personal brand in that area. A website also works really well as a supplement to any coding portfolio you may have. 

@@ -17,8 +17,6 @@ For those who want to [learn computer science online](/computer-science/comprehe
 
 Besides all the benefits of Golang as a programming language, let's talk about the reasons I think Go is one of the best programming languages to learn this year.
 
-{{< cta1 >}}
-
 ## Go is a simple language to learn, especially for beginners
 
 Go is a great language for beginners, and just in general, because the [syntax is small](https://willowtreeapps.com/ideas/the-pros-and-cons-of-programming-in-go#:~:text=Go%27s%20syntax%20is%20small%20compared,and%20easy%2Dto%2Dread.) - you won’t have to spend ages paging through reference documentation. It’s clean and easy to read, meaning you’ll be able to understand what you and others are writing. It’s parsable without any type information or a symbol table as there is no type-specific context.
@@ -26,6 +24,8 @@ Go is a great language for beginners, and just in general, because the [syntax i
 The reason it’s so easy is that Google as a company has been great about hiring many new programmers that are at the start of their coding career. While they may have some coding knowledge, [Google developed Go](https://talks.golang.org/2012/splash.article#:~:text=Go%20is%20a%20programming%20language,and%20the%20software%20is%20big.) to be easy for them to pick up, and wouldn’t inhibit any future language learnings - perfect for beginners. The question "Why learn Golang?" is answered first and best by saying simply _it's easy to_.
 
 It's worth emphasizing the point that Go isn't easy in the same way that training wheels are easy. That is, Go isn't a language you'll need to "graduate" from in the future. On the contrary, developers from more complex languages like Java and PHP are moving to Go all the time because Go's simplicity encourages better engineering work.
+
+{{< cta1 >}}
 
 ## Go is the language of the cloud
 
@@ -76,6 +76,8 @@ Most of us intuitively understand that it’s easier to learn something if you i
 For a start, you can look at Go’s [naming conventions](https://golang.org/doc/effective_go.html#names) which lays out the case for each and every one of the naming convention decisions. The dependencies, semantics, and syntax are clear. The tooling that supports the lnagugae, including the go tool, gofmt, godoc and gofix, are easy to use. In the words of the creator of Go, “Go is more about software engineering than programming language research. Or to rephrase, it is about language design in the service of software engineering.”
 
 Why learn Golang? Because Go is a language where everything is done for a practical reason. This is what makes it so great for beginners to learn - there are few edge case exceptions, no historical quirks, and no unexplained legacy artefacts.
+
+{{< cta3 >}}
 
 ## There are lots of benefits to learning Go, even if you already feel like you know too many coding languages
 

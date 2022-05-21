@@ -22,13 +22,13 @@ Like we mentioned, Matlab is not an open-source product, which means you don’t
 
 Originally developed by math magician and computer programmer Cleve Moler in the 1960s, Moler didn't sell it originally. At the time, it was distributed for free to universities. It wasn't until the 1980s when it was released as a commercial product.
 
+{{< cta1 >}}
+
 ## A brief history of Python
 
 Python is a very different language. It is officially defined [by Wikipedia as](https://en.wikipedia.org/wiki/Python_(programming_language)) “an interpreted high-level general-purpose programming language.” It's open-source, which means anybody can access it, dig around in the guts to see how it works, and even create their own packages for it. This is one of the major advantages of Python over Matlab.
 
 Python was ideated in the late 1980s and was first implemented in December 1989. It's been around since then, growing more popular, and consistently ranks as one of the most popular languages today. It's got a huge and growing functionality. It's good for simple tasks that beginners might be interested in, and complex tasks that organizations might want.
-
-{{< cta1 >}}
 
 ## Is Python or Matlab better for beginner coders?
 
@@ -52,6 +52,8 @@ It's possible that if you're more specialized in the mathematical and classical 
 
 **If you’re a beginner, Python will help you be more productive. If you’re specialized in the technical computing world, Matlab’s tidy interface will boost your productivity.** 
 
+{{< cta2 >}}
+
 ## Is Python or Matlab best for a programming job?
 
 Many new programming students pick up a keyboard because they want to get into computer science. If that's the case for you, then there's only one answer for which is best between Matlab and Python: Python is often considered the lingua franca for computer science. If you want to get a job in computer science, scan any of the job postings and you’ll see most if not all require some knowledge in Python. Hardly any will mention Matlab as even a benefit, let alone a requirement. 
@@ -59,8 +61,6 @@ Many new programming students pick up a keyboard because they want to get into c
 Plus, Matlab is mostly used in schools and universities. This means that if you want to learn Matlab once you've left school, you'll find it really expensive. Python, meanwhile, has a much wider array of [courses](https://boot.dev/learn/learn-python) and tutorials that can teach you anywhere from the basics to pretty advanced stuff. 
 
 **Python is indubitably best for getting a job in computer science.**
-
-{{< cta2 >}}
 
 ## Which processes images better, Matlab or Python?
 
@@ -83,6 +83,8 @@ This section has an easy answer: Python is the winner over Matlab. Python has to
 Matlab _can_ be used for machine learning. Matlab has a large collection of algorithms that can offer immediate visual feedback. But remember, those algorithms are proprietary. There's very little code portability. While it's easier to get started with machine learning, it doesn't really have a future unless you only work with other people who use Matlab.
 
 **Matlab can be used for machine learning, but Python is both better and more portable.**
+
+{{< cta3 >}}
 
 ## Is Matlab or Python best for data science?
 
@@ -111,8 +113,6 @@ I alluded to this above, but MatLab is really fast. There are a couple of functi
 However, it's worth noting that Python does compare favorably to Matlab with the ability to use more than 12 processing cores when running jobs in parallel. I loved [Rob Hicks’s writeup](https://rlhick.people.wm.edu/posts/comparing-the-speed-of-matlab-versus-pythonnumpy-partii.html) of the question where he ran time-consuming econometric problems in Python and Matlab. He wrote all the code, so you can check it out for yourself.
 
 **Matlab is faster than Python, but Python is better at running multiple jobs in parallel.**
-
-{{< cta3 >}}
 
 ## Matlab versus Python: Which is best for the future?
 

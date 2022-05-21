@@ -24,6 +24,8 @@ All of these environmental factors combined perfectly exhibit why it’s so cruc
 
 Thankfully, computer science has a great reputation for being a generous industry. Open source projects abound, and many skilled, knowledgeable coders support others in forums. I’ll step you through the top communities for starting your coding journey.
 
+{{< cta1 >}}
+
 ## [Discord](https://discord.com/invite/EEkFwbv)
 
 Discord is a community-based chat app originally developed for gamers. There are a lot of prominent, popular Discord “servers” which are channels or communities that are focused on one topic.
@@ -47,6 +49,8 @@ Reddit to me is more like a random collection of links to articles, tutorials, c
 Hashnode provides a great way to discover and digest tech blogs. The platform allows you to follow individual tech bloggers and connect with them. They have a lot of programming challenges and explanations of the basics, so it’s a good place to get grounded and stretch the application of your skills.
 
 This platform is more focused on giving writers with technical knowledge a place to post their content. This means it’s a good place to find well-written content from those with the technical know-how, but it isn’t a supremely social environment. The platform is not conducive to getting specific help for a problem or establishing deeper connections. It’s more like following someone than getting to interact with them.
+
+{{< cta2 >}}
 
 ## [Hacker News](https://news.ycombinator.com/)
 
@@ -77,6 +81,8 @@ What started as a weekly TwitterChat has become an international community of pe
 CodeNewbie has tons of content in different formats, including podcasts, Twitter chats, the CodeLand conference, hackathons, and more. They have managed to attract a good amount of experts to their platform. It’s a great place to stumble across high-quality content that’s geared toward all levels of programmers.
 
 CodeNewbie has been dubbed as a [platform for developers](https://community.codenewbie.org/about) to “write about their knowledge and experience, and connection with one another.” One standout aspect of CodeNewbie is they aim to help you figure out how to figure things out using content like their [guide to asking questions](https://community.codenewbie.org/adiatiayu/guide-to-asking-questions-about-code-5319). These non-code tips go a long way in supporting your career development.
+
+{{< cta3 >}}
 
 ## [DEV](https://dev.to/)
 

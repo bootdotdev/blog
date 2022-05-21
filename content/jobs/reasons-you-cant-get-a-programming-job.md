@@ -185,6 +185,8 @@ It’s also a good idea to brush up on the latest programming trends. You don’
 
 Finally, don’t limit yourself to only showing a passion for learning computer science. What else do you enjoy learning? Instruments, spoken languages, watercolor techniques and more can all be ways to showcase your love of learning. 
 
+{{< cta3 >}}
+
 ## 8. You’re ignoring automated filters
 
 If nothing on this list of mistakes applies to you and you still can't get a programming job, it might be because technology is working against you. Even though most people applying for programming or coding jobs are deeply technical, it’s easy to overlook the fact that the recruitment process is automated. Take [Amazon as an example](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G), who got into trouble back in 2018 when it turned out that their recruitment AI was mistakenly showing bias against women. Many qualified individuals didn’t even have their resumes looked at due to faulty automation.

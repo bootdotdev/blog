@@ -178,6 +178,8 @@ y = 5;
 !(x == y) // evaluates to true
 ```
 
+{{< cta3 >}}
+
 ## 9 -- How do `break` and `continue` statements differ and where would you use each?
 
 **Answer:**
@@ -199,8 +201,6 @@ for (let i = 0; i < 100; i++) {
   console.log('The number is odd');
 }
 ```
-
-{{< cta3 >}}
 
 ## **10 -- What is JSON? And how would you convert JSON strings into objects, or convert an object into a JSON string?**
 

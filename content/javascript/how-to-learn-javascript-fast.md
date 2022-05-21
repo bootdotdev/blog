@@ -20,6 +20,8 @@ JavaScript is ranked as the #1 programming language to learn programming with by
 
 JavaScript is the best programming language for learning how to program, but the beautiful thing about programming is that once you know how to program, you really only need to learn the syntax of another programming language in order to program with it. The next language you learn is always faster to learn. Programming is much more about a way of thinking than it is about one programming language in particular. That being said, you do need to learn the syntax of a single programming language to begin with.
 
+{{< cta1 >}}
+
 ## How long does it take to learn JavaScript?
 
 It’s great to say you want to know how to learn JavaScript fast, but honestly, it’s difficult to say exactly how long it will take you to learn JavaScript. It depends on whether you are just starting to learn to program or if this is your seventh programming language, whether you are learning it on top of your full-time work, whether you are taking a course to learn JavaScript (online or in-person), and simply how much time you are willing to invest in the process on a weekly basis.
@@ -55,6 +57,8 @@ The first step in being able to program with JavaScript quickly is being able to
 It’s important to understand a few basic things about programming, for example, what a method or function is as well as what data types are. After you have gone through examples of how to create and use variables and understand what different operators do, take a look at what a class looks like. Understanding these simple mechanisms will speed up your overall learning journey.
 
 There are dozens of very simple [examples](https://www.oreilly.com/library/view/javascript-jquery/9781491948583/ch01.html) of JavaScript syntax out there, and reading through tutorials and blog posts can help you to understand what code looks like as well as get you thinking about what it can be used for. It’ll be tough at first, so remember to rely on Strategy 1 and focus on your motivation when you want to know how to learn JavaScript fast!
+
+{{< cta2 >}}
 
 ## How to learn JavaScript fast: Solve real problems
 

@@ -83,6 +83,8 @@ DevOps Resume Sample - CS Student
 
 Game Development Resume Sample - Self-Taught
 
+{{< cta3 >}}
+
 ## Good Luck
 
 Good luck in your job search! If you're having trouble finding a job mainly due to a lack of real job experience, check out our [article on getting your first coding job](/jobs/get-a-programming-job-with-no-experience/).

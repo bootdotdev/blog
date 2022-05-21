@@ -94,6 +94,8 @@ The main reason it’s hated is perhaps a legacy of the factors Some Dude Blogs 
 
 However, with the latest releases of Perl that fixes many user experience issues and the upcoming release of Perl 7, it may be experiencing a slow climb in popularity again, especially given its high-demand nature among employers who, despite all its flaws as a programming language, find Perl to be an excellent skill to hire for, which earns it a spot on this list of most popular coding languages.
 
+{{< cta3 >}}
+
 ## The best way to learn Perl for coders who want a higher salary
 
 The [learn.perl.org website](https://learn.perl.org/books/beginning-perl/) is probably the best place to start learning Perl. Unlike R and Python where many users learn from googling and copy-pasting code chunks, it may be best to stay away from places like Stack Overflow where bad code snippets may still be floating around. [Modern Perl](http://onyxneon.com/books/modern_perl/modern_perl_a4.pdf) is also a relatively recent document that may avoid a lot of out-of-date opinionated tutorials, while the [Perl Cookbook](http://rgonzo.us/shiny/books/perlcookbook.pdf) stands up as a tried-and-tested resource. 
@@ -109,8 +111,6 @@ R, Python, and Perl were all developed last century. Swift, meanwhile, was devel
 Compared to Android apps, iOS has a more robust developer program and handles a lot fo the stickier sides of creating and hosting an app on a store. It’s also [faster](https://infinum.com/the-capsized-eight/android-development-is-30-percent-more-expensive-than-ios) to develop an iOS app compared to Android.
 
 For those reasons, Swift is the most popular coding language for those who want to develop mobile apps for iOS. 
-
-{{< cta3 >}}
 
 ## The best way to learn Swift for app developers
 

@@ -74,6 +74,8 @@ Second, motivate yourself. Especially if you’re at the beginning of your codin
 
 Both internal and external sources of drive will be necessary to get this done. If you can plan ahead and both pick out a course that aligns to your learning and working style and identify a couple of motivational tricks you can use, the easier it’ll be to actually complete the certificate in computer science that’s going to land you your [dream programming job](/computer-science/highest-paying-computer-science-jobs/).
 
+{{< cta3 >}}
+
 ## Step 5: Do the work.
 
 This step will appear relatively short, because there’s only so much that can be said here. The more work you did on steps 1-4, the easier step 5 will be. Monitor your progress - if there are milestones you can physically track as you move through the certification, do so. If you’re finding you’re stumbling, look for a quick win. Rely on family and friends to keep you on target. You can even post in communities like [Reddit, Twitter, and Discord](/misc/top-12-best-communities-for-learning-to-code/) to find inspiration, support, help and ideas to carry on. There’s a common misconception that all programmers are lonely, isolated folks, but like most other people, having a community is helpful in finding motivation and support to keep going when the going gets tough.
@@ -89,8 +91,6 @@ Whether you want to show off a portfolio or just want to display your certificat
 The whole point of a certificate is to demonstrate your skills and knowledge in the pursuit of a job in computer science. Ideally, the certificate will follow a course that will teach you the fundamentals that let you do the job you’re applying for. The certificate will get you the interview, but the knowledge is what will actually get you the job.
 
 And once you’ve successfully leveraged your certificate to get your first job, or next job, or better job, don’t stop. Keep learning, keep filling in the gaps that you have in your fundamental knowledge. Keep your eyes open for new opportunities. Keep growing your skills that make you the ideal programmer to hire. A certificate, at the end of the day, is a stamp of approval. Your skills and knowledge are what you bring to the table as an employee. Just display your certificate proudly - but let your skills do the talking.
-
-{{< cta3 >}}
 
 ## You’re just one certificate in computer science away from your dream job in programming.
 

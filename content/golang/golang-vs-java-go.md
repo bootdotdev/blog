@@ -118,6 +118,8 @@ Golang can also be used for data science, with cutting edge concurrency and basi
 
 **Conclusion:** Despite our predictions that Golang will become an important data science language, Java is currently considered better for data science.
 
+{{< cta3 >}}
+
 ## Go vs Java: Memory Usage & Performance
 
 According to a round of [Java vs Go benchmark tests](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/go.html), Go beat Java on almost every test thanks to its compact style and quick compilation time.

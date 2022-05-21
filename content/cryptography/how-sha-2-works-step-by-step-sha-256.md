@@ -21,6 +21,8 @@ If you're not familiar with SHA-256, try out the generator below. Just enter any
 
 {{< sha256gen >}}
 
+{{< cta1 >}}
+
 ## What is a hash function?
 
 Like we mentioned above, a hash function generates a "fingerprint" for a given input string. For example, if we were to hash the entire text of JRR Tolkien's "The Lord of The Rings" series using the SHA 256 algorithm, we would get a 256-bit output almost unique to that book's text. If we changed even a single letter in the book, the output hash would be *wildly* different.
@@ -39,8 +41,6 @@ The three of the main purposes of a hash function are:
 
 SHA-2 is a very famous and strong family of hash functions because, as you would expect, it serves all the purposes mentioned above.
 
-{{< cta1 >}}
-
 ## SHA-2 family vs SHA-256
 
 SHA-2 is an algorithm, a generalized idea of how to hash data. SHA-2 has several variants, all of which use the same algorithm but use different constants. SHA-256, for example, sets additional constants that define the behavior of the SHA-2 algorithm, one of these constants is the output size, 256. The 256 and 512 in SHA-256 and SHA-512 refer to the respective digest size in bits.
@@ -54,8 +54,6 @@ SHA-2 is a successor to the SHA-1 hash and remains one of the strongest hash fun
 SHA-256 is formally defined in the National Institute of Standards and Technology's [FIPS 180-4](http://csrc.nist.gov/groups/ST/toolkit/secure_hashing.html). Along with standardization and formalization comes a list of [test vectors](http://csrc.nist.gov/groups/ST/toolkit/examples.html#aHashing) that allow developers to ensure they've implemented the algorithm properly.
 
 SHA-2 is known for its security (it hasn't [broken down like SHA-1](https://shattered.io/)) and its speed. In cases where [keys are not generated](/cryptography/key-derivation-functions/), such as mining Bitcoin, a fast hash algorithm like SHA-2 often has the upper hand.
-
-{{< cta2 >}}
 
 ## Step-by-step SHA-256 hash of "hello world"
 
@@ -388,6 +386,10 @@ h5 = h5 + f = 01111010010100111000000011101110
 h6 = h6 + g = 10010000100010001111011110101100
 h7 = h7 + h = 11100010111011111100110111101001
 ```
+
+{{< cta2 >}}
+
+{{< cta3 >}}
 
 ## Step 8 - Concatenate Final Hash
 

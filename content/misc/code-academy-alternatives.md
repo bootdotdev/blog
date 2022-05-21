@@ -32,6 +32,8 @@ Codecademy’s courses, especially the Pro ones, will get you the skills and may
 
 Price comparison: Boot.dev costs $29.99 a month, or $16/month when billed annually. There’s also a free sandbox version.
 
+{{< cta1 >}}
+
 ## Datacamp: Go Deeper into Data Science
 
 Codecademy has a solid Data Science Career Path track. But it just has the one. As you may imagine, it’s close to impossible to stick all of Data Science Career knowledge into a single course. While it does delve into a wide range of tools, languages, and concepts, that breadth makes it tough to feel like you’ve got a good grounding in what you really need from a course that allegedly is going to give you career knowledge.
@@ -59,6 +61,8 @@ Compared to Codecademy, FreeCodeCamp is like an older (and free) sister in the w
 The only downside is that it’s heavily based on web development.
 
 Price comparison: again, free. It’s in the name.
+
+{{< cta2 >}}
 
 ## Coursera: Get High-Quality Video Tutorials
 
@@ -91,6 +95,8 @@ All in all, it’s quite similar to Coursera, but with more hands-on learning. I
 Because it’s so highly respected, you can also get a certificate that is accepted at plenty of universities. So it’s like a degree-lite - it costs between $50 and $300 to get a certificate upon completing a course.
 
 Price comparison: the vast majority of edX courses are free, but you do have to pay a one-time fee to take the certified version.
+
+{{< cta3 >}}
 
 ## DIY: DIYers Only
 
