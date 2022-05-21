@@ -9,7 +9,7 @@ categories:
 
 We’re super excited to bring you our next learning track: [Gopher Gang](https://boot.dev/dashboard/courses/golang-track).
 
-We released our [Python Track](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/) and [Data Structures & Algorithms Track](https://boot.dev/learn-data-structures-algorithms/) last month, and after such a positive response, we felt we had to do the same with our Golang course content.
+We released our [Python Track](https://boot.dev/learn/learn-python) and [Data Structures & Algorithms Track](https://boot.dev/learn-data-structures-algorithms/) last month, and after such a positive response, we felt we had to do the same with our Golang course content.
 
 But after hearing some feedback from Reddit, Discord (join ours [here](https://discord.com/invite/EEkFwbv)), and a couple of other places, we felt we could further improve your CS learning experience by developing projects that you can create in VS Code or any other preferred code editor off-site, and display in your portfolio to land a Go programming job.
 

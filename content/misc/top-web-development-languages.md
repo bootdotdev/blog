@@ -36,7 +36,7 @@ JS is often associated with TypeScript, a syntactical superset of JS that adds o
 
 ### Is It Easy to Learn?
 
-Luckily, the ever-popular JS is also one of the easiest programming languages [for beginners to learn](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb/) due to a forgiving, and flexible syntax that works across almost all browsers. Because of its immense popularity, it is advised by industry professionals that anyone looking to enter into software development learn JS. 
+Luckily, the ever-popular JS is also one of the easiest programming languages [for beginners to learn](https://boot.dev/learn/learn-code-javascript/) due to a forgiving, and flexible syntax that works across almost all browsers. Because of its immense popularity, it is advised by industry professionals that anyone looking to enter into software development learn JS. 
 
 ### Where Is It Used?
 
@@ -56,7 +56,7 @@ Go was built as an alternative to C and Java, and was driven by the needs of Goo
 
 ### Is It Easy to Learn?
 
-Thanks to its simple and modern structure, [Go is quite easy for new developers](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b) to learn, as shown by its quick growth in popularity. Syntactically, Go is very similar to C (_discussed below)_, but with the additional features of memory safety, garbage collection (which can detect and clear wasted disk space), structural typing, and CSP-style concurrency.
+Thanks to its simple and modern structure, [Go is quite easy for new developers](https://boot.dev/learn/learn-golang) to learn, as shown by its quick growth in popularity. Syntactically, Go is very similar to C (_discussed below)_, but with the additional features of memory safety, garbage collection (which can detect and clear wasted disk space), structural typing, and CSP-style concurrency.
 
 ### Where Is It Used?
 

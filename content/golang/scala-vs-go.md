@@ -126,4 +126,4 @@ In the end, both languages offer high-paying opportunities, job stability, and a
 
 **If you're interested in learning Go**, we have designed our Go Mastery courses to take you from any skill level and give you the skills you need to land a Go programming job. The two courses cover the basics, and move on to more complex topics like currying and concurrency, and we even have a Go interview prep course to help you ace the interview.
 
-[Start Learning Go with boot.dev here](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b)
+[Start Learning Go with boot.dev here](https://boot.dev/learn/learn-golang)

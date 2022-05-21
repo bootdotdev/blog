@@ -8,11 +8,11 @@ images:
   - /img/800/Nodejs-vs-Javascript-min.webp
 ---
 
-So you’re a fan of web development? Great! You’re probably already familiar with JavaScript (if not, [check out our JavaScript course here](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb)) and may have heard of Node.js as well. But which one is better, and how are they different? When should you pick Node.js vs JavaScript?
+So you’re a fan of web development? Great! You’re probably already familiar with JavaScript (if not, [check out our JavaScript course here](https://boot.dev/learn/learn-code-javascript)) and may have heard of Node.js as well. But which one is better, and how are they different? When should you pick Node.js vs JavaScript?
 
 **To be clear, there isn't really a decision to be made when choosing JavaScript or Node.js, you'll likely use both if you're running JavaScript outside of a browser. JavaScript is a programming language, and Node.js is a JavaScript interpreter.**
 
-During one of my first professional coding interviews, the main piece of feedback I was given was to learn JavaScript. It’s a versatile and incredibly [easy-to-learn language](/misc/popular-coding-languages-2021/). You can get a working algorithm or website up and running in no time. Since most of the websites on the Internet are implemented using JavaScript, [there is no shortage of tutorials to guide you](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb).
+During one of my first professional coding interviews, the main piece of feedback I was given was to learn JavaScript. It’s a versatile and incredibly [easy-to-learn language](/misc/popular-coding-languages-2021/). You can get a working algorithm or website up and running in no time. Since most of the websites on the Internet are implemented using JavaScript, [there is no shortage of tutorials to guide you](https://boot.dev/learn/learn-code-javascript).
 
 It’s a great language for beginners and a must-know for anyone interested in UI or front-end development. Node.js can be more elusive to wrap your head around. And guess what: it’s not even a programming language!
 

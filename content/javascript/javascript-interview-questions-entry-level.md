@@ -13,7 +13,7 @@ Versatile, powerful and ever-present, JavaScript is the world's most used progra
 
 94.5% of web pages use JavaScript, it's one of the 10 most-loved programming languages, and with median salaries of [$112,000](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states) in the US, JavaScript offers a way to fast-track your way to higher earnings if you're thinking of switching careers.
 
-You've mastered the basics -- perhaps by taking our [Intro to JavaScript course](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb) -- and tried your hand at some simpler JavaScript projects or challenges.
+You've mastered the basics -- perhaps by taking our [Intro to JavaScript course](https://boot.dev/learn/learn-code-javascript) -- and tried your hand at some simpler JavaScript projects or challenges.
 
 But are you ready for an entry-level junior dev role writing JavaScript?
 

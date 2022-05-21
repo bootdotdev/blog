@@ -146,6 +146,6 @@ Are you more into traditional coding? Do you prefer greater control over the int
 
 However, if you’re more interested in learning the latest technology, or eager to join the industry and learn a language fast that promises a highly-paid career, then Golang is your perfect choice.
 
-We're big fans of Go here at boot.dev, which is why we created our [Go Mastery courses](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b) to help programmers learn Go and take advantage of all its benefits. Our course takes you from complete beginner, all way through even the more advanced concepts -- and then when you've gained the skills, our [Go Interview Prep](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b) course is designed to get you a job programming Go.
+We're big fans of Go here at boot.dev, which is why we created our [Go Mastery courses](https://boot.dev/learn/learn-golang) to help programmers learn Go and take advantage of all its benefits. Our course takes you from complete beginner, all way through even the more advanced concepts -- and then when you've gained the skills, our [Go Interview Prep](https://boot.dev/learn/learn-golang) course is designed to get you a job programming Go.
 
 But no matter which language you choose, both Go and Java are highly respected, extremely popular, and are well worth learning.

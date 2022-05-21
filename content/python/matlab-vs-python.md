@@ -56,7 +56,7 @@ It's possible that if you're more specialized in the mathematical and classical 
 
 Many new programming students pick up a keyboard because they want to get into computer science. If that's the case for you, then there's only one answer for which is best between Matlab and Python: Python is often considered the lingua franca for computer science. If you want to get a job in computer science, scan any of the job postings and you’ll see most if not all require some knowledge in Python. Hardly any will mention Matlab as even a benefit, let alone a requirement. 
 
-Plus, Matlab is mostly used in schools and universities. This means that if you want to learn Matlab once you've left school, you'll find it really expensive. Python, meanwhile, has a much wider array of [courses](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/) and tutorials that can teach you anywhere from the basics to pretty advanced stuff. 
+Plus, Matlab is mostly used in schools and universities. This means that if you want to learn Matlab once you've left school, you'll find it really expensive. Python, meanwhile, has a much wider array of [courses](https://boot.dev/learn/learn-python) and tutorials that can teach you anywhere from the basics to pretty advanced stuff. 
 
 **Python is indubitably best for getting a job in computer science.**
 

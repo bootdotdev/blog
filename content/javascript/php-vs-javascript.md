@@ -34,7 +34,7 @@ When deciding on your first language, there are a few variables you need to cons
 
 The first thing to consider is that you need _useful_ language. Much like learning Latin, choosing a dead programming language, whilst enlightening, isn’t going to get you hired and paid. And this brings us to the next topic: choose a language that pays well and is worth investing your money into learning.
 
-You also want a language that’s easy to grasp, so you can start working sooner. You won’t become a master within a week, but you should be able to confidently enter an interview and get yourself hired with a new language within a few months of picking it up, assuming you're already familiar with [programming basics](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb).
+You also want a language that’s easy to grasp, so you can start working sooner. You won’t become a master within a week, but you should be able to confidently enter an interview and get yourself hired with a new language within a few months of picking it up, assuming you're already familiar with [programming basics](https://boot.dev/learn/learn-code-javascript).
 
 Now, JavaScript is without a doubt a useful language that’s in demand. [Powering over 97%](https://w3techs.com/technologies/details/cp-javascript) of the world wide web, there’s yet to be a language that does the job quite like JavaScript, and there’s no sign of it changing.
 
@@ -102,7 +102,7 @@ It's also incredibly flexible, allowing you to change or fix one “node” or e
 
 One fallback though is that because JS was not designed for backend work originally, it pulls up short when it comes to CPU-heavy computations in certain cases.
 
-Since PHP is designed for backend development, it earns a point for this round. If you want to learn a backend language, JavaScript and PHP aren't the only options. It may pay off to [learn Python](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/) or [Golang](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b).
+Since PHP is designed for backend development, it earns a point for this round. If you want to learn a backend language, JavaScript and PHP aren't the only options. It may pay off to [learn Python](https://boot.dev/learn/learn-python) or [Golang](https://boot.dev/learn/learn-golang).
 
 ### JavaScript vs PHP for Frontend Development
 

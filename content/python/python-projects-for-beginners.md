@@ -8,7 +8,7 @@ images:
   - /img/800/pexels-diego-madrigal-2062314-scaled.webp
 ---
 
-I’ve made no secret of the fact that I love Python, and that I believe [one of the best ways to learn Python](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/) is by finding an awesome project you care about to work on. There’s nothing more stimulating than passion and curiosity, and that makes the best projects for Python beginners usually something a little grittier than the standard tutorials. 
+I’ve made no secret of the fact that I love Python, and that I believe [one of the best ways to learn Python](https://boot.dev/learn/learn-python) is by finding an awesome project you care about to work on. There’s nothing more stimulating than passion and curiosity, and that makes the best projects for Python beginners usually something a little grittier than the standard tutorials. 
 
 While it’s fine to start with "Hello World", it’s not exactly the most fascinating of projects and won’t keep you going when the going gets tough.
 
@@ -68,7 +68,7 @@ Once you acknowledge how much time you spend Googling things, you'll realize the
 
 While some of the best Python beginner projects are based on straight Python or use a couple of Python packages, you can also use courses as a way to do a more interactive, guided project. These options are billed as courses that teach you Python, but optionally can be used to complete your first Python project.
 
-### [6. Complete Our Python Course](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/)
+### [6. Complete Our Python Course](https://boot.dev/learn/learn-python)
 
 There are tons of courses online to learn Python, but with boot.dev you build the components of a real-life application - a movie review app.
 
@@ -76,7 +76,7 @@ Beyond that one project, the course itself has plenty of interactive coding chal
 
 Our first course, Python Fundamentals, is designed to take you from a complete beginner and teach you all the skills you need to become more advanced. In addition to our wider [curriculum](https://github.com/bootdotdev/curriculum), which acts as a complete computer science degree -- but at 5% of the cost 😀 -- we have a specialized Python track for anyone who wants to get an interactive experience with Python and get hired, stat.
 
-[Learn Python with boot.dev Here](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/)
+[Learn Python with boot.dev Here](https://boot.dev/learn/learn-python)
 
 ### [7. Coursera’s Python Project option](https://www.coursera.org/learn/python-project-for-data-science)
 
@@ -178,4 +178,4 @@ By no means consider this list of coding ideas for Python exhaustive. There's mo
 
 Take action and learn Python
 
-If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
+If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/learn/learn-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.

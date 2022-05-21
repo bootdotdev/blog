@@ -146,4 +146,4 @@ If however, you know the number of hops you can use an [exponentiation](https://
 
 ECC is used as the cryptographic key algorithm in Bitcoin because it potentially can save ~90% of the resources used by a similar RSA system. It seems that each year we see more systems moving from RSA to a more modern elliptic curve approach.
 
-**If you want to learn more about cryptography**, try our [Practical Cryptography course](https://boot.dev/course/6321ddbf-49eb-4748-9737-6bc12e8bb705/4907b729-6a49-409c-a634-d64d357f9a8b/5c7bdecf-b3be-4947-aea6-749e2d1d96b4) for free.
+**If you want to learn more about cryptography**, try our [Practical Cryptography course](https://boot.dev/learn/learn-cryptography) for free.

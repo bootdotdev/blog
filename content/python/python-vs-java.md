@@ -42,7 +42,7 @@ Alternatively, Python’s a great tool to have because it’s easy to learn for 
 
 I think what’s also unique about Python is it’s an amazing hobby language. Sure, we all want to make money, and you can do that with Python, but you can also work on clever and imaginative side projects. And because Python’s so easy to learn, you don’t have to be a programmer to use Python recreationally.
 
-Overall, both languages offer huge passionate communities that can’t be ignored and offer real value in terms of career growth. However, Python hands down takes the cake for beginners, and you can see how easy it is for yourself [on our course here](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/)!
+Overall, both languages offer huge passionate communities that can’t be ignored and offer real value in terms of career growth. However, Python hands down takes the cake for beginners, and you can see how easy it is for yourself [on our course here](https://boot.dev/learn/learn-python)!
 
 But for experienced programmers, both languages are useful, with Python better for those looking to work in experimental fields and wanting to create their own projects, and Java best for those looking to maintain security in traditional institutions and work with a universal solution.
 
@@ -140,4 +140,4 @@ Regardless of what you choose, you’ll land on your feet with a language suppor
 
 **Take action and learn to code:**
 
-If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
+If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/learn/learn-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.

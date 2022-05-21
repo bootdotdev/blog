@@ -36,7 +36,7 @@ Even though Python is a general-purpose language, this article gives you 10 soli
 
 Coding can be intimidating, especially for a beginner. But Python is the exception. It has a remarkably simple syntax and vocabulary so you can pick it up relatively quickly, especially compared to more complex languages like C, C++, and Java. Python, for data scientists, is an obvious choice of a language to learn.
 
-It’s so simple that Next Academy actually recommends it as a [great choice](https://www.nextacademy.com/blog/python-101-easy-to-learn-beginners/) for children to learn coding. And for non-coders, there are plenty of cheap or free [resources to start learning Python](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/).
+It’s so simple that Next Academy actually recommends it as a [great choice](https://www.nextacademy.com/blog/python-101-easy-to-learn-beginners/) for children to learn coding. And for non-coders, there are plenty of cheap or free [resources to start learning Python](https://boot.dev/learn/learn-python).
 
 If you want to get into data science, Python is a great choice of coding language because you can add it to your tool belt pretty quickly and with a minimum of pain. Learning data science with Python for beginners can be a simple solution.
 
@@ -126,6 +126,6 @@ Start learning python for data science, but rest secure in the knowledge that no
 
 If you want to know what to learn in Python for data science, this article should have covered that comprehensively. Learning data science basics with Python is a natural solution for people wondering where to get started with learning data science, which can be an overwhelming prospect! When I started learning Python, I found it was a perfect fit to getting exposure to basic data science concepts and tasks.
 
-**If you're looking to learn Python** for an eventual data science role, we developed our [Python Fundamentals](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/) course to teach you the skills you need.
+**If you're looking to learn Python** for an eventual data science role, we developed our [Python Fundamentals](https://boot.dev/learn/learn-python) course to teach you the skills you need.
 
-[Learn Python with boot.dev here](https://boot.dev/course/f9a25dfb-3e00-4727-ac78-36de82315355/caf44bf0-6565-400d-a566-af006b22dd2f/c499d5ac-97fe-4efa-9c63-1664100098d1/)
+[Learn Python with boot.dev here](https://boot.dev/learn/learn-python)

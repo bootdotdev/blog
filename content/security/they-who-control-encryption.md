@@ -9,7 +9,7 @@ images:
   - /img/800/They-Who.png
 ---
 
-If you've seen _The Imitation Game_ or studied computer science in school, you have likely heard of [Enigma](https://en.wikipedia.org/wiki/Enigma_machine), [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), or some of the other advances in [cryptography](/cryptography/what-is-cryptography/) that took place during the Second World War. During this time and until the 1970s, governments from around the world had near-total control of all cryptographic systems. It was nearly impossible to [learn about encryption](https://boot.dev/course/6321ddbf-49eb-4748-9737-6bc12e8bb705/4907b729-6a49-409c-a634-d64d357f9a8b/5c7bdecf-b3be-4947-aea6-749e2d1d96b4) without going through a government agency.
+If you've seen _The Imitation Game_ or studied computer science in school, you have likely heard of [Enigma](https://en.wikipedia.org/wiki/Enigma_machine), [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), or some of the other advances in [cryptography](/cryptography/what-is-cryptography/) that took place during the Second World War. During this time and until the 1970s, governments from around the world had near-total control of all cryptographic systems. It was nearly impossible to [learn about encryption](https://boot.dev/learn/learn-cryptography) without going through a government agency.
 
 One of the major contributing factors to cryptography becoming a discipline within the public domain was Whitfield Diffie and Martin Hellman's invention of public-key cryptography in 1976. This new kind of asymmetric cryptography revolutionized cryptography. It also allowed the public to leverage the technology to the people's advantage for the first time.
 

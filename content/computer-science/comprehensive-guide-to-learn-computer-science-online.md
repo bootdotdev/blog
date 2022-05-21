@@ -89,7 +89,7 @@ Coding can be really fun and has a low barrier to entry. The goal here is to get
 
 #### Resources
 
-- [Bootd.dev's Basic Intro to Coding Courses](https://boot.dev/course/2af5c197-21eb-48b4-bd90-b0d59adb311e/eca6fbac-01a2-4b03-9837-e2242d665e21/88898457-a74f-4dd7-97d3-f8a48d0a6beb/)
+- [Bootd.dev's Basic Intro to Coding Courses](https://boot.dev/learn/learn-code-javascript/)
 - [Edabit JavaScript Challenges](https://edabit.com/challenges/javascript)
 - [A Byte of Python](https://python.swaroopch.com/)
 - [The Python Tutorial](https://docs.python.org/3/tutorial/)
@@ -142,9 +142,9 @@ I'm in complete agreement with the traditional education system that that famili
 
 ![](/img/800/travelling_salesman_problem.png)
 #### Resources
-- [Boot.dev's Big-O Algorithms course](https://boot.dev/course/884342fc-5469-47b4-8125-8bfc897428a8/67214b76-2e4b-4fc1-9610-2cf8c7c1c3a2/02e0d979-6758-493f-bf4f-bf7256fa7174/)
-- [Boot.dev's Big-O Data Structures course](https://boot.dev/course/7bbb53ed-2106-4f6b-b885-e7645c2ff9d8/a9d59658-4e3c-441e-973b-147cc3c7e9de/666a9872-74d2-46d9-910a-63581b306302/)
-- [Boot.dev's Advanced Algorithms course](https://boot.dev/course/aaad49fb-0dc5-43c6-992c-96d3f83ee663/573c4cc4-f178-4465-bb76-5ee4718f12a6/dfef3058-b62d-4774-be32-80d933a0a766/)
+- [Boot.dev's Big-O Algorithms course](https://boot.dev/learn/learn-algorithms)
+- [Boot.dev's Big-O Data Structures course](https://boot.dev/learn/learn-data-structures)
+- [Boot.dev's Advanced Algorithms course](https://boot.dev/learn/learn-advanced-algorithms)
 - [Data-Structures & Algorithms with JavaScript](https://github.com/GauravWalia19/Free-Algorithms-Books/blob/master/Library/src/JAVASCRIPT/Data-Structures-%26-Algorithms-with-JavaScript.pdf)
 - [Steven Skiena's Video Lectures](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
 - ["Algorithms" book by Dasgupta](https://freecomputerbooks.com/Algorithms.html)
@@ -218,7 +218,7 @@ Personally, I recommend learning backend APIs using the Go programming language 
 
 #### Resources
 
-- [Go Mastery - For Backend](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b)
+- [Go Mastery - For Backend](https://boot.dev/learn/learn-golang)
 - [The Odin Project - Comprehensive Web Tutorials](https://www.theodinproject.com/)
 
 #### Goals
@@ -255,7 +255,7 @@ Functional programming concepts and styles are especially important in web devel
 
 #### Resources
 
-- Boot.dev's [Intro to Functional Programming course](https://boot.dev/course/b1459f0c-21eb-41e5-b7f3-562ef69d344c/65e3ea51-a0c4-41d6-9e4f-750942bcb0c9/f0d6c12b-fe3f-4920-a6a0-b2ae830b1658)
+- Boot.dev's [Intro to Functional Programming course](https://boot.dev/learn/learn-functional-programming)
 - eBook: [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/book.pdf)
 
 #### Goals
@@ -297,7 +297,7 @@ Cryptography underpins the security of all digital applications. Valuable engine
 
 #### Resources
 
-- Boot.dev's [Practical Cryptography course](https://boot.dev/course/6321ddbf-49eb-4748-9737-6bc12e8bb705/4907b729-6a49-409c-a634-d64d357f9a8b/5c7bdecf-b3be-4947-aea6-749e2d1d96b4)
+- Boot.dev's [Practical Cryptography course](https://boot.dev/learn/learn-cryptography)
 - Christof Paar's [Youtube Lectures](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
 
 #### Goals
@@ -366,7 +366,7 @@ Distributed systems is the study of programs that can efficiently take advantage
 
 #### Resources
 
-- Boot.dev's [Go Mastery course](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b)
+- Boot.dev's [Go Mastery course](https://boot.dev/learn/learn-golang)
 - [Dixie State's Chord Assignment](http://cit.dixie.edu/cs/3410/asst_chord.php)
 - [Google's BigTable Research Paper - Read and take notes!](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf)
 - [Understanding Paxos](https://understandingpaxos.wordpress.com/)
