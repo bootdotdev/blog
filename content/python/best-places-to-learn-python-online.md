@@ -32,11 +32,9 @@ Every day I stumble across a YouTube video filled with so much helpful and valua
 
 Let’s talk videos for beginners:
 
--   [FreeCodeCamp.org’s four-hour Python tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). Notable comment: "I started my professional journey 3 years back from this python series and today am a Data Science Trainer. All the credit goes to this guy for setting up the base so strong. Thankyou so much for sharing so valuable content for free. God bless you abundantly!" – Nehal Verma
-
--   [Programming with Mosh’s six-hour Python tutorial](https://www.youtube.com/watch?v=_uQrJ0TkZlc). Notable comment: "This course has literally changed my life. 2 years ago i started learning python from this course and now i am a software engineer intern at a great startup. Thanks Mosh♥️" – Techno Maestro
-
--   [Edureka’s 12-hour Python tutorial](https://www.youtube.com/watch?v=WGJJIrtnfpk). Notable comment: "they explained a thousand times better than my cs class teacher. hats off to you guys! keep it up!" – Yash Garg.
+* [FreeCodeCamp.org’s four-hour Python tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). Notable comment: "I started my professional journey 3 years back from this python series and today am a Data Science Trainer. All the credit goes to this guy for setting up the base so strong. Thankyou so much for sharing so valuable content for free. God bless you abundantly!" – Nehal Verma
+* [Programming with Mosh’s six-hour Python tutorial](https://www.youtube.com/watch?v=_uQrJ0TkZlc). Notable comment: "This course has literally changed my life. 2 years ago i started learning python from this course and now i am a software engineer intern at a great startup. Thanks Mosh♥️" – Techno Maestro
+* [Edureka’s 12-hour Python tutorial](https://www.youtube.com/watch?v=WGJJIrtnfpk). Notable comment: "they explained a thousand times better than my cs class teacher. hats off to you guys! keep it up!" – Yash Garg.
 
 There are more, and these really only get into the basics of Python. If you want more advanced YouTube Python tutorials, I recommend looking up Python interview questions and searching for the answer on YouTube. These will help guide you in a practical way through Python. For a whole bunch in one place, I really enjoyed [Simplilearn's 37-minute video](https://www.youtube.com/watch?v=ONzmH7mAgEA) on Python interview questions and their explanations.
 
@@ -46,11 +44,9 @@ This is a much more hands-on way of doing things, which is more frustrating but 
 
 Here are a few fantastic resources to get started:
 
--   [Akuli’s repo](https://github.com/Akuli/python-tutorial) for people who want to learn Python online and hate reading. Jumps right into code.
-
--   [ProgrammingHero’s repo](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions) for people who prefer to learn by doing. Includes 100 Python questions and answers, organized from easy to advanced.
-
--   [Ujjwalkarn’s repo](https://github.com/ujjwalkarn/DataSciencePython) for learners who have specific Python tasks in mind. Includes a curated list of tutorials specifically for Data Science, NLP and Machine Learning.
+* [Akuli’s repo](https://github.com/Akuli/python-tutorial) for people who want to learn Python online and hate reading. Jumps right into code.
+* [ProgrammingHero’s repo](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions) for people who prefer to learn by doing. Includes 100 Python questions and answers, organized from easy to advanced.
+* [Ujjwalkarn’s repo](https://github.com/ujjwalkarn/DataSciencePython) for learners who have specific Python tasks in mind. Includes a curated list of tutorials specifically for Data Science, NLP and Machine Learning.
 
 You can browse the [list of Python tutorial GitHub repos](https://github.com/topics/python-tutorial) yourself - there are over 100 to check out.
 
@@ -130,7 +126,7 @@ You can learn everything you need to learn by auditing these courses, which is t
 
 Codecademy keeps their freemium option pretty sparse on purpose. Once you finish those eleven free courses, I recommend you at least look at their paid courses. [Codecademy Pro](https://www.codecademy.com/catalog/language/python) costs $40/month (or $19.99 if you get billed annually), but comes with real-world projects and more step-by-step guidance.
 
-Notable comment: "Wrong attitude - Pro will make me learn this. Right attitude - I’m really learning this - I need more and more to do so I can learn more - How can I better use what i’ve already learned- Pro will help me scratch my learning itch. It is a knowledge multiplier, not a knowledge firestarter." – [Fight\_dragons](https://discuss.codecademy.com/t/is-pro-worth-it/439354/2) on the Codecademy forum.
+Notable comment: "Wrong attitude - Pro will make me learn this. Right attitude - I’m really learning this - I need more and more to do so I can learn more - How can I better use what i’ve already learned- Pro will help me scratch my learning itch. It is a knowledge multiplier, not a knowledge firestarter." – [Fight_dragons](https://discuss.codecademy.com/t/is-pro-worth-it/439354/2) on the Codecademy forum.
 
 ## What are the best places to learn Python online? 
 
