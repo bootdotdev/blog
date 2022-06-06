@@ -108,13 +108,13 @@ Free does the job, but sometimes you get what you pay for. A lot of those freemi
 
 Boot.dev’s [Python course](https://boot.dev/learn/learn-python) is a great place to learn Python online and includes exercises and tutorials. There isn’t much passive content, so it’s awesome for folks who prefer to learn with a more hands-on approach. The course takes about 20h to complete. You can pay $29/month or $16/month when billed annually.
 
-Notable comment: \[TK Lane if you have a review/testimonial about the course, it’d be great to include it here\]
+Notable comment: "I was a field service engineer and I wanted to learn to code, but work and family limited my options. Since completing the Python track on Boot.dev, I now have a job offer in hand and will be starting my career as a software developer in the coming months." - Özgür Yildirim from Germany
 
 ### Udemy paid courses
 
 As I mentioned, Udemy offers paid courses, too. Udemy is almost always running some kind of sale. You can scoop up a course for just $10-$25 at any time of the year. [The Python Bible](https://www.udemy.com/course/the-python-bible/), for example, is currently $16.99 and very highly rated – 4.6 stars, with over 40k reviews. It guides you through 11 projects, with coding exercises, nine hours of on-demand video, and four articles.
 
-Notable comment: "I was a field service engineer and I wanted to learn to code, but work and family limited my options. Since completing the Python track on Boot.dev, I now have a job offer in hand and will be starting my career as a software developer in the coming months." - Özgür Yildirim from Germany
+Notable comment: "I think this is the best course for those who want to get their feet wet in python. I got the foundation I wanted, which will allow me to start dissecting the python scripts that we have at work. From there, I can see where I would need to focus. Thank you, Ziyad!!" – Edgar, who rated it 4.5 stars.
 
 ### Coursera and edX’s paid options
 
