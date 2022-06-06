@@ -32,7 +32,7 @@ Every day I stumble across a YouTube video filled with so much helpful and valua
 
 Let’s talk videos for beginners:
 
-* [FreeCodeCamp.org’s four-hour Python tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). Notable comment: "I started my professional journey 3 years back from this python series and today am a Data Science Trainer. All the credit goes to this guy for setting up the base so strong. Thankyou so much for sharing so valuable content for free. God bless you abundantly!" – Nehal Verma
+* [FreeCodeCamp.org’s four-hour Python tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). Notable comment: "I started my professional journey 3 years back from this python series and today am a Data Science Trainer. All the credit goes to this guy for setting up the base so strong. Thank you so much for sharing so valuable content for free. God bless you abundantly!" – Nehal Verma
 * [Programming with Mosh’s six-hour Python tutorial](https://www.youtube.com/watch?v=_uQrJ0TkZlc). Notable comment: "This course has literally changed my life. 2 years ago i started learning python from this course and now i am a software engineer intern at a great startup. Thanks Mosh♥️" – Techno Maestro
 * [Edureka’s 12-hour Python tutorial](https://www.youtube.com/watch?v=WGJJIrtnfpk). Notable comment: "they explained a thousand times better than my cs class teacher. hats off to you guys! keep it up!" – Yash Garg.
 
@@ -108,13 +108,13 @@ Free does the job, but sometimes you get what you pay for. A lot of those freemi
 
 Boot.dev’s [Python course](https://boot.dev/learn/learn-python) is a great place to learn Python online and includes exercises and tutorials. There isn’t much passive content, so it’s awesome for folks who prefer to learn with a more hands-on approach. The course takes about 20h to complete. You can pay $29/month or $16/month when billed annually.
 
-Notable comment: "I was a field service engineer and I wanted to learn to code, but work and family limited my options. Since completing the Python track on Boot.dev, I now have a job offer in hand and will be starting my career as a software developer in the coming months." - Özgür Yildirim from Germany
+> "I was a field service engineer and I wanted to learn to code, but work and family limited my options. Since completing the Python track on Boot.dev, I now have a job offer in hand and will be starting my career as a software developer in the coming months." - Özgür Yildirim from Germany
 
 ### Udemy paid courses
 
 As I mentioned, Udemy offers paid courses, too. Udemy is almost always running some kind of sale. You can scoop up a course for just $10-$25 at any time of the year. [The Python Bible](https://www.udemy.com/course/the-python-bible/), for example, is currently $16.99 and very highly rated – 4.6 stars, with over 40k reviews. It guides you through 11 projects, with coding exercises, nine hours of on-demand video, and four articles.
 
-Notable comment: "I think this is the best course for those who want to get their feet wet in python. I got the foundation I wanted, which will allow me to start dissecting the python scripts that we have at work. From there, I can see where I would need to focus. Thank you, Ziyad!!" – Edgar, who rated it 4.5 stars.
+> "I think this is the best course for those who want to get their feet wet in python. I got the foundation I wanted, which will allow me to start dissecting the python scripts that we have at work. From there, I can see where I would need to focus. Thank you, Ziyad!!" – Edgar, who rated it 4.5 stars.
 
 ### Coursera and edX’s paid options
 
@@ -126,7 +126,7 @@ You can learn everything you need to learn by auditing these courses, which is t
 
 Codecademy keeps their freemium option pretty sparse on purpose. Once you finish those eleven free courses, I recommend you at least look at their paid courses. [Codecademy Pro](https://www.codecademy.com/catalog/language/python) costs $40/month (or $19.99 if you get billed annually), but comes with real-world projects and more step-by-step guidance.
 
-Notable comment: "Wrong attitude - Pro will make me learn this. Right attitude - I’m really learning this - I need more and more to do so I can learn more - How can I better use what i’ve already learned- Pro will help me scratch my learning itch. It is a knowledge multiplier, not a knowledge firestarter." – [Fight_dragons](https://discuss.codecademy.com/t/is-pro-worth-it/439354/2) on the Codecademy forum.
+> "Wrong attitude - Pro will make me learn this. Right attitude - I’m really learning this - I need more and more to do so I can learn more - How can I better use what i’ve already learned- Pro will help me scratch my learning itch. It is a knowledge multiplier, not a knowledge firestarter." – [Fight_dragons](https://discuss.codecademy.com/t/is-pro-worth-it/439354/2) on the Codecademy forum.
 
 ## What are the best places to learn Python online? 
 
