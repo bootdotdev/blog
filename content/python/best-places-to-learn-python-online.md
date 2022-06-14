@@ -1,6 +1,6 @@
 ---
 title: "The 14 Best Places to Learn Python Online"
-author: Zulie Rane
+author: Natalie Schooner
 date: "2022-06-06"
 categories: 
   - "python"
