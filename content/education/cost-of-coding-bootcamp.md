@@ -26,6 +26,8 @@ You might want to know:
 
 Let’s answer those questions.
 
+{{< cta1 >}}
+
 ## Coding bootcamps cost a fraction of a college degree.
 
 One of the most useful comparisons is looking at the cost of a coding bootcamp as an alternative to a degree in software engineering or computer science. To get a job in data science or engineering, it’s no longer necessary to get a degree. Many entry-level computer science jobs only want proof that you can code in Javascript. Your skills matter much more than your diploma.
@@ -51,6 +53,8 @@ Then there are options like [boot.dev](http://boot.dev). Like coding bootcamps, 
 Having a college-backed certificate is powerful, but what I said earlier still stands: many employers just don’t care. If you can prove you have the skills, they’ll be thrilled to get you on board with or without a diploma or certificate.
 
 Compared to the cost of a coding bootcamp, online courses or communities are a steal.
+
+{{< cta2 >}}
 
 ## Coding bootcamps come with a lot of handholding. 
 

@@ -21,6 +21,8 @@ Well, no one really knows where the markets are going in the future, but things 
 
 I have no idea if the market is going down another 20%, is going to rebound to all-time-highs by the end of the year, or if we'll trade sideways for the next few months. If I were you, I'd be wary of anyone who is telling you that they do know what is going to happen, especially if there is a price tag attached to the information. What I do know is that there is a sentiment sweeping across the tech industry that has company leaders thinking about tightening their budgets to weather a storm - whether or not the storm comes.
 
+{{< cta1 >}}
+
 ## The markets have been anything but normal lately
 
 For the last decade, stocks have been way up, especially tech stocks. Let's look at some of the winners.
@@ -54,6 +56,8 @@ Less investment money means fewer startups and fewer "series-X" fundraising roun
 Junior developers have always had a harder time finding work than mid-level or senior developers. Frankly, that first job has always been hard to land, but landing any job once you have some experience under your belt has been much easier historically. I think entry-level developers will unfortunately be disproportionately impacted by a "tech recession". Now more than ever, the competition among entry-level devs will be fierce. It might not be enough anymore to [attend a 12-week bootcamp and come out the other side making $80k](/jobs/getting-a-job-after-coding-bootcamp-is-hard).
 
 Second, I suspect that high-growth startups will be hit harder than more established companies. Companies that are profitable will likely be able to take advantage of the market downturn and pick up talent on the cheap. Companies relying entirely on outside investment will have to go through layoffs or at least slow that pace with which they snap up developers.
+
+{{< cta2 >}}
 
 ## Don't panic
 

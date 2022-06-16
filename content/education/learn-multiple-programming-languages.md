@@ -27,6 +27,8 @@ Boot.dev is a batteries-included computer science curriculum in the browser. We 
 * We have a linear curriculum so students don't have to worry about what they should be learning next
 * We gamify the experience as much as possible to keep students motivated
 
+{{< cta1 >}}
+
 ## So why can't the whole curriculum be taught in a single language?
 
 If you look at the [full CS curriculum we have planned in our public roadmap on Github](https://github.com/bootdotdev/curriculum), you'll see that it's basically impossible. There are certain concepts that are so tightly coupled to specific technologies that it makes no sense to try to teach them all the same way. Let's look at a few trivial examples.
@@ -74,6 +76,8 @@ if err != nil {
 ```
 
 By familiarizing you with several languages, I firmly believe you will have a deeper understanding of each technology, and when you might want to use different tools.
+
+{{< cta2 >}}
 
 ## Will I be a jack-of-all-trades, master of none?
 
