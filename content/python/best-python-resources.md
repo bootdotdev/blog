@@ -1,7 +1,7 @@
 ---
 title: "The 12 Most Engaging Resources for Learning Python"
 author: Natalie Schooner
-date: "2022-06-024"
+date: "2022-06-24"
 categories: 
   - "python"
 images:
