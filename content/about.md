@@ -14,7 +14,7 @@ Boot.dev isn’t just a collection of computer science courses, we have unique o
 
 People are becoming more tech-literate every day - and that's a great thing. However, we think simple website development will become the next decade's "blue-collar" job. Understanding CS concepts like algorithms, data structures, distributed computing, and cryptography will be the way to differentiate yourself as a developer.
 
-## You can't learn to code if you aren't writing code.
+## You can't learn to code if you aren't writing code
 
 Many new learners end up watching hours of YouTube videos, only to find they're unable to build the most basic applications when they start a project alone. Writing real code is a more effective way to learn.
 
@@ -22,18 +22,18 @@ Many new learners end up watching hours of YouTube videos, only to find they're 
 
 So many students struggle figuring out *what* to learn next. It makes no sense to expect you to put together a list of courses on your own. We have a [simple, linear computer science program](https://github.com/bootdotdev/curriculum). 
 
-## It's not hard to find coding courses online, but it is hard to find good ones.
+## It's not hard to find coding courses online, but it is hard to find good ones
 
 If you’re willing to drudge through thousands of Wikipedia pages, scholarly articles, and blog posts, you can learn anything online today. We don't have 10 different "Data Structures" courses of varying quality - we have one that we dedicate all our resources to.
 
-## A mix of guided and unguided learning is essential.
+## A mix of guided and unguided learning is essential
 
 There's nothing worse than spending a bunch of time learning, only to realize you don’t know how to apply what you learned to real-world problems.
 
 * We use courses to teach new concepts like algorithms, data structures, and functional programming
 * We mix-in real-world projects so you can use those same concepts to build real applications
 
-## Boot camps are too fast, universities are too slow.
+## Boot camps are too fast, universities are too slow
 
 We disagree with the following common claims:
 
@@ -49,14 +49,14 @@ It’s important to understand why binary trees make lookups fast, how DNS queri
 
 For example, you might learn in a course that PostgreSQL is a relational database that isn’t optimized to scale horizontally. However, from an experienced mentor, you’ll hear a real story about how their company used PostgresDB up until they had 20 million users, and that a specific issue with user notifications forced them to consider a different technology.
 
-## There is something magical about learning with others.
+## There is something magical about learning with others
 
 Similar to gaining insights from mentors, it's important to have peers at your same level you can learn with.
 
 * The motivation provided by a good group of peers is strong. You can keep each other accountable and moving forward.
 * Teaching a concept is the one of the best ways to learn it deeper yourself. You will reinforce your learning on that topic in a serious way.
 
-## Mastery is important, grades are not.
+## Mastery is important, grades are not
 
 Students shouldn't move from one concept to the next until they’ve shown mastery of the first. In traditional schooling, that means only A-students would move on to the next class.
 
@@ -75,17 +75,17 @@ With online learning, we can take *one of the best* explanations of bubble sort,
 
 The [zone of proximal development](https://en.wikipedia.org/wiki/Zone_of_proximal_development) is where you should be. You should be challenged, but not lost. You'll learn best when "muddling through" hard problems that you have the tools to solve.
 
-## T-shaped developers are the most successful.
+## T-shaped developers are the most successful
 
 The vertical bar on the letter "T" represents the *depth* of your knowledge in a specific area, and the horizontal bar represents the *breadth* of your knowledge across all facets of software engineering.
 
 For example, you could build a strong vertical bar by focusing primarily on backend development in Go. At the same time, you could build a wide horizontal bar by occasionally doing projects in JavaScript, Tensorflow, functional programming, or distributed systems.
 
-## Your coding skills don't matter if you don't know how to show them off to a potential employer.
+## Your coding skills don't matter if you don't know how to show them off to a potential employer
 
 You can be the best developer in the world, but if you’re not able to prove yourself to potential employers you will never find a programming job. Spending time working on your portfolio and resume will make your job search possible. Practicing interviewing skills will ensure a successful job hunt.
 
-## If you don’t define your career goals, you’ll never know when you’re ready for your first job.
+## If you don’t define your career goals, you’ll never know when you’re ready for your first job
 
 You don't ever stop "learning to code". There isn’t a magic threshold that separates the “coders” from the “non-coders”. Your learning path should never truly end, but along the way, you’ll find yourself qualified for different kinds of programming jobs.
 
