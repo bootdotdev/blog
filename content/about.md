@@ -8,15 +8,15 @@ images:
 
 Humans enjoy learning, we’re naturally curious creatures. As such, it should be much, much easier to become a software developer. 
 
-Boot.dev isn’t just a collection of computer science courses, we have unique opinions about how you can become the best software engineer you can be. The following principles guide the development of our platform and community. We update them as we learn and evolve.
+Boot.dev isn’t just a collection of computer science courses, we have unique opinions about how you can become the best software engineer you can be. The following principles guide the development of our platform and community. We update them as we learn.
 
 ## An understanding of computer science will set you apart in the job market
 
-People are becoming more tech-literate year by year - and that's a great thing. However, we think simple website development will become the next decade's "blue-collar" job. Understanding CS concepts like algorithms, data structures, distributed computing, or cryptography will be the way to stand out and differentiate your valuable skills as a developer.
+People are becoming more tech-literate every day - and that's a great thing. However, we think simple website development will become the next decade's "blue-collar" job. Understanding CS concepts like algorithms, data structures, distributed computing, and cryptography will be the way to differentiate yourself as a developer.
 
 ## You can't learn to code if you aren't writing code.
 
-Many new learners are lured into watching hours of online lectures and YouTube videos, only to find they're unable to build even the most basic applications when they start on a project alone. Writing real code is a more effective way to learn.
+Many new learners end up watching hours of YouTube videos, only to find they're unable to build the most basic applications when they start a project alone. Writing real code is a more effective way to learn.
 
 ## A simple, linear learning path is best
 
