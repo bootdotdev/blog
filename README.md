@@ -1,5 +1,11 @@
 # blog
 
+The blog for Boot.dev, which can be found at [https://blog.boot.dev](https://blog.boot.dev).
+
+## A note on the license
+
+You can read the [license here](/LICENSE). In short, we opened our code to give students transparent visibility into our code for educational purposes. You are free to contribute to this codebase, but we do not allow you to distribute this code or content for your own purposes or for use in your own projects.
+
 ## Quick start development
 
 Make sure you have `yarn` and the latest version of [hugo](https://gohugo.io/getting-started/installing/) installed on your local machine.
