@@ -4,7 +4,7 @@ The blog for Boot.dev, which can be found at [https://blog.boot.dev](https://blo
 
 ## A note on the license
 
-You can read the [license here](/LICENSE). In short, we opened our code to give students transparent visibility into our code for educational purposes. You are free to contribute to this codebase, but we do not allow you to distribute this code or content for your own purposes or for use in your own projects.
+You can read the [license here](/LICENSE). In short, we mde this repo public to give students transparent visibility into our code for educational purposes. We do not allow you to distribute this code or content for your own purposes or for use in your own projects, and we retain the copyright to the code regardless of any contributions made.
 
 ## Quick start development
 
