@@ -618,6 +618,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   flex-shrink: 0;
 }
 
+.cursor-pointer {
+  cursor: pointer;
+}
+
 .list-disc {
   list-style-type: disc;
 }
@@ -895,6 +899,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .hover\:opacity-80:hover {
   opacity: 0.8;
+}
+
+.hover\:opacity-50:hover {
+  opacity: 0.5;
 }
 
 .focus\:outline-none:focus {
