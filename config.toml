@@ -10,28 +10,28 @@ paginate = 10
   category = "categories"
 
 [permalinks]
-post = "/:section/:slug/"
+  post = "/:section/:slug/"
 
 [params]
-description = "We teach computer science through hands-on coding projects. We’re built for developers who want to advance their careers."
-footer = "&copy; [Boot.dev](https://boot.dev) {Year}"
-googleTagManager = "GTM-PT7FHFB"
+  description = "We teach computer science through hands-on coding projects. We’re built for developers who want to advance their careers."
+  footer = "&copy; [Boot.dev](https://boot.dev) {Year}"
+  googleTagManager = "GTM-PT7FHFB"
 
 [markup.highlight]
-anchorLineNos = false
-codeFences = true
-guessSyntax = false
-hl_Lines = ""
-lineAnchors = ""
-lineNoStart = 1
-lineNos = false
-lineNumbersInTable = true
-noClasses = true
-style = "monokai"
-tabWidth = 4
+  anchorLineNos = false
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineAnchors = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true
+  style = "monokai"
+  tabWidth = 4
 
 [markup.goldmark.renderer]
-unsafe = true
+  unsafe = true
 
 [related]
   includeNewer = false
