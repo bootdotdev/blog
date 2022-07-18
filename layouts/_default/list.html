@@ -1,19 +1,22 @@
 {{ partial "header.html" . }}
 
-{{ .Content }}
+{{ $paginator := .Paginate (where .Paginator.Pages "Section" "!=" "") }}
 
 <main class="mb-4 flex flex-row justify-center">
-  <a href="/categories" class="py-2 px-4 m-4 rounded text-white hover:text-white no-underline bg-gray-500 hover:bg-gray-400"><span>Blog Categories</span></a>
-  <a href="/index.xml" class="py-2 px-4 m-4 rounded text-white hover:text-white no-underline bg-gray-500 hover:bg-gray-400"><span>RSS Feed</span></a>
+  <h1 class="text-4xl text-blue-400 mb-2 font-bold">
+    {{ title .Title }}
+    {{ if (gt $paginator.PageNumber 1) }} -
+      Pg. {{ $paginator.PageNumber }}
+    {{ end }}
+  </h1>
 </main>
 
 <ul>
-  {{ $paginator := .Paginate (where .Paginator.Pages "Section" "!=" "") }}
   {{ range $index, $val := $paginator.Pages }}
   <li>
     <div class="mb-10">
       <a href="{{ .RelPermalink }}" class="cursor-pointer">
-        <h2 class="text-3xl font-bold text-blue-400 hover:text-blue-300 underline mb-2">{{ .Title | markdownify }}</h2>
+        <h2 class="text-2xl font-bold text-blue-400 hover:text-blue-300 underline mb-2">{{ .Title | markdownify }}</h2>
       </a>
 
       <h3 class="text-sm text-gray-300 mb-8">
