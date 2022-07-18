@@ -13,7 +13,7 @@ paginate = 10
   post = "/:section/:slug/"
 
 [params]
-  description = "We teach computer science through hands-on coding projects. We’re built for developers who want to advance their careers."
+  description = "You don't need a CS degree to get hired, but you do need computer science skills. Prepare to land an entry-level role in tech by building real coding projects."
   footer = "&copy; [Boot.dev](https://boot.dev) {Year}"
   googleTagManager = "GTM-PT7FHFB"
 
