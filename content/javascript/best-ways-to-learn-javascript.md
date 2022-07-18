@@ -2,21 +2,20 @@
 title: "7 Best Ways to Learn JavaScript, Personalized"
 author: Meghan Reichenbach
 date: "2022-02-05"
+lastmod: "2022-07-18"
 categories: 
   - "javascript"
 images:
   - /img/800/bestwaystolearnJavaScript.webp
 ---
 
-JavaScript is undoubtedly one of the best languages any developer could pick up, whether they’ve been in the game for years or are just starting out. Powering over 97% of today’s websites, you’ll likely be faced with the need to use JavaScript at some point, regardless of the field you work in, because of how embedded the language is in the online world.
+JavaScript is undoubtedly one of the best languages to learn as a developer, whether you've been at it for years or are just starting out. More than 97% of today's websites are powered by JavaScript. Regardless of what field you work in, you'll likely be exposed to JavaScript at some point, as the language is firmly entrenched in the online world.
 
-But what is the best way to learn JavaScript?
+**But what is the best way to learn JavaScript?** That's a tough question, because what I think is the best way to learn JavaScript may not be the best way to learn it for you. So the question you should ask yourself is, "What's the best way to learn *for me*?"
 
-This is a loaded question because what I think is the best way to learn JavaScript may not be the best way to learn it for you. So, what you should be asking is “what’s the best way to learn for me?”
+I've compiled the 7 best methods for learning JavaScript so you can find the best way for you. I'll show you the best methods online - and offline - and help you find the best way for you and your learning style.
 
-I’ve got you covered with the 7 best ways to learn JavaScript, so you can find the best way for you. I’ll show you the best ways to learn JavaScript online – and off – and help you discover what’s the best path for you and you’re learning style.
-
-## Learn JavaScript interactively
+## Learn interactively
 
 One of the best ways to learn anything is by getting your hands dirty and trying out the knowledge yourself, and Boot.dev has brought that exact experience to [coding in JavaScript](https://boot.dev/learn/learn-code-javascript).
 
@@ -46,9 +45,9 @@ freeCodeCamp on the other hand is something different entirely. This non-profit 
 
 With over 7,000 tutorials and 40,000 students helped to land jobs at tech giants like Apple and Google, freeCodeCamp is truly a remarkable organization and a great opportunity for beginners to test out JavaScript, and for experienced programmers to get fast access to free JS material.
 
-## Learn JavaScript on your own
+## Learn on your own
 
-Do you learn best on your own? When you’re not following a strict outline or exercises, and instead, get to build and research your own curriculum? Then the best way to learn may be on your own.
+Do you learn best when you get to build and research your own curriculum? Some people thrive on researching nitty-gritty details and putting together their own resource lists. If that sounds like you, then the best way to learn may be on your own.
 
 While mostly known for beauty gurus, music videos, and conspiracy theories, YouTube is also a fantastic source of learning material, including how to learn JavaScript.
 
@@ -72,7 +71,7 @@ However, if you want a project-based learning method, but don’t feel comfortab
 
 {{< cta2 >}}
 
-## Learn JavaScript the fun way
+## The fun way
 
 If you’re like me, after a day of work the last thing I want to do is come home, listen to lectures, and force my brain to retain crucial information as it turns to mush from the long day. Instead, I’d much rather zone out to a movie, or better yet, play some mindless games.
 
@@ -98,7 +97,7 @@ This book is directed at beginners, with examples and practice exercises heavily
 
 While you can learn JavaScript from these texts alone, much like Codewars, I think these are beneficial resources to have in tandem with online courses and add a lot of value to your learning.
 
-## Learn JavaScript by earning a certificate
+## Earning a certificate
 
 Did you even learn JavaScript if you didn’t get a certificate?
 
@@ -114,7 +113,7 @@ That said, there are other faster and more affordable routes to take to receive 
 
 {{< cta3 >}}
 
-## The Best Way to Learn JavaScript for You
+## The Best Way to learn for you
 
 Whether you prefer learning on your own or being involved in an instructor-led course, the best way to learn JavaScript is really about the best way to learn for you.
 
