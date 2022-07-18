@@ -18,7 +18,7 @@ Bitcointalk is undoubtedly the gold standard for the crypto community on the web
 
 {{< cta1 >}}
 
-## [#2 Reddit - /r/bitcoin](http://reddit.com/r/bitcoin)
+## [#2 Reddit - /r/bitcoin](https://reddit.com/r/bitcoin)
 
 ![reddit logo](/img/800/1_e3E0OQzfYCuWk0pket5dAA-1024x576.png)
 

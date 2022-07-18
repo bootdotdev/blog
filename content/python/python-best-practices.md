@@ -54,7 +54,7 @@ Logging allows you to control whether the statements are outputted and even wher
 
 ## Python Best Practices #4: Testing
 
-Testing is a crucial part of software development. Any piece of code that goes into production should be tested, and preferably on many different levels. Tests range from tiny [unit tests](clean-code/writing-good-unit-tests-dont-mock-database-connections) all the way up to all-encompassing end-to-end or acceptance tests.You can read more about the software [test hierarchy here](https://www.softwaretestinggenius.com/simple-explanation-of-hierarchy-of-testing-levels/).
+Testing is a crucial part of software development. Any piece of code that goes into production should be tested, and preferably on many different levels. Tests range from tiny [unit tests](/clean-code/writing-good-unit-tests-dont-mock-database-connections) all the way up to all-encompassing end-to-end or acceptance tests.You can read more about the software [test hierarchy here](https://www.softwaretestinggenius.com/simple-explanation-of-hierarchy-of-testing-levels/).
 
 [Unittest](https://docs.python.org/3/library/unittest.html) is a standard Python package that serves as a testing framework. It was inspired by the ubiquitous [JUnit](https://junit.org/junit5/). Unittest “supports test automation, sharing of setup and shutdown code for tests, aggregation of tests into collections, and independence of the tests from the reporting framework”
 

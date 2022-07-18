@@ -64,7 +64,7 @@ In today’s world, we are faced with the endless pursuit of making things faste
 
 Whether you don’t have much time on your hands, are constantly dividing your attention between too many things, or just like to learn quickly, project-based learning is one of the fastest ways to learn JavaScript.
 
-The first way is to start by [finding a project](javascript/javascript-projects-for-beginners) you’re interested in and are determined to complete. Not only does this give you practical experience, but it leaves you with a fully functioning app or program that benefits you!
+The first way is to start by [finding a project](/javascript/javascript-projects-for-beginners) you’re interested in and are determined to complete. Not only does this give you practical experience, but it leaves you with a fully functioning app or program that benefits you!
 
 Another way is by joining an open-source JavaScript project. These are free projects and frameworks already created that you can edit and work with yourself. You’ll find a lot of these on GitHub, and they offer free and risk-free opportunities to work with the language.
 

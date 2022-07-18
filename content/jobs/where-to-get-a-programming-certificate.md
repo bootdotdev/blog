@@ -5,7 +5,7 @@ date: "2021-03-14"
 categories: 
   - "jobs"
 images:
-  - /img/800/pexels-joão-jesus-4198370-scaled.jpeg
+  - /img/800/pexels-jesus-4198370-scaled.jpeg
 ---
 
 ## There are two main options to get a programming certificate online - online courses and universities.

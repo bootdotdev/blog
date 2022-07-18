@@ -58,7 +58,7 @@ For more reading (which I recommend!) check out [Oracle’s help doc](https://do
 
 JavaScript has a loose programming style. If you mess up, there’s some grace around how errors are handled. C++ comparatively is more old-school, where you need all your curly brackets and semi-colons precisely in place. It’s rigid whereas JavaScript is flexible. 
 
-![who would win](img/800/pastedzero.png)
+![who would win](/img/800/pastedzero.png)
 
 ### C++ Advantages 
 
