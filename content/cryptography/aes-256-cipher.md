@@ -11,7 +11,7 @@ images:
 
 AES, or “Advanced Encryption Standard”, is an encryption specification that uses the Rijndael cipher as its symmetric key ciphering algorithm. AES encrypts a message with a private key, and no one but the key holder can decrypt the message. A great example of a good use-case for AES-256 is encrypting all the data on the hard drive of a computer when it's not in use.
 
-# Symmetric Encryption vs Asymmetric Encryption
+## Symmetric Encryption vs Asymmetric Encryption
 
 **Symmetric encryption uses the same key** for encryption and decryption and **asymmetric encryption uses different keys.**
 
@@ -21,13 +21,13 @@ Asymmetric encryption is preferred when you want someone to be able to send you 
 
 ![symmetric vs asymmetric key systems](/img/800/1_oe-Kk1FfLPNO5sAAl-4N-g.jpeg)
 
-# AES-256 Secret Key
+## AES-256 Secret Key
 
 The secret key used in AES-256 must be 256 bits long. In order to use a password or passphrase as the key, a [hashing algorithm](https://blog.goodaudience.com/very-basic-intro-to-hash-functions-sha-256-md-5-etc-ed721622ff8) needs to be used to extend the length.
 
 The shorter the password or passphrase, the easier it is for an attacker to decrypt the data by guessing passwords, hashing them, and attempting to decrypt the message. In order to mitigate this threat, some applications enforce safeguards, such as using a [KDF](/cryptography/key-derivation-functions/).
 
-# Encryption Process Overview
+## Encryption Process Overview
 
 Let's walk through the steps of the AES ciphering process, also known as the [Rijndael](https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf) cipher.
 
@@ -108,7 +108,7 @@ a5 5a 20 be
 - Shift rows
 - Multiply columns
 
-# That's it! /s
+## That's it! /s
 
 Obviously the Rijndael cipher used in AES is fairly complex but I hope I’ve been able to shed light on a high-level view of what goes on inside! Thanks for reading.
 
