@@ -52,8 +52,8 @@ By using popular crypto libraries that are regularly updated, your code won't be
 
 Take advantage of the community, and give back by contributing when you can!
 
-Go: [https://golang.org/pkg/crypto/](https://golang.org/pkg/crypto/)
+Go: [Golang.org](https://golang.org/pkg/crypto/)
 
-Node: [https://nodejs.org/api/crypto.html](https://nodejs.org/api/crypto.html)
+Node: [Node.js](https://nodejs.org/api/crypto.html)
 
-Python: [https://pypi.org/project/cryptography/](https://pypi.org/project/cryptography/)
+Python: [Python](https://pypi.org/project/cryptography/)

@@ -35,7 +35,7 @@ Symmetric encryption, or more specifically AES-256, is believed to be quantum-re
 
 ![symmetric kittens](/img/800/mddjVaf-1024x977.jpg)
 
-[Symmetric Cats](https://i.imgur.com/mddjVaf.jpg)
+![Symmetric Cats](https://i.imgur.com/mddjVaf.jpg)
 
 [Grover's algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm) can reduce the brute force attack time to its square root. So for AES-128 the attack time becomes reduced to 2^64 (not very secure), while AES-256 becomes reduced to 2^128 which is still considered very secure.
 

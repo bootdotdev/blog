@@ -92,6 +92,6 @@ In JavaScript, classes are optional, and [functional programming](https://boot.d
 
 **JavaScript is single-threaded**, which means that it will never execute code at the same time. Concurrent programming is a feature of most languages, and JavaScript is fairly unique in not being able to accomplish the task.
 
-**In Java concurrency is readily available** and you can read more about it here: [https://howtodoinjava.com/java-concurrency-tutorial/](https://howtodoinjava.com/java-concurrency-tutorial/)
+**In Java concurrency is readily available** and you can [read more about it here](https://howtodoinjava.com/java-concurrency-tutorial/).
 
 The way JavaScript makes up for being single-threaded is by use of [asynchronous programming and the event-loop](https://dev.to/steelvoltage/if-javascript-is-single-threaded-how-is-it-asynchronous-56gd). Whenever an API Call or some other long-running process needs to happen without blocking the execution of the rest of the program, the event-loop is responsible for doing the waiting. When the asynchronous task completes, the main thread is able to detect the results of the task.

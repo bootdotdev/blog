@@ -38,7 +38,7 @@ Then the XOR cipher is certainly **impossible** to crack. This is known as a [on
 
 For instance, let's simply encrypt the word "hi"
 
-1. First, convert "hi" to binary, here is a free tool: [https://www.rapidtables.com/convert/number/ascii-to-binary.html](https://www.rapidtables.com/convert/number/ascii-to-binary.html))
+1. First, convert "hi" to binary, here is a [free tool](https://www.rapidtables.com/convert/number/ascii-to-binary.html))
 
 `01101000 01101001`
 

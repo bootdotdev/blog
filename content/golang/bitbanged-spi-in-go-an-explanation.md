@@ -16,7 +16,7 @@ In a past life, I worked on hardware interfacing software. The first thing I can
 
 ![Raspberry Pi 3](/img/800/1_l-OnL3gWfBBOTceP8V-vXw.jpeg)
 
-[https://www.raspberrypi.org/blog/compute-module-3-launch/](https://www.raspberrypi.org/blog/compute-module-3-launch/)
+[Compute Module 3 Launch Announcement](https://www.raspberrypi.org/blog/compute-module-3-launch/)
 
 The project that first got me interested in using Go for embedded applications was one where we decided to use a Raspberry Pi Compute Module 3 to interact with ADC (analog to digital converter) components, and collect data using several of these components.
 
@@ -36,9 +36,9 @@ It is important to note that the program in question was doing a lot more than j
 
 ![Master Slave SPI](/img/800/1_5WD0gV6autEIzv8GMkc5gQ.png)
 
-[http://www.circuitbasics.com/basics-of-the-spi-communication-protocol/](http://www.circuitbasics.com/basics-of-the-spi-communication-protocol/)
-
 SPI stands for serial peripheral interface. I don’t want to get too far off track, but basically it is just a protocol for a master (your program) to communicate with the hardware (like a thermometer or analog to digital converter). If you want to learn more check out the link in the picture’s caption.
+
+[SPI Protocol Details](http://www.circuitbasics.com/basics-of-the-spi-communication-protocol/)
 
 ## My Environment
 
@@ -50,7 +50,7 @@ SPI stands for serial peripheral interface. I don’t want to get too far off tr
 
 ## Implementation
 
-First things first, I needed a great GPIO package. For this project, we built the code to be able to use any of the GPIO pins on the Pi. I used Dave Cheney’s library: [https://github.com/davecheney/gpio](https://github.com/davecheney/gpio)
+First things first, I needed a great GPIO package. For this project, we built the code to be able to use any of the GPIO pins on the Pi. I used [Dave Cheney’s library](https://github.com/davecheney/gpio)
 
 The code below should build and run. Please keep in mind that if you are going to use this code, you will need to change the pin numbers to match the pins you used to connect your GPIOs to your ADC.
 

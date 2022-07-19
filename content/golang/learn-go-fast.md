@@ -36,7 +36,7 @@ The tour uses the Go Playground for its computation backend (as mentioned below)
 
 ### [4. Golang University 101](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
 
-Here John Arundel provides a pick of Go tutorials, conference talks, and other videos that will help you learn the basics of the Go programming language.[](https://www.youtube.com/c/BitfieldConsulting)
+[Here John Arundel](https://www.youtube.com/c/BitfieldConsulting) provides a pick of Go tutorials, conference talks, and other videos that will help you learn the basics of the Go programming language.
 
 ## Best Communities
 

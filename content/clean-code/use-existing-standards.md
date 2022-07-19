@@ -35,7 +35,7 @@ I do want to point out, however, that just because you've decided to use a fairl
 
 ![](/img/800/standards.png)
 
-[https://xkcd.com/927/](https://xkcd.com/927/)
+[XKCD](https://xkcd.com/927/)
 
 Regardless of whether or not you think your API's behavior is "standard" or "to be expected", just add the behavior to your docs anyway. For me, the following snippet in our `Readme.md` was all we needed.
 

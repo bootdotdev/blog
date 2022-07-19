@@ -32,7 +32,7 @@ To permit accurate tracking, reporting, and referral fee accrual, we will provid
 Affiliate links should point to the page of the product being promoted.
 
 Referral fees/commissions and payment
-For a Product sale to be eligible to earn a referral fee, the customer must click-through a Special Link from your site, email, or other communications to https://boot.dev.io and complete an order for a product during that session.
+For a Product sale to be eligible to earn a referral fee, the customer must click-through a Special Link from your site, email, or other communications to [https://boot.dev](https://boot.dev) and complete an order for a product during that session.
 
 We will only pay commissions on links that are automatically tracked and reported by our systems. We will not pay commissions if someone says they purchased or someone says they entered a referral code if it was not tracked by our system. We can only pay commissions on business generated through properly formatted special links that were automatically tracked by our systems.
 
@@ -71,7 +71,7 @@ As a condition to your participation in the Program, you agree that while you ar
 
 ## Term of the Agreement and Program
 
-The term of this Agreement will begin upon our acceptance of your Program application and will end when terminated by either party. Either you or we may terminate this Agreement at any time, with or without cause, by giving the other party written notice of termination. Upon the termination of this Agreement for any reason, you will immediately cease use of, and remove from your site, all links to https://boot.dev.io, and all of our trademarks, trade dress, and logos, and all other materials provided by or on behalf of us to you pursuant hereto or in connection with the Program. Boot.dev reserves the right to end the Program at any time. Upon program termination, Boot.dev will pay any outstanding earnings accrued above $20.
+The term of this Agreement will begin upon our acceptance of your Program application and will end when terminated by either party. Either you or we may terminate this Agreement at any time, with or without cause, by giving the other party written notice of termination. Upon the termination of this Agreement for any reason, you will immediately cease use of, and remove from your site, all links to [https://boot.dev](https://boot.dev), and all of our trademarks, trade dress, and logos, and all other materials provided by or on behalf of us to you pursuant hereto or in connection with the Program. Boot.dev reserves the right to end the Program at any time. Upon program termination, Boot.dev will pay any outstanding earnings accrued above $20.
 
 ## Termination
 

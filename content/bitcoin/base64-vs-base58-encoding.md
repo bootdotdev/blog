@@ -16,7 +16,7 @@ When it comes to data _encoding_, there is typically a trade-off made between:
 - **Human Readability**: Do humans have a good idea of what is being represented at a glance?
 - **Efficient data compression**: How many bytes are used to represent the same data, and how many characters are available?
 
-Let's rank Base58, Base64, and ASCII encoding against each other using these metrics!
+Let's rank [Base58](https://en.wikipedia.org/wiki/Base58), Base64, and ASCII encoding against each other using these metrics!
 
 ## First: A Note on Binary
 
@@ -46,7 +46,7 @@ You could also call ASCII Base128 because its alphabet is made up of 128 charact
 
 > Base64 is designed to carry data stored in binary formats across channels that only reliably support text content
 > 
-> [https://en.wikipedia.org/wiki/Base64](https://en.wikipedia.org/wiki/Base64)
+> [Wikipedia](https://en.wikipedia.org/wiki/Base64)
 
 Base64 was essentially designed to trick computers... kind of. When we have binary but are only allowed to transport or display text, Base64 is a great choice.
 
@@ -61,8 +61,6 @@ Each character only takes 6 bits of data, and a padding character, **`=`**, is u
 ### Human Readability Rank: 2nd
 
 Satoshi Nakamoto, also the anonymous creator of Bitcoin, invented Base58. The goal was to get data compression levels comparable to that of Base64 but to make it easier for humans to read by eliminating characters that look similar to 0 (zero), O (capital o), I (capital i), l (lower case L). Alphanumeric characters `+` (plus) and `/` (slash) were also omitted for readability.
-
-[https://en.wikipedia.org/wiki/Base58](https://en.wikipedia.org/wiki/Base58)
 
 ### Data Compression Rank: 3rd
 

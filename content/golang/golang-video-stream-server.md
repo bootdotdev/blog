@@ -14,7 +14,7 @@ In this tutorial, we'll go step-by-step through building a video streaming API (
 
 > HTTP Live Streaming is an HTTP-Based adaptive bitrate streaming communications protocol developed by Apple.
 > 
-> [https://en.wikipedia.org/wiki/HTTP\_Live\_Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
+> [Wikipedia](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
 
 HLS is a streaming protocol that allows large media files to be served as many smaller text files that are broken up into roughly ~10-second increments. By breaking them up, the user's client-side application only needs to buffer ~10 seconds in advance. This saves the user a lot of potential bandwidth and allows songs or videos to start playback almost immediately.
 
@@ -100,4 +100,4 @@ Your server is live! Test your code and listen to the music stream by using an H
 
 Simply paste your song's URI and listen:
 
-http://localhost:8080/bachgavotteshort/outputlist.m3u8
+`http://localhost:8080/bachgavotteshort/outputlist.m3u8`

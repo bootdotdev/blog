@@ -71,7 +71,7 @@ PGP defines in the official [RFC 4880](https://tools.ietf.org/html/rfc4880) whic
 > 
 > Implementations that interoperate with PGP 2.6 or earlier need to support [IDEA](https://en.wikipedia.org/wiki/International_Data_Encryption_Algorithm), as that is the only symmetric cipher those versions use. Implementations MAY implement any other algorithm.
 > 
-> [https://tools.ietf.org/html/rfc4880#section-9.2](https://tools.ietf.org/html/rfc4880#section-9.2)
+> [rfc4880 9.2](https://tools.ietf.org/html/rfc4880#section-9.2)
 
 ### Asymmetric Encryption Algorithms:
 
@@ -85,16 +85,16 @@ PGP defines in the official [RFC 4880](https://tools.ietf.org/html/rfc4880) whic
 > 
 > _Implementations MAY implement any other algorithm._
 > 
-> [https://tools.ietf.org/html/rfc4880#section-9.1](https://tools.ietf.org/html/rfc4880#section-9.1)
+> [rfc4880 9.1](https://tools.ietf.org/html/rfc4880#section-9.1)
 
 ### Digital Signature Algorithms:
 
 > Implementations MUST implement [SHA-1](/cryptography/how-sha-2-works-step-by-step-sha-256/). Implementations MAY implement other algorithms. [MD5](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) is deprecated.
 > 
-> [https://tools.ietf.org/html/rfc4880#section-9.4](https://tools.ietf.org/html/rfc4880#section-9.4)
+> [rfc4880 9.4](https://tools.ietf.org/html/rfc4880#section-9.4)
 
 ### Compression Algorithms:
 
 > Implementations MUST implement uncompressed data. Implementations SHOULD implement [ZIP](https://en.wikipedia.org/wiki/Zip_(file_format)). Implementations MAY implement and other algorithms.
 > 
-> [https://tools.ietf.org/html/rfc4880#section-9.3](https://tools.ietf.org/html/rfc4880#section-9.3)
+> [rfc4880 9.3](https://tools.ietf.org/html/rfc4880#section-9.3)

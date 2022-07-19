@@ -58,5 +58,5 @@ Medium is referred to as a backer on the community of Crypto. Albeit it does not
 
 Similar to Telegram, discord has live chats and servers dedicated to various crypto communities. If you want to talk in real-time, and sometimes even over voice chat, Discord might be the place for you. Discord DMs are often full of bots and scammers though, so beware while on the platform! Run from anyone trying to give you "free money".
 
-- [https://discord.com/invite/cryptocurrencyofficial](https://discord.com/invite/cryptocurrencyofficial)
-- [https://top.gg/servers/tag/crypto](https://top.gg/servers/tag/crypto)
+- [/r/cryptocurrency Discord](https://discord.com/invite/cryptocurrencyofficial)
+- [Top Crypto Discords](https://top.gg/servers/tag/crypto)

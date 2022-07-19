@@ -49,4 +49,4 @@ Intertrust recently claimed to launch the first [enterprise-ready solution](http
 
 Hopefully this gives you a basic understanding of the purpose of white-box crypto, and even a spoiler of how it works from a 1,000 foot level.
 
-Brecht Wyseur's Thesis on White-Box Crypto: [https://www.esat.kuleuven.be/cosic/publications/thesis-152.pdf](https://www.esat.kuleuven.be/cosic/publications/thesis-152.pdf)
+Brecht Wyseur's [Thesis on White-Box Crypto](https://www.esat.kuleuven.be/cosic/publications/thesis-152.pdf)

@@ -23,7 +23,7 @@ Encoding formats are only useful because they give computers and humans protocol
 
 To illustrate this point, try the following tools to see how easy it is to decode messages that are just encoded (not encrypted):
 
-- [https://jwt.io/](https://jwt.io/)
+- [JWT.io](https://jwt.io/)
 - [https://www.base64encode.org](https://www.base64encode.org/)
 
 ![navajo code comic](/img/800/code_talkers.png)

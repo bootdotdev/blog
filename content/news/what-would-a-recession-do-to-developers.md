@@ -76,6 +76,6 @@ Put simply, *you should get better at your job*. This is always good advice, it 
 * Build some side-projects, they will bolster your resume
 * For the same reason, consider contributing to some open-source for learning and internet points
 * Think about your current job situation. Is your company doing well? If not, there's no shame in casually looking for something new while staying employed
-* If you're in the middle of [learning to code]((https://boot.dev)), don't stop! The bar might be slightly higher, and you may need to spend more time on CS concepts to pass those pesky interviews, but this industry isn't going away.
+* If you're in the middle of [learning to code](https://boot.dev), don't stop! The bar might be slightly higher, and you may need to spend more time on CS concepts to pass those pesky interviews, but this industry isn't going away.
 
 Technology is at the center of everything we do. There are very few products released these days that don't have software involved at some level. I'm convinced the mid-to-long-term outlook for developers remains extremely bright, and the near-term isn't too gloomy.

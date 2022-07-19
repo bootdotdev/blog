@@ -39,6 +39,6 @@ Instead of the current [ECDSA](/cryptography/elliptic-curve-cryptography/) imple
 
 ## More Rigorous Testing of Hash Functions
 
-Also, Nicky Mouha [published a paper](https://eprint.iacr.org/2019/1421.pdf) exposing a vulnerability in Apple's CoreCrypto Library. This affects 11 out of 12 implemented hashes. However, MD2 is the only function to remain secure. As a result, a new test is founded which can help detect similar problems moving forward
+Also, Nicky Mouha [published a paper](https://eprint.iacr.org/2019/1421.pdf) exposing a vulnerability in Apple's CoreCrypto Library. This affects 11 out of 12 implemented hashes. However, MD2 is the only function to remain secure. As a result, a new test is founded which can help detect similar problems moving forward.
 
-[https://www.nist.gov/publications/extending-nists-cavp-testing-cryptographic-hash-function-implementations](https://www.nist.gov/publications/extending-nists-cavp-testing-cryptographic-hash-function-implementations)
+[Read more on NIST's testing here](https://www.nist.gov/publications/extending-nists-cavp-testing-cryptographic-hash-function-implementations)
