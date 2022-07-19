@@ -21,7 +21,7 @@ Which should be used? A password or passphrase?
 
 ![password comic](/img/800/password_strength.png)
 
-[https://xkcd.com/936/](https://xkcd.com/936/)
+[XKCD](https://xkcd.com/936/)
 
 This XKCD comic does a good job of explaining the difference between passwords and passphrases. A password is easier for a computer to guess (less entropy), and also is much harder to remember! There is NO REASON we should be using passwords. If you are an application developer, especially an app developer writing you backend in Go, take a look at [go-password-validator](https://github.com/lane-c-wagner/go-password-validator). It will give users full control so they can create strong passphrases.
 
