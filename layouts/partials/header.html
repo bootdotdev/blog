@@ -12,8 +12,12 @@
     {{ end }}
   </title>
   <meta name="description" content="{{ if .Summary }}{{ .Summary }}{{ else }}{{ .Site.Params.Description }}{{ end }}" />
-  <link rel="stylesheet" href="/css/tail-out.css" />
-  <link rel="stylesheet" href="/css/styles.css" />
+
+  {{ $tailcss := resources.Get "css/tail-out.css" | minify }}
+  <link href="{{ $tailcss.RelPermalink }}" rel="stylesheet">
+
+  {{ $stylescss := resources.Get "css/styles.css" | minify }}
+  <link href="{{ $stylescss.RelPermalink }}" rel="stylesheet">
 
   {{ partial "favicons.html" . }}
   {{ partial "gtm.html" . }}

@@ -2,7 +2,7 @@
   "name": "blog",
   "version": "1.0.0",
   "scripts": {
-    "serve": "concurrently --kill-others \"tailwindcss -i ./static/css/tail-in.css -o ./static/css/tail-out.css --watch\" \"hugo server -D\"",
+    "serve": "concurrently --kill-others \"tailwindcss -i ./assets/css/tail-in.css -o ./assets/css/tail-out.css --watch\" \"hugo server -D\"",
     "lint": "eslint . --ext .js,.html",
     "lint:fix": "eslint . --fix --ext .js,.html",
     "image-min": "node scripts/js/image-min.js"
