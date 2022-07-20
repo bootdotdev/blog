@@ -23,11 +23,11 @@ If you're not familiar with SHA-256, try out the generator below. Just enter any
 
 {{< cta1 >}}
 
-## What is a hash function?
+## What is a cryptographic hash function?
 
-Like we mentioned above, a hash function generates a "fingerprint" for a given input string. For example, if we were to hash the entire text of JRR Tolkien's "The Lord of The Rings" series using the SHA 256 algorithm, we would get a 256-bit output almost unique to that book's text. If we changed even a single letter in the book, the output hash would be *wildly* different.
+Like we mentioned above, a cryptographic hash function generates a "fingerprint" for a given input string. For example, if we were to hash the entire text of JRR Tolkien's "The Lord of The Rings" series using the SHA 256 algorithm, we would get a 256-bit output almost unique to that book's text. If we changed even a single letter in the book, the output hash would be *wildly* different.
 
-It's worth noting that we say the output of a hash is "almost unique" because there are a **finite** number of output strings, after all, there are only ever 256 bits in the output. The number of possible inputs, however, is **infinite**, meaning some inputs will hash to the same output. When this happens, it's called a "collision", and it is nearly impossible. After all, in SHA-256 there are `2^256` possible outputs. Let me write out that number for you:
+It's worth noting that we say the output of a hash is "almost unique" because there are a **finite** number of output strings. After all, the output of SHA-256 is always 256 bits long, which means it has a fixed size. The number of possible inputs, however, is **infinite**, meaning some inputs will hash to the same output. When this happens, it's called a "collision", and it is nearly impossible. After all, in SHA-256 there are `2^256` possible outputs. Let me write out that number for you:
 
 ```
 115,792,089,237,316,195,423,570,985,008,687,907,853,269,984,665,640,564,039,457,584,007,913,129,639,936 possible outputs for SHA-256
@@ -41,7 +41,7 @@ The three of the main purposes of a hash function are:
 
 SHA-2 is a very famous and strong family of hash functions because, as you would expect, it serves all the purposes mentioned above.
 
-## SHA-2 family vs SHA-256
+## SHA-2 family vs sha256
 
 SHA-2 is an algorithm, a generalized idea of how to hash data. SHA-2 has several variants, all of which use the same algorithm but use different constants. SHA-256, for example, sets additional constants that define the behavior of the SHA-2 algorithm, one of these constants is the output size, 256. The 256 and 512 in SHA-256 and SHA-512 refer to the respective digest size in bits.
 
@@ -53,7 +53,7 @@ SHA-2 is a successor to the SHA-1 hash and remains one of the strongest hash fun
 
 SHA-256 is formally defined in the National Institute of Standards and Technology's [FIPS 180-4](http://csrc.nist.gov/groups/ST/toolkit/secure_hashing.html). Along with standardization and formalization comes a list of [test vectors](http://csrc.nist.gov/groups/ST/toolkit/examples.html#aHashing) that allow developers to ensure they've implemented the algorithm properly.
 
-SHA-2 is known for its security (it hasn't [broken down like SHA-1](https://shattered.io/)) and its speed. In cases where [keys are not generated](/cryptography/key-derivation-functions/), such as mining Bitcoin, a fast hash algorithm like SHA-2 often has the upper hand.
+SHA-2 is known for its security (it hasn't [broken down like SHA-1](https://shattered.io/)) and its speed. In cases where [keys are not generated](/cryptography/key-derivation-functions/), such as [proof-of-work](https://en.wikipedia.org/wiki/Proof_of_work) Bitcoin mining, a fast hash algorithm like SHA-2 often has the upper hand.
 
 ## Step-by-step SHA-256 hash of "hello world"
 
@@ -499,3 +499,13 @@ for each chunk
 Produce the final hash value (big-endian):
 digest := hash := h0 append h1 append h2 append h3 append h4 append h5 append h6 append h7
 ```
+
+## Who designed SHA 256?
+
+The NSA, or National Security Agency, designed and published SHA-256 and the rest of the SHA-2 family of hash functions in 2001. You might be wondering:
+
+> Because the United State Government helped create SHA-256, do they have some sort of "back-door" to break the encryption?
+
+The answer is "no". The algorithm is open-source, so anyone can verify its security. While it's *possible* that there are exploitable vulnerabilities, no one has found them yet. At present, there isn't much you can do to SHA-256 apart from attempting a [brute-force attack](/security/how-do-brute-force-attackers-know-they-found-the-key/).
+
+![NSA Logo](https://media.wnyc.org/i/800/0/c/85/1/nsa.jpg)
