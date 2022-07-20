@@ -9,13 +9,11 @@ images:
   - /img/800/JavaScript-Interview-Questions.webp
 ---
 
-Versatile, powerful and ever-present, JavaScript is the world's most used programming language (for eight years and counting!) and shows no signs of slowing down.
+Versatile, powerful and ever-present, JavaScript is the world's most used programming language (for eight years and counting!) and shows no signs of slowing down. Check out these 20 practice interview questions for JavaScript! If you're on the job-hunt for an entry-level position, read on.
 
 94.5% of web pages use JavaScript, it's one of the 10 most-loved programming languages, and with median salaries of [$112,000](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states) in the US, JavaScript offers a way to fast-track your way to higher earnings if you're thinking of switching careers.
 
-You've mastered the basics -- perhaps by taking our [Intro to JavaScript course](https://boot.dev/learn/learn-code-javascript) -- and tried your hand at some simpler JavaScript projects or challenges.
-
-But are you ready for an entry-level junior dev role writing JavaScript?
+You've mastered the basics -- perhaps by taking our [Intro to JavaScript course](https://boot.dev/learn/learn-code-javascript) -- and tried your hand at some simpler JavaScript projects or challenges. But are you ready for an entry-level junior dev role writing JavaScript?
 
 To help you find out, here's a selection of 20 basic JavaScript interview questions you may be asked a variation of on the way to securing your first job.
 
@@ -99,7 +97,7 @@ let bootdotdev = ["the", "best", "coding", "courses", "ever", "like", "totally"]
 ```
 
 1. What would happen if you used `bootdotdev.pop()`
-2. What would happen if you used `bootdotdev.push("definitely", "buy", "it")`
+2. What would happen if you used `bootdotdev.push("definitely", "start", "it")`
 
 **Answers:**
 
@@ -108,13 +106,13 @@ The `.pop()` method removes the last element in the array and returns it. In the
 The `.push()` method instead adds any included elements to the end of the array, and returns the new length of that array. In the array above, pushing:
 
 ```js
-bootdotdev.push("definitely", "buy", "it")
+bootdotdev.push("definitely", "start", "it")
 ```
 
 would return the length `10` , and if you `console.log(bootdotdev)` you would get:
 
 ```js
-["the","best","coding","courses","ever","like","totally","definitely","buy","it"]
+["the","best","coding","courses","ever","like","totally","definitely","start","it"]
 ```
 
 ## 6 -- What are higher order functions, and what are their benefits?
