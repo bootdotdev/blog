@@ -2,6 +2,7 @@
 title: "17 Fascinating Python Projects for Beginners"
 author: Zulie Rane
 date: "2021-10-06"
+lastmod: "2022-07-19"
 categories: 
   - "python"
 images:
@@ -14,17 +15,17 @@ While it’s fine to start with "Hello World", it’s not exactly the most fasci
 
 You might be sold on the concept of using a project to learn Python, but maybe you’re wondering how you can find the best Python projects for beginners. The good news is that thanks to the awesome community of Pythonistas out there, the prevalence of open source code and data, and the wide world of the internet, you’re bound to find a Python project for beginners that you’ll love.
 
-Full disclosure, some of these will be harder than your usual Python projects for beginners. On the upside, these are fun, interesting projects that will actually teach you Python. You will struggle, you will have to Google stuff, but that's all part of the experience. Here are some ideas to get you started.
+Full disclosure, some of these will be harder than your usual Python projects for newbies. On the upside, these are fun, interesting projects that will actually teach you Python. You will struggle, you will have to Google stuff, but that's all part of the experience. Here are some ideas to get you started.
 
-## 5 Python Projects for Beginners Using Straight Python or Python Packages
+## 5 Python projects using straight Python or Python packages
 
-These Python projects for beginners come straight from the source: they use vanilla Python, or they use some really cool Python packages. These Python projects for beginners will be loaded with helpful docs, commentary, and experiences of other Python beginners who have tried and loved these projects.
+These Python projects for beginners come straight from the source: they use vanilla Python, or they use some really cool Python packages. These Python projects will be loaded with helpful docs, commentary, and experiences of other new Pythonistas who have tried and loved these projects.
 
 ### [1. Make a Twitter bot with \`Tweepy\`](https://realpython.com/twitter-bot-python-tweepy/)
 
 Obsessed with social media? Me, too. I follow several bots (like [this hilarious one](https://twitter.com/kauIhiIoshudon) based on a great book I read) and always wondered how to make one.
 
-While this tutorial sounds advanced for a Python beginner, it's also something that lets you indulge in your passion a little bit, and maybe your sense of humor too. This tutorial will walk you through 5 steps: installing the "Tweepy" package, signing up as a Twitter developer to use its API, using Tweepy to invoke the Twitter API, building Twitter bots, and deploying the bots to a server using Docker and AWS.
+While this tutorial sounds advanced for a new Python dev, it's also something that lets you indulge in your passion a little bit, and maybe your sense of humor too. This tutorial will walk you through 5 steps: installing the "Tweepy" package, signing up as a Twitter developer to use its API, using Tweepy to invoke the Twitter API, building Twitter bots, and deploying the bots to a server using Docker and AWS.
 
 Yes, it's a lot of work! But it'll be fun, it'll teach you a lot of skills, and be interesting enough to keep you going through the sticky patches.
 
@@ -46,7 +47,7 @@ This project is perfect if you have something to say and need a place to say it.
 
 ### 4. Make a login system, [Part 1](https://www.youtube.com/watch?v=RHu3mQodroM) and [Part 2](https://www.youtube.com/watch?v=SUC1aTu092w&t=0s)
 
-This Python project for beginners is great for anybody who wants to be a future web developer. Every good website needs a login system, and the great news is you can do that with Python. This option is less of a passion project and more of a practical project but it will teach you a lot of skills you need and the outcome is an interactive system that really works.
+This Python project is great for anybody who wants to be a future web developer. Every good website needs a login system, and the great news is you can do that with Python. This option is less of a passion project and more of a practical project but it will teach you a lot of skills you need and the outcome is an interactive system that really works.
 
 Rather than a written tutorial, you should watch these two YouTube videos to learn how to make a login system. They walk you through both the practical steps of what code you're going to need, as well as the more theoretical steps explaining the concepts behind what you're making.
 
@@ -64,7 +65,7 @@ Once you acknowledge how much time you spend Googling things, you'll realize the
 
 {{< cta1 >}}
 
-## 3 Python Projects for Beginners Using Courses or Lectures
+## 3 Python Projects using courses or lectures
 
 While some of the best Python beginner projects are based on straight Python or use a couple of Python packages, you can also use courses as a way to do a more interactive, guided project. These options are billed as courses that teach you Python, but optionally can be used to complete your first Python project.
 
@@ -102,7 +103,7 @@ There's actually a pretty complete product called LinkedIn learning full of cour
 
 Again, like Coursera, it's not free but you can start for free with their month-long free trial. If you love it, it costs $20 a month to continue.
 
-## 4 Python Projects for Beginners Using GitHub
+## 4 Python projects using GitHub
 
 Ah, GitHub, one of my favorite places on the internet. GitHub is an awesome resource for a ton of reasons: first, it's free! Second, for a language like Python, there is a robust and friendly community full of Pythonistas who have created projects, tutorials, articles, open-source code, etc, that they are so excited to share with you. 
 
@@ -126,7 +127,7 @@ This project is for another one of the social media addicts out there like me. I
 
 I like this tutorial because you can do what you want with it. If you want to just run it, run it! But you can also look into the more complex script and try to figure out what's going on. Take what you want from this learning experience. 
 
-## 5 Python Projects for Beginners Using Your Own Data
+## 5 Python Projects using your own data
 
 What is a project, but just a question that needs data to answer it? If none of the above 12 Python projects for beginners interest you, the good news is that there's literally an unlimited number of projects available for you. All you need is a pinch of creativity and a burning passion to know more.
 
@@ -168,14 +169,12 @@ Have a browse, poke around, and find what looks interesting to you.
 
 {{< cta2 >}}
 
-## The best Python projects for beginners are deeply, deeply interesting.
+## If you're a beginner, The best Python projects should be deeply interesting to you.
 
-I reject the idea that Python programming projects for beginners have to be easy. Instead, I think it's much more important that the projects are fascinating, gritty, challenging, and rewarding. This list of Python project topics for beginners will probably push you to your limits, will make you angrily smash your keyboard, and might even cause you to struggle. 
+I reject the idea that Python programming projects for beginners have to be easy. Instead, I think it's much more important that the projects are *fascinating, gritty, challenging, and rewarding*. This list of Python project topics will probably push you to your limits, will make you angrily smash your keyboard, and might even cause you to struggle. 
 
 But in the end, you will have completed a much more rewarding project than just a simple project in Python, like running hello world or any of the other bog-standard tutorials.
 
 By no means consider this list of coding ideas for Python exhaustive. There's more data than this world knows what to do with – the only limitation here is your imagination. Find something you care about, find the data to back it up, and learn Python to solve that problem. That's always going to be the best Python project for a beginner like you.
-
-Take action and learn Python
 
 If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/learn/learn-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
