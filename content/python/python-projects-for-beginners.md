@@ -178,3 +178,13 @@ But in the end, you will have completed a much more rewarding project than just 
 By no means consider this list of coding ideas for Python exhaustive. There's more data than this world knows what to do with – the only limitation here is your imagination. Find something you care about, find the data to back it up, and learn Python to solve that problem. That's always going to be the best Python project for a beginner like you.
 
 If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/learn/learn-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
+
+## Some bonus project ides, in rapid fire
+
+* A web scraper that hits popular social sites or forums
+* A password generator that makes insanely secure passwords
+* A text-based rock-paper-scissors game that captures user input
+* A magic 8 ball guessing game
+* A game of snake you control with your face using machine learning
+* A hot dog / not hot dog image recognition engine
+* A simple web server for storing photos
