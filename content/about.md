@@ -10,17 +10,21 @@ Humans enjoy learning, we’re naturally curious creatures. As such, it should b
 
 Boot.dev isn’t just a collection of computer science courses, we have unique opinions about how you can become the best software engineer you can be. The following principles guide the development of our platform and community. We update them as we learn.
 
-## An understanding of computer science will set you apart in the job market
+## Computer science skills will set you apart in the job market
 
 People are becoming more tech-literate every day - and that's a great thing. However, we think simple website development will become the next decade's "blue-collar" job. Understanding CS concepts like algorithms, data structures, distributed computing, and cryptography will be the way to differentiate yourself as a developer.
 
-## You can't learn to code if you aren't writing code
+## You can't learn to code if you aren't writing **a lot** of code
 
 Many new learners end up watching hours of YouTube videos, only to find they're unable to build the most basic applications when they start a project alone. Writing real code is a more effective way to learn.
 
-## A simple, linear learning path is best
+## Take a straight learning path to your career goal
 
-So many students struggle figuring out *what* to learn next. It makes no sense to expect you to put together a list of courses on your own. We have a [simple, linear computer science program](https://github.com/bootdotdev/curriculum). 
+So many students struggle figuring out *what* to learn next. There's nothing worse than wandering around in "tutorial hell", from programming language to programming language, and framework to framework. We have a [simple, linear computer science program](https://github.com/bootdotdev/curriculum) that's designed to prepare you for an entry-level role in backend development. 
+
+## A great project portfolio and Github profile is better for your job search than a formal degree
+
+Degrees from a university and certificates from formal programs don't hurt, but most students overestimate their value. There's nothing more powerful than being able to show employers exactly what you're capable of and how much coding you've done.
 
 ## It's not hard to find coding courses online, but it is hard to find good ones
 
@@ -41,7 +45,7 @@ We disagree with the following common claims:
 
 > “you need a 4-year computer science degree to be successful".
 
-We think that if you spend an hour or two each day, it will take around 6 months to 2 years of learning before you land your first job. It's important to have reasonable expectations and achievable goals.
+We think that if you spend an hour or two each day, it will take around 6 months to 2 years of learning before you land your first job. It's important to have realistic expectations and achievable goals.
 
 ## Mentors provide insights you won't get from a textbook
 
@@ -68,7 +72,7 @@ Tens of thousands of professors across the world are giving the same lecture on 
 
 With online learning, we can take *one of the best* explanations of bubble sort, and distribute it globally. We can also do it on-demand and almost for free. Paying thousands of dollars for access to well-known concepts doesn't make sense in the information age.
 
-## We want you in the "zone of proximal development"
+## Be in the "zone of proximal development"
 
 * Don't waste your time solving problems that you already know how to solve
 * Don't waste your time trying to solve problems that are nearly impossible for your skill level
