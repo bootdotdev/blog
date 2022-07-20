@@ -2,7 +2,7 @@
 title: "How SHA-256 Works Step-By-Step"
 author: Lane Wagner
 date: "2020-07-08"
-lastmod: "2022-04-21"
+lastmod: "2022-07-19"
 categories: 
   - "bitcoin"
   - "cryptography"
