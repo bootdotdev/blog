@@ -2,6 +2,7 @@
 title: "Writing a Binary Search Tree in Python with Examples"
 author: Lane Wagner
 date: "2021-01-12"
+lastmod: "2021-07-20"
 categories: 
   - "computer-science"
   - "python"
@@ -9,32 +10,30 @@ images:
   - /img/800/lone-tree-unsplash.webp
 ---
 
-## What is a Binary Search Tree?
+## What is a binary search tree?
 
-A binary search tree, or BST for short, is a tree whose nodes store a key that is greater than all of their left child nodes and less than all of their right child nodes.
+A binary search tree, or BST for short, is a tree whose nodes store a key that is greater than all of their left child nodes and less than all of their right child nodes. Read on to see how you can write an implementation of binary search tree in Python from scratch!
 
-Binary trees are useful for storing data in an organized manner so that it can be quickly retrieved, inserted, updated, and deleted. This arrangement of nodes lets each comparison skip about half of the rest of the tree, so the entire search is lightning fast.
+Binary trees are useful for storing data in an organized manner so that it can be quickly retrieved, inserted, updated, and deleted. This arrangement of nodes allows each comparison to skip about half of the rest of the tree, so the operation as a whole is lightning fast.
 
-To be precise, binary search trees provide an average Big-O complexity of `O(log(n))` for search, insert, update, and delete operations. Log(n) is much faster than the linear `O(n)` time required to find elements in an unsorted array. Many popular production databases such as PostgreSQL and MySQL use binary trees under the hood to speed up CRUD operations.
+To be precise, binary search trees provide an average Big-O complexity of `O(log(n))` for search, insert, update, and delete operations. `Log(n)` is much faster than the linear `O(n)` time required to find elements in an unsorted array. Many popular production databases such as PostgreSQL and MySQL use binary trees under the hood to speed up CRUD operations.
 
 ![Binary Search Tree](/img/800/bst.jpg)
 
-BST
-
 ### Pros of a BST
 
-- When balanced, a BST provides lightning-fast `O(log(n))` insertions, deletions, and lookups.
-- Binary search trees are pretty simple. An ordinary BST, unlike a balanced tree like a red-black tree, requires very little code to get running.
+* When balanced, a BST provides lightning-fast `O(log(n))` insertions, deletions, and lookups.
+* Binary search trees are pretty simple. An ordinary BST, unlike a balanced tree like a red-black tree, requires very little code to get running.
 
 ### Cons of a BST
 
-- Slow for a brute-force search. If you need to iterate over each node, you might have more success with an array.
-- When the tree becomes unbalanced, all fast `O(log(n))` operations quickly degrade to `O(n)`.
-- Since pointers to whole objects are typically involved, a BST can require quite a bit more memory than an array, although this depends on the implementation.
+* Slow for a brute-force search. If you need to iterate over each node, you might have more success with an array.
+* When the tree becomes unbalanced, all fast `O(log(n))` operations quickly degrade to `O(n)`.
+* Since pointers to whole objects are typically involved, a BST can require quite a bit more memory than an array, although this depends on the implementation.
 
 {{< cta1 >}}
 
-## Implementing a BST in Python
+## Implementing a B-tree in Python
 
 ### Step 1 - BSTNode Class
 
@@ -50,9 +49,11 @@ class BSTNode:
         self.val = val
 ```
 
-We'll allow a value (key) to be provided, but if one isn't provided we'll just set it to `None`. We'll also initialize both children of the new node to `None`.
+We'll allow a value, which will also act as the key, to be provided. If one *isn't* provided we'll just set it to `None`. We'll also initialize both children of the new node to `None`.
 
 ### Step 2 - Insert
+
+![insert binary search](https://blog.penjee.com/wp-content/uploads/2015/11/binary-search-tree-insertion-animation.gif)
 
 We need a way to insert new data into the tree. Inserting a new node should append it as a leaf node in the proper spot.
 
@@ -90,7 +91,7 @@ def insert(self, val):
     self.right = BSTNode(val)
 ```
 
-If the node doesn't yet have a value, we can just set the given value and return. If we ever try to insert a value that also exists, we can also simply return as this can be considered a `noop`. If the given value is less than our node's value and we already have a left child then we recursively call `insert` on our left child. If we don't have a left child yet then we just make the given value our new left child. We can do the same (but inverted) for our right side.
+If the node doesn't yet have a value, we can just set the given value and return. If we ever try to insert a value that also exists, we can also simply return as this can be considered a "no-op". If the given value is less than our node's value and we already have a left child then we recursively call `insert` on our left child. If we don't have a left child yet then we just make the given value our new left child. We can do the same (but inverted) for our right side.
 
 ### Step 3 - Get Min and Get Max
 
@@ -386,8 +387,8 @@ For example, when you create a primary key column in MySQL or PostgresQL, you cr
 
 Other common uses include:
 
-- Pathfinding algorithms in videogames (A\*) use BSTs
-- File compression using a Huffman encoding scheme uses a binary search tree
-- Rendering calculations - Doom (1993) was famously the first game to use a BST
-- Compilers for low-level coding languages parse syntax using a BST
-- Almost every database in existence uses BSTs for key lookups
+* Pathfinding algorithms in video-games (A\*) use BSTs
+* File compression using a Huffman encoding scheme uses a binary search tree
+* Rendering calculations - Doom (1993) was famously the first game to use a BST
+* Compilers for low-level coding languages parse syntax using a BST
+* Almost every database in existence uses BSTs for key lookups
