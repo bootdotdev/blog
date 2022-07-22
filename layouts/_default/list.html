@@ -1,18 +1,16 @@
 {{ partial "header.html" . }}
 
-{{ $paginator := .Paginate (where .Paginator.Pages "Section" "!=" "") }}
-
 <main class="mb-4 flex flex-row justify-center">
   <h1 class="text-4xl text-blue-400 mb-2 font-bold">
     {{ title .Title }}
-    {{ if (gt $paginator.PageNumber 1) }} -
-      Pg. {{ $paginator.PageNumber }}
+    {{ if (gt $.Paginator.PageNumber 1) }} -
+    Pg. {{ $.Paginator.PageNumber }}
     {{ end }}
   </h1>
 </main>
 
 <ul>
-  {{ range $index, $val := $paginator.Pages }}
+  {{ range $index, $val := $.Paginator.Pages }}
   <li>
     <div class="mb-10">
       <a href="{{ .RelPermalink }}" class="cursor-pointer">
@@ -25,11 +23,8 @@
 
       {{ if .Params.images }}
       <a href="{{ .RelPermalink }}" class="mb-2">
-        <img
-        {{ if gt $index 1 }}
-          loading="lazy"
-        {{ end }}
-        width="736" height="414" class="rounded mb-4" src="{{ index (.Params.images) 0 }}" />
+        <img {{ if gt $index 1 }} loading="lazy" {{ end }} width="736" height="414" class="rounded mb-4"
+          src="{{ index (.Params.images) 0 }}" />
       </a>
       {{ end }}
 
