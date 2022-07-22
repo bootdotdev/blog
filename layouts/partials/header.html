@@ -6,13 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
     {{if eq .Title .Site.Title}}
-    {{ title .Site.Title }}
+      {{ title .Site.Title }}
     {{ else }}
-    {{ if and ($.Paginator) (gt $.Paginator.PageNumber 1) }}
-    {{ title .Title }} Pg. {{ $.Paginator.PageNumber }} | Boot.dev
-    {{ else }}
-    {{ title .Title }} | Boot.dev
-    {{ end }}
+      {{ if $.Paginator }}
+        {{ if gt $.Paginator.PageNumber 1 }}
+          {{ title .Title }} Pg. {{ $.Paginator.PageNumber }} | Boot.dev
+        {{ else }}
+          {{ title .Title }} | Boot.dev
+        {{ end}}
+      {{ else }}
+        {{ title .Title }} | Boot.dev
+      {{ end }}
     {{ end }}
   </title>
   <meta name="description" content="{{ if .Summary }}{{ .Summary }}{{ else }}{{ .Site.Params.Description }}{{ end }}" />
