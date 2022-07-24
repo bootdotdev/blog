@@ -83,17 +83,18 @@ We've recently had an influx of thousands of self-taught developers or Bootcamp 
 
 ### 1 - Coding
 
-Coding can be really fun and has a low barrier to entry. The goal here is to get a solid grasp of **one or two** programming languages. I recommend JavaScript, or Python as some of the most well-suited first languages for new developers. The goal here is simply to start writing code and have fun with it! There are tons of projects and courses out there that are great for absolute beginners.
+Coding can be really fun and has a low barrier to entry. The goal here is to get a solid grasp of **one or two** programming languages. I recommend JavaScript, or Python as some of the most well-suited first languages for new developers. Start writing code and have fun with it! There are tons of projects and courses out there that are great for absolute beginners.
 
 ![Coding](/img/800/Coding-body-image-.jpg)
 
 #### Resources
 
-- [Bootd.dev's Basic Intro to Coding Courses](https://boot.dev/learn/learn-code-javascript/)
-- [Edabit JavaScript Challenges](https://edabit.com/challenges/javascript)
-- [A Byte of Python](https://python.swaroopch.com/)
-- [The Python Tutorial](https://docs.python.org/3/tutorial/)
-- [Python for Everybody](https://www.py4e.com/lessons)
+* [Boot.dev's Basic Intro to JavaScript](https://boot.dev/learn/learn-code-javascript/)
+* [Edabit JavaScript Challenges](https://edabit.com/challenges/javascript)
+* [A Byte of Python](https://python.swaroopch.com/)
+* [The Python Tutorial](https://docs.python.org/3/tutorial/)
+* [Python for Everybody](https://www.py4e.com/lessons)
+* [FreeCodeCamp's Learn JS](https://www.freecodecamp.org/news/learn-javascript-full-course/)
 
 #### Goals
 
