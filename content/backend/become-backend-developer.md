@@ -111,7 +111,7 @@ Not only will deploying your projects make your online presence appear more attr
 
 ## How long does it take to learn backend development?
 
-If you're starting from zero, it will probably take you anywhere from 9 months to 2 years to learn backend development thoroughly enough that you can land an entry-level position. Of course, it will be diffferent for everyone, but if you can put in a good 10 hours each week, I think that's a solid estimate. The good news is, that's **faster and cheaper** than going back to university for 4 years. The hardest part is just sticking with it.
+If you're starting from zero, it will probably take you anywhere from 9 months to 2 years to learn backend development thoroughly enough that you can land an entry-level position. Of course, it will be different for everyone, but if you can put in a good 10 hours each week, I think that's a solid estimate. The good news is, that's **faster and cheaper** than going back to university for 4 years. The hardest part is just sticking with it.
 
 ## How do I get a backend job?
 
@@ -123,7 +123,7 @@ The big secret to landing a backend job as a self-taught developer is to build a
 * Build a great LinkedIn landing page and do some networking
 * Make friends in [online coding communities](/misc/best-coding-communities/)
 
-Once you've done that *start applying to jobs*! USe every job board you can find, and try to apply only to jobs that are specific to your area of expertise - e.g. "backend go developers". Try to find niche job boards if they exist, I really like the [Golang cafe](https://golang.cafe/), for example.
+Once you've done that *start applying to jobs*! Use every job board you can find, and try to apply only to jobs that are specific to your area of expertise - e.g. "backend go developers". Try to find niche job boards if they exist, I really like the [Golang cafe](https://golang.cafe/), for example.
 
 Most importantly, *do not stop learning and building*!!! I've seen so many developers think that they've successfully "learned to code", and they shift gears entirely to their job search. Look, it only takes an hour or so each day to submit a bunch of job applications. You should be spending the rest of your free time continuing to build. The more you learn and build, the easier the job search gets.
 
