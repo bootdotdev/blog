@@ -56,6 +56,8 @@ Lambda was the pioneer of the "income share agreement", or ISA. The idea is that
 
 Okay, so far so good. ISAs fixed everything right?
 
+{{< cta2 >}}
+
 ## If ISAs are so great, why all the fuss about Lambda?
 
 If you want to dig up the dramatic history about Lambda School I'll let you do that, I don't want to get into the nitty-gritty of he said/she said. Instead, I'll give you my summary based on the digging I've done. I've found that most of the more viral complaints boil down to two simple gripes.
@@ -76,8 +78,6 @@ Let's review what they *are not highly* incentivized to do:
 
 * Teach their students in a way that will help them advance post-placement
 * Provide an education to those that are less likely to be high performers
-
-{{< cta2 >}}
 
 ## What other models could be better?
 

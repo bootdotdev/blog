@@ -61,6 +61,8 @@ Along with being well paid, JavaScript ranked number 1 for the most popular lang
 
 **Overall,** both Python and JavaScript are the top desired and used languages by developers and offer well-paying careers.
 
+{{< cta2 >}}
+
 ## Python vs JavaScript Performance
 
 There are multiple ways to think about performance, but today we’re focusing on run-time performance.
@@ -78,8 +80,6 @@ Python is strong, stable, and readable, but that also means it’s slower than i
 Python gets its readability from using higher levels of abstractions and has stricter rules around coding, meaning it takes longer to interpret. However, it’s these exact features that make it a safe language for large CPU programs. There’s also no compilation option, so it relies on slower interpreted functions.
 
 It’s not all bad, as Python’s coding time is faster. Because its syntax is so simple, you can code programs much faster than in JavaScript. Python also has implementations like Jython and Cython that aim to increase performance, but overall, it’s still not to the level of JavaScript's V8 engine.
-
-{{< cta2 >}}
 
 ## Python vs JavaScript for Machine Learning
 

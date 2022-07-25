@@ -54,6 +54,8 @@ Base64 was essentially designed to trick computers... kind of. When we have bina
 
 Each character only takes 6 bits of data, and a padding character, **`=`**, is used to round to the nearest multiple of 4.
 
+{{< cta2 >}}
+
 ## Base58
 
 ![base58 chart](/img/800/Screen-Shot-2020-03-02-at-11.32.34-AM-1024x877.png)

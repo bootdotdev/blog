@@ -40,6 +40,8 @@ If you have a more specific idea than me, like you know you want to be a data sc
 
 If you’re still unsure and just know you want something programming-related, it’s worth spending some time deciding what it is you want to do before launching yourself into a degree or a certificate. You can do something similar to what I did, and look at several [CS job descriptions](/computer-science/highest-paying-computer-science-jobs/) to see what universal skills would be handy to have or talk to any programmers you know today to see what they’d say. It might even be worth doing an “Intro to X” type course before you sink time and cash into a degree that might not end up being your passion.
 
+{{< cta2 >}}
+
 ## How much time and money do you have to learn computer science?
 
 As I said, I already had a job that I needed to keep in order to keep my cats fed, and I’d just finished my second degree. I absolutely did not have the requisite time or money to get a degree in computer science. 
@@ -49,8 +51,6 @@ If you do, however, there are definitely advantages. Getting a degree, even if i
 That being said, especially this past year has taught us that it is possible to build any kind of community online, even [communities for learning to code](/misc/top-12-best-communities-for-learning-to-code/). Plenty of courses that offer certificates are starting to offer more community-based interactions like Slack groups, discord chats, and Facebook groups that make it easy to build relationships with your peers. 
 
 A possible path, if you’re really short on time and money, is to spend some time learning the basics of computer science online, through YouTube videos or even Wikipedia, then tactically choosing courses that will give you a certification in the area that matters most for you for your programming career.
-
-{{< cta2 >}}
 
 ## Do you have any knowledge of computer science basics?
 

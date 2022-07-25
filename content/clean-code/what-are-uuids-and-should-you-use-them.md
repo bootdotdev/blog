@@ -56,13 +56,13 @@ There are 5 versions of UUIDs out there. Versions 1 and 2 are time and [MAC](htt
 
 **Version 4 is probably what you want.** Version 4 tags are generated completely randomly without any inputs that create predictable outputs. If you're interested in using UUIDs to tag disparate entities in a software system, it's very likely you just want random version 4 UUIDs.
 
+{{< cta2 >}}
+
 ## UUIDs vs GUIDs
 
 The term GUID, which stands for Globally Unique Identifier, is an industry standard defined by Microsoft. As we know, UUID stands for Universal Unique Identifier. So the two terms basically mean the same thing. Apart from the fact that GUIDs (Microsoft's version) and UUIDs (an [open Internet standard defined by RFC4122](https://datatracker.ietf.org/doc/html/rfc4122)) look similar and serve similar purposes, there are minor differences.
 
 Some GUIDs may contain any hex digit in any position, while RFC4122 requires specific values for the version and variant fields. Also, GUIDs are typically written in upper case, while UUIDs should be written in lower case. Sometimes these subtle differences can cause incompatibilities between code libraries.
-
-{{< cta2 >}}
 
 ## UUIDS vs IDs
 

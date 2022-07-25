@@ -67,6 +67,8 @@ By removing misleading content, platforms run the risk of fueling an [argumentum
 > 
 > \- Carl Sagan, Probably
 
+{{< cta2 >}}
+
 ## What should users do about misinformation?
 
 As I mentioned before, this is just a point of educating the userbase. The behaviors below are just good rules of thumb for anyone as a consumer of information. That said, platforms should do more to overtly educate their users about these kinds of critical thinking skills, and even encourage users to put them into practice via reminders or tactful in-app messaging.

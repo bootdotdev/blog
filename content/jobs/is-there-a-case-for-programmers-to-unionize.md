@@ -70,6 +70,8 @@ I'm not sure which practices could prove to be most effective, but my point is t
 
 I can see unionization being the correct choice if bigoted executives are explicitly refusing to take action, and are blocking managers from doing the same. If this is the case where you work, it may be time to start organizing. Extra care will need to be taken to ensure the union organizers have the worker's diversity goals in mind.
 
+{{< cta2 >}}
+
 ## #4 Market-value discrepancy between junior and senior developers
 
 Spend a few minutes in [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/) or [/r/programmerhumor](https://www.reddit.com/r/ProgrammerHumor/) and it will become readily apparent that entry-level developers have a really hard time finding their first job. Who would hire someone with no previous experience? On the flip side, senior developers are constantly complaining about all the recruiters that won't leave them alone, and they're among some of the most well-compensated people in the workforce.
@@ -85,8 +87,6 @@ The junior/senior problem seems to mostly be a supply and demand problem, with p
 - If there are just too many engineers (doubtful) then let people know so new learners will know what they're getting into
 
 In regards to junior developers not being able to prove their skills, I think there are potential cultural improvements and product innovations that have a lot of potential. For example, inexpensive access to online courses and certificates helps students that didn't go to college prove that they understand certain concepts. The open-source community seems to me to be more inclusive and collaborative, and if you maintain a project you can help by flagging issues with `good first issue` or `help wanted` which encourages newer devs to get their hands dirty and fill out their open-source portfolio.
-
-{{< cta2 >}}
 
 ## #5 Employees are at the mercy of employers
 

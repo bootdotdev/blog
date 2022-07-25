@@ -96,6 +96,8 @@ It’s important to note that security and debugging can sometimes be difficult 
 
 Rails is used by companies running the gamut from small start-ups to giants like Twitter, Hulu, GitHub, Groupon, and more. 
 
+{{< cta2 >}}
+
 ## 4. Python (Django and Flask)
 
 ### What Is It?
@@ -118,8 +120,6 @@ Traditionally, Python has been very widely used in the following industries:
 - Scientific Computing / Data Science
 - Machine Learning
 - FinTech and the Financial Industry
-
-{{< cta2 >}}
 
 ## 5. Java
 

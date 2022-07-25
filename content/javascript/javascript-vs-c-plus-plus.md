@@ -82,6 +82,8 @@ Once you’ve secured that first job in JavaScript, you can transition into a lo
 
 C++, meanwhile, gives you options like becoming a software engineer, a video game developer, or even a DevOps engineer. Pretty much anything that requires that heavy, fast computation is a good job option for a C++ developer.
 
+{{< cta2 >}}
+
 ## Conclusion: C++ vs JavaScript
 
 Just like I promised, there’s no conclusive answer here. But hopefully, throughout the course of reading this article, you’ve said to yourself, “OK, clearly, JavaScript is the better one for me right now.” Or maybe you’ve mused, “When comparing JavaScript vs C++, C++ is the right choice for me.”

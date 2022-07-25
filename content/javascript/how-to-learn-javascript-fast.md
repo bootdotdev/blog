@@ -48,6 +48,8 @@ Having a reason or inspiration also makes it easy to focus on a single idea for 
 
 Come up with an idea that fits your passion and can be expanded into a complex system. Also, take the time to think about the concepts of the idea you are most familiar with (like simple math) and consider what is the easiest thing for your application. In conclusion, for those who want to know how to learn JavaScript fast, start with understanding your own motivation.
 
+{{< cta2 >}}
+
 ## How to learn JavaScript fast: Read and understand code
 
 Syntax is like the vocabulary of a programming language. Just like when you learn a foreign language, it is going to be impossible and incredibly frustrating to understand any examples or program anything yourself if you’re not familiar with the basic vocabulary of programming. The faster you pick up the basic grammar rules of JavaScript, the sooner you’ll be able to write complex code yourself. By exposing yourself to as much code as possible and testing yourself on the meaning, the faster you’ll learn JavaScript. That’s why this is one of the most ignored – but most valuable – strategies on how to learn JavaScript fast.
@@ -57,8 +59,6 @@ The first step in being able to program with JavaScript quickly is being able to
 It’s important to understand a few basic things about programming, for example, what a method or function is as well as what data types are. After you have gone through examples of how to create and use variables and understand what different operators do, take a look at what a class looks like. Understanding these simple mechanisms will speed up your overall learning journey.
 
 There are dozens of very simple [examples](https://www.oreilly.com/library/view/javascript-jquery/9781491948583/ch01.html) of JavaScript syntax out there, and reading through tutorials and blog posts can help you to understand what code looks like as well as get you thinking about what it can be used for. It’ll be tough at first, so remember to rely on Strategy 1 and focus on your motivation when you want to know how to learn JavaScript fast!
-
-{{< cta2 >}}
 
 ## How to learn JavaScript fast: Solve real problems
 

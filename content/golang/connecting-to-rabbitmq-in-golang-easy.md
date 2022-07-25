@@ -154,6 +154,8 @@ err = publisher.Publish(
 
 If you have any questions about the library or suggestions for improvement please open an issue on the Github project and let’s talk about it!
 
+{{< cta2 >}}
+
 ## A note on stability
 
 I plan to keep the library in v0 until I’m super sure I’m happy with the API. So be aware there may be very small breaking changes before v1.

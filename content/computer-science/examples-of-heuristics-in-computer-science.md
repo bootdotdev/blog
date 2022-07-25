@@ -47,11 +47,11 @@ The knapsack problem poses the issue:
 
 An example heuristic for this problem is a greedy algorithm, which sorts the items in descending order of value per weight, and then proceeds to insert them into the "sack". This ensures the most valuably "dense" items make it into the sack first.
 
+{{< cta2 >}}
+
 ## Search Optimization
 
 Search engine optimization has been sought after for as long as search engines have been around. Individuals using search engines want to find the information they are looking for as swiftly as possible. With such an incredible amount of information available, search engines must utilize heuristics in order to expedite the search process. At the start, a heuristic could try each possibility at each step, but as the search continues, it can choose to stop the search at any time if the current possibility is worse than the best solution already located. In this way, the search engine can be optimized for speed and correctness.
-
-{{< cta2 >}}
 
 ## Applying Heuristics to Your Algorithms
 

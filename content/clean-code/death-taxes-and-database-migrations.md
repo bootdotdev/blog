@@ -40,13 +40,13 @@ I'm not saying to _never_ use frameworks, that would be hypocritical of me since
 
 Use small tools and libraries over frameworks wherever possible. It's the [Unix philosophy.](https://en.wikipedia.org/wiki/Unix_philosophy)
 
+{{< cta2 >}}
+
 ## #3 Database features are a slippery slope
 
 Forget about changing a database schema for a second, the only thing worse than that is actually changing databases entirely. Moving from MySQL to Postgres may not be so bad, but try moving from Mongo to MySQL - it's not always an easy task. I understand that when you need to push your database to its limits, you may need to take advantage of ElasticSearch's percolate queries or Postgres's partial indexes. If you can do without however, using a smaller feature set will make future moves easier.
 
 Think of your database choice as a tool. If you aren't careful, that tool will morph into a more invasive framework.
-
-{{< cta2 >}}
 
 ## #4 Careful about what you save to disk
 

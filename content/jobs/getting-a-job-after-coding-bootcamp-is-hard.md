@@ -73,6 +73,8 @@ We've created a set of courses that form an equivalent CS degree, but that you c
 
 If you've completed a coding bootcamp but are still struggling to land a job, we've designed courses especially for you. Common areas that stump people in technical interviews include data structures and algorithms, which we've dedicated three courses to covering.
 
+{{< cta2 >}}
+
 ## Other options for self-study
 
 If you're set on being self-taught, it’s best to understand which gaps you have in your knowledge. Find a [list of computer science concepts](/computer-science/comprehensive-guide-to-learn-computer-science-online/) that you need to learn. Then, try to complete a pet project that’s not in the same safe environment you’d get in a coding bootcamp. To make this a truly realistic experience, find some raw data to practice getting into proper shape. You can use datasets from [data.gov](https://catalog.data.gov/dataset), as an example.
@@ -80,8 +82,6 @@ If you're set on being self-taught, it’s best to understand which gaps you hav
 Finally, if you have a solid idea of what job you want to go for, speak to as many of those people as you can. Read what they’ve written, what resources they recommend, what they do at work. The better sense you have of what tools actually got them to where they are today, as well as what their responsibilities are, the better you’ll be able to plan your own self-taught structure.
 
 Ultimately, you want to find a way to learn at your own pace. If you can add to that a community of like-minded people to help you along the way, all the better. This is a perfect way to get around the typical limitations of getting a job after coding bootcamp while avoiding going back to college all over again.
-
-{{< cta2 >}}
 
 ## Getting a job after coding bootcamp is closer than you think.
 

@@ -43,13 +43,13 @@ Secondly, because it’s a newer language built for a specific purpose and not a
 
 [One Reddit thread](https://www.reddit.com/r/golang/comments/2c58rd/would_you_advise_a_beginner_to_learn_golang_as/) detailing why you should learn Golang explains that you’ll have to use a 3rd party library less often, because Go is a self-containing language. Furthermore, it's easily documentable using docstrings - learning these code-documenting habits will give you immediate tangible benefits. Unlike languages like PHP, there’s often just one way to accomplish a task, a black-and-white mentality perfect for beginners learning their first coding language. And lastly, it’s built to be future-proof - no matter what comes down the coding line, Go was created to still be relevant to any future apps or frameworks, no matter what they may be.
 
+{{< cta2 >}}
+
 ## Go is designed to be concurrent
 
 The benefits of this may be harder for beginner programmers to understand, because it’s so intuitive, but many other programming languages don’t have this. 
 
 Essentially, Go is great for beginners because [you can do multiple things at once](https://stackoverflow.blog/2020/11/02/go-golang-learn-fast-programming-languages/) easily. Most production software systems need to be able to do lots of things all at the same time. While other languages often have mechanisms to accomplish this, they can be overly-complex, slow, or result in buggy code. Go is frequently recognized by the developer community as a leader in simplifying concurrent applications.
-
-{{< cta2 >}}
 
 ## Go can help you land a job at Google (or other large companies)
 

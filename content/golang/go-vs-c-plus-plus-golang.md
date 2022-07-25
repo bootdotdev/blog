@@ -104,6 +104,8 @@ Compile time is dependent on what you’re coding, however, C++ is famous for it
 
 Overall, Golang beats C++ hands down when it comes to coding speed.
 
+{{< cta2 >}}
+
 ## Golang performance vs C++ performance
 
 Both languages boast fantastic performance metrics.
@@ -115,8 +117,6 @@ But, C++ is an undeniable beast at performance.
 I wasn’t kidding earlier when I said C++ is a drawn-out, complex, and lengthy language, but this is where it all pays off. Because it’s a mid-level language and not heavily abstracted from machine code, the information and task you’re trying to communicate to the computer are understood more easily, resulting in stronger performance.
 
 Features that make Go fun and easy to use, like the garbage collector, end up adding drag to the performance time, whereas C++’s minimalist and traditional structure makes it perfect for boosting performance.
-
-{{< cta2 >}}
 
 ## Golang vs C++: Which has better security?
 

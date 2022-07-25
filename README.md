@@ -59,6 +59,18 @@ make buildscripts
 ./bin/rmshorts SHORTCODE
 ```
 
+### Reset current ctas
+
+```bash
+./bin/rmshorts cta1
+./bin/rmshorts cta2
+./bin/rmshorts cta3
+
+./bin/addshorts cta1 2
+./bin/addshorts cta2 4
+./bin/addshorts cta3 8
+```
+
 ## Resize images
 
 Place original images go in in `static/img/raw`

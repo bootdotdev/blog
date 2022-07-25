@@ -49,6 +49,8 @@ Entry-Level Web Developer - Computer Science Student
 
 Front-End Developer Resume Sample - Self-Taught
 
+{{< cta2 >}}
+
 ## #3 Mobile Developer Internship Resume Sample - CS Student
 
 [Link to Resume in Google Docs](https://docs.google.com/document/d/1K4DmVd8OKn1pBeqVoDrnMJgiEqKebMRqYXOczF2qxtA/edit?usp=sharing)
@@ -56,8 +58,6 @@ Front-End Developer Resume Sample - Self-Taught
 ![Mobile Developer Internship Resume Sample - CS Student](/img/800/CS-student-mobile-internship-resume-page-001.jpg)
 
 Mobile Developer Internship Resume Sample - CS Student
-
-{{< cta2 >}}
 
 ## #4 Back-End Development Resume Sample - Self-Taught
 

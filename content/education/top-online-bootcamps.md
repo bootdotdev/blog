@@ -34,6 +34,8 @@ If you’re someone who struggles with self-guided learning, or if you need a se
 
 Want to know what the top 8 online coding bootcamps are? In the following sections, I’ll include the cost, the duration, the specialty, and why each online coding bootcamp makes the cut.
 
+{{< cta2 >}}
+
 ## 1. AppAcademy.io Online Coding Academy: Job-focused
 
 AppAcademy.io is a great online coding bootcamp for the truly dedicated learner. They’re a fantastic option because they’re so selective with their cohorts – they only accept 5% of applicants. This online coding bootcamp teaches you the building blocks of coding: Python, HTML, JavaScript, CSS, Git, and SQL.
@@ -49,8 +51,6 @@ Since their business model relies on your future employment, this online coding 
 **Duration:** 24 weeks full-time, also part-time offers for 52 weeks. They did not provide an hourly estimate, but 60+ per week is fairly normal for bootcamps.
 
 **Structure:** Mix of pair programming, live lectures, office hours, group projects, and homework.
-
-{{< cta2 >}}
 
 ## 2. Coding Dojo Online Coding Bootcamp: Geared for Beginners
 

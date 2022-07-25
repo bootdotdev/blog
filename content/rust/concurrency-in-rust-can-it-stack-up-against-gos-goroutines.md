@@ -114,6 +114,8 @@ The `block_on` executor that we used blocks the main thread, which means that al
 
 {{< cta1 >}}
 
+{{< cta2 >}}
+
 ## Rust's Threading
 
 Threading in Rust takes advantage of multi-core hardware. When a new thread is spawned, the operating system knows that these separate threads of the program can be executed in parallel on different cores at exactly the same time.

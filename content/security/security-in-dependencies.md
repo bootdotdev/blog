@@ -45,6 +45,8 @@ Vulnerabilities in updates aren't protected by this feature. For this reason, we
 
 When locking versions in this way we need to be more diligent about regularly reviewing and manually applying updates because many times new updates fix old security holes.
 
+{{< cta2 >}}
+
 ## Communication
 
 When we decide that we want to use a dependency, especially if we don't know much about it, we should reach out to the developer to ask questions and ensure that it is well maintained.

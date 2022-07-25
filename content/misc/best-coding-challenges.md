@@ -106,6 +106,8 @@ Other companies like Amazon don’t hold open coding challenges like Google does
 
 J.P. Morgan’s coding challenge is [called](https://careers.jpmorgan.com/us/en/students/programs/code-for-good?search=&tags=location__Americas__UnitedStatesofAmerica) the Code for Good hackathon event, but it’s a holistic event. You go in-person to “work alongside our technology experts in teams to solve real-world problems for nonprofits,” according to their website. It’s definitely a coding challenge, but not one for the casual coder. 
 
+{{< cta2 >}}
+
 ## More places to look for coding challenges
 
 This is far from a comprehensive list of coding challenges, so I’ve listed some best coding challenge websites below that will often have more coding challenges whatever your coding need is.
@@ -115,8 +117,6 @@ This is far from a comprehensive list of coding challenges, so I’ve listed som
 - [Coderb](https://coderbyte.com/challenges)[yte](https://coderbyte.com/challenges) is a very career-oriented coding challenge platform, built specifically to help programmers get a job. Some of the completed coding challenges come with video solutions, which can be really helpful. 
 - [Project Euler](https://projecteuler.net/) is less career-focused, and more about challenging your understanding of basic computer science principles. The challenges there serve as a great baseline for your fundamentals.
 - [Exercism.io](https://exercism.io/) helpfully breaks challenges down by language, so you can choose if you want a Python coding challenge, one for Julia, or any of their other 50 language tracks.
-
-{{< cta2 >}}
 
 ## Coding challenges are a great way to boost your skills
 

@@ -76,6 +76,8 @@ All in all, each language’s performance depends on multiple factors like the t
 
 However, one certain aspect is C# will offer better performance for Windows applications, because that’s C#’s core function, while JavaScript delivers peak frontend performance for the same reason.
 
+{{< cta2 >}}
+
 ## C# vs JavaScript for Web Development
 
 Web development is primarily broken down into two areas: frontend and backend.
@@ -95,8 +97,6 @@ Oppositely, C# does not support front-end development. C# specializes in backend
 The kicker, however, as we know, is that C# was made by Microsoft for Microsoft, which hampers it from having the same well-rounded web development approach as JavaScript.  
 
 Essentially, if you’re planning on focusing on Windows backend development, then C# is a no-brainer, but JavaScript is quintessential to this field, and if you want to work in it, then there’s no avoiding JavaScript’s importance.
-
-{{< cta2 >}}
 
 ## C# vs JavaScript for Game Development
 

@@ -52,6 +52,8 @@ def encrypt(plain_text, password):
 
 {{< cta1 >}}
 
+{{< cta2 >}}
+
 ## Notes on encrypt() function
 
 1. [Nonce](https://en.wikipedia.org/wiki/Cryptographic_nonce): A random nonce (arbitrary value) must be a random and unique value for each time our encryption function is used with the same key. Think of it as a random salt for a cipher. The library supplies us with a secure nonce.
@@ -63,8 +65,6 @@ def encrypt(plain_text, password):
     3. P is the parallelization factor, useful for running on multiple cores.
 5. [Base64](/bitcoin/base64-vs-base58-encoding/): We encode all of our bytes-type data into base64 a convenient string representation
 6. [Tag (MAC)](/cryptography/hmac-and-macs-in-jwts/): The tag is used to authenticate the data when using AES in GCM mode. This ensures no one can change our data without us knowing about it when we decrypt.
-
-{{< cta2 >}}
 
 ## Decrypting
 

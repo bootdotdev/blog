@@ -48,13 +48,13 @@ A computer scientist will experiment, think about the problem, and finally enter
 
 Painters and writers get a lot of creative credit. Computer scientists deserve as much, if not more. When you ask a computer scientist, “Why did you choose to study computer science?” many will mention the joy of creativity before anything else.
 
+{{< cta2 >}}
+
 ## 4. The basics unlock potential
 
 When I studied biology, they regularly updated the textbooks and curriculum to keep abreast of the latest discovery or advancements. (CRISPR, anyone?) The really fascinating thing about computer science is that the fundamentals rarely change because it's basically just an extension of math. Like Newtonian physics, as [one](https://qr.ae/pvYzUe) Quora responder put it, computer science fundamentals simply don’t need to be updated. And yet new applications of the fundamentals are discovered practically every day. Why learn computer science? Because one set of skills will see you through your entire career.
 
 In many jobs, your hire-ability depends on your ability to know how to use the latest tech. With computer science, knowing the basics will give you everything you need to continue being successful in perpetuity. Yes, new frameworks or languages will crop up every now and again, but for the most part, your familiarity with Big-O algorithms and object-oriented programming will see you through.
-
-{{< cta2 >}}
 
 ## 5. Learn practical skills
 

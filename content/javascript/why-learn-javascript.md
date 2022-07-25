@@ -52,6 +52,8 @@ This makes it ultra-accessible for beginners like me. With a very basic understa
 
 You can also learn by poking around in the Javascript that runs an overwhelming majority of websites, by right-clicking and selecting “inspect” on any website. It’s a fun way to pick apart pre-existing JavaScript and see what happens when you change things. ![](https://lh3.googleusercontent.com/TXbn1zmVBTRwSROeE1dRagznXw-tHXP0aSGV9bo0oOsZsLJLPRoTTizBGpuMXd7msGheRemVGIHHZ1FdGnBb9cBmoz8rmxHSv97Zg3K0c5Z4Ai6UDUysJjzmrAr1HlFr_bvWNvJk)
 
+{{< cta2 >}}
+
 ## 4. There are a lot of shortcuts, when you’re ready to take them.
 
 Coding can include a lot of repetitive tasks - there are shortcuts in JavaScript that can make your life easier. It’s best to understand the underlying bones of any language before you start looking for shortcuts. However, if you use JavaScript for anything serious, there will be a time when you have a good understanding of the basics of Javascript. At that point, you might want to know how to make things easier. 
@@ -61,8 +63,6 @@ Plain old JavaScript (also called “vanilla” JavaScript) can do a lot, but wh
 These assets have grab-and-go JavaScript code that’s been pre-written for your use. These frameworks act as a structure, with a lot of the elements and components already built and ready for use or modification. It can help you build whatever it is you’re building a heck of a lot faster and with greater ease.
 
 It’s the difference between building a house from scratch, versus coming to a house that already has the blueprints in place and even a few furnishings that can let you build your dream home faster. You’re still doing the work - and you need to understand how those foundations work, or else you’ll run the risk tearing the whole thing down because you don’t know what you’re doing - but it’s simpler to get the house ready.
-
-{{< cta2 >}}
 
 ## 5. You’ll find a way to learn.
 

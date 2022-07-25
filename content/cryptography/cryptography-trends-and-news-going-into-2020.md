@@ -37,6 +37,8 @@ In addition, Matthew Dozer has a great introductory video:
 
 Instead of the current [ECDSA](/cryptography/elliptic-curve-cryptography/) implementation, Bitcoin might be switching to [Schnorr signatures](https://en.bitcoin.it/wiki/Schnorr) in order to get more efficiency when signing transactions. Instead of signing each transaction separately, with Schnorr, we can generate a single signature to validate many transactions at once. This allows Bitcoin to scale by requiring less data to be broadcast on the network when grouping transactions.
 
+{{< cta2 >}}
+
 ## More Rigorous Testing of Hash Functions
 
 Also, Nicky Mouha [published a paper](https://eprint.iacr.org/2019/1421.pdf) exposing a vulnerability in Apple's CoreCrypto Library. This affects 11 out of 12 implemented hashes. However, MD2 is the only function to remain secure. As a result, a new test is founded which can help detect similar problems moving forward.

@@ -28,11 +28,11 @@ Reddit has the most siloed and specific communities in regards to crypto. It's a
 
 While the /r/bitcoin subreddit focuses on Bitcoin related news, the /r/cryptocurrency subreddit is where you can find information and speculation regarding other altcoins. Because /r/bitcoin is so pro-BTC, /r/cryptocurrency actually rarely mentions the mother coin at all. If you're into alts, this is the place to discuss them.
 
+{{< cta2 >}}
+
 ## [#4 Reddit - /r/ethereum](https://www.reddit.com/r/ethereum/)
 
 Do you like NFTs, Dapps, and web 3.0 discussion? If so, the Ethereum subreddit is where you'll want to be. Ethereum is similar to Bitcoin, the main difference being its execution engine. Etherum is basically a globally distributed virtual machine that allow users to run "smart contracts". The goal is to decentralize generalized computing problems, rather than just money.
-
-{{< cta2 >}}
 
 ## [#5 Steemit](https://steemit.com/)
 

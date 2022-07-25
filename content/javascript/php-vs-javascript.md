@@ -78,6 +78,8 @@ PHP, on the other hand, is identified by a multi-threaded, I/O blocking model, a
 
 Either way, JavaScript takes home the point for performance.
 
+{{< cta2 >}}
+
 ## When to Use PHP vs JavaScript?
 
 At first glance, knowing when to use these languages seems pretty obvious, especially given the information so far, but there’s definitely room for surprises and nuanced occasions when it comes to using PHP and JavaScript.
@@ -115,8 +117,6 @@ JavaScript is the only language native to web browsers. It also makes pages more
 It also has a massive community behind it, and for nearly 30 years it has championed this field with developers and businesses alike investing in furthering this language as the frontend language.
 
 Needless to say, there is no comparison when it comes to JavaScript and frontend development, and it indisputably gets the point for this section.
-
-{{< cta2 >}}
 
 ## Which One Should You Learn: The Final Results
 

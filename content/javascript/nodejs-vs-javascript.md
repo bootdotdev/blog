@@ -78,6 +78,8 @@ As it turns out, even JavaScript used with Node.js can’t beat everything. Node
 
 Python is significantly more advanced when it comes to mathematical computations and machine learning. When it comes to large-scale development applications, Golang might also be a better option than Node for performance reasons.
 
+{{< cta2 >}}
+
 ## Professional Prospects
 
 Ultimately, it’s easier to get a job at startups if you can cover more of the tech stack. If you’re a whiz at frontend design and the customer experience all the way down to optimizing database queries and API integration, there’s nothing that can stop you. For that reason, it makes sense to broaden your skillset, particularly across both the front- and back-end if you want to work at smaller companies.
@@ -93,8 +95,6 @@ A JavaScript developer will be considered entirely frontend. In order to land th
 Someone with knowledge of Node.js could look into more of a full-stack development position. These jobs cover more of the development stack, and though you still need to keep in mind UX design and the customer’s experience, you’ll be responsible for the integration of the application’s different layers.
 
 These tasks can often be more complex, and the pay reflects it. In the U.S., the average base pay for a full stack developer is [$100K](https://www.glassdoor.ie/Salaries/us-full-stack-developer-salary-SRCH_IL.0,2_IN1_KO3,23.htm?clickSource=searchBtn) and can range up to $160K. Do be aware, however, you’ll need to be more knowledgeable about APIs, databases, and more complex backend systems. If you’re interested in this kind of role, it’s best to beef up your skills to include a more traditional backend language like Python, C#, C++, or Java.
-
-{{< cta2 >}}
 
 ## Conclusion: JavaScript vs Node.js
 

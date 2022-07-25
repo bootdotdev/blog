@@ -141,13 +141,13 @@ A quote from [this art](https://ischool.syr.edu/why-html-is-not-a-programming-la
 
 Therefore, without programming logic, some do not consider it a programming language. Nevertheless, when you write in HTML you are still coding, and HTML5 brings a wealth of new extras like geolocation and multimedia to web page design, so HTML’s importance shouldn’t be questioned, whether you agree or disagree with it being a programming language.
 
+{{< cta2 >}}
+
 ## Differences between HTML, CSS and JavaScript, and how they work together
 
 HTML can combine JavaScript within scripts that convert HTML's static form into dynamic content by modifying the web page contents without reloading the page. However, the reverse cannot occur. JavaScript doesn't really embed HTML.
 
 HTML tells the web page what it should display rather than how it should display it, whereas JavaScript instructs the web page on how exactly the data and content should be displayed. 
-
-{{< cta2 >}}
 
 ## HTML vs JavaScript: Browser compatibility
 

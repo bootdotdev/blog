@@ -86,6 +86,8 @@ func cleanInput(input string){
 
 A comment that explains that carets and question marks are removed for later use in a regex is an example of a good comment because it's often impossible to express the "why" in code.
 
+{{< cta2 >}}
+
 ## Always write comments at API boundries
 
 As we try to weigh the necessity of adding a comment to code, we should take into account that up until this point we've mostly been talking about comments for **internal maintainers** of the code base. The best practices change drastically when we write comments for external *users* of our code. A good example of this would be godoc comments on the exported functions of a package.

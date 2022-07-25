@@ -38,6 +38,8 @@ backend_monitor(provider.backends.ibmq_vigo)
 2. Enter your API token in the IBMQ.enable\_account('Insert API token here') part
 3. Save and run
 
+{{< cta2 >}}
+
 ## Code
 
 ```py

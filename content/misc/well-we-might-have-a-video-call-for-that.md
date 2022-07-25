@@ -61,6 +61,8 @@ I simply don't feel the need to respond immediately to slack messages, and will 
 
 That said, people are different. I like to talk to my coworkers about the way they prefer to be contacted and respect their preferences where possible.
 
+{{< cta2 >}}
+
 ## So where do we agree?
 
 - Scrum is generally a bad idea, agile is a good one

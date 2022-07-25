@@ -76,6 +76,8 @@ const backToNumbers = jsonStrings.map((s) => JSON.parse(s))
 
 {{< cta1 >}}
 
+{{< cta2 >}}
+
 ## When dealing with an API, should you use objects or arrays?
 
 If you're writing client-side code, it's likely that you won't get to decide. The API (back end) system that you're working with will probably have documentation that will specify the shape of the data it expects.

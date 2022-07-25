@@ -47,6 +47,8 @@ While this Python Track is our first released track, we have designs on a range 
 
 Our goal is to help you get to where you want to be, in the most effective way possible. For some, that's blitzing straight through our Python courses (or our Go courses if you want to be part of Gopher Gang 😀), while some want the entire computer science degree experience. With Tracks, you're free to tailor your own boot.dev experience and gear your learning to whatever works best for you!
 
+{{< cta2 >}}
+
 ## Why Boot.dev?
 
 At boot.dev we’re focused on one thing: [teaching computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/).

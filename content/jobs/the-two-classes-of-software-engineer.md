@@ -41,13 +41,13 @@ In other words, it's easier to learn the fundamentals and _then_ the high-level 
 
 Over time, and often as soon as the first year of employment, "computer scientists" tend to move towards more fulfilling and well-compensated work, whether that’s well-funded open-source projects, technical leadership, or mission-critical commercial systems. "Developers" tend to continue doing what they've always done, learn a new framework, use an ORM to make simple database queries, or render information in a browser using a tool someone else made.
 
+{{< cta2 >}}
+
 ## Demand won't always be higher than supply
 
 Currently, the number of people needed in software engineering is still [rapidly increasing](http://econdataus.com/claim400k.htm), but (anecdotally, and if anyone has good data on this please let me know) it seems when I talk with entry-level engineers that they're having an increasingly hard time landing a _first job_. With greater competition at the junior levels, it seems more and more apparent that "get-rich-quick" paths [don't often produce the best results](/jobs/getting-a-job-after-coding-bootcamp-is-hard/).
 
 If you're still struggling to find your first job, are wanting to take your career up a level, or you're simply looking for more job security, taking the time to learn more advanced and specialized subjects is the best path.
-
-{{< cta2 >}}
 
 ## How can I become a "computer scientist"?
 

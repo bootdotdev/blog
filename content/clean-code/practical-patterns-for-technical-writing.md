@@ -45,6 +45,8 @@ To make your structure easily understandable, it helps to ask the three Ws which
 2. Why is it important for the reader to know this?
 3. How should the reader use this knowledge?
 
+{{< cta2 >}}
+
 ## Active Voice vs. Passive Voice
 
 One of the most important things I've learned was the difference between active and passive voice. Here is an example:
@@ -56,8 +58,6 @@ Active voice: **Request the data from the resource via this endpoint.**
 Active voice is more precise on what to do and is typically also shorter and easier to process. Passive voice, on the other hand, is indirect and does not make clear who or what the actor in the sentence it. We know that the data can be requested from the resource, but who should be doing it?
 
 If you spot passive voice in your documents (form of be + past participle), try to convert it to active voice to make it more direct.
-
-{{< cta2 >}}
 
 ## Writing Clear and Concise Sentences
 

@@ -42,14 +42,14 @@ We’ll have 2 winners from each category. Each winner will get a free year-long
 
 In addition, 1st place in each category will get an hour of 1 on 1 time with Lane (me) the founder of Qvault to talk about whatever you want! We can work on code together, you can ask for career advice, or we can even just spend the time improving your resume.
 
+{{< cta2 >}}
+
 ## Judging criteria
 
 We’ll score your project using the following metrics:
 
 * Product – how cool the application is from a user’s perspective? Does it have great features? Are there any noticeable bugs
 * Technical merit – How well is the code organized and architected? Is it a clean code base?
-
-{{< cta2 >}}
 
 ## Good luck!
 

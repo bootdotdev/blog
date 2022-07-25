@@ -48,6 +48,8 @@ Courses that do allow you to write and submit code for feedback are probably the
 
 _Tip: Build a project as you make your way through any learning material. A personal project you can publish to Github is a great way to get started._
 
+{{< cta2 >}}
+
 ## 4. Googling is a skill. Learn to Google better
 
 Some people are really good at googling stuff, and others aren't. The good news is that googling is a skill you can learn; mostly through practice. Pay attention to what the search results look like when you run a query, and learn to examine them effectively to know whether you should spend time clicking through to the page. Here are some basic [heuristics](/computer-science/examples-of-heuristics-in-computer-science/) that can help you know if a result is worth clicking on and skimming through.
@@ -67,8 +69,6 @@ Some people are really good at googling stuff, and others aren't. The good news 
 - Slow loading time
 
 _Tip: Your first instinct when you're stuck should be to Google your problem_
-
-{{< cta2 >}}
 
 ## 5. Once you've Googled the same thing three times, write it down
 

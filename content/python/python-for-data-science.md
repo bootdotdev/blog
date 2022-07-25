@@ -66,6 +66,8 @@ Because it’s been around for three decades, because it is easy to learn and ea
 
 The reason this makes learning python such a great choice for data science is because learning any kind of language is hard, especially if you’re feeling professional pressure. Communities like the ones that have sprung up around Python make that easier.
 
+{{< cta2 >}}
+
 ## 5. Comprehensive set of data science libraries
 
 Python as a language for data science rocks on its own. But on top of the simple syntax, easy vocab, readability, community, and every other benefit I’ve already listed, there are the libraries. Libraries like Pandas, statsmodels, NumPy, SciPy, and Scikit-Learn are very popular in the data science communities. 
@@ -73,8 +75,6 @@ Python as a language for data science rocks on its own. But on top of the simple
 Ecosystems like SciPy make data science tasks much easier. (SciPy is pronounced sigh-pie, not skippy as I’d originally assumed.) SciPy addresses lots of common data science needs, like handling data structures, analyzing complex networks, algorithms and toolkits for machine learning. Python libraries for data science are popular and constantly evolving.
 
 The really exciting thing is that new Python packages for data science are being released all the time as more Pythonistas join the community and make their own contributions. Python libraries for data science are popular and constantly evolving. For instance, Keras is a minimalist library used for deep learning that was released in 2015. Since then, it’s become a critical component of the Python library ecosystem. 
-
-{{< cta2 >}}
 
 ## 6. Teaches the basics
 

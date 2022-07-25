@@ -33,6 +33,8 @@ Sal Kahn from Kahn Academy has a great video about mastery-based learning, and s
 
 https://www.youtube.com/watch?v=-MTRxRO5SRA
 
+{{< cta2 >}}
+
 ## Code In Browser
 
 Programming courses make the most sense as **hands-on**, **code-as-you-go** style tutorials. _Go Mastery_ has 2 exercise types:

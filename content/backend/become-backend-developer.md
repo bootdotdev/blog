@@ -25,6 +25,8 @@ Some of the most common job titles for programmers include:
 
 According to Stack Overflow's last [developer survey](https://survey.stackoverflow.co/2022/#salary-united-states), backend developers in the US tie for the highest median salary of this group: **$150,000**. If you enjoy working on problems that involve algorithms, data structures, natural language processing, databases, or distributed systems, then backend development might be for you.
 
+{{< cta1 >}}
+
 ## Can I really learn backend by myself?
 
 Many people assume that because backend developers typically need to have a better understanding of computer science fundamentals, that's it's harder to get an entry-level backend position, and as a result, they start educating themselves on front-end technologies. **I think this is a mistake.**
@@ -108,6 +110,8 @@ Finally, you're going to want to actually deploy some projects! This is how you 
 * List the projects on your [resume](/computer-science/computer-science-resumes/)
 
 Not only will deploying your projects make your online presence appear more attractive to potential employers, but it will give you practice that will be necessary in your jobs moving forward. What's the use of a backend developer if they don't know how to deploy their code to a live environment?
+
+{{< cta2 >}}
 
 ## How long does it take to learn backend development?
 

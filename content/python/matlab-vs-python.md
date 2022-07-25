@@ -42,6 +42,8 @@ However, Python is also great for beginners when compared to most programming la
 
 **Both Matlab and Python are good for beginners, but Python is better if coding or computer science is your primary goal.**
 
+{{< cta2 >}}
+
 ## Is Python or Matlab more productive?
 
 What about productivity? If you're an engineer who takes their output efficiency seriously, you may wonder whether Matlab or Python is better for that.
@@ -51,8 +53,6 @@ If you're a beginner coder and you care about productivity I would recommend Pyt
 It's possible that if you're more specialized in the mathematical and classical engineering world that Matlab might help you become more productive. It comes with a really clean interface and familiar mathematical notation. That said, even programming adjacent fields like electrical and mechanical engineering, which Matlab has historically dominated, are moving towards Python. Anecdotally, my brother-in-law who is studying chemical engineering at university said his entire department has moved their classed from Matlab to Python.
 
 **If you’re a beginner, Python will help you be more productive. If you’re specialized in the technical computing world, Matlab’s tidy interface will boost your productivity.** 
-
-{{< cta2 >}}
 
 ## Is Python or Matlab best for a programming job?
 

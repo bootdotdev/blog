@@ -60,6 +60,8 @@ When a program stores data in a map, a key and value are given to the map. When 
 
 Because keys are like addresses, they can’t be too large. If I want to store books in a data map I can hash the contents of the book and use the hash as a key. As a programmer, I can simply use the hash to look up the contents of the book instead of trying to sort through thousands of records by title, author, etc.
 
+{{< cta2 >}}
+
 ## How Do They Work?
 
 Here is the real challenge of writing this article. I’m going to keep it extremely simple and omit the actual implementation details while giving you a basic idea of what the computer actually does when it hashes some data.
@@ -110,8 +112,6 @@ Let’s walk through an example algorithm I’m making up on the fly for this de
 > 1011110001001101 → “8sj209dsns02k2”
 
 As you can see, if you start with the same word at the beginning, you will always get the same output at the end. However, if you even change one letter, the outcome will be drastically changed.
-
-{{< cta2 >}}
 
 ## Disclaimer
 

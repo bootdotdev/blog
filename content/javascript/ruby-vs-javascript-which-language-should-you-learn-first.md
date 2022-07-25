@@ -80,6 +80,8 @@ This isn’t to say Ruby itself has awful performance. Compared to other server-
 
 However, against the lightweight JavaScript language and Node’s Google V8 engine it doesn’t hold up. Essentially, all the characteristics we love about Ruby and make it fun to use, ultimately hurt its performance.
 
+{{< cta2 >}}
+
 ## Ruby vs JavaScript: Which Is Better for Web Development?
 
 Web development is an intriguing field, not only because it’s constantly involving, but right now there’s a large [focus on](https://uxplanet.org/the-importance-of-user-experience-design-988faf6ddca2) [user experience](https://uxplanet.org/the-importance-of-user-experience-design-988faf6ddca2) and finding that next level of making your internet experience feel tailored to you.
@@ -99,8 +101,6 @@ Now, we also have Node.js, a powerful backend runtime environment powered by the
 JavaScript has a massive community, makes up nearly all of the internet, and if you don’t know it for web development yet, you’ll need too, because that’s how embedded the language is into the World Wide Web.
 
 With JavaScript, you not only get more versatility, but it’s the field's language, **period**.
-
-{{< cta2 >}}
 
 ## Ruby vs JavaScript: Which Develops Better Web & Mobile Apps?
 

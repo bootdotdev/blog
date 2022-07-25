@@ -55,6 +55,8 @@ According to [Lane Wagner's article on Computer Science resume's for 2021](/comp
 - Use color to emphasize important points
 - Spell and grammar check
 
+{{< cta2 >}}
+
 ## Going Above and Beyond - Your Online Presence
 
 Don't underestimate the power of social media accounts and developer blogs in your job search. Sites like Twitter, Dev.to, and LinkedIn are crucially important, and having professional accounts setup can make you look the part when employers look you up.
@@ -72,8 +74,6 @@ I made an aside moments ago about tailoring your social media appropriately - do
 This is no different than putting on a suit to go to an interview. **Put your best foot forward.** The other one can hang out with the flamingos.
 
 More to the point: **Google your name.** See what shows up. Tailor your online presence to suit your goals. The internet may be a giant, unwieldy leviathan, but that doesn't mean you can't carve off a piece of it and use it for yourself.
-
-{{< cta2 >}}
 
 ## Get to Work
 

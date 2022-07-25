@@ -24,6 +24,8 @@ Yes, much of Python is best learned in front of a computer screen. However, some
 
 I find having all this information laid out in a logical, organized way for you to digest is the best way to build a framework of knowledge. Everything else you learn can be slotted into the framework you build with books.
 
+{{< cta1 >}}
+
 ## [A Byte of Python](https://python.swaroopch.com/)
 
 This book really takes the cake. It is incredibly thorough, well-written, and specifically targeted at those who are first learning to code. Even experienced programmers will enjoy this read and gain some knowledge. It’s easy to feel frustrated with the learning process, but this book has helped so many people, from curious kids to people looking to change careers.
@@ -41,6 +43,8 @@ A simple script which does in seconds what would’ve taken hours is very inspir
 Al Sweigart makes programming with Python very approachable. The book is free, and the author has several other books that dig deeper into different parts of Python and its uses. The first 9 chapters of the free, online book cover Python basics, and the last 10 walk you through very useful and practical examples of ways you can use Python to make your life easier, like updating, renaming, and moving files and folders in large batches or crawling the web.
 
 These very cool programming challenges really are quite practical. The book walks you through in great detail any libraries or tools you need to download, like [openpyxl](https://openpyxl.readthedocs.io/en/stable/).
+
+{{< cta2 >}}
 
 ## [Python for Beginners: Learn Python Programming With No Coding Experience in 7 Days](https://www.amazon.com/Python-Beginners-Programming-Experience-Web-Programming/dp/B09GZHFH2C)
 
@@ -69,6 +73,8 @@ If you liked the simple real-world applications outlined in “Automate the Bori
 Replete with live coding examples where an instructor steps through the implementation thought process, this course also includes quizzes, homework assignments, and three portfolio projects. Lots of people really enjoy the “code along” sessions, which feel a bit like partner programming, one of my favorite ways to learn from more experienced programmers.
 
 This course is normally $139, but there are often promotions bringing it down to $20-$40. Over 1.5 million students have taken it, and over half of reviewers give it five stars.
+
+{{< cta3 >}}
 
 ## [Python Fundamentals](https://www.pluralsight.com/courses/python-fundamentals?clickid=UkzQi8S3GxyIRukTHlSCwSkLUkDzsIUstXjv200&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius)
 

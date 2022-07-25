@@ -67,6 +67,8 @@ You run the risk of spending years and a ton of money when you don’t actually 
 
 [Tweet image via @dinoman\_j](https://twitter.com/dinoman_j/status/1371871108392235011) 
 
+{{< cta2 >}}
+
 ## Cheap and quick alternatives to coding bootcamp do exist
 
 If you’ve got this far and neither option is appealing to you, you’ll be glad to know additional alternatives exist. Again, I want to reiterate how open-minded computer science employers are. They don’t care _how_ you got the knowledge or skills. These employers just want to know you have what it takes. A diploma or a certificate from a coding bootcamp is a helpful way to get those skills and prove it, but [there are alternatives](/computer-science/compsci-certificate-vs-degree/) to coding bootcamps and degrees that take less time and money. Is a coding bootcamp worth it? Sometimes the cost is too high.
@@ -78,8 +80,6 @@ The advantages are obvious - it’s free, or very cheap. It’s entirely self-pa
 Plus, you’ll have to do a lot of the legwork proving you’re worth a chance. The diplomas and coding bootcamp certificates do a good job of proving to employers you have knowledge and will get you through to the interview. Being self-taught means you’ll have to find another way to demonstrate your knowledge on your resume to get your foot in the interview door. In that regard, is a coding bootcamp worth it? Yes.
 
 There are also places to get a [computer science certificate online](/computer-science/guide-to-certificate-in-computer-science/) that are much more accessibly-priced than both coding bootcamps and computer science degrees. For example, [boot.dev](https://boot.dev/) is an online computer science learning platform that offers courses in coding fundamentals, computer science basics, Go, practical cryptography, and more. Boot.dev charges on a monthly or yearly basis, which comes to between $144 to $480 for two years’ worth of access. It also hosts a portfolio where you can show potential employers the skills and experience you've gained.
-
-{{< cta2 >}}
 
 ## What's the right choice for me?
 

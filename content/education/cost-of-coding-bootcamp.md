@@ -42,6 +42,8 @@ Even if you’re on the part-time model, many coding bootcamps expect a time com
 
 Full-time coding bootcamps run for at least 12 weeks, but sometimes up to 20 weeks on the full-time model. Even if you think the price is worth it, definitely consider the time cost too.
 
+{{< cta2 >}}
+
 ## Coding bootcamps cost much more than the alternatives. 
 
 It’s also worth comparing the cost of coding bootcamps to the cost of specific courses. For example, if you were to go on Coursera, you’d be able to find a course in the basics of Python, run by the University of Michigan, that comes with a certificate. Coursera’s [Python for Everyone specialization](https://www.coursera.org/specializations/python) costs $49/month. They estimate you’ll get it done in eight months. That’s $400.
@@ -53,8 +55,6 @@ Then there are options like [boot.dev](https://boot.dev). Like coding bootcamps,
 Having a college-backed certificate is powerful, but what I said earlier still stands: many employers just don’t care. If you can prove you have the skills, they’ll be thrilled to get you on board with or without a diploma or certificate.
 
 Compared to the cost of a coding bootcamp, online courses or communities are a steal.
-
-{{< cta2 >}}
 
 ## Coding bootcamps come with a lot of handholding. 
 

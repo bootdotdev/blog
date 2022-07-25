@@ -66,6 +66,8 @@ func quickSort(arr []int, low, high int) []int {
 }
 ```
 
+{{< cta2 >}}
+
 ## Example of using Quicksort in real code
 
 ```go

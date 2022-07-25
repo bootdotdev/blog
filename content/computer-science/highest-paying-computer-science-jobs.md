@@ -82,6 +82,8 @@ If you haven't heard of DevOps, you probably need to get your head out of the sa
 - Test, maintain and improve existing processes
 - Implement, test, and maintain new processes
 
+{{< cta2 >}}
+
 ## Data Scientist or Machine Learning Specialist - $125,000/yr
 
 Artificial intelligence and Machine Learning are at the forefront of many new technologies such as self-driving cars, personal digital assistants (Google Assistant, Amazon Alexa), and even just automated vacuums like the Roomba. Since this field is growing so quickly, it can be hard for employers to find great talent, and competition is fierce. Becoming familiar with common AI algorithms, [heuristics](/computer-science/examples-of-heuristics-in-computer-science/), and frameworks like Tensorflow can be enough to get yourself a job in the industry.
@@ -96,8 +98,6 @@ Artificial intelligence and Machine Learning are at the forefront of many new te
 - Build and maintain data pipelines to keep them stable, performant, and accurate
 - Influence project priorities, deadlines, and deliverables
 - Serve as a key resource to team members on engineering best practices, design, and coding standards
-
-{{< cta2 >}}
 
 ## DevOps Specialist - $125,000/yr
 

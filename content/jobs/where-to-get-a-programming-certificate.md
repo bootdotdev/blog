@@ -74,6 +74,8 @@ In summary, the process to get a programming certificate online from an online c
 
 You should also ensure the reputation of your online course is unimpeachable - universities come with their own brand name aura, while online courses are seen as a little more fast and loose. Do your research to pick the certificate that will impress an employer, or select one that lets you prove your skills by displaying a portfolio.
 
+{{< cta2 >}}
+
 ## You can get your programming certificate online from a university or an online course.
 
 These two options to get a programming certificate online are great alternatives to both a coding bootcamp or a proper diploma for the same reasons - they’re cheaper, they’re faster, they’re more tailored to your specific and current needs. And increasingly, they’re accepted by employers who are desperate to get qualified employees in to do the work that desperately needs doing. 

@@ -46,6 +46,8 @@ I've found there are diminishing returns on your time spent trying to find a can
 
 ![Log(x)+4](/img/800/Screen-Shot-2020-10-13-at-7.24.24-AM-e1602595625480.png)
 
+{{< cta2 >}}
+
 ## #4 - Whiteboarding
 
 Somehow whiteboarding has become a naughty word when talking about interviewing. I hear dumb-ass statements like, "who cares if I can whiteboard if I know how to code?"
@@ -53,8 +55,6 @@ Somehow whiteboarding has become a naughty word when talking about interviewing.
 No one cares. White-boarding is just a convenient way to ignore dumb things that we can all google (like syntax) and focus on shit that matters (algorithms, data structures, architectural prowess, understanding of frameworks/concepts etc)
 
 I don't ask React developers to build binary trees. I don't ask candidates for the data team to talk about Redux vs React Context. Keep the questions _applicable_, and don't be afraid to use a goddamn whiteboard.
-
-{{< cta2 >}}
 
 ## #5 - Homework
 

@@ -51,13 +51,13 @@ So, assuming the industry won't be what it once was, what does that mean for tho
 
 Less investment money means fewer startups and fewer "series-X" fundraising rounds. Less cash in a business's pocket means slower growth, and slower growth means less hiring.
 
+{{< cta2 >}}
+
 ## What kind of developers would a recession impact the most?
 
 Junior developers have always had a harder time finding work than mid-level or senior developers. Frankly, that first job has always been hard to land, but landing any job once you have some experience under your belt has been much easier historically. I think entry-level developers will unfortunately be disproportionately impacted by a "tech recession". Now more than ever, the competition among entry-level devs will be fierce. It might not be enough anymore to [attend a 12-week bootcamp and come out the other side making $80k](/jobs/getting-a-job-after-coding-bootcamp-is-hard).
 
 Second, I suspect that high-growth startups will be hit harder than more established companies. Companies that are profitable will likely be able to take advantage of the market downturn and pick up talent on the cheap. Companies relying entirely on outside investment will have to go through layoffs or at least slow that pace with which they snap up developers.
-
-{{< cta2 >}}
 
 ## Don't panic
 

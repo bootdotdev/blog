@@ -50,6 +50,8 @@ When it comes to syntax for Julia vs Python, it’s really up to you. I’d reco
 
 Since Python is more widely used, it is a safer bet if you’re just starting to learn to program. Due to its crushing popularity and very versatile uses, there are an unparalleled amount of tutorials for Python. You’re more likely to find one that you like as well as one that uses examples that interest you.
 
+{{< cta2 >}}
+
 ## Is Python or Julia better for machine learning?
 
 Julia’s main advantage over Python when it comes to machine learning is speed. Julia is out-of-the-box more performant than Python alone. However, with optimized interpreters and various packages, Python can come to compete with Julia. Julia has the distinct advantage of being specifically designed with machine learning and data analytics in mind. In machine learning, speed makes Julia the winner. But Python’s flexibility can make it more useful if you don’t have rigid speed requirements.
@@ -57,8 +59,6 @@ Julia’s main advantage over Python when it comes to machine learning is speed.
 Python has a lot of strong [machine learning libraries](https://towardsdatascience.com/best-python-libraries-for-machine-learning-and-deep-learning-b0bd40c7e8c), like NumPy, Pytorch, TensorFlow, Pandas, and many more. As soon as you need a function that isn’t included in a package for your machine learning problem though, you have to give up your high-performance dreams or implement it yourself in [Cython](https://cython.org/). Most of these libraries are actually implemented in C and then wrapped in Python, which makes them much faster than they would be otherwise.
 
 Julia’s original creators decided that Julia should be just as fast as C. They followed through on their promise, which means implementing additional functions for machine learning purposes in Julia is less complex than with Python, and you don’t give up any [performance](https://entwickler.de/machine-learning/julia-ist-bei-einfachen-machine-learning-aufgaben-mit-python-vergleichbar-aber-besser-geeignet-fur-komplexere/). When looking at Julia versus Python in terms of speed for machine learning, Julia steals the show.
-
-{{< cta2 >}}
 
 ## Is Python or Julia better for data science?
 

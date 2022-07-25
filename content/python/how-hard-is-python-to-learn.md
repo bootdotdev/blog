@@ -46,6 +46,8 @@ In order to properly program, you’ll need to be familiar with some of the basi
 
 Find simple examples of code online and read through them. Lots of them are accompanied by summaries or documentation, so you can inform yourself of what the function is meant to do and then try to understand how the code accomplishes that. One of the greatest advantages of Python is that it’s easy to pick up the syntax. The answer to how hard is Python to learn will rapidly change if you throw away that advantage.
 
+{{< cta2 >}}
+
 ## How to Learn Python Fast: Put It in Practice
 
 The most critical part of learning to code is actually coding. How hard is Python to learn if you never code? It’s impossible, like any other coding language. Sitting through lectures or watching Youtube video series on programming in Python will only get you so far, and it’s actually one of the slowest ways to learn Python. Although it is necessary to understand basic concepts before implementing complex systems, it is important to apply your knowledge to start actually grasping key concepts and learning them fast. 
@@ -59,8 +61,6 @@ If you’re learning to program outside of a classic education setting, it could
 It’s important to manage the rate at which you increase the difficulty of coding exercises. How hard is Python to learn if you just throw yourself at the toughest challenge? Well, since you don’t know what you don’t know, it can be frustrating to sift through different challenges on the internet to find those that are doable for you but are also a good use of your time. Burnout can easily become a huge slowdown in your path to learn to code, so be a good caretaker of tool number one of learning to code fast with Python – your motivation!
 
 Make sure you spend enough time at this stage. This is when you’ll see significant improvement in your ability to think computationally. It’s important that you figure out how to take the ideas you have in your head for how to solve a problem, such as sorting a deck of cards, and turn them into executable code that accomplishes the same goal. As long as you pick coding tasks that are appropriately difficult, you’ll be able to fuel your motivation through solving these challenges.
-
-{{< cta2 >}}
 
 ## How to Learn Python Fast: Apply Your Passions
 

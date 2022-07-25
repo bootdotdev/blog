@@ -86,6 +86,8 @@ const newArray = oldArray.map((val, index) => {
 // newArray = [0, 4, 18, 48]
 ```
 
+{{< cta2 >}}
+
 ## Array Parameter
 
 The third and final parameter made available to our callback is a copy of the original array. This can be useful if we care about more than just the value or index that we are currently operating on. We can look forward or backward in the array and use other elements as part of our mapping:

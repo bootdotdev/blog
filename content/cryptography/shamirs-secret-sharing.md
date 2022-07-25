@@ -39,6 +39,8 @@ One of the fundamental mathematical properties used in Shamir's secret sharing i
 - An infinite number of lines can be drawn through the same point
 - An infinite number of parabolas can be drawn through the same two points
 
+{{< cta2 >}}
+
 ## The Math - Walkthrough
 
 Let us construct a scheme to share our secret 1954 (_S)_ with 4 (_n)_ shares and a threshold of 3 (_k)_.
@@ -90,8 +92,6 @@ y = 1954 + 43\*3 + 12\*3^2 = 2191
 y = 1954 + 43\*4 + 12\*4^2 = 2318
 
 (4, 2318)
-
-{{< cta2 >}}
 
 ## Reconstruction
 

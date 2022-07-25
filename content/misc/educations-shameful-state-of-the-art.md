@@ -76,6 +76,8 @@ One of the questions I hear often from friends is, "I want to learn to code but 
 
 My own wife recently went to one of [boot.dev's](https://boot.dev/) biggest competitors and it took her 30 minutes just to _start_ a course because she didn't have enough knowledge to know what she was looking for. We have big plans to improve boot.dev's onboarding process. It will become seamless as we algorithmically generate programs (lists of courses) that can get our users started quickly and progressing to their dream goal or career.
 
+{{< cta2 >}}
+
 ## Common Concerns
 
 ### What about making friends and socializing at College? College is about the experience as much as the education.

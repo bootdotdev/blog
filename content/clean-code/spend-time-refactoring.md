@@ -41,13 +41,13 @@ When you get deep into spaghetti code, it can be really hard to find bugs. In a 
 
 Ideally, you would do the refactoring _first_ and _then_ fix the bug (assuming the bug still exists after a good refactoring). Unfortunately, oftentimes there isn't enough time to refactor a project before fixing a critical bug. For this reason, we should **always be refactoring** so that bug fixes can happen quickly without having a negative impact on code quality.
 
+{{< cta2 >}}
+
 ## Slow to Add Features
 
 I don't want to beat a dead horse, the reasoning here is largely the same as with bug fixes. Adding features to a messy codebase just makes it messier. It's like frosting a cake that's already been dropped on the ground. I guess the cake would taste better if you still felt inclined to eat it, but you've made the inevitable clean-up harder.
 
 ![Happy Birthday to the Ground](/img/800/happy_birthday_to_ground.gif)
-
-{{< cta2 >}}
 
 ## Try It Yourself
 

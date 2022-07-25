@@ -28,6 +28,8 @@ Contrast that syntax with JavaScript's ternary, which feels a little different.
 const largerHeight = bobHeight > jillHeight ? bobHeight : jillHeight;
 ```
 
+{{< cta1 >}}
+
 ## The formal structure of a ternary
 
 Now that you've seen an example, it's important to understand what's going on. As you may have gathered from the name *ternary*, it takes 3 operands:
@@ -55,6 +57,8 @@ print(is_even_message(5))
 # Number is odd!
 ```
 
+{{< cta2 >}}
+
 ## Example of a nested ternary
 
 First of all, I need to get this off my chest: *please don't nest your ternaries!* It's confusing and hard to read. That said, here's how you can do it if you really want to.
@@ -65,8 +69,6 @@ wifes_account = 200
 
 print("We have the same" if my_account == wifes_account else "I have more" if my_account > wifes_account else "Wife has more")
 ```
-
-{{< cta1 >}}
 
 ## Should you use ternaries in the Python programming language?
 

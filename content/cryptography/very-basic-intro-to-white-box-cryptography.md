@@ -39,6 +39,8 @@ In order to successfully hide the keys given this scenario, according to [Brecht
 2. **Tabularizing**: Transform all other operations to also use lookup tables. This is possible because lookup tables can describe any function.
 3. **Randomization and Delinearization**: We create an encoded chain of lookup tables that has the same functionality as the original chain, but hides the key. Now, using this new chain, we have an obfuscated algorithm. For reading on the details of this operation, see [here](https://www.esat.kuleuven.be/cosic/publications/thesis-152.pdf#page=74).
 
+{{< cta2 >}}
+
 ## Is White-Box Secure In Practice?
 
 Well, it depends. Security through obscurity is a well-known bad-practice in the cryptography industry, but there is an argument to be made that white-box crypto is more than just obfuscation. A recent [2018 paper](https://eprint.iacr.org/2018/098.pdf) on cracking white-box may be insightful.

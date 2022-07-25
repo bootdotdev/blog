@@ -58,6 +58,8 @@ It doesn’t end here though. Tons of individuals have dedicated their time to c
 
 It’s also worth mentioning that freeCodeCamp’s tutorials are integrated with YouTube, so you’ll find most, if not all, of their online classes there too. Needless to say, there’s an endless supply of resources here for you to learn JavaScript your own way.
 
+{{< cta2 >}}
+
 ## #4 Learn JavaScript the fast way
 
 In today’s world we are faced with an endless pursuit to make things faster and more efficient, and picking up a new skill is no different.
@@ -69,8 +71,6 @@ The first way is to start by [finding a project](/javascript/javascript-projects
 Another way is by joining an open-source JavaScript project. These are free projects and frameworks already created that you can edit and work with yourself. You’ll find a lot of these on GitHub, and they offer risk-free opportunities to work with the language.
 
 However, if you want a project-based learning method, but don’t feel comfortable enough to jump into creating your first program, Boot.dev does employ a series of mini-projects throughout their courses, so you get the efficiency of project-based learning, but in a more secure environment.
-
-{{< cta2 >}}
 
 ## #5 The fun way
 

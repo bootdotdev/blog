@@ -63,6 +63,8 @@ For the last few years, I've worked primarily on a Macbook Pro with the latest v
 
 I almost always deploy using Docker on a Linux server (Debian typically), so my local environments of Mac OS and Ubuntu are usually pretty damn close to what's going on in production. I'm usually not writing code that interacts too heavily with the operating system anyhow.
 
+{{< cta2 >}}
+
 ## Bash Profile
 
 I often have to connect to remote databases or APIs using a jump box for security reasons. When this is the case, I fill out my Bash Profile with alias commands that forward local ports to those services. For example:

@@ -52,6 +52,8 @@ The main problem is that it’s aimed at literal children. But honestly, when I 
 
 Price comparison: literally free.
 
+{{< cta2 >}}
+
 ## freeCodeCamp: Learn Web Development
 
 freeCodeCamp has a very relatable origin story. Back in 2014, a teacher named Quincy Larson wanted to learn to code so he’d be able to make better learning tools for his students. His journey was so circuitous and painful that he was inspired to create freeCodeCamp as a way to save anyone else from having to do the same thing as him.
@@ -61,8 +63,6 @@ Compared to Codecademy, FreeCodeCamp is like an older (and free) sister in the w
 The only downside is that it’s heavily based on web development.
 
 Price comparison: again, free. It’s in the name.
-
-{{< cta2 >}}
 
 ## Coursera: Get High-Quality Video Tutorials
 

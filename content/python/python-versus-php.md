@@ -44,13 +44,13 @@ Python, on the other hand, requires a bit more work. It comes pre-installed on m
 
 Generally, installing Python on macOS and Linux isn’t a problem. It can be a little trickier installing it on Windows, but seeing as [Microsoft is an avid Pythonista](https://medium.com/microsoft-open-source-stories/python-at-microsoft-flying-under-the-radar-eabbdebe4fb0#:~:text=Python%20is%20an%20important%20piece,and%20outside%20of%20the%20company.), it’s definitely still possible.
 
+{{< cta2 >}}
+
 ## Python versus PHP: Popularity
 
 When it comes to popularity, Python leads by a wide margin. No matter which ranking list you look at, whether it’s for general use or specifically for web development, Python is more popular than PHP. Not only that, but Python’s ratings are five times higher than PHPs. If you look away from ratings to actual usage on the web though, as I mentioned before, [PHP is used by 78% of websites](https://w3techs.com/technologies/details/pl-php) on the server-side.
 
 The main reason PHP is so widely used comes down to legacy websites, and WordPress. WordPress is an open-source no-code tool for managing websites, and since it’s written in PHP and is so popular, PHP gets a nice usage bump. WordPress also used to be more loved than it is today, so any old websites built using PHP back when it was cool are likely still using it.
-
-{{< cta2 >}}
 
 ## Python versus PHP: Libraries
 

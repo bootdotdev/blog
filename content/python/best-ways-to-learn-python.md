@@ -56,6 +56,8 @@ However, there's no better way to learn Python on your own. If you want to go yo
 
 Here’s an [hour-long lecture](https://www.youtube.com/watch?v=kqtD5dpn9C8) I really enjoyed by a YouTuber called Programming with Mosh. Also, freeCodeCamp has most, if not all, of their tutorials integrated with Youtube, so there’s no short supply of information. 
 
+{{< cta2 >}}
+
 ## The Best Way to Learn Python Fast
 
 If you want to learn Python quickly, you're in for a tough ride. The truth is that learning any programming language is hard as I have reason to know. I've learned 3 over the years: R, Python, and SQL. 
@@ -69,8 +71,6 @@ If you want to learn Python fast, the best way is to [find a project](/python/py
 **Read more:** 17 [Python projects for beginners we recommend](/python/python-projects-for-beginners/).
 
 Boot.dev itself also employs a number of smaller projects throughout its courses as a part of its interactive focus on learning. So if you want a more structured environment, but still want the engagement of projects, then boot.dev is also a great choice for learning this way.
-
-{{< cta2 >}}
 
 ## The Best Way to Learn Python the Fun Way
 

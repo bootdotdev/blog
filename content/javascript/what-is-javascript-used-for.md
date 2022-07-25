@@ -50,6 +50,8 @@ So many of the popular JavaScript mobile app development frameworks are intended
 
 By using JavaScript’s service workers, you can optimize how your mobile app (or web app) behaves with a slow or no internet connection by maximizing the use of the cache and storing network requests. A great metric to follow is how long it takes to get meaningful content on the screen for the user. You want to create a great experience for your users, regardless of how good their internet connection is. You can use the service worker API with Node.js to reliably and instantly load your app’s content onto the screen.
 
+{{< cta2 >}}
+
 ## Machine Learning with JavaScript
 
 And other than those three uses, what is JavaScript used for? Although Python tends to dominate the machine learning stage, there is a growing group of developers that choose to implement machine learning models using JavaScript. The famous Python machine learning package TensorFlow also has a JavaScript version, TensorFlow.js. TensorFlow.js can be used to develop machine learning models and makes machine learning models directly available in the browser or on the backend, using Node.js.
@@ -57,8 +59,6 @@ And other than those three uses, what is JavaScript used for? Although Python te
 The classic way in which machine learning developers make their models available is by having them run on a server and allow requests and share results via an API. There are several situations, however, where it is advantageous to run the model on the end user’s device. For example, the model that recognizes the faces of your contacts in the photos that are stored in your phone could be run locally on your device, so your photos remain private and never leave your device.
 
 Another advantage of machine learning with JavaScript is that your [machine learning application](https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/) can run in all modern browsers, which makes it accessible to a lot more people than if they have to set up their development environment to get your Python code running. TensorFlow.js allows you to convert Python TensorFlow models to run in the browser too, so you can take any work you’ve already done there and convert it. There are tons of cool projects that use TensorFlow.js for live tools, like YouTube’s LipSync or this model used to classify [baseball pitch types](https://github.com/tensorflow/tfjs-examples/tree/master/baseball-node).
-
-{{< cta2 >}}
 
 ## Career Possibilities with JavaScript
 

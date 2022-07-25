@@ -118,6 +118,8 @@ The tools a developer uses will vary quite wildly depending on where they work. 
 - Atom
 - Vim
 
+{{< cta2 >}}
+
 ## Programming Languages
 
 - Golang

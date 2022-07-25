@@ -170,6 +170,8 @@ Having a personal blog is something I am very passionate about. I believe anybod
 
 The style of this written tutorial assumes that you don't know anything. That's why I like it for beginners, even though creating the front end of your blog is pretty advanced. 
 
+{{< cta2 >}}
+
 ## These seventeen JavaScript projects for beginners are a good place to start
 
 There are so many more libraries and frameworks beyond what I've provided you in this article, but this is a good starting point for beginners. I referred to a couple of other frameworks that you might be interested in checking out throughout the course of this article. As you dive deeper into JavaScript, you'll be exposed to more and more of these. There are practically countless small JavaScript projects for practice you can find, using any of the frameworks that appeal to you.

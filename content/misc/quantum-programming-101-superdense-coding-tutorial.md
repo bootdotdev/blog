@@ -24,6 +24,8 @@ First a bell pair consisting of 2 qubits is prepared. Where q0 is the senders qu
 
 Then a CNOT operation is performed with q0 being the control and q1 being the target.
 
+{{< cta2 >}}
+
 ## Step 2: Encode The Information On To Q0
 
 Next the sender has to encode the information they want to send on to q0 by applying certain operations to it.
@@ -32,8 +34,6 @@ Next the sender has to encode the information they want to send on to q0 by appl
 - If they want to send 01 then they perform a Pauli-X operation where q1s state is flipped.
 - If they want to send 10 then they apply a Pauli-Z gate.
 - If they want to send 11 then apply a Pauli-Z gate followed by a Pauli-X gate
-
-{{< cta2 >}}
 
 ## Step 3: Receiver Decodes the Information
 

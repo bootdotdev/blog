@@ -64,8 +64,6 @@ If you’re looking to get a job in anything that isn’t programming, R is the 
 
 [source](https://st1.ning.com/topology/rest/1.0/file/get/3840441960?profile=original)
 
-{{< cta2 >}}
-
 ### Why it’s popular for this purpose
 
 In their R versus Python tutorial, [Datacamp writes](https://s3.amazonaws.com/assets.datacamp.com/email/other/Python+vs+R.pdf) that R is used by “statisticians, engineers, and scientists without computer programming skills. It’s popular in academia, finance, pharmaceuticals, media, and marketing.” 
@@ -77,6 +75,8 @@ R is the most popular coding language for people who don’t code in their jobs 
 ### The best way to learn R for non-programmers
 
 Especially for folks who don’t have or want a job in programming, I find it’s [best to find a project you really care about and set out a specific goal](https://towardsdatascience.com/the-fastest-way-to-learn-to-code-be-invested-in-your-numbers-ccb24d55d856). You don’t have the necessity from your job - you can get away with not knowing how to code, for now anyway. You don’t have any prior experience coding, so the learning curve will be steep. You need something that you’re deeply passionate about. Only that will get you over the frustrating hurdles, knowledge gaps, and user errors that come with every coder’s beginner journey.
+
+{{< cta2 >}}
 
 ## 3. The most popular coding language to increase your salary: Perl 
 
@@ -93,8 +93,6 @@ Opensource.com lists Amazon, Boeing, BBC and Northrop Grumman among the many big
 The main reason it’s hated is perhaps a legacy of the factors Some Dude Blogs listed above - a place where the open-source nature let this language down and allowed its good name to be dragged through the mud. 
 
 However, with the latest releases of Perl that fixes many user experience issues and the upcoming release of Perl 7, it may be experiencing a slow climb in popularity again, especially given its high-demand nature among employers who, despite all its flaws as a programming language, find Perl to be an excellent skill to hire for, which earns it a spot on this list of most popular coding languages.
-
-{{< cta3 >}}
 
 ### The best way to learn Perl for coders who want a higher salary
 
@@ -149,6 +147,8 @@ It’s also standardized, meaning that updates and releases with new versions fr
 ### The best way to learn JavaScript for web developers
 
 If you search “learn JavaScript,” it’s easy to become overwhelmed with the quantity of information, tutorials, and guides. It’s hard to even know which frameworks and libraries you need. That’s why I recommend a hierarchical approach that lets you systematically and consistently progress with learning the most popular coding language for web developers. Some examples include [JS: The Right Way](http://jstherightway.org/), and [boot.dev's Basic Intro to Coding](https://boot.dev/learn/learn-code-javascript/).
+
+{{< cta3 >}}
 
 ## 7. The most popular coding language to quickly increase your salary: Go
 

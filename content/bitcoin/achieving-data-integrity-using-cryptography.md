@@ -42,6 +42,8 @@ There are many types of checksums, but the best checksums are typically [cryptog
 
 The [SHA-256](/cryptography/how-sha-2-works-step-by-step-sha-256/) hash function is often used to create checksum digests.
 
+{{< cta2 >}}
+
 ## Example - Validating a Real Checksum
 
 A common use case for checksums is the verification of a download. In this example, we are going to download the Bitcoin Core node software and verify its integrity. For an updated version go [here](https://bitcoin.org/en/download) or just follow along to use version 0.19.1. I will assume you are on Mac OS, for a different OS follow the instructions on the [download page](https://bitcoin.org/en/download).

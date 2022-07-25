@@ -38,6 +38,8 @@ OpenPGP, the protocol to which PGP and GPG adhere, can really be looked at as a 
 - Hashing and [Digital Signatures](/cryptography/hmac-and-macs-in-jwts/)
 - Compression
 
+{{< cta2 >}}
+
 ## Putting It All Together
 
 Let's go through each step of how a PGP message exchange works:
@@ -56,8 +58,6 @@ Let's go through each step of how a PGP message exchange works:
 ![PGP Step by Step flowchart](/img/800/Untitled-Project-792x1024.jpg)
 
 That's it! If you have questions be sure to reach out on [Twitter](https://twitter.com/wagslane).
-
-{{< cta2 >}}
 
 ## Which Algorithms are Used?
 

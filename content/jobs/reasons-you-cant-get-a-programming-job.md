@@ -91,6 +91,8 @@ If you’re getting to the interview stage and still can’t get a programming j
 
 This shows interviewers that you’re not just a superb coder, but you’re a good interviewer, and hence a good communicator. 
 
+{{< cta2 >}}
+
 ## 4. You don’t have experience
 
 Don't blame yourself too much if you can't get a programming job for this reason. This is a problem compounded by the job listings posted by employers. It seems like every employer needs coders who have at least five years of experience in a language that only came into creation one year ago. This leads to coders applying for jobs that might be considered a bit of a stretch in terms of their applicable experience.
@@ -116,8 +118,6 @@ No, you don’t need five years experience. But if you can't get a programming j
 Do you have a blog, GitHub repo, or another portfolio where you can demonstrate your commitment to programming? Nathanaël Cherrier, Lead JavaScript software engineer at Ferpection, lists some advantages in [his blog post](https://www.welcometothejungle.com/en/articles/successful-personal-blog-developer) on why developers should start blogs: “When you write on the Internet you become more visible than a regular developer. Who are you hoping will read your post? Future colleagues? A recruiter from that awesome company you’d like to work at? The committee responsible for choosing the speakers of a conference you’d like to talk at? All these people will be interested in both your technical skills and your editorial skills.” 
 
 If you can't get a programming job because of a lack of experience, sharing your passion can be a great way to prove to employers that you can do what they need you to do. 
-
-{{< cta2 >}}
 
 ## 5. You’re trying to master everything
 

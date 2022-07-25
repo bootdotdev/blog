@@ -44,13 +44,13 @@ You can view different collections of topics, look at the most-voted posts withi
 
 Reddit to me is more like a random collection of links to articles, tutorials, conferences, hackathons, etc. It’s a good place to show off cool projects or get inspired by others, but if you’re looking for a tribe of like-minded people to get through the journey of entering the software industry, Reddit will leave you feeling isolated and overwhelmed.
 
+{{< cta2 >}}
+
 ## [Hashnode](https://hashnode.com/)
 
 Hashnode provides a great way to discover and digest tech blogs. The platform allows you to follow individual tech bloggers and connect with them. They have a lot of programming challenges and explanations of the basics, so it’s a good place to get grounded and stretch the application of your skills.
 
 This platform is more focused on giving writers with technical knowledge a place to post their content. This means it’s a good place to find well-written content from those with the technical know-how, but it isn’t a supremely social environment. The platform is not conducive to getting specific help for a problem or establishing deeper connections. It’s more like following someone than getting to interact with them.
-
-{{< cta2 >}}
 
 ## [Hacker News](https://news.ycombinator.com/)
 

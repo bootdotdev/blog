@@ -85,6 +85,8 @@ Typescript’s “performance” per se comes in during the actual coding time. 
 
 Overall, comparing TypeScript’s and JavaScript’s performance is a bit of a misnomer since they’ll always perform the same. The real difference is seen in the way the languages are written.
 
+{{< cta2 >}}
+
 ## JS vs TS for Web Development
 
 JavaScript was built for the World Wide Web, so it should come as no surprise that it slays in web development.
@@ -100,8 +102,6 @@ For the back-end, JS has the famous Node.js, a server-side JS runtime environmen
 Then there’s React.js, a front-end library that essentially upgrades JavaScript’s client-side user experience.
 
 TypeScript simply adds static types to JavaScript programs, offers rich support for JSX, and safely models mutability. It makes writing correct, maintainable code easier. TS can support back-end and front-end development, just like JavaScript. With that in mind, there isn't a clear winner for which is better on the web.
-
-{{< cta2 >}}
 
 ## TypeScript vs JavaScript for Enterprise Projects
 

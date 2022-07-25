@@ -62,6 +62,8 @@ In short, you should care about generics because they mean you don't have to wri
 
 Generics will finally give Go developers an elegant way to write amazing utility packages.
 
+{{< cta2 >}}
+
 ## What is a constraint?
 
 Sometimes you need the logic in your generic function to know a thing or two about the types in question. Constraints are [interfaces](/golang/golang-interfaces/) that allow you to write generics that only operate within the constraint of a given interface type. In the first example above, we used the `any` constraint, which is comparable to the empty `interface{}`, because it means the type in question could be anything.
@@ -119,8 +121,6 @@ func main() {
     // prints 1 <nil>
 }
 ```
-
-{{< cta2 >}}
 
 ## Custom constraints
 

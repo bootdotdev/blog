@@ -56,6 +56,8 @@ As you can see, this form of encryption can be quite useful. Here are some key p
 - Computers can quickly use the public key to encrypt a message, and quickly use the private key to decrypt a message.
 - Computers require a _very_ long time (millions of years) to derive the original data from the encrypted message if they don’t have the private key.
 
+{{< cta2 >}}
+
 ## How it Works: The Trapdoor Function
 
 The crux of all public-key cryptographic algorithms is that they each have their own unique trapdoor function. A trapdoor function is a function that can only be computed one way, or at least can only be computed one way _easily_ (in less than millions of years using modern computers).
@@ -81,8 +83,6 @@ In RSA, which is arguably the most widely used public-key cryptosystem, the trap
 In the example above the public key is a very large number, and the private key is the two prime factors of the public key. This is a good example of a Trapdoor Function because it is very easy to multiply the numbers in the private key together to get the public key, but if all you have is the public key it will take a very long time using a computer to re-create the private key.
 
 > In real cryptography, the private key would need to be 200+ digits long to be considered secure.
-
-{{< cta2 >}}
 
 ## What Makes Elliptic Curve Cryptography Different?
 

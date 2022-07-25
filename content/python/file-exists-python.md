@@ -66,6 +66,8 @@ else:
     print("not found :(")
 ```
 
+{{< cta2 >}}
+
 ## Use pathlib.Path(path).is\_symlink() to check for only symlinks
 
 A [symlink](https://en.wikipedia.org/wiki/Symbolic_link) is a path that points to, or aliases another path in a filesystem.

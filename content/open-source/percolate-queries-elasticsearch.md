@@ -129,6 +129,8 @@ Response:
 
 Because the count was greater than the threshold, the percolate query was returned! As you can see, this works great for an alerting system because users can create "alerts" which we store as percolating queries. For example, a user can create a query that triggers when a twitter post mentions their name, or when a temperature in a city is above a certain threshold.
 
+{{< cta2 >}}
+
 ## Use it
 
 Percolate queries are perfect for when you have an ever changing set of criteria (probably created by users) that many documents need to be checked against. I've used it for alerting and auto-tagging systems in the past. Let me know on twitter if you have questions or can think of another interesting use case for them!

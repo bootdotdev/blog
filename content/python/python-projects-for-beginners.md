@@ -127,6 +127,8 @@ This project is for another one of the social media addicts out there like me. I
 
 I like this tutorial because you can do what you want with it. If you want to just run it, run it! But you can also look into the more complex script and try to figure out what's going on. Take what you want from this learning experience. 
 
+{{< cta2 >}}
+
 ## 5 Python Projects using your own data
 
 What is a project, but just a question that needs data to answer it? If none of the above 12 Python projects for beginners interest you, the good news is that there's literally an unlimited number of projects available for you. All you need is a pinch of creativity and a burning passion to know more.
@@ -166,8 +168,6 @@ It shouldn't be a surprise to anybody that AWS has an [absolutely enormous regis
 Naturally, AWS doesn't own this data - they just host it for a variety of government organizations, researchers, businesses, and individuals that have chosen to make this open. Their GitHub repo also contains a few examples of how to use the data.
 
 Have a browse, poke around, and find what looks interesting to you.
-
-{{< cta2 >}}
 
 ## If you're a beginner, The best Python projects should be deeply interesting to you.
 

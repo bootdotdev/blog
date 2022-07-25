@@ -102,6 +102,8 @@ You can see a list of Coursera’s Python courses [here](https://www.coursera.or
 
 Educative.io is another online learning platform that usually costs money. However, for reasons best known to themselves, they do offer a [totally free course to learn Python 3 from scratch](https://www.educative.io/courses/learn-python-3-from-scratch/xlV10w35oPq). It takes 10 hours, it doesn’t have a chance to go that deep, but it’s a decent primer.
 
+{{< cta2 >}}
+
 ## Learn Python online with paid tutorials that are worth the money
 
 Free does the job, but sometimes you get what you pay for. A lot of those freemium places to learn Python online just end up wasting your time because they’re trying to funnel you into making a purchase. If you’re struggling with the freemium options, or you need a certificate, these online tutorials are worth the money.
@@ -129,8 +131,6 @@ You can learn everything you need to learn by auditing these courses, which is t
 Codecademy keeps their freemium option pretty sparse on purpose. Once you finish those eleven free courses, I recommend you at least look at their paid courses. [Codecademy Pro](https://www.codecademy.com/catalog/language/python) costs $40/month (or $19.99 if you get billed annually), but comes with real-world projects and more step-by-step guidance.
 
 > "Wrong attitude - Pro will make me learn this. Right attitude - I’m really learning this - I need more and more to do so I can learn more - How can I better use what i’ve already learned- Pro will help me scratch my learning itch. It is a knowledge multiplier, not a knowledge firestarter." – [Fight_dragons](https://discuss.codecademy.com/t/is-pro-worth-it/439354/2) on the Codecademy forum.
-
-{{< cta2 >}}
 
 ## What are the best places to learn Python online? 
 

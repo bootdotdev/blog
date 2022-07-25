@@ -43,6 +43,8 @@ People often lazily use Cryptography in place of the word cryptology, but in rea
 
 Cryptanalysis is the inverse of cryptography, this is, in contrast, the study of how to **break** secret codes, not make them. Having a solid understanding of cryptanalysis is fundamental in cryptography however, as one must know their enemy.
 
+{{< cta2 >}}
+
 ## Honorable Mention - Cryptocurrency
 
 > A **cryptocurrency** is a digital asset designed to work as a medium of exchange that uses strong cryptography to secure financial transactions, control the creation of additional units, and also verify the transfer of assets.

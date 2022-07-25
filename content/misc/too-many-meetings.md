@@ -52,6 +52,8 @@ Now that we know the goal of a good meeting is to communicate in ways that are m
 - **Good meetings are scheduled for a reason, bad meetings find a reason to fill the schedule.** For example, it's generally a bad idea to have a recurring "engineering all-hands" every Tuesday at 2. How about when something interesting happens that concerns all engineers you schedule the meeting then?
 - **Good meetings end with an action item or a decision_._** 90% of the time, the action item should not be another meeting.
 
+{{< cta2 >}}
+
 ## Turn down those meetings
 
 ![smokey bear meme useless meetings](/img/800/Add-a-heading-1024x576.jpg)

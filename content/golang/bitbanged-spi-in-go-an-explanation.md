@@ -48,6 +48,8 @@ SPI stands for serial peripheral interface. I don’t want to get too far off tr
 - Hardware: Breadboard, jumper wires, an ADC that uses an SPI interface
 - OS: [Raspbian](https://www.raspberrypi.org/downloads/)
 
+{{< cta2 >}}
+
 ## Implementation
 
 First things first, I needed a great GPIO package. For this project, we built the code to be able to use any of the GPIO pins on the Pi. I used [Dave Cheney’s library](https://github.com/davecheney/gpio)

@@ -64,6 +64,8 @@ R also has the [Shiny](https://shiny.rstudio.com/) package for dashboard creatio
 
 **Overall**, if you have a team of dedicated programmers that will benefit from the use of a multipurpose language like Python, then choose Python. But, if you’re not dedicated to programming, then R is a better choice.
 
+{{< cta2 >}}
+
 ## R vs Python Salary
 
 While the price is right for both R and Python, Python does have the slight upper hand.
@@ -77,8 +79,6 @@ While it seems like Python is the obvious winner, I argue this reflects the diff
 That said, Python does offer a more well-rounded choice and better repertoire with developers.
 
 **Conclusion:** Python is better for higher salaries and is more in-demand by employers.
-
-{{< cta2 >}}
 
 ## R vs Python Performance
 

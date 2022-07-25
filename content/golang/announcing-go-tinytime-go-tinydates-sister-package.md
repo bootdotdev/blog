@@ -54,6 +54,8 @@ As the TinyTime [Readme](https://github.com/wagslane/go-tinytime/blob/master/REA
 
 The tinytime.TinyTime API largely mirrors that of time.Time. The only methods missing are the ones that make no sense without timezone support. You can swap out the vast majority without any changes. Check out the godoc for reference: [https://godoc.org/github.com/wagslane/go-tinytime](https://godoc.org/github.com/wagslane/go-tinytime).
 
+{{< cta2 >}}
+
 ## TinyDate
 
 If you need a larger date range, be sure to check out the [intro to Go-TinyDate](/open-source/i-wrote-go-tinydate-the-missing-golang-date-package/).

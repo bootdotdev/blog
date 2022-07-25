@@ -80,6 +80,8 @@ It’s not all bad for Python though. Some extensions help increase performance,
 
 In the end, Rust’s origin is founded on speed and stability, and it shows.
 
+{{< cta2 >}}
+
 ## Rust vs Python for Machine Learning
 
 Machine learning and Artificial Intelligence are arguably the “last frontier” of computer science, and needless to say, it’s a fascinating time to get involved.
@@ -101,8 +103,6 @@ Rust lacks the libraries and frameworks needed to manage ML, and tech giants and
 The community truly does make or break a language's potential in any field, because it directly influences the demand and creation of tools to support them. Overall, Python has the intrinsic and communal support to dominate as a machine learning language.
 
 **Hot tip:** Machine learning is essentially algorithms. Algorithms that leverage statistics to learn patterns and behaviors, so the more [advanced you are with algorithms](https://boot.dev/learn/learn-advanced-algorithms) the better your ML skills become.
-
-{{< cta2 >}}
 
 ## Rust vs Python for Data Science
 

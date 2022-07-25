@@ -70,6 +70,8 @@ That being said, Python’s web-app framework "Django" is a viable second option
 
 So, Ruby or Python for web development? Both frameworks give you the generic functionalities to build a web application; they help you reuse code which saves you time, money, and energy - pretty much everything you value as a developer. I'd recommend using Django for the same reasons you use Python – if you're relying on machine learning and AI for core features. If you're expecting rapid prototyping, fast growth, and lots of changes down the road, I'd recommend Ruby on Rails.
 
+{{< cta2 >}}
+
 ## 5. Ruby vs Python: Which is best for your career?
 
 Python vs Ruby: the jobs edition. I'd recommend Python to help you get your foot in the door as a developer. However, if you enjoy the rough and tumble of startup life later in your career, learning Ruby and Rails could be extremely valuable.
@@ -79,8 +81,6 @@ As I said above, there are definitely more options out there for people who know
 However, there's a huge demand for specialized Ruby Developers. Remember how many web applications are built using Ruby on Rails? Those aren't going to change anytime soon. And they need experienced Ruby on Rails developers to help them maintain and maybe even grow those websites. That's not even talking about the new web apps that will be built using Ruby on Rails.
 
 [StackOverflow’s survey](https://insights.stackoverflow.com/survey/2021#work-salary) suggests Ruby developers may _currently_ earn a higher salary - the average salary is around $80k, with 11-12 years of experience. Python, by comparison, earns an average salary of $61k with 9-10 years of experience. Interestingly, this may be a remnant of old trends. [Current predictions](https://www.bitdegree.org/tutorials/ruby-vs-python/) looking at job postings, rather than the salary of existing developers, suggest that Python developers earn more than Ruby developers today.
-
-{{< cta2 >}}
 
 ## 6. Ruby vs Python: Which is best for Artificial Intelligence/Machine Learning/Deep Learning?
 

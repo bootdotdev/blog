@@ -57,11 +57,11 @@ Associate's degrees and full bachelor's degrees can be great options for prospec
 
 If however, you're interested in getting the same quality programming education on a more flexible schedule, it could make sense to opt for an [online CS program](/computer-science/comprehensive-guide-to-learn-computer-science-online/) that offers [certificates](/computer-science/guide-to-certificate-in-computer-science/).
 
+{{< cta2 >}}
+
 ## How much do computer programmers make?
 
 Programmers and software engineers are some of the most well-compensated career paths, especially for not requiring a four-year degree. As you've seen from the jobs listed above, and if you need more information you can check out my other article, [How Much Do Software Engineer's Make?](/jobs/how-much-do-software-engineers-make/), engineers in the US typically make low six figures per year. Salaries in the $70k-150k are commonplace.
-
-{{< cta2 >}}
 
 ## What is an associate's degree?
 

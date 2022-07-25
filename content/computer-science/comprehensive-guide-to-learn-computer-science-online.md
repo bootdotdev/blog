@@ -79,6 +79,8 @@ Like myself, you may have been hearing for the past 15 years that "there are mor
 
 We've recently had an influx of thousands of self-taught developers or Bootcamp grads that are all looking for entry-level jobs, but don't have the fundamental math and CS skills to solve more technically challenging problems. By having a deeper understanding of computational theory and algorithms, you can set yourself apart to land jobs faster and command a higher salary when you get there.
 
+{{< cta2 >}}
+
 ## Required Topics
 
 ### 1 - Coding
@@ -285,8 +287,6 @@ Computational theory, apart from pure math, is one of the most "pure" computer s
 - Learn about the Halting problem and turning machines
 - Study finite automata and how they can be used to model real-world problems
 - Understand the limits of computational models and the real-world systems that rely on them
-
-{{< cta2 >}}
 
 ## Optional Topics - Choose at Least 2
 

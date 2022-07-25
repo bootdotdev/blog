@@ -52,6 +52,8 @@ To solve this problem, use logging. Logging is an elegant solution to understand
 
 Logging allows you to control whether the statements are outputted and even where they end up. You could output them to a file or silence them entirely. You can also annotate each log with a category. They typically are something like `verbose`, `information`, `debug`, `warning`, `error`, and `critical`.
 
+{{< cta2 >}}
+
 ## Python Best Practices #4: Testing
 
 Testing is a crucial part of software development. Any piece of code that goes into production should be tested, and preferably on many different levels. Tests range from tiny [unit tests](/clean-code/writing-good-unit-tests-dont-mock-database-connections) all the way up to all-encompassing end-to-end or acceptance tests.You can read more about the software [test hierarchy here](https://www.softwaretestinggenius.com/simple-explanation-of-hierarchy-of-testing-levels/).
@@ -59,8 +61,6 @@ Testing is a crucial part of software development. Any piece of code that goes i
 [Unittest](https://docs.python.org/3/library/unittest.html) is a standard Python package that serves as a testing framework. It was inspired by the ubiquitous [JUnit](https://junit.org/junit5/). Unittest “supports test automation, sharing of setup and shutdown code for tests, aggregation of tests into collections, and independence of the tests from the reporting framework”
 
 Although unittest is a handy framework, there is still room for improvement. [Pytest](https://docs.pytest.org/en/6.2.x/) is a great package for elevated testing. For example, using pytest, you can easily parametrize fixtures and functions using the parametrize decorator, where you can pass in arguments for tests along with the corresponding expected output.
-
-{{< cta2 >}}
 
 ## Python Best Practices #5: Architecture
 

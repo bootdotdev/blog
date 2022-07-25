@@ -46,11 +46,11 @@ If you hop into a Github repo and find something you don't like, don't immediate
 
 This will help mitigate the creation of pointless PRs that will never be accepted on the basis of a flawed premise.
 
+{{< cta2 >}}
+
 ## 4. Don't Re-Open Known Problems/Solutions
 
 Some codebases have thousands of open issues, take the [Go language](https://github.com/golang/go) project or the [nocode repository](https://github.com/kelseyhightower/nocode) as an example. No one wants to read your duplicate issue or review your duplicate pull request. Make sure there isn't an existing open _or closed_ issue for what you are trying to address.
-
-{{< cta2 >}}
 
 ## 5. Squash Those Commits
 

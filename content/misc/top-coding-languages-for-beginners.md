@@ -74,6 +74,8 @@ Python is great for educational purposes, particularly for learning computer sci
 
 Python is also a great first choice if you have an interest in machine learning. Python is basically the go-to language for AI/ML and Tensorflow is the state of the art in that field.
 
+{{< cta2 >}}
+
 ## 4. Rust
 
 _Version one released: 2015 by Graydon Hoare_
@@ -95,8 +97,6 @@ Rust gives the programmer fine-grained control over how the code interacts with 
 ### Who Should Learn Rust First?
 
 Honestly, you probably shouldn't learn Rust _first_. That said, Rust is arguably the best _second_ language on the list. Rust is probably the most complex language on this list, but along with that complexity comes power, speed, and ultimately the opportunity for the developer to learn more about how code interacts directly with the hardware.
-
-{{< cta2 >}}
 
 ## Performance Benchmarks
 

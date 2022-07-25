@@ -53,13 +53,13 @@ As long as coders are specializing in a high-demand language or technology, then
 
 Seventy-five percent of respondents to Stack Overflow's survey learn new technologies _at least once per year_ to give students an idea of what they face in this career.
 
+{{< cta2 >}}
+
 ## How Much Does a Software Developer Make an Hour?
 
 Median salaries for software engineering careers rank among the highest in any industry. Evaluating developer work by the hour typically relates to freelance workers as most engineers work on salary. Fifty-one percent of Stack Overflow's survey respondents work between 40 and 45 hours per week, which puts software development on par with a typical full-time job in the U.S.
 
 According to [data compi](https://www.payscale.com/research/US/Job=Software_Engineer/Salary)[l](https://www.payscale.com/research/US/Job=Software_Engineer/Salary)[ed by PayScale](https://www.payscale.com/research/US/Job=Software_Engineer/Salary), the average hourly wage for software engineers at the end of 2020 is about $35 per hour. However, 10% of entry-level software developers make approximately $20 per hour while the top earners with the most experience and a broad skill set can _earn hundreds of dollars per hour_, especially if they're doing consulting work.
-
-{{< cta2 >}}
 
 ## How Much Does a Software Developer Make a Year Based on Job Title?
 

@@ -80,13 +80,13 @@ As you can see in the following benchmarks, Java fairly consistently performs be
 
 What really slows JavaScript down is that it is interpreting code at runtime. At \*roughly\* each line of execution, the interpreter has to convert the JavaScript into machine code, a very slow process to be doing at runtime.
 
+{{< cta2 >}}
+
 ## Classes and OOP
 
 In Java, **everything** is a class and OOP is enforced in an authoritarian manner.
 
 In JavaScript, classes are optional, and [functional programming](https://boot.dev/learn/learn-functional-programming) is possible and even [encouraged](/clean-code/benefits-of-functional-programming/) lately. JavaScript has most of the OOP paradigms available in the language. However, [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) is not as robust as it is with Java.
-
-{{< cta2 >}}
 
 ## Threading and Concurrency
 

@@ -44,6 +44,8 @@ Python, meanwhile, is a winner for me in terms of which language is best for abs
 
 In summary, when the question is “Golang vs Python: which is best for beginners?” for most people the answer will be Python.
 
+{{< cta2 >}}
+
 ## Golang vs Python: Which coding language is best for experienced coders?
 
 I may have given the game away in the previous section, but my answer for this is Golang (assuming you're not doing any [AI/ML work](#machine-learning)). Go is typically better for people who already know how to code and want to add another programming language to their arsenal. 
@@ -53,8 +55,6 @@ As I stated above, it was created based on existing problems Google engineers ha
 Go has a cleaner syntax with a tighter set of libraries.  It’s helpful for coders who want to become more productive with a less bloated syntax, as it all fits in your head - _if_ you’re an experienced coder. Additionally, it is built to scale up to enormous projects, the likes of which Google was trepidatiously facing back in the noughties when they were developing this language.
 
 If you’re an experienced coder, Golang is a great, easy, and useful language to pick up. You’ll be able to appreciate all the little improvements on other languages that a beginner might not appreciate, like the [naming conventions](https://golang.org/doc/effective_go#names). Go easily wins the battle of Golang vs Python for experienced coders.
-
-{{< cta2 >}}
 
 ## Golang vs Python: Which language is best for a job in computer science? 
 
