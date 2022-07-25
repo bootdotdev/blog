@@ -3,7 +3,7 @@ title: "A Complete Learning Path to Becoming a Backend Developer"
 author: Lane Wagner
 date: "2022-07-24"
 categories: 
-  - "computer-science"
+  - "backend"
 images:
   - /img/800/backend-dude-in-front-of-macbook.avif.webp
 ---
