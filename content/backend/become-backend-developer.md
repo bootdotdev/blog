@@ -1,12 +1,11 @@
 ---
 title: "A Complete Learning Path to Becoming a Backend Developer"
 author: Lane Wagner
-date: "2022-07-25"
+date: "2022-07-24"
 categories: 
   - "computer-science"
 images:
   - /img/800/backend-dude-in-front-of-macbook.avif.webp
-draft: true
 ---
 
 So you've decided that backend development is the career for you - congratulations! Many self-taught coders have a hard time deciding between all the various options, but it's *so much easier* to learn effectively if you have a clear goal, like backend work, in mind.
