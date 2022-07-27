@@ -9,7 +9,7 @@ images:
   - /img/800/pexels-photo-1108101.webp.webp
 ---
 
-I spent a lot of time scouring googling "Is computer science hard reddit" back when I was deciding whether I should go ahead and actually get a computer science degree. I wanted advice from someone who had boots on the ground in the computer science field.
+I spent a lot of time scouring google with queries like "Is computer science hard reddit" back when I was deciding whether I should go ahead and actually get a computer science degree. I wanted advice from someone who had boots on the ground in the computer science field.
 
 I was in a weird spot in my life. I already had a degree in biology from a decent school. But honestly, fieldwork didn’t appeal to me, nor did becoming a teacher. I didn’t care enough about any particular discipline to go in deeper. So I was at loose ends, working odd jobs while I decided on my next move.
 
