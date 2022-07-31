@@ -103,13 +103,13 @@ From: %v
 }
 ```
 
-As you can see, given an:
+As you can see, given an...
 
 * exercise path (which is just the filepath to the exercise receiving feedback)
 * username of the reporter
 * comment from the reporter
 
-The `CreateIssue` method simply creates a new issue in the repo with a static label. I've split the inputs into a Github issue "title" and "body" that's formatted to my needs so that I can resolve the issues as quickly as possible.
+...the `CreateIssue` method simply creates a new issue in the repo with a static label. I've split the inputs into a Github issue "title" and "body" that's formatted to my needs so that I can resolve the issues as quickly as possible.
 
 ## Why not use an out of the box solution?
 
