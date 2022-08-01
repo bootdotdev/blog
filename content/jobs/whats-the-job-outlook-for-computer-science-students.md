@@ -1,7 +1,7 @@
 ---
 title: "What Are the Career Options in Computer Science?"
 author: Taryn Wagner
-date: "2020-08-01"
+date: "2022-08-01"
 categories: 
   - "computer-science"
   - "jobs"
