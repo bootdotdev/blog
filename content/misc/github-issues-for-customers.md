@@ -1,5 +1,5 @@
 ---
-title: "How We Use Github Issues to Track Customer Feedback"
+title: "Using Github Issues to Hack Together A Feedback System"
 author: Lane Wagner
 date: "2022-07-31"
 categories: 
