@@ -14,13 +14,13 @@ Keeping track of time in code has long been every developer's nightmare. While n
 
 The first thing to know is that you probably don't need any third-party packages to manage times and dates in Go. The Go standard library's [time](https://golang.org/pkg/time/) package is very robust and can do almost anything you're going to want to do.
 
-The default `[time.Time](https://golang.org/pkg/time/#Time)` type represents an instant in time with nanosecond precision. It's a struct that has no exported fields, which means you'll never need to use a dot operator to access different fields. Instead, various methods are available to get the data you need. For example, [`time.Year()`](https://golang.org/pkg/time/#Time.Year) returns the year (as an integer) of the time object in question.
+The default [time.Time](https://golang.org/pkg/time/#Time) type represents an instant in time with nanosecond precision. It's a struct that has no exported fields, which means you'll never need to use a dot operator to access different fields. Instead, various methods are available to get the data you need. For example, [`time.Year()`](https://golang.org/pkg/time/#Time.Year) returns the year (as an integer) of the time object in question.
 
 The two most common ways to create a new time object are to use the current time, or to provide a date as input.
 
 ### Get the current time with time.Now()
 
-The `[time.Now()](https://golang.org/pkg/time/#Now)` function returns the current local time. If you work on the backend, it's likely you'll also want to immediately convert it to UTC.
+The [time.Now()](https://golang.org/pkg/time/#Now) function returns the current local time. If you work on the backend, it's likely you'll also want to immediately convert it to UTC.
 
 ```go
 currentTime := time.Now()
