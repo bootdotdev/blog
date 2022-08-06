@@ -10,7 +10,7 @@ images:
 
 With so many job boards out there, it can be terribly confusing to know where to start when you're looking for a programming job - especially if you're looking for your *first* programming job. I've found that where you search for jobs is just as important as other key preparation steps you should take in your job search, like building a [great resume](/computer-science/computer-science-resumes/) and [GitHub profile](/jobs/build-github-profile/).
 
-Below you won't find a crazy-huge list of 50 different sites - that's useless. Instead, I've compiled the 8 best places for you to look for new job openings. Take a look, and use the ones that are most useful to you.
+Below you won't find a crazy-huge list of 50 different sites - that's useless. Instead, I've compiled just a few of the best places for you to look for new job openings. Take a look, and use the ones that are most useful to you.
 
 ## Top 10 Traditional Job Boards
 
