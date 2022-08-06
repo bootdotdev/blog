@@ -228,7 +228,7 @@ It's rare to encounter an error when marshaling JSON data, but unmarshalling JSO
 
 ## Custom JSON marshaling
 
-While most types have a default way to encode and decode JSON data, you may want custom behavior from time to time. Luckily, the `json.Marshal` and `json.Unmarshal` respect the `[json.Marshaler](https://golang.org/pkg/encoding/json/#Marshaler)` and `[json.Unmarshaler](https://golang.org/pkg/encoding/json/#Unmarshaler)` interfaces. In order to [customize your behavior you just need to overwrite their methods](/golang/golang-interfaces/) `MarshalJSON` and `UnmarshalJSON` respectively.
+While most types have a default way to encode and decode JSON data, you may want custom behavior from time to time. Luckily, the `json.Marshal` and `json.Unmarshal` respect the [`json.Marshaler`](https://golang.org/pkg/encoding/json/#Marshaler) and [`json.Unmarshaler`](https://golang.org/pkg/encoding/json/#Unmarshaler) interfaces. In order to [customize your behavior you just need to overwrite their methods](/golang/golang-interfaces/) `MarshalJSON` and `UnmarshalJSON` respectively.
 
 ```go
 type Marshaler interface {
@@ -312,7 +312,7 @@ I want to point out that `map[string]interface{}` should _only_ be used when you
 
 ## Streaming JSON encodings
 
-Sometimes you don't have the luxury of reading all the JSON data to or from a `[]byte`. If you need to be able to parse data as it's streamed in or out of your program the `encoding/json` package provides `[Decoder](https://golang.org/pkg/encoding/json/#Decoder)` and `[Encoder](https://golang.org/pkg/encoding/json/#Encoder)` types.
+Sometimes you don't have the luxury of reading all the JSON data to or from a `[]byte`. If you need to be able to parse data as it's streamed in or out of your program the `encoding/json` package provides [Decoder](https://golang.org/pkg/encoding/json/#Decoder) and [Encoder](https://golang.org/pkg/encoding/json/#Encoder) types.
 
 ```go
 func NewDecoder(r io.Reader) *Decoder

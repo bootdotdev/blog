@@ -77,7 +77,7 @@ As I mentioned above in the comment, the default parsing and formatting layout f
 
 ## Time durations
 
-My bane in programming is when developers [don't include units](/clean-code/naming-variables/) in their calculations. Inevitably one developer assumes the variable `timeElapsed` (an int) represents seconds, it really represents milliseconds. In Go, this isn't a problem as long as everyone adheres to the standard of the `[time.Duration](https://golang.org/pkg/time/#Duration)` type.
+My bane in programming is when developers [don't include units](/clean-code/naming-variables/) in their calculations. Inevitably one developer assumes the variable `timeElapsed` (an int) represents seconds, it really represents milliseconds. In Go, this isn't a problem as long as everyone adheres to the standard of the [`time.Duration`](https://golang.org/pkg/time/#Duration) type.
 
 Durations are just a specific kind of `int64`. They represent the elapsed time between two instants as a nanosecond count. the only drawback is that the largest representable duration is ~290 years, which hasn't been a problem for me yet. There are several constants defined by the time package to represent some common durations.
 
@@ -91,7 +91,7 @@ oneDay := time.Hour * 24
 
 ## Convert between separate timezones and locations
 
-Every `time.Time` object is associated with a location, which is basically a timezone. 5 o'clock is meaningless if you don't know which timezone it's in. Locations are defined by the `[time.Location](https://golang.org/pkg/time/#Location)` type, which, like the `time.Time` type, is a struct with no exported fields.
+Every `time.Time` object is associated with a location, which is basically a timezone. 5 o'clock is meaningless if you don't know which timezone it's in. Locations are defined by the [`time.Location`](https://golang.org/pkg/time/#Location) type, which, like the `time.Time` type, is a struct with no exported fields.
 
 ### Get the timezone from an existing time object
 
