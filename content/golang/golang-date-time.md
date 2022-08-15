@@ -14,13 +14,13 @@ Keeping track of time in code has long been every developer's nightmare. While n
 
 The first thing to know is that you probably don't need any third-party packages to manage times and dates in Go. The Go standard library's [time](https://golang.org/pkg/time/) package is very robust and can do almost anything you're going to want to do.
 
-The default `[time.Time](https://golang.org/pkg/time/#Time)` type represents an instant in time with nanosecond precision. It's a struct that has no exported fields, which means you'll never need to use a dot operator to access different fields. Instead, various methods are available to get the data you need. For example, [`time.Year()`](https://golang.org/pkg/time/#Time.Year) returns the year (as an integer) of the time object in question.
+The default [time.Time](https://golang.org/pkg/time/#Time) type represents an instant in time with nanosecond precision. It's a struct that has no exported fields, which means you'll never need to use a dot operator to access different fields. Instead, various methods are available to get the data you need. For example, [`time.Year()`](https://golang.org/pkg/time/#Time.Year) returns the year (as an integer) of the time object in question.
 
 The two most common ways to create a new time object are to use the current time, or to provide a date as input.
 
 ### Get the current time with time.Now()
 
-The `[time.Now()](https://golang.org/pkg/time/#Now)` function returns the current local time. If you work on the backend, it's likely you'll also want to immediately convert it to UTC.
+The [time.Now()](https://golang.org/pkg/time/#Now) function returns the current local time. If you work on the backend, it's likely you'll also want to immediately convert it to UTC.
 
 ```go
 currentTime := time.Now()
@@ -77,7 +77,7 @@ As I mentioned above in the comment, the default parsing and formatting layout f
 
 ## Time durations
 
-My bane in programming is when developers [don't include units](/clean-code/naming-variables/) in their calculations. Inevitably one developer assumes the variable `timeElapsed` (an int) represents seconds, it really represents milliseconds. In Go, this isn't a problem as long as everyone adheres to the standard of the `[time.Duration](https://golang.org/pkg/time/#Duration)` type.
+My bane in programming is when developers [don't include units](/clean-code/naming-variables/) in their calculations. Inevitably one developer assumes the variable `timeElapsed` (an int) represents seconds, it really represents milliseconds. In Go, this isn't a problem as long as everyone adheres to the standard of the [`time.Duration`](https://golang.org/pkg/time/#Duration) type.
 
 Durations are just a specific kind of `int64`. They represent the elapsed time between two instants as a nanosecond count. the only drawback is that the largest representable duration is ~290 years, which hasn't been a problem for me yet. There are several constants defined by the time package to represent some common durations.
 
@@ -91,7 +91,7 @@ oneDay := time.Hour * 24
 
 ## Convert between separate timezones and locations
 
-Every `time.Time` object is associated with a location, which is basically a timezone. 5 o'clock is meaningless if you don't know which timezone it's in. Locations are defined by the `[time.Location](https://golang.org/pkg/time/#Location)` type, which, like the `time.Time` type, is a struct with no exported fields.
+Every `time.Time` object is associated with a location, which is basically a timezone. 5 o'clock is meaningless if you don't know which timezone it's in. Locations are defined by the [`time.Location`](https://golang.org/pkg/time/#Location) type, which, like the `time.Time` type, is a struct with no exported fields.
 
 ### Get the timezone from an existing time object
 

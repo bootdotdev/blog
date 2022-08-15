@@ -10,7 +10,7 @@ images:
 
 The Go standard library makes concatenating strings easy. Concatenation is just a fancy word for adding strings together to make a larger string. For example, if we concatenate `"hello"`, `" "` and `"world"` we'd get `"hello world"`.
 
-The built-in `[fmt.Sprintf](https://golang.org/pkg/fmt/#Sprintf)` function takes a format and a variadic list of interfaces as input.
+The built-in [`fmt.Sprintf`](https://golang.org/pkg/fmt/#Sprintf) function takes a format and a variadic list of interfaces as input.
 
 ```go
 func Sprintf(format string, a ...interface{}) string
@@ -26,7 +26,7 @@ s := fmt.Sprintf("%v has been subscribed since %v.\n", user.Name, user.CreatedAt
 
 ## Efficient string concatenation
 
-Go 1.10+ released the awesome `[strings.Builder](https://golang.org/pkg/strings/#Builder)` type, which lets us more efficiently build strings. Because it minimizes memory copying, `strings.Builder` is a high-performance option when it comes to doing bulk string concatenation.
+Go 1.10+ released the awesome [`strings.Builder`](https://golang.org/pkg/strings/#Builder) type, which lets us more efficiently build strings. Because it minimizes memory copying, `strings.Builder` is a high-performance option when it comes to doing bulk string concatenation.
 
 ### Quickly writing a user list - example
 
@@ -78,7 +78,7 @@ func main() {
 
 ## Preallocation for more speed
 
-If you really want to speed up your string building, and you already know the size of your final string, you can use the builder's `[Grow()](https://golang.org/pkg/strings/#Builder.Grow)` method to preallocate the size of the buffer. This saves your code from needing to grow the memory dynamically.
+If you really want to speed up your string building, and you already know the size of your final string, you can use the builder's [`Grow()`](https://golang.org/pkg/strings/#Builder.Grow) method to preallocate the size of the buffer. This saves your code from needing to grow the memory dynamically.
 
 ```go
 // Grow grows b's capacity, if necessary, to guarantee space for another n bytes.

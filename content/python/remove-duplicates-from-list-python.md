@@ -40,7 +40,7 @@ This is the same exact code from a performance standpoint but only uses one line
 
 ## Method #3 - Use the built-in "set" data structure (fast, loses order)
 
-A `[set()](https://www.w3schools.com/python/python_sets.asp)` is a group of values that doesn't contain any duplicates. By casting a list into a set and back, you remove all duplicates. The main drawback here is that you'll lose your ordering.
+A [`set()`](https://www.w3schools.com/python/python_sets.asp) is a group of values that doesn't contain any duplicates. By casting a list into a set and back, you remove all duplicates. The main drawback here is that you'll lose your ordering.
 
 ```py
 def remove_duplicates(original):

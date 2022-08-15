@@ -84,7 +84,7 @@ Additionally, if you are working in Go 1.13 or later, then you can look into the
 
 ## #3 - Use Formatters Like fmt.Errorf()
 
-`[fmt.Errorf()](https://golang.org/pkg/fmt/#Errorf)` is similar to `fmt.Printf()`, but returns an `error` instead of a `string`. You may have done this in the past:
+[`fmt.Errorf()`](https://golang.org/pkg/fmt/#Errorf) is similar to `fmt.Printf()`, but returns an `error` instead of a `string`. You may have done this in the past:
 
 ```go
 err := errors.New("Bad thing happened! " + oldErr.Error()) 
