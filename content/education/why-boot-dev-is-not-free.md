@@ -79,7 +79,7 @@ I actually looked into this for a couple months, and based on my research, I don
 
 This is an interesting one I've been thinking about recently. The idea is that I could open up the entire curriculum for free, then charge "lambda school"-style pricing for optional career coaching sessions for graduates. We would meet once a week on a video call to help you find a job, then if you get a high-paying job you pay us back over the first year of employment.
 
-I think we'll experiment with this, but I'm a little skeptical, because the incentives become to focus entirely on "weeding out" the students who are less likely to be placed in a career, rather than just educating everyone as effectively as possible.
+I think we'll experiment with this, but I'm a little skeptical, because the incentives become too focused on "weeding out" the students who are less likely to be placed in a career, rather than just educating everyone as effectively as possible.
 
 There could be a hybrid model where the career placements subsidize the education platform, making the learning portion cheaper while still incentivizing us to provide an amazing experience.
 
