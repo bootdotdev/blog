@@ -58,7 +58,7 @@ Benefits:
 
 Drawbacks:
 
-* My incentives are *not* aligned with those of my students. The students become of the product. My incentives wouldn't be to provide the most effective education, but simply to keep eyeballs on the product.
+* My incentives are *not* aligned with those of my students. The students become the product. My incentives wouldn't be to provide the most effective education, but simply to keep eyeballs on the product.
 
 ### Model #2 - Totally free, donations
 
