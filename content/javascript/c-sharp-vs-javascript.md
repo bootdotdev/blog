@@ -130,6 +130,6 @@ Regardless of which suits your preferences, both jobs bring well-paid, creative,
 
 **For taking action:**
 
-**For beginners**: we recommend our [Intro to Coding with JavaScript courses](https://boot.dev/learn/learn-code-javascript) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
+**For beginners**: we recommend our [Intro to Coding with JavaScript courses](https://boot.dev/learn/learn-javascript) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
 
 **For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://boot.dev/learn/learn-functional-programming), which mixes JS with PureScript. We also recommend our [Go Mastery courses](https://boot.dev/learn/learn-golang) for anyone looking to learn Golang, as well as our [Python Fundamentals course](https://boot.dev/learn/learn-python).

@@ -49,7 +49,7 @@ Learning simple coding syntax in is actually super fun and you can get up and ru
 
 #### Resources to learn basic coding skills
 
-* [Boot.dev's Basic Intro to JavaScript](https://boot.dev/learn/learn-code-javascript/)
+* [Boot.dev's Basic Intro to JavaScript](https://boot.dev/learn/learn-javascript/)
 * [Edabit JavaScript Challenges](https://edabit.com/challenges/javascript)
 * [A Byte of Python](https://python.swaroopch.com/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)

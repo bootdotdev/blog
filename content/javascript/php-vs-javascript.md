@@ -34,7 +34,7 @@ When deciding on your first language, there are a few variables you need to cons
 
 The first thing to consider is that you need _useful_ language. Much like learning Latin, choosing a dead programming language, whilst enlightening, isn’t going to get you hired and paid. And this brings us to the next topic: choose a language that pays well and is worth investing your money into learning.
 
-You also want a language that’s easy to grasp, so you can start working sooner. You won’t become a master within a week, but you should be able to confidently enter an interview and get yourself hired with a new language within a few months of picking it up, assuming you're already familiar with [programming basics](https://boot.dev/learn/learn-code-javascript).
+You also want a language that’s easy to grasp, so you can start working sooner. You won’t become a master within a week, but you should be able to confidently enter an interview and get yourself hired with a new language within a few months of picking it up, assuming you're already familiar with [programming basics](https://boot.dev/learn/learn-javascript).
 
 Now, JavaScript is without a doubt a useful language that’s in demand. [Powering over 97%](https://w3techs.com/technologies/details/cp-javascript) of the world wide web, there’s yet to be a language that does the job quite like JavaScript, and there’s no sign of it changing.
 

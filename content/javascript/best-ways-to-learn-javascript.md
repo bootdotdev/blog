@@ -17,7 +17,7 @@ I've compiled the 7 best methods for learning JavaScript so you can find the bes
 
 ## #1 Learn JavaScript interactively
 
-One of the best ways to learn anything is by getting your hands dirty and trying out the knowledge yourself, and Boot.dev has brought that exact experience to [coding in JavaScript](https://boot.dev/learn/learn-code-javascript).
+One of the best ways to learn anything is by getting your hands dirty and trying out the knowledge yourself, and Boot.dev has brought that exact experience to [coding in JavaScript](https://boot.dev/learn/learn-javascript).
 
 While understanding computer science and the theory behind programming is important, until you actually write and interact with the code yourself, you might as well be sitting on the sidelines. Practicing writing code is where you build those hard skills that are so sought after by the IT world.
 

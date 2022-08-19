@@ -15,7 +15,7 @@ We’ve just launched our latest course, [Python Fundamentals](https://boot.dev/
 
 YAYPYTHON
 
-Featuring more than 65 interactive, code-in-your-browser lessons across six modules, this course is perfect for new-to-beginner students who have completed our [Intro To Coding with JavaScript Courses](https://boot.dev/learn/learn-code-javascript) and picked up the basics of a trickier language by taking [Go Mastery 1](https://boot.dev/learn/learn-golang).
+Featuring more than 65 interactive, code-in-your-browser lessons across six modules, this course is perfect for new-to-beginner students who have completed our [Intro To Coding with JavaScript Courses](https://boot.dev/learn/learn-javascript) and picked up the basics of a trickier language by taking [Go Mastery 1](https://boot.dev/learn/learn-golang).
 
 View our [full course curriculum here](https://github.com/bootdotdev/curriculum)
 

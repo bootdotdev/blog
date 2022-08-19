@@ -128,7 +128,7 @@ Either way, Go and Node.js both offer serious value to your skillset and provide
 
 **Take action and learn to code:**
 
-**Learn JavaScript:** with our [Intro to Coding With JavaScript courses](https://boot.dev/learn/learn-code-javascript). You'll learn how computer science works, and build your skills up and code your own game interactively using conditionals, variables, functions, and more. You'll gain the skills you need to eventually start using Node.js and other JS extras.
+**Learn JavaScript:** with our [Intro to Coding With JavaScript courses](https://boot.dev/learn/learn-javascript). You'll learn how computer science works, and build your skills up and code your own game interactively using conditionals, variables, functions, and more. You'll gain the skills you need to eventually start using Node.js and other JS extras.
 
 **Learn Golang:** with our [Go Mastery courses](https://boot.dev/learn/learn-golang). Our two Go courses cover everything from the basics to advanced concepts like concurrency, and we even have a Go Interview Prep course to help you ace your interview to land your dream coding job.
 

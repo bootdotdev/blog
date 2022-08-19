@@ -52,7 +52,7 @@ It'll teach you the higher-order functions like map, reduce, and filter. Higher-
 
 JavaScript ideas for beginners don’t only have to come in video or article form. If you've looked at the three tutorials above and you’re kind of feeling lost, there's no shame in learning JavaScript with some help -- such as by an interactive course that you gradually build up your skills with as you progress through lessons and modules.
 
-That's why we built our first course -- our [Intro to JavaScript course](https://boot.dev/learn/learn-code-javascript). It's completely free to start and audit, and takes you from complete beginner and teaches you the skills you need to progress as a programmer. And what's more, you learn by interactively coding through lessons as you code your very own JavaScript game, and a variety of other fun yet useful projects.
+That's why we built our first course -- our [Intro to JavaScript course](https://boot.dev/learn/learn-javascript). It's completely free to start and audit, and takes you from complete beginner and teaches you the skills you need to progress as a programmer. And what's more, you learn by interactively coding through lessons as you code your very own JavaScript game, and a variety of other fun yet useful projects.
 
 It's one of the best JavaScript projects you can complete for your future career, too, as completing the course earns you a certificate that you can share with recruiters and embed into your CV.
 
@@ -62,7 +62,7 @@ It's one of the best JavaScript projects you can complete for your future career
 
 Back to the food. This basic javascript project tutorial will teach you to update and delete items from a grocery list, which walks you through the process of creating a simple CRUD. (CRUD just means create, read, update, and delete.)
 
-It’s actually [another project](https://boot.dev/learn/learn-code-javascript) from the same person who did the restaurant menu page tutorial, so maybe he was hungry as well.  If you’ve got the time and inclination I really recommend checking out all eight hours of his 15 JavaScript projects. It's the kind of content that I can't believe he gives away for free, it’s so in-depth and valuable.
+It’s actually [another project](https://boot.dev/learn/learn-javascript) from the same person who did the restaurant menu page tutorial, so maybe he was hungry as well.  If you’ve got the time and inclination I really recommend checking out all eight hours of his 15 JavaScript projects. It's the kind of content that I can't believe he gives away for free, it’s so in-depth and valuable.
 
 ![](https://lh6.googleusercontent.com/0cC_hjLSF_O0gajrBwlJ6zw561jl0VANXOpoJxUAB6hJiPRc_nEh0ImWdHq3aO5KnXV9tqdbcy2i2wyTCzBjLfM69zrHbyEHViN7UThGiJF3jwLg4HlwZR4L6iNN6d_BIjEl_SNT=s0)
 
@@ -182,6 +182,6 @@ These great JavaScript practice projects can all be tricky to do. I'm not going 
 
 **For taking action:**
 
-**For beginners**: we recommend our [Intro to Coding with JavaScript courses](https://boot.dev/learn/learn-code-javascript) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
+**For beginners**: we recommend our [Intro to Coding with JavaScript courses](https://boot.dev/learn/learn-javascript) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
 
 **For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://boot.dev/learn/learn-functional-programming), which mixes JS with PureScript. We also recommend our [Go Mastery courses](https://boot.dev/learn/learn-golang) for anyone looking to learn Golang, as well as our [Python Fundamentals course](https://boot.dev/learn/learn-python).

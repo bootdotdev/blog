@@ -49,7 +49,7 @@ This is in large due to it being dynamically typed, but also because JavaScript 
 
 As one of the most used scripting languages, JavaScript comes with respect and investment not only from developers but also companies, leading to the creation of powerful run-time environments like Node.js, and libraries like React.
 
-Beginners and experts alike will benefit from learning either language, depending on what field you want to work in. **If you want to see how easy they are to learn for yourself**, then head over to our free-to-try [intro to JavaScript](https://boot.dev/learn/learn-code-javascript) or [Python fundamentals](https://boot.dev/learn/learn-python) courses for a quick taste.
+Beginners and experts alike will benefit from learning either language, depending on what field you want to work in. **If you want to see how easy they are to learn for yourself**, then head over to our free-to-try [intro to JavaScript](https://boot.dev/learn/learn-javascript) or [Python fundamentals](https://boot.dev/learn/learn-python) courses for a quick taste.
 
 ## Python vs JavaScript Salary
 
@@ -147,4 +147,4 @@ If you’re interested in a modern yet established language, working in start-up
 
 In reality, both languages have the potential to satisfy any of these cravings – machine learning, web development, modern, start-up – and both come with the promise of exciting and well-paying futures.
 
-**At Boot.dev we're big fans of both JavaScript and Python**, and think they're two of the best languages to teach beginners to computer science. We developed our [Intro to Coding with JavaScript courses](https://boot.dev/learn/learn-code-javascript) for brand-new coders which we recommend you start with, as well as our [Python Fundamentals](https://boot.dev/learn/learn-python) course to build on your skills and get down with Python.
+**At Boot.dev we're big fans of both JavaScript and Python**, and think they're two of the best languages to teach beginners to computer science. We developed our [Intro to Coding with JavaScript courses](https://boot.dev/learn/learn-javascript) for brand-new coders which we recommend you start with, as well as our [Python Fundamentals](https://boot.dev/learn/learn-python) course to build on your skills and get down with Python.

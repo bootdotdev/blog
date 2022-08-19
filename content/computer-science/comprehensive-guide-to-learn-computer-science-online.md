@@ -91,7 +91,7 @@ Coding can be really fun and has a low barrier to entry. The goal here is to get
 
 #### Resources
 
-* [Boot.dev's Basic Intro to JavaScript](https://boot.dev/learn/learn-code-javascript/)
+* [Boot.dev's Basic Intro to JavaScript](https://boot.dev/learn/learn-javascript/)
 * [Edabit JavaScript Challenges](https://edabit.com/challenges/javascript)
 * [A Byte of Python](https://python.swaroopch.com/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
