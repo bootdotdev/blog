@@ -1,3 +1,6 @@
+// modified from
+// https://github.com/golang/go/blob/master/misc/linkcheck/linkcheck.go
+
 package main
 
 import (
