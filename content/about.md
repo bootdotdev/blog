@@ -22,9 +22,11 @@ Many new learners end up watching hours of YouTube videos, only to find they're 
 
 So many students struggle figuring out *what* to learn next. There's nothing worse than wandering around in "tutorial hell", from programming language to programming language, and framework to framework. We have a [simple, linear computer science program](https://github.com/bootdotdev/curriculum) that's designed to prepare you for an entry-level role in backend development. 
 
-## A great project portfolio and Github profile is better for your job search than a formal degree
+## A great project portfolio and Github profile is better for your job search than a certificate
 
-Degrees from a university and certificates from formal programs don't hurt, but most students overestimate their value. There's nothing more powerful than being able to show employers exactly what you're capable of and how much coding you've done.
+A degree from a great university helps when looking for work, but they're expensive and rarely *required*. Certificates from non-accredited programs usually don't help much at all.
+
+There's nothing more powerful than being able to show employers exactly what you're capable of and how much coding you've done through a strong portfolio of projects.
 
 ## It's not hard to find coding courses online, but it is hard to find good ones
 
