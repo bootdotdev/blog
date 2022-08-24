@@ -5,7 +5,7 @@ date: "2022-08-24"
 categories: 
   - "computer-science"
 images:
-  - /img/800/csbooks.jpeg.web
+  - /img/800/csbooks.jpeg.webp
 ---
 
 In today’s modern, fast-paced world, we look to StackOverflow and Reddit to answer all our computer science questions. But there are some real benefits to using books as an additional resource.
