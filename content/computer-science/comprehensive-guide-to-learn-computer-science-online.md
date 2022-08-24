@@ -2,6 +2,7 @@
 title: "Comprehensive Guide to Learn Computer Science Online"
 author: Lane Wagner
 date: "2020-11-18"
+lastmod: "2022-08-24"
 categories: 
   - "computer-science"
 images:
@@ -217,7 +218,7 @@ Database knowledge and theory is one of the most practically applicable topics t
 
 This is what most Bootcamp and self-taught developers learn, and unfortunately not much else. As you can probably imagine, the reason why web development is taught at bootcamps is because this is the money-maker. The majority of development jobs, especially jobs with a low barrier to entry are web development opportunities. As you dive into various web development resources, try to focus on a single backend language (and maybe a framework), and a single frontend framework, if you choose to learn one at all.
 
-Personally, I recommend learning backend APIs using the Go programming language with no framework. I would also advise building a frontend using vanilla JS, as well as another one using Vue.js or React.js. The practice is worthwhile, and don't skip the vanilla javascript! Frameworks are great but they come and go.
+Personally, I recommend [learning backend](/backend/become-backend-developer/) APIs using the Go programming language with no framework. I would also advise building a frontend using vanilla JS, as well as another one using Vue.js or React.js. The practice is worthwhile, and don't skip the vanilla javascript! Frameworks are great but they come and go.
 
 #### Resources
 

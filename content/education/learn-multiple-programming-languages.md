@@ -103,7 +103,7 @@ Let me explain why we chose these three in particular.
 
 ### Why JavaScript?
 
-You can't really get away from JavaScript these days. It's hard to learn about backend programming (which is what most of our students are interested in) without first understanding *why* a backend exists. A backend only exists to power a front-end, so it makes sense that we would need to teach you a few front-end basics first. If you're going to build a front-end on the web, it almost certainly will use JavaScript, so our hand is forced on this one.
+You can't really get away from JavaScript these days. It's hard to [learn about backend programming](/backend/become-backend-developer/) (which is what most of our students are interested in) without first understanding *why* a backend exists. A backend only exists to power a front-end, so it makes sense that we would need to teach you a few front-end basics first. If you're going to build a front-end on the web, it almost certainly will use JavaScript, so our hand is forced on this one.
 
 ### Why Python?
 

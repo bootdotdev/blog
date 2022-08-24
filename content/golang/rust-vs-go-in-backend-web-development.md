@@ -9,7 +9,7 @@ images:
   - /img/800/go-vs-rust.webp
 ---
 
-Rust and Go are two of the industry's biggest successes when it comes to developing modern programming languages. Both languages compete in terms of backend [web development](/misc/top-web-development-languages/), and it's a fierce competition. Golang and Rust are new languages, have growing communities, and are fast and efficient. When it comes to microservice architectures, frameworks, and apps, Rust and Go are household names on the backend.
+Rust and Go are two of the industry's biggest successes when it comes to developing modern programming languages. Both languages compete in terms of [backend web development](/backend/become-backend-developer/), and it's a fierce competition. Golang and Rust are new languages, have growing communities, and are fast and efficient. When it comes to microservice architectures, frameworks, and apps, Rust and Go are household names on the backend.
 
 ## Similarities
 

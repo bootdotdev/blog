@@ -34,7 +34,7 @@ Even if you don’t want to program websites or apps for a career, being able to
 
 ## 2. It makes you a versatile programmer.
 
-JavaScript is kind of a lingua franca among coding languages. If you know how to code in JavaScript, there’s no cap to the kind of cool stuff you can program. JavaScript gained a foothold by helping developers code on the client-side (frontend) of websites, but recently, there have been additions to the JavaScript frameworks that make it a great language for coding on the server-side or backend of websites using Node.js. 
+JavaScript is kind of a lingua franca among coding languages. If you know how to code in JavaScript, there’s no cap to the kind of cool stuff you can program. JavaScript gained a foothold by helping developers code on the client-side (frontend) of websites, but recently, there have been additions to the JavaScript frameworks that make it a great language for coding on the server-side or [backend](/backend/become-backend-developer/) of websites using Node.js. 
 
 “Javascript everywhere’ (i.e. node.js) has really become the default web-development paradigm,” writes Tom Critchlow in [his blog post](https://tomcritchlow.com/2021/01/14/new-browsers/) on web browsers. His answer to why you should learn JavaScript is simply that it’s a language with a can-do attitude, no matter what you want to do with it.
 

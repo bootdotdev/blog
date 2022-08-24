@@ -48,7 +48,7 @@ Go is known for having a rich standard library, particularly when it comes to ba
 
 ### Who Should Start With Go?
 
-Anyone interested in DevOps or backend development should learn Go. You will likely need to learn about some technologies ([Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Postgres](https://www.postgresql.org/), etc) before landing a job, but it will be worth it considering Go is the second-best paying language in the US this year.
+Anyone interested in DevOps or [backend development](/backend/become-backend-developer/) should learn Go. You will likely need to learn about some technologies ([Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Postgres](https://www.postgresql.org/), etc) before landing a job, but it will be worth it considering Go is the second-best paying language in the US this year.
 
 ![Best Paying Programming Languages](/img/800/Screen-Shot-2020-07-09-at-7.46.49-AM-1024x469-1.png)
 
