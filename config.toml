@@ -7,6 +7,10 @@ footnotereturnlinkcontents = "↩"
 paginate = 10
 enableRobotsTXT = true
 
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+
 [taxonomies]
   category = "categories"
 
