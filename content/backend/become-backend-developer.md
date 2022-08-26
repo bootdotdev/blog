@@ -10,7 +10,9 @@ images:
 
 So you've decided that backend development is the career for you - congratulations! Many self-taught coders have a hard time deciding between all the various options, but it's *so much easier* to learn effectively if you have a clear goal, like backend work, in mind.
 
-We'll cover everything you need to learn backend development in 2022 from knowing *basically nothing* about programming to getting your first job as a Backend Developer. This article is a compilation of my own experience and expertise as a backend engineer and hiring manager, as well as other who've I've consulted with to ensure this can be the best guide it can be.
+**Before we get started, if you want the "quick answer", check out [Boot.dev](https://boot.dev) - it's a platform I built from the ground up to teach you backend development completely online.** If you'd rather do a deep dive on the *kinds* of things you need to learn, rather than get started with a specific learning platform, read on!
+
+Below, we'll cover everything you need to learn backend development in 2022 from knowing *basically nothing* about programming to getting your first job as a Backend Developer. This article is a compilation of my own experience and expertise as a backend engineer and hiring manager, as well as other who've I've consulted with to ensure this can be the best guide it can be.
 
 ## First, what is a backend developer?
 
