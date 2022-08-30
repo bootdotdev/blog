@@ -2,7 +2,7 @@ const sharp = require("sharp");
 const fs = require("fs");
 
 const directory = "./static/img";
-const srcDir = `${directory}/raw`;
+const srcDir = `raw`;
 
 const maxWidth = 800;
 

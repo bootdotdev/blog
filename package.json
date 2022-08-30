@@ -5,7 +5,7 @@
     "serve": "concurrently --kill-others \"tailwindcss -i ./assets/css/tail-in.css -o ./assets/css/tail-out.css --watch\" \"hugo server -D\"",
     "lint": "eslint . --ext .js,.html",
     "lint:fix": "eslint . --fix --ext .js,.html",
-    "image-min": "node scripts/js/image-min.js"
+    "image-min": "node scripts/image-min.js"
   },
   "repository": "https://github.com/bootdotdev/blog",
   "author": "wagslane <lane.c.wagner@gmail.com>",
