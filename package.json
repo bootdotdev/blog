@@ -7,9 +7,8 @@
     "lint:fix": "eslint . --fix --ext .js,.html",
     "image-min": "node scripts/js/image-min.js"
   },
-  "repository": "https://github.com/qvault/blog",
+  "repository": "https://github.com/bootdotdev/blog",
   "author": "wagslane <lane.c.wagner@gmail.com>",
-  "license": "MIT",
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.2",
     "concurrently": "^7.3.0",
