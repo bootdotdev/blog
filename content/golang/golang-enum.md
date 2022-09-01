@@ -59,9 +59,9 @@ Sometimes, if you're a masochist, or perhaps a Lua developer, you'll want your l
 ```go
 const (
     Head = iota + 1  // 1
-    Shoulder            // 2
-    Knee                 // 3
-    Toe                   // 4
+    Shoulder         // 2
+    Knee             // 3
+    Toe              // 4
 )
 ```
 
@@ -71,8 +71,8 @@ The `iota` keyword simply represents an incrementing integer constant that's one
 
 ```go
 const (
-    Head = iota + 1        // 0 + 1 = 1
-    Shoulder = iota + 2  // 1 + 2 = 3
+    Head = iota + 1       // 0 + 1 = 1
+    Shoulder = iota + 2   // 1 + 2 = 3
     Knee = iota * 10      // 2 * 10 = 20
     Toe = iota * 100      // 3 * 100 = 300
 )
@@ -90,8 +90,8 @@ If you want to skip a value just use the `_` character like you do to ignore ret
 const (
     Head = iota // Head = 0
     _
-    Knee // Knee = 2
-    Toe // Toe = 3
+    Knee        // Knee = 2
+    Toe         // Toe = 3
 )
 ```
 
@@ -104,13 +104,13 @@ type BodyPart int
 
 const (
     Head BodyPart = iota // Head = 0
-    Shoulder // Shoulder = 1
-    Knee // Knee = 2
-    Toe // Toe = 3
+    Shoulder             // Shoulder = 1
+    Knee                 // Knee = 2
+    Toe                  // Toe = 3
 )
 
 func (bp BodyPart) String() string {
-    return []string{"Head", "Shoulder", "Knee", "Toe"}[bp]]
+    return []string{"Head", "Shoulder", "Knee", "Toe"}[bp]
 }
 ```
 
