@@ -30,7 +30,7 @@ By writing and publishing your ideas publicly, you can:
 
 It's totally free to contribute articles to Boot.dev, and you're even allowed to drop *tasteful* `dofollow` links back to your own projects and sites. Take advantage of our great domain authority and reach! As long as your article is original and well-written we don't mind you getting some exposure to our readers.
 
-Read the [full contribution guide here](https://github.com/bootdotdev/blog/blob/main/CONTRIBUTING.md) on how to submit your story.
+Read the [full contributing guide here](https://github.com/bootdotdev/blog/blob/main/CONTRIBUTING.md) on how to submit your story.
 
 ## Keep in mind: Your article *must* be original to Boot.dev.
 
