@@ -68,7 +68,7 @@ Link to the image using a relative link. The root is the `img` folder, e.g. `![a
 
 ### Whitelisting your domain
 
-If you want to get some sweet SEO juice flowing back to your own site, awesome! Simply add your domain to the `dofollows` array in your posts frontmatter! e.g.
+If you want to get some sweet SEO juice flowing back to your own site, awesome! Simply add your domain to the `dofollows` array in your post's frontmatter! e.g.
 
 ```
 dofollows:
