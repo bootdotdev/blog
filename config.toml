@@ -21,6 +21,12 @@ enableRobotsTXT = true
   description = "You don't need a CS degree to get hired, but you do need computer science skills. Prepare to land an entry-level role in tech by building real coding projects."
   footer = "&copy; [Boot.dev](https://boot.dev) {Year}"
   googleTagManager = "GTM-PT7FHFB"
+  dofollows = [
+    "https://boot.dev",
+    "https://blog.boot.dev",
+    "https://wagslane.dev"
+  ]
+
 
 [markup.highlight]
   anchorLineNos = false

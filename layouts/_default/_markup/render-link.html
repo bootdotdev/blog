@@ -4,7 +4,21 @@
   {{ else }}
     title="{{ .Text | safeHTML }}"
   {{ end }}
-  {{ if strings.HasPrefix .Destination "https://boot.dev" }}
+
+  {{ $dofollow := false }}
+  {{ $destination := .Destination }}
+  {{ range .Page.Params.dofollows }}
+    {{ if (in ($destination) .) }}
+      {{ $dofollow = true }}
+    {{ end }}
+  {{ end }}
+  {{ range site.Params.dofollows }}
+    {{ if (in ($destination) .) }}
+      {{ $dofollow = true }}
+    {{ end }}
+  {{ end }}
+
+  {{ if $dofollow }}
     target="_blank"
   {{ else if strings.HasPrefix .Destination "http" }}
     target="_blank" rel="nofollow noopener"
