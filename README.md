@@ -73,7 +73,7 @@ make buildscripts
 
 ## Resize images
 
-Place original images go in in `static/img/raw`
+Place original images go in the `raw/` directory.
 
 Create a directory `static/img/X` where `X` is the max width of the new images.
 
