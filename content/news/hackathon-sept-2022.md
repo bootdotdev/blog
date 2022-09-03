@@ -1,7 +1,7 @@
 ---
 title: "Boot.dev Hackathon September 1st, 2022"
 author: Lane Wagner
-date: "2022-08-29"
+date: "2022-09-03"
 categories:
   - "news"
   - "python"
@@ -42,6 +42,18 @@ There will be 3 winners and 1 "1st place" winner from each category.
 
 In addition, everyone who participates will earn 1000XP in the Boot.dev app, and get a coupon code for 25% off of a patron subscription.
 
-## Good luck!
+## Winners Announced!
 
-I hope to see you all there! The rest of the details will be provided at the kickoff meeting. If you have any questions, feel free to hit me up [in Discord](https://discord.gg/EEkFwbv).
+### Senior Category (>1 years of coding)
+
+1. [PokeMusic by realhardik18](https://github.com/realhardik18/PokeMusic)
+2. [PokeArena by brianzhou139](https://github.com/brianzhou139/PokeArena)
+3. [Pokemon Fitness Profile](https://github.com/Manvik1499/PokemonProject)
+
+### Junior Category (<1 years of coding)
+
+1. [Original Pokemon Artwork by Oscar-Sherelis](https://github.com/Oscar-Sherelis/Python-pokemon-artwork-image)
+2. [Pokemon Image](https://github.com/KR411-prog/pokemonimage)
+3. [Height and Weight PokeSearch](https://github.com/Raimusha/hackathonTristin)
+
+## Thanks so much, see you at the next one!
