@@ -48,12 +48,12 @@ In addition, everyone who participates will earn 1000XP in the Boot.dev app, and
 
 1. [PokeMusic by realhardik18](https://github.com/realhardik18/PokeMusic)
 2. [PokeArena by brianzhou139](https://github.com/brianzhou139/PokeArena)
-3. [Pokemon Fitness Profile](https://github.com/Manvik1499/PokemonProject)
+3. [Pokemon Fitness Profile by Manvik1499](https://github.com/Manvik1499/PokemonProject)
 
 ### Junior Category (<1 years of coding)
 
 1. [Original Pokemon Artwork by Oscar-Sherelis](https://github.com/Oscar-Sherelis/Python-pokemon-artwork-image)
-2. [Pokemon Image](https://github.com/KR411-prog/pokemonimage)
-3. [Height and Weight PokeSearch](https://github.com/Raimusha/hackathonTristin)
+2. [Pokemon Image by KR411-prog](https://github.com/KR411-prog/pokemonimage)
+3. [Height and Weight PokeSearch by Raimusha](https://github.com/Raimusha/hackathonTristin)
 
 ## Thanks so much, see you at the next one!
