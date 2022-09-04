@@ -12,7 +12,7 @@
         {{ if gt $.Paginator.PageNumber 1 }}
           {{ title .Title }} Pg. {{ $.Paginator.PageNumber }} | Boot.dev
         {{ else }}
-          { title .Title }} | Boot.dev
+          {{ title .Title }} | Boot.dev
         {{ end}}
       {{ else }}
         {{ title .Title }} | Boot.dev
