@@ -1,4 +1,4 @@
 ---
-title: "Computer Science Articles"
+title: "Computer Science"
 description: "Read about computer science on the Boot.dev blog"
 ---

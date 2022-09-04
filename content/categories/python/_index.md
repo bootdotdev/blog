@@ -1,4 +1,4 @@
 ---
-title: "Python Articles"
+title: "Python"
 description: "Read about the Python programming language on the Boot.dev blog"
 ---
