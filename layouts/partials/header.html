@@ -34,7 +34,6 @@
   <meta name="description" content="{{ .Description }}" />
   {{ else }}
   <meta name="description" content="{{ .Site.Params.Description }}" />
-  {{ .Site.Params.Description }}
   {{ end }}
 
   {{ $tailcss := resources.Get "css/tail-out.css" | minify }}
