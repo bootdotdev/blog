@@ -29,20 +29,23 @@ main h2 {
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 1rem;
-  color: var(--blue-400)
+  margin-top: 2rem;
+  color: white;
 }
 
 main h3 {
   font-weight: 600;
   font-size: 1.25rem;
   margin-bottom: 1rem;
-  color: var(--blue-400)
+  margin-top: 2rem;
+  color: white;
 }
 
 main h4 {
   font-weight: 600;
   margin-bottom: 1rem;
-  color: var(--blue-400)
+  margin-top: 2rem;
+  color: white;
 }
 
 main p {
@@ -92,6 +95,8 @@ main p code {
 
 main p {
   margin-bottom: 1rem;
+  font-size: 1rem;
+  line-height: 1.75rem;
 }
 
 main img {
