@@ -6,6 +6,7 @@ ignoreFiles = []
 footnotereturnlinkcontents = "↩"
 paginate = 10
 enableRobotsTXT = true
+summaryLength = 15
 
 [sitemap]
   changefreq = 'weekly'

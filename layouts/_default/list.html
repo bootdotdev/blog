@@ -1,38 +1,45 @@
 {{ partial "header.html" . }}
 
-<main class="mb-4 flex flex-row justify-center">
-  <h1 class="text-4xl text-white mb-2 font-bold">
-    {{ title .Title }}
-    {{ if (gt $.Paginator.PageNumber 1) }} -
-    Pg. {{ $.Paginator.PageNumber }}
-    {{ end }}
-  </h1>
-</main>
+<div class="max-w-4xl m-auto p-4 sm:p-8">
 
-<ul>
-  {{ range $index, $val := $.Paginator.Pages }}
-  <li>
-    <div class="mb-10">
-      <a href="{{ .RelPermalink }}" class="cursor-pointer">
-        <h2 class="text-2xl font-bold text-blue-400 hover:text-blue-300 underline mb-2">{{ .Title | markdownify }}</h2>
-      </a>
-
-      <h3 class="text-sm text-gray-300 mb-8">
-        {{ .Date.Format "Jan 02, 2006" }} by {{ .Params.author }}
-      </h3>
-
-      {{ if .Params.images }}
-      <a href="{{ .RelPermalink }}" class="mb-2">
-        <img {{ if gt $index 1 }} loading="lazy" {{ end }} width="736" height="414" class="rounded mb-4"
-          src="{{ index (.Params.images) 0 }}" />
-      </a>
+  <main class="mb-8 flex flex-row justify-center">
+    <h1 class="text-4xl text-white mb-2 font-bold">
+      {{ title .Title }}
+      {{ if (gt $.Paginator.PageNumber 1) }} -
+      Pg. {{ $.Paginator.PageNumber }}
       {{ end }}
+    </h1>
+  </main>
 
-      <p>{{.Summary}}</p>
-    </div>
-  </li>
-  {{ end }}
-</ul>
+  <ul>
+    {{ range $index, $val := $.Paginator.Pages }}
+    <li>
+      <a href="{{ .RelPermalink }}"
+        class="cursor-pointer flex flex-col sm:flex-row p-4 my-4 hover:bg-gray-750 rounded-xl">
+
+        {{ if .Params.images }}
+        <div class="flex-2 mr-0 sm:mr-4 mb-2 sm:mb-0 flex justify-center">
+          <img {{ if gt $index 3 }} loading="lazy" {{ end }} width="288" height="162" class="rounded object-cover"
+            src="{{ index (.Params.images) 0 }}" />
+        </div>
+        {{ end }}
+
+        <div class="flex-1">
+          <h2 class="text-lg font-bold text-white mb-2">{{ .Title | markdownify }}
+          </h2>
+
+          <h3 class="text-sm text-gray-400 mb-8">
+            {{ .Date.Format "Jan 02, 2006" }} by {{ .Params.author }}
+          </h3>
+
+          <p class="hidden sm:block">{{.Summary}}</p>
+        </div>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+
+</div>
 
 {{ partial "page_numbers.html" . }}
 

@@ -55,12 +55,3 @@
   {{ partial "top_nav.html" . }}
 
   {{ partial "sticky_cta.html" . }}
-
-  <div class="max-w-3xl m-auto p-4">
-    <nav>
-      <ul>
-        {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-        {{ end }}
-      </ul>
-    </nav>

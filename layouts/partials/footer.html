@@ -1,37 +1,36 @@
 <footer>
   {{ with .Site.Params.footer }}
-    <div class="py-4">
-      <div class="border-t-2 border-blue-500 w-full"></div>
-    </div>
+  <div class="py-4">
+    <div class="border-t-2 border-blue-500 w-full"></div>
+  </div>
 
-    <main class="mb-4 flex justify-center flex-wrap">
-      <span>{{ replace . "{Year}" now.Year | markdownify}}</span>
-      <span class="mx-2">|</span>
-      <a href="/categories"><span>Categories</span></a>
-      <span class="mx-2">|</span>
-      <a href="/contact"><span>Contact</span></a>
-      <span class="mx-2">|</span>
-      <a href="https://boot.dev/playground/go"><span>Playground</span></a>
-    </main>
+  <main class="mb-4 flex justify-center flex-wrap">
+    <span>{{ replace . "{Year}" now.Year | markdownify}}</span>
+    <span class="mx-2">|</span>
+    <a href="/categories"><span>Categories</span></a>
+    <span class="mx-2">|</span>
+    <a href="/contact"><span>Contact</span></a>
+    <span class="mx-2">|</span>
+    <a href="https://boot.dev/playground/go"><span>Playground</span></a>
+  </main>
 
-    <main class="mb-4 flex justify-center flex-wrap">
-      <a href="/sitemap.xml"><span>Sitemap</span></a>
-      <span class="mx-2">|</span>
-      <a href="/affiliates"><span>Affiliates</span></a>
-      <span class="mx-2">|</span>
-      <a href="/index.xml"><span>RSS</span></a>
-    </main>
+  <main class="mb-4 flex justify-center flex-wrap">
+    <a href="/sitemap.xml"><span>Sitemap</span></a>
+    <span class="mx-2">|</span>
+    <a href="/affiliates"><span>Affiliates</span></a>
+    <span class="mx-2">|</span>
+    <a href="/index.xml"><span>RSS</span></a>
+  </main>
 
-    <main class="mb-4 flex justify-center flex-wrap">
-      <a href="/terms"><span>TOS</span></a>
-      <span class="mx-2">|</span>
-      <a href="/privacy"><span>Privacy</span></a>
-      <span class="mx-2">|</span>
-      <a href="/faq"><span>FAQ</span></a>
-    </main>
+  <main class="mb-4 flex justify-center flex-wrap">
+    <a href="/terms"><span>TOS</span></a>
+    <span class="mx-2">|</span>
+    <a href="/privacy"><span>Privacy</span></a>
+    <span class="mx-2">|</span>
+    <a href="/faq"><span>FAQ</span></a>
+  </main>
   {{ end }}
 </footer>
-</div>
 </body>
 
 </html>
