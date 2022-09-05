@@ -1077,6 +1077,10 @@ video {
     display: none;
   }
 
+  .sm\:w-72 {
+    width: 18rem;
+  }
+
   .sm\:flex-row {
     flex-direction: row;
   }

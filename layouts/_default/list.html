@@ -19,7 +19,9 @@
 
         {{ if .Params.images }}
         <div class="flex-2 mr-0 sm:mr-4 mb-2 sm:mb-0 flex justify-center">
-          <img {{ if gt $index 3 }} loading="lazy" {{ end }} width="288" height="162" class="rounded object-cover"
+          <img {{ if gt $index 3 }} loading="lazy" {{ end }} width="288" height="162"
+            class="rounded object-cover hidden sm:block" src="{{ index (.Params.images) 0 }}" />
+          <img {{ if gt $index 3 }} loading="lazy" {{ end }} class="rounded object-cover block sm:hidden"
             src="{{ index (.Params.images) 0 }}" />
         </div>
         {{ end }}
