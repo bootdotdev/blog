@@ -67,6 +67,10 @@ main ol {
   margin-bottom: 1rem;
 }
 
+main li {
+  margin-bottom: .5rem;
+}
+
 main a {
   color: var(--blue-400);
   text-decoration: underline;
