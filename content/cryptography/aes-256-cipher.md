@@ -9,7 +9,7 @@ images:
   - /img/800/1_Th9nPlIhYveMMsG9RvqQsQ.webp
 ---
 
-AES, or “Advanced Encryption Standard”, is an encryption specification that uses the Rijndael cipher as its symmetric key ciphering algorithm. AES encrypts a message with a private key, and no one but the key holder can decrypt the message. A great example of a good use-case for AES-256 is encrypting all the data on the hard drive of a computer when it's not in use.
+AES, or "Advanced Encryption Standard", is an encryption specification that uses the Rijndael cipher as its symmetric key ciphering algorithm. AES encrypts a message with a private key, and no one but the key holder can decrypt the message. A great example of a good use-case for AES-256 is encrypting all the data on the hard drive of a computer when it's not in use.
 
 ## Symmetric Encryption vs Asymmetric Encryption
 
@@ -33,7 +33,7 @@ The shorter the password or passphrase, the easier it is for an attacker to decr
 
 Let's walk through the steps of the AES ciphering process, also known as the [Rijndael](https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf) cipher.
 
-1. Choose a password, then derive a short key from that password (using a function like [Scrypt](/cryptography/very-basic-intro-to-the-scrypt-hash/) or [SHA-256](/cryptography/how-sha-2-works-step-by-step-sha-256/)). This short key will then be expanded using a [key schedule](https://en.wikipedia.org/wiki/Rijndael_key_schedule) to get separate “round keys” for each round of AES-256.
+1. Choose a password, then derive a short key from that password (using a function like [Scrypt](/cryptography/very-basic-intro-to-the-scrypt-hash/) or [SHA-256](/cryptography/how-sha-2-works-step-by-step-sha-256/)). This short key will then be expanded using a [key schedule](https://en.wikipedia.org/wiki/Rijndael_key_schedule) to get separate "round keys" for each round of AES-256.
 
 password: password12345678 →
 short key: aafeeba6959ebeeb96519d5dcf0bcc069f81e4bb56c246d04872db92666e6d4b →
@@ -103,7 +103,7 @@ a5 5a 20 be
 
 [Common lounge](https://www.commonlounge.com/discussion/e32fdd267aaa4240a4464723bc74d0a5)
 
-8. The output of the multiplication is used as the input “message” in the next round of AES. It repeats each step 10 or more times in total, with one extra “add key” step at the end. Each round of “add key” will use a new round key, but each new round key is still derived from the same password and short key.
+8. The output of the multiplication is used as the input "message" in the next round of AES. It repeats each step 10 or more times in total, with one extra "add key" step at the end. Each round of "add key" will use a new round key, but each new round key is still derived from the same password and short key.
 
 - Add key
 - Substitute bytes

@@ -36,9 +36,9 @@ There's nothing more powerful than being able to show employers exactly what you
 
 We disagree with the following common claims:
 
-> "You can learn to code and land a developer job in 8 weeks”
+> "You can learn to code and land a developer job in 8 weeks"
 
-> “You need a 4-year computer science degree to be successful"
+> "You need a 4-year computer science degree to be successful"
 
 We think that if you spend an hour or two each day, it will take around 9 to 15 months of learning before you land your first job. It's important to have realistic expectations and achievable goals.
 
@@ -97,7 +97,7 @@ You can be the best developer in the world, but if you’re not able to prove yo
 
 ## If you don’t define your career goals, you’ll never know when you’re ready for your first job
 
-You don't ever stop "learning to code". There isn’t a magic threshold that separates the “coders” from the “non-coders”. Your learning path should never truly end, but along the way, you’ll find yourself qualified for different kinds of programming jobs.
+You don't ever stop "learning to code". There isn’t a magic threshold that separates the "coders" from the "non-coders". Your learning path should never truly end, but along the way, you’ll find yourself qualified for different kinds of programming jobs.
 
 If you’re looking for your first job, you'll move faster by focusing on the most important skills for your goal. If your goal is to become a backend web developer, the things you need to learn are slightly different than if you want to write mobile applications on iOS.
 

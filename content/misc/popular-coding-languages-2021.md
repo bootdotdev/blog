@@ -66,7 +66,7 @@ If you’re looking to get a job in anything that isn’t programming, R is the 
 
 ### Why it’s popular for this purpose
 
-In their R versus Python tutorial, [Datacamp writes](https://s3.amazonaws.com/assets.datacamp.com/email/other/Python+vs+R.pdf) that R is used by “statisticians, engineers, and scientists without computer programming skills. It’s popular in academia, finance, pharmaceuticals, media, and marketing.” 
+In their R versus Python tutorial, [Datacamp writes](https://s3.amazonaws.com/assets.datacamp.com/email/other/Python+vs+R.pdf) that R is used by "statisticians, engineers, and scientists without computer programming skills. It’s popular in academia, finance, pharmaceuticals, media, and marketing." 
 
 R is the most popular coding language for people who don’t code in their jobs for a few very valid reasons. First, it’s open-source. Like Python, there’s no need to pay any money. It also has an [integrated development editor, RStudio](https://rstudio.com/products/rstudio/download/), that makes it even easier to use. It has a robust ecosystem of open source packages that make it very simple for anyone to run statistical analysis in a few lines of code and create a publication-ready graphic in just a few more lines.
 
@@ -82,7 +82,7 @@ Especially for folks who don’t have or want a job in programming, I find it’
 
 Perl is one of the most contradictory languages on this list in that it has the highest global salary ($75k median annual salary), but is also the most dreaded language (71.4%), according to [Stack Overflow’s survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages). But if you want to get a higher salary in your programming job, there is no more popular coding language. It’s known for being the predecessor to the more popular PHP, and also for being a bit of a flaming dumpster heap of a language. 
 
-The blog [Some Dude Says writes in his blog post “Perl in 2020: Is It Still Worth Learning?](https://somedudesays.com/2020/02/perl-in-2020-is-it-still-worth-learning/)” that, “Perl tried to be too much for too many people. Snippets of terrible code floated around and were pulled in without a second thought on many projects. Script kiddie after script kiddie cobbled together their abominations and let them loose on the world. They threw the source online for the world to see for free too. Books were also rife with trash and republished even when they had long since become obsolete,”
+The blog [Some Dude Says writes in his blog post "Perl in 2020: Is It Still Worth Learning?](https://somedudesays.com/2020/02/perl-in-2020-is-it-still-worth-learning/)" that, "Perl tried to be too much for too many people. Snippets of terrible code floated around and were pulled in without a second thought on many projects. Script kiddie after script kiddie cobbled together their abominations and let them loose on the world. They threw the source online for the world to see for free too. Books were also rife with trash and republished even when they had long since become obsolete,"
 
  But despite being hated by many developers, many employers find it a useful coding language both for new projects as well as maintaining existing infrastructure and projects. That’s why it’s still the most popular coding language to increase your salary.
 
@@ -104,7 +104,7 @@ R, Python, and Perl were all developed last century. Swift, meanwhile, was devel
 
 ### Why it’s popular for this purpose
 
-[Dummies.com](https://www.dummies.com/web-design-development/mobile-apps/why-develop-ios-applications/) writes that “\[d\]eveloping iOS apps can be the most fun you’ve had in your career in years, with very little investment of time and money (compared with developing for platforms like Windows).” For people who want to code, building apps is a great way to showcase your skills or even earn some money on the side. 
+[Dummies.com](https://www.dummies.com/web-design-development/mobile-apps/why-develop-ios-applications/) writes that "\[d\]eveloping iOS apps can be the most fun you’ve had in your career in years, with very little investment of time and money (compared with developing for platforms like Windows)." For people who want to code, building apps is a great way to showcase your skills or even earn some money on the side. 
 
 Compared to Android apps, iOS has a more robust developer program and handles a lot fo the stickier sides of creating and hosting an app on a store. It’s also [faster](https://infinum.com/the-capsized-eight/android-development-is-30-percent-more-expensive-than-ios) to develop an iOS app compared to Android.
 
@@ -118,7 +118,7 @@ After that, the best method is simply to get your feet wet and [design your firs
 
 ## 5. The most popular coding language for lateral thinkers: Ruby 
 
-Ruby is one of the [most popular coding languages for startups](https://stackify.com/popular-programming-languages-2018/#:~:text=Ruby%20is%20one%20of%20the%20most%20popular%20languages%20among%20tech%20startups.&text=First%2C%20Ruby%20has%20an%20incredibly,time%20than%20in%20other%20frameworks.) - it’s a language where there’s more than one way to do things, with a very simple syntax that enables the “move fast and break things” ethos of many startups favored by lateral thinkers. 
+Ruby is one of the [most popular coding languages for startups](https://stackify.com/popular-programming-languages-2018/#:~:text=Ruby%20is%20one%20of%20the%20most%20popular%20languages%20among%20tech%20startups.&text=First%2C%20Ruby%20has%20an%20incredibly,time%20than%20in%20other%20frameworks.) - it’s a language where there’s more than one way to do things, with a very simple syntax that enables the "move fast and break things" ethos of many startups favored by lateral thinkers. 
 
 Ruby on Rails, a full-stack web application framework that runs Ruby, is also very popular due to its ease of building a web app in very little time. 
 
@@ -146,7 +146,7 @@ It’s also standardized, meaning that updates and releases with new versions fr
 
 ### The best way to learn JavaScript for web developers
 
-If you search “learn JavaScript,” it’s easy to become overwhelmed with the quantity of information, tutorials, and guides. It’s hard to even know which frameworks and libraries you need. That’s why I recommend a hierarchical approach that lets you systematically and consistently progress with learning the most popular coding language for web developers. Some examples include [JS: The Right Way](http://jstherightway.org/), and [boot.dev's Basic Intro to Coding](https://boot.dev/learn/learn-javascript/).
+If you search "learn JavaScript," it’s easy to become overwhelmed with the quantity of information, tutorials, and guides. It’s hard to even know which frameworks and libraries you need. That’s why I recommend a hierarchical approach that lets you systematically and consistently progress with learning the most popular coding language for web developers. Some examples include [JS: The Right Way](http://jstherightway.org/), and [boot.dev's Basic Intro to Coding](https://boot.dev/learn/learn-javascript/).
 
 {{< cta3 >}}
 
@@ -160,7 +160,7 @@ On Stack Overflow’s Developer Survey, it’s 3rd both on the [list of most wan
 
 There are several reasons it’s the most popular coding language for coders who want to quickly increase their salary. First, it’s a language that’s built for big projects. Unlike Ruby, for instance, which is quick to build but hard to scale, Go was intentionally created by Google to help them with truly tremendously-sized projects and tasks faster. It’s intentionally created to reduce time spent reading and debugging code to help make these tasks achieveable. This makes it an attractive language for many big companies that are aiming to achieve projects on this scale.
 
-It’s also reputed to be faster and easier than Perl to learn, which tops the list of highest salaries. Perl comes with several decades of history and opinions to wade through, while Go, created only in 2009, has a smaller and more modern syntax. Unlike many coding languages with bloated vocabularies, Go is small enough to “fit in your head,” to paraphrase Samuel Jones, a data engineer who [wrote up a review of Go](https://willowtreeapps.com/ideas/the-pros-and-cons-of-programming-in-go#:~:text=Go's%20syntax%20is%20small%20compared,of%20time%20looking%20things%20up.&text=Non%2DGo%20programmers%2C%20especially%20those,usually%20understand%20what's%20going%20on.) after using it to build an API. This reduces time searching for answers and syntax online and in reference books.
+It’s also reputed to be faster and easier than Perl to learn, which tops the list of highest salaries. Perl comes with several decades of history and opinions to wade through, while Go, created only in 2009, has a smaller and more modern syntax. Unlike many coding languages with bloated vocabularies, Go is small enough to "fit in your head," to paraphrase Samuel Jones, a data engineer who [wrote up a review of Go](https://willowtreeapps.com/ideas/the-pros-and-cons-of-programming-in-go#:~:text=Go's%20syntax%20is%20small%20compared,of%20time%20looking%20things%20up.&text=Non%2DGo%20programmers%2C%20especially%20those,usually%20understand%20what's%20going%20on.) after using it to build an API. This reduces time searching for answers and syntax online and in reference books.
 
 It’s also possible to learn it just by reading since the syntax is clear enough that non-Goers and even non-coders can look at it and understand what’s happening.
 
@@ -174,7 +174,7 @@ Once you’ve grasped the basics, some other great resources include [Go By Exam
 
 Rust is the most-loved language for the fifth year running and is the fifth-most wanted language (14.6%) according to the [2020 Stack Overflow’s Developer Survey](http://jstherightway.org/). So why is it not top of the list despite being objective the most popular coding language of all? Because according to the very same survey, [97% of those survey respondents had never used Rust](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/). It also has an uncertain future.
 
-Mozilla sponsored the development of Rust in 2009 and [announced it in 2010](http://venge.net/graydon/talks/intro-talk-2.pdf). It is viewed as an alternative to other systems programming languages, like C or C++, built to “be a language for highly concurrent and highly safe [systems](https://en.wikipedia.org/wiki/System_programming)” according to its [Wikipedia page](https://en.wikipedia.org/wiki/Rust_(programming_language)#cite_ref-30). What this means for developers is that they can write safe code quickly and efficiently.
+Mozilla sponsored the development of Rust in 2009 and [announced it in 2010](http://venge.net/graydon/talks/intro-talk-2.pdf). It is viewed as an alternative to other systems programming languages, like C or C++, built to "be a language for highly concurrent and highly safe [systems](https://en.wikipedia.org/wiki/System_programming)" according to its [Wikipedia page](https://en.wikipedia.org/wiki/Rust_(programming_language)#cite_ref-30). What this means for developers is that they can write safe code quickly and efficiently.
 
 However, due to Covid, Mozilla [laid off a large part of their Rust team](https://insights.dice.com/2020/08/27/rust-in-trouble-after-big-mozilla-layoffs/) to focus on commercial products. While they’ve announced that there will be a foundation created to take ownership of the future and costs of Rust, it’s unsure yet how that will shape up.
 
@@ -182,7 +182,7 @@ However, due to Covid, Mozilla [laid off a large part of their Rust team](https:
 
 Assuming Rust is able to overcome current difficulties, I expect it will become more popular year by year. It has a dedicated fan base of current developers, with a growing chunk of coders interested in learning it. While it may not be top of the list in 2021, I believe it may be the most popular coding language of 2022 or beyond.
 
-[Many coders](https://www.reddit.com/r/rust/comments/7rza1q/why_is_rust_difficult/dt0rp4o?utm_source=share&utm_medium=web2x&context=3) compare it favorably to C++ in terms of ease of learning. The priority on safe code can be frustrating for many coders who type in code only to get annoying error messages, but this may be a shift away from the “move fast and break things” mentality and moving more towards a safer, more structurally sound codebase. It has applications for both long-standing necessities of development as well as more futuristic endeavors. [Mozilla’s page](https://research.mozilla.org/rust) on it describes the applications as ranging from, “game engines, operating systems, file systems, browser components and simulation engines for virtual reality.”
+[Many coders](https://www.reddit.com/r/rust/comments/7rza1q/why_is_rust_difficult/dt0rp4o?utm_source=share&utm_medium=web2x&context=3) compare it favorably to C++ in terms of ease of learning. The priority on safe code can be frustrating for many coders who type in code only to get annoying error messages, but this may be a shift away from the "move fast and break things" mentality and moving more towards a safer, more structurally sound codebase. It has applications for both long-standing necessities of development as well as more futuristic endeavors. [Mozilla’s page](https://research.mozilla.org/rust) on it describes the applications as ranging from, "game engines, operating systems, file systems, browser components and simulation engines for virtual reality."
 
 For these reasons, Rust may be the most popular coding language of the future. 
 
@@ -190,7 +190,7 @@ For these reasons, Rust may be the most popular coding language of the future.
 
 Because Rust is so focused on safety and structure, developers have spent a lot of time and resources ensuring error messages are user-friendly, unlike many other coding languages. This makes it especially rewarding for beginners to learn, as when they make a mistake, it’s easy to correct. 
 
-The [Rust website](https://www.rust-lang.org/learn) offers three paths to try - reading from what’s known as “[The Book](https://doc.rust-lang.org/book/),” trying out the [Rustlings Course](https://github.com/rust-lang/rustlings/) with small projects to help get you up and running, and [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/), which illustrates the concepts and libraries that underpin Rust. All these resources are free.
+The [Rust website](https://www.rust-lang.org/learn) offers three paths to try - reading from what’s known as "[The Book](https://doc.rust-lang.org/book/)," trying out the [Rustlings Course](https://github.com/rust-lang/rustlings/) with small projects to help get you up and running, and [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/), which illustrates the concepts and libraries that underpin Rust. All these resources are free.
 
 As [one Redditor points out](https://www.reddit.com/r/rust/comments/bijkzd/best_way_to_learn_rust/em20uik?utm_source=share&utm_medium=web2x&context=3), it’s a relatively new language in that many of the answers to questions you’ll have, haven’t yet been posted and answered on places like Stack Overflow. For this reason, they recommend joining the Discord channel as a way to gain mentorship and a supportive community to learn Rust. 
 

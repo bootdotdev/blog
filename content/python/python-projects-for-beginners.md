@@ -89,7 +89,7 @@ For example, this Python project for data science is intended for you to demonst
 
 Have you ever wanted to make a neural network that makes images become really trippy using Python and Tensorflow, mimicking the effects of hallucinogenic drugs? Well, who wouldn’t? And now you can learn how with [t](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)h[is](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5) YouTube lecture/tutorial.
 
-Siraj is an awesome tutor due to his energy and clear experience. He has a whole series of tutorials that make up his “Learn Python for Data Science” course. He links to the source code in all his videos, so you can try this out for yourself.
+Siraj is an awesome tutor due to his energy and clear experience. He has a whole series of tutorials that make up his "Learn Python for Data Science" course. He links to the source code in all his videos, so you can try this out for yourself.
 
 We also have an article on [Python for data science](https://boot.dev/python/python-for-data-science/)
 

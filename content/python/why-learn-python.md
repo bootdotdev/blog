@@ -18,7 +18,7 @@ With that in mind, we’ve put together our top reasons why you should learn Pyt
 
 ## What is Python?
 
-Python was first developed by Dutch programmer Guido van Rossum over the Christmas period in 1989. Seeing he had some spare time over the festive season, he developed Python as a scripting language based on the ABC language. Until recently hailed as the Python “benevolent dictator for life”, Van Rossum is all but retired now, having since worked for companies like Google, Dropbox, and more recently Microsoft.
+Python was first developed by Dutch programmer Guido van Rossum over the Christmas period in 1989. Seeing he had some spare time over the festive season, he developed Python as a scripting language based on the ABC language. Until recently hailed as the Python "benevolent dictator for life", Van Rossum is all but retired now, having since worked for companies like Google, Dropbox, and more recently Microsoft.
 
 Python is a high-level programming language designed to read as easily as possible. Its syntax follows plain English — a breath of fresh air compared to less intuitive languages like Java or C++ — and it’s an object-oriented language that can also support functional programming, as well as empirical and structured paradigms.
 

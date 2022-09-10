@@ -8,7 +8,7 @@ date: "2020-02-06"
 
 While anyone will find at least a couple of our coding courses directly applicable to their current situation, you will get the most out of our platform if you’ve been coding for a little while but are in the process of finding your first dev job.
 
-Our [curriculum](https://github.com/bootdotdev/curriculum) is computer science-focused, and if you work through it, the glass ceiling of “entry-level programming jobs” will shatter for you. Our computer science curriculum takes you through the concepts you’d find in a university-quality CS degree.
+Our [curriculum](https://github.com/bootdotdev/curriculum) is computer science-focused, and if you work through it, the glass ceiling of "entry-level programming jobs" will shatter for you. Our computer science curriculum takes you through the concepts you’d find in a university-quality CS degree.
 
 ## I’ve never written code before, is Boot.dev for me?
 

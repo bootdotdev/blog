@@ -38,7 +38,7 @@ When I set out to get my job, I had only a very vague idea of what I wanted to d
 
 If you have a more specific idea than me, like you know you want to be a data scientist or that you want to be a front-end engineer, you’ll have an easier time than I did picking a course to complete for a certificate. This is a much more highly specialized knowledge that you can use to prove your worth to employers.
 
-If you’re still unsure and just know you want something programming-related, it’s worth spending some time deciding what it is you want to do before launching yourself into a degree or a certificate. You can do something similar to what I did, and look at several [CS job descriptions](/computer-science/highest-paying-computer-science-jobs/) to see what universal skills would be handy to have or talk to any programmers you know today to see what they’d say. It might even be worth doing an “Intro to X” type course before you sink time and cash into a degree that might not end up being your passion.
+If you’re still unsure and just know you want something programming-related, it’s worth spending some time deciding what it is you want to do before launching yourself into a degree or a certificate. You can do something similar to what I did, and look at several [CS job descriptions](/computer-science/highest-paying-computer-science-jobs/) to see what universal skills would be handy to have or talk to any programmers you know today to see what they’d say. It might even be worth doing an "Intro to X" type course before you sink time and cash into a degree that might not end up being your passion.
 
 {{< cta2 >}}
 

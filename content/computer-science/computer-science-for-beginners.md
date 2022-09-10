@@ -76,7 +76,7 @@ While most schools have computer science courses, these schools are considered t
 
 ### Scholarships: 2022 into 2023
 
-You may think, “well, that list of schools is lovely, but I’m completely broke”! Don’t worry, we have you covered–there are numerous scholarship options available for computer science hopefuls, some even covering the cost of thousands of dollars. Each scholarship has different parameters that need to be met, but scholarships are an excellent way to save yourself money (and escape the hellish void of student loan debt) if you decide to pursue a school-bound course.
+You may think, "well, that list of schools is lovely, but I’m completely broke"! Don’t worry, we have you covered–there are numerous scholarship options available for computer science hopefuls, some even covering the cost of thousands of dollars. Each scholarship has different parameters that need to be met, but scholarships are an excellent way to save yourself money (and escape the hellish void of student loan debt) if you decide to pursue a school-bound course.
 
 1. [(ISC)2 Graduate Scholarships](https://scholarships360.org/scholarships/search/isc%c2%b2-graduate-scholarship/)
 2. [(ISC)2 Undergraduate Scholarships](https://scholarships360.org/scholarships/search/isc2-undergraduate-scholarships/)
@@ -347,7 +347,7 @@ The same thing I said about podcasts applies to YouTube videos however, **make s
 * [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh/videos) - Covers a wide range of programming languages such as Python, C#, and more in hour-long videos
 * [Teluska Learnings](https://www.youtube.com/c/Telusko/about) - Offers free programming tutorials for beginners to advanced, covering material for Java, Python, Blockchain, and more
 * [The PCSecurity](https://www.youtube.com/c/thepcsecuritychannel/about) - This channel is the go-to for cybersecurity, covering antivirus software, Endpoint security testing, product testing, and cyber security news from around the world
-* [Treehouse](https://www.youtube.com/c/gotreehouse/about) - Professor “T” shares hundreds of courses on how to build web apps, mobile apps, and start your own business
+* [Treehouse](https://www.youtube.com/c/gotreehouse/about) - Professor "T" shares hundreds of courses on how to build web apps, mobile apps, and start your own business
 * [Zach Star](https://www.youtube.com/c/zachstar) - While not wholly dedicated to all things computer science, he shares some exemplary insights into [computer science fields and subfields](https://www.youtube.com/watch?v=2VpDcjFshJI) and [what computer science is](https://www.youtube.com/watch?v=Tzl0ELY_TiM&t=1s)
 
 ### Computer Science Bootcamps for newbies

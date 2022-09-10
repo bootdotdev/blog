@@ -8,13 +8,13 @@ images:
   - /img/800/pexels-cottonbro-3943716-scaled.webp
 ---
 
-If you’re thinking about dipping your toe into the finance sector for your career and you stumble across this article, you may be wondering, “How can Python help in finance?”
+If you’re thinking about dipping your toe into the finance sector for your career and you stumble across this article, you may be wondering, "How can Python help in finance?"
 
 You, like me, may be surprised to learn that you should learn to code altogether - and even more surprised to learn that the best language for finance is a popular data science language, Python. Learning financial programming with Python is becoming a requirement. 
 
 Finance and banking have a reputation for very high salaries, so the job field attracts a large number of applicants. If you’re one of them, you should know Python is hugely popular for finance — and still growing in popularity. Python is widely used in risk management, the creation of trading bots, quantitative finance for analyzing big financial data, and more.
 
-Here are nine answers to “Should I learn Python for finance?”
+Here are nine answers to "Should I learn Python for finance?"
 
 ## 1. Fast, Simple & Clear
 
@@ -28,7 +28,7 @@ It’s a great idea to learn Python for finance because of the same reasons that
 
 Python as a language is bolstered by libraries, AKA reusable chunks of code someone else already built for you. Beyond being simple to pick up, there’s a robust framework of open-source, third-party libraries that are useful in all sorts of situations but specifically for finance. 
 
-Libraries like Scikit and Pybrain are especially useful in the finance world. Some people consider the Python finance libraries “shortcuts” already since you don’t have to code that functionality from scratch. I’d agree. Financial data analysis with Python is a lot quicker with these libraries.
+Libraries like Scikit and Pybrain are especially useful in the finance world. Some people consider the Python finance libraries "shortcuts" already since you don’t have to code that functionality from scratch. I’d agree. Financial data analysis with Python is a lot quicker with these libraries.
 
 Scipy, NumPy, Matplotlib, and a range of other add-ons make it easier than ever to perform and visualize financial calculations and algorithms. Importantly, these help you not only work with the data, but more easily communicate the results to key decision-makers.
 
@@ -64,7 +64,7 @@ In sum, Python lets finance coders build a minimum viable product and iterate fr
 
 Python is [better known for data science](/python/python-for-data-science/) but it serves as a great bridge between economics and data science (also known as the finance area). 
 
-To quote an expert, “It's just much easier to integrate the work of economists into Python-based platforms. Tools like SciPy, NumPy or Matplotlib allow one to perform sophisticated financial calculations and display the results in a very approachable manner,” [says](https://www.netguru.com/blog/python-in-finance) Jakub Protasiewicz, an engineering manager with over ten years of IT experience.
+To quote an expert, "It's just much easier to integrate the work of economists into Python-based platforms. Tools like SciPy, NumPy or Matplotlib allow one to perform sophisticated financial calculations and display the results in a very approachable manner," [says](https://www.netguru.com/blog/python-in-finance) Jakub Protasiewicz, an engineering manager with over ten years of IT experience.
 
 Economists use Python for their economic analysis due to its simplicity and flatter learning curve. 
 

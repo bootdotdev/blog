@@ -17,7 +17,7 @@ The last thing you want to do is go back to school for another two or four very 
 
 However, as you do some more research on the big promises of bootcamps, you'll likely learn the path of getting a job after coding bootcamp can leave you drastically underprepared for the programming job market.
 
-> “_We see more and more students coming to boot.dev because they're having a hard time landing jobs after taking a bootcamp or completing web development crash courses._”
+> "_We see more and more students coming to boot.dev because they're having a hard time landing jobs after taking a bootcamp or completing web development crash courses._"
 > 
 > Lane Wagner, author of [boot.dev's computer science courses](https://boot.dev/).
 

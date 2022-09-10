@@ -8,9 +8,9 @@ images:
   - /img/800/JavaScript-vs-TypeScript-min.webp
 ---
 
-Whether you’re new or old to the computer science community, you’ve probably asked yourself, “What is TypeScript?” and if you haven’t, it won’t be long before you do.
+Whether you’re new or old to the computer science community, you’ve probably asked yourself, "What is TypeScript?" and if you haven’t, it won’t be long before you do.
 
-However, that question then always leads to, “but wait, what’s the difference between TypeScript and JavaScript?” – so allow me to explain.
+However, that question then always leads to, "but wait, what’s the difference between TypeScript and JavaScript?" – so allow me to explain.
 
 JavaScript (JS) is arguably a household name with how popular the language has been from the start. Released in 1995, it’s a high-level, dynamically typed, multiparadigm programming language developed by Brenden Eich at Netscape. JavaScript is one of the core technologies behind the World Wide Web and web browser development, alongside HTML and CSS.
 
@@ -81,7 +81,7 @@ There’s also no short supply of amazing libraries and tools like Node.js for s
 
 JavaScript is also platform-independent, cutting down on time rewriting programs for different platforms.
 
-Typescript’s “performance” per se comes in during the actual coding time. It doesn’t specifically boost performance, but it makes debugging easier and its static typing makes compiling faster.
+Typescript’s "performance" per se comes in during the actual coding time. It doesn’t specifically boost performance, but it makes debugging easier and its static typing makes compiling faster.
 
 Overall, comparing TypeScript’s and JavaScript’s performance is a bit of a misnomer since they’ll always perform the same. The real difference is seen in the way the languages are written.
 

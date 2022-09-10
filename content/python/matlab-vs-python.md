@@ -26,7 +26,7 @@ Originally developed by math magician and computer programmer Cleve Moler in the
 
 ## A brief history of Python
 
-Python is a very different language. It is officially defined [by Wikipedia as](https://en.wikipedia.org/wiki/Python_(programming_language)) “an interpreted high-level general-purpose programming language.” It's open-source, which means anybody can access it, dig around in the guts to see how it works, and even create their own packages for it. This is one of the major advantages of Python over Matlab.
+Python is a very different language. It is officially defined [by Wikipedia as](https://en.wikipedia.org/wiki/Python_(programming_language)) "an interpreted high-level general-purpose programming language." It's open-source, which means anybody can access it, dig around in the guts to see how it works, and even create their own packages for it. This is one of the major advantages of Python over Matlab.
 
 Python was ideated in the late 1980s and was first implemented in December 1989. It's been around since then, growing more popular, and consistently ranks as one of the most popular languages today. It's got a huge and growing functionality. It's good for simple tasks that beginners might be interested in, and complex tasks that organizations might want.
 
@@ -78,7 +78,7 @@ Machine learning makes the internet you use a lot more user-friendly. It makes i
 
 This section has an easy answer: Python is the winner over Matlab. Python has tons of libraries and packages for both old school and new school machine learning models. Plus, Python is the most widely used language for modern machine learning research in industry and academia. Manie Tadayon said it best in his [article](https://medium.com/swlh/python-vs-r-vs-matlab-for-machine-learning-causal-inference-signal-processing-and-more-b837a988c674):
 
-> “\[Machine learning\] is the area where Python and R have a clear advantage over Matlab.”
+> "\[Machine learning\] is the area where Python and R have a clear advantage over Matlab."
 
 Matlab _can_ be used for machine learning. Matlab has a large collection of algorithms that can offer immediate visual feedback. But remember, those algorithms are proprietary. There's very little code portability. While it's easier to get started with machine learning, it doesn't really have a future unless you only work with other people who use Matlab.
 
@@ -100,7 +100,7 @@ Python is comparatively easy for beginners to learn. It's open-source, which mea
 
 ## Matlab versus Python: Which is best for deep learning?
 
-Deep learning is considered an evolution of machine learning. According to Zendesk’s [helpful blog post](https://www.zendesk.com/blog/machine-learning-and-deep-learning/), deep learning “uses a programmable neural network that enables machines to make accurate decisions without help from humans.” You can consider it a subfield of machine learning. Theoretically, deep learning models should be able to determine on their own if predictions are accurate. Machine learning requires more human guidance.
+Deep learning is considered an evolution of machine learning. According to Zendesk’s [helpful blog post](https://www.zendesk.com/blog/machine-learning-and-deep-learning/), deep learning "uses a programmable neural network that enables machines to make accurate decisions without help from humans." You can consider it a subfield of machine learning. Theoretically, deep learning models should be able to determine on their own if predictions are accurate. Machine learning requires more human guidance.
 
 That's part of the reason I consider Python the best option for deep learning. Because Matlab is proprietary, it means innovations are slower. Python is open-source, which means anybody can create packages that become widely adopted by the Pythonista community.  Packages like PyTorch, Tensorflow, Caffe, and so on are widely used for deep learning. If you have a look at most deep learning online courses, they all feature Python. 
 

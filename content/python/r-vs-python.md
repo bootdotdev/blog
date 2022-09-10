@@ -20,7 +20,7 @@ Named after the British comedy group Monty Python, Python is a high-level, proce
 
 R, on the other hand, took a more personal touch to naming. Named after its creators, Ross Ihaka and Robert Gentleman, R first appeared in 1993 while Ihaka and Gentleman were at the University of Auckland, as an open-source, multiparadigm, dynamically typed programming language.
 
-R is actually the implementation ­– or modernized – form of the S programming language, which was developed in 1976 to “turn ideas into software, quickly and safely”. It was developed solely for statistical computing and has become an incredibly popular language for data science.
+R is actually the implementation ­– or modernized – form of the S programming language, which was developed in 1976 to "turn ideas into software, quickly and safely". It was developed solely for statistical computing and has become an incredibly popular language for data science.
 
 So, we have one multi-functional language and one specific, now it’s time to see how they compare. First, I’ll lay out how each language works for beginners and experts, then break down salary, performance, which is best for data science, machine learning, and you!
 
@@ -58,7 +58,7 @@ It also has a massive thriving and welcoming community, which is perfect as an o
 
 Alternatively, R’s greatness in data science lies with statistical data. It has a set of packages called the [Tidyverse](https://www.tidyverse.org/), which are powerful but easy-to-learn tools for importing, manipulating, visualizing, and reporting on data.
 
-The real difference for R is it’s a programming language for non-programmers. Think researchers, academics, and anyone using statistics, but isn’t necessarily a “developer”.  R gives these users easy access to high-grade data visualization and charts.  
+The real difference for R is it’s a programming language for non-programmers. Think researchers, academics, and anyone using statistics, but isn’t necessarily a "developer".  R gives these users easy access to high-grade data visualization and charts.  
 
 R also has the [Shiny](https://shiny.rstudio.com/) package for dashboard creations, which allows those with little technical experience to easily craft and publish dashboards to share with colleagues.
 

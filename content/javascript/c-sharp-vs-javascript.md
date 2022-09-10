@@ -8,7 +8,7 @@ images:
   - /img/800/JavaScript-vs-C-Sharp-min.png
 ---
 
-JavaScript (JS), once regarded as simply a “glue language”, has gone on to become [the most popular programming language](https://www.statista.com/statistics/793628/worldwide-developer-survey-most-used-languages/) in the world.
+JavaScript (JS), once regarded as simply a "glue language", has gone on to become [the most popular programming language](https://www.statista.com/statistics/793628/worldwide-developer-survey-most-used-languages/) in the world.
 
 First appearing in 1995, JavaScript is a high-level, dynamically typed, multiparadigm scripting language that also functions as an object-oriented programming language.
 
@@ -40,7 +40,7 @@ C# was built by Microsoft for Microsoft, so it’s not the most versatile langua
 
 That said, C# and .NET do support large-scale enterprise projects, web development, and even game development.
 
-JavaScript is more of a “great equalizer” among programming languages. It’s the [most used language by developers](https://insights.stackoverflow.com/survey/2021#technology) regardless of the field they work in, so if you don’t learn it now, at some point you probably will.
+JavaScript is more of a "great equalizer" among programming languages. It’s the [most used language by developers](https://insights.stackoverflow.com/survey/2021#technology) regardless of the field they work in, so if you don’t learn it now, at some point you probably will.
 
 JavaScript is easy to pick up as well. It has a much more fluid structure, being weakly, dynamically typed. However, it’s not as complex as C#. JavaScript also uses asynchronous programming with its call and response functions, as opposed to C# explicit multithreading.
 

@@ -70,7 +70,7 @@ They don’t have the same commitment level, there’s very little community aro
 
 One crucial aspect to remember is that many coding bootcamps come with a job offer guarantee or your money back.
 
-Coding bootcamps are often well-connected in the software engineering industry, and they aren’t shy about putting their network to good use on your behalf. Especially for coding bootcamps that offer income share agreements, it’s in their best interest to make sure you’re employed soon after you “graduate” the bootcamp.
+Coding bootcamps are often well-connected in the software engineering industry, and they aren’t shy about putting their network to good use on your behalf. Especially for coding bootcamps that offer income share agreements, it’s in their best interest to make sure you’re employed soon after you "graduate" the bootcamp.
 
 However, it’s also good to know that the requirements for fulfilling that job offer are pretty strict. Many require you to accept the first job you’re offered – even if it’s not what you want, or it’s a part-time or contract role. They may also need to submit a certain number of job applications per week.
 

@@ -92,7 +92,7 @@ If you have any questions, they have plenty of events and [admissions staff](htt
 
 **Cost:** The cost is $16,900, with a $500 deposit. They only offer upfront payments, loan payments, of 12 monthly payments of
 
-**Duration:** option to learn full-time (15 weeks) or on a flexible pace schedule (20, 40, or 60 weeks). They expect a forty-hour week from you, with some “prework” requirements to get you up to speed.
+**Duration:** option to learn full-time (15 weeks) or on a flexible pace schedule (20, 40, or 60 weeks). They expect a forty-hour week from you, with some "prework" requirements to get you up to speed.
 
 **Structure:** They spend some time teaching you about the fundamentals of programming, which is key for any online coding bootcamp. You’ll also get daily touchpoints with your cohort, group work with instructor help, paired with programming sessions, lab time with instructional staff, and community support. It’s worth noting that their part-time offering is much more self-driven – you’ll get mostly recorded lectures, with optional live weekly lectures and office hours, weekly check-ins with instructors, and have the chance to chat with classmates and instructors via Slack.
 

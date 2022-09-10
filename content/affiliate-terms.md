@@ -6,7 +6,7 @@ date: "2020-02-06"
 
 ## Agreement
 
-By signing up to be an Affiliate in the Boot.dev Affiliate Program (“Program”) you are agreeing to be bound by the following terms and conditions (“Terms of Service”).
+By signing up to be an Affiliate in the Boot.dev Affiliate Program ("Program") you are agreeing to be bound by the following terms and conditions ("Terms of Service").
 
 Boot.dev reserves the right to update and change the Terms of Service from time to time without notice. Any new features that augment or enhance the current Program, including the release of new tools and resources, shall be subject to the Terms of Service. Continued use of the Program after any such changes shall constitute your consent to such changes.
 
@@ -16,7 +16,7 @@ Violation of any of the terms below will result in the termination of your Accou
 
 You must be 18 years or older to be part of this Program.
 You must live in the United States to be an Affiliate.
-You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
+You must be a human. Accounts registered by "bots" or other automated methods are not permitted.
 You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process.
 Your login may only be used by one person – a single login shared by multiple people is not permitted.
 You are responsible for maintaining the security of your account and password. Boot.dev cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
@@ -27,7 +27,7 @@ You may not use the Affiliate Program to earn money on your own Boot.dev product
 Links/graphics on your site, in your emails, or other communications
 Once you have signed up for the Affiliate Program, you will be assigned a unique Affiliate Code. You are permitted to place links, banners, or other graphics we provide with your Affiliate Code on your site, in your emails, or in other communications. We will provide you with guidelines, link styles, and graphical artwork to use in linking to Boot.dev. We may change the design of the artwork at any time without notice, but we won’t change the dimensions of the images without proper notice.
 
-To permit accurate tracking, reporting, and referral fee accrual, we will provide you with special link formats to be used in all links between your site and the Boot.dev. You must ensure that each of the links between your site and the Boot.dev properly utilizes such special link formats. Links to the Boot.dev placed on your site pursuant to this Agreement and which properly utilize such special link formats are referred to as “Special Links.” You will earn referral fees only with respect to sales on a Boot.dev product occurring directly through Special Links; we will not be liable to you with respect to any failure by you or someone you refer to use Special Links or incorrectly type your Affiliate Code, including to the extent that such failure may result in any reduction of amounts that would otherwise be paid to you pursuant to this Agreement.
+To permit accurate tracking, reporting, and referral fee accrual, we will provide you with special link formats to be used in all links between your site and the Boot.dev. You must ensure that each of the links between your site and the Boot.dev properly utilizes such special link formats. Links to the Boot.dev placed on your site pursuant to this Agreement and which properly utilize such special link formats are referred to as "Special Links." You will earn referral fees only with respect to sales on a Boot.dev product occurring directly through Special Links; we will not be liable to you with respect to any failure by you or someone you refer to use Special Links or incorrectly type your Affiliate Code, including to the extent that such failure may result in any reduction of amounts that would otherwise be paid to you pursuant to this Agreement.
 
 Affiliate links should point to the page of the product being promoted.
 

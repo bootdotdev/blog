@@ -24,7 +24,7 @@ Now, it may seem silly to compare such seemingly unrelated tools, but they’re 
 
 Both tools have great benefits for experienced programmers.
 
-If you already use JavaScript, then Node.js makes sense to adopt as an experienced programmer. It’s easier to learn a new “framework” rather than a whole language.
+If you already use JavaScript, then Node.js makes sense to adopt as an experienced programmer. It’s easier to learn a new "framework" rather than a whole language.
 
 Node.js also has great reusability, which blends perfectly with its event-based applications, and uses JavaScript’s fastest engine, the V8, which can save you time when developing and running code on your servers. It’s popular for creating programs that use real-time processing, like video games and messaging.
 

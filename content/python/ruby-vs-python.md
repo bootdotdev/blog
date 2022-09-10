@@ -108,7 +108,7 @@ However, it's not like Ruby is dense and difficult to read. It produces elegant 
 
 ## 9. Ruby vs Python: Which is more innovative?
 
-Ruby coders love to tout [Ruby’s development model](https://www.educba.com/python-vs-ruby-performance/) of “move fast and break things.” This means it's likely more innovative than Python, or at least used in more modern projects. Python has had a slow, steady growth over the years.
+Ruby coders love to tout [Ruby’s development model](https://www.educba.com/python-vs-ruby-performance/) of "move fast and break things." This means it's likely more innovative than Python, or at least used in more modern projects. Python has had a slow, steady growth over the years.
 
 Coding in Ruby encourages diverse and different solutions to similar problems, Rubyists often find themselves on the cutting edge of web development.
 

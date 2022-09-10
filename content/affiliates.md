@@ -60,7 +60,7 @@ At Boot.dev we believe in quality first for all our products and messaging. Don�
 
 ###  Create content that potential users of Boot.dev want to read.
 
-For example, you could write blog posts that relate directly to what Boot.dev offers. “9 Ways to Teach Yourself to Code” would be a great article to write, and you could include a link to Boot.dev within one of the sections.
+For example, you could write blog posts that relate directly to what Boot.dev offers. "9 Ways to Teach Yourself to Code" would be a great article to write, and you could include a link to Boot.dev within one of the sections.
 
 ### Use relevant content you’ve created in the past.
 

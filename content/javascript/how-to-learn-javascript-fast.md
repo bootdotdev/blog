@@ -80,7 +80,7 @@ This is the most crucial step in learning how to program quickly – figuring ou
 
 ## How to learn JavaScript fast: Make cool stuff
 
-Remember when you reflected on why you’re Googling “how to learn JavaScript fast” today? Think of a project, big or small, that relates to this pressing need to learn Javascript as fast as possible. Maybe you want to use technology to connect people – build a chat app. Do you think facial recognition is the next big thing? Train a machine learning model to recognize your friends and family in your photos. Perhaps you like math – write a script that finds the roots of polynomial functions.
+Remember when you reflected on why you’re Googling "how to learn JavaScript fast" today? Think of a project, big or small, that relates to this pressing need to learn Javascript as fast as possible. Maybe you want to use technology to connect people – build a chat app. Do you think facial recognition is the next big thing? Train a machine learning model to recognize your friends and family in your photos. Perhaps you like math – write a script that finds the roots of polynomial functions.
 
 The best thing about programming is that it has so many applications. Computer science can be used in agriculture, healthcare, education, social interaction, automation, manufacturing, entertainment, and more.
 

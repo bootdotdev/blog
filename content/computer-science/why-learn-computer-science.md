@@ -10,7 +10,7 @@ images:
 
 Is it a bit dramatic, perhaps, to say that the fate of the world rests on computer science and that’s why you should [learn computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/)?
 
-Maybe, but not by much. Computer science is “the study of computation and information, and is a subject which involves you in the very make-up of the world,” the University of York [posits](https://www.cs.york.ac.uk/undergraduate/what-is-cs/). Computer science is everywhere in our everyday lives. I wrote this article on a PC; you’re reading it on one, or a mobile phone. When I get paid this month, a computer-science-powered banking system will send it and receive it.
+Maybe, but not by much. Computer science is "the study of computation and information, and is a subject which involves you in the very make-up of the world," the University of York [posits](https://www.cs.york.ac.uk/undergraduate/what-is-cs/). Computer science is everywhere in our everyday lives. I wrote this article on a PC; you’re reading it on one, or a mobile phone. When I get paid this month, a computer-science-powered banking system will send it and receive it.
 
 Beyond our quotidian day to day, computer science also is a vital part of the cutting edge of humanity. The large hadron collider [uses](https://home.cern/science/computing) computer science. Web3 crypto is [based](https://m.princeton.edu/default/courses/detail?area=COS&course=002084&term=1224) on computer science principles. No matter how big or small you look, almost every piece of modern technology likely requires components designed using computer science.
 
@@ -42,11 +42,11 @@ For example, [this](https://www.linkedin.com/jobs/view/software-engineer-front-e
 
 ## 3. Engage your creative side
 
-When you think of computer science, you probably think of the analytical “right-brain” or people typing quickly into keyboards while sitting in the dark. But computer science is a very creative discipline. It requires a lot of flexible thinking when it comes to coding, and the inherent problem-solving present in any computer science task also requires a lot of analytical thinking.
+When you think of computer science, you probably think of the analytical "right-brain" or people typing quickly into keyboards while sitting in the dark. But computer science is a very creative discipline. It requires a lot of flexible thinking when it comes to coding, and the inherent problem-solving present in any computer science task also requires a lot of analytical thinking.
 
 A computer scientist will experiment, think about the problem, and finally enter some code that might get the job done. Then they’ll iterate, debug, and keep problem-solving until they create a solution. Then, they'll keep tweaking that solution until it's optimized.
 
-Painters and writers get a lot of creative credit. Computer scientists deserve as much, if not more. When you ask a computer scientist, “Why did you choose to study computer science?” many will mention the joy of creativity before anything else.
+Painters and writers get a lot of creative credit. Computer scientists deserve as much, if not more. When you ask a computer scientist, "Why did you choose to study computer science?" many will mention the joy of creativity before anything else.
 
 {{< cta2 >}}
 
@@ -64,7 +64,7 @@ But I do use the skills I learned while I got those degrees. I practice problem-
 
 Even if you learned everything there was to learn in computer science and never worked in the computer science field, it would not be a waste of time. You’ll practice your creativity as I mentioned in point three, but you’ll also practice collaboration, communication, and indulging in your curiosity. You’ll learn resilience. You’ll learn how to research.
 
-The “soft” skills you learn when you study computer science are useful and applicable everywhere else in the job industry. That’s why you should learn computer science.
+The "soft" skills you learn when you study computer science are useful and applicable everywhere else in the job industry. That’s why you should learn computer science.
 
 ## 6. Only up from here
 

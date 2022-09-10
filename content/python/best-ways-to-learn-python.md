@@ -18,7 +18,7 @@ This list does not try to answer the end-all, be-all best way to learn Python. I
 
 ## The Best Way to Learn Python Interactively
 
-While you're looking through this list and seeing a lot of challenging options that include self-driven work, reading textbooks, watching lectures, and wondering, “What is the best way to learn Python programming that doesn’t require me to read a textbook?”, you're probably the kind of person who benefits from interactive teaching. I think this is the most efficient way to learn Python because the knowledge is much stickier.
+While you're looking through this list and seeing a lot of challenging options that include self-driven work, reading textbooks, watching lectures, and wondering, "What is the best way to learn Python programming that doesn’t require me to read a textbook?", you're probably the kind of person who benefits from interactive teaching. I think this is the most efficient way to learn Python because the knowledge is much stickier.
 
 The best way to Learn Python interactively is by taking the courses here on boot.dev. The [Python Fundamentals](https://boot.dev/learn/learn-python) course helps you learn by doing. You'll be writing real code into the browser and it'll interactively guide you through the lessons. 
 
@@ -64,7 +64,7 @@ If you want to learn Python quickly, you're in for a tough ride. The truth is th
 
 Every time I tried to learn them, I found that books didn't help me, courses didn't motivate me, and instructors didn't teach me the way I needed to be taught. I could have slogged through and eventually learned these languages but you know what taught me Python fast? It was having my own project.
 
-I did it by accident - it’s not like I asked myself, “Hm, Zulie, how best to learn Python?” Instead I had a driving need to know whether asking questions in my [Instagram captions](http://instagram.com/astridandchumbo) meant more engagement on my cat pictures. R is not great at scraping and Python is, so I needed to learn Python. 
+I did it by accident - it’s not like I asked myself, "Hm, Zulie, how best to learn Python?" Instead I had a driving need to know whether asking questions in my [Instagram captions](http://instagram.com/astridandchumbo) meant more engagement on my cat pictures. R is not great at scraping and Python is, so I needed to learn Python. 
 
 If you want to learn Python fast, the best way is to [find a project](/python/python-projects-for-beginners/) that you really care about and that will drive you batty unless you solve it. Position yourself so that the only obstacle standing between you and the answers you crave is your knowledge of Python. That’s how I picked up Python basics extremely quickly.
 
@@ -76,7 +76,7 @@ Boot.dev itself also employs a number of smaller projects throughout its courses
 
 After a long day of work, the last thing I want to do is spend my time listening to dull lectures as my eyes begin to blur letters and numbers together. In fact, what I like to do is curl up on the couch and play some games.
 
-Codewars has created one of the most innovative ways to learn and practice coding, in my opinion. Supporting dozens of languages, you’ll train your mind and sharpen your skills by completing “Kata’s”, which are real-time competitions between you and other coders all over the world. 
+Codewars has created one of the most innovative ways to learn and practice coding, in my opinion. Supporting dozens of languages, you’ll train your mind and sharpen your skills by completing "Kata’s", which are real-time competitions between you and other coders all over the world. 
 
 Code your way through the ranks while you accrue honor, insight into optimized coding techniques, and gain collaborative wisdom from the bustling community currently surrounding the game.
 
@@ -84,9 +84,9 @@ It does require you to prove an understanding of the language you’ll be traini
 
 ## The Best Way to Learn Python the Hard Way
 
-Maybe you think all of these lectures and free options are just a little too good to be true. In a way they are: Any content that promises to teach you Python easily is probably lying. The easiest way to learn Python is to hire someone to walk you through it step by step, and anything else that calls itself “easy” probably isn’t.
+Maybe you think all of these lectures and free options are just a little too good to be true. In a way they are: Any content that promises to teach you Python easily is probably lying. The easiest way to learn Python is to hire someone to walk you through it step by step, and anything else that calls itself "easy" probably isn’t.
 
-That's why I'm throwing learncodethehardway.org into the mix. According to [their website](https://learncodethehardway.org/python/), "Learn Code the Hard Way courses are the most effective system for learning the basics of computer programming.”
+That's why I'm throwing learncodethehardway.org into the mix. According to [their website](https://learncodethehardway.org/python/), "Learn Code the Hard Way courses are the most effective system for learning the basics of computer programming."
 
 It's not interactive, it's just an online book. Learn Python the Hard Way promises to teach you comprehensive Python in a way that's going to stick. It also includes video lectures.
 
@@ -112,7 +112,7 @@ If you complete a Python course and you don't get a certificate, did it even hap
 
 Sites like Coursera offer courses run by actual institutions. For example, the most popular Python course is offered by the University of Michigan. These courses take time: for example, the University of Michigan course expects that it'll take you approximately 8 months to complete, working at 3 hours per week, so it's not a quick option. You can enroll for free for 7 days and after that, you'll be paying $49 per month for that particular course.
 
-If you don’t have that kind of time, then boot.dev also offers certificates along with their courses. And similarly to Coursera’s specializations, where institutions will create multi-course programs covering a variety of topics, boot.dev has “tracks” where you’ll cover beginner to advanced subjects of Python suited for coders of all skill levels.
+If you don’t have that kind of time, then boot.dev also offers certificates along with their courses. And similarly to Coursera’s specializations, where institutions will create multi-course programs covering a variety of topics, boot.dev has "tracks" where you’ll cover beginner to advanced subjects of Python suited for coders of all skill levels.
 
 {{< cta3 >}}
 

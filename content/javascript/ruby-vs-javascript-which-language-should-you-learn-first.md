@@ -16,7 +16,7 @@ Before JS, there was only [HTML and CSS](/javascript/html-css-javascript/), whic
 
 It’s amazing to think that in 1995, Brendan Eich developed this interpreted, high-level, multiparadigm scripting and programming language in just 10 days, and it would go on to become the industry standard client-side language.  
 
-Yet, while JavaScript was built to meet the needs of technology, Ruby was built to meet the needs of the programmer. Appearing in the same year, Japanese-based Yukihiro “Matz” Matsumoto wanted to create a fun language that inspired productivity while being a true object-oriented programming language.
+Yet, while JavaScript was built to meet the needs of technology, Ruby was built to meet the needs of the programmer. Appearing in the same year, Japanese-based Yukihiro "Matz" Matsumoto wanted to create a fun language that inspired productivity while being a true object-oriented programming language.
 
 And Matsumoto did just that with Ruby, a high-level, general-purpose, multiparadigm programming language. It has all the makings of a fun, easy language with interpreted and dynamic properties, and is widely known as a server-side language.
 

@@ -18,7 +18,7 @@ Like Florian, my thoughts here **are not science**. I'm presenting anecdotes and
 
 > Information is generally far less useful when it is only stored in one person’s head, as opposed to being accessible in a shared system that everyone trusts and can use. If you take important information out of your own head and store it in a medium that allows others to easily find and contextualise it, that’s a win for everyone....
 > 
-> ...While _sharing_ information in a chat is extremely easy, it is also a “fire and forget” mode of communications. Chat makes it difficult to find information after the fact. If you’ve ever attempted to scour a busy Slack or IRC archive for a discussion on a specific topic that you only remember to have happened a “few months ago”, you’ll agree with me here.
+> ...While _sharing_ information in a chat is extremely easy, it is also a "fire and forget" mode of communications. Chat makes it difficult to find information after the fact. If you’ve ever attempted to scour a busy Slack or IRC archive for a discussion on a specific topic that you only remember to have happened a "few months ago", you’ll agree with me here.
 
 While I agree with this in a lot of cases, the problem is that most communication contains information that simply doesn't need to be distributed to everyone. If I documented even as little as 10% of the information my team communicates between itself on slack, our Wiki would get insanely unwieldy.
 

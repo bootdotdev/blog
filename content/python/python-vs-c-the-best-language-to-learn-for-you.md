@@ -12,7 +12,7 @@ It’s either a blessing or a curse when choosing to learn Python or C++ because
 
 On the one side, we have Python, a high-level, multiparadigm, general-purpose language most known for its strength and security, and on the other, C++, a high-level, object-oriented, general-purpose language, which is popular for its fast, lightweight capabilities.
 
-Python supports procedural, object-oriented, and functional programming and is often described as “batteries included” because of its comprehensive standard library. It was designed by Netherland-based Guido van Rossum in 1991 and embodies the [Zen of Python](https://www.python.org/dev/peps/pep-0020/#toc-entry-2) philosophy, which effectively states a programming language should be straightforward, readable, and easy to use.
+Python supports procedural, object-oriented, and functional programming and is often described as "batteries included" because of its comprehensive standard library. It was designed by Netherland-based Guido van Rossum in 1991 and embodies the [Zen of Python](https://www.python.org/dev/peps/pep-0020/#toc-entry-2) philosophy, which effectively states a programming language should be straightforward, readable, and easy to use.
 
 Alternatively, C++, originally an extension of C, was developed by Danish computer scientist Bjarne Stroustrup in 1985 and was created with the idea that a language should mold to the programmer, not the other way around. Being a high-level language with low-level control emphasizes the creator's wish for users to code in a way that feels natural to them.
 
@@ -48,7 +48,7 @@ Its multiparadigm support and ability to code the same task in multiple ways mak
 
 Ease of use isn’t the only beginner quality a language needs though. It also needs versatility and resources. Python and C++ are definitely versatile, since they’re both general-purpose languages and used across multiple fields, but they’re also chock-full of resources from being in the industry for 30 years or more.  
 
-However, Python comes with the nickname “batteries included” for a reason. The amount of support Python’s standard library comes with is staggering, giving it a slight edge on C++ when it comes to resources.
+However, Python comes with the nickname "batteries included" for a reason. The amount of support Python’s standard library comes with is staggering, giving it a slight edge on C++ when it comes to resources.
 
 Overall, Python comes recommended as a beginner language because it’s readable and supportive, while C++ comes recommended as an intermediate language and for those who already understand the basics of computer science.
 
@@ -92,7 +92,7 @@ Python itself is a very secure language, which is perfect for building servers h
 
 Even though you can build web servers from scratch with Python’s standard library alone, it has loads of frameworks and libraries that help support these functions, like Django and Flask.
 
-Python’s readability comes in handy here since its intuitive syntax and “one way to do something” motto means all the programmers working on the project will mesh together seamlessly and interact with the code the same way.  
+Python’s readability comes in handy here since its intuitive syntax and "one way to do something" motto means all the programmers working on the project will mesh together seamlessly and interact with the code the same way.  
 
 There’s also the fact that Python is a popular choice for this type of work, and the community is invested in advancing the language’s server-side capabilities.
 

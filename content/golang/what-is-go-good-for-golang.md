@@ -53,7 +53,7 @@ This lets Go runs faster and offer better performance than interpreted language 
 
 Since Go was designed from the very beginning to run on multiple cores, it has rich support for concurrency and for scaling when more cores are added.
 
-Go uses “goroutines” and channels, concurrent functions that allow the rest of the program to compute while they run, making for efficient dependency management.
+Go uses "goroutines" and channels, concurrent functions that allow the rest of the program to compute while they run, making for efficient dependency management.
 
 Goroutines are great as they continue if you have a network timeout or even an entire database failure, so you can work around any problems that come up. Go’s automatic garbage collection mimics Python and makes for a more convenient coding experience. 
 
@@ -109,7 +109,7 @@ Cloud service tools like Terraform and OpenShift are written in Go to offer addi
 
 For server-side operations, Netflix uses Go for some of its server architecture, [writing its Rend proxy on Go](https://netflixtechblog.com/application-data-caching-using-ssds-5bf25df851ef). Netflix said:
 
-> “The decision to use Go was deliberate, because we needed something that had lower latency than Java (where garbage collection pauses are an issue) and is more productive for developers than C, while also handling tens of thousands of client connections. Go fits this space well.”
+> "The decision to use Go was deliberate, because we needed something that had lower latency than Java (where garbage collection pauses are an issue) and is more productive for developers than C, while also handling tens of thousands of client connections. Go fits this space well."
 
 Dropbox also switched from Python to Go in 2014 for performance-critical backend features.
 
@@ -119,7 +119,7 @@ Companies like Comcast, GitHub, Stripe and Uber use Go for their command-line in
 
 ### Web applications
 
-Large web apps like Monzo’s online banking app have been built in Go since their inception, and now use it to host over 1,600 microservices. Monzo has been using Go solely since 2015, working with Kubernetes and [highlighting that Go is](https://www.theregister.com/2020/03/09/monzo_microservices/) “_quite simple, it’s statically typed, and it makes it easy for us to get people on board._”
+Large web apps like Monzo’s online banking app have been built in Go since their inception, and now use it to host over 1,600 microservices. Monzo has been using Go solely since 2015, working with Kubernetes and [highlighting that Go is](https://www.theregister.com/2020/03/09/monzo_microservices/) "_quite simple, it’s statically typed, and it makes it easy for us to get people on board._"
 
 SoundCloud have also been using Go [since as early as 2012](https://developers.soundcloud.com/blog/go-at-soundcloud) in their build and deployment system, though they mostly use Ruby on Rails. SoundCloud developed what eventually became Prometheus in 2012, which is now used by [AT&T, Honeywell, JP Morgan & Chase, and many other large companies](https://discovery.hgdata.com/product/prometheus).
 

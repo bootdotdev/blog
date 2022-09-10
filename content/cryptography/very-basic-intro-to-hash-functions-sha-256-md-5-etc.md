@@ -36,11 +36,11 @@ Think of a Rubix cube.
 
 I start with the cube unscrambled. If I start twisting randomly, by the end I will end up with something that does not resemble anything close to what I started with. Also, if I were to start over and do the exact same series of moves, I would be able to repeatedly get the exact same outcome. Even though the outcome may _appear_ random, it isn’t at all. That is what **deterministic** means.
 
-Determinism is important for securely storing a password. For instance, let’s pretend my password is “iLoveBitcoin”
+Determinism is important for securely storing a password. For instance, let’s pretend my password is "iLoveBitcoin"
 
 I can use a hash function to scramble it:
 
-> iLoveBitcoin → “2f5sfsdfs5s1fsfsdf98ss4f84sfs6d5fs2d1fdf15”
+> iLoveBitcoin → "2f5sfsdfs5s1fsfsdf98ss4f84sfs6d5fs2d1fdf15"
 
 Now, if anyone were to see the scrambled version, they wouldn’t know my original password! This is important because it means that as a website developer, I only need to store the hash (scrambled data) of my user’s password to be able to verify them. When the user signs up, I hash the password and store it in my database. When the user logs in, I just hash what they typed in and compare the two hashes. Because a given input always produces the same hash, this works every time.
 
@@ -85,7 +85,7 @@ Let’s walk through an example algorithm I’m making up on the fly for this de
 
 > **1**0**1**0**0**0**0**0**1**0**1**1**1**1**1**0**0**0 → 110011110 & 000001100
 
-- We convert those two parts into base 10 numbers. Base 10 is the “normal” number system that we all learned in school. (all binary data really just number, you can look up how it converts binary to base 10 easily online elsewhere)
+- We convert those two parts into base 10 numbers. Base 10 is the "normal" number system that we all learned in school. (all binary data really just number, you can look up how it converts binary to base 10 easily online elsewhere)
 
 > 110011110 → 414
 > 
@@ -109,7 +109,7 @@ Let’s walk through an example algorithm I’m making up on the fly for this de
 
 - We convert that binary data back to English
 
-> 1011110001001101 → “8sj209dsns02k2”
+> 1011110001001101 → "8sj209dsns02k2"
 
 As you can see, if you start with the same word at the beginning, you will always get the same output at the end. However, if you even change one letter, the outcome will be drastically changed.
 

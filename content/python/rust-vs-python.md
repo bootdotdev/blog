@@ -46,7 +46,7 @@ Rust has a moderate-to-hard learning curve, and that’s mostly to do the power 
 
 Rust also has an interesting multi-paradigm approach to programming. As quoted in the Programming Rust book, it's:
 
-> “not really an object-oriented language, although it has some object-oriented characteristics. Rust is not a functional language \[…\] It’s probably best to reserve judgment about what sort of language Rust is, and see what you think once you’ve become comfortable with the language.”
+> "not really an object-oriented language, although it has some object-oriented characteristics. Rust is not a functional language \[…\] It’s probably best to reserve judgment about what sort of language Rust is, and see what you think once you’ve become comfortable with the language."
 
 Rust _technically_ supports OOP and functional programming, but it doesn’t satisfy all the modern principles of either paradigm, so you’re left floating in limbo until you discover how it works for you.
 
@@ -84,7 +84,7 @@ In the end, Rust’s origin is founded on speed and stability, and it shows.
 
 ## Rust vs Python for Machine Learning
 
-Machine learning and Artificial Intelligence are arguably the “last frontier” of computer science, and needless to say, it’s a fascinating time to get involved.
+Machine learning and Artificial Intelligence are arguably the "last frontier" of computer science, and needless to say, it’s a fascinating time to get involved.
 
 Python is currently the [leading language in ML](https://towardsdatascience.com/what-is-the-best-programming-language-for-machine-learning-a745c156d6b7), with 57% of data scientists and machine learning developers using it, and 33% prioritizing it for development.
 
@@ -144,7 +144,7 @@ In the end, Rust brings a lot of modern features to the field that weren’t pre
 
 ## Rust vs Python: The Final Verdict
 
-To be frank, there is no “which is better Python or Rust” because the two languages are almost incomparable.
+To be frank, there is no "which is better Python or Rust" because the two languages are almost incomparable.
 
 Rust is modern and robust. Its performance rivals that of C/C++ and it’s a beast at developing and managing large enterprise systems, embedded systems, and file systems without breaking a sweat.
 

@@ -16,7 +16,7 @@ To help others avoid my old issues, I’ve put together a comprehensive guide fu
 
 Don’t forget that overall programming best practices are always relevant – things that supersede programming languages. It’s always important to pay attention to the performance of your programs, and know the Big O performance of the data structures and algorithms you choose to utilize or implement. There are a lot of helpful courses out there, like these for [learning algorithms and data structures](https://boot.dev/tracks/algorithms-and-data-structures). Both of these courses are based in Python, so if you’re particularly interested in strengthening your Python skills and refreshing your knowledge of runtime performance and algorithm design, they’d be a good fit for you.
 
- If you’re looking for a deep dive on general best coding practices, I highly recommend the book Clean Code: A Handbook of Software Craftsmanship by Robert C. Martin, a.k.a. “Uncle Bob”. It is a great read with fun examples, and it will be relevant to your work, no matter what you are programming.
+ If you’re looking for a deep dive on general best coding practices, I highly recommend the book Clean Code: A Handbook of Software Craftsmanship by Robert C. Martin, a.k.a. "Uncle Bob". It is a great read with fun examples, and it will be relevant to your work, no matter what you are programming.
 
 Here is how to write good Python code.
 
@@ -38,7 +38,7 @@ Writing meaningful comments and documentation is always important. It helps othe
 
 Your documentation and comments are useless, however, if you don’t update them when you make changes to your code, so be sure to pay attention to them and update them when needed.
 
-A docstring is a string literal that is the first statement in a class, function, or module. Following this format, the [docstring](https://www.python.org/dev/peps/pep-0257/#what-is-a-docstring) “becomes the __doc__ special attribute of that object”. All objects that are public or are exported as part of a module should have a docstring. Docstrings unequivocally belong to Python best practices, as they are ubiquitous in the Python community. Every professional Python package makes use of them.
+A docstring is a string literal that is the first statement in a class, function, or module. Following this format, the [docstring](https://www.python.org/dev/peps/pep-0257/#what-is-a-docstring) "becomes the __doc__ special attribute of that object". All objects that are public or are exported as part of a module should have a docstring. Docstrings unequivocally belong to Python best practices, as they are ubiquitous in the Python community. Every professional Python package makes use of them.
 
 [Sphinx](https://www.sphinx-doc.org/en/master/) is the most common package used to automatically generate HTML code for a documentation website from your d
 
@@ -58,7 +58,7 @@ Logging allows you to control whether the statements are outputted and even wher
 
 Testing is a crucial part of software development. Any piece of code that goes into production should be tested, and preferably on many different levels. Tests range from tiny [unit tests](/clean-code/writing-good-unit-tests-dont-mock-database-connections) all the way up to all-encompassing end-to-end or acceptance tests.You can read more about the software [test hierarchy here](https://www.softwaretestinggenius.com/simple-explanation-of-hierarchy-of-testing-levels/).
 
-[Unittest](https://docs.python.org/3/library/unittest.html) is a standard Python package that serves as a testing framework. It was inspired by the ubiquitous [JUnit](https://junit.org/junit5/). Unittest “supports test automation, sharing of setup and shutdown code for tests, aggregation of tests into collections, and independence of the tests from the reporting framework”
+[Unittest](https://docs.python.org/3/library/unittest.html) is a standard Python package that serves as a testing framework. It was inspired by the ubiquitous [JUnit](https://junit.org/junit5/). Unittest "supports test automation, sharing of setup and shutdown code for tests, aggregation of tests into collections, and independence of the tests from the reporting framework"
 
 Although unittest is a handy framework, there is still room for improvement. [Pytest](https://docs.pytest.org/en/6.2.x/) is a great package for elevated testing. For example, using pytest, you can easily parametrize fixtures and functions using the parametrize decorator, where you can pass in arguments for tests along with the corresponding expected output.
 

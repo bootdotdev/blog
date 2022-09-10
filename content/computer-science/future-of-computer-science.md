@@ -22,7 +22,7 @@ If you’re a soon-to-be computer science student, your main question is: what�
 
 In my humble opinion, **yes**. A computer science education is no longer just a gateway to a computer science job. Just like knowing how to balance a budget or cook a fried egg, computer science is slowly becoming an integral part of the world around us.
 
-Is it necessary to know how algorithms work? Sometimes. But even if you aren't writing algorithms for a living, it’s still massively helpful, and I wouldn’t be surprised if it became necessary in the future. A computer science degree teaches you other things worth knowing: the hardware behind computers, and understanding of certain coding languages. When I worked in customer success or marketing, both very “soft” jobs, having this experience was a massive boon to my career.
+Is it necessary to know how algorithms work? Sometimes. But even if you aren't writing algorithms for a living, it’s still massively helpful, and I wouldn’t be surprised if it became necessary in the future. A computer science degree teaches you other things worth knowing: the hardware behind computers, and understanding of certain coding languages. When I worked in customer success or marketing, both very "soft" jobs, having this experience was a massive boon to my career.
 
 Every company will have some kind of tech core in the future. Getting a CS degree will be useful in any field.
 

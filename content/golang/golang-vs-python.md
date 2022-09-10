@@ -42,7 +42,7 @@ Python, meanwhile, is a winner for me in terms of which language is best for abs
 - Is fast enough to build a functional prototype very quickly
 - Is versatile enough for any project a beginner might want to try
 
-In summary, when the question is “Golang vs Python: which is best for beginners?” for most people the answer will be Python.
+In summary, when the question is "Golang vs Python: which is best for beginners?" for most people the answer will be Python.
 
 {{< cta2 >}}
 
@@ -88,7 +88,7 @@ Python is certainly the most popular choice for coders who want to write a machi
 
 Part of the reason Python is so popular for machine learning is that it's the home of TensorFlow, which is a deep learning framework released in Python. Where Go is good for its simple, easy-to-implement libraries and frameworks, Python’s deep and rich history in complex, multitudinous frameworks is what makes it the best language for machine learning. TensorFlow is definitely chief among those libraries, but Keras and Scikit-learn are also notable libraries.
 
-It’s worth noting that popularity isn’t the same as quality. While Go [doesn’t even rank on the top 10 languages for machine learning](https://github.blog/2019-01-24-the-state-of-the-octoverse-machine-learning/) in terms of popularity, [Websensa admitted in their post](https://websensa.com/en/2020/07/01/go-vs-python-which-one-is-better-for-machine-learning/) on which language is best that “Go is faster, more scalable, and performant so that it is perfect for large-scale projects. And that makes it one of the best choices to work on machine learning infrastructure.” Perhaps in the future when debating between Golang vs Python, Go will be a machine learning coder's go-to.
+It’s worth noting that popularity isn’t the same as quality. While Go [doesn’t even rank on the top 10 languages for machine learning](https://github.blog/2019-01-24-the-state-of-the-octoverse-machine-learning/) in terms of popularity, [Websensa admitted in their post](https://websensa.com/en/2020/07/01/go-vs-python-which-one-is-better-for-machine-learning/) on which language is best that "Go is faster, more scalable, and performant so that it is perfect for large-scale projects. And that makes it one of the best choices to work on machine learning infrastructure." Perhaps in the future when debating between Golang vs Python, Go will be a machine learning coder's go-to.
 
 ## Golang versus Python: Which language is best for programmer productivity? 
 
@@ -114,7 +114,7 @@ Like every other person on earth, I can’t see into the future. But I can make 
 
 Python definitely has longevity in its corner - it has been around for 30 years and has survived three crunchy and non compatible versions, it’s outlasted many other obsolete languages, it’s ranked on the top ten most popular languages since 2003, and it’s carried on beyond the retirement of its [Benevolent Dictator for Life](https://www.linuxjournal.com/content/guido-van-rossum-stepping-down-role-pythons-benevolent-dictator-life) (AKA the founder, Guido) which happened in 2018. It’s gaining new users at a rapid rate and shows no signs of slowing - in 2019, Pythonistas [outnumbered](https://www.zdnet.com/article/programming-languages-python-developers-now-outnumber-java-ones/) Java developers (who don't even have a cool and fun nickname as far as I'm aware) for the first time. 
 
-But Python, like many other older languages, is a sort of unholy conglomerative beast, composed of many sprawling libraries, syntaxes, and frameworks jumbled together. Its multiple versions are clunky to combine and not often migratable from. Python 2, for instance, was scheduled to celebrate its end-of-life in 2015. That was postponed half a decade “out of concern that a large body of existing code could not easily be forward-ported to Python 3,” according to its [Wikipedia article](https://en.wikipedia.org/wiki/Python_(programming_language)#Development). That’s not future proof.
+But Python, like many other older languages, is a sort of unholy conglomerative beast, composed of many sprawling libraries, syntaxes, and frameworks jumbled together. Its multiple versions are clunky to combine and not often migratable from. Python 2, for instance, was scheduled to celebrate its end-of-life in 2015. That was postponed half a decade "out of concern that a large body of existing code could not easily be forward-ported to Python 3," according to its [Wikipedia article](https://en.wikipedia.org/wiki/Python_(programming_language)#Development). That’s not future proof.
 
 Meanwhile, if I look into my nonexistent crystal ball, and I ask myself if Google will still exist in a century, I simply can’t imagine it won’t be. And if Google is still around, then it makes sense that Go, or some version of it, will be too. Golang was created to solve Google’s problems not just for then, but all the problems it could anticipate for the future. 
 

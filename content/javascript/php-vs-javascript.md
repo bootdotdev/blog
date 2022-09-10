@@ -20,7 +20,7 @@ What was so monumental about JavaScript was that it allowed developers to create
 
 Alternatively, PHP is a server-side scripting language, so it adds dynamic content through interacting with the server rather than the browser.
 
-Also known as PHP: Hypertext Processor, PHP is a general-purpose and interpreted language created by Danish-Canadian developer Rasmus Lerdorf. At the time of creation, Lerdorf had no intention of building a language and insisted he just “kept adding the next logical step”, leading to the result of PHP. Because of this, there’s often inconsistent naming of functions throughout the various releases of PHP over the years. Some would say this resulted in a [fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/).
+Also known as PHP: Hypertext Processor, PHP is a general-purpose and interpreted language created by Danish-Canadian developer Rasmus Lerdorf. At the time of creation, Lerdorf had no intention of building a language and insisted he just "kept adding the next logical step", leading to the result of PHP. Because of this, there’s often inconsistent naming of functions throughout the various releases of PHP over the years. Some would say this resulted in a [fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/).
 
 PHP and JavaScript together created a stunning environment of web development, handling all the needs of backend and frontend work. These days, the question becomes should you switch from PHP to JavaScript on the backend, because JavaScript can now do both, while PHP remains relegated to backend work.
 
@@ -100,7 +100,7 @@ Now, JavaScript is a frontend language, but I mentioned earlier the tool Node.js
 
 Node.js is a powerful runtime environment that brings the performance and scalability not emphasized in PHP. It’s free and open-source, one of the most widely used frameworks, and runs using JS so you don’t have to worry about learning another language.
 
-It's also incredibly flexible, allowing you to change or fix one “node” or event without having to go all the way back to the core of the project.
+It's also incredibly flexible, allowing you to change or fix one "node" or event without having to go all the way back to the core of the project.
 
 One fallback though is that because JS was not designed for backend work originally, it pulls up short when it comes to CPU-heavy computations in certain cases.
 
@@ -120,7 +120,7 @@ Needless to say, there is no comparison when it comes to JavaScript and frontend
 
 ## Which One Should You Learn: The Final Results
 
-To figure out which language you should learn, you really need to ask yourself “do you want to work in web development?” And if so, then in backend, frontend, or both?
+To figure out which language you should learn, you really need to ask yourself "do you want to work in web development?" And if so, then in backend, frontend, or both?
 
 Web development is a profitable field with no signs of slowing down. With most people working from home and things like online-only stores, e-commerce and businesses will keep web development at the forefront of programming for years to come.
 

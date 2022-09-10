@@ -73,7 +73,7 @@ HTML elements include `<p>` paragraph tags, `<h1>` and other heading tags, and m
 
 **An example of HTML, CSS & JavaScript uses**
 
-HTML is used to create the static structure of a page. For example, if I wanted the H3 heading of a new boot.dev page to say “Boot.dev is the best computer science education site”, with a paragraph underneath reinforcing this by saying “And if you disagree, try out our courses and be convinced!”, you could easily implement this structure with the following HTML code:
+HTML is used to create the static structure of a page. For example, if I wanted the H3 heading of a new boot.dev page to say "Boot.dev is the best computer science education site", with a paragraph underneath reinforcing this by saying "And if you disagree, try out our courses and be convinced!", you could easily implement this structure with the following HTML code:
 
 ```
 <h3> Boot.dev is the best computer science education site </h3>
@@ -137,7 +137,7 @@ HTML isn’t executable; it marks up pages with tags for the browser to infer th
 
 A quote from [this art](https://ischool.syr.edu/why-html-is-not-a-programming-language/#:~:text=HTML%20is%20used%20for%20structural,web%20page%2C%20not%20functional%20ones.&text=Programming%20languages%20have%20functional%20purposes,HTML%20contains%20no%20programming%20logic.)[i](https://ischool.syr.edu/why-html-is-not-a-programming-language/#:~:text=HTML%20is%20used%20for%20structural,web%20page%2C%20not%20functional%20ones.&text=Programming%20languages%20have%20functional%20purposes,HTML%20contains%20no%20programming%20logic.)[cle](https://ischool.syr.edu/why-html-is-not-a-programming-language/#:~:text=HTML%20is%20used%20for%20structural,web%20page%2C%20not%20functional%20ones.&text=Programming%20languages%20have%20functional%20purposes,HTML%20contains%20no%20programming%20logic.) on the Syracuse University School of Information Studies elaborates:
 
-> "Programming languages have functional purposes. HTML, as a markup language doesn’t really “do” anything in the sense that a programming language does. HTML contains no programming logic."
+> "Programming languages have functional purposes. HTML, as a markup language doesn’t really "do" anything in the sense that a programming language does. HTML contains no programming logic."
 
 Therefore, without programming logic, some do not consider it a programming language. Nevertheless, when you write in HTML you are still coding, and HTML5 brings a wealth of new extras like geolocation and multimedia to web page design, so HTML’s importance shouldn’t be questioned, whether you agree or disagree with it being a programming language.
 

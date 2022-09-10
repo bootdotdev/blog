@@ -16,7 +16,7 @@ Let’s find out as we compare Python and C#’s learning curve, speed, salary, 
 
 ## A Quick Overview
 
-Python was developed by Guido van Rossum in 1991. It’s a high-level, interpreted, dynamically typed language that supports OOP, procedural, and functional programming. It’s often described as “batteries included” because of how jam-packed of useful resources the language is.
+Python was developed by Guido van Rossum in 1991. It’s a high-level, interpreted, dynamically typed language that supports OOP, procedural, and functional programming. It’s often described as "batteries included" because of how jam-packed of useful resources the language is.
 
 C#, on the other hand, was developed in 2000 by Anders Hejlsberg at Microsoft. It’s a statically typed, general-purpose language, that supports true OOP, functional, and component-oriented programming, along with others. C# acts as a more modernized and high-level version of C++ and is known as an insanely fast language.
 
@@ -38,7 +38,7 @@ While C# is readable, its concepts are complex and there are a lot more nuanced 
 
 In terms of demand, both Python and C# are incredibly popular languages, thanks to how useful and important they’ve become in multiple computer science communities. According to Berkeley, however, research shows that Python is the second most in-demand language (under JavaScript) thanks to its easy learning curve making it an ideal language for beginner _and_ experienced coders.
 
-Lastly, when I say “variety of applications”, I mean the versatility of the language – how many jobs or fields you can work in with this language. Both C# and Python are general-purpose languages, which means in theory, you should be able to create anything you want with C# and Python, but they’re still specialized towards certain fields.
+Lastly, when I say "variety of applications", I mean the versatility of the language – how many jobs or fields you can work in with this language. Both C# and Python are general-purpose languages, which means in theory, you should be able to create anything you want with C# and Python, but they’re still specialized towards certain fields.
 
 Python is most commonly used in backend development, data science, and app development, while C# covers game development, apps, and VR. From the outset, both languages seem to be versatile enough, but the one semi-fault is C# is it’s dependent on the .NET framework and was designed for Microsoft platforms. The introduction of Visual Studio sorted out cross-platform compatibility, but you’ll still get your best work on Windows-centric applications.
 

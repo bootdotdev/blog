@@ -47,7 +47,7 @@ We do have a [Discord server](https://discord.gg/EEkFwbv) that we love, but the 
 
 Two of the points we make in our [methodology, which you can read all about here](/about), are:
 
-* Learning the “soft lessons” from mentors is as important as grokking cold-hard facts.
+* Learning the "soft lessons" from mentors is as important as grokking cold-hard facts.
 * There is something magical about learning with others.
 
 As always, we'll continue to update our methodology as we learn from our students, and we'll continue to update our platform to better align with it.

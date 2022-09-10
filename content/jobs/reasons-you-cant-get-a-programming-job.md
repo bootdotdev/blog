@@ -32,7 +32,7 @@ As more educational resources crop up on the internet, the possibility of gettin
 
 Let’s continue our thought experiment and say you truthfully say you can write Python code on your resume. This may get you in the door for an interview at an exciting startup - your dream. In the interview, they’ll ask you a basic question about algorithms and you’ll be completely stumped.
 
-While these job applications may not outright say “needs to understand the basics of data structures,” this is because it’s implicit. The traditional route of learning computer science teaches you basics before even getting into any languages, which helps you interpret and apply the skills you’ll learn later more effectively.
+While these job applications may not outright say "needs to understand the basics of data structures," this is because it’s implicit. The traditional route of learning computer science teaches you basics before even getting into any languages, which helps you interpret and apply the skills you’ll learn later more effectively.
 
 The people who’re hiring you aren’t just looking for a Python savant. They want someone who can do the job in its entirety. They will be able to tell in an instant if you have the basic understanding that’s necessary to do the job, or if you memorized Python code. This is a common misstep that may mean you can't get a programming job.
 
@@ -54,7 +54,7 @@ Even though the job market is wide open, employers want someone who not only is 
 
 ### Why this means you can't get a programming job
 
-Programmers have a stereotype of being the type of obsessive individuals who lock themselves into a cold, dark basement until their coding project is done. Charlotte Bone, a full-stack web developer, wrote in [her blog post on the subject](https://medium.com/charlottes-digital-web/why-we-need-to-break-the-programmer-stereotype-bd0b4cbdfc1e#:~:text=Programmers%20are%20expected%20to%20do,should%20also%20be%20spent%20programming.&text=This%20is%20pushing%20the%20stereotype,coding%20all%20day%20and%20night.) that the idea that “programmers love nothing more than to be sat in a dark room coding all day and night,” is a harmful stereotype.
+Programmers have a stereotype of being the type of obsessive individuals who lock themselves into a cold, dark basement until their coding project is done. Charlotte Bone, a full-stack web developer, wrote in [her blog post on the subject](https://medium.com/charlottes-digital-web/why-we-need-to-break-the-programmer-stereotype-bd0b4cbdfc1e#:~:text=Programmers%20are%20expected%20to%20do,should%20also%20be%20spent%20programming.&text=This%20is%20pushing%20the%20stereotype,coding%20all%20day%20and%20night.) that the idea that "programmers love nothing more than to be sat in a dark room coding all day and night," is a harmful stereotype.
 
 It might be an obstacle because though you want to be a programmer, you might not feel you meet that stereotype but still feel like you have to pretend to be that for an employer. Or, if you do meet that concept, you might show that part of yourself off but forget that employers aren’t looking for coding machines - they’re looking for employees. If you can't get a programming job, consider how you're presenting your personality and how it fits with your target company.
 
@@ -78,7 +78,7 @@ Some people who can’t get a programming job are fed up because on paper, they 
 
 Humans aren’t great at telling at a glance if you’ll be the kind of person who works well with others, but we’ve come up with some shorthand that gives us an indication. That shorthand is common interview etiquette. 
 
-Laurie Hoss, CTO of npm, [wrote in Quartz](https://qz.com/258066/this-is-why-you-dont-hire-good-developers/) that, “the job of an engineer is to work with a team to achieve something larger, and if you are unwilling or unable to spend time communicating with your colleagues you’re only doing half of your job.” If you’re not showing off good people skills in your interview, your would-be employers might think you fall into that category of coders who can only do half the job.
+Laurie Hoss, CTO of npm, [wrote in Quartz](https://qz.com/258066/this-is-why-you-dont-hire-good-developers/) that, "the job of an engineer is to work with a team to achieve something larger, and if you are unwilling or unable to spend time communicating with your colleagues you’re only doing half of your job." If you’re not showing off good people skills in your interview, your would-be employers might think you fall into that category of coders who can only do half the job.
 
 ### How to solve this problem
 
@@ -103,7 +103,7 @@ Because standards are high, a little bit of exaggeration can be forgiven. But th
 
 The issue is that years of experience don’t mean anything. I could be the laziest coder in the world, with an alleged five years’ experience writing Perl, because my sister owns the company and she didn’t fire me. I’d have the exact same skill set as someone with just one month of experience, but who had taken her job much more seriously than me.
 
-Like the good interview skills, asking about years of experience is just job application shorthand for “Do you know how to do 75% of the things we’ll need you to do?”
+Like the good interview skills, asking about years of experience is just job application shorthand for "Do you know how to do 75% of the things we’ll need you to do?"
 
 ### Why this means you can’t get a programming job
 
@@ -115,7 +115,7 @@ From the outside, it looks like you’ve answered their question. But what they�
 
 No, you don’t need five years experience. But if you can't get a programming job, you need to demonstrate that you care about your future job, especially if you have no prior work experience. What projects have you done for fun? What have you most enjoyed about it? What problems did you solve?
 
-Do you have a blog, GitHub repo, or another portfolio where you can demonstrate your commitment to programming? Nathanaël Cherrier, Lead JavaScript software engineer at Ferpection, lists some advantages in [his blog post](https://www.welcometothejungle.com/en/articles/successful-personal-blog-developer) on why developers should start blogs: “When you write on the Internet you become more visible than a regular developer. Who are you hoping will read your post? Future colleagues? A recruiter from that awesome company you’d like to work at? The committee responsible for choosing the speakers of a conference you’d like to talk at? All these people will be interested in both your technical skills and your editorial skills.” 
+Do you have a blog, GitHub repo, or another portfolio where you can demonstrate your commitment to programming? Nathanaël Cherrier, Lead JavaScript software engineer at Ferpection, lists some advantages in [his blog post](https://www.welcometothejungle.com/en/articles/successful-personal-blog-developer) on why developers should start blogs: "When you write on the Internet you become more visible than a regular developer. Who are you hoping will read your post? Future colleagues? A recruiter from that awesome company you’d like to work at? The committee responsible for choosing the speakers of a conference you’d like to talk at? All these people will be interested in both your technical skills and your editorial skills." 
 
 If you can't get a programming job because of a lack of experience, sharing your passion can be a great way to prove to employers that you can do what they need you to do. 
 
@@ -135,9 +135,9 @@ If you’re at the beginning stage of researching jobs and worried you can't get
 
 ### How to solve this problem
 
-I loved the way Teresa Dietrich described her solution in [her blog post](https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/) entitled “What I learned from hiring hundreds of engineers can help you land your next role.” In it, she writes that plenty of job listings have exaggerated requirements that seem to cover everything under the sun. 
+I loved the way Teresa Dietrich described her solution in [her blog post](https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/) entitled "What I learned from hiring hundreds of engineers can help you land your next role." In it, she writes that plenty of job listings have exaggerated requirements that seem to cover everything under the sun. 
 
-If you can't get a programming job, her solution is to make a spreadsheet of the jobs that interest you, and the core skills that each one requires. Chances are you’ll spot some commonalities pretty quickly. This will give you your answer on the skills most likely to help you get that job, even if they list twenty other “requirements.” 
+If you can't get a programming job, her solution is to make a spreadsheet of the jobs that interest you, and the core skills that each one requires. Chances are you’ll spot some commonalities pretty quickly. This will give you your answer on the skills most likely to help you get that job, even if they list twenty other "requirements." 
 
 Part of the reason you can’t get a programming job might be because when you are asked to do everything, you only can prove mastery of a very few things. By cutting through the noise and delivering the signal these companies are looking for, you can get the programming job of your dreams. 
 

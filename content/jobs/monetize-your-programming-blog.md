@@ -32,7 +32,7 @@ By joining some affiliate programs and mentioning their products or services whe
 
 The best part is that you don’t need to be an expert coder - even if you’re blogging about your beginning journey into coding, and you’re still in the process of learning to code, you can still make recommendations that others will value. For example, boot.dev is a platform that provides computer science courses and certificates. When [programmers refer others](/affiliates/) to the platform, they receive 50% of any payments, which is useful for beginner coders especially. You don't need to be an expert coder - you can just say, "Hey, this course worked great for me."
 
-To maximize the potential of this, ensure you make a disclaimer about your affiliate links. As long as you’re honest about them, your readers won’t mind. Explain why you love what you’re recommending. This ensures your voice remains authentic on your blog and not too “salesy” which can turn readers off.
+To maximize the potential of this, ensure you make a disclaimer about your affiliate links. As long as you’re honest about them, your readers won’t mind. Explain why you love what you’re recommending. This ensures your voice remains authentic on your blog and not too "salesy" which can turn readers off.
 
 In sum, affiliate links mean that readers who click on your links and make a purchase pay nothing extra, you get the benefit of monetizing your experience, and you help support a platform you believe in. 
 
@@ -42,7 +42,7 @@ Just like any other industry, brands may pay you to discuss their products or se
 
 Sponsored posts are great for programmers monetizing their blog because as mentioned above, programmers are often an ad-adverse group of people. Seeing an ad is unlikely to work. Hearing about a brand or product from a source they trust, meanwhile, is much more likely to result in a positive result for them.
 
-A common misconception is that you need to wait until you have thousands of monthly visitors. But the truth is that brands actually prefer to work with “micro-influencers” who tend to have a much more engaged audience. If you can prove that 100 people hang on your every word, that’s better than a casual audience of 10,000. 
+A common misconception is that you need to wait until you have thousands of monthly visitors. But the truth is that brands actually prefer to work with "micro-influencers" who tend to have a much more engaged audience. If you can prove that 100 people hang on your every word, that’s better than a casual audience of 10,000. 
 
 It’s also typical to believe that if programmers want to monetize their blogs, they have to wait for sponsors to come to them. It isn’t true - you can start reaching out immediately. For example, [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87) started his programming YouTube channel and managed to secure his first sponsor at 2,500 subscribers. He proactively reached out to coding organizations and boot camps to be connected to their marketing department. Now, obviously, with 78k subs, they come to him. But you don’t have to wait.
 
@@ -58,9 +58,9 @@ Your programming blog can be monetized by selling the code you write. Here, you�
 
 Once you’ve established expertise, you can build and sell your own products to create scalable, passive income. Unlike sponsored posts that offer a one-off payment, selling a digital product is infinitely scalable. You can spend 8 hours creating something, and be reaping the rewards for months to come.
 
-“You can write a PHP script, make a website template, WordPress themes, WordPress plugins, Android app source code, CSS source code, and so on,” writes Faruque Ahamed Mollick on [EyeSwift](https://www.eyeswift.com/how-can-you-earn-money-from-your-programming-blog/)
+"You can write a PHP script, make a website template, WordPress themes, WordPress plugins, Android app source code, CSS source code, and so on," writes Faruque Ahamed Mollick on [EyeSwift](https://www.eyeswift.com/how-can-you-earn-money-from-your-programming-blog/)
 
-Depending on what your blog is about, there are different ways to market and sell your code. For instance, you might write a post discussing how to do a cool thing with Ruby and title it, “How I Wrote a Script that Did XYZ Thing With Ruby.” You describe the process, then link to a marketplace like [GitMarket](https://git.market/) or on your own website’s store for coders who want to take advantage of what you’ve already created. 
+Depending on what your blog is about, there are different ways to market and sell your code. For instance, you might write a post discussing how to do a cool thing with Ruby and title it, "How I Wrote a Script that Did XYZ Thing With Ruby." You describe the process, then link to a marketplace like [GitMarket](https://git.market/) or on your own website’s store for coders who want to take advantage of what you’ve already created. 
 
 This type of blog is multipurpose - it creates additional authenticity, explaining why your product is going to be good, which helps your audience if they want to go through the process of doing so themselves. But equally, you may catch some Google traffic of people who just need Ruby to do XYZ cool thing and want the shortcut. 
 
@@ -84,7 +84,7 @@ In sum, adding your own ads inline on your blog posts can be a great way to rais
 
 ## 5. Monetize Your Programming Blog by Coaching Beginner Coders
 
-One of the unspoken rules of making money on the internet is that you should give away all your value for free. Why? Because no matter how valuable or tailored it is, you will still get readers who look at your tutorials, guides, reference sheets, and say, “Hey, this is great. Can you customize this for me and my situation?”
+One of the unspoken rules of making money on the internet is that you should give away all your value for free. Why? Because no matter how valuable or tailored it is, you will still get readers who look at your tutorials, guides, reference sheets, and say, "Hey, this is great. Can you customize this for me and my situation?"
 
 The internet is full of free and amazing programming information. If you try to withhold it in order to sell it, you won’t have clients because they’ll be able to get it for free somewhere else. Instead, offer full and free insights and ensure that you offer readers a way to book you for further and deeper consultation. 
 
@@ -102,7 +102,7 @@ About a year ago, I wrote a blog post on [the fastest way to learn to code](http
 
 The truth is, if you can write about programming and coding on your own website, chances are someone is going to want you to do it for theirs as well. It’s a really good skill to have and to let others know you have it. 
 
-In my case, my client had to jump through a few hoops in order to find my contact information. Don’t make your clients do this - make sure you have a “contact me to write for you” section somewhere on your profile, portfolio, or GitHub page. 
+In my case, my client had to jump through a few hoops in order to find my contact information. Don’t make your clients do this - make sure you have a "contact me to write for you" section somewhere on your profile, portfolio, or GitHub page. 
 
 In sum, using your programming blog to show that you’re an able writer about programming, and let potential freelance clients know that you’re looking for this kind of work. It’s a great way to use your programming blog to earn money from something that isn’t programming!
 
@@ -112,7 +112,7 @@ In sum, using your programming blog to show that you’re an able writer about p
 
 While it’s great to use your hobby to make a bit of money on the side, it’s perfectly valid to want to use your coding blog to get a coding job. In this instance, having a coding blog in a particular niche can help raise your personal brand in that area. A website also works really well as a supplement to any coding portfolio you may have. 
 
-While it’s not as “monetizable” as selling courses, coaching or code chunks, it’s still a way to earn a steady income through your programming blog. 
+While it’s not as "monetizable" as selling courses, coaching or code chunks, it’s still a way to earn a steady income through your programming blog. 
 
 You can send it to prospective employers as proof that you’re passionate and knowledgeable about what you want to do. Many employers want you to evidence your interest in coding beyond the questions you get asked at interviews. A programming blog is also a good way to network, building a group of individuals who like what you do and who may mention your name, or let you know of a job opportunity. Just like any other part of the world, who you know matters. Cultivating a network of relevant individuals with your blog is a great way to tap into that fact.
 

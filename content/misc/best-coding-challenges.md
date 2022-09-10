@@ -86,9 +86,9 @@ I loved [these](https://wiki.c2.com/?ProgrammingChallengesForInterview) programm
 
 ### For beginners
 
-No matter what language you’re working in, there will be a core set of skills you should know in order to pass muster, like printing “hello world.” That’s why I adore [Adriann’s Simple Programming Problems](https://adriann.github.io/programming_problems.html) for being language agnostic.
+No matter what language you’re working in, there will be a core set of skills you should know in order to pass muster, like printing "hello world." That’s why I adore [Adriann’s Simple Programming Problems](https://adriann.github.io/programming_problems.html) for being language agnostic.
 
-These serve as a simple set of coding challenges for beginners (including the classic “hello world”) all the way up to advanced, like writing a program that plays Hangman.
+These serve as a simple set of coding challenges for beginners (including the classic "hello world") all the way up to advanced, like writing a program that plays Hangman.
 
 No matter what your level, language, or job, you’ll be able to find value challenging yourself to complete these coding challenges.
 
@@ -104,7 +104,7 @@ IBM’s [coding challenge](https://www.stratascratch.com/blog/amazon-data-scient
 
 Other companies like Amazon don’t hold open coding challenges like Google does, but it’s an integral part of their interview process, enough so that platforms like StrataScratch have compiled a [list](https://www.stratascratch.com/blog/amazon-data-scientist-interview-questions?via=qvault) of example questions that serve as an Amazon coding challenge.
 
-J.P. Morgan’s coding challenge is [called](https://careers.jpmorgan.com/us/en/students/programs/code-for-good?search=&tags=location__Americas__UnitedStatesofAmerica) the Code for Good hackathon event, but it’s a holistic event. You go in-person to “work alongside our technology experts in teams to solve real-world problems for nonprofits,” according to their website. It’s definitely a coding challenge, but not one for the casual coder. 
+J.P. Morgan’s coding challenge is [called](https://careers.jpmorgan.com/us/en/students/programs/code-for-good?search=&tags=location__Americas__UnitedStatesofAmerica) the Code for Good hackathon event, but it’s a holistic event. You go in-person to "work alongside our technology experts in teams to solve real-world problems for nonprofits," according to their website. It’s definitely a coding challenge, but not one for the casual coder. 
 
 {{< cta2 >}}
 

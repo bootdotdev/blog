@@ -30,7 +30,7 @@ I find having all this information laid out in a logical, organized way for you 
 
 This book really takes the cake. It is incredibly thorough, well-written, and specifically targeted at those who are first learning to code. Even experienced programmers will enjoy this read and gain some knowledge. It’s easy to feel frustrated with the learning process, but this book has helped so many people, from curious kids to people looking to change careers.
 
-Swaroop truly composed one of the best resources for learning Python. [They claim](https://python.swaroopch.com/) that “if all you know about computers is how to save text files, then this is the book for you”. It includes all of the basics like data types, data structures, OOP, I/O, exceptions, standard Python library, and basic Python set-up. The book even includes a problem solving section, which is great, since thinking about how to code is just as important as the actual coding.
+Swaroop truly composed one of the best resources for learning Python. [They claim](https://python.swaroopch.com/) that "if all you know about computers is how to save text files, then this is the book for you". It includes all of the basics like data types, data structures, OOP, I/O, exceptions, standard Python library, and basic Python set-up. The book even includes a problem solving section, which is great, since thinking about how to code is just as important as the actual coding.
 
 This book is a condensed, free resource to double-check your doubts, learn about Python-specific data structures and how best to use them, and includes some of the more classic CS curriculum, like input/output and exceptions.
 
@@ -68,9 +68,9 @@ This course checks all the boxes you need it to, covering variables, comparisons
 
 This course really takes it up a notch. They cover some concepts that aren’t included in others on this list, like working with timestamps and understanding decorators. This course also sets you up for a lot of cool mini projects, like creating GUIs using Jupyter notebooks and creating games using Python.
 
-If you liked the simple real-world applications outlined in “Automate the Boring Stuff”, this course will walk you through the code for similar examples like working with PDFs, scraping websites, reading Excel files, and more.
+If you liked the simple real-world applications outlined in "Automate the Boring Stuff", this course will walk you through the code for similar examples like working with PDFs, scraping websites, reading Excel files, and more.
 
-Replete with live coding examples where an instructor steps through the implementation thought process, this course also includes quizzes, homework assignments, and three portfolio projects. Lots of people really enjoy the “code along” sessions, which feel a bit like partner programming, one of my favorite ways to learn from more experienced programmers.
+Replete with live coding examples where an instructor steps through the implementation thought process, this course also includes quizzes, homework assignments, and three portfolio projects. Lots of people really enjoy the "code along" sessions, which feel a bit like partner programming, one of my favorite ways to learn from more experienced programmers.
 
 This course is normally $139, but there are often promotions bringing it down to $20-$40. Over 1.5 million students have taken it, and over half of reviewers give it five stars.
 
@@ -106,7 +106,7 @@ Finxter is great when you’re having trouble wrapping your head around some of 
 
 Finxter is a great intermediate blog to spend time combing through. Once you’ve grasped the basics of programming, there are a lot of basic tasks, like [how to call an element from a numpy array](https://blog.finxter.com/how-to-call-an-element-from-a-numpy-array/), which may go just a little over your head, and it’s nice to have a wealth of examples to turn to on Finxter to walk you through how to accomplish your current coding goal.
 
-You’ll also find lots of cool compilations of additional resources that are helpful to the average Python programmer on Finxter, including many what they call “[cheat sheets](https://blog.finxter.com/category/cheat-sheets/)”, which are like condensed syntax or behavior study guides.
+You’ll also find lots of cool compilations of additional resources that are helpful to the average Python programmer on Finxter, including many what they call "[cheat sheets](https://blog.finxter.com/category/cheat-sheets/)", which are like condensed syntax or behavior study guides.
 
 There’s also cool applications posts like how to [sample a random number from a probability distribution](https://blog.finxter.com/sample-a-random-number-from-a-probability-distribution-in-python/) and super useful basics like [how to initialize a dictionary with keys](https://blog.finxter.com/how-to-initialize-a-dictionary-with-keys-in-python/).
 
@@ -124,7 +124,7 @@ Having a community to turn to to proudly show off your latest prototype, be insp
 
 ## [RealPython](https://realpython.com/)
 
-They’ve got lots of free tutorials, from basics to super specific, advanced topics. One thing I really like about RealPython’s content is that they’ve organized their free tutorials into “learning paths,'' so while the giant list of topics may feel overwhelming, you can read through them in chunks by picking a few learning paths.
+They’ve got lots of free tutorials, from basics to super specific, advanced topics. One thing I really like about RealPython’s content is that they’ve organized their free tutorials into "learning paths,'' so while the giant list of topics may feel overwhelming, you can read through them in chunks by picking a few learning paths.
 
 They have tons of [quizzes](https://realpython.com/quizzes/), mostly focused on Python fundamentals. A lot of them line up with one of their learning paths. It’s a great way to validate your knowledge acquisition, and they’re free!
 

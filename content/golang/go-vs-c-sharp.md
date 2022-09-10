@@ -27,7 +27,7 @@ Before we get our hands dirty with comparisons, there are a few important simila
 
 As far as language makeup, Go and C# are both cross-platform languages with C language origins. C# is a object-oriented and C-based, so it has a very similar syntax to the C language, and the .NET framework allows it to work cross-platform, although it works best in Windows. C# is also "Microsoft's Java", so in a lot of ways it inherits class-based styling from Java, something Go does *not* do.
 
-Golang is “C-inspired” but for all intents and purposes, it too has a similar syntax to the C language, but places a greater emphasis on readability.
+Golang is "C-inspired" but for all intents and purposes, it too has a similar syntax to the C language, but places a greater emphasis on readability.
 
 Go and C# also have similar capabilities and a rich collection of base class libraries. They both support asynchronous operations, possess a compiler, powerful garbage collector, and modular programming architecture.
 

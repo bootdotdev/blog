@@ -76,7 +76,7 @@ However, if you want a project-based learning method, but don’t feel comfortab
 
 If you’re like me, after a day of work the last thing I want to do is come home, listen to lectures, and force my brain to retain crucial information as it turns to mush from the long day. Instead, I’d much rather zone out to a movie, or better yet, play some mindless games.
 
-Well, have I got a treat for you! From the imaginative minds at Qualified, Codewars is an online competitive coding site where you’ll compete against other coders within your same skill range in solving coding problems or “katas”. As you compete and earn achievements, you’ll rise up the ranks, as well as refine and sharpen your programming skills.
+Well, have I got a treat for you! From the imaginative minds at Qualified, Codewars is an online competitive coding site where you’ll compete against other coders within your same skill range in solving coding problems or "katas". As you compete and earn achievements, you’ll rise up the ranks, as well as refine and sharpen your programming skills.
 
 Now, Codewars may not be mindless, but it certainly takes the edge off learning with its gamified environment, plus it’s a fun opportunity to meet peers and gain communal wisdom.
 

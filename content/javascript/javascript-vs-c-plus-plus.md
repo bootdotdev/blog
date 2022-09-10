@@ -30,11 +30,11 @@ JavaScript is easy to implement because it is integrated with HTML. You have all
 
 ### Background of C++
 
-Compare that to C++, which is a middle-level programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs. It runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. It’s a sort of extension of C, as I mentioned above. It’s considered “C with classes,” hence the name C++. 
+Compare that to C++, which is a middle-level programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs. It runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. It’s a sort of extension of C, as I mentioned above. It’s considered "C with classes," hence the name C++. 
 
 ### JavaScript vs C++ History
 
-To summarize, I could tell you everything you need to know by simply saying that JavaScript is a “scripting” language whereas C++ is a “programming” language. Scripting languages make coding easier and faster because they run inside another existing program. Programming languages, at least in this context, are made to make full-fledged code and software development easier. You can feed lines from a programming language directly to a computer and it’ll do what you want it to do.
+To summarize, I could tell you everything you need to know by simply saying that JavaScript is a "scripting" language whereas C++ is a "programming" language. Scripting languages make coding easier and faster because they run inside another existing program. Programming languages, at least in this context, are made to make full-fledged code and software development easier. You can feed lines from a programming language directly to a computer and it’ll do what you want it to do.
 
 {{< cta1 >}}
 
@@ -86,7 +86,7 @@ C++, meanwhile, gives you options like becoming a software engineer, a video gam
 
 ## Conclusion: C++ vs JavaScript
 
-Just like I promised, there’s no conclusive answer here. But hopefully, throughout the course of reading this article, you’ve said to yourself, “OK, clearly, JavaScript is the better one for me right now.” Or maybe you’ve mused, “When comparing JavaScript vs C++, C++ is the right choice for me.”
+Just like I promised, there’s no conclusive answer here. But hopefully, throughout the course of reading this article, you’ve said to yourself, "OK, clearly, JavaScript is the better one for me right now." Or maybe you’ve mused, "When comparing JavaScript vs C++, C++ is the right choice for me."
 
 In short, JavaScript is faster to learn and pick up. It’s obviously great for web stuff. There are plenty of simple courses to teach you the [basics of JavaScript](https://boot.dev/learn/learn-javascript). C++ is better for more experienced programmers, and it takes longer to learn. It’s harder to learn and slower to get started with. But once you get going? It’s far more versatile and the code runs faster. C++ can also do some pretty impressive things, like run your favorite video game. 
 

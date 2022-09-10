@@ -16,7 +16,7 @@ When using the one-time pad, a message and a secret key are required to start. E
 
 ### Refresher on XOR
 
-XOR, or “exclusive or” is a binary operator that works with binary data. It returns `true` if both of its inputs are opposites (one false and one true), otherwise, it returns `false`.
+XOR, or "exclusive or" is a binary operator that works with binary data. It returns `true` if both of its inputs are opposites (one false and one true), otherwise, it returns `false`.
 
 ```
 true XOR false = true

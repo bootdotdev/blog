@@ -86,7 +86,7 @@ As long as you keep typical data science tasks in mind as you look for Python tu
 
 ## 7. Data cleaning is a breeze
 
-The phrase “data science,” for me, conjures up images of Neo in the Matrix wearing a cool coat and doing cool stuff. A lot of people don’t realize data science is a LOT of much-less-glamorous data cleaning. Conservative estimates place data cleaning at 80% of a data scientist’s typical workload. But good news: Python is great at that!
+The phrase "data science," for me, conjures up images of Neo in the Matrix wearing a cool coat and doing cool stuff. A lot of people don’t realize data science is a LOT of much-less-glamorous data cleaning. Conservative estimates place data cleaning at 80% of a data scientist’s typical workload. But good news: Python is great at that!
 
 If you want to get into data science, you need to come to terms with the fact that you’ll be doing a lot of data scrubbing, cleaning, massaging, wrangling, etc before you even make a single cool viz. That need is what makes learning Python for data science a great choice: it’s built to clean.
 
@@ -96,7 +96,7 @@ Two of the libraries I mentioned early, NumPy and Pandas, are [really great](htt
 
 After you’re done cleaning your data, the next biggest component is communicating your findings. Data science is not just lines of code - it means communicating results of key stakeholders. A good viz is crucial for that. 
 
-> “Data visualization gives us a clear idea of what the information means by giving it visual context through maps or graphs. This makes the data more natural for the human mind to comprehend and therefore makes it easier to identify trends, patterns, and outliers within large data sets,” [writes](https://analytiks.co/importance-of-data-visualization/) _an unnamed writer in the Analytiks blog._
+> "Data visualization gives us a clear idea of what the information means by giving it visual context through maps or graphs. This makes the data more natural for the human mind to comprehend and therefore makes it easier to identify trends, patterns, and outliers within large data sets," [writes](https://analytiks.co/importance-of-data-visualization/) _an unnamed writer in the Analytiks blog._
 
 A lot of people assume data science stops at the analysis, but like everything else in the professional world, what you do _after_ you build that really cool thing is what matters. 
 
@@ -106,13 +106,13 @@ Python has a lot of great tools to make easy visualizations, like the very basic
 
 ## 9. Quick prototypes
 
-A little-known fact is that data scientist projects are expensive. In fact, Chris Chapo, the SVP of data and analytics at Gap [once said](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/) that “87% data projects will fail.” It takes time, energy, resources and a lot of patience to build something that works.
+A little-known fact is that data scientist projects are expensive. In fact, Chris Chapo, the SVP of data and analytics at Gap [once said](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/) that "87% data projects will fail." It takes time, energy, resources and a lot of patience to build something that works.
 
 To get around this, most data scientists use prototypes to do a dry run of their idea and stress-test it to make sure it’s worth properly building out. If you’ve been following along with the theme of this article, it shouldn’t surprise you to hear that Python is great for building good prototypes to test out concepts, ideas, and products. 
 
 The authors of Fuzzing Book [wrote](https://www.fuzzingbook.org/beta/html/PrototypingWithPython.html):
 
-> “Python made us amazingly productive. Most techniques in this book took 2-3 days to implement. This is about 10-20 times faster than for "classic" languages like C or Java.”
+> "Python made us amazingly productive. Most techniques in this book took 2-3 days to implement. This is about 10-20 times faster than for "classic" languages like C or Java."
 
 Python makes it easy to run dynamic analysis (analyzing program execution as it runs) and static analysis (analyzing code without running it), both of which make prototyping a dream.
 

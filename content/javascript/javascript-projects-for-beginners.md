@@ -12,7 +12,7 @@ JavaScript is one of those things that if you're not a programmer you'll touch a
 
 JavaScript makes interactive web pages. That's it. But it's one of the [most highly sought-after programming languages](https://towardsdatascience.com/javascript-for-data-analysis-2e8e7dbf63a7), with one of the highest salaries. It's ubiquitous, so it's not only good to learn how, but also kind of fun. If you know JavaScript, you feel a little bit like you're peeking behind the veil of the world wide web.
 
-I read a lot of articles on beginner projects for JavaScript and I don't like them for various reasons. Some encouraged people to do the tic-tac-toe game, which is a little boring. Some just said, “You should try to make a blog with JavaScript!” but then didn't actually offer any instructions.
+I read a lot of articles on beginner projects for JavaScript and I don't like them for various reasons. Some encouraged people to do the tic-tac-toe game, which is a little boring. Some just said, "You should try to make a blog with JavaScript!" but then didn't actually offer any instructions.
 
 This guide is going to be what I wish I had when I started learning JavaScript. These are fun, interesting, slightly challenging JavaScript projects for beginners. They're going to require a little bit more than copy-paste-enter, but when you do them, you'll have a much greater feeling of satisfaction.
 

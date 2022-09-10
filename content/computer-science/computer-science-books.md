@@ -14,7 +14,7 @@ When studying computer science, books are:
 
 * Reputable. Anyone can publish a blog post; only experts who are carefully vetted can write a book through a publisher. If they *didn’t* go through a traditional publishing house, then reviews and word-of-mouth can let you know if it’s a good information source or not
 * Written for comprehension. A book is written to be *read*. A blog is written to *rank in Google*.
-* Easily selected. Online, you have to trust SEO to deliver the best results. Something titled ‘for beginners” might not *actually* be for beginners. Books, thanks to a more rigorous selection process, tend to be better marketed. The titles are also more descriptive and less clickbait.
+* Easily selected. Online, you have to trust SEO to deliver the best results. Something titled ‘for beginners" might not *actually* be for beginners. Books, thanks to a more rigorous selection process, tend to be better marketed. The titles are also more descriptive and less clickbait.
 * Structured for completion. A blog will give you a solitary answer. A book will give you the answer in the context of all the other information you need to make sense of that answer.
 * Satisfying to hold. As a computer scientist, I’ve spent a lot of time staring at screens. Sometimes it’s nice to hold something physical for a change.
 
@@ -52,7 +52,7 @@ The best part for me? It assumes absolutely no prior knowledge. It’s a great p
 
 Useful review:
 
-> “I’m an adult who always felt intimidated by coding. This was a nice way to introduce me to the world of coding basics. Elementary but just what I needed to start learning.”
+> "I’m an adult who always felt intimidated by coding. This was a nice way to introduce me to the world of coding basics. Elementary but just what I needed to start learning."
 > 
 > – [Rebecca, and Amazon reviewer](https://www.amazon.com/Everything-Computer-Science-Coding-Notebook/dp/1523502770/ref=asc_df_1523502770/?tag=hyprod-20&linkCode=df0&hvadid=416638939404&hvpos=&hvnetw=g&hvrand=5977451684120084626&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002075&hvtargid=pla-1093933902952&psc=1&tag=&ref=&adgrpid=93867144197&hvpone=&hvptwo=&hvadid=416638939404&hvpos=&hvnetw=g&hvrand=5977451684120084626&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002075&hvtargid=pla-1093933902952)
 
@@ -69,13 +69,13 @@ This book covers both the fundamentals of programming as well as some updated us
 
 Useful review:
 
-> “A great book for the following:
+> "A great book for the following:
 > 
 > * Beginners
 > 
 > * People who want a summarizing overview on programming and related fields
 > 
-> * People such as myself, confused and badly educated in programming and in need of a start over with simple words and answering the 5-whys questions.”
+> * People such as myself, confused and badly educated in programming and in need of a start over with simple words and answering the 5-whys questions."
 > 
 > – [Ahmed Hatem](https://www.goodreads.com/review/show/517429841?book_show_action=true&from_review_page=1), a Goodreads reviewer.
 
@@ -85,11 +85,11 @@ You may pick up a theme here: this is a proper computer science textbook, create
 
 I like this CS book for beginners because it shows you the fundamentals through Python, which I believe is one of the predominant CS languages out there. By grounding it all in Python, it can walk through the concepts and theories, then use real code to show exactly what it means.
 
-The curriculum in the book description is short: “Learn about design, algorithms, testing, and debugging.”
+The curriculum in the book description is short: "Learn about design, algorithms, testing, and debugging."
 
 Useful review:
 
-> “It is a great book for people who want to dive into world of programming. Python language is programming language is fast to learn and easy to use for many applications. The book covers a lot of subjects in a comprehencive \[sic\] manner.”
+> "It is a great book for people who want to dive into world of programming. Python language is programming language is fast to learn and easy to use for many applications. The book covers a lot of subjects in a comprehencive \[sic\] manner."
 > 
 > – [Erdem Yiğitolu](https://www.goodreads.com/review/show/2720074395?book_show_action=true&from_review_page=1), a Goodreads reviewer.
 
@@ -113,7 +113,7 @@ Here are the five sections covered in this book:
 
 Helpful review:
 
-> “I am an HVAC designer by trade (no programming at all). After reading this book I feel equipped to change careers if I ever wanted to! This book lays things out very well and let’s you get straight to the coding! Don’t worry, theory is discussed too, but this book focuses on practicality…which is rarely used as a starting point in any engineering discipline. 10/10 would recommend.”
+> "I am an HVAC designer by trade (no programming at all). After reading this book I feel equipped to change careers if I ever wanted to! This book lays things out very well and let’s you get straight to the coding! Don’t worry, theory is discussed too, but this book focuses on practicality…which is rarely used as a starting point in any engineering discipline. 10/10 would recommend."
 > 
 > – [Brian](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally-ebook/dp/B01M01YDQA#customerReviews), an Amazon reviewer.
 
@@ -135,7 +135,7 @@ Note: It primarily trucks with Java and object-oriented languages, so if that’
 
 Useful review:
 
-> “I would consider this an essential read for software developers. This book conveys the fundamentals of writing clean code, whose importance cannot be overstated.”
+> "I would consider this an essential read for software developers. This book conveys the fundamentals of writing clean code, whose importance cannot be overstated."
 > 
 > – [Paul Sochiera](https://www.goodreads.com/review/show/4345521083?book_show_action=true&from_review_page=1), a Goodreads reviewer.
 
@@ -156,7 +156,7 @@ Here’s the curriculum:
 
 Useful review:
 
-> “Every day I code, I apply a lesson I learnt from this book. It has helped a lot.”
+> "Every day I code, I apply a lesson I learnt from this book. It has helped a lot."
 > 
 > – [Elijah Oyekunle](https://www.goodreads.com/review/show/2338257285?book_show_action=true&from_review_page=1), a Goodreads reviewer.
 
@@ -183,7 +183,7 @@ That said, it was a phenomenal read.
 
 Useful review:
 
-> “The information contained in this book is essential for software developers who want to develop their skills and knowledge into a craft worthy of renown, to become masters of the field. It is essential for anyone working in a team or working solo.”
+> "The information contained in this book is essential for software developers who want to develop their skills and knowledge into a craft worthy of renown, to become masters of the field. It is essential for anyone working in a team or working solo."
 > 
 > – [Tamara](https://www.goodreads.com/review/show/454238453?book_show_action=true&from_review_page=1), a Goodreads reviewer.
 
@@ -208,7 +208,7 @@ The curriculum is as follows:
 
 Useful review:
 
-> “It provides a good introduction to modern crypto as well as the maths behind it. It provides some great chapters about classical ciphers and why they are not sufficient. Proofs are often outlines or gloss over detail which makes the book a lot easier to read..”
+> "It provides a good introduction to modern crypto as well as the maths behind it. It provides some great chapters about classical ciphers and why they are not sufficient. Proofs are often outlines or gloss over detail which makes the book a lot easier to read.."
 > 
 > – [review](https://www.amazon.com/Cryptography-Made-Simple-Information-Security/dp/3319219359#customerReviews) from an unnamed Amazon customer.
 
@@ -226,7 +226,7 @@ Here’s what you can expect this book to cover:
 
 Useful review:
 
-> “This book is a must-have on the shelf of any computer scientist, and any practical programmer who wants to write more efficient code. Pick it up!”
+> "This book is a must-have on the shelf of any computer scientist, and any practical programmer who wants to write more efficient code. Pick it up!"
 > 
 > – [Alex’s](https://www.goodreads.com/review/show/9767188?book_show_action=true&from_review_page=1) Goodreads review.
 
@@ -250,7 +250,7 @@ Here’s the curriculum:
 
 Useful review:
 
-> “This is an easy-to-follow book that covers how computers work from the level of processors up to web servers. It's written for computer science students, and goes into a lot of detail about modern operating systems concepts such as virtual memory, processes, and signals. I had a lot of experience programming before reading this, but the book definitely clarified my thinking on many topics.”
+> "This is an easy-to-follow book that covers how computers work from the level of processors up to web servers. It's written for computer science students, and goes into a lot of detail about modern operating systems concepts such as virtual memory, processes, and signals. I had a lot of experience programming before reading this, but the book definitely clarified my thinking on many topics."
 > 
 > – Morgan, a Goodreads reviewer.
 
@@ -270,7 +270,7 @@ Curriculum notes:
 
 Useful review:
 
-> “I finally learned the right way to build databases for use with SQL. In the last eight years, it has repeatedly come off the shelf to solve my problems.”
+> "I finally learned the right way to build databases for use with SQL. In the last eight years, it has repeatedly come off the shelf to solve my problems."
 > 
 > – [David](https://www.goodreads.com/review/show/46649343?book_show_action=true&from_review_page=1), a Goodreads reviewer, reviewing an earlier edition.
 

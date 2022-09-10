@@ -74,7 +74,7 @@ Taking online courses often feels like picking up another full-time job. Between
 
 > CodeWars has entered the chat
 
-Codewars is a fantastic new coding platform that turns coding into a competitive browser-based game. Compete alongside other coders in your same skill level bracket in missions called “katas”. Here you’ll be tested on how fast and efficiently you solve the coding problem. 
+Codewars is a fantastic new coding platform that turns coding into a competitive browser-based game. Compete alongside other coders in your same skill level bracket in missions called "katas". Here you’ll be tested on how fast and efficiently you solve the coding problem. 
 
 You’ll play through the ranks all while sharpening your skills and gaining new techniques by receiving instant feedback on your answers. The community is also a great place for collective wisdom and learning about different styles from all over the world. You’ll even get the chance to craft your own katas for the platform.
 

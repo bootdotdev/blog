@@ -92,7 +92,7 @@ Overall, in terms of design, Golang is better in the sense it's more user-friend
 
 ## Golang vs C++: Which is faster?
 
-When it comes to asking “is Golang faster than C++” there are two ways you need to look at it: writing time and compile time.
+When it comes to asking "is Golang faster than C++" there are two ways you need to look at it: writing time and compile time.
 
 Writing time is how fast and easily can you write the language.
 

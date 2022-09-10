@@ -10,9 +10,9 @@ images:
 
 Comparing Python and Java is a bit like comparing boats and cars. They both get you from point A to B and are fun to show off, but that’s where the similarities end. And the same with Python and Java, they’re both programming languages and known for powerful server-side coding, but after that, they become completely different tools.
 
-Python is a multiparadigm, general-purpose programming language created by Netherland-based Guido van Rossum at the Centrum Wiskunde & Informatica (CWI). First released in 1991, making it older than Java, it’s since adopted the term “batteries included” from the programming community due to its tricked-out standard library.
+Python is a multiparadigm, general-purpose programming language created by Netherland-based Guido van Rossum at the Centrum Wiskunde & Informatica (CWI). First released in 1991, making it older than Java, it’s since adopted the term "batteries included" from the programming community due to its tricked-out standard library.
 
-Java, on the other hand, is a class-based, object-oriented language designed by James Gosling at Sun Microsystems, which has since been taken over by Oracle. It first appeared in 1995 sporting the famous JVM and “write once, run anywhere” motto, and continues to battle Python as the [most popular programming language](https://pypl.github.io/PYPL.html).
+Java, on the other hand, is a class-based, object-oriented language designed by James Gosling at Sun Microsystems, which has since been taken over by Oracle. It first appeared in 1995 sporting the famous JVM and "write once, run anywhere" motto, and continues to battle Python as the [most popular programming language](https://pypl.github.io/PYPL.html).
 
 The debate for which language is best runs deep in the tech community, but now it’s time to put this argument to rest. Join me as I break down these languages by difficulty, performance, salary, application, and popularity!
 

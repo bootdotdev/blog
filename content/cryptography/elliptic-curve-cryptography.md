@@ -42,12 +42,12 @@ Let’s pretend that Facebook is going to receive a private post from Donald Tru
 - Facebook sends Donald Trump their public key
 - Donald Trump uses the public key to encrypt his post:
 
-`“I love Fox and Friends” + Public Key = “s80s1s9sadjds9s”`
+`"I love Fox and Friends" + Public Key = "s80s1s9sadjds9s"`
 
 - Donald Trump sends only the encrypted message to Facebook
 - Facebook uses its private key to decrypt the message:
 
-`“s80s1s9sadjds9s” + Private Key = “I love Fox and Friends”`
+`"s80s1s9sadjds9s" + Private Key = "I love Fox and Friends"`
 
 As you can see, this form of encryption can be quite useful. Here are some key points:
 
@@ -70,9 +70,9 @@ If I’m given A and B I can compute C. However, if I’m given B and C I can al
 
 ### Trapdoor function:
 
-`"I love Fox and Friends” + Public Key --> s80s1s9sadjds9s`
+`"I love Fox and Friends" + Public Key --> s80s1s9sadjds9s`
 
-If given “I love Fox and Friends” and the public key, I can produce `s80s1s9sadjds9s`, but if given `s80s1s9sadjds9s` and the Public Key I can’t produce “I love Fox and Friends”
+If given "I love Fox and Friends" and the public key, I can produce `s80s1s9sadjds9s`, but if given `s80s1s9sadjds9s` and the Public Key I can’t produce "I love Fox and Friends"
 
 In RSA, which is arguably the most widely used public-key cryptosystem, the trapdoor function relies on how hard it is to factor large numbers into their prime factors.
 

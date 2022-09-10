@@ -19,7 +19,7 @@ The judges will take an hour to review the projects, and we’ll meet back up at
 
 ## The project – A digital instrument
 
-Your goal is to build a digital instrument. Something like virtual piano. You can use any programming languages, tools, frameworks, or libraries that you want. The only requirement is that the user can interact with the “instrument” and sound will play through the speakers. It doesn’t need to be a piano, it just needs to make sounds.
+Your goal is to build a digital instrument. Something like virtual piano. You can use any programming languages, tools, frameworks, or libraries that you want. The only requirement is that the user can interact with the "instrument" and sound will play through the speakers. It doesn’t need to be a piano, it just needs to make sounds.
 
 You can, for example, build a small webpage with a virtual piano. Alternatively, you might build a command-line tool that plays the bass drum when you type drums.exe bass into the terminal, and a snare when you type drums.exe snare. If you’re more of a python person than a JavaScript dev, you could look into tools like Tkinter or QT for a graphical interface. Be creative!
 
