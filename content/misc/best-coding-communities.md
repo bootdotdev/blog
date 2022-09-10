@@ -120,7 +120,7 @@ FreeCodeCamp is a platform where anyone can learn coding basics for free! I love
 
 ## Where to Look for What You Want
 
-Different communities have different strengths. Some are great for actual support by connecting with other individuals, like Discord servers such as [Boot.dev](https://discord.com/invite/EEkFwbv). Others are better for answering specific technical questions ([DEV](https://dev.to/), [CodeNewbie](https://www.codenewbie.org/), and [Dream in Code](https://www.dreamincode.net/)).
+Different communities have different strengths. Some are great for real-time support by connecting with other individuals directly. For example, Discord servers such as [Boot.dev](https://discord.com/invite/EEkFwbv). Other communities are better for answering specific technical questions ([DEV](https://dev.to/), [CodeNewbie](https://www.codenewbie.org/), and [Dream in Code](https://www.dreamincode.net/)).
 
 Personal connections will help you build up a collection of technical mentors. A close network is also great for mock interviews, referrals for jobs, etc. Especially when it comes to maintaining your motivation, inspiration, and emotional energy, a close-knit group of coding learners is the backbone to a successful start in the programming world.
 
