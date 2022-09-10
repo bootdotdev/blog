@@ -114,13 +114,9 @@ The biggest issue is that it’s focused on school-age learners, and it tends to
 
 Even if you do not avail of their in-person meet-ups, I think the mini-project guides they have are super cool for applying your coding skills differently. The majority of their guides are also geared towards complete beginners, which can help you avoid getting super frustrated and overwhelmed.
 
-## 10. Digital Ocean
+## 10. FreeCodeCamp
 
-Digital Ocean is a platform for developers supporting developers. They have technical tutorials as well as a space for technical discussions. Their [community](https://www.digitalocean.com/community) supports content for a bunch of different tech topics, like [databases](https://www.digitalocean.com/community/tags/databases), [Kubernetes](https://www.digitalocean.com/community/tags/kubernetes) and [Docker](https://www.digitalocean.com/community/tags/docker), [Python](https://www.digitalocean.com/community/tags/python), [JavaScript](https://www.digitalocean.com/community/tags/javascript), [security](https://www.digitalocean.com/community/tags/security), and [Linux basics](https://www.digitalocean.com/community/tags/linux-basics).
-
-Additionally, they have a [Q&A forum](https://www.digitalocean.com/community/questions) similar to StackOverflow’s format and a growing [stockpile of awesome tech talks](https://www.digitalocean.com/community/tags/tech-talks).
-
-Digital Ocean claims to be focused more on development in the cloud. They [support cloud developers](https://www.digitalocean.com/) through their "open tutorials, resources, and events."
+FreeCodeCamp is a platform where anyone can learn coding basics for free! I love their mission and they have an absolute glut of information that you can sift through on almost any coding topic. That said, their [forum](https://forum.freecodecamp.org/) is of particular interest, it's one of the best coding communities you can find online. People are helping each other build projects, solve challenges, get jobs, and so much more. Definately something to check out before we wrap up.
 
 ## Where to Look for What You Want
 
