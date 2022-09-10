@@ -31,6 +31,12 @@
         </p>
         {{ end }}
 
+        <div class="text-right">
+            <a target="_blank" href="https://github.com/bootdotdev/blog/tree/main/content{{ strings.TrimRight " /"
+                .RelPermalink}}.md" class="text-blue-400
+                hover:text-blue-300 underline cursor-pointer">✏️ Edit this post</a>
+        </div>
+
         {{ $lastmod := .Params.lastmod.Format "Jan 2, 2006" }}
         {{ if and (ne $lastmod $date) (gt .Params.lastmod .Params.date) }}
         <p class="text-sm text-gray-300">

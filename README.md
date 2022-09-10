@@ -2,9 +2,13 @@
 
 The blog for Boot.dev, which can be found at [https://blog.boot.dev](https://blog.boot.dev).
 
-## A note on the license
+## Contributing
 
-You can read the [license here](/LICENSE). In short, we made this repo public to give students transparent visibility into our code for educational purposes. We do not allow you to distribute this code or content for your own purposes or for use in your own projects, and we retain the copyright to the code regardless of any contributions made.
+We would love for you to add your own article, or make improvements to an existing article! You can read the [contributing guide here](/CONTRIBUTING.md) for how to get started.
+
+## License
+
+You can read the [license here](/LICENSE). In short, you're free to copy and edit this blog. That said, all the content in this repository is owned by Boot.dev, and you're *not* permitted to host or publish it elsewhere. We want you to be able to submit updates and even entire articles if you choose, but be aware that an accepted submissions does *not* give you any ownership over the content in this project.
 
 ## Quick start development
 
