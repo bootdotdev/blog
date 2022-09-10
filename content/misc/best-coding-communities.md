@@ -118,7 +118,7 @@ Even if you do not avail of their in-person meet-ups, I think the mini-project g
 
 FreeCodeCamp is a platform where anyone can learn coding basics for free! I love their mission and they have an absolute glut of information that you can sift through on almost any coding topic. That said, their [forum](https://forum.freecodecamp.org/) is of particular interest, it's one of the best coding communities you can find online. People are helping each other build projects, solve challenges, get jobs, and so much more. Definately something to check out before we wrap up.
 
-## Where to Look for What You Want
+## Which community is right for you?
 
 Different communities have different strengths. Some are great for real-time support by connecting with other individuals directly. For example, Discord servers such as [Boot.dev](https://discord.com/invite/EEkFwbv). Other communities are better for answering specific technical questions ([DEV](https://dev.to/), [CodeNewbie](https://www.codenewbie.org/), and [Dream in Code](https://www.dreamincode.net/)).
 
