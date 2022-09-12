@@ -15,13 +15,11 @@ SHA-2 (Secure Hash Algorithm 2), of which SHA-256 is a part, is one of the most 
 
 Further down in this article, we will break down each step of SHA 256's [cryptographic algorithm](/cryptography/what-is-cryptography/) and work through a real example by hand.
 
-## SHA 256 generator online
+## Try generating a SHA 256 hash
 
-If you're not familiar with SHA-256, try out the generator below. Just enter any message and click the "hash" button.
+If you're not familiar with SHA-256, try out the online generator below. Just enter any message and click the "hash" button.
 
 {{< sha256gen >}}
-
-{{< cta1 >}}
 
 ## What is a cryptographic hash function?
 
@@ -35,11 +33,13 @@ It's worth noting that we say the output of a hash is "almost unique" because th
 
 The three of the main purposes of a hash function are:
 
-- To scramble data deterministically
-- To accept an input of arbitrary length and output a fixed length result
-- To manipulate data irreversibly. The input cannot be derived from the output
+* To scramble data deterministically
+* To accept an input of arbitrary length and output a fixed length result
+* To manipulate data irreversibly. The input cannot be derived from the output
 
 SHA-2 is a very famous and strong family of hash functions because, as you would expect, it serves all the purposes mentioned above.
+
+{{< cta1 >}}
 
 ## SHA-2 family vs sha256
 
@@ -66,7 +66,7 @@ SHA-2 is known for its security (it hasn't [broken down like SHA-1](https://shat
 01110010 01101100 01100100
 ```
 
-- Append a single 1:
+* Append a single 1:
 
 ```
 01101000 01100101 01101100 01101100 01101111 00100000 01110111 01101111
