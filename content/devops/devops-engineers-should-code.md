@@ -58,7 +58,7 @@ I wouldn't say "everyone needs to learn to code". I *would* say, if coding inter
 
 ## So should I learn to code as an ops person?
 
-If you're an DevOps engineer that's uncomfortable with the idea of writing code, it's never to late to start. I've found that ops people make *great* developers for a number of reasons:
+If you're a DevOps engineer that's uncomfortable with the idea of writing code, it's never to late to start. I've found that ops people make *great* developers for a number of reasons:
 
 * They're familiar with command line tooling, telemetry, networking, etc
 * They're familiar with technologies like databases, pubsub systems, load balancers, etc
