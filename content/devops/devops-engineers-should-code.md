@@ -65,7 +65,7 @@ If you're a DevOps engineer that's uncomfortable with the idea of writing code, 
 * They understand the programs they'll be writing from the outside, now they just need to figure out the internals
 * They're already used to banging their head against the keyboard trying to figure out why something is broken
 
-Anyhow, not to plug my own stuff too hard, but if you're interested in getting started with back-end coding, I've created [Boot.dev](https://boot.dev) to be a place for ops engineers to upskill in coding and computer science. Do check it out if you want to learn to write back-end code in Python, JavaScript and Go. That said, if Boot.dev is not your cup of tea, check out FreeCodeCamp, the Odin Project, or any other good resources that work for your needs.
+Anyhow, not to plug my own stuff too hard, but if you're interested in getting started with back-end coding, I've created [Boot.dev](https://boot.dev) to be a place for ops engineers to upskill in coding and computer science. Do check it out if you want to learn to write back-end code in Python, JavaScript and Go. That said, if Boot.dev is not your cup of tea, check out [FreeCodeCamp](https://www.freecodecamp.org/), [the Odin Project](https://www.theodinproject.com/), or any other good resources that work for your needs.
 
 ## So, are you a DevOps engineer if you aren't writing code?
 
