@@ -12,7 +12,7 @@ The state of education for backend developers is fraught with difficulty, but it
 
 I started building Boot.dev for my wife Breanna who wanted to transition into backend development from her job as an x-ray technician. After searching for awhile, we couldn't find any learning platforms that checked all the boxes that I felt were necessary as a backend hiring manager. I built Boot.dev so that anyone struggling to get a job as a backend engineer can learn the computer science skills that employers actually want to see. My wife was my first student and loves the platform, so I hope you do too.
 
-Boot.dev isn’t just a collection of programming courses, read on to hear about some of the we have opinions about the most effective way for you to learn backend development.
+Boot.dev isn’t just a collection of programming courses, read on to hear about some of the we have opinions about the most effective way for you to learn back-end development.
 
 ## Computer science skills will set you apart in the job market
 

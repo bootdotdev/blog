@@ -12,7 +12,7 @@ images:
 
 I get really frustrated when I see people and companies online selling unrealistic dreams when it comes to coding education. It's quite lucrative when you're in the edtech industry to heavily exaggerate (or even lie) about how long it will take for learners to get job-ready. I teach backend development skills at [Boot.dev](https://boot.dev) and try my best to give students realistic goals they can reach for.
 
-Read on to hear all about my thoughts on how long it will take to learn backend development, but first let's cover some of the most important stuff right off the bat.
+Read on to hear all about my thoughts on how long it will take to learn back-end development, but first let's cover some of the most important stuff right off the bat.
 
 1. *Almost* no one is getting "job ready" in less than 16 weeks.
 2. If you're learning efficiently, it probably won't take more than 2 years to get "job ready".
@@ -41,7 +41,7 @@ If you can answer "yes" to any of these questions, your journey will be quite a 
 
 Of course, there are many other tidbits of knowledge and training that can speed up your journey. I just listed 10 of the most common ones.
 
-## What else impacts how long it will take me to learn backend development?
+## What else impacts how long it will take me to learn back-end development?
 
 Apart from analyzing where you're starting from, there some other key factors that will heavily impact how long it will take you to get a backend job.
 

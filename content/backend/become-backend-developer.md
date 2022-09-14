@@ -12,7 +12,7 @@ So you've decided that backend development is the career for you - congratulatio
 
 **Before we get started, if you want the "quick answer", check out [Boot.dev](https://boot.dev) - it's a platform I built from the ground up to teach you backend development completely online.** If you'd rather do a deep dive on the *kinds* of things you need to learn, rather than get started with a specific learning platform, read on!
 
-Below, we'll cover everything you need to learn backend development in 2022 from knowing *basically nothing* about programming to getting your first job as a Backend Developer. This article is a compilation of my own experience and expertise as a backend engineer and hiring manager, as well as other who've I've consulted with to ensure this can be the best guide it can be.
+Below, we'll cover everything you need to learn back-end development in 2022 from knowing *basically nothing* about programming to getting your first job as a Backend Developer. This article is a compilation of my own experience and expertise as a backend engineer and hiring manager, as well as other who've I've consulted with to ensure this can be the best guide it can be.
 
 ## First, what is a backend developer?
 
@@ -31,7 +31,7 @@ According to Stack Overflow's last [developer survey](https://survey.stackoverfl
 
 {{< cta1 >}}
 
-## Can I really learn backend by myself?
+## Can I really learn back-end by myself?
 
 Many people assume that because backend developers typically need to have a better understanding of computer science fundamentals, that's it's harder to get an entry-level backend position, and as a result, they start educating themselves on front-end technologies. **I think this is a mistake.**
 
@@ -41,7 +41,7 @@ Just because CS *skills* are often a requirement for backend positions, it's alm
 
 Alright, now that we've answered som preliminary questions, lets get onto the learning path! I've
 
-Follow these steps in order - there are plenty of places you can learn backend online effectively, some of the resources are paid, some are free.
+Follow these steps in order - there are plenty of places you can learn back-end online effectively, some of the resources are paid, some are free.
 
 ### 1. Learn basic coding skills
 
@@ -198,8 +198,8 @@ You can be a backend programmer in almost any programming language, but here are
 * [Ruby](https://www.ruby-lang.org/en/) - Good if you want rails and like the Ruby style of programming
 * [PHP](https://www.php.net/) - Great for simple websites, less great for APIs
 
-## How long does it take to learn backend development?
+## How long does it take to learn back-end development?
 
-If you're starting from zero, it will probably take you anywhere from 9 months to 2 years to learn backend development thoroughly enough that you can land an entry-level position. Of course, it will be different for everyone, but if you can put in a good 10 hours each week, I think that's a solid estimate. The good news is, that's **faster and cheaper** than going back to university for 4 years. The hardest part is just sticking with it.
+If you're starting from zero, it will probably take you anywhere from 9 months to 2 years to learn back-end development thoroughly enough that you can land an entry-level position. Of course, it will be different for everyone, but if you can put in a good 10 hours each week, I think that's a solid estimate. The good news is, that's **faster and cheaper** than going back to university for 4 years. The hardest part is just sticking with it.
 
 Good luck out there, I'm sure you'll do great!
