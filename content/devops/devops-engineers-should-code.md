@@ -9,7 +9,7 @@ images:
   - /img/800/photo-1602992708529-c9fdb12905c9.avif.webp
 ---
 
-"DevOps" is one of the most misunderstood terms in the software development industry. To be clear, I'm not the arbiter of truth when it comes to the definitions of words. That said, I'm here say two things:
+"DevOps" is one of the most misunderstood terms in the software development industry. To be clear, I'm not the arbiter of truth when it comes to the definitions of words. That said, I'm here to say two things:
 
 1. The pioneers of the DevOps movement had a specific meaning in mind when they coined the term, and that meaning is *mostly* misunderstood.
 2. We've learned a lot about DevOps over the last 10 years. I personally use the term to describe what I believe are the *current* best practices in reference to the *original* meaning.
@@ -65,11 +65,11 @@ If you're a DevOps engineer that's uncomfortable with the idea of writing code, 
 * They understand the programs they'll be writing from the outside, now they just need to figure out the internals
 * They're already used to banging their head against the keyboard trying to figure out why something is broken
 
-Anyhow, not to plug my own stuff too hard, but if you're interested in getting started with back-end coding, I've created [Boot.dev](https://boot.dev) to be a place for ops engineers to upskill in coding and computer science. Do check it out if you want to learn to write back-end code in Python, JavaScript and Go. That said, if Boot.dev is not your cup of tea, check out FreeCodeCamp, the Odin Project, or any other good resources that work for your needs.
+Anyhow, not to plug my own stuff too hard, but if you're interested in getting started with back-end coding, I've created [Boot.dev](https://boot.dev) to be a place for ops engineers to upskill in coding and computer science. Do check it out if you want to learn to write back-end code in Python, JavaScript and Go. That said, if Boot.dev is not your cup of tea, check out [FreeCodeCamp](https://www.freecodecamp.org/), [the Odin Project](https://www.theodinproject.com/), or any other good resources that work for your needs.
 
 ## So, are you a DevOps engineer if you aren't writing code?
 
-Sure, you can be whatever you want. My intention isn't to gatekeep. I guess there are two things I really care about.
+Sure, you can be whatever you want. My intention isn't to gatekeep. I guess there are three things I really care about.
 
 1. I want to work in an organization that enables developers to test, deploy, and monitor their services easily and in an automated fashion.
 2. I call the people that make that happen "DevOps" people.
