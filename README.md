@@ -8,7 +8,7 @@ We would love for you to add your own article, or make improvements to an existi
 
 ## License
 
-You can read the [license here](/LICENSE). In short, you're free to copy and edit this blog. That said, all the content in this repository is owned by Boot.dev, and you're *not* permitted to host or publish it elsewhere. We want you to be able to submit updates and even entire articles if you choose, but be aware that an accepted submissions does *not* give you any ownership over the content in this project.
+You can read the [license here](/LICENSE). In short, you're free to copy and edit this blog. That said, all the content in this repository is owned by Boot.dev, and you're *not* permitted to host or publish it elsewhere. We want you to be able to submit updates and even entire articles if you choose, but be aware that an accepted submission does *not* give you any ownership over the content in this project.
 
 ## Quick start development
 
