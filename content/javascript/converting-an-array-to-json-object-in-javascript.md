@@ -1,5 +1,5 @@
 ---
-title: "Converting an Array to JSON Object in JavaScript"
+title: "Converting an Array to a JSON Object in JavaScript"
 author: Lane Wagner
 date: "2020-12-21"
 lastmod: "2022-04-21"
@@ -9,7 +9,7 @@ images:
   - /img/800/javascript-on-laptop.webp
 ---
 
-JSON, or "JavaScript Object Notation", is an extremely popular data exchange format, especially in web development. Let's go over a few simple ways to convert a JavaScript array to JSON data.
+JSON, or "JavaScript Object Notation", is an *extremely* popular data exchange format, especially in web development. Let's go over a few simple ways to convert a JavaScript array into JSON data.
 
 ## JS Array to JSON using JSON.stringify() 
 
@@ -26,7 +26,7 @@ const resp = await fetch('https://example.com', {
 });
 ```
 
-Because an array structure at the top-level is valid JSON, if you're just worried about _validity_, then you don't even need to do any transformations. To prepare your array so that you can make a [fetch request](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) with it, it's as simple as using the `JSON.stringify()` method as we saw above.
+Because an array structure at the top-level is valid JSON, if you're just worried about *validity*, then you don't even need to do any transformations. To prepare your array so that you can make a [fetch request](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) with it, it's as simple as using the `JSON.stringify()` method as we saw above.
 
 If you want to convert back to an in-memory array, you can use [JSON.parse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse) on the string.
 
@@ -36,6 +36,8 @@ const arr = JSON.parse("[1, 2, 3]")
 // arr is an array
 // [1, 2, 3]
 ```
+
+If you're looking to enhance your JavaScript skills, check out my [full JS course on Boot.dev](https://boot.dev/learn/learn-javascript)!
 
 ## Array to JSON with indexes as keys
 
@@ -62,6 +64,8 @@ const jsonString = JSON.stringify(Object.assign({}, array))
 // {"0":"apple","1":"orange","2":"banana"} 
 ```
 
+{{< cta1 >}}
+
 ## Convert each item in an array into JSON
 
 If for some insane reason you need to stringify all the items in an array, but not the array as a whole, the [.map()](/javascript/javascript-map-function/) function is useful.
@@ -73,10 +77,6 @@ const jsonStrings = arr.map(item => JSON.stringify(item))
 
 const backToNumbers = jsonStrings.map((s) => JSON.parse(s))
 ```
-
-{{< cta1 >}}
-
-{{< cta2 >}}
 
 ## When dealing with an API, should you use objects or arrays?
 
@@ -99,5 +99,3 @@ Instead of a "naked" array, which is technically valid JSON:
 ```
 
 The reason that I generally prefer top-level objects is that I can add additional fields to the object in the future, without requiring large changes to the code. I also like it because it "self-documents" in a way. When you look at the first request body you can tell it's an array of usernames, in the second example, those strings could be anything.
-
-And if this isn't making sense to you, you might want to check out our [computer science courses](https://boot.dev/courses/).
