@@ -25,7 +25,7 @@ That said, homework can sometimes be tolerable. I think for junior-level jobs, w
 
 - Don't make homework take longer than an hour. Don't make it busy work, make it an interesting but solveable problem, ideally connected to the domain of the job description.
 - Give the homework before any serious interviews. Don't make candidates sit through several interviews, only to be handed homework afterwards.
-- Don't give homework if the candidate can point to projects or open source code they've written. The point of homework is to verify a basic level of techincal proficiency. If they already have proof, just move on to the real interviewing.
+- Don't give homework if the candidate can point to projects or open source code they've written. The point of homework is to verify a basic level of technical proficiency. If they already have proof, just move on to the real interviewing.
 
 {{< cta1 >}}
 
@@ -53,7 +53,7 @@ This is probably a controversial opinion, but I actually quite enjoy whiteboardi
 
 This one will rarely work on it's own, but is important to use in tandem with another technique. The idea is to ask probing technical questions to gauge the breadth and depth of a candidate's experience. There are no problems here to solve, the goal is just to try to learn about the candidate's skill set. Questions and prompts I often use include:
 
-- Tell me about one of the most fun techincal challenges you've worked on, and how you solved it
+- Tell me about one of the most fun technical challenges you've worked on, and how you solved it
 - Tell me about your biggest pet peeve regarding coding style
 - If you had to learn one new programming language, which one would it be and why?
 
