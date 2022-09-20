@@ -8,7 +8,7 @@ images:
   - /img/800/photo-1615564553104-47a08bbf1a0f.avif.webp
 ---
 
-I think we often do a great job of flogging the dead horse of whiteboarding problems when giving coding interview advice. While the *hard* skills you'll need to be able to solve technical interview problems are necessary, it's also critically important to work on your *soft* skills.
+I think we often do a great job of flogging the dead horse of whiteboarding problems when giving coding interview advice. Heck, that's what I've dedicated the entirety of [Boot.dev](https://boot.dev) to. While the *hard* skills you'll need to be able to solve technical interview problems are necessary, it's also critically important to work on your *soft* skills.
 
 From a high-level, there are two qualities you *really* want to exhibit in a coding interview:
 
