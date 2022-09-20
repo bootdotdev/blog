@@ -8,9 +8,9 @@ images:
   - /img/800/sinitta.webp
 ---
 
-Vim or VS Code? Tabs or spaces? Rails or Django? The world or programming is fraught with decisions to be made. Sometimes experienced developers are able to share their beliefs in a somewhat objective way. That said, we're all human, and opinions can come across as gospel when we're not careful.
+Vim or VS Code? Tabs or spaces? Rails or Django? The world of programming is fraught with decisions to be made. Sometimes experienced developers are able to share their beliefs in a somewhat objective way. That said, we're all human, and opinions can come across as gospel when we're not careful.
 
-While working on my CS degree, and I had very smart professors that disagreed vehemently on fundamental tooling and methodologies. For example, my advanced algorithms professor believed if you weren't using Linux and [Make](https://www.gnu.org/software/make/) to compile C++, you were too far gone to deserve help. On the contrary, my graphics professor built his C++ programs on Windows using Visual Studio's UI. I now have an opinion on the matter, but it was useful to me to be exposed to different approaches and their tradeoffs.
+While I was working on my CS degree, I had very smart professors that disagreed vehemently on fundamental tooling and methodologies. For example, my advanced algorithms professor believed if you weren't using Linux and [Make](https://www.gnu.org/software/make/) to compile C++, you were too far gone to deserve help. On the contrary, my graphics professor built his C++ programs on Windows using Visual Studio's UI. I now have an opinion on the matter, but it was useful to me to be exposed to different approaches and their tradeoffs.
 
 Excluding academic topics like CS fundamentals and mathematical proofs, there's often not a "right" answer in programming; many decisions come down to tradeoffs and preferences. There are however a few obvious exceptions to this rule:
 
