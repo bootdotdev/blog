@@ -62,7 +62,6 @@ Daniel Kahn, a favorite of mine, has a great Ted talk on the subject:
 
 {{< youtube -MTRxRO5SRA >}}
 
-
 ## Quality over Quantity
 
 While not so much a problem at Ivy-League Universities, many smaller colleges, bootcamps, and online courses struggle to put out high-quality educational content. This is especially a problem with some of our online platform competitors (I won't name names) where _anyone_ can upload yet _another_ "How to Make a Website" course.
