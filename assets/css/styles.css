@@ -9,6 +9,7 @@
   --blue-600: hsl(235, 89%, 57%);
 
   --gray-50: hsl(235, 10%, 97%);
+  --gray-100: hsl(235, 9%, 94%);
   --gray-700: hsl(235, 5%, 24%);
   --gray-750: hsl(235, 6%, 18%);
   --gray-800: hsl(236, 7%, 13%);
@@ -24,6 +25,10 @@
 
 body {
   font-family: Helvetica Neue, Helvetica, sans-serif;
+}
+
+main strong {
+  color: var(--gray-100);
 }
 
 main h2 {
