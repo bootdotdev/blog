@@ -1,4 +1,4 @@
-# blog
+# The Boot.dev Blog
 
 The blog for Boot.dev, which can be found at [https://blog.boot.dev](https://blog.boot.dev).
 
