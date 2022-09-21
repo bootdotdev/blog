@@ -50,7 +50,7 @@ It’s also worth comparing the cost of coding bootcamps to the cost of specific
 
 Coursera’s tracks run between $39-$79 per month. Even if you only did $79/month tracks and it took you a year to do each one, you’d be able to do 13 of them for the same price as an average coding bootcamp.
 
-Then there are options like [boot.dev](https://boot.dev). Like coding bootcamps, it’s a mix of coding and projects combined with job-oriented networking and resume review in a Discord channel. Unlike coding bootcamps, it costs as little as [$16 per month](https://boot.dev/pricing) to get access to the algorithms, data structures, and computer science content.
+Then there are options like [boot.dev](https://boot.dev). Like coding bootcamps, it’s a mix of coding and projects combined with job-oriented networking and resume review in a Discord channel. Unlike coding bootcamps, it costs as little as [$24 per month](https://boot.dev/pricing) to get access to the algorithms, data structures, and computer science content.
 
 Having a college-backed certificate is powerful, but what I said earlier still stands: many employers just don’t care. If you can prove you have the skills, they’ll be thrilled to get you on board with or without a diploma or certificate.
 

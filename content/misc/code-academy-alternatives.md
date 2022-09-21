@@ -30,7 +30,7 @@ Codecademy’s courses, especially the Pro ones, will get you the skills and may
 
 [Boot.dev](https://boot.dev), by contrast, is all about building strong foundations. The courses are geared around concepts and use coding languages to help you grasp those concepts, like Functional Programming or Big-O algorithms.
 
-Price comparison: Boot.dev costs $29.99 a month, or $16/month when billed annually. There’s also a free sandbox version.
+Price comparison: Boot.dev costs $34 a month, or $24/month when billed annually. There’s also a free guest version.
 
 {{< cta1 >}}
 

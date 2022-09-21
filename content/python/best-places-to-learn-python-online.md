@@ -110,7 +110,7 @@ Free does the job, but sometimes you get what you pay for. A lot of those freemi
 
 ### Boot.dev
 
-Boot.dev’s [Python course](https://boot.dev/learn/learn-python) is a great place to learn Python online and includes exercises and tutorials. There isn’t much passive content, so it’s awesome for folks who prefer to learn with a more hands-on approach. The course takes about 20h to complete. You can pay $29/month or $16/month when billed annually.
+Boot.dev’s [Python course](https://boot.dev/learn/learn-python) is a great place to learn Python online and includes exercises and tutorials. There isn’t much passive content, so it’s awesome for folks who prefer to learn with a more hands-on approach. The course takes about 20h to complete. You can pay $34/month or $24/month when billed annually.
 
 > "I was a field service engineer and I wanted to learn to code, but work and family limited my options. Since completing the Python track on Boot.dev, I now have a job offer in hand and will be starting my career as a software developer in the coming months." - Özgür Yildirim from Germany
 
