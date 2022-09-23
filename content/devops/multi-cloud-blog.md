@@ -6,7 +6,11 @@ categories:
   - "devops"
   - "backend"
 images:
-  - /static/img/800/multi-cloud-blog.jpg
+  - /img/800/multi-cloud-blog.jpg
+
+dofollows:
+  - "https://trootech.com"
+  - "https://www.trootech.com"
 ---
 
 
@@ -18,7 +22,7 @@ Cloud services from multiple vendors would allow business enterprises to access 
 ## What is multi-cloud?
 Multi-cloud is nothing but a deployment model of more than 1 cloud service from different vendors at a time. The infrastructure offered by multi-cloud enables business entities to deliver seamless application services to their consumers by leveraging the benefits of two or more private or public cloud services. 
 
-![](/static/img/800/multi-cloud-infrastruture-2.jpg)
+![](/img/800/multi-cloud-infrastruture-2.jpg)
 
 ## Why do organizations choose a multi-cloud strategy?
 Several top-level business enterprises are moving towards multi-cloud infrastructure to make use of the advantages of different cloud services simultaneously. Also, the multi-cloud infrastructure allows businesses to take full control over their applications and data which is important for their business success. 
