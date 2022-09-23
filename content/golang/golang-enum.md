@@ -65,7 +65,7 @@ const (
 )
 ```
 
-## Create an enums with multipliers
+## Create an enum with multipliers
 
 The `iota` keyword simply represents an incrementing integer constant that's one number larger each time it's used within the same `const` block. You can use it to do whatever math you like.
 
