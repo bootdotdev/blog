@@ -6,11 +6,11 @@ images:
   - /img/800/our_method_banner.png.webp
 ---
 
-The state of education for backend developers is fraught with difficulty, but it doesn't need to be that way. **The mission of Boot.dev is to make the process of becoming a backend engineer effective, fun, and inexpensive.**
+The state of education for back-end developers is fraught with difficulty, but it doesn't need to be that way. **The mission of Boot.dev is to make the process of becoming a backend engineer effective, fun, and inexpensive.**
 
 ## Why build Boot.dev?
 
-I started building Boot.dev for my wife Breanna who wanted to transition into backend development from her job as an x-ray technician. After searching for awhile, we couldn't find any learning platforms that checked all the boxes that I felt were necessary as a backend hiring manager. I built Boot.dev so that anyone struggling to get a job as a backend engineer can learn the computer science skills that employers actually want to see. My wife was my first student and loves the platform, so I hope you do too.
+I started building Boot.dev for my wife Breanna who wanted to transition into backend development from her job as an x-ray technician. After searching for a while, we couldn't find any learning platforms that checked all the boxes that I felt were necessary as a backend hiring manager. I built Boot.dev so that anyone struggling to get a job as a backend engineer can learn the computer science skills that employers actually want to see in a candidate. My wife was my first student and loves the platform, so I hope you do too.
 
 Boot.dev isn’t just a collection of programming courses, read on to hear about some of the we have opinions about the most effective way for you to learn back-end development.
 
@@ -36,15 +36,15 @@ There's nothing more powerful than being able to show employers exactly what you
 
 We disagree with the following common claims:
 
-> "You can learn to code and land a developer job in 8 weeks"
+> "Learn to code and you'll land a developer job in 8 weeks"
 
-> "You need a 4-year computer science degree to be successful"
+> "You need a 4-year computer science degree to become a developer"
 
-We think that if you spend an hour or two each day, it will take around 9 to 15 months of learning before you land your first job. It's important to have realistic expectations and achievable goals.
+We think that if you spend an hour or two each day, it will take [about 6 to 18 months of learning](/backend/how-long-to-become-backend-dev/) before you land your first job, depending on your situation. It's important to have realistic expectations and achievable goals.
 
 ## It's not hard to find coding courses online, but it is hard to find good ones
 
-If you’re willing to drudge through thousands of Wikipedia pages, scholarly articles, and blog posts, you can learn anything online today for free. We don't have 10 different "Data Structures" courses of varying quality - we have one that we dedicate all our resources to impro.
+If you’re willing to drudge through thousands of Wikipedia pages, scholarly articles, and blog posts, you can learn anything online today for free. We don't have 10 different "Data Structures" courses of varying quality - we have one that we dedicate all our resources to improving.
 
 ## A mix of guided and unguided learning is essential
 
