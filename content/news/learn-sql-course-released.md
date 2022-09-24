@@ -31,4 +31,4 @@ This course really rounds out our entire back-end path - all the major pieces ar
 
 ## What does it cost?
 
-At the time of release, the first 3 chapters of the course are free. After that, you can [become a patron](https://boot.dev/pricing) to unlock full access for $29/mo!
+At the time of release, the first 3 chapters of the course are free. After that, you can [become a member](https://boot.dev/pricing) to unlock full access for $34/mo!

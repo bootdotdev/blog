@@ -32,15 +32,15 @@ Right of the gate I'm bound by the constraint that I need to be able to earn a l
 
 ## So what is Boot.dev's current business model anyways?
 
-I don't think I've gotten this right yet, but at the moment we have a simple way to fund ongoing development: our "patron plan".
+I don't think I've gotten this right yet, but at the moment we have a simple way to fund ongoing development: our "membership".
 
-Signing up, reading *all* the content, and even playing in the code sandbox is **free for everyone**. However, after the first few chapters of any individual course, if you want to continue to "pass off" assignments, and get your answers checked for correctness you need to [become a patron](https://boot.dev/pricing). There are 3 pricing options:
+Signing up, reading *all* the content, and even playing in the code sandbox is **free for everyone**. However, after the first few chapters of any individual course, if you want to continue to "pass off" assignments, and get your answers checked for correctness you need to [become a member](https://boot.dev/pricing). There are 3 pricing options:
 
-* A monthly plan of `~$29/mo`
-* A yearly plan of `~$192/yr`
-* A lifetime plan which is a one-time payment of `$500`
+* A monthly plan of `$34 / mo`
+* A semiannual plan of `$156 / 6 months`
+* A yearly plan of `$288 / yr`
 
-Obviously I play with pricing a lot, so if you're reading this in the future it may have changed, but that's what it is today. In a nutshell, you pay a subscription for access to all the features.
+A membership subscription sill get you access to all the features and content.
 
 ## Charging the learners isn't the only way to monetize the platform
 

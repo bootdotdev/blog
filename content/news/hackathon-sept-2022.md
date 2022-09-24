@@ -40,7 +40,7 @@ There will be 3 winners and 1 "1st place" winner from each category.
 * First place winners will get a $50 gift card! This will likely be to Amazon, Apple, Visa, etc. We'll do what's most convenient for you.
 * The top 3 will all win a copy of "[Automate the Boring Stuff](https://automatetheboringstuff.com/)" - a fantastic Python book
 
-In addition, everyone who participates will earn 1000XP in the Boot.dev app, and get a coupon code for 25% off of a patron subscription.
+In addition, everyone who participates will earn 1000XP in the Boot.dev app, and get a coupon code for 25% off of a membership.
 
 ## Winners Announced!
 
