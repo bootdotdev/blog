@@ -1,5 +1,5 @@
 ---
-title: "CI/CD isn't just about efficiency"
+title: "CI/CD Isn't Just About Efficiency"
 author: Lane Wagner
 date: "2022-09-26"
 categories: 
@@ -56,3 +56,7 @@ Imagine that a bug is reported, and you know *exactly* what the problem is. If y
 However, if you don't have any automation in place, it's an annoying pain in the ass. Changing the code still only takes 30 seconds, but you're now going to spend 15 minutes manually getting the new code running in production. You think, "Maybe this deployment can wait until the end of the day when we were going to deploy anyways."
 
 I guess what I'm saying is that I'm *extraordinarily* lazy, and I'm aware of it. I keep myself motivated and effective by making sure I like my job as much as possible. Automation isn't just about being more effective in an absolute sense; though it *is* that as well. Automation is also about being more effective by making my job more enjoyable so that I'm more motivated to do it.
+
+## What's your point?
+
+I'm not going to automate everything - I haven't thrown efficiency to the wind. However, I bias towards automating because I'm not a machine, I'm human, and I enjoy it.
