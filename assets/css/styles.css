@@ -1,4 +1,6 @@
 :root {
+  color-scheme: dark;
+
   --red-500: #c05460;
 
   --blue-300: hsl(235, 91%, 81%);
