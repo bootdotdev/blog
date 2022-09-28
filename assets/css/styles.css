@@ -1,0 +1,159 @@
+:root {
+  --red-500: #c05460;
+
+  --blue-300: hsl(235, 91%, 81%);
+  --blue-350: hsl(235, 89%, 77%);
+  --blue-400: hsl(235, 88%, 73%);
+  --blue-450: hsl(235, 87%, 69%);
+  --blue-500: hsl(235, 86%, 65%);
+  --blue-600: hsl(235, 89%, 57%);
+
+  --gray-50: hsl(235, 10%, 97%);
+  --gray-100: hsl(235, 9%, 94%);
+  --gray-700: hsl(235, 5%, 24%);
+  --gray-750: hsl(235, 6%, 18%);
+  --gray-800: hsl(236, 7%, 13%);
+  --gray-900: hsl(240, 9%, 6%);
+  --gray-950: hsl(240, 10%, 3%);
+
+  --top-nav-bar-height: 60px;
+}
+
+.top-nav-bar-height {
+  height: var(--top-nav-bar-height);
+}
+
+body {
+  font-family: Helvetica Neue, Helvetica, sans-serif;
+}
+
+main strong {
+  color: var(--gray-100);
+}
+
+main h2 {
+  font-weight: 600;
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+  color: white;
+}
+
+main h3 {
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+  color: white;
+}
+
+main h4 {
+  font-weight: 600;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+  color: white;
+}
+
+main p {
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+main ul {
+  list-style-type: disc;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+main ol {
+  list-style-type: decimal;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+main li {
+  margin-bottom: .25rem;
+}
+
+main a {
+  color: var(--blue-400);
+  text-decoration: underline;
+}
+
+main a:hover {
+  color: var(--blue-300);
+}
+
+main code {
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+main pre {
+  background: var(--gray-700);
+  padding: 1em;
+  overflow-x: auto;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+main p code {
+  padding: 2px 4px 2px 4px;
+  background: var(--gray-700);
+  border-radius: 4px;
+}
+
+main p {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  line-height: 1.75rem;
+}
+
+main img {
+  border-radius: 5px;
+}
+
+main img,
+iframe,
+video {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main blockquote {
+  background: var(--gray-750);
+  border-left: 5px solid var(--gray-50);
+  padding: 3px 1em 3px;
+  border-radius: 4px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+main blockquote p {
+  margin: 0;
+  margin-bottom: 1rem;
+}
+
+main table {
+  margin: auto;
+  border: 1px solid var(--blue-500);
+  margin-bottom: 1rem;
+}
+
+main table thead th {
+  padding: 1rem;
+  border-bottom: 1px solid var(--blue-500);
+}
+
+main th,
+td {
+  padding: 5px;
+}
+
+main thead,
+tfoot,
+tr:nth-child(even) {
+  background: var(--gray-800);
+}

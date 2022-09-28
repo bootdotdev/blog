@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    {{if eq .Title .Site.Title}}
+    {{ title .Site.Title }}
+    {{ else }}
+    {{ if $.Paginator }}
+    {{ if gt $.Paginator.PageNumber 1 }}
+    {{ title .Title }} Pg. {{ $.Paginator.PageNumber }} | Boot.dev
+    {{ else }}
+    {{ title .Title }} | Boot.dev
+    {{ end }}
+    {{ else }}
+    {{ title .Title }} | Boot.dev
+    {{ end }}
+    {{ end }}
+  </title>
+
+  {{ if and (.IsHome) ($.Paginator) }}
+  {{ if eq $.Paginator.PageNumber 1 }}
+  <link rel="canonical" href="{{ .Permalink }}" />
+  {{ else }}
+  <link rel="canonical" href="{{ .Permalink }}page/{{ $.Paginator.PageNumber }}/" />
+  {{ end }}
+  {{ else }}
+  <link rel="canonical" href="{{ .Permalink }}" />
+  {{ end }}
+
+  {{ if .Description }}
+  <meta name="description" content="{{ .Description }}" />
+  {{ else }}
+  <meta name="description" content="{{ .Site.Params.Description }}" />
+  {{ end }}
+
+  {{ $tailcss := resources.Get "css/tail-out.css" | minify }}
+  <link href="{{ $tailcss.RelPermalink }}" rel="stylesheet">
+
+  {{ $stylescss := resources.Get "css/styles.css" | minify }}
+  <link href="{{ $stylescss.RelPermalink }}" rel="stylesheet">
+
+  {{ partial "favicons.html" . }}
+  {{ partial "gtm.html" . }}
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
+  {{ template "_internal/schema.html" . }}
+</head>
+
+<body class="bg-gray-800 text-gray-250 m-0">
+
+  {{ partial "top_nav.html" . }}
+
+  {{ partial "sticky_cta.html" . }}

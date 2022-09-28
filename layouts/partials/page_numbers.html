@@ -1,0 +1,36 @@
+<!-- Number of links either side of the current page. -->
+{{ $adjacent_links := 2 }}
+
+<!-- $max_links = ($adjacent_links * 2) + 1 -->
+{{ $max_links := (add (mul $adjacent_links 2) 1) }}
+
+<!-- $lower_limit = $adjacent_links + 1 -->
+{{ $lower_limit := (add $adjacent_links 1) }}
+
+<!-- $upper_limit = $.Paginator.TotalPages - $adjacent_links -->
+{{ $upper_limit := (sub $.Paginator.TotalPages $adjacent_links) }}
+
+<!-- If there's more than one page. -->
+{{ if gt $.Paginator.TotalPages 1 }}
+
+<ul class="flex flex-row justify-evenly text-blue-400 hover:text-blue-300">
+  <!-- Previous page. -->
+  {{ if $.Paginator.HasPrev }}
+  <a href="{{ $.Paginator.Prev.URL }}">
+    <li class="bg-blue-500 hover:bg-blue-400 rounded px-6 py-3 text-gray-200 font-extrabold">
+      Previous
+    </li>
+  </a>
+  {{ end }}
+
+  <!-- Next page. -->
+  {{ if $.Paginator.HasNext }}
+  <a href="{{ $.Paginator.Next.URL }}">
+    <li class="bg-blue-500 hover:bg-blue-400 rounded px-6 py-3 text-gray-200 font-extrabold">
+      Next
+    </li>
+  </a>
+  {{ end }}
+
+</ul><!-- .pagination -->
+{{ end }}
