@@ -205,6 +205,7 @@ Database knowledge and theory is one of the most practically applicable topics t
 - [ElasticSearch (NoSQL) Tutorials](https://www.tutorialspoint.com/elasticsearch/index.htm)
 - eBook: [Database Design and Relational Theory](http://dl.booktolearn.com/ebooks2/computer/databases/9781449328016_database_design_and_relational_theory_890d.pdf)
 - [Relational databases and SQL: edX](https://www.edx.org/course/databases-5-sql)
+- [SQL Tutorial: Scaler Topics](https://www.scaler.com/topics/sql/)
 
 #### Goals
 
