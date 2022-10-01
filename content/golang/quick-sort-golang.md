@@ -29,7 +29,7 @@ Quicksort is an efficient sorting algorithm commonly used in production sorting 
 
 Quicksort actually makes use of two functions, the main `quicksort()` function as well as the `partition()` function. The meat of the algorithm counter-intuitively lives in the `partition()` function. It's responsible for finding the pivot and moving everything to the correct side of the pivot.
 
-![](/img/800/partition_function.gif)
+![quicksort](https://upload.wikimedia.org/wikipedia/commons/f/fe/Quicksort.gif)
 
 In Go, the complete code would look like this.
 

@@ -9,7 +9,7 @@ images:
   - /img/800/anonymous.webp
 ---
 
-An anonymous struct is just like a normal struct, but it is defined without a name and therefore cannot be referenced elsewhere in the code.
+An anonymous struct is just like a normal struct, but it is defined *without a name* and therefore *cannot be referenced* elsewhere in the code.
 
 Structs in Go are similar to structs in other languages like C. They have typed collections of fields and are used to group data to make it more manageable for us as programmers.
 
@@ -45,11 +45,13 @@ newCar := car{
 }
 ```
 
+If you're interested in doing a deep dive on the Go programming language, check out my ["Learn Go" course on Boot.dev](https://boot.dev/learn/learn-golang).
+
 ## When should I use an anonymous struct?
 
 I often use anonymous structs to [marshal and unmarshal JSON data](/golang/json-golang/) in HTTP handlers. If a struct is only meant to be used once, then it makes sense to declare it in such a way that developers down the road won't be tempted to accidentally use it again.
 
-Take a look at the code below. We are able to marshal the HTTP request directly into an unnamed struct inline. All the fields are still accessible via the dot operator, but we don't have to worry about another part of our project trying to use a type that wasn't intended for it.
+Take a look at the code below. We are able to marshal the [HTTP request](https://boot.dev/learn/learn-http) directly into an unnamed struct inline. All the fields are still accessible via the dot operator, but we don't have to worry about another part of our project trying to use a type that wasn't intended for it.
 
 ```go
 func createCarHandler(w http.ResponseWriter, req *http.Request) {
@@ -75,7 +77,7 @@ func createCarHandler(w http.ResponseWriter, req *http.Request) {
 Instead of declaring a quick anonymous struct for JSON unmarshalling, I've often seen `map[string]interface{}` used. This is *terrible* in most scenarios for several reasons:
 
 1. **No type checking.** If the client sends a key called "name" with a `bool` value, but your code is expecting a `string`, then unmarshalling into a map won't catch the error
-2. **Maps are vague.** After unmarshalling the data, we are forced to use runtime checks to make sure the data we care about exists. If those checks aren't thorough, it can lead to a [nil pointer dereference panic](https://boot.dev/course/41357578-6185-4d07-b463-d4efdb3635c0/cf9303e7-45a2-4ecb-8b89-847832112f79/88624902-f053-41da-b04a-6563d3599323) being thrown.
+2. **Maps are vague.** After unmarshalling the data, we are forced to use runtime checks to make sure the data we care about exists. If those checks aren't thorough, it can lead to a nil pointer dereference panic being thrown.
 3. **`map[string]interface{}` is verbose**. Digging into the map isn't as simple as accessing a named field using a dot operator, for example, `newCar.model`. Instead, it is something like:
 
 ```go

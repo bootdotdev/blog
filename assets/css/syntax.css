@@ -1,13 +1,13 @@
 /* Background */
 .bg {
   color: #f8f8f2;
-  background-color: #282a36
+  background-color: var(--gray-750);
 }
 
 /* PreWrapper */
 .chroma {
   color: #f8f8f2;
-  background-color: #282a36
+  background-color: var(--gray-750);
 }
 
 /* Other */

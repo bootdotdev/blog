@@ -1,0 +1,7 @@
+<h{{ .Level }} class="anchor" id="{{ .Anchor | safeURL }}">{{ .Text | safeHTML }}
+  {{- if and (ge .Level 1) (le .Level 6) }}{{" " -}}
+  <a href="#{{ .Anchor | safeURL }}">
+    #
+  </a>
+  {{- end -}}
+</h{{ .Level }}>

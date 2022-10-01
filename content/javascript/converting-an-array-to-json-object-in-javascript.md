@@ -2,16 +2,20 @@
 title: "Converting an Array to a JSON Object in JavaScript"
 author: Lane Wagner
 date: "2020-12-21"
-lastmod: "2022-04-21"
+lastmod: "2022-10-01"
 categories: 
   - "javascript"
 images:
   - /img/800/javascript-on-laptop.webp
 ---
 
-JSON, or "JavaScript Object Notation", is an *extremely* popular data exchange format, especially in web development. Let's go over a few simple ways to convert a JavaScript array into JSON data.
+JSON, or "JavaScript Object Notation", is an *extremely* popular data exchange format, especially in web development. If you're interested in a deep dive on JSON and HTTP check out my ["Learn HTTP" course on Boot.dev](https://boot.dev/learn/learn-http). That said, let's go in this post a few simple ways to convert a JavaScript array into JSON data.
 
-## JS Array to JSON using JSON.stringify() 
+## JS Array to JSON using JSON.stringify()
+
+```js
+const jsonString = JSON.stringify([1, 2, 3, 4, 5]);
+```
 
 The [JSON.stringify()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify) method converts a JavaScript object, array, or value to a JSON string. If you so choose, you can then send that JSON string to a backend server using the Fetch API or another communication library.
 

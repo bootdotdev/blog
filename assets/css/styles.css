@@ -21,6 +21,10 @@
   --top-nav-bar-height: 60px;
 }
 
+.anchor {
+  scroll-margin-top: 4rem;
+}
+
 .top-nav-bar-height {
   height: var(--top-nav-bar-height);
 }
