@@ -31,6 +31,8 @@ When you walk in (or sign in) to a job interview, remember that the people inter
 * Be fun to work with
 * etc
 
+{{< cta1 >}}
+
 ## People want to hire people who make their job easier
 
 This is the first point I'll make where *confidence* matters. When you're in an interview you're making a sales pitch. You're quite literally selling your services to your interviewer. Your interviewer is *very* interested in your skills because they want to know if hiring *you* will take some work off of their plate. Your interviewer will be wondering things like:
@@ -60,6 +62,8 @@ It's also *very* important that you have a fun, positive attitude. Remember, the
 * Don't mention that you were let go or fired. No one is going to hire you out of pity. Don't lie when asked, but you don't need to bring it up.
 * Be excited about the interview. Have fun, and try to relax. Treat the coding problems like fun challenges.
 * Collaborate and use inclusive language. When working on a problem in an interview, use words like "well WE could do x..." or "I'm thinking WE could try y". It puts you on the "same team" as the interviewers, and makes you look like a team player. Heck, they might even be more generous with hints and tips.
+
+{{< cta2 >}}
 
 ## Be humble - know-it-alls are not fun to work with 
 

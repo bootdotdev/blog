@@ -21,6 +21,8 @@ If you're not familiar with SHA-256, try out the online generator below. Just en
 
 {{< sha256gen >}}
 
+{{< cta1 >}}
+
 ## What is a cryptographic hash function?
 
 Like we mentioned above, a cryptographic hash function generates a "fingerprint" for a given input string. For example, if we were to hash the entire text of JRR Tolkien's "The Lord of The Rings" series using the SHA 256 algorithm, we would get a 256-bit output almost unique to that book's text. If we changed even a single letter in the book, the output hash would be *wildly* different.
@@ -38,8 +40,6 @@ The three of the main purposes of a hash function are:
 * To manipulate data irreversibly. The input cannot be derived from the output
 
 SHA-2 is a very famous and strong family of hash functions because, as you would expect, it serves all the purposes mentioned above.
-
-{{< cta1 >}}
 
 ## SHA-2 family vs sha256
 

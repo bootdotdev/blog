@@ -24,6 +24,8 @@ By writing and publishing your ideas publicly, you can:
 
 The reason to write on Boot.dev is the same reason you might write on FreeCodeCamp or HackerNoon: To get your writings out to a wider audience, and to get high-domain authority traffic and links back to your own projects or blog.
 
+{{< cta1 >}}
+
 ## What kinds of articles can I write?
 
 [Boot.dev](https://boot.dev) is a platform for anyone interested in learning to code, particularly backend development in Python, JavaScript, and Go. As far as the stories we'll publish, we accept *well-written articles that are at least somewhat related to programming*.
@@ -35,6 +37,8 @@ First, know that it's free to contribute articles to Boot.dev, and we do not pay
 Second, know that you *are* allowed to drop *tasteful* `dofollow` links back to your own projects and sites. Take advantage of our great domain authority and reach! As long as your content is original and well-written we're happy to expose your writing to our readers.
 
 Read the [full contributing guide here](https://github.com/bootdotdev/blog/blob/main/CONTRIBUTING.md) on how to submit your story.
+
+{{< cta2 >}}
 
 ## Keep in mind: Your article *must* be original to Boot.dev.
 

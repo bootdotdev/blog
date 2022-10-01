@@ -93,6 +93,8 @@ Useful review:
 > 
 > – [Erdem Yiğitolu](https://www.goodreads.com/review/show/2720074395?book_show_action=true&from_review_page=1), a Goodreads reviewer.
 
+{{< cta1 >}}
+
 ## Top Computer Science Books to Get a Programming Job
 
 The books above should help you get to grips with the concepts and theories that underpin computer science. However, as many self-taught computer scientists could tell you, there’s a lot you need to learn between understanding the theory of computer science and being ready to take on a computer science career.
@@ -273,6 +275,8 @@ Useful review:
 > "I finally learned the right way to build databases for use with SQL. In the last eight years, it has repeatedly come off the shelf to solve my problems."
 > 
 > – [David](https://www.goodreads.com/review/show/46649343?book_show_action=true&from_review_page=1), a Goodreads reviewer, reviewing an earlier edition.
+
+{{< cta2 >}}
 
 ## Final thoughts on the best books for computer science
 

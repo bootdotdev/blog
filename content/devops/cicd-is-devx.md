@@ -21,6 +21,8 @@ Tech companies spend *a lot* of money to keep employees happy. Provided the budg
 
 **Good engineers want to automate the boring stuff.**
 
+{{< cta1 >}}
+
 ## People don't quit bad jobs, they quit bad developer experiences
 
 There's a saying:

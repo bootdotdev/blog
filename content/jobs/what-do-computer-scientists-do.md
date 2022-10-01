@@ -38,6 +38,8 @@ This is quite a different question: a computer scientist is almost an umbrella t
 
 In reality, the field of software engineering is very open, and depending on what you've learned you can do almost anything. An understanding of key computer science principles like data structures and algorithms opens many career opportunities.
 
+{{< cta1 >}}
+
 ## A day in the life of a computer scientist turned software engineer
 
 I can't speak for every computer scientist, but I'm a back-end software engineer with a degree in computer science. I usually do some version of the following on a daily basis.
@@ -79,8 +81,6 @@ The rest of my afternoon is usually just writing more code, with the occasional 
 | Architecture planning (as needed, not planned) | monthly   | 60 minutes    |
 | Product roadmap planning                       | weekly    | 30 minutes    |
 
-{{< cta1 >}}
-
 ## Some key takeaways
 
 So much about your life as a computer scientist will depend on where you go to work. Here are some of the most common benefits.
@@ -89,6 +89,8 @@ So much about your life as a computer scientist will depend on where you go to w
 * **Work from home.** Increasingly more and more companies are open to fully-remote work.
 * **Good work environment.** Many tech companies are able to raise quite frankly insane amounts of capital. Because they're interested in retaining top talent, they often have cool amenities. For example, I've had office ping pong tables, massage chairs, catered meals, gyms, etc.
 * [**Good pay.**](/jobs/how-much-do-software-engineers-make/) Companies are still having a hard time finding good talent.
+
+{{< cta2 >}}
 
 ## What kinds of jobs can I get as a computer scientist?
 
@@ -130,6 +132,8 @@ You do not need a degree to work in computer science or programming! There are s
 ## Do computer scientists work at home or in the office?
 
 Where a computer scientist works is entirely up to you (and your employer). Remote computer science jobs will save you time and that sweet, sweet gas money. Office jobs often provide varying perks in order to retain talent, and oftentimes have tighter-knit work groups. If you have a super distracting home environment–screaming baby, barking dog–you may want to take advantage of an away-from-home environment. If hearing your gum-chewing and pen-clicking coworker who always plays his music too damn loud–not to mention a long commute through snails-paced traffic – you may want to consider a work-from-home environment.
+
+{{< cta3 >}}
 
 ## Tools I've used as a computer scientist
 
@@ -183,8 +187,6 @@ The tools a developer uses will vary quite wildly depending on where they work. 
 * Jet Brains
 * Atom
 * Vim
-
-{{< cta2 >}}
 
 ## Programming Languages
 

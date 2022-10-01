@@ -14,6 +14,8 @@ Learning how to get into computer science can be a daunting task. There are so m
 
 Computer science, to put it simply, is the study of the principles and use of computers. The field uses the principles of mathematics, science, and engineering to study and develop computers, hardware, software, networks, databases–even artificial intelligence. It is a highly complex and critical field, as computers and technology have been integrated into virtually (that’s a little computer pun for you there) every industry, organization, and economic center in some way.
 
+{{< cta1 >}}
+
 ## Computer science vs. computer engineering
 
 Computer science deals more with the study of *software*, while computer engineering deals more with *hardware* and often even bleeds into electrical engineering. Oftentimes, someone will get their undergrad in electrical engineering and either double or minor in computer science. While there can be a lot of overlap between both fields, being specific on which courses you want to take will help quite a bit.
@@ -31,6 +33,8 @@ Computer science includes:
 * Computational problem-solving and implementation
 
 Sound like a lot? Well, maybe, but learning the basics of computer science is actually simpler than you may think.
+
+{{< cta2 >}}
 
 ## How to get started with computer science
 
@@ -194,6 +198,8 @@ Once you’ve mastered a few basic languages, you can move on to more intermedia
 * XML is a markup language much like HTML but is designed to carry data, not focus on how data looks, it's not a *really* a programming language.
 * COBOL is a very old language designed for business use. It's a procedural language.
 * Prolog. If you’ve hit prolog, congrats–you’ve reached the harder, and more niche languages. PROLOG is a logic-based language developed by AI and can be hard for new learners to grasp because it's not procedural.
+
+{{< cta3 >}}
 
 ## A collection of resources for learning CS as a beginner
 

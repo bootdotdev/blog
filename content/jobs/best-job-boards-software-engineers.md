@@ -14,6 +14,8 @@ Below you won't find a crazy-huge list of 50 different sites - that's useless. I
 
 ## Top 10 Traditional Job Boards
 
+{{< cta1 >}}
+
 ## 1. LinkedIn
 
 * [Link to job board](https://www.linkedin.com/jobs)
@@ -31,6 +33,8 @@ I like this for a few reasons, namely:
 * The companies that advertise on there tend to be higher quality
 * The jobs are all remote friendly
 * The search is powerful and easy to use
+
+{{< cta2 >}}
 
 ## 3. KeyValues
 
@@ -55,6 +59,8 @@ Ladders is a good place to search if you're interested (and think you're ready) 
 * [Link to job board](https://news.ycombinator.com/jobs)
 
 HackerNews is an amazing forum and community, and they keep a dedicated list of all the posts about job openings. Don't be scared of the old-timey interface, these are modern tech companies that tend to advertise here, and they all have good funding.
+
+{{< cta3 >}}
 
 ## 7. Crunchboard
 

@@ -85,6 +85,8 @@ const onPress = (e) => {
 };
 ```
 
+{{< cta1 >}}
+
 ## System Modifiers
 
 The topic of "system modifiers" or "key combinations" is [explained well in the docs](https://vuejs.org/guide/essentials/event-handling.html#key-modifiers), so I won't spend much time on it. The four options available to you are:
@@ -114,6 +116,8 @@ Syntactically, event modifiers are chained onto the `@keyup` keyword as well. Yo
 * `.capture` - Handle the event here before handling it at the child level
 * `.once` - Trigger this event once at most
 * `.passive` - Process the default behavior immediately, and also handle it here without blocking
+
+{{< cta2 >}}
 
 ## .exact modifier
 

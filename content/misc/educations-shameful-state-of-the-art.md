@@ -62,6 +62,8 @@ Daniel Kahn, a favorite of mine, has a great Ted talk on the subject:
 
 {{< youtube -MTRxRO5SRA >}}
 
+{{< cta2 >}}
+
 ## Quality over Quantity
 
 While not so much a problem at Ivy-League Universities, many smaller colleges, bootcamps, and online courses struggle to put out high-quality educational content. This is especially a problem with some of our online platform competitors (I won't name names) where _anyone_ can upload yet _another_ "How to Make a Website" course.
@@ -74,8 +76,6 @@ What differentiates boot.dev, and what will continue to set us apart, is that we
 One of the questions I hear often from friends is, "I want to learn to code but I don't know where to start." This is a _huge_ problem.
 
 My own wife recently went to one of [boot.dev's](https://boot.dev/) biggest competitors and it took her 30 minutes just to _start_ a course because she didn't have enough knowledge to know what she was looking for. We have big plans to improve boot.dev's onboarding process. It will become seamless as we algorithmically generate programs (lists of courses) that can get our users started quickly and progressing to their dream goal or career.
-
-{{< cta2 >}}
 
 ## Common Concerns
 

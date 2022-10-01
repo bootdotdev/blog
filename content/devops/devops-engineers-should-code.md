@@ -29,6 +29,8 @@ Following my own advice, I'm going to define *a part* of what I believe "DevOps"
 * I interpret the "[DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)" and "[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/ref=sr_1_1?crid=JU3U3CV4OQDS&keywords=the+phoenix+project&qid=1662910991&s=books&sprefix=the+phoenix+projec%2Cstripbooks%2C120&sr=1-1)" (which are the books that started "DevOps") to support this idea.
 * I also interpret much of the research over the last 10 years (including the data in the "[Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?crid=1HX8YTKQW1PHN&keywords=accelerate+book&qid=1662911026&s=books&sprefix=accelerate+boo%2Cstripbooks%2C115&sr=1-1)" book) to support the idea that ops people who write code enable more effective organizations.
 
+{{< cta1 >}}
+
 ## What does the DevOps Handbook say?
 
 Let's take a look at an excerpt from the "DevOps Handbook":
@@ -55,6 +57,8 @@ With all that in mind, I think there are certain skills in this world that you *
 2. Do you need to be a great writer? Nope. Will it almost certainly make you a better communicator? Yup.
 
 I wouldn't say "everyone needs to learn to code". I *would* say, if coding interests you and you have some spare time, it's worth your while to pick it up.
+
+{{< cta2 >}}
 
 ## So should I learn to code as an ops person?
 

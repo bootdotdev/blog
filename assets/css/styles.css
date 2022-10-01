@@ -74,10 +74,6 @@ main ol {
   margin-bottom: 1rem;
 }
 
-main li {
-  margin-bottom: .25rem;
-}
-
 main a {
   color: var(--blue-400);
   text-decoration: underline;
@@ -135,7 +131,6 @@ main blockquote {
 
 main blockquote p {
   margin: 0;
-  margin-bottom: 1rem;
 }
 
 main table {

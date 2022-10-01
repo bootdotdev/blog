@@ -21,6 +21,8 @@ All the details regarding how to participate will be given at the kickoff meetin
 
 As soon as the kickoff is over, you'll have 24 hours to build a working project and get it submitted for judging. The judges will have from the deadline until the wrap-up meeting to decide on winners. Make sure you're at the wrap-up to collect prizes!
 
+{{< cta1 >}}
+
 ## The project – A Python 3 application using PokeAPI data
 
 I'm not going to share too many details yet (because you're not allowed to start until after the kickoff). Just know that two of the constraints will be:
@@ -41,6 +43,8 @@ There will be 3 winners and 1 "1st place" winner from each category.
 * The top 3 will all win a copy of "[Automate the Boring Stuff](https://automatetheboringstuff.com/)" - a fantastic Python book
 
 In addition, everyone who participates will earn 1000XP in the Boot.dev app, and get a coupon code for 25% off of a membership.
+
+{{< cta2 >}}
 
 ## Winners Announced!
 

@@ -147,8 +147,6 @@ Finally, you're going to want to actually deploy some projects! This is how you 
 
 Not only will deploying your projects make your online presence appear more attractive to potential employers, but it will give you practice that will be necessary in your jobs moving forward. What's the use of a backend developer if they don't know how to deploy their code to a live environment?
 
-{{< cta2 >}}
-
 ### 7. Start looking for a backend job
 
 The big secret to landing a backend job as a self-taught developer is to build an amazing online presence that flaunts your work. Like we mentioned above:
@@ -160,6 +158,8 @@ The big secret to landing a backend job as a self-taught developer is to build a
 * Make friends in [online coding communities](/misc/best-coding-communities/)
 
 Once you've done that *start applying to jobs*! Use every job board you can find, and try to apply only to jobs that are specific to your area of expertise - e.g. "backend go developers". Try to find niche job boards if they exist, I really like the [Golang cafe](https://golang.cafe/), for example.
+
+{{< cta2 >}}
 
 ## Further learning
 
