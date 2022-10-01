@@ -5,7 +5,7 @@ date: "2022-06-24"
 categories: 
   - "python"
 images:
-  - /img/800/learning-together.jpeg.webp
+  - /img/800/photo-1598618589929-b1433d05cfc6.avif.webp
 ---
 
 While it’s straightforward to get *Hello World* implemented in Python, learning the ins and outs of the programming language takes a lot of time and effort.

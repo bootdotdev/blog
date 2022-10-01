@@ -42,6 +42,9 @@
   {{ $stylescss := resources.Get "css/styles.css" | minify }}
   <link href="{{ $stylescss.RelPermalink }}" rel="stylesheet">
 
+  {{ $syntaxcss := resources.Get "css/syntax.css" | minify }}
+  <link href="{{ $syntaxcss.RelPermalink }}" rel="stylesheet">
+
   {{ partial "favicons.html" . }}
   {{ partial "gtm.html" . }}
   {{ template "_internal/opengraph.html" . }}

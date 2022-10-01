@@ -99,7 +99,7 @@ def remove_from_head(self):
 
 Last but not least, we can implement Python's `__repr__()` method so that we can call `print()` directly on a list and control what it printed. Here's a representation I like:
 
-```
+```py
 def __repr__(self):
         nodes = []
         for node in self:
