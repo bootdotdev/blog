@@ -2,7 +2,7 @@
 title: "Writing a Binary Search Tree in Python with Examples"
 author: Lane Wagner
 date: "2021-01-12"
-lastmod: "2021-07-20"
+lastmod: "2022-10-01"
 categories: 
   - "computer-science"
   - "python"
@@ -12,18 +12,20 @@ images:
 
 ## What is a binary search tree?
 
-A binary search tree, or BST for short, is a tree whose nodes store a key that is greater than all of their left child nodes and less than all of their right child nodes. Read on to see how you can write an implementation of binary search tree in Python from scratch!
+A binary search tree, or BST for short, is a tree where each node is a value greater than all of its left child nodes and less than all of its right child nodes. Read on for an implementation of a binary search tree in Python from scratch!
 
-Binary trees are useful for storing data in an organized manner so that it can be quickly retrieved, inserted, updated, and deleted. This arrangement of nodes allows each comparison to skip about half of the rest of the tree, so the operation as a whole is lightning fast.
+## Why would I use a binary search tree?
 
-To be precise, binary search trees provide an average Big-O complexity of `O(log(n))` for search, insert, update, and delete operations. `Log(n)` is much faster than the linear `O(n)` time required to find elements in an unsorted array. Many popular production databases such as PostgreSQL and MySQL use binary trees under the hood to speed up CRUD operations.
+Binary trees are useful for storing data in an organized manner so that it can be quickly retrieved, inserted, updated, and deleted. This arrangement of nodes allows each comparison to skip about *half* of the rest of the tree, so each operation as a whole is lightning fast.
 
-![Binary Search Tree](/img/800/bst.jpg)
+To be precise, binary search trees provide an average Big-O complexity of `O(log(n))` for search, insert, update, and delete operations. `log(n)` is much faster than the linear `O(n)` time required to find elements in an unsorted array. Many popular production databases such as PostgreSQL and MySQL use binary trees under the hood to speed up CRUD operations.
+
+![Binary Search Tree](/img/800/binary-search-tree.png.webp)
 
 ### Pros of a BST
 
 * When balanced, a BST provides lightning-fast `O(log(n))` insertions, deletions, and lookups.
-* Binary search trees are pretty simple. An ordinary BST, unlike a balanced tree like a red-black tree, requires very little code to get running.
+* Binary search trees are simple to implement. An ordinary BST, unlike a [balanced red-black tree](/python/red-black-tree-python/), requires very little code to get running.
 
 ### Cons of a BST
 
@@ -392,3 +394,7 @@ Other common uses include:
 * Rendering calculations - Doom (1993) was famously the first game to use a BST
 * Compilers for low-level coding languages parse syntax using a BST
 * Almost every database in existence uses BSTs for key lookups
+
+## What's the difference between a Binary Tree and a Linked List?
+
+While binary trees and [linked lists](/python/building-a-linked-list-in-python-with-examples/) both use pointers to keep track of nodes, binary trees are more efficient for *searching*. In fact, linked lists are `O(n)` when used to search for a specific element - that's pretty bad! Linked lists excel at removing and inserting elements quickly in the middle of the list.
