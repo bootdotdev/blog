@@ -1,27 +1,37 @@
 ---
-title: "Search and Replace Strings in Golang - Top 5 Examples"
+title: "How Replace a String in Go - Top 5 Examples"
 author: Lane Wagner
 date: "2021-04-20"
+lastmod: "2022-10-01"
 categories: 
   - "golang"
 images:
   - /img/800/replace-lightbulb.webp
 ---
 
-Go has a powerful standard library that makes string manipulation easy right out of the box. One of the functions I use most often is the `strings` package's [Replace()](https://golang.org/pkg/strings/#Replace) function. `strings.Replace()` returns a _copy_ of its input string after replacing all instances of the given substring with a new one.
+Go has a powerful standard library that makes string manipulation easy right out of the box. One of the functions I use most often is the [strings](https://golang.org/pkg/strings) package's [Replace()](https://golang.org/pkg/strings/#Replace) function. `strings.Replace()` returns a *copy* of its input string after replacing all instances of a given substring with a new one.
 
-## strings.Replace() signature
+## How to use strings.Replace in Go
+
+Function signature:
 
 ```go
 func Replace(s, old, new string, n int) string
 ```
 
-Notes
+Example usage:
 
-- `s` is the original string that contains the substrings to be replaced.
-- `old` is the substring you want to be replaced.
-- `new` is the substring that will be swapped out for `old`.
-- `n` limits the number of replacements. If you want to replace them all, just set `n` to `-1`, or use the more explicit [ReplaceAll](https://golang.org/pkg/strings/#ReplaceAll) function.
+```go
+strings.Replace("one one two two three", "one", "1", -1)
+// 1 1 two two three
+```
+
+Notes about the function:
+
+* `s` is the original string that contains the substrings to be replaced.
+* `old` is the substring you want to be replaced.
+* `new` is the substring that will be swapped out for `old`.
+* `n` limits the number of replacements. If you want to replace them all, just set `n` to `-1`, or use the more explicit [ReplaceAll](https://golang.org/pkg/strings/#ReplaceAll) function.
 
 ## Example #1 - Replacing delimiters
 
@@ -81,9 +91,9 @@ func main() {
 
 {{< cta2 >}}
 
-## Example #4 - Replacing in multiple strings (high performance)
+## Example #4 - High performance string replacement
 
-If you need to perform the same replacements on many different documents, it can make sense to initialize a [Replacer](https://golang.org/pkg/strings/#Replacer), which is much faster when used repeatedly. It's faster is because it builds a [trie structure](https://en.wikipedia.org/wiki/Trie) under the hood that it keeps in memory, and that structure can be used repeatedly.
+If you need to perform the same replacements on many different documents, it can make sense to initialize a [Replacer](https://golang.org/pkg/strings/#Replacer), which is much faster that the `strings.Replace` function when used repeatedly. It's faster is because it builds a [trie structure](https://en.wikipedia.org/wiki/Trie) under the hood that it keeps in memory, and that structure can be used repeatedly.
 
 ```go
 package main
@@ -98,7 +108,7 @@ func main() {
     fmt.Println(replacer.Replace("hello,there!good,reader!"))
     fmt.Println(replacer.Replace("glad,to!have,you!"))
     fmt.Println(replacer.Replace("bye,now!thank,you!"))
-    // prints
+    // prints:
     // hello:there?good:reader?
     // glad:to?have:you?
     // bye:now?thank:you?
