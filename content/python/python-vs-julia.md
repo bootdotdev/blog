@@ -2,21 +2,20 @@
 title: "Julia vs Python: Which is Best to Learn First?"
 author: Zulie Rane
 date: "2022-02-05"
-lastmod: "2022-04-22"
+lastmod: "2022-10-01"
 categories: 
-  - "javascript"
   - "python"
 images:
   - /img/800/statue_holding.webp
 ---
 
-Anyone who’s anyone in the tech world has heard of Python. It’s one of the most popular programming languages in the world, and it’s been near the top of developer popularity rankings for years. [Wired](https://www.wired.com/story/python-language-more-popular-than-ever/) reported that it’s tied for second with Java behind JavaScript.
+Anyone who’s anyone in the tech world has heard of Python. It’s one of the most popular programming languages in the world, and it’s been near the top of developer [popularity rankings](https://survey.stackoverflow.co/2022/#section-most-popular-technologies-programming-scripting-and-markup-languages) for years. [Wired](https://www.wired.com/story/python-language-more-popular-than-ever/) reported that it’s tied for second with Java behind JavaScript.
 
-Julia, on the other hand, is the new kid on the block. The language is over 20 years younger than Python, and a lot of programmers have never heard of it. Is age all that matters when comparing Julia versus Python? No. The data science community has definitely developed a keen interest in Julia.
+Julia, on the other hand, is the new kid on the block. The language is more than 20 years younger than Python, and a lot of programmers have never even heard of it. Is age all that matters when comparing Julia versus Python? No. The data science community has definitely developed a keen interest in Julia.
 
-If you’re a beginner looking to get into data science or machine learning, you may ask yourself, "should I learn Julia or Python?" If you’re a seasoned pro looking to further optimize your data processing or machine learning models, maybe you wonder if Julia is faster than Python. Let me fill you in, so you can make the best choice for you.
+If you’re a beginner looking to get into data science or machine learning, you may ask yourself, "should I learn Julia or Python?" If you’re a seasoned pro looking to further optimize your data processing or machine learning models, maybe you wonder if Julia is faster than Python. Let me fill you in, so you can make the best choice for *you*. To summarize the Python vs Julia battle:
 
-To summarize, Julia has some edge-case advantages where it’s undeniably better than Python. But Python’s popularity and longevity mean it’s still best for beginners to learn. If you want to get started learning one of the most valuable languages in computer science, you can start [right here](https://boot.dev/learn/learn-python).
+**Julia has some edge-case advantages where it’s undeniably better than Python. However, Python’s popularity and longevity mean it’s still best for beginners to learn. If you want to get started learning one of the most valuable languages in computer science, you can start [right here.](https://boot.dev/learn/learn-python)**
 
 ## Julia versus Python, definitions and history
 
@@ -62,11 +61,11 @@ Julia’s original creators decided that Julia should be just as fast as C. They
 
 ## Is Python or Julia better for data science?
 
-Julia is faster when loading data in, which is very important for data scientists. Julia can also [work directly](https://www.analyticsvidhya.com/blog/2020/08/what-is-better-for-data-science-learning-and-work-julia-or-python/) with external libraries, including those in Python, C, and Fortran. Julia is better than Python when it comes to memory management, both by default and by allowing more manual control of it. 
+Julia is faster when loading data in, which is very important for data scientists. Julia can also [work directly](https://www.analyticsvidhya.com/blog/2020/08/what-is-better-for-data-science-learning-and-work-julia-or-python/) with external libraries, including those in Python, C, and Fortran. Julia is better than Python when it comes to memory management, both by default and by allowing more granular control over it. 
 
-Given Julia’s tendency towards being faster, making better use of multi-processing, and its mathematical appearance, many data scientists find Julia more comfortable and efficient to work with. Julia is definitely better than Python for data science when it comes to performance.
+Given Julia being faster, making better use of multi-processing, and its mathematical appearance, many data scientists find Julia more comfortable and efficient to work with. Julia is definitely better than Python for data science when it comes to *performance*.
 
-With that in mind, why did [3 out of 4 data professionals](https://www.kdnuggets.com/2020/01/python-preferred-languages-data-science.html) recommend those interested in becoming data scientists learn Python? Could Python be the winner in a competition of Julia versus Python for data science?
+With that in mind, why did [3 out of 4 data professionals](https://www.kdnuggets.com/2020/01/python-preferred-languages-data-science.html) recommend those interested in becoming data scientists [learn Python](https://boot.dev/learn/learn-python)? Could Python be the winner in a competition of Julia versus Python for data science?
 
 Python is truly omnipresent in the field of machine learning (which is often used in data science). Industry standards are set by Pytorch and Tensorflow. Not only that, but Python’s flexibility and all-purpose nature tend to serve data scientists better from initially collecting the data all the way to visualizing their findings.
 

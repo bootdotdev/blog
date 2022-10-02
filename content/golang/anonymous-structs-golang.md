@@ -106,7 +106,9 @@ Anonymous structs can clean up your API handlers if used properly. The strong ty
 
 {{< cta1 >}}
 
-## Bonus - Use a slices of anonymous structs for easy test data
+## Bonus - Use a slice of anonymous structs for easy test data
+
+This is called [table driven tests](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests).
 
 ```go
 var cars = []struct {
