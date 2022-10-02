@@ -2,6 +2,7 @@
 title: "How to Create Constant Maps, Slices, & Arrays in Golang"
 author: Lane Wagner
 date: "2019-10-21"
+lastmod: "2022-10-01"
 categories: 
   - "clean-code"
   - "golang"
@@ -9,41 +10,56 @@ images:
   - /img/800/Constant-Maps-and-Slices-1.webp
 ---
 
-For the most part, I've found that Go developers are pretty good at using global constants for configuration rather than global variables.
+**The quick answer is that Go does not support constant arrays, maps or slices.** However, there are some great workarounds.
 
-However, a problem arises when we want a constant version of some of the more complex types. The Go compiler does not allow us to [create array, map, or slice](/golang/golang-make-maps-and-slices/) constants. After realizing this, many developers decide to use a dangerous global variable.
+For the most part, I've found that [developers learning Go](https://boot.dev/learn/learn-golang) for the first time are pretty good at using global *constants* for configuration values rather than global *variables*. However, a problem arises when we want a constant version of some of the more complex types. The Go compiler does not allow us to [create array, map, or slice](/golang/golang-make-maps-and-slices/) constants. After realizing this, many developers decide to use a dangerous global variable.
 
-In this article, we will explore some alternative options to effectively make constant maps, slices, and arrays, albeit with some trade-offs.
+In this article, we will explore some alternative options that allows us to make a *form* of constant maps, slices, and arrays, albeit with some trade-offs. Please don't use global variables if you can avoid it!
 
-## Spoiler - TL;DR
+## So if Go doesn't support these types of constants, what is the best alternative?
 
-If you're looking for a quick answer: Go doesn't support `const` arrays.
-
-It also doesn't support constant maps, slices, or other complex types. From the official [specification](https://golang.org/ref/spec#Constants):
-
-> There are _boolean constants_, _rune constants_, _integer constants_, _floating-point constants_, _complex constants_, and _string constants_. Rune, integer, floating-point, and complex constants are collectively called _numeric constants_.
-
-The solution, which I explain in more detail later, is to use initialization functions. While of course the variables once created are still changeable, at least you can always get a new copy with the guarantee that it has the correct values.
+The solution is to use *initialization functions*. While slices, maps, and arrays once created are still able to be mutated, at least you can always get a new *copy* by re-calling the initialization copy. The new copy is guaranteed to contain the original values.
 
 ### Example of const array in Go
 
 ```go
+// An initialization function that creates
+// and returns a new copy of an array
 func getArray() [5]int {
     return [5]int{10, 20, 30, 40, 50} 
 }
 ```
 
+```go
+// A mutable array of size 3
+var nums = [3]int {10, 20, 30}
+```
+
+```go
+// A mutable array of size 3,
+// but with syntactic sugar that relies on
+// the compiler to compute the length
+var nums = [...]int {10, 20, 30}
+```
+
 ### Example of const slice in Go
 
 ```go
+// An initialization function
+// that creates a new slice of strings
 func getSlice() []string {
     return []string{"hello", "world"}
 }
+
+// A mutable slice of strings
+var msgs = []string{"hello", "world"}
 ```
 
 ### Example of const map in Go
 
 ```go
+// An initialization function
+// that creates a map
 func getMap() map[string]int {
     return map[string]int{
         "truck": 5,
@@ -52,7 +68,7 @@ func getMap() map[string]int {
 }
 ```
 
-With the quick answer out of the way, let's explore why this is a good solution in many cases.
+With the quick answer out of the way, let's explore why initialization functions are our best bet.
 
 ## A Brief Refresher on Globals and Constants
 
@@ -68,14 +84,14 @@ var dangerousRateLimit = 10
 
 When setting configuration globals, which should be read-only, there's **no good reason to use a global variable**. By using a variable instead of a constant you:
 
-- Open up the potential for bugs when you or someone else accidentally mutates the value
-- Confuse future developers who assume the value is _supposed_ to change
+* Open up the potential for bugs when you or someone else accidentally mutates the value
+* Confuse future developers who assume the value is _supposed_ to change
 
 Most people already know this about global variables thankfully, and switching global variables to global constants is a fairly straightforward task.
 
 {{< cta1 >}}
 
-## What If I Want A Global Array, Map, or Slice?
+## What happens if I try to use a constant array, map, or slice?
 
 ![global slice](/img/800/Screen-Shot-2019-10-21-at-7.50.41-AM.png)
 
@@ -83,14 +99,14 @@ Let's assume the following situation:
 
 We have a program that needs two sets of configurations. The configurations are:
 
-- A list of supported social media networks
-- A rate limit for making API calls to the networks (we assume they all have the same rate limit)
+* A list of supported social media networks
+* A rate limit for making API calls to the networks (we assume they all have the same rate limit)
 
 Now that we know a bit about the configurations we make the following decisions:
 
-- Because these configurations will not change based on the environment the program is running in, we elect to set the values in code rather than using environment variables
-- Since they are needed in many places in the app, we choose to scope them globally, instead of passing them into 20+ functions
-- Because they should not change during the execution of the program, we decide to make them constant
+* Because these configurations will not change based on the environment the program is running in, we elect to set the values in code rather than using environment variables
+* Since they are needed in many places in the app, we choose to scope them globally, instead of passing them into 20+ functions
+* Because they should not change during the execution of the program, we decide to make them constant
 
 We then write the following code:
 
@@ -123,7 +139,7 @@ Whenever we find ourselves leaving comments like this, we should be aware we are
 
 ## The Better Solution for Constants in Go
 
-It's much better to use an initializer function (not to be confused with Go's conventional [init()](https://golang.org/doc/effective_go#init) function). An initializer function is a function that simply declares something and returns it. Like I explained above in the tl;dr a good solution to our problem would be as follows:
+It's much better to use an initializer function like we talked about above (not to be confused with Go's conventional [init()](https://golang.org/doc/effective_go#init) function). An initializer function is a function that simply declares something and returns it. Like I explained above, a good solution to our problem would be as follows:
 
 ```go
 package main
@@ -137,8 +153,14 @@ func getSupportedNetworks() []string {
 
 Now, anywhere in the program, we can use the result of `getSupportedNetworks()` and we know that there is no way we can get a mutated value.
 
-Obviously one of the biggest downsides to this approach is that to get a new copy of the configuration you're literally creating a new copy and making a function call. In the vast majority of cases this should be fine - if it's truly just a configuration you probably won't need to be accessing it all the time. That said, if you're rapidly making new copies it could become a performance issue.
+Obviously one of the biggest downsides to this approach is that to get a new copy of the configuration you're literally creating a new copy and making a function call. In the vast majority of cases this should be fine - if it's truly just a configuration you probably won't need to be accessing it too often. That said, if you're rapidly making new copies constantly the extra memory overhead could become a performance issue.
 
 ## Good Practices
 
-Being able to keep access to maps and slices that are effectively constant can make your code easier to read, and more importantly, much less error-prone. One of the most sought-after traits of a [computer scientist](/computer-science/comprehensive-guide-to-learn-computer-science-online/) for [high-end coding jobs](/computer-science/highest-paying-computer-science-jobs/) is the ability to read, write, and refactor code so that it's more maintainable and easier to understand.
+Being able to access to maps and slices that are *effectively* constant makes your code easier to read, and more importantly, less error-prone. One of the most sought-after traits of a [computer scientist](/computer-science/comprehensive-guide-to-learn-computer-science-online/) for [high-end coding jobs](/computer-science/highest-paying-computer-science-jobs/) is the ability to read, write, and refactor code so that it's more maintainable and easier to understand.
+
+## Are you SURE Go doesn't support constant maps slices and arrays?
+
+Yes. From the official [specification](https://golang.org/ref/spec#Constants):
+
+> There are _boolean constants_, _rune constants_, _integer constants_, _floating-point constants_, _complex constants_, and _string constants_. Rune, integer, floating-point, and complex constants are collectively called _numeric constants_.
