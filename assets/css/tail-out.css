@@ -853,6 +853,10 @@ video {
   padding: 0.5rem;
 }
 
+.p-8 {
+  padding: 2rem;
+}
+
 .px-8 {
   padding-left: 2rem;
   padding-right: 2rem;

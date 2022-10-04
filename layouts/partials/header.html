@@ -30,6 +30,15 @@
   <link rel="canonical" href="{{ .Permalink }}" />
   {{ end }}
 
+  {{- if $.Paginator -}}
+  {{- if $.Paginator.HasPrev -}}
+  <link rel="prev" href="{{ $.Paginator.Prev.URL | absURL }}" />
+  {{- end -}}
+  {{- if $.Paginator.HasNext -}}
+  <link rel="prev" href="{{ $.Paginator.Next.URL | absURL }}" />
+  {{- end -}}
+  {{- end }}
+
   {{ if .Description }}
   <meta name="description" content="{{ .Description }}" />
   {{ else }}
