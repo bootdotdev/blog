@@ -12,7 +12,7 @@ Golang was released in 2012, making it a relatively new language when compared t
 
 Literally, my LinkedIn page is constantly flooded with recruiters looking for Go programmers, so if you’re looking to pick up a language, you’ve come to the right place.
 
-But what’s the best way to [learn Golang](https://boot.dev/courses/golang-track)?
+But what’s the best way to [learn Golang](https://boot.dev/learn/learn-golang)?
 
 Like most things in life, there’s no one right answer, and in this article, I’ll break down the 7 best ways to learn Golang so you can find one that suits your unique circumstance.
 
@@ -123,4 +123,4 @@ There are tons of ways to learn Golang, some better than others, and some workin
 
 Don’t hesitate to try out multiple methods listed above, especially the free ones, and create your perfect learning environment.
 
-In the meantime, audit our [Go Mastery course for free](https://boot.dev/courses/golang-track), and head over to our playground for some light coding practice!
+In the meantime, audit our [Go Mastery course for free](https://boot.dev/learn/learn-golang), and head over to our playground for some light coding practice!
