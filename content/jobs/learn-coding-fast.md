@@ -22,8 +22,6 @@ Programming and its sister endeavors [computer science](/computer-science/compre
 
 There are certainly little shortcuts you can take here or there to get you into an entry-level job faster, but you can't completely skip the fundamentals. It will come back to bite you.
 
-{{< cta1 >}}
-
 ## 2. Don't watch Youtube videos (at least not for everything)
 
 YouTube is great for learning all sorts of things. It's free, and there are thousands of content creators who share their coding courses and hot programming tricks free of charge. Unfortunately, what you save in money and cognitive strain, you often lose in time.
@@ -38,6 +36,8 @@ Here's the thing though, _videos do have a place in your coding education_. Whil
 
 For example, a video that says it will teach you how to build a pop-up component for a website would better be consumed as a blog post. However, a lecture on how the Go and Rust programming languages differ might be a great video to watch while sipping a morning coffee.
 
+{{< cta1 >}}
+
 ## 3. Learn by doing. Hands-on courses and projects only
 
 If you want to learn to code, you need to spend a lot of time coding. Seems like a no-brainer right?
@@ -47,8 +47,6 @@ Don't pay for courses that don't give you hands-on experience. You're better off
 Courses that do allow you to write and submit code for feedback are probably the right ones to be taking. In addition to programming courses, do some google searches for small projects that you can do on the side, particularly projects related to the courses you just completed.
 
 _Tip: Build a project as you make your way through any learning material. A personal project you can publish to Github is a great way to get started._
-
-{{< cta2 >}}
 
 ## 4. Googling is a skill. Learn to Google better
 
@@ -69,6 +67,8 @@ Some people are really good at googling stuff, and others aren't. The good news 
 - Slow loading time
 
 _Tip: Your first instinct when you're stuck should be to Google your problem_
+
+{{< cta2 >}}
 
 ## 5. Once you've Googled the same thing three times, write it down
 

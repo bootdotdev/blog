@@ -24,8 +24,6 @@ The best way to Learn Python interactively is by taking the courses here on boot
 
 The cool thing about this course is that it's designed to help you get a job. That means it's not just going to teach you flashy tricks, but guide you through the principles underlying how python works that might trip you up in a potential job interview. It also focuses on tasty job skills to open you up to more career choices, especially in machine learning if that’s your jam.
 
-{{< cta1 >}}
-
 ## The Best Way to Learn Python For Free
 
 You can find free/freemium options to learn Python just about anywhere online, but I love Exercism, freeCodeCamp, and boot.dev as the best ways to learn Python for free. Why? Because each offers a unique way of teaching that suits each unique circumstance.
@@ -44,6 +42,8 @@ Relying on volunteers, Exercism helps people from all different kinds of backgro
 
 It's not great for total beginners, although that is on their roadmap. Exercism is still one of the best ways to learn Python for free if you already have some programming experience.
 
+{{< cta1 >}}
+
 ## The Best Way to Learn Python on Your Own
 
 Maybe you hate paying for things and you don't want interactive courses. Sometimes you just have to go your own way, and learning Python is no excuse. If that's the case, the best way to learn Python on your own is by relying on YouTube tutorials and lectures.
@@ -55,8 +55,6 @@ There are so many amazing, talented, kind-hearted individuals who have posted un
 However, there's no better way to learn Python on your own. If you want to go your own way, make your own curriculum, learn your own lessons, on your own timeline, the best way to learn Python is by creating your own lesson list by curating YouTube tutorials and lectures.
 
 Here’s an [hour-long lecture](https://www.youtube.com/watch?v=kqtD5dpn9C8) I really enjoyed by a YouTuber called Programming with Mosh. Also, freeCodeCamp has most, if not all, of their tutorials integrated with Youtube, so there’s no short supply of information. 
-
-{{< cta2 >}}
 
 ## The Best Way to Learn Python Fast
 
@@ -71,6 +69,8 @@ If you want to learn Python fast, the best way is to [find a project](/python/py
 **Read more:** 17 [Python projects for beginners we recommend](/python/python-projects-for-beginners/).
 
 Boot.dev itself also employs a number of smaller projects throughout its courses as a part of its interactive focus on learning. So if you want a more structured environment, but still want the engagement of projects, then boot.dev is also a great choice for learning this way.
+
+{{< cta2 >}}
 
 ## The Best Way to Learn Python the Fun Way
 

@@ -26,8 +26,6 @@ All of these environmental factors combined exhibit why it’s so crucial for yo
 
 Thankfully, computer science has a great reputation for being a generous industry. Open source projects abound, and many skilled, knowledgeable coders support others in forums. Let me step you through the top communities you can join as you start your coding journey.
 
-{{< cta1 >}}
-
 ## 1. Discord
 
 Discord is a community-based chat app originally developed for gamers. That said, these days they've expanded and now there are a lot of prominent, popular Discord "servers" for coding. A "server" is an individual community focused on one topic.
@@ -37,6 +35,8 @@ There are servers like [Boot.dev’s back-end learning community](https://discor
 Discord is great for getting support in real-time. With so many different servers focused on sharing content, promoting projects, collaborating on open-source projects, specific tools and technologies, and even professional topics, it’s easy to find help for a lot of different areas all in one place.
 
 The biggest bonus of Discord is that it creates a more intimate environment, meaning it’s a lot easier to get 1:1 help or connect with a smaller group of people. Discord servers like [Boot.dev](https://boot.dev/)’s can provide you with a strong sense of community and support, which is crucial for the beginning stages of your programming career.
+
+{{< cta1 >}}
 
 ## 2. Reddit
 
@@ -50,13 +50,13 @@ You can view different collections of topics, look at the most-voted posts withi
 
 Reddit to me is more like a random collection of links to articles, tutorials, conferences, hackathons, etc. It’s a good place to show off cool projects or get inspired by others, but if you’re looking for a tribe of like-minded people to get through the journey of entering the software industry, Reddit will leave you feeling isolated and overwhelmed.
 
-{{< cta2 >}}
-
 ## 3. Hashnode
 
 [Hashnode](https://hashnode.com/) provides a great way to discover and digest tech blogs. The platform allows you to follow individual tech bloggers and connect with them. They have a lot of programming challenges and explanations of the basics, so it’s a good place to get grounded and stretch the application of your skills.
 
 This platform is more focused on giving writers with technical knowledge a place to post their content. This means it’s a good place to find well-written content from those with the technical know-how, but it isn’t a supremely social environment. The platform is not conducive to getting specific help for a problem or establishing deeper connections. It’s more like following someone than getting to interact with them.
+
+{{< cta2 >}}
 
 ## 4. Hacker News
 

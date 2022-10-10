@@ -30,8 +30,6 @@ With so many constantly-shifting languages it’s hard to know where to start, e
 
 Table describing the most popular coding languages of 2021 for different purposes.
 
-{{< cta1 >}}
-
 ## 1. The most popular coding language for absolute beginners: Python
 
 No matter what list you check, Python is almost always listed as the most popular coding language for beginners - on [boot.dev’s post on best programming languages for beginners](/misc/top-coding-languages-for-beginners/), [GitHub’s ranking](https://pypl.github.io/PYPL.html), [Stack Overflow’s developer survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted), and is even the [top-most language universities are teaching to computer science majors](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext). 
@@ -53,6 +51,8 @@ In summary, its syntax, ease of progression, and versatility makes Python the mo
 Python’s the most popular coding language for beginners because it comes with a robust support network for brand-new coders. You can begin coding using free tutorials on [Python.org](https://www.python.org/about/gettingstarted/) which is geared towards beginners. 
 
 You should also take advantage of the rich and supportive online community of Python users and lovers. Most Pythonistas will remember their own days of learning Python and gladly lend a hand to beginners. Check out the [Python subreddit](https://www.reddit.com/r/Python/), read and post [Python questions on Stack Overflow](https://stackoverflow.com/questions/tagged/python), and see if you can find a coding buddy on a Discord group or a Slack channel. 
+
+{{< cta1 >}}
 
 ## 2. The most popular coding language for people who don’t want a programming job: R 
 
@@ -76,8 +76,6 @@ R is the most popular coding language for people who don’t code in their jobs 
 
 Especially for folks who don’t have or want a job in programming, I find it’s [best to find a project you really care about and set out a specific goal](https://towardsdatascience.com/the-fastest-way-to-learn-to-code-be-invested-in-your-numbers-ccb24d55d856). You don’t have the necessity from your job - you can get away with not knowing how to code, for now anyway. You don’t have any prior experience coding, so the learning curve will be steep. You need something that you’re deeply passionate about. Only that will get you over the frustrating hurdles, knowledge gaps, and user errors that come with every coder’s beginner journey.
 
-{{< cta2 >}}
-
 ## 3. The most popular coding language to increase your salary: Perl 
 
 Perl is one of the most contradictory languages on this list in that it has the highest global salary ($75k median annual salary), but is also the most dreaded language (71.4%), according to [Stack Overflow’s survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages). But if you want to get a higher salary in your programming job, there is no more popular coding language. It’s known for being the predecessor to the more popular PHP, and also for being a bit of a flaming dumpster heap of a language. 
@@ -97,6 +95,8 @@ However, with the latest releases of Perl that fixes many user experience issues
 ### The best way to learn Perl for coders who want a higher salary
 
 The [learn.perl.org website](https://learn.perl.org/books/beginning-perl/) is probably the best place to start learning Perl. Unlike R and Python where many users learn from googling and copy-pasting code chunks, it may be best to stay away from places like Stack Overflow where bad code snippets may still be floating around. [Modern Perl](http://onyxneon.com/books/modern_perl/modern_perl_a4.pdf) is also a relatively recent document that may avoid a lot of out-of-date opinionated tutorials, while the [Perl Cookbook](http://rgonzo.us/shiny/books/perlcookbook.pdf) stands up as a tried-and-tested resource. 
+
+{{< cta2 >}}
 
 ## 4. The most popular coding language for mobile app development on iOS: Swift
 

@@ -22,8 +22,6 @@ If you’ve read any [other coding listicle](https://towardsdatascience.com/10-c
 
 It’s a great idea to learn Python for finance because of the same reasons that make Python great for anything else. If you want to analyze financial data with Python, you’ll be pleased to hear it’s a breeze to start.
 
-{{< cta1 >}}
-
 ## 2. Shortcuts Already Exist 
 
 Python as a language is bolstered by libraries, AKA reusable chunks of code someone else already built for you. Beyond being simple to pick up, there’s a robust framework of open-source, third-party libraries that are useful in all sorts of situations but specifically for finance. 
@@ -31,6 +29,8 @@ Python as a language is bolstered by libraries, AKA reusable chunks of code some
 Libraries like Scikit and Pybrain are especially useful in the finance world. Some people consider the Python finance libraries "shortcuts" already since you don’t have to code that functionality from scratch. I’d agree. Financial data analysis with Python is a lot quicker with these libraries.
 
 Scipy, NumPy, Matplotlib, and a range of other add-ons make it easier than ever to perform and visualize financial calculations and algorithms. Importantly, these help you not only work with the data, but more easily communicate the results to key decision-makers.
+
+{{< cta1 >}}
 
 ## 3. Chock Full of Resources
 
@@ -40,8 +40,6 @@ Beyond the open-source libraries, there are entire [Python courses](https://boot
 
 If you want to learn Python for finance, you won’t have to rely on generic courses and tutorials - there is plenty of content geared around how to learn Python in a finance context.
 
-{{< cta2 >}}
-
 ## 4. Great Community
 
 If the libraries, textbooks, and tutorials aren’t quite enough for you to find your feet with Python for finance, there’s a vast community of Pythonistas in general. You may be excited to learn that there is specifically a community for finance-focused Pythonistas, too. 
@@ -49,6 +47,8 @@ If the libraries, textbooks, and tutorials aren’t quite enough for you to find
 If you’re stumped on how to learn Python for finance, worry no longer. You can find [Github projects](https://github.com/datacamp/datacamp-community-tutorials/blob/master/Python%20Finance%20Tutorial%20For%20Beginners/Python%20For%20Finance%20Beginners%20Tutorial.ipynb) dedicated to easy Python for finance tutorials, [Slack groups](https://alpaca.markets/docs/community/) devoted to finance and coding, an [active finance contingent](https://www.reddit.com/r/learnpython/comments/bo52r6/learning_python_for_finance/) in the r/learnpython subreddit, and of course StackOverflow is full of helpful folks who have been where you are and are willing to help you wade through your [finance-related Python questions](https://stackoverflow.com/questions/tagged/finance+python).
 
 While I’ve found Pythonistas in general to be a friendly, helpful, enthusiastic bunch, it looks like the same is true of the finance-focused Python community too. 
+
+{{< cta2 >}}
 
 ## 5. It’s the MVP
 

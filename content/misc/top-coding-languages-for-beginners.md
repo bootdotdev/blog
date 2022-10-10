@@ -28,8 +28,6 @@ That said, JavaScript has had major syntax and design improvements over the last
 
 Anyone who wants to get up and running building web applications as quickly as possible. You may miss out on some of the fundamentals of how computer hardware and operating systems work at a lower level, just be sure to go back and learn as you grow as a developer.
 
-{{< cta1 >}}
-
 ## 2. Go
 
 _Version one released: 2012 by Google_
@@ -54,6 +52,8 @@ Anyone interested in DevOps or [backend development](/backend/become-backend-dev
 
 [Stack Overflow](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states)
 
+{{< cta1 >}}
+
 ## 3. Python
 
 _Created: 1991 by Guido van Rossum_
@@ -73,8 +73,6 @@ While Python is definitely the slowest language on our list, it makes up for its
 Python is great for educational purposes, particularly for learning computer science basics like data structures and algorithms. Python allows students to focus on the concepts at hand, because the syntax is second nature.
 
 Python is also a great first choice if you have an interest in machine learning. Python is basically the go-to language for AI/ML and Tensorflow is the state of the art in that field.
-
-{{< cta2 >}}
 
 ## 4. Rust
 
@@ -97,6 +95,8 @@ Rust gives the programmer fine-grained control over how the code interacts with 
 ### Who Should Learn Rust First?
 
 Honestly, you probably shouldn't learn Rust _first_. That said, Rust is arguably the best _second_ language on the list. Rust is probably the most complex language on this list, but along with that complexity comes power, speed, and ultimately the opportunity for the developer to learn more about how code interacts directly with the hardware.
+
+{{< cta2 >}}
 
 ## Performance Benchmarks
 

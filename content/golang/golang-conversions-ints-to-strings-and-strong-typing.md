@@ -52,8 +52,6 @@ The truth is that most of the standard library functions and popular packages (a
 
 {{< cta1 >}}
 
-{{< cta2 >}}
-
 ## Interfaces - Not Duck Types
 
 Interfaces allow for a kind of [polymorphism in Go](/golang/golang-interfaces/). Their purpose is **not** to give developers a way to sneak dynamic typing into the language. I've seen developers do things like:

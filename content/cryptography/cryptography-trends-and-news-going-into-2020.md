@@ -15,8 +15,6 @@ Quantum computing may not be coming quite as fast as some in the field had certa
 
 They published a paper in [Nature](https://www.nature.com/articles/s41586-019-1666-5). It stated that their quantum processor solved a problem that, in contrast, a digital computer would take 10,000 years to solve. The problem that was solved deals with generating certifiably random numbers. Their processor, 'Sycamore', uses 53 qubits, which corresponds to a search space of 1016.
 
-{{< cta1 >}}
-
 ## [Lattice-Based Cryptography](/cryptography/very-basic-intro-to-lattices-in-cryptography/)
 
 Lattice-based Cryptography (LBC) is one of our best bets for secure "Post Quantum Cryptography". Therefore, almost half of the second round of [NIST's PQC contest](https://csrc.nist.gov/CSRC/media/Presentations/Round-2-of-the-NIST-PQC-Competition-What-was-NIST/images-media/pqcrypto-may2019-moody.pdf) is based on lattice math.
@@ -31,13 +29,13 @@ In addition, Matthew Dozer has a great introductory video:
 
 [Lattice Based Cryptography - Wikipedia](https://en.wikipedia.org/wiki/Lattice-based_cryptography)
 
+{{< cta1 >}}
+
 ## Bitcoin - Schnorr Signatures
 
 ![bitcoin logo](/img/800/5a521fa72f93c7a8d5137fcf.png)
 
 Instead of the current [ECDSA](/cryptography/elliptic-curve-cryptography/) implementation, Bitcoin might be switching to [Schnorr signatures](https://en.bitcoin.it/wiki/Schnorr) in order to get more efficiency when signing transactions. Instead of signing each transaction separately, with Schnorr, we can generate a single signature to validate many transactions at once. This allows Bitcoin to scale by requiring less data to be broadcast on the network when grouping transactions.
-
-{{< cta2 >}}
 
 ## More Rigorous Testing of Hash Functions
 

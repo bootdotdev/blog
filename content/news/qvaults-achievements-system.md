@@ -34,8 +34,6 @@ It's important to note that boot.dev still rewards gems directly for each step o
 
 ![](https://i0.wp.com/boot.dev/wp-content/uploads/2020/11/streak-diamond-min.png?ssl=1)
 
-{{< cta1 >}}
-
 ## Speed Acheivements
 
 Speed achievements are unlocked by completing a certain number of exercises within a certain timeframe. For example, at the time of writing the bronze achievement requires the completion of 10 exercises in 5 minutes.
@@ -45,6 +43,8 @@ Speed achievements are unlocked by completing a certain number of exercises with
 ![](/img/800/speed-plat-min.png)
 
 ![](https://i0.wp.com/boot.dev/wp-content/uploads/2020/11/speed-diamond-min.png?ssl=1)
+
+{{< cta1 >}}
 
 ## Devotion Achievements
 

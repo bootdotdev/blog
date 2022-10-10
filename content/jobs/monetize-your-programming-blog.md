@@ -20,8 +20,6 @@ This guide won’t mention Google Ads for the simple reason that many programmer
 
 All you need is some programming knowledge, a desire to write, and a blog to put your thoughts on. 
 
-{{< cta1 >}}
-
 ## 1. Monetize Your Programming Blog With Affiliate links
 
 Affiliate links are when a company or individual gives you a specific link to their product, service, or slates funnel. If someone clicks on that link and makes a purchase, you get a percentage of that revenue. The most common iteration you’ll see for this type of monetization is the Amazon affiliate program. 
@@ -35,6 +33,8 @@ The best part is that you don’t need to be an expert coder - even if you’re 
 To maximize the potential of this, ensure you make a disclaimer about your affiliate links. As long as you’re honest about them, your readers won’t mind. Explain why you love what you’re recommending. This ensures your voice remains authentic on your blog and not too "salesy" which can turn readers off.
 
 In sum, affiliate links mean that readers who click on your links and make a purchase pay nothing extra, you get the benefit of monetizing your experience, and you help support a platform you believe in. 
+
+{{< cta1 >}}
 
 ## 2. Monetize Your Programming Blog With Sponsored Posts
 
@@ -50,8 +50,6 @@ With sponsored posts, the key is to ensure the focus is not on the brand, but ra
 
 In sum, sponsored posts are a way for brands to pay you to write about them obliquely. You don’t have to wait until you have a huge audience - start when you have a modest, but engaged audience. As long as you stay honest and authentic, your readers won’t mind it.
 
-{{< cta2 >}}
-
 ## 3. Monetize Your Programming Blog By Selling Your Own Code
 
 Your programming blog can be monetized by selling the code you write. Here, you’re using the blog as a way to prove expertise or at least some experience. Once readers have a chance to see how good you are at what you do, they may be tempted to buy from you.
@@ -65,6 +63,8 @@ Depending on what your blog is about, there are different ways to market and sel
 This type of blog is multipurpose - it creates additional authenticity, explaining why your product is going to be good, which helps your audience if they want to go through the process of doing so themselves. But equally, you may catch some Google traffic of people who just need Ruby to do XYZ cool thing and want the shortcut. 
 
 In sum, selling your code is great because as a programmer, no matter if you’re a beginner coder or not, you’ll have produced some kind of hobby code that does a neat thing. You can document the journey on your blog, and sell the final product. This is an infinitely scalable source of income, and also doesn't take a lot of additional work other than what you’d already be doing.
+
+{{< cta2 >}}
 
 ## 4. Monetize Your Programming Blog by Promoting Other Services
 

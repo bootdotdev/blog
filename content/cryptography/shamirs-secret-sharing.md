@@ -23,11 +23,11 @@ Luckily, one of the family members is also a cryptographer. Instead of naively s
 - Members of the family need to cooperate to spend the Bitcoin, one family member can't betray the others
 - If a family member dies or loses their share, the other three members can still reconstruct the key
 
-{{< cta1 >}}
-
 ## Understanding the Threshold
 
 Every Shamir sharing scheme has a total number of shares and a threshold. The **threshold is the number of shares required** to reconstruct the original secret. For example, with five shares and a threshold of three, you only need three of the five shares to calculate the original secret.
+
+{{< cta1 >}}
 
 ## The Math - Lines
 
@@ -38,8 +38,6 @@ One of the fundamental mathematical properties used in Shamir's secret sharing i
 - Only one cubic curve passes through the same four points
 - An infinite number of lines can be drawn through the same point
 - An infinite number of parabolas can be drawn through the same two points
-
-{{< cta2 >}}
 
 ## The Math - Walkthrough
 
@@ -92,6 +90,8 @@ y = 1954 + 43\*3 + 12\*3^2 = 2191
 y = 1954 + 43\*4 + 12\*4^2 = 2318
 
 (4, 2318)
+
+{{< cta2 >}}
 
 ## Reconstruction
 

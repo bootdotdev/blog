@@ -38,13 +38,13 @@ There are plenty of great reasons to learn a coding language:
 
 The time it’ll take you to learn to program depends on how you’ll measure your desired outcome.
 
-{{< cta1 >}}
-
 ## How Much Time Can You Allot per Week to Learn to Code?
 
 If you’ve got a fulltime job, 4 kids, and a baking hobby, it will take you longer to learn to code than if you don’t -- that’s fine. But it’s important to set up expectations early on. If you think you can commit 30 minutes per week, don’t commit yourself to an hour a day, because you’ll get discouraged when life inevitably happens. Be honest about your time management. 
 
 It’s better to take 2 years to learn your first programming language than trying and failing to learn it all in 2 months. 
+
+{{< cta1 >}}
 
 ## What Language Do You Want to Learn?
 
@@ -52,13 +52,13 @@ Some coding languages are more complex than others. For example, Python has an e
 
 Depending on your goal, it’s worth researching which language is easiest and has the best resources for you to learn. 
 
-{{< cta2 >}}
-
 ## What Method Are You Using to Learn?
 
 While there probably are textbooks out there for any coding language you like, it’s best to spend some time experimenting with different methods to see what works best for you. A [recent study from 2020 shows](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3654313) that gamification, a newer strategy for learning skills, can help drive motivation and engagement. For example, [boot.dev’s gamified computer science learning platform](/news/qvaults-achievements-system/) uses achievements and gems to motivate students to not just start, but to achieve goals and complete courses. 
 
 Coding is popular enough that free and paid resources exist for just about any language you may want to learn, no matter whether YouTube videos, courses, or textbooks are right for you.
+
+{{< cta2 >}}
 
 ## What Are Your Expectations about Learning to Code?
 

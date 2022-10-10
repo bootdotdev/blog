@@ -14,8 +14,6 @@ In a previous tutorial we showed how you can get basic information on all quantu
 
 While this function is great to get information on all quantum devices at a glance it is not detailed on specific information such as qubit and gate errors. To get more detailed information on a quantum device (such as configuration and individual qubits and gates) you can use backend\_monitor().
 
-{{< cta1 >}}
-
 ## Implementation
 
 Unlike backend\_overview() this is for getting information on a specific device so you have to pass the device name in to the function as an argument.
@@ -32,13 +30,13 @@ and for another device like IBMQ Vigo:
 backend_monitor(provider.backends.ibmq_vigo)
 ```
 
+{{< cta1 >}}
+
 ## Steps
 
 1. Copy and paste the code below in to a python file
 2. Enter your API token in the IBMQ.enable\_account('Insert API token here') part
 3. Save and run
-
-{{< cta2 >}}
 
 ## Code
 

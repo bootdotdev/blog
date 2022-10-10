@@ -24,8 +24,6 @@ Yes, much of Python is best learned in front of a computer screen. However, some
 
 I find having all this information laid out in a logical, organized way for you to digest is the best way to build a framework of knowledge. Everything else you learn can be slotted into the framework you build with books.
 
-{{< cta1 >}}
-
 ## [A Byte of Python](https://python.swaroopch.com/)
 
 This book really takes the cake. It is incredibly thorough, well-written, and specifically targeted at those who are first learning to code. Even experienced programmers will enjoy this read and gain some knowledge. It’s easy to feel frustrated with the learning process, but this book has helped so many people, from curious kids to people looking to change careers.
@@ -33,6 +31,8 @@ This book really takes the cake. It is incredibly thorough, well-written, and sp
 Swaroop truly composed one of the best resources for learning Python. [They claim](https://python.swaroopch.com/) that "if all you know about computers is how to save text files, then this is the book for you". It includes all of the basics like data types, data structures, OOP, I/O, exceptions, standard Python library, and basic Python set-up. The book even includes a problem solving section, which is great, since thinking about how to code is just as important as the actual coding.
 
 This book is a condensed, free resource to double-check your doubts, learn about Python-specific data structures and how best to use them, and includes some of the more classic CS curriculum, like input/output and exceptions.
+
+{{< cta1 >}}
 
 ## [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 
@@ -44,8 +44,6 @@ Al Sweigart makes programming with Python very approachable. The book is free, a
 
 These very cool programming challenges really are quite practical. The book walks you through in great detail any libraries or tools you need to download, like [openpyxl](https://openpyxl.readthedocs.io/en/stable/).
 
-{{< cta2 >}}
-
 ## [Python for Beginners: Learn Python Programming With No Coding Experience in 7 Days](https://www.amazon.com/Python-Beginners-Programming-Experience-Web-Programming/dp/B09GZHFH2C)
 
 If you don’t already know how to program, I’d recommend this book. It lets you get your feet wet before you dive into the deep end of programming.
@@ -53,6 +51,8 @@ If you don’t already know how to program, I’d recommend this book. It lets y
 This book is handy when it comes to learning how to think about programming, and helps you build that thought pattern. It’s got plenty of code snippets to accompany most theoretical concepts to help you translate the written concept into practical code.
 
 If you’re planning to do a bootcamp or another paid course and you’ve never programmed before, I would highly recommend reading this book first. It brings value to everyone, from beginners to advanced programmers. It’s an easy read and covers a lot of fundamentals.
+
+{{< cta2 >}}
 
 ## Best Courses for Learning Python
 

@@ -46,8 +46,6 @@ Overall, both languages offer huge passionate communities that can’t be ignore
 
 But for experienced programmers, both languages are useful, with Python better for those looking to work in experimental fields and wanting to create their own projects, and Java best for those looking to maintain security in traditional institutions and work with a universal solution.
 
-{{< cta1 >}}
-
 ## Python vs Java Performance
 
 When it comes to performance, it’s a bit of a double-edged sword.
@@ -64,6 +62,8 @@ Python has worked to combat slow execution times by introducing PyPy, Jython, an
 
 In the end, when it comes to Python vs Java for speed, Java can’t be beaten, but with Python’s faster development, you’ll have to choose which factor is more important.
 
+{{< cta1 >}}
+
 ## Java vs Python Salary
 
 According to the 2020 [Stack Overflow survey](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states), it’s a very close call when it comes to Python vs Java salary.
@@ -78,8 +78,6 @@ When it came to which languages are the most wanted by developers, [Python score
 
 Now, I’m not saying to choose a language based on a popularity contest…but I am saying if the pay is the same, it doesn’t hurt to listen to your fellow peers.
 
-{{< cta2 >}}
-
 ## Java vs Python for Game Development
 
 It’s no secret that C languages reign supreme in game development, but that doesn’t mean other languages don’t have merit in the field.
@@ -91,6 +89,8 @@ Python’s particularly skilled at image processing, graphics development, and t
 This all circles back to my comment on being a great language not only for professionals but also hobbyists. Python is fun and easy to code with and offers a ton of resources on hand for you to build any game you can dream up.
 
 Java doesn’t hold much weight in video games, but it does well on mobile games and web-based games using Flash, however, it’s not iOS compatible and only works with Android mobile games. It'll only add value to your skillset if you’re solely focusing on the Android mobile gaming market.
+
+{{< cta2 >}}
 
 ## Machine Learning in Java vs Python
 

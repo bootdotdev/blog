@@ -123,8 +123,6 @@ fmt.Println(sum)
 
 {{< cta1 >}}
 
-{{< cta2 >}}
-
 ## #4 Optional components loop
 
 Building on the idea of a flexible for-loop, we can omit the init or post statements of the three-component loop as we please.
@@ -154,6 +152,8 @@ for {
 }
 // never reached, loops continues on forever
 ```
+
+{{< cta2 >}}
 
 ## #6 Break from a loop
 

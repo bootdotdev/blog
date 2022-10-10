@@ -22,8 +22,6 @@ The course has four modules covering the following topics:
 
 We are already planning a sequel to this course which will cover public-key cryptography and some other more advanced concepts.
 
-{{< cta1 >}}
-
 ## Coding?
 
 ![golang gopher](/img/800/go-300x157.png)

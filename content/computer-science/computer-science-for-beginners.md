@@ -14,11 +14,11 @@ Learning how to get into computer science can be a daunting task. There are so m
 
 Computer science, to put it simply, is the study of the principles and use of computers. The field uses the principles of mathematics, science, and engineering to study and develop computers, hardware, software, networks, databases–even artificial intelligence. It is a highly complex and critical field, as computers and technology have been integrated into virtually (that’s a little computer pun for you there) every industry, organization, and economic center in some way.
 
-{{< cta1 >}}
-
 ## Computer science vs. computer engineering
 
 Computer science deals more with the study of *software*, while computer engineering deals more with *hardware* and often even bleeds into electrical engineering. Oftentimes, someone will get their undergrad in electrical engineering and either double or minor in computer science. While there can be a lot of overlap between both fields, being specific on which courses you want to take will help quite a bit.
+
+{{< cta1 >}}
 
 ## What are the main basics of computer science?
 
@@ -34,8 +34,6 @@ Computer science includes:
 
 Sound like a lot? Well, maybe, but learning the basics of computer science is actually simpler than you may think.
 
-{{< cta2 >}}
-
 ## How to get started with computer science
 
 There are lots of routes you can take to get started. Formal education is one option, as there are many different set pathways to travel, complete with prebuilt lists of courses to follow. There are many beginner computer science classes that cover the fundamentals, and as you further yourself in your chosen degree you can pepper in extracurricular courses or spice things up with an interesting minor or an ambitious double-major.
@@ -47,6 +45,8 @@ Your main choices come down to:
 * Learning computer science at a [bootcamp](/education/part-time-coding-bootcamp/)
 
 ![people studying outside](/img/800/pexels-photo-1438072.jpeg.webp)
+
+{{< cta2 >}}
 
 ## Best schools for computer science
 

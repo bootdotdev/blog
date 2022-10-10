@@ -1,6 +1,6 @@
 # The Boot.dev Blog
 
-The blog for Boot.dev, which can be found at [https://blog.boot.dev](https://blog.boot.dev).
+This is the source code and content for the Boot.dev blog, which can be found at [https://blog.boot.dev](https://blog.boot.dev).
 
 ## Contributing
 
@@ -70,8 +70,8 @@ make buildscripts
 ./bin/rmshorts cta2
 ./bin/rmshorts cta3
 
-./bin/addshorts cta1 2
-./bin/addshorts cta2 4
+./bin/addshorts cta1 3
+./bin/addshorts cta2 5
 ./bin/addshorts cta3 8
 ```
 

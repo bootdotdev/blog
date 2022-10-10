@@ -14,8 +14,6 @@ I've recently been working on getting Rust support in the [boot.dev app](https:/
 
 This recently stopped working due to the `io::set_print` function being completely deprecated. I'm leaving the post up for historical knowledge's sake, but this won't work anymore!
 
-{{< cta1 >}}
-
 ## How It Works
 
 The architecture is fairly simple:
@@ -27,6 +25,8 @@ The architecture is fairly simple:
 - Browser runs WASM and displays console output, or shows compiler errors
 
 Writing code and shipping it to the server hopefully needs no explanation, it's a simple text editor coupled with the fetch API. The first interesting thing we do is compile the code on the server.
+
+{{< cta1 >}}
 
 ## Compiling the Code
 

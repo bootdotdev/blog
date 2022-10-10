@@ -59,8 +59,6 @@ PureScript helps manage side effects, unknown results, creates clean maintainabl
 
 TypeScript differs in that it’s object-oriented and focuses on debugging and maintaining large-scale client-side JavaScript programs. TypeScript and JavaScript are much more popular than PureScript at the moment, PureScript is mostly useful for educational purposes.
 
-{{< cta1 >}}
-
 ## JavaScript vs TypeScript Salary
 
 They say money is where the heart is, and luckily both languages have got you covered.
@@ -68,6 +66,8 @@ They say money is where the heart is, and luckily both languages have got you co
 JavaScript and TypeScript rank next to each other for salary with [developers earning $112k and $120k a year](https://insights.stackoverflow.com/survey/2020#top-paying-technologies) respectively. JavaScript also ranked second for most wanted by developers and TypeScript ranked second for most loved.
 
 With such obvious support from developers and similar pay, you can’t go wrong with either language. However, you should note that TypeScript developers will likely know more than one scripting language, therefore earning more pay.
+
+{{< cta1 >}}
 
 ## TS vs JS Performance
 
@@ -85,8 +85,6 @@ Typescript’s "performance" per se comes in during the actual coding time. It d
 
 Overall, comparing TypeScript’s and JavaScript’s performance is a bit of a misnomer since they’ll always perform the same. The real difference is seen in the way the languages are written.
 
-{{< cta2 >}}
-
 ## JS vs TS for Web Development
 
 JavaScript was built for the World Wide Web, so it should come as no surprise that it slays in web development.
@@ -102,6 +100,8 @@ For the back-end, JS has the famous Node.js, a server-side JS runtime environmen
 Then there’s React.js, a front-end library that essentially upgrades JavaScript’s client-side user experience.
 
 TypeScript simply adds static types to JavaScript programs, offers rich support for JSX, and safely models mutability. It makes writing correct, maintainable code easier. TS can support back-end and front-end development, just like JavaScript. With that in mind, there isn't a clear winner for which is better on the web.
+
+{{< cta2 >}}
 
 ## TypeScript vs JavaScript for Enterprise Projects
 

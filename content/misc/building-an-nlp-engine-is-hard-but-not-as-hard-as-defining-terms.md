@@ -49,8 +49,6 @@ One of my teammates made the point that this sentence expresses apprehension, wh
 
 In the end, we found that we had to provide paragraph-long explanations of each category to our annotators, complete with examples of what is and isn't counted as a part of the category in question.
 
-{{< cta1 >}}
-
 ## Vulgarity Detection
 
 NSFW Disclaimer: _I'm going to talk about our vulgarity detection, and will need to say some naughty words. If you find that offensive turn back now!_
@@ -104,6 +102,8 @@ In the end, we ended up mixing the concept of probability and intensity for the 
 `vulgarity_weight = intensity * acceptance`
 
 Once we started looking at everything as a fluid spectrum it became much easier to agree amongst ourselves what constitutes "vulgarity". My coworker who claimed "shit", "damn", and "hell" aren't vulgar easily admitted that they're _more vulgar_ than trivial interjections like "crap", "dang", or "heck".
+
+{{< cta1 >}}
 
 ## Promotion and Solicitation Detection
 

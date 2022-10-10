@@ -63,8 +63,6 @@ That's why I love this tutorial which is based on a package called `howdoi`. Whe
 
 Once you acknowledge how much time you spend Googling things, you'll realize the value of using this as a Python project for beginners.
 
-{{< cta1 >}}
-
 ## 3 Python Projects using courses or lectures
 
 While some of the best Python beginner projects are based on straight Python or use a couple of Python packages, you can also use courses as a way to do a more interactive, guided project. These options are billed as courses that teach you Python, but optionally can be used to complete your first Python project.
@@ -103,6 +101,8 @@ There's actually a pretty complete product called LinkedIn learning full of cour
 
 Again, like Coursera, it's not free but you can start for free with their month-long free trial. If you love it, it costs $20 a month to continue.
 
+{{< cta1 >}}
+
 ## 4 Python projects using GitHub
 
 Ah, GitHub, one of my favorite places on the internet. GitHub is an awesome resource for a ton of reasons: first, it's free! Second, for a language like Python, there is a robust and friendly community full of Pythonistas who have created projects, tutorials, articles, open-source code, etc, that they are so excited to share with you. 
@@ -126,8 +126,6 @@ All you need to do is install the random module and then head over to the direct
 This project is for another one of the social media addicts out there like me. It's a script that counts the number of followings, followers, and posts of any account. It takes the username from the terminal and shows you the output.
 
 I like this tutorial because you can do what you want with it. If you want to just run it, run it! But you can also look into the more complex script and try to figure out what's going on. Take what you want from this learning experience. 
-
-{{< cta2 >}}
 
 ## 5 Python Projects using your own data
 
@@ -168,6 +166,8 @@ It shouldn't be a surprise to anybody that AWS has an [absolutely enormous regis
 Naturally, AWS doesn't own this data - they just host it for a variety of government organizations, researchers, businesses, and individuals that have chosen to make this open. Their GitHub repo also contains a few examples of how to use the data.
 
 Have a browse, poke around, and find what looks interesting to you.
+
+{{< cta2 >}}
 
 ## If you're a beginner, The best Python projects should be deeply interesting to you.
 

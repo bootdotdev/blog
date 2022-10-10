@@ -27,8 +27,6 @@ The following are examples of encryption that Shor's algorithm can break:
 - [Diffie Hellman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
 - [ECC](/cryptography/elliptic-curve-cryptography/)
 
-{{< cta1 >}}
-
 ## Symmetric Encryption
 
 Symmetric encryption, or more specifically AES-256, is believed to be quantum-resistant. That means that [quantum computers are not expected](https://en.wikipedia.org/wiki/Post-quantum_cryptography#Symmetric_key_quantum_resistance) to be able to reduce the attack time enough to be effective if the key sizes are large enough.
@@ -38,6 +36,8 @@ Symmetric encryption, or more specifically AES-256, is believed to be quantum-re
 ![Symmetric Cats](https://i.imgur.com/mddjVaf.jpg)
 
 [Grover's algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm) can reduce the brute force attack time to its square root. So for AES-128 the attack time becomes reduced to 2^64 (not very secure), while AES-256 becomes reduced to 2^128 which is still considered very secure.
+
+{{< cta1 >}}
 
 ## A Caveat
 

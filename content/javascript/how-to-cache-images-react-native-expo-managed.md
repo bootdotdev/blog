@@ -44,8 +44,6 @@ The CachedImage component has the same props and API as React Native's [Image](h
 />
 ```
 
-{{< cta1 >}}
-
 ## What Is It Doing?
 
 CachedImage keeps it simple. It downloads the image to the user's local filesystem using the [SHA-256](/cryptography/how-sha-2-works-step-by-step-sha-256/) hash of the URI. Then, on subsequent renders and app uses, it loads the image from the filesystem if it exists. This saves the user from using unnecessary data and experiencing slow load times.
@@ -53,6 +51,8 @@ CachedImage keeps it simple. It downloads the image to the user's local filesyst
 Tip: In order to bust the cache, you can append a query string or anchor text to the URI.
 
 [Link to the Github](https://github.com/lane-c-wagner/react-native-expo-cached-image)
+
+{{< cta1 >}}
 
 ## Code
 

@@ -17,8 +17,6 @@ Both programs (and others) adhere to the [OpenPGP](https://en.wikipedia.org/wiki
 
 The "pretty good" part of "Pretty Good Privacy" is a hilarious understatement. It uses secure building blocks and remains an extremely private (albeit not very user-friendly) protocol for secure communication.
 
-{{< cta1 >}}
-
 ## Symmetric vs Asymmetric Encryption
 
 Asymmetric algorithms allows users to communicate securely without sharing private keys. They are suitable for the encryption of messages meant to be sent over an untrusted medium like emails or text messages.
@@ -29,6 +27,8 @@ Symmetric algorithms are computationally fast. They are primarily used to encryp
 
 PGP is a hybrid cryptosystem, it takes advantage of certain benefits from symmetric and asymmetric systems. PGP uses asymmetric keys to encrypt symmetric keys, which are used to encrypt messages. This keeps PGP computationally efficient while also allowing users to own their own private keys.
 
+{{< cta1 >}}
+
 ## How Does It Work?
 
 OpenPGP, the protocol to which PGP and GPG adhere, can really be looked at as a set of rules for _how_ we use _other_ encryption and authentication algorithms. There are four main components of a PGP system:
@@ -37,8 +37,6 @@ OpenPGP, the protocol to which PGP and GPG adhere, can really be looked at as a 
 - Asymmetric encryption
 - Hashing and [Digital Signatures](/cryptography/hmac-and-macs-in-jwts/)
 - Compression
-
-{{< cta2 >}}
 
 ## Putting It All Together
 
@@ -58,6 +56,8 @@ Let's go through each step of how a PGP message exchange works:
 ![PGP Step by Step flowchart](/img/800/Untitled-Project-792x1024.jpg)
 
 That's it! If you have questions be sure to reach out on [Twitter](https://twitter.com/wagslane).
+
+{{< cta2 >}}
 
 ## Which Algorithms are Used?
 

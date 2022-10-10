@@ -37,8 +37,6 @@ If instead, you want a time object for a specific date, you can use the `time.Da
 someonesBirthday := time.Date(1990, time.May, 10, 23, 12, 5, 3, time.UTC)
 ```
 
-{{< cta1 >}}
-
 ## Printing, parsing, and formatting times in Go
 
 While dates and times are typically stored as `time.Time` objects _within_ Go programs, we frequently need to save them to databases, [marshal them to JSON](/golang/json-golang/), or just print them to the console. It's nice that Go provides functions to format and parse dates easily. That said, the way it's handled is unique compared to most coding languages.
@@ -87,7 +85,7 @@ sixMinutes := time.Minute * 6
 oneDay := time.Hour * 24
 ```
 
-{{< cta2 >}}
+{{< cta1 >}}
 
 ## Convert between separate timezones and locations
 
@@ -125,6 +123,8 @@ tzName := "CUSTOM-TZ"
 tzOffset := 60*60*5 // seconds east of UTC
 loc := time.FixedZone(tzName, tzOffset)
 ```
+
+{{< cta2 >}}
 
 ## Add, subtract and compare times
 

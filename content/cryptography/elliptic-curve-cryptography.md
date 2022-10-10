@@ -18,8 +18,6 @@ A common use of ECC is to encrypt data so that only authorized parties can decry
 
 For example, in the [boot.dev web app](https://boot.dev/), I could use ECC to encrypt a confirmation email so that no one but the recipient could read the message.
 
-{{< cta1 >}}
-
 ## ECC is public-key cryptography
 
 There are many types of public-key cryptography, and Elliptic Curve Cryptography is just one flavor. Other algorithms include [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), [Diffie-Helman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange), etc.
@@ -33,6 +31,8 @@ Public-key cryptography allows the following to happen:
 [wikia](http://itlaw.wikia.com/wiki/Key_pair)
 
 We create two keys, a public key, and a private key. The public key is given freely, and any party can encrypt data by using it. However, the private key is kept secret and only those who hold it will have the ability to decrypt data.
+
+{{< cta1 >}}
 
 ## An example of public-key cryptography
 
@@ -55,8 +55,6 @@ As you can see, this form of encryption can be quite useful. Here are some key p
 - The private key must be kept safe because if someone in the middle were to get the private key, they could decrypt messages.
 - Computers can quickly use the public key to encrypt a message, and quickly use the private key to decrypt a message.
 - Computers require a _very_ long time (millions of years) to derive the original data from the encrypted message if they don’t have the private key.
-
-{{< cta2 >}}
 
 ## How it Works: The Trapdoor Function
 
@@ -83,6 +81,8 @@ In RSA, which is arguably the most widely used public-key cryptosystem, the trap
 In the example above the public key is a very large number, and the private key is the two prime factors of the public key. This is a good example of a Trapdoor Function because it is very easy to multiply the numbers in the private key together to get the public key, but if all you have is the public key it will take a very long time using a computer to re-create the private key.
 
 > In real cryptography, the private key would need to be 200+ digits long to be considered secure.
+
+{{< cta2 >}}
 
 ## What Makes Elliptic Curve Cryptography Different?
 

@@ -34,8 +34,6 @@ By contrast, Computer Science tends to have a less practical and more theoretica
 
 As you can see, Software Engineering has an obvious focus, while Computer Science can be viewed as a more renaissance study of theoretical computer applications.
 
-{{< cta1 >}}
-
 ## The Overlap
 
 Of course, while there are plenty of differences between Computer Science and Software Engineering, there are many more similarities. As Software Engineering is basically just an applied form of Computer Science, it stands to reason that understanding both enhances the understanding of either. Any Computer Scientist benefits from understanding the practical applications of their craft - in the form of software development, technology management, and the result of programming.
@@ -43,6 +41,8 @@ Of course, while there are plenty of differences between Computer Science and So
 By that same token, [Software Engineers that have a deep understanding of Computer Science](/computer-science/why-learn-computer-science/) principles tend to command a higher salary and are able to solve more technically challenging problems.
 
 As for actually attending school for both Software Engineering and Computer Science, there is actually a great deal of overlap between the two as far as classwork is concerned. In fact, it would easily be possible to begin down the path of one and, having changed your mind, start down the path of another.
+
+{{< cta1 >}}
 
 ## Class Requirement Comparison
 
@@ -193,8 +193,6 @@ Because smaller colleges often provide more insight into a "standard" course loa
 As you can see, there is a great deal of overlap in course load between the two disciplines.
 
 The main difference between a [computer science degree or certificate](/computer-science/guide-to-certificate-in-computer-science/) and a software engineering education is that computer science requires more high-level math and science classes, while the software engineering route includes more applied classes such as Unix/Linux and Web Design. If you can stick it out, most employers generally prefer a candidate with a computer science background, as software engineering principles can more easily be learned on the job.
-
-{{< cta2 >}}
 
 ## Titles and Salaries
 

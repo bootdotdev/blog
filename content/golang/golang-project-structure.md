@@ -16,8 +16,6 @@ By the end of this walkthrough, you'll have a project structure that looks somet
 
 ![Golang Microservice Boilerplate Directory](/img/800/Screen-Shot-2020-09-30-at-8.55.37-PM.png)
 
-{{< cta1 >}}
-
 ## Step 1 - Create a Remote Repo and Clone It
 
 I'm a sucker for the old [GOPATH](https://golang.org/doc/gopath_code.html). Using the actual GOPATH is no longer recommended, but I find the single workspace principle neat and orderly. As such, I keep all my projects in:
@@ -95,6 +93,8 @@ This will create three new things in your project root:
 - `go.mod` - list of dependencies and versions
 - `go.sum` - hashes of dependencies for security reasons
 - vendor directory - source code of all dependencies
+
+{{< cta1 >}}
 
 {{< cta2 >}}
 

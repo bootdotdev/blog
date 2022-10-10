@@ -16,7 +16,7 @@ Anyway, what matters is that bouncing all deployments one after another is reall
 
 ## The best way to bounce (kubectl >= 1.15)
 
-I recently found out from a friend there is an easier way as of `kubectl` 1.15+. Restarting all the pods in a namespace is as easy as running the following `kubectl` command.
+I recently found out from a friend that there is an easier way as of `kubectl` 1.15+. Restarting all the pods in a namespace is as easy as running the following `kubectl` command.
 
 ```bash
 kubectl -n {NAMESPACE} rollout restart deploy

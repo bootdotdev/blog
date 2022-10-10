@@ -32,8 +32,6 @@ Codecademy’s courses, especially the Pro ones, will get you the skills and may
 
 Price comparison: Boot.dev costs $34 a month, or $24/month when billed annually. There’s also a free guest version.
 
-{{< cta1 >}}
-
 ## Datacamp: Go Deeper into Data Science
 
 Codecademy has a solid Data Science Career Path track. But it just has the one. As you may imagine, it’s close to impossible to stick all of Data Science Career knowledge into a single course. While it does delve into a wide range of tools, languages, and concepts, that breadth makes it tough to feel like you’ve got a good grounding in what you really need from a course that allegedly is going to give you career knowledge.
@@ -41,6 +39,8 @@ Codecademy has a solid Data Science Career Path track. But it just has the one. 
 Datacamp is the Codeacaemy alternative I recommend if you want a little more flexibility in the (extremely broad) field of data science. Datacamp offers multiple career paths, which makes sense since data scientists are not a conglomerate. Each track will discuss a single language and a smaller selection of concepts and tools than the Codeacademy one. However, if you do all the Datacamp courses, you’ve got a better grounding in data science than if you do the single Codecademy one. Even if you don’t, you still have more flexibility to choose the area of data science that appeals most to you.
 
 Price comparison: The two are comparable. For Datacamp’s pro version, you’ll pay $39.99 per month, or $12.42 per month if you get billed annually.
+
+{{< cta1 >}}
 
 ## Code.org: Don’t Pay
 
@@ -52,8 +52,6 @@ The main problem is that it’s aimed at literal children. But honestly, when I 
 
 Price comparison: literally free.
 
-{{< cta2 >}}
-
 ## freeCodeCamp: Learn Web Development
 
 freeCodeCamp has a very relatable origin story. Back in 2014, a teacher named Quincy Larson wanted to learn to code so he’d be able to make better learning tools for his students. His journey was so circuitous and painful that he was inspired to create freeCodeCamp as a way to save anyone else from having to do the same thing as him.
@@ -63,6 +61,8 @@ Compared to Codecademy, FreeCodeCamp is like an older (and free) sister in the w
 The only downside is that it’s heavily based on web development.
 
 Price comparison: again, free. It’s in the name.
+
+{{< cta2 >}}
 
 ## Coursera: Get High-Quality Video Tutorials
 

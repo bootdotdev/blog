@@ -20,8 +20,6 @@ Ideally, all resumes would be exactly _1 page_. If you have hundreds of applican
 
 Inb4, "but I have so much relevant experience, it doesn't fit on one page". Yes it does. No one gives a flying fart about the project you worked on 10 years ago and 6 companies ago. Boil it down to your MOST INTERESTING projects and MOST RELEVANT experience. It can fit on one page.
 
-{{< cta1 >}}
-
 ## #2 - Simplify the Process
 
 There is nothing worse as a candidate than sitting through 3 different 2 hour-long interviews only to find they didn't get the job. Conversely, it also sucks as an employer to sit through several long interviews and have the candidate take another opportunity.
@@ -31,6 +29,8 @@ My process is fairly simple:
 1. Does the application look good? Great, go to step 2.
 2. ~20-minute zoom phone screen. This is not an interview. Just answering questions about the company and learning about the candidate's situation. If there are no red flags, go to step 3.
 3. ~90-minute (preferably in-person) interview. This is it. Learn everything you need to know in less than 90 minutes. If you can't do that, you are a bad interviewer and need more practice.
+
+{{< cta1 >}}
 
 ## #3 - Take One of the First Good Candidates
 
@@ -46,8 +46,6 @@ I've found there are diminishing returns on your time spent trying to find a can
 
 ![Log(x)+4](/img/800/Screen-Shot-2020-10-13-at-7.24.24-AM-e1602595625480.png)
 
-{{< cta2 >}}
-
 ## #4 - Whiteboarding
 
 Somehow whiteboarding has become a naughty word when talking about interviewing. I hear dumb-ass statements like, "who cares if I can whiteboard if I know how to code?"
@@ -55,6 +53,8 @@ Somehow whiteboarding has become a naughty word when talking about interviewing.
 No one cares. White-boarding is just a convenient way to ignore dumb things that we can all google (like syntax) and focus on shit that matters (algorithms, data structures, architectural prowess, understanding of frameworks/concepts etc)
 
 I don't ask React developers to build binary trees. I don't ask candidates for the data team to talk about Redux vs React Context. Keep the questions _applicable_, and don't be afraid to use a goddamn whiteboard.
+
+{{< cta2 >}}
 
 ## #5 - Homework
 

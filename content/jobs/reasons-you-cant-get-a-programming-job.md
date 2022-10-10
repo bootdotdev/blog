@@ -42,8 +42,6 @@ If you’ve already spent time and money on your bootcamp or course, you don’t
 
 There are many resources online, both paid and free, that can help you learn the building blocks. Whether you get the basics from a degree, course, or bootcamp, you can’t expect to do a single course focusing on one niche aspect and get a job. 
 
-{{< cta1 >}}
-
 ## 2. You’re not presenting yourself in a way that demonstrates you’re a good culture fit
 
 Personally, part of the reason I ended up going for a data science job out of college was because I hated sales, like many other people. But while everyone hates sales, when you’re applying for jobs, you have to know how to sell yourself at every stage of the application process. If you can't get a programming job, it may be because you're neglecting this part of the application process.
@@ -65,6 +63,8 @@ The truth is that most people, including programmers and coders, aren’t coding
 Do you show passion, engagement and curiosity? What extracurriculars have you done? How can you package your skills to demonstrate you’re what they need both from a technical and cultural perspective?
 
 Take time to research your potential future employer and what non-technical qualities current employees show. This will give you the strongest chance of presenting yourself favorably from both a skills perspective as well as a culture fit. 
+
+{{< cta1 >}}
 
 ## 3. You’re ignoring good interview skills
 
@@ -91,8 +91,6 @@ If you’re getting to the interview stage and still can’t get a programming j
 
 This shows interviewers that you’re not just a superb coder, but you’re a good interviewer, and hence a good communicator. 
 
-{{< cta2 >}}
-
 ## 4. You don’t have experience
 
 Don't blame yourself too much if you can't get a programming job for this reason. This is a problem compounded by the job listings posted by employers. It seems like every employer needs coders who have at least five years of experience in a language that only came into creation one year ago. This leads to coders applying for jobs that might be considered a bit of a stretch in terms of their applicable experience.
@@ -118,6 +116,8 @@ No, you don’t need five years experience. But if you can't get a programming j
 Do you have a blog, GitHub repo, or another portfolio where you can demonstrate your commitment to programming? Nathanaël Cherrier, Lead JavaScript software engineer at Ferpection, lists some advantages in [his blog post](https://www.welcometothejungle.com/en/articles/successful-personal-blog-developer) on why developers should start blogs: "When you write on the Internet you become more visible than a regular developer. Who are you hoping will read your post? Future colleagues? A recruiter from that awesome company you’d like to work at? The committee responsible for choosing the speakers of a conference you’d like to talk at? All these people will be interested in both your technical skills and your editorial skills." 
 
 If you can't get a programming job because of a lack of experience, sharing your passion can be a great way to prove to employers that you can do what they need you to do. 
+
+{{< cta2 >}}
 
 ## 5. You’re trying to master everything
 

@@ -35,8 +35,6 @@ fn main() {
 
 which fails to compile with the error: `cannot assign twice to immutable variable`.
 
-{{< cta1 >}}
-
 ## Variable Shadowing - The Dark Side of "let"
 
 As we can see above, Rust's immutability offered by the _let_ keyword allows the compiler to ensure that a given variable can't be changed... kind of. The following does **not** fail to compile:

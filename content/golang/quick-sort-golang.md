@@ -17,11 +17,11 @@ Quicksort is an efficient sorting algorithm commonly used in production sorting 
 - The pivot is now in its **final** position
 - Recursively repeat the operation on both sides of the pivot
 
-{{< cta1 >}}
-
 ## Conquer
 
 - Return a sorted array after all elements have been through the pivot operation
+
+{{< cta1 >}}
 
 ## Quicksort Pseudocode
 
@@ -65,8 +65,6 @@ func quickSort(arr []int, low, high int) []int {
 	return arr
 }
 ```
-
-{{< cta2 >}}
 
 ## Example of using Quicksort in real code
 

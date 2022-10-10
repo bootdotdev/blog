@@ -44,8 +44,6 @@ Just because the Node.js processing is single-threaded does not mean you can’t
 
 Complementary to JavaScript on its own though, Node.js is on the server-side. Rather than comparing Node.js vs JavaScript, you should understand that Node.js enables JavaScript code to be run on the server. The results are then downloaded and displayed in the browser.
 
-{{< cta1 >}}
-
 ## Advantages and Disadvantages of Node.js vs JavaScript
 
 Both JavaScript on its own and JavaScript used with Node.js have their strengths. The great news is that both are heavily represented in the open-source community ([JavaScript](https://awesomeopensource.com/projects/javascript-library) and [Node.js](https://nodesource.com/blog/top-10-best-nodeJS-open-source-projects)) as well as professional usage. Almost all major companies like [LinkedIn, Netflix, Medium](https://trio.dev/blog/companies-use-node-js), [Facebook, Google, and Microsoft](https://www.ironhack.com/en/web-development/10-major-companies-using-javascript) use both Node.js and JavaScript. All modern tech companies (or even just the IT departments of non-tech companies) will entail roles that require the use of one if not both.
@@ -72,13 +70,13 @@ Another distinction is that Node.js has a dedicated server to run server-side re
 
 Since Node.js is built on a specific web engine (Chrome’s V8), it is interpreted the same everywhere. no browser required. Since JavaScript is open to be interpreted by each browser independently, it can be interpreted differently by different browsers.
 
+{{< cta1 >}}
+
 ## Node.js and JavaScript: Is there anything they can’t conquer together?
 
 As it turns out, even JavaScript used with Node.js can’t beat everything. Node.js is meant to extend the usefulness of JavaScript into the backend, but there are scenarios where this isn’t enough. Node.js does well when it comes to memory-intensive operations as well as executing asynchronously, but it certainly does not best Python in the domain of machine learning.
 
 Python is significantly more advanced when it comes to mathematical computations and machine learning. When it comes to large-scale development applications, Golang might also be a better option than Node for performance reasons.
-
-{{< cta2 >}}
 
 ## Professional Prospects
 
@@ -95,6 +93,8 @@ A JavaScript developer will be considered entirely frontend. In order to land th
 Someone with knowledge of Node.js could look into more of a full-stack development position. These jobs cover more of the development stack, and though you still need to keep in mind UX design and the customer’s experience, you’ll be responsible for the integration of the application’s different layers.
 
 These tasks can often be more complex, and the pay reflects it. In the U.S., the average base pay for a full stack developer is [$100K](https://www.glassdoor.ie/Salaries/us-full-stack-developer-salary-SRCH_IL.0,2_IN1_KO3,23.htm?clickSource=searchBtn) and can range up to $160K. Do be aware, however, you’ll need to be more knowledgeable about APIs, databases, and more complex backend systems. If you’re interested in this kind of role, it’s best to beef up your skills to include a more traditional backend language like Python, C#, C++, or Java.
+
+{{< cta2 >}}
 
 ## Conclusion: JavaScript vs Node.js
 

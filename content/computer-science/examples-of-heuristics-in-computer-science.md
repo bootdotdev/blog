@@ -23,8 +23,6 @@ The entire value proposition of a heuristic is based on trade-offs. Typically we
 
 Example problems and some of their common heuristics are given below.
 
-{{< cta1 >}}
-
 ## Traveling Salesperson Problem (TSP)
 
 ![](/img/800/tsp-1024x606.jpg)
@@ -37,6 +35,8 @@ For a low number of cities, this question could be reasonably brute-forced. Howe
 
 The nearest-neighbor (NN) heuristic solves this problem nicely: the computer always picks the nearest unvisited city next on the path. NN does not always provide the best solution, but it is close enough to the best solution that the difference is often negligible for the purpose of answering the TSP. By using this heuristic, the Big-O complexity of TSP can be reduced from `O(n!)` to `O(n^2)`.
 
+{{< cta1 >}}
+
 ## Knapsack Problem
 
 ![](/img/800/knapsack.jpg)
@@ -47,11 +47,11 @@ The knapsack problem poses the issue:
 
 An example heuristic for this problem is a greedy algorithm, which sorts the items in descending order of value per weight, and then proceeds to insert them into the "sack". This ensures the most valuably "dense" items make it into the sack first.
 
-{{< cta2 >}}
-
 ## Search Optimization
 
 Search engine optimization has been sought after for as long as search engines have been around. Individuals using search engines want to find the information they are looking for as swiftly as possible. With such an incredible amount of information available, search engines must utilize heuristics in order to expedite the search process. At the start, a heuristic could try each possibility at each step, but as the search continues, it can choose to stop the search at any time if the current possibility is worse than the best solution already located. In this way, the search engine can be optimized for speed and correctness.
+
+{{< cta2 >}}
 
 ## Applying Heuristics to Your Algorithms
 

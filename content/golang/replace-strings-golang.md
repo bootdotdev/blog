@@ -51,8 +51,6 @@ func main() {
 }
 ```
 
-{{< cta1 >}}
-
 ## Example #2 - Only replace some strings
 
 It can be useful to only print the replace the first `n` instances of a word. For example, let's say we had some text containing dialogue, like in a movie script. If you want to change the delimiter between the speaker and there lines to be a dash instead of a colon, but _don't_ want to replace any colons in the dialogue, you can set `n=1`.
@@ -71,6 +69,8 @@ func main() {
 }
 ```
 
+{{< cta1 >}}
+
 ## Example #3 - Remove all instances of a string
 
 Sometimes you just want to strip out specific characters. For example, you may want to remove all periods. To do so, you can simply replace all periods with an empty string.
@@ -88,8 +88,6 @@ func main() {
     // prints "1234567890"
 }
 ```
-
-{{< cta2 >}}
 
 ## Example #4 - High performance string replacement
 

@@ -20,8 +20,6 @@ Recruiting processes take several weeks on their own, so I could potentially hav
 
 So, like a lot of people, I considered how to do a part-time [coding bootcamp *online*](/education/top-online-bootcamps/). But that’s still usually 20+ hours of work per week. Some employers make it simple to cut back on your hours for a period of time. Others (like mine) may not be open to it. Since keeping your current employment is probably quite important, it’s best to figure out if and how your work schedule may change before selecting a coding bootcamp to participate in.
 
-{{< cta1 >}}
-
 ## Choose the Right Coding Bootcamp for Your Situation
 
 Your existing commitments are the biggest factor in choosing a coding bootcamp. Depending on how demanding your day job is and what your other commitments outside of it are, you should choose between a full-time, part-time, or on-demand bootcamp. Doing a full-time coding bootcamp is quite a large gamble, since most would require you to resign from your current position in order to meet the time commitments required.
@@ -31,6 +29,8 @@ If you’ve got the time and resources ([most bootcamps cost around $13k](/educa
 If you don’t have 40+ hours per week, which many of us don’t have, you can look into how to do a part-time coding bootcamp instead. Lots of part-time coding bootcamps have a few sessions in the evening and then one or two full-time days on the weekend. While it is very intense to do that on top of full-time work, it is certainly doable. This style of part-time coding bootcamp generally requires around 20 hours of work or self-study per week.
 
 A third option that doesn’t get as much love is a fully asynchronous coding bootcamp. This style is incredibly flexible and tends to be a lot cheaper. If you’ve already got a lot on your plate, this format is much easier to fit into your existing weekly schedule. The asynchronous format works best for those who tend to be self-starters and aren’t afraid of having to figure out some errors or concepts on their own. Since this style of boot camp is fully asynchronous, you can change how much time you invest every week to fit your schedule.
+
+{{< cta1 >}}
 
 ## Manage Your Expectations
 
@@ -42,8 +42,6 @@ I recommend setting a goal number of hours per work to dedicate to the bootcamp 
 
 On top of regular study, a lot of bootcamps have homework assignments. While it is easy to get frustrated when you hit unexpected efforts, it’s incredibly important that you find a way to recognize your own efforts. Budget in time for things to not work or take longer than estimated and find a way to reward yourself just for trying. Even if the code isn’t running after a few hours, you’ll still have learned plenty about the issue and lots of ways of how not to solve it. I suggest a chapter in an audiobook, or a baked good if that hits your fancy. I always go for chocolate chip cookies.
 
-{{< cta2 >}}
-
 ## Keep Motivation High
 
 Twenty, forty, or even just five hours of code per week is a lot when you’re just starting out. Learning to code on top of your work and life is a huge challenge. It’s not an easy skill to acquire. Regardless of the bootcamp style you choose, it’s going to be a big time commitment for at least several months. With all of that time, energy, and effort, it can be hard to keep up your motivation for doing the bootcamp.
@@ -51,6 +49,8 @@ Twenty, forty, or even just five hours of code per week is a lot when you’re j
 So how do you keep motivation up?I like to pick some kind of cool project I could use my new skills to implement. Whenever I get the chance, I work a little further on my project to put those theoretical concepts to use for a project that means a lot to me. This could even turn in to your portfolio project for the end of the bootcamp, if the one you pick has that. That helps make it all more real to me. I’m not just debugging code because it’s a homework assignment, I’m debugging code because ultimately it’ll help me build my amazing app that lets me translate my dog’s barks. (Not a real example, although I wish it were!)
 
 Rewarding your accomplishments, whether that’s finishing a homework assignment or fixing an issue in the portfolio project, recognize all that you’re learning and the energy you’re investing to do so.
+
+{{< cta2 >}}
 
 ## Lay the Foundations
 

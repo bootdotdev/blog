@@ -35,8 +35,6 @@ Go’s memory management concurrency primitives are slightly more powerful (my o
 
 ![go vs c sharp for experienced programmers, high salaries, performance, web development and game development](/img/800/Go-vs-C-Sharp-salary-performance-web-development-game-min-1.png)
 
-{{< cta1 >}}
-
 ## Go vs C#: Which is better for experienced programmers?
 
 Golang and C# both offer distinct advantages for experienced programmers.
@@ -55,6 +53,8 @@ The key difference here is that *most* of Go’s tools are native, while C# gets
 
 Overall, C# is a better option if you’re working on Windows applications or game development due to it's object oriented nature, but Go quite often pulls ahread in cross-platform work and web development.
 
+{{< cta1 >}}
+
 ## Go vs C# Performance: Which is faster?
 
 When it comes to performance, the best thing about these two languages is that they both perform well compared to interpreted languages like JavaScript and Python, but their strength comes in different ways.
@@ -69,8 +69,6 @@ While C# is powerful, it’s still slower than Go. Why? Mostly due to C#'s heavi
 
 In the end, Golang’s raw CPU speed is very similar to C#, but because of its simplistic style and native compilation, its memory usage is much lighter and Go code compiles **much** faster than C# code. 
 
-{{< cta2 >}}
-
 ## Go vs C#: Which has the best salary?
 
 It’s no secret that the tech industry is a well-paying one, especially as a developer.
@@ -80,6 +78,8 @@ In the US, Golang developers on average [make $140k annually](https://insights.s
 The same trend is seen globally, with Golang developers raking in $74k a year in spot 3, and C# developers coming in spot 12 with $57k a year.
 
 And just to add insult to injury, Go was also ranked above C# as most loved and most wanted by developers on the same survey, so if the pay isn’t convincing enough, maybe its popularity amongst professionals is.
+
+{{< cta2 >}}
 
 ## C# (.net) vs Go: Which is best for web development?
 

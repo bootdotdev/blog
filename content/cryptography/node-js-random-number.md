@@ -50,8 +50,6 @@ const max = 100
 const betweenOneAndTen = Math.floor(Math.random() * (max - min)) + min + 1
 ```
 
-{{< cta1 >}}
-
 ## Why is Math.Random() insecure?
 
 Many non-secure sources of [entropy](/cryptography/what-is-entropy-in-cryptography/), like `Math.Random()`, do something similar to the following:
@@ -78,6 +76,8 @@ However, weak pseudo-randomness can be *catastrophically dangerous* if you're tr
 * Generate Bitcoin keys
 * Generate passwords or salts
 * etc ...
+
+{{< cta1 >}}
 
 ## Should I always use crypto.randomBytes()?
 

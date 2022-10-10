@@ -30,8 +30,6 @@ I considered C++ at first. C++ is about as fast as it gets, and is a compiled la
 
 It is important to note that the program in question was doing a lot more than just the data collection via SPI interface with an ADC component. There were user inputs, data displays, etc. It was to be a highly concurrent program.
 
-{{< cta1 >}}
-
 ## What is SPI?
 
 ![Master Slave SPI](/img/800/1_5WD0gV6autEIzv8GMkc5gQ.png)
@@ -40,6 +38,8 @@ SPI stands for serial peripheral interface. I don’t want to get too far off tr
 
 [SPI Protocol Details](http://www.circuitbasics.com/basics-of-the-spi-communication-protocol/)
 
+{{< cta1 >}}
+
 ## My Environment
 
 - Device: Raspberry Pi 3B (We used the compute module for production)
@@ -47,8 +47,6 @@ SPI stands for serial peripheral interface. I don’t want to get too far off tr
 - Remote Editing: [Check out this tutorial to edit code on the pi using VS Code remotely](https://blog.technologee.co.uk/remote-editing-using-vs-code/)
 - Hardware: Breadboard, jumper wires, an ADC that uses an SPI interface
 - OS: [Raspbian](https://www.raspberrypi.org/downloads/)
-
-{{< cta2 >}}
 
 ## Implementation
 

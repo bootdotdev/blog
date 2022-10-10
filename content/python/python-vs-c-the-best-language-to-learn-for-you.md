@@ -52,8 +52,6 @@ However, Python comes with the nickname "batteries included" for a reason. The a
 
 Overall, Python comes recommended as a beginner language because it’s readable and supportive, while C++ comes recommended as an intermediate language and for those who already understand the basics of computer science.
 
-{{< cta1 >}}
-
 ## Python vs C++ Salary
 
 As far as salary goes, you can’t go wrong with either language.
@@ -63,6 +61,8 @@ Both Python and C++ sit at the higher end of the spectrum, with developers [earn
 According to the same survey, C++ ranks in the top 10 of the most dreaded programming languages by developers, while Python sits in the top of three of the most loved languages and number one for most wanted.
 
 Overall, Python seems to have a more desirable repertoire amongst developers and earns just as much as C++. It’s important to note though that these languages are **not** interchangeable, so you need to consider the job you want to do as well.
+
+{{< cta1 >}}
 
 ## Python vs C++ Performance
 
@@ -79,8 +79,6 @@ However, I don’t believe performance is synonymous with speed, and where C++ i
 Python’s robust structure may weigh down speed, but it allows it to handle big data and huge programs with ease. Its performance advantage lies in its strength and security, whereas C++’s lies in flexibility and speed.
 
 You see this in their applications as well, where Python is typically used for handling CPU-intensive programs and C++ is used more for graphic-heavy software.
-
-{{< cta2 >}}
 
 ## Python vs C++: Which Is Best for Building Web Servers
 
@@ -101,6 +99,8 @@ C++ is capable of building web servers, incredibly fast ones at that, but C++ is
 However, it still has powerful tools like the Techempower and Drogon web frameworks for building web servers.
 
 All in all, speed is not as much a priority when designing web servers as security is, and to build with C++ you need to be incredibly confident with the language. Plus, if you want to work in this field learning Python is an automatic way into the industry.
+
+{{< cta2 >}}
 
 ## Python vs C++: Which Is Best for Machine Learning & Data Analysis
 

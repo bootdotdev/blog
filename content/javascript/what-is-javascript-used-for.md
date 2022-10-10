@@ -32,8 +32,6 @@ JavaScript is widely known for making the Internet pretty. There are a lot of gr
 
 You may remember the [New York Times’ visual coverage](https://www.nytimes.com/interactive/2021/world/covid-cases.html) of the global Covid-19 outbreak, like this one. Americans alone use 4.2 million GB of internet data every single minute. Big data is here to stay, and in order to make sense of all of this data, we need data visualizations. There are so many different ways to visually represent data, from a simple pie chart to heatmaps of electricity sources. JavaScript is a must-use web development programming language for visualizing complex data sets.
 
-{{< cta1 >}}
-
 ## Web Server and Server Applications with JavaScript
 
 What is JavaScript used for, other than the frontend web? Well, the Node.js framework is used to create server-based applications. Node.js enables JavaScript code to be run on the server. The results are then downloaded and displayed in the browser. Node.js also has an HTTP module that can be used to build an HTTP server. Node.js was designed to build scalable server applications.
@@ -41,6 +39,8 @@ What is JavaScript used for, other than the frontend web? Well, the Node.js fram
 The Node.js environment can be run on OS X, Windows, and Linux. It also includes a bunch of Javascript libraries, which allow developers to leverage open source components and tools to get their applications built faster. Unlike other server-side platforms, like the Apache HTTP server, Node.js is a single-thread server. It is also, however, completely asynchronous. All of Node.js’s associated libraries are also asynchronous. This takes away the headache of developing a thread-safe program, and you don’t have to mess around with locks.
 
 Some people make the argument that Java is better for the backend, but in my experience, Node.js can be just as performant than Java on the server-side, especially since a Java server uses 2MB of RAM just to create a thread. You could have hundreds of thousands of threads if your website is popular or users are doing a lot at the same time, and those 2MB of RAM per thread can quickly add up. [Node.js is superior when it comes to delegation](https://www.infoworld.com/article/2621690/javascript-conquers-the-server.html), as it is able to handle tons of requests on a single thread. Since Node.js is a single-threaded server, RAM usage isn’t nearly so much of a concern.
+
+{{< cta1 >}}
 
 ## Mobile Apps with JavaScript
 
@@ -50,8 +50,6 @@ So many of the popular JavaScript mobile app development frameworks are intended
 
 By using JavaScript’s service workers, you can optimize how your mobile app (or web app) behaves with a slow or no internet connection by maximizing the use of the cache and storing network requests. A great metric to follow is how long it takes to get meaningful content on the screen for the user. You want to create a great experience for your users, regardless of how good their internet connection is. You can use the service worker API with Node.js to reliably and instantly load your app’s content onto the screen.
 
-{{< cta2 >}}
-
 ## Machine Learning with JavaScript
 
 And other than those three uses, what is JavaScript used for? Although Python tends to dominate the machine learning stage, there is a growing group of developers that choose to implement machine learning models using JavaScript. The famous Python machine learning package TensorFlow also has a JavaScript version, TensorFlow.js. TensorFlow.js can be used to develop machine learning models and makes machine learning models directly available in the browser or on the backend, using Node.js.
@@ -59,6 +57,8 @@ And other than those three uses, what is JavaScript used for? Although Python te
 The classic way in which machine learning developers make their models available is by having them run on a server and allow requests and share results via an API. There are several situations, however, where it is advantageous to run the model on the end user’s device. For example, the model that recognizes the faces of your contacts in the photos that are stored in your phone could be run locally on your device, so your photos remain private and never leave your device.
 
 Another advantage of machine learning with JavaScript is that your [machine learning application](https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/) can run in all modern browsers, which makes it accessible to a lot more people than if they have to set up their development environment to get your Python code running. TensorFlow.js allows you to convert Python TensorFlow models to run in the browser too, so you can take any work you’ve already done there and convert it. There are tons of cool projects that use TensorFlow.js for live tools, like YouTube’s LipSync or this model used to classify [baseball pitch types](https://github.com/tensorflow/tfjs-examples/tree/master/baseball-node).
+
+{{< cta2 >}}
 
 ## Career Possibilities with JavaScript
 

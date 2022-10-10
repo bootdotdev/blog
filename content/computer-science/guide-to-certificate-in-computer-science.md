@@ -26,25 +26,25 @@ It’s tempting to jump right in and just get the certificate in computer scienc
 
 This informal questionnaire gives you the knowledge you need to pick the most efficient certificate that makes sense for you. There are so many out there that could potentially fulfil your needs, so the more you know about your own situation, the better positioned you’ll be to select the right certificate for your needs.
 
-{{< cta1 >}}
-
 ## Step 2: Understand the different types of certificates in computer science.
 
 The great thing about computer science is that there’s no one preferred certificate. This frees you up to select between many options, but it also makes it complicated to choose just one. 
 
 Depending on what you’re after, you will find that certain certificates in computer science will be a better option for you than others.
 
+{{< cta1 >}}
+
 ## The vendor-specific certificate
 
 Many companies offer their own certifications, like AWS, Azure, and Google Cloud Platform certificates. These are essentially companies offering a certificate in computer science but specific to their own products, as a way to promote them. They can be useful, especially if you are dead set on working for one of those vendors, but if you want something more all-encompassing, it’s probably not the best fit.
-
-{{< cta2 >}}
 
 ## The university certificate
 
 Many universities, along with the typical majors and minors, offer the option to certify in a course, like computer science. These will help with an established "brand name" - for instance, Georgia Tech is a respected engineering and computer science school, so a certificate in computer science from them carries weight. 
 
 However, they can sometimes overlap with your existing skill set, meaning you’ll waste time on stuff you already know, or they can be too specialized and complex, not suitable for entry-level computer science hopefuls. They’re also tied to the university’s schedule, so they’re not as convenient as other options here.
+
+{{< cta2 >}}
 
 ## The general knowledge certificate
 

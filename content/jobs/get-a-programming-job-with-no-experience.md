@@ -28,8 +28,6 @@ You see, for you, this may be a breakthrough gig. For your potential employers t
 
 So you know how to code? Good. Learn to **prove it.**
 
-{{< cta1 >}}
-
 ## Personal Projects - A Necessity
 
 So your abilities will speak for themselves in an interview... when a company finally gives you an opportunity to speak. You want those capabilities to be able to talk the ears off any potential employers, but sometimes, even after a glance at your resume and a quick Google, they don't want anything to do with you. It happens - but we have more ways to alleviate that.
@@ -41,6 +39,8 @@ What is it you're coding? Anything. Everything. Any little project that benefits
 Then, when you have it, make a portfolio. Use something like [Github](https://github.com/) to store, document, and display your programs. In fact, Github is perfect for this sort of endeavor, as it is both widely used and easily accessible. Your Github profile itself acts as an online portfolio of your work, and any savvy employers are going to know to check out the profiles of any potential employees before hiring them.
 
 As such, you should make your Github/Gitlab profile - or whatever portfolio you make - as impressive as possible. After all, it's documented proof that you know what you're doing.
+
+{{< cta1 >}}
 
 ## Nail the Resume
 
@@ -54,8 +54,6 @@ According to [Lane Wagner's article on Computer Science resume's for 2021](/comp
 - If a position asks for a specific technology, don’t be afraid to spend a day or two brushing up on the specifics of it
 - Use color to emphasize important points
 - Spell and grammar check
-
-{{< cta2 >}}
 
 ## Going Above and Beyond - Your Online Presence
 
@@ -74,6 +72,8 @@ I made an aside moments ago about tailoring your social media appropriately - do
 This is no different than putting on a suit to go to an interview. **Put your best foot forward.** The other one can hang out with the flamingos.
 
 More to the point: **Google your name.** See what shows up. Tailor your online presence to suit your goals. The internet may be a giant, unwieldy leviathan, but that doesn't mean you can't carve off a piece of it and use it for yourself.
+
+{{< cta2 >}}
 
 ## Get to Work
 

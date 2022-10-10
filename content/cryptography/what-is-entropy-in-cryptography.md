@@ -52,8 +52,6 @@ Again, from the comments:
 
 To sum up, random data is added to an entropy pool **constantly**. This randomness is based on "hard to predict" events within the machine. When a user desires randomness, a [hash](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) is taken of the entropy pool and the result is supplied to the user. When we call any secure randomness function on a Linux machine, we are likely using this driver or one very similar to it.
 
-{{< cta1 >}}
-
 ## How much entropy is needed for a computer?
 
 A Linux machine that has sufficient entropy in its pool will usually contain `4096` bits of randomness. This is more than enough for several secure calculations to be performed. For perspective, a very strong private key typically contains `256` bits of entropy. If you want to see how much entropy your Linux machine currently has available, you can use the following command:

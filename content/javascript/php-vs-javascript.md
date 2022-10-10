@@ -48,8 +48,6 @@ PHP is also easy to learn, with its peculiarities being easy to understand, espe
 
 Overall, PHP gets a point for simplicity, which beginners will enjoy, but JavaScript also earns a point because the payoff is substantially better in terms of career and useability.
 
-{{< cta1 >}}
-
 ## PHP vs JavaScript Salary
 
 When looking at salary, I also like to examine how the languages are received on a personal level by developers. Money is all well and good, but the quality of life is just as important.
@@ -66,6 +64,8 @@ From these figures, it tells me that PHP earns decent money, the market simply i
 
 If you're interested in future-proofing your career, PHP may not be the choice.
 
+{{< cta1 >}}
+
 ## PHP vs JavaScript Performance
 
 Performance is always a subjective area, especially when comparing opposites like JavaScript and PHP. However, if we’re taking performance at face value and focusing on speed, then JavaScript takes the cake.
@@ -77,8 +77,6 @@ And if you want to take it a step further and even out the playing field, JS’s
 PHP, on the other hand, is identified by a multi-threaded, I/O blocking model, and is synchronous, so only one line of code can run at a time and must be completed before starting the next. Some argue that in lieu of performance, PHP is more stable than JavaScript, which may have some ground if you’re comparing it to JS for frontend development, but if we’re talking about Node.js, it holds more like a rumor.
 
 Either way, JavaScript takes home the point for performance.
-
-{{< cta2 >}}
 
 ## When to Use PHP vs JavaScript?
 
@@ -117,6 +115,8 @@ JavaScript is the only language native to web browsers. It also makes pages more
 It also has a massive community behind it, and for nearly 30 years it has championed this field with developers and businesses alike investing in furthering this language as the frontend language.
 
 Needless to say, there is no comparison when it comes to JavaScript and frontend development, and it indisputably gets the point for this section.
+
+{{< cta2 >}}
 
 ## Which One Should You Learn: The Final Results
 

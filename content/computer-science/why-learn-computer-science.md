@@ -28,8 +28,6 @@ There are a lot of job opportunities for anyone who is learning computer science
 
 Plus, these jobs will stay relevant for the long haul. We’re barely scratching the potential of AI and machine learning. A computer science skill set means employment for life. The flexibility of potential career tracks, combined with the income and future opportunities, make computer science a solid choice to learn.
 
-{{< cta1 >}}
-
 ## 2. You don’t need a college degree
 
 Why learn computer science, especially if you’ve already got a degree in something unrelated? Plenty of folks worry that it's too late for them to learn computer science. They think that if they don't have a college degree, they may as well not bother. But nothing could be further from the truth.
@@ -40,6 +38,8 @@ This means that even if you studied biology, or didn't get a degree at all, ther
 
 For example, [this](https://www.linkedin.com/jobs/view/software-engineer-front-end-at-data%2B-2912019519/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) front-end software engineer job opening looks for "demonstrable experience with building modern web interfaces and improving the user experience" and proficiency in "JavaScript, HTML, CSS." Nowhere is a degree mentioned. That’s one of the strongest arguments for why learn computer science.
 
+{{< cta1 >}}
+
 ## 3. Engage your creative side
 
 When you think of computer science, you probably think of the analytical "right-brain" or people typing quickly into keyboards while sitting in the dark. But computer science is a very creative discipline. It requires a lot of flexible thinking when it comes to coding, and the inherent problem-solving present in any computer science task also requires a lot of analytical thinking.
@@ -48,13 +48,13 @@ A computer scientist will experiment, think about the problem, and finally enter
 
 Painters and writers get a lot of creative credit. Computer scientists deserve as much, if not more. When you ask a computer scientist, "Why did you choose to study computer science?" many will mention the joy of creativity before anything else.
 
-{{< cta2 >}}
-
 ## 4. The basics unlock potential
 
 When I studied biology, they regularly updated the textbooks and curriculum to keep abreast of the latest discovery or advancements. (CRISPR, anyone?) The really fascinating thing about computer science is that the fundamentals rarely change because it's basically just an extension of math. Like Newtonian physics, as [one](https://qr.ae/pvYzUe) Quora responder put it, computer science fundamentals simply don’t need to be updated. And yet new applications of the fundamentals are discovered practically every day. Why learn computer science? Because one set of skills will see you through your entire career.
 
 In many jobs, your hire-ability depends on your ability to know how to use the latest tech. With computer science, knowing the basics will give you everything you need to continue being successful in perpetuity. Yes, new frameworks or languages will crop up every now and again, but for the most part, your familiarity with Big-O algorithms and object-oriented programming will see you through.
+
+{{< cta2 >}}
 
 ## 5. Learn practical skills
 

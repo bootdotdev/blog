@@ -25,8 +25,6 @@ Which should be used? A password or passphrase?
 
 This XKCD comic does a good job of explaining the difference between passwords and passphrases. A password is easier for a computer to guess (less entropy), and also is much harder to remember! There is NO REASON we should be using passwords. If you are an application developer, especially an app developer writing you backend in Go, take a look at [go-password-validator](https://github.com/lane-c-wagner/go-password-validator). It will give users full control so they can create strong passphrases.
 
-{{< cta1 >}}
-
 ## Entropy
 
 You may have noticed in the comic that the example password has 28 bits of entropy while the passphrase has 44. Entropy just means the number of possibilities that an attacker would need to guess in order to crack a password or passphrase.
@@ -44,6 +42,8 @@ The chart below gives a rough idea of how long a given password or passphrase wi
 ![password chart ](/img/800/rhdADIZYXJM2FxqNf6UOFqU5ar0VX3fayLFpKspN8uI.png)
 
 [entropy chart](https://www.reddit.com/r/dataisbeautiful/comments/322lbk/time_required_to_bruteforce_crack_a_password/)
+
+{{< cta1 >}}
 
 ## How to Remember
 

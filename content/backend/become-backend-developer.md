@@ -29,13 +29,13 @@ Some of the most common job titles for programmers include:
 
 According to Stack Overflow's last [developer survey](https://survey.stackoverflow.co/2022/#salary-united-states), backend developers in the US tie for the highest median salary of this group: **$150,000**. If you enjoy working on problems that involve algorithms, data structures, natural language processing, databases, or distributed systems, then backend development might be for you.
 
-{{< cta1 >}}
-
 ## Can I really learn back-end by myself?
 
 Many people assume that because backend developers typically need to have a better understanding of computer science fundamentals, that's it's harder to get an entry-level backend position, and as a result, they start educating themselves on front-end technologies. **I think this is a mistake.**
 
 Just because CS *skills* are often a requirement for backend positions, it's almost never the case that a CS *degree* is required. If you take the learning path I outline below, there's no need to go back to university.
+
+{{< cta1 >}}
 
 ## The Learning Path - How to Become a Backend Developer
 
@@ -159,8 +159,6 @@ The big secret to landing a backend job as a self-taught developer is to build a
 
 Once you've done that *start applying to jobs*! Use every job board you can find, and try to apply only to jobs that are specific to your area of expertise - e.g. "backend go developers". Try to find niche job boards if they exist, I really like the [Golang cafe](https://golang.cafe/), for example.
 
-{{< cta2 >}}
-
 ## Further learning
 
 Most importantly, *do not stop learning and building*!!! I've seen so many developers think that they've successfully "learned to code", and they shift gears entirely to their job search. Look, it only takes an hour or so each day to submit a bunch of job applications. You should be spending the rest of your free time continuing to build. The more you learn and build, the easier the job search gets.
@@ -184,6 +182,8 @@ Most importantly, *do not stop learning and building*!!! I've seen so many devel
 * Cryptography
 * Load balancers
 * Distributed systems
+
+{{< cta2 >}}
 
 ## My favorite backend programming languages
 

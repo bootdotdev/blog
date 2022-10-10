@@ -48,8 +48,6 @@ JavaScript is a highly versatile and compatible language with the Just-In-Time (
 
 In a nutshell, C# is good for beginners because it’s easy to learn, but JavaScript holds more opportunities in terms of employment and versatility.
 
-{{< cta1 >}}
-
 ## C# vs JavaScript Salary
 
 C# and JavaScript rival each other when it comes to salary, with U.S. JavaScript developers [earning $112k a year](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states), and C# developers earning 110K.
@@ -57,6 +55,8 @@ C# and JavaScript rival each other when it comes to salary, with U.S. JavaScript
 Salaries aside, they also rank highly in terms of personal preference. According to the same Stack Overflow survey, JavaScript ranks high above C# as the second most wanted language by developers, and C# ranks 1% more than JavaScript for most loved.
 
 Overall, there’s a stronger demand for JavaScript and it earns more than its competitor, but C# seems to hold a stronger fondness amongst developers.
+
+{{< cta1 >}}
 
 ## C# vs JavaScript Performance
 
@@ -75,8 +75,6 @@ If we’re focusing on their performance based on a similar element, like server
 All in all, each language’s performance depends on multiple factors like the tools being used, the type of project, and the size of the project.
 
 However, one certain aspect is C# will offer better performance for Windows applications, because that’s C#’s core function, while JavaScript delivers peak frontend performance for the same reason.
-
-{{< cta2 >}}
 
 ## C# vs JavaScript for Web Development
 
@@ -97,6 +95,8 @@ Oppositely, C# does not support front-end development. C# specializes in backend
 The kicker, however, as we know, is that C# was made by Microsoft for Microsoft, which hampers it from having the same well-rounded web development approach as JavaScript.  
 
 Essentially, if you’re planning on focusing on Windows backend development, then C# is a no-brainer, but JavaScript is quintessential to this field, and if you want to work in it, then there’s no avoiding JavaScript’s importance.
+
+{{< cta2 >}}
 
 ## C# vs JavaScript for Game Development
 

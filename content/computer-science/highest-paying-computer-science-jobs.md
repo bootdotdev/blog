@@ -47,8 +47,6 @@ Let's jump into each role and see what makes them worth their salaries, the [fut
 
 The job titles listed here are, for the most part, very different. If you are planning on applying to two or three different kind of jobs, you should also have two or three [distinct resumes](/computer-science/computer-science-resumes/) you use. Each resume can be tailored to the specific job posting.
 
-{{< cta1 >}}
-
 ## Engineering Manager - $152,000/yr
 
 With great responsibility, comes a great salary. I believe Uncle Ben said that. As you can imagine, one way to earn more than the average developer is to manage an entire team of developers. At larger companies, candidates will likely need over ten years of experience to break into management, but at smaller companies, the rules are more flexible, with developers with as few as 5 years able to move into a higher leadership position. With that in mind, smaller companies also often don't pay quite as well, with compensation often tied directly to the performance of the company as a whole.
@@ -63,6 +61,8 @@ With great responsibility, comes a great salary. I believe Uncle Ben said that. 
 - Manage various competing demands to meet internal targets
 - Plan effectively to consistently meet commitments made to customers and executives
 - Recruit and retain a growing team of top-tier engineers
+
+{{< cta1 >}}
 
 ## Engineer, Site Reliability - $140,000/yr
 
@@ -82,8 +82,6 @@ If you haven't heard of DevOps, you probably need to get your head out of the sa
 - Test, maintain and improve existing processes
 - Implement, test, and maintain new processes
 
-{{< cta2 >}}
-
 ## Data Scientist or Machine Learning Specialist - $125,000/yr
 
 Artificial intelligence and Machine Learning are at the forefront of many new technologies such as self-driving cars, personal digital assistants (Google Assistant, Amazon Alexa), and even just automated vacuums like the Roomba. Since this field is growing so quickly, it can be hard for employers to find great talent, and competition is fierce. Becoming familiar with common AI algorithms, [heuristics](/computer-science/examples-of-heuristics-in-computer-science/), and frameworks like Tensorflow can be enough to get yourself a job in the industry.
@@ -98,6 +96,8 @@ Artificial intelligence and Machine Learning are at the forefront of many new te
 - Build and maintain data pipelines to keep them stable, performant, and accurate
 - Influence project priorities, deadlines, and deliverables
 - Serve as a key resource to team members on engineering best practices, design, and coding standards
+
+{{< cta2 >}}
 
 ## DevOps Specialist - $125,000/yr
 

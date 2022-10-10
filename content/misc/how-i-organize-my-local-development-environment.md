@@ -25,8 +25,6 @@ I like this setup for several reasons.
 3. I always know exactly where everything is. Back when I was a student, I would forget where I put different projects or snippets, and that hasn't been a problem for me in a long time.
 4. When I'm at work, sometimes I need to work in a few different repositories at the same time. It's really nice to open VS Code at the `namespace` level and see all the projects for the organization.
 
-{{< cta1 >}}
-
 ## How I start new projects
 
 For any new project, the setup process looks something like this.
@@ -37,6 +35,8 @@ For any new project, the setup process looks something like this.
 4. Change the repo settings to auto-delete head branches (I hate branch-creep)
 
 Because I usually work in Go, I then setup some boilerplate. I have an [entirely separate post](/golang/golang-project-structure/) on that process, so you can check that out if you're interested in Go-specific boilerplate.
+
+{{< cta1 >}}
 
 ## How I develop locally - some of my favorite tools
 
@@ -62,8 +62,6 @@ I primarily work in Postgres and ElasticSearch currently. For Postgres admin man
 For the last few years, I've worked primarily on a Macbook Pro with the latest versions of Mac OS. Occasionally I'll use [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) & Ubuntu when I'm on my gaming PC though. The Windows Subsystem for Linux is a lifesaver, I can't stand the Windows command line.
 
 I almost always deploy using Docker on a Linux server (Debian typically), so my local environments of Mac OS and Ubuntu are usually pretty damn close to what's going on in production. I'm usually not writing code that interacts too heavily with the operating system anyhow.
-
-{{< cta2 >}}
 
 ## Bash Profile
 

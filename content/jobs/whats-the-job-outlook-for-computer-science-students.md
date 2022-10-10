@@ -27,8 +27,6 @@ Programming jobs vary in their educational requirements. Depending on the positi
 
 In some cases it may be beneficial to seek out internships or to consider a [*coding bootcamp*](https://blog.boot.dev/jobs/is-coding-bootcamp-worth-it/) in order to gain the coding knowledge necessary to be hired for a job. When it comes to the level of education needed, make sure you research what the specific position you're interested requires. For example, machine learning specialists may require more formal training that front-end developers.
 
-{{< cta1 >}}
-
 ## So what are the career options in computer science?
 
 This isn't a comprehensive list of *all* your job title possibilities if you choose to study computer science, but I think I've hit all the big ones.
@@ -134,6 +132,8 @@ Business Intelligence Analysts review data in order to track trends and understa
 Becoming a Business Intelligence Analyst requires a strong knowledge of data collection protocols and software. Analysts require proficiency in programming languages such as SQL, Python and Hadoop.
 
 Salary on Average: [*$125,000*](https://survey.stackoverflow.co/2022/#salary-united-states)
+
+{{< cta1 >}}
 
 ## So, is computer science a good career option for you?
 

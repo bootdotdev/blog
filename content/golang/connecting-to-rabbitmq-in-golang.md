@@ -21,8 +21,6 @@ The two main entities to be aware of with Rabbit are `routing keys` and `queues`
 
 The subscribing service (the consumer) can pull messages off of a queue one at a time. It's worthwhile to note that a queue can also receive messages from multiple routing keys, but we won't be diving into that here.
 
-{{< cta1 >}}
-
 ## Connecting With Go
 
 First things first, there's no reason to reinvent the wheel. We'll use the [amqp](https://godoc.org/github.com/streadway/amqp) package provided by streadway to handle the nitty-gritty of the connection details.
@@ -76,7 +74,7 @@ func (conn Conn) Publish(routingKey string, data []byte) error {
 
 The purpose of this small internal package is to set some defaults for the more powerful AMQP package and control which functionality is exposed to our app. For example, if we know that our app will always use the `events` exchange and we want the `mandatory` or `immediate` flags set we can just do so here.
 
-{{< cta2 >}}
+{{< cta1 >}}
 
 ## Consuming
 

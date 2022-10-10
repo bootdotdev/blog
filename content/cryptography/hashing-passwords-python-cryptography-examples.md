@@ -24,8 +24,6 @@ To demonstrate the potential dangers, let us assume we DON'T hash passwords on a
 
 Now the attacker can go to other websites, and because a majority of people reuse passwords on different websites, they can hack other systems.
 
-{{< cta1 >}}
-
 ## Solution - Hashing
 
 A [hash function](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) (or more specifically in our case, a [key derivation function](/cryptography/key-derivation-functions/)) deterministically creates a strong key from a password. Because hashes are one-way, the attacker can't re-create the plaintext password from the hash. Now the attacker would find something like this in the database:

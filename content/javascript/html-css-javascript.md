@@ -50,8 +50,6 @@ The main three languages used in web page development are HTML, CSS, and JavaScr
 
 > HTML provides the structure, CSS provides the presentation and formatting, and JavaScript makes the elements dynamic and controls their behavior.
 
-{{< cta1 >}}
-
 ## HTML, CSS & JavaScript: What do they do?
 
 HTML gives structure to web pages using each different element, and can also affect font, color, hyperlinks, and images. HTML files have either `.html` or `.htm` extensions when stored.
@@ -115,6 +113,8 @@ JavaScript can then be added to bring these styled pages (via the CSS) pages to 
 
 You can create more complex calculators fairly easily by adding more elements within a JavaScript function, such as developing an interest rate calculator based on inputs of the original starting amount invested, based on a certain interest rate, and based on a certain amount of time. 
 
+{{< cta1 >}}
+
 ## HTML vs CSS vs JavaScript: Which is easier to learn?
 
 HTML is much easier to learn than JavaScript and is considered the easiest language to learn. You can learn most of HTML from a complete beginner level to coding your own (basic) HTML in just a day or two, but just knowing HTML won't land you a coding job.
@@ -141,13 +141,13 @@ A quote from [this art](https://ischool.syr.edu/why-html-is-not-a-programming-la
 
 Therefore, without programming logic, some do not consider it a programming language. Nevertheless, when you write in HTML you are still coding, and HTML5 brings a wealth of new extras like geolocation and multimedia to web page design, so HTML’s importance shouldn’t be questioned, whether you agree or disagree with it being a programming language.
 
-{{< cta2 >}}
-
 ## Differences between HTML, CSS and JavaScript, and how they work together
 
 HTML can combine JavaScript within scripts that convert HTML's static form into dynamic content by modifying the web page contents without reloading the page. However, the reverse cannot occur. JavaScript doesn't really embed HTML.
 
 HTML tells the web page what it should display rather than how it should display it, whereas JavaScript instructs the web page on how exactly the data and content should be displayed. 
+
+{{< cta2 >}}
 
 ## HTML vs JavaScript: Browser compatibility
 

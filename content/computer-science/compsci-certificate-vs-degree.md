@@ -22,8 +22,6 @@ The good news is that in 2021, many of your potential future employers won’t c
 
 The question now becomes which works best for you when looking at the difference between a certificate or a diploma. Let’s look at the pros and cons of a degree versus a certificate when you’re trying to get a programming job.
 
-{{< cta1 >}}
-
 ## Actually, what's the difference between a certificate or a diploma in computer science?
 
 You might look at both and think there's no real difference between a certificate or a diploma: they both give you a piece of paper saying you spent _time_ and _money_ to learn _something_. The difference between a certificate or a diploma in any field comes down to the scope of those three characteristics: time, cost, and specificities. Computer science degrees and certificates are no different.
@@ -32,6 +30,8 @@ A degree, as you probably know, is broad. It takes a lot of money and a lot of t
 
 An [online certificate](/computer-science/guide-to-certificate-in-computer-science/), meanwhile, is narrower in scope. It costs some time and some money to complete, and you get a more specific set of skills and experiences in return. There are certificates at every level: for beginners like me with SQL, all the way to certifying you for a very particular and specialized skill.
 
+{{< cta1 >}}
+
 ## Do you know exactly what you want to do in your programming job? 
 
 When I set out to get my job, I had only a very vague idea of what I wanted to do. I only knew it was pretty entry-level and would require some coding knowledge. I noticed many of the job listings I was looking at, no matter what the job title said, had requirements that the applicant is familiar with a few programming languages like SQL, Python or R, so I ended up picking SQL as I already knew some R. 
@@ -39,8 +39,6 @@ When I set out to get my job, I had only a very vague idea of what I wanted to d
 If you have a more specific idea than me, like you know you want to be a data scientist or that you want to be a front-end engineer, you’ll have an easier time than I did picking a course to complete for a certificate. This is a much more highly specialized knowledge that you can use to prove your worth to employers.
 
 If you’re still unsure and just know you want something programming-related, it’s worth spending some time deciding what it is you want to do before launching yourself into a degree or a certificate. You can do something similar to what I did, and look at several [CS job descriptions](/computer-science/highest-paying-computer-science-jobs/) to see what universal skills would be handy to have or talk to any programmers you know today to see what they’d say. It might even be worth doing an "Intro to X" type course before you sink time and cash into a degree that might not end up being your passion.
-
-{{< cta2 >}}
 
 ## How much time and money do you have to learn computer science?
 
@@ -51,6 +49,8 @@ If you do, however, there are definitely advantages. Getting a degree, even if i
 That being said, especially this past year has taught us that it is possible to build any kind of community online, even [communities for learning to code](/misc/top-12-best-communities-for-learning-to-code/). Plenty of courses that offer certificates are starting to offer more community-based interactions like Slack groups, discord chats, and Facebook groups that make it easy to build relationships with your peers. 
 
 A possible path, if you’re really short on time and money, is to spend some time learning the basics of computer science online, through YouTube videos or even Wikipedia, then tactically choosing courses that will give you a certification in the area that matters most for you for your programming career.
+
+{{< cta2 >}}
 
 ## Do you have any knowledge of computer science basics?
 

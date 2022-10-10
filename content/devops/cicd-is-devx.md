@@ -21,8 +21,6 @@ Tech companies spend *a lot* of money to keep employees happy. Provided the budg
 
 **Good engineers want to automate the boring stuff.**
 
-{{< cta1 >}}
-
 ## People don't quit bad jobs, they quit bad developer experiences
 
 There's a saying:
@@ -32,6 +30,8 @@ There's a saying:
 There's truth there of course, but I for one will quit a job, even if I *do* have a good boss, if I *really hate* the developer experience. Now, I'm also the kind of person that will go to great lengths to *upgrade* the developer experience before quitting, but sometimes there are simply too many roadblocks.
 
 I *really* do not like doing manual tasks that can be easily automated. I do *not* like deploying code. I *do* like merging PRs. I do *not* like pulling down my coworker's 4-line PR so I can run `go test`. I *do* like seeing that the tests passed in the PR.
+
+{{< cta1 >}}
 
 ## Is it worth it to set up automation?
 

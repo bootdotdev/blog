@@ -14,8 +14,6 @@ Earlier in my career, I would come to a new project and inevitably a hectic migr
 
 Let's be clear about something. Migrations are here to stay, and while we can't be rid of them completely, we can learn how to more painlessly execute them. I've put together a small list of guidelines that have helped me cope with migrations, and maybe they'll help you too.
 
-{{< cta1 >}}
-
 ## #1 Get the names right the first time
 
 Naming variables is hard, but naming database keys and API behaviors is much harder. When you name something that other code and systems rely on, you either won't be able to change it in the future, or that migration is going to be excruciating. I have a few rules of thumb [on variable naming](/clean-code/naming-variables/), so I won't rehash all the details here. That said, here's a tl;dr.
@@ -32,6 +30,8 @@ Naming variables is hard, but naming database keys and API behaviors is much har
 
 I'll mention one more that I've been thinking about recently. Just because product or marketing decided that your users are going to be called "friendly huggy bears", doesn't mean you should riddle your code with that name. If there is a more "standard" way to name an entity in your system, that might just be a good idea. Marketing teams are always changing their minds about what to call stuff. If they give you a ridiculous display name for something, maybe use a more descriptive and generic name in the code instead.
 
+{{< cta1 >}}
+
 ## #2 Frameworks vs tools
 
 Migrating from a simple tool, like [moment.js](https://momentjs.com/) or [date-fns](https://date-fns.org/), is fairly easy. Migrating a single-page app from React to Vue is nearly impossible. In fact, you might as well just start over.
@@ -40,13 +40,13 @@ I'm not saying to _never_ use frameworks, that would be hypocritical of me since
 
 Use small tools and libraries over frameworks wherever possible. It's the [Unix philosophy.](https://en.wikipedia.org/wiki/Unix_philosophy)
 
-{{< cta2 >}}
-
 ## #3 Database features are a slippery slope
 
 Forget about changing a database schema for a second, the only thing worse than that is actually changing databases entirely. Moving from MySQL to Postgres may not be so bad, but try moving from Mongo to MySQL - it's not always an easy task. I understand that when you need to push your database to its limits, you may need to take advantage of ElasticSearch's percolate queries or Postgres's partial indexes. If you can do without however, using a smaller feature set will make future moves easier.
 
 Think of your database choice as a tool. If you aren't careful, that tool will morph into a more invasive framework.
+
+{{< cta2 >}}
 
 ## #4 Careful about what you save to disk
 

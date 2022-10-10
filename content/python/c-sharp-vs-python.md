@@ -22,8 +22,6 @@ C#, on the other hand, was developed in 2000 by Anders Hejlsberg at Microsoft. I
 
 ![](/img/800/pythonvsC.jpg)
 
-{{< cta1 >}}
-
 ## C# vs Python Comparison
 
 ### Which To Learn First? C# vs Python
@@ -119,6 +117,8 @@ Then there’s the useful fact that because Python is so easy to learn, professi
 C#’s also supports machine learning with .NET Core’s machine learning platform, ML.NET, which allows users to infuse their own machine learning models into applications. It’s also supported TensorFlowSharp, an open-source TensorFlow library that’s compatible with C#.
 
 While C# is fine to use in machine learning, it doesn’t have the same backing as Python. Python is literally the cornerstone language of machine learning, and therefore businesses and developers prioritize it in the field.
+
+{{< cta1 >}}
 
 ## C# vs Python: Choosing the Best Language
 

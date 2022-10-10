@@ -26,8 +26,6 @@ If you're looking for an explanation of a different hash function, we may have y
 - [(Very) Basic Intro to the Scrypt Hash](/cryptography/very-basic-intro-to-the-scrypt-hash/)
 - [Bcrypt Step by Step](/cryptography/bcrypt-step-by-step/)
 
-{{< cta1 >}}
-
 ## Hash Functions Scramble Data Deterministically
 
 Think of a Rubix cube.
@@ -46,6 +44,8 @@ Now, if anyone were to see the scrambled version, they wouldn’t know my origin
 
 If a website stores passwords in plain-text (not hashed) it is a huge breach of security. If someone were to hack that site’s database and find all the emails stored with plain-text passwords, they could then use those combinations and try them on other websites.
 
+{{< cta1 >}}
+
 ## No Matter the Input, the Output is the Same Size
 
 If I hash a single word the output will be a certain size (in the case of SHA-256, a particular hashing function, the size is 256 bits). If I hash a book, the output will be _the same size_.
@@ -59,8 +59,6 @@ This is another important feature because it can save us computing time. A class
 When a program stores data in a map, a key and value are given to the map. When a program wants to access the value, it can give the appropriate key to the map and receive the corresponding value. Data maps are good because they can find data _instantly._ The key is used as an address that the computer can find immediately, instead of taking hours searching through millions of records.
 
 Because keys are like addresses, they can’t be too large. If I want to store books in a data map I can hash the contents of the book and use the hash as a key. As a programmer, I can simply use the hash to look up the contents of the book instead of trying to sort through thousands of records by title, author, etc.
-
-{{< cta2 >}}
 
 ## How Do They Work?
 
@@ -112,6 +110,8 @@ Let’s walk through an example algorithm I’m making up on the fly for this de
 > 1011110001001101 → "8sj209dsns02k2"
 
 As you can see, if you start with the same word at the beginning, you will always get the same output at the end. However, if you even change one letter, the outcome will be drastically changed.
+
+{{< cta2 >}}
 
 ## Disclaimer
 

@@ -18,8 +18,6 @@ By removing content they believe to be dubious, Twitter and Facebook have made t
 
 **This is a problem.**
 
-{{< cta1 >}}
-
 ## So we can't censor?
 
 We certainly can, and we certainly should in some cases. Let's get some obvious ones out of the way:
@@ -42,6 +40,8 @@ George Orwell, 1984
 That said, I certainly want an online system where hate speech and misinformation are effectively filtered out of the conversation. Ideally, every online participant would be a virtuous, educated, and concerned conversationalist. If that were the case, undesirable posts would effectively be ignored due to not receiving the likes, shares, upvotes, and comments they need to spread.
 
 In reality, we can't take such a pacifistic approach. We need to [protect our gardens](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism) a bit more.
+
+{{< cta1 >}}
 
 ## What should social networks do about misinformation?
 
@@ -66,8 +66,6 @@ By removing misleading content, platforms run the risk of fueling an [argumentum
 > But the fact that some geniuses were laughed at does not imply that all who are laughed at are geniuses. They laughed at Columbus, they laughed at Fulton, they laughed at the Wright brothers. But they also laughed at Bozo the Clown.
 > 
 > \- Carl Sagan, Probably
-
-{{< cta2 >}}
 
 ## What should users do about misinformation?
 

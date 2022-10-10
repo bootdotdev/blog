@@ -35,8 +35,6 @@ While a degree is tough to balance with a job or life, it’s possible. Coding b
 
 Furthermore, coding bootcamps are specialized. Should you learn Go or Python? A computer science degree would give you a solid foundation with experience in many languages and technologies, while a bootcamp will instead focus on a single path to an entry-level job, even if that means cutting corners and making it harder for you to progress in the future. A coding bootcamp will cost you the option of learning other languages or skills, because you have to commit to a single topic early on. Most coding bootcamp students lack the fundamental knowledge to make the right decision.
 
-{{< cta1 >}}
-
 ## Is a coding bootcamp worth it?
 
 Honestly, it depends what you want. If you’ve done your research, and you’re dedicated to supplementing the streamlined education you get at camp with some online learning, then yes, a coding bootcamp is probably worth it, even with a high price tag. You can easily justify spending $20,000 and four months of your life to get your [perfect job, paying $100k+ with amazing benefits](/computer-science/highest-paying-computer-science-jobs/) and a fantastic work/life balance.
@@ -44,6 +42,8 @@ Honestly, it depends what you want. If you’ve done your research, and you’re
 If not, then no, a coding bootcamp isn’t worth it for you. You run the risk of spending months and a ton of money on something that might get you an interview, but won’t prepare you for the actual interview’s demands. Worse, you might find yourself in the position of spending that time and money on a specific program, only to realize you actually want to learn a different skill or language.
 
 It all depends on your personal circumstances. It’s also very important to consider the alternatives. If a coding bootcamp were the only path to getting your dream job, then it would be worth any cost. Luckily for you, the employment landscape is very favorable to applicants, which means there are multiple avenues of skill-learning you can use to snag a coding job.
+
+{{< cta1 >}}
 
 ## How much does a Computer Science degree cost?
 
@@ -67,8 +67,6 @@ You run the risk of spending years and a ton of money when you don’t actually 
 
 [Tweet image via @dinoman\_j](https://twitter.com/dinoman_j/status/1371871108392235011) 
 
-{{< cta2 >}}
-
 ## Cheap and quick alternatives to coding bootcamp do exist
 
 If you’ve got this far and neither option is appealing to you, you’ll be glad to know additional alternatives exist. Again, I want to reiterate how open-minded computer science employers are. They don’t care _how_ you got the knowledge or skills. These employers just want to know you have what it takes. A diploma or a certificate from a coding bootcamp is a helpful way to get those skills and prove it, but [there are alternatives](/computer-science/compsci-certificate-vs-degree/) to coding bootcamps and degrees that take less time and money. Is a coding bootcamp worth it? Sometimes the cost is too high.
@@ -80,6 +78,8 @@ The advantages are obvious - it’s free, or very cheap. It’s entirely self-pa
 Plus, you’ll have to do a lot of the legwork proving you’re worth a chance. The diplomas and coding bootcamp certificates do a good job of proving to employers you have knowledge and will get you through to the interview. Being self-taught means you’ll have to find another way to demonstrate your knowledge on your resume to get your foot in the interview door. In that regard, is a coding bootcamp worth it? Yes.
 
 There are also places to get a [computer science certificate online](/computer-science/guide-to-certificate-in-computer-science/) that are much more accessibly-priced than both coding bootcamps and computer science degrees. For example, [boot.dev](https://boot.dev/) is an online computer science learning platform that offers courses in coding fundamentals, computer science basics, Go, practical cryptography, and more. Boot.dev charges on a monthly or yearly basis, which comes to between $144 to $480 for two years’ worth of access. It also hosts a portfolio where you can show potential employers the skills and experience you've gained.
+
+{{< cta2 >}}
 
 ## What's the right choice for me?
 

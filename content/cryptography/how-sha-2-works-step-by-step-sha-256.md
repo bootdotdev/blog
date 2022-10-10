@@ -21,8 +21,6 @@ If you're not familiar with SHA-256, try out the online generator below. Just en
 
 {{< sha256gen >}}
 
-{{< cta1 >}}
-
 ## What is a cryptographic hash function?
 
 Like we mentioned above, a cryptographic hash function generates a "fingerprint" for a given input string. For example, if we were to hash the entire text of JRR Tolkien's "The Lord of The Rings" series using the SHA 256 algorithm, we would get a 256-bit output almost unique to that book's text. If we changed even a single letter in the book, the output hash would be *wildly* different.
@@ -386,6 +384,8 @@ h5 = h5 + f = 01111010010100111000000011101110
 h6 = h6 + g = 10010000100010001111011110101100
 h7 = h7 + h = 11100010111011111100110111101001
 ```
+
+{{< cta1 >}}
 
 {{< cta2 >}}
 

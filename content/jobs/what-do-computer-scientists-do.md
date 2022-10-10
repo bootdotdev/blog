@@ -38,8 +38,6 @@ This is quite a different question: a computer scientist is almost an umbrella t
 
 In reality, the field of software engineering is very open, and depending on what you've learned you can do almost anything. An understanding of key computer science principles like data structures and algorithms opens many career opportunities.
 
-{{< cta1 >}}
-
 ## A day in the life of a computer scientist turned software engineer
 
 I can't speak for every computer scientist, but I'm a back-end software engineer with a degree in computer science. I usually do some version of the following on a daily basis.
@@ -81,6 +79,8 @@ The rest of my afternoon is usually just writing more code, with the occasional 
 | Architecture planning (as needed, not planned) | monthly   | 60 minutes    |
 | Product roadmap planning                       | weekly    | 30 minutes    |
 
+{{< cta1 >}}
+
 ## Some key takeaways
 
 So much about your life as a computer scientist will depend on where you go to work. Here are some of the most common benefits.
@@ -89,8 +89,6 @@ So much about your life as a computer scientist will depend on where you go to w
 * **Work from home.** Increasingly more and more companies are open to fully-remote work.
 * **Good work environment.** Many tech companies are able to raise quite frankly insane amounts of capital. Because they're interested in retaining top talent, they often have cool amenities. For example, I've had office ping pong tables, massage chairs, catered meals, gyms, etc.
 * [**Good pay.**](/jobs/how-much-do-software-engineers-make/) Companies are still having a hard time finding good talent.
-
-{{< cta2 >}}
 
 ## What kinds of jobs can I get as a computer scientist?
 
@@ -118,6 +116,8 @@ As computer science breaks down into smaller categories, so do the jobs. This is
 * **Systems Analyst** - Analyzes computer processes and operations in order to increase efficiency
 * **UX Designer** - Does research and data analysis in order to improve user experience
 * **Web Developer** - Creates websites; making them not only visually appealing and user-friendly but maintaining their performance as well
+
+{{< cta2 >}}
 
 ## How much do computer scientists make?
 

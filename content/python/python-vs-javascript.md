@@ -25,8 +25,6 @@ Now that we have a better understanding of these two languages, we can finally s
 
 **Hot tip:** Functional programming is more than just a paradigm, it’s a way of thinking and approaching coding as a whole. Improving your [functional programming](https://boot.dev/learn/learn-functional-programming) skills make you a better developer and helps you create better applications.
 
-{{< cta1 >}}
-
 ## JavaScript vs Python: Which is Best For Beginners?
 
 Both languages have excellent advantages for beginners, it just depends on what advantages you’re looking for.
@@ -51,6 +49,8 @@ As one of the most used scripting languages, JavaScript comes with respect and i
 
 Beginners and experts alike will benefit from learning either language, depending on what field you want to work in. **If you want to see how easy they are to learn for yourself**, then head over to our free-to-try [intro to JavaScript](https://boot.dev/learn/learn-javascript) or [Python fundamentals](https://boot.dev/learn/learn-python) courses for a quick taste.
 
+{{< cta1 >}}
+
 ## Python vs JavaScript Salary
 
 Learning a new language is great, but it’s important to learn a language that’s going to earn your money back.
@@ -60,8 +60,6 @@ According to the [2020 Stack Overflow Developer Survey](https://insights.stackov
 Along with being well paid, JavaScript ranked number 1 for the most popular language used by developers for the eighth year in a row, and Python ranked number 3. They also ranked highly for most wanted, with Python in spot number 1 and JavaScript just behind in spot number 2.
 
 **Overall,** both Python and JavaScript are the top desired and used languages by developers and offer well-paying careers.
-
-{{< cta2 >}}
 
 ## Python vs JavaScript Performance
 
@@ -80,6 +78,8 @@ Python is strong, stable, and readable, but that also means it’s slower than i
 Python gets its readability from using higher levels of abstractions and has stricter rules around coding, meaning it takes longer to interpret. However, it’s these exact features that make it a safe language for large CPU programs. There’s also no compilation option, so it relies on slower interpreted functions.
 
 It’s not all bad, as Python’s coding time is faster. Because its syntax is so simple, you can code programs much faster than in JavaScript. Python also has implementations like Jython and Cython that aim to increase performance, but overall, it’s still not to the level of JavaScript's V8 engine.
+
+{{< cta2 >}}
 
 ## Python vs JavaScript for Machine Learning
 

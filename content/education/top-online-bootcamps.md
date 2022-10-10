@@ -16,8 +16,6 @@ In the past, you’d need a degree to get a job in computer science. But today, 
 
 A quick distinction: many coding bootcamps are in person. But thanks to the pandemic (and regular convenience) some of the best coding bootcamps are now online. These are often more affordable and flexible. Some coding bootcamps are even part-time.
 
-{{< cta1 >}}
-
 ## What is the structure of an online coding bootcamp?
 
 A good online coding bootcamp will be a mix of instructor-led lessons, independent study, practice assignments, and group projects, much like you’d get at a university degree. The main difference is the speed at which you do these. Many online coding bootcamps require a steep time commitment of full-time work for 13-22 weeks in some cases. (Part-time or self-directed bootcamps range from 20-60 weeks.)
@@ -26,6 +24,8 @@ Online coding bootcamps are also distinct from online learning platforms like [B
 
 They’re also separate from websites like [Coursera](https://www.coursera.org/) that basically offer degrees or certificates through online courses from accredited universities in coding. They’re intense, expensive, time-demanding, and in certain cases, very effective at teaching you to code.
 
+{{< cta1 >}}
+
 ## When is it worth doing an online bootcamp?
 
 They’re expensive and time-consuming. With so many low-cost, flexible learning options available, when is it [worth doing an online bootcamp](/jobs/is-coding-bootcamp-worth-it) in 2022?
@@ -33,8 +33,6 @@ They’re expensive and time-consuming. With so many low-cost, flexible learning
 If you’re someone who struggles with self-guided learning, or if you need a sense of accountability and partnership, an online coding bootcamp will be a good option for you.
 
 Want to know what the top 8 online coding bootcamps are? In the following sections, I’ll include the cost, the duration, the specialty, and why each online coding bootcamp makes the cut.
-
-{{< cta2 >}}
 
 ## 1. AppAcademy.io Online Coding Academy: Job-focused
 
@@ -51,6 +49,8 @@ Since their business model relies on your future employment, this online coding 
 **Duration:** 24 weeks full-time, also part-time offers for 52 weeks. They did not provide an hourly estimate, but 60+ per week is fairly normal for bootcamps.
 
 **Structure:** Mix of pair programming, live lectures, office hours, group projects, and homework.
+
+{{< cta2 >}}
 
 ## 2. Coding Dojo Online Coding Bootcamp: Geared for Beginners
 

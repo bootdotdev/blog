@@ -1,8 +1,14 @@
 # Contributing
 
-Want to publish an article on the Boot.dev blog? You can!
+Want to publish or update an article on the Boot.dev blog? You can!
 
-## Why should you publish on Boot.dev's blog?
+## Editing an article
+
+Editing is really easy - just open a pull request that modifies the articles markdown file. All of the content can be found in the [/content](/content) directory.
+
+## Publishing a new article
+
+### Why should you publish on Boot.dev's blog?
 
 By writing and publishing your ideas publicly, you can:
 
@@ -12,7 +18,7 @@ By writing and publishing your ideas publicly, you can:
 * Gain traffic and domain authority for your own blogs and projects
 * Get helpful feedback on your writing skills from our editorial team
 
-## Style guide and quality standards
+### Style guide and quality standards
 
 We are *very* picky about the quality of articles we publish. Don't be discouraged if your submissions get rejected! Feel free to publish the rejected work on your own blog, and come back and submit to Boot.dev again with new content in the future. Here are some guidelines that will help you as you craft stories for us to accept:
 
@@ -38,14 +44,14 @@ We are *very* picky about the quality of articles we publish. Don't be discourag
 * The Boot.dev version of your article *must* be the canonical version. If you're unsure what this means, do not cross post your content on other sites. You're only allowed to cross post to other sites if you set the canonical URL on those sites to point back to the Boot.dev post.
 * Proof read your article, then proof read it again.
 
-## How to submit your story
+### How to submit
 
 1. Fork this repository into your own Github account
 2. Make changes to your version of the repo
 3. Submit a pull request from your version to the `main` branch on this repo
 4. Wait for approval. All feedback will be given directly in the pull request.
 
-### We use Hugo
+### Using Hugo
 
 We use [Hugo](https://gohugo.io/) as our static site generator. All articles are written in Markdown.
 
@@ -75,11 +81,11 @@ dofollows:
   - "https://mydomain.com"
 ```
 
-## Waiting for approval
+### Wait for approval
 
 We'll usually get back to you quickly, certainly within a few days. We may leave comments on your pull request and ask for changes. If the article is "too far off" in terms of quality, we'll simply give you a rejection message and close the pull request. If that happens, feel free to publish your work elsewhere, and come back to us with different content in the future.
 
-## Getting approved
+### Getting approved
 
 Once approved, we'll merge your pull request! As soon as it's merged, our CI/CD system will rebuild the site and your story will be live. That usually only takes a couple of minutes. If your article is in a file called `my-story.md`, your story will be published at `https://blog.boot.dev/stories/my-story`.
 

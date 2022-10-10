@@ -166,6 +166,8 @@ With such different strengths, the real advantage for experienced programmers is
 
 **Conclusion:** for infrastructure and large systems, Go wins. For creating games, applications and other powerful systems, consider C++.
 
+{{< cta3 >}}
+
 ## Golang vs C++: The final verdict
 
 The final verdict is... it’s up to you!

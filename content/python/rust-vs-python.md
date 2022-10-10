@@ -54,8 +54,6 @@ This is an intriguing aspect for experienced programmers that are familiar with 
 
 **Overall:** Rust lacks that easy intuitive design that makes Python such a clear shout for beginners.
 
-{{< cta1 >}}
-
 ## Rust vs Python Salary: Which is higher paid?
 
 Like most developer roles, both Rust and Python programming jobs pay well.
@@ -65,6 +63,8 @@ According to the [Stack Overflow Developer 2020 survey](https://insights.stackov
 In the same survey, Python was reported as the most wanted by developers, meaning it was the number one language developers wanted to learn, and Rust was voted most loved, but both languages sit at the top in their respective categories.
 
 Essentially, developers love Rust and Python, and in both salary and popularity, there’s no wrong choice.
+
+{{< cta1 >}}
 
 ## Rust vs Python Performance
 
@@ -79,8 +79,6 @@ Rust’s memory management system is also seriously efficient as the code is che
 It’s not all bad for Python though. Some extensions help increase performance, like PyPy and Cython, but they’re better for specific applications.
 
 In the end, Rust’s origin is founded on speed and stability, and it shows.
-
-{{< cta2 >}}
 
 ## Rust vs Python for Machine Learning
 
@@ -103,6 +101,8 @@ Rust lacks the libraries and frameworks needed to manage ML, and tech giants and
 The community truly does make or break a language's potential in any field, because it directly influences the demand and creation of tools to support them. Overall, Python has the intrinsic and communal support to dominate as a machine learning language.
 
 **Hot tip:** Machine learning is essentially algorithms. Algorithms that leverage statistics to learn patterns and behaviors, so the more [advanced you are with algorithms](https://boot.dev/learn/learn-advanced-algorithms) the better your ML skills become.
+
+{{< cta2 >}}
 
 ## Rust vs Python for Data Science
 

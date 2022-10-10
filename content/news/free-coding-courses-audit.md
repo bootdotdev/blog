@@ -21,8 +21,6 @@ If you don't know already, boot.dev is a code-in-the-browser computer science pr
 
 All of these were problems for my wife when I told her, "you don't need to go back to school, you can [learn online](/computer-science/comprehensive-guide-to-learn-computer-science-online/)!". She had problems just knowing where to start with popular course marketplaces and certainly couldn't put together her own curriculum.
 
-{{< cta1 >}}
-
 ## Free computer science courses
 
 Boot.dev now works on a subscription model with a very permissive free tier. With the free plan, you can work through entire courses, you just aren't able to verify your answers without supporting the project. In other words, you can read all the content and execute the code in a sandbox, you'll just have to decide for yourself when you feel like you've mastered a concept.
@@ -30,6 +28,8 @@ Boot.dev now works on a subscription model with a very permissive free tier. Wit
 I like this plan for now for several reasons. Before, since I was charging for courses themselves, my free users would just get a 7-question demo for free, which is practically useless if you can't afford to spend any money. Now I feel like the free tier is quite a bit more useful, and I hope my free users will still support the project by following [boot.dev on social](https://twitter.com/q_vault), sharing my [blog posts](/jobs/how-long-does-it-take-to-learn-to-code), and telling others about the platform.
 
 That said, I think for those that can spare a few bucks a month, the pro plan will be well worth it. Getting instant verification on answers will save students a ton of time, and the ability to take the quizzes will reinforce concepts learned. At this point, [certifications](/computer-science/guide-to-certificate-in-computer-science/) are also only available to pro students simply because they're the only ones that can prove completion, so if you need proof-of-completion for employment purposes you'll want to seriously consider upgrading.
+
+{{< cta1 >}}
 
 ## For just a cup of coffee...
 

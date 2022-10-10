@@ -30,8 +30,6 @@ This project, if it's actually going to accomplish its goals (which I believe ar
 
 Right of the gate I'm bound by the constraint that I need to be able to earn a living wage through this thing.
 
-{{< cta1 >}}
-
 ## So what is Boot.dev's current business model anyways?
 
 I don't think I've gotten this right yet, but at the moment we have a simple way to fund ongoing development: our "membership".
@@ -43,6 +41,8 @@ Signing up, reading *all* the content, and even playing in the code sandbox is *
 * A yearly plan of `$288 / yr`
 
 A membership subscription sill get you access to all the features and content.
+
+{{< cta1 >}}
 
 ## Charging the learners isn't the only way to monetize the platform
 
@@ -85,13 +85,13 @@ I think we'll experiment with this, but I'm a little skeptical, because the ince
 
 There could be a hybrid model where the career placements subsidize the education platform, making the learning portion cheaper while still incentivizing us to provide an amazing experience.
 
-{{< cta2 >}}
-
 ## So what are we going to do?
 
 Well, for now we're going to keep monetizing the way we've been doing it - simple monthly subscriptions. For students who can't afford the price, all of our content can be read for free, and hopefully that's a decent middle-ground solution until we have the bandwidth to try other things.
 
 My priority right now is just getting this thing to a level where I can pay my server costs, my mortgage and my family's expenses without going into the red.
+
+{{< cta2 >}}
 
 ## A final note on the "ideological opposition"
 

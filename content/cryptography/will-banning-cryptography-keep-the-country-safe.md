@@ -31,8 +31,6 @@ However, if they have their way, governments and politicians would undoubtedly h
 
 The practical problem is that the math behind encryption is already public knowledge. Criminals will ALWAYS have the ability to encrypt data securely without backdoors, despite what Congress decides. A bill restricting encryption rights would only serve to put everyone's personal privacy and security at unnecessary risk.
 
-{{< cta1 >}}
-
 ## Fear Mongering
 
 > "If anyone can encrypt and transmit data, criminals will use that technology!"

@@ -48,8 +48,6 @@ It's worth pointing out that once you understand the basics of both Python and R
 
 Additionally, I might be biased, but I found the Python community to be exceptionally supportive. There were tutorials, videos, courses, Slack groups, Discord chats - all sorts of content, in other words - to help beginners pick up the new language. Pythonistas are a cool bunch.
 
-{{< cta1 >}}
-
 ## 3. Ruby vs Python: Which performs best?
 
 No matter whether you're a beginner or an expert coder, you're probably wondering which language performs the best. It may not matter a lot when you're just beginning, but when you want to do something more ambitious and work or as a hobby, the performance of a language will matter.
@@ -59,6 +57,8 @@ I really loved [this post](https://scoutapm.com/blog/python-vs-ruby) by Scout AP
 The author points out that if you're really looking at pure language performance, you probably want a compiled language. In most business cases, solving the problem first ( AKA product-market fit) matters more than Pure Performance. For large-scale web apps, performance comes down to architecture design rather than language choice.
 
 I agree, so I won't pick a winner in terms of performance or benchmarking between Ruby versus python. If you have a specific task in mind, I recommend you check through the post yourself and see the various instances where Python shines over Ruby or vice versa.
+
+{{< cta1 >}}
 
 ## 4. Ruby vs Python: Which is best for web development?
 
@@ -70,8 +70,6 @@ That being said, Python’s web-app framework "Django" is a viable second option
 
 So, Ruby or Python for web development? Both frameworks give you the generic functionalities to build a web application; they help you reuse code which saves you time, money, and energy - pretty much everything you value as a developer. I'd recommend using Django for the same reasons you use Python – if you're relying on machine learning and AI for core features. If you're expecting rapid prototyping, fast growth, and lots of changes down the road, I'd recommend Ruby on Rails.
 
-{{< cta2 >}}
-
 ## 5. Ruby vs Python: Which is best for your career?
 
 Python vs Ruby: the jobs edition. I'd recommend Python to help you get your foot in the door as a developer. However, if you enjoy the rough and tumble of startup life later in your career, learning Ruby and Rails could be extremely valuable.
@@ -81,6 +79,8 @@ As I said above, there are definitely more options out there for people who know
 However, there's a huge demand for specialized Ruby Developers. Remember how many web applications are built using Ruby on Rails? Those aren't going to change anytime soon. And they need experienced Ruby on Rails developers to help them maintain and maybe even grow those websites. That's not even talking about the new web apps that will be built using Ruby on Rails.
 
 [StackOverflow’s survey](https://insights.stackoverflow.com/survey/2021#work-salary) suggests Ruby developers may _currently_ earn a higher salary - the average salary is around $80k, with 11-12 years of experience. Python, by comparison, earns an average salary of $61k with 9-10 years of experience. Interestingly, this may be a remnant of old trends. [Current predictions](https://www.bitdegree.org/tutorials/ruby-vs-python/) looking at job postings, rather than the salary of existing developers, suggest that Python developers earn more than Ruby developers today.
+
+{{< cta2 >}}
 
 ## 6. Ruby vs Python: Which is best for Artificial Intelligence/Machine Learning/Deep Learning?
 

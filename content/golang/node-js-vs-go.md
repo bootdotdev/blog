@@ -36,8 +36,6 @@ Golang’s strength lies in its streamlined concurrency and optimized memory man
 
 Node.js offers JavaScript programmers the opportunity to do back-end web development as well as front-end, widening their skillset, but Golang may be a better option for those that need to learn a powerful back-end language that can scale in the cloud.
 
-{{< cta1 >}}
-
 ## Node.js vs Golang Performance
 
 This is where Node.js and Go’s differences really come into play.
@@ -58,6 +56,8 @@ A report was [released from PayPal](https://medium.com/paypal-tech/node-js-at-pa
 
 **In the end,** Golang has better raw performance and stability, but in a workplace application, they both offer strong benefits.
 
+{{< cta1 >}}
+
 ## Golang vs Node.js: Which Has a Higher Salary?
 
 According to PayScale, Node.js developers earn a median [salary of $91,198 a year](https://www.payscale.com/research/US/Job=NodeJS_Developer/Salary) in the US, and [Go developers earn $117,394](https://www.payscale.com/research/US/Skill=Go_(Golang)_Programming_Language/Salary) a year.
@@ -67,8 +67,6 @@ There are a couple of reasons for such a deviation. The first being Golang is an
 Second, the JavaScript market is completely [saturated with programmers](https://www.theregister.com/2021/04/26/report_developers_slashdata/), whereas Golang is still an untapped market. While JavaScript continues to be one of the most popular languages, Golang is one of the most wanted, so now’s the time to jump in and fill the demand.
 
 Try out our [Go Mastery courses for free.](https://boot.dev/learn/learn-golang)
-
-{{< cta2 >}}
 
 ## Go vs Node: Which Is Best for Web Development?
 
@@ -87,6 +85,8 @@ You can build entire web servers inside Go without the use of any extra framewor
 Go is also compiled into a single static binary, so you can drop the code where needed, whereas the Node.js interpreter needs to be installed on machines to provide an environment for JavaScript to run.
 
 The takeaway, Golang is better for high-scale backend web development as it offers more flexibility and stability when it comes to building web servers, however, if you’re looking to run small projects, or to build front-end code bundles, then Node.js could be a more useful tool.
+
+{{< cta2 >}}
 
 ## Go vs Node.js: Which Is Best for Machine Learning?
 

@@ -19,8 +19,6 @@ _I won't be talking about the differences in job titles among software engineers
 
 Before anyone gets too upset, let me acknowledge that the technical skill level of all software engineers could be divided into as many classes as there are engineers in existence. I'm trying to point out that there seems to be a _great divide_ between those who have taken the time to learn algorithms, data structures, and higher maths, and those who took an 8-week crash course in web development.
 
-{{< cta1 >}}
-
 ## Stop gatekeeping
 
 ![](/img/800/i-am-the-gatekeeper-41079851.jpg)
@@ -33,6 +31,8 @@ My goal is to articulate the importance of _continuing education_, even after ge
 
 I also want to point out that I don't think the distinction between the two classes lies simply in a gap of knowledge. Being a "computer scientist" is more about how you approach and embrace learning and less about what you know today. You'll never know all there is to know about an industry as massive as the software industry, but the way you go about learning (or not learning) is what will make you successful.
 
+{{< cta1 >}}
+
 ## But why? I can make six figures without inverting binary trees
 
 It's true that both kinds of software engineers earn similar salaries in their early careers (see [here](https://www.coursereport.com/2020-guide-to-coding-bootcamps-by-course-report.pdf) and [here](https://www.naceweb.org/job-market/compensation/computer-science-grads-projected-to-be-top-paid-in-major/)). In fact, often when people take the university route (I don't always recommend that these days) to learn CS, they have a hard time finding their first job because they never became familiar with modern tools and technologies. Maybe they didn't even learn how to use Git. The difference is that people that started on a "computer science" path will have an easier time learning React, Django, Rails, you name it. On the other hand, those that took a "developer" short-cut will have a harder time figuring out how to scale a moderately complex system if they don't understand Big O.
@@ -41,13 +41,13 @@ In other words, it's easier to learn the fundamentals and _then_ the high-level 
 
 Over time, and often as soon as the first year of employment, "computer scientists" tend to move towards more fulfilling and well-compensated work, whether that’s well-funded open-source projects, technical leadership, or mission-critical commercial systems. "Developers" tend to continue doing what they've always done, learn a new framework, use an ORM to make simple database queries, or render information in a browser using a tool someone else made.
 
-{{< cta2 >}}
-
 ## Demand won't always be higher than supply
 
 Currently, the number of people needed in software engineering is still [rapidly increasing](http://econdataus.com/claim400k.htm), but (anecdotally, and if anyone has good data on this please let me know) it seems when I talk with entry-level engineers that they're having an increasingly hard time landing a _first job_. With greater competition at the junior levels, it seems more and more apparent that "get-rich-quick" paths [don't often produce the best results](/jobs/getting-a-job-after-coding-bootcamp-is-hard/).
 
 If you're still struggling to find your first job, are wanting to take your career up a level, or you're simply looking for more job security, taking the time to learn more advanced and specialized subjects is the best path.
+
+{{< cta2 >}}
 
 ## How can I become a "computer scientist"?
 

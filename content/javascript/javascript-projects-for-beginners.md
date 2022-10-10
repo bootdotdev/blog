@@ -74,8 +74,6 @@ I don't know about you, but I definitely had an angry bird phase. If you've ever
 
 It's definitely one of the longer tutorials - this one goes on for nearly three hours. But it's super well-organized and laid out, so you won't only have a really cool game at the end of it, you'll really understand a lot of the underlying principles of JavaScript. 
 
-{{< cta1 >}}
-
 ## Section 2: Vue.js JavaScript Projects for Beginners
 
 There are so many different frameworks you can use that do very similar or overlapping things in JavaScript. Vue.js is one of them. Vue.js is great for making applications and interactive user interfaces.
@@ -121,6 +119,8 @@ A great way to learn to code JavaScript for beginners is to create clones of thi
 When I was eighteen, I moved to England and found that everybody there uses Celsius. Did I know what 18 degrees C felt like? Absolutely not. This confusion led to me dressing either very warmly or very coldly for the weather. (I could have Googled it, but I was lazy.)
 
 This temperature converter website tutorial could have saved me that pain. I love [this tutorial](https://www.codementor.io/projects/web/temperature-converter-website-atx32dy7mf), because it will show you several different solutions that other developers implemented, what tools they used, and how they did it. If you're more interested in mobile apps, you can see the [tutorial](https://www.codementor.io/projects/temperature-converter-mobile-app-atx32h5e71) on how to build a temperature converter there instead.
+
+{{< cta1 >}}
 
 ## Section 3: Angular JavaScript Projects for Beginners 
 
@@ -169,8 +169,6 @@ Having a personal blog is something I am very passionate about. I believe anybod
 [This](https://soshace.com/how-to-create-a-personal-blogging-website-part-2/) [tutorial](https://soshace.com/how-to-create-a-personal-blogging-website-part-2/) walks you through creating the front end of a personal blog. It's a little beyond what I would consider beginner, but it's still a great passion project. It's something you can work on more than one, with no real end date. You can also use your personal blog as a portfolio of sorts.
 
 The style of this written tutorial assumes that you don't know anything. That's why I like it for beginners, even though creating the front end of your blog is pretty advanced. 
-
-{{< cta2 >}}
 
 ## These seventeen JavaScript projects for beginners are a good place to start
 

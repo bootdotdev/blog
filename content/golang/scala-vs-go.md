@@ -32,8 +32,6 @@ Scala is a statically typed, general-purpose, object-oriented language that aims
 
 Choosing between these languages is no easy thing, so I’m here to do the hard work for you. Keep reading to see how the languages compare in skill level, performance, salary, and application to figure out which one is best for you!
 
-{{< cta1 >}}
-
 ## Scala vs Golang: Which Is Better for Beginners?
 
 When it comes to choosing between Go or Scala as a beginner language, the vote is unanimous for Golang due to its emphasis on simplicity and power.
@@ -47,6 +45,8 @@ Scala’s learning curve on the other hand is much less forgiving -- unless you 
 Unlike Golang, Scala is an object-oriented language, which is notoriously difficult for beginners to learn, because it revolves around manipulating data rather than writing down instructions. It does have the benefit of being a multiparadigm language that supports functional programming, but moving between OOP and functional programming can be complex.
 
 **Conclusion:** You can learn Scala on its own, but to get the full benefit of the language, you need to know Java. Therefore as a beginner, Golang is your best bet.
+
+{{< cta1 >}}
 
 ## Scala vs Go: Which Is Better for Experienced Programmers?
 
@@ -62,8 +62,6 @@ It also has a wider range of uses and is ideal for microservices, CLIs, serverle
 
 **Conclusion:** both have advantages for experienced programmers, it just depends on what you’re doing. If you know Java and like working with data, then Scala is a better option, but if you want to learn a language fast with a broader application, then Golang is the winner.
 
-{{< cta2 >}}
-
 ## Scala vs Go: Which Has Higher Pay?
 
 While working in an exciting and evolving industry like technology is attractive enough, the pay isn’t too bad either.
@@ -71,6 +69,8 @@ While working in an exciting and evolving industry like technology is attractive
 According to [Payscale](https://www.payscale.com/research/US/Skill=Go_(Golang)_Programming_Language/Salary), Golang developers earn a median salary of $117,394, and [Scala](https://www.payscale.com/research/US/Skill=Scala/Salary) developers earn a median salary of $177,698. It’s hard to beat Scala, as it’s [the highest-paid developer job](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states) in the US, but Go comes in at second place with solid pay, especially for a beginner. Keep in mind however, that Scala is a less popular language, so while it may pay well, there probably won't be as many job openings.
 
 **Conclusion:** The data has Scala as the highest-paid language, with Go second. However, both of these are very highly paid.
+
+{{< cta2 >}}
 
 ## Go vs Scala Performance
 

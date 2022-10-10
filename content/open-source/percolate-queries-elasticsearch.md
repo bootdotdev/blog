@@ -18,11 +18,11 @@ Our first failed attempt to build an alerting system utilized [PipelineDB](https
 
 Elasticsearch is a NoSQL distributed database that is good for, well, **searching**. I would never recommend it as a transactional database for basic CRUD actions, but aggregations, metrics, and percolate queries are where it shines.
 
-{{< cta1 >}}
-
 ## What is a percolate query?
 
 Percolate queries can be simply thought of as an inverse search. Instead of sending a _query_ to an index and getting the _matching documents_, you send a _document_ to an index and get the _matching queries_. This is exactly what most alerting systems need.
+
+{{< cta1 >}}
 
 ## What does it look like?
 
@@ -128,8 +128,6 @@ Response:
 ```
 
 Because the count was greater than the threshold, the percolate query was returned! As you can see, this works great for an alerting system because users can create "alerts" which we store as percolating queries. For example, a user can create a query that triggers when a twitter post mentions their name, or when a temperature in a city is above a certain threshold.
-
-{{< cta2 >}}
 
 ## Use it
 

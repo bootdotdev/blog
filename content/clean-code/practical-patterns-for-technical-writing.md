@@ -25,13 +25,13 @@ We will work our way from a very high-level view of the document to a detailed a
 7. Iterate and review
 8. Conclusion
 
-{{< cta1 >}}
-
 ## Your Audience
 
 Before you start writing, you should **be clear about who is your audience**. In some cases, it might make sense to explicitly state who this is in the actual document. Make clear which knowledge or skill prerequisites the reader needs to have to understand your document.
 
 Technical documentation aims to break down a complex topic to make it understandable to a broader audience. Therefore, your writing should fit your audience. Use simple words and do not try to sound overly professional or academic. Avoid slang and try to stay culturally neutral.
+
+{{< cta1 >}}
 
 ## Structuring Your Document Into Paragraphs
 
@@ -45,8 +45,6 @@ To make your structure easily understandable, it helps to ask the three Ws which
 2. Why is it important for the reader to know this?
 3. How should the reader use this knowledge?
 
-{{< cta2 >}}
-
 ## Active Voice vs. Passive Voice
 
 One of the most important things I've learned was the difference between active and passive voice. Here is an example:
@@ -58,6 +56,8 @@ Active voice: **Request the data from the resource via this endpoint.**
 Active voice is more precise on what to do and is typically also shorter and easier to process. Passive voice, on the other hand, is indirect and does not make clear who or what the actor in the sentence it. We know that the data can be requested from the resource, but who should be doing it?
 
 If you spot passive voice in your documents (form of be + past participle), try to convert it to active voice to make it more direct.
+
+{{< cta2 >}}
 
 ## Writing Clear and Concise Sentences
 

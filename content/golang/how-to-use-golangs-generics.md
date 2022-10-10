@@ -39,8 +39,6 @@ func main() {
 
 Generics are a feature of many popular strongly-typed programming languages due to their amazing ability to reduce duplicate code. In dynamically typed languages like JavaScript and Python, you wouldn't need generics, but in Go, it's an amazing addition to the language.
 
-{{< cta1 >}}
-
 ## Generics in Go, the tl;dr
 
 I'll try to summarize the [specification](https://go.googlesource.com/proposal/+/refs/heads/master/design/43651-type-parameters.md) for generics in Go in a few bullet points.
@@ -52,6 +50,8 @@ I'll try to summarize the [specification](https://go.googlesource.com/proposal/+
 - A special built-in constraint called `any` behaves similarly to `interface{}`.
 - A new package called `constraints` will exist in the standard library that will contain commonly used constraints.
 
+{{< cta1 >}}
+
 ## Why should I care about generics?
 
 Go is an amazing language that places an emphasis on simplicity and backward compatibility. In other words, Go has _purposefully left out many features_ other languages boast about because it counterintuitively makes the language better (at least in some people's opinion, and for some use-cases). Go code in one codebase looks like Go code in another codebase. Generally speaking, there is "one way to do it".
@@ -61,8 +61,6 @@ According to [historical data from Go surveys](https://go.dev/blog/survey2020-re
 In short, you should care about generics because they mean you don't have to write as much code, especially if you're in the business of writing packages and tooling. It can be frustrating to write utility functions without generics support. Think about common data structures like binary search trees and linked lists. Why would you want to rewrite them for every type they could possibly contain? `int`, `bool`, `float64`, and `string` aren't the end of the list, because you may want to store a custom `struct` type.
 
 Generics will finally give Go developers an elegant way to write amazing utility packages.
-
-{{< cta2 >}}
 
 ## What is a constraint?
 
@@ -121,6 +119,8 @@ func main() {
     // prints 1 <nil>
 }
 ```
+
+{{< cta2 >}}
 
 ## Custom constraints
 

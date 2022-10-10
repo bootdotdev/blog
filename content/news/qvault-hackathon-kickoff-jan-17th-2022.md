@@ -15,8 +15,6 @@ Our first hackathon will be a quick one! We tried to find a time that would work
 
 The judges will take an hour to review the projects, and we’ll meet back up at 3PM PST to announce winners and look at what everyone built. If you don’t finish in time, don’t worry! Work on it after the event, this is a great opportunity to build a project that can go on your resume.
 
-{{< cta1 >}}
-
 ## The project – A digital instrument
 
 Your goal is to build a digital instrument. Something like virtual piano. You can use any programming languages, tools, frameworks, or libraries that you want. The only requirement is that the user can interact with the "instrument" and sound will play through the speakers. It doesn’t need to be a piano, it just needs to make sounds.
@@ -31,6 +29,8 @@ You only have 5 hours, so you should get something working before you spend a lo
 * [Audio in the browser w/ JavaScript](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)
 * [Python GUI with tkinter](https://docs.python.org/3/library/tkinter.html)
 
+{{< cta1 >}}
+
 ## Awards
 
 We’ll have two categories of participants.
@@ -42,14 +42,14 @@ We’ll have 2 winners from each category. Each winner will get a free year-long
 
 In addition, 1st place in each category will get an hour of 1 on 1 time with Lane (me) the founder of Qvault to talk about whatever you want! We can work on code together, you can ask for career advice, or we can even just spend the time improving your resume.
 
-{{< cta2 >}}
-
 ## Judging criteria
 
 We’ll score your project using the following metrics:
 
 * Product – how cool the application is from a user’s perspective? Does it have great features? Are there any noticeable bugs
 * Technical merit – How well is the code organized and architected? Is it a clean code base?
+
+{{< cta2 >}}
 
 ## Good luck!
 

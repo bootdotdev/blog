@@ -29,8 +29,6 @@ Following my own advice, I'm going to define *a part* of what I believe "DevOps"
 * I interpret the "[DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)" and "[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/ref=sr_1_1?crid=JU3U3CV4OQDS&keywords=the+phoenix+project&qid=1662910991&s=books&sprefix=the+phoenix+projec%2Cstripbooks%2C120&sr=1-1)" (which are the books that started "DevOps") to support this idea.
 * I also interpret much of the research over the last 10 years (including the data in the "[Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?crid=1HX8YTKQW1PHN&keywords=accelerate+book&qid=1662911026&s=books&sprefix=accelerate+boo%2Cstripbooks%2C115&sr=1-1)" book) to support the idea that ops people who write code enable more effective organizations.
 
-{{< cta1 >}}
-
 ## What does the DevOps Handbook say?
 
 Let's take a look at an excerpt from the "DevOps Handbook":
@@ -45,6 +43,8 @@ The most important point for our purposes is:
 
 In other words, if a "DevOps" team is to be a team at all, in my opinion it should be the team responsible for building the tooling that enables developers to quickly  test, deploy, and monitor their services *themselves*.
 
+{{< cta1 >}}
+
 ## Is there no place for IT Ops people anymore?
 
 Yes, there absolutely is. There are plenty of organizations that need traditional IT operations engineers, and have no realistic need for them to be writing custom code. I want to be clear, the vast majority of *my experience* is in the development of cloud-based web services. In that environment, I've found that "DevOps" engineers who can script, write automations, build APIs and use Git are more effective than those who can't.
@@ -58,8 +58,6 @@ With all that in mind, I think there are certain skills in this world that you *
 
 I wouldn't say "everyone needs to learn to code". I *would* say, if coding interests you and you have some spare time, it's worth your while to pick it up.
 
-{{< cta2 >}}
-
 ## So should I learn to code as an ops person?
 
 If you're a DevOps engineer that's uncomfortable with the idea of writing code, it's never to late to start. I've found that ops people make *great* developers for a number of reasons:
@@ -70,6 +68,8 @@ If you're a DevOps engineer that's uncomfortable with the idea of writing code, 
 * They're already used to banging their head against the keyboard trying to figure out why something is broken
 
 Anyhow, not to plug my own stuff too hard, but if you're interested in getting started with back-end coding, I've created [Boot.dev](https://boot.dev) to be a place for ops engineers to upskill in coding and computer science. Do check it out if you want to learn to write back-end code in Python, JavaScript and Go. That said, if Boot.dev is not your cup of tea, check out [FreeCodeCamp](https://www.freecodecamp.org/), [the Odin Project](https://www.theodinproject.com/), or any other good resources that work for your needs.
+
+{{< cta2 >}}
 
 ## So, are you a DevOps engineer if you aren't writing code?
 
