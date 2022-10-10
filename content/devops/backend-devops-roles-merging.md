@@ -64,7 +64,7 @@ In other words, the people doing security, database work, telemetry, and monitor
 
 ### My advice: Write more code
 
-My advice here is simple - continue to specialize in the ops-related tasks that large companies will always need, but start writing more code. I'm not saying that IT ops jobs are going away, I'm saying that **we'll continue to automate the boring stuff, so don't specialize in the boring stuff.**
+My advice here is simple - continue to specialize in the ops-related tasks that large companies will always need, but [start writing more code](/devops/devops-engineers-should-code/). I'm not saying that IT ops jobs are going away, I'm saying that **we'll continue to automate the boring stuff, so don't specialize in the boring stuff.**
 
 Unless your company is in the business of infrastructure, I'd argue it's probably wise to outsource your infra to a cloud provider, and assuming you deploy on the cloud, a significant amount of your "IT Ops" work should be taken care of for you. The best part about using a cloud provider is that you can manage your infrastructure in code. **The buzzword is "GitOps", and I'm a fan.**
 
