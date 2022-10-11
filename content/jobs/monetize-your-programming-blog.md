@@ -28,9 +28,9 @@ As a programmer, no matter what your expertise level is, you have valuable exper
 
 By joining some affiliate programs and mentioning their products or services when you write, you can begin getting rewards from your readers. They won’t have to pay anything extra for taking advantage of your hard-won experience, and you’ll profit without having to make a single sale yourself.
 
-The best part is that you don’t need to be an expert coder - even if you’re blogging about your beginning journey into coding, and you’re still in the process of learning to code, you can still make recommendations that others will value. For example, boot.dev is a platform that provides computer science courses and certificates. When [programmers refer others](/affiliates/) to the platform, they receive 50% of any payments, which is useful for beginner coders especially. You don't need to be an expert coder - you can just say, "Hey, this course worked great for me."
+The best part is that you don’t need to be an expert coder - even if you’re blogging about your beginning journey into coding, and you’re still in the process of learning to code, you can still make recommendations that others will value.
 
-To maximize the potential of this, ensure you make a disclaimer about your affiliate links. As long as you’re honest about them, your readers won’t mind. Explain why you love what you’re recommending. This ensures your voice remains authentic on your blog and not too "salesy" which can turn readers off.
+A note on monetization: Ensure you make a disclaimer about your affiliate links. As long as you’re honest about them, your readers won’t mind. Explain why you love what you’re recommending. This ensures your voice remains authentic on your blog and not too "salesy" which can turn readers off.
 
 In sum, affiliate links mean that readers who click on your links and make a purchase pay nothing extra, you get the benefit of monetizing your experience, and you help support a platform you believe in. 
 

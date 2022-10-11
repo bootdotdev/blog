@@ -26,4 +26,4 @@ Of course! Check out our [contact page](/contact) for details.
 
 ## Can I become a partner and help grow Boot.dev?
 
-Yes! We have an [affiliate partner program](/affiliates)! You’ll earn money each time someone you refer signs up. It takes minutes to get started and is a great way to monetize a social following or blog you host. Read more about it and get started here.
+Yes! We have an affiliate partner program. Please [contact us](/contact) if you're interested in joining.
