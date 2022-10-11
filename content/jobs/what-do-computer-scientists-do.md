@@ -70,6 +70,8 @@ My team really likes Super Smash Bros on the Nintendo Switch. We usually eat lun
 
 The rest of my afternoon is usually just writing more code, with the occasional meeting to discuss product direction or high-level plans. I'm currently in a team lead position, and I do my best to keep meetings to a minimum. The only meetings I have on a regular basis are:
 
+<div class="tablewrap">
+
 | Meeting                                        | Frequency | Avg. Duration |
 | ---------------------------------------------* | --------* | ------------* |
 | Standup                                        | weekly    | 10 minutes    |
@@ -78,6 +80,8 @@ The rest of my afternoon is usually just writing more code, with the occasional 
 | One-on-one with CTO                            | monthly   | 30 minutes    |
 | Architecture planning (as needed, not planned) | monthly   | 60 minutes    |
 | Product roadmap planning                       | weekly    | 30 minutes    |
+
+</div>
 
 {{< cta1 >}}
 

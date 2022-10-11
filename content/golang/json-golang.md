@@ -207,6 +207,8 @@ type User struct {
 
 JSON and Go types don't match up 1-to-1. Below is a table that describes the type relationships when encoding and decoding.
 
+<div class="tablewrap">
+
 | Go Type                                | JSON Type                                                          |
 | -------------------------------------- | ------------------------------------------------------------------ |
 | `bool`                                 | `boolean`                                                          |
@@ -214,6 +216,8 @@ JSON and Go types don't match up 1-to-1. Below is a table that describes the typ
 | `string`                               | `string`                                                           |
 | nil pointer                            | `null`                                                             |
 | [time.Time](/golang/golang-date-time/) | [RFC 3339](https://tools.ietf.org/html/rfc3339) timestamp (string) |
+
+</div>
 
 You will notice that the `float32` and `int` types are missing. Don't worry, you can certainly encode and decode numbers into these types, they just don't have an explicit type in the JSON specification. For example, if you encode an integer in JSON, it's guaranteed not to have a decimal point. However, if someone converts that JSON value to a floating-point number before you decode it, you'll get a runtime error.
 

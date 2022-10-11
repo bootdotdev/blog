@@ -31,6 +31,8 @@ Golang (or Go) 1.0, however, wasn’t on the market until 2012, after being deve
 
 Let’s start by taking a straightforward view of the basic make-up of these languages.
 
+<div class="tablewrap">
+
 | Go                                              | C++                                                        |
 | ----------------------------------------------- | ---------------------------------------------------------- |
 | Higher-level language                           | Lower-level language                                       |
@@ -39,6 +41,8 @@ Let’s start by taking a straightforward view of the basic make-up of these lan
 | Is proud of a small and simple feature set      | Contains every feature under the sun                       |
 | Concurrency achieved through goroutines         | Concurrency achieved via operating system threads          |
 | Aim for a tradeoff between speed and simplicity | Optimized for speed and control                            |
+
+</div>
 
 As we can see, there are quite a few differences between Go and C++, let's dive into the details.
 

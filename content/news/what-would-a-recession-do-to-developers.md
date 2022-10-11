@@ -25,12 +25,16 @@ I have no idea if the market is going down another 20%, is going to rebound to a
 
 For the last decade, stocks have been way up, especially tech stocks. Let's look at some of the winners.
 
+<div class="tablewrap">
+
 |            | Amazon  | Google  | Facebook         | Netflix |
 | ---------- | ------- | ------- | ---------------- | ------- |
 | Ticker     | $AMZN   | $GOOG   | $META            | $NFLX   |
 | 2011 Price | ~$180   | ~$307   | ~$28 IPO in 2012 | ~$25    |
 | 2021 Price | ~$3,256 | ~$1,738 | ~$267            | ~$565   |
 | % Return   | ~1,708% | ~466%   | ~853%            | ~2,160% |
+
+</div>
 
 Tech as an industry has outperformed the market. `NDXT` is the ticker for the "NASDAQ 100 Technology Sector Index", and that has grown from `~$1454` in 2011 to `~$7867` in 2021, a cool return of ~`441%`. By comparison, `VTI`, the "Vanguard Total Stock Market ETF" that tracks the entire US stock market went from `$66` to `$199` "only" had an return of ~`201%`. With these exponential returns associated with the paradigm shift in the way we do business, at a certain point the music must slow back down, which is what is probably happening now.
 

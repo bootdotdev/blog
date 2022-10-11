@@ -44,12 +44,16 @@ Overall, JavaScript is the best for beginners, but the best route is to learn bo
 
 ### TypeScript vs PureScript: A Mini Comparison
 
+<div class="tablewrap">
+
 | PureScript         | TypeScript                       |
 | ------------------ | -------------------------------- |
 | Purely Functional  | Object-oriented / Multi-paradigm |
 | Reads like Haskell | Reads like C                     |
 | Statically typed   | Statically typed                 |
 | Compiled to JS     | Compiled to JS                   |
+
+</div>
 
 Like TypeScript, PureScript offers a stricter variation of JavaScript, except this time it’s purely functional, doesn't support OOP, and looks like the [Haskell language](https://www.haskell.org/). PureScript was developed after poor attempts to compile Haskell to JavaScript, therefore it has a close syntax to Haskell.
 

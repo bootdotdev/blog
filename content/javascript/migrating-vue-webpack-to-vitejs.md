@@ -18,6 +18,8 @@ images:
 
 This particularly resonated with me because my (fairly) simple app's development server took over 10 seconds to start up with the [Vue-cli](https://cli.vuejs.org/) and [Webpack](https://webpack.js.org/), and I've spent many hours in the past trying to configure Webpack and [Babel](https://babeljs.io/), when I just needed basic Vue configurations. Let's look at some quick anecdotal comparisons before I dive into the migration guide, so you can see if the benefits of switching are worth it for you.
 
+<div class="tablewrap">
+
 |                            | Vite                      | Vue-cli + Webpack |
 | -------------------------- | ------------------------- | ----------------- |
 | Dev server start time      | ~600ms                    | ~10,000ms         |
@@ -26,6 +28,8 @@ This particularly resonated with me because my (fairly) simple app's development
 | Number of bundled JS files | 29 JS modules             | 18 JS Modules     |
 | Average JS bundle size     | ~29kb                     | ~61kb             |
 | Total JS bundle size       | ~840kb                    | ~1098kb           |
+
+</div>
 
 Vite vs Vue-cli + Weback
 

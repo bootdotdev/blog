@@ -23,6 +23,8 @@ Also, before diving into all the various requirements, I'd like to point out tha
 
 ### Study These Computer Science Topics - Required
 
+<div class="tablewrap">
+
 | Subjects                           | Rationale                                                                                                               |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Coding                             | You need to learn to code to put computer science concepts into practice                                                |
@@ -35,7 +37,11 @@ Also, before diving into all the various requirements, I'd like to point out tha
 | Functional Programming             | Functional programming is useful for learning important concepts like recursion and is growing as a practical paradigm. |
 | Computational Theory               | You've gotta learn about the limits to what computers can do theoretically, even if we assume the best hardware.        |
 
+</div>
+
 ### Optional - Choose at least 2
+
+<div class="tablewrap">
 
 | Subjects                                     | Rationale                                                                                                                                                 |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,6 +51,8 @@ Also, before diving into all the various requirements, I'd like to point out tha
 | Distributed Systems                          | With the advance of Docker, Kubernetes, and the cloud, learning to build scalable distributed systems that can communicate and stay in sync is paramount. |
 | Operating Systems                            | Operating systems manage all of our code, they have complete control over our execution environments. Get to know them.                                   |
 | Artificial Intelligence and Machine Learning | AI and ML are growing more and more each year. There will likely always be jobs in teaching computers to teach themselves.                                |
+
+</div>
 
 These topics cover almost everything that a typical CS student would learn at a university, though you obviously need to make sure you go appropriately deep into each topic. Later in the article, we'll cover each topic in more detail, and supply resources to get you started.
 

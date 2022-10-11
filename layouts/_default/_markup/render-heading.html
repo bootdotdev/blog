@@ -3,5 +3,5 @@
   <a href="#{{ .Anchor | safeURL }}">#</a>
   {{- end -}}
 
-  <span class="ml-4">{{ .Text | safeHTML }}</span>
+  <span> {{ .Text | safeHTML }}</span>
 </h{{ .Level }}>

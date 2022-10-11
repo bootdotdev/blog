@@ -18,6 +18,8 @@ Ruby is most commonly used to create web applications. Especially with its most 
 
 That should give you enough context to help you understand the basics of the Ruby vs Python discussion, and understand which is best for you in these ten different respects below.
 
+<div class="tablewrap">
+
 |                                                                           |                                        |
 | ------------------------------------------------------------------------- | -------------------------------------- |
 | Which is most popular?                                                    | Python                                 |
@@ -31,6 +33,7 @@ That should give you enough context to help you understand the basics of the Rub
 | Which is more innovative?                                                 | Ruby                                   |
 | Which language will be best for the future?                               | Python (with caveats)                  |
 
+</div>
 
 ## 1. Ruby vs Python: Which is most popular?
 

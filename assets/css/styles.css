@@ -12,6 +12,8 @@
 
   --gray-50: hsl(235, 10%, 97%);
   --gray-100: hsl(235, 9%, 94%);
+  --gray-400: hsl(235, 3%, 62%);
+  --gray-500: hsl(235, 1%, 50%);
   --gray-700: hsl(235, 5%, 24%);
   --gray-750: hsl(235, 6%, 18%);
   --gray-800: hsl(236, 7%, 13%);
@@ -137,24 +139,29 @@ main blockquote p {
   margin: 0;
 }
 
+main .tablewrap {
+  overflow-x: auto;
+}
+
 main table {
   margin: auto;
-  border: 1px solid var(--blue-500);
   margin-bottom: 1rem;
+  border-radius: 4px;
+  overflow: hidden;
 }
 
 main table thead th {
   padding: 1rem;
-  border-bottom: 1px solid var(--blue-500);
+  background-color: var(--gray-700);
 }
 
 main th,
 td {
-  padding: 5px;
+  padding: .5em;
 }
 
 main thead,
 tfoot,
 tr:nth-child(even) {
-  background: var(--gray-800);
+  background: var(--gray-750);
 }

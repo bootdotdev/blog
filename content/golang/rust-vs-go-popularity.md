@@ -59,6 +59,9 @@ Based on their official headlines it would seem they are in direct competition. 
 
 Here are my current fast and loose opinions on the strengths and weaknesses of each:
 
+
+<div class="tablewrap">
+
 |                          |     |      |
 | ------------------------ | --- | ---- |
 |                          | Go  | Rust |
@@ -70,6 +73,7 @@ Here are my current fast and loose opinions on the strengths and weaknesses of e
 | Support/Community        | ✅✅  | ✅    |
 | Concurrency (Simplicity) | ✅✅✅ | ✅    |
 
+</div>
 
 Lane's Sloppy Rust vs Go Comparison
 

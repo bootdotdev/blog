@@ -17,29 +17,32 @@ If you don't feel you have a solid grasp of basic computer science skills yet, d
 
 In the table below you'll find the median salaries for various programming jobs according to [Stack Overflow](https://insights.stackoverflow.com/survey/2020#work-salary-by-developer-type-united-states)'s annual developer survey in 2020. We can expect that in 2021 things will stay relatively similar. Accounting for inflation and industry growth, we'll likely see a growth of around 2-4% for most positions, and once the 2021 data is out, we'll update this chart accordingly.
 
-|                                               |       |
-| --------------------------------------------- | ----- |
-| Engineering manager                           | $152k |
-| Engineer, site reliability                    | $140k |
-| Data scientist or machine learning specialist | $125k |
-| DevOps specialist                             | $125k |
-| Engineer, data                                | $125k |
-| Developer, back-end                           | $120k |
-| Developer, embedded applications or devices   | $120k |
-| Developer, mobile                             | $120k |
-| Scientist                                     | $120k |
-| Developer, desktop or enterprise applications | $115k |
-| Educator                                      | $115k |
-| Developer, full-stack                         | $112k |
-| Developer, game or graphics                   | $112k |
-| Database administrator                        | $110k |
-| Developer, front-end                          | $110k |
-| System administrator                          | $110k |
-| Developer, QA or test                         | $105k |
-| Academic researcher                           | $100k |
-| Data or business analyst                      | $100k |
-| Designer                                      | $100k |
+<div class="tablewrap">
 
+| Title                                         | Salary |
+| --------------------------------------------- | ------ |
+| Engineering manager                           | $152k  |
+| Engineer, site reliability                    | $140k  |
+| Data scientist or machine learning specialist | $125k  |
+| DevOps specialist                             | $125k  |
+| Engineer, data                                | $125k  |
+| Developer, back-end                           | $120k  |
+| Developer, embedded applications or devices   | $120k  |
+| Developer, mobile                             | $120k  |
+| Scientist                                     | $120k  |
+| Developer, desktop or enterprise applications | $115k  |
+| Educator                                      | $115k  |
+| Developer, full-stack                         | $112k  |
+| Developer, game or graphics                   | $112k  |
+| Database administrator                        | $110k  |
+| Developer, front-end                          | $110k  |
+| System administrator                          | $110k  |
+| Developer, QA or test                         | $105k  |
+| Academic researcher                           | $100k  |
+| Data or business analyst                      | $100k  |
+| Designer                                      | $100k  |
+
+</div>
 
 Developer Salary Info 2020
 

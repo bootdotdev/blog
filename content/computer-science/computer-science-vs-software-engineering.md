@@ -50,6 +50,8 @@ Because smaller colleges often provide more insight into a "standard" course loa
 
 ### Software Development (Software Engineering) Class Requirements
 
+<div class="tablewrap">
+
 | Class Number                                                                                    | Class Name                                     |
 | ----------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | **Core Software Development Discipline Requirements**                                           |                                                |
@@ -112,9 +114,13 @@ Because smaller colleges often provide more insight into a "standard" course loa
 | MATH 3400                                                                                       | Probability & Statistics                       |
 | WEB 3400                                                                                        | Web Design II: Essentials (ALCS)               |
 
+</div>
+
 [Software Development Degree DSU](https://catalog.dixie.edu/programs/computing-and-design/computer-information-technology-software-development-bs/)
 
 ### Computer Science Class Requirements
+
+<div class="tablewrap">
 
 | Class number                                                    | Class Name                                     |
 | --------------------------------------------------------------- | ---------------------------------------------- |
@@ -187,6 +193,8 @@ Because smaller colleges often provide more insight into a "standard" course loa
 | IT 4500                                                         | Information Security                           |
 | WEB 1400                                                        | Web Design I: Fundamentals (ALCS)              |
 | WEB 3400                                                        | Web Design II: Essentials (ALCS)               |
+
+</div>
 
 [Computer Science Degree DSU](https://catalog.dixie.edu/programs/computing-and-design/computer-science-bs/)
 
