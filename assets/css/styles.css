@@ -102,19 +102,19 @@ main pre {
 }
 
 main p code {
-  padding: 2px 4px 2px 4px;
+  padding: 1px 4px 1px 4px;
   background: var(--gray-700);
   border-radius: 4px;
 }
 
 main ol code {
-  padding: 2px 4px 2px 4px;
+  padding: 1px 4px 1px 4px;
   background: var(--gray-700);
   border-radius: 4px;
 }
 
 main ul code {
-  padding: 2px 4px 2px 4px;
+  padding: 1px 4px 1px 4px;
   background: var(--gray-700);
   border-radius: 4px;
 }
