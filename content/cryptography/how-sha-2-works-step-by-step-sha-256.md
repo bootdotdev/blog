@@ -1,8 +1,8 @@
 ---
-title: "How SHA-256 Works Step-By-Step"
+title: "What is SHA-256?"
 author: Lane Wagner
 date: "2020-07-08"
-lastmod: "2022-07-19"
+lastmod: "2022-10-12"
 categories: 
   - "bitcoin"
   - "cryptography"
@@ -11,21 +11,23 @@ images:
   - /img/800/1_Gs1cLsPT1FdiGZeI0h2RiQ-scaled-e1594217355954.webp
 ---
 
-SHA-2 (Secure Hash Algorithm 2), of which SHA-256 is a part, is one of the most popular [hash algorithms](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) around. A cryptographic hash, also often referred to as a "digest", "fingerprint" or "signature", is an *almost perfectly unique* string of characters that is generated from a separate piece of input text. For example, SHA-256 generates a 256-bit (32-byte) signature.
+SHA-2 (Secure Hash Algorithm 2), of which SHA-256 is a part, is one of the most popular [hash algorithms](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) around. A cryptographic hash, also often referred to as a "digest", "fingerprint" or "signature", is an *almost perfectly unique* string of characters that is generated from a separate piece of input text. SHA-256 generates a 256-bit (32-byte) signature.
 
-Further down in this article, we will break down each step of SHA 256's [cryptographic algorithm](/cryptography/what-is-cryptography/) and work through a real example by hand.
+Towards the end of this article, I'll break down each step of SHA 256's [cryptographic algorithm](/cryptography/what-is-cryptography/), and work through a real example by hand. If you're interested in learning cryptography with hands-on code examples, you can also check out my ["Learn Cryptography" course on Boot.dev](https://boot.dev/learn/learn-cryptography).
 
-## Try generating a SHA 256 hash
+## Generate a SHA 256 hash
 
-If you're not familiar with SHA-256, try out the online generator below. Just enter any message and click the "hash" button.
+If you're not familiar with SHA-256, try this online generator. Enter any message and click the "hash" button.
 
 {{< sha256gen >}}
 
-## What is a cryptographic hash function?
+## What is SHA-256?
 
-Like we mentioned above, a cryptographic hash function generates a "fingerprint" for a given input string. For example, if we were to hash the entire text of JRR Tolkien's "The Lord of The Rings" series using the SHA 256 algorithm, we would get a 256-bit output almost unique to that book's text. If we changed even a single letter in the book, the output hash would be *wildly* different.
+SHA-256 is a standard hash function, so the real question is, "what's a hash function"?
 
-It's worth noting that we say the output of a hash is "almost unique" because there are a **finite** number of output strings. After all, the output of SHA-256 is always 256 bits long, which means it has a fixed size. The number of possible inputs, however, is **infinite**, meaning some inputs will hash to the same output. When this happens, it's called a "collision", and it is nearly impossible. After all, in SHA-256 there are `2^256` possible outputs. Let me write out that number for you:
+A cryptographic hash function generates a "fingerprint" of an input string. For example, if we were to hash the entire text of JRR Tolkien's "The Lord of The Rings" series using the SHA 256 algorithm, we would get a 256-bit output unique to that book's text. If we changed even a single letter in the book, the output hash would be *wildly* different.
+
+It's worth noting that the output of a hash is "almost unique" because there are a *finite* number of output strings. After all, the output of SHA-256 is *always* 256 bits long, which means it has a fixed size. The number of possible inputs, however, is *infinite*, meaning some inputs will hash to the same output. When this happens, it's called a "collision", and it is nearly impossible. After all, in SHA-256 there are `2^256` possible outputs. Let me write out that number for you:
 
 ```
 115,792,089,237,316,195,423,570,985,008,687,907,853,269,984,665,640,564,039,457,584,007,913,129,639,936 possible outputs for SHA-256
@@ -37,23 +39,29 @@ The three of the main purposes of a hash function are:
 * To accept an input of arbitrary length and output a fixed length result
 * To manipulate data irreversibly. The input cannot be derived from the output
 
-SHA-2 is a very famous and strong family of hash functions because, as you would expect, it serves all the purposes mentioned above.
+SHA-2 is a strong family of hash functions because, as you would expect, it serves all the purposes mentioned above.
 
-## SHA-2 family vs sha256
+## What is SHA-256 used for?
 
-SHA-2 is an algorithm, a generalized idea of how to hash data. SHA-2 has several variants, all of which use the same algorithm but use different constants. SHA-256, for example, sets additional constants that define the behavior of the SHA-2 algorithm, one of these constants is the output size, 256. The 256 and 512 in SHA-256 and SHA-512 refer to the respective digest size in bits.
+SHA-256 is useful in *so many* circumstances! It's a fast and secure hash function, here are some of the most common ways that it's used:
 
-## SHA-2 family vs SHA-1
+* To create website authentication schemes, using [JWTs, HMACs and MACs](/cryptography/hmac-and-macs-in-jwts/)
+* To create [digital signatures](https://en.wikipedia.org/wiki/Digital_signature)
+* To secure [blockchains](https://en.wikipedia.org/wiki/Blockchain) like Bitcoin and Ethereum
+* In anti-viruses, to compare the fingerprints of files and programs
+* In version control systems like [Git](https://git-scm.com/) to check if data has changed
 
-SHA-2 is a successor to the SHA-1 hash and remains one of the strongest hash functions in use today. SHA-256, as opposed to SHA-1, hasn't been compromised. For this reason, there's really no reason to use SHA-1 these days, it isn't safe. The flexibility of output size (224, 256, 512, etc) also allows SHA-2 to pair well with popular [KDFs](/cryptography/key-derivation-functions/) and ciphers like [AES-256](/cryptography/aes-256-cipher/).
+### Can I use SHA-256 to hash passwords?
 
-## Formal acceptance by NIST
+While it's *possible*, you *absolutely should not* use SHA 256 to hash passwords! SHA-256 is designed to be computed very *quickly*, which means that if someone were to perform a brute force attack on your user's passwords, they wouldn't be safe. Instead you'll want to use a [key derivation function](/cryptography/key-derivation-functions/), which is basically just a password hashing algorithm that's designed to slow down attackers.
 
-SHA-256 is formally defined in the National Institute of Standards and Technology's [FIPS 180-4](http://csrc.nist.gov/groups/ST/toolkit/secure_hashing.html). Along with standardization and formalization comes a list of [test vectors](http://csrc.nist.gov/groups/ST/toolkit/examples.html#aHashing) that allow developers to ensure they've implemented the algorithm properly.
+## Is SHA-256 still considered secure?
 
-SHA-2 is known for its security (it hasn't [broken down like SHA-1](https://shattered.io/)) and its speed. In cases where [keys are not generated](/cryptography/key-derivation-functions/), such as [proof-of-work](https://en.wikipedia.org/wiki/Proof_of_work) Bitcoin mining, a fast hash algorithm like SHA-2 often has the upper hand.
+SHA-2 is known for its security (it hasn't [broken down like SHA-1](https://shattered.io/)) and its speed. In cases where [keys are not generated](/cryptography/key-derivation-functions/), such as [proof-of-work](https://en.wikipedia.org/wiki/Proof_of_work) Bitcoin mining, a fast hash algorithm like SHA-2 often has the upper hand. In fact, SHA-256 is formally defined in the National Institute of Standards and Technology's [FIPS 180-4](http://csrc.nist.gov/groups/ST/toolkit/secure_hashing.html). Along with standardization and formalization comes a list of [test vectors](http://csrc.nist.gov/groups/ST/toolkit/examples.html#aHashing) that allow developers to ensure they've implemented the algorithm properly. As of 2022, SHA-256 is plenty secure to use in your applications.
 
-## Step-by-step SHA-256 hash of "hello world"
+## How does the SHA-256 algorithm work?
+
+Let's go through an example of the SHA-256 hashing algorithm step-by-step, by hand. If you can stay awake through this whole walkthrough, you'll understand all of it's nuts and bolts.
 
 ### Step 1 - Pre-Processing
 
@@ -500,11 +508,21 @@ Produce the final hash value (big-endian):
 digest := hash := h0 append h1 append h2 append h3 append h4 append h5 append h6 append h7
 ```
 
+## Additional common questions about SHA-256
+
+## Are SHA-2 and SHA-256 the same?
+
+SHA-2 is an [algorithm](https://boot.dev/learn/learn-algorithms), or a generalized idea of how to hash data. SHA-2 has several variants, all of which use the same algorithm but use different constants. SHA-256, for example, sets additional constants that define the behavior of the SHA-2 algorithm, one of these constants is the output size, 256. The 256 and 512 in SHA-256 and SHA-512 refer to the respective digest size in bits.
+
+## What's the difference between SHA-1 and SHA-2?
+
+SHA-2 is a successor to the SHA-1 hash and remains one of the strongest hash functions in use today. SHA-256, as opposed to SHA-1, hasn't been compromised. For this reason, there's really no reason to use SHA-1 these days, it isn't safe. The flexibility of output size (224, 256, 512, etc) also allows SHA-2 to pair well with popular [KDFs](/cryptography/key-derivation-functions/) and ciphers like [AES-256](/cryptography/aes-256-cipher/).
+
 ## Who designed SHA 256?
 
 The NSA, or National Security Agency, designed and published SHA-256 and the rest of the SHA-2 family of hash functions in 2001. You might be wondering:
 
-> Because the United State Government helped create SHA-256, do they have some sort of "back-door" to break the encryption?
+> "Because the United State Government helped create SHA-256, do they have some sort of "back-door" to break the encryption protocol?"
 
 The answer is "no". The algorithm is open-source, so anyone can verify its security. While it's *possible* that there are exploitable vulnerabilities, no one has found them yet. At present, there isn't much you can do to SHA-256 apart from attempting a [brute-force attack](/security/how-do-brute-force-attackers-know-they-found-the-key/).
 
