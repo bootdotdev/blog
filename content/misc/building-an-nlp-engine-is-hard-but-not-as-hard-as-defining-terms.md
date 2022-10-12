@@ -1,5 +1,5 @@
 ---
-title: "Building an NLP Engine Is Hard, but Not as Hard as Defining Terms"
+title: "NLP is Hard Because Even Humans Don't Agree"
 author: Lane Wagner
 date: "2021-01-19"
 categories: 

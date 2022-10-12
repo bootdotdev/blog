@@ -1,5 +1,5 @@
 ---
-title: "We just launched community insights. There's something magical about learning to code together."
+title: "We Just Launched Community Insights"
 author: Lane Wagner
 date: "2022-04-27"
 categories: 

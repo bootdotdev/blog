@@ -1,5 +1,5 @@
 ---
-title: "Percolate Queries in ElasticSearch - How I Built an Alerts System"
+title: "Building Alerts with Percolate Queries in ElasticSearch"
 author: Lane Wagner
 date: "2019-11-14"
 categories: 

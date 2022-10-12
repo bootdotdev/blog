@@ -1,5 +1,5 @@
 ---
-title: "Why So Many Coding Students Struggle Getting a Job After Coding Bootcamp"
+title: "Why Students Struggle Getting a Job After Coding Bootcamp"
 author: Zulie Rane
 date: "2020-11-19"
 categories: 

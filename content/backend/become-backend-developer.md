@@ -1,5 +1,5 @@
 ---
-title: "A Complete Learning Path to Becoming a Backend Developer [2022 Updated]"
+title: "A Complete Learning Path for Backend Development [2022 Updated]"
 author: Lane Wagner
 date: "2022-07-24"
 categories: 

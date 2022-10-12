@@ -78,7 +78,7 @@ I've found that if there is a concept or topic I really want to commit to memory
 
 ## 6. Become a member of coding communities
 
-It's hard to be excited about something if you don't keep up on the exciting news, memes, and innovations that are happening in the space. I've compiled a list of some of my [favorite coding communities](/misc/top-12-best-communities-for-learning-to-code/). Join the ones that interest you and hit me up [personally](https://twitter.com/wagslane) if you want to connect as well.
+It's hard to be excited about something if you don't keep up on the exciting news, memes, and innovations that are happening in the space. I've compiled a list of some of my [favorite coding communities](/misc/best-coding-communities/). Join the ones that interest you and hit me up [personally](https://twitter.com/wagslane) if you want to connect as well.
 
 _Tip: You'll learn things from personal conversations that you could never pick up in a book. Communities can give you various expert perspectives on complex topics._
 

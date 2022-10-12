@@ -1,5 +1,5 @@
 ---
-title: "The Top 11 Computer Science Books: For Beginners, For Careers, and For Speciality Topics"
+title: "The Top 11 Computer Science Books for Self Study"
 author: Natalie Schooner
 date: "2022-08-24"
 categories: 
@@ -12,11 +12,11 @@ In today’s modern, fast-paced world, we look to StackOverflow and Reddit to an
 
 When studying computer science, books are:
 
-* Reputable. Anyone can publish a blog post; only experts who are carefully vetted can write a book through a publisher. If they *didn’t* go through a traditional publishing house, then reviews and word-of-mouth can let you know if it’s a good information source or not
-* Written for comprehension. A book is written to be *read*. A blog is written to *rank in Google*.
-* Easily selected. Online, you have to trust SEO to deliver the best results. Something titled ‘for beginners" might not *actually* be for beginners. Books, thanks to a more rigorous selection process, tend to be better marketed. The titles are also more descriptive and less clickbait.
-* Structured for completion. A blog will give you a solitary answer. A book will give you the answer in the context of all the other information you need to make sense of that answer.
-* Satisfying to hold. As a computer scientist, I’ve spent a lot of time staring at screens. Sometimes it’s nice to hold something physical for a change.
+* **Reputable.** Anyone can publish a blog post; only experts who are carefully vetted can write a book through a publisher. If they *didn’t* go through a traditional publishing house, then reviews and word-of-mouth can let you know if it’s a good information source or not
+* **Written for comprehension.** A book is written to be *read*. A blog is written to *rank in Google*.
+* **Easily selected.** Online, you have to trust SEO to deliver the best results. Something titled ‘for beginners" might not *actually* be for beginners. Books, thanks to a more rigorous selection process, tend to be better marketed. The titles are also more descriptive and less clickbait.
+* **Structured for completion.** A blog will give you a solitary answer. A book will give you the answer in the context of all the other information you need to make sense of that answer.
+* **Satisfying to hold.** As a computer scientist, I’ve spent a lot of time staring at screens. Sometimes it’s nice to hold something physical for a change.
 
 If you want to construct a comprehensive, learnable, achievable [computer science curriculum](/computer-science/comprehensive-guide-to-learn-computer-science-online/) for yourself, it’s wise to include books as a key starting point.
 

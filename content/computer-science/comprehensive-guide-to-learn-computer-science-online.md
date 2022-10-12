@@ -68,7 +68,7 @@ Tutorials and courses should involve coding, and I'll recommend some resources f
 
 ### 2. Get Involved in Dev Communities
 
-Do you browse Reddit, Twitter, or Facebook in your free time? Make a small change to your online content consumption and start reading about technology-related content instead, or in addition to what you already consume. Check out this [list of communities](/misc/top-12-best-communities-for-learning-to-code/) to make yourself a part of.
+Do you browse Reddit, Twitter, or Facebook in your free time? Make a small change to your online content consumption and start reading about technology-related content instead, or in addition to what you already consume. Check out this [list of communities](/misc/best-coding-communities/) to make yourself a part of.
 
 ### 3. Interview and Get a Job Early (within the first year)
 

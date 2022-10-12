@@ -397,4 +397,4 @@ Other common uses include:
 
 ## What's the difference between a Binary Tree and a Linked List?
 
-While binary trees and [linked lists](/python/building-a-linked-list-in-python-with-examples/) both use pointers to keep track of nodes, binary trees are more efficient for *searching*. In fact, linked lists are `O(n)` when used to search for a specific element - that's pretty bad! Linked lists excel at removing and inserting elements quickly in the middle of the list.
+While binary trees and [linked lists](/computer-science/building-a-linked-list-in-python-with-examples/) both use pointers to keep track of nodes, binary trees are more efficient for *searching*. In fact, linked lists are `O(n)` when used to search for a specific element - that's pretty bad! Linked lists excel at removing and inserting elements quickly in the middle of the list.

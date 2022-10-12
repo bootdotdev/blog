@@ -1,5 +1,5 @@
 ---
-title: "How To Hire Developers - 6 Tips From Someone You Probably Shouldn't Listen To"
+title: "6 Tips for Hiring Developers"
 author: Lane Wagner
 date: "2020-10-13"
 categories: 

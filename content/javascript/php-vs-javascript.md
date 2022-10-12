@@ -1,5 +1,5 @@
 ---
-title: "PHP vs JavaScript: Choosing the Best Language for Beginners, Web Development, and More!"
+title: "PHP vs JavaScript: Which is Best for Web Development?"
 author: Meghan Reichenbach
 date: "2021-11-10"
 categories: 

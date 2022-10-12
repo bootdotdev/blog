@@ -1,5 +1,5 @@
 ---
-title: "What's the Difference Between a Certificate or a Diploma in Computer Science in 2021?"
+title: "Certificates vs Diplomas in Computer Science [2022 Updated]"
 author: Zulie Rane
 date: "2020-12-02"
 categories: 
@@ -46,7 +46,7 @@ As I said, I already had a job that I needed to keep in order to keep my cats fe
 
 If you do, however, there are definitely advantages. Getting a degree, even if it’s part-time or at night school, will let you cover all the bases of computer science in a way that you can then build on later. The unspoken second advantage is that like every other field, success in computer science often comes down to who you know. One of your classmates might be the next startup success, and getting to broaden your network through a degree is a benefit not enough people talk about in my opinion.
 
-That being said, especially this past year has taught us that it is possible to build any kind of community online, even [communities for learning to code](/misc/top-12-best-communities-for-learning-to-code/). Plenty of courses that offer certificates are starting to offer more community-based interactions like Slack groups, discord chats, and Facebook groups that make it easy to build relationships with your peers. 
+That being said, especially this past year has taught us that it is possible to build any kind of community online, even [communities for learning to code](/misc/best-coding-communities/). Plenty of courses that offer certificates are starting to offer more community-based interactions like Slack groups, discord chats, and Facebook groups that make it easy to build relationships with your peers. 
 
 A possible path, if you’re really short on time and money, is to spend some time learning the basics of computer science online, through YouTube videos or even Wikipedia, then tactically choosing courses that will give you a certification in the area that matters most for you for your programming career.
 

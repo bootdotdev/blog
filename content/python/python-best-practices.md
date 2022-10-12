@@ -1,5 +1,5 @@
 ---
-title: "From Beginner to Experienced: 7 Best Practices for Every Python Developer"
+title: "7 Best Practices for Every Python Developer"
 author: Zulie Rane
 date: "2022-01-04"
 categories: 

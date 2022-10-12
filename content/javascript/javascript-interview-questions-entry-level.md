@@ -1,5 +1,5 @@
 ---
-title: "20 Entry-Level JavaScript Interview Questions To Land Your First Coding Job"
+title: "Top 20 Entry-Level JavaScript Interview Questions"
 author: Jamie Dunmore
 date: "2021-07-29"
 categories: 

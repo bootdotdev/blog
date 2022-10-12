@@ -1,5 +1,5 @@
 ---
-title: "An Intro to Quantum Mechanics; Google's Claim to Quantum Supremacy"
+title: "An Intro to Quantum Mechanics and Google's Quantum Supremacy"
 author: Devanshi Arora
 date: "2020-06-19"
 categories: 

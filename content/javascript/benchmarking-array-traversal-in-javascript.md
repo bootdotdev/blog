@@ -1,5 +1,5 @@
 ---
-title: "Benchmarking Array Traversal in Javascript - Going Backwards is Fastest"
+title: "Which Method of Iteration in JavaScript is Fastest?"
 author: Lane Wagner
 date: "2019-11-08"
 categories: 

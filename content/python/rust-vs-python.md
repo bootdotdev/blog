@@ -1,5 +1,5 @@
 ---
-title: "Rust vs Python: Which is Best For Data Science, Systems Development & More"
+title: "Rust vs Python in Data Science, Systems Development & More"
 author: Meghan Reichenbach
 date: "2021-09-15"
 categories: 

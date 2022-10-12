@@ -1,5 +1,5 @@
 ---
-title: "7 Best Ways to Learn Python Depending On Your Extremely Specific Circumstance"
+title: "The 7 Best Ways to Learn Python"
 author: Zulie Rane
 date: "2021-10-12"
 categories: 

@@ -1,5 +1,5 @@
 ---
-title: "Free Functional Programming Course Released - JavaScript and PureScript"
+title: "Functional Programming Course Released"
 author: Lane Wagner
 date: "2020-10-19"
 categories: 

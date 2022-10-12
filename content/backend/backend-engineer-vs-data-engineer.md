@@ -1,5 +1,5 @@
 ---
-title: "Backend Engineer vs Data Engineer: Two Sexy Jobs, but What’s the Difference?"
+title: "Backend Engineer vs Data Engineer: What’s the Difference?"
 author: Natalie Schooner
 date: "2022-09-21"
 categories: 

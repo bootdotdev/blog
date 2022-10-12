@@ -1,5 +1,5 @@
 ---
-title: "How to Use the Best Job Boards to Find a Software Engineering Job"
+title: "How to Use the Best Software Engineering Job Boards"
 author: Lane Wagner
 date: "2022-08-05"
 categories: 

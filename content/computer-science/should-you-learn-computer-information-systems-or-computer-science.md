@@ -1,5 +1,5 @@
 ---
-title: "Should You Learn Computer Information Systems or Computer Science?"
+title: "Computer Information Systems vs Computer Science"
 author: Winston Wagner
 date: "2020-12-03"
 categories: 

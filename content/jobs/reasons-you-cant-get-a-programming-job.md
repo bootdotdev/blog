@@ -1,5 +1,5 @@
 ---
-title: "The 8 Crucial Mistakes Holding You Back From Getting a Programming Job"
+title: "The 8 Crucial Mistakes Holding You Back From a Programming Job"
 author: Zulie Rane
 date: "2021-01-18"
 categories: 

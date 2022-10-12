@@ -1,5 +1,5 @@
 ---
-title: "C# vs Python Comparison: Which Is Best for Backend Development, Machine Learning, and More"
+title: "C# vs Python in Backend Development, Machine Learning, and More"
 author: Meghan Reichenbach
 date: "2021-12-17"
 categories: 

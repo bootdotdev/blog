@@ -1,5 +1,5 @@
 ---
-title: "Is a Coding Bootcamp Worth It Compared to a Computer Science Degree?"
+title: "Which is Worth It, Coding Bootcamp or a Computer Science Degree?"
 author: Zulie Rane
 date: "2021-03-29"
 categories: 

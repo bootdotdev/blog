@@ -1,5 +1,5 @@
 ---
-title: "Automatic Cross-Platform Deployments with Electron on a CI Server (Travis)"
+title: "Automatic Cross-Platform Deployments with Electron"
 author: Lane Wagner
 date: "2019-08-08"
 categories: 
