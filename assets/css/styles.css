@@ -107,6 +107,18 @@ main p code {
   border-radius: 4px;
 }
 
+main ol code {
+  padding: 2px 4px 2px 4px;
+  background: var(--gray-700);
+  border-radius: 4px;
+}
+
+main ul code {
+  padding: 2px 4px 2px 4px;
+  background: var(--gray-700);
+  border-radius: 4px;
+}
+
 main p {
   margin-bottom: 1rem;
   font-size: 1rem;
