@@ -1,0 +1,2 @@
+Sitemap: https://blog.boot.dev/sitemap.xml
+User-agent: *
