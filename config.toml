@@ -8,6 +8,9 @@ paginate = 10
 enableRobotsTXT = true
 summaryLength = 15
 
+[Author]
+  name = "Lane Wagner"
+
 [sitemap]
   changefreq = 'weekly'
   filename = 'sitemap.xml'
@@ -22,6 +25,7 @@ summaryLength = 15
 [params]
   description = "You don't need a CS degree to get hired, but you do need computer science skills. Prepare to land an entry-level role in tech by building real coding projects."
   footer = "&copy; [Boot.dev](https://boot.dev) {Year}"
+  logo = "/favicons/favicon-32x32.png"
   googleTagManager = "GTM-PT7FHFB"
   dofollows = [
     "https://boot.dev",
@@ -34,20 +38,20 @@ summaryLength = 15
     startLevel = 2
     endLevel = 2
     ordered = true
-[markup.highlight]
-  anchorLineNos = false
-  codeFences = true
-  guessSyntax = false
-  hl_Lines = ""
-  lineAnchors = ""
-  lineNoStart = 1
-  lineNos = false
-  lineNumbersInTable = true
-  noClasses = false
-  style = "hugo gen chromastyles --style=dracula > assets/css/syntax.css"
-  tabWidth = 4
-[markup.goldmark.renderer]
-  unsafe = true
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = false
+    style = "hugo gen chromastyles --style=dracula > assets/css/syntax.css"
+    tabWidth = 4
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [related]
   includeNewer = false
