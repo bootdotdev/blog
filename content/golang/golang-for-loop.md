@@ -1,41 +1,43 @@
 ---
-title: "All the Ways to Write for Loops in Go"
+title: "For Loops in Go"
 author: Lane Wagner
 date: "2021-04-10"
+lastmod: "2022-10-12"
 categories: 
   - "golang"
 images:
   - /img/800/loop-architecture.webp
 ---
 
-A for loop executes a block of code repeatedly, and in Golang, there are several different ways to write one.
+For loops are a programmer's best friend! They allow us execute blocks of code repeatedly and iterate over collections of items. In Go, there are several different ways to write one. Read on to see all of the various options.
 
-## #1 The standard three-component loop
-
-Go has fairly standard syntax for the three-component loop you're used to from C, Java, or JavaScript. The big difference is the lack of parentheses surrounding the components.
+## #1 The standard 3-component loop
 
 ```go
+// prints numbers 0 -> 99
 for i := 0; i < 100; i++ {
-    sum += i
+    fmt.Println(i)
 }
 ```
 
-The three components are:
+The 3 components of a for loop in Go are:
 
-- The init statement, `i := 0`
-- The condition, `i < 100`
-- The post statement, `i++`
+* The init statement, `i := 0`
+* The condition, `i < 10`
+* The post statement, `i++`
 
-The compiler executes the for-loop in the following manner:
+Here's how the Go compiler executes for-loops:
 
-1. The `init` statement executes and variables declared there are made available to the scope of the loop's body.
-2. The condition is computed. If it evaluates to `true` then the body runs, otherwise the loop is complete.
+1. The `init` statement declares variables which are then available to the scope of the loop's body.
+2. The `condition` is computed. If it evaluates to `true` then the body runs, otherwise the loop is complete.
 3. The `post` statement runs.
 4. Back to step #2
 
+> Observe: Go's loop syntax looks similar to that of C, Java, or JavaScript. The biggest difference is the simple lack of parentheses surrounding the components. 
+
 ## #2 For-range loop
 
-More often than not, you'll be looping over a collection of items like a `map`, `slice`, `channel`, or `string`. While you _can_ use a traditional three-component loop, Go makes it easier by providing the `range` keyword.
+I've found that I'm rarely using Go's standard loop syntax, because I'm usually looping over a collection of values. If you need to iterate over a `map`, `slice`, `channel`, or `string`, Go makes it easy with the `range` keyword.
 
 ### Range over a slice in Go
 
@@ -111,7 +113,7 @@ for i, char := range name {
 
 ## #3 While loop
 
-By using one component in a for-loop signature rather than three, we can effectively build a while-loop in Golang. There is no `while` keyword in Go.
+*While loops don't exist in Go!* However, by modifying a for loop we get the same functionality.
 
 ```go
 sum := 1
@@ -125,7 +127,7 @@ fmt.Println(sum)
 
 ## #4 Optional components loop
 
-Building on the idea of a flexible for-loop, we can omit the init or post statements of the three-component loop as we please.
+Building on the idea of a flexible for-loop, we can omit the `init` or `post` statements of the three-component loop as we please.
 
 ```go
 i := 0
@@ -139,11 +141,11 @@ for i := 0; sum < 1000; {
 }
 ```
 
-This can be a useful pattern when you want something like a [do-while, or an immediate first tick from a ticker.](/golang/range-over-ticker-in-go-with-immediate-first-tick/)
+This can be a useful pattern when you want something like a [do-while](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while), or an [immediate first tick from a ticker.](/golang/range-over-ticker-in-go-with-immediate-first-tick/)
 
 ## #5 Infinite loop
 
-Infinite loops are useful within goroutines when you have a worker or process that should continue perpetually.
+Infinite loops are useful when you have a worker or process that need to run forever, like a [web crawler](https://boot.dev/build/link-analyzer).
 
 ```go
 sum := 0
@@ -157,7 +159,7 @@ for {
 
 ## #6 Break from a loop
 
-Breaking early from a loop can be useful, especially in a forever loop. The `break` keyword will exit the loop immediately.
+Breaking early from a loop can be useful, especially in an infinite loop. The `break` keyword will exit the loop immediately.
 
 ```go
 sum := 0
@@ -175,7 +177,7 @@ fmt.Println(sum)
 
 ## #7 Continue (skip to the next iteration) in a loop
 
-It can be useful to skip to the next iteration of a loop early. This can be a good pattern for [guard clauses](/clean-code/guard-clauses/) within a loop.
+It can be useful to skip to the next iteration of a loop early. I do this all the time to create [guard clauses](/clean-code/guard-clauses/) within a loop.
 
 ```go
 for i := 0; i < 10; i++{

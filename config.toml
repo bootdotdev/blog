@@ -1,6 +1,6 @@
 baseURL = 'https://blog.boot.dev/'
 languageCode = 'en-us'
-title = 'The Boot.dev Blog'
+title = 'Boot.dev'
 disqusShortname = ""
 ignoreFiles = []
 footnotereturnlinkcontents = "↩"
