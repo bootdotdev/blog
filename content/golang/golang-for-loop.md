@@ -9,7 +9,7 @@ images:
   - /img/800/gopher-on-a-loopy.png.webp
 ---
 
-For loops are a programmer's best friend! They allow us execute blocks of code repeatedly and iterate over collections of items. In Go, there are several different ways to write one. Read on to see all of the various options.
+For loops are a programmer's best friend! They allow us execute blocks of code repeatedly and iterate over collections of items. In Go, there are several different ways to write one.
 
 ## #1 The standard 3-component loop
 
@@ -23,7 +23,7 @@ for i := 0; i < 100; i++ {
 The 3 components of a for loop in Go are:
 
 * The init statement, `i := 0`
-* The condition, `i < 10`
+* The condition, `i < 100`
 * The post statement, `i++`
 
 Here's how the Go compiler executes for-loops:
