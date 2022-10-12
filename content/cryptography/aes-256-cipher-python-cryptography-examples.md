@@ -8,6 +8,8 @@ categories:
   - "security"
 images:
   - /img/800/photo-1507680225127-6450260913c0.webp
+aliases:
+  - /cryptography/aes-256-cipher-python-cryptography-examples/cryptography/very-basic-intro-to-the-scrypt-hash/
 ---
 
 Want to encrypt text with a password or private key in Python? AES-256 is a solid symmetric cipher that is commonly used to encrypt data for oneself. In other words, the same person who encrypts the data also decrypts it, the way personal password managers work.

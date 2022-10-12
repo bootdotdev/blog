@@ -2,6 +2,8 @@
 title: "Contact Us"
 author: Lane Wagner
 date: "2020-02-06"
+aliases:
+  - "/affiliates"
 ---
 
 It’s easy to get in touch with us! Feel free to email us at `hello` `at` `boot.dev`  if you’re interested in any of the following.
