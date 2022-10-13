@@ -8,7 +8,7 @@ images:
   - /img/800/scales.jpg.webp
 ---
 
-So you want to get into web development, and you keep hearing about about "front-end" and "back-end" positions. The question is, *which should you learn first*? As someone who's held both front-end and back-end positions, and even been a hiring manager, read on and I'll give you my thoughts.
+So you want to get into web development, and you keep hearing about "front-end" and "back-end" positions. The question is, *which should you learn first*? As someone who's held both front-end and back-end positions, and even been a hiring manager, read on and I'll give you my thoughts.
 
 ## There isn't a right answer, but there is a better one
 
