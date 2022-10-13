@@ -63,7 +63,7 @@ My belief is that due to the *slightly* shorter learning path to becoming a fron
 
 ## Front-end work will give you more exposure to users
 
-Once final point I want to bring up in favor of learning front-end development first is that as a front-end developer you'll get to interact more closely with users and the end-product. There are 2 main benefits to this:
+One final point I want to bring up in favor of learning front-end development first is that as a front-end developer you'll get to interact more closely with users and the end-product. There are 2 main benefits to this:
 
 1. If you ever want to start your own company, you'll already have experience with product design
 2. You'll have more chances to interact with the non-engineering side of the business
