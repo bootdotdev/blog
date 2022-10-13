@@ -508,8 +508,6 @@ Produce the final hash value (big-endian):
 digest := hash := h0 append h1 append h2 append h3 append h4 append h5 append h6 append h7
 ```
 
-## Additional common questions about SHA-256
-
 ## Are SHA-2 and SHA-256 the same?
 
 SHA-2 is an [algorithm](https://boot.dev/learn/learn-algorithms), or a generalized idea of how to hash data. SHA-2 has several variants, all of which use the same algorithm but use different constants. SHA-256, for example, sets additional constants that define the behavior of the SHA-2 algorithm, one of these constants is the output size, 256. The 256 and 512 in SHA-256 and SHA-512 refer to the respective digest size in bits.
