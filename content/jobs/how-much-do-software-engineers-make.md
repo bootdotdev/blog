@@ -41,9 +41,9 @@ And globally:
 
 As it happens, we have several great Go courses to jumpstart your career:
 
-- [Go Mastery](https://boot.dev/learn/learn-golang)
-- [Big-O Algorithms (Go)](https://boot.dev/learn/learn-algorithms)
-- [Practical Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
+- [Learn Go](https://boot.dev/learn/learn-golang)
+- [Learn Algorithms)](https://boot.dev/learn/learn-algorithms)
+- [Learn Cryptography](https://boot.dev/learn/learn-cryptography)
 
 {{< cta1 >}}
 
