@@ -1,5 +1,5 @@
 ---
-title: "A Guide to all the types of functions in Python"
+title: "All the Kinds of Functions in Python"
 author: Eteims
 date: "2022-10-13"
 images:
@@ -12,10 +12,7 @@ categories:
   - "python"
 ---
 
-Functions are one of the most versatile tools in any python programmer's toolbox. They enable code reuse and provide a form of abstraction.
-
-Python offers flexibility in terms of function creation. It also comes with different types of functions.
-In this article, I will be discussing the different types of functions you will encounter as a python developer.
+Functions are one of the most versatile tools in any Python programmer's toolbox. They enable code reuse and provide a form of abstraction. Python offers many different types of functions. In this article, I will be discussing the different types of functions you will encounter as a Python developer.
 
 ## Impure Functions
 
@@ -32,13 +29,11 @@ print(num) # 2
 print(sq_num) # 4
 ```
 
-Impure function is one of the most common type of function. It takes an input either by value or reference and returns a value. 
-They are, called impure because they perform [side effects](https://en.wikipedia.org/wiki/Side_effect_(computer_science)). 
+Impure functions are one of the most common type of function. they take an input either by value or reference and return a value. They are impure because they perform [side effects](https://en.wikipedia.org/wiki/Side_effect_(computer_science)). 
 
-In the example above, the function performs a side effect by altering the global variable `num`.
-In the real world, the side effect can be an HTTP request or even printing to the console.
+In the example above, the function performs a side effect by altering the global variable `num`. This is a valid side effect, but you'll often also encounter "side effects" like  HTTP requests, printing to the console or accessing a database.
 
-Impure functions are useful but are error-prone and hard to test due to their side effects.
+Impure functions are useful but are often error-prone and hard to test due to their side effects.
 
 ## Pure functions
 
@@ -49,12 +44,9 @@ def sq(x):
 sq_num = sq(2) # returns 4
 ```
 
-Pure functions are functions with no side effects. 
-They are similar to [functions](https://en.wikipedia.org/wiki/Function_(mathematics)) in mathematics.
-They take in an input and produce an output without altering any external states.
+Pure functions are functions with no side effects. They are similar to [functions](https://en.wikipedia.org/wiki/Function_(mathematics)) in mathematics. They take in an input and produce an output without altering any external states.
 
-It makes them easy to test and predictable. 
-Pure functions are widely used in [functional programming](https://en.wikipedia.org/wiki/Functional_programming)
+It makes them easy to test and predictable. Pure functions are widely used in [functional programming](https://en.wikipedia.org/wiki/Functional_programming)
 
 ## Subroutine
 
@@ -66,18 +58,13 @@ sub(2)
 # The square of 2 is 4
 ```
 
-A subroutine is a function that doesn't return a value. 
-It performs a task, and that task can be an effect. 
-It could take in a value in other to perform it's task.
-After execution, it gives control back to the caller.
+A subroutine is a function that doesn't return a value. It performs a task, and that task can be an effect. It could take in a value in other to perform it's task. After execution, it gives control back to the caller.
 
 ## Coroutine
 
-Coroutines are functions capable of multitasking cooperatively. A function working cooperatively can pause its execution and hand control to another function when it is idle or performing a [blocking](https://en.wikipedia.org/wiki/Blocking_(computing)) task.
+Coroutines are functions capable of multitasking cooperatively. A function working cooperatively can pause its execution and hand control off to another function when it is idle or performing a [blocking](https://en.wikipedia.org/wiki/Blocking_(computing)) task.
 
-Coroutines are a form of [concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science)). They are preferred to other concurrency models like [multithreading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)). 
-Thanks to the `async` and `await` keywords introduced in [pep 492](https://peps.python.org/pep-0492/), they have become common and intuitive. 
-Below is an example of coroutines in python using the `asyncio` framework.
+Coroutines are a form of [concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science)). They are preferred to other concurrency models like [multithreading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)). Thanks to the `async` and `await` keywords introduced in [PEP 492](https://peps.python.org/pep-0492/), they have become common and intuitive. Below is an example of coroutines in Python using the [asyncio](https://docs.python.org/3/library/asyncio.html) library.
 
 ```python
 import asyncio
@@ -114,17 +101,13 @@ Task finished in 5.004022927998449
 """
 ```
 
-The coroutine `chill` is called three times, and each instance of it blocks for a certain period. 
-When a particular coroutine starts blocking it passes control to another coroutine. 
-The coroutines in the example above blocks for 10 seconds in total but they perform their task in 5 seconds because they worked cooperatively.
+The coroutine `chill` is called three times, and each instance of it blocks for a certain period. When a particular coroutine starts blocking it passes control to another coroutine. The coroutines in the example above block for a total of 10 seconds but they perform their task in 5 seconds in real-time because they worked cooperatively at the same time.
 
 ## Generators
 
-When regular functions get called they perform their task and return to their caller.
-If they are called again they start execution from the beginning and return to their caller again.
+When regular functions are called they perform their task and return to their caller. If they are called again they start execution from the beginning and return to their caller again.
 
-Generators are functions that can pause their execution after being called.
-If they are called again they resume from where they stopped previously.
+Generators are functions that can pause their execution after being called. If they are called again they resume from where they stopped previously.
 
 ```python
 def infCount():
@@ -143,16 +126,11 @@ next(inf) # 1
 next(inf) # 2
 ```
 
-The code above implements an infinite counter using generators in python.
-The `next` built-in function is used to call a generator. After each call, it pauses its execution and resumes on the next call.
+The code above implements an infinite counter using generators in Python. The built-in `next()` function is used to call a generator. After each call, it pauses its execution and resumes on the next call.
 
 ## Methods
 
-An Object is a collection of related data and functions.
-Functions in an object are called **methods**. 
-Rather than manipulating the data directly, methods are used. This is known as **Encapsulation**. 
-The method definition is contained in the **class** of the object along with its related data. 
-When an instance of the class has been created the method can be accessed via the syntax `instance-name.method-name`.  
+An Object is a collection of related data and functions. Functions in an object are called **methods**. Rather than manipulating the data directly, methods are used. This is known as **Encapsulation**. The method definition is contained in the **class** of the object along with its related data. When an instance of the class has been created the method can be accessed via the syntax `instance-name.method-name`.  
 
 ```python
 class Position:
@@ -175,21 +153,17 @@ p.set_pos(4, 5) # New positiom 4 and 5
 p.pos() # (4, 5)
 ```
 
-The class above defines three methods. 
-The `__init__` method is the constructor method, `pos` returns a tuple of the object's position and `set_pos` changes the object's position. 
-The data being manipulated by the method is the `self.x` and `self.y` properties.
+The class above defines 3 methods. The `__init__()` method is the constructor, `pos()` returns a tuple of the object's position and `set_pos()` changes the object's position. `self.x` and `self.y` are member variables mutated by the various methods.
 
 ## Anonymous function
 
-
-Anonymous functions are functions without an assigned name. They are used to perform one-off tasks. 
-The code below is an example of anonymous functions in python.
+Anonymous functions are functions without an assigned name. They are used to perform one-off tasks. The code below is an example of and anonymous function in Python.
 
 ```python
 lambda x: x * x
 ```
 
-They can also be used as an expression known as **lambda expression**. They can then be assigned to variables.
+Anonymous functions are also called **lambda expressions**. The functions can then be saved in variables.
 
 ```python
 sq = lambda x: x * x
@@ -200,26 +174,26 @@ sq(2) # returns 4
 
 Higher-order functions take in other functions as input or return other functions. Here's a list of popular higher-order functions:
 
-- `map`
-- `filter`
-- `reduce`
+- `map()`
+- `filter()`
+- `reduce()`
 
-### map
+### map()
 
-The `map` higher-order function takes in an array and another function. It then applies the function across the array.
+The `map()` higher-order function takes in an array and another function. It then applies the function across the array.
 
 ```python
 data = map(lambda x: x*x, [1,2,3,4,5])
 list(data) # [1, 4, 9, 16, 25]
 ```
 
-The code above uses the `map` higher-order function in python to square all the values in the array via an anonymous function.
+The code above uses the `map` higher-order function in Python to square all the values in the array via an anonymous function.
 
 The map function returns an iterator which needs to be converted to a list to get the new values.
 
-### filter
+### filter()
 
-The `filter` higher-order function takes in an array and another function,
+The `filter()` higher-order function takes in an array and another function,
 which is called the **predicate**. 
 It selects the entries in the array that are true based on the predicate function.
 
@@ -230,9 +204,9 @@ list(data) # [2, 4, 6, 8, 10]
 
 The filter function also returns an iterator.
 
-### reduce
+### reduce()
 
-The `reduce` higher-order function reduces an array of values to a single value using another function called the **reducer**.
+The `reduce()` higher-order function reduces an array of values to a single value using another function called the **reducer**.
 
 ```python
 from functools import reduce
@@ -241,7 +215,7 @@ reduce(lambda a, b: a + b, ["H", "E", "L", "L", "O"])
 # "HELLO"
 ```
 
-The `reduce` higher-order function needs to be imported from `functools`.
+The `reduce` higher-order function needs to be imported from [functools](https://docs.python.org/3/library/functools.html).
 
 ## Closures
 
@@ -256,20 +230,16 @@ clos = factory()
 clos(2) # returns 20
 ```
 
-A closure is a function capable of capturing variables from where it was created.
-They are functions with internal states. They are created by a **higher-order function**.
+A closure is a function capable of capturing variables from where it was created. They are functions with internal state. They are created by a **higher-order function**.
 
-The example above has a higher-order function called `factory`. 
-The function has a variable called `num`. Another function is defined within the factory function called `mult_by_10`.
+The example above has a higher-order function called `factory`. The function has a variable called `num`. Another function is defined within the factory function called `mult_by_10`.
 
-The `factory` function returns the `mult_by_10` function which is the **closure**.
-When the returned function is called, it still has access to the `num` value.
+The `factory` function returns the `mult_by_10` function which is the **closure**. When the returned function is called, it still has access to the `num` value.
 
 ## Recursive function
 
-A recursive function is a function that can call itself. They have a base case, 
-which serves as it's termination. It also needs one or more else cases.
-The recursive function serves as an alternative to iteration.
+A recursive function is a function that can call itself. It has a base case, 
+which serves as it's termination point. Recursion is often an alternative to iteration.
 
 ```python
 def nthSum(n):
@@ -281,7 +251,7 @@ def nthSum(n):
 nthSum(5) # returns 15
 ```
 
-A recursive function that calculates the sum of n natural numbers.
+`nthSum()` is a recursive function that calculates the sum of n natural numbers.
 
 ## Curried function
 
@@ -313,8 +283,7 @@ A non-curried function can be partially applied via the `partial` function from 
 
 ## Decorators
 
-Decorators are functions which add extra functionality to already existing functions.
-They are similar to closures but have a special syntax.
+Decorators are functions which add extra functionality to previously existing functions. They are similar to closures but have a special syntax.
 
 ```python
 def decor(func):
@@ -337,10 +306,9 @@ Hello world!
 """
 ```
 
-The example above defines a decorator called `decor` which takes in a function `func` as a parameter.
-Another function called `wrapp` is defined within `decor`. The `wrapp` function serves as a wrapper to the `func` function.
+The example above defines a decorator called `decor` which takes in a function `func` as a parameter. Another function called `wrapp` is defined within `decor`. The `wrapp` function serves as a wrapper to the `func` function.
 
-The `decor` is then used to decorate the `hello` function. Decorators are [syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar) below is the equivalent Syntax.
+The `decor` is then used to decorate the `hello` function. Decorators are just [syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar).
 
 ```python
 decor(hello)
@@ -354,7 +322,4 @@ Hello world!
 """
 ```
 
-## Conclusion 
-
-Python offers a wide range of functions and techniques for creating functions.
-Knowing the different types of functions helps you write better code, and also understand other programmers' code.
+Python offers a wide range of functions and techniques for creating functions. Knowing the different types of functions helps you write better code, and also understand other programmers' code.
