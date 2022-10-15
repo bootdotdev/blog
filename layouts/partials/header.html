@@ -5,8 +5,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
-    {{if eq .Title .Site.Title}}
-    {{ title .Site.Title }}
+    {{if eq .Title .Site.Title }}
+    {{ if $.Paginator }}
+    {{ if gt $.Paginator.PageNumber 1 }}
+    {{ title .Title }} Blog Pg. {{ $.Paginator.PageNumber }}
+    {{ else }}
+    {{ title .Title }} Blog
+    {{ end }}
+    {{ else }}
+    {{ title .Title }} Blog
+    {{ end }}
     {{ else }}
     {{ if $.Paginator }}
     {{ if gt $.Paginator.PageNumber 1 }}
