@@ -100,7 +100,7 @@ Python use in finance is practically unlimited, and I expect that as time goes o
 
 ## Want to Learn Python For a Future Finance Role?
 
-If you're looking to get started with Python, we built our [Python Fundamentals course](https://boot.dev/learn/learn-python) to take you from novice to intermediate level, prepping you to take on more advanced topics like data science for financial data.
+If you're looking to get started with Python, we built our [Learn Python course](https://boot.dev/learn/learn-python) to take you from novice to intermediate level, prepping you to take on more advanced topics like data science for financial data.
 
 If you're more advanced, we also have Big O Data Structures and Advanced Algorithms to learn key computer science concepts while interactively coding along with each lesson's challenge, putting your newly-gained skilled into action.
 

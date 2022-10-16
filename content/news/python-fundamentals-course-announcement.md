@@ -1,5 +1,5 @@
 ---
-title: "Our Python Fundamentals Course Has Released"
+title: "Our Learn Python Course Has Released"
 author: Lane Wagner
 date: "2021-07-27"
 categories: 
@@ -7,21 +7,21 @@ categories:
   - "python"
 ---
 
-We’ve just launched our latest course, [Python Fundamentals](https://boot.dev/learn/learn-python).
+We’ve just launched our latest course, [Learn Python](https://boot.dev/learn/learn-python).
 
-[Start the "Python Fundamentals" Course Now](https://boot.dev/dashboard/courses)
+[Start the "Learn Python" Course Now](https://boot.dev/dashboard/courses)
 
 **What’s more:** to celebrate the release, we’re offering full FREE access to the entire course — yep, you can take the entire course for free for a month — but the code expires in just 14 days. Simply enter this code at checkout:
 
 YAYPYTHON
 
-Featuring more than 65 interactive, code-in-your-browser lessons across six modules, this course is perfect for new-to-beginner students who have completed our [Intro To Coding with JavaScript Courses](https://boot.dev/learn/learn-javascript) and picked up the basics of a trickier language by taking [Go Mastery 1](https://boot.dev/learn/learn-golang).
+Featuring more than 65 interactive, code-in-your-browser lessons across six modules, this course is perfect for new-to-beginner students who have completed our [Intro To Coding with JavaScript Courses](https://boot.dev/learn/learn-javascript) and picked up the basics of a trickier language by taking [Learn Go 1](https://boot.dev/learn/learn-golang).
 
 View our [full course curriculum here](https://github.com/bootdotdev/curriculum)
 
 ## What’s included?
 
-Our Python Fundamentals course features six modules covering:
+Our Learn Python course features six modules covering:
 
 1. **Intro to Python and general theory**
 2. **Variables**

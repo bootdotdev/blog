@@ -142,4 +142,4 @@ Regardless of what you choose, you’ll land on your feet with a language suppor
 
 **Take action and learn to code:**
 
-If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/learn/learn-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
+If you're looking to learn Python, we built our [Learn Python course](https://boot.dev/learn/learn-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.

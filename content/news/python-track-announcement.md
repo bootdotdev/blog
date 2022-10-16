@@ -6,7 +6,7 @@ categories:
   - "news"
 ---
 
-We recently took a look at our course curriculum and felt that our current Big-O Algorithms course, written in Go, would be better served if it covered Python instead. After much deliberation, we decided to rewrite the course, and we're super excited to have now released the course in Python!
+We recently took a look at our course curriculum and felt that our current Learn Algorithms course, written in Go, would be better served if it covered Python instead. After much deliberation, we decided to rewrite the course, and we're super excited to have now released the course in Python!
 
 ...This led to a larger conversation on how we can help people who don't want an entire computer science syllabus, and who want more targeted learning -- such as a more in-depth journey through Python.
 
@@ -16,18 +16,18 @@ View our [full course curriculum here](https://github.com/bootdotdev/curriculum)
 
 ## What's Included?
 
-[Our first Track](https://github.com/bootdotdev/curriculum/blob/main/ALGOS_DS_TRACK.md), featuring our Python courses, starts with our Python Fundamentals course for Python beginners without much previous experience. Then, you move through our Algorithms and Data Structures courses, finishing up with our Advanced Algorithms course.
+[Our first Track](https://github.com/bootdotdev/curriculum/blob/main/ALGOS_DS_TRACK.md), featuring our Python courses, starts with our Learn Python course for Python beginners without much previous experience. Then, you move through our Algorithms and Data Structures courses, finishing up with our Advanced Algorithms course.
 
 [Start the track now](https://boot.dev/)
 
 **The entire Python Track consists of:**
 
-1. **[Python Fundamentals](https://boot.dev/learn/learn-python)**
-2. **[Big-O Algorithms](https://boot.dev/learn/learn-algorithms)**
-3. **[Big-O Data Structures](https://boot.dev/learn/learn-data-structures)**
-4. **[Advanced Algorithms](https://boot.dev/learn/learn-advanced-algorithms)**
+1. **[Learn Python](https://boot.dev/learn/learn-python)**
+2. **[Learn Algorithms](https://boot.dev/learn/learn-algorithms)**
+3. **[Learn Data Structures](https://boot.dev/learn/learn-data-structures)**
+4. **[Learn Advanced Algorithms](https://boot.dev/learn/learn-advanced-algorithms)**
 
-These 4 courses feature over 285 interactive lessons where you write Python code to solve challenges and gain practical experience to advance your skills. It's all browser-based with no downloads, and it's ideal for any would-be Python programmers starting from scratch, as well as for anyone more advanced who wants to ace their next technical interview by jumping straight in at the Big-O Algorithms course.
+These 4 courses feature over 285 interactive lessons where you write Python code to solve challenges and gain practical experience to advance your skills. It's all browser-based with no downloads, and it's ideal for any would-be Python programmers starting from scratch, as well as for anyone more advanced who wants to ace their next technical interview by jumping straight in at the Learn Algorithms course.
 
 Completing all 4 courses will put you in a great position to land your next coding job -- the courses contain everything you need to become more employable.
 

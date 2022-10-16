@@ -1,5 +1,5 @@
 ---
-title: "\"Big-O Algorithms\" Course Released"
+title: "\"Learn Algorithms\" Course Released"
 author: Lane Wagner
 date: "2020-09-14"
 categories: 
@@ -7,7 +7,7 @@ categories:
   - "news"
 ---
 
-We've launched our new _[Big-O Algorithms](https://boot.dev/learn/learn-algorithms)_ course! We wrote this course for engineers who need a refresher on computer science basics or want to learn the fundamentals for the first time.
+We've launched our new [Learn Algorithms](https://boot.dev/learn/learn-algorithms) course! We wrote this course for engineers who need a refresher on computer science basics or want to learn the fundamentals for the first time.
 
 The study of algorithmic complexity is often overlooked by new developers, and we've found that get-rich-quick boot camps often skimp on these details. It’s impossible to become a senior developer without being familiar with the concepts in this course, so we figured it was high time we published it.
 
@@ -25,6 +25,6 @@ We are already planning a sequel to this course, so keep an eye out for that. Th
 
 ![golang gopher slice literal](/img/800/Go_Lang_Gopher.jpg)
 
-Coding projects in this course are all written in Go (Golang)! If you aren't familiar with Go yet, take our [Go Mastery](https://boot.dev/go-mastery/) course. It's a growing language and is becoming a cornerstone of back-end and DevOps engineering. All coding assignments and quizzes, as usual, are completed right in the browser. We pride ourselves on keeping our content engaging and all in one convenient place.
+Coding projects in this course are all written in Go (Golang)! If you aren't familiar with Go yet, take our [Learn Go](https://boot.dev/go-mastery/) course. It's a growing language and is becoming a cornerstone of back-end and DevOps engineering. All coding assignments and quizzes, as usual, are completed right in the browser. We pride ourselves on keeping our content engaging and all in one convenient place.
 
 If you want to take a deeper look at the course details, you can do so on it's page [official page here](https://boot.dev/big-o-algorithms/).

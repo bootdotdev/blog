@@ -1,5 +1,5 @@
 ---
-title: "Boot.dev Launches Golang Crash Course - Go Mastery"
+title: "Boot.dev Launches Golang Crash Course - Learn Go"
 author: Lane Wagner
 date: "2020-07-02"
 categories: 
@@ -7,7 +7,7 @@ categories:
   - "news"
 ---
 
-We just launched the new [boot.dev](https://boot.dev/) computer science platform and can't be more excited. Our first crash course in Go, "[Go Mastery](https://boot.dev/learn/learn-golang)" is now available! We teach students by allowing them to write, compile, and run backend code directly in the browser.
+We just launched the new [boot.dev](https://boot.dev/) computer science platform and can't be more excited. Our first crash course in Go, "[Learn Go](https://boot.dev/learn/learn-golang)" is now available! We teach students by allowing them to write, compile, and run backend code directly in the browser.
 
 ## Our Difference
 
@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=-MTRxRO5SRA
 
 ## Code In Browser
 
-Programming courses make the most sense as **hands-on**, **code-as-you-go** style tutorials. _Go Mastery_ has 2 exercise types:
+Programming courses make the most sense as **hands-on**, **code-as-you-go** style tutorials. _Learn Go_ has 2 exercise types:
 
 - Code Completion (~75% of exercises)
 - Multiple Choice Questions (~25% of exercises)

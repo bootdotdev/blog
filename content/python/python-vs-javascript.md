@@ -1,25 +1,27 @@
 ---
-title: "Python vs JavaScript: Which Should You Learn First?"
+title: "Python vs JavaScript: What's the Difference and Which Should You Learn?"
 author: Meghan Reichenbach
 date: "2021-08-24"
+lastmod: "2022-10-16"
 categories: 
   - "javascript"
   - "python"
 images:
   - /img/800/Python-vs-JavaScript-min.webp
+toc: true
 ---
 
-From the outset, comparing JavaScript and Python seems a bit like comparing apples and oranges, but surprisingly there are quite a few similarities hidden beneath their popular exterior.
+From the outset, comparing JavaScript and Python seems a bit like comparing apples and oranges. Surprisingly however, there are quite a few similarities hidden beneath their popular respective exteriors.
 
-Python is known for its simple but robust design and is favored for web and software development, as well as data work. JavaScript, on the other hand, has a syntax similar to Java’s and is mostly used for client-side and server-side development, web and mobile applications, and browser games.
+[Python](https://boot.dev/learn/learn-python) is known for its simple and elegant language design and is used across the board for machine learning, data engineering, and back-end development work. On the other hand, [JavaScript](https://boot.dev/learn/learn-javascript) has a syntax similar to Java’s and is mostly used on the front-end, though with the advent of new technologies like Node.js and React Native JavaScript is now also used in back-end and mobile development.
 
-## A Quick Background to Python and JavaScript
+## A Quick Background on Python and JavaScript
 
 Both JavaScript and Python are multiparadigm languages that are high-level, dynamically typed, and interpreted.
 
-Python is a general-purpose language developed by Guido van Rossum at CWI as a replacement for the ABC programming language and was first released in 1991. It's typically used for procedural and functional programming, but also supports both imperative and OOP.
+Python is a general-purpose language developed by Guido van Rossum at CWI as a replacement for the ABC programming language and was first released in 1991. It's typically used for procedural and functional programming, but also supports both imperative and OOP styles.
 
-Alternatively, JavaScript first appeared in 1995, four years after Python, and is a scripting language created by Brendan Eich at Netscape, the now-defunct precursor to Google. JavaScript is used mostly as an object-oriented language, but also supports event-driven, functional, and imperative programming.
+Alternatively, JavaScript first appeared in 1995, four years *after* Python, and is a scripting language created by Brendan Eich at Netscape, the now-defunct precursor to Google. JavaScript is used mostly as an object-oriented language, but also supports event-driven, functional, and imperative programming.
 
 Now that we have a better understanding of these two languages, we can finally start comparing. I’ll start by weighing out which language is best suited for beginners, then move on to the juicy stuff like salary, performance, data science, web development, and which one is best for you!
 
@@ -27,11 +29,9 @@ Now that we have a better understanding of these two languages, we can finally s
 
 ## JavaScript vs Python: Which is Best For Beginners?
 
-Both languages have excellent advantages for beginners, it just depends on what advantages you’re looking for.
+Both languages have excellent advantages for beginners, it just depends on what advantages you’re looking for. Python was designed to be straightforward, and what makes it a great choice for beginners is its readability. Python is praised by industry professionals of all backgrounds for its simplistic design that reads like plain English, giving it an unbeatable learning curve. That's why we teach Python to beginner developers first here at [Boot.dev](https://boot.dev) instead of JavaScript.
 
-Python was designed to be straightforward, and what makes it a great choice for beginners is its readability. Python is praised by industry professionals of all backgrounds for its simplistic design that reads like English, giving it an unbeatable learning curve.
-
-It’s also a procedural language, one of the easiest paradigms to learn, and has easy error handling, further cementing its claim as a perfect beginner language.
+Python is also a procedural language (one of the easiest paradigms to learn), and has easy error handling, further cementing its claim as a perfect beginner language.
 
 Aside from being easy to learn, Python has an amazing standard library full of useful features, and excellent compatibility with industry-preferred third-party tools. And with a huge community of enthusiastic developers, there’s no short supply of open-source frameworks and libraries at your disposal, giving you plenty of diverse Python applications.
 
@@ -39,15 +39,13 @@ Aside from being easy to learn, Python has an amazing standard library full of u
 
 This is particularly handy for accessing libraries for fields like AI, back-end development, and even finance and fintech when leveraging large mathematical data sets.
 
-It’s not all about Python though as JavaScript has unique benefits of its own.
+All that said, JavaScript has some amazing and unique benefits of its own.
 
-JavaScript’s learning curve isn’t as simple as Python’s, but it’s not far behind. Instead of focusing on simplicity, JavaScript focuses on flexibility. This creates a forgiving environment for new coders to explore programming without too many rules.
+JavaScript’s learning curve isn’t as simple as Python’s, but it’s not too far behind. Instead of focusing on *simplicity*, JavaScript focuses on *flexibility*. This creates a forgiving environment for new coders to explore programming without too many rules. This is in large due to it being dynamically typed, but also because JavaScript is incredibly lightweight. There’s no fluffy jargon to deal with when coding, plus access to its large following of developers makes problem-solving and finding answers to questions online a breeze.
 
-This is in large due to it being dynamically typed, but also because JavaScript is incredibly lightweight. There’s no fluffy jargon to deal with when coding, plus access to its large following of developers makes problem-solving and learning a breeze.
+As one of the most used scripting languages, JavaScript comes with respect and investment not only from developers but also large companies, leading to the creation of powerful run-time environments like [Node.js](https://nodejs.org/en/), and libraries like React.
 
-As one of the most used scripting languages, JavaScript comes with respect and investment not only from developers but also companies, leading to the creation of powerful run-time environments like Node.js, and libraries like React.
-
-Beginners and experts alike will benefit from learning either language, depending on what field you want to work in. **If you want to see how easy they are to learn for yourself**, then head over to our free-to-try [intro to JavaScript](https://boot.dev/learn/learn-javascript) or [Python fundamentals](https://boot.dev/learn/learn-python) courses for a quick taste.
+You will benefit from learning either language, the the best choice probably depends upon on what field you want to work in. **If you want to see how easy they are to learn for yourself**, then head over to our free-to-try [Learn JavaScript](https://boot.dev/learn/learn-javascript) or [Learn Python](https://boot.dev/learn/learn-python) courses for a quick taste.
 
 {{< cta1 >}}
 
@@ -63,39 +61,31 @@ Along with being well paid, JavaScript ranked number 1 for the most popular lang
 
 ## Python vs JavaScript Performance
 
-There are multiple ways to think about performance, but today we’re focusing on run-time performance.
+There are multiple ways to think about performance, but today we’re focusing on [run-time performance](https://www.quora.com/What-is-runtime-performance).
 
-Modern-day JavaScript is known for having powerful performance, thanks to its V8 engine. JavaScript is originally an interpreted language, but when the V8 engine was released, it came with the Just-In-Time (JIT) compiler, which allowed JS compilation and the power to optimize code at compile time.
+Modern-day JavaScript is known for having powerful performance, thanks to its V8 engine. JavaScript was originally a run-of-the-mill interpreted language, but when the V8 engine was released, it came with the Just-In-Time (JIT) compiler, which allowed for compilation and the ability to optimize the code in order to run much faster.
 
-This increases performance not only because it optimizes code, but because compiling results in faster execution time than interpreting. And since JavaScript is a lightweight, flexible language, it’s the perfect storm for fast compilation.
+This increases performance not only because it optimizes code, but because compiling results in faster execution time than interpreting. And since JavaScript is a lightweight, flexible language, it’s the perfect storm for fast compilation. Along with the V8 engine, [JavaScript has the Node.js run-time environment](/javascript/nodejs-vs-javascript/), which allows JavaScript to run server-side. Node.js most notably supports multithreading – or the ability to run multiple tasks at once – a crucial aspect for creating performance-heavy applications.
 
-Along with the V8 engine, JavaScript has the Node.js run-time environment, which allows JavaScript to run server-side. Node.js most notably supports multithreading – or the ability to run multiple tasks at once – a crucial aspect for creating performance-heavy applications.
+In this [Python vs Node.js benchmark,](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html) you can really see the influence Node.js has on JavaScript’s overall run-time. Python is strong, stable, and readable, but that comes at as a cost as it’s slower than its competitors. Granted this doesn’t seem to affect its love and popularity, but it’s not a go-to for performance-heavy applications.
 
-In this [Python vs Node.js benchmark,](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html) you can really see the influence Node.js has on JavaScript’s overall run-time.
+Python gets its readability from using higher levels of abstraction and has stricter rules around coding, meaning it takes longer to interpret. However, it’s these exact features that make it a safer language. There’s also no compilation option, so it relies on slower interpreted code.
 
-Python is strong, stable, and readable, but that also means it’s slower than its competitors. Granted this doesn’t seem to affect its love and popularity, but it’s not a go-to for performance-heavy applications.
-
-Python gets its readability from using higher levels of abstractions and has stricter rules around coding, meaning it takes longer to interpret. However, it’s these exact features that make it a safe language for large CPU programs. There’s also no compilation option, so it relies on slower interpreted functions.
-
-It’s not all bad, as Python’s coding time is faster. Because its syntax is so simple, you can code programs much faster than in JavaScript. Python also has implementations like Jython and Cython that aim to increase performance, but overall, it’s still not to the level of JavaScript's V8 engine.
+It’s not all bad, as Python’s "coding time" is faster. Because its syntax is so simple, you can write programs much faster than you would be able to do in JavaScript. Python also has implementations like Jython and Cython. In fact, when running compute-heavy machine learning workloads in Cython, you basically get the speed of stright C, which outperforms JavaScript and it's V8 engine everytime.
 
 {{< cta2 >}}
 
 ## Python vs JavaScript for Machine Learning
 
-When it comes to machine learning, Python’s influence is undeniable.
+*When it comes to machine learning, Python’s supremacy is undeniable.*
 
-Python naturally fits into experimental fields. It handles machine learning algorithms and data effortlessly, and its readable syntax makes it a stable language to experiment with and quickly make changes.
-
-Python’s also platform-independent, so you can implement your ML programs across different platforms without losing time rewriting them.
+Python naturally fits into experimental fields. It handles machine learning algorithms and data effortlessly, and its readable syntax makes it a stable language to experiment with and quickly make changes. Python’s also platform-independent, so you can implement your ML programs across different platforms without losing time rewriting them.
 
 Along with the correct structural support, Python’s compatible with fantastic deep learning libraries like [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/). Since it’s supported by the machine learning industry, open-source resources are abundant, as well as community forums perfect for problem-solving and peer support.
 
 Probably the most attractive aspect though is how quickly you can get started. The demand for Python developers in ML is growing and it’s an easy language to learn, creating an ideal environment for getting involved in the field quickly.
 
-JavaScript, on the other hand, isn’t as popular but it still has its high points.
-
-JavaScript is natively supported by all modern mobile and desktop browsers, so your ML applications are likely to run on most desktop and mobile devices. A.k.a your application will be accessible to most users.
+JavaScript, on the other hand, isn’t as popular for machine learning. JavaScript is natively supported by all modern mobile and desktop browsers, so your ML applications are likely to run on most desktop and mobile devices. A.k.a your application will be accessible to most users.
 
 It’s also compatible with Google’s famous ML and deep learning library TensorFlow.js, as well as [ML5.js](https://ml5js.org/), [Synaptic](https://caza.la/synaptic/#/), and [Brain.js](https://brain.js.org/#/).
 
@@ -109,7 +99,7 @@ Data science and machine learning require similar prerequisites, so it’s no su
 
 Again, Python simply has the bandwidth to process and support large data sets and CPU-heavy operations, making it ideal for data science. It also has fantastic third-party support like [Pandas](https://pandas.pydata.org/) for high-level data structure and data analysis, [Matplotlib](https://matplotlib.org/) for crafting 2D charts, Statsmodel for statistical algorithms, and [NumPy](https://numpy.org/) for processing large mathematical functions.
 
-It’s _the_ language for data scientists, and with that comes an enthusiastic backing from programmers and companies eager to develop new tools to enhance Python’s data science capabilities.
+It’s *the* language for data scientists, and with that comes an enthusiastic backing from programmers and companies eager to develop new tools to enhance Python’s data science capabilities.
 
 JavaScript doesn’t have the same excitement behind it, but it does again have its own benefits.
 
@@ -131,7 +121,7 @@ As you can see, the number of resources is endless because it’s been the go-to
 
 JavaScript is truly the jack of all trades when it comes to web development.
 
-Python, however, sticks to the background focusing on back-end development. Its robust and stable design makes it ideal for handling back-end CPU operations, and its readability makes coding and documenting back-end software a breeze. But, it struggles to perform at the level necessary for front-end development.
+Python, however, really only works for back-end development when it comes to the web. Its robust and stable design makes it ideal for handling back-end CPU operations, and its readability makes coding and documenting back-end software a breeze. Because it can't run in a browser, it just doesn't work on the front-end very well. Sure there are ways to hack together a Python front-end, but it's almost certainly more trouble than it's worth.
 
 **Overall,** JavaScript’s universal support and ability to move between front-end and back-end give it a level of versatility that can’t be ignored.
 
@@ -141,10 +131,10 @@ Python, however, sticks to the background focusing on back-end development. Its 
 
 Asking which is better is like asking which came first, the chicken or the egg?
 
-While structurally there are some similarities between JavaScript and Python, they bring different expertise to programming.  
+While structurally there are some similarities between JavaScript and Python, they are ultimately masters of their respective domains.  
 
 If you’re interested in a modern yet established language, working in start-up environments, and getting creative with web development, then JavaScript is the language for you. However, if robust and minimalist languages, experimental fields, and pushing the boundaries on AI and machine learning intrigue you, then Python is your ticket to this kind of career.
 
 In reality, both languages have the potential to satisfy any of these cravings – machine learning, web development, modern, start-up – and both come with the promise of exciting and well-paying futures.
 
-**At Boot.dev we're big fans of both JavaScript and Python**, and think they're two of the best languages to teach beginners to computer science. We developed our [Intro to Coding with JavaScript courses](https://boot.dev/learn/learn-javascript) for brand-new coders which we recommend you start with, as well as our [Python Fundamentals](https://boot.dev/learn/learn-python) course to build on your skills and get down with Python.
+**At Boot.dev we're big fans of both JavaScript and Python**, and think they're two of the best languages to teach beginners to computer science. We developed our [Learn Python](https://boot.dev/learn/learn-python) course for brand-new coders which we recommend you start with, as well as our [Learn JavaScript](https://boot.dev/learn/learn-javascript) course to build on your skills and learn about some more advanced topics like functional programming.

@@ -73,7 +73,7 @@ There are tons of courses online to learn Python, but with boot.dev you build th
 
 Beyond that one project, the course itself has plenty of interactive coding challenges that kind of act as mini-projects. They will stretch your limits, but they're great for a beginner who wants to learn Python.
 
-Our first course, Python Fundamentals, is designed to take you from a complete beginner and teach you all the skills you need to become more advanced. In addition to our wider [curriculum](https://github.com/bootdotdev/curriculum), which acts as a complete computer science degree -- but at 5% of the cost 😀 -- we have a specialized Python track for anyone who wants to get an interactive experience with Python and get hired, stat.
+Our first course, Learn Python, is designed to take you from a complete beginner and teach you all the skills you need to become more advanced. In addition to our wider [curriculum](https://github.com/bootdotdev/curriculum), which acts as a complete computer science degree -- but at 5% of the cost 😀 -- we have a specialized Python track for anyone who wants to get an interactive experience with Python and get hired, stat.
 
 [Learn Python with boot.dev Here](https://boot.dev/learn/learn-python)
 
@@ -177,7 +177,7 @@ But in the end, you will have completed a much more rewarding project than just 
 
 By no means consider this list of coding ideas for Python exhaustive. There's more data than this world knows what to do with – the only limitation here is your imagination. Find something you care about, find the data to back it up, and learn Python to solve that problem. That's always going to be the best Python project for a beginner like you.
 
-If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/learn/learn-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
+If you're looking to learn Python, we built our [Learn Python course](https://boot.dev/learn/learn-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
 
 ## Some bonus project ides, in rapid fire
 

@@ -156,6 +156,6 @@ So, it’s really about which one is best for _you_ and your goals. Regardless, 
 
 **For Further Study**
 
-If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/learn/learn-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
+If you're looking to learn Python, we built our [Learn Python course](https://boot.dev/learn/learn-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
 
 [Learn Python Now](https://boot.dev/learn/learn-python)

@@ -75,7 +75,7 @@ For example, Go has very few data types, such as `int`, `string`, `bool`, `float
 
 The language itself is similar to C, just without some of C’s frustrating inefficiencies that reduce the time required to clean complex code. If you have either previous Java or C experience, you’ll have no issues understanding Go as all these languages follow the same procedural approach.
 
-- And if you're struggling to find a course that teaches you Go right from the beginning, try our [Go Mastery course](https://boot.dev/learn/learn-golang).
+- And if you're struggling to find a course that teaches you Go right from the beginning, try our [Learn Go course](https://boot.dev/learn/learn-golang).
 
 ### Go is Fast
 
@@ -159,4 +159,4 @@ So should you learn Go, too?
 
 We absolutely think so.
 
-We’re huge fans of Golang at boot.dev, and created our [Go Mastery courses](https://boot.dev/learn/learn-golang) to help teach Go as effectively as possible — by learning by doing. Our interactive lessons have you code in Go to fix problems, create programs, and we even built a specialized [Go Interview Prep course](https://boot.dev/golang/interview-prep-golang-course-released/) for landing a job once you’ve gained the core skills.
+We’re huge fans of Golang at boot.dev, and created our [Learn Go courses](https://boot.dev/learn/learn-golang) to help teach Go as effectively as possible — by learning by doing. Our interactive lessons have you code in Go to fix problems, create programs, and we even built a specialized [Go Interview Prep course](https://boot.dev/golang/interview-prep-golang-course-released/) for landing a job once you’ve gained the core skills.

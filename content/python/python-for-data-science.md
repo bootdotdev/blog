@@ -125,6 +125,6 @@ Start learning python for data science, but rest secure in the knowledge that no
 
 If you want to know what to learn in Python for data science, this article should have covered that comprehensively. Learning data science basics with Python is a natural solution for people wondering where to get started with learning data science, which can be an overwhelming prospect! When I started learning Python, I found it was a perfect fit to getting exposure to basic data science concepts and tasks.
 
-**If you're looking to learn Python** for an eventual data science role, we developed our [Python Fundamentals](https://boot.dev/learn/learn-python) course to teach you the skills you need.
+**If you're looking to learn Python** for an eventual data science role, we developed our [Learn Python](https://boot.dev/learn/learn-python) course to teach you the skills you need.
 
 [Learn Python with boot.dev here](https://boot.dev/learn/learn-python)

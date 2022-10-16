@@ -153,4 +153,4 @@ export default async function runGoWasm(rawData) {
 
 That's it! Running Go in the browser is pretty easy :)
 
-If you want to try our [Go Mastery](https://boot.dev/go-mastery/) course that uses the WASM playground as its backbone, [sign up here!](https://boot.dev/)
+If you want to try our [Learn Go](https://boot.dev/go-mastery/) course that uses the WASM playground as its backbone, [sign up here!](https://boot.dev/)

@@ -76,7 +76,7 @@ This course is normally $139, but there are often promotions bringing it down to
 
 {{< cta3 >}}
 
-## [Python Fundamentals](https://www.pluralsight.com/courses/python-fundamentals?clickid=UkzQi8S3GxyIRukTHlSCwSkLUkDzsIUstXjv200&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius)
+## [Learn Python](https://www.pluralsight.com/courses/python-fundamentals?clickid=UkzQi8S3GxyIRukTHlSCwSkLUkDzsIUstXjv200&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius)
 
 This course starts from the ground up, including installation help for any OS. Topics include strings and collections, modularity, objects, resource management, and most notably deployment of Python applications.
 

@@ -31,8 +31,8 @@ This Track is ideal for any programmers who want to transition into a Go program
 
 **The Gopher Gang Track consists of:**
 
-1. [Go Mastery 1](https://boot.dev/dashboard/exercise/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b)
-2. [Go Mastery 2](https://boot.dev/dashboard/exercise/41357578-6185-4d07-b463-d4efdb3635c0/9bfdb774-7cf6-4d6b-95b7-9ef498a340d8/7336e595-1c87-4065-a19f-9706c72603a7)
+1. [Learn Go 1](https://boot.dev/dashboard/exercise/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b)
+2. [Learn Go 2](https://boot.dev/dashboard/exercise/41357578-6185-4d07-b463-d4efdb3635c0/9bfdb774-7cf6-4d6b-95b7-9ef498a340d8/7336e595-1c87-4065-a19f-9706c72603a7)
 3. [Social Media Backend Server Project](https://boot.dev/dashboard/step/709a2e74-eb45-46ea-ac26-4b8e6a3ce3e6/fbac7ae9-6a4d-4ad5-bf76-9651cb8eb2c5)
 4. [Go Interview Prep](https://boot.dev/dashboard/exercise/3e777b26-cbba-4c1e-a0fb-205f7371c464/dfe27508-096a-480d-ae62-a44929774337/96a5ea66-1bba-4808-81ef-dd71fc7f0d49)
 

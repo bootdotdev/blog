@@ -20,7 +20,7 @@ This list does not try to answer the end-all, be-all best way to learn Python. I
 
 While you're looking through this list and seeing a lot of challenging options that include self-driven work, reading textbooks, watching lectures, and wondering, "What is the best way to learn Python programming that doesn’t require me to read a textbook?", you're probably the kind of person who benefits from interactive teaching. I think this is the most efficient way to learn Python because the knowledge is much stickier.
 
-The best way to Learn Python interactively is by taking the courses here on boot.dev. The [Python Fundamentals](https://boot.dev/learn/learn-python) course helps you learn by doing. You'll be writing real code into the browser and it'll interactively guide you through the lessons. 
+The best way to Learn Python interactively is by taking the courses here on boot.dev. The [Learn Python](https://boot.dev/learn/learn-python) course helps you learn by doing. You'll be writing real code into the browser and it'll interactively guide you through the lessons. 
 
 The cool thing about this course is that it's designed to help you get a job. That means it's not just going to teach you flashy tricks, but guide you through the principles underlying how python works that might trip you up in a potential job interview. It also focuses on tasty job skills to open you up to more career choices, especially in machine learning if that’s your jam.
 
@@ -131,4 +131,4 @@ What is the best way to learn Python? There isn’t one. No matter which way you
 
 Take action and learn Python
 
-If you're looking to learn Python, we built our [Python Fundamentals course](https://boot.dev/learn/learn-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
+If you're looking to learn Python, we built our [Learn Python course](https://boot.dev/learn/learn-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.

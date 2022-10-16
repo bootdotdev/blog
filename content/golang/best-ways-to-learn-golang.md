@@ -20,7 +20,7 @@ Like most things in life, there’s no one right answer, and in this article, I�
 
 Science and students alike attest to the power of interactive learning, and that’s why one of the best ways to learn Golang online is to do so interactively. For this style of teaching, my favorite go-to option is right [here on Boot.dev](https://boot.dev/learn/learn-golang). Its ingenious use of a browser-based coding portal makes practicing the coding techniques feel like second nature.
 
-In their [Go Mastery course](https://boot.dev/learn/learn-golang), where you’ll get to practice basic and advanced coding methods like creating a local Go environment, concurrency, and special data types. The real cherry on top though is everything is geared towards getting you employed. So, not only do you get the necessary hands-on experience, but you’ll get access to Go interview prep and learn what to expect and how to ace your next interview.
+In their [Learn Go course](https://boot.dev/learn/learn-golang), where you’ll get to practice basic and advanced coding methods like creating a local Go environment, concurrency, and special data types. The real cherry on top though is everything is geared towards getting you employed. So, not only do you get the necessary hands-on experience, but you’ll get access to Go interview prep and learn what to expect and how to ace your next interview.
 
 And once all that is done, you get to hop on discord to chat with the Boot.dev community to discuss not only the learning material but also current trending hot topics in the field.
 
@@ -123,4 +123,4 @@ There are tons of ways to learn Golang, some better than others, and some workin
 
 Don’t hesitate to try out multiple methods listed above, especially the free ones, and create your perfect learning environment.
 
-In the meantime, audit our [Go Mastery course for free](https://boot.dev/learn/learn-golang), and head over to our playground for some light coding practice!
+In the meantime, audit our [Learn Go course for free](https://boot.dev/learn/learn-golang), and head over to our playground for some light coding practice!
