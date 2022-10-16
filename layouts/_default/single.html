@@ -5,7 +5,14 @@
         {{ partial "breadcrumb" . }}
 
         {{ if .Params.images }}
-        <img class="rounded mb-4" width="736" height="414" src="{{ index (.Params.images) 0 }}" />
+        <div class="mb-4">
+            <img class="rounded" width="736" height="414" {{ if .Params.imageAlts }}
+                alt="{{ index (.Params.imageAlts) 0 }}" {{ end }} src="{{ index (.Params.images) 0 }}" />
+
+            {{ if .Params.imageAlts }}
+            <p class="text-xs text-gray-500 text-center">{{ index (.Params.imageAlts) 0 }}</p>
+            {{end}}
+        </div>
         {{ end }}
 
         <h1 class="text-4xl font-bold text-white mb-2">{{ .Title }}</h1>
@@ -26,13 +33,6 @@
             Last updated on {{ $lastmod }}
         </p>
         {{ end }}
-
-        <div class="text-right">
-            <a target="_blank" href="https://github.com/bootdotdev/blog/tree/main/content{{ strings.TrimRight " /"
-                .RelPermalink}}.md" class="text-blue-400
-                hover:text-blue-300 underline cursor-pointer">✏️ Edit this post</a>
-        </div>
-
     </div>
     <main>
 
@@ -46,6 +46,11 @@
 
         {{ .Content }}
     </main>
+
+    <div class="text-right mb-4">
+        <a target="_blank" href="https://github.com/bootdotdev/blog/issues" class="text-blue-400
+            hover:text-blue-300 underline cursor-pointer">✏️ Report an issue with this article</a>
+    </div>
 
     {{ if ne .Section "" }}
     {{ partial "signature.html" . }}

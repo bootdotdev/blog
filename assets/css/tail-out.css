@@ -943,6 +943,11 @@ video {
   line-height: 1.5rem;
 }
 
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -991,6 +996,11 @@ video {
 .text-gray-200 {
   --tw-text-opacity: 1;
   color: hsl(235 7% 86% / var(--tw-text-opacity));
+}
+
+.text-gray-500 {
+  --tw-text-opacity: 1;
+  color: hsl(235 1% 50% / var(--tw-text-opacity));
 }
 
 .underline {
