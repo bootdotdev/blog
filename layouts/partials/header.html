@@ -8,12 +8,12 @@
     {{if eq .Title .Site.Title }}
     {{ if $.Paginator }}
     {{ if gt $.Paginator.PageNumber 1 }}
-    {{ title .Title }} Blog Pg. {{ $.Paginator.PageNumber }}
+    {{ title .Title }} Pg. {{ $.Paginator.PageNumber }}
     {{ else }}
-    {{ title .Title }} Blog
+    {{ title .Title }}
     {{ end }}
     {{ else }}
-    {{ title .Title }} Blog
+    {{ title .Title }}
     {{ end }}
     {{ else }}
     {{ if $.Paginator }}

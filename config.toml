@@ -1,10 +1,9 @@
 baseURL = 'https://blog.boot.dev/'
 languageCode = 'en-us'
-title = 'Boot.dev'
+title = 'Boot.dev Blog'
 disqusShortname = ""
 ignoreFiles = []
-footnotereturnlinkcontents = "↩"
-paginate = 10
+paginate = 25
 enableRobotsTXT = true
 summaryLength = 15
 
