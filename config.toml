@@ -6,6 +6,7 @@ ignoreFiles = []
 paginate = 25
 enableRobotsTXT = true
 summaryLength = 15
+pluralizelisttitles = false
 
 [Author]
   name = "Lane Wagner"
