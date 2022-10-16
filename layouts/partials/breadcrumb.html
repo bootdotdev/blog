@@ -11,11 +11,11 @@
 
 <li class="mr-2">
   {{ if eq .p1.RelPermalink .op.RelPermalink }}
-  <span>» {{ .p1.Title }}</span>
+  <span>» {{ title .p1.Title }}</span>
   {{ else if .p1.Parent }}
-  » <a class="text-blue-400 hover:text-blue-300 underline" href="{{ .p1.RelPermalink }}">{{ .p1.Title }}</a>
+  » <a class="text-blue-400 hover:text-blue-300 underline" href="{{ .p1.RelPermalink }}">{{ title .p1.Title }}</a>
   {{ else }}
-  <a class="text-blue-400 hover:text-blue-300 underline" href="{{ .p1.RelPermalink }}">{{ .p1.Title }}</a>
+  <a class="text-blue-400 hover:text-blue-300 underline" href="{{ .p1.RelPermalink }}">{{ title .p1.Title }}</a>
   {{ end }}
 </li>
 {{ end }}

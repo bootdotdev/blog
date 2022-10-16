@@ -10,7 +10,7 @@
                 alt="{{ index (.Params.imageAlts) 0 }}" {{ end }} src="{{ index (.Params.images) 0 }}" />
 
             {{ if .Params.imageAlts }}
-            <p class="text-xs text-gray-500 text-center">{{ index (.Params.imageAlts) 0 }}</p>
+            <p class="text-xs text-gray-500 text-center mt-2">{{ index (.Params.imageAlts) 0 }}</p>
             {{end}}
         </div>
         {{ end }}
