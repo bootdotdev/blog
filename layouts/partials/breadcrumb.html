@@ -1,6 +1,6 @@
-<ul class="flex flex-row mb-4">
+<div class="mb-4">
   {{ template "breadcrumbnav" (dict "p1" . "p2" . "op" .) }}
-</ul>
+</div>
 
 {{ define "breadcrumbnav" }}
 {{ if .p1.Parent }}
@@ -9,13 +9,13 @@
 {{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 "op" . )}}
 {{ end }}
 
-<li class="mr-2">
+<span>
   {{ if eq .p1.RelPermalink .op.RelPermalink }}
-  <span>» {{ title .p1.Title }}</span>
+  » {{ title .p1.Title }}
   {{ else if .p1.Parent }}
   » <a class="text-blue-400 hover:text-blue-300 underline" href="{{ .p1.RelPermalink }}">{{ title .p1.Title }}</a>
   {{ else }}
   <a class="text-blue-400 hover:text-blue-300 underline" href="{{ .p1.RelPermalink }}">{{ title .p1.Title }}</a>
   {{ end }}
-</li>
+</span>
 {{ end }}
