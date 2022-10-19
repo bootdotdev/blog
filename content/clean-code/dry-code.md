@@ -1,5 +1,5 @@
 ---
-title: "What Is Dry Code, and Is It Still Relevant?"
+title: "What Is Dry Code, and Is It Always A Good Thing?"
 author: Lane Wagner
 date: "2021-01-25"
 lastmod: "2022-10-16"
