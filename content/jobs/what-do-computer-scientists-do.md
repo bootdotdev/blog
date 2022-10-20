@@ -202,4 +202,4 @@ The tools a developer uses will vary quite wildly depending on where they work. 
 
 ## How do I get started learning computer science?
 
-Computer scientists are logical thinking, computer-savvy folk that know how to dig deep in order to solve problems. If you want to pursue an interest in computer science, consider starting here at [boot.dev](https://boot.dev/tracks/computer-science). We would love to help you on your way. Good luck.
+Computer scientists are logical thinking, computer-savvy folk that know how to dig deep in order to solve problems. If you want to pursue an interest in computer science, consider starting with our [computer science for back-end developers track at boot.dev](https://boot.dev/tracks/backend). We would love to help you on your way. Good luck.

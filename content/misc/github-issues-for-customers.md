@@ -19,7 +19,7 @@ The solution that has been working splendidly for me so far was to add a feedbac
 
 ## Using Github issues to track user feedback
 
-I have a private Github repo where I store all the content for the [computer science courses](https://boot.dev/tracks/computer-science) on Boot.dev in markdown files. It would be *really convenient* if user reported issues automatically manifested as Github issues on that repository! After just a few minutes of digging, I realized it was quite easy to do with the Github API. Given that my backend is a REST-ish API written in Go, I decided to use [Google's Github API client package](https://github.com/google/go-github/) and the official [Golang oauth2 package](https://pkg.go.dev/golang.org/x/oauth2).
+I have a private Github repo where I store all the content for the [back-end CS courses](https://boot.dev/tracks/backend) on Boot.dev in markdown files. It would be *really convenient* if user reported issues automatically manifested as Github issues on that repository! After just a few minutes of digging, I realized it was quite easy to do with the Github API. Given that my backend is a REST-ish API written in Go, I decided to use [Google's Github API client package](https://github.com/google/go-github/) and the official [Golang oauth2 package](https://pkg.go.dev/golang.org/x/oauth2).
 
 I you're interested in following along, first you need is a [personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) with "repo" permissions.
 

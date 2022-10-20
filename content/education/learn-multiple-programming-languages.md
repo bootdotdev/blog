@@ -12,7 +12,7 @@ I've been building [Boot.dev](https://boot.dev) as a side-project for the last c
 
 > "Why does your computer science curriculum require me to learn more than one programming language?"
 
-It seems that a good number of students join the platform with the opinion that they would rather "fully master a single language" than "split their efforts". While I plan to explain this better in the app itself moving forward, I wanted to write get this blog post out to provide an in-depth explanation of why we have you learn several languages over the course of our [CS program](https://boot.dev/tracks/computer-science).
+It seems that a good number of students join the platform with the opinion that they would rather "fully master a single language" than "split their efforts". While I plan to explain this better in the app itself moving forward, I wanted to write get this blog post out to provide an in-depth explanation of why we have you learn several languages over the course of our [back-end career path](https://boot.dev/tracks/backend).
 
 ## First, some background on Boot.dev
 

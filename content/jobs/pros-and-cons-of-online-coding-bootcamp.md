@@ -48,7 +48,7 @@ If you go for [the right bootcamp](https://blog.boot.dev/education/part-time-cod
 
 It can really help your progress to have access to people who are going through a similar experience currently or have gone through it in the past. A community of past, present, and future coders can help you practice how to best pitch your skills to potential employers. It’s also a great way to understand which directions you can apply your newfound knowledge in.
 
-With a bit of luck you can find someone working at your dream company (or a similar one) to help review your resume or even do some practice coding interviews with you. For example, [boot.dev](https://boot.dev/tracks/computer-science) in particular has a great community surrounding their online bootcamps with a bopping Discord channel and weekly portfolio-boosting events.
+With a bit of luck you can find someone working at your dream company (or a similar one) to help review your resume or even do some practice coding interviews with you. For example, [boot.dev](https://boot.dev) in particular has a great community surrounding their online bootcamps with a bopping Discord channel and weekly portfolio-boosting events.
 
 {{< cta2 >}}
 

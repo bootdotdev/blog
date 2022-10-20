@@ -59,7 +59,7 @@ I'd estimate that it takes about 25% longer to learn back-end development than f
 
 I wish I could find better data on this, if you know of a more quantitative resource I can cite here, please [let me know](/contact). That said, at the last 4 companies I worked at, if we opened a position for front-end engineers we were getting 100+ applicants. Conversely, when I opened a position for my own back-end team, we would get about 20.
 
-My belief is that due to the *slightly* shorter learning path to becoming a front-end dev, the majority of entry-level programmers go that route. It's important to understand, because it means that if you decide to take a [back-end learning path](https://boot.dev/tracks/computer-science) you'll have a higher chance of placement at the end. 
+My belief is that due to the *slightly* shorter learning path to becoming a front-end dev, the majority of entry-level programmers go that route. It's important to understand, because it means that if you decide to take a [back-end learning path](https://boot.dev/tracks/backend) you'll have a higher chance of placement at the end. 
 
 ## Front-end work will give you more exposure to users
 
