@@ -20,7 +20,7 @@ For example, here are some questions that I'd like to know the answer to:
 * Are we moving into more *specialist* or more *generalist* roles?
 * Are people still specializing as DBAs?
 
-I aggregated all the answers about employment from the last 9 years of Stack Overflow surveys in order to start being able to answer some of these questions.
+I aggregated all the answers about developer employment from the last 9 years of Stack Overflow surveys in order to start being able to answer some of these questions. If you're curious about the [job outlook for developers](/jobs/whats-the-job-outlook-for-computer-science-students), hopefully this is helpful data.
 
 ## First, a note on the data
 
@@ -55,7 +55,7 @@ The trend of "more full stack, less specialization" continues through the entire
 
 ### Interpretation #1
 
-It seems reasonable to conclude that the trend for the last decade has been that there are a shrinking percentage of developers who do *only* front-end work or *only* back-end work. More and more are doubling as full-stack engineers. Keep in mind, this also *might* be that there have been more small to midsized companies over the years. Smaller companies typically require more generalists, but now I'm just guessing.
+It seems reasonable to conclude that the trend for the last decade has been that there are a shrinking percentage of developers who do *only* front-end work or *only* back-end work. More and more are doubling as full-stack engineers. Keep in mind, this also *might* be that there have been more small to mid-sized companies over the years. Smaller companies typically require more generalists, but now I'm just guessing.
 
 ### Interpretation #2
 
@@ -110,6 +110,8 @@ At first, I assumed we're simply seeing the same trend that we saw in web develo
 | 2022 | 36.99   | 13.2   | 11.8  | 2.27              |
 
 It appears that from 2013-2015, developers were restricted to only submitting a single answer, which helps to account for the super low numbers. However, from 2019->2021 the average number of jobs per user went *down*, which is antithetical to the "more generalists" theory. It's also worth pointing out, that as the years went on, Stack OVerflow actually added more specialized categories, which I then took the liberty of grouping into these broader groups. So there's actually good evidence that developers *are* specializing more, or at the very least that there are more *possible ways* in which one can specialize.
+
+That said, even after looking at this data I think there is still a good case to be made that [back-end developers will be doing more and more "devops" work](/backend/backend-devops-roles-merging), especially at smaller companies.
 
 ## Data trends: Data science, data engineering, and back-end
 
