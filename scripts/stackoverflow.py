@@ -10,7 +10,7 @@ type_mobile = "mobile"
 type_fullstack = "fullstack"
 type_desktop = "desktop"
 type_embedded = "embedded"
-type_data_science = "type_data_science"
+type_data_science = "data_science"
 type_ignore = "ignore"
 type_management = "management"
 type_education = "education"
@@ -33,33 +33,46 @@ def main():
         (2019, [12]),
         (2020, [13]),
         (2021, [11]),
+        (2022, [11]),
     ]
 
     out_dict = {}
+    jobs_per_user_dict = {}
 
     for f_tup in files:
         counts = {}
         path = f"csv/{f_tup[0]}.csv"
         print(f"generating report for {path}")
         out_dict[f_tup[0]]: {}
-        count = 0
         with open(path, "r") as csvfile:
             rows = csv.reader(csvfile, delimiter=",")
             count = 0
             rows_cpy = []
+            jobs_per_user = []
             for row in rows:
                 count += 1
                 rows_cpy.append(row)
             for row in rows_cpy:
                 try:
                     jobs = get_jobtext_from_cells(f_tup[1], row)
+
+                    mapped_jobs = set()
                     for job in jobs:
-                        job = get_mapped_job(job)
-                        if job not in counts:
-                            counts[job] = 0
-                        counts[job] += 1
+                        mapped_jobs.add(get_mapped_job(job))
+                    jobs_per_user.append(mapped_jobs)
+                    for mapped_job in mapped_jobs:
+                        if mapped_job not in counts:
+                            counts[mapped_job] = 0
+                        counts[mapped_job] += 1
                 except Exception as e:
                     print(e)
+
+            avg_jobs_per_user = 0
+            for user_jobs in jobs_per_user:
+                avg_jobs_per_user += len(user_jobs)
+            jobs_per_user_dict[f_tup[0]] = round(
+                avg_jobs_per_user / len(jobs_per_user), 2
+            )
 
             for job in counts:
                 counts[job] /= count
@@ -67,12 +80,12 @@ def main():
                 counts[job] = round(counts[job], 2)
             out_dict[f_tup[0]] = counts
 
-    write_out(out_dict)
+    write_out(out_dict, jobs_per_user_dict)
 
 
 def get_jobtext_from_cells(indexes, row):
     if len(indexes) == 0:
-        return None
+        return []
     job_texts = []
     for i in indexes:
         cell = row[i]
@@ -81,7 +94,7 @@ def get_jobtext_from_cells(indexes, row):
     return job_texts
 
 
-def write_out(out_dict):
+def write_out(out_dict, jobs_per_user_dict):
     types = [
         type_fullstack,
         type_frontend,
@@ -105,16 +118,9 @@ def write_out(out_dict):
 
     with open(outpath, "w") as csvfile:
         w = csv.writer(csvfile)
-        w.writerow(
-            [
-                "year",
-            ]
-            + types
-        )
+        w.writerow(["year", "avg_jobs_per_user"] + types)
         for year in out_dict:
-            row = [
-                year,
-            ]
+            row = [year, jobs_per_user_dict[year]]
             for t in types:
                 row.append(out_dict[year][t] if t in out_dict[year] else 0)
             w.writerow(row)
@@ -334,6 +340,14 @@ def get_mapped_job(job):
         return type_ignore
     if job == "occupation_group":
         return type_ignore
+    if job == "cloud infrastructure engineer":
+        return type_devops
+    if job == "project manager":
+        return type_management
+    if job == "security professional":
+        return type_ops
+    if job == "blockchain":
+        return type_backend
     if (
         job
         == "mathematics developers (data scientists, machine learning devs & devs with stats & math backgrounds)"
