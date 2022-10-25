@@ -96,7 +96,7 @@ What the hell happened in 2017? The data honestly just seems broken. I dug throu
 
 DevOps appears to be gaining ground on traditional ops. In 2013 no one was identifying themselves as a "devops" person, but by 2020 and 2021 the numbers are looking *very* similar. It's worth pointing out that in 2016 the devops numbers actually eclipsed the "ops" numbers for a single year. My best guess is that 2016 was about when many companies started simply rebranding their "ops" teams as "devops" teams in order to look cool.
 
-It's hard to care too much about these numbers, because [devops is mostly being done wrong](https://blog.boot.dev/devops/devops-engineers-should-code/) in my opinion. I don't trust that the "ops" titles and the "devops" titles are all that different at most companies.
+It's hard to care too much about these numbers, because [devops is mostly being done wrong](/devops/devops-engineers-should-code/) in my opinion. I don't trust that the "ops" titles and the "devops" titles are all that different at most companies.
 
 ### Interpretation 2
 
@@ -123,7 +123,7 @@ At first, I assumed we're simply seeing the same trend that we saw in web develo
 
 It appears that from 2013-2015, developers were restricted to only submitting a single answer, which helps to account for the super low numbers. However, from 2019->2021 the average number of jobs per user went *down*, which is antithetical to the "more generalists" theory. It's also worth pointing out, that as the years went on, Stack OVerflow actually added more specialized categories, which I then took the liberty of grouping into these broader groups. So there's actually good evidence that developers *are* specializing more, or at the very least that there are more *possible ways* in which one can specialize.
 
-That said, even after looking at this data I think there is still a good case to be made that [back-end developers will be doing more and more "devops" work](/backend/backend-devops-roles-merging), especially at smaller companies.
+That said, even after looking at this data I think there is still a good case to be made that [back-end developers will be doing more and more "devops" work](/devops/backend-devops-roles-merging/), especially at smaller companies.
 
 ## Data trends: Data science, data engineering, and back-end
 
