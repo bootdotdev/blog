@@ -66,7 +66,7 @@ I looked at the average salary for a backend developer, the median cost of a one
 
 Another important factor in how much backend developers earn is the skills they have. Indeed has a great tool showing the skills that are most often listed in conjunction with a high backend developer salary. Here’s the information you need:
 
-![Skills that offer a higher salary](/img/800/skillsforhighersalary.png.web)
+![Skills that offer a higher salary](/img/800/skillsforhighersalary.png.webp)
 
 Source: [Best Pay for Backend Developers](https://docs.google.com/spreadsheets/d/1AsHkGDEj-Vkf8CSxtHxETFsApp5f7LPf0b3UtBiP1kg/edit?usp=sharing)
 
