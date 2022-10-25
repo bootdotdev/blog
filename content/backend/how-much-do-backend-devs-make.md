@@ -1,7 +1,7 @@
 ---
 title: "How Much Do Backend Developers Make?"
 author: Natalie Schooner
-date: "2022-10-13"
+date: "2022-10-25"
 categories: 
   - "backend"
 images:
