@@ -22,6 +22,8 @@ If you like building user interfaces (buttons, animations, dropdown menus, that 
 
 The beautiful thing about web development, is that even if you specialize, you can always make a change later! Just because you start by [becoming a back-end engineer](/backend/become-backend-developer), doesn't mean you can't become a front-end developer later... which is a good thing, because that's exactly what I did!
 
+{{< cta1 >}}
+
 ## There are more back-end positions out there
 
 If you're a bit on the fence, maybe you don't have a strong preference for data or for visuals, then the next things to consider have to do with the state of the job market. According to the last [StackOverflow developer survey](https://survey.stackoverflow.co/2022/#developer-profile-developer-roles), 43% of developers have back-end responsibilities, while only 26% have front-end duties.
@@ -33,6 +35,8 @@ There are simply more back-end devs out there, which means there are more positi
 Again, we can take a look at the latest [Stack Overflow data](https://survey.stackoverflow.co/2022/#salary-united-states) to see that back-end positions pay a median of $150,000 in the US, while front-end positions pay about $133,000. I don't think this is the most important data point to base a career decision on, after all, the numbers are fairly close. 
 
 It's important to keep in mind that there are plenty of *individual* front-end devs who earn more than *individual* back-end devs, we're looking at median salaries here. Again, money isn't everything, and the numbers are close, but the primary reason we show up to work in the morning is for that sweet sweet cash, so you should be aware of this data. If you're curious about how much software engineers earn in general, [read more here](/jobs/how-much-do-software-engineers-make).
+
+{{< cta2 >}}
 
 ## The tech-stack for front-end is smaller
 

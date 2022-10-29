@@ -399,8 +399,6 @@ h7 = h7 + h = 11100010111011111100110111101001
 
 {{< cta2 >}}
 
-{{< cta3 >}}
-
 ## Step 8 - Concatenate Final Hash
 
 Last but not least, slap them all together, a simple [string concatenation](/golang/strings-builder-concatenation-golang/) will do.
@@ -509,6 +507,8 @@ for each chunk
 Produce the final hash value (big-endian):
 digest := hash := h0 append h1 append h2 append h3 append h4 append h5 append h6 append h7
 ```
+
+{{< cta3 >}}
 
 ## Are SHA-2 and SHA-256 the same?
 

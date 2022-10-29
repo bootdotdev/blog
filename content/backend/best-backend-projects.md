@@ -47,6 +47,8 @@ I also liked the Coursera [project](https://www.coursera.org/lecture/advanced-da
 
 If you’re getting stuck, I recommend checking out Boot.dev's [Data Structures](https://boot.dev/learn/learn-data-structures) and [Algorithm](https://boot.dev/learn/learn-algorithms) courses. They each take 16 hours and will teach you everything you need to know about DSA fundamentals.
 
+{{< cta1 >}}
+
 ## Project 3: This backend project idea focuses on the basics of the web
 
 As a backend developer, you need to know:
@@ -68,6 +70,8 @@ This project will ground you in REST, WebSockets, and GraphQL. The backend (to r
 Web Socket APIs are important because they allow bi-directional, full-duplex communication between clients and servers. RESTful APIs matter because they’re the [definitive state of rules](https://medium.com/techloop/an-introduction-to-backend-development-and-rest-apis-b1a1a978821f) that developers follow when they create their APIs. GraphQL is a language used to read and modify data from API and is growing in popularity. Six years ago, only 5% of JavaScript developers used it. By 2020, almost [half](https://2020.stateofjs.com/en-US/technologies/datalayer/) (44.3%) of the respondents had used it.
 
 I recommend [this](https://www.codeproject.com/Articles/452052/Build-Your-Own-Web-Server) old-but-gold project to build a simple web server and make it internet-accessible. It’s super simple but gives a lot of customization potential which is important for projects for backend devs. If you want something more advanced and you like Go, I recommend our backend project to [build a social media backend using Go](https://boot.dev/build/social-media-backend-golang).
+
+{{< cta2 >}}
 
 ## Project 5: Database fundamentals can be demonstrated with a project like this
 

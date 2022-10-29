@@ -67,6 +67,8 @@ The ratio of front-end/back-end engineers has stayed fairly consistent, with the
 
 This actually surprised me, I expected the ratio of front-end to back-end engineers to be closer throughout the years.
 
+{{< cta1 >}}
+
 ## IT Operations Trends: Back-end, DevOps and Traditional Ops
 
 <div class="tablewrap">
@@ -147,6 +149,8 @@ That said, even after looking at this data I think there is still a good case to
 ### Interpretation
 
 It's super interesting to me that data engineering really only started to appear in the survey data in 2019. Until then, I'm guessing that role was swallowed up by back-end engineers and data scientists. That new specialization is certainly interesting. Machine learning has absolutely grown over the last decade, but it looks like there may have been a bit of a "hype bubble" in 2017?
+
+{{< cta2 >}}
 
 ## The Rest of the Data
 

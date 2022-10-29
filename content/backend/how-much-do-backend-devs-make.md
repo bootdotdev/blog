@@ -46,6 +46,8 @@ Here’s what you should know:
 
 The easiest, cheapest, most fun and most effective way to learn those six fundamentals is by taking our [backend development course](https://boot.dev/). You can also opt to learn backend development by running through these [six back-end projects](https://blog.boot.dev/backend/best-backend-projects/).
 
+{{< cta1 >}}
+
 ## How much does a backend developer earn?
 
 Let’s look at a couple of different factors: where you live, what certifications you have, what skills you have, and how good you are in job interviews.
@@ -125,6 +127,8 @@ Want the full lowdown? Check out our article on the [difference between data eng
 The much-touted sexiest job of the century! The average salary for data scientists is a bit higher than backend developers, clocking in at $100k per year [according](https://www.indeed.com/career/data-scientist/salaries#salary-satisfaction) to Indeed.
 
 Like a backend developer, one of the main languages you’ll use in [data science is Python](/python/python-for-data-science/). Beyond that, there are quite a few differences. You’ll need more business, analysis, and data viz skills to get into a data science career path.
+
+{{< cta2 >}}
 
 ## Final thoughts on the salary of backend developers
 
