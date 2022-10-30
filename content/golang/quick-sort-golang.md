@@ -64,6 +64,10 @@ func quickSort(arr []int, low, high int) []int {
 	}
 	return arr
 }
+
+func quickSortStart(arr []int) []int {
+	return quickSort(arr, 0, len(arr)-1)
+}
 ```
 
 ## Example of using Quicksort in real code

@@ -60,9 +60,9 @@ handleErr(np)
 
 Writing clean interfaces is **hard**. Frankly, anytime you're dealing with abstractions in code, the simple can become complex very quickly if you're not careful. Let's go over some rules of thumb for keeping interfaces clean.
 
-1. [Keep interfaces small](#small)
-2. [Interfaces should have no knowledge of satisfying types](#no-knowledge)
-3. [Interfaces are not classes](#not-classes)
+1. Keep interfaces small
+2. Interfaces should have no knowledge of satisfying types
+3. Interfaces are not classes
 
 ### 1. Keep Interfaces Small
 
