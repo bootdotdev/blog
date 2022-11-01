@@ -148,7 +148,11 @@ main blockquote {
 }
 
 main blockquote p {
-  margin: 0;
+  margin-bottom: 1rem;
+}
+
+main blockquote p:last-child {
+  margin-bottom: 0;
 }
 
 main .tablewrap {
