@@ -127,6 +127,8 @@ DevOps engineers wear a lot of hats. This puts them in the prime position of bei
 
 It's important to understand that a lot of these roles are *practically* the same thing. What you do at an individual company will vary greatly. What a "DevOps engineer" at one company may be the same thing a "cloud engineer" does at another. That said, there *are* sometimes subtle differences between titles, so let's dive in.
 
+![chart about devops vs other engineering salaries](/img/800/salarydatafordevops.png.webp)
+
 ### Cloud engineer versus DevOps engineer 
 
 Cloud engineers specialize in, you guessed it, cloud architecture. This specialization means cloud engineers earn around $6k more on average, with a base [salary](https://www.indeed.com/career/cloud-engineer/salaries?from=top_sb) of $121k.
