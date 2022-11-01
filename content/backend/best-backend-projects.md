@@ -39,11 +39,11 @@ If you can’t manage this, no worries! Take a step back, re-learn the fundament
 
 You’ll be tested on these concepts in your interview, so use this project to nail the fundamentals of the most common algorithms and data structure concepts. It’s not just to crush your interview, though. As a backend dev, you’ll be responsible for ensuring company servers are running fast and functional code.
 
-“Not knowing data structures and algorithms is like a car mechanic who knows wrenches and screwdrivers, but doesn’t have any idea of how the ignition system or transmission works. This mechanic doesn’t need to know the physics of fire or the metallurgy of the transmission gears, but they need to have a reasonable idea of what’s going on,” [writes](https://qr.ae/pvVlut) Malcolm Teas, software engineer, in a Quora answer.
+"Not knowing data structures and algorithms is like a car mechanic who knows wrenches and screwdrivers, but doesn’t have any idea of how the ignition system or transmission works. This mechanic doesn’t need to know the physics of fire or the metallurgy of the transmission gears, but they need to have a reasonable idea of what’s going on," [writes](https://qr.ae/pvVlut) Malcolm Teas, software engineer, in a Quora answer.
 
 I liked a couple of projects for this. The first is a [maze solver on Boot.dev](https://boot.dev/build/maze-solver-python). It's super fun because you get to build something visual in Python, which isn't always the case. It also forces you to use many of the simple data structures you'll need in interviews and on the job.
 
-I also liked the Coursera [project](https://www.coursera.org/lecture/advanced-data-structures/project-shortest-path-programming-assignment-walkthrough-VaUIC) which walks you through a concept called “shortest path programming.” You’ll learn about graphs, search algorithms, graph algorithms, and graph data structures.
+I also liked the Coursera [project](https://www.coursera.org/lecture/advanced-data-structures/project-shortest-path-programming-assignment-walkthrough-VaUIC) which walks you through a concept called "shortest path programming." You’ll learn about graphs, search algorithms, graph algorithms, and graph data structures.
 
 If you’re getting stuck, I recommend checking out Boot.dev's [Data Structures](https://boot.dev/learn/learn-data-structures) and [Algorithm](https://boot.dev/learn/learn-algorithms) courses. They each take 16 hours and will teach you everything you need to know about DSA fundamentals.
 
@@ -79,7 +79,7 @@ Nearly every backend server uses databases to store information. As a backend de
 
 You should pick a SQL database since they’re the most popular – our in-house recommendation is PostgreSQL. Some of the NoSQL options may come in handy later on but don’t feel like you need to know them backward and forwards. You should just be able to speak to them if they come up in an interview.
 
-I believe [this](https://www.youtube.com/watch?v=Nnoxz9JGdLU) is the best backend project for the skill, which shows you how to build a to-do app using Django and PostgreSQL. Django is a framework written in Python. Typically, it’s used to create a nice web app. Its “Django admin” is famous for being an auto-generated backend that doesn’t rely on a lot of code.
+I believe [this](https://www.youtube.com/watch?v=Nnoxz9JGdLU) is the best backend project for the skill, which shows you how to build a to-do app using Django and PostgreSQL. Django is a framework written in Python. Typically, it’s used to create a nice web app. Its "Django admin" is famous for being an auto-generated backend that doesn’t rely on a lot of code.
 
 An alternative: you can reuse one of the earlier backend projects by upgrading it to use a database.
 

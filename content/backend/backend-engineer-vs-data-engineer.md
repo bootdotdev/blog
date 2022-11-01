@@ -17,11 +17,11 @@ When comparing data engineers and backend engineers, it depends a lot on the com
 
 One particularly convoluted answer on Reddit [reads](https://www.reddit.com/r/dataengineering/comments/qecxfa/comment/hhtagbb/?utm_source=share&utm_medium=web2x&context=3):
 
-> “I guess you could say that data engineers are the back-end developers of ‘data-intensive application development’.”
+> "I guess you could say that data engineers are the back-end developers of ‘data-intensive application development’."
 
 I preferred a different answer, which [reads](https://www.reddit.com/r/dataengineering/comments/qecxfa/comment/hhs7uzl/?utm_source=share&utm_medium=web2x&context=3):
 
-> “TL:DR: Depending on the role it overlaps a lot and sometimes it's the same.”
+> "TL:DR: Depending on the role it overlaps a lot and sometimes it's the same."
 
 The simplest answer, in my opinion? Data engineers are a *type* of backend engineer. Data is a huge part of the backend. It makes sense that backend engineers have to build systems to collect and manage the data that makes the frontend run. But as the role of data has expanded, organizations have expanded the role of data engineer to be its own thing.
 
@@ -124,7 +124,7 @@ In exchange for labor, you'll earn about $131,000 a year. This has the potential
 
 A lot of these jobs are hard to compare, partially because the people hiring don't really know what the jobs actually entail. In many cases, you'll get the job, and you'll find that you've just been sort of plugged into the hole where the company thinks you should be. Nobody really knows what "big data" is. And if you got someone who says they do, well, I liked [Taro Sato's](https://www.quora.com/Big-data-engineer-and-backend-developer-what-are-the-similarities) approach:
 
-> “I personally avoid getting to know people who uses the term Big Data frequently because it is likely they probably don't know what they are talking about. :)”
+> "I personally avoid getting to know people who uses the term Big Data frequently because it is likely they probably don't know what they are talking about. :)"
 
 That being said, there are some clear differences and comparisons between data engineer's and back-end engineer. As a data engineer, *all you do is data*. It's in the name. As a back-end engineer, you can expect to work with data inside of databases, but you'll have to do a lot more on the application side - supporting the website or mobile app from the back end.
 

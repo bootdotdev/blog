@@ -27,7 +27,7 @@ Now let’s get into figuring out how much backend developers earn.
 
 In short, *yes*. Backend developers have a high salary (whether it’s $80k or $150k!), solid career prospects, and unshakeable job security because backend developers are in very high demand by very well-funded companies. The Bureau of Labor Statistics unhelpfully groups web developers and digital designers together, but still [estimates](https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm#tab-1) that for that group, the job outlook for the next decade is set to grow by 23% – much higher than the average job (which is around 5%).
 
-If I [search](https://www.linkedin.com/jobs/search/?currentJobId=3289579147&geoId=103644278&keywords=back%20end%20developer&location=United%20States&refresh=true) “back end developer” jobs on LinkedIn, I currently see 48,000+ job openings.
+If I [search](https://www.linkedin.com/jobs/search/?currentJobId=3289579147&geoId=103644278&keywords=back%20end%20developer&location=United%20States&refresh=true) "back end developer" jobs on LinkedIn, I currently see 48,000+ job openings.
 
 This demand leads to a high salary. It’s worth getting the job.
 
@@ -72,9 +72,9 @@ Another important factor in how much backend developers earn is the skills they 
 
 Source: [Best Pay for Backend Developers](https://docs.google.com/spreadsheets/d/1AsHkGDEj-Vkf8CSxtHxETFsApp5f7LPf0b3UtBiP1kg/edit?usp=sharing)
 
-It’s important to keep in mind that Indeed’s chart is not flawless. For example, gas chromatography is the skill that boosts your backend developer pay the most (67.5%!)… but before you decide to take a course in it, know that it’s “the process of separating compounds in a mixture by injecting a gaseous or liquid sample into a mobile phase” (thanks [Wikipedia](https://en.wikipedia.org/wiki/Gas_chromatography#:~:text=Gas%20chromatography%20is%20the%20process,%2C%20argon%2C%20nitrogen%20or%20hydrogen.)) and only three jobs currently posted are asking for it. It’s a very specialized skill that in reality almost no back-end developers are going to truly need.
+It’s important to keep in mind that Indeed’s chart is not flawless. For example, gas chromatography is the skill that boosts your backend developer pay the most (67.5%!)… but before you decide to take a course in it, know that it’s "the process of separating compounds in a mixture by injecting a gaseous or liquid sample into a mobile phase" (thanks [Wikipedia](https://en.wikipedia.org/wiki/Gas_chromatography#:~:text=Gas%20chromatography%20is%20the%20process,%2C%20argon%2C%20nitrogen%20or%20hydrogen.)) and only three jobs currently posted are asking for it. It’s a very specialized skill that in reality almost no back-end developers are going to truly need.
 
-Meanwhile, Python and Go are much more in-demand skills, but they “only” offer a 6-9% increase in backend developer salary. However, you shouldn’t expect to get a job if you can't code in at least one of these languages, and ideally [several of them](/education/learn-multiple-programming-languages/). The same could be said for the “computer science” skill – only listed on 90 jobs! But best believe you’ll struggle to get a job as a backend developer if you don’t know computer science.
+Meanwhile, Python and Go are much more in-demand skills, but they "only" offer a 6-9% increase in backend developer salary. However, you shouldn’t expect to get a job if you can't code in at least one of these languages, and ideally [several of them](/education/learn-multiple-programming-languages/). The same could be said for the "computer science" skill – only listed on 90 jobs! But best believe you’ll struggle to get a job as a backend developer if you don’t know computer science.
 
 Use this chart to see which skills you should specialize in, or which to emphasize if you already possess those skills.
 
@@ -108,7 +108,7 @@ To compare these roles to how much backend developers make, I’ll use the same 
 
 As mentioned above, the [difference between frontend and backend developers](/backend/learn-frontend-or-backend-first/) can be boiled down to client versus server. Indeed reports that this difference amounts to a $3k difference in average annual salary – backend developers can expect to make $95k as mentioned in the intro, while front-end developers will make [on average](https://www.indeed.com/career/front-end-developer/salaries?cgtk=c5deb7be-7b7c-41a9-8e1b-3521ff5870ba&from=careeradvice-US) $92k.
 
-Why this discrepancy? Apollo Clark, a full-stack developer, [posited](https://qr.ae/pvmgo7) a potential answer on Quora. “It's a cultural bias in software development that the front-end or ‘gui’ is what the ‘graphic artists’ creates \[sic\], while the back-end is where all the complex computer science theory needs to take place, and should never be questioned.”
+Why this discrepancy? Apollo Clark, a full-stack developer, [posited](https://qr.ae/pvmgo7) a potential answer on Quora. "It's a cultural bias in software development that the front-end or ‘gui’ is what the ‘graphic artists’ creates \[sic\], while the back-end is where all the complex computer science theory needs to take place, and should never be questioned."
 
 ### Fullstack developer versus backend developer
 
