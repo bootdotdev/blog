@@ -9,7 +9,7 @@ images:
   - /img/800/8020.avif.webp
 ---
 
-DevOps principles, and CI/CD specifically, are generally presented as a way to more efficiently run a software development organization. While I hold the belief that CI/CD *is* more efficient and effective than manually testing and deploying code, I'd like to talk about something we don't bring up quite as often.
+DevOps principles, and CI/CD specifically, are generally presented as a more efficient way to run a software development organization. While I hold the belief that CI/CD *is* more efficient and effective than manually testing and deploying code, I'd like to talk about something we don't bring up quite as often.
 
 Put simply, CI/CD *makes us happy*.
 
@@ -27,7 +27,7 @@ There's a saying:
 
 > People don't quit bad jobs, they quit bad bosses
 
-There's truth there of course, but I for one will quit a job, even if I *do* have a good boss, if I *really hate* the developer experience. Now, I'm also the kind of person that will go to great lengths to *upgrade* the developer experience before quitting, but sometimes there are simply too many roadblocks.
+There's truth there of course, but I for one will quit a job, even if I *do* have a good boss if I *hate* the developer experience. Now, I'm also the kind of person that will go to great lengths to *upgrade* the developer experience before quitting, but sometimes there are simply too many roadblocks.
 
 I *really* do not like doing manual tasks that can be easily automated. I do *not* like deploying code. I *do* like merging PRs. I do *not* like pulling down my coworker's 4-line PR so I can run `go test`. I *do* like seeing that the tests passed in the PR.
 
@@ -39,7 +39,7 @@ One of my favorite comics about automation is this classic [XKCD](https://xkcd.c
 
 ![xkcd automation](https://imgs.xkcd.com/comics/automation_2x.png)
 
-However, there is a problematic assumption that some people make in regards to automation. I do *not* think this is the right equation:
+However, there is a problematic assumption that some people make in regard to automation. I do *not* think this is the right equation:
 
 ```
 should_automate = time_to_automate < time_for_task * num_tasks
@@ -47,9 +47,9 @@ should_automate = time_to_automate < time_for_task * num_tasks
 
 The equation is far too practical. Humans are emotional creatures. I think there needs to me more leeway given to account for the fact that it's generally *more enjoyable* to write automation than to do a manual task over and over.
 
-For completely selfish reasons, I would rather spend 8 hours writing a script to move some data into a database than spend 6 hours manually copy and pasting. One of the tasks is soul-sucking, finger-numbing, painfully *boring* work. The other will probably be a bit of fun.
+For completely selfish reasons, I would rather spend 8 hours writing a script to move some data into a database than spend 6 hours manually copying and pasting. One of the tasks is soul-sucking, finger-numbing, painfully *boring* work. The other will probably be a bit of fun.
 
-Perhaps a good analogy is, "In order to earn $100, would you rather spend 4 hours shovelling rock or 6 hours playing videogames?" 
+Perhaps a good analogy is, "To earn $100, would you rather spend 4 hours shoveling rock or 6 hours playing videogames?" 
 
 ## The remaining manual tasks become more enjoyable
 
@@ -61,4 +61,4 @@ I guess what I'm saying is that I'm *extraordinarily* lazy, and I'm aware of it.
 
 ## What's your point?
 
-I'm not going to automate everything - I haven't thrown efficiency to the wind. However, I bias towards automating because I'm not a machine, I'm human, and I enjoy it.
+I'm not going to automate everything - I haven't thrown efficiency to the wind. However, I bias toward automating because I'm not a machine, I'm human, and I enjoy it.

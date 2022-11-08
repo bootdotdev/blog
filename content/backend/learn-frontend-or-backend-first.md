@@ -20,7 +20,7 @@ Because you can start with either one, the most important question is "what do y
 
 If you like building user interfaces (buttons, animations, dropdown menus, that sort of thing) then you might prefer front-end work. On the other hand, if you like data, networking, clever [algorithms](https://boot.dev/learn/learn-algorithms), and systems architecture, you might really love a back-end role.
 
-The beautiful thing about web development, is that even if you specialize, you can always make a change later! Just because you start by [becoming a back-end engineer](/backend/become-backend-developer), doesn't mean you can't become a front-end developer later... which is a good thing, because that's exactly what I did!
+The beautiful thing about web development is that even if you specialize, you can always make a change later! Just because you start by [becoming a back-end engineer](/backend/become-backend-developer), doesn't mean you can't become a front-end developer later... which is a good thing, because that's exactly what I did!
 
 {{< cta1 >}}
 
@@ -38,7 +38,7 @@ It's important to keep in mind that there are plenty of *individual* front-end d
 
 {{< cta2 >}}
 
-## The tech-stack for front-end is smaller
+## The tech stack for front-end is smaller
 
 One point in favor of starting with front-end development is that the amount of technologies you need to learn is fewer, at least by a bit. For example, the critical technologies and concepts for many front-end devs include:
 
@@ -55,21 +55,21 @@ Becoming a back-end developer is a bit more involved. You need to learn things l
 * HTTP APIs, basic networking
 * Algorithms and Data Structures
 * Systems thinking and architecture
-* Basic devops skills, like deployments and infrastructure
+* Basic DevOps skills, like deployments and infrastructure
 
 I'd estimate that it takes about 25% longer to learn back-end development than front-end, but that's a rough estimate. I believe it takes between [6-12 months to learn the skills you'll need for a back-end job](/backend/how-long-to-become-backend-dev/), so learning front-end can probably happen in as little as 5-10 months.
 
 ## The competition for back-end positions is lower
 
-I wish I could find better data on this, if you know of a more quantitative resource I can cite here, please [let me know](/contact). That said, at the last 4 companies I worked at, if we opened a position for front-end engineers we were getting 100+ applicants. Conversely, when I opened a position for my own back-end team, we would get about 20.
+I wish I could find better data on this, if you know of a more quantitative resource I can cite here, please [let me know](/contact). That said, at the last 4 companies I worked at if we opened a position for front-end engineers we were getting 100+ applicants. Conversely, when I opened a position for my own back-end team, we would get about 20.
 
-My belief is that due to the *slightly* shorter learning path to becoming a front-end dev, the majority of entry-level programmers go that route. It's important to understand, because it means that if you decide to take a [back-end learning path](https://boot.dev/tracks/backend) you'll have a higher chance of placement at the end. 
+My belief is that due to the *slightly* shorter learning path to becoming a front-end dev, the majority of entry-level programmers go that route. It's important to understand because it means that if you decide to take a [back-end learning path](https://boot.dev/tracks/backend) you'll have a higher chance of placement at the end. 
 
 ## Front-end work will give you more exposure to users
 
-One final point I want to bring up in favor of learning front-end development first is that as a front-end developer you'll get to interact more closely with users and the end-product. There are 2 main benefits to this:
+One final point I want to bring up in favor of learning front-end development first is that as a front-end developer you'll get to interact more closely with users and the end product. There are 2 main benefits to this:
 
 1. If you ever want to start your own company, you'll already have experience with product design
 2. You'll have more chances to interact with the non-engineering side of the business
 
-Like I mentioned and the outset, the most important thing when deciding if you should learn front-end or back-end development first is *which do you enjoy more?* What interests you? From there, I hope that some of this data can help you make the decision that's best for you, your career, your family, and your future. Good luck!
+As I mentioned at the outset, the most important thing when deciding if you should learn front-end or back-end development first is *which do you enjoy more*? What interests you? From there, I hope that some of this data can help you make the decision that's best for you, your career, your family, and your future. Good luck!

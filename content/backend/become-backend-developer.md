@@ -66,7 +66,7 @@ Basic coding skills are a prerequisite to everything else we'll be learning on y
 
 ### 2. Master data structures & algorithms
 
-This step might take a bit longer - your goal here should be to [learn computer science fundamentals](/computer-science/comprehensive-guide-to-learn-computer-science-online/). Go deep on some of the most common algorithms and data structures concepts. Backend interviews are often **full** of questions on this topic. As a backend developer, it will be your job to make sure that the companies servers are running code that's fast and performant.
+This step might take a bit longer - your goal here should be to [learn computer science fundamentals](/computer-science/comprehensive-guide-to-learn-computer-science-online/). Go deep on some of the most common algorithms and data structures concepts. Backend interviews are often **full** of questions on this topic. As a backend developer, it will be your job to make sure that the company's servers are running code that's fast and performant.
 
 We haven't really gotten to the meat of backend development *yet*, but that's okay! We're setting the stage and laying a great foundation so that once you get to the later steps you won't be lost and confused.
 
@@ -78,13 +78,13 @@ We haven't really gotten to the meat of backend development *yet*, but that's ok
 
 ### 3. Learn the basics of the web
 
-Now that you understand basic coding fundamentals in at least 1 programming language, your goal should be to understand the client/server model. You should come out of this step being able to answer questions like:
+Now that you understand basic coding fundamentals in at least 1 programming language, your goal should be to understand the client/server model. You should come out of this step able to answer questions like:
 
 * What is a web server?
 * What is HTTP?
 * How do webpages communicate with servers?
 
-Your goal here is to understand *why* we need backend developers at all, and how the internet works at a basic networking level. I'd recommend actually doing a couple small, simple front-end projects so that you can understand the role a backend server plays in an application.
+Your goal here is to understand *why* we need backend developers at all, and how the internet works at a basic networking level. I'd recommend actually doing a couple of small, simple front-end projects so that you can understand the role a backend server plays in an application.
 
 #### Resources
 
@@ -95,7 +95,7 @@ Your goal here is to understand *why* we need backend developers at all, and how
 
 ### 4. Get started building simple web servers
 
-Next, you need to pick a language or two that you want to specialize in. For example, I'm primarily a backend Go engineer - but I dabble in Python and JavaScript. By specializing, you will make your job search *easier* on yourself. Companies want experts in the areas they're hiring for - not jack-of-all-trades. Here are some projects you can take a look at:
+Next, you need to pick a language or two that you want to specialize in. For example, I'm primarily a backend Go engineer - but I dabble in Python and JavaScript. By specializing, you will make your job search *easier* on yourself. Companies want experts in the areas they're hiring for - not a jack-of-all-trades. Here are some projects you can take a look at:
 
 * [A social media backend in Go](https://boot.dev/build/social-media-backend-golang)
 * [Personal Projects on Boot.dev](https://boot.dev/build/personal-project-1)
@@ -116,7 +116,7 @@ Almost every backend server in the world uses one or more databases to store inf
 
 ![backend architecture](https://i.imgur.com/iiXz2iM.png)
 
-I would recommend becoming familiar with a SQL database first, probably PostgresQL. After that, get familiar with some of the NoSQL options, but I don't think you need to be an expert on *all* them. I'd recommend just being familiar with them from a high level so that in interviews you're able to hold your own.
+I would recommend becoming familiar with a SQL database first, probably PostgreSQL. After that, get familiar with some of the NoSQL options, but I don't think you need to be an expert on *all* of them. I'd recommend just being familiar with them from a high level so that in interviews you're able to hold your own.
 
 #### Resources
 
@@ -138,7 +138,7 @@ Upgrade one of the projects you built before to use a database!
 
 ### 6. Deploy some projects to your professional portfolio
 
-Finally, you're going to want to actually deploy some projects! This is how you show employers as a self-taught dev that you know what you're doing. Unlike a front-end developer, as a back-end developer it's less about a beautiful personal website, and more about the code itself. In order of importance you should work on the following things:
+Finally, you're going to want to actually deploy some projects! This is how you show employers as a self-taught dev that you know what you're doing. Unlike a front-end developer, as a back-end developer, it's less about a beautiful personal website, and more about the code itself. In order of importance you should work on the following things:
 
 * A Beautiful [Github Profile](/jobs/build-github-profile/)
 * Great `README.md` files on your top 3 public repos
@@ -153,7 +153,7 @@ The big secret to landing a backend job as a self-taught developer is to build a
 
 * Put some work into your public Github profile
 * Build some open-source projects
-* Contribute to existing open source projects
+* Contribute to existing open-source projects
 * Build a great LinkedIn landing page and do some networking
 * Make friends in [online coding communities](/misc/best-coding-communities/)
 
@@ -189,9 +189,9 @@ Most importantly, *do not stop learning and building*!!! I've seen so many devel
 
 You can be a backend programmer in almost any programming language, but here are some of my favorites in descending order:
 
-* [Go](https://go.dev/) - A modern, simple language that's good for performant, general purpose servers
+* [Go](https://go.dev/) - A modern, simple language that's good for performant, general-purpose servers
 * [Python](https://www.python.org/) - An elegant language good for simple backend apps
-* [JavaScript/Node.js](https://nodejs.org/en/) - Great for webapps, especially if the devs are fullstack
+* [JavaScript/Node.js](https://nodejs.org/en/) - Great for webapps, especially if the devs are full stack
 * [Rust](https://www.rust-lang.org/) - More complex code, but stunningly fast
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - Great for working on Microsoft servers
 * [Java](https://www.java.com/en/) - Tried and true

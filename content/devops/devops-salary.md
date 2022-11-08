@@ -26,7 +26,7 @@ Of course, anyone who wants to know a typical DevOps engineer’s salary knows t
 
 Before we go further into the average DevOps salary, I want to quickly outline the role of a DevOps engineer. Honestly, it's nothing short of revolutionary. For a long time, businesses struggled to get development and operations teams to talk to each other and work together. Then DevOps was invented as a bridge – DevOps is short for software development and IT operations – and it changed the game forever.
 
-Basically, "devops" engineers sit somewhere in-between developers and IT ops. As a devops engineer you'll be maintaining cloud infrastructure, working with systems that monitor the uptime of production servers, and yes, even [writing back-end code](/devops/devops-engineers-should-code/).
+Basically, "DevOps" engineers sit somewhere in-between developers and IT ops. As a devops engineer you'll be maintaining cloud infrastructure, working with systems that monitor the uptime of production servers, and yes, even [writing back-end code](/devops/devops-engineers-should-code/).
 
 It’s a bit of a new role – it was only in [1993](https://link.springer.com/chapter/10.1007/BFb0013427) that the Telecommunications Information Networking Architecture Consortium defined the model of a service lifecycle that combined software dev with service operations. Heck, the book that really coined the phrase "DevOps", "The Phoenix Project", wasn't even published until 2013.
 
@@ -133,7 +133,7 @@ It's important to understand that a lot of these roles are *practically* the sam
 
 Cloud engineers specialize in, you guessed it, cloud architecture. This specialization means cloud engineers earn around $6k more on average, with a base [salary](https://www.indeed.com/career/cloud-engineer/salaries?from=top_sb) of $121k.
 
-"Cloud engineer" is rarely an entry-level job. It's likely that you'll spend 3-5 years as a DevOps engineer, then transition to a cloud engineer once you have some experience and additional certifications under your belt, like CompTIA A+. However, the work is worth it – cloud DevOps engineer salaries are higher.
+"Cloud engineer" is rarely an entry-level job. You'll likely spend 3-5 years as a DevOps engineer, then transition to a cloud engineer once you have some experience and additional certifications under your belt, like CompTIA A+. However, the work is worth it – cloud DevOps engineer salaries are higher.
 
 ### Software engineer versus DevOps engineer 
 
@@ -143,7 +143,7 @@ The good news is that software development is much less ops, much more dev. If y
 
 ### Systems engineer versus DevOps engineer 
 
-Systems engineers are the other low data point on this list, with a base salary [expectation](https://www.indeed.com/career/system-engineer/salaries) of just $94k. This is also a potential entry-level role if you plan to transition into cloud management. This role is more ops, less dev. Expect to learn a lot about tranditional IT ops.
+Systems engineers are the other low data point on this list, with a base salary [expectation](https://www.indeed.com/career/system-engineer/salaries) of just $94k. This is also a potential entry-level role if you plan to transition into cloud management. This role is more ops, less dev. Expect to learn a lot about traditional IT ops.
 
 ### Solutions architect versus DevOps engineer 
 

@@ -11,9 +11,9 @@ images:
 
 ## It's time for some speculation on my part
 
-I believe that the job duties of "back-end" and "devops" engineers will coalesce to include almost everything that "the user doesn't see". There will still be room for specialization, but these roles will become less distinguishable overall.
+I believe that the job duties of "back-end" and "DevOps" engineers will coalesce to include almost everything that "the user doesn't see". There will still be room for specialization, but these roles will become less distinguishable overall.
 
-First, let's talk about *why* I think this is happening, and then let's talk about what it means for us as back-end and devops engineers.
+First, let's talk about *why* I think this is happening, and then let's talk about what it means for us as back-end and DevOps engineers.
 
 ## The problem: Most companies need to ship simple features more quickly
 
@@ -31,7 +31,7 @@ For example, a "full stack" engineer can pick up a task, add the required back-e
 
 Just as full-stack engineers improve efficiency in full-stack engineering tasks, back-end engineers that know how to deploy infrastructure increase the efficiency in back-end tasks. If a back-end engineer is working on a task that requires a new database, they would normally need to pass the task off to an ops team first, just like a front-end team would pass the need for new API endpoints to the back-end team. Instead, if the back-end engineer knows how to edit Terraform files, they can do it themselves, making everything move quite a bit faster.
 
-However, as I pointed out above - this comes with a trade-off. Requiring your engineers to know and do *more* means that they won't necessarily be as good at any one thing. If you're familiar with the idea of a [T-Shaped developer](/about/#t-shaped-developers-are-the-most-successful), you're giving them a wider row but a more shallow column. That said, on small teams this is *usually* a good trade to make.
+However, as I pointed out above - this comes with a trade-off. Requiring your engineers to know and do *more* means that they won't necessarily be as good at any one thing. If you're familiar with the idea of a [T-Shaped developer](/about/#t-shaped-developers-are-the-most-successful), you're giving them a wider row but a more shallow column. That said, on small teams, this is *usually* a good trade to make.
 
 {{< cta1 >}}
 
@@ -45,7 +45,7 @@ Larger companies generally need a larger diversity of expertise to ensure that *
 
 ## What's changed: Companies can get away without specializing for longer
 
-This large/small company need for specialization has always existed, but I think the line is moving. Companies are now able to grow larger than before on the backs of generalists, primarily because of all the tooling that exists.
+This large/small company's need for specialization has always existed, but I think the line is moving. Companies are now able to grow larger than before on the backs of generalists, primarily because of all the tooling that exists.
 
 * Node.js makes full-stack development easier.
 * The cloud makes infrastructure easier to manage.
@@ -56,7 +56,7 @@ This large/small company need for specialization has always existed, but I think
 
 ## So what should I do as an ops engineer?
 
-In the [2022 stack overflow survey](https://survey.stackoverflow.co/2022/#developer-profile-developer-roles), only 10% of respondents claim to have devops responsibilities, down from 12% in 2020. The most interesting thing is that in the summary of the section, the survey creators say:
+In the [2022 stack overflow survey](https://survey.stackoverflow.co/2022/#developer-profile-developer-roles), only 10% of respondents claim to have DevOps responsibilities, down from 12% in 2020. The most interesting thing is that in the summary of the section, the survey creators say:
 
 > Developers are wearing multiple hats. The majority of respondents said they considered themselves to be more than one type of developer - with DBAs, SREs, and Security professionals reporting the most variety. On average each of these roles reported being seven other developer types.
 
@@ -68,9 +68,9 @@ My advice here is simple - continue to specialize in the ops-related tasks that 
 
 Unless your company is in the business of infrastructure, I'd argue it's probably wise to outsource your infra to a cloud provider, and assuming you deploy on the cloud, a significant amount of your "IT Ops" work should be taken care of for you. The best part about using a cloud provider is that you can manage your infrastructure in code. **The buzzword is "GitOps", and I'm a fan.**
 
-The best "DevOps" engineers in the industry write code and use source control. Automating and versioning infrastructure tasks in code means you don't need as many people SSH'ing onto servers to install dependencies and deploy new releases. It's faster to use code, and also less prone to human error. As a result, the company only needs a few people writing and maintaining automated systems. The majority of their engineers can then *use* those tools to *deploy their own code*.
+The best "DevOps" engineers in the industry write code and use source control. Automating and versioning infrastructure tasks in code means you don't need as many people SSH'ing onto servers to install dependencies and deploy new releases. It's faster to use code, and also less prone to human error. As a result, the company only needs a few people to write and maintain automated systems. The majority of their engineers can then *use* those tools to *deploy their own code*.
 
-The trend I'm seeing is that for small, simple web apps, the full-stack or back-end devs can just deploy on the cloud using some simple out-of-the-box configuration files. As the company grows, you'll likely need a more dedicated "devops" team, but if that team's any good, they'll just be hardening the deployment tooling so that the rest of the team can *do their own ops.* "Every back-end engineer an ops person", or something like that.
+The trend I'm seeing is that for small, simple web apps, the full-stack or back-end devs can just deploy on the cloud using some simple out-of-the-box configuration files. As the company grows, you'll likely need a more dedicated "DevOps" team, but if that team's any good, they'll just be hardening the deployment tooling so that the rest of the team can *do their own ops.* "Every back-end engineer is an ops person", or something like that.
 
 ## So what should I do as a back-end engineer?
 

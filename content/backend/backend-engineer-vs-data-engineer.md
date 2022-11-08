@@ -75,7 +75,7 @@ As the background engineer, data is still your baby, but now you have a whole fa
 
 ### What does a Back-end engineer do?
 
-Let's break that down. As the back-end developer, you need the technical expertise, analytical thinking, and collaboration skills to design web infrastructure.
+Let's break that down. As a back-end developer, you need the technical expertise, analytical thinking, and collaboration skills to design web infrastructure.
 
 That includes: building and maintaining websites, writing code (of course), doing quality assurance testing, increasing the efficiency and speed of the website, doing the inevitable troubleshooting and debugging, and training and supporting client teams and junior developers.
 
@@ -87,7 +87,7 @@ If we continue our kitchen analogy from earlier, you can think of a back-end eng
 
 Backend engineers and data engineers are very similar in terms of necessary skill sets. In order to [become a back-end deverloper](/backend/become-backend-developer) you also need to be able to communicate and think analytically.
 
-Technical skills include: developing REST APIs, being familiar with SQL or other related relational databases, building robust APIs, having complete mastery of object-oriented programming strategy, being able to build scalable and distributed systems, and knowing one or more of the popular the backend programming languages like Go, Python, and Node.js (JavaScript). If you decide to self-teach, and become a back-end engineer without getting a degree in computer science, it will probably [take between 6-12 months to learn back-end](/backend/how-long-to-become-backend-dev).
+Technical skills include: developing REST APIs, being familiar with SQL or other related relational databases, building robust APIs, having complete mastery of object-oriented programming strategy, being able to build scalable and distributed systems, and knowing one or more of the popular the backend programming languages like Go, Python, and Node.js (JavaScript). If you decide to self-teach and become a back-end engineer without getting a degree in computer science, it will probably [take between 6-12 months to learn back-end](/backend/how-long-to-become-backend-dev).
 
 ### What are back-end engineer job requirements?
 
@@ -106,7 +106,7 @@ You’ll need:
 
 Backend engineers seem to need a wide variety of skills.
 
-At that role, you’ll need to know how to:
+In that role, you’ll need to know how to:
 
 * Construct all the back-end functionality for a website, and make it efficient
 * Use frameworks to build service software and integrate APIs and cloud computing

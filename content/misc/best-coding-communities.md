@@ -18,7 +18,7 @@ The one thing that every programmer has in common, whether they've only ever imp
 
 That’s why getting involved in a tech community is *so important*. With the rise of hybrid, remote, and freelance work, connecting with colleagues on your team and other teams within your company is harder than it used to be, and that’s assuming you have other coding colleagues. "The Great Resignation", amongst higher-than-normal turnover rates make it hard to connect with those moving through the revolving door of employment. If you find yourself missing technical mentors, peers, or friends of a similar profession, your best bet is to reach out online to find friends within the many coding communities already in existence.
 
-Coding communities can help you solve basic programming issues, weigh the pros and cons of one package manager over another, choose an employer, pick which programming language to learn next, and much more. Coding communities are great for supporting you with your hard skills and your soft skills. Someone who has much more experience in the industry can advise you on how to sell your skills in an interview and advise you on which skills you should be learning based on the jobs you're insterested in and your personal situation.
+Coding communities can help you solve basic programming issues, weigh the pros and cons of one package manager over another, choose an employer, pick which programming language to learn next, and much more. Coding communities are great for supporting you with your hard skills and your soft skills. Someone who has much more experience in the industry can advise you on how to sell your skills in an interview and advise you on which skills you should be learning based on the jobs you're interested in and your situation.
 
 Another aspect to consider if you’re just starting is the support and accountability a community of coders can offer you. It can be hard to discover the many varied applications of computer science as a beginner in the field, and it’s even harder to overcome the "you don’t know what you don’t know" paradigm.
 
@@ -30,7 +30,7 @@ Thankfully, computer science has a great reputation for being a generous industr
 
 Discord is a community-based chat app originally developed for gamers. That said, these days they've expanded and now there are a lot of prominent, popular Discord "servers" for coding. A "server" is an individual community focused on one topic.
 
-There are servers like [Boot.dev’s back-end learning community](https://discord.com/invite/EEkFwbv), where people learning to code can go to find support, advice, and experience in languages like JavaScript, Python and Go. There are also topic-specific servers for [JavaScript](https://discord.me/speakjs), [TensorFlow](https://disboard.org/server/395520812347686912), [Python](https://discordapp.com/invite/python), and many more.
+There are servers like [Boot.dev’s back-end learning community](https://boot.dev/community), where people learning to code can go to find support, advice, and experience in languages like JavaScript, Python and Go. There are also topic-specific servers for [JavaScript](https://discord.me/speakjs), [TensorFlow](https://disboard.org/server/395520812347686912), [Python](https://discordapp.com/invite/python), and many more.
 
 Discord is great for getting support in real-time. With so many different servers focused on sharing content, promoting projects, collaborating on open-source projects, specific tools and technologies, and even professional topics, it’s easy to find help for a lot of different areas all in one place.
 
@@ -48,7 +48,7 @@ Reddit is a popular online forum for almost anything you can find on the interne
 
 You can view different collections of topics, look at the most-voted posts within each topic, and you can message individual users, meaning there does exist the possibility of building up to something like a mentoring relationship with other users. However, since Reddit is so open, public, and huge, it can be difficult to truly build up relationships with other users.
 
-Reddit to me is more like a random collection of links to articles, tutorials, conferences, hackathons, etc. It’s a good place to show off cool projects or get inspired by others, but if you’re looking for a tribe of like-minded people to get through the journey of entering the software industry, Reddit will leave you feeling isolated and overwhelmed.
+Reddit to me is more like a random collection of links to articles, tutorials, conferences, hack-a-thons, etc. It’s a good place to show off cool projects or get inspired by others, but if you’re looking for a tribe of like-minded people to get through the journey of entering the software industry, Reddit will leave you feeling isolated and overwhelmed.
 
 ## 3. Hashnode
 
@@ -82,7 +82,7 @@ The biggest drawback of CodePen is that you need a private, paid account to keep
 
 ## 6. CodeNewbie
 
-What started as a weekly TwitterChat has become an international community of people learning to code supporting each other. [CodeNewbie](https://www.codenewbie.org/) looks to support developers in need of early-career mentorship. They want to arm you with the knowledge of how to launch your career from the post-bootcamp stage to senior software engineer.
+What started as a weekly TwitterChat has become an international community of people learning to code and supporting each other. [CodeNewbie](https://www.codenewbie.org/) looks to support developers in need of early-career mentorship. They want to arm you with the knowledge of how to launch your career from the post-bootcamp stage to senior software engineer.
 
 CodeNewbie has tons of content in different formats, including podcasts, Twitter chats, the CodeLand conference, hackathons, and more. They have managed to attract a good amount of experts to their platform. It’s a great place to stumble across high-quality content that’s geared toward all levels of programmers.
 
@@ -94,7 +94,7 @@ CodeNewbie has been dubbed as a [platform for developers](https://community.code
 
 If you are looking for a community that will provide you with a space for collaboration and networked learning, [DEV](https://dev.to/) could be a great fit for you. They’ve got over 800,000 developers on their platform and cover a lot of niche topics in-depth, like [finding cross-browser compatibility issues](https://dev.to/lambdatest/finding-cross-browser-compatibility-issues-in-html-and-css-p0k) in HTML and CSS, how to [set up an AWS security hub](https://dev.to/noyonict/setup-aws-security-hub-1a0p), and more business-minded topics like a guide to [common B2B SaaS integration patterns](https://dev.to/prismatic/common-b2b-saas-integration-patterns-and-when-to-use-them-3lik) and when to use them.
 
-The DEV community has a plethora of articles contributed by their very large community. You can take a deeper dive on a specific topic, see what the latest posts are to get a feel for current computer science news or look into their all-time top articles.
+The DEV community has a plethora of articles contributed by their very large community. You can take a deeper dive into a specific topic, see what the latest posts are to get a feel for current computer science news or look into their all-time top articles.
 
 DEV does have a social media aspect, so you can post questions and get answers via comments and tag with \#help. The format is similar to Facebook’s timeline feed with comments for answers, and the articles are more like what you’d find in the tech topics on Medium. As far as finding a group of people to support you in your journey, DEV lacks the 1:1 connection ability and has grown too large to help you on an individual level and provide you with tailored support or advice.
 
@@ -120,7 +120,7 @@ FreeCodeCamp is a platform where anyone can learn coding basics for free! I love
 
 ## Which community is right for you?
 
-Different communities have different strengths. Some are great for real-time support by connecting with other individuals directly. For example, Discord servers such as [Boot.dev](https://discord.com/invite/EEkFwbv). Other communities are better for answering specific technical questions ([DEV](https://dev.to/), [CodeNewbie](https://www.codenewbie.org/), and [Dream in Code](https://www.dreamincode.net/)).
+Different communities have different strengths. Some are great for real-time support by connecting with other individuals directly. For example, Discord servers such as [Boot.dev](https://boot.dev/community). Other communities are better for answering specific technical questions ([DEV](https://dev.to/), [CodeNewbie](https://www.codenewbie.org/), and [Dream in Code](https://www.dreamincode.net/)).
 
 Personal connections will help you build up a collection of technical mentors. A close network is also great for mock interviews, referrals for jobs, etc. Especially when it comes to maintaining your motivation, inspiration, and emotional energy, a close-knit group of coding learners is the backbone to a successful start in the programming world.
 

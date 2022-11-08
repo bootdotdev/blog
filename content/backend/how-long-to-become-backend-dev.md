@@ -29,8 +29,8 @@ I really believe those three key points, but there's *a lot* that goes into them
 5. Are you good at doing research and looking things up online?
 6. Have you done any data work using Excel or SQL?
 7. Do you *enjoy* working with computers?
-8. Are you good at math? Algebra would be great, trigonometry and calculus would be fantastic!
-9.  Have you done any coding before?
+8. Are you good at math? Algebra would be great, and trigonometry and calculus would be fantastic!
+9. Have you done any coding before?
 
 If you can answer "yes" to any of these questions, your journey will be quite a bit faster! Use the list below to see how your answers to these questions should alter your expectations.
 
@@ -43,7 +43,7 @@ Of course, there are many other tidbits of knowledge and training that can speed
 
 ## What else impacts how long it will take me to learn back-end development?
 
-Apart from analyzing where you're starting from, there some other key factors that will heavily impact how long it will take you to get a backend job.
+Apart from analyzing where you're starting from, there are some other key factors that will heavily impact how long it will take you to get a backend job.
 
 * How many hours can you put into learning and building weekly? The numbers I'm working with assume about 20.
 * Are you a fast learner? The numbers I'm working with assume you're about average.
@@ -57,8 +57,8 @@ Probably not - but again, that just depends on so much. If you don't have any co
 
 * Did you keep learning and building after you started your job search? (You should!)
 * Do you know people IRL who work in tech that can give you introductions?
-* Are you helpful member of tech communities online?
-* Do you live in a tech hub, or at least a city that has *some* good jobs?
+Are you a helpful member of tech communities online?
+* Do you live in a tech hub or at least a city that has *some* good jobs?
 * Do you know some people (online or IRL) that can review your resume and project portfolio?
 * Do you like meetups, and are there any coding meetups in your city?
 

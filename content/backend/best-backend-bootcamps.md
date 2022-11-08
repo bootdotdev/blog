@@ -50,7 +50,7 @@ That’s why I’m starting with our own [Boot.dev’s backend bootcamp](https:/
 
 ### Content:
 
-This backend bootcamp covers the Python, JavaScript, and Go programming languages. There is a combination of guided lessons with an interactive coding window for you to test your code on, mixed with personal projects for you to develop your own coding skills.
+This backend bootcamp covers Python, JavaScript, and Go programming languages. There is a combination of guided lessons with an interactive coding window for you to test your code on, mixed with personal projects for you to develop your own coding skills.
 
 Joining the Boot.dev backend bootcamp also includes access to the [Discord community](https://boot.dev/community) of developers.
 
@@ -104,7 +104,7 @@ This bootcamp runs for three months. You can expect to receive 100+ hours of in-
 
 ![boot.dev](/img/800/nucamp.png.webp)
 
-This backend bootcamp has an emphasis on working with real-world devops tools – definitely a pro, since that’s what you’ll be doing in your backend developer job. However, this bootcamp only focuses on one language (plus SQL, but who can really count SQL), which I feel is a bit of a flaw – most backend employers want you to show command of [multiple programming languages](https://blog.boot.dev/education/learn-multiple-programming-languages/).
+This backend bootcamp has an emphasis on working with real-world devops tools – definitely a pro since that’s what you’ll be doing in your backend developer job. However, this bootcamp only focuses on one language (plus SQL, but who can really count SQL), which I feel is a bit of a flaw – most backend employers want you to show command of [multiple programming languages](https://blog.boot.dev/education/learn-multiple-programming-languages/).
 
 That being said, languages are easy to pick up if you know more than one. You can use this backend bootcamp to get to grips with Python, SQL, and some of the most important backend concepts. Then you can go back to learn other languages like Go and Java on your own time.
 
@@ -159,7 +159,7 @@ You also get post-bootcamp coaching and job prep.
 
 ### Style: 
 
-You’ll get 100+ hours of instructor-led training, but a lot of this will be self-paced work. You should expect to spend nearly 700 hours of on-demand self learning and 250 hours in Cloud Labs. Overall, there are 50 assignments and 12 projects, plus your Capstone project at the end.
+You’ll get 100+ hours of instructor-led training, but a lot of this will be self-paced work. You should expect to spend nearly 700 hours of on-demand self-learning and 250 hours in Cloud Labs. Overall, there are 50 assignments and 12 projects, plus your Capstone project at the end.
 
 ### Price: 
 
@@ -245,7 +245,7 @@ This backend bootcamp will likely take 20-25 hours per week once you’re done w
 
 This backend bootcamp has a fun stat: it boasts a 95% hiring rate for career changers. That means that if you join the course with the aim to change your career, there’s a very, very high chance you’ll be successful.
 
-At time of writing, the next start date is January 31st, 2023.
+At the time of writing, the next start date is January 31st, 2023.
 
 ## 7. Springboard: Backend Development Bootcamp
 

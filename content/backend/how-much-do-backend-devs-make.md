@@ -100,7 +100,7 @@ Finally, we know that scientifically speaking, [confidence in job interviews](/j
 
 ## How does the salary stack up compared to other developer/engineer jobs?
 
-If you have a base set of computer science-y skills and you’re deciding which job to pursue, it can be helpful to know how much backend developers make compared to other, similar roles.
+If you have a base set of computer science skills and you’re deciding which job to pursue, it can be helpful to know how much backend developers make compared to other, similar roles.
 
 To compare these roles to how much backend developers make, I’ll use the same source for every job: Indeed’s average salary estimate.
 
@@ -108,7 +108,7 @@ To compare these roles to how much backend developers make, I’ll use the same 
 
 As mentioned above, the [difference between frontend and backend developers](/backend/learn-frontend-or-backend-first/) can be boiled down to client versus server. Indeed reports that this difference amounts to a $3k difference in average annual salary – backend developers can expect to make $95k as mentioned in the intro, while front-end developers will make [on average](https://www.indeed.com/career/front-end-developer/salaries?cgtk=c5deb7be-7b7c-41a9-8e1b-3521ff5870ba&from=careeradvice-US) $92k.
 
-Why this discrepancy? Apollo Clark, a full-stack developer, [posited](https://qr.ae/pvmgo7) a potential answer on Quora. "It's a cultural bias in software development that the front-end or ‘gui’ is what the ‘graphic artists’ creates \[sic\], while the back-end is where all the complex computer science theory needs to take place, and should never be questioned."
+Why this discrepancy? Apollo Clark, a full-stack developer, [posited](https://qr.ae/pvmgo7) a potential answer on Quora. "It's a cultural bias in software development that the front-end or ‘gui’ is what the ‘graphic artists’ create, while the back-end is where all the complex computer science theory needs to take place, and should never be questioned."
 
 ### Fullstack developer versus backend developer
 
