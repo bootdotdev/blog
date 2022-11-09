@@ -8,7 +8,7 @@ images:
   - /img/800/pexels-photo-1181345.webp.webp
 ---
 
-The sexiest job title of the decade, data scientist, has spawned about a dozen equally sexy but somewhat confusing and overlapping job titles. The primary offshoot of a data scientist is a *data engineer*. Let's talk about the difference between a data engineer and a back-end engineer, because frankly the lines can get quite blurred.
+The sexiest job title of the decade, data scientist, has spawned about a dozen equally sexy but somewhat confusing and overlapping job titles. The primary offshoot of a data scientist is a *data engineer*. Let's talk about the difference between a data engineer and a back-end engineer, because frankly, the lines can get quite blurred.
 
 * A data engineer (sometimes called a *big* data engineer) is responsible for designing and building systems that let organizations collect, store, and analyze large amounts of data.
 * Meanwhile, a backend engineer is a more broad job description - they work on the application side of a product, building APIs and connecting databases to user-facing interfaces.
@@ -126,8 +126,8 @@ A lot of these jobs are hard to compare, partially because the people hiring don
 
 > "I personally avoid getting to know people who uses the term Big Data frequently because it is likely they probably don't know what they are talking about. :)"
 
-That being said, there are some clear differences and comparisons between data engineer's and back-end engineer. As a data engineer, *all you do is data*. It's in the name. As a back-end engineer, you can expect to work with data inside of databases, but you'll have to do a lot more on the application side - supporting the website or mobile app from the back end.
+That being said, there are some clear differences and comparisons between data engineers and back-end engineers. As a data engineer, *all you do is data*. It's in the name. As a back-end engineer, you can expect to work with data inside of databases, but you'll have to do a lot more on the application side - supporting the website or mobile app from the back end.
 
-As these roles get more clarified over the years, I expect that data engineers will see their jobs ballooning to incorporate more of the new exciting functionalities around data collection, storing, and processing. Back-end engineers may have less to do with data as that role is taken on by the data engineers. For now, there's a little bit of overlap.
+As these roles get more clarified over the years, I expect that data engineers will see their jobs ballooning to incorporate more of the new exciting functionalities around data collection, storage, and processing. Back-end engineers may have less to do with data as that role is taken on by the data engineers. For now, there's a little bit of overlap.
 
 Not sure which job you want, data engineer or backend engineer? I advise you to really study job roles at each company. That will tell you more than any explanatory article like this ever could. Companies need bodies that know how to program, know how to set up ETL processes, and know how to work with data. Once you're hired, your role will evolve to fit that organization's needs at that moment.
