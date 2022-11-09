@@ -33,6 +33,87 @@ pluralizelisttitles = false
     "https://wagslane.dev"
   ]
 
+  [[params.courses]]
+    name = "Learn Python"
+    type = "Course"
+    link = "https://boot.dev/learn/learn-python"
+    imgURL = "https://richstone.github.io/assets/images/logos/python-logo-small.png"
+  [[params.courses]]
+    name = "Learn Object Oriented Programming"
+    type = "Course"
+    link = "https://boot.dev/learn/learn-object-oriented-programming"
+    imgURL = "https://richstone.github.io/assets/images/logos/python-logo-small.png"
+  [[params.courses]]
+    name = "Build a Local Dev Environment"
+    type = "Project"
+    link = "https://boot.dev/build/build-local-dev-environment-python"
+    imgURL = "https://richstone.github.io/assets/images/logos/python-logo-small.png"
+  [[params.courses]]
+    name = "Learn Algorithms"
+    type = "Course"
+    link = "https://boot.dev/learn/learn-algorithms"
+    imgURL = "https://richstone.github.io/assets/images/logos/python-logo-small.png"
+  [[params.courses]]
+    name = "Learn Data Structures"
+    type = "Course"
+    link = "https://boot.dev/learn/learn-data-structures"
+    imgURL = "https://richstone.github.io/assets/images/logos/python-logo-small.png"
+  [[params.courses]]
+    name = "Build a Maze Solver"
+    type = "Project"
+    link = "https://boot.dev/build/maze-solver-python"
+    imgURL = "https://richstone.github.io/assets/images/logos/python-logo-small.png"
+  [[params.courses]]
+    name = "Learn JavaScript"
+    type = "Course"
+    link = "https://boot.dev/learn/learn-javascript"
+    imgURL = "https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"
+  [[params.courses]]
+    name = "Learn HTTP"
+    type = "Course"
+    link = "https://boot.dev/learn/learn-http"
+    imgURL = "https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"
+  [[params.courses]]
+    name = "Build a Link Analyzer"
+    type = "Project"
+    link = "https://boot.dev/build/link-analyzer"
+    imgURL = "https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"
+  [[params.courses]]
+    name = "Learn Functional Programming"
+    type = "Course"
+    link = "https://boot.dev/learn/learn-functional-programming"
+    imgURL = "https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"
+  [[params.courses]]
+    name = "Learn Go"
+    type = "Course"
+    link = "https://boot.dev/learn/learn-golang"
+    imgURL = "https://user-images.githubusercontent.com/19890545/150690287-d7a7a4c0-ce89-4c49-8043-5af0348e615e.png"
+  [[params.courses]]
+    name = "Build a Social Media Back-end"
+    type = "Project"
+    link = "https://boot.dev/build/social-media-backend-golang"
+    imgURL = "https://user-images.githubusercontent.com/19890545/150690287-d7a7a4c0-ce89-4c49-8043-5af0348e615e.png"
+  [[params.courses]]
+    name = "Learn SQL"
+    type = "Course"
+    link = "https://boot.dev/learn/learn-sql"
+    imgURL = "https://i.imgur.com/TDs5Gpg.png"
+  [[params.courses]]
+    name = "Learn Cryptography"
+    type = "Course"
+    link = "https://boot.dev/learn/learn-cryptography"
+    imgURL = "https://user-images.githubusercontent.com/19890545/150690287-d7a7a4c0-ce89-4c49-8043-5af0348e615e.png"
+  [[params.courses]]
+    name = "Learn Advanced Algorithms"
+    type = "Course"
+    link = "https://boot.dev/learn/learn-advanced-algorithms"
+    imgURL = "https://richstone.github.io/assets/images/logos/python-logo-small.png"
+  [[params.courses]]
+    name = "Capstone Project"
+    type = "Project"
+    link = "https://boot.dev/build/capstone-project"
+    imgURL = "https://cdn.iconscout.com/icon/free/png-256/code-280-460136.png"
+
 [markup]
   [markup.tableOfContents]
     startLevel = 2

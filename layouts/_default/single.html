@@ -1,62 +1,69 @@
 {{ partial "header.html" . }}
 
-<div class="max-w-3xl m-auto p-4">
-    <div class="mb-8">
-        {{ partial "breadcrumb" . }}
+<div class="flex flex-col lg:flex-row w-full lg:justify-center items-center lg:items-start">
 
-        {{ if .Params.images }}
-        <div class="mb-4">
-            <img class="rounded" width="736" height="414" {{ if .Params.imageAlts }}
-                alt="{{ index (.Params.imageAlts) 0 }}" {{ end }} src="{{ index (.Params.images) 0 }}" />
+    <div class="max-w-3xl p-4">
+        <div class="mb-8">
+            {{ partial "breadcrumb" . }}
 
-            {{ if .Params.imageAlts }}
-            <p class="text-xs text-gray-500 text-center mt-2">{{ index (.Params.imageAlts) 0 }}</p>
-            {{end}}
-        </div>
-        {{ end }}
+            {{ if .Params.images }}
+            <div class="mb-4">
+                <img class="rounded" width="736" height="414" {{ if .Params.imageAlts }}
+                    alt="{{ index (.Params.imageAlts) 0 }}" {{ end }} src="{{ index (.Params.images) 0 }}" />
 
-        <h1 class="text-4xl font-bold text-white mb-2">{{ .Title }}</h1>
-
-        {{ $date := .Params.date.Format "Jan 2, 2006" }}
-        {{ if .Params.author }}
-        <p class="text-sm text-gray-300">
-            By {{ .Params.author }}
-            {{ if (gt .Params.date 0) }}
-            on {{ $date }}
+                {{ if .Params.imageAlts }}
+                <p class="text-xs text-gray-500 text-center mt-2">{{ index (.Params.imageAlts) 0 }}</p>
+                {{end}}
+            </div>
             {{ end }}
-        </p>
-        {{ end }}
 
-        {{ $lastmod := .Params.lastmod.Format "Jan 2, 2006" }}
-        {{ if and (ne $lastmod $date) (gt .Params.lastmod .Params.date) }}
-        <p class="text-sm text-gray-300">
-            Last updated on {{ $lastmod }}
-        </p>
-        {{ end }}
-    </div>
-    <main>
+            <h1 class="text-4xl font-bold text-white mb-2">{{ .Title }}</h1>
 
-        {{ if .Params.toc }}
-        <h2>Table of Contents</h2>
-        <aside>
-            {{.TableOfContents}}
-        </aside>
-        {{ end }}
+            {{ $date := .Params.date.Format "Jan 2, 2006" }}
+            {{ if .Params.author }}
+            <p class="text-sm text-gray-300">
+                By {{ .Params.author }}
+                {{ if (gt .Params.date 0) }}
+                on {{ $date }}
+                {{ end }}
+            </p>
+            {{ end }}
+
+            {{ $lastmod := .Params.lastmod.Format "Jan 2, 2006" }}
+            {{ if and (ne $lastmod $date) (gt .Params.lastmod .Params.date) }}
+            <p class="text-sm text-gray-300">
+                Last updated on {{ $lastmod }}
+            </p>
+            {{ end }}
+        </div>
+
+        <main>
+
+            {{ if .Params.toc }}
+            <h2>Table of Contents</h2>
+            <aside>
+                {{.TableOfContents}}
+            </aside>
+            {{ end }}
 
 
-        {{ .Content }}
-    </main>
+            {{ .Content }}
+        </main>
 
-    <div class="text-right mb-4">
-        <a target="_blank" href="https://github.com/bootdotdev/blog/issues" class="text-blue-400
+        <div class="text-right mb-4">
+            <a target="_blank" href="https://github.com/bootdotdev/blog/issues" class="text-blue-400
             hover:text-blue-300 underline cursor-pointer">✏️ Report an issue with this article</a>
+        </div>
+
+        {{ if ne .Section "" }}
+        {{ partial "signature.html" . }}
+        {{ end }}
+
+        {{ partial "related.html" . }}
+
     </div>
 
-    {{ if ne .Section "" }}
-    {{ partial "signature.html" . }}
-    {{ end }}
-
-    {{ partial "related.html" . }}
+    {{ partial "sidebar.html" . }}
 
 </div>
 
