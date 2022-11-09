@@ -1,33 +1,26 @@
-<aside class=" max-w-lg text-gray-300 py-8 lg:ml-8 px-4">
-  <h3 class="text-2xl font-bold text-center mb-4">Back-end Career Path</h3>
+<aside class="max-w-md text-gray-400 py-8 lg:ml-8 px-4">
+  <h3 class="text-2xl font-bold text-center mb-8">Learn Back-end the Right Way</h3>
 
-  <div class="flex flex-row items-center justify-around text-sm mb-2">
-    <div class="rounded-full border border-gray-400 py-1 px-4">
+  <div class="flex flex-row items-center justify-around text-sm mb-8  text-blue-400">
+    <div class="rounded-full border py-1 px-4 border-blue-400">
       1000+ Lessons
     </div>
-    <div class="rounded-full border border-gray-400 py-1 px-4">
-      $24 / mo
+    <div class="rounded-full border py-1 px-4 border-blue-400">
+      20k+ Students
     </div>
-    <div class="rounded-full border border-gray-400 py-1 px-4">
+    <div class="rounded-full border py-1 px-4 border-blue-400">
       6 Months*
     </div>
   </div>
 
-  <p class="text-gray-400 mb-2">
+  <p class="mb-8">
     Learn modern back-end development
     skills in Python, JavaScript and Go. Write
     real code, build and deploy cloud-native projects, and prepare
     your portfolio for your next coding job.
   </p>
 
-  <div class="flex justify-center">
-    <a href="https://boot.dev"
-      class="p-4 m-4 rounded text-white hover:text-white no-underline bg-blue-500 hover:bg-blue-400">
-      Start Learning Back-end Now
-    </a>
-  </div>
-
-  <div class="p-4">
+  <div>
     {{ range $index, $val := $.Site.Params.Courses }}
     <a class="flex items-center hover:opacity-50 cursor-pointer" href="{{$val.link}}">
       <span class="text-3xl mr-4">
@@ -38,12 +31,12 @@
         <div class="text-md font-bold text-gray-300">
           {{$val.name}}
         </div>
-        <div class="text-sm text-gray-400">
+        <div class="text-sm">
           {{$val.type}}
         </div>
       </div>
     </a>
-    <div class="border-b w-full my-2"></div>
+    <div class="border-b w-full my-6 border-gray-600"></div>
     {{ end }}
   </div>
 
