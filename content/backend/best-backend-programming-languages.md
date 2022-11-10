@@ -6,6 +6,8 @@ categories:
   - "backend"
 images:
   - /img/800/topbackendlanguages.png.webp
+imageAlts:
+  - "Art by Stable Diffusion AI"
 ---
 
 A backend programming language is what a programmer like you uses to create internal systems that work in the background of a web application. [Backend developers make a lot of money](/backend/how-much-do-backend-devs-make/) and are growing in popularity and desirability.
