@@ -1199,10 +1199,6 @@ video {
     align-items: flex-start;
   }
 
-  .lg\:items-center {
-    align-items: center;
-  }
-
   .lg\:justify-center {
     justify-content: center;
   }
