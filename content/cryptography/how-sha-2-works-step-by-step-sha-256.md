@@ -38,7 +38,7 @@ It's worth noting that the output of a hash is "almost unique" because there are
 The three of the main purposes of a hash function are:
 
 * To scramble data deterministically
-* To accept an input of arbitrary length and output a fixed length result
+* To accept an input of arbitrary length and output a fixed-length result
 * To manipulate data irreversibly. The input cannot be derived from the output
 
 SHA-2 is a strong family of hash functions because, as you would expect, it serves all the purposes mentioned above.
