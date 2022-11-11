@@ -86,7 +86,7 @@ Because we weren't closing new deals, the first thing to go was the sales and ma
 
 ### Step 2: Gutting our vendor spend
 
-We had lots of fancy tools for our teams. Zoom, Slack, GitHub, AWS, you name it. At this stage in the downturn, we took the time to analyze which tools we really *needed*, and we cut the rest or reduced our spend. For example, by spending a few weeks of engineering time we were able to reduce our AWS cloud bill from roughly $10k/mo to $50k/mo.
+We had lots of fancy tools for our teams. Zoom, Slack, GitHub, AWS, you name it. At this stage in the downturn, we took the time to analyze which tools we really *needed*, and we cut the rest or reduced our spend. For example, by spending a few weeks of engineering time we were able to reduce our AWS cloud bill from roughly $100k/mo to $50k/mo.
 
 ### Step 3: Engineering layoffs
 
