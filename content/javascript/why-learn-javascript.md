@@ -1,7 +1,8 @@
 ---
-title: "6 Critical Reasons Beginner Programmers Should Learn JavaScript in 2022"
+title: "7 Critical Reasons Beginner Programmers Should Learn JavaScript in 2022"
 author: Zulie Rane
 date: "2021-05-25"
+lastmod: "2022-11-14"
 categories: 
   - "javascript"
 images:
@@ -78,7 +79,15 @@ Nowadays, knowing only one coding language is good, but most jobs ask that you c
 
 "JavaScript provides a crucial introduction to key principles and practices that you’ll take with you throughout your career as a developer," [writes](https://careerfoundry.com/en/blog/web-development/should-you-learn-javascript/) Stevens in Career Foundry. Same as C++, Python and Java, JavaScript supports object-oriented, functional, and imperative styles of programming. That means that when you’re fully versed in JavaScript and thinking about picking up language number 2, you’ll be able to pick it up much faster than normal. 
 
-A lot of languages borrow concepts from each other, or are built to shore up the weaknesses of another. JavaScript is one of the few that has completely transferable skills that can help you hit the ground running when you start to learn another programming language. Why learn JavaScript? Because it’ll help you learn Python, or C++, or any other similar language. 
+A lot of languages borrow concepts from each other, or are built to shore up the weaknesses of another. JavaScript is one of the few that has completely transferable skills that can help you hit the ground running when you start to learn another programming language. Why learn JavaScript? Because it’ll help you learn Python, or C++, or any other similar language.
+
+## 7. Can a junior web developer work remote?
+
+As [Alex from Scrimba says](https://scrimba.com/articles/can-junior-web-dev-work-remote):
+
+> Yes, a junior web developer can absolutely work remotely. Should they? Maybe not. Perhaps, if you’re really interested in it, finding a hybrid junior web developer role would be a wiser decision. Even if you don’t work remotely for your first role or two, there’s a definite possibility for remote work down the line when you’ve reached a higher skill level.
+
+I wholeheartedly agree with Alex. You *can* work remote, but my advice for new developers is to try to work full-time with a team in-person. If you do, you'll find yourself learning more and getting more mentorship than you would otherwise. You can always go remote later!
 
 ## Why Learn JavaScript? Final Thoughts
 

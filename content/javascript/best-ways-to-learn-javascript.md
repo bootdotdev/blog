@@ -1,5 +1,5 @@
 ---
-title: "7 Best Ways to Learn JavaScript, Personalized"
+title: "8 Best Ways to Learn JavaScript, Personalized"
 author: Meghan Reichenbach
 date: "2022-02-05"
 lastmod: "2022-07-18"
@@ -68,7 +68,7 @@ The first way is to start by [finding a project](/javascript/javascript-projects
 
 Another way is by joining an open-source JavaScript project. These are free projects and frameworks already created that you can edit and work with yourself. You’ll find a lot of these on GitHub, and they offer risk-free opportunities to work with the language.
 
-However, if you want a project-based learning method, but don’t feel comfortable enough to jump into creating your first program, Boot.dev does employ a series of mini-projects throughout their courses, so you get the efficiency of project-based learning, but in a more secure environment.
+However, if you want a project-based learning method, but don’t feel comfortable enough to jump into creating your first program, [Boot.dev](https://boot.dev) does employ a series of mini-projects throughout their courses, so you get the efficiency of project-based learning, but in a more secure environment. Additionally, Scrimba has a [great list](https://scrimba.com/articles/beginners-javascript-project-ideas/) of JavaScript projects you can check out.
 
 {{< cta2 >}}
 

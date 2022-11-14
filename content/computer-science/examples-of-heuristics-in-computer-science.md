@@ -10,7 +10,7 @@ images:
 
 Heuristics in [computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/) and artificial intelligence are "rules of thumb" used in algorithms to assist in finding approximate solutions to complex problems. Often, there's simply too much data to sift through in order to come to a solution in a timely manner, so a heuristic algorithm is used to trade exactness for speed. However, because heuristics are based on individual rules unique to the problem they are solving, the specifics of the heuristics vary from problem to problem.
 
-Heuristics aim to produce solutions in a _reasonable time frame_ that are _good enough_ for solving the problem at hand. The solution produced using a heuristic may not be the perfect or exact solution, but it's valuable as an approximate or best-guess solution. Some problems would require hundreds of thousands of years for an exact answer, but we can product an approximate solution almost instantly.
+Heuristics aim to produce solutions in a _reasonable time frame_ that are _good enough_ for solving the problem at hand. The solution produced using a heuristic may not be the perfect or exact solution, but it's valuable as an approximate or best-guess solution. Some problems would require hundreds of thousands of years for an exact answer, but we can produce an approximate solution almost instantly.
 
 ## Heuristic Trade-Offs
 
@@ -18,7 +18,7 @@ The entire value proposition of a heuristic is based on trade-offs. Typically we
 
 - _Optimality:_ Many problems have multiple solutions, for example, "what is a good path to get from city A to city B? Do we need the best path, or will a good path be good enough?
 - _Completeness:_ When there are multiple valid solutions to a problem do we need to find all of them? Will a subset of valid solutions suffice?
-- _Accuracy:_ Many questions don't have a correct answer. For example, "Will Tommy like a pair of boots or a pair of gloves for Christmas?" A hueristic can improve accuracy in these situations.
+- _Accuracy:_ Many questions don't have a correct answer. For example, "Will Tommy like a pair of boots or a pair of gloves for Christmas?" A heuristic can improve accuracy in these situations.
 - _Execution time_: The primary goal of a heuristic is to provide a quick answer that's good enough. Some heuristics are only marginally quicker than classic methods.
 
 Example problems and some of their common heuristics are given below.
@@ -54,7 +54,6 @@ Search engine optimization has been sought after for as long as search engines h
 {{< cta2 >}}
 
 ## Applying Heuristics to Your Algorithms
-
-In order to apply heuristics to your algorithms, you need to know the solution or goal you're looking for ahead of time. If you know your end goal, you can specify rules that can help you achieve it. If the algorithm is being designed to find out how many moves a knight can make on a square, 8x8 chessboard while visiting every square, it's possible to create a heuristic that causes the knight to always choose the path with the most available moves afterward.
+To apply heuristics to your algorithms, you need to know the solution or goal you're looking for ahead of time. If you know your end goal, you can specify rules that can help you achieve it. If the algorithm is being designed to find out how many moves a knight can make on a square, 8x8 chessboard while visiting every square, it's possible to create a heuristic that causes the knight to always choose the path with the most available moves afterward.
 
 However, because we're trying to create a specific path, it may be better to create a heuristic that causes the knight to choose the path with the fewest available moves afterward. Since the available decisions are much narrower, so too are the available solutions, and so they are found more quickly.

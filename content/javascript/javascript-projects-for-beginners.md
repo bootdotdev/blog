@@ -1,5 +1,5 @@
 ---
-title: "17 Simple JavaScript Projects for Beginners"
+title: "18 Simple JavaScript Projects for Beginners"
 author: Zulie Rane
 date: "2021-10-08"
 categories: 
@@ -8,7 +8,7 @@ images:
   - /img/800/pexels-tatiana-syrikova-3975590-scaled.webp
 ---
 
-JavaScript is one of those things that if you're not a programmer you'll touch a thousand times every single day, but never know you're doing it. It's everywhere!
+JavaScript is one of those things that you use one thousand times every single day, probably without even realizing it. It's everywhere!
 
 JavaScript makes interactive web pages. That's it. But it's one of the [most highly sought-after programming languages](https://towardsdatascience.com/javascript-for-data-analysis-2e8e7dbf63a7), with one of the highest salaries. It's ubiquitous, so it's not only good to learn how, but also kind of fun. If you know JavaScript, you feel a little bit like you're peeking behind the veil of the world wide web.
 
@@ -24,7 +24,7 @@ Ready for 17 complex, interesting, and fun JavaScript practice projects for begi
 
 ## Section 1: Vanilla JavaScript Projects for Beginners
 
-A framework is basically a prepackaged chunk of code that does something specific. Think of it like a cheat, or a shortcut. Frameworks come and go, but JavaScript stays forever! That's why I wanted to start with some vanilla, simple JavaScript projects for beginners. These don’t rely on any frameworks.
+A framework is basically a prepackaged chunk of code that does something specific. Think of it as a cheat, or a shortcut. Frameworks come and go, but JavaScript stays forever! That's why I wanted to start with some vanilla, simple JavaScript projects for beginners. These don’t rely on any frameworks.
 
 ### 1. Build a weather app.
 
@@ -32,7 +32,7 @@ I want to start with the weather app because I believe it's genuinely useful and
 
 The app tutorial will walk you through building a location-based weather app. Based on your current location, the app will show you the weather there.
 
-**Warning:** the tutorial _says_ that the prerequisites are [basic HTML, basic CSS, and basic JavaScript](/javascript/html-css-javascript/), but they also link to the guides to all those below. I really believe that the best learning is taught by doing, so feel free to check it out, read the guides if you have to, or just get stuck in.
+**Warning:** the tutorial _says_ that the prerequisites are [basic HTML, basic CSS, and basic JavaScript](/javascript/html-css-javascript/), but they also link to the guides to all those below. I really believe that the best learning is taught by doing, so feel free to check it out and only read the guides if you have to.
 
 ### 2. Build a landing page for your website.
 
@@ -124,7 +124,7 @@ This temperature converter website tutorial could have saved me that pain. I lov
 
 ## Section 3: Angular JavaScript Projects for Beginners 
 
-Angular is both a platform and framework for building single-page client applications using HTML and TypeScript. It's good for scalability. I've added it to the end of this list because it'll probably be something that really only dedicated JavaScript beginners want to look at, but it is really worth getting familiar with. It shores up a lot of JavaScript’s weaknesses for single-page applications, which are only getting more popular.
+Angular is both a platform and framework for building single-page client applications using HTML and TypeScript. It's good for scalability. I've added it to the end of this list because it'll probably be something that only dedicated JavaScript beginners want to look at, but it is really worth getting familiar with. It shores up a lot of JavaScript’s weaknesses for single-page applications, which are only getting more popular.
 
 Because Angular is a more complex concept, I've kept most of these tutorials on the simpler side of things.
 
@@ -168,7 +168,11 @@ Having a personal blog is something I am very passionate about. I believe anybod
 
 [This](https://soshace.com/how-to-create-a-personal-blogging-website-part-2/) [tutorial](https://soshace.com/how-to-create-a-personal-blogging-website-part-2/) walks you through creating the front end of a personal blog. It's a little beyond what I would consider beginner, but it's still a great passion project. It's something you can work on more than one, with no real end date. You can also use your personal blog as a portfolio of sorts.
 
-The style of this written tutorial assumes that you don't know anything. That's why I like it for beginners, even though creating the front end of your blog is pretty advanced. 
+The style of this written tutorial assumes that you don't know anything. That's why I like it for beginners, even though creating the front end of your blog is pretty advanced.
+
+### 18. The Google homepage
+
+Scrimba has a great list of JS projects, my favorite is their suggestion to clone the Google homepage! It's not too hard and it's something you can get started on with just a [basic knowledge of HTML, CSS, and JavaScript](https://scrimba.com/articles/html-css-javascript/). You can check that [out here](https://scrimba.com/articles/beginners-javascript-project-ideas/).
 
 ## These seventeen JavaScript projects for beginners are a good place to start
 

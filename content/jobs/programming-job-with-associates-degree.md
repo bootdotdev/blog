@@ -18,13 +18,13 @@ There are plenty of associate's degrees for programming and computer science off
 - [Trinity Valley Community College - Associate's in CS](https://www.tvcc.edu/Programs-and-Degrees/article.aspx?a=4312)
 - [Weber State University - AAS in CS](https://catalog.weber.edu/preview_program.php?catoid=18&poid=8726)
 
-If what you're looking for is a physical college that offers a 2-year degree in programming, it's likely that you can find a similar program near you.
+If what you're looking for is a physical college that offers a 2-year degree in programming, you can likely find a similar program near you.
 
 ## What kind of jobs are available for those with an associate's degree in computer science?
 
-Very few jobs in the programming industry explicitly require a degree at all. There's a reason why famous programmers like Bill Gates and Mark Zuckerberg dropped out of college - they already had the career they wanted, so they saw no point in finishing. However, there are core concepts, mostly dealing with math and computer science, that make it much easier to get a first job.
+Very few jobs in the programming industry explicitly [require a degree](https://scrimba.com/articles/do-you-need-a-computer-science-degree-to-be-a-web-developer/) at all. There's a reason why famous programmers like Bill Gates and Mark Zuckerberg dropped out of college - they already had the career they wanted, so they saw no point in finishing. However, there are core concepts, mostly dealing with math and computer science, that make it much easier to get your first job.
 
-Assuming your plan is to attend a university, it could make a lot of sense to supplement your formal education with online training and extra-curricular projects so that you can get a coding job before graduation. If you like your job, it might make sense to cut the bachelor's degree short at 2 years or so. All of the following jobs are potentially available to non-graduates.
+Assuming you plan to attend a university, it could make a lot of sense to supplement your formal education with online training and extra-curricular projects so that you can get a coding job before graduation. If you like your job, it might make sense to cut the bachelor's degree short at 2 years or so. All of the following jobs are potentially available to non-graduates.
 
 - Engineering manager: $152k
 - Engineer, site reliability: $140k

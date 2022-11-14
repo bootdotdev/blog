@@ -20,7 +20,7 @@ It’s a great platform. But it can’t do everything. It has a number of shortc
 
 Let’s get into our lineup and see if you can’t find a better option.
 
-## Boot.dev: Nail the Fundamentals
+## Boot.dev: Nail the Fundamentals fo back-end development
 
 The issue with Codeacademy is that it’s geared toward shoehorning in all the skills without the basic underpinnings that actually make you *get* computer science.
 
@@ -31,6 +31,12 @@ Codecademy’s courses, especially the Pro ones, will get you the skills and may
 [Boot.dev](https://boot.dev), by contrast, is all about building strong foundations. The courses are geared around concepts and use coding languages to help you grasp those concepts, like Functional Programming or Big-O algorithms.
 
 Price comparison: Boot.dev costs $34 a month, or $24/month when billed annually. There’s also a free guest version.
+
+## Scrimba: Master front-end in an innovative way
+
+I love Scrimba. When students are looking for React content and land on [Boot.dev](https://boot.dev), a platform for learning back-end, I regularly refer them to Scrimba.
+
+Not only does Scrimba have an innovative way of interactively learning front-end technolgies through editable videos, but they're also constantly putting out amazing free content. For example, you can check out their article here on [how to become a web developer in 6 months](https://scrimba.com/articles/become-web-developer-in-6-months/).
 
 ## Datacamp: Go Deeper into Data Science
 

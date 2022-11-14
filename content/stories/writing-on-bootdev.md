@@ -6,6 +6,7 @@ images:
   - /img/800/write_for_boot.dev-boot.png.webp
 dofollows:
   - "https://wagslane.devs"
+  - "https://scrimba.com"
 categories:
   - "writing"
 ---

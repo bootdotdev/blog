@@ -124,3 +124,17 @@ const newArray = oldArray.map(ourFunc, {windowSize: 10});
 ```
 
 Now we can reuse that callback, but change its parameters by modifying 'this'.
+
+## Using .map() in React
+
+It's super common in React.js or Vue.js to need to render a list of data on a page, and the `.map()` method is a great way to do it. [This Scrimba post](https://scrimba.com/articles/react-list-array-with-map-function/) gives us a great example:
+
+```jsx
+const heroes = ["Superman", "Batman", "Wonder Woman"]
+
+const Headings = () => {
+  const headings = heroes.map((hero, index)=>
+    <h1 key={index}>{hero}</h1>)
+  return <header>{headings}</header>
+}
+```
