@@ -10,6 +10,8 @@ images:
 
 Building a job-ready portfolio of coding projects doesn't happen overnight, but if you're like most self-taught developers, you've likely built up a nice collection of todo apps, calculators, and other toy programs. Here's the thing, applications for end-users are great, but I'm here to convince you that adding a *library* to your portfolio will make you *much* more hireable.
 
+A specific library that I wrote has helped me land jobs several times, but I'll talk about that more later.
+
 ## Wait, what's the difference between an application and a library?
 
 Applications are normal programs. They start up and do some stuff. They have an entry point like a `main()` function. On the other hand, a library (aka package), consists of some code intended to be used in other programs. If you've ever used `go get`, `npm install`, or `pip install`, then you've included a 3rd party library in your code.
@@ -76,5 +78,13 @@ Now, I'm not saying you should spend your valuable time marketing your portfolio
 When you're applying for your first developer job, your competing with many other new developers. Frankly, most of the candidates are doing the same old things, which makes it hard for the hiring team to find the best people. Anything you can do to stand out positively will help!
 
 The fact that most developers don't even have a good portfolio of projects will already be a point in your favor. However, if on top of that you have a cool library with a simple API you'll be in a really good place.
+
+## The libraries and packages that helped me get work
+
+I've now written a couple of little packages that have helped me in my job search. While I don't mention all of them in every interview, at least one has come up in my last 3 interviews. Well, the last 3 interviews in which I ended up taking the job. Here they are, in descending order of precedence in my portfolio:
+
+* [go-rabbitmq](https://github.com/wagslane/go-rabbitmq)
+* [go-password-validator](https://github.com/wagslane/go-password-validator)
+* [go-tinytime](https://github.com/wagslane/go-tinytime)
 
 Good luck with your current and future job searches!
