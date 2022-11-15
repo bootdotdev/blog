@@ -30,7 +30,8 @@ pluralizelisttitles = false
   dofollows = [
     "https://boot.dev",
     "https://blog.boot.dev",
-    "https://wagslane.dev"
+    "https://wagslane.dev",
+    "https://scrimba.com"
   ]
 
   [[params.courses]]
