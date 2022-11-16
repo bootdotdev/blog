@@ -85,9 +85,13 @@ Create a directory `static/img/X` where `X` is the max width of the new images.
 yarn image-min
 ```
 
-This resizes all the images and places them in the new folder. 
+This resizes all the images and places them in the new folder and deletes them from `raw/`.
 
-Delete the raw images.
+The syntax to include them in a post is:
+
+```md
+![alt text here](/img/800/technology.png.webp)
+```
 
 ## Docx to markdown
 
