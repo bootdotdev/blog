@@ -93,7 +93,7 @@ I like the [Complete Python and PostgreSQL Developer Course](https://www.udemy.c
 
 ### 2. SQLite
 
-![sqlite-banner](/img/800/SQLite-banner.webp)
+![sqlite-banner](/img/800/sqlite-banner-bg.webp)
 
 A descriptive name: SQLite is a slimmer, lighter SQL database. It’s a popular database, used by [32% of Stack Overflow survey respondents](https://survey.stackoverflow.co/2022/#most-popular-technologies-database). It’s serverless and self-contained.
 
@@ -191,7 +191,7 @@ MongoDB has its own “[university](https://university.mongodb.com/)” with a g
 
 ### 2. Redis
 
-![redis-banner](/img/800/redis-banner.webp)
+![redis-banner](/img/800/redis-banner-bg.webp)
 
 Redis is the second most popular NoSQL database, used by 22.1% of respondents. Unlike MongoDB, you can only carry it through primary key access, which means it's got a more limited query functionality. It's worth noting that this functionality can be extended with Redis modules, but the out-of-the-box Redis is more limited.
 
@@ -221,7 +221,7 @@ Elastic.co has its [own](https://www.elastic.co/training/) training, certificati
 
 ### 4. Firebase
 
-![firebase-banner](/img/800/firebase-banner.webp)
+![firebase-banner](/img/800/firebase-banner-bg.webp)
 
 Google has a habit of saying, “Hey the existing technology doesn't really work for us. Let's make something brand-new that suits our needs, and make it so good that other people start to use it too!” Google did it with [Golang](https://go.dev) and with Firebase.
 
