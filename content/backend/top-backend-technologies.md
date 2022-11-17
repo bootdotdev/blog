@@ -23,33 +23,49 @@ We already covered the [top eight backend programming languages](/backend/best-b
 
 ### 1. Go
 
+![go-banner](/img/800/go-banner.webp)
+
 Go is the fastest-growing and most-desired backend language, used by companies like Uber, YouTube, and Spotify. Backend developers like it because it’s super safe to use, it’s incredibly simple to pick up, and it’s fast. You can get started [learning Go here](https://boot.dev/learn/learn-golang).
 
 ### 2. Python
+
+![python-banner](/img/800/python-banner.webp)
 
 Python is the most popular backend programming language for beginners. It has a simple and limited syntax, which makes it easy to read and write. Its immense number of libraries makes it incredibly versatile. Companies like Airbnb, SpaceX, and Stripe rely on Python to maintain their backends. You can get started [learning Python here](https://boot.dev/learn/learn-python).
 
 ### 3. JavaScript
 
+![js-banner](/img/800/javascript-banner.webp)
+
 JavaScript is the most popular backend language for all developers, though it’s mostly used for frontend dev. However, its frameworks like NodeJS make it a popular choice for backend developers too. Companies like Facebook, Google, and eBay use JavaScript. You can get started [learning JavaScript here](https://boot.dev/learn/learn-javascript).
 
 ### 4. Rust
+
+![rust-banner](/img/800/rust-banner.webp)
 
 Rust is a newbie on the backend development scene, but it’s the most beloved language for the seventh year running – ever since its inception. It’s open source, it has rich libraries, and it’s one of the fastest languages around. Meta is notable for being quick to jump on the Rust bandwagon, having used it since 2016. AWS also uses it to write infrastructure-level networking.
 
 ### 5. Java
 
+![java-banner](/img/800/java-banner.webp)
+
 This is a legacy backend language. It’s the safe bet, unpopular with newbies but so entrenched in so many companies’ backends that it’s not going anywhere anytime soon. Companies like Google, Netflix, Uber, and Facebook all still rely on it. It may not be the top choice in the future, but for now, it’s good to be familiar with it.
 
 ### 6. PHP
+
+![php-banner](/img/800/php-banner.webp)
 
 Nobody (literally just 2% of StackOverflow survey respondents) wants to learn PHP. But it’s on 75% of websites today. Like Java, it’s not the best or sexiest language but it’s worth knowing. Meta in particular has used it to develop Facebook’s backend since 2004. Slack uses PHP to streamline web request time.
 
 ### 7. Ruby
 
+![ruby-banner](/img/800/ruby-banner.webp)
+
 Want money? Learn Ruby. Thanks to the Ruby on Rails framework, Ruby backend developers command a hefty salary. However, it’s still pretty niche among other languages like JavaScript. Currently, companies like Crunchbase and Etsy use Ruby on Rails to develop and maintain their backends.
 
 ### 8. SQL
+
+![sql-banner](/img/800/sql-banner.webp)
 
 Gotcha! SQL isn’t a programming language like the other seven. But it’s, as we’ll get into below, a very useful and popular query language. Backend developers often use SQL to communicate between relational databases. It’s hard to find a company that wouldn’t find SQL knowledge useful, so count this as a must-know language to be hired. You can [learn SQL here](/news/learn-sql-course-released/).
 
@@ -65,6 +81,8 @@ It's worth pointing out that SQL is a query language, and when you learn it once
 
 ### 1. PostgreSQL
 
+![postgres-banner](/img/800/postgres-banner.webp)
+
 PostgreSQL is the gold-standard when it comes to open-source, professional-grade SQL databases. It’s used more by professionals (46.5% pros versus 25.5% learning to code). Unlike MySQL, it’s seen as the go-to database for production, high-volume data operations.
 
 It doesn’t just store data – it lets you define data types, index types, and functional languages. Plus, it is fully open source and very customizable. It’s used by a long laundry list of companies including (but not limited to) Apple, BioPharm, Cisco, Etsy, Facebook, Instagram, Skype, and Spotify.
@@ -74,6 +92,8 @@ It doesn’t just store data – it lets you define data types, index types, and
 I like the [Complete Python and PostgreSQL Developer Course](https://www.udemy.com/course/complete-python-postgresql-database-course) which will teach you Python and PostgreSQL by building real-world projects.
 
 ### 2. SQLite
+
+![sqlite-banner](/img/800/SQLite-banner.webp)
 
 A descriptive name: SQLite is a slimmer, lighter SQL database. It’s a popular database, used by [32% of Stack Overflow survey respondents](https://survey.stackoverflow.co/2022/#most-popular-technologies-database). It’s serverless and self-contained.
 
@@ -93,6 +113,8 @@ Our very own [Learn SQL course](https://boot.dev/learn/learn-sql) uses SQLite as
 
 ### 3. MySQL
 
+![mysql-banner](/img/800/mysql-banner.webp)
+
 MySQL is the "standard" SQL database. It’s the most used database overall, with [46.85%](https://survey.stackoverflow.co/2022/#most-popular-technologies-database) of Stack Overflow respondents using it. It’s a decent fit for many projects. That said, there are not many reasons to use it over PostgreSQL these days. They are *very* similar technologies, but many developers agree with me that Postgres is simply the more modern solution.
 
 It used to be fully open source but was acquired by Oracle a while back. Oracle distributes it under a dual license – you can use the OSS version if you like, but if you work at a company that doesn’t want its MySQL-based product to be OSS as well, you’ll have to pay for a license.
@@ -105,6 +127,8 @@ I recommend Programming With Mosh’s free three-hour [tutorial](https://www.you
 
 ### 4. MariaDB
 
+![mariadb-banner](/img/800/mariadb-banner.webp)
+
 MariaDB is used by a smaller percentage of developers – just 17.9%. It has an interesting history – back when Oracle was acquiring MySQL, a bunch of developers got worried about what that would mean for one of the most relied-upon SQL databases. MariaDB is a fork of MySQL and fully open source, licensed under GPL which has very, very few limitations for academic, commercial, or personal use.
 
 Those developers made some improvements, too: MariaDB has 12+ storage engines and 200k+ connections, making it faster and more lightweight than MySQL. It’s used by a more niche selection of companies like Bandwidth, DigiCert, InfoArmor, Oppenheimer, Samsung, SelectQuote, and SpendHQ. However, I expect it will grow in popularity over the coming years.
@@ -114,6 +138,8 @@ Those developers made some improvements, too: MariaDB has 12+ storage engines an
 The best source is the [MariaDB website](https://mariadb.com/kb/en/training-tutorials/) itself.
 
 ### 5. Oracle
+
+![oracle-banner](/img/800/oracle-banner.webp)
 
 Didn’t Oracle acquire MySQL? Why does it have a separate entry on this list?
 
@@ -126,6 +152,8 @@ Companies like Netflix, LinkedIn, eBay, and Intuit use Oracle. It's typically us
 I recommend [Oracle’s learning platform](https://education.oracle.com/learning-explorer). As a paid product, they have a vested interest in teaching you how to use it for free.
 
 ### 6. Microsoft SQL Server
+
+![microsoft-sql-server-banner](/img/800/microsoft-sql-server-banner.webp)
 
 Also referred to as MSSQL, this SQL database is used by 26.7% of Stack Overflow survey respondents. As the name gives away, this database was developed by Microsoft, so it’s not OS. You need licenses to run it.
 
@@ -149,6 +177,8 @@ Again, I’m using “top” here as defined by StackOverflow’s survey.
 
 ### 1. MongoDB
 
+![mongodb-banner](/img/800/mongodb-banner.webp)
+
 Like many other databases we've talked about here, MongoDB offers a free open-source version and a paid Enterprise version. It’s the most standard of the NoSQL databases, so I’ll be using it as a basis for comparison for the NoSQL databases.
 
 It's used by [28.3% of respondents to the Stack Overflow survey](https://survey.stackoverflow.co/2022/#most-popular-technologies-database) which makes it the most popular NoSQL database. MongoDB allows you to query documents by single or multiple keys, ranges, or search texts. Rather than representing information in tables and rows, it represents information as a series of JSON-like documents. It has a more loose structure than the strict row/column format of a SQL database.
@@ -160,6 +190,8 @@ Forbes used MongoDB to migrate to the cloud. Toyota used it as well. Sonoma used
 MongoDB has its own “[university](https://university.mongodb.com/)” with a great set of tutorials to learn MongoDB.
 
 ### 2. Redis
+
+![redis-banner](/img/800/redis-banner.webp)
 
 Redis is the second most popular NoSQL database, used by 22.1% of respondents. Unlike MongoDB, you can only carry it through primary key access, which means it's got a more limited query functionality. It's worth noting that this functionality can be extended with Redis modules, but the out-of-the-box Redis is more limited.
 
@@ -175,6 +207,8 @@ The Redis help [docs](https://redis.io/docs/getting-started/) are a good place t
 
 ### 3. Elasticsearch
 
+![elasticsearch-banner](/img/800/elasticsearch-banner.webp)
+
 Elasticsearch, as the name implies, is a more limited and yet more powerful type of NoSQL database used by 12.2% of respondents. It's open source and built with Java. It does now have closed licensing models for new versions beyond version 7.9.
 
 As you may have been able to guess, Elasticsearch is used for search and log analysis. It's typically used in conjunction with Kibana and Logstash, more commonly known as the ELK stack. It operates as a search platform for access, retrieval, and reporting of data, logging and log analytics, and the analysis of infrastructure metrics. Some companies use it for security and business analytics as well.
@@ -186,6 +220,8 @@ It’s used by Uber, Shopify, Udemy, and [others](https://stackshare.io/elastics
 Elastic.co has its [own](https://www.elastic.co/training/) training, certification, and events for you to peruse.
 
 ### 4. Firebase
+
+![firebase-banner](/img/800/firebase-banner.webp)
 
 Google has a habit of saying, “Hey the existing technology doesn't really work for us. Let's make something brand-new that suits our needs, and make it so good that other people start to use it too!” Google did it with [Golang](https://go.dev) and with Firebase.
 
@@ -200,6 +236,8 @@ Firebase is used by the NYT, Lyft, Accenture, Instacart, and [others](https://ca
 Google offers some great [pathways](https://firebase.google.com/community/learn) to learn Firebase.
 
 ### 5. Cassandra
+
+![cassandra-banner](/img/800/cassandra-banner.webp)
 
 I'm not talking about the prophetess, though that's what the name pays homage to. The Cassandra database has a much smaller user base, with only 2.7% of Stack Overflow respondents reporting that they use it. It's an interesting one because it’s a *very* distributed and scalable database. All the master nodes are in communication with each other in a peer-to-peer network, which means there’s no single point of failure. By comparison, PostgresQL has a primary node/replica node model.
 
@@ -231,6 +269,8 @@ Meanwhile, a message broker will do a little more – it will validate, route, s
 
 ### 1. RabbitMQ
 
+![rabbitmq-banner](/img/800/rabbitmq-banner.webp)
+
 RabbitMQ is the most widely deployed open-source message broker. It's lightweight and easy to use for both on-prem and cloud deployment. It's versatile as it can support multiple messaging protocols. And it can meet high-skill availability requirements because it can be deployed to both distributed and federated configurations.
 
 The consumer will set a prefetch limit, and RabbitMQ will push messages up to that limit.
@@ -242,6 +282,8 @@ It’s used by T-Mobile and Runtastic to give some examples.
 If this sounds like your cup of tea, you can learn RabbitMQ on RabbitMQ’s own [website](https://www.rabbitmq.com/getstarted.html). They have a ton of great tutorials to get started.
 
 ### 2. Kafka
+
+![kafka-banner](/img/800/kafka-banner.webp)
 
 Kafka, by contrast, is a pub/sub message bus. It's geared for streams and high-ingress data replay. It actually isn’t even a queue – instead, it appends messages to a log, where they remain until they're read or the retention limit is reached.
 
@@ -257,6 +299,8 @@ I recommend [Udemy’s Learn Kafka for beginners course](https://www.udemy.com/c
 
 ### 3. PubSub
 
+![pubsub-banner](/img/800/pubsub-banner.webp)
+
 PubSub is Google's proprietary cloud offering for message queues. It's *very* similar to Apache Kafka, but requires no configuration or maintenance - the only way to use it is through Google's cloud offering. We actually use PubSub to run [Boot.dev's back-end learning platform](https://boot.dev).
 
 #### Where can I learn PubSub? 
@@ -264,6 +308,8 @@ PubSub is Google's proprietary cloud offering for message queues. It's *very* si
 I recommend [the offical docs from Google](https://cloud.google.com/pubsub#section-5).
 
 ### 4. SQS
+
+![sqs-banner](/img/800/sqs-banner.webp)
 
 Like Google, Amazon is starting to get into the habit of just building the services they need to make their business a success. SQS is an example of this. SQS stands for simple queue service. It's a pub/sub message broker system. Because it's based on AWS, it's great for scaling up and down. However, also because it's based on AWS, it doesn't actually have any hosting available outside AWS. It's also expensive.
 
