@@ -34,23 +34,20 @@ This course is a bit different. It's packed with text-based walkthroughs as well
 
 We created new icons for all of our achievements, and we also added 6 new achievements:
 
-* **Sharpshooter: Grandmaster** (144 assignments correct in a row)
 * **Milestone: Master** (480 assignments completed in total)
+* **Milestone: Grandmaster** (960 assignments completed in total)
+* **Sharpshooter: Master** (89 assignments correct in a row)
+* **Sharpshooter: Grandmaster** (144 assignments correct in a row)
+* **Streak: Master** (Complete an exercise weekly for 30 weeks)
 * **Streak: Grandmaster** (Complete an exercise weekly for 52 weeks)
 
 Since we released them 2 weeks ago, we've already had students unlocking these prestigious badges!
 
 ![milestone master](https://i.imgur.com/CyPdA2x.png)
 
-![milestone grandmaster](https://i.imgur.com/HY5PjNv.png)
+![sharpshooter grandmaster](https://i.imgur.com/sIkT09h.png)
 
-![milestone master](https://i.imgur.com/6aWn9fQ.png)
-
-![milestone grandmaster](https://i.imgur.com/sIkT09h.png)
-
-![milestone master](https://i.imgur.com/las8nap.png)
-
-![milestone grandmaster](https://i.imgur.com/hlvjB0z.png)
+![streak grandmaster](https://i.imgur.com/hlvjB0z.png)
 
 ### 3. We are now an educational institution on Linkedin
 
