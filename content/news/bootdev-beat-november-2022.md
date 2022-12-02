@@ -1,7 +1,7 @@
 ---
 title: "Boot.dev Beat. November 2022"
 author: Lane Wagner
-date: "2022-11-31"
+date: "2022-11-30"
 categories:
   - "news"
 images:
@@ -34,11 +34,8 @@ This course is a bit different. It's packed with text-based walkthroughs as well
 
 We created new icons for all of our achievements, and we also added 6 new achievements:
 
-* **Sharpshooter: Master** (89 assignments correct in a row)
 * **Sharpshooter: Grandmaster** (144 assignments correct in a row)
 * **Milestone: Master** (480 assignments completed in total)
-* **Milestone: Grandmaster** (960 assignments completed in total)
-* **Streak: Master** (Complete an exercise weekly for 30 weeks)
 * **Streak: Grandmaster** (Complete an exercise weekly for 52 weeks)
 
 Since we released them 2 weeks ago, we've already had students unlocking these prestigious badges!

@@ -1,4 +1,4 @@
-const fetch = require("node-fetch");
+import fetch from "node-fetch";
 const siteMapUrl = "https://blog.boot.dev/sitemap.xml";
 const googleEndpoint = `http://www.google.com/ping?sitemap=${siteMapUrl}`;
 const yandexEndpoint = `https://webmaster.yandex.ru/ping?sitemap=${siteMapUrl}`;
