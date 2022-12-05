@@ -1,9 +1,38 @@
-{{ $related := .Site.RegularPages.Related . | first 5 }}
+{{ $related := .Site.RegularPages.Related . | first 4 }}
 {{ with $related }}
-<h3 class="text-2xl font-bold m-4">Related Reading</h3>
-<ul class="list-disc ml-4">
-	{{ range . }}
-	<li><a class="underline text-blue-400 hover:text-blue-300" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-	{{ end }}
-</ul>
+<div class="flex flex-col items-center py-8">
+	<h3 class="text-3xl text-white font-bold mb-2">Related Articles</h3>
+
+	<div class="max-w-4xl m-auto">
+		<ul>
+			{{ range $index, $val := . }}
+			<li>
+				<a href="{{ .RelPermalink }}"
+					class="cursor-pointer flex flex-col sm:flex-row p-4 my-4 hover:bg-gray-750 rounded-xl">
+
+					{{ if .Params.images }}
+					<div class="flex-2 mr-0 sm:mr-4 mb-2 sm:mb-0 flex justify-center">
+						<img {{ if gt $index 3 }} loading="lazy" {{ end }} width="288" height="162"
+							class="rounded object-cover hidden sm:block" src="{{ index (.Params.images) 0 }}" />
+						<img {{ if gt $index 3 }} loading="lazy" {{ end }} class="rounded object-cover block sm:hidden"
+							src="{{ index (.Params.images) 0 }}" />
+					</div>
+					{{ end }}
+
+					<div class="flex-1">
+						<h2 class="text-lg font-bold text-white mb-2">{{ .Title }}
+						</h2>
+
+						<h3 class="text-sm text-gray-400 mb-4">
+							{{ .Date.Format "Jan 02, 2006" }} by {{ .Params.author }}
+						</h3>
+
+						<p class="hidden sm:block">{{ .Summary }}</p>
+					</div>
+				</a>
+			</li>
+			{{ end }}
+		</ul>
+	</div>
+</div>
 {{ end }}

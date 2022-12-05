@@ -1,70 +1,72 @@
 {{ partial "header.html" . }}
 
-<div class="flex flex-col lg:flex-row w-full lg:justify-center lg:items-start">
+<div>
 
-    <div class="max-w-3xl p-4">
-        <div class="mb-8">
-            {{ partial "breadcrumb" . }}
+    <div class="flex flex-col lg:flex-row w-full lg:justify-evenly lg:items-start">
+        <aside class="max-w-md w-full">
 
-            {{ if .Params.images }}
-            <div class="mb-4">
-                <img class="rounded" width="736" height="414" {{ if .Params.imageAlts }}
-                    alt="{{ index (.Params.imageAlts) 0 }}" {{ end }} src="{{ index (.Params.images) 0 }}" />
+        </aside>
 
-                {{ if .Params.imageAlts }}
-                <p class="text-xs text-gray-500 text-center mt-2">{{ index (.Params.imageAlts) 0 }}</p>
-                {{end}}
-            </div>
-            {{ end }}
+        <div class="max-w-3xl p-4">
+            <div class="mb-8">
 
-            <h1 class="text-4xl font-bold text-white mb-2">{{ .Title }}</h1>
+                {{ partial "breadcrumb" . }}
 
-            {{ $date := .Params.date.Format "Jan 2, 2006" }}
-            {{ if .Params.author }}
-            <p class="text-sm text-gray-300">
-                By {{ .Params.author }}
-                {{ if (gt .Params.date 0) }}
-                on {{ $date }}
+                {{ if .Params.images }}
+                <div class="mb-4">
+                    <img class="rounded" width="736" height="414" {{ if .Params.imageAlts }}
+                        alt="{{ index (.Params.imageAlts) 0 }}" {{ end }} src="{{ index (.Params.images) 0 }}" />
+
+                    {{ if .Params.imageAlts }}
+                    <p class="text-xs text-gray-500 text-center mt-2">{{ index (.Params.imageAlts) 0 }}</p>
+                    {{end}}
+                </div>
                 {{ end }}
-            </p>
-            {{ end }}
 
-            {{ $lastmod := .Params.lastmod.Format "Jan 2, 2006" }}
-            {{ if and (ne $lastmod $date) (gt .Params.lastmod .Params.date) }}
-            <p class="text-sm text-gray-300">
-                Last updated on {{ $lastmod }}
-            </p>
-            {{ end }}
+                <h1 class="text-4xl font-bold text-white mb-2">{{ .Title }}</h1>
+
+                {{ $date := .Params.date.Format "Jan 2, 2006" }}
+                {{ if .Params.author }}
+                <p class="text-sm text-gray-300">
+                    By {{ .Params.author }}
+                    {{ if (gt .Params.date 0) }}
+                    on {{ $date }}
+                    {{ end }}
+                </p>
+                {{ end }}
+
+                {{ $lastmod := .Params.lastmod.Format "Jan 2, 2006" }}
+                {{ if and (ne $lastmod $date) (gt .Params.lastmod .Params.date) }}
+                <p class="text-sm text-gray-300">
+                    Last updated on {{ $lastmod }}
+                </p>
+                {{ end }}
+            </div>
+
+            <div>
+                <main>
+
+                    {{ if .Params.toc }}
+                    <h2>Table of Contents</h2>
+                    <aside>
+                        {{.TableOfContents}}
+                    </aside>
+                    {{ end }}
+
+
+                    {{ .Content }}
+
+                    {{ partial "signature.html" . }}
+                </main>
+
+                {{ partial "related.html" . }}
+            </div>
         </div>
 
-        <main>
-
-            {{ if .Params.toc }}
-            <h2>Table of Contents</h2>
-            <aside>
-                {{.TableOfContents}}
-            </aside>
-            {{ end }}
-
-
-            {{ .Content }}
-        </main>
-
-        <div class="text-right mb-4">
-            <a target="_blank" href="https://github.com/bootdotdev/blog/issues" class="text-blue-400
-            hover:text-blue-300 underline cursor-pointer">✏️ Report an issue with this article</a>
-        </div>
-
-        {{ if ne .Section "" }}
-        {{ partial "signature.html" . }}
-        {{ end }}
-
-        {{ partial "related.html" . }}
-
+        <aside class="max-w-md py-8 px-4 lg:px-8">
+            {{ partial "sidebar.html" . }}
+        </aside>
     </div>
-
-    {{ partial "sidebar.html" . }}
-
 </div>
 
 {{ partial "footer.html" . }}
