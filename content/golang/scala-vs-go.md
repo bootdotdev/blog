@@ -8,7 +8,7 @@ images:
   - /img/800/Scala-vs-Go-min.webp
 ---
 
-Scala and Golang are newer languages, only coming on to the scene after the turn of the century, but in that time they’ve managed to become two of _the_ [highest-paid languages](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states) for developers, with the industry benefiting from their fresh creation.
+Scala and Golang are newer languages, only coming onto the scene after the turn of the century, but in that time they’ve managed to become two of _the_ [highest-paid languages](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states) for developers, with the industry benefiting from their fresh creation.
 
 But what makes these languages so special?
 
@@ -40,7 +40,7 @@ When it comes to choosing between Go or Scala as a beginner language, the vote i
 
 Go is known for its incredibly clean code, which makes it easy to learn and quick to program -- so you can start coding right away. As a multiparadigm language, Go supports procedural and functional programming, which are the most readable and recommended styles for beginners, further boosting Go's beginner-friendly credentials.
 
-Golang is also known for its top-notch memory management, with a cutting-edge garbage collector, streamlined goroutines, and static typing, it has all the makings of a safe and error handling friendly environment.
+Golang is also known for its top-notch memory management, with a cutting-edge garbage collector, streamlined goroutines, and static typing, it has all the makings of a safe and error-handling-friendly environment.
 
 Scala’s learning curve on the other hand is much less forgiving -- unless you happen to be a junior developer that’s mastered Java.
 
@@ -54,9 +54,9 @@ Unlike Golang, Scala is an object-oriented language, which is notoriously diffic
 
 Both Scala and Golang offer excellent advantages for experienced programmers depending on your background and field of work.
 
-Scala is a clever choice, especially if you already know Java. Not only will it be familiar and easy to learn, being OOP and using the JVM, but it runs like Java just with fewer code. Then, there’s the added benefit of functional programming and the fact you can express _anything_ in Scala.
+Scala is a clever choice, especially if you already know Java. Not only will it be familiar and easy to learn, being OOP and using the JVM, but it runs like Java just with less code. Then, there’s the added benefit of functional programming and the fact you can express _anything_ in Scala.
 
-Scala is also compatible with some exceptional tools like the Akka ecosystem, an open-source toolkit and run-time that simplifies concurrent and distributed applications in JVM, as well as frameworks that support data analytics, micro services, and monoliths seamlessly.
+Scala is also compatible with some exceptional tools like the Akka ecosystem, an open-source toolkit and run-time that simplifies concurrent and distributed applications in JVM, as well as frameworks that support data analytics, microservices, and monoliths seamlessly.
 
 Go comes into play if you’re looking for a safe but powerful back-end language, especially for web development or cloud servers. Go’s smooth concurrency and low RAM and CPU usage make it not only a fast option but a cost-effective option.
 

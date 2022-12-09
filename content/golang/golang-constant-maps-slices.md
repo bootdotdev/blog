@@ -14,7 +14,7 @@ images:
 
 For the most part, I've found that [developers learning Go](https://boot.dev/learn/learn-golang) for the first time are pretty good at using global *constants* for configuration values rather than global *variables*. However, a problem arises when we want a constant version of some of the more complex types. The Go compiler does not allow us to [create array, map, or slice](/golang/golang-make-maps-and-slices/) constants. After realizing this, many developers decide to use a dangerous global variable.
 
-In this article, we will explore some alternative options that allows us to make a *form* of constant maps, slices, and arrays, albeit with some trade-offs. Please don't use global variables if you can avoid it!
+In this article, we will explore some alternative options that allow us to make a *form* of constant maps, slices, and arrays, albeit with some trade-offs. Please don't use global variables if you can avoid them!
 
 ## So if Go doesn't support these types of constants, what is the best alternative?
 
@@ -85,7 +85,7 @@ var dangerousRateLimit = 10
 When setting configuration globals, which should be read-only, there's **no good reason to use a global variable**. By using a variable instead of a constant you:
 
 * Open up the potential for bugs when you or someone else accidentally mutates the value
-* Confuse future developers who assume the value is _supposed_ to change
+* Confuse future developers who assume the value is *supposed* to change
 
 Most people already know this about global variables thankfully, and switching global variables to global constants is a fairly straightforward task.
 
@@ -137,7 +137,7 @@ Whenever we find ourselves leaving comments like this, we should be aware we are
 
 ## The Better Solution for Constants in Go
 
-It's much better to use an initializer function like we talked about above (not to be confused with Go's conventional [init()](https://golang.org/doc/effective_go#init) function). An initializer function is a function that simply declares something and returns it. Like I explained above, a good solution to our problem would be as follows:
+It's much better to use an initializer function as we talked about above (not to be confused with Go's conventional [init()](https://golang.org/doc/effective_go#init) function). An initializer function is a function that simply declares something and returns it. Like I explained above, a good solution to our problem would be as follows:
 
 ```go
 package main
@@ -151,13 +151,13 @@ func getSupportedNetworks() []string {
 
 Now, anywhere in the program, we can use the result of `getSupportedNetworks()` and we know that there is no way we can get a mutated value.
 
-Obviously one of the biggest downsides to this approach is that to get a new copy of the configuration you're literally creating a new copy and making a function call. In the vast majority of cases this should be fine - if it's truly just a configuration you probably won't need to be accessing it too often. That said, if you're rapidly making new copies constantly the extra memory overhead could become a performance issue.
+Obviously one of the biggest downsides to this approach is that to get a new copy of the configuration you're literally creating a new copy and making a function call. In the vast majority of cases, this should be fine - if it's truly just a configuration you probably won't need to be accessing it too often. That said, if you're rapidly making new copies constantly the extra memory overhead could become a performance issue.
 
 ## Good Practices
 
 Being able to access to maps and slices that are *effectively* constant makes your code easier to read, and more importantly, less error-prone. One of the most sought-after traits of a [computer scientist](/computer-science/comprehensive-guide-to-learn-computer-science-online/) for [high-end coding jobs](/computer-science/highest-paying-computer-science-jobs/) is the ability to read, write, and refactor code so that it's more maintainable and easier to understand.
 
-## Are you SURE Go doesn't support constant maps slices and arrays?
+## Are you *sure* that Go doesn't support constant maps slices and arrays?
 
 Yes. From the official [specification](https://golang.org/ref/spec#Constants):
 

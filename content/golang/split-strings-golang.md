@@ -123,7 +123,7 @@ func main() {
 
 ## Split using a regex
 
-Regular expressions are a popular way to manipulate strings, and Go's built-in regex engine can help us out. We don't even need to use the `strings` package here, instead we'll use the [regexp package](https://golang.org/pkg/regexp/).
+Regular expressions are a popular way to manipulate strings, and Go's built-in regex engine can help us out. We don't even need to use the `strings` package here, instead, we'll use the [regexp package](https://golang.org/pkg/regexp/).
 
 ```go
 package main

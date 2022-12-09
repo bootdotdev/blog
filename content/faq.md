@@ -6,7 +6,7 @@ date: "2020-02-06"
 
 ## Who is Boot.dev for?
 
-While anyone who's interested in coding will likely find at least a couple of our courses directly applicable to their current situation, you will get the most out of our platform if you’re interested in learning how to upskill as a back-end developer. Whether you're just starting your coding journey, or you're transitioning from an IT, Ops, or QA job into development, we've got a great program for you.
+Our courses are beneficial for anyone interested in coding, but they are most useful for those looking to become back-end developers. If you are just starting to learn how to code, or if you are transitioning from an IT, Ops, or QA job into development, our program is a great fit for you.
 
 Our [curriculum](https://github.com/bootdotdev/curriculum) is a computer-science based approach to learning back-end development. If you complete all the courses and projects you can shatter the glass ceiling of "entry-level programming jobs". Our courses teach you through the same fundamentals you would learn in a university's CS degree.
 

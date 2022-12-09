@@ -15,7 +15,7 @@ imageAlts:
 
 SHA-2 (Secure Hash Algorithm 2), of which SHA-256 is a part, is one of the most popular [hash algorithms](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) around. A cryptographic hash, also often referred to as a "digest", "fingerprint" or "signature", is an *almost perfectly unique* string of characters that is generated from a separate piece of input text. SHA-256 generates a 256-bit (32-byte) signature.
 
-Towards the end of this article, I'll break down each step of SHA 256's [cryptographic algorithm](/cryptography/what-is-cryptography/), and work through a real example by hand. If you're interested in learning cryptography with hands-on code examples, you can also check out my ["Learn Cryptography" course on Boot.dev](https://boot.dev/learn/learn-cryptography).
+Toward the end of this article, I'll break down each step of SHA 256's [cryptographic algorithm](/cryptography/what-is-cryptography/), and work through a real example by hand. If you're interested in learning cryptography with hands-on code examples, you can also check out my ["Learn Cryptography" course on Boot.dev](https://boot.dev/learn/learn-cryptography).
 
 ## Generate a SHA 256 hash
 
@@ -35,7 +35,7 @@ It's worth noting that the output of a hash is "almost unique" because there are
 115,792,089,237,316,195,423,570,985,008,687,907,853,269,984,665,640,564,039,457,584,007,913,129,639,936 possible outputs for SHA-256
 ```
 
-The three of the main purposes of a hash function are:
+Three main purposes of a hash function are:
 
 * To scramble data deterministically
 * To accept an input of arbitrary length and output a fixed-length result
@@ -55,15 +55,15 @@ SHA-256 is useful in *so many* circumstances! It's a fast and secure hash functi
 
 ### Can I use SHA-256 to hash passwords?
 
-While it's *possible*, you *absolutely should not* use SHA 256 to hash passwords! SHA-256 is designed to be computed very *quickly*, which means that if someone were to perform a brute force attack on your user's passwords, they wouldn't be safe. Instead you'll want to use a [key derivation function](/cryptography/key-derivation-functions/), which is basically just a password hashing algorithm that's designed to slow down attackers.
+While it's *possible*, you *absolutely should not* use SHA 256 to hash passwords! SHA-256 is designed to be computed very *quickly*, which means that if someone were to perform a brute force attack on your user's passwords, they wouldn't be safe. Instead you'll want to use a [key derivation function](/cryptography/key-derivation-functions/), which is just a password-hashing algorithm that's designed to slow down attackers.
 
 ## Is SHA-256 still considered secure?
 
-SHA-2 is known for its security (it hasn't [broken down like SHA-1](https://shattered.io/)) and its speed. In cases where [keys are not generated](/cryptography/key-derivation-functions/), such as [proof-of-work](https://en.wikipedia.org/wiki/Proof_of_work) Bitcoin mining, a fast hash algorithm like SHA-2 often has the upper hand. In fact, SHA-256 is formally defined in the National Institute of Standards and Technology's [FIPS 180-4](http://csrc.nist.gov/groups/ST/toolkit/secure_hashing.html). Along with standardization and formalization comes a list of [test vectors](http://csrc.nist.gov/groups/ST/toolkit/examples.html#aHashing) that allow developers to ensure they've implemented the algorithm properly. As of 2022, SHA-256 is plenty secure to use in your applications.
+SHA-2 is known for its security (it hasn't [broken down like SHA-1](https://shattered.io/)) and its speed. In cases where [keys are not generated](/cryptography/key-derivation-functions/), such as [proof-of-work](https://en.wikipedia.org/wiki/Proof_of_work) Bitcoin mining, a fast hash algorithm like SHA-2 often has the upper hand. SHA-256 is formally defined in the National Institute of Standards and Technology's [FIPS 180-4](http://csrc.nist.gov/groups/ST/toolkit/secure_hashing.html). Along with standardization and formalization comes a list of [test vectors](http://csrc.nist.gov/groups/ST/toolkit/examples.html#aHashing) that allow developers to ensure they've implemented the algorithm properly. As of 2022, SHA-256 is plenty secure to use in your applications.
 
 ## How does the SHA-256 algorithm work?
 
-Let's go through an example of the SHA-256 hashing algorithm step-by-step, by hand. If you can stay awake through this whole walkthrough, you'll understand all of it's nuts and bolts.
+Let's go through an example of the SHA-256 hashing algorithm step-by-step, by hand. If you can stay awake through this whole walkthrough, you'll understand all of its nuts and bolts.
 
 ### Step 1 - Pre-Processing
 
@@ -414,7 +414,7 @@ I'm glad you've made it this far! Going step-by-step through the SHA-256 algorit
 
 ## The Pseudocode
 
-If you want to see all the steps we just did above in pseudocode form, then here is it is, straight from [WikiPedia](https://en.wikipedia.org/wiki/SHA-2):
+If you want to see all the steps we just did above in pseudocode form, then here it is, straight from [WikiPedia](https://en.wikipedia.org/wiki/SHA-2):
 
 ```
 Note 1: All variables are 32 bit unsigned integers and addition is calculated modulo 232
@@ -524,6 +524,6 @@ The NSA, or National Security Agency, designed and published SHA-256 and the res
 
 > "Because the United State Government helped create SHA-256, do they have some sort of "back-door" to break the encryption protocol?"
 
-The answer is "no". The algorithm is open-source, so anyone can verify its security. While it's *possible* that there are exploitable vulnerabilities, no one has found them yet. At present, there isn't much you can do to SHA-256 apart from attempting a [brute-force attack](/security/how-do-brute-force-attackers-know-they-found-the-key/).
+The answer is "no". The algorithm is open-source, so anyone can verify its security. While there may be exploitable vulnerabilities, no one has found them yet. At present, there isn't much you can do to SHA-256 apart from attempting a [brute-force attack](/security/how-do-brute-force-attackers-know-they-found-the-key/).
 
 ![NSA Logo](https://media.wnyc.org/i/800/0/c/85/1/nsa.jpg)

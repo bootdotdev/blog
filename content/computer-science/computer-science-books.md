@@ -26,7 +26,7 @@ Persuaded? Good. Let’s talk about the best CS books out there.
 
 ## Top Computer Science Books for Beginners
 
-If you’re just starting out, these are the best textbooks to get you started. I’ve done my best to compile a list of books about CS that don’t require a lot of knowledge, are geared for beginners, and help you hit the ground running.
+If you’re just starting out learning to code, these are the best textbooks. I’ve done my best to compile a list of books about CS that don’t require a lot of knowledge, are geared for beginners, and help you hit the ground running. It's also worth mentioning that an interactive course can go a long way to give you some hands on practice while you study. Check out [Boot.dev](https://boot.dev) for some hands-on CS courses you can take in your browser.
 
 ### [1. Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook](https://www.goodreads.com/book/show/52126188-everything-you-need-to-ace-computer-science-and-coding-in-one-big-fat-no)
 

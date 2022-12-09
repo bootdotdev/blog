@@ -46,7 +46,7 @@ var1, var2 = var2, var1
 
 {{< cta2 >}}
 
-## 5. Do you have any preferences for error handling methodologies in Go?
+## 5. Do you have any preferences for error-handling methodologies in Go?
 
 Errors in Go are an interface type, where any type that implements the single `Error()` method can be considered an error:
 
@@ -94,7 +94,7 @@ When slicing an existing array or slice the first index is inclusive while the l
 
 ## 9. Are channels and maps safe for concurrent access?
 
-Channels are safe for concurrent access, for this reason they have blocking operations. Maps are unsafe for concurrent access and require a locking mechanism like a mutex to be safely used across goroutines.
+Channels are safe for concurrent access, for this reason, they have blocking operations. Maps are unsafe for concurrent access and require a locking mechanism like a mutex to be safely used across goroutines.
 
 ## 10. How would you [sort](/golang/sorting-in-go-dont-reinvent-this-wheel/) a slice of custom structs?
 
@@ -129,7 +129,7 @@ sort.Sort(fruitSlice(cars))
 
 Go doesn't currently support [generics](/golang/how-to-use-golangs-generics/), but [support is coming in 1.18](https://blog.golang.org/generics-proposal). Generics will allow us as developers to write code that operates on types without needing to re-implement the same function multiple times for all the different types.
 
-For example, say you want to implement a Binary Tree in Go, that can store any type of item. This _should_ be easy, because the binary tree shouldn't care about the types it stores, it never needs direct access to them. Currently, you only have two options: rewrite the tree for every type you want to support, or use an interface and cast the type every time you insert or remove something from the tree, neither of which are ideal solutions.
+For example, say you want to implement a Binary Tree in Go, that can store any type of item. This _should_ be easy because the binary tree shouldn't care about the types it stores, it never needs direct access to them. Currently, you only have two options: rewrite the tree for every type you want to support, or use an interface and cast the type every time you insert or remove something from the tree, neither of which are ideal solutions.
 
 ## 12. Is `ni`l only valid on pointer types?
 
@@ -141,7 +141,7 @@ No, Go isn't an object-oriented programming language. Interfaces are the way we 
 
 ## 14. How do you export functions from a package?
 
-Exported function in Go just need to be capitalized.
+Exported functions in Go just need to be capitalized in order to be exported.
 
 ```go
 func DoWork(){

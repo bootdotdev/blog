@@ -8,7 +8,7 @@ categories:
 images:
   - /img/800/stocks.avif.webp
 aliases:
-  - "/news/what-would-a-recession-do-to-developers/(https:/boot.dev)"
+  - "/news/what-would-a-recession-do-to-developers/"
 ---
 
 With markets in a slump, many of us are concerned a recession could be right around the corner. The NASDAQ is already [down 27% so far in 2022](https://www.marketwatch.com/investing/index/comp). Heck, maybe we're already in the middle of a recession.

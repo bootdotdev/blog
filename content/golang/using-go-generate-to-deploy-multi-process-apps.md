@@ -14,7 +14,7 @@ In microservice architectures, it's fairly common to have a project that include
 - **API/Worker** - We have an API that allows clients to start/stop long-running jobs, and a worker which accesses the same database to run the jobs.
 - **NLP Classifier** - We have different processes that share a majority of the same code, but have different quirks depending on if they are classifying sentiment, vulgarity, or subjectivity.
 
-In other words, we have one git repository, but from that code, we want to generate '**n**' number of executables.
+In other words, we have one git repository, but from that code, we want to generate `n` number of executables.
 
 ## Repository Structure
 
@@ -24,15 +24,13 @@ Our normal single-process repositories have the following structure:
 - `foo.go (other main package source files)`
 - `bar.go`
 - `internal (folder for packages intended just for this project)`
-    
     - `database (package for database access)`
         - `database.go`
-    
     - `rabbit (package for rabbitmq access)`
         - `rabbit.go`  
             
 
-As you can see, when there is only one program (one main.go) its really easy to build and deploy. We just run:
+As you can see, when there is only one program (one main.go) it's really easy to build and deploy. We just run:
 
 ```
 go build
@@ -45,10 +43,8 @@ from the root of the repository.
 Now let's say we have a project that has an API that is responsible for managing some long-running jobs. For example, we can pretend it manages RSS scraping jobs. Here is how we would build out the repository:
 
 - `cmd`
-    
     - `api`
         - `main.go`
-    
     - `worker`
         - `main.go`
 - `internal (folder for packages intended just for this project)`
@@ -58,11 +54,11 @@ Now let's say we have a project that has an API that is responsible for managing
         - `rss.go`
 - `gen.go`
 
-Here we have a **cmd** folder in the root, which then holds a directory for each executable. This allows us to still scope packages to the entire project, share a CI/CD pipeline, and keep code that is tightly-coupled all in one place.
+Here we have a **cmd** folder in the root, which then holds a directory for each executable. This allows us to still scope packages to the entire project, share a CI/CD pipeline, and keep code that is tightly coupled all in one place.
 
 ## How Do We Build It?
 
-In the above project structure, you may have noticed the gen.go file. Here is what it looks like:
+In the above project structure, you may have noticed the `gen.go` file. Here is what it looks like:
 
 ```go
 package main
@@ -77,7 +73,7 @@ Now we can run **go generate** from the root of our project and both executables
 
 ## Can We Do More?
 
-Have more steps in the build process? Go generate is quite flexible, lets build the production docker image as well (assuming we have a Dockerfile in the root of the project):
+Have more steps in the build process? Go generate is quite flexible, lets's build the production docker image as well (assuming we have a Dockerfile in the root of the project):
 
 ```go
 package main

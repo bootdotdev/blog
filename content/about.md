@@ -6,13 +6,13 @@ images:
   - /img/800/our_method_banner.png.webp
 ---
 
-The state of education for back-end developers is fraught with difficulty, but it doesn't need to be that way. **The mission of Boot.dev is to make the process of becoming a backend engineer effective, fun, and inexpensive.**
+The state of education for back-end developers is fraught with difficulty, but it doesn't need to be that way. **The mission of Boot.dev is to make the process of becoming a backend engineer effective, fun, and affordable.**
 
 ## Why build Boot.dev?
 
 I started building Boot.dev for my wife Breanna who wanted to transition into backend development from her job as an x-ray technician. After searching for a while, we couldn't find any learning platforms that checked all the boxes that I felt were necessary as a backend hiring manager. I built Boot.dev so that anyone struggling to get a job as a backend engineer can learn the computer science skills that employers actually want to see in a candidate. My wife was my first student and loves the platform, so I hope you do too.
 
-Boot.dev isn’t just a collection of programming courses, read on to hear about some of the we have opinions about the most effective way for you to learn back-end development.
+Boot.dev isn’t just a collection of programming courses, read on to hear about some of our opinions about the most effective way for you to learn back-end development.
 
 ## Computer science skills will set you apart in the job market
 
@@ -22,11 +22,11 @@ People are becoming more tech-literate every day - and that's a wonderful thing.
 
 Many new learners end up watching hours of YouTube videos, only to find they're unable to build the most basic applications when they start a project alone. We think you should be writing as much code as possible throughout the entire learning process.
 
-## Follow a clear path that ensures you're making progress towards your career goals
+## Follow a clear path that ensures you're making progress toward your career goals
 
-So many students struggle figuring out *what* to learn next. There's nothing worse than wandering around in "tutorial hell", from programming language to programming language, and framework to framework. We have a [linear computer science program](https://github.com/bootdotdev/curriculum) that's designed to prepare you for an entry-level role in backend development. 
+So many students struggle to figure out _what_* to learn next. There's nothing worse than wandering around in "tutorial hell", from programming language to programming language, and framework to framework. We have a [linear computer science program](https://github.com/bootdotdev/curriculum) that's designed to prepare you for an entry-level role in backend development. 
 
-## A great project portfolio and Github profile is better for your job search than a certificate
+## A great project portfolio and Github profile are better for your job search than a certificate
 
 A degree from a great university helps when you're looking for work, but they're expensive and rarely *required*. Certificates from non-accredited programs usually don't help much at all.
 
@@ -55,16 +55,16 @@ There's nothing worse than spending a bunch of time learning, only to realize yo
 
 ## Mentors provide insights you won't get from a textbook
 
-It’s important to understand why binary trees make lookups fast, how DNS queries resolve, and what a round-robin load balancing strategy entails. However, stories and anecdotes from mentors will help you understand how it all applies to solving real business problems.
+It’s important to understand why binary trees make lookups fast, how DNS queries resolve, and what a round-robin load-balancing strategy entails. However, stories and anecdotes from mentors will help you understand how it all applies to solving real business problems.
 
 For example, you might learn in a course that PostgreSQL is a relational database that isn’t optimized to scale horizontally. However, from an experienced mentor, you’ll hear a real story about how their company used PostgresDB up until they had 20 million users, and that a specific issue with user notifications forced them to consider a different technology.
 
 ## There is something magical about learning with others
 
-Similar to gaining insights from mentors, it's important to have peers at your same level you can learn with.
+Similar to gaining insights from mentors, it's important to have peers at the same level you can learn with.
 
 * The motivation provided by a good group of peers is strong. You can keep each other accountable and moving forward.
-* Teaching a concept is the one of the best ways to learn it deeper yourself. You will reinforce your learning on that topic in a serious way.
+* Teaching a concept is one of the best ways to learn it deeper yourself. You will reinforce your learning on that topic in a serious way.
 
 ## Mastery is important, grades are not
 
@@ -80,7 +80,7 @@ With online learning, we can take *one of the best* explanations of bubble sort,
 
 ## Be in the "zone of proximal development"
 
-* Don't waste your time solving problems that you already know how to solve
+* Don't waste your time-solving problems that you already know how to solve
 * Don't waste your time trying to solve problems that are nearly impossible for your skill level
 
 The [zone of proximal development](https://en.wikipedia.org/wiki/Zone_of_proximal_development) is where you should be. You should be challenged, but not lost. You'll learn best when "muddling through" hard problems that you have the tools to solve.

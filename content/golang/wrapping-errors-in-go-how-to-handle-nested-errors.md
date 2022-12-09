@@ -12,7 +12,7 @@ images:
 
 Errors in Go are a hot topic. Many newcomers to the language immediately level their first criticism, "errors in go are clunky! Let me just use try/catch!" This criticism is well-meaning but misguided.
 
-The paradigm of errors as a type, rather than something to be thrown and cause panics, allows for more control of how to handle "bad" state. It also forces developers to think about errors at every step.
+The paradigm of errors as a *type*, rather than something to be *thrown*, simplifies error handling and brings it to the forefront. It also forces developers to think about errors at every step.
 
 > What will go wrong here? How should I handle it?
 
@@ -160,7 +160,7 @@ As far as I know, when working with errors it's *always better* to use `%w` over
 
 ## Manually unwrapping errors
 
-To be honest, I've never felt the need to manually unwrap an error. That said, I'm sure there are cases where you would want to do so. The standard library provides a convenient [errors.Unwrap](https://pkg.go.dev/errors#Unwrap) function to do just that.
+To be honest, I've never felt the need to manually unwrap an error. That said, I'm sure there are cases where you would want to do so. The standard library provides [errors.Unwrap](https://pkg.go.dev/errors#Unwrap) to do just that.
 
 ```go
 err1 := errors.New("no user id provided")
@@ -175,8 +175,8 @@ As an example, I might wrap an error with some sensitive context that's useful t
 
 ## Should I always wrap errors?
 
-Like all rules-of-thumb, there are exceptions.
+Like all rules of thumb, there are exceptions.
 
-For example, if I'm writing a package that exposes the function `getNumberFromStdIn()` then my users (programmers using my package) don't need to know that `atoi()` failed, they just need to know that `getNumberFromStdIn()` failed. I probably don't want to be exposing too much internal logic to my API users. In fact, I can probably ignore the underlying error and create my own message from scratch that's more helpful to the end-user.
+For example, if I'm writing a package that exposes the function `getNumberFromStdIn()` then my users (programmers using my package) don't need to know that `atoi()` failed, they just need to know that `getNumberFromStdIn()` failed. I probably don't want to be exposing too much internal logic to my API users. I can probably ignore the underlying error and create my own message from scratch that's more helpful to the end user.
 
 If it is glaringly obvious where an error comes from, there is also less reason to wrap it. Wrapping an error, in theory, should never hurt, but it *can* be unnecessarily verbose and a lot of extra work. As always, look at everything on a case-by-case basis.

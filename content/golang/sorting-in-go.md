@@ -1,5 +1,5 @@
 ---
-title: "Sorting in Go - Don't Reinvent This Wheel"
+title: "How to Sort a Slice in Go"
 author: Lane Wagner
 date: "2020-05-27"
 categories: 
@@ -7,9 +7,11 @@ categories:
   - "golang"
 images:
   - /img/800/eac4ebdf-829a-4d81-8f8b-4dc63a29b174.jpeg
+aliases:
+  - "/golang/sorting-in-go-dont-reinvent-this-wheel"
 ---
 
-Sorting is a common task in programming, and for that reason, most languages have a default sorting algorithm in their standard library. Go is one such language. Go has gone about providing sorting functionality in one of the most elegant ways possible, via an interface.
+Sorting is a common task in programming, and for that reason, most languages have a default sorting algorithm in their standard library. Go is one such language. Go has gone about providing sorting functionality in one of the most elegant ways possible, via an [interface](/golang/golang-interfaces/).
 
 ```go
 type Interface interface {
@@ -23,17 +25,17 @@ type Interface interface {
 }
 ```
 
-Any type that satisfies this interface can be sorted using the standard library's [sort.Sort()](https://golang.org/pkg/sort/#Sort) function. There is rarely a reason to sort any other way because the sort function is O(n log(n)) in the worst case. You can take a look at the various algorithms that are used, depending on the data to be sorted, [here](https://golang.org/src/sort/sort.go).
+Any type that satisfies this interface can be sorted using the standard library's [sort.Sort()](https://golang.org/pkg/sort/#Sort) function. There is rarely a reason to sort any other way because the sort function is `O(n log(n))` in the worst case. You can take a look at the various algorithms that are used, depending on the data to be sorted, [here](https://golang.org/src/sort/sort.go).
 
 ## Sorting a Slice
 
-The first thing to do, no matter what we are sorting is to create a custom type. A custom type will allow us to implement the _Len()_, _Less()_ and _Swap()_ methods on it.
+The first thing to do no matter what we are sorting is to create a custom type. A custom type will allow us to implement the `Len()`, `Less()` and `Swap()` methods on it.
 
 ```go
 type mySlice []int
 ```
 
-Then we implement the methods to fulfill the sort.Interface interface:
+Then we implement the methods to fulfill the `sort.Interface` interface:
 
 ```go
 func (ms mySlice) Len() int {
@@ -94,7 +96,7 @@ post-sort: [0 18 25 40 47 56 59 81 81 87]
 
 ## Changing It Up
 
-Rather than changing the way we call the sort function, if we want different behavior we just change the way we implement the interface. For example, if we want to sort greatest to least we just change the _Less()_ function:
+If we want different behavior we just change the way we *implement* the interface. For example, if we want to sort greatest to least we just change the `Less()` function:
 
 ```go
 func (ms mySlice) Less(i, j int) bool {
@@ -143,7 +145,7 @@ func (mCards mtgCards) Swap(i, j int) {
 }
 ```
 
-The _Less()_ function we made will sort by manacost unless their is a tie, in which case it will sort by name. Let's test it out:
+The `Less()` function we made will sort by mana cost unless there is a tie, in which case it will sort by name. Let's test it out:
 
 ```go
 func main() {
@@ -180,7 +182,7 @@ func main() {
 }
 ```
 
-prints:
+Prints:
 
 ```
 pre-sort: [{7 ajani} {2 liliana} {2 chandra} {4 garruk} {4 jace} {5 bolas}]

@@ -45,13 +45,13 @@ newCar := car{
 }
 ```
 
-If you're interested in doing a deep dive on the Go programming language, check out my ["Learn Go" course on Boot.dev](https://boot.dev/learn/learn-golang).
+If you're interested in doing a deep dive into the Go programming language, check out my ["Learn Go" course on Boot.dev](https://boot.dev/learn/learn-golang).
 
 ## When should I use an anonymous struct?
 
 I often use anonymous structs to [marshal and unmarshal JSON data](/golang/json-golang/) in HTTP handlers. If a struct is only meant to be used once, then it makes sense to declare it in such a way that developers down the road won't be tempted to accidentally use it again.
 
-Take a look at the code below. We are able to marshal the [HTTP request](https://boot.dev/learn/learn-http) directly into an unnamed struct inline. All the fields are still accessible via the dot operator, but we don't have to worry about another part of our project trying to use a type that wasn't intended for it.
+Take a look at the code below. We can marshal the [HTTP request](https://boot.dev/learn/learn-http) directly into an unnamed struct inline. All the fields are still accessible via the dot operator, but we don't have to worry about another part of our project trying to use a type that wasn't intended for it.
 
 ```go
 func createCarHandler(w http.ResponseWriter, req *http.Request) {
@@ -106,7 +106,7 @@ Anonymous structs can clean up your API handlers if used properly. The strong ty
 
 ## Bonus - Use a slice of anonymous structs for easy test data
 
-This is called [table driven tests](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests).
+Anonymous structs are great for writing [table driven tests](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests).
 
 ```go
 var cars = []struct {

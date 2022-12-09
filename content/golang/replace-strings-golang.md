@@ -35,7 +35,7 @@ Notes about the function:
 
 ## Example #1 - Replacing delimiters
 
-Let's say you have some comma-separated-values, CSVs. Perhaps you want to separate each word with a _space_ instead of a _comma_. This can be useful if you need to make your delimiters consistent so you can later [split the string into a slice](/golang/split-strings-golang/).
+Let's say you have some comma-separated values, CSVs. Perhaps you want to separate each word with a _space_ instead of a _comma_. This can be useful if you need to make your delimiters consistent so you can later [split the string into a slice](/golang/split-strings-golang/).
 
 ```go
 package main
@@ -89,7 +89,7 @@ func main() {
 }
 ```
 
-## Example #4 - High performance string replacement
+## Example #4 - High-performance string replacement
 
 If you need to perform the same replacements on many different documents, it can make sense to initialize a [Replacer](https://golang.org/pkg/strings/#Replacer), which is much faster that the `strings.Replace` function when used repeatedly. It's faster is because it builds a [trie structure](https://en.wikipedia.org/wiki/Trie) under the hood that it keeps in memory, and that structure can be used repeatedly.
 

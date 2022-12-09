@@ -8,9 +8,9 @@ images:
   - /img/800/vscode-preview.webp
 ---
 
-Have you ever had the problem where you submit a pull request and the diff is much larger than it should be? Maybe the code looks identical, but GitHub tells you it's completely different?
+Have you ever had the problem where you submit a pull request and the diff is much larger than it should be? Maybe the code looks identical, but GitHub tells you it's completely different.
 
-This is typically due to a difference in **line endings**, especially the difference in `LF` vs. `CRLF`. Unix systems like Linux and macOS use `LF`, the line feed character, for line breaks by default. Windows, on the other hand, is special and uses `CR/LF`, carriage return AND line feed character, by default.
+This is typically due to a difference in **line endings**, especially the difference in `LF` vs. `CRLF`. Unix systems like Linux and macOS use `LF`, the line feed character, for line breaks by default. Windows, on the other hand, is special and uses `CR/LF`, carriage return AND line feed characters, by default.
 
 ![Michael Scott condescending to the Windows OS](/img/800/12bb747ebc3c94d638257f18ab25d307-300x244.jpg)
 
@@ -56,7 +56,7 @@ This setting will not automatically fix all files in your project that have the 
 
 `CR LF` stands for "Carriage Return, Line Feed" - it's a digital remnant of classic typewriters. With typewriters, you had to push the "carriage" (the thing that holds the paper) back into place, hence "Carriage Return".
 
-When everything went digital, some devices required a "Line Feed" character to terminate lines, so Microsoft decided to just make a new-line have _both_ characters so that they would work correctly on all devices.
+When everything went digital, some devices required a "Line Feed" character to terminate lines, so Microsoft decided to just make a new line have _both__ characters so that they would work correctly on all devices.
 
 ![](/img/800/typewriter-form-unsplash-with-carriage-300x200.jpeg)
 
