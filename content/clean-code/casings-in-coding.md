@@ -3,7 +3,7 @@ title: "Snake Case or Camel Case? A Guide to Programming Naming Conventions"
 categories: 
   - "clean-code"
 author: Lane Wagner
-date: "2022-12-9"
+date: "2022-12-09"
 images:
   - /img/800/snakescamels.png.webp
 imageAlts:
