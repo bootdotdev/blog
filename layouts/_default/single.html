@@ -3,9 +3,11 @@
 <div>
 
     <div class="flex flex-col lg:flex-row w-full lg:justify-evenly lg:items-start">
+        {{ if .Params.categories }}
         <aside class="max-w-md w-full">
 
         </aside>
+        {{end}}
 
         <div class="max-w-3xl p-4">
             <div class="mb-8">
@@ -56,16 +58,22 @@
 
                     {{ .Content }}
 
+                    {{ if .Params.categories }}
                     {{ partial "signature.html" . }}
+                    {{ end }}
                 </main>
 
+                {{ if .Params.categories }}
                 {{ partial "related.html" . }}
+                {{ end }}
             </div>
         </div>
 
+        {{ if .Params.categories }}
         <aside class="max-w-md py-8 px-4 lg:px-8">
             {{ partial "sidebar.html" . }}
         </aside>
+        {{end}}
     </div>
 </div>
 
