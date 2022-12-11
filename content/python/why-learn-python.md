@@ -90,7 +90,7 @@ Python is also considered more scalable and overall easier to maintain than R. P
 
 ### 5. High paid and very in demand by employers
 
-[StackOverflow's 2020 survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted) named Python the most wanted programming language by developers. More and more devs see the value in Python and are looking to learn in order to meet the enormous glut in demand for Python programmers wanted by employers worldwide.
+[StackOverflow's 2020 survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted) named Python the most wanted programming language by developers. More and more devs see the value in Python and are looking to learn to meet the enormous glut in demand for Python programmers wanted by employers worldwide.
 
 Not only is it in demand, but it’s also one of the most loved languages by Python programmers. In the same StackOverflow survey, Python ranked third for most loved, trailing just Rust and Typescript.
 

@@ -8,7 +8,7 @@ images:
   - /img/800/Screen-Shot-2020-06-25-at-8.webp
 ---
 
-Go has hard opinions about how you should style and format your code, and because of this, setting up your VS Code environment to enforce linting on save can be very efficient. The big upside of this is that you don't need to spend hours setting up tools like ESLint, Prettier, JSLint, etc. That said, in order to take advantage of the styling and listing tools available in the toolchain, you need a dev environment that makes them easy to use.
+Go has hard opinions about how you should style and format your code, and because of this, setting up your VS Code environment to enforce linting on save can be very efficient. The big upside of this is that you don't need to spend hours setting up tools like ESLint, Prettier, JSLint, etc. That said, to take advantage of the styling and listing tools available in the toolchain, you need a dev environment that makes them easy to use.
 
 ## VS Code - Lint on save
 

@@ -72,4 +72,4 @@ function getInsuranceAmount(status) {
 
 The example above is **much** easier to read and understand. When writing code, it's important to try to reduce the cognitive load on the reader by reducing the number of entities they need to think about at any given time.
 
-In the first example, if the developer is trying to figure out when **270** is returned, they need to think about each branch in the logic tree and try to remember which cases matter and which cases don't. With the one dimensional structure offered by guard clauses, it's as simple as stepping through each case in order.
+In the first example, if the developer is trying to figure out when **270** is returned, they need to think about each branch in the logic tree and try to remember which cases matter and which cases don't. With the one-dimensional structure offered by guard clauses, it's as simple as stepping through each case in order.

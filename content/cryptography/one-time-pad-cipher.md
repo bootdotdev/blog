@@ -50,7 +50,7 @@ XOR
 00100001 01000101 00000010 00000011 00011011 00000000 00011100 00000001 00011101 00010011
 ```
 
-The resulting binary data is now the "cipher text". In order to convert it back, all we need to do is `XOR` the ciphertext with the key and we'll get the original message back.
+The resulting binary data is now the "cipher text". To convert it back, all we need to do is `XOR` the ciphertext with the key and we'll get the original message back.
 
 ```
 00100001 01000101 00000010 00000011 00011011 00000000 00011100 00000001 00011101 00010011

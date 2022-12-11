@@ -86,11 +86,11 @@ json
 }
 ```
 
-There's a lot wrong here. While this API is probably usable, it makes me want to cry. Nothing about it is obvious, and no internal patterns are adhered to. I don't even care that much if the API isn't very RESTful at all, but can it please be not-RESTful in a consistent way?
+There's a lot wrong here. While this API is probably usable, it makes me want to cry. Nothing about it is obvious, and no internal patterns are adhered to. I don't even care that much if the API isn't very RESTful at all, but can it please be non-RESTful in a consistent way?
 
 ### Problem #1 - Plurality seems arbitrary
 
-Some of the endpoints use `/users` while others use `/user`. When should I expect one over the other? It's not clear so back to the users manual (documentation) for me I suppose.
+Some of the endpoints use `/users` while others use `/user`. When should I expect one over the other? It's not clear so back to the user's manual (documentation) for me I suppose.
 
 ### Problem #2 - When does the path include the verb?
 

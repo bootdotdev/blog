@@ -80,7 +80,7 @@ And it's not like `vendor` is on the same order of magnitude as `node_modules`..
 
 ![node_modules is the heaviest object in the universe](/img/800/tfugj4n3l6ez-300x216.png)
 
-In order to get started, and assuming you actually have a program in your `cmd` folder, just run:
+To get started, and assuming you actually have a program in your `cmd` folder, just run:
 
 ```bash
 go mod init

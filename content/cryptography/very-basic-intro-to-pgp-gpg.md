@@ -43,7 +43,7 @@ OpenPGP, the protocol to which PGP and GPG adhere, can really be looked at as a 
 Let's go through each step of how a PGP message exchange works:
 
 1. Raw data is hashed and signed using the sender's asymmetric private key. This will allow the receiver to verify that the message is _from_ who they think it is.
-2. The data is compressed in order to save space
+2. The data is compressed to save space
 3. A new random symmetric key is generated for this exchange
 4. The random symmetric key is used to encrypt the compressed data
 5. The symmetric key is encrypted using the receiver's asymmetric public key

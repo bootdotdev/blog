@@ -25,7 +25,7 @@ Work-life balance is a critical benefit to consider when career hunting. Don't p
 
 Programming jobs vary in their educational requirements. Depending on the position, [*certifications*](https://blog.boot.dev/jobs/where-to-get-a-programming-certificate/), [*associates*](https://blog.boot.dev/jobs/programming-job-with-associates-degree/) or Bachelor’s degrees may be necessary. **Most positions however simply require that you know what your're doing**, and that you can complete the programming tasks required of you. A portfolio of side projects is a great way to break into the industry.
 
-In some cases it may be beneficial to seek out internships or to consider a [*coding bootcamp*](https://blog.boot.dev/jobs/is-coding-bootcamp-worth-it/) in order to gain the coding knowledge necessary to be hired for a job. When it comes to the level of education needed, make sure you research what the specific position you're interested requires. For example, machine learning specialists may require more formal training that front-end developers.
+In some cases it may be beneficial to seek out internships or to consider a [*coding bootcamp*](https://blog.boot.dev/jobs/is-coding-bootcamp-worth-it/) to gain the coding knowledge necessary to be hired for a job. When it comes to the level of education needed, make sure you research what the specific position you're interested requires. For example, machine learning specialists may require more formal training that front-end developers.
 
 ## So what are the career options in computer science?
 
@@ -107,7 +107,7 @@ Salary on Average: [*$156,277*](https://survey.stackoverflow.co/2022/#salary-uni
 
 ### Game Developer
 
-Depending on the company and game being developed, a developer may be given a single task, or follow a game from concept to final release. Developers can come up with new ideas for game design and translate those visual ideas into code. During the course of a project, developers may collaborate with designers, producers, artists, and quality analysts in order to ensure a quality product. Oftentimes, developers will monitor the stability of a game across different platforms, review existing code, recommend improvements as needed, and be able to transport full games or elements of game from one system to another.
+Depending on the company and game being developed, a developer may be given a single task, or follow a game from concept to final release. Developers can come up with new ideas for game design and translate those visual ideas into code. During the course of a project, developers may collaborate with designers, producers, artists, and quality analysts to ensure a quality product. Oftentimes, developers will monitor the stability of a game across different platforms, review existing code, recommend improvements as needed, and be able to transport full games or elements of game from one system to another.
 
 Skills in video game development can be learned independently, or through obtaining a degree in computer science, interactive media or game design. Customarily, developers work most prominently in the C# and C++ languages.
 
@@ -127,7 +127,7 @@ Salary on Average: [*$140,000*](https://survey.stackoverflow.co/2022/#salary-uni
 
 ### Business Intelligence Analyst
 
-Business Intelligence Analysts review data in order to track trends and understand patterns in markets.They then take that newfound knowledge to their respective company and make recommendations that will improve the business and aid it's growth.
+Business Intelligence Analysts review data to track trends and understand patterns in markets.They then take that newfound knowledge to their respective company and make recommendations that will improve the business and aid it's growth.
 
 Becoming a Business Intelligence Analyst requires a strong knowledge of data collection protocols and software. Analysts require proficiency in programming languages such as SQL, Python and Hadoop.
 

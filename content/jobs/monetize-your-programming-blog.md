@@ -86,7 +86,7 @@ In sum, adding your own ads inline on your blog posts can be a great way to rais
 
 One of the unspoken rules of making money on the internet is that you should give away all your value for free. Why? Because no matter how valuable or tailored it is, you will still get readers who look at your tutorials, guides, reference sheets, and say, "Hey, this is great. Can you customize this for me and my situation?"
 
-The internet is full of free and amazing programming information. If you try to withhold it in order to sell it, you won’t have clients because they’ll be able to get it for free somewhere else. Instead, offer full and free insights and ensure that you offer readers a way to book you for further and deeper consultation. 
+The internet is full of free and amazing programming information. If you try to withhold it to sell it, you won’t have clients because they’ll be able to get it for free somewhere else. Instead, offer full and free insights and ensure that you offer readers a way to book you for further and deeper consultation. 
 
 If you show enough talent at tutorials especially, you might find individuals want more of a  1:1 relationship with you, where you coach them through a particular specific issue they’re facing, for example an interview or thorny coding problem they’re facing.
 
@@ -102,7 +102,7 @@ About a year ago, I wrote a blog post on [the fastest way to learn to code](http
 
 The truth is, if you can write about programming and coding on your own website, chances are someone is going to want you to do it for theirs as well. It’s a really good skill to have and to let others know you have it. 
 
-In my case, my client had to jump through a few hoops in order to find my contact information. Don’t make your clients do this - make sure you have a "contact me to write for you" section somewhere on your profile, portfolio, or GitHub page. 
+In my case, my client had to jump through a few hoops to find my contact information. Don’t make your clients do this - make sure you have a "contact me to write for you" section somewhere on your profile, portfolio, or GitHub page. 
 
 In sum, using your programming blog to show that you’re an able writer about programming, and let potential freelance clients know that you’re looking for this kind of work. It’s a great way to use your programming blog to earn money from something that isn’t programming!
 

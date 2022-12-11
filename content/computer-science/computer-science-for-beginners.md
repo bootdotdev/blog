@@ -182,7 +182,7 @@ Whatever specialty you choose, as long as it includes a visual component, CSS an
 
 ### A sneak peek beyond the basics
 
-Once you’ve mastered a few basic languages, you can move on to more intermediate languages. Remember, these are harder languages, many of them are meant to complement basic programming languages. So why talk about it now? While it’s good to know what to look forward to in your career, it also gives you an idea of how these languages are interwoven together and build on top of each other in order to create specialized designs and meet specific needs. These are just a few samples of intermediate programming languages that are out there:
+Once you’ve mastered a few basic languages, you can move on to more intermediate languages. Remember, these are harder languages, many of them are meant to complement basic programming languages. So why talk about it now? While it’s good to know what to look forward to in your career, it also gives you an idea of how these languages are interwoven together and build on top of each other to create specialized designs and meet specific needs. These are just a few samples of intermediate programming languages that are out there:
 
 * C++ is considered to be one of the harder languages to learn. It’s an extension of the ‘C’ language, that is used for high-performance applications.
 * R is specifically designed to perform statistics work across large datasets. (Not to be confused with Ruby, which is a general purpose language).
@@ -420,7 +420,7 @@ If you’re looking for more language-specific projects, consider checking out [
 
 ## Starting a computer science path
 
-Once you’ve completed your schooling, or even before you’ve finished, **start look for jobs straight away**. Familiarize yourself with job requirements in order to find an entry level job–though some jobs and projects can launch you into intermediate level jobs. The [outlook for computer jobs is bright](/jobs/whats-the-job-outlook-for-computer-science-students/), and with the proper set of skills learned, (and a brushed up [resume](/computer-science/computer-science-resumes)) you should be able to find a job in no time. If you’re unsure of what jobs to look for [check out some of our other articles](/categories/jobs/) for more insight.
+Once you’ve completed your schooling, or even before you’ve finished, **start look for jobs straight away**. Familiarize yourself with job requirements to find an entry level job–though some jobs and projects can launch you into intermediate level jobs. The [outlook for computer jobs is bright](/jobs/whats-the-job-outlook-for-computer-science-students/), and with the proper set of skills learned, (and a brushed up [resume](/computer-science/computer-science-resumes)) you should be able to find a job in no time. If you’re unsure of what jobs to look for [check out some of our other articles](/categories/jobs/) for more insight.
 
 ## Can you really learn computer science?
 

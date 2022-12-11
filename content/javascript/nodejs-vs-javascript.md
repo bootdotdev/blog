@@ -30,7 +30,7 @@ JavaScript is omnipresent on today’s internet: [95%](https://generalassemb.ly/
 
 JavaScript is a scripting language upon which most websites are based. It is often used [in combination with HTML and CSS](/javascript/html-css-javascript/) to render web pages, as JavaScript can be used to dynamically update HTML elements. It allows you to automatically refresh the page to update data, display information using cool visuals, and create interactive elements.
 
-JavaScript is an interpreted language, meaning it is handed over to the browser or Node.js in its original JavaScript form instead of being compiled into machine code, like Golang, C, and C++ are. Modern browsers often use just-in-time (JIT) compiling with JavaScript in order to run it more efficiently. JIT compilation compiles the code as it is run. You can read more about it in the context of Node.js and JavaScript [here](https://blog.bitsrc.io/the-jit-in-javascript-just-in-time-compiler-798b66e44143). However, since this is done at runtime, JavaScript is still considered an interpreted language.
+JavaScript is an interpreted language, meaning it is handed over to the browser or Node.js in its original JavaScript form instead of being compiled into machine code, like Golang, C, and C++ are. Modern browsers often use just-in-time (JIT) compiling with JavaScript to run it more efficiently. JIT compilation compiles the code as it is run. You can read more about it in the context of Node.js and JavaScript [here](https://blog.bitsrc.io/the-jit-in-javascript-just-in-time-compiler-798b66e44143). However, since this is done at runtime, JavaScript is still considered an interpreted language.
 
 Remember, JavaScript alone should be thought of as a purely frontend (or client-side language) when it is used without Node.js. Client-side JavaScript code is downloaded, then run and displayed by the end-user’s browser.
 
@@ -60,7 +60,7 @@ That means fewer requests will be made to the server, as the entirety of your Ja
 
 Having two separate languages for the client-side and server-side can be frustrating, as there’s added complexity and expertise needed to develop and maintain the system.
 
-Developers in the tech industry were fed up with the limitations of the Apache HTTP server, so [Ryan Dahl](https://www.section.io/engineering-education/history-of-nodejs/) created Node.js to simplify the web application development experience. Developers today use Node.js to run JavaScript on the server-side in order to output dynamic content before the page is rendered in the browser. Hurrah! Web development is made simple.
+Developers in the tech industry were fed up with the limitations of the Apache HTTP server, so [Ryan Dahl](https://www.section.io/engineering-education/history-of-nodejs/) created Node.js to simplify the web application development experience. Developers today use Node.js to run JavaScript on the server-side to output dynamic content before the page is rendered in the browser. Hurrah! Web development is made simple.
 
 If your application falls into the category of data-intensive real-time applications (DIRTs) or requires a lot of I/O interactions, Node.js will perform significantly better due to its asynchronous and Event-driven nature. I/O, or input/output, refers to when your program interacts with the outside world. This could be the input from a user’s keyboard or saving some data to a database.
 
@@ -88,7 +88,7 @@ Is it worth it to learn them both? That depends on what you want. If you’re lo
 
 ### Salary for Node.js vs JavaScript developers
 
-A JavaScript developer will be considered entirely frontend. In order to land these positions, it’s often important to have knowledge of UX design and be customer-oriented. The average base pay for a JavaScript developer in the U.S. is [$91,000](https://www.glassdoor.ie/Salaries/us-javascript-developer-salary-SRCH_IL.0,2_IN1_KO3,23.htm?clickSource=searchBtn) a year, and it can range up to $155K.
+A JavaScript developer will be considered entirely frontend. To land these positions, it’s often important to have knowledge of UX design and be customer-oriented. The average base pay for a JavaScript developer in the U.S. is [$91,000](https://www.glassdoor.ie/Salaries/us-javascript-developer-salary-SRCH_IL.0,2_IN1_KO3,23.htm?clickSource=searchBtn) a year, and it can range up to $155K.
 
 Someone with knowledge of Node.js could look into more of a full-stack development position. These jobs cover more of the development stack, and though you still need to keep in mind UX design and the customer’s experience, you’ll be responsible for the integration of the application’s different layers.
 

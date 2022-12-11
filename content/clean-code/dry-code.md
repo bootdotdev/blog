@@ -19,7 +19,7 @@ Clean code is like clean garbage - it doesn't really exist. The only clean code 
 
 I'm happy to admit that a perfectly clean (empty) codebase is useless. Without code, an application can't provide value to users. With that in mind, our pursuit of "clean code" will necessarily consist of tradeoffs. We'll trade usefulness for cleanliness, complexity for speed, ownership for ease of development, and abstractions for reusability.
 
-DRY code is often held aloft as an ideal in the quest for clean code. Let's explore why I think DRY can be a good [heuristic](/computer-science/examples-of-heuristics-in-computer-science/) for better code, but is far from an "absolute good". Let's take a look at some examples in JavaScript.
+DRY code is often held aloft as an ideal in the quest for clean code. Let's explore why I think DRY can be a good [heuristic](/computer-science/examples-of-heuristics-in-computer-science/) for better code but is far from an "absolute good". Let's take a look at some examples in JavaScript.
 
 ```javascript
 export async function updateUserHandle(handle) {
@@ -71,7 +71,7 @@ export async function updateUserInterests(interestUUIDs) {
 }
 ```
 
-You may have noticed that the beginning of those two API calls are nearly identical - the first few lines check to see if a user is properly authenticated and sends authentication data in the respective requests. This might not be a big problem with just 2 API calls, but what if we have 30? Or maybe 1000? Instead, we can DRY up this code by writing a simple `fetchWithAuth()` function that centralizes all the client's authentication logic in a single place:
+You may have noticed that the beginnings of those two API calls are nearly identical - the first few lines check to see if a user is properly authenticated and sends authentication data in the respective requests. This might not be a big problem with just 2 API calls, but what if we have 30? Or maybe 1000? Instead, we can DRY up this code by writing a simple `fetchWithAuth()` function that centralizes all the client's authentication logic in a single place:
 
 ```js
 async function fetchWithAuth(url, params){
@@ -121,11 +121,11 @@ export async function updateUserInterests(interestUUIDs) {
 
 ## Why wouldn't you DRY out your code?
 
-It seems like a good idea to reduce code duplication right? Well, yes, in general it is. That said, let's look at some of the drawbacks that come along with too much centralization.
+It seems like a good idea to reduce code duplication right? Well, yes, in general, it is. That said, let's look at some of the drawbacks that come along with too much centralization.
 
 ### 1. Too many abstractions
 
-Sometimes to pieces of code happen to be the same at a given point in time, but later on, they become distinct in some way. It's really hard to guarantee that duplicate blocks of code will remain perfect copies of each other forever. A hypothetical example of this would be if the Facebook and Instagram APIs had the exact same way to create a social post. Just because they're *coincidentally* the same, probably doesn't mean that the logic should only be written once. One day, Instagram might introduce something really dumb like "filters" or "stories" and all of a sudden the common abstraction needs crazy flags and parameters like:
+Sometimes two pieces of code happen to be the same at a given point in time, but later on, they become distinct in some way. It's really hard to guarantee that duplicate blocks of code will remain perfect copies of each other forever. A hypothetical example of this would be if the Facebook and Instagram APIs had the same way to create a social post. Just because they're *coincidentally* the same, probably doesn't mean that the logic should only be written once. One day, Instagram might introduce something dumb like "filters" or "stories" and all of a sudden the common abstraction needs crazy flags and parameters like:
 
 * `is_story`
 * `is_instagram`
@@ -137,12 +137,12 @@ The solution is likely to remain disciplined about splitting out code that, whil
 
 ### 2. External dependency creation
 
-If two different projects share the same logic, it can often make sense to centralize it in a library package. While this is often a great idea, it can add overhead and can end up being more trouble than it's worth. For example, even if the abstraction makes sense, you're definitely adding at least the following complexity to the project:
+If two different projects share the same logic, it can often make sense to centralize it in a library package. While this is often a great idea, it can add overhead and can end up being more trouble than it's worth. For example, even if the abstraction makes sense, you're adding at least the following complexity to the project:
 
 * Management of the dependencies versions and running updates regularly
-* Requires multi-project updates in order to get a new change to a specific dependent
+* Requires multi-project updates to get a new change to a specific dependent
 * Often involves more remote infrastructure like NPM or PyPy
-* Gets harder to make "breaking" changes to the libraries core functions - requires a higher standard of code quality and architecture
+* Gets harder to make "breaking" changes to the library's core functions - requires a higher standard of code quality and architecture
 
 ### 3. Localization complexity
 
@@ -157,7 +157,7 @@ INSTRUCTION 3
 END PROGRAM
 ```
 
-Unfortunately, in large programs, we need functions, classes, methods, type definitions, etc in order to organize and reuse our logic. We're forced to give up a bit of simplicity and read and write code in a non-linear way. I believe our goal should be to keep everything as linear as possible and sacrifice linearity and simplicity for reusability and separation of concerns only as necessary. Each time we extract a chunk of code from a larger function into a smaller more encapsulated one, the code becomes just a little bit harder to follow.
+Unfortunately, in large programs, we need functions, classes, methods, type definitions, etc to organize and reuse our logic. We're forced to give up a bit of simplicity and read and write code in a non-linear way. I believe our goal should be to keep everything as linear as possible and sacrifice linearity and simplicity for reusability and separation of concerns only as necessary. Each time we extract a chunk of code from a larger function into a smaller more encapsulated one, the code becomes just a little bit harder to follow.
 
 In short, we should [optimize for simplicity first.](https://wagslane.dev/posts/optimize-for-simplicit-first/)
 

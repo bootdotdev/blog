@@ -9,7 +9,7 @@ images:
   - /img/800/learning-computer-science-online.webp
 ---
 
-Be careful deciding the best way to learn to code, as not all paths are equally effective. Self-taught developers and [bootcamp graduates often struggle](/jobs/getting-a-job-after-coding-bootcamp-is-hard/) a lot to find their first coding job. In my experience, it's much easier to get your foot in the door when you spend the time learning the CS basics that so many "crash courses" skip over when trying to get students to dive directly into the deep end of application code.
+Be careful about deciding the best way to learn to code. Not all paths are equally effective. Self-taught developers and [bootcamp graduates often struggle](/jobs/getting-a-job-after-coding-bootcamp-is-hard/) a lot to find their first coding job. In my experience, it's much easier to get your foot in the door when you spend the time learning the CS basics that so many "crash courses" skip over when trying to get students to dive directly into the deep end of application code.
 
 Skipping CS basics and starting with web servers is like skipping biology 101 to take a three-week "seminar" in cranial surgery. That said, there is also a problem with students spending 4+ years and thousands of dollars when the same computer science education can be acquired online for a fraction of the investment.
 
@@ -125,11 +125,11 @@ Computers are built of various components (hardware) including the CPU, memory, 
 
 For example, how does a processor know to take the following expression written in JavaScript, `let sum = 5 + 3` and compute the result of 5 plus 3?
 
-Who taught the processor to understand the Arabic numerals? The answer of course is that it doesn't, processors only work bitwise, on _binary_ numbers.
+Who taught the processor to understand Arabic numerals? Will, in reality, it doesn't, processors only work bitwise, on _binary_ numbers.
 
-Javascript is run by an interpreter (Node.js or the browser) which itself is a compiled program. The interpreter was written in a compiled language, like C, Rust, or Go, but then compiled into raw byte code that the CPU understands. To get a better handle on how computers actually, you know, compute things, writing assembly code can be very helpful.
+Javascript is run by an interpreter (Node.js or the browser) which itself is a compiled program. The interpreter was written in a compiled language, like C, Rust, or Go, but then compiled into raw byte code that the CPU understands. To get a better handle on how computers, you know, *compute* things, writing assembly code can be very helpful.
 
-Assembly is the native language of the processor, and writing a bit of it can really help us understand how the CPU processes stuff. Because assembly is so tightly coupled to CPU architecture, the language changes depending on the processor type. I recommend starting in ARM, it has a more elegant syntax than x86 in my opinion.
+Assembly is the native language of the processor, and writing a bit of it can help us understand how the CPU processes stuff. Because assembly is so tightly coupled to CPU architecture, the language changes depending on the processor type. I recommend starting in ARM, it has a more elegant syntax than x86 in my opinion.
 
 #### Resources
 
@@ -146,9 +146,9 @@ Assembly is the native language of the processor, and writing a bit of it can re
 
 ### 3 - Algorithms and Data Structures
 
-The study of algorithms and data structures is the bread and butter of computer science. It's fundamental that we learn about making computer programs fast so that they can delight our users and find meaningful answers quickly.
+The study of algorithms and data structures is the bread and butter of computer science. We must learn about making computer programs fast so that they can delight our users and find meaningful answers quickly.
 
-I'm in complete agreement with the traditional education system that that familiarity with common algorithms and data structures is vital to the success of any developer. Understanding these basic problem-solving skills will also benefit you in any aspect of your career and life.
+I'm in complete agreement with the traditional education system that familiarity with common algorithms and data structures is vital to the success of any developer. Understanding these basic problem-solving skills will also benefit you in any aspect of your career and life.
 
 ![](/img/800/travelling_salesman_problem.png)
 #### Resources
@@ -223,9 +223,9 @@ Database knowledge and theory is one of the most practically applicable topics t
 
 ### 6 - Web Development
 
-This is what most Bootcamp and self-taught developers learn, and unfortunately not much else. As you can probably imagine, the reason why web development is taught at bootcamps is because this is the money-maker. The majority of development jobs, especially jobs with a low barrier to entry are web development opportunities. As you dive into various web development resources, try to focus on a single backend language (and maybe a framework), and a single frontend framework, if you choose to learn one at all.
+This is what most Bootcamp and self-taught developers learn, and unfortunately not much else. As you can probably imagine, the reason web development is taught at bootcamps is that it's the money-maker. The majority of development jobs, especially jobs with a low barrier to entry are web development opportunities. As you dive into various web development resources, try to focus on a single backend language (and maybe a framework), and a single frontend framework, if you choose to learn one at all.
 
-Personally, I recommend [learning backend](/backend/become-backend-developer/) APIs using the Go programming language with no framework. I would also advise building a frontend using vanilla JS, as well as another one using Vue.js or React.js. The practice is worthwhile, and don't skip the vanilla javascript! Frameworks are great but they come and go.
+I recommend [learning backend](/backend/become-backend-developer/) APIs using the Go programming language with no framework. I would also advise building a frontend using vanilla JS, as well as another one using Vue.js or React.js. The practice is worthwhile, and don't skip the vanilla javascript! Frameworks are great but they come and go.
 
 #### Resources
 
@@ -262,7 +262,7 @@ Goals
 
 ### 8 - Functional Programming
 
-Functional programming concepts and styles are especially important in web development as frontend applications and frameworks are starting to use functional styles to help make codebases easier to maintain. Recursion, the avoidance of side-effects, and purely functional data structures are must-know concepts that will make finding a job in the industry that much easier. Even if you never end up working in a purely functional language, the fundamentals of functional programming apply universally to all coding environments.
+Functional programming concepts and styles are especially important in web development as frontend applications and frameworks are starting to use functional styles to help make codebases easier to maintain. Recursion, the avoidance of side effects, and purely functional data structures are must-know concepts that will make finding a job in the industry that much easier. Even if you never end up working in a purely functional language, the fundamentals of functional programming apply universally to all coding environments.
 
 #### Resources
 
@@ -278,7 +278,7 @@ Functional programming concepts and styles are especially important in web devel
 
 ### 9 - Computational Theory
 
-Computational theory, apart from pure math, is one of the most "pure" computer science topics due its theoretical nature. Alan Turing, who is often called the father of computer science, pioneered many of the theories that we now use to compute the solutions to complex problems. In my opinion, computational theory is the crowning jewel of a CS education, and understanding its concepts truly sets students apart from their competition in the job market.
+Computational theory, apart from pure math, is one of the most "pure" computer science topics due to its theoretical nature. Alan Turing, who is often called the father of computer science, pioneered many of the theories that we now use to compute the solutions to complex problems. In my opinion, computational theory is the crowning jewel of a CS education, and understanding its concepts truly sets students apart from their competition in the job market.
 
 #### Resources
 
@@ -322,7 +322,7 @@ Cryptography underpins the security of all digital applications. Valuable engine
 
 ### 2 - Networking
 
-Every once in awhile, something goes wrong with a companies server connections, and only the most experience developers are able to deal with the outage. Those developers are more valuable resources, and as a result command higher salaries. An understanding of networking basics is a huge boon to your engineering career.
+Every once in a while, something goes wrong with a company's server connections, and only the most experienced developers are able to deal with the outage. Those developers are more valuable resources, and as a result command higher salaries. An understanding of networking basics is a huge boon to your engineering career.
 
 ![Networking](/img/800/4-Types-of-Business-Networking-Opportunities-to-Consider.jpg)
 

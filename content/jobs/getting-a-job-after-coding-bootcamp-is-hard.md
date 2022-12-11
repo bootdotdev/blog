@@ -31,7 +31,7 @@ Coding bootcamps don’t provide a deep understanding of the fundamentals underp
 - They’re up-to-date on modern languages
 - They teach you practical skills like modern frameworks and deployment processes
 
-That said, bootcamps tend to focus on practical skills instead of fundamentals and theory, which means even after finishing one, you won't be much closer to understanding the math, algorithms, and computer science concepts that will be required in order to work on projects that are more complex than a simple web page.
+That said, bootcamps tend to focus on practical skills instead of fundamentals and theory, which means even after finishing one, you won't be much closer to understanding the math, algorithms, and computer science concepts that will be required to work on projects that are more complex than a simple web page.
 
 If you’ve graduated from a coding boot camp and you’re tearing your hair out in frustration because you can’t seem to [get a job without having job experience yet](/jobs/get-a-programming-job-with-no-experience/), **stop applying to 20 places a day**. Try to identify what’s causing you to get stuck at this last hurdle, and then work on a plan to overcome it.
 

@@ -36,7 +36,7 @@ You can see a [full demo on codesandbox here](https://codesandbox.io/s/custom-vu
 </template>
 ```
 
-That wasn't so bad right? We are building out the data model in such a way the in order to use the component we can sue the built-in `v-model` property.
+That wasn't so bad right? We are building out the data model in such a way the to use the component we can sue the built-in `v-model` property.
 
 ## The JavaScript
 

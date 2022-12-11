@@ -28,7 +28,7 @@ It's not that the two paths don’t ever intersect. Computer scientists will oft
 
 ### What a computer scientist *do*? 
 
-It depends a lot on where the computer scientist in question. They specialize in researching how to compute the answers to problems. Computer scientists need to know the theoretical foundation upon which the hardware and software is built that enables computers operate properly in order to solve problems.
+It depends a lot on where the computer scientist in question. They specialize in researching how to compute the answers to problems. Computer scientists need to know the theoretical foundation upon which the hardware and software is built that enables computers operate properly to solve problems.
 
 This requires a person to develop essential skills such as mathematics, proficiency in computer languages, critical thinking, and even creative thinking.
 
@@ -109,7 +109,7 @@ As computer science breaks down into smaller categories, so do the jobs. This is
 * **Hardware Engineer** - Research, design, develop and test new computer systems and components, such as circuit boards and processors
 * **Information Security Analyst** - Monitor an organization’s network for breaches in security, often investigating when breaches do occur
 * **IT Auditor** - They make sure that an organization’s systems and infrastructure run as efficiently as possible
-* **IT Project Manager** - Plan and allocate resources in order to meet an organization’s needs
+* **IT Project Manager** - Plan and allocate resources to meet an organization’s needs
 * **Java Developer** - Develops applications and software with the [Java programming language](https://blog.boot.dev/javascript/)
 * **Network Administrator** - They organize, install and support computer systems for companies
 * **Network Architect** - Plans, designs, and implements data communication networks for a specific organization or company
@@ -117,8 +117,8 @@ As computer science breaks down into smaller categories, so do the jobs. This is
 * **Programmer Analyst** - Tests and troubleshoots different computer applications and programs
 * **Software Architect** - Frames technical standards and makes high-level design choices
 * **Software Developer** - Designs, programs, and builds computer software
-* **Systems Analyst** - Analyzes computer processes and operations in order to increase efficiency
-* **UX Designer** - Does research and data analysis in order to improve user experience
+* **Systems Analyst** - Analyzes computer processes and operations to increase efficiency
+* **UX Designer** - Does research and data analysis to improve user experience
 * **Web Developer** - Creates websites; making them not only visually appealing and user-friendly but maintaining their performance as well
 
 {{< cta2 >}}
@@ -135,7 +135,7 @@ You do not need a degree to work in computer science or programming! There are s
 
 ## Do computer scientists work at home or in the office?
 
-Where a computer scientist works is entirely up to you (and your employer). Remote computer science jobs will save you time and that sweet, sweet gas money. Office jobs often provide varying perks in order to retain talent, and oftentimes have tighter-knit work groups. If you have a super distracting home environment–screaming baby, barking dog–you may want to take advantage of an away-from-home environment. If hearing your gum-chewing and pen-clicking coworker who always plays his music too damn loud–not to mention a long commute through snails-paced traffic – you may want to consider a work-from-home environment.
+Where a computer scientist works is entirely up to you (and your employer). Remote computer science jobs will save you time and that sweet, sweet gas money. Office jobs often provide varying perks to retain talent, and oftentimes have tighter-knit work groups. If you have a super distracting home environment–screaming baby, barking dog–you may want to take advantage of an away-from-home environment. If hearing your gum-chewing and pen-clicking coworker who always plays his music too damn loud–not to mention a long commute through snails-paced traffic – you may want to consider a work-from-home environment.
 
 {{< cta3 >}}
 
@@ -202,4 +202,4 @@ The tools a developer uses will vary quite wildly depending on where they work. 
 
 ## How do I get started learning computer science?
 
-Computer scientists are logical thinking, computer-savvy folk that know how to dig deep in order to solve problems. If you want to pursue an interest in computer science, consider starting with our [computer science for back-end developers track at boot.dev](https://boot.dev/tracks/backend). We would love to help you on your way. Good luck.
+Computer scientists are logical thinking, computer-savvy folk that know how to dig deep to solve problems. If you want to pursue an interest in computer science, consider starting with our [computer science for back-end developers track at boot.dev](https://boot.dev/tracks/backend). We would love to help you on your way. Good luck.

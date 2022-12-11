@@ -85,7 +85,7 @@ If we continue our kitchen analogy from earlier, you can think of a back-end eng
 
 ### What skills do you need to be a Backend engineer?
 
-Backend engineers and data engineers are very similar in terms of necessary skill sets. In order to [become a back-end deverloper](/backend/become-backend-developer) you also need to be able to communicate and think analytically.
+Backend engineers and data engineers are very similar in terms of necessary skill sets. To [become a back-end deverloper](/backend/become-backend-developer) you also need to be able to communicate and think analytically.
 
 Technical skills include: developing REST APIs, being familiar with SQL or other related relational databases, building robust APIs, having complete mastery of object-oriented programming strategy, being able to build scalable and distributed systems, and knowing one or more of the popular the backend programming languages like Go, Python, and Node.js (JavaScript). If you decide to self-teach and become a back-end engineer without getting a degree in computer science, it will probably [take between 6-12 months to learn back-end](/backend/how-long-to-become-backend-dev).
 

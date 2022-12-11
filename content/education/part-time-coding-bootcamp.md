@@ -22,7 +22,7 @@ So, like a lot of people, I considered how to do a part-time [coding bootcamp *o
 
 ## Choose the Right Coding Bootcamp for Your Situation
 
-Your existing commitments are the biggest factor in choosing a coding bootcamp. Depending on how demanding your day job is and what your other commitments outside of it are, you should choose between a full-time, part-time, or on-demand bootcamp. Doing a full-time coding bootcamp is quite a large gamble, since most would require you to resign from your current position in order to meet the time commitments required.
+Your existing commitments are the biggest factor in choosing a coding bootcamp. Depending on how demanding your day job is and what your other commitments outside of it are, you should choose between a full-time, part-time, or on-demand bootcamp. Doing a full-time coding bootcamp is quite a large gamble, since most would require you to resign from your current position to meet the time commitments required.
 
 If you’ve got the time and resources ([most bootcamps cost around $13k](/education/cost-of-coding-bootcamp/)) to spare and doing a coding bootcamp is your top priority, then I would highly recommend a synchronous, hands-on bootcamp. I think synchronous lessons and a well-structured, intense program are wonderful for helping you learn to code well quickly.
 
@@ -90,7 +90,7 @@ Even just picking a part-time coding bootcamp is a steep challenge, let alone co
 
 If you haven’t done too much prep work on your own, I recommend a longer course to give yourself enough time to learn everything you’ll need to know to land your first job and successfully get your feet under you as a professional programmer.
 
-It’s great to try out one of the cheaper courses to build up some foundational knowledge. You’ll get a feel for whether you need the added structure of a synchronous program in order to motivate yourself or you just want some more live interactions on your learning journey.
+It’s great to try out one of the cheaper courses to build up some foundational knowledge. You’ll get a feel for whether you need the added structure of a synchronous program to motivate yourself or you just want some more live interactions on your learning journey.
 
 Some of the asynchronous courses like [boot.dev](https://boot.dev/)’s have online communities which can help you when you get stuck, give you career advice, and help you figure out how to best expand and use your growing knowledge.
 

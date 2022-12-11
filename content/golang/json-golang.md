@@ -232,7 +232,7 @@ It's rare to encounter an error when marshaling JSON data, but unmarshalling JSO
 
 ## Custom JSON marshaling
 
-While most types have a default way to encode and decode JSON data, you may want custom behavior from time to time. Luckily, the `json.Marshal` and `json.Unmarshal` respect the [`json.Marshaler`](https://golang.org/pkg/encoding/json/#Marshaler) and [`json.Unmarshaler`](https://golang.org/pkg/encoding/json/#Unmarshaler) interfaces. In order to [customize your behavior you just need to overwrite their methods](/golang/golang-interfaces/) `MarshalJSON` and `UnmarshalJSON` respectively.
+While most types have a default way to encode and decode JSON data, you may want custom behavior from time to time. Luckily, the `json.Marshal` and `json.Unmarshal` respect the [`json.Marshaler`](https://golang.org/pkg/encoding/json/#Marshaler) and [`json.Unmarshaler`](https://golang.org/pkg/encoding/json/#Unmarshaler) interfaces. To [customize your behavior you just need to overwrite their methods](/golang/golang-interfaces/) `MarshalJSON` and `UnmarshalJSON` respectively.
 
 ```go
 type Marshaler interface {

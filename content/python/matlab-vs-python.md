@@ -18,7 +18,7 @@ If you find yourself in that boat, this article is for you.
 
 Matlab, which is an abbreviation of "Matrix Laboratory", is a prorietary programming platform that is designed for engineers and scientists to create and analyze systems and products. [Originally](https://en.wikipedia.org/wiki/MATLAB), it wasn't even a language at all - it was a simple interactive matrix calculator. It's also a commercial product and comes with its own working environment. Historically this was seen as an advantage - large companies and educational institutions love having someone to call when things break. These days, nearly all programming languages used in produciton are open-source and free.
 
-Like we mentioned, Matlab is not an open-source product, which means you don’t have access to the inner workings of its proprietary code. It dominates in academic settings, where its computing power makes it popular for fields with a numeric component. However, it can be extremely expensive for everyday consumers to buy even a single license.
+As we mentioned, Matlab is not an open-source product, which means you don’t have access to the inner workings of its proprietary code. It dominates in academic settings, where its computing power makes it popular for fields with a numeric component. However, it can be extremely expensive for everyday consumers to buy even a single license.
 
 Originally developed by math magician and computer programmer Cleve Moler in the 1960s, Moler didn't sell it originally. At the time, it was distributed for free to universities. It wasn't until the 1980s when it was released as a commercial product.
 

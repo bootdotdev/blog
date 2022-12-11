@@ -203,7 +203,7 @@ There is no reason I can see to write a test for the `hash` function. Before imp
 
 ## So what do I do, just not test my database layer?
 
-Nope, I think you absolutely *should* test your database layer, I just don't think you should be using *mocks*. Where possible, I think it makes a ton of sense to write automated integration tests for your database logic. The way that you implement the tests will probably depend quite a bit on your tech stack, but let me give you an example of something I'd be happy to see.
+Nope, I think you absolutely *should* test your database layer, I just don't think you should be using *mocks*. Where possible, I think it makes a ton of sense to write automated integration tests for your database logic. The way that you implement the tests will probably depend on your tech stack, but let me give you an example of something I'd be happy to see.
 
 You could write a test script that spins up a *very real* instance of your database within a Docker container and executes *your exact queries that will be used in production* in a series of tests. Maybe it:
 
@@ -211,7 +211,7 @@ You could write a test script that spins up a *very real* instance of your datab
 2. Inserts a bunch of records
 3. Checks that the insertions worked
 4. Updates some of the records
-5. Makes sure the updates performed as expected
+5. Makes sure the updates are performed as expected
 6. Deletes some stuff
 7. Makes sure stuff got deleted
 8. Tears down the database

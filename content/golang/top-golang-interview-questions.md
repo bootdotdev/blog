@@ -141,7 +141,7 @@ No, Go isn't an object-oriented programming language. Interfaces are the way we 
 
 ## 14. How do you export functions from a package?
 
-Exported functions in Go just need to be capitalized in order to be exported.
+Exported functions in Go just need to be capitalized to be exported.
 
 ```go
 func DoWork(){

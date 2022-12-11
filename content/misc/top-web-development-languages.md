@@ -171,7 +171,7 @@ Elixir was born by leveraging lessons learned from languages like Ruby with the 
 
 ### Where Is It Used?
 
-Many well-known companies use Elixir for a wide variety of uses. Pepsi uses Elixir for marketing automation and supply chain optimization. Pinterest utilizes Elixir to speed up the performance of their notification system. Moz switched to Elixir from Ruby in order to use smaller data files and improve the speed of their API. 
+Many well-known companies use Elixir for a wide variety of uses. Pepsi uses Elixir for marketing automation and supply chain optimization. Pinterest utilizes Elixir to speed up the performance of their notification system. Moz switched to Elixir from Ruby to use smaller data files and improve the speed of their API. 
 
 {{< cta3 >}}
 

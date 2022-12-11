@@ -35,7 +35,7 @@ In addition, Matthew Dozer has a great introductory video:
 
 ![bitcoin logo](/img/800/5a521fa72f93c7a8d5137fcf.png)
 
-Instead of the current [ECDSA](/cryptography/elliptic-curve-cryptography/) implementation, Bitcoin might be switching to [Schnorr signatures](https://en.bitcoin.it/wiki/Schnorr) in order to get more efficiency when signing transactions. Instead of signing each transaction separately, with Schnorr, we can generate a single signature to validate many transactions at once. This allows Bitcoin to scale by requiring less data to be broadcast on the network when grouping transactions.
+Instead of the current [ECDSA](/cryptography/elliptic-curve-cryptography/) implementation, Bitcoin might be switching to [Schnorr signatures](https://en.bitcoin.it/wiki/Schnorr) to get more efficiency when signing transactions. Instead of signing each transaction separately, with Schnorr, we can generate a single signature to validate many transactions at once. This allows Bitcoin to scale by requiring less data to be broadcast on the network when grouping transactions.
 
 ## More Rigorous Testing of Hash Functions
 

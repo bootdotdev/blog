@@ -84,7 +84,7 @@ I loved [these](https://wiki.c2.com/?ProgrammingChallengesForInterview) programm
 
 ### For beginners
 
-No matter what language you’re working in, there will be a core set of skills you should know in order to pass muster, like printing "hello world." That’s why I adore [Adriann’s Simple Programming Problems](https://adriann.github.io/programming_problems.html) for being language agnostic.
+No matter what language you’re working in, there will be a core set of skills you should know to pass muster, like printing "hello world." That’s why I adore [Adriann’s Simple Programming Problems](https://adriann.github.io/programming_problems.html) for being language agnostic.
 
 These serve as a simple set of coding challenges for beginners (including the classic "hello world") all the way up to advanced, like writing a program that plays Hangman.
 

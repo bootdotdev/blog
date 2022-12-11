@@ -62,7 +62,7 @@ Ruby may pay better at the moment, but it appears to be losing traction and rele
 
 ## Ruby vs JavaScript Performance
 
-In order to keep this comparison fair, we’re going to focus on comparing Ruby to JavaScript’s runtime environment Node.js. This is because Ruby is a backend language and JavaScript is natively a frontend one.
+To keep this comparison fair, we’re going to focus on comparing Ruby to JavaScript’s runtime environment Node.js. This is because Ruby is a backend language and JavaScript is natively a frontend one.
 
 Comparing the performance of a backend language to a frontend language is like comparing fish to monkeys, and Node.js is what allows users to turn JavaScript into a backend language.
 

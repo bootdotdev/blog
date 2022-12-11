@@ -149,7 +149,7 @@ Not only will deploying your projects make your online presence appear more attr
 
 ### 7. Start looking for a backend job
 
-The big secret to landing a backend job as a self-taught developer is to build an amazing online presence that flaunts your work. Like we mentioned above:
+The big secret to landing a backend job as a self-taught developer is to build an amazing online presence that flaunts your work. As we mentioned above:
 
 * Put some work into your public Github profile
 * Build some open-source projects

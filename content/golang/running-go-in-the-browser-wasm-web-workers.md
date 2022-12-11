@@ -50,7 +50,7 @@ In other words, its a way for us to finally break free from the single-threaded 
 
 As you know, we compile code in the editor to WASM on our servers. If you are curious about that part, you can read about it in our [previous post.](/golang/running-go-in-the-browser-with-web-assembly-wasm/) Once the code is compiled to Web Assembly, it's shipped back to our front end for execution.
 
-In order to run a Web Worker, we need a script that defines the worker. It's just a JavaScript file:
+To run a Web Worker, we need a script that defines the worker. It's just a JavaScript file:
 
 ```js
 addEventListener('message', async (e) => {

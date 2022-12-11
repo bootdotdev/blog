@@ -22,11 +22,11 @@ If you’re a soon-to-be computer science student, your main question is: what�
 
 In my humble opinion, **yes**. A computer science education is no longer just a gateway to a computer science job. Just like knowing how to balance a budget or cook a fried egg, computer science is slowly becoming an integral part of the world around us.
 
-Is it necessary to know how algorithms work? Sometimes. But even if you aren't writing algorithms for a living, it’s still massively helpful, and I wouldn’t be surprised if it became necessary in the future. A computer science degree teaches you other things worth knowing: the hardware behind computers, and understanding of certain coding languages. When I worked in customer success or marketing, both very "soft" jobs, having this experience was a massive boon to my career.
+Is it necessary to know how algorithms work? Sometimes. But even if you aren't writing algorithms for a living, it’s still massively helpful, and I wouldn’t be surprised if it became necessary in the future. A computer science degree teaches you other things worth knowing: the hardware behind computers, and an understanding of a wide variety of coding languages and their methodologies. When I worked in customer success or marketing, both very "soft" jobs, having this experience was a massive boon to my career.
 
 Every company will have some kind of tech core in the future. Getting a CS degree will be useful in any field.
 
-Now, [computer science is still a tough degree](/computer-science/is-computer-science-hard/). But its future is as solid as ever. With only a [5% unemployment rate](https://www.newyorkfed.org/research/college-labor-market/index#/outcomes-by-major) and the [4th highest median starting salary](https://www.newyorkfed.org/research/college-labor-market/index#/outcomes-by-major), it’s still a great choice for anyone who leans towards math and analytics.
+Now, [computer science is still a tough degree](/computer-science/is-computer-science-hard/). But its future is as solid as ever. With only a [5% unemployment rate](https://www.newyorkfed.org/research/college-labor-market/index#/outcomes-by-major) and the [4th highest median starting salary](https://www.newyorkfed.org/research/college-labor-market/index#/outcomes-by-major), it’s still a great choice for anyone who leans toward math and analytics.
 
 The main thing worth noting is that while a computer science degree is a solid bet for the future, it’s no longer the *only* path to the future. As [async computer science boot camps](http://boot.dev) become more comprehensive and degrees become more expensive, there may reach a point at which it’s best to learn computer science by yourself without relying on a university degree. After all, [over 30% of computer scientists today](https://www.zippia.com/computer-scientist-jobs/demographics/) don’t even have a Bachelor’s degree.
 
@@ -62,7 +62,7 @@ The only guarantee is that you’ll have them. The future of computer science is
 
 ## Computer science has a long and fruitful future ahead.
 
-As a degree, as a career choice, and as a field, computer science is a wonderful option. Let’s briefly discuss those challenges I mentioned before:
+As a degree, as a career choice, and as a field, computer science is a wonderful option. Let’s briefly discuss the challenges I mentioned before:
 
 1. Hiring freezes/layoffs. It’s true that the tech world is at its chilliest point, but as I mentioned, there’s still a deficit of computer scientists out there in the world. Even if you don’t get hired at a big-name company, you’re almost certain to find work. Plus, recessions are [historically good times](https://republic.com/blog/investor-education/why-startup-investments-might-be-the-best-option-during-a-recession) to found startups. You may not get a job at Google, but you may get a job at the *next* Google.
 2. AI is approaching. AI pretends to threaten every field, but it’s not a real threat: it’s a tool. In marketing, writing, sales, science, pharma, and yes, computer science, AI will help make your job easier. It will not take your job.

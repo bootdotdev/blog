@@ -10,7 +10,7 @@ images:
 
 Choosing the right dependencies is a difficult task. Assuming the developer of an application is the best programmer in the world, the "best" thing to do would be to write the entire codebase alone. This would eliminate the bugs, vulnerabilities, and malicious intrusions of inferior developers.
 
-The trouble is that we like to move quickly in order to be able to compete in the market and offer new features. We try to avoid re-inventing the wheel when the wheel in question is widely used, is peer-reviewed, and we consider it stable and trusted.
+The trouble is that we like to move quickly to be able to compete in the market and offer new features. We try to avoid re-inventing the wheel when the wheel in question is widely used, is peer-reviewed, and we consider it stable and trusted.
 
 Let's explore the decision making behind which dependencies we should use, and which we should avoid.
 

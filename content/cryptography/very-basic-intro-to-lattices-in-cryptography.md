@@ -57,7 +57,7 @@ As you can see, now the intermediary points (0,1) and (0,1) **no longer exist** 
 
 [Cryptographic algorithms](/cryptography/what-is-cryptography/) are typically based on mathematical problems that are easy to verify the answer of, but hard to calculate.
 
-For example, RSA is based on prime factorization. If I told you to find prime factors of _27,919,645,564,169,759_, that would be hard. However, if I told you that 48,554,491 and 575,016,749 _are_ prime factors, all you have to do is multiply them together in order to verify my answer.
+For example, RSA is based on prime factorization. If I told you to find prime factors of _27,919,645,564,169,759_, that would be hard. However, if I told you that 48,554,491 and 575,016,749 _are_ prime factors, all you have to do is multiply them together to verify my answer.
 
 RSA works great with classical computers. There are [no known solutions to find prime factors](https://crypto.stackexchange.com/questions/10590/what-makes-rsa-secure-by-using-prime-numbers) of a number reliably in less than exponential time.
 

@@ -20,12 +20,12 @@ As a point of interest before we get started, if you need an extra resume boost,
 
 As you pick a template and replace the dummy information for your own, keep these important tips in mind.
 
-- **Fine-tune your resume for each position you apply for.** You should have a "main" copy of your resume but tailor it especially to each job you submit it to. For example, if the job you're applying for is a Python web development position, include more Python projects and information than you otherwise might.
+- **Fine-tune your resume for each position you apply for.** You should have a "main" copy of your resume but tailor it specially to each job you submit it to. For example, if the job you're applying for is a Python web development position, include more Python projects and information than you otherwise might.
 - **Include only relevant information.** If you were a lifeguard when you were 16, congratulations! No one cares.
 - **Try to keep it on one page.** If you need two pages that's okay, but definitely don't go to three.
 - If the only employment history you have isn't in the field you're applying for, then only include one or two of those positions. Include any personal projects or open-source contributions as part of your experience.
 - **If a position asks for a specific technology, don't be afraid to spend a day or two brushing up on the specifics of it.** Assuming you get an interview, do a more in-depth look at it, and consider building a toy project using it to prepare for the interview.
-- **Use color to emphasize important points.** These templates are designed to catch the eye. There's nothing more boring than a black and white resume.
+- **Use color to emphasize important points.** These templates are designed to catch the eye. There's nothing more boring than a black-and-white resume.
 - **Spell and grammar check!** Especially if English is your second language.
 - If you haven't been to school or received a formal education, don't worry! You can land entry-level jobs even if you [learned computer science by yourself online](/computer-science/comprehensive-guide-to-learn-computer-science-online/). Just be sure to include the courses and programs you completed.
 - When you fail to land an interview, **ask your point of contact if they can provide feedback** as to why you were rejected. Don't take the feedback personally, but use it to improve your resume for the next application.

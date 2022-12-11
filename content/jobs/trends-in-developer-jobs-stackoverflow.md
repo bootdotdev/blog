@@ -20,7 +20,7 @@ For example, here are some questions that I'd like to know the answer to:
 * Are we moving into more *specialist* or more *generalist* roles?
 * Are people still specializing as DBAs?
 
-I aggregated all the answers about developer employment from the last 9 years of Stack Overflow surveys in order to start being able to answer some of these questions. If you're curious about the [job outlook for developers](/jobs/whats-the-job-outlook-for-computer-science-students), hopefully this is helpful data.
+I aggregated all the answers about developer employment from the last 9 years of Stack Overflow surveys to start being able to answer some of these questions. If you're curious about the [job outlook for developers](/jobs/whats-the-job-outlook-for-computer-science-students), hopefully this is helpful data.
 
 ## First, a note on the data
 
@@ -96,7 +96,7 @@ What the hell happened in 2017? The data honestly just seems broken. I dug throu
 
 ### Interpretation 1
 
-DevOps appears to be gaining ground on traditional ops. In 2013 no one was identifying themselves as a "devops" person, but by 2020 and 2021 the numbers are looking *very* similar. It's worth pointing out that in 2016 the devops numbers actually eclipsed the "ops" numbers for a single year. My best guess is that 2016 was about when many companies started simply rebranding their "ops" teams as "devops" teams in order to look cool.
+DevOps appears to be gaining ground on traditional ops. In 2013 no one was identifying themselves as a "devops" person, but by 2020 and 2021 the numbers are looking *very* similar. It's worth pointing out that in 2016 the devops numbers actually eclipsed the "ops" numbers for a single year. My best guess is that 2016 was about when many companies started simply rebranding their "ops" teams as "devops" teams to look cool.
 
 It's hard to care too much about these numbers, because [devops is mostly being done wrong](/devops/devops-engineers-should-code/) in my opinion. I don't trust that the "ops" titles and the "devops" titles are all that different at most companies.
 

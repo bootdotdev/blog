@@ -44,7 +44,7 @@ A docstring is a string literal that is the first statement in a class, function
 
 ## Python Best Practices #3: Logging
 
-When it comes to good coding practices for Python, logging has to be on that list. If you have server applications or use multi-threading, debugging becomes an extremely frustrating and usually fruitless exercise. A simple solution would be to litter your code with print statements in order to understand what is going on at runtime. 
+When it comes to good coding practices for Python, logging has to be on that list. If you have server applications or use multi-threading, debugging becomes an extremely frustrating and usually fruitless exercise. A simple solution would be to litter your code with print statements to understand what is going on at runtime. 
 
 The problem with using print statements is that they need to be removed from production code, but you need them for local development. Are you going to remove them every time you push to master and put them back in after you are working on your own branch again? That’s incredibly time consuming, annoying, and inefficient.
 

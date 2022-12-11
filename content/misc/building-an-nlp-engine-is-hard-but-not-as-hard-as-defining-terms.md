@@ -25,7 +25,7 @@ The eight emotions we set out to build a classification engine for are defined b
 - Anticipation
 - Surprise
 
-Our emotion detection is based on a probabilistic algorithm that requires training and test data from human-annotations. In order to get a high-quality dataset, we found early on that simply telling our annotators to categorize sentences as to whether or not the author was expressing "anticipation" wasn't _nearly_ enough instruction. Once we got down to the brass tacks of some specific examples, we found that _we didn't even agree internally_ on classifications in many instances.
+Our emotion detection is based on a probabilistic algorithm that requires training and test data from human-annotations. To get a high-quality dataset, we found early on that simply telling our annotators to categorize sentences as to whether or not the author was expressing "anticipation" wasn't _nearly_ enough instruction. Once we got down to the brass tacks of some specific examples, we found that _we didn't even agree internally_ on classifications in many instances.
 
 Let's look at some of the examples we had trouble with as a team and go over the conclusions we came to. If you have thoughts be sure to [tweet at me](https://twitter.com/wagslane) and let me know what you think.
 

@@ -81,7 +81,7 @@ First of all, every list should be introduced by a sentence that describes what 
 
 ### Tables
 
-Tables basically follow the same rules. Make sure to have **clear headers** for every row and column. Avoid putting more than two sentences into a table field. Otherwise it will easily be bloated and hard to understand for the reader.
+Tables basically follow the same rules. Make sure to have **clear headers** for every row and column. Avoid putting more than two sentences into a table field. Otherwise, it will easily be bloated and hard to understand for the reader.
 
 ## Word Choice
 

@@ -42,7 +42,7 @@ _Version one released: 2012 by Google_
 
 Go is a compiled language, which means it runs much faster than its interpreted counterparts like JavaScript and Python. Being compiled also means that by learning Go, you will learn more about how operating systems, static typing, and CPU architecture play a role in programming.
 
-Go is known for having a rich standard library, particularly when it comes to backend web features. For example, in order to write a web server in Python or JavaScript, you would likely use a framework like [Express](https://expressjs.com/), [Django](https://www.djangoproject.com/), or [Flask](https://flask.palletsprojects.com/en/1.1.x/) to make up for the missing functionality. In Go, the standard HTTP library is powerful enough to build production servers without importing any large dependencies.
+Go is known for having a rich standard library, particularly when it comes to backend web features. For example, to write a web server in Python or JavaScript, you would likely use a framework like [Express](https://expressjs.com/), [Django](https://www.djangoproject.com/), or [Flask](https://flask.palletsprojects.com/en/1.1.x/) to make up for the missing functionality. In Go, the standard HTTP library is powerful enough to build production servers without importing any large dependencies.
 
 ### Who Should Start With Go?
 

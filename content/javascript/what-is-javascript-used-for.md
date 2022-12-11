@@ -30,7 +30,7 @@ Another really cool thing that JavaScript allows you to do when developing websi
 
 JavaScript is widely known for making the Internet pretty. There are a lot of great JavaScript libraries out there for graphics and data visualization, like d3. Many developers are even using the native HTML5 canvas API to build beautiful designs on the web. Even the New York Times uses HTML and JavaScript for most of their graphics, and "many staffers use D3."
 
-You may remember the [New York Times’ visual coverage](https://www.nytimes.com/interactive/2021/world/covid-cases.html) of the global Covid-19 outbreak, like this one. Americans alone use 4.2 million GB of internet data every single minute. Big data is here to stay, and in order to make sense of all of this data, we need data visualizations. There are so many different ways to visually represent data, from a simple pie chart to heatmaps of electricity sources. JavaScript is a must-use web development programming language for visualizing complex data sets.
+You may remember the [New York Times’ visual coverage](https://www.nytimes.com/interactive/2021/world/covid-cases.html) of the global Covid-19 outbreak, like this one. Americans alone use 4.2 million GB of internet data every single minute. Big data is here to stay, and to make sense of all of this data, we need data visualizations. There are so many different ways to visually represent data, from a simple pie chart to heatmaps of electricity sources. JavaScript is a must-use web development programming language for visualizing complex data sets.
 
 ## Web Server and Server Applications with JavaScript
 

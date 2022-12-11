@@ -29,7 +29,7 @@ Out of all the coding languages, JavaScript coders are close to the top of that 
 
 This demand explains why you should learn JavaScript: [72% of companies](https://devskiller.com/it-skills-report-2020/) are looking for a JavaScript coder. As a JavaScript developer, the median wage in the US is [around $112k](https://www.indeed.com/salaries/Javascript-Developer-Salaries) per year. 
 
-Even if you don’t want to program websites or apps for a career, being able to create your own website with JavaScript in order to host your portfolio can be a huge help in your job hunt. 
+Even if you don’t want to program websites or apps for a career, being able to create your own website with JavaScript to host your portfolio can be a huge help in your job hunt. 
 
 ## 2. It makes you a versatile programmer.
 
@@ -47,7 +47,7 @@ In short, if you can learn JavaScript, there’s very little you can’t accompl
 
 Running is the perfect hobby for me because I don’t need anything other than a sports bra and some running shoes to get a workout in. Part of the reason behind why learning JavaScript is awesome is that it’s kind of like the running of coding languages - you don’t need any fancy equipment, development environments, or branded textbook. If you have a computer with a browser, you can code in JavaScript. 
 
-Even similarly simple languages like Python are hard compared to JavaScript. When I began learning Python, in order to do anything fancy, I had to get my feet wet with the terminal, which I find tedious and annoying. Frankly, that was an obstacle. Meanwhile, your computer already has a javascript GUI and runtime. With any text editor and browser, you can code in JavaScript. 
+Even similarly simple languages like Python are hard compared to JavaScript. When I began learning Python, to do anything fancy, I had to get my feet wet with the terminal, which I find tedious and annoying. Frankly, that was an obstacle. Meanwhile, your computer already has a javascript GUI and runtime. With any text editor and browser, you can code in JavaScript. 
 
 This makes it ultra-accessible for beginners like me. With a very basic understanding, you can follow a tutorial like [this one](https://www.oreilly.com/library/view/javascript-jquery/9781491948583/ch01.html) from Oreilly and write a program within minutes. Why learn JavaScript only by rote, when you can do it hands-on? 
 

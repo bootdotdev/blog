@@ -177,7 +177,7 @@ This ensures that the learning side of the platform remains top-of-mind for us. 
 
 2. A free-if-you-get-placed career coaching funnel for students that complete our materials.
 
-The career coaching services and materials would ensure that we care about the career success of our students. We could even offer them to those who are looking for second and third jobs, or even just looking to get promoted or snag a raise. It also has the nice side-effect of helping us keep our learning content streamlined and career-applicable, because in order to maximize revenue we need to be able to place those students in jobs.
+The career coaching services and materials would ensure that we care about the career success of our students. We could even offer them to those who are looking for second and third jobs, or even just looking to get promoted or snag a raise. It also has the nice side-effect of helping us keep our learning content streamlined and career-applicable, because to maximize revenue we need to be able to place those students in jobs.
 
 Payment for the optional career coaching might be an ISA model, or maybe it's a flat fee that's paid back x months after the desired career outcome - I'm not sure. But all in all, I think this **could** be a great path forward for us. 
 

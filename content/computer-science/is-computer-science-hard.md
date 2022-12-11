@@ -9,7 +9,7 @@ images:
   - /img/800/pexels-photo-1108101.webp.webp
 ---
 
-I spent a lot of time scouring google with queries like "Is computer science hard reddit" back when I was deciding whether I should go ahead and actually get a computer science degree. I wanted advice from someone who had boots on the ground in the computer science field.
+I spent a lot of time scouring google with queries like "is computer science hard reddit" back when I was deciding whether I should go ahead and get a computer science degree. I wanted advice from someone who had boots on the ground in the computer science field.
 
 I was in a weird spot in my life. I already had a degree in biology from a decent school. But honestly, fieldwork didn’t appeal to me, nor did becoming a teacher. I didn’t care enough about any particular discipline to go in deeper. So I was at loose ends, working odd jobs while I decided on my next move.
 
@@ -70,13 +70,13 @@ And it’s still the case [today](https://www.reddit.com/r/TwoXChromosomes/comme
 
 ### Mistakes are easy to make and hard to fix. 
 
-One thing that makes computer science hard is the stubbornness of errors. I remember spending hours trying to debug a script I’d written. It came down to a single misplaced comma. One single comma! I spent an entire frustrating afternoon staring at my screen, fixing different things, trying to interpret obscure error messages before I finally caught my typo.
+One thing that makes computer science hard is the stubbornness of errors. I remember spending hours trying to debug a script I’d written. It came down to a single misplaced comma. One single comma! I spent an entire frustrating afternoon staring at my screen, fixing different things, and trying to interpret obscure error messages before I finally caught my typo.
 
 With computer science, you need to come armed with patience and resilience. Things can and will go wrong.
 
 ### There’s a steep learning curve.
 
-Think of computer science like a complex video game. When I started gaming, I played two different games. I tried "Divinity: Original Sin" and "Lego City Undercover". Both were hard for me at first, because I’d never played video games before. But Lego City Undercover was a lot easier to pick up.
+Think of computer science as a complex video game. When I started gaming, I played two different games. I tried "Divinity: Original Sin" and "Lego City Undercover". Both were hard for me at first, because I’d never played video games before. But Lego City Undercover was a lot easier to pick up.
 
 DOS had a much steeper learning curve. It took me much longer to get the lessons to stick, what to do when. It was a more complex game, with more options. I could go much deeper, too. Computer science was like DOS for me. It took a while for me to get comfortable with it. I had to learn a lot of the same lessons over and over again. And when I thought I’d mastered a concept or angle, I’d screw up in a way that taught me I had a lot left to learn.
 
@@ -86,7 +86,7 @@ This complexity and depth mean computer science is hard to learn.
 
 Don’t laugh! This is a real issue with computer science. Some subjects are easier to pick up because there’s a lot of cultural immersion. For example, when I studied literature, I already knew a lot of the beats of the classics we studied. Dracula appears in pop culture, as do the Grimm stories and a lot of the 19th-century British literature we read. Not only that, but someone had gone to a lot of effort to make complex subjects easy to grasp through resources like SparkNotes.
 
-Computer science doesn’t really have an equivalent because there’s no agreement on what "the classics" are. There’s very little overlap between your day-to-day life and what you learn in computer science. You start much less familiar with the source material than you do with other subjects, which makes it less accessible. Ergo, computer science is hard due to lack of familiarity through pop culture.
+Computer science doesn’t really have an equivalent because there’s no agreement on what "the classics" are. There’s very little overlap between your day-to-day life and what you learn in computer science. You start much less familiar with the source material than you do with other subjects, which makes it less accessible. Ergo, computer science is hard due to a lack of familiarity in pop culture.
 
 {{< cta1 >}}
 
@@ -101,11 +101,11 @@ I did it the hard way. I checked out the [best places to learn Python online](/p
 1.  Go back to school. You have the option of going back to university. It takes four years and a ton of money, but the option is there. Get spoon-fed information, projects, knowledge, and get a fancy diploma at the end of it.
 2.  Lean on pre-existing curricula. This is what [boot.dev](https://boot.dev/) offers – a complete and ever-growing course of knowledge to help you cover the theoretical and practical side of computer science. There’s also a kickass community and weekly events to help fill out your resume.
 3.  DIY. This is what I did. It’s not for the faint of heart, and you risk missing massive integral areas of study because you just don’t know they’re there.
-4.  A mix of the above. You can get a certificate here, a bootcamp there, a YouTube series too, maybe a college-certified course off Coursera.
+4.  A mix of the above. You can get a certificate here, a bootcamp there, a YouTube series too, and maybe a college-certified course off Coursera.
 
 ## Computer science is easier to learn if you have these advantages
 
-Is computer science hard for someone with no experience? Well, it’s a lot easier with the right background. For example, like Reddit user SouthernRhubarb implies, you need to like math in order to comfortably get through a computer science curriculum.
+Is computer science hard for someone with no experience? Well, it’s a lot easier with the right background. For example, like Reddit user SouthernRhubarb implies, you need to like math to comfortably get through a computer science curriculum.
 
 If you have experience with and enjoyment of these things, then you’ll find computer science a lot less hard:
 
@@ -127,7 +127,7 @@ Once you actually get a job coding and building software systems, you’ll be su
 
 ### Self-directed research
 
-Did I mention how much of my time has been spent googling and reading StackOverflow questions? It’s practically impossible to learn all there is about a field as vast as computer science and programming. You need to get used to the idea that you’ll be spending a good amount of your work day as a developer looking stuff up.
+Did I mention how much of my time has been spent googling and reading StackOverflow questions? It’s practically impossible to learn all there is about a field as vast as computer science and programming. You need to get used to the idea that you’ll be spending a good amount of your workday as a developer looking stuff up.
 
 No one will ever fault you for not knowing even a slightly-obscure fact about the industry, but you will be expected to be able to find that answer.
 
@@ -141,10 +141,10 @@ If you’re a coder and are just trying to learn computer science (algorithms, d
 
 ## Is computer science hard?
 
-The short answer, again is **yes. Computer science is tough to learn**. It’s easier or harder depending on your background or how you choose to learn it. Do you have zero experience coding and want to learn the DIY way? Then you’ll struggle, though it’s still doable. Are you an avid programmer who’s handy around a computer and spent a lot of time behind a keyboard writing scripts for your favorite videogames? Then you’ll find it *easier* – but not easy.
+The short answer, again, is **yes. Computer science is tough to learn**. It’s easier or harder depending on your background or how you choose to learn it. Do you have zero experience coding and want to learn the DIY way? Then you’ll struggle, though it’s still doable. Are you an avid programmer who’s handy around a computer and spent a lot of time behind a keyboard writing scripts for your favorite videogames? Then you’ll find it *easier* – but not easy.
 
 For example, I had an interest in animals and science growing up. I’d read a lot of the textbooks that were assigned later in college. I had seen some David Attenborough documentaries. All these things made it easier than computer science for me personally, though the degree was still hard. If things had been different, maybe biology would have been harder than computer science.
 
-When you ask, "Is computer science hard?" I have to assume you’re really asking: "Is computer science *too hard for me?"* or "Is computer science *too hard to be worth it?*"
+When you ask, "Is computer science hard?" I have to assume you’re *really* asking: "Is computer science *too hard for me?"* or "Is computer science *too hard to be worth it?*"
 
 And I can’t answer that question. Only you can. After reading this post, I hope you’re a little closer to your answer.

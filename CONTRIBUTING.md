@@ -55,7 +55,7 @@ We are *very* picky about the quality of articles we publish. Don't be discourag
 
 We use [Hugo](https://gohugo.io/) as our static site generator. All articles are written in Markdown.
 
-In order to contribute an article, all you need to do is:
+To contribute an article, all you need to do is:
 
 * Add your Markdown file
 * Add any images

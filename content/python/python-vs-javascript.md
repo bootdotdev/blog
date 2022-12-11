@@ -63,7 +63,7 @@ Along with being well paid, JavaScript ranked number 1 for the most popular lang
 
 There are multiple ways to think about performance, but today we’re focusing on [run-time performance](https://www.quora.com/What-is-runtime-performance).
 
-Modern-day JavaScript is known for having powerful performance, thanks to its V8 engine. JavaScript was originally a run-of-the-mill interpreted language, but when the V8 engine was released, it came with the Just-In-Time (JIT) compiler, which allowed for compilation and the ability to optimize the code in order to run much faster.
+Modern-day JavaScript is known for having powerful performance, thanks to its V8 engine. JavaScript was originally a run-of-the-mill interpreted language, but when the V8 engine was released, it came with the Just-In-Time (JIT) compiler, which allowed for compilation and the ability to optimize the code to run much faster.
 
 This increases performance not only because it optimizes code, but because compiling results in faster execution time than interpreting. And since JavaScript is a lightweight, flexible language, it’s the perfect storm for fast compilation. Along with the V8 engine, [JavaScript has the Node.js run-time environment](/javascript/nodejs-vs-javascript/), which allows JavaScript to run server-side. Node.js most notably supports multithreading – or the ability to run multiple tasks at once – a crucial aspect for creating performance-heavy applications.
 

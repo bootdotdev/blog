@@ -145,7 +145,7 @@ What language do you enjoy the most? Which one do you understand best? These ans
 
 ## 6. You’re pretending to be more talented than you are
 
-Of course, people who can't get a programming job might be desperate enough to stretch the truth in order to try to cover every point. With job listings as unrealistic as they can sometimes be, this is only to be expected. But it might actually be stopping you from getting a programming job.
+Of course, people who can't get a programming job might be desperate enough to stretch the truth to try to cover every point. With job listings as unrealistic as they can sometimes be, this is only to be expected. But it might actually be stopping you from getting a programming job.
 
  The good news is that while employers do want a capable employee, this doesn’t mean they need you to do everything they list in the job requirements. 
 

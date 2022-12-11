@@ -17,7 +17,7 @@ Singletons are fairly controversial as far as I can tell, especially in JavaScri
 > 
 > [techopedia](https://www.techopedia.com/definition/15830/singleton)
 
-Usually, in object-oriented programming, the idea is to define classes and create multiple instances of that class, each with their own state. This keeps code [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and easy to maintain.
+Usually, in object-oriented programming, the idea is to define classes and create multiple instances of that class, each with its own state. This keeps code [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and easy to maintain.
 
 By contrast, it only instantiates a singleton once, and therefore any code that accesses the singleton will either:
 
@@ -48,7 +48,7 @@ export default Settings;
 
 As stated earlier, a singleton is dangerously close to being a global variable, and we don't like those. There is one important difference:
 
-The singleton instance **isn't actually globally scoped**: in order to modify state the caller must import the class and use getters/setters. This makes access more explicit and controlled. Not only are the ways in which the state can be modified explicitly defined, but files that use the state must 'import' it.
+The singleton instance **isn't truly scoped globally**: to modify the state, the caller must import the class and use getters and setters. This makes access more explicit and controlled. Not only are the ways in which the state can be modified explicitly defined, but files that use the state must 'import' it.
 
 ## But Muh Redux
 

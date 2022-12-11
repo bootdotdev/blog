@@ -40,7 +40,7 @@ There is also an optional second parameter to the map function that we will go o
 
 ## Syntactic Sugar
 
-In the above example, in order to double each value in the original array, we only used the `val` argument. It's _extremely_ common to only care about the `val` argument in the map function. When that's all we need we can simplify the syntax, and even throw in some es6 arrow functions:
+In the above example, to double each value in the original array, we only used the `val` argument. It's _extremely_ common to only care about the `val` argument in the map function. When that's all we need we can simplify the syntax, and even throw in some es6 arrow functions:
 
 ```js
 const oldArray = [1, 4, 9, 16];

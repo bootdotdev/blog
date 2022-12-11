@@ -17,7 +17,7 @@ Violation of any of the terms below will result in the termination of your Accou
 You must be 18 years or older to be part of this Program.
 You must live in the United States to be an Affiliate.
 You must be a human. Accounts registered by "bots" or other automated methods are not permitted.
-You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process.
+You must provide your legal full name, a valid email address, and any other information requested to complete the signup process.
 Your login may only be used by one person – a single login shared by multiple people is not permitted.
 You are responsible for maintaining the security of your account and password. Boot.dev cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
 You are responsible for all Content posted and activity that occurs under your account.

@@ -116,4 +116,4 @@ char isEven(int n) {
 
 My point with all this "isEven" nonsense is that code _can_ be fun, interesting, and entertaining - I'm not trying to say it can't be. I'm doing some mental gymnastics, however, in that I define all these "jokes through code" as normal language. It's a medium through which humans express themselves creatively to one another, just like film, poetry, novels, or blogging.
 
-None of the examples above are actually intended to run in production. If they were, they would be examples of ugly code indeed.
+None of the examples above are intended to run in production. If they were, they would be examples of ugly code indeed.

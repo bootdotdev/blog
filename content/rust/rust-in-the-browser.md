@@ -8,7 +8,7 @@ images:
   - /img/800/rust.jpeg
 ---
 
-I've recently been working on getting Rust support in the [boot.dev app](https://boot.dev/). In order to write a more engaging course, I want students to be able to write and execute code right in the browser. As I've learned from my previous posts on this topic, the easiest way to sandbox code execution on a server is to _not_ execute code on a server. Enter Web Assembly, stage left.
+I've recently been working on getting Rust support in the [boot.dev app](https://boot.dev/). To write a more engaging course, I want students to be able to write and execute code right in the browser. As I've learned from my previous posts on this topic, the easiest way to sandbox code execution on a server is to _not_ execute code on a server. Enter Web Assembly, stage left.
 
 ## Deprecation Disclaimer!
 

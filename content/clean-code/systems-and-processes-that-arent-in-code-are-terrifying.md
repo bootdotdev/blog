@@ -12,7 +12,7 @@ My worst enemy is processes that a developer spun up years ago on a server every
 
 You may be thinking, "Why is that scary? We use cronjobs all the time!"
 
-If the code that manages the crontab is exists in source control within the organization's central repositories, then I actually have very little to complain about. My beef is when an engineer hops onto a server and starts up a cron job without that configuration existing anywhere in code.
+If the code that manages the crontab exists in source control within the organization's central repositories, then I have very little to complain about. My beef is when an engineer hops onto a server and starts up a cron job without that configuration existing in code.
 
 You may say,
 
@@ -28,10 +28,10 @@ Or even better, program in Go so that spinning up side processes within your app
 
 ## Other Angst-y Things
 
-Crontabs are just a common example of hard to discover processes. Others, for example, may include:
+Crontabs are just a common example of hard-to-discover processes. Others, for example, may include:
 
 - Database processes that were added manually, instead of by the app that owns the DB
-- .bash\_profile or .bashrc files that kick off server startup jobs
-- Third party apps that were installed on the server to take care of special tasks (I don't know, defragging the disk maybe). Those processes should be documented in code, probably config files that your organization typically uses to start its apps.
+- `.bash_profile` or `.bashrc` files that kick off server startup jobs
+- Third-party apps on the server to take care of special tasks (I don't know, defragging the disk maybe). Those processes should be documented in code, probably config files that your organization typically uses to start its apps.
 
 Internal documentation certainly sucks, so document your processes in code instead. A config file that specifies how a process is started is much better than a PDF, because the config file can't become outdated (if it does, things break).

@@ -30,7 +30,7 @@ OOP was so popular in the early 2000s that it became (in my opinion) overly wide
 
 In 1995, 4 years after Java got its start, Brendan Eich created JavaScript while he worked for Netscape. At the time, Netscape had complete market control of the web browsing industry, while Microsoft was just starting with the Internet Explorer project.
 
-In an attempt to beat Microsoft, Netscape partnered with Sun Microsystems. They branded it with the name JavaScript in order to latch onto the Java hype train that was certainly plowing ahead in the developer community.
+In an attempt to beat Microsoft, Netscape partnered with Sun Microsystems. They branded it with the name JavaScript to latch onto the Java hype train that was certainly plowing ahead in the developer community.
 
 ### JavaScript's Success
 

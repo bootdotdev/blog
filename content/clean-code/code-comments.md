@@ -49,7 +49,7 @@ Instead of trying to keep 3 things in sync:
 * The function name
 * The comment
 
-We also have the added benefit of re-emphasizing the expected behavior on readers of the code that calls this function, rather than just the readers of the function definition.
+We also have the added benefit of re-emphasizing the expected behavior to readers of the code that calls this function, rather than just the readers of the function definition.
 
 ## Avoid redundant comments. Strive for a single source of truth
 
@@ -63,7 +63,7 @@ If your code doesn't clearly state what is happening, your first instinct should
 
 ## Comments should explain "why" not "how"
 
-Comments and documentation that explain *why* something is happening are *extremely* important. Like we've talked about so far, comments that explain *how* the code works are often redundant and unnecessary. For example,
+Comments and documentation that explain *why* something is happening are *extremely* important. As we've talked about so far, comments that explain *how* the code works are often redundant and unnecessary. For example,
 
 ```go
 func cleanInput(input string){

@@ -23,9 +23,9 @@ Asymmetric encryption is preferred when you want someone to be able to send you 
 
 ## AES-256 Secret Key
 
-The secret key used in AES-256 must be 256 bits long. In order to use a password or passphrase as the key, a [hashing algorithm](https://blog.goodaudience.com/very-basic-intro-to-hash-functions-sha-256-md-5-etc-ed721622ff8) needs to be used to extend the length.
+The secret key used in AES-256 must be 256 bits long. To use a password or passphrase as the key, a [hashing algorithm](https://blog.goodaudience.com/very-basic-intro-to-hash-functions-sha-256-md-5-etc-ed721622ff8) needs to be used to extend the length.
 
-The shorter the password or passphrase, the easier it is for an attacker to decrypt the data by guessing passwords, hashing them, and attempting to decrypt the message. In order to mitigate this threat, some applications enforce safeguards, such as using a [KDF](/cryptography/key-derivation-functions/).
+The shorter the password or passphrase, the easier it is for an attacker to decrypt the data by guessing passwords, hashing them, and attempting to decrypt the message. To mitigate this threat, some applications enforce safeguards, such as using a [KDF](/cryptography/key-derivation-functions/).
 
 {{< cta1 >}}
 

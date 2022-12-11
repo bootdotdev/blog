@@ -27,13 +27,13 @@ White-box crypto takes this a bit further. That is, we technically give the atta
 
 ## How Does It Work?
 
-In order to secure a program using white-box cryptography, we assume the attacker has complete access to the system. This includes:
+To secure a program using white-box cryptography, we assume the attacker has complete access to the system. This includes:
 
 - Access to executable binary
 - Access to execution memory
 - CPU call intercepts
 
-In order to successfully hide the keys given this scenario, according to [Brecht Wyseur](https://www.esat.kuleuven.be/cosic/publications/thesis-152.pdf), we can take the following steps assuming we are trying to white-box a block cipher:
+To successfully hide the keys given this scenario, according to [Brecht Wyseur](https://www.esat.kuleuven.be/cosic/publications/thesis-152.pdf), we can take the following steps assuming we are trying to white-box a block cipher:
 
 1. **Partial Evaluation**: When performing an operation, we alter the operation based on the key. For example, in the [substitution phase of a block cipher](/cryptography/aes-256-cipher/), we would change the [lookup table](https://en.wikipedia.org/wiki/S-box) to be dependent on the key. Note that if someone were to see this table, they could derive the key (solved in step 3)
 2. **Tabularizing**: Transform all other operations to also use lookup tables. This is possible because lookup tables can describe any function.
