@@ -1,7 +1,7 @@
 ---
 title: "Boot.dev Beat. December 2022"
 author: Lane Wagner
-date: "2022-01-06"
+date: "2023-01-06"
 categories:
   - "news"
 images:
