@@ -3,7 +3,7 @@ title: "How the Boot.dev Game Works"
 author: Lane Wagner
 date: "2023-01-07"
 images:
-  - /img/800/game.png.webp
+  - /img/800/game2.png.webp
 categories:
   - "wiki"
 aliases:
