@@ -1,9 +1,11 @@
 {{ partial "header.html" . }}
 
+{{ $isBlog := and (.Params.categories) (not (in .Params.categories "wiki")) }}
+
 <div>
 
     <div class="flex flex-col lg:flex-row w-full lg:justify-evenly lg:items-start">
-        {{ if .Params.categories }}
+        {{ if $isBlog }}
         <aside class="max-w-md w-full">
 
         </aside>
@@ -58,18 +60,18 @@
 
                     {{ .Content }}
 
-                    {{ if .Params.categories }}
+                    {{ if $isBlog }}
                     {{ partial "signature.html" . }}
                     {{ end }}
                 </main>
 
-                {{ if .Params.categories }}
+                {{ if $isBlog }}
                 {{ partial "related.html" . }}
                 {{ end }}
             </div>
         </div>
 
-        {{ if .Params.categories }}
+        {{ if $isBlog }}
         <aside class="max-w-md py-8 px-4 lg:px-8">
             {{ partial "sidebar.html" . }}
         </aside>
