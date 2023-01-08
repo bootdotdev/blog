@@ -38,8 +38,6 @@ For example, our daily leaderboard is very competitive: the students who have ea
 
 ## Gems
 
-![gems](/img/800/gems.png.crdownload.webp)
-
 You can earn gems in two different ways:
 
 * Completing quests
@@ -65,12 +63,6 @@ You may only have a single quest active at any given time. You can select a ques
 ## Achievements
 
 The primary purpose of achievements is to award you with bonus XP, but when you earn achievements you'll also unlock the associated badge on your portfolio page. There are many different ways in which achievements can be earned, each achievement is different. You can read about the available achievements on the [achievements page](https://boot.dev/achievements).
-
-![milestone master](https://i.imgur.com/CyPdA2x.png)
-
-![sharpshooter grandmaster](https://i.imgur.com/sIkT09h.png)
-
-![streak grandmaster](https://i.imgur.com/hlvjB0z.png)
 
 ## Karma
 
