@@ -33,7 +33,7 @@ To be a data engineer means data is your baby at your job. Data engineering is t
 
 ### What does a data engineer do?
 
-As a data engineer, your job is to build systems that collect, manage, and convert data into usable information. This information is **used by data scientists** and business analysts to interpret and turn into actionable insights. This is an interesting point - as a data engineer you're often building tools and systems to allow data scientists to do their jobs.
+As a data engineer, [your job](https://www.stratascratch.com/blog/what-does-a-data-engineer-do-and-what-they-dont-do/) is to build systems that collect, manage, and convert data into usable information. This information is **used by data scientists** and business analysts to interpret and turn into actionable insights. This is an interesting point - as a data engineer, you're often building tools and systems to allow data scientists to do their jobs.
 
 This itself causes a little bit of confusion – many people believe that data scientists are responsible for collecting the data themselves – but suffice it to say it's a maturing field and more fine-grained specializations are evolving.
 
@@ -72,6 +72,8 @@ What do you get for all this incredible work? As of September 2022, it looks lik
 ## What is a Backend Engineer?
 
 As the background engineer, data is still your baby, but now you have a whole family of *additional* responsibilities. You're responsible for making sure your organization's website or website products run as smoothly as possible. That includes databases, back-end logic, APIs, architecture, and servers. In many cases, especially at smaller companies, you may find yourself *also* doing some data engineering as a more generalized back-end engineer.
+
+You can also check out this [detailed breakdown of data engineering salary](https://www.stratascratch.com/blog/data-engineer-salary-and-career-prospects/).
 
 ### What does a Back-end engineer do?
 

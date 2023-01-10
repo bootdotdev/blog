@@ -32,7 +32,8 @@ pluralizelisttitles = false
     "https://blog.boot.dev",
     "https://wagslane.dev",
     "https://scrimba.com",
-    "https://prepcards.dev"
+    "https://prepcards.dev",
+    "https://www.stratascratch.com"
   ]
 
   [[params.courses]]

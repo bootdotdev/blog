@@ -12,7 +12,7 @@ I needed to discover the best places to [learn Python online](https://boot.dev/l
 
 There was – but there was a catch. I loved R, but R couldn’t do what I needed. The more research I did, the more I realized Python was perhaps the best language to do what I needed.
 
-Luckily there were already GitHub repos full of code I could more or less copy-paste. I thought I could skip the "learning" part of Python and jump straight into the action. But I instantly ran into issues. I’d never used terminal before, I had no idea what packages were, how to set up a virtual env, the difference between Python 2 and 3, or how to "pip install" things. It was a mess. I spent about five frustrating hours at my laptop looking for random modifications that would magically get my code to work. But nothing I did worked.
+Luckily there were already GitHub repos full of code I could more or less copy-paste. I thought I could skip the "learning" part of Python and jump straight into the action. But I instantly ran into issues. I’d never used a terminal before, I had no idea what packages were, how to set up a virtual env, the difference between Python 2 and 3, or how to "pip install" things. It was a mess. I spent about five frustrating hours at my laptop looking for random modifications that would magically get my code to work. But nothing I did worked.
 
 Ultimately, I realized I needed to actually learn the basics of Python. I was long past school age, so I needed to learn Python online. It paid off - learning how to code in Python was a tremendous advantage in the job market when I worked in that field.
 
@@ -36,7 +36,7 @@ Let’s talk videos for beginners:
 * [Programming with Mosh’s six-hour Python tutorial](https://www.youtube.com/watch?v=_uQrJ0TkZlc). Notable comment: "This course has literally changed my life. 2 years ago i started learning python from this course and now i am a software engineer intern at a great startup. Thanks Mosh♥️" – Techno Maestro
 * [Edureka’s 12-hour Python tutorial](https://www.youtube.com/watch?v=WGJJIrtnfpk). Notable comment: "they explained a thousand times better than my cs class teacher. hats off to you guys! keep it up!" – Yash Garg.
 
-There are more, and these really only get into the basics of Python. If you want more advanced YouTube Python tutorials, I recommend looking up Python interview questions and searching for the answer on YouTube. These will help guide you in a practical way through Python. For a whole bunch in one place, I really enjoyed [Simplilearn's 37-minute video](https://www.youtube.com/watch?v=ONzmH7mAgEA) on Python interview questions and their explanations.
+There are more, and these only get into the basics of Python. If you want more advanced YouTube Python tutorials, I recommend looking up [Python interview questions](https://www.stratascratch.com/blog/top-30-python-interview-questions-and-answers/) and searching for the answer on YouTube. These will help guide you in a practical way through Python. For a whole bunch in one place, I enjoyed [Simplilearn's 37-minute video](https://www.youtube.com/watch?v=ONzmH7mAgEA) on Python interview questions and their explanations.
 
 ### GitHub
 
