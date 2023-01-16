@@ -91,7 +91,7 @@ Because C# was created _by_ Microsoft _for_ Microsoft, it naturally thrives as a
 
 Golang, on the other hand, was built to handle one of the largest and most complex servers in the world and shines when it comes to large-scale back-end development. Go’s standard library allows you to build entire webservers without outside tools, and supports a full HTTP package, JSON, and templates.
 
-Go’s also incredibly fast, managing its multithreading system seamlessly with static typing and a cutting-edge garbage collector. It’s not compatible with as many frameworks as C#, but you don’t need really them.
+Go’s also incredibly fast, managing its multithreading system seamlessly with static typing and a cutting-edge garbage collector. It’s not compatible with as many frameworks as C#, but you don’t really need them.
 
 When it comes to web development, C# offers more versatility in terms of adding 3rd party tools, but as a single-thread language by default. building out a multi-threaded application can be painful.
 
