@@ -8,20 +8,19 @@ images:
   - /img/800/pythongopherblue.png.webp
 imageAlts:
   - "Midjourney prompt: gopher fighter python fantasy blue dark"
-draft: true
 ---
 
 Look, I don't hate frameworks. I'm not as starry-eyed as some other developers, especially when it comes to *back-end* frameworks, but I don't think there's anything wrong with using tools that make you productive. On the contrary, I'm *always* trying to find tools that make me as productive as possible.
 
-That said, I'm adamant that you should not *start* with frameworks when you're learning back-end development. I'm not saying you shouldn't use them at all, but I am saying that they are a poor tool for learning.
+That said, I'm adamant that you should not *start* with frameworks when you're [learning back-end development](https://boot.dev). I'm not saying you shouldn't use them at all, but I am saying that they are a poor tool for learning.
 
 ## Frameworks automate the boring stuff
 
-Frameworks are *great* at automating all that boring stuff, like boilerplate code, authentication, and database migrations. Who wants to do the same thing over and over again?
+Frameworks are *great* at automating all that boring stuff, like boilerplate code, authentication, and [database migrations](/clean-code/death-taxes-and-database-migrations/). Who wants to do the same thing over and over again?
 
 Trouble is, when you're just starting, those boring details are *exactly* the things you should be practicing. They're the building blocks of back-end applications, the foundations of what you need to know. And when you use a framework, you're missing out on all that good stuff.
 
-Like any good developer, I use a library and call `sha256.Hash(text)` when I need to hash some data. I don't try to write my cryptography from scratch! That said, I've taken the time to learn and understand *why* sha256 is a good choice in a given scenario, and what security it provides me. Similarly, when you're learning back-end development, frameworks are just too high-level to be a good starting point.
+Like any good developer, I use a library and call `sha256.Hash(text)` when I need to hash some data. I don't try to write my cryptography from scratch! That said, I've taken the time to learn and understand *why* [sha256](/cryptography/how-sha-2-works-step-by-step-sha-256/) is a good choice in a given scenario, and what security it provides me. Similarly, when you're learning back-end development, frameworks are just too high-level to be a good starting point.
 
 ## Frameworks are easy to learn, that's the whole point
 
@@ -35,13 +34,13 @@ In the long run, it will be a lot faster to learn the basics of back-end servers
 
 ## I made the mistake of starting with Django
 
-When I was getting my CS degree, I decided I wanted to build a web app, and up until that point, I hadn't done much with the web yet. All I had done was write little Python scripts. RESTful servers, HTTP requests, SQL databases -- I had no idea what any of that was.
+When I was getting my [CS degree](/jobs/is-coding-bootcamp-worth-it/), I decided I wanted to build a web app, and up until that point, I hadn't done much with the web yet. All I had done was write little Python scripts. RESTful servers, HTTP requests, SQL databases -- I had no idea what any of that was.
 
 Anyhow, I heard Django was popular, so I decided to use it to build a website. I followed "hello world" style tutorials and in a few days I had a working website! I understood how to change variables here and there to make the page display what I wanted, but boy howdy I had *no idea* what was going on under the hood.
 
 I stressed for weeks trying to make sure my site was "secure". Every blog post online kept telling me I had to set this configuration, or that setting, if I wanted to be able to run my Django server in production. I avoided the database like the plague, instead using Django's ORM and admin panel to make changes to my data. I'm embarrassed to admit that at the time I didn't even understand that the database was a separate thing from the web server.
 
-Anyhow, a year later when I learned Go and built an API from scratch, *everything started to come together for me*. I finally understood all the moving parts, and how they are actually separate ideas that can be combined in different ways.
+Anyhow, a year later when I [learned Go](https://boot.dev/learn/learn-golang) and built an API from scratch, *everything started to come together for me*. I finally understood all the moving parts, and how they are actually separate ideas that can be combined in different ways.
 
 Since then, I've worked with minimalistic Go servers, Django, Flask, Rails and Express. I'm no longer stressed when I build a server in Django because I know what tradeoffs are being made. Django and Rails aren't bad tools for building web apps, they're just bad tools for learning.
 
@@ -70,10 +69,10 @@ That's not what I'm saying. If you want to be a professional in any industry, I 
 
 ## Lastly, full-stack and back-end development are different
 
-One last thing I want to point out is that full-stack and back-end are *not* the same thing. I think many developers who start with front-end get a bit confused about this. They think that the back-end is just the thing that serves the front-end.
+One last thing I want to point out is that full-stack and back-end are *not* the same thing. I think many developers who start with [front-end](/backend/frontend-vs-backend-meaning/) get a bit confused about this. They think that the back-end is just the thing that serves the front-end.
 
 That certainly *can* be the case in smaller applications, but as a company grows, the back-end tends to become larger and more complex. Frankly, the servers that serve up to front-end might end up being some of the simplest parts of the stack.
 
 While I still think it's best to write a server from scratch at least once, it's even more important if you want to be a *back-end* engineer rather than a *full-stack* engineer. If you're a back-end engineer, you'll be spending most of your time working on the back-end, and you'll be digging into more niche problems where a deeper understanding of server architecture will be more helpful.
 
-I hope this helps you avoid some of the pain I experienced, and as always, best of luck! If you're interested in learning back-end development, [check out Boot.dev](https://boot.dev), I think it will really help.
+I hope this helps you avoid some of the pain I experienced, and as always, best of luck! If you're interested in learning back-end development, [check out Boot.dev](https://boot.dev), I think it will help.
