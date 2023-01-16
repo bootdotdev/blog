@@ -54,7 +54,7 @@ Since then, I've worked with minimalistic Go servers, Django, Flask, Rails and E
 
 You might be thinking, "Okay, I get it, I shouldn't start with a framework. But where should I start?"
 
-It's a fair question. Following fallacious "slippery slope" thinking, we could say something like:
+It's a fair question. Following fallacious "slippery slope" logic, we might think something like:
 
 * Before a framework, build a web server from scratch
 * Before a web server, build the HTTP protocol from scratch
