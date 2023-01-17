@@ -67,7 +67,7 @@ The interesting thing about the JWT system is that the sender and the receiver o
 3. Server generates a JWT using HMAC:
 
 ```
-hmacCode = sha256('thisIsASe' + sha256('cretKey1234' + '{"userID":"11be9160-2243-4449-934b-e8245fe2feb0'))
+hmacCode = sha256('thisIsASe' + sha256('cretKey1234' + '{"userID":"11be9160-2243-4449-934b-e8245fe2feb0"}'))
 ```
 
 4. The server responds with the following (decoded) JWT:
