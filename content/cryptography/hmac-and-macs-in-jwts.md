@@ -62,31 +62,33 @@ If you've ever implemented [JWTs](https://en.wikipedia.org/wiki/JSON_Web_Token) 
 
 The interesting thing about the JWT system is that the sender and the receiver of the JWT are typically the same entity, that is, the webserver. Look at the following example:
 
-- User gives the server an username and password
-- Server verifies the username and password are correct
-- Server generates a JWT using HMAC:
+1. User gives the server an username and password
+2. Server verifies the username and password are correct
+3. Server generates a JWT using HMAC:
 
 ```
-hmacCode = sha256('thisIsASe' + sha256('cretKey1234' + '{"email":"lane@34.106.91.234"}'))
+hmacCode = sha256('thisIsASe' + sha256('cretKey1234' + '{"userID":"11be9160-2243-4449-934b-e8245fe2feb0'))
 ```
 
-- The server responds with the following (decoded) JWT:
+4. The server responds with the following (decoded) JWT:
 
 ```
-header.{"email":"lane@34.106.91.234"}.hmacCode
+header.{"userID":"e7a6e5b4-dbaa-4503-bd25-8ebfc3a54448"}.hmacCode
 ```
 
-- User decides to update his/her profile picture by sending the following request:
+5. User decides to update his/her profile picture by sending the following request:
 
 ```
 PUT /users/profile_picture
-Authentication: Bearer header.{"email":"lane@34.106.91.234"}.hmacCode
+Authentication: Bearer {"userID":"e7a6e5b4-dbaa-4503-bd25-8ebfc3a54448"}.hmacCode
 
-{"new_picture": "http://linktopicture.com/mypic"}
+{"new_picture_url": "http://linktopicture.com/mypic"}
 ```
 
-- The server parses the JWT. The JWT says the user is `"lane@34.106.91.234"`
-- The server verifies that the user really is Lane by validating the HMAC code. Only someone with access to the secret key `thisIsASecretKey1234` could have made the HMAC code that corresponds to the `lane@34.106.91.234` message
-- If verification is successful, then the server updates Lane's profile picture
+1. The server parses the JWT. The JWT says the user is the user with ID `e7a6e5b4-dbaa-4503-bd25-8ebfc3a54448`.
+2. The server verifies that the user really is Lane by validating the HMAC code. Only someone with access to the secret key `thisIsASecretKey1234` could have made the HMAC code that corresponds to the `e7a6e5b4-dbaa-4503-bd25-8ebfc3a54448` JWT.
+3. If verification is successful, then the server updates Lane's profile picture.
+
+![JWT lifecycle](/img/800/jwtlifecycle.png.webp)
 
 If you feel that I missed anything important, or have any questions, feel free to contact me!
