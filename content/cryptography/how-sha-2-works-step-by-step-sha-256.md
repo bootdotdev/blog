@@ -43,6 +43,10 @@ Three main purposes of a hash function are:
 
 SHA-2 is a strong family of hash functions because, as you would expect, it serves all the purposes mentioned above.
 
+## My Explanation of Some Real-World Uses for SHA
+
+{{< youtube PbFVTb7Pndc >}}
+
 ## What is SHA-256 used for?
 
 SHA-256 is useful in *so many* circumstances! It's a fast and secure hash function, here are some of the most common ways that it's used:
