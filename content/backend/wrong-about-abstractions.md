@@ -18,7 +18,7 @@ I wrote an article about [not starting with frameworks](/backend/dont-start-with
 
 The sad thing is that I agree with a lot of the commenters, which means I did a terrible job of communicating my point. I'm going to try to do better in this post. Not only do I want to clarify my thoughts, but I do think I was outright wrong about what needs to be *emphasized* to new developers.
 
-## A Correction: A Top-Down "Why" then a Bottom-Up "How"
+## Correction: Top-Down "Why" then Bottom-Up "How"
 
 In my last article, I make a case for learning "bottom-up". Paraphrasing myself, I said:
 
