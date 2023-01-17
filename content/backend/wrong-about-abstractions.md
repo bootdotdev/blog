@@ -63,4 +63,4 @@ I talk to a lot of students. Some have a more academic background, and after get
 
 Other students I've worked with are bootcamp graduates or have been self-teaching online. With them, I'm often pointing them to resources that explain the fundamentals of the stuff they're still fuzzy on. Things like my hands-on [HTTP](https://boot.dev/learn/learn-http), [Algorithms](https://boot.dev/learn/learn-algorithms), or [SQL](https://boot.dev/learn/learn-sql) courses.
 
-At the end of the day, it just depends. If you're actively learning to code I've helped you figure out what kinds of things you should study *next* to keep moving forward. Good luck!
+At the end of the day, it just depends. If you're actively learning to code I hope this helps you figure out what kinds of things you should study *next* to keep moving forward. Good luck!
