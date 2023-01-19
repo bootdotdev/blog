@@ -32,6 +32,8 @@ Time.
 
 To coax a machine into doing something random, we actually have to introduce a source of seemingly random input from outside the machine. Typically operating systems are primarily responsible for supplying sources of entropy to programs.
 
+{{< youtube abI_sTj4mrY >}}
+
 ### An example - How does the Linux kernel produce randomness for applications?
 
 A typical Linux machine can generate secure random numbers. Because Linux is conveniently open-source, I can provide you a link to [random.c](https://github.com/torvalds/linux/blob/a24d22b225ce158651378869a6b88105c4bdb887/drivers/char/random.c), a file responsible for randomness in the Linux kernel. By taking a look at the comments at the top of the file, we learn:
