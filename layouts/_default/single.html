@@ -5,11 +5,6 @@
 <div>
 
     <div class="flex flex-col lg:flex-row w-full lg:justify-evenly lg:items-start">
-        {{ if $isBlog }}
-        <aside class="max-w-md w-full">
-
-        </aside>
-        {{end}}
 
         <div class="max-w-3xl p-4">
             <div class="mb-8">
@@ -27,7 +22,7 @@
                 </div>
                 {{ end }}
 
-                <h1 class="text-4xl font-bold text-white mb-2">{{ .Title }}</h1>
+                <h1 class="text-4xl text-white mb-2">{{ .Title }}</h1>
 
                 {{ $date := .Params.date.Format "Jan 2, 2006" }}
                 {{ if .Params.author }}
@@ -70,12 +65,6 @@
                 {{ end }}
             </div>
         </div>
-
-        {{ if $isBlog }}
-        <aside class="max-w-md py-8 px-4 lg:px-8">
-            {{ partial "sidebar.html" . }}
-        </aside>
-        {{end}}
     </div>
 </div>
 

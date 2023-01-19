@@ -1,7 +1,7 @@
 {{ $related := .Site.RegularPages.Related . | first 4 }}
 {{ with $related }}
 <div class="flex flex-col items-center py-8">
-	<h3 class="text-3xl text-white font-bold mb-2">Related Articles</h3>
+	<h3 class="text-3xl text-white mb-2">Related Articles</h3>
 
 	<div class="max-w-4xl m-auto">
 		<ul>
@@ -20,7 +20,7 @@
 					{{ end }}
 
 					<div class="flex-1">
-						<h2 class="text-lg font-bold text-white mb-2">{{ .Title }}
+						<h2 class="text-lg text-white mb-2">{{ .Title }}
 						</h2>
 
 						<h3 class="text-sm text-gray-400 mb-4">

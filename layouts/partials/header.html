@@ -64,6 +64,13 @@
   {{ $syntaxcss := resources.Get "css/syntax.css" | minify }}
   <link href="{{ $syntaxcss.RelPermalink }}" rel="stylesheet">
 
+
+  <link rel="preconnect" href="https://use.typekit.net">
+  <link rel="stylesheet" href="https://use.typekit.net/cmx5dxo.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500&display=swap" rel="stylesheet">
+
   {{ partial "favicons.html" . }}
   {{ partial "gtm.html" . }}
   {{ partial "jsonld.html" . }}
