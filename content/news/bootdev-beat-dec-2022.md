@@ -21,7 +21,7 @@ All the best, Lane
 
 ## What we've done this month
 
-### 1.Gems are back!
+### 1. Gems are back!
 
 You will earn gems by completing quests and unlocking new roles (like apprentice, scholar, mage, sage, etc). You can spend gems to buy temporary XP boosts to help rocket you to the top of the leaderboard, or to save your sharpshooter progress when you get an exercise wrong.
 
