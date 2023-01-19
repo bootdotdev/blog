@@ -32,15 +32,29 @@
 }
 
 body {
-  font-family: Helvetica Neue, Helvetica, sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 main strong {
   color: var(--gray-100);
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: trajan-pro-3, serif;
+  font-weight: 700;
+}
+
+button {
+  font-family: trajan-pro-3, serif;
+  font-weight: 700;
+}
+
 main h2 {
-  font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 1rem;
   margin-top: 2rem;
@@ -48,7 +62,6 @@ main h2 {
 }
 
 main h3 {
-  font-weight: 600;
   font-size: 1.25rem;
   margin-bottom: 1rem;
   margin-top: 2rem;
@@ -56,7 +69,6 @@ main h3 {
 }
 
 main h4 {
-  font-weight: 600;
   margin-bottom: 1rem;
   margin-top: 2rem;
   color: white;
@@ -121,7 +133,7 @@ main ul code {
 
 main p {
   margin-bottom: 1rem;
-  font-size: 1rem;
+  font-size: 1.1rem;
   line-height: 1.75rem;
 }
 

@@ -3,7 +3,7 @@
 <div class="max-w-4xl m-auto p-4 sm:p-8">
 
   <main class="mb-8 flex flex-row justify-center">
-    <h1 class="text-4xl text-white mb-2 font-bold">
+    <h1 class="text-4xl text-white mb-2">
       {{ title .Title }}
       {{ if (gt $.Paginator.PageNumber 1) }} -
       Pg. {{ $.Paginator.PageNumber }}
@@ -27,12 +27,11 @@
         {{ end }}
 
         <div class="flex-1">
-          <h2 class="text-lg font-bold text-white mb-2">{{ .Title }}
-          </h2>
+          <h2 class="text-lg text-white mb-2">{{ .Title }}</h2>
 
-          <h3 class="text-sm text-gray-400 mb-4">
+          <span class="text-sm text-gray-400 mb-4">
             {{ .Date.Format "Jan 02, 2006" }} by {{ .Params.author }}
-          </h3>
+          </span>
 
           <p class="hidden sm:block">{{ .Summary }}</p>
         </div>

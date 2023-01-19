@@ -18,7 +18,7 @@
   {{ if $.Paginator.HasPrev }}
   <a href="{{ $.Paginator.Prev.URL }}">
     <li class="bg-blue-500 hover:bg-blue-400 rounded px-6 py-3 text-gray-200 font-extrabold">
-      Previous
+      <button>Previous</button>
     </li>
   </a>
   {{ end }}
@@ -27,7 +27,7 @@
   {{ if $.Paginator.HasNext }}
   <a href="{{ $.Paginator.Next.URL }}">
     <li class="bg-blue-500 hover:bg-blue-400 rounded px-6 py-3 text-gray-200 font-extrabold">
-      Next
+      <button>Next</button>
     </li>
   </a>
   {{ end }}
