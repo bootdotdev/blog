@@ -21,6 +21,10 @@ But which one should you use in your projects? Let's chat about the popular nami
 
 Snake case and camel case are probably the most popular styles, so let's cover those first.
 
+*If you'd rather watch than read, then here's the video version of this article.*
+
+{{< youtube u9ue_Oj-rVg >}}
+
 ## Snake Case
 
 Snake case, also known as "underscore case," uses underscores to separate words in a variable or function name. For example, a snake case variable might be named `user_id` or `user_name`. This naming convention is commonly used in programming languages like:
