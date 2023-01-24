@@ -13,7 +13,7 @@ imgAlts:
   - "Learn Cryptography course"
 ---
 
-Greetings! We're to excited announce that we've unveiled a brand-new [cryptography course](https://boot.dev/learn/learn-cryptography) on [Boot.dev](https://boot.dev). We're convinced that this new experience is truly one of a kind. If you want to learn cryptography while writing real code in the [Go programming language](https://boot.dev/learn/learn-golang), you should check it out.
+Greetings! We're excited announce that we've unveiled a brand-new [cryptography course](https://boot.dev/learn/learn-cryptography) on [Boot.dev](https://boot.dev). We're convinced that this new experience is truly one of a kind. If you want to learn cryptography while writing real code in the [Go programming language](https://boot.dev/learn/learn-golang), you should check it out.
 
 You can [get started for free here](https://boot.dev/learn/learn-cryptography).
 
@@ -63,7 +63,7 @@ AES is a secure, modern block cipher that's used in many production applications
 
 ### 10. Asymmetric Encryption
 
-Asymmetric encryption is used in HTTPS, digital signatues, and anywhere two parties need to securely communicate
+Asymmetric encryption is used in HTTPS, digital signatures, and anywhere two parties need to securely communicate
 
 ### 11. RSA
 
