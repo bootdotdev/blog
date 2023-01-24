@@ -89,7 +89,7 @@ This project should get you *really* familiar with the basics of RESTful APIs. T
 
 *This is probably the most important kind of project to practice with as you're learning back-end development.*
 
-I'd also recommend doing a couple more toy projects to practice up on related concepts and technologies like GraphQL and gRPC. I recommend [this](https://www.codeproject.com/Articles/452052/Build-Your-Own-Web-Server) old-but-gold project to build a simple web server and make it internet-accessible. It’s super simple but gives a lot of customization potential which is important for projects for backend devs.
+I'd also recommend doing a couple more toy projects to practice related concepts and technologies like GraphQL and gRPC. I recommend [this](https://www.codeproject.com/Articles/452052/Build-Your-Own-Web-Server) old-but-gold project to build a simple web server and make it internet-accessible. It’s super simple but gives a lot of customization potential which is important for projects for backend devs.
 
 Web Socket APIs are important because they allow bi-directional, full-duplex communication between clients and servers. RESTful APIs matter because they’re the [definitive state of rules](https://medium.com/techloop/an-introduction-to-backend-development-and-rest-apis-b1a1a978821f) that developers follow when they create their APIs. GraphQL is a language used to read and modify data from API and is growing in popularity. Six years ago, only 5% of JavaScript developers used it. By 2020, almost [half](https://2020.stateofjs.com/en-US/technologies/datalayer/) (44.3%) of the respondents had used it.
 
