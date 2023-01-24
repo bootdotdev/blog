@@ -83,4 +83,4 @@ Key derivation functions are how we derive keys from passwords or other keys sec
 
 ## What's inside?
 
-You'll find text and image explanations of all the concepts, as well as video explanations of some of the more visually demanding lessons. You'll be writing real code in Go in most of the exercises, and our system will instantly check your code and provide instant feedback. You'll only enjoy the course if you enjoy an engaging hands-on experience.
+You'll find text and image explanations of all the concepts, as well as video explanations of some of the more visually demanding lessons. You'll be writing real code in Go in most of the exercises, and the platform will instantly check your code and provide feedback. You'll only like the course if you enjoy an engaging hands-on experience.
