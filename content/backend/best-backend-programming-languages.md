@@ -127,7 +127,7 @@ There’s a [healthy use](https://www.trio.dev/blog/companies-using-php) of it a
 
 ## Highest paying: Ruby
 
-If you want to make bank as a backend developer, Ruby is a great bet. StackOverflow respondents reported a median salary of $93,000.
+If you want to make *bank* as a backend developer, Ruby is a great bet. StackOverflow respondents reported a median salary of $93,000.
 
 It’s worth pointing out that other backend programming languages were higher paying, like Clojure ($106k), F# ($95k), and Erlang ($103k). However, those languages had a much smaller sample size. There were nearly 3,000 Ruby respondents, versus 681, 371, and 426 respectively for the three others.
 
@@ -149,7 +149,7 @@ SQL isn’t a backend "programming" language in the typical sense of the word. I
 
 It’s used by nearly *all* backend developers, so it merits inclusion on this list of the top backend programming languages for 2023. Almost half of StackOverflow’s respondents use SQL, and 2/3s of people who use it love it. Plus, MySQL, PostgreSQL, and SQLite are the most popular databases, all of which rely on SQL to be queried. SQL is typically used alongside a general-purpose programming language like Go, Python or JavaScript.
 
-If you want to [learn SQL](https://boot.dev/learn/learn-sql) (and I recommend you do if you want to get into backend development) Boot.dev has a great course running through the fundamentals.
+If you want to [learn SQL](https://boot.dev/learn/learn-sql) (and I recommend you do if you want to get into backend development) [Boot.dev](https://boot.dev) has a great course running through the fundamentals.
 
 ### Who’s hiring for SQL?
 
