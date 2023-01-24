@@ -5,7 +5,9 @@ date: "2022-07-24"
 categories: 
   - "backend"
 images:
-  - /img/800/backend-dude-in-front-of-macbook.avif.webp
+  - /img/800/cyberpunk_data_center.png.webp
+imgAlts:
+  - "Midjourney Prompt: giant tech company campus, cyberpunk, fantasy, sci fi, beautiful 
 lastmod: "2023-01-24"
 ---
 
