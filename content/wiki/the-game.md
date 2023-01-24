@@ -12,7 +12,7 @@ aliases:
 
 Greetings, dear student! In our courses, we have crafted a multitude of tasks, projects and challenges for you to undertake. Along the way, you will complete quests, unlock roles and achievements, and earn gems.
 
-Our aim is to make your voyage of learning to code as delightful as possible. Should you have any questions about the mechanics of the game, fear not, for we have compiled this document that explains all. May your path be full of wonder and adventure as you explore the vast world of back-end development!
+We aim to make your voyage of learning to code as delightful as possible. Should you have any questions about the mechanics of the game, fear not, for we have compiled this document that explains all. May your path be full of wonder and adventure as you explore the vast world of back-end development!
 
 ## Roles
 
