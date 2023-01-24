@@ -17,7 +17,7 @@ Greetings! We're to excited announce that we've unveiled a brand-new [cryptograp
 
 You can [get started for free here](https://boot.dev/learn/learn-cryptography).
 
-## Why would I want to learn cryptography?
+## Why learn cryptography?
 
 Ever wondered how your data is kept safe online? This course will teach you about encryption, password security, ciphers, and more. After you master the fundamentals, you'll learn how each cryptographic primitive is used in real-world applications.
 
