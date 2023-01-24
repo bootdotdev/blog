@@ -1,14 +1,15 @@
 ---
-title: "The Top 11 Computer Science Books for Self Study"
+title: "The Top 11 Computer Science Books for Self Study [2023]"
 author: Natalie Schooner
 date: "2022-08-24"
 categories: 
   - "computer-science"
 images:
   - /img/800/csbooks.jpeg.webp
+lastmod: "2023-01-24"
 ---
 
-In today’s modern, fast-paced world, we look to StackOverflow and Reddit to answer all our computer science questions. But there are some real benefits to using books as an additional resource.
+In today’s modern, fast-paced world, we look to StackOverflow, Reddit, and [hands-on courses](https://blog.boot.dev/about/#you-cant-learn-to-code-if-you-arent-writing-a-lot-of-code) to learn about computer science. But there are some real benefits to using books as an additional resource.
 
 When studying computer science, books are:
 
@@ -24,9 +25,9 @@ Persuaded? Good. Let’s talk about the best CS books out there.
 
 > Author’s note: you can find many of these computer science books in PDF format. I’m linking to places where you can buy them because I believe in supporting and respecting the authors if you have the funds to do so. But, if you don’t, then I also believe in learning without limits. If you download a PDF of one of these books and it helps you get a job later on, consider supporting that author financially as a thank-you. If you do find free resources, *make sure they're legal*.
 
-## Top Computer Science Books for Beginners
+## Top CS Books for Beginners
 
-If you’re just starting out learning to code, these are the best textbooks. I’ve done my best to compile a list of books about CS that don’t require a lot of knowledge, are geared for beginners, and help you hit the ground running. It's also worth mentioning that an interactive course can go a long way to give you some hands on practice while you study. Check out [Boot.dev](https://boot.dev) for some hands-on CS courses you can take in your browser.
+If you’re just starting out learning to code, these are the best textbooks. I’ve done my best to compile a list of books about CS that don’t require a lot of knowledge, are geared for beginners, and help you hit the ground running. That said, I highly recommend *not* starting with books as your primary medium for learning computer science in 2023. Interactive courses that force you to write real code and provide immediate feedback are a *much* better way to learn. Check out [Boot.dev](https://boot.dev) if that style of learning sounds interesting to you.
 
 ### [1. Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook](https://www.goodreads.com/book/show/52126188-everything-you-need-to-ace-computer-science-and-coding-in-one-big-fat-no)
 
