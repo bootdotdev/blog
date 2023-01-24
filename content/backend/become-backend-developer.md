@@ -7,7 +7,7 @@ categories:
 images:
   - /img/800/cyberpunk_data_center.png.webp
 imgAlts:
-  - "Midjourney Prompt: giant tech company campus, cyberpunk, fantasy, sci fi, beautiful 
+  - "Midjourney Prompt: giant tech company campus, cyberpunk, fantasy, sci fi, beautiful"
 lastmod: "2023-01-24"
 ---
 
