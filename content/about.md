@@ -53,7 +53,7 @@ The tighter your feedback loop, the better. Our courses teach new concepts throu
 
 ### 4. You need to deploy
 
-Sometime "deploy" means to host a web app on the internet. Sometimes it just means packaging up your project with great documentation and pushing it to GitHub.
+Sometimes "deploy" means to host a web app on the internet. Sometimes it just means packaging up your project with great documentation and pushing it to GitHub.
 
 The point is, you need to *show your work*, and that work should be *interesting* if you want a better chance of landing a job.
 
@@ -87,7 +87,7 @@ If you spend about 10 hours each week, it should take [about 6 to 18 months](/ba
 
 Learning to code isn't easy. If it were, everyone would be doing it, and we wouldn't be paid as much as we are to write good code.
 
-Yo learn most effectively when you're in your [zone of proximal development](https://en.wikipedia.org/wiki/Zone_of_proximal_development), the place just *outside* of your comfort zone. There are just two rules for staying in the ZOPD:
+You learn most effectively when you're in your [zone of proximal development](https://en.wikipedia.org/wiki/Zone_of_proximal_development), the place just *outside* of your comfort zone. There are just two rules for staying in the ZOPD:
 
 1. Don't waste your time solving problems that you already know how to solve
 2. Don't waste your time solving problems that are impossible for your skill level
