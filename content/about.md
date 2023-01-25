@@ -9,110 +9,102 @@ imgAlts:
 lastmod: "2023-01-25"
 ---
 
-The state of education for back-end developers is fraught with difficulty, but it doesn't need to be that way. **The mission of Boot.dev is to make the process of becoming a backend engineer effective, fun, and affordable.**
+Universities are slow, bootcamps are expensive, and e-learning platforms are built for front-end learners.
 
-## Why build Boot.dev?
+**We make it fun and affordable for you to become a modern back-end engineer.**
 
-I started building Boot.dev for my wife Breanna who wanted to transition into backend development from her job as an x-ray technician. After searching for a while, we couldn't find any learning platforms that checked all the boxes that I felt were necessary as a backend hiring manager. I built Boot.dev so that anyone struggling to get a job as a backend engineer can learn the computer science skills that employers actually want to see in a candidate. My wife was my first student and loves the platform, so I hope you do too.
+I built [Boot.dev](https://boot.dev) for my wife Breanna who wanted to transition from x-ray to back-end development. The trouble is, we couldn't find any e-learning platforms that impressed me as a hiring manager. I decided to build a curriculum tailored to back-end developers who aren't afraid of an in-depth education. My wife was my first student and loves the courses, so I hope you do too.
 
-Boot.dev isn’t just a collection of programming courses, read on to hear about some of our opinions about the most effective way for you to learn back-end development.
+## Our Beliefs
 
-## Computer science skills will set you apart in the job market
+We have some opinions about how you should learn to code.
 
-People are becoming more tech-literate every day - and that's a wonderful thing. However, we think simple website development will become the next decade's "blue-collar" job. Understanding CS concepts like algorithms, data structures, distributed computing, and cryptography will be the way to differentiate yourself as a developer.
+1. Coding is fun, don't make it dull
+2. Computer science matters, degrees don't
+3. You need to build
+4. You need to deploy
+5. It's hard to find good resources
+6. Learning to code is a depth-first algorithm
+7. It's a marathon, not a sprint
+8. You should be uncomfortable
+9. Get an on-site, full-time job first
 
-## You can't learn to code if you aren't writing **a lot** of code
+### 1. Coding is fun, don't make it dull
 
-Many new learners end up watching hours of YouTube videos, only to find they're unable to build the most basic applications when they start a project alone. We think you should be writing as much code as possible throughout the entire learning process.
+> A game is a series of interesting choices
+>
+> -- [Sid Meier](https://en.wikipedia.org/wiki/Sid_Meier)
 
-## Follow a clear path that ensures you're making progress toward your career goals
+Coding is *inherently* a game. There's a tight feedback loop, and you get to make interesting decisions about the code you write that moves you toward your goal: a project that does something useful.
 
-So many students struggle to figure out _what_* to learn next. There's nothing worse than wandering around in "tutorial hell", from programming language to programming language, and framework to framework. We have a [linear computer science program](https://github.com/bootdotdev/curriculum) that's designed to prepare you for an entry-level role in backend development. 
+Coding, and in particular *learning to code*, can become dull if the magic is lost. We do everything we can to keep that magic alive.
 
-## A great project portfolio and Github profile are better for your job search than a certificate
+### 2. Computer science matters, degrees don't
 
-A degree from a great university helps when you're looking for work, but they're expensive and rarely *required*. Certificates from non-accredited programs usually don't help much at all.
+People are becoming more tech-literate every day, and that's a wonderful thing. Deploying a simple website doesn't require advanced programming knowledge anymore. That doesn't mean we no longer need smart engineers, *we do.* They just work on more interesting problems, and at a different scale.
 
-There's nothing more powerful than being able to show employers exactly what you're capable of by having some amazing projects uploaded to your GitHub profile.
+Mastering CS concepts like algorithms, data structures, distributed computing, and cryptography are a great way to differentiate yourself as a developer, and universities aren't the gatekeepers of that knowledge.
 
-## It's a marathon, not a sprint
+### 3. You need to build
 
-We disagree with the following common claims:
+Too many self-taught learners watch hours of YouTube videos, only to find that they don't know where to start when building their own projects.
+
+The tighter your feedback loop, the better. Our courses teach new concepts through hands-on coding exercises, then you go use those concepts in your own projects that you build from scratch.
+
+### 4. You need to deploy
+
+Sometime "deploy" means to host a web app on the internet. Sometimes it just means packaging up your project with great documentation and pushing it to GitHub.
+
+The point is, you need to *show your work*, and that work should be *interesting* if you want a better chance of landing a job.
+
+### 5. It's hard to find good resources
+
+The internet is estimated to host over 100 Zetabytes of data. That's about 100 *trillion* gigabytes of data.
+
+As developers learning to code, we don't lack raw information. Technically you can learn just about anything by reading dense Wikipedia articles.
+
+In many instances we do lack *useful information* that's packaged nicely into an exciting learning experience. That's the problem we're trying to solve.
+
+### 6. Learning to code is a depth-first algorithm
+
+So many learners jump from one shiny technology to the next, sometimes on a daily or weekly basis. The way tech news operates incentivizes this behavior, but it's *not* the best way to learn to code.
+
+Err on the side of going deep in a topic or technology that interests you. There is a time to branch out, but I rarely see learners going *too* deep.
+
+### 7. It's a marathon, not a sprint
 
 > "Learn to code and you'll land a developer job in 8 weeks"
 
 > "You need a 4-year computer science degree to become a developer"
 
-We think that if you spend an hour or two each day, it will take [about 6 to 18 months of learning](/backend/how-long-to-become-backend-dev/) before you land your first job, depending on your situation. It's important to have realistic expectations and achievable goals.
+Both of these opinions are *wrong*.
 
-## It's not hard to find coding courses online, but it is hard to find good ones
+If you spend about 10 hours each week, it should take [about 6 to 18 months](/backend/how-long-to-become-backend-dev/) to get ready for your first back-end development job, depending on your situation.
 
-If you’re willing to drudge through thousands of Wikipedia pages, scholarly articles, and blog posts, you can learn anything online today for free. We don't have 10 different "Data Structures" courses of varying quality - we have one that we dedicate all our resources to improving.
+*6-18 months is still fast.* It's like going to the gym, if you stay consistent, it's amazing how quickly you will see results.
 
-## A mix of guided and unguided learning is essential
+### 8. You should be uncomfortable
 
-There's nothing worse than spending a bunch of time learning, only to realize you don’t know how to apply what you learned to real-world problems.
+Learning to code isn't easy. If it were, everyone would be doing it, and we wouldn't be paid as much as we are to write good code.
 
-* We use courses to teach new concepts like algorithms, data structures, and functional programming
-* We mix-in real-world projects so you can use those same concepts to build real applications
+Yo learn most effectively when you're in your [zone of proximal development](https://en.wikipedia.org/wiki/Zone_of_proximal_development), the place just *outside* of your comfort zone. There are just two rules for staying in the ZOPD:
 
-## Mentors provide insights you won't get from a textbook
+1. Don't waste your time solving problems that you already know how to solve
+2. Don't waste your time solving problems that are impossible for your skill level
 
-It’s important to understand why binary trees make lookups fast, how DNS queries resolve, and what a round-robin load-balancing strategy entails. However, stories and anecdotes from mentors will help you understand how it all applies to solving real business problems.
+### 9. Get an on-site, full-time job first
 
-For example, you might learn in a course that PostgreSQL is a relational database that isn’t optimized to scale horizontally. However, from an experienced mentor, you’ll hear a real story about how their company used PostgresDB up until they had 20 million users, and that a specific issue with user notifications forced them to consider a different technology.
+*We are from the US. The advice that follows may be less applicable in other countries.*
 
-## There is something magical about learning with others
+Many developers think that landing, managing, and servicing freelancing clients is easier than passing a coding interview. That's almost always wrong.
 
-Similar to gaining insights from mentors, it's important to have peers at the same level you can learn with.
+If your situation permits, try to *get an on-site full-time job as quickly as you can*.
 
-* The motivation provided by a good group of peers is strong. You can keep each other accountable and moving forward.
-* Teaching a concept is one of the best ways to learn it deeper yourself. You will reinforce your learning on that topic in a serious way.
+* You'll be physically around other developers who can mentor you
+* You'll get to focus on coding instead of landing clients and marketing yourself
 
-## Mastery is important, grades are not
-
-Students shouldn't move from one concept to the next until they’ve shown mastery of the first. In traditional schooling, that means only A-students would move on to the next class.
-
-That strategy doesn’t work in a physical classroom because teachers are responsible for 30+ students at a time. They're forced to leave students behind so the rest of the class can move forward. With a self-paced strategy, you can move at your own pace and master each concept before moving on.
-
-## The "return on investment" of online learning is amazing
-
-Tens of thousands of professors across the world are giving the same lecture on "bubble sort" semester after semester. 
-
-With online learning, we can take *one of the best* explanations of bubble sort, and distribute it globally. We can also do it on-demand and almost for free. Paying thousands of dollars for access to well-known concepts doesn't make sense in the information age.
-
-## Be in the "zone of proximal development"
-
-* Don't waste your time-solving problems that you already know how to solve
-* Don't waste your time trying to solve problems that are nearly impossible for your skill level
-
-The [zone of proximal development](https://en.wikipedia.org/wiki/Zone_of_proximal_development) is where you should be. You should be challenged, but not lost. You'll learn best when "muddling through" hard problems that you have the tools to solve.
-
-## T-shaped developers are the most successful
-
-The vertical bar on the letter "T" represents the *depth* of your knowledge in a specific area, and the horizontal bar represents the *breadth* of your knowledge across all facets of software engineering.
-
-For example, you could build a strong vertical bar by focusing primarily on backend development in Go. At the same time, you could build a wide horizontal bar by occasionally doing projects in JavaScript, Tensorflow, functional programming, or distributed systems.
-
-## Your coding skills don't matter if you don't know how to show them off to a potential employer
-
-You can be the best developer in the world, but if you’re not able to prove yourself to potential employers you will never find a programming job. Spending time working on your portfolio and resume will make your job search possible. Practicing interviewing skills will ensure a successful job hunt.
-
-## If you don’t define your career goals, you’ll never know when you’re ready for your first job
-
-You don't ever stop "learning to code". There isn’t a magic threshold that separates the "coders" from the "non-coders". Your learning path should never truly end, but along the way, you’ll find yourself qualified for different kinds of programming jobs.
-
-If you’re looking for your first job, you'll move faster by focusing on the most important skills for your goal. If your goal is to become a backend web developer, the things you need to learn are slightly different than if you want to write mobile applications on iOS.
-
-## The best first coding job is a full-time gig
-
-Many developers foolishly think that freelancing will somehow be easier than passing coding interviews. That's usually just wrong.
-
-* When freelancing, you spend lots of time marketing your services. That is time you aren’t spending coding.
-* Working a full-time job on a team provides the most valuable thing an entry-level job can offer: mentorship from senior developers.
-
-There are exceptions to this rule, but if it works within your personal constraints and goals, look for a full-time job first.
+There are exceptions, and any paid development work is typically better than none, but hopefully this helps provide some focus.
 
 ## Let us know what you think
 
-We’re always learning and refining our ideas. If you have any thoughts on our beliefs, we’d love to hear them. The easiest ways are to get in touch on our [Discord community server](https://discord.gg/EEkFwbv) or to [tweet at us](https://twitter.com/bootdotdev).
+We’re always refining our ideas. If you have any thoughts on this stuff, tell us. The easiest ways are to join our [Discord community server](https://discord.gg/EEkFwbv) or to [tweet at us](https://twitter.com/bootdotdev).
