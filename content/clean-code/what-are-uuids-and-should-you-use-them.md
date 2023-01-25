@@ -1,16 +1,21 @@
 ---
-title: "What are UUIDs, and should you use them?"
+title: "What are UUIDs, and are they better than regular IDs?"
 author: Lane Wagner
 date: "2021-07-23"
 categories: 
   - "clean-code"
 images:
-  - /img/800/unique.webp
+  - /img/800/unique_red_dragon.png.webp
+lastmod: "2023-01-25"
 ---
 
-A universally unique identifier (UUID) is a 128-bit format for creating IDs in code that has become popular in recent years, especially concerning database keys. By using UUIDs, you ensure that your ID is not just unique in the context of a single database table or web application, but is truly unique in the universe. No other ID in existence should be the same as yours.
+In the context of back-end web development, an ID is just a unique identifier for a record of data. For example, each user on a website will its own ID. If the site is a social media platform, then each post will *also* have a unique ID.
 
-It is important to note that while the probability that a UUID will collide with another is not _zero_, it's _practically_ zero. The chances of collision are so astronomically low, worrying about it would be ridiculous. The total number of possible UUIDs is `2^128` or `340282366920938463463374607431768211456`.
+UUIDs are just a specific *kind* of ID. A universally unique identifier (UUID) is a 128-bit format for creating IDs in code that has become popular in recent years, especially when it comes to database keys. By using UUIDs, you ensure that your ID is not just unique in the context of a single database table, but is unique in the *universe*. No other ID in existence should be the same as yours.
+
+## tl;dr
+
+In short, if you don't have *extremely* strict memory and performance requirements, I'd recommend using UUIDs instead of integer IDs. It reduces the chances of future ID conflicts and makes building a distributed architecture *much* easier. On [Boot.dev](https://boot.dev), my platform for developers who want to [learn back-end engineering](/backend/become-backend-developer/), I use UUIDs as the primary key for all database records.
 
 ## Why use a UUID?
 
@@ -36,7 +41,7 @@ By using UUIDs (or another kind of universally unique ID) we can save ourselves 
 
 ## Why are UUIDs only recently gaining popularity?
 
-All I can really do is guess, but I have a couple of candidate hypotheses.
+All I can do is guess, but I have a couple of candidate hypotheses. Let's quickly go over each possible explanation.
 
 ### 1. Making a UUID is slightly more complicated than just incrementing an integer
 
@@ -70,9 +75,15 @@ Some GUIDs may contain any hex digit in any position, while RFC4122 requires spe
 
 ## UUIDS vs IDs
 
+![uuids vs ids diagram](/img/800/uuids-vs-ids.png.webp)
+
 At the end of the day, all UUIDs are IDs, but not all IDs are UUIDs. A UUID is a specific type of ID that has a format like this: `3ba0b72f-4c70-4266-a117-fe64b0498f65`. We've discussed the benefits of using UUIDs as IDs above. Other common forms of IDs include:
 
 * Integers - 0, 1, 2, 3, etc
 * Slugs - Predefined strings like `status_processing`, `status_failed`, and `status_new`
 
 In reality, anything can be used as an ID, but the best IDs are unique, small, recognizable and efficient.
+
+## A note on uniqueness
+
+It is important to note that while the probability that a UUID will collide with another is not _zero_, it's *practically* zero. The chances of collision are so astronomically low, worrying about it would be ridiculous. The total number of possible UUIDs is `2^128` or `340,282,366,920,938,463,463,374,607,431,768,211,456`.
