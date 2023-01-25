@@ -3,7 +3,10 @@ title: "About Boot.dev"
 author: Lane Wagner
 date: "2020-02-06"
 images:
-  - /img/800/our_method_banner.png.webp
+  - /img/800/bootdev-mainpic.png.webp
+imgAlts:
+  - Boot.dev fantasy journey
+lastmod: "2023-01-25"
 ---
 
 The state of education for back-end developers is fraught with difficulty, but it doesn't need to be that way. **The mission of Boot.dev is to make the process of becoming a backend engineer effective, fun, and affordable.**
