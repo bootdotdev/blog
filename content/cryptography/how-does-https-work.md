@@ -22,9 +22,9 @@ HTTPS allows a client to safely share sensitive information with a server throug
 
 ### Too long, didn't watch
 
-In short, HTTPs works like this:
+In short, HTTPS works like this:
 
-1. The client contacts server and requests a secure connection
+1. The client contacts the server and requests a secure connection
 2. The server sends the client its [public key](https://en.wikipedia.org/wiki/Public-key_cryptography)
 3. The client and the server use asymmetric encryption (like [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))) to negotiate a shared private key
 4. The shared private key is used by the client to encrypt the HTTP request (using [symmetric encryption](https://en.wikipedia.org/wiki/Symmetric-key_algorithm) like [AES](https://blog.boot.dev/cryptography/aes-256-cipher/))
@@ -40,11 +40,11 @@ HTTPS requires that the client use [SSL](https://developer.mozilla.org/en-US/doc
 
 ## When should I use HTTPs?
 
-While HTTPs is only *critically* important when it comes to sensitive data, it's a good idea to just use HTTPS for *all* of your web traffic. If you browse to a website that doesn't use HTTPs, your browser will actually give you an ugly little warning to let you know that the site is not as secure as it should be.
+While HTTPS is only *critically* important when it comes to sensitive data, it's a good idea to just use HTTPS for *all* of your web traffic. If you browse a website that doesn't use HTTPS, your browser will actually give you an ugly little warning to let you know that the site is not as secure as it should be.
 
 ![no http browser](/img/800/no-https.png.webp)
 
-*If you develop websites, use HTTPs.*
+*If you develop websites, use HTTPS.*
 
 ## Careful! HTTPS is not necessarily private
 
@@ -54,9 +54,9 @@ Just because a website uses HTTPS doesn't mean that your communication with them
 
 It's important to note that while HTTPS encrypts *what you are saying*, it doesn't necessarily protect *who you are*. Tools like [VPNs (virtual private networks)](https://nordvpn.com/what-is-a-vpn/) are needed for remaining anonymous online.
 
-If you use a VPN, the company that runs the VPN is responsible for keeping your identity private. There is another option for privacy called a [TOR](https://www.torproject.org/) network, which is a network of computers that are all connected to each other. The TOR network, which you you can use via a Tor browser, is designed to keep your identity *anonymous*, but it effectively adds another layer of privacy. You can use a VPN *and* a Tor browser if you're really concerned about your privacy.
+If you use a VPN, the company that runs the VPN is responsible for keeping your identity private. There is another option for privacy called a [TOR](https://www.torproject.org/) network, which is a network of computers that are all connected. The TOR network, which you can use via a Tor browser, is designed to keep your identity *anonymous*, but it effectively adds another layer of privacy. You can use a VPN *and* a Tor browser if you're really concerned about your privacy.
 
-In short, HTTPs keeps your messages private, but not your identity or the identity of the server you're communicating with. VPNs and TOR networks can help with that.
+In short, HTTPS keeps your messages private, but not your identity or the identity of the server you're communicating with. VPNs and TOR networks can help with that.
 
 ### HTTPS ensures that you're talking to the right person (or server)
 
