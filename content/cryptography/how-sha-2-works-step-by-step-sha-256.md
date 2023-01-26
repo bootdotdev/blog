@@ -45,7 +45,7 @@ SHA-2 is a strong family of hash functions because, as you would expect, it serv
 
 ## My Explanation of Some Real-World Uses for SHA
 
-{{< youtube PbFVTb7Pndc >}}
+{{< bdyoutube PbFVTb7Pndc >}}
 
 ## What is SHA-256 used for?
 

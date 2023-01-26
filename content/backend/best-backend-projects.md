@@ -77,7 +77,7 @@ As a backend developer, you need to know:
 
 You should be familiar not just with server-side, but the client/server model. That’s what this project will teach you. I recommend building it from scratch without too much help by following the guided tutorial linked above. That said, here's a video walkthrough if you need it.
 
-{{< youtube C0pXaNchNTA >}}
+{{< bdyoutube C0pXaNchNTA >}}
 
 I also recommend [this project](https://www.youtube.com/watch?v=91Q6RvKvd7o), which will teach you to make a gorgeous landing page using HTML, CSS, and Javascript. The skills you pick up are useful, but you can share your homemade landing page with employers to impress them with your awesome web skills.
 

@@ -1,0 +1,21 @@
+{{- $pc := .Page.Site.Config.Privacy.YouTube -}}
+{{- if not $pc.Disable -}}
+{{- $ytHost := cond $pc.PrivacyEnhanced "www.youtube-nocookie.com" "www.youtube.com" -}}
+{{- $id := .Get "id" | default (.Get 0) -}}
+{{- $class := .Get "class" | default (.Get 1) -}}
+{{- $title := .Get "title" | default "YouTube Video" }}
+<div {{ with $class }}class="{{ . }}" {{ else
+  }}style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;" {{ end }}>
+  <iframe src="https://{{ $ytHost }}/embed/{{ $id }}{{ with .Get " autoplay" }}{{ if eq . "true" }}?autoplay=1{{ end
+    }}{{ end }}" {{ if not $class }}style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" {{
+    end }}allowfullscreen title="{{ $title }}"></iframe>
+</div>
+
+<div class="flex justify-center flex-col items-center m-4">
+  <p class="text-sm text-gray-400">Subscribe to my YouTube channel if this video was helpful!</p>
+  <a href="https://www.youtube.com/@bootdotdev?sub_confirmation=1" target="_blank"
+    class="p-4 rounded text-white hover:text-white no-underline bg-blue-500 hover:bg-blue-400">
+    <button>Subscribe on YouTube</button>
+  </a>
+</div>
+{{ end -}}

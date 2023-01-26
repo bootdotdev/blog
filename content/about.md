@@ -15,6 +15,11 @@ Universities are slow, bootcamps are expensive, and e-learning platforms are bui
 
 I built [Boot.dev](https://boot.dev) for my wife Breanna who wanted to transition from x-ray to back-end development. The trouble is, we couldn't find any e-learning platforms that impressed me as a hiring manager. I decided to build a curriculum tailored to back-end developers who aren't afraid of an in-depth education. My wife was my first student and loves the courses, so I hope you do too.
 
+## Socials
+
+* Follow us on [Twitter](https://twitter.com/intent/follow?screen_name=bootdotdev)
+* Subscribe to our [YouTube channel](https://www.youtube.com/@bootdotdev?sub_confirmation=1)
+
 ## Our Beliefs
 
 We have some opinions about how you should learn to code.

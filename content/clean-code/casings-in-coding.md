@@ -23,7 +23,7 @@ Snake case and camel case are probably the most popular styles, so let's cover t
 
 *If you'd rather watch than read, then here's the video version of this article.*
 
-{{< youtube u9ue_Oj-rVg >}}
+{{< bdyoutube u9ue_Oj-rVg >}}
 
 ## Snake Case
 
