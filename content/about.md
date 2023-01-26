@@ -9,11 +9,11 @@ imgAlts:
 lastmod: "2023-01-25"
 ---
 
-Universities are slow, bootcamps are expensive, and e-learning platforms are built for front-end learners.
+Universities are slow, boot camps are expensive, and e-learning platforms are built for front-end learners.
 
 **We make it fun and affordable for you to become a modern back-end engineer.**
 
-I built [Boot.dev](https://boot.dev) for my wife Breanna who wanted to transition from x-ray to back-end development. The trouble is, we couldn't find any e-learning platforms that impressed me as a hiring manager. I decided to build a curriculum tailored to back-end developers who aren't afraid of an in-depth education. My wife was my first student and loves the courses, so I hope you do too.
+I built [Boot.dev](https://boot.dev) for my wife Breanna who wanted to transition from x-ray to back-end development. The trouble is, we couldn't find any e-learning platforms that impressed me as a hiring manager. I decided to build a curriculum tailored to back-end developers who aren't afraid of in-depth education. My wife was my first student and loves the courses, so I hope you do too.
 
 ## Socials
 
@@ -48,7 +48,7 @@ Coding, and in particular *learning to code*, can become dull if the magic is lo
 
 People are becoming more tech-literate every day, and that's a wonderful thing. Deploying a simple website doesn't require advanced programming knowledge anymore. That doesn't mean we no longer need smart engineers, *we do.* They just work on more interesting problems, and at a different scale.
 
-Mastering CS concepts like algorithms, data structures, distributed computing, and cryptography are a great way to differentiate yourself as a developer, and universities aren't the gatekeepers of that knowledge.
+Mastering CS concepts like algorithms, data structures, distributed computing, and cryptography is a great way to differentiate yourself as a developer, and universities aren't the gatekeepers of that knowledge.
 
 ### 3. You need to build
 
@@ -64,17 +64,17 @@ The point is, you need to *show your work*, and that work should be *interesting
 
 ### 5. It's hard to find good resources
 
-The internet is estimated to host over 100 Zetabytes of data. That's about 100 *trillion* gigabytes of data.
+The internet is estimated to host over 100 Zettabytes of data. That's about 100 *trillion* gigabytes of data.
 
 As developers learning to code, we don't lack raw information. Technically you can learn just about anything by reading dense Wikipedia articles.
 
-In many instances we do lack *useful information* that's packaged nicely into an exciting learning experience. That's the problem we're trying to solve.
+In many instances, we do lack *useful information* that's packaged nicely into an exciting learning experience. That's the problem we're trying to solve.
 
 ### 6. Learning to code is a depth-first algorithm
 
 So many learners jump from one shiny technology to the next, sometimes on a daily or weekly basis. The way tech news operates incentivizes this behavior, but it's *not* the best way to learn to code.
 
-Err on the side of going deep in a topic or technology that interests you. There is a time to branch out, but I rarely see learners going *too* deep.
+Err on the side of going deep into a topic or technology that interests you. There is a time to branch out, but I rarely see learners going *too* deep.
 
 ### 7. It's a marathon, not a sprint
 
@@ -94,8 +94,8 @@ Learning to code isn't easy. If it were, everyone would be doing it, and we woul
 
 You learn most effectively when you're in your [zone of proximal development](https://en.wikipedia.org/wiki/Zone_of_proximal_development), the place just *outside* of your comfort zone. There are just two rules for staying in the ZOPD:
 
-1. Don't waste your time solving problems that you already know how to solve
-2. Don't waste your time solving problems that are impossible for your skill level
+1. Don't waste your time-solving problems that you already know how to solve
+2. Don't waste your time-solving problems that are impossible for your skill level
 
 ### 9. Get an on-site, full-time job first
 
@@ -108,7 +108,7 @@ If your situation permits, try to *get an on-site full-time job as quickly as yo
 * You'll be physically around other developers who can mentor you
 * You'll get to focus on coding instead of landing clients and marketing yourself
 
-There are exceptions, and any paid development work is typically better than none, but hopefully this helps provide some focus.
+There are exceptions, and any paid development work is typically better than none, but hopefully, this helps provide some focus.
 
 ## Let us know what you think
 
