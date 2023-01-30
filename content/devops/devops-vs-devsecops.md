@@ -70,6 +70,8 @@ That was a long old section. This one will be a little shorter. And to make it h
 
 ### Skills
 
+<div class="tablewrap">
+
 | DevOps                                             | DevSecOps                                          |
 | -------------------------------------------------- | -------------------------------------------------- |
 | Automation tools (Ansible, Chef, Puppet)           | Security automation and security testing tools     |
@@ -83,6 +85,8 @@ That was a long old section. This one will be a little shorter. And to make it h
 | Problem-solving, analytical thinking               | Problem-solving, analytical thinking               |
 | *                                                  | Compliance regulations and industry standards      |
 | *                                                  | Network and web application security concepts      |
+
+</div>
 
 ### Background
 
@@ -145,6 +149,8 @@ Now we’re onto the money. In previous articles, I’ve found it useful to brea
 
 Let’s take a look at the top five cities for DevOps engineers, according to [Indeed’s listings](https://www.indeed.com/career/development-operations-engineer/salaries?salaryType=YEARLY&from=careers_serp).
 
+<div class="tablewrap">
+
 | City          | Monthly salary | Monthly salary after taxes | Average 1Br rent | Monthly cost of living | Take-home monthly pay |
 | ------------- | -------------- | -------------------------- | ---------------- | ---------------------- | --------------------- |
 | San Francisco | 12,169.50      | 7,747                      | 2,995            | 1,369.40               | 3,382.60              |
@@ -152,6 +158,8 @@ Let’s take a look at the top five cities for DevOps engineers, according to [I
 | Houston, TX   | 11,159.75      | 8,141                      | 1,303            | 962.50                 | 5,875.50              |
 | New York, NY  | 11,113.83      | 7,092                      | 3,680            | 1,437.10               | 1,974.90              |
 | Dallas, TX    | 10,566.83      | 7,736                      | 1,450            | 1,103.90               | 5,182.10              |
+
+</div>
 
 And here’s what that looks like when you put these numbers in a nice chart:
 
@@ -164,9 +172,7 @@ It’s a little harder to look at DevSecOps jobs because they’re not as common
 However, we can look at a few job listings for DevSecOps engineers and DevOps engineers at the same company, to see how the salaries compare.
 
 * You can get a [Sr. DevSecOps job](https://www.indeed.com/cmp/Career-Movement/jobs?jk=a9cf3737660f6afe&start=0) in Columbus, Ohio at a company called Career Movement, earning a salary of $150k to $200k. The same company [would hire](https://www.indeed.com/cmp/Career-Movement/salaries/Development-Operations-Engineer) a DevOps engineer at a salary of $133k.
-
 * Capgemini [is hiring](https://www.indeed.com/jobs?q=devsecops&l=&from=searchOnHP&vjk=e5ad8d106fc003f1) a DevSecOps engineer for an estimated $113k-$143k a year, located remotely. The [same company hires](https://www.indeed.com/cmp/Capgemini/salaries/DevOps-Architect) DevOps engineers at a median salary of $137k
-
 * Nexient [is hiring](https://www.indeed.com/jobs?q=devsecops&l=&from=searchOnHP&vjk=e5ad8d106fc003f1) a DevSecOps Manager for an estimated $114k-$145k per year remotely. Its [DevOps salary](https://www.indeed.com/cmp/Nexient-2/salaries/Development-Operations-Engineer) is quite low, just $93k.
 
 It seems like *most* companies who are hiring or have hired DevOps engineers or architects in the past are hiring DevSecOps engineers at a higher rate. This makes sense since it seems like the roles aren’t doing different things.
