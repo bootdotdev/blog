@@ -90,19 +90,27 @@ That was a long old section. This one will be a little shorter. And to make it h
 
 ### Background
 
+<div class="tablewrap">
+
 | DevOps                | DevSecOps             |
 | --------------------- | --------------------- |
 | Software engineering  | Software engineering  |
 | System administration | System administration |
 | IT Operations         | Cyber Security        |
 
+</div>
+
 ### Education
+
+<div class="tablewrap">
 
 | DevOps                                     | DevSecOps                                     |
 | ------------------------------------------ | --------------------------------------------- |
 | BA in CS, software engineering, or related | BA in Computer Science, InfoSec, or related   |
 | Or equivalent work experience              | OR qquivalent work experience                 |
 | Applicable certifications                  | Applicable certificates like CISSP, CEH, GSEC |
+
+</div>
 
 What sort of background do you need to be able to handle all those important responsibilities? What degree do employers require? What skills and knowledge matter most?
 
@@ -193,11 +201,15 @@ In short, both roles are expected to grow in the future, but demand for DevSecOp
 
 Let’s take a more granular look by checking out the number of job openings for both DevOps and DevSecOps engineers across three of the most popular hiring platforms: LinkedIn, Indeed, and Glassdoor.
 
+<div class="tablewrap">
+
 | Platform  | DevOps                       | DevSecOps                    |
 | --------- | ---------------------------- | ---------------------------- |
 | LinkedIn  | 164k job openings available  | 14k job openings available   |
 | Indeed    | 8,642 job openings available | 8,644 job openings available |
 | Glassdoor | 4,335 job openings available | 4,318 job openings available |
+
+</div>
 
 These are accurate as I write this article.
 

@@ -117,12 +117,15 @@ That’s a lot of buzzwords, so let’s break it down by skills, background, and
 
 ### Background
 
+<div class="tablewrap">
+
 | DevOps                | SREs                   |
 | --------------------- | ---------------------- |
 | Software engineering  | Software engineering   |
 | System administration | System administration  |
 | IT Operations         | Network administration |
 
+</div>
 
 ### Education
 
@@ -186,11 +189,15 @@ There’s an extremely high demand for both DevOps and SRE professionals in vari
 
 Let’s use another chart to compare the numbers:
 
+<div class="tablewrap">
+
 | Platform  | DevOps                       | DevSecOps                    |
 | --------- | ---------------------------- | ---------------------------- |
 | LinkedIn  | 175k job openings available  | 65k job openings available   |
 | Indeed    | 8,355 job openings available | 4,605 job openings available |
 | Glassdoor | 4,298 job openings available | 1,704 job openings available |
+
+</div>
 
 These are accurate as I write this article.
 

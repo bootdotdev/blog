@@ -150,6 +150,8 @@ Here’s the salary data for DevOps engineers in the top five cities:
 
 ![dev ops salary](/img/800/devopssalary.png.webp)
 
+<div class="tablewrap">
+
 | City          | Median salary | Monthly salary | Monthly cost of living | Average 1Br rent | Monthly salary after taxes | Take-home monthly pay |
 | ------------- | ------------- | -------------- | ---------------------- | ---------------- | -------------------------- | --------------------- |
 | San Francisco | 146034        | 12,169.50      | 1,369.40               | 2,995            | 7,747                      | 3,382.60              |
@@ -159,11 +161,15 @@ Here’s the salary data for DevOps engineers in the top five cities:
 | Dallas, TX    | 126802        | 10,566.83      | 1,103.90               | 1,450            | 7,736                      | 5,182.10              |
 | Source:       | Indeed        | Numbeo         | Zumper                 | SmartAsset       |
 
+</div>
+
 As you can see, while San Francisco is the highest paid, Houston delivers the highest take-home pay thanks to a low cost of living and rent burden.
 
 Let’s have a look at cloud engineer salary data:
 
 ![dev ops salary](/img/800/cloudengsalary.png.webp)
+
+<div class="tablewrap">
 
 | City           | Median salary | Monthly salary | Monthly cost of living | Average 1Br rent | Monthly salary after taxes | Take-home pay |
 | -------------- | ------------- | -------------- | ---------------------- | ---------------- | -------------------------- | ------------- |
@@ -173,6 +179,8 @@ Let’s have a look at cloud engineer salary data:
 | Austin, TX     | 128532        | 10,711.00      | 1,050.40               | 1,667            | 7,835                      | 5,117.60      |
 | Atlanta, GA    | 125676        | 10,473.00      | 1,067.70               | 1,692            | 7,123                      | 4,363.30      |
 | Source:        | Indeed        | Numbeo         | Zumper                 | SmartAsset       |
+
+</div>
 
 *I found this data on [Indeed](https://www.indeed.com/career/cloud-engineer/salaries), [Numbeo](https://www.numbeo.com/cost-of-living/), [Zumper](https://www.zumper.com/rent-research), and [SmartAsset](https://smartasset.com/taxes/).*
 
