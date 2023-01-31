@@ -48,6 +48,8 @@ This doesn't directly impact the Boot.dev platform, but we've started migrating 
 * We want to do a major upgrade of the "Learn Functional Programming" and the "Learn Cryptography" courses.
 * We plan to add a few more key data structures (Tries and Heaps) to the "Learn Data Structures" course.
 
+{{< cta1 >}}
+
 ## Top Picks for December
 
 ### [(Video series) Git must know commands](https://www.youtube.com/playlist?list=PL4lTrYcDuAfxAgSefXftJXbhw0qvjfOFo)

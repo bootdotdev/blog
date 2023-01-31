@@ -83,6 +83,8 @@ Digital signatures are a way to prove that a message was sent by a particular pa
 
 Key derivation functions are how we derive keys from passwords or other keys securely
 
+{{< cta1 >}}
+
 ## What's inside?
 
 You'll find text and image explanations of all the concepts, as well as video explanations of some of the more visually demanding lessons. You'll be writing real code in Go in most of the exercises, and the platform will instantly check your code and provide feedback. You'll only like the course if you enjoy an engaging hands-on experience.

@@ -165,6 +165,8 @@ Of course, Microsoft itself uses MSSQL, but other notable companies like Accentu
 
 Udemy’s [course](https://www.udemy.com/course/ms-sql-server-learn-ms-sql-server-from-scratch/) is relatively affordable ($85) and comprehensive for beginners.
 
+{{< cta1 >}}
+
 ## Top five back-end NoSQL databases
 
 What is a NoSQL database? It’s a non-tabular database that uses different data models for storing, managing, and accessing data. It can be document-oriented, key-value, graph, wide-column, or something else.
@@ -320,6 +322,8 @@ It’s used by Cigna, Amtrak, Tableau and [others](https://discovery.hgdata.com/
 #### Where can I learn SQS?
 
 Amazon’s [own](https://aws.amazon.com/sqs/getting-started/) learning portal is the best place to learn SQS.
+
+{{< cta2 >}}
 
 ## Top five bonus back-end technologies
 

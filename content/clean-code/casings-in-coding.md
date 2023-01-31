@@ -42,6 +42,8 @@ Camel case, on the other hand, uses no separators between words but capitalizes 
 * Java
 * C#
 
+{{< cta1 >}}
+
 ## Which is the best casing style for code?
 
 So which convention should you use? The answer ultimately depends on your personal preference and the conventions used by your team or the language you're working with. However, some general guidelines can help you make a decision.

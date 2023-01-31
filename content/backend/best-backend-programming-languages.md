@@ -65,6 +65,8 @@ This huge amount of use is thanks to Python’s super simple syntax and limited 
 
 Meanwhile, Python is even more popular still. Coding Dojo reports that 20/25 unicorns they surveyed use Python, including Airbnb, SpaceX, and Stripe.
 
+{{< cta1 >}}
+
 ## Most used: JavaScript
 
 ![javascript logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt9dA-x2HYNluTuiYhyelCxYyAFyuXi1uKnQ&usqp=CAU)
@@ -94,6 +96,8 @@ It’s worth mentioning that it’s not one of the most-used languages – just 
 ### Who’s hiring for Rust?
 
 Meta has been [using Rust since 2016](https://www.zdnet.com/article/the-rust-programming-language-just-got-a-big-boost-from-meta/) for source control, while AWS uses it to write highly performant, safe infrastructure-level networking and other systems software. Other notable companies include Discord, Mozilla, and Brave. You can check out a more comprehensive list [here](https://github.com/omarabid/rust-companies).
+
+{{< cta2 >}}
 
 ## Legacy: Java
 
@@ -140,6 +144,8 @@ But it’s the best-paying non-niche language to learn for backend development.
 ### Who’s hiring for Ruby?
 
 [So many](https://distantjob.com/blog/ruby-on-rails-companies/#:~:text=Companies%20like%20SlideShare%2C%20Airbnb%2C%20CrunchBase,on%20Rails%20companies%20in%202022.) companies. Crunchbase used Ruby on Rails to develop the entire backend. Twitter’s backend was originally written in Ruby. Though it was migrated to Scala, the legacy architecture is still on Ruby. Etsy relies on Ruby on Rails to maintain a robust database.
+
+{{< cta3 >}}
 
 ## Honorable mention: SQL
 

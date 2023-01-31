@@ -68,6 +68,8 @@ You’ll be expected to:
 
 It’s worth mentioning that in the near future, [backend and DevOps roles](/devops/backend-devops-roles-merging/) may be combined into a single "everything the user doesn’t see" monolithic job title. In that case, the best advice is just to [start writing more code](/devops/devops-engineers-should-code/). As more of the boring IT responsibilities get automated, and as code-as-infrastructure gets more popular, coding will be a necessary skill to be a DevOps engineer.
 
+{{< cta1 >}}
+
 ## How much does a DevOps Engineer earn? 
 
 I gave away the short answer above, but of course, there’s a lot more that goes into it than just a number.

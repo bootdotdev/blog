@@ -39,6 +39,8 @@ I love Scrimba. When students are looking for React content and land on [Boot.de
 
 Not only does Scrimba have an innovative way of interactively learning front-end technologies through editable videos, but they're also constantly putting out amazing free content. For example, you can check out their article here on [how to become a web developer in 6 months](https://scrimba.com/articles/become-web-developer-in-6-months/).
 
+{{< cta1 >}}
+
 ## Datacamp: Go Deeper into Data Science
 
 Codecademy has a solid Data Science Career Path track. But it just has one. As you may imagine, it’s close to impossible to stick all of Data Science Career knowledge into a single course. While it does delve into a wide range of tools, languages, and concepts, that breadth makes it tough to feel like you’ve got a good grounding in what you need from a course that allegedly is going to give you career knowledge.
@@ -46,8 +48,6 @@ Codecademy has a solid Data Science Career Path track. But it just has one. As y
 Datacamp is the Codeacaemy alternative I recommend if you want a little more flexibility in the (extremely broad) field of data science. Datacamp offers multiple career paths, which makes sense since data scientists are not a conglomerate. Each track will discuss a single language and a smaller selection of concepts and tools than the Codeacademy one. However, if you do all the Datacamp courses, you’ve got a better grounding in data science than if you do the single Codecademy one. Even if you don’t, you still have more flexibility to choose the area of data science that appeals most to you.
 
 Price comparison: The two are comparable. For Datacamp’s pro version, you’ll pay $39.99 per month, or $12.42 per month if you get billed annually.
-
-{{< cta1 >}}
 
 ## Code.org: Don’t Pay
 
@@ -59,6 +59,8 @@ The main problem is that it’s aimed at literal children. But honestly, when I 
 
 Price comparison: free.
 
+{{< cta2 >}}
+
 ## freeCodeCamp: Learn Web Development
 
 freeCodeCamp has a very relatable origin story. Back in 2014, a teacher named Quincy Larson wanted to learn to code so he’d be able to make better learning tools for his students. His journey was so circuitous and painful that he was inspired to create freeCodeCamp as a way to save anyone else from having to do the same thing as him.
@@ -68,8 +70,6 @@ Compared to Codecademy, FreeCodeCamp is like an older (and free) sister in the w
 The only downside is that it’s heavily based on web development.
 
 Price comparison: again, free. It’s in the name.
-
-{{< cta2 >}}
 
 ## Coursera: Get High-Quality Video Tutorials
 
@@ -91,6 +91,8 @@ Even though it’s primarily video tutorials, they offer workbooks and projects 
 
 Price comparison: $39.99 monthly, or $23/month when billed annually.
 
+{{< cta3 >}}
+
 ## edX: Guided Learning
 
 Remember how I was saying that before platforms like Codecademy got their start, your only options were degrees or DIY-ing it? edX is a throwback to that era but in a good way. Harvard and MIT worked together to build this MOOC that is like an online degree, basically, but very affordable and flexible.
@@ -102,8 +104,6 @@ All in all, it’s quite similar to Coursera, but with more hands-on learning. I
 Because it’s so highly respected, you can also get a certificate that is accepted at plenty of universities. So it’s like a degree-lite - it costs between $50 and $300 to get a certificate upon completing a course.
 
 Price comparison: the vast majority of edX courses are free, but you do have to pay a one-time fee to take the certified version.
-
-{{< cta3 >}}
 
 ## DIY: DIYers Only
 

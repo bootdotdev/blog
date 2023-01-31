@@ -67,6 +67,8 @@ Finally, another motivating factor in using a BaaS is a lack of expertise. If yo
 
 Using another company's products is never free. At a small scale, it's almost always cheaper to buy than build, but at a certain level of scale, control of your own code helps save on costs. [Paying software engineers 6+ figures](/jobs/how-much-do-software-engineers-make/) to build simple apps may not be economical, but Netflix will gladly pay high engineering salaries because small tweaks to their codebase can save millions of dollars in computing costs.
 
+{{< cta1 >}}
+
 ## Are backends-as-a-service the future?
 
 Is BaaS the future? For certain types of companies, yes! For others, probably not. While BaaS solves a lot of headaches for traditional backend users, particularly for non-tech people or organizations looking to prototype something, it will be difficult for BaaS to overtake the tech market unless the BaaS providers reach a level of customization that is yet to be seen.

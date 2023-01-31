@@ -182,6 +182,8 @@ Nope. You should know how to deploy simple back-end applications, but diving too
 
 That said, I do think [DevOps and back-end roles are getting more and more similar](/devops/backend-devops-roles-merging/) with the rising popularity of BAAS and PAAS in cloud computing. Get familiar with the basics, but don't spend too much time worrying about it, unless a specific role you're applying for requires it.
 
+{{< cta2 >}}
+
 ## Further learning
 
 Most importantly, *do not stop learning and building*!!! I've seen so many developers think that they've successfully "learned to code", and they shift gears entirely to their job search. Look, it only takes an hour or so each day to submit a bunch of job applications. You should be spending the rest of your free time continuing to build. The more you learn and build, the easier the job search gets.
@@ -207,8 +209,6 @@ Most importantly, *do not stop learning and building*!!! I've seen so many devel
 * Distributed systems
 
 Here's a more comprehensive list of some of the [best back-end technologies](/backend/top-backend-technologies/) for you to learn this year.
-
-{{< cta2 >}}
 
 ### My favorite backend programming languages
 

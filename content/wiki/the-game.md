@@ -43,6 +43,8 @@ You can earn XP in a variety of ways, but the most common way is to pass off cod
 
 Keep in mind these are *totals*, so going from level 2 to level 3 only requires 480 XP.
 
+{{< cta1 >}}
+
 ## Leaderboard
 
 There are several sections on the [leaderboard](https://boot.dev/leaderboard), and each works a little differently. You'll gain a spot on the public leaderboard by being one of the top students in a given category for a specific timeframe.
@@ -67,6 +69,8 @@ Gems can be spent on two things:
 
 When you lose your sharpshooter progress by getting an answer wrong, the sharpshooter icon in the course navigation bar will turn red. If you have enough gems to do so (3), you'll be able to click on that red icon to recover your progress.
 
+{{< cta2 >}}
+
 ## XP Boosts
 
 XP boosts are purchased with gems, and they give you a temporary multiplier for any XP that you earn. For example, you may get +25% XP for all assignments completed within the hour that a boost is active.
@@ -84,6 +88,8 @@ You may only have a single quest active at any given time. You can select a ques
 ![achievements banner](/img/800/achievmentsbanner.png.webp)
 
 The primary purpose of achievements is to award you with bonus XP, but when you earn achievements you'll also unlock the associated badge on your portfolio page. There are many different ways in which achievements can be earned, each achievement is different. You can read about the available achievements on the [achievements page](https://boot.dev/achievements).
+
+{{< cta3 >}}
 
 ## Karma
 

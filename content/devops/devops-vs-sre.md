@@ -83,6 +83,8 @@ It’s worth pointing out that there’s enough overlap between these two roles 
 
 Source: [Labviva’s careers page](https://web.archive.org/web/20230126143208/https://app.trinethire.com/companies/35521-labviva-inc/jobs/72374-senior-engineer-devops)
 
+{{< cta1 >}}
+
 ## Skills, background, and education
 
 What skills, background, and education do you need to get a job as either a DevOps engineer or an SRE?
@@ -208,6 +210,8 @@ If you have the background and skills to be an SRE, you’d likely be able to ap
 If you’re looking to angle into the SRE role and you’re currently in the DevOps realm, I’d recommend taking on additional responsibilities in your current role. Volunteer to take on some incident response and management duties. Learn a bit about how the current team makes sure code in production is stable and hardened.
 
 Your current employer will likely be grateful, and you can use those newfound skills to transition into an SRE role either there or elsewhere.
+
+{{< cta2 >}}
 
 ## Salaries
 

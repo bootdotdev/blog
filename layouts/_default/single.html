@@ -2,11 +2,14 @@
 
 {{ $isBlog := and (.Params.categories) (not (in .Params.categories "wiki")) }}
 
-<div>
+<div class="flex flex-row">
 
-    <div class="flex flex-col lg:flex-row w-full lg:justify-evenly lg:items-start">
+    {{ if $isBlog }}
+    {{ partial "laneside.html" . }}
+    {{ end }}
 
-        <div class="max-w-3xl p-4">
+    <div class="flex-1 h-full-minus-bar overflow-y-auto bg-gray-750 items-center w-full">
+        <div class="max-w-3xl p-4 m-auto">
             <div class="mb-8">
 
                 {{ partial "breadcrumb" . }}
@@ -59,9 +62,9 @@
                 {{ if $isBlog }}
                 {{ partial "related.html" . }}
                 {{ end }}
+
+                {{ partial "footer.html" . }}
             </div>
         </div>
     </div>
 </div>
-
-{{ partial "footer.html" . }}

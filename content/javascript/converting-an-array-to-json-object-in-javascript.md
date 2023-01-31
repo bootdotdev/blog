@@ -69,8 +69,6 @@ const jsonString = JSON.stringify(Object.assign({}, array))
 // {"0":"apple","1":"orange","2":"banana"} 
 ```
 
-{{< cta1 >}}
-
 ## Convert each item in an array into JSON
 
 If for some insane reason you need to stringify all the items in an array, but not the array as a whole, the [.map()](/javascript/javascript-map-function/) function is useful.
@@ -82,6 +80,8 @@ const jsonStrings = arr.map(item => JSON.stringify(item))
 
 const backToNumbers = jsonStrings.map((s) => JSON.parse(s))
 ```
+
+{{< cta1 >}}
 
 ## When dealing with an API, should you use objects or arrays?
 

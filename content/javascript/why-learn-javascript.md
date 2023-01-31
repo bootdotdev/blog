@@ -89,6 +89,8 @@ As [Alex from Scrimba says](https://scrimba.com/articles/can-junior-web-dev-work
 
 I wholeheartedly agree with Alex. You *can* work remote, but my advice for new developers is to try to work full-time with a team in-person. If you do, you'll find yourself learning more and getting more mentorship than you would otherwise. You can always go remote later!
 
+{{< cta3 >}}
+
 ## Why Learn JavaScript? Final Thoughts
 
 This language is more than a synonym for CoffeeHandwriting - it’s the perfect programming language for beginners to use immediately in their career, as well as providing a perfect jumping-off point for any future developments. It’s totally future-proof, since nearly all of the web relies on it. Why learn JavaScript? To summarize the reasons I’ve listed above, the reasons why you should learn JavaScript are:

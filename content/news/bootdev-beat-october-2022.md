@@ -56,6 +56,8 @@ At the bottom-left of each exercise on Boot.dev there is a "report issue" tab. W
 > 
 > -- Theo Beers
 
+{{< cta1 >}}
+
 ## Join us in the Boot.dev Community Discord
 
 Theo, myself, and hundreds of other learners are active in the [Boot.dev community Discord](https://boot.dev/community). Join our programming discussions, ask for help when you get stuck, and improve your understanding by explaining what you know to help out others!
@@ -77,6 +79,8 @@ by Max Bernstein
 ### [(Article) Makefiles to improve your life](/stories/makefiles-to-improve-your-life/)
 
 by Casper Andersson
+
+{{< cta2 >}}
 
 ## Top plugs
 

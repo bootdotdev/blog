@@ -67,6 +67,8 @@ It's an open-source project, so feel free to play the game or contribute and add
 * The next course we release will probably be "Learn Kubernetes".
 * We want to do a major upgrade of the "Learn Functional Programming" and the "Learn Cryptography" courses.
 
+{{< cta1 >}}
+
 ## Top picks from the interwebs
 
 ### [(Video) How to Get Started with Open Source | A Beginner-Friendly Guide](https://www.youtube.com/watch?v=MkaIrwOlP6Y)

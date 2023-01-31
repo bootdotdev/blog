@@ -51,6 +51,8 @@ In short, let go (pun intended) of those dreams and use Go in a context where it
 >
 > [Mike Schinkel, Golangbridge forum](https://forum.golangbridge.org/t/using-golang-as-front-end-framework/27226/7)
 
+{{< cta1 >}}
+
 ## What has Go been used for?
 
 Go is *primarily* a backend language, and has been used to build components in:
@@ -80,6 +82,8 @@ But honestly? The best answer might just be *none*. In most cases, you probably 
 Go markets itself as a simple, fast, powerful language. Go frameworks often just gild the lily. They promise shiny tools that offer out-of-the-box, batteries-included functionality. Interestingly enough, Go doesn’t need most of that functionality.
 
 Frameworks are *super* helpful in many contexts. However, if you're just building simple CRUD apps in Go, you probably don't need one. Go's standard library is so inundated with web tooling that it's already kind of like a web framework. Using a go web framework on top of that means you might be less effective and commit yourself to design decisions that you might not need to make yet.
+
+{{< cta2 >}}
 
 ## But I thought we *always* use frameworks!?!
 

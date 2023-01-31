@@ -40,6 +40,8 @@ Yes, they are. [Layoffs.fyi](https://layoffs.fyi/) has some great data on this. 
 
 ![layoffs from layoffs.fyi](/img/800/layoffs_in_tech.png.webp)
 
+{{< cta1 >}}
+
 ## So tech is in a rough spot, what should I do?
 
 *Nothing that follows is financial or professional advice, blah blah blah*.
@@ -101,6 +103,8 @@ SAAS companies are a new beast, and accounting terms get a little funny. In a ph
 In SAAS, however, COGS is a little weird. Your hosting and external SAAS integrations are your only *true* "cost of goods sold". If you're paying for your servers and the tools that make your product run, then you're able to service your customers. That said, your engineers are the next closest thing. When something happens to the servers, if you don't have engineers that can fix it, then you'll start losing customers right and left.
 
 I suspect that many companies go through a similar cycle when they need to tighten their belts. Engineering is a great department to be in when things get tough because "cost of goods sold" is non-negotiable.
+
+{{< cta2 >}}
 
 ## How do I know if I'm going to be laid off?
 

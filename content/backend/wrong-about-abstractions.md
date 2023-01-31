@@ -48,6 +48,8 @@ Contrast this approach with my own experience. Without understanding the differe
 
 If you learn to code you've won. There is no "wrong way" to learn. If you didn't take the approach I'm suggesting (I didn't) that doesn't mean you're not a real engineerᵗᵐ. If it worked for you, that's fantastic, I've just found that this approach speeds up the process for *a lot* of people.
 
+{{< cta1 >}}
+
 ## Some people need more practical knowledge, some need more theory
 
 One of the [reasons I decided to start Boot.dev](https://blog.boot.dev/about/) was that I saw two prevailing approaches for learning back-end development:

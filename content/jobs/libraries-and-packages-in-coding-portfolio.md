@@ -42,6 +42,8 @@ A portfolio project is just a project that you feel comfortable sharing with pot
 
 I'd also recommend getting your [GitHub or GitLab profile in order](/jobs/build-github-profile/), after all, it's where your portfolio lives. It's okay to have more than just your 2-3 portfolio projects set as "public" on your GitHub, but you probably only want to pin your best work.
 
+{{< cta1 >}}
+
 ## Okay, what's so why should I create a library for my portfolio?
 
 1. Designing a good library shows a deep understanding of software engineering and architecture

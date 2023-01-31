@@ -187,6 +187,8 @@ JavaScript is an amazing language to learn, whether you're a beginner programmer
 
 These great JavaScript practice projects can all be tricky to do. I'm not going to pretend they're simple, but that's what makes them so great. When you complete this project, you'll have built something you're proud of. There's no better feeling in the world.
 
+{{< cta2 >}}
+
 ## Other resources
 
 **For beginners**: we recommend our [Learn Python](https://boot.dev/learn/learn-python) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.

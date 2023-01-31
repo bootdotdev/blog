@@ -38,6 +38,8 @@ In short, HTTPS works like this:
 
 HTTPS requires that the client use [SSL](https://developer.mozilla.org/en-US/docs/Glossary/SSL) or [TLS](https://developer.mozilla.org/en-US/docs/Glossary/TLS) to protect requests and traffic by encrypting the information in the request.
 
+{{< cta1 >}}
+
 ## When should I use HTTPs?
 
 While HTTPS is only *critically* important when it comes to sensitive data, it's a good idea to just use HTTPS for *all* of your web traffic. If you browse a website that doesn't use HTTPS, your browser will actually give you an ugly little warning to let you know that the site is not as secure as it should be.

@@ -32,6 +32,8 @@ The problem with starting this way is that you'll have an entire codebase, with 
 
 In the long run, it will be a lot faster to learn the basics of back-end servers. You can always learn a framework later, it's *really* not hard at that point because you will already understand the pieces that are magically taken care of.
 
+{{< cta1 >}}
+
 ## I made the mistake of starting with Django
 
 When I was getting my [CS degree](https://blog.boot.dev/jobs/is-coding-bootcamp-worth-it/), I decided I wanted to build a web app, and up until that point, I hadn't done much with the web yet. All I had done was write little Python scripts. RESTful servers, HTTP requests, SQL databases -- I had no idea what any of that was.
@@ -66,6 +68,8 @@ That's not what I'm saying. If you want to be a professional in any industry, I 
 * Want to build operating systems? It will help to understand the kernel.
 * Want to write an ORM? It will help to understand databases.
 * Want to write Rails apps? It will help to understand web servers.
+
+{{< cta2 >}}
 
 ## Lastly, full-stack and back-end development are different
 

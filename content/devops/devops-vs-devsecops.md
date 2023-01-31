@@ -151,6 +151,8 @@ Then as a DevSecOps, you’ll also need:
 
 That’s *in addition* to all the regular DevOps skills I listed above.
 
+{{< cta1 >}}
+
 ## 3. Salaries
 
 Now we’re onto the money. In previous articles, I’ve found it useful to break down not just a salary comparison but also to look at median salaries in the top five cities in comparison to cost-of-living, rent, and taxes.
@@ -218,6 +220,8 @@ As you can see, the numbers of job openings are actually similar on Indeed and G
 Honestly, if you have the skill set to be a DevSecOps engineer, I’d recommend applying for any regular DevOps role and using your skillset to bargain for a higher salary. You’ll be doing the same role, plus additional responsibilities. All you need to do is convince your future employers that the “Sec” part of DevOps is non-negotiable.
 
 And if you’re a DevOps engineer? It might be a good time to pick up some DevSecOps skills and certifications, like knowledge about regulations and governance.
+
+{{< cta2 >}}
 
 ## Final thoughts on the differences between DevOps and DevSecOps
 
