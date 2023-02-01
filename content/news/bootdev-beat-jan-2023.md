@@ -39,7 +39,7 @@ Last month we released an update to the game system that enables you to use gems
 * "Deploy an API" will probably be our next course/project, though we're also working on other ideas like "Learn Kubernetes" and "Learn Networking"
 * So many of you have done the challenges in the Learn Python course! We're working to integrate the challenges directly into the course so that you don't need to tab out and back in to get to them. Once we're more satisfied with that experience, we'll be adding more challenges to other courses.
 
-## Top Picks for December
+## Top picks for this month
 
 ### [(Video) The Software Engineering Ladder Explained](https://www.youtube.com/watch?v=mea5HZHekpw)
 
@@ -59,7 +59,7 @@ by The Back-end Engineering Show
 
 This is a fascinating deep dive into Dropbox's SSD caching system and why removing it actually made their writes faster.
 
-## Top Plugs for December
+## Top plugs for this month
 
 * [(YouTube) Figuring our why your code is slow (IO timings)](https://www.youtube.com/watch?v=63Uo9Z_72M8)
 * [(YouTube) How HTTPs Works in 7 Minutes](https://www.youtube.com/watch?v=0kwLpf6ms94)
