@@ -114,7 +114,7 @@ For mobile apps, Ruby has RubyMotion, which builds cross-platform applications, 
 
 Being one of the backbones of the web, it makes sense that JavaScript would fit intuitively into web and mobile app development.
 
-JavaScript offers multiple frameworks full of prewritten available code. React, Angular, Vue, Node.js, are Express.js. are just a few of the tools compatible with JavaScript for web and mobile app development.
+JavaScript offers multiple frameworks full of prewritten available code. React, Angular, Vue, Node.js, and Express.js. are just a few of the tools compatible with JavaScript for web and mobile app development.
 
 You can also build JS mobile apps with HTML, CSS, and PhoneGap. In this case, PhoneGap is the bridge between the mobile device and the web application codes. And then there’s Ionic, which allows for cross-platform mobile app development.
 
