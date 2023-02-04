@@ -1,5 +1,5 @@
 ---
-title: "I Was Wrong, but Still Don't Learn Frameworks First"
+title: "I Didn't Explain Clearly, but Still Don't Learn Frameworks First"
 author: Lane Wagner
 date: "2023-01-17"
 categories: 
