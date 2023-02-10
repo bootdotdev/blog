@@ -12,7 +12,7 @@ Have you ever started a new software development job and thought:
 
 > "Wow, what a beautifully architected system! I wouldn't change anything here."
 
-Unless it's a brand-new project, I'm guessing not. Most of us are dreadfully aware of dashes of technical debt that we sprinkle into to our codebases every day, all in the name of getting the job done.
+Unless it's a brand-new project, I'm guessing not. Most of us are dreadfully aware of the dashes of technical debt we sprinkle into our codebases every day, all in the name of getting the job done.
 
 Don't get me wrong, I'm a clean architecture *nerd*. I love talking about monoliths, microservices, containers, clusters, PaaS, caching, message queues, and everything else under the sun. I do everything I can to make sure that my code is easy to debug, easy to scale, and easy to add features to.
 
