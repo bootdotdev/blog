@@ -23,8 +23,6 @@ PHP was created in 1994 by Rasmus Lerdorf. His first use for it was tracking who
 
 PHP has also been deemed a general-purpose scripting language. It was one of the first few server-side languages which developers could embed into HTML, which makes it easier to produce jazzy and interactive websites.
 
-![python vs php](/img/800/pythonvsphp.webp)
-
 ## Python versus PHP: Easiest to Learn
 
 Python was created with the intent to be incredibly easy to understand. Most people who are not familiar with programming can fairly easily read through a Python script and get the gist of it, as long as whoever wrote it was good at [naming variables](/clean-code/naming-variables)! 
