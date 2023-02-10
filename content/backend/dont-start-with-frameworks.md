@@ -80,3 +80,5 @@ That certainly *can* be the case in smaller applications, but as a company grows
 While I still think it's best to write a server from scratch at least once, it's even more important if you want to be a *back-end* engineer rather than a *full-stack* engineer. If you're a back-end engineer, you'll be spending most of your time working on the back-end, and you'll be digging into more niche problems where a deeper understanding of server architecture will be more helpful.
 
 I hope this helps you avoid some of the pain I experienced, and as always, best of luck! If you're interested in learning back-end development, [check out Boot.dev](https://boot.dev), I think it will help.
+
+After thought-provoking feedback, I've since added a [follow-up article here](/backend/wrong-about-abstractions/).

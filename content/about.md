@@ -20,6 +20,8 @@ I built [Boot.dev](https://boot.dev) for my wife Breanna who wanted to transitio
 * Follow us on [Twitter](https://twitter.com/intent/follow?screen_name=bootdotdev)
 * Subscribe to our [YouTube channel](https://www.youtube.com/@bootdotdev?sub_confirmation=1)
 
+{{< youtube lqqL0qnNXQA >}}
+
 ## Our Beliefs
 
 We have some opinions about how you should learn to code.
