@@ -17,7 +17,7 @@ What’s it like being a back-end developer? Well, it’s different depending on
 * "It's pure logic and architecture that does or does not work." – Reddit user [Stanjan](https://www.reddit.com/r/webdev/comments/tc7kl0/comment/i0cmzdr/?utm_source=share&utm_medium=web2x&context=3)
 * "Bro dont get me started." – Reddit user [ApexWinrar111](https://www.reddit.com/r/webdev/comments/tc7kl0/comment/i0dnsc5/?utm_source=share&utm_medium=web2x&context=3)
 
-This article covers the nuts and bolts you’d expect to encounter in a typical back-end developer job description, but as you go through it, keep in mind that there’s a huge amount of variation depending on where you get the job, what kind of tech stack they usee, and what they need you for.
+This article covers the nuts and bolts you’d expect to encounter in a typical back-end developer job description, but as you go through it, keep in mind that there’s a huge amount of variation depending on where you get the job, what kind of tech stack they use, and what they need you for.
 
 That said, it’s still useful to know what the main beats are.
 
@@ -104,7 +104,7 @@ Now, what happens if your data is less structured, like texts, photos, videos, o
 
 These databases often (but not always) scale horizontally rather than vertically. And while SQL databases all kind of compete with each other, because they’re fairly similar, NoSQL databases are usually more optimized for specific things that you don’t get from a SQL database.
 
-Let’s cover a few you might see on a back-end developer jobb description:
+Let’s cover a few you might see on a back-end developer job description:
 
 * [MongoDB](https://blog.boot.dev/backend/top-backend-technologies/#1-mongodb): The most popular NoSQL database according to StackOverflow’s survey. It allows you to query documents by single or multiple keys, ranges or search texts. It’s got a looser structure, more like JSON-esque documents.
 * [Redis](https://blog.boot.dev/backend/top-backend-technologies/#2-redis): You can only query it through primary key access, which means it’s got a more limited query functionality. The benefit of using it is that Redis uses an in-memory key storage value, so data is stored on the host’s RAM, not the desk. This makes it very quick, but you also have to limit the size of the dataset.
@@ -116,7 +116,7 @@ Frameworks are often used, but it really depends on the language in question. Fo
 
 Like with any plug-and-play solution, I will say that I [don’t recommend](/backend/dont-start-with-frameworks/) starting with frameworks if you’re just learning a language for the first time. It can give you a false sense of confidence. A framework can help you have something up and running in days, but you won’t have any idea of what’s going on under the hood.
 
-Now, if you’re an experienced back-end developer and you are already familiar with languages that use frameworks, like Python, you lean on server-side frameworks on a daily basis. These are technologies that make it easier to build and run these complex, scalable web apps you’re responsible for. A framework provides tools and components someone else built that you can repurpose for your task.
+Now, if you’re an experienced back-end developer and you are already familiar with languages that use frameworks, like Python, you lean on server-side frameworks daily. These are technologies that make it easier to build and run these complex, scalable web apps you’re responsible for. A framework provides tools and components someone else built that you can repurpose for your task.
 
 For example, say you want to build a website that displays a list of your blog posts.
 
@@ -154,7 +154,7 @@ As a back-end developer, you’ll be expected to make web apps or APIs available
 
 To do this, you’ll need to be familiar with cloud platforms like Google Cloud, AWS, or Azure. You will also need proficiency in virtualization technologies like Docker and Kubernetes. Finally, you may need to be familiar with web server software like Nginx or Apache. Like anything else, you don't need to be an expert in *all* of these technologies, but you should be familiar with at least a couple of them.
 
-The day may also come when DevOps and back-end developer job roles [coalesce into one](https://blog.boot.dev/devops/backend-devops-roles-merging/)!
+The day may also come when DevOps and back-end developer job roles [coalesce into one](/devops/backend-devops-roles-merging/)!
 
 ## Responsibilities
 
@@ -238,4 +238,4 @@ In summary, you can expect to find a mix of technologies, languages, and soft sk
 
 For example, you might use Python, Flask, and problem-solving to "build improvements that will speed up the sales using various new technologies and solutions including AI," as I purloined from [this back-end developer](https://web.archive.org/web/20230208171237/https://justpoint.zohorecruit.com/jobs/Careers/689133000000435007/Sr-Python-Backend-Web-Developer?source=CareerSite) job description.
 
-Hopefully this helped you make sense of the most important items on a back-end developer’s job description, so you understand exactly what you need to put on your resume to stand out as an applicant. Good luck as you prepare for your next interview!
+Hopefully, this helped you make sense of the most important items on a back-end developer’s job description, so you understand exactly what you need to put on your resume to stand out as an applicant. Good luck as you prepare for your next interview!
