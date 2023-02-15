@@ -36,9 +36,9 @@ I don't think I've gotten this right yet, but at the moment we have a simple way
 
 Signing up, reading *all* the content, and even playing in the code sandbox is **free for everyone**. However, after the first few chapters of any individual course, if you want to continue to "pass off" assignments, and get your answers checked for correctness you need to [become a member](https://boot.dev/pricing). There are 3 pricing options:
 
-* A monthly plan of `$34 / mo`
-* A semiannual plan of `$156 / 6 months`
-* A yearly plan of `$288 / yr`
+* A monthly plan of `$39 / mo`
+* A semiannual plan of `$249 / ye`
+* A lifetime plan of `$999`
 
 A membership subscription sill get you access to all the features and content.
 
