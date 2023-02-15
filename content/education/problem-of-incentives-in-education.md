@@ -115,20 +115,6 @@ Codecademy has a straightforward business model. They charge $19-39 per month at
 * Prepare students for a job
 * Care how much students earn in their first job
 
-### FreeCodeCamp
-
-FreeCodeCamp is unique on this list - they're totally free! That said, that doesn't mean the creators and maintainers don't have an incentive structure. There is always an incentive mechanism, even if it's not obvious.
-
-#### Likely incentivized to:
-
-* Keep costs extremely low
-* Monetize users indirectly (for example via ads, data mining, or something else)
-* Prioritize traffic and engagement over learning outcomes
-
-#### Not likely incentivized to:
-
-* Prepare students for a job
-
 ### Udemy
 
 Udemy is a marketplace, they don't create their own content, instead they allow creators to publish their work on the platform and then Udemy takes a cut.
