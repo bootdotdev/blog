@@ -44,6 +44,8 @@ Although JS is most often used for front end development, it can also be used on
 
 There are over [1.6 billion](https://medium.com/javascript-scene/how-popular-is-javascript-in-2019-823712f7c4b1#:~:text=As%20I%20mentioned%2C%20JavaScript%20is,billion%20web%20sites%20with%20JavaScript).) websites in the world, and JS is used on 95% of them,  including giants like Facebook, YouTube, Gmail, and others.
 
+{{< cta1 >}}
+
 ## 2. Go (Golang)
 
 ### What Is It?
@@ -59,8 +61,6 @@ Thanks to its simple and modern structure, [Go is quite easy for new developers]
 ### Where Is It Used?
 
 Go is incredibly popular with back-end developers due to its inherently simple, readable, and maintainable code. It is currently used by companies such as Uber, Twitch, Soundcloud, and others. 
-
-{{< cta1 >}}
 
 ## 3. Ruby (on Rails)
 
@@ -96,6 +96,8 @@ It’s important to note that security and debugging can sometimes be difficult 
 
 Rails is used by companies running the gamut from small start-ups to giants like Twitter, Hulu, GitHub, Groupon, and more. 
 
+{{< cta2 >}}
+
 ## 4. Python (Django and Flask)
 
 ### What Is It?
@@ -118,8 +120,6 @@ Traditionally, Python has been very widely used in the following industries:
 - Scientific Computing / Data Science
 - Machine Learning
 - FinTech and the Financial Industry
-
-{{< cta2 >}}
 
 ## 5. Java
 
@@ -155,6 +155,8 @@ While many get C# confused with languages of a similar name such as C and C++, C
 
 C# is (not surprisingly) the primary language used by developers working with Microsoft technologies (including) Windows phone apps. It’s also used for the popular game development engine, Unity, as the primary language.
 
+{{< cta3 >}}
+
 ## 7. Elixir
 
 ### What Is It?
@@ -172,8 +174,6 @@ Elixir was born by leveraging lessons learned from languages like Ruby with the 
 ### Where Is It Used?
 
 Many well-known companies use Elixir for a wide variety of uses. Pepsi uses Elixir for marketing automation and supply chain optimization. Pinterest utilizes Elixir to speed up the performance of their notification system. Moz switched to Elixir from Ruby to use smaller data files and improve the speed of their API. 
-
-{{< cta3 >}}
 
 ## 8. PHP
 

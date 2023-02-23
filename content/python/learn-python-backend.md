@@ -54,6 +54,8 @@ If you know anything about back-end development, that list of tasks should look 
 
 Let’s take a closer look at where you can learn the skills you need to become a Python back-end developer specifically.
 
+{{< cta1 >}}
+
 ## I already know Python, can I be a Python back-end developer yet?
 
 Let’s take a moment and reflect on how great a language Python is. It’s so flexible, so scalable, and so rich in libraries and frameworks that make it so useful for doing so many things. That’s awesome.
@@ -210,6 +212,8 @@ Here are some options to pursue which will demonstrate your capability in Python
 * [Our back-end learn path](https://boot.dev/tracks/backend) at Boot.dev. To get the certificate, you’ll need to prove mastery of Python (as well as Javascript and Go, two other important back-end programming languages). This course runs through all the critical skills I mentioned in the earlier section about necessary competencies. You’ll also get some extra projects, as a bonus, to put on your portfolio.
 * Check out Coursera * they have a slew of back-end certificates available from [IBM](https://www.coursera.org/professional-certificates/ibm-backend-development) to [Meta](https://www.coursera.org/professional-certificates/meta-back-end-developer) to Microsoft.
 * Look to your local (or not-so-local) [universities](https://www.pce.uw.edu/certificates/python-programming) to see if they offer any certificates.
+
+{{< cta2 >}}
 
 ## I’m finally ready to get the job!
 

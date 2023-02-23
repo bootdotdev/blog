@@ -71,6 +71,8 @@ The code above does the following:
 2. Creates a `returns` channel that will send messages back when the server rejects a publish. Note that this happens when specific options (mandatory and immediate) are used. If the cluster goes down or a connection is lost, publishing will fail until the publisher reconnects, which it does automatically.
 3. Publish the bytes of the text "hello, world" to the `routing_key` routing key.
 
+{{< cta1 >}}
+
 ## Consuming Options
 
 The full suite of [consuming options](https://pkg.go.dev/github.com/wagslane/go-rabbitmq?utm_source=godoc#ConsumeOptions) is quite large, I didn't want to limit functionality:
@@ -152,7 +154,7 @@ err = publisher.Publish(
 
 If you have any questions about the library or suggestions for improvement please open an issue on the Github project and let’s talk about it!
 
-{{< cta1 >}}
+{{< cta2 >}}
 
 ## A note on stability
 

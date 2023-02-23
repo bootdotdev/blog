@@ -23,11 +23,11 @@ Luckily, one of the family members is also a cryptographer. Instead of naively s
 - Members of the family need to cooperate to spend the Bitcoin, one family member can't betray the others
 - If a family member dies or loses their share, the other three members can still reconstruct the key
 
+{{< cta1 >}}
+
 ## Understanding the Threshold
 
 Every Shamir sharing scheme has a total number of shares and a threshold. The **threshold is the number of shares required** to reconstruct the original secret. For example, with five shares and a threshold of three, you only need three of the five shares to calculate the original secret.
-
-{{< cta1 >}}
 
 ## The Math - Lines
 
@@ -38,6 +38,8 @@ One of the fundamental mathematical properties used in Shamir's secret sharing i
 - Only one cubic curve passes through the same four points
 - An infinite number of lines can be drawn through the same point
 - An infinite number of parabolas can be drawn through the same two points
+
+{{< cta2 >}}
 
 ## The Math - Walkthrough
 
@@ -91,8 +93,6 @@ y = 1954 + 43\*4 + 12\*4^2 = 2318
 
 (4, 2318)
 
-{{< cta2 >}}
-
 ## Reconstruction
 
 Each participant in our scheme now owns one `(x,y)` point, which is a single share. Remember that we set our threshold to 3 and that 3 points define a parabola (polynomial of degree 2) perfectly. That means that if we use three points, we can draw a parabola and calculate a0 (the secret). Let's assume we have control of shares 1, 2, and 4.
@@ -116,6 +116,8 @@ In our case, the secret is `1954`.
 While the example we worked through above is great for demonstration purposes, it actually isn't very secure. For each share that an attacker obtains, they actually are gaining more and more information about the secret. While two points don't perfectly describe a parabola, they still leak critical information _about_ the parabola.
 
 The solution lies in [finite field arithmetic](https://en.wikipedia.org/wiki/Finite_field_arithmetic). By plotting the function on a finite field of sufficient size, the graph of the polynomial becomes disjointed and scattered, which means the attacker is unable to make educated guesses about the pathing of the underlying function.
+
+{{< cta3 >}}
 
 ## Adi Shamir
 

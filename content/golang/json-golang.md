@@ -203,6 +203,8 @@ type User struct {
  }
 ```
 
+{{< cta1 >}}
+
 ## Default encoding types
 
 JSON and Go types don't match up 1-to-1. Below is a table that describes the type relationships when encoding and decoding.
@@ -227,8 +229,6 @@ It's rare to encounter an error when marshaling JSON data, but unmarshalling JSO
 - A floating-point number can't be decoded into an integer
 - A `null` value can't be decoded into a value that doesn't have a `nil` option. For example, if you have a number field that can be `null`, you should unmarshal into a `*int`
 - A `time.Time` can only decode an RFC 3339 string - other kinds of timestamps will fail
-
-{{< cta1 >}}
 
 ## Custom JSON marshaling
 
@@ -368,6 +368,8 @@ fmt.Println(string(json))
 //     "Age": 30
 // }
 ```
+
+{{< cta3 >}}
 
 ## Faster JSON encoding and decoding
 

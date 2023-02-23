@@ -23,6 +23,8 @@ If you're not familiar with SHA-256, try this online generator. Enter any messag
 
 {{< sha256gen >}}
 
+{{< cta1 >}}
+
 ## What is SHA-256?
 
 SHA-256 is a standard hash function, so the real question is, "what's a hash function"?
@@ -398,8 +400,6 @@ h5 = h5 + f = 01111010010100111000000011101110
 h6 = h6 + g = 10010000100010001111011110101100
 h7 = h7 + h = 11100010111011111100110111101001
 ```
-
-{{< cta1 >}}
 
 {{< cta2 >}}
 

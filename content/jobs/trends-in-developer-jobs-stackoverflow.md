@@ -34,6 +34,8 @@ I aggregated all the answers about developer employment from the last 9 years of
 
 That said, let's get into the data. I'll drop the script I wrote to create the aggregate data as well as a link to the raw data at the bottom of this article.
 
+{{< cta1 >}}
+
 ## Web Trends: Full-Stack, Front-end and Back-end
 
 <div class="tablewrap">
@@ -66,8 +68,6 @@ It seems reasonable to conclude that the trend for the last decade has been that
 The ratio of front-end/back-end engineers has stayed fairly consistent, with there being slightly less than twice as many back-end engineers than front-end engineers.
 
 This actually surprised me, I expected the ratio of front-end to back-end engineers to be closer throughout the years.
-
-{{< cta1 >}}
 
 ## IT Operations Trends: Back-end, DevOps and Traditional Ops
 
@@ -127,6 +127,8 @@ It appears that from 2013-2015, developers were restricted to only submitting a 
 
 That said, even after looking at this data I think there is still a good case to be made that [back-end developers will be doing more and more "devops" work](/devops/backend-devops-roles-merging/), especially at smaller companies.
 
+{{< cta2 >}}
+
 ## Data trends: Data science, data engineering, and back-end
 
 <div class="tablewrap">
@@ -149,8 +151,6 @@ That said, even after looking at this data I think there is still a good case to
 ### Interpretation
 
 It's super interesting to me that data engineering really only started to appear in the survey data in 2019. Until then, I'm guessing that role was swallowed up by back-end engineers and data scientists. That new specialization is certainly interesting. Machine learning has absolutely grown over the last decade, but it looks like there may have been a bit of a "hype bubble" in 2017?
-
-{{< cta2 >}}
 
 ## The Rest of the Data
 
@@ -176,6 +176,8 @@ I've talked about my personal interpretations regarding the data that I found mo
 ## Raw CSV Data
 
 Here's a link to the [raw CSV data](https://insights.stackoverflow.com/survey) on Stack Overflow.
+
+{{< cta3 >}}
 
 ## My Script
 

@@ -24,6 +24,8 @@ Read on for some project ideas, or, if you're looking for a more complete learni
 5. A database of pokemon
 6. Deploy an earlier project using Docker
 
+{{< cta1 >}}
+
 ## The skills you'll learn in these projects
 
 What skills are most in demand? If you want to [become a backend developer](/backend/become-backend-developer/), you’ll need to demonstrate these six key skills to potential employers:
@@ -39,8 +41,6 @@ Therefore, the *best* backend project ideas show off at least one of those skill
 
 Remember, these are a starting point. Try these six backend projects out, note where you struggle, and take the time to read up on any difficult concepts. These six backend projects will help map out your strengths and weaknesses while also allowing you to boost your project portfolio.
 
-{{< cta1 >}}
-
 ## [Project 1: Book Bot, a book analyzer](https://boot.dev/build/build-local-dev-environment-python)
 
 *This is a backend project for beginners, the goal is to get you comfortable building projects on your own machine.*
@@ -52,6 +52,8 @@ This simple project is a text analyzer in python. This tutorial runs you through
 The CLI is a text-based interface used to run software and operating systems. As a user, you type commands into the interface. The CLI runs it and shows the output of your command on the screen. As a backend dev, you’ll be dealing with servers, not clients. Mastering the CLI is a must.
 
 If you can’t manage this, no worries! Take a step back, re-learn [Python fundamentals](https://boot.dev/learn/learn-python), and come back when you’re ready.
+
+{{< cta2 >}}
 
 ## [Project 2: A visual maze solver](https://boot.dev/build/maze-solver-python)
 
@@ -66,8 +68,6 @@ This maze solver is super fun because you get to build something visual in Pytho
 That said, I also liked the Coursera [project](https://www.coursera.org/lecture/advanced-data-structures/project-shortest-path-programming-assignment-walkthrough-VaUIC) which walks you through a concept called "shortest path programming." You’ll learn about graphs, search algorithms, graph algorithms, and graph data structures.
 
 If you’re getting stuck, I recommend checking out Boot.dev's [Data Structures](https://boot.dev/learn/learn-data-structures) and [Algorithm](https://boot.dev/learn/learn-algorithms) courses. They each take 16 hours and will teach you everything you need to know about DSA fundamentals.
-
-{{< cta2 >}}
 
 ## [Project 3: A web crawler](https://boot.dev/build/link-analyzer)
 
@@ -95,6 +95,8 @@ I'd also recommend doing a couple more toy projects to practice related concepts
 
 Web Socket APIs are important because they allow bi-directional, full-duplex communication between clients and servers. RESTful APIs matter because they’re the [definitive state of rules](https://medium.com/techloop/an-introduction-to-backend-development-and-rest-apis-b1a1a978821f) that developers follow when they create their APIs. GraphQL is a language used to read and modify data from API and is growing in popularity. Six years ago, only 5% of JavaScript developers used it. By 2020, almost [half](https://2020.stateofjs.com/en-US/technologies/datalayer/) (44.3%) of the respondents had used it.
 
+{{< cta3 >}}
+
 ## Project 5: A pokemon database
 
 Nearly every backend server uses databases to store information. As a backend developer, you should be intimately familiar with databases. Choose another project that will help you prove that.
@@ -104,8 +106,6 @@ You should pick a SQL database since they’re the most popular – my in-house 
 I believe [this](https://www.youtube.com/watch?v=Nnoxz9JGdLU) is the best backend project for the skill, which shows you how to build a to-do app using Django and PostgreSQL. Django is a framework written in Python. Typically, it’s used to create a nice web app. Its "Django admin" is famous for being an auto-generated backend that doesn’t rely on a lot of code.
 
 An alternative: you can reuse one of the earlier backend projects by upgrading it to use a database.
-
-{{< cta3 >}}
 
 ## Project 6: Deploy one of your earlier projects to the internet 
 

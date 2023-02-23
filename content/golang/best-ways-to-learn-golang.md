@@ -24,6 +24,8 @@ In their [Learn Go course](https://boot.dev/learn/learn-golang), where you’ll 
 
 And once all that is done, you get to hop on discord to chat with the Boot.dev community to discuss not only the learning material but also current trending hot topics in the field.
 
+{{< cta1 >}}
+
 ## Learn Go the free way
 
 If you’re not sure about spending money just yet, there’s always the free method of learning Golang.
@@ -37,8 +39,6 @@ With over 8,000 tutorials, you’ll get access to free Golang tutorials, project
 While they cater to all skill levels, I would suggest beginners invest in other courses at some point, if only for more constructive hands-on experience, however, professional programmers will probably have enough knowledge under their belt to do fine.
 
 Boot.dev also offers free access to its courses, and you’ll get to test out the interactive features for the first few lessons before having to commit.
-
-{{< cta1 >}}
 
 ## Learn Go your own way
 
@@ -54,6 +54,8 @@ All of his Go videos were also made recently, so you don’t have to worry about
 
 All in all, this channel, along with many others, give you the flexibility to create your own curriculum, which I know is highly desirable for experienced coders already intuitive enough with programming to not need the hand-holding aspect of online courses.  
 
+{{< cta2 >}}
+
 ## Learn Go the fast way
 
 Not everyone has months to spend learning a language, they need to [master the Go language quickly](/golang/learn-go-fast/), and in that case, I recommend learning Golang by completing projects.
@@ -65,8 +67,6 @@ GitHub is a great resource for this style of learning. It’s where coders go to
 It’s best if you choose a project that actually benefits you. For instance, choosing a project that automates a function that helps with work. This will help motivate you to complete the project, but also gain a useful tool afterward.
 
 If you like the idea of learning with projects but want something with a bit more structure, Boot.dev also uses mini-projects throughout its teachings to help you practice coding as well as to measure your progress.
-
-{{< cta2 >}}
 
 ## Learn Go the fun way
 
@@ -103,6 +103,8 @@ This works because:
   
 These books also make great additions to the other forms of learning Golang, to help seal in knowledge and provide resources.
 
+{{< cta3 >}}
+
 ## Learn Golang the Certified Way
 
 There’s no one right way to learn Golang, as we’ve seen, but there is the certified way that leaves you with proof of your expanded skill set, ideal for portfolios and future interviews.
@@ -114,8 +116,6 @@ For example, their [Programming with Google Go Specialization](https://www.cours
 The only downside to this program is it’s not for true beginners, so you’ll need to have some related coding experience, and Coursera’s courses take a while to complete. You’re banking on taking around 6 months on average to complete their work. It’s also more expensive, with courses costing $45+ a month. The real draw here though is in the University accredited certification.
 
 However, if you want a cheaper option – or quicker – Boot.dev offers certification with their courses when you subscribe, giving you a less intensive alternative to certified learning.
-
-{{< cta3 >}}
 
 ## The Best Way To Learn Golang For You
 

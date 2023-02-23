@@ -33,13 +33,13 @@ Codecademy’s courses, especially the Pro ones, will get you the skills and may
 
 Price comparison: Boot.dev costs $39 a month, or ~$21/month when billed annually. There’s also a free guest version.
 
+{{< cta1 >}}
+
 ## Scrimba: Master front-end in an innovative way
 
 I love Scrimba. When students are looking for React content and land on [Boot.dev](https://boot.dev), a platform for learning back-end, I regularly refer them to [Scrimba](https://scrimba.com).
 
 Not only does Scrimba have an innovative way of interactively learning front-end technologies through editable videos, but they're also constantly putting out amazing free content. For example, you can check out their article here on [how to become a web developer in 6 months](https://scrimba.com/articles/become-web-developer-in-6-months/).
-
-{{< cta1 >}}
 
 ## Datacamp: Go Deeper into Data Science
 
@@ -48,6 +48,8 @@ Codecademy has a solid Data Science Career Path track. But it just has one. As y
 Datacamp is the Codeacaemy alternative I recommend if you want a little more flexibility in the (extremely broad) field of data science. Datacamp offers multiple career paths, which makes sense since data scientists are not a conglomerate. Each track will discuss a single language and a smaller selection of concepts and tools than the Codeacademy one. However, if you do all the Datacamp courses, you’ve got a better grounding in data science than if you do the single Codecademy one. Even if you don’t, you still have more flexibility to choose the area of data science that appeals most to you.
 
 Price comparison: The two are comparable. For Datacamp’s pro version, you’ll pay $39.99 per month, or $12.42 per month if you get billed annually.
+
+{{< cta2 >}}
 
 ## Code.org: Don’t Pay
 
@@ -58,8 +60,6 @@ Code.org is the coolest of all Codecademy alternatives, ethically speaking. It�
 The main problem is that it’s aimed at literal children. But honestly, when I started coding, I probably had the same skills as a particularly enterprising 7-year-old since I was one of the aforementioned girls who didn’t get any comp-sci education prior to college. I love their Disney/video game/animal-oriented courses. Alongside their courses, they also offer "Hour of Code" tutorials that only take an hour to get something out of. These are great for quick wins.
 
 Price comparison: free.
-
-{{< cta2 >}}
 
 ## freeCodeCamp: Learn Web Development
 
@@ -79,6 +79,8 @@ It’s excellent for videos. It’s less great for anything else. As a Codecadem
 
 Price comparison: $39-$79 per month
 
+{{< cta3 >}}
+
 ## Zero to Mastery: Aimed at Real Beginners
 
 Zero to Mastery is an interesting one. It’s a collection of experts who made video courses on a ton of different subjects, all hosted on Udemy. I am a Zero to Mastery teacher - my course on the basics of blogging is coming out in just a few weeks.
@@ -90,8 +92,6 @@ Zero to Mastery, meanwhile, assumes absolutely no prior knowledge. You get hand-
 Even though it’s primarily video tutorials, they offer workbooks and projects to complete on the side. There’s a pretty big range of courses and tracks, too. What I also like about it is that it updates regularly, which is a massive pro for any computer science/data science learning platform.
 
 Price comparison: $39.99 monthly, or $23/month when billed annually.
-
-{{< cta3 >}}
 
 ## edX: Guided Learning
 

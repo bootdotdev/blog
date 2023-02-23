@@ -15,6 +15,8 @@ I believe that the job duties of "back-end" and "DevOps" engineers will coalesce
 
 First, let's talk about *why* I think this is happening, and then let's talk about what it means for us as back-end and DevOps engineers.
 
+{{< cta1 >}}
+
 ## The problem: Most companies need to ship simple features more quickly
 
 The underlying idea behind this entire article is a simple one - most companies need to ship simple features more quickly. It's not particularly challenging to build simple features, the hard part in any product-driven company is finding out *which* features deserve to be shipped, and keeping the code in a place where features can be added quickly.
@@ -33,8 +35,6 @@ Just as full-stack engineers improve efficiency in full-stack engineering tasks,
 
 However, as I pointed out above - this comes with a trade-off. Requiring your engineers to know and do *more* means that they won't necessarily be as good at any one thing. If you're familiar with the idea of a [T-Shaped developer](/about/#t-shaped-developers-are-the-most-successful), you're giving them a wider row but a more shallow column. That said, on small teams, this is *usually* a good trade to make.
 
-{{< cta1 >}}
-
 ## A caveat: The bigger the company, the more specialized the roles
 
 Generally speaking, smaller companies need these jack-of-all-trades engineers that can do full-stack work and deploy their own code. These are people who can do many things well, but who aren't necessarily experts at any one thing. Large companies may still need jacks-of-all-trades, but they *also* need experts to solve the complex problems that only arise on the edge. 
@@ -42,6 +42,8 @@ Generally speaking, smaller companies need these jack-of-all-trades engineers th
 Larger companies generally need a larger diversity of expertise to ensure that *someone* on the team can solve domain-specific problems as they arise.
 
 **The trade-off is one of speed for expertise. More specialized teams can usually solve harder problems but do so more slowly.**
+
+{{< cta2 >}}
 
 ## What's changed: Companies can get away without specializing for longer
 
@@ -51,8 +53,6 @@ This large/small company's need for specialization has always existed, but I thi
 * The cloud makes infrastructure easier to manage.
 * Code written in modern languages like Go, TypeScript, and Rust is simpler to write and maintain.
 * Services like Stripe, Twilio and Sendgrid allow you to outsource complex features you would have written from scratch.
-
-{{< cta2 >}}
 
 ## So what should I do as an ops engineer?
 

@@ -29,6 +29,8 @@ You'll learn all the fundamentals of SQL in this 11-chapter course. The instruct
 
 This course really rounds out our entire back-end path - all the major pieces are there! Of course, we'll still be adding to and updating the content regularly, but this SQL course was a big "missing piece".
 
+{{< cta1 >}}
+
 ## What does it cost?
 
 At the time of release, the first 3 chapters of the course are free. After that, you can [become a member](https://boot.dev/pricing) to unlock full access for $34/mo!

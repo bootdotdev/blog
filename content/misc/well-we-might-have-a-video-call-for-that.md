@@ -30,6 +30,8 @@ That said, I agree that for a remote team, externalizing the right information i
 
 Processes like deployments, access to company secrets, development environment setup, etc **must be externalized** and rigorously kept up to date.
 
+{{< cta1 >}}
+
 ## "Avoid anything that makes a distributed team run synchronously"
 
 > The reason for this is not just working in different timezones, but also the fact that everyone will have their own daily routine, and/or have their individual times when they are most productive. Which you _will not attempt to synchronize._ (Doing so would mean setting the entire team up for failure.)
@@ -51,8 +53,6 @@ I'm not making a case that everyone needs to drop everything immediately, or be 
 
 **Synchronicity isn't an inherent problem. Discussions with a good amount of back and forth are more effectively communicated synchronously, while the majority of communication is best handled asynchronously.**
 
-{{< cta1 >}}
-
 ## "A chat ping is a shoulder tap."
 
 This one depends on the person being pinged. I would much rather receive a slack message than an email, pretty much 100% of the time. **I hate email.**
@@ -60,6 +60,8 @@ This one depends on the person being pinged. I would much rather receive a slack
 I simply don't feel the need to respond immediately to slack messages, and will usually wait until the end of a meeting, or until a break in my coding rhythm to respond to slack messages. I turn off my notification sounds, and just let the indicator icon in slack let me know I have an outstanding notification when I open the app.
 
 That said, people are different. I like to talk to my coworkers about the way they prefer to be contacted and respect their preferences where possible.
+
+{{< cta2 >}}
 
 ## So where do we agree?
 

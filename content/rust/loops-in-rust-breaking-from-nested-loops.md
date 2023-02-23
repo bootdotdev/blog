@@ -55,6 +55,8 @@ for i := 0; i < 10; i++ {
 
 Rust's for-loop doesn't specify what happens after each iteration (i++) or what condition is required to continue the loop (i < 10), an [ite](https://doc.rust-lang.org/1.2.0/book/iterators.html)[r](https://doc.rust-lang.org/1.2.0/book/iterators.html)[ator](https://doc.rust-lang.org/1.2.0/book/iterators.html) is simply supplied.
 
+{{< cta1 >}}
+
 ## Continue and Break
 
 ```rust
@@ -101,8 +103,6 @@ which prints:
 4
 5
 ```
-
-{{< cta1 >}}
 
 ## Working With Nested Loops
 

@@ -23,6 +23,8 @@ A [pure function](/golang/pure-functions-in-golang/) is a function that has both
 
 Because pure functions ensure that the state of the outside program isn't altered, they are strictly better to write than impure functions where possible. In some cases, an impure function is necessary however, for example, if you need to make a network call, interact with a database, or print data to the console.
 
+{{< cta1 >}}
+
 ## 2. Pure functions are easier to test
 
 ![](/img/800/testing-in-bio-lab-300x204.jpeg)
@@ -34,11 +36,11 @@ Pure functions are very easy to test for a couple of reasons:
 
 Because testing is so important in programming, it's nice when we make it easier to write tests because it encourages us to write more of them. By utilizing pure functions as much as possible, you'll notice your programs will have more robust test harnesses.
 
-{{< cta1 >}}
-
 ## 3. Functional programming leads to fewer bugs
 
 Debugging and writing code with fewer bugs becomes quite a bit easier with pure functions. Because each function is simply a mapping of inputs to outputs, a simple stack trace or print statement at each level will reveal the problem. With imperative paradigms, you could have shared or mutable state almost anywhere else in the codebase that's potentially causing the bug.
+
+{{< cta2 >}}
 
 ## 4. Functional code tends to have its state isolated, making it easier to comprehend
 
@@ -49,8 +51,6 @@ Let's take a look at the [Elm architecture](https://guide.elm-lang.org/architect
 The Elm code is purely functional. It takes "state" as input and converts it into the HTML that will render on the page. Whenever the user interacts with the page, the state is updated _outside_ of the Elm code. That state is then fed back into the Elm code and a new HTML output is produced.
 
 As you may have realized, the stateful part of the system is not purely functional, the good news is it's so simple that there are unlikely to be bugs there. The Elm code that does the bulk of the work is purely functional, however, so all the benefits are reaped by the majority of the codebase.
-
-{{< cta2 >}}
 
 ## 5. Function signatures are more trusted
 
@@ -94,6 +94,8 @@ func areaOfCircle() float64 {
 ```
 
 If two separate threads ([goroutines](/rust/concurrency-in-rust-can-it-stack-up-against-gos-goroutines/?_ga=2.84789082.296037147.1649171050-1013439933.1641951325)) are accessing the `areaOfCircle` function at the same time and altering the value of `radius`, one process could easily overwrite the other's value of radius and one thread ends up with the output that was intended for the other thread.
+
+{{< cta3 >}}
 
 ## 7. Recursion is simpler, though not necessarily easier to learn
 

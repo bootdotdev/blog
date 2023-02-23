@@ -182,6 +182,8 @@ Vite is strict when it comes to `Node.js` code being slipped into your front-end
 <!-- end polyfill -->
 ```
 
+{{< cta1 >}}
+
 ## Vue 3
 
 My next migration will likely be to Vue 3, hopefully sometime this year. I've really just been holding out for a bit more stability, and for a few of my dependencies to support the new major version.

@@ -69,6 +69,8 @@ Want money? Learn Ruby. Thanks to the Ruby on Rails framework, Ruby backend deve
 
 Gotcha! SQL isn’t a programming language like the other seven. But it’s, as we’ll get into below, a very useful and popular query language. Backend developers often use SQL to communicate between relational databases. It’s hard to find a company that wouldn’t find SQL knowledge useful, so count this as a must-know language to be hired. You can [learn SQL here](/news/learn-sql-course-released/).
 
+{{< cta1 >}}
+
 ## Top six back-end SQL databases
 
 OK, we’ve covered coding languages. Now onto databases. A SQL database is a relational database, which means that it stores data in tables that are related to one another. Think rows and columns.
@@ -165,8 +167,6 @@ Of course, Microsoft itself uses MSSQL, but other notable companies like Accentu
 
 Udemy’s [course](https://www.udemy.com/course/ms-sql-server-learn-ms-sql-server-from-scratch/) is relatively affordable ($85) and comprehensive for beginners.
 
-{{< cta1 >}}
-
 ## Top five back-end NoSQL databases
 
 What is a NoSQL database? It’s a non-tabular database that uses different data models for storing, managing, and accessing data. It can be document-oriented, key-value, graph, wide-column, or something else.
@@ -253,6 +253,8 @@ Sky uses Cassandra for database persistence. Spotify uses it for personalization
 
 Udemy has a solid [course](https://www.udemy.com/course/apache-cassandra) for $50.
 
+{{< cta2 >}}
+
 ## Top four message queues
 
 What is a message queue?
@@ -322,8 +324,6 @@ It’s used by Cigna, Amtrak, Tableau and [others](https://discovery.hgdata.com/
 #### Where can I learn SQS?
 
 Amazon’s [own](https://aws.amazon.com/sqs/getting-started/) learning portal is the best place to learn SQS.
-
-{{< cta2 >}}
 
 ## Top five bonus back-end technologies
 

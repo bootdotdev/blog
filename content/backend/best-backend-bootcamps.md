@@ -72,6 +72,8 @@ To complete this backend web development bootcamp, you should expect to spend ar
 
 Sounds like the best backend bootcamp for you? [Enroll here](https://boot.dev/).
 
+{{< cta1 >}}
+
 ## 2. Clarusway: Backend Development Course
 
 ![boot.dev](/img/800/claurusway.png.webp)
@@ -97,8 +99,6 @@ They also offer Income Share Agreements (ISA) where you don’t pay a penny unti
 ### Duration: 
 
 This bootcamp runs for three months. You can expect to receive 100+ hours of in-class sessions and 54 hours of career management services. You’ll get two weeks dedicated to working on your own capstone project.
-
-{{< cta1 >}}
 
 ## 3. Nucamp: Back End, SQL, and DevOps Developer with Python
 
@@ -138,6 +138,8 @@ This isn’t an on-demand program, though – the courses run at set times. The 
 ### Bonus info:
 
 This backend development bootcamp purports to be the \#1 coding bootcamp in all the United States by aggregation websites like Career Karma and Course Report.
+
+{{< cta2 >}}
 
 ## 4. Knowledgehut: Back-End Development Bootcamp
 
@@ -180,8 +182,6 @@ Switchup.org [estimates](https://www.switchup.org/bootcamps/knowledgehut) the fu
 ### Bonus info:
 
 This backend bootcamp offers a 100% money-back guarantee, no questions asked… as long as you ask for a refund within the first two hours of attending a workshop. 121 minutes in, and you’re in for good.
-
-{{< cta2 >}}
 
 ## 5. Nashua Community College: Back End Coding Bootcamp
 
@@ -247,6 +247,8 @@ This backend bootcamp has a fun stat: it boasts a 95% hiring rate for career cha
 
 At the time of writing, the next start date is January 31st, 2023.
 
+{{< cta3 >}}
+
 ## 7. Springboard: Backend Development Bootcamp
 
 ![boot.dev](/img/800/springboard.png.webp)
@@ -280,8 +282,6 @@ This program runs for a full nine months. You should be ready to spend 20-25 hou
 This ranks on my list of the best backend bootcamp in part because they offer some killer stats: They’ve enrolled almost 1,000 students since 2020. Since then, 100% of those have received a job offer within 12 months of graduating. And there was a massive $26,559 average salary increase for software engineering students who provided that data.
 
 They also guarantee a job offer. No job? Get your money back. There are some conditions on that guarantee – you have to "\[a\]pply to positions, dedicate sufficient time and effort, and follow the job search process recommended to you by our career coaches," so there are some strings. But overall? That, plus their employment stats, seem very useful.
-
-{{< cta3 >}}
 
 ## What’s the best backend bootcamp of them all?
 

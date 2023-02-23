@@ -27,6 +27,8 @@ You can even practice without the courses on their site, by accessing Boot.dev�
 
 Boot.dev’s emphasis on interactivity makes it interesting, but it’s not even the best part. Boot.dev’s overall goal is to get you primed and ready for a career with JavaScript. Aside from hands-on practice, you’ll also be greeted with developmental techniques that are geared towards preparing you for job interviews, as well as more specialized coding skills like functional programming, making it by far one of the best ways to learn JS.
 
+{{< cta1 >}}
+
 ## #2 Learn for free
 
 I get it, it’s hard to invest money in an online course when:
@@ -44,8 +46,6 @@ freeCodeCamp on the other hand is something different entirely. This non-profit 
 
 With over 7,000 tutorials and 40,000 students helped to land jobs at tech giants like Apple and Google, freeCodeCamp is truly a remarkable organization and a great opportunity for beginners to test out JavaScript, and for experienced programmers to get fast access to free JS material.
 
-{{< cta1 >}}
-
 ## #3 Learn on your own
 
 Do you learn best when you get to build and research your own curriculum? Some people thrive on researching nitty-gritty details and putting together their own resource lists. If that sounds like you, then the best way to learn may be on your own.
@@ -58,6 +58,8 @@ It doesn’t end here though. Tons of individuals have dedicated their time to c
 
 It’s also worth mentioning that freeCodeCamp’s tutorials are integrated with YouTube, so you’ll find most, if not all, of their online classes there too. Needless to say, there’s an endless supply of resources here for you to learn JavaScript your own way.
 
+{{< cta2 >}}
+
 ## #4 Learn JavaScript the fast way
 
 In today’s world we are faced with an endless pursuit to make things faster and more efficient, and picking up a new skill is no different.
@@ -69,8 +71,6 @@ The first way is to start by [finding a project](/javascript/javascript-projects
 Another way is by joining an open-source JavaScript project. These are free projects and frameworks already created that you can edit and work with yourself. You’ll find a lot of these on GitHub, and they offer risk-free opportunities to work with the language.
 
 However, if you want a project-based learning method, but don’t feel comfortable enough to jump into creating your first program, [Boot.dev](https://boot.dev) does employ a series of mini-projects throughout their courses, so you get the efficiency of project-based learning, but in a more secure environment. Additionally, Scrimba has a [great list](https://scrimba.com/articles/beginners-javascript-project-ideas/) of JavaScript projects you can check out.
-
-{{< cta2 >}}
 
 ## #5 The fun way
 
@@ -98,6 +98,8 @@ This book is directed at beginners, with examples and practice exercises heavily
 
 While you can learn JavaScript from these texts alone, much like Codewars, I think these are beneficial resources to have in tandem with online courses and add a lot of value to your learning.
 
+{{< cta3 >}}
+
 ## #7 Earning a certificate
 
 Did you even learn JavaScript if you didn’t get a certificate?
@@ -109,8 +111,6 @@ Coursera is one of the top sites for this! As an online e-learning site that pro
 These courses often come with graded work, long-time commitments, and the occasional strict schedule, however, being able to show you know JavaScript from an established university looks good on your portfolio and helps build your reputation.
 
 That said, there are other faster and more affordable routes to take to receive certification. For instance, with a [Boot.dev subscription](https://boot.dev/pricing), you’ll receive a certificate when you complete a course for only a few bucks a month, while Coursera ranges from $45+ per month, depending on the course you take. With Boot.dev you’re also able to complete the course quicker, whereas Coursera’s courses take anywhere from 6 to 10 months.
-
-{{< cta3 >}}
 
 ## The Best Way to learn for you
 

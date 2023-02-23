@@ -41,6 +41,8 @@ Once that change is in production, that’s when your SREs would come in. They m
 
 That’s just one example, but in short, **DevOps roles focus on making the software delivery cycle more efficient. SREs make sure that system is stable and reliable.**
 
+{{< cta1 >}}
+
 ## Roles and responsibilities of DevOps and SREs
 
 Now that you understand the focus of each of these job roles, let’s see how that primary focus breaks down into the main roles and responsibilities of each job.
@@ -82,8 +84,6 @@ It’s worth pointing out that there’s enough overlap between these two roles 
 ![sre role](/img/800/aboutrole.jpg.webp)
 
 Source: [Labviva’s careers page](https://web.archive.org/web/20230126143208/https://app.trinethire.com/companies/35521-labviva-inc/jobs/72374-senior-engineer-devops)
-
-{{< cta1 >}}
 
 ## Skills, background, and education
 
@@ -183,6 +183,8 @@ There’s not much to add to the chart I produced above. It’s worth noting tha
 
 If you want to get either job but didn’t get a degree in the right field, hope is not lost. You can bulk out your software engineering portfolio with some [backend projects](https://blog.boot.dev/backend/best-backend-projects/), show off your skills in languages like [Python](https://blog.boot.dev/python/python-projects-for-beginners/) and [Go](https://blog.boot.dev/golang/best-ways-to-learn-golang/), and think about getting a certification or two.
 
+{{< cta2 >}}
+
 ## Career prospects
 
 The fact that you don’t *really* need a degree to get either of these jobs should give away one important fact: the career prospects for both DevOps and SREs are absolutely booming.
@@ -210,8 +212,6 @@ If you have the background and skills to be an SRE, you’d likely be able to ap
 If you’re looking to angle into the SRE role and you’re currently in the DevOps realm, I’d recommend taking on additional responsibilities in your current role. Volunteer to take on some incident response and management duties. Learn a bit about how the current team makes sure code in production is stable and hardened.
 
 Your current employer will likely be grateful, and you can use those newfound skills to transition into an SRE role either there or elsewhere.
-
-{{< cta2 >}}
 
 ## Salaries
 

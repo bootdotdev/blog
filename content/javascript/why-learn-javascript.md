@@ -31,6 +31,8 @@ This demand explains why you should learn JavaScript: [72% of companies](https:/
 
 Even if you don’t want to program websites or apps for a career, being able to create your own website with JavaScript to host your portfolio can be a huge help in your job hunt. 
 
+{{< cta1 >}}
+
 ## 2. It makes you a versatile programmer.
 
 JavaScript is kind of a lingua franca among coding languages. If you know how to code in JavaScript, there’s no cap to the kind of cool stuff you can program. JavaScript gained a foothold by helping developers code on the client-side (frontend) of websites, but recently, there have been additions to the JavaScript frameworks that make it a great language for coding on the server-side or [backend](/backend/become-backend-developer/) of websites using Node.js. 
@@ -40,8 +42,6 @@ JavaScript is kind of a lingua franca among coding languages. If you know how to
 Plus, you can get in on some app action, creating web apps, mobile apps, and desktop apps using React, React Native, and Electron. It’s even a decent contender against the likes of Python for doing machine learning work with [TensorFlow.js](https://www.tensorflow.org/js). 
 
 In short, if you can learn JavaScript, there’s very little you can’t accomplish with this workhorse of a coding language. Unlike R, that’s best for data viz and statistics; or Swift, that’s only useful for iOS, JavaScript is a great language to learn to accomplish a lot of different things. Why learn JavaScript? Because it’ll see you through a wide range of programming tasks you might want to accomplish. 
-
-{{< cta1 >}}
 
 ## 3. It comes pre-installed in your browser.
 
@@ -53,6 +53,8 @@ This makes it ultra-accessible for beginners like me. With a very basic understa
 
 You can also learn by poking around in the Javascript that runs an overwhelming majority of websites, by right-clicking and selecting "inspect" on any website. It’s a fun way to pick apart pre-existing JavaScript and see what happens when you change things. ![](https://lh3.googleusercontent.com/TXbn1zmVBTRwSROeE1dRagznXw-tHXP0aSGV9bo0oOsZsLJLPRoTTizBGpuMXd7msGheRemVGIHHZ1FdGnBb9cBmoz8rmxHSv97Zg3K0c5Z4Ai6UDUysJjzmrAr1HlFr_bvWNvJk)
 
+{{< cta2 >}}
+
 ## 4. There are a lot of shortcuts, when you’re ready to take them.
 
 Coding can include a lot of repetitive tasks - there are shortcuts in JavaScript that can make your life easier. It’s best to understand the underlying bones of any language before you start looking for shortcuts. However, if you use JavaScript for anything serious, there will be a time when you have a good understanding of the basics of Javascript. At that point, you might want to know how to make things easier. 
@@ -62,8 +64,6 @@ Plain old JavaScript (also called "vanilla" JavaScript) can do a lot, but when y
 These assets have grab-and-go JavaScript code that’s been pre-written for your use. These frameworks act as a structure, with a lot of the elements and components already built and ready for use or modification. It can help you build whatever it is you’re building a heck of a lot faster and with greater ease.
 
 It’s the difference between building a house from scratch, versus coming to a house that already has the blueprints in place and even a few furnishings that can let you build your dream home faster. You’re still doing the work - and you need to understand how those foundations work, or else you’ll run the risk tearing the whole thing down because you don’t know what you’re doing - but it’s simpler to get the house ready.
-
-{{< cta2 >}}
 
 ## 5. You’ll find a way to learn.
 
@@ -81,6 +81,8 @@ Nowadays, knowing only one coding language is good, but most jobs ask that you c
 
 A lot of languages borrow concepts from each other, or are built to shore up the weaknesses of another. JavaScript is one of the few that has completely transferable skills that can help you hit the ground running when you start to learn another programming language. Why learn JavaScript? Because it’ll help you learn Python, or C++, or any other similar language.
 
+{{< cta3 >}}
+
 ## 7. Can a junior web developer work remote?
 
 As [Alex from Scrimba says](https://scrimba.com/articles/can-junior-web-dev-work-remote):
@@ -88,8 +90,6 @@ As [Alex from Scrimba says](https://scrimba.com/articles/can-junior-web-dev-work
 > Yes, a junior web developer can absolutely work remotely. Should they? Maybe not. Perhaps, if you’re really interested in it, finding a hybrid junior web developer role would be a wiser decision. Even if you don’t work remotely for your first role or two, there’s a definite possibility for remote work down the line when you’ve reached a higher skill level.
 
 I wholeheartedly agree with Alex. You *can* work remote, but my advice for new developers is to try to work full-time with a team in-person. If you do, you'll find yourself learning more and getting more mentorship than you would otherwise. You can always go remote later!
-
-{{< cta3 >}}
 
 ## Why Learn JavaScript? Final Thoughts
 

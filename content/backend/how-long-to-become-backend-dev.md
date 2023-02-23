@@ -41,6 +41,8 @@ If you can answer "yes" to any of these questions, your journey will be quite a 
 
 Of course, there are many other tidbits of knowledge and training that can speed up your journey. I just listed 10 of the most common ones.
 
+{{< cta1 >}}
+
 ## What else impacts how long it will take me to learn back-end development?
 
 Apart from analyzing where you're starting from, there are some other key factors that will heavily impact how long it will take you to get a backend job.
@@ -48,8 +50,6 @@ Apart from analyzing where you're starting from, there are some other key factor
 * How many hours can you put into learning and building weekly? The numbers I'm working with assume about 20.
 * Are you a fast learner? The numbers I'm working with assume you're about average.
 * How much schooling have you received? The numbers I'm working with assume at least a high-school diploma.
-
-{{< cta1 >}}
 
 ## Do the time-frames above include the time for the job search itself?
 
@@ -62,13 +62,13 @@ Are you a helpful member of tech communities online?
 * Do you know some people (online or IRL) that can review your resume and project portfolio?
 * Do you like meetups, and are there any coding meetups in your city?
 
+{{< cta2 >}}
+
 ## Does it take longer to learn back-end or front-end?
 
 I don't actually know.
 
 My *guess* is that it takes about 20% longer to learn job-ready backend skills because there seems to be more to learn. A good computer science foundation is practically required for most back-end and data engineering jobs. While CS basics are still *super* useful for front-end developers, they aren't as necessary.
-
-{{< cta2 >}}
 
 ## How much data do you have to back this up?
 

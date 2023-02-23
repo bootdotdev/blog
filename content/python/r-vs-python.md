@@ -24,6 +24,8 @@ R is actually the implementation ­– or modernized – form of the S programmi
 
 So, we have one multi-functional language and one specific, now it’s time to see how they compare. First, I’ll lay out how each language works for beginners and experts, then break down salary, performance, which is best for data science, machine learning, and you!
 
+{{< cta1 >}}
+
 ## R vs Python: Which is easiest to learn and more versatile?
 
 Python is praised as a beginner language, but it’s useful for all skill levels.
@@ -44,8 +46,6 @@ R isn’t as versatile as Python, but every aspect of this language is geared to
 
 **Overall,** Python is a better beginner and expert language if you want diverse career options and want to add a stable and safe language to your tool belt. However, if you work, or want to work, with statistics, then head straight to R.
 
-{{< cta1 >}}
-
 ## R vs Python for Data Science
 
 Both languages are popular for data science, it just depends on what kind of data science you’re doing.
@@ -64,6 +64,8 @@ R also has the [Shiny](https://shiny.rstudio.com/) package for dashboard creatio
 
 **Overall**, if you have a team of dedicated programmers that will benefit from the use of a multipurpose language like Python, then choose Python. But, if you’re not dedicated to programming, then R is a better choice.
 
+{{< cta2 >}}
+
 ## R vs Python Salary
 
 While the price is right for both R and Python, Python does have the slight upper hand.
@@ -77,8 +79,6 @@ While it seems like Python is the obvious winner, I argue this reflects the diff
 That said, Python does offer a more well-rounded choice and better repertoire with developers.
 
 **Conclusion:** Python is better for higher salaries and is more in-demand by employers.
-
-{{< cta2 >}}
 
 ## R vs Python Performance
 
@@ -110,6 +110,8 @@ With data science and machine learning being so closely related, you’d think R
 
 Overall, Python is unmatched when it comes to handling large-scale projects and machine learning.
 
+{{< cta3 >}}
+
 ## R vs Python for Back-End Development
 
 Even though Python has gone on to become the [top language](https://www.spec-india.com/blog/programming-languages-for-machine-learning) for machine learning, it was originally created as a software development language. More specifically a back-end web development language, where the focus is on how business logic interacts with the database.
@@ -125,8 +127,6 @@ To be frank, R simply isn’t a back-end language. The only aspect that _could_ 
 R was developed by statisticians for statisticians to make data modeling and visualizations better. Not to be an easy programming language or to master the programming industry. So, in a sense, it almost feels more like a tool rather than a language – just a very well-paid tool.
 
 **Conclusion:** Python is the clear winner for back-end development, but also if you want to access this, plus a wide range of other options.
-
-{{< cta3 >}}
 
 ## R vs Python: The Final Verdict
 

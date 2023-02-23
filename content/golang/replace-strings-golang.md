@@ -33,6 +33,8 @@ Notes about the function:
 * `new` is the substring that will be swapped out for `old`.
 * `n` limits the number of replacements. If you want to replace them all, just set `n` to `-1`, or use the more explicit [ReplaceAll](https://golang.org/pkg/strings/#ReplaceAll) function.
 
+{{< cta1 >}}
+
 ## Example #1 - Replacing delimiters
 
 Let's say you have some comma-separated values, CSVs. Perhaps you want to separate each word with a _space_ instead of a _comma_. This can be useful if you need to make your delimiters consistent so you can later [split the string into a slice](/golang/split-strings-golang/).
@@ -69,7 +71,7 @@ func main() {
 }
 ```
 
-{{< cta1 >}}
+{{< cta2 >}}
 
 ## Example #3 - Remove all instances of a string
 

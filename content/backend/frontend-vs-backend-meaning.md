@@ -77,6 +77,8 @@ Frontend programming has a lot of aspects to it, but thankfully there are a lot 
 
 There are plenty of coding bootcamps and online tutorials for you to learn how to develop frontends. One of my favorites for beginners is [React’s tutorial](https://reactjs.org/tutorial/tutorial.html) since it’s extremely well-documented and so popular that it’s practically guaranteed to always be kept up to date. If you do it, you’ll feel like a pro in no time.
 
+{{< cta1 >}}
+
 ## What is Backend?
 
 We’ve covered the frontend. Now let’s take a look behind the curtains.
@@ -141,8 +143,6 @@ Whether you want to sign up for a [backend bootcamp](/backend/best-backend-bootc
 If you want to go for a cheaper option than coding bootcamps, tutorials are a great way to go. They’re almost always free, but it’s the most extreme self-taught route, which can be frustrating and slow.
 
 FreeCodeCamp.org has put together a nice [beginner’s guide](https://www.freecodecamp.org/news/how-to-build-a-backend-application/) to writing your first backend application. Since JavaScript is such a versatile and popular language, I think this guide to creating a [backend in JavaScript](https://dev.to/ericchapman/create-a-backend-in-javascript-introduction-to-node-js-215a) is also worth a gander.
-
-{{< cta1 >}}
 
 ## Backend vs. Frontend
 

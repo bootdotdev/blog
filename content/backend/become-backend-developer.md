@@ -32,13 +32,13 @@ Some of the most common job titles for programmers include:
 
 According to Stack Overflow's last [developer survey](https://survey.stackoverflow.co/2022/#salary-united-states), backend developers in the US tie for the highest median salary of this group: **$150,000**. If you enjoy working on problems that involve algorithms, data structures, natural language processing, databases, or distributed systems, then backend development might be for you.
 
+{{< cta1 >}}
+
 ## Can I learn back-end devlopment by myself?
 
 Many people assume that because backend developers typically need to have a better understanding of computer science fundamentals, that's it's harder to get an entry-level backend position, and as a result, they start educating themselves on front-end technologies. **I think this is a mistake.**
 
 Just because CS *skills* are often a requirement for backend positions, it's almost never the case that a CS *degree* is required. If you take the learning path I outline below, there's no need to go back to university.
-
-{{< cta1 >}}
 
 ## The Learning Path - How to Become a Backend Developer
 
@@ -164,6 +164,8 @@ The big secret to landing a backend job as a self-taught developer is to build a
 
 Once you've done that *start applying to jobs*! Use every job board you can find, and try to apply only to jobs that are specific to your area of expertise - e.g. "backend go developers". Try to find niche job boards if they exist, I really like the [Golang cafe](https://golang.cafe/), for example.
 
+{{< cta2 >}}
+
 ## Additional questions, answered
 
 ### How long does it take to learn back-end development?
@@ -181,8 +183,6 @@ There's nothing wrong with learning HTML and CSS, but it can be a waste of time 
 Nope. You should know how to deploy simple back-end applications, but diving too deep into DevOps concepts before you get your first job isn't necessary, and may pull you away from more important things. You should be writing more code, and building more projects.
 
 That said, I do think [DevOps and back-end roles are getting more and more similar](/devops/backend-devops-roles-merging/) with the rising popularity of BAAS and PAAS in cloud computing. Get familiar with the basics, but don't spend too much time worrying about it, unless a specific role you're applying for requires it.
-
-{{< cta2 >}}
 
 ## Further learning
 

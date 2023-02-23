@@ -135,6 +135,8 @@ var supportedNetworks = []string{"facebook", "twitter", "instagram"}
 
 Whenever we find ourselves leaving comments like this, we should be aware we are doing something **wrong**.
 
+{{< cta2 >}}
+
 ## The Better Solution for Constants in Go
 
 It's much better to use an initializer function as we talked about above (not to be confused with Go's conventional [init()](https://golang.org/doc/effective_go#init) function). An initializer function is a function that simply declares something and returns it. Like I explained above, a good solution to our problem would be as follows:

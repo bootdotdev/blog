@@ -79,6 +79,8 @@ I don't know about you, but I definitely had an angry bird phase. If you've ever
 
 It's one of the longer tutorials - this one goes on for nearly three hours. But it's super well-organized and laid out, so you won't only have a really cool game at the end of it, but you'll understand a lot of the underlying principles of JavaScript. 
 
+{{< cta1 >}}
+
 ## Section 2: Vue.js JavaScript Projects for Beginners
 
 There are so many different frameworks you can use that do very similar or overlapping things in JavaScript. Vue.js is one of them. Vue.js is great for making applications and interactive user interfaces.
@@ -124,8 +126,6 @@ A great way to learn to code JavaScript for beginners is to create clones of thi
 When I was eighteen, I moved to England and found that everybody there uses Celsius. Did I know what 18 degrees C felt like? *Absolutely not*. This confusion led to me dressing either very warmly or very coldly for the weather. (I could have Googled it, but I was lazy.)
 
 This temperature converter website tutorial could have saved me that pain. I love [this tutorial](https://www.codementor.io/projects/web/temperature-converter-website-atx32dy7mf), because it will show you several different solutions that other developers implemented, what tools they used, and how they did it. If you're more interested in mobile apps, you can see the [tutorial](https://www.codementor.io/projects/temperature-converter-mobile-app-atx32h5e71) on how to build a temperature converter there instead.
-
-{{< cta1 >}}
 
 ## Section 3: Angular JavaScript Projects for Beginners 
 
@@ -179,6 +179,8 @@ The style of this written tutorial assumes that you don't know anything. That's 
 
 Scrimba has a great list of JS projects, my favorite is their suggestion to clone the Google homepage! It's not too hard and it's something you can get started on with just a [basic knowledge of HTML, CSS, and JavaScript](https://scrimba.com/articles/html-css-javascript/). You can check that [out here](https://scrimba.com/articles/beginners-javascript-project-ideas/).
 
+{{< cta2 >}}
+
 ## These seventeen JavaScript projects for beginners are a good place to start
 
 There are so many more libraries and frameworks beyond what I've provided you in this article, but this is a good starting point for beginners. I referred to a couple of other frameworks that you might be interested in checking out throughout the course of this article. As you dive deeper into JavaScript, you'll be exposed to more and more of these. There are practically countless small JavaScript projects for practice you can find, using any of the frameworks that appeal to you.
@@ -186,8 +188,6 @@ There are so many more libraries and frameworks beyond what I've provided you in
 JavaScript is an amazing language to learn, whether you're a beginner programmer or a seasoned coating better end. As the internet plays a bigger role in our lives, the foundations that it is built on are remarkably interesting to learn about. These projects allow you to look a little bit behind the curtain, and learn about the websites you look at every single day. 
 
 These great JavaScript practice projects can all be tricky to do. I'm not going to pretend they're simple, but that's what makes them so great. When you complete this project, you'll have built something you're proud of. There's no better feeling in the world.
-
-{{< cta2 >}}
 
 ## Other resources
 

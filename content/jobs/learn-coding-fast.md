@@ -22,6 +22,8 @@ Programming and its sister endeavors [computer science](/computer-science/compre
 
 There are certainly little shortcuts you can take here or there to get you into an entry-level job faster, but you can't completely skip the fundamentals. It will come back to bite you.
 
+{{< cta1 >}}
+
 ## 2. Don't watch Youtube videos (at least not for everything)
 
 YouTube is great for learning all sorts of things. It's free, and there are thousands of content creators who share their coding courses and hot programming tricks free of charge. Unfortunately, what you save in money and cognitive strain, you often lose in time.
@@ -36,8 +38,6 @@ Here's the thing though, _videos do have a place in your coding education_. Whil
 
 For example, a video that says it will teach you how to build a pop-up component for a website would better be consumed as a blog post. However, a lecture on how the Go and Rust programming languages differ might be a great video to watch while sipping a morning coffee.
 
-{{< cta1 >}}
-
 ## 3. Learn by doing. Hands-on courses and projects only
 
 If you want to learn to code, you need to spend a lot of time coding. Seems like a no-brainer right?
@@ -47,6 +47,8 @@ Don't pay for courses that don't give you hands-on experience. You're better off
 Courses that do allow you to write and submit code for feedback are probably the right ones to be taking. In addition to programming courses, do some google searches for small projects that you can do on the side, particularly projects related to the courses you just completed.
 
 _Tip: Build a project as you make your way through any learning material. A personal project you can publish to Github is a great way to get started._
+
+{{< cta2 >}}
 
 ## 4. Googling is a skill. Learn to Google better
 
@@ -68,8 +70,6 @@ Some people are really good at googling stuff, and others aren't. The good news 
 
 _Tip: Your first instinct when you're stuck should be to Google your problem_
 
-{{< cta2 >}}
-
 ## 5. Once you've Googled the same thing three times, write it down
 
 Googling is great, but if you find yourself having to look up the same thing over and over, it's probably best to commit it to memory. If you know it by heart, you'll not only save a lot of time in the future, but you'll be able to recall it in interviews and team meetings.
@@ -82,6 +82,8 @@ It's hard to be excited about something if you don't keep up on the exciting new
 
 _Tip: You'll learn things from personal conversations that you could never pick up in a book. Communities can give you various expert perspectives on complex topics._
 
+{{< cta3 >}}
+
 ## 7. Contribute to open-source
 
 If you don't yet have a coding job, it can be hard to learn collaboration skills that you will need out in the real world. 99% of the time, coding isn't a thing you do alone, you have to learn to work with others on a team project.
@@ -89,8 +91,6 @@ If you don't yet have a coding job, it can be hard to learn collaboration skills
 The best way I've found to get this experience when you're out on your own is to look for [open-source projects on Github](/open-source/contributing-to-open-source/) and Gitlab that interest you. You can get to know the maintainers, fix open bug issues, and propose and work on new features. If you aren't working on open-source, you'll be at a huge disadvantage when it comes time to [compete for your first job](/jobs/getting-a-job-after-coding-bootcamp-is-hard/).
 
 _Tip: Employers will want to see your Github profile, make it impressive!_
-
-{{< cta3 >}}
 
 ## 8. When you get stuck, sleep on it
 

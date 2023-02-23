@@ -25,6 +25,8 @@ The reason it’s so easy is that Google as a company has been great about hirin
 
 It's worth emphasizing the point that Go isn't easy in the same way that training wheels are easy. That is, Go isn't a language you'll need to "graduate" from in the future. On the contrary, developers from more complex languages like Java and PHP are moving to Go all the time because Go's simplicity encourages better engineering work.
 
+{{< cta1 >}}
+
 ## Go is the language of the cloud
 
 > Go makes it very easy to scale as a company. This is very important because, as our engineering team grows, each service can be managed by a different unit.
@@ -32,8 +34,6 @@ It's worth emphasizing the point that Go isn't easy in the same way that trainin
 > - [Ruchi Malik, developer at Choozle](https://builtin.com/software-engineering-perspectives/golang-advantages)
 
 Due to being fast, statically compiled, light on memory, and simple to understand, Go is a perfect candidate for cloud services. Even [Kubernetes](https://kubernetes.io/), the famous cloud orchestration tool is written in Go. Go has a *very strong* ecosystem for web services. The standard library has out-of-the-box support packages for common needs like HTTP servers and clients, JSON/XML parsing, SQL databases, and a range of security. Docker, K8s, and Go are a match made in heaven when it comes to cloud microservices.
-
-{{< cta1 >}}
 
 ## Go is a newer, more modern language
 
@@ -43,13 +43,13 @@ Secondly, because it’s a newer language built for a specific purpose and not a
 
 [One Reddit thread](https://www.reddit.com/r/golang/comments/2c58rd/would_you_advise_a_beginner_to_learn_golang_as/) detailing why you should learn Golang explains that you’ll have to use a 3rd party library less often because Go is a self-containing language. Furthermore, it's easily documentable using docstrings - learning these code-documenting habits will give you immediate tangible benefits. Unlike languages like PHP, there’s often just one way to accomplish a task, a black-and-white mentality perfect for beginners learning their first coding language. And lastly, it’s built to be future-proof - no matter what comes down the coding line, Go was created to still be relevant to any future apps or frameworks, no matter what they may be.
 
+{{< cta2 >}}
+
 ## Go is designed to be concurrent
 
 The benefits of this may be harder for beginner programmers to understand because it’s so intuitive, but many other programming languages don’t have this. 
 
 Essentially, Go is great for beginners because [you can do multiple things at once](https://stackoverflow.blog/2020/11/02/go-golang-learn-fast-programming-languages/) easily. Most production software systems need to be able to do lots of things all at the same time. While other languages often have mechanisms to accomplish this, they can be overly-complex, slow, or result in buggy code. Go is frequently recognized by the developer community as a leader in simplifying concurrent applications.
-
-{{< cta2 >}}
 
 ## Go can help you land a job at Google (or other large companies)
 
@@ -69,6 +69,8 @@ This is another reason Go is great for beginners to learn - not all coding begin
 
 Unlike many of the other programming languages recommended for beginners like Python, Go is a specialty language and hence is in much greater demand. Learning Go in 2021 will give you the chance to test your coding skills and get paid well for it before necessarily taking the plunge and quitting your job.
 
+{{< cta3 >}}
+
 ## Go is built for software engineers, not academics
 
 Most of us intuitively understand that it’s easier to learn something if you immediately grasp the value. Because Go is built to be a practical, problem-solving language, most of its features are intentional, and each decision in its creation is supported and outlined in the documentation. Unlike other languages where weird quirks are legacy artifacts form when the language was designed to do something else, the authors of the Go language try their best to only include necessary features. That's why [Go only very recently added support for generics](/golang/how-to-use-golangs-generics/), for example. This makes it ideal for beginners who want to understand the why and how behind rules. 
@@ -76,8 +78,6 @@ Most of us intuitively understand that it’s easier to learn something if you i
 For a start, you can look at Go’s [naming conventions](https://golang.org/doc/effective_go.html#names) which lays out the case for each and every one of the naming convention decisions. The dependencies, semantics, and syntax are clear. The tooling that supports the language, including the go tool, `gofmt`, `godoc` and `gofix`, are easy to use. In the words of the creator of Go, "Go is more about software engineering than programming language research. Or to rephrase, it is about language design in the service of software engineering."
 
 Why learn Golang? Because Go is a language where everything is done for a practical reason. This is what makes it so great for beginners to learn - there are few edge case exceptions, no historical quirks, and no unexplained legacy artifacts.
-
-{{< cta3 >}}
 
 ## There are lots of benefits to learning Go, even if you already feel like you know too many coding languages
 

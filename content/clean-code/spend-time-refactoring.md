@@ -27,13 +27,13 @@ I've found that in articles like this it's important to give as much context to 
 
 ![Go Kubernetes](/img/800/go_kubernetes-1024x592.png)
 
+{{< cta1 >}}
+
 ## Code Familiarity
 
 With only four engineers on my team and ~15 repositories we're responsible for, it was hard for all four of us to be intimately familiar with all the code. When we needed a new microservice, one team member typically wrote the first iteration, and one other team member did a quick code review. The engineer who did the first iteration would then be primarily responsible for bug fixes and new features relating to that project.
 
 By focusing more of our time on reviewing and refactoring existing code, it gave us a chance to hop into projects that we never would have had a reason to become familiar with before. Not only does getting more eyes on a project mean the overall code quality will likely go up, but it also means we aren't hosed if the original maintainer moves on to a new company.
-
-{{< cta1 >}}
 
 ## Slow to Fix Bugs
 
@@ -41,13 +41,13 @@ When you get deep into spaghetti code, it can be really hard to find bugs. In a 
 
 Ideally, you would do the refactoring _first_ and _then_ fix the bug (assuming the bug still exists after a good refactoring). Unfortunately, oftentimes there isn't enough time to refactor a project before fixing a critical bug. For this reason, we should **always be refactoring** so that bug fixes can happen quickly without harming code quality.
 
+{{< cta2 >}}
+
 ## Slow to Add Features
 
 I don't want to beat a dead horse, the reasoning here is largely the same as with bug fixes. Adding features to a messy codebase just makes it messier. It's like frosting a cake that's already been dropped on the ground. I guess the cake would taste better if you still felt inclined to eat it, but you've made the inevitable clean-up harder.
 
 ![Happy Birthday to the Ground](/img/800/happy_birthday_to_ground.gif)
-
-{{< cta2 >}}
 
 ## Try It Yourself
 

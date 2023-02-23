@@ -46,6 +46,8 @@ JavaScript is not hard to learn, it’s not as simple as Ruby, but the sheer dem
 
 Both languages are cross-platform compatible, boast large communities, and are popular in web development, however, it’s worth noting JS is the world's [most used language](https://insights.stackoverflow.com/survey/2020#most-popular-technologies) by developers regardless of the field they work in. So, even if you don’t learn it first, you’ll likely have to learn it at some point.
 
+{{< cta1 >}}
+
 ## Ruby vs JavaScript Salary
 
 When it comes to salary, both languages fare well.
@@ -57,8 +59,6 @@ There are also other things to consider about developers aside from the salary t
 In the 2021 Stack Overflow survey, JavaScript ranked number 3 as the [most wanted language by developers](https://insights.stackoverflow.com/survey/2021#most-loved-dreaded-and-wanted-language-want) and one of the top languages developers wanted to work with, while Ruby came in 20th for the former and was absent from the latter.
 
 Ruby may pay better at the moment, but it appears to be losing traction and relevance, whereas JavaScript continues to show and increase its popularity in the industry.
-
-{{< cta1 >}}
 
 ## Ruby vs JavaScript Performance
 
@@ -80,6 +80,8 @@ This isn’t to say Ruby itself has awful performance. Compared to other server-
 
 However, against the lightweight JavaScript language and Node’s Google V8 engine it doesn’t hold up. Essentially, all the characteristics we love about Ruby and make it fun to use, ultimately hurt its performance.
 
+{{< cta2 >}}
+
 ## Ruby vs JavaScript: Which Is Better for Web Development?
 
 Web development is an intriguing field, not only because it’s constantly involving, but right now there’s a large [focus on](https://uxplanet.org/the-importance-of-user-experience-design-988faf6ddca2) [user experience](https://uxplanet.org/the-importance-of-user-experience-design-988faf6ddca2) and finding that next level of making your internet experience feel tailored to you.
@@ -99,8 +101,6 @@ Now, we also have Node.js, a powerful backend runtime environment powered by the
 JavaScript has a massive community, makes up nearly all of the internet, and if you don’t know it for web development yet, you’ll need too, because that’s how embedded the language is into the World Wide Web.
 
 With JavaScript, you not only get more versatility, but it’s the field's language, **period**.
-
-{{< cta2 >}}
 
 ## Ruby vs JavaScript: Which Develops Better Web & Mobile Apps?
 

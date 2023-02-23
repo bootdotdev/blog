@@ -41,6 +41,8 @@ Coding bootcamps really started to spring up in the 2010s to fill a [void in the
 
 The idea behind coding bootcamps is to quickly funnel students through a condensed, rigorous curriculum that gives them the only minimum knowledge they need for an entry-level job. The only problem is that over the last decade, many employers started to question the quality of the education provided by these bootcamps.
 
+{{< cta1 >}}
+
 ## Coding bootcamps and college degrees both have downsides.
 
 There are so many good reasons to become a software developer - [the pay](/jobs/how-much-do-software-engineers-make/), the flexibility, the job security, not to mention the personal satisfaction. That's why it can feel so disappointing when you're stuck after a bootcamp: You feel ready and excited, and you don't yet understand what's holding you back.
@@ -59,8 +61,6 @@ The obvious answer to this is to study [computer science at college](/computer-s
 
 So what’s the solution?
 
-{{< cta1 >}}
-
 ## Learn at your own pace
 
 Your ideal solution is something that allows you to learn those basics, get your applied practice, and do it all while still working or raising a family. Fortunately, the internet is a huge place and there is an endless amount of content that can help you learn from a [coding bootcamp completely online](/education/top-online-bootcamps).
@@ -73,6 +73,8 @@ We've created a set of courses that form an equivalent CS degree, but that you c
 
 If you've completed a coding bootcamp but are still struggling to land a job, we've designed courses especially for you. Common areas that stump people in technical interviews include data structures and algorithms, which we've dedicated three courses to covering.
 
+{{< cta2 >}}
+
 ## Other options for self-study
 
 If you're set on being self-taught, it’s best to understand which gaps you have in your knowledge. Find a [list of computer science concepts](/computer-science/comprehensive-guide-to-learn-computer-science-online/) that you need to learn. Then, try to complete a pet project that’s not in the same safe environment you’d get in a coding bootcamp. To make this a truly realistic experience, find some raw data to practice getting into proper shape. You can use datasets from [data.gov](https://catalog.data.gov/dataset), as an example.
@@ -80,8 +82,6 @@ If you're set on being self-taught, it’s best to understand which gaps you hav
 Finally, if you have a solid idea of what job you want to go for, speak to as many of those people as you can. Read what they’ve written, what resources they recommend, what they do at work. The better sense you have of what tools actually got them to where they are today, as well as what their responsibilities are, the better you’ll be able to plan your own self-taught structure.
 
 Ultimately, you want to find a way to learn at your own pace. If you can add to that a community of like-minded people to help you along the way, all the better. This is a perfect way to get around the typical limitations of getting a job after coding bootcamp while avoiding going back to college all over again.
-
-{{< cta2 >}}
 
 ## Getting a job after coding bootcamp is closer than you think.
 

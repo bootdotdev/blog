@@ -14,6 +14,8 @@ So you want to get into web development, and you keep hearing about "front-end" 
 
 To be clear, it's the wild west out here. In tech, as long as you're willing to put in the reps, you can teach yourself to code and get any kind of programming job that you want. However, your learning path and career trajectory will be much more efficient if you're smart. And with that, we come to the most important factor when deciding whether to learn front-end or back-end first: *Which do you like more?*
 
+{{< cta1 >}}
+
 ## Which do you like more? Front-end or back-end development?
 
 Because you can start with either one, the most important question is "what do you enjoy most"?
@@ -22,21 +24,19 @@ If you like building user interfaces (buttons, animations, dropdown menus, that 
 
 The beautiful thing about web development is that even if you specialize, you can always make a change later! Just because you start by [becoming a back-end engineer](/backend/become-backend-developer), doesn't mean you can't become a front-end developer later... which is a good thing, because that's exactly what I did!
 
-{{< cta1 >}}
-
 ## There are more back-end positions out there
 
 If you're a bit on the fence, maybe you don't have a strong preference for data or for visuals, then the next things to consider have to do with the state of the job market. According to the last [StackOverflow developer survey](https://survey.stackoverflow.co/2022/#developer-profile-developer-roles), 43% of developers have back-end responsibilities, while only 26% have front-end duties.
 
 There are simply more back-end devs out there, which means there are more positions that you yourself could potentially fill.
 
+{{< cta2 >}}
+
 ## Back-end positions pay a bit more
 
 Again, we can take a look at the latest [Stack Overflow data](https://survey.stackoverflow.co/2022/#salary-united-states) to see that back-end positions pay a median of $150,000 in the US, while front-end positions pay about $133,000. I don't think this is the most important data point to base a career decision on, after all, the numbers are fairly close. 
 
 It's important to keep in mind that there are plenty of *individual* front-end devs who earn more than *individual* back-end devs, we're looking at median salaries here. Again, money isn't everything, and the numbers are close, but the primary reason we show up to work in the morning is for that sweet sweet cash, so you should be aware of this data. If you're curious about how much software engineers earn in general, [read more here](/jobs/how-much-do-software-engineers-make).
-
-{{< cta2 >}}
 
 ## The tech stack for front-end is smaller
 
@@ -64,6 +64,8 @@ I'd estimate that it takes about 25% longer to learn back-end development than f
 I wish I could find better data on this, if you know of a more quantitative resource I can cite here, please [let me know](/contact). That said, at the last 4 companies I worked at if we opened a position for front-end engineers we were getting 100+ applicants. Conversely, when I opened a position for my own back-end team, we would get about 20.
 
 My belief is that due to the *slightly* shorter learning path to becoming a front-end dev, the majority of entry-level programmers go that route. It's important to understand because it means that if you decide to take a [back-end learning path](https://boot.dev/tracks/backend) you'll have a higher chance of placement at the end. 
+
+{{< cta3 >}}
 
 ## Front-end work will give you more exposure to users
 

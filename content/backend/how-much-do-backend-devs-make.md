@@ -31,6 +31,8 @@ If I [search](https://www.linkedin.com/jobs/search/?currentJobId=3289579147&geoI
 
 This demand leads to a high salary. It’s worth getting the job.
 
+{{< cta1 >}}
+
 ## What do you need to become a backend developer?
 
 There are six basic concepts you should know pretty thoroughly if you want to get a job as a backend developer. Looking at how much backend developers make, it’s not an impossible task. Even if you’re a total beginner, we expect you can [learn enough about back-end development to get a job](https://blog.boot.dev/backend/how-long-to-become-backend-dev/) in nine months to two years.
@@ -45,8 +47,6 @@ Here’s what you should know:
 * How to deploy to the internet
 
 The easiest, cheapest, most fun and most effective way to learn those six fundamentals is by taking our [backend development course](https://boot.dev/). You can also opt to learn backend development by running through these [six back-end projects](https://blog.boot.dev/backend/best-backend-projects/).
-
-{{< cta1 >}}
 
 ## How much does a backend developer earn?
 
@@ -98,6 +98,8 @@ We can conclude (within the limitations of the studies, and the fact that I’m 
 
 Finally, we know that scientifically speaking, [confidence in job interviews](/jobs/confidence-in-job-interviews/) [predicts](https://www.pnas.org/doi/abs/10.1073/pnas.2010269117) the gender pay gap among STEM graduates. Increasing confidence is therefore a key determinant in your starting salary – and especially important for women and non-binary folks.
 
+{{< cta2 >}}
+
 ## How does the salary stack up compared to other developer/engineer jobs?
 
 If you have a base set of computer science skills and you’re deciding which job to pursue, it can be helpful to know how much backend developers make compared to other, similar roles.
@@ -127,8 +129,6 @@ Want the full lowdown? Check out our article on the [difference between data eng
 The much-touted sexiest job of the century! The average salary for data scientists is a bit higher than backend developers, clocking in at $100k per year [according](https://www.indeed.com/career/data-scientist/salaries#salary-satisfaction) to Indeed.
 
 Like a backend developer, one of the main languages you’ll use in [data science is Python](/python/python-for-data-science/). Beyond that, there are quite a few differences. You’ll need more business, analysis, and data viz skills to get into a data science career path.
-
-{{< cta2 >}}
 
 ## Final thoughts on the salary of backend developers
 

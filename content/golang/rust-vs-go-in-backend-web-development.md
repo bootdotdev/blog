@@ -29,6 +29,8 @@ Rust v1 released: May 15, 2015
 
 Go v1 released: March 28, 2012
 
+{{< cta1 >}}
+
 ## Performance
 
 Performance metrics generally put Rust squarely ahead of Go, but not by a lot. The Rust compiler and language design allow developers to easily take advantage of optimizations that achieve speeds comparable to the likes of C. On the other hand, Go trades a small amount of speed for simplicity and elegant syntax.
@@ -36,8 +38,6 @@ Performance metrics generally put Rust squarely ahead of Go, but not by a lot. T
 ![](/img/800/rust-vs-go-speed.png)
 
 [benchmarksgame](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/rust-go.html)
-
-{{< cta1 >}}
 
 ## Memory Management
 
@@ -51,13 +51,13 @@ While both approaches have their pros and cons, generally speaking Rust's compil
 
 [benchmarksgame](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/rust-go.html)
 
+{{< cta2 >}}
+
 ## Development Speed
 
 There are times during the development of a web application that development speed is more important than app speed. Python is a great example, it is one of the slowest languages but has some of the cleanest syntax. While Go is generally faster and uses less memory than languages like Java, C#, JavaScript, Python, and Ruby, it makes a performance trade-off to allow for fast and simple development.
 
 It's also worth noting that Go and Rust are both growing in popularity. If you want to read more on that, take a look this related article, ["Rust vs Go - Which is More Popular?"](/golang/rust-vs-go-popularity/).
-
-{{< cta2 >}}
 
 ## Code Comparison
 

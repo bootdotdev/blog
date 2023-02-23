@@ -30,6 +30,8 @@ Now, [computer science is still a tough degree](/computer-science/is-computer-sc
 
 The main thing worth noting is that while a computer science degree is a solid bet for the future, it’s no longer the *only* path to the future. As [async computer science boot camps](http://boot.dev) become more comprehensive and degrees become more expensive, there may reach a point at which it’s best to learn computer science by yourself without relying on a university degree. After all, [over 30% of computer scientists today](https://www.zippia.com/computer-scientist-jobs/demographics/) don’t even have a Bachelor’s degree.
 
+{{< cta1 >}}
+
 ## The future of computer science as a career
 
 Whether or not you decide to clinch a computer science degree, you probably want to be sure about computer science’s future as a career.
@@ -41,8 +43,6 @@ However, even with freezes *and* layoffs *and* potential AI replacements, there 
 Plus, the ongoing demand means that your computer science salary in the future is likely to be high. Today, computer science has a reputation for being a well-paid career. In the future, computer scientists are [projected](https://www2.staffingindustry.com/Editorial/IT-Staffing-Report/Feb.-3-2022/Starting-salaries-for-computer-sciences-grads-to-rise-5.2-NACE) to have the second-highest pay rise in any subject group (5.2%), surpassed only by mathematicians (5.4%).
 
 Employability of computer scientists in the future? Confirmed. Computer scientist salary in the future? Likely to increase. Overall, computer science as a career is in one of the strongest positions across the labor market.
-
-{{< cta1 >}}
 
 ## The future of computer science as a field
 
@@ -59,6 +59,8 @@ As a field, I expect new technology - new languages, frameworks, or even more ad
 But there’s a lot more to change that nobody can predict. Today, if you’re a [computer scientist, you could become](/computer-science/highest-paying-computer-science-jobs) a web developer, a cyber security expert, a database administrator, a data scientist, a business analyst, and much more. Half of those jobs didn’t exist twenty years ago. If they did, they were a very different job. In ten years, it’s tricky to say what computer science jobs will look like.
 
 The only guarantee is that you’ll have them. The future of computer science is very bright, whether you’re choosing it as a degree, a career, or just contemplating it as a facet of our human existence.
+
+{{< cta2 >}}
 
 ## Computer science has a long and fruitful future ahead.
 

@@ -64,6 +64,8 @@ You’re **managing risk**. This is also a different role. You’ll be in charge
 
 Finally, you’re back to **collaboration and communication**. Security is only as strong as its weakest point, so you’ll need to work closely with Development teams, Operations teams, and security teams to make sure everyone is up to date on best Sec practices, and that security is fully integrated through the software development life cycle.
 
+{{< cta1 >}}
+
 ## 2. Necessary background, education, and skills
 
 That was a long old section. This one will be a little shorter. And to make it handy, I’ll summarize it all here in some charts:
@@ -151,8 +153,6 @@ Then as a DevSecOps, you’ll also need:
 
 That’s *in addition* to all the regular DevOps skills I listed above.
 
-{{< cta1 >}}
-
 ## 3. Salaries
 
 Now we’re onto the money. In previous articles, I’ve found it useful to break down not just a salary comparison but also to look at median salaries in the top five cities in comparison to cost-of-living, rent, and taxes.
@@ -191,6 +191,8 @@ It’s more like if you’re a DevSecOps, you do all the same stuff as a DevOps 
 
 In fact, I noticed very few places hiring both DevOps and DevSecOps roles at the same time. Many newer companies seemed to be forgoing DevOps engineers and going straight into hiring DevSecOps engineers instead to get a two-for-one bargain.
 
+{{< cta2 >}}
+
 ## 4. Job prospects
 
 All the money in the world doesn’t mean anything unless there are jobs available. Right now, DevSecOps is a relatively new field that combines the responsibilities of a traditional DevOps role with a focus on security.
@@ -220,8 +222,6 @@ As you can see, the numbers of job openings are actually similar on Indeed and G
 Honestly, if you have the skill set to be a DevSecOps engineer, I’d recommend applying for any regular DevOps role and using your skillset to bargain for a higher salary. You’ll be doing the same role, plus additional responsibilities. All you need to do is convince your future employers that the “Sec” part of DevOps is non-negotiable.
 
 And if you’re a DevOps engineer? It might be a good time to pick up some DevSecOps skills and certifications, like knowledge about regulations and governance.
-
-{{< cta2 >}}
 
 ## Final thoughts on the differences between DevOps and DevSecOps
 

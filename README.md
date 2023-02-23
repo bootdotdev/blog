@@ -70,9 +70,9 @@ make buildscripts
 ./bin/rmshorts cta2
 ./bin/rmshorts cta3
 
-./bin/addshorts cta1 3
-./bin/addshorts cta2 5
-./bin/addshorts cta3 8
+./bin/addshorts cta1 2
+./bin/addshorts cta2 4
+./bin/addshorts cta3 7
 ```
 
 ## Resize images

@@ -18,13 +18,13 @@ I’m amazed whenever I click on a candidate’s Github profile and the first se
 
 Apart from just pinning your best six, you should also put those in order, with your best works at the top. Consider that most people are going to only look at your first one or two repositories, so make sure those are your best ones.
 
+{{< cta1 >}}
+
 ## Give yourself a profile picture, username and bio
 
 Fill out your profile. Seriously, it takes 3 minutes tops. If you have an embarrassing username that you created years ago, update it. If you have the default avatar, add a professional photo of yourself, or a cool AI-generated image or something.
 
 Don’t leave it blank! The more you can fill in with relevant information about yourself and your skills, the more you’ll stand out and be memorable to your potential employer.
-
-{{< cta1 >}}
 
 ## Create an amazing Readme for each of the projects you have pinned
 
@@ -38,13 +38,13 @@ Hiring managers will be clicking into your repositories. Create a good Readme fo
 
 Apart from the Readme on the project, clean up the code if you haven’t looked at it in a while. Maybe organize some of those files and clean up some of the code to make it more readable. Maybe even add some linting rules or automated CI tests. The point is, if the hiring engineer hops into your project and pokes around some of the files, you want them to be impressed.
 
+{{< cta2 >}}
+
 ## Add a profile Readme
 
 Github recently added a new feature that allows you to add a markdown-styled intro to your profile page. It’s a great opportunity to write a slightly more detailed bio with additional links to things like your resume, LinkedIn profile, top projects, etc. I do think you should keep the Readme fairly short because it will push your pinned repositories down the page, and that’s really where you want to keep your reader’s attention.
 
 You can add a [Readme to your profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) by creating a repo with the same name as your Github username and using the default Readme in that repo. It’s driven completely by convention. Here’s an [example of mine](https://github.com/wagslane/wagslane).
-
-{{< cta2 >}}
 
 ## If your heatmap is bare, you should be coding more
 
@@ -60,13 +60,13 @@ By the way, this is what the heatmap I’m talking about looks like. More green 
 
 When I was in school, private repositories were a paid feature of GitHub, but now they’re free! There really isn’t any excuse to just hide your old code that you don’t plan on maintaining behind a privacy flag. If you want to clean it up, then feel free to make it public, but I would recommend keeping your public list tidy.
 
+{{< cta3 >}}
+
 ## Work on a mix of applications, libraries, and open source contributions
 
 Many junior developers make the mistake of only working on applications. While your calculator and todo apps are worthwhile, you’ll get a lot more bonus points from potential employers if you mix in some other types of projects. Libraries and packages that are designed to be useful to other developers are a great way to show off your skills and differentiate yourself. Most entry-level devs aren’t publishing those!
 
 Additionally, if you’re able to make small but meaningful contributions to medium to large existing open-source projects, that can be a gold mine of bragging rights when it comes time to interview.
-
-{{< cta3 >}}
 
 ## Try to get some stars
 

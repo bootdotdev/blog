@@ -22,6 +22,8 @@ Vanilla JavaScript is "simpler" than a giant React framework at first. Once your
 
 In short, when you're reviewing someone else's code, and it looks different from how you would have done it, try to see if they're making improvements in areas where your solution wouldn't have. Just because your solution does one thing "better", doesn't mean it's better overall.
 
+{{< cta1 >}}
+
 ## Your code can always be better
 
 I _really_ don't agree with the conclusion of this somewhat popular meme, and I cringe a bit when I see newer developers sharing it.
@@ -34,8 +36,6 @@ If you need to maintain your code in the future, as most of us do, please revisi
 - Refactor API contracts to keep them sensical as business rules change
 - Upgrade to newer infrastructure and technologies as it makes sense to do so
 - Keep your team knowledgeable on the older parts of the system, legacy code can be scary
-
-{{< cta1 >}}
 
 ## Just because code can be better, doesn't mean it's a priority
 

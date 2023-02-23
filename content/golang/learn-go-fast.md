@@ -14,6 +14,8 @@ Want to learn Go fast? The good news is that Go is one of the simplest programmi
 
 The Go programming language, or Golang for short, is an open-source programming language that helps developers create simple, reliable and efficient software. Go was developed at Google in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. It was designed to be fast, easy and safe to use. Go is quickly becoming one of the most popular programming languages and is one of the [best-paid languages](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states) for developers.
 
+{{< cta1 >}}
+
 ## Best Courses
 
 ### [1. Learn Go - Boot.dev](https://boot.dev/)
@@ -35,8 +37,6 @@ The tour uses the Go Playground for its computation backend (as mentioned below)
 ### [4. Golang University 101](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
 
 [Here John Arundel](https://www.youtube.com/c/BitfieldConsulting) provides a pick of Go tutorials, conference talks, and other videos that will help you learn the basics of the Go programming language.
-
-{{< cta1 >}}
 
 ## Best Communities
 
@@ -61,6 +61,8 @@ If you are into real-time discussion then the Gophers slack channel is the place
 
 ### [5. Good Gophers list on Twitter](https://twitter.com/i/lists/1320149354120769536)
 
+{{< cta2 >}}
+
 ## Best Blogs
 
 ### [1. Boot.dev Go Category](/golang)
@@ -76,8 +78,6 @@ This is the official Golang blog maintained by Go team. Can't recommend it enoug
 Dave Cheney is a personal favorite of mine. He was one of the first Gophers and has been a prolific writer and fantastic community member.
 
 ### [4. Thoughts and links about programming](https://research.swtch.com/), by [Russ Cox](https://swtch.com/~rsc/)
-
-{{< cta2 >}}
 
 ## Best Editors and IDEs
 

@@ -24,6 +24,8 @@ Yes, much of Python is best learned in front of a computer screen. However, some
 
 I find having all this information laid out in a logical, organized way for you to digest is the best way to build a framework of knowledge. Everything else you learn can be slotted into the framework you build with books.
 
+{{< cta1 >}}
+
 ## [A Byte of Python](https://python.swaroopch.com/)
 
 This book really takes the cake. It is incredibly thorough, well-written, and specifically targeted at those who are first learning to code. Even experienced programmers will enjoy this read and gain some knowledge. It’s easy to feel frustrated with the learning process, but this book has helped so many people, from curious kids to people looking to change careers.
@@ -31,8 +33,6 @@ This book really takes the cake. It is incredibly thorough, well-written, and sp
 Swaroop truly composed one of the best resources for learning Python. [They claim](https://python.swaroopch.com/) that "if all you know about computers is how to save text files, then this is the book for you". It includes all of the basics like data types, data structures, OOP, I/O, exceptions, standard Python library, and basic Python set-up. The book even includes a problem solving section, which is great, since thinking about how to code is just as important as the actual coding.
 
 This book is a condensed, free resource to double-check your doubts, learn about Python-specific data structures and how best to use them, and includes some of the more classic CS curriculum, like input/output and exceptions.
-
-{{< cta1 >}}
 
 ## [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 
@@ -44,6 +44,8 @@ Al Sweigart makes programming with Python very approachable. The book is free, a
 
 These very cool programming challenges really are quite practical. The book walks you through in great detail any libraries or tools you need to download, like [openpyxl](https://openpyxl.readthedocs.io/en/stable/).
 
+{{< cta2 >}}
+
 ## [Python for Beginners: Learn Python Programming With No Coding Experience in 7 Days](https://www.amazon.com/Python-Beginners-Programming-Experience-Web-Programming/dp/B09GZHFH2C)
 
 If you don’t already know how to program, I’d recommend this book. It lets you get your feet wet before you dive into the deep end of programming.
@@ -51,8 +53,6 @@ If you don’t already know how to program, I’d recommend this book. It lets y
 This book is handy when it comes to learning how to think about programming, and helps you build that thought pattern. It’s got plenty of code snippets to accompany most theoretical concepts to help you translate the written concept into practical code.
 
 If you’re planning to do a bootcamp or another paid course and you’ve never programmed before, I would highly recommend reading this book first. It brings value to everyone, from beginners to advanced programmers. It’s an easy read and covers a lot of fundamentals.
-
-{{< cta2 >}}
 
 ## Best Courses for Learning Python
 
@@ -64,6 +64,8 @@ This course checks all the boxes you need it to, covering variables, comparisons
 
 *Learn Python* from boot.dev also gets you access to their active discord community. If you’re hoping to break into the software industry, this community will help you do everything from prepping your resume, finding jobs that fit your skills and interests, and maybe even some mock interviews!
 
+{{< cta3 >}}
+
 ## [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-LbJFQp70Ng6EWthQCcCudg&utm_medium=udemyads&utm_source=aff-campaign)
 
 This course really takes it up a notch. They cover some concepts that aren’t included in others on this list, like working with timestamps and understanding decorators. This course also sets you up for a lot of cool mini projects, like creating GUIs using Jupyter notebooks and creating games using Python.
@@ -73,8 +75,6 @@ If you liked the simple real-world applications outlined in "Automate the Boring
 Replete with live coding examples where an instructor steps through the implementation thought process, this course also includes quizzes, homework assignments, and three portfolio projects. Lots of people really enjoy the "code along" sessions, which feel a bit like partner programming, one of my favorite ways to learn from more experienced programmers.
 
 This course is normally $139, but there are often promotions bringing it down to $20-$40. Over 1.5 million students have taken it, and over half of reviewers give it five stars.
-
-{{< cta3 >}}
 
 ## [Learn Python](https://www.pluralsight.com/courses/python-fundamentals?clickid=UkzQi8S3GxyIRukTHlSCwSkLUkDzsIUstXjv200&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius)
 

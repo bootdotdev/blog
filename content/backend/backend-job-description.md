@@ -156,6 +156,8 @@ To do this, you’ll need to be familiar with cloud platforms like Google Cloud,
 
 The day may also come when DevOps and back-end developer job roles [coalesce into one](/devops/backend-devops-roles-merging/)!
 
+{{< cta1 >}}
+
 ## Responsibilities
 
 What do all those back-end developer skills and technologies let you *do*? They let you handle the very important back-end developer responsibilities. While these differ from one job description to another, these mostly conform to a few common responsibilities.
@@ -231,6 +233,8 @@ Like at [data science companies](https://www.stratascratch.com/blog/11-best-comp
 For example, imagine you’re at that healthcare company, designing a new database. You’d have to talk to medical practitioners who talk to the patients to make sure the database you build is accessible and serves their needs. If you come in talking about APIs and server-side logic, they’ll run screaming.
 
 You need to know how to explain complex concepts in lay terms.
+
+{{< cta2 >}}
 
 ## What can you expect to find in a back-end developer job description? 
 

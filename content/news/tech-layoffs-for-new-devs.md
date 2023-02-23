@@ -34,13 +34,13 @@ Tech did *so well* during the Coronavirus because people were stuck at home. The
 
 Ad revenue from Facebook and Google is tapering off, and people are canceling their Netflix subscriptions as the commodification of online videos proliferates.
 
+{{< cta1 >}}
+
 ## Are layoffs happening?
 
 Yes, they are. [Layoffs.fyi](https://layoffs.fyi/) has some great data on this. Anytime there's a market dip, companies take advantage of the opportunity to cull the chaff in their orgs.
 
 ![layoffs from layoffs.fyi](/img/800/layoffs_in_tech.png.webp)
-
-{{< cta1 >}}
 
 ## So tech is in a rough spot, what should I do?
 
@@ -74,6 +74,8 @@ Again, I can't give you *personal* advice, but here's what I would do in a few d
 * **Have a coding job at a company that's doing well?** What are you worried about? Keep doing what you're doing, it's probably working.
 * **Have a coding job at a company that's NOT doing well?** Are you likely to be laid off? If so, get ahead of it by preparing your resume, and applying around. I'm not saying you need to immediately jump ship, but it might be a good time to start casually looking.
 
+{{< cta2 >}}
+
 ## What happens when things are not going well at a tech company?
 
 I was working at a company a few years back, we had an engineering team of about 30 and the total company size was around 100 people. The company was a SAAS in dire straights. Churn was catching up with the sales cycle and revenue was decreasing month over month. Here's how management handled it.
@@ -103,8 +105,6 @@ SAAS companies are a new beast, and accounting terms get a little funny. In a ph
 In SAAS, however, COGS is a little weird. Your hosting and external SAAS integrations are your only *true* "cost of goods sold". If you're paying for your servers and the tools that make your product run, then you're able to service your customers. That said, your engineers are the next closest thing. When something happens to the servers, if you don't have engineers that can fix it, then you'll start losing customers right and left.
 
 I suspect that many companies go through a similar cycle when they need to tighten their belts. Engineering is a great department to be in when things get tough because "cost of goods sold" is non-negotiable.
-
-{{< cta2 >}}
 
 ## How do I know if I'm going to be laid off?
 

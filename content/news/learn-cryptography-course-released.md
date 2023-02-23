@@ -25,6 +25,8 @@ Ever wondered how your data is kept safe online? This course will teach you abou
 
 If you're interested in becoming a valuable back-end engineer, an understanding of cryptography will set you apart from other candidates that will fail to answer basic security questions.
 
+{{< cta1 >}}
+
 ## Chapters
 
 ### 1. Symmetric Encryption
@@ -82,8 +84,6 @@ Digital signatures are a way to prove that a message was sent by a particular pa
 ### 14. KDFs
 
 Key derivation functions are how we derive keys from passwords or other keys securely
-
-{{< cta1 >}}
 
 ## What's inside?
 

@@ -28,6 +28,8 @@ Contrast that syntax with JavaScript's ternary, which feels a little different.
 const largerHeight = bobHeight > jillHeight ? bobHeight : jillHeight;
 ```
 
+{{< cta1 >}}
+
 ## The formal structure of a ternary
 
 Now that you've seen an example, it's important to understand what's going on. As you may have gathered from the name *ternary*, it takes 3 operands:
@@ -55,7 +57,7 @@ print(is_even_message(5))
 # Number is odd!
 ```
 
-{{< cta1 >}}
+{{< cta2 >}}
 
 ## Example of a nested ternary
 

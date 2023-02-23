@@ -159,6 +159,8 @@ p.pos() # (4, 5)
 
 The class above defines 3 methods. The `__init__()` method is the constructor, `pos()` returns a tuple of the object's position and `set_pos()` changes the object's position. `self.x` and `self.y` are member variables mutated by the various methods.
 
+{{< cta3 >}}
+
 ## Anonymous function
 
 Anonymous functions are functions without an assigned name. They are used to perform one-off tasks. The code below is an example of and anonymous function in Python.
@@ -173,8 +175,6 @@ Anonymous functions are also called **lambda expressions**. The functions can th
 sq = lambda x: x * x
 sq(2) # returns 4
 ```
-
-{{< cta3 >}}
 
 ## Higher-Order Functions
 

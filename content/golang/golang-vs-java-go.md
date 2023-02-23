@@ -28,6 +28,8 @@ Development started in 2007, led by three Google engineers Robert Griesemer, Rob
 
 Fun fact: Despite the Go dev team's disdain of C++, Go ended up being very syntactically similar to it. The original compiler was also coded in C.
 
+{{< cta1 >}}
+
 ## Golang vs Java: The Basics
 
 Here are the standard qualities of Java and Go:
@@ -45,8 +47,6 @@ Here are the standard qualities of Java and Go:
 </div>
 
 As you can see, on a very _very_ base level, Java and Go seem quite similar, offering the same level of language as well as type style, but even behind these similarities, differences can be found.
-
-{{< cta1 >}}
 
 ## Golang vs Java: Which Is Better for Beginners?
 
@@ -66,6 +66,8 @@ On top of being easy to learn, Go continues to outpace Java in the [2020 Stack O
 
 **Conclusion:** Go is better for beginners and considered easier to learn than Java.
 
+{{< cta2 >}}
+
 ## Advantages of Go vs Java for Experienced Programmers
 
 You’ll be hard-pressed to find an experienced programmer that doesn’t know Java. With platforms like Facebook, Amazon, and Twitter all using Java in their systems, Java definitely sets the bar for back-end development.
@@ -81,8 +83,6 @@ Golang doesn’t possess the history, notoriety, or complexity of Java, but it i
 What you lose in excess libraries and tech stacks, you gain in speed and performance when it comes to developing large-scale projects.
 
 **Conclusion:** Deciding which language is better for professionals depends on what kind of applications you’re developing. Java is better for those working on complex applications and Golang is best for more sizeable developments.
-
-{{< cta2 >}}
 
 ## Java vs Go: Which Is Better Paid?
 
@@ -112,6 +112,8 @@ You also don’t have to worry about using 3rd party web servers or libraries as
 
 **Conclusion:** Golang is undoubtedly the best choice for web development, with the exception of smaller-scale projects, in which case Java may prove more useful.
 
+{{< cta3 >}}
+
 ## Java vs Go: Which Is Better for Data Science?
 
 Java has brought some incredible tools to data science, like Hadoop, Hive, and Scala, and is a known [preferred development stack](https://towardsdatascience.com/top-programming-languages-for-data-science-in-2020-3425d756e2a7) for secure enterprise development. It's used for cleaning, exporting, importing, and visualizing data, as well as deep learning and analysis.
@@ -121,8 +123,6 @@ And not to beat a dead horse, but if you’ve mastered Java, the ease of creatin
 Golang can also be used for data science, with cutting edge concurrency and basic data science packages available. However, it hasn't been widely adopted by the data science community. It also offers less flexibility and takes longer with exploratory analysis and machine learning techniques.
 
 **Conclusion:** Despite our predictions that Golang will become an important data science language, Java is currently considered better for data science.
-
-{{< cta3 >}}
 
 ## Go vs Java: Memory Usage & Performance
 

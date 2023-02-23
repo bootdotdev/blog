@@ -17,6 +17,8 @@ With dozens of languages available, which ones are worth learning? Regardless of
 
 Now, you may have seen our breakdown of [Golang vs. Python](/golang/golang-vs-python/), but now it's time to see how Golang matches up to C++. We’ll compare their design, performance, speed, and security, as well as discuss key differences between the two languages and how they're used in the real world. By the end of this article you'll know if you want to [learn Golang](https://boot.dev/learn/learn-golang) or C++.
 
+{{< cta1 >}}
+
 ## Golang vs C++: A Brief History
 
 When it comes to history, C++ and Golang sit at opposite ends of the spectrum.
@@ -24,8 +26,6 @@ When it comes to history, C++ and Golang sit at opposite ends of the spectrum.
 The first edition of C++ was released in 1985, originally named C with Classes, bringing the first C language superset to the market. Development started in 1979 by Danish computer scientist Bjarne Stroustrup at Bell Laboratories, to create an easier version of C that uses classes or code templates.
 
 Golang (or Go) 1.0, however, wasn’t on the market until 2012, after being developed by Robert Griesemer, Rob Pike, and Ken Thompson, who, ironically, were inspired by their mutual frustration with C++. In the end, they took the best of everything – the best of the Java, [Python](https://boot.dev/learn/learn-python), and C languages – to create Go. Its C-inspired syntax also makes learning Golang for C++ programmers effortless.
-
-{{< cta1 >}}
 
 ## Go vs C++: Which Has a Better Design?
 
@@ -96,6 +96,8 @@ Golang, on the other hand, is a procedural language. For this, you simply write 
 
 Overall, in terms of design, Golang is better in the sense it's more user-friendly, but if you’re looking for more control then C++ is a better choice.
 
+{{< cta2 >}}
+
 ## Golang vs C++: Which is faster?
 
 When it comes to asking "is Golang faster than C++" there are two ways you need to look at it: writing time and compile time.
@@ -109,8 +111,6 @@ Go also has a faster compile time. Codes must be compiled before they run, and a
 Compile time is dependent on what you’re coding, however, C++ is famous for its slow compile time. Go’s compact style makes compiling quicker than C++’s long drawn-out form. 
 
 Overall, Golang beats C++ hands down when it comes to coding speed.
-
-{{< cta2 >}}
 
 ## Golang performance vs C++ performance
 
@@ -137,6 +137,8 @@ Now, this may not sound too bad, except this anomaly can cause the program to cr
 Buffer overflows aren’t naturally a part of C++, but it’s an easy mistake for coders to make if they’re not careful. What gives Go the advantage here is its limitations in the code that prevent this from happening. It doesn’t give coders the option to buffer overflow.
 
 For instance, with Go, you can’t use pointer arithmetic, meaning you can’t step through arrays using pointer values, you have to access them using an index. This forces you to use methods that include checks and bounds, that prevent overflows.
+
+{{< cta3 >}}
 
 ## Advantages of Go vs C++ for experienced programmers
 
@@ -169,8 +171,6 @@ Golang is heavily used for back-end web development and known for its robust abi
 With such different strengths, the real advantage for experienced programmers is to learn both, as together they will give you a well-rounded skillset.
 
 **Conclusion:** for infrastructure and large systems, Go wins. For creating games, applications and other powerful systems, consider C++.
-
-{{< cta3 >}}
 
 ## Golang vs C++: The final verdict
 

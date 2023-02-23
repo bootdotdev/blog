@@ -21,6 +21,8 @@ The course has three modules covering the following topics:
 
 We are already planning a sequel to this course, so keep an eye out for that. The sequel will cover data structures and how they play a major role in popular algorithms.
 
+{{< cta1 >}}
+
 ## Coding?
 
 ![golang gopher slice literal](/img/800/Go_Lang_Gopher.jpg)

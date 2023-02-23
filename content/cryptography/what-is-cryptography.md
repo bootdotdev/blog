@@ -16,6 +16,8 @@ Encryption transforms a key and input, the _plaintext_, into an encrypted output
 
 A real-world example would be credit card information that you use for purchases on Amazon or other e-commerce sites. The code in your web browser encrypts the plaintext, your card number, into ciphertext, which to someone without the keys would look like illegible, random text. However, once your card number reaches its intended recipient, the online store, their software would decrypt it back into plaintext so they can charge you for your purchase.
 
+{{< cta1 >}}
+
 ## Principles of cryptography
 
 The core principles of modern-day cryptography include:
@@ -50,8 +52,6 @@ There are two kinds of authentication typically used in cryptography.
 1. Integrity authentication like a [MAC or HMAC](/cryptography/hmac-and-macs-in-jwts/) ensures that data hasn't been tampered with.
 2. Source authentication, like an [SSL certificate](https://en.wikipedia.org/wiki/Certificate_authority), can be used to verify the identity of who created the information. Every time you connect to a website over HTTPS, your browser ensures that you're connected to the site you think you are by checking the SSL certificate.
 
-{{< cta1 >}}
-
 ## Guidelines for cryptographers
 
 [Never try to design your own cryptosystem. The best cryptographers in the world](/cryptography/is-open-source-cryptography-really-secure/) routinely design cryptosystems with serious security flaws. As it turns out, it's _really_ hard to build a secure system. There are just too many attack vectors to consider.
@@ -76,6 +76,8 @@ Lastly, ensure you only use key strengths and operating modes that comply with t
 
 For more information, read our post on [whether open-source cryptography really is secure](/cryptography/is-open-source-cryptography-really-secure/)
 
+{{< cta2 >}}
+
 ## What practical problems does cryptography solve?
 
 A secure system provides the four principles of cryptography to systems in the real world. Confidentiality, integrity, authentication, and non-repudiation are necessary properties in modern software, and they wouldn't be possible without cryptography.
@@ -90,8 +92,6 @@ There are two main types of attacks that exist on open networks:
 The confidentiality and integrity protection provided by cryptographic protocols such as SSL/TLS can protect communications from malicious eavesdropping and tampering. Authentication protection ensures that the data you receive really came from who you thought it came from. For example, are you sending your social security number to your bank, or to a Nigerian prince?
 
 Cryptography isn't only useful for data in transit, it can also be used to protect data at rest. Data that is simply stored on a disk in a database can be encrypted to prevent future accesses from reading it. This kind of encryption happens when you lock your phone or computer and keeps your information safe if your devices are stolen.
-
-{{< cta2 >}}
 
 ## Types of cryptography
 
@@ -166,6 +166,8 @@ Imagine that the FBI gets ahold of your personal mobile phone, and they want to 
 
 For more information, we have a full post on [cryptology vs cryptography](/cryptography/cryptology-vs-cryptography/)
 
+{{< cta3 >}}
+
 ## What is quantum computing, and will quantum computing break cryptography?
 
 Where a classical bit holds a single binary value such as `0` or `1`, a [qubit](https://en.wikipedia.org/wiki/Qubit) can hold both values simultaneously. This means a single qubit can hold much more information than a classical bit, and all this is made possible by the phenomenon of [superposition](https://en.wikipedia.org/wiki/Quantum_superposition). This unique property allows them to process information in potentially logarithmic time, or in other words, exponentially faster than classical computers.
@@ -175,8 +177,6 @@ Many asymmetric encryption algorithms have been mathematically proven to be brok
 On the other hand, symmetric encryption, or more specifically [AES-256](/cryptography/aes-256-cipher/), is believed to be quantum-resistant. That means that [quantum computers are not expected](https://en.wikipedia.org/wiki/Post-quantum_cryptography#Symmetric_key_quantum_resistance) to be able to reduce the attack time enough to be effective if the key sizes are large enough.
 
 For more information, read our post on [whether AES-256 is quantum resistant](/cryptography/is-aes-256-quantum-resistant/)
-
-{{< cta3 >}}
 
 ## How do Bitcoin, cryptocurrency and other blockchains utilize cryptography?
 

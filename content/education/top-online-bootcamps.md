@@ -16,6 +16,8 @@ In the past, you’d need a degree to get a job in computer science. But today, 
 
 A quick distinction: many coding bootcamps are in person. But thanks to the pandemic (and regular convenience) some of the best coding bootcamps are now online. These are often more affordable and flexible. Some coding bootcamps are even part-time.
 
+{{< cta1 >}}
+
 ## What is the structure of an online coding bootcamp?
 
 A good online coding bootcamp will be a mix of instructor-led lessons, independent study, practice assignments, and group projects, much like you’d get at a university degree. The main difference is the speed at which you do these. Many online coding bootcamps require a steep time commitment of full-time work for 13-22 weeks in some cases. (Part-time or self-directed bootcamps range from 20-60 weeks.)
@@ -24,8 +26,6 @@ Online coding bootcamps are also distinct from online learning platforms like [B
 
 They’re also separate from websites like [Coursera](https://www.coursera.org/) that basically offer degrees or certificates through online courses from accredited universities in coding. They’re intense, expensive, time-demanding, and in certain cases, very effective at teaching you to code.
 
-{{< cta1 >}}
-
 ## When is it worth doing an online bootcamp?
 
 They’re expensive and time-consuming. With so many low-cost, flexible learning options available, when is it [worth doing an online bootcamp](/jobs/is-coding-bootcamp-worth-it) in 2022?
@@ -33,6 +33,8 @@ They’re expensive and time-consuming. With so many low-cost, flexible learning
 If you’re someone who struggles with self-guided learning, or if you need a sense of accountability and partnership, an online coding bootcamp will be a good option for you.
 
 Want to know what the top 8 online coding bootcamps are? In the following sections, I’ll include the cost, the duration, the specialty, and why each online coding bootcamp makes the cut.
+
+{{< cta2 >}}
 
 ## 1. AppAcademy.io Online Coding Academy: Job-focused
 
@@ -49,8 +51,6 @@ Since their business model relies on your future employment, this online coding 
 **Duration:** 24 weeks full-time, also part-time offers for 52 weeks. They did not provide an hourly estimate, but 60+ per week is fairly normal for bootcamps.
 
 **Structure:** Mix of pair programming, live lectures, office hours, group projects, and homework.
-
-{{< cta2 >}}
 
 ## 2. Coding Dojo Online Coding Bootcamp: Geared for Beginners
 
@@ -82,6 +82,8 @@ It’s an inclusive program that gives its students the same rigorous coding cur
 
 **Structure**: You’ll begin with the Foundations course, which will give you a grounding in HTML, CSS, and JavaScript. It includes learning materials, weekly assignments, and weekly one-on-one virtual office hours with a Grace Hopper Program instructor. Then there’s the Junior course, which gives you lectures paired with workshops. It’s very module-based. Finally, you’ll end with the Senior program, which is career-focused, offering LinkedIn training, career coaches, and interview training.
 
+{{< cta3 >}}
+
 ## 4. Flatiron Software Engineer Online Coding Bootcamp: For Software Engineering
 
 Flatiron’s online coding bootcamps are among the most decorated – they’ve won the Best Coding Bootcamp of 2021 award, the Best Data Science Bootcamp 2021 award, the Best Cyber Security Bootcamp 2021 award, and the Best Online Bootcamp 2021 award. They also offer 180 days of 1:1 career coaching to help with resume review, mock interviews, and personal branding. They claim that you can learn to develop software for websites and apps in as little as 15 weeks.
@@ -95,8 +97,6 @@ If you have any questions, they have plenty of events and [admissions staff](htt
 **Duration:** option to learn full-time (15 weeks) or on a flexible pace schedule (20, 40, or 60 weeks). They expect a forty-hour week from you, with some "prework" requirements to get you up to speed.
 
 **Structure:** They spend some time teaching you about the fundamentals of programming, which is key for any online coding bootcamp. You’ll also get daily touchpoints with your cohort, group work with instructor help, paired with programming sessions, lab time with instructional staff, and community support. It’s worth noting that their part-time offering is much more self-driven – you’ll get mostly recorded lectures, with optional live weekly lectures and office hours, weekly check-ins with instructors, and have the chance to chat with classmates and instructors via Slack.
-
-{{< cta3 >}}
 
 ## 5. General Assembly Online Coding Bootcamp: For Industry Connections
 

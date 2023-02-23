@@ -20,6 +20,8 @@ JavaScript is ranked as the #1 programming language to learn programming with by
 
 JavaScript is the best programming language for learning how to program, but the beautiful thing about programming is that once you know how to program, you only need to learn the syntax of another programming language to program with it. The next language you learn is always faster to learn. Programming is much more about a way of thinking than it is about one programming language in particular. That being said, you do need to learn the syntax of a single programming language to begin with.
 
+{{< cta1 >}}
+
 ## How long does it take to learn JavaScript?
 
 It’s great to say you want to know how to learn JavaScript fast, but honestly, it’s difficult to say exactly how long it will take you to learn JavaScript. It depends on whether you are just starting to learn to program or if this is your seventh programming language, whether you are learning it on top of your full-time work, whether you are taking a course to learn JavaScript (online or in-person), and simply how much time you are willing to invest in the process on a weekly basis.
@@ -36,8 +38,6 @@ If you can already program using another language, you can probably learn JavaSc
 
 If you don’t already know how to program, I’ll outline the fastest way to get started with JavaScript and how to learn to program quickly in general. Learning to program takes most people anywhere between three months to a year. You’ll be able to get simple scripts working within a few days and simple websites within a few weeks. It will take you several months of studying and practice to get to the point where you can design and implement something like a complete website including navigational components, pretty graphics, and backend integration.
 
-{{< cta1 >}}
-
 ## How to learn JavaScript fast: Stay motivated
 
 Before you dig into learning a programming language like JavaScript, make sure you reflect on why you want to learn to program, and why you’re so keen on understanding how to learn JavaScript fast. Is there a project you’ve been thinking of doing that requires programming skills? Do you want to make more money? Do you want to increase your job security? There are plenty of different reasons for wanting to know how to learn JavaScript fast.
@@ -48,6 +48,8 @@ Having a reason or inspiration also makes it easy to focus on a single idea for 
 
 Come up with an idea that fits your passion and can be expanded into a complex system. Also, take the time to think about the concepts of the idea you are most familiar with (like simple math) and consider what is the easiest thing for your application. In conclusion, for those who want to know how to learn JavaScript fast, start with understanding your own motivation.
 
+{{< cta2 >}}
+
 ## How to learn JavaScript fast: Read and understand code
 
 Syntax is like the vocabulary of a programming language. Just like when you learn a foreign language, it is going to be impossible and incredibly frustrating to understand any examples or program anything yourself if you’re not familiar with the basic vocabulary of programming. The faster you pick up the basic grammar rules of JavaScript, the sooner you’ll be able to write complex code yourself. By exposing yourself to as much code as possible and testing yourself on the meaning, the faster you’ll learn JavaScript. That’s why this is one of the most ignored – but most valuable – strategies on how to learn JavaScript fast.
@@ -57,8 +59,6 @@ The first step in being able to program with JavaScript quickly is being able to
 It’s important to understand a few basic things about programming, for example, what a method or function is as well as what data types are. After you have gone through examples of how to create and use variables and understand what different operators do, take a look at what a class looks like. Understanding these simple mechanisms will speed up your overall learning journey.
 
 There are dozens of very simple [examples](https://www.oreilly.com/library/view/javascript-jquery/9781491948583/ch01.html) of JavaScript syntax out there, and reading through tutorials and blog posts can help you to understand what code looks like as well as get you thinking about what it can be used for. It’ll be tough at first, so remember to rely on Strategy 1 and focus on your motivation when you want to know how to learn JavaScript fast!
-
-{{< cta2 >}}
 
 ## How to learn JavaScript fast: Solve real problems
 
@@ -89,6 +89,8 @@ Find a project or idea that you feel passionate about. Extend your interactive l
 Figure out what you still need to know to complete your project. Maybe it’s focused on data analytics, and you need to figure out how to read in a CSV using JavaScript. Whatever it is, think of all the different things your application needs to be able to do and how you want it to do them. Try and find some packages or libraries that can help you accomplish your programming goals. Work on integrating them into your project.
 
 Programming is a muscle that you have to flex if you want to be successful at it. You need to practice designing complex systems. If you don’t take the time to think about how to store your data, how to process it efficiently, how your different classes will share central information, and other critical architecture issues, you will never build successful applications. You are going to fail and create flawed designs. That’s why the computer science world invented the idea of [agile software development](https://searchsoftwarequality.techtarget.com/definition/agile-software-development). You’re going to learn better ways of doing things and iteratively improve on your system as you go along.
+
+{{< cta3 >}}
 
 ## Final thoughts on how to learn JavaScript quickly
 

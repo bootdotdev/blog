@@ -33,6 +33,8 @@ Snake case, also known as "underscore case," uses underscores to separate words 
 * Ruby
 * PHP
 
+{{< cta1 >}}
+
 ## Camel Case
 
 Camel case, on the other hand, uses no separators between words but capitalizes the first letter of each word except the first word. For example, a camel case variable might be named `userId` or `userName`. This naming convention is commonly used in languages like:
@@ -42,8 +44,6 @@ Camel case, on the other hand, uses no separators between words but capitalizes 
 * Java
 * C#
 
-{{< cta1 >}}
-
 ## Which is the best casing style for code?
 
 So which convention should you use? The answer ultimately depends on your personal preference and the conventions used by your team or the language you're working with. However, some general guidelines can help you make a decision.
@@ -51,6 +51,8 @@ So which convention should you use? The answer ultimately depends on your person
 First, consider readability. In general, snake case is considered easier to read because the underscores make it clear where one word ends and the next begins. Camel case, on the other hand, can be harder to read because the lack of separators can make it difficult to quickly parse a variable name. That said, I find camel case easier to *write*. Camel case doesn't require the use of the `shift` key, and uses one less keystroke.
 
 In the end, the choice between snake case and camel case is largely a matter of personal preference and the conventions of your language or team. Whichever convention you choose, the important thing is to be consistent and use a naming convention that makes your code readable and maintainable.
+
+{{< cta2 >}}
 
 ## Less popular casing styles
 

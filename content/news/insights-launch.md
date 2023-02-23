@@ -14,6 +14,8 @@ At Boot.dev we've launched "community insights"! Insights make it possible for o
 
 If you're interested in joining our self-paced, online-only computer science bootcamp, you can [sign up for free here](https://boot.dev).
 
+{{< cta1 >}}
+
 ## Why insights?
 
 We've been tossing around a few different ideas for awhile, including:
@@ -40,8 +42,6 @@ We may still go down this path in the future, we love the idea of Wikipedia-styl
 ### Discord conversations
 
 We do have a [Discord server](https://discord.gg/EEkFwbv) that we love, but the majority of students miss the best insights because they are only posted once in a chat channel, and then effectively disappear forever. We will continue to grow and use our Discord community, but we need to be realistic about the its limitations. Not every online conversation is best had over real-time chat.
-
-{{< cta1 >}}
 
 ## How this fits into our methodology
 

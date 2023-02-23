@@ -65,6 +65,8 @@ Now over 10 years since Go’s original open-source release, Go is the second hi
 
 It’s never been a better time to learn Go, and here’s why:
 
+{{< cta1 >}}
+
 ## What is Go Good For?
 
 ### Simple Syntax & Easy To Learn
@@ -96,8 +98,6 @@ Goroutines are scalable and non-blocking, ideal for when multiple concurrent pro
 Golang’s quick and efficient compilation makes it effective for even the largest projects. Even the most complex projects can be quickly built and worked on efficiently to reduce bugs and aid easy debugging.
 
 On large projects where many developers work together to maintain and develop in teams, it’s integral that they be able to work in sync and understand each other’s solutions. Go is designed based on the philosophy that there should be very few solutions (ideally just one) rather than a wide variety of ambiguous solutions so that maintaining these large and complex projects is as simple as possible. 
-
-{{< cta1 >}}
 
 ## What is Go Used For?
 
@@ -139,6 +139,8 @@ Go can handle [complex math problems much faster than Python](https://www.rtinsi
 
 We believe that Go will become a much more widely adopted machine-learning language in the future.
 
+{{< cta2 >}}
+
 ## Limitations of Go
 
 - **Go doesn’t support generic functions** -- You can’t write implicit code, and the lack of generics support hurts efficiency and reduces your code’s reusability. That said, generics are coming in version 2.
@@ -148,8 +150,6 @@ We believe that Go will become a much more widely adopted machine-learning langu
 - **Not suitable for some types of applications** -- Go is great for some things like maintaining complex systems serving large audiences for backend system scaling, but the same features that make it so exceptional for these uses, like its small memory footprint, also make it less useful for simpler and smaller-scale projects. For rapidly prototyping an application or creating a bite-size demo, you’d favor Python and its dynamic typing over Go.
 
 - Go is newer, and therefore **has a less extensive library** and community than some languages, such as Python.
-
-{{< cta2 >}}
 
 ## Conclusion: Should You Code in Go?
 

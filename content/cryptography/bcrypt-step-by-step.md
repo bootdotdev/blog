@@ -32,6 +32,8 @@ Alg   Cost                  Salt                                            Hash
 - `N9qo8uLOickgx2ZMRZoMye`: 16-byte (128-bit) salt, base64 encoded to 22 characters
 - `IjZAgcfl7p92ldGxad68LJZdL17lhWy`: 24-byte (192-bit) hash, base64 encoded to 31 characters
 
+{{< cta1 >}}
+
 ## Why not compare passwords directly?
 
 In web development, it is insecure to store user's passwords in plain text. If an attacker were to gain access to the server's database they could find raw email/password combinations and use them to attack the same users on other sites.
@@ -54,8 +56,6 @@ password3 -> 5906ac361a137e2d286465cd6588ebb5ac3f5ae955001100bc41577c3d751764
 `password3` produced a matching hash! Now the attacker knows that `user@gmail.com` is likely to use the password `password3` on other sites and can go hack other accounts. This is only possible because the attacker is able to quickly compute many hashes per second and guess millions of potential passwords.
 
 A slow KDF like Bcrypt solves this problem.
-
-{{< cta1 >}}
 
 ## Bcrypt Explained Step by Step
 

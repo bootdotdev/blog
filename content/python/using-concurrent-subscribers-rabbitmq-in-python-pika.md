@@ -74,6 +74,8 @@ class ThreadedConsumer(threading.Thread):
 
 The constructor will create an entirely new connection to Rabbit because pika is **not** thread safe. Each message will be handled by _callback()_ where we will sleep for 5 seconds and print the message.
 
+{{< cta1 >}}
+
 ## Putting It All Together
 
 ```py

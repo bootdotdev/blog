@@ -22,6 +22,8 @@ Trouble is, when you're just starting, those boring details are *exactly* the th
 
 Like any good developer, I use a library and call `sha256.Hash(text)` when I need to hash some data. I don't try to write my cryptography from scratch! That said, I've taken the time to learn and understand *why* [sha256](https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/) is a good choice in a given scenario, and what security it provides me. Similarly, when you're learning back-end development, frameworks are just too high-level to be a good starting point.
 
+{{< cta1 >}}
+
 ## Frameworks are easy to learn, that's the whole point
 
 The entire selling point of a framework like Django, Flask, or Rails is that they're easy to use. They take the repetitive, boring stuff and give you an opinionated way to do it. With just a few CLI commands, you can have a fully-functional web application up and running!
@@ -31,8 +33,6 @@ The problem with starting this way is that you'll have an entire codebase, with 
 ![hours of debugging](https://pbs.twimg.com/media/E2A3GwaXsAA_GwQ?format=jpg&name=small)
 
 In the long run, it will be a lot faster to learn the basics of back-end servers. You can always learn a framework later, it's *really* not hard at that point because you will already understand the pieces that are magically taken care of.
-
-{{< cta1 >}}
 
 ## I made the mistake of starting with Django
 
@@ -45,6 +45,8 @@ I stressed for weeks trying to make sure my site was "secure". Every blog post o
 Anyhow, a year later when I [learned Go](https://boot.dev/learn/learn-golang) and built an API without any frameworks, *everything started to come together for me*. I finally understood all the moving parts.
 
 Since then, I've worked with minimalistic Go apps, Django, Flask, Rails and Express servers. I'm no longer stressed when I build a server in Django because I know what tradeoffs are being made. Django and Rails are not bad tools for building web apps, they're just bad tools to start your learning process with.
+
+{{< cta2 >}}
 
 ## How far down the rabbit hole do I need to go?
 
@@ -68,8 +70,6 @@ That's not what I'm saying. If you want to be a professional in any industry, I 
 * Want to build operating systems? It will help to understand the kernel.
 * Want to write an ORM? It will help to understand databases.
 * Want to write Rails apps? It will help to understand web servers.
-
-{{< cta2 >}}
 
 ## Lastly, full-stack and back-end development are different
 

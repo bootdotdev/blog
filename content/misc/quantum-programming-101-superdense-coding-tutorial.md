@@ -12,17 +12,19 @@ images:
 
 Superdense coding is a quantum communications protocol that allows a user to send 2 classical bits by sending only 1 qubit.
 
+{{< cta1 >}}
+
 ## The Protocol
 
 ![Circuit diagram showing the Superdense coding protocol](https://images.squarespace-cdn.com/content/v1/5d52f7bd9d7b3e0001819015/1568570192389-QKR2T26M5L77MMGSNYSO/ke17ZwdGBToddI8pDm48kHhDgr9o-CO5HUY18_e2tTRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpz_SQtWgrO0Gv26UofgWjnOOGhFSVLwPZgZm2lqxes1sgRVlwGgutYPF4XYvY8iVT8/Superdense_coding.png?format=750w)
-
-{{< cta1 >}}
 
 ## Step 1: Preparing the Bell Pair
 
 First a bell pair consisting of 2 qubits is prepared. Where q0 is the senders qubit and q1 is the receivers qubit. To do this q0 is put in to a superposition of states using a hadamard gate.
 
 Then a CNOT operation is performed with q0 being the control and q1 being the target.
+
+{{< cta2 >}}
 
 ## Step 2: Encode The Information On To Q0
 
@@ -33,8 +35,6 @@ Next the sender has to encode the information they want to send on to q0 by appl
 - If they want to send 10 then they apply a Pauli-Z gate.
 - If they want to send 11 then apply a Pauli-Z gate followed by a Pauli-X gate
 
-{{< cta2 >}}
-
 ## Step 3: Receiver Decodes the Information
 
 Next q0 is sent and the receiver has to decode the qubit. This is done by applying a CNOT where the received q0 is the control and q1 is the target. Then a hadamard gate is applied to q0.
@@ -44,6 +44,8 @@ Next q0 is sent and the receiver has to decode the qubit. This is done by applyi
 1. Copy and paste the code below in to a python file
 2. Enter your API token in the IBMQ.enable\_account('Insert API token here') part
 3. Save and run
+
+{{< cta3 >}}
 
 ## Code
 

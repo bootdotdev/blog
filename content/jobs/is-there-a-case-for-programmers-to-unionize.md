@@ -35,6 +35,8 @@ For example, geographic tech hubs (San Francisco, we're looking at you) have bec
 - Wealth inequality is a real problem, but I'd rather see a more simple and targeted solution like a small UBI. It would help workers across all industries without needing to add paperwork, membership, and union dues to our already complicated lives.
 - Fewer zoning laws, and better access to public transportation. Americans spend quite a bit on cars, with the [average car owner spending roughly $775/month](https://www.hotcars.com/average-american-spends-roughly-800-a-month-on-their-car/) on car-related expenses. If more of us could walk, bike, or catch trains to get around it would help with the environment and our wallets.
 
+{{< cta1 >}}
+
 ## #2 Difficulty proving your worth without having a silver tongue
 
 I'll be the first to admit that this is a huge problem in the coding industry, and really in any knowledge-based industry where aptitude and impact are hard to measure. There are terrible engineers who make 4x more than seriously talented engineers, simply because they're better at writing resumes, interviewing, building social profiles, or smooth-talking at the negotiating table.
@@ -49,8 +51,6 @@ I have two main problems with this approach.
 
 1. Standardizing testing and certification systems likely wouldn't be effective in a field as fast-paced as software engineering. Best practices in 2019 can be obsolete in 2020, and I just don't trust union administrators to keep up.
 2. We can solve this problem without unions. I think there's a growing market demand for developer-vetting. Right now this need is mostly filled by service-based recruiting companies, but I think there's an opportunity for a kind of developer-profile industry to emerge. Ideally, it would make it easy for developers to showcase their knowledge and projects in an effective and streamlined way, and at a fraction of what union dues would cost.
-
-{{< cta1 >}}
 
 ## #3 Discrimination
 
@@ -70,6 +70,8 @@ I'm not sure which practices could prove to be most effective, but my point is t
 
 I can see unionization being the correct choice if bigoted executives are explicitly refusing to take action, and are blocking managers from doing the same. If this is the case where you work, it may be time to start organizing. Extra care will need to be taken to ensure the union organizers have the worker's diversity goals in mind.
 
+{{< cta2 >}}
+
 ## #4 Market-value discrepancy between junior and senior developers
 
 Spend a few minutes in [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/) or [/r/programmerhumor](https://www.reddit.com/r/ProgrammerHumor/) and it will become readily apparent that entry-level developers have a really hard time finding their first job. Who would hire someone with no previous experience? On the flip side, senior developers are constantly complaining about all the recruiters that won't leave them alone, and they're among some of the most well-compensated people in the workforce.
@@ -85,8 +87,6 @@ The junior/senior problem seems to mostly be a supply and demand problem, with p
 - If there are just too many engineers (doubtful) then let people know so new learners will know what they're getting into
 
 In regards to junior developers not being able to prove their skills, I think there are potential cultural improvements and product innovations that have a lot of potential. For example, inexpensive access to online courses and certificates helps students that didn't go to college prove that they understand certain concepts. The open-source community seems to me to be more inclusive and collaborative, and if you maintain a project you can help by flagging issues with `good first issue` or `help wanted` which encourages newer devs to get their hands dirty and fill out their open-source portfolio.
-
-{{< cta2 >}}
 
 ## #5 Employees are at the mercy of employers
 
@@ -123,6 +123,8 @@ I think unions seriously helped a lot of workers in the 20th century, and there 
 - Could make it harder for workers to break off and start their own competing companies, leading to the biggest companies monopolizing the workforce
 
 In the end, I tend to think that the majority of us in the development world are better off without unions currently. This might change, and there may be a place for specific sub-industries or geographic areas to band together.
+
+{{< cta3 >}}
 
 ## Special Mention - Pension Benefits
 

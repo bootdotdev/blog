@@ -25,6 +25,8 @@ Society needs twice as many software developers as it does mathematicians, chemi
 
 Some of the most successful software developers didn't even take a traditional career path, and that's what we find most exciting about this career's prospects for the future. You can break into the development industry by simply taking [courses online](https://boot.dev/), attending a real-life [boot camp](/jobs/is-coding-bootcamp-worth-it/), or getting a degree from the university.
 
+{{< cta1 >}}
+
 ## How much do web developers make?
 
 Salary varies based on several factors, such as company location, job title, years of work experience, [education level](/computer-science/compsci-certificate-vs-degree/), and the specific type of technologies used, which primarily includes the coding language of the development team.
@@ -45,21 +47,19 @@ As it happens, we have several great Go courses to jumpstart your career:
 - [Learn Algorithms)](https://boot.dev/learn/learn-algorithms)
 - [Learn Cryptography](https://boot.dev/learn/learn-cryptography)
 
-{{< cta1 >}}
-
 ## Is It Best to Specialize in One Language?
 
 As long as coders are specializing in a high-demand language or technology, then becoming an expert with one or two languages is a great way to go. That said, the landscape is always changing and those with a diverse range of abilities will always be able to find good work. One peculiarity of software engineering is that it requires continuous education, practice, and community involvement to keep pace with innovations.
 
 Seventy-five percent of respondents to Stack Overflow's survey learn new technologies _at least once per year_ to give students an idea of what they face in this career.
 
+{{< cta2 >}}
+
 ## How Much Does a Software Developer Make an Hour?
 
 Median salaries for software engineering careers rank among the highest in any industry. Evaluating developer work by the hour typically relates to freelance workers as most engineers work on salary. Fifty-one percent of Stack Overflow's survey respondents work between 40 and 45 hours per week, which puts software development on par with a typical full-time job in the U.S.
 
 According to [data compi](https://www.payscale.com/research/US/Job=Software_Engineer/Salary)[l](https://www.payscale.com/research/US/Job=Software_Engineer/Salary)[ed by PayScale](https://www.payscale.com/research/US/Job=Software_Engineer/Salary), the average hourly wage for software engineers at the end of 2020 is about $35 per hour. However, 10% of entry-level software developers make approximately $20 per hour while the top earners with the most experience and a broad skill set can _earn hundreds of dollars per hour_, especially if they're doing consulting work.
-
-{{< cta2 >}}
 
 ## How Much Does a Software Developer Make a Year Based on Job Title?
 

@@ -36,6 +36,8 @@ Compare that to C++, which is a middle-level programming language developed by B
 
 To summarize, I could tell you everything you need to know by simply saying that JavaScript is a "scripting" language whereas C++ is a "programming" language. Scripting languages make coding easier and faster because they run inside another existing program. Programming languages, at least in this context, are made to make full-fledged code and software development easier. You can feed lines from a programming language directly to a computer and it’ll do what you want it to do.
 
+{{< cta1 >}}
+
 ## Advantages and disadvantages of JavaScript vs C++
 
 I want to start by saying that both languages are truly fantastic in terms of support and community. Because they’ve both been around for such a long time, there’s a robust group of folks, both experts and novices, who hang out on Discord groups, Slack channels, Reddit threads, StackOverflow answers. There are textbooks, tutorials, walkthroughs, guides, and generally more content to teach you either C++ or JavaScript than you could consume in a lifetime of learning.
@@ -64,8 +66,6 @@ But there are places where C++ excels compared to JavaScript. For one, once the 
 
 C++ is more of a computational heavyweight as well. It’s built to do some pretty chunky calculations. Lightweight can be good in some cases, but in other instances, you do want a language that can handle the hard stuff. This is what makes C++ (and its variants, like C and C#) so good at doing pretty much… anything. It can do these rapid-fire calculations that are necessary for gaming or landing the moon. In terms of C++ vs javascript performance, there’s really no comparison.
 
-{{< cta1 >}}
-
 ## Career/Job Prospects of JavaScript vs C++
 
 To summarize, it’s easier to get a JavaScript job versus a C++ job for most developers at the moment. The salaries for both are high, but knowing C++ will likely get you a higher one. C++ is often a late-stage career path, while JavaScript opens you up to a ton of potential early on, due to it being easier for beginners to pick up.
@@ -81,6 +81,8 @@ As a C++ developer, your average salary will be higher, clocking in at $113k ann
 Once you’ve secured that first job in JavaScript, you can transition into a lot of other professions, like becoming a front-end and back-end web developer, a mobile app developer, or even a machine learning engineer. 
 
 C++, meanwhile, gives you options like becoming a software engineer, a video game developer, or even a DevOps engineer. Pretty much anything that requires that heavy, fast computation is a good job option for a C++ developer.
+
+{{< cta2 >}}
 
 ## Conclusion: C++ vs JavaScript
 

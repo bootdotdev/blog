@@ -42,6 +42,8 @@ If you’ve already spent time and money on your bootcamp or course, you don’t
 
 There are many resources online, both paid and free, that can help you learn the building blocks. Whether you get the basics from a degree, course, or bootcamp, you can’t expect to do a single course focusing on one niche aspect and get a job. 
 
+{{< cta1 >}}
+
 ## 2. You’re not presenting yourself in a way that demonstrates you’re a good culture fit
 
 Personally, part of the reason I ended up going for a data science job out of college was because I hated sales, like many other people. But while everyone hates sales, when you’re applying for jobs, you have to know how to sell yourself at every stage of the application process. If you can't get a programming job, it may be because you're neglecting this part of the application process.
@@ -63,8 +65,6 @@ The truth is that most people, including programmers and coders, aren’t coding
 Do you show passion, engagement and curiosity? What extracurriculars have you done? How can you package your skills to demonstrate you’re what they need both from a technical and cultural perspective?
 
 Take time to research your potential future employer and what non-technical qualities current employees show. This will give you the strongest chance of presenting yourself favorably from both a skills perspective as well as a culture fit. 
-
-{{< cta1 >}}
 
 ## 3. You’re ignoring good interview skills
 
@@ -91,6 +91,8 @@ If you’re getting to the interview stage and still can’t get a programming j
 
 This shows interviewers that you’re not just a superb coder, but you’re a good interviewer, and hence a good communicator. 
 
+{{< cta2 >}}
+
 ## 4. You don’t have experience
 
 Don't blame yourself too much if you can't get a programming job for this reason. This is a problem compounded by the job listings posted by employers. It seems like every employer needs coders who have at least five years of experience in a language that only came into creation one year ago. This leads to coders applying for jobs that might be considered a bit of a stretch in terms of their applicable experience.
@@ -116,8 +118,6 @@ No, you don’t need five years experience. But if you can't get a programming j
 Do you have a blog, GitHub repo, or another portfolio where you can demonstrate your commitment to programming? Nathanaël Cherrier, Lead JavaScript software engineer at Ferpection, lists some advantages in [his blog post](https://www.welcometothejungle.com/en/articles/successful-personal-blog-developer) on why developers should start blogs: "When you write on the Internet you become more visible than a regular developer. Who are you hoping will read your post? Future colleagues? A recruiter from that awesome company you’d like to work at? The committee responsible for choosing the speakers of a conference you’d like to talk at? All these people will be interested in both your technical skills and your editorial skills." 
 
 If you can't get a programming job because of a lack of experience, sharing your passion can be a great way to prove to employers that you can do what they need you to do. 
-
-{{< cta2 >}}
 
 ## 5. You’re trying to master everything
 
@@ -163,6 +163,8 @@ By sticking to what you do know, both on the job application and in the intervie
 
 Consider an employer who meets two candidates: one who says they can do something that they can’t, and one who says it’s beyond their current skill set, but demonstrates how they’ve grown their skills over the past year. The latter is much more appealing to employers. If you can't get a programming job, consider how to pare back your alleged skills to keep it as real as possible.
 
+{{< cta3 >}}
+
 ## 7. You haven’t demonstrated you want to learn
 
 It’s interesting to note that [LinkedIn Workplace Learning’s 2020 report](https://learning.linkedin.com/resources/workplace-learning-report) shows that the most in-demand skills aren’t technical ones at all, but rather soft skills. The reason, they postulate, is because technical skills age quickly. A vital skill one year is redundant the next. Soft skills, like the basics of computer science, underpin every single other skill that might be attractive to employers. 
@@ -184,8 +186,6 @@ Luckily, most coders and programmers love to learn. You have to, especially if y
 It’s also a good idea to brush up on the latest programming trends. You don’t have to show total mastery of them - and indeed, that would be a waste of your time - but by demonstrating interest in the trends of programming, you can show you enjoy learning and staying current in the computer science field.
 
 Finally, don’t limit yourself to only showing a passion for learning computer science. What else do you enjoy learning? Instruments, spoken languages, watercolor techniques and more can all be ways to showcase your love of learning. 
-
-{{< cta3 >}}
 
 ## 8. You’re ignoring automated filters
 

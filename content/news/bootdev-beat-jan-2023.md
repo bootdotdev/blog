@@ -32,6 +32,8 @@ We added 2 new chapters to the [Learn Data Structures](https://boot.dev/learn/le
 
 Last month we released an update to the game system that enables you to use gems to buy XP boosts, and to recover your sharpshooter progress if you lose it. While that was awesome, it wasn't obvious how to do it, so we've improved that experience. You can read about the [details of the game here](https://blog.boot.dev/wiki/the-game/).
 
+{{< cta1 >}}
+
 ## What we're working on now
 
 * My wife is scheduled to give birth to our son on Feb 8th, so February is gonna be a bit slow, but Allan will still be working like a dog.
@@ -58,6 +60,8 @@ This is a great podcast episode where Tiff sits down with a super experienced re
 by The Back-end Engineering Show
 
 This is a fascinating deep dive into Dropbox's SSD caching system and why removing it actually made their writes faster.
+
+{{< cta2 >}}
 
 ## Top plugs for this month
 

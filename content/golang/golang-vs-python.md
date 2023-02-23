@@ -20,6 +20,8 @@ However, they’re both held up as answers to a lot of typical coding questions:
 
 The truth, like just about every article I write about how to [learn computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/), is that it’s complicated. The answer to whether you should [learn Go](/golang/learn-go-fast/) vs Python depends on if you’re a beginner, what job you want, what your history with computer science is, and what your goal is. 
 
+{{< cta1 >}}
+
 ## Let’s start with a brief historical definition of Golang vs Python
 
 Python slithered onto the coding scene in 1991, written by Guido van Rossum who wanted a successor for a programming language I’ve never even heard of, called ABC programming. Its hallmarks are readability, versatility, and scalability. It’s a beast of a language with tremendous libraries, a fervent community of supporters (called pythonistas), and three versions that are patchily compatible. 
@@ -27,8 +29,6 @@ Python slithered onto the coding scene in 1991, written by Guido van Rossum who 
 Go, meanwhile, arrived in 2012 much like Athena - sprung fully formed from the foreheads of its fathers: Robert Griesemer, Rob Pike, and Ken Thompson, all of whom worked together to release it in 2009. It was a built-for-purpose language, created to address a lot of the problems Google was facing in its code at the time, and also out of spite as the creators all disliked C++. Its supporters (Gophers) love it for taking the best of languages like C and Javascript while avoiding their pitfalls. 
 
 This background is useful to keep in your head when you begin to think about Golang vs Python, and which language you want for what task (or which coding nickname you’d prefer to be called). Both have pros and cons, but depending on your end desire, there’s a sure answer for you between Golang vs Python.
-
-{{< cta1 >}}
 
 ## Golang vs Python: Which coding language is best for beginners?
 
@@ -44,6 +44,8 @@ Python, meanwhile, is a winner for me in terms of which language is best for abs
 
 In summary, when the question is "Golang vs Python: which is best for beginners?" for most people the answer will be Python.
 
+{{< cta2 >}}
+
 ## Golang vs Python: Which coding language is best for experienced coders?
 
 I may have given the game away in the previous section, but my answer for this is Golang (assuming you're not doing any [AI/ML work](#machine-learning)). Go is typically better for people who already know how to code and want to add another programming language to their arsenal. 
@@ -53,8 +55,6 @@ As I stated above, it was created based on existing problems Google engineers ha
 Go has a cleaner syntax with a tighter set of libraries.  It’s helpful for coders who want to become more productive with a less bloated syntax, as it all fits in your head - _if_ you’re an experienced coder. Additionally, it is built to scale up to enormous projects, the likes of which Google was trepidatiously facing back in the noughties when they were developing this language.
 
 If you’re an experienced coder, Golang is a great, easy, and useful language to pick up. You’ll be able to appreciate all the little improvements on other languages that a beginner might not appreciate, like the [naming conventions](https://golang.org/doc/effective_go#names). Go easily wins the battle of Golang vs Python for experienced coders.
-
-{{< cta2 >}}
 
 ## Golang vs Python: Which language is best for a job in computer science? 
 
@@ -90,6 +90,8 @@ Part of the reason Python is so popular for machine learning is that it's the ho
 
 It’s worth noting that popularity isn’t the same as quality. While Go [doesn’t even rank on the top 10 languages for machine learning](https://github.blog/2019-01-24-the-state-of-the-octoverse-machine-learning/) in terms of popularity, [Websensa admitted in their post](https://websensa.com/en/2020/07/01/go-vs-python-which-one-is-better-for-machine-learning/) on which language is best that "Go is faster, more scalable, and performant so that it is perfect for large-scale projects. And that makes it one of the best choices to work on machine learning infrastructure." Perhaps in the future when debating between Golang vs Python, Go will be a machine learning coder's go-to.
 
+{{< cta3 >}}
+
 ## Golang versus Python: Which language is best for programmer productivity? 
 
 Productivity, at its basic definition, is getting a lot of meaningful work done efficiently. Because of the paradox of choice, humans (and hence human programmers) [tend to be most efficient](https://zulie.medium.com/were-drowning-in-choices-and-it-s-killing-our-productivity-b914e0756b2e) when working with a limited toolset.
@@ -105,8 +107,6 @@ It’s interesting to note that Python is sometimes recommended as the most prod
 [XKCD](https://xkcd.com/353/)
 
 However, in this battle of "Golang vs Python: which is the most productive language?" I rank Go as the best simply because it’s intended to be more productive, easier to debug, is all formatted in a similar style, and above all, it’s simple to read. Never forget that coding is a collaborative act - the less time you have to spend to understand what someone else has coded, the easier it is to contribute productively.
-
-{{< cta3 >}}
 
 ## Golang vs Python: Which language is best for the future? 
 

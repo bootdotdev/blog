@@ -56,6 +56,8 @@ func main() {
 }
 ```
 
+{{< cta1 >}}
+
 ## Split by delimiters and retain the delimiters
 
 ### strings.SplitAfter()
@@ -97,8 +99,6 @@ func main() {
     // prints ["apple.", "banana.orange.pear"]
 }
 ```
-
-{{< cta1 >}}
 
 ## Split by whitespace and newlines
 

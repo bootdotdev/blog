@@ -22,6 +22,8 @@ Using [FFmpeg](https://www.ffmpeg.org/), we can easily convert mp3 files to HLS 
 
 ![FFmpeg](/img/800/1_mgCxTQSqrTvKsmDRmuRa7w-1024x499.jpeg)
 
+{{< cta1 >}}
+
 ## Get Started - Format Some Media for your Server
 
 Download a sample .mp3:
@@ -45,8 +47,6 @@ This should result in three new files:
 output000.ts output001.ts outputlist.m3u8
 
 Congratulations! You are done with the hard part, you now have simple files that can be served over HTTP. Any modern client-side media library will know how to read HLS files.
-
-{{< cta1 >}}
 
 ## Building the Streaming Server
 

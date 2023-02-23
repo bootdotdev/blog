@@ -29,6 +29,8 @@ The real difference between the non-cloud DevOps and normal DevOps is specific t
 
 For example, a product like Microsoft Word is *not* a cloud product. Desktop apps don't (primarily) run in the cloud. Logs emitted (directly) in the cloud. There’s no need for DevOps engineers who deal with deploying client-side code to be as deeply knowledgeable about cloud-based back-end technology. A product like Google Drive, meanwhile, is 100% cloud-based. They need DevOps and cloud engineers to push out new versions, store all of your files, push/pull updates to your files from various devices, etc.
 
+{{< cta1 >}}
+
 ## Six key differences between DevOps Engineers vs cloud Engineers
 
 Now that you’ve got a rough sense of the difference between DevOps engineers and cloud engineers, let’s break down some more distinct differences in these roles.
@@ -197,8 +199,6 @@ As [reported](https://www.bain.com/insights/tech-talent-war-tech-report-2021/) b
 Cloud Engineers are also in high demand as more companies are moving their operations and applications to the cloud. The Open Source Job Report [reported](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/Open%20Source%20Jobs%20Report%202021%20-%20Report.pdf) that 61% of professionals surveyed claimed that their organizations increased the use of cloud technology in 2021, which of course means that there’s a growing demand for cloud engineers.
 
 To increase the chances of finding a job, it's a good idea to have a strong set of skills, and relevant experience and continue to learn new technologies and tools that are in demand by the industry.
-
-{{< cta1 >}}
 
 ## Final thoughts on DevOps engineers vs Cloud Engineers
 

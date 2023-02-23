@@ -25,6 +25,8 @@ Cryptology is the science of secret messages. _Anything_ that has to do with mak
 
 Alan Turing
 
+{{< cta1 >}}
+
 ## Cryptography
 
 > Cryptography is the practice and study of techniques for secure communication in the presence of third parties called adversaries.
@@ -33,8 +35,6 @@ Alan Turing
 
 People often lazily use Cryptography in place of the word cryptology, but in reality, cryptography focuses only on **creating** secure cryptosystems. For example, the design of RSA would have been cryptography work.
 
-{{< cta1 >}}
-
 ## Cryptanalysis
 
 > You use **Cryptanalysis** to breach cryptographic security systems and gain access to the contents of encrypted messages, even if the cryptographic key is unknown.
@@ -42,6 +42,8 @@ People often lazily use Cryptography in place of the word cryptology, but in rea
 > [Wikipedia](https://en.wikipedia.org/wiki/Cryptanalysis)
 
 Cryptanalysis is the inverse of cryptography, this is, in contrast, the study of how to **break** secret codes, not make them. Having a solid understanding of cryptanalysis is fundamental in cryptography however, as one must know their enemy.
+
+{{< cta2 >}}
 
 ## Honorable Mention - Cryptocurrency
 

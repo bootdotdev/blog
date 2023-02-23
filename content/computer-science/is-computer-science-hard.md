@@ -52,6 +52,8 @@ A lot of folks ask questions like, "Is computer science harder than engineering?
 
 My answer: these comparisons aren’t helpful. Like anything, if you want to learn it well enough to get a decent job, it’s hard. You’ll have to apply yourself to pick up the lessons and code for hours in front of a screen cramped with code. It takes a toll on you. It’s not easy.
 
+{{< cta1 >}}
+
 ## What exactly is hard about computer science?
 
 Why is computer science hard? Slightly paraphrasing Leo Tolstoy here: every difficult subject is difficult in its own way. Computer science is hard due to a unique set of characteristics.
@@ -88,8 +90,6 @@ Don’t laugh! This is a real issue with computer science. Some subjects are eas
 
 Computer science doesn’t really have an equivalent because there’s no agreement on what "the classics" are. There’s very little overlap between your day-to-day life and what you learn in computer science. You start much less familiar with the source material than you do with other subjects, which makes it less accessible. Ergo, computer science is hard due to a lack of familiarity in pop culture.
 
-{{< cta1 >}}
-
 ## Computer science is easier depending on the format.
 
 Computer science is challenging in a different way, too: the entry bar is lower. Nobody’s going to hire you to be a postdoc in chemistry unless you have a PhD in chemistry. But due to the chronic shortage of capable computer scientists, people can and do get hired for computer science positions based on their self-taught lessons.
@@ -102,6 +102,8 @@ I did it the hard way. I checked out the [best places to learn Python online](/p
 2.  Lean on pre-existing curricula. This is what [boot.dev](https://boot.dev/) offers – a complete and ever-growing course of knowledge to help you cover the theoretical and practical side of computer science. There’s also a kickass community and weekly events to help fill out your resume.
 3.  DIY. This is what I did. It’s not for the faint of heart, and you risk missing massive integral areas of study because you just don’t know they’re there.
 4.  A mix of the above. You can get a certificate here, a bootcamp there, a YouTube series too, and maybe a college-certified course off Coursera.
+
+{{< cta2 >}}
 
 ## Computer science is easier to learn if you have these advantages
 
@@ -136,8 +138,6 @@ No one will ever fault you for not knowing even a slightly-obscure fact about th
 Coding, while practically inseparable from computer science, is actually a different discipline. Learning computer science is possible with just paper and pencil, but it’s much easier (and more practical) to use code.
 
 If you’re a coder and are just trying to learn computer science (algorithms, data structures, cryptography, etc) you’ll have a much easier time learning computer science.
-
-{{< cta2 >}}
 
 ## Is computer science hard?
 

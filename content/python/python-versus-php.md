@@ -23,6 +23,8 @@ PHP was created in 1994 by Rasmus Lerdorf. His first use for it was tracking who
 
 PHP has also been deemed a general-purpose scripting language. It was one of the first few server-side languages which developers could embed into HTML, which makes it easier to produce jazzy and interactive websites.
 
+{{< cta1 >}}
+
 ## Python versus PHP: Easiest to Learn
 
 Python was created with the intent to be incredibly easy to understand. Most people who are not familiar with programming can fairly easily read through a Python script and get the gist of it, as long as whoever wrote it was good at [naming variables](/clean-code/naming-variables)! 
@@ -35,8 +37,6 @@ If it’s any indication, there are lots of people on the Internet that passiona
 
 Take a look for yourself, but these claims are valid. I’ve heard plenty of developers complain again and again about the frustrating task of building and maintaining a website developed with PHP due to its inconsistencies and confusing behavior. For beginners, always choose Python versus PHP. Here are some [amazing projects to get you started in Python](/python/python-projects-for-beginners/)!
 
-{{< cta1 >}}
-
 ## Python versus PHP: Ease of Installation
 
 PHP is pretty great when it comes to getting it installed. It runs without issues on Windows, macOS, as well as Linux, and usually comes pre-installed on most web servers.
@@ -45,13 +45,13 @@ Python, on the other hand, can require a bit more work. It comes pre-installed o
 
 If you're interested in getting a Python environment set up on your machine, check out our [development environment setup project](https://boot.dev/build/build-local-dev-environment-python).
 
+{{< cta2 >}}
+
 ## Python versus PHP: Popularity
 
 When it comes to popularity amongst developers, Python leads by a wide margin. No matter which ranking list you look at, whether it’s for general use or specifically for web development, Python is more popular than PHP. Not only that, but Python’s ratings are five times higher than PHPs. If you look away from developer ratings to actual usage on the web though, [PHP is used by ~78% of websites](https://w3techs.com/technologies/details/pl-php).
 
 The primary reason PHP is so widely used comes down to CMS products like WordPress. WordPress is an open-source no-code tool for managing websites, and since it’s written in PHP and is so popular, PHP gets a crazy usage bump. WordPress also used to be even more loved than it is today, so legacy websites very often use PHP.
-
-{{< cta2 >}}
 
 ## Python versus PHP: Libraries
 
@@ -81,6 +81,8 @@ PHP's Laravel ranks as the #8 most popular framework on GitHub, and Symfony and 
 
 </div>
 
+{{< cta3 >}}
+
 ## Python versus PHP: Maintainability
 
 Python has undergone two major version changes since its inception, and though you’ll have to put in some serious work to convert a Python 2 program to a Python 3 program, the changes aren't too drastic. The latest major version came out in 2008, meaning that it has had plenty of time to mature. There are 13 years worth of relevant and helpful Python tutorials out there. Even if you find older Stack Overflow posts, only a few mainstream functions have changed from Python 2 to 3. If you’re learning for the first time, just learn Python 3! No need to muck around with old technology.
@@ -89,8 +91,6 @@ PHP on the other hand is already on its 8th major version, which was only releas
 
 This new version makes PHP more readable and concise, but it’s still a lot less pretty to look at than Python. It can cause [major security issues](/python/python-versus-php/#python-versus-php-security) if you do not use the most up-to-date version of PHP, which means you must stick with the newest version. One unfortunate side effect of big language changes is that it cuts down on the amount of available learning material you can use, making it harder to get all of your questions answered.
 
-{{< cta3 >}}
-
 ## Python versus PHP: Security
 
 Security issues like [SQL injection](https://www.imperva.com/learn/application-security/sql-injection-sqli/#:~:text=SQL%20injection%2C%20also%20known%20as,lists%20or%20private%20customer%20details.) and cross-site scripting (XSS) are major concerns. Web security is extremely important. In terms of security, Python is certainly the recommended option over PHP. The Django framework, for example, comes with [built-in protections](https://docs.djangoproject.com/en/3.2/topics/security/) against most XSS, cross-site forgery, SQL injections, and clickjacking attacks. 
@@ -98,8 +98,6 @@ Security issues like [SQL injection](https://www.imperva.com/learn/application-s
 Many organizations that handle sensitive data or have security concerns opt for Python over PHP. All of the kinds of attacks that Django helps protect you against are valid concerns when using raw PHP. You have to be extremely careful to watch out for these holes in your implementation. These security issues are avoidable, but you will have to be on high alert to catch every security bug you introduce when using PHP. 
 
 Let’s be honest, every developer makes mistakes. Now and then, these mistakes even get through code reviews and make it into production. That’s why it’s important to take security seriously and do everything you can to make keeping your web application secure easy. If you’re looking at Python versus PHP for backend security, while you *can* write secure code in PHP, it can be *easier* to write secure code in Python.
-
-{{< cta3 >}}
 
 ## Python versus PHP: Employability
 

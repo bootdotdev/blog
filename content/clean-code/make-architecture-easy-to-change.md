@@ -26,6 +26,8 @@ Unfortunately, your architecture *is* bad three years from now. It's bad when yo
 
 Assuming you have good engineers, your architecture is probably bad due to *business* decisions, not technical ones. It is often a *good* business decision to accrue technical debt if the payoff is worth it, and a savvy engineer will know when to make that tradeoff.
 
+{{< cta1 >}}
+
 ## Is there no hope?
 
 It's sometimes a good decision to take on technical debt, but we need to acknowledge that the debt must *eventually* be paid back.
@@ -49,6 +51,8 @@ But wait!!! Here's where most engineers go wrong.
 Instead of locking yourself into Postgres by using advanced Postgres features and implementing `JOIN`s to your other tables, try to keep your data as flat and as simple as you can. When you do inevitably need to move your data somewhere else, you can do so with minimal effort.
 
 When you're building software for a fast-growing company, a "clean" architecture isn't an *optimized* one, but a *modular* one that can be changed easily.
+
+{{< cta2 >}}
 
 ## So I should just procrastinate?
 

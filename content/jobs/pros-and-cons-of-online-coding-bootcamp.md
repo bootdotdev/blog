@@ -20,6 +20,8 @@ So where does that leave us? Coding bootcamps. There are both in-person programm
 
 Getting some professional assistance can be a big help when you’re trying to break into a new industry and get your skills up from zero to 60 in a time-efficient way. But not all coding bootcamps are created equal. Let’s break down the pros and cons of coding bootcamps.
 
+{{< cta1 >}}
+
 ## Pro of Online Coding Bootcamps: Organization
 
 Coding bootcamps specialize in figuring out what you need to know and teaching it to you. If you tackle your computer science education entirely on your own, you’ll have to spend a good chunk of the time you’ve set aside for your learning to determine what you need to know and find resources to learn from.
@@ -27,8 +29,6 @@ Coding bootcamps specialize in figuring out what you need to know and teaching i
 Having the modules determined for you by a team that specializes in teaching others how to code makes a big difference. You’ll get to just concentrate on learning the concepts and improving your coding skills.
 
 In summary, it’s important to learn in a way that builds on what you know to reinforce past topics and to quickly establish a framework for you to better and more quickly understand new concepts. You can try to do that yourself, or you can let a bootcamp team do it for you.
-
-{{< cta1 >}}
 
 ## Pro of Online Coding Bootcamps: Digestible
 
@@ -42,6 +42,8 @@ Depending on your background and how much coding groundwork you’ve done on you
 
 Online coding bootcamps allow you to deepen your coding curriculum in the places you want to. If this is a style of learning that you’re interested in, I’d choose an asynchronous online coding bootcamp that doesn’t have fixed meeting times.
 
+{{< cta2 >}}
+
 ## Pro of Online Coding Bootcamps: Support
 
 If you go for [the right bootcamp](https://blog.boot.dev/education/part-time-coding-bootcamp/), they can provide you with a meaningful support network, like a Slack or a Discord channel filled with your peers. Let’s be real: tackling the expansion of your knowledge into a technical industry is difficult for a lot of reasons. It takes a lot of emotional effort to understand all the new concepts and keep your motivation high.
@@ -49,8 +51,6 @@ If you go for [the right bootcamp](https://blog.boot.dev/education/part-time-cod
 It can really help your progress to have access to people who are going through a similar experience currently or have gone through it in the past. A community of past, present, and future coders can help you practice how to best pitch your skills to potential employers. It’s also a great way to understand which directions you can apply your newfound knowledge in.
 
 With a bit of luck you can find someone working at your dream company (or a similar one) to help review your resume or even do some practice coding interviews with you. For example, [boot.dev](https://boot.dev) in particular has a great community surrounding their online bootcamps with a bopping Discord channel and weekly portfolio-boosting events.
-
-{{< cta2 >}}
 
 ## Cons of Online Coding Bootcamps
 
@@ -64,13 +64,13 @@ If, however, you decide on a synchronous, intensive online coding bootcamp, thos
 
 If money is a big factor for you, or you’d like to see whether programming is something you really want to pursue, starting out with a cheaper bootcamp with a monthly subscription model can make your start into the realm of coding bootcamps much more manageable, both in terms of money and time commitment.
 
+{{< cta3 >}}
+
 ## Cons of Coding Bootcamps: Risk
 
 If you opt for a synchronous full-time online coding bootcamp, obviously you have a pretty big opportunity cost. Unless you have an extremely understanding employer, you have to give up your current full-time employment. Or you’ll need to somehow pull another 40+ hours out of thin air on top of your existing commitments.
 
 There’s always a small risk that you’ll find out coding isn’t for you, after all. If you’ve already been through bootcamps which are cheaper or have smaller time commitments, and you really want to ramp up your coding skills in an intense way, then this risk becomes much smaller. Otherwise, I would recommend looking for other options with smaller money and time requirements.
-
-{{< cta3 >}}
 
 ## Cons of Coding Bootcamps: That’s it!
 

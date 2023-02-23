@@ -34,6 +34,8 @@ If you know anything about programming, you may already be starting to get an in
 
 Go is used heavily by Google to support their back-end infrastructure. It's good for back-end development because that's what it was *designed* for.
 
+{{< cta1 >}}
+
 ## Can Go be used on the front-end?
 
 I mean, if you really want to, you can use Go as a frontend language, the same way you *can* use a hammer to make a screw go in.
@@ -51,8 +53,6 @@ In short, let go (pun intended) of those dreams and use Go in a context where it
 >
 > [Mike Schinkel, Golangbridge forum](https://forum.golangbridge.org/t/using-golang-as-front-end-framework/27226/7)
 
-{{< cta1 >}}
-
 ## What has Go been used for?
 
 Go is *primarily* a backend language, and has been used to build components in:
@@ -69,6 +69,8 @@ And of course, Go’s own progenitor Google has made use of Go to create or supp
 * gVisor: gVisor is an open-source security sandbox that allows developers to run untrusted code in a secure environment. [gVisor is built with Go](https://github.com/google/gvisor).
 * Google Cloud Functions: Google Cloud Functions is a serverless computing platform that allows developers to run code in response to events. [The Cloud Functions runtime](https://cloud.google.com/functions/docs/concepts/go-runtime), which is responsible for executing functions and handling requests, is built with Go.
 
+{{< cta2 >}}
+
 ## Which Go frameworks should I use?
 
 I could talk about any number of popular Go frameworks here:
@@ -82,8 +84,6 @@ But honestly? The best answer might just be *none*. In most cases, you probably 
 Go markets itself as a simple, fast, powerful language. Go frameworks often just gild the lily. They promise shiny tools that offer out-of-the-box, batteries-included functionality. Interestingly enough, Go doesn’t need most of that functionality.
 
 Frameworks are *super* helpful in many contexts. However, if you're just building simple CRUD apps in Go, you probably don't need one. Go's standard library is so inundated with web tooling that it's already kind of like a web framework. Using a go web framework on top of that means you might be less effective and commit yourself to design decisions that you might not need to make yet.
-
-{{< cta2 >}}
 
 ## But I thought we *always* use frameworks!?!
 

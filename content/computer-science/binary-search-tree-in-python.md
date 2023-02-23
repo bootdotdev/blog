@@ -16,6 +16,8 @@ A binary search tree, or BST for short, is a tree where each node is a value gre
 
 Also, if you're interested in learning Python data structures from the ground up, check out my [Learn Python](https://boot.dev/learn/learn-python) and [Learn Algorithms](https://boot.dev/learn/learn-algorithms) courses on [Boot.dev](https://boot.dev).
 
+{{< cta1 >}}
+
 ## Why would I use a binary search tree?
 
 Binary trees are useful for storing data in an organized manner so that it can be quickly retrieved, inserted, updated, and deleted. This arrangement of nodes allows each comparison to skip about *half* of the rest of the tree, so each operation as a whole is lightning fast.
@@ -34,8 +36,6 @@ To be precise, binary search trees provide an average Big-O complexity of `O(log
 * Slow for a brute-force search. If you need to iterate over each node, you might have more success with an array.
 * When the tree becomes unbalanced, all fast `O(log(n))` operations quickly degrade to `O(n)`.
 * Since pointers to whole objects are typically involved, a BST can require quite a bit more memory than an array, although this depends on the implementation.
-
-{{< cta1 >}}
 
 ## Implementing a B-tree in Python
 
@@ -236,6 +236,8 @@ def main():
     print("18 exists:")
     print(bst.exists(18))
 ```
+
+{{< cta2 >}}
 
 ## Full Binary Search Tree in Python
 

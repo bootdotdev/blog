@@ -26,6 +26,8 @@ If you're here to quickly fix a single file that you're having problems with, yo
 
 Click the LF/CRLF button to toggle line endings
 
+{{< cta1 >}}
+
 ## The Big Fix
 
 If you want new files to automatically have the correct line endings, then you can set the following setting in the top level of your settings.json file:
@@ -49,8 +51,6 @@ CRLF:
 If you set the above in your global `settings.json` file it will apply to your entire machine. If you just want the settings for the project you are working on, then edit the `settings.json` in the `.vscode` directory at the root of your project: `.vscode/settings.json`.
 
 This setting will not automatically fix all files in your project that have the wrong line endings! It only applies to new ones. To fix the old ones go through and use the manual method as described in the first paragraph.
-
-{{< cta1 >}}
 
 ## What is CRLF?
 

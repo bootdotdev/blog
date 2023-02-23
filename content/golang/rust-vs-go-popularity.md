@@ -39,6 +39,8 @@ No one dreads Rust. I suspect that a contributing factor is that Rust isn't used
 
 Go actually makes the most dreaded chart, but close to the bottom. I suspect most of the hate is salty Java devs that have been forced to move to Go and give up their precious objects. They had to give up generics as well up until now, but we'll have [generics in Go](/golang/how-to-use-golangs-generics/) in 1.18.
 
+{{< cta1 >}}
+
 ## So Which Is Better?
 
 I don't think one is strictly better than the other, and a lot comes down to preference. Let's examine the claims made by the maintainers:

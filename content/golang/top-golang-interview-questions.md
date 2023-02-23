@@ -20,6 +20,8 @@ Let's take a look at some good technical questions to be familiar with, whether 
 - Goroutines are not hardware-dependent like threads.
 - Goroutines are more lightweight, largely due to [segmented stacks](https://blog.cloudflare.com/how-stacks-are-handled-in-go/#segmentedstacks) in memory
 
+{{< cta1 >}}
+
 ## 2. Can constants be computed in Go?
 
 Constants can **not** be computed at runtime, their value must be known at compile time. That said, constants can be computed at compile-time, typically as a derivative of other constants. For example:
@@ -41,8 +43,6 @@ Go doesn't use a package manager like NPM or Cargo. The Go toolchain provides co
 ```go
 var1, var2 = var2, var1
 ```
-
-{{< cta1 >}}
 
 {{< cta2 >}}
 

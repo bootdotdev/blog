@@ -37,6 +37,8 @@ It’s so simple that Next Academy actually recommends it as a [great choice](ht
 
 If you want to get into data science, Python is a great choice of coding language because you can add it to your tool belt pretty quickly and with a minimum of pain. Learning data science with Python for beginners can be a simple solution.
 
+{{< cta1 >}}
+
 ## 2. It’s easy to read
 
 Python has a clean and simple syntax that mirrors English, so whatever you build will be understood by you and many people, even if they’re not Pythonistas themselves.
@@ -44,8 +46,6 @@ Python has a clean and simple syntax that mirrors English, so whatever you build
 When I started learning Python, part of the reason it was so easy to learn was that I could read Python code examples and understand what they were trying to do. If you want to get into data science, you should definitely think about readability as a key component of any language you choose. 
 
 You’ll be reading lots of code as well as sharing it with your coworkers (or strangers on the internet as you try to debug something on StackOverflow). Python makes that easy to do.
-
-{{< cta1 >}}
 
 ## 3. It’s popular
 
@@ -55,6 +55,8 @@ As I alluded to above, many companies are using Python to build frameworks and p
 
 If you want to get into data science, you won’t get far without knowing at least some Python. Luckily it’s a joy to learn!
 
+{{< cta2 >}}
+
 ## 4. Huge Community of Pythonistas
 
 I remember when I learned the name of someone who codes in Python: a Pythonista. I loved it. And one of the prime benefits of learning Python for data science is that you’ll get access to an incredible community of Pythonistas and become one yourself. (There are more benefits than just the cool name.)
@@ -62,8 +64,6 @@ I remember when I learned the name of someone who codes in Python: a Pythonista.
 Because it’s been around for three decades, because it is easy to learn and easy to build with, because it’s remained relevant to so many people and companies for long, there is a huge and enthusiastic community of Pythonistas out there who are more than happy to share their tips, answer your questions, correct your code, and discuss new ideas. You can find them anywhere - Reddit has a [particularly active community](https://www.reddit.com/r/Python/), but you even have [Discord groups](https://discord.gg/EEkFwbv) popping up to chat about Python.
 
 The reason this makes learning python such a great choice for data science is because learning any kind of language is hard, especially if you’re feeling professional pressure. Communities like the ones that have sprung up around Python make that easier.
-
-{{< cta2 >}}
 
 ## 5. Comprehensive set of data science libraries
 
@@ -81,6 +81,8 @@ As you go through the standard track of learning how to code in Python, you’ll
 
 As long as you keep typical data science tasks in mind as you look for Python tutorials, you’ll easily be able to find plenty of resources that teach you Python - and simultaneously teach you Python for data science, specifically. Learning basic Python for data science is a natural learning path.
 
+{{< cta3 >}}
+
 ## 7. Data cleaning is a breeze
 
 The phrase "data science," for me, conjures up images of Neo in the Matrix wearing a cool coat and doing cool stuff. A lot of people don’t realize data science is a LOT of much-less-glamorous data cleaning. Conservative estimates place data cleaning at 80% of a data scientist’s typical workload. But good news: Python is great at that!
@@ -88,8 +90,6 @@ The phrase "data science," for me, conjures up images of Neo in the Matrix weari
 If you want to get into data science, you need to come to terms with the fact that you’ll be doing a lot of data scrubbing, cleaning, massaging, wrangling, etc before you even make a single cool viz. That need is what makes learning Python for data science a great choice: it’s built to clean.
 
 Two of the libraries I mentioned early, NumPy and Pandas, are [really great](https://realpython.com/python-data-cleaning-numpy-pandas/) at cleaning data. 
-
-{{< cta3 >}}
 
 ## 8. Communication
 

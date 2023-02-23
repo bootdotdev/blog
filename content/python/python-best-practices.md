@@ -30,6 +30,8 @@ The package [typing](https://docs.python.org/3/library/typing.html) allows assig
 
 There also exist tools for static type checking, like [mypy](http://mypy-lang.org/). This can make it easier to find bugs with less debugging. Static typing also makes your code a lot easier to understand. Mypy is able to infer the types of other variables, so static and dynamic typing can be mixed when using it, so you only need to statically type where it makes sense.
 
+{{< cta1 >}}
+
 ## Python Best Practices #2: Docstrings
 
 Writing meaningful comments and documentation is always important. It helps others understand the gist of a class, method, or package by reading through it without having to thoroughly inspect the code just to get an idea of what’s going on. For example, if you’re debating between using two methods from a package that do similar but distinct things, it’s great to have documentation to quickly understand what the difference is without having to read through the source code. 
@@ -39,8 +41,6 @@ Your documentation and comments are useless, however, if you don’t update them
 A docstring is a string literal that is the first statement in a class, function, or module. Following this format, the [docstring](https://www.python.org/dev/peps/pep-0257/#what-is-a-docstring) "becomes the __doc__ special attribute of that object". All objects that are public or are exported as part of a module should have a docstring. Docstrings unequivocally belong to Python best practices, as they are ubiquitous in the Python community. Every professional Python package makes use of them.
 
 [Sphinx](https://www.sphinx-doc.org/en/master/) is the most common package used to automatically generate HTML code for a documentation website from your d
-
-{{< cta1 >}}
 
 ## Python Best Practices #3: Logging
 
@@ -52,6 +52,8 @@ To solve this problem, use logging. Logging is an elegant solution to understand
 
 Logging allows you to control whether the statements are outputted and even where they end up. You could output them to a file or silence them entirely. You can also annotate each log with a category. They typically are something like `verbose`, `information`, `debug`, `warning`, `error`, and `critical`.
 
+{{< cta2 >}}
+
 ## Python Best Practices #4: Testing
 
 Testing is a crucial part of software development. Any piece of code that goes into production should be tested, and preferably on many different levels. Tests range from tiny [unit tests](/clean-code/writing-good-unit-tests-dont-mock-database-connections) all the way up to all-encompassing end-to-end or acceptance tests.You can read more about the software [test hierarchy here](https://www.softwaretestinggenius.com/simple-explanation-of-hierarchy-of-testing-levels/).
@@ -59,8 +61,6 @@ Testing is a crucial part of software development. Any piece of code that goes i
 [Unittest](https://docs.python.org/3/library/unittest.html) is a standard Python package that serves as a testing framework. It was inspired by the ubiquitous [JUnit](https://junit.org/junit5/). Unittest "supports test automation, sharing of setup and shutdown code for tests, aggregation of tests into collections, and independence of the tests from the reporting framework"
 
 Although unittest is a handy framework, there is still room for improvement. [Pytest](https://docs.pytest.org/en/6.2.x/) is a great package for elevated testing. For example, using pytest, you can easily parametrize fixtures and functions using the parametrize decorator, where you can pass in arguments for tests along with the corresponding expected output.
-
-{{< cta2 >}}
 
 ## Python Best Practices #5: Architecture
 
@@ -78,13 +78,13 @@ Package managers are important when it comes to [managing](https://blog.idrsolut
 
 Another important aspect of managing your application’s execution environment is virtual environments. A virtual machine is a computer that is running in a virtual environment. A great way of managing your virtual environment is by using [anaconda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). Anaconda allows you to switch between different environments. For example, you could have one virtual environment that has Python 2 installed and another with Python 3 on the same physical device! You can also have different versions of packages or different packages altogether in different environments. This allows you to manage complex and thorough development and testing environments.
 
+{{< cta3 >}}
+
 ## Python Best Practices #7: Naming conventions
 
 Last but not least is naming conventions. The names of variables, modules, and classes, and functions is incredibly important. Although Python is known as one of the most readable programming languages, if your [variables and objects are named poorly](/clean-code/naming-variables), or even worse, in a confusing manner, then any other developers will struggle trying to make heads or tails of your code. 
 
 Python has an [official guide](https://www.python.org/dev/peps/pep-0008/) to it as well, which is a great jumping-off point. The key here is consistency. If you’re working with others, make sure you’ve all agreed to one naming strategy.
-
-{{< cta3 >}}
 
 ## Python Best Practices Are Critical to Good Coding
 

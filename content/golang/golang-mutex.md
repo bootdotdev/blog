@@ -16,6 +16,8 @@ We don't want multiple threads accessing the same memory at the same time. In co
 
 One case that mutexes help us avoid is the **concurrent read/write problem**. This occurs when one thread is writing to a variable while another variable is concurrently reading from that same variable. The program will panic because the reader could be reading bad data that is being mutated in place.
 
+{{< cta1 >}}
+
 ## What is a mutex?
 
 Mutex is short for _mutual exclusion_. Mutexes keep track of which thread has access to a variable at any given time.
@@ -67,8 +69,6 @@ fatal error: concurrent map iteration and map write
 ```
 
 In Go, it isn't safe to read from and write to the same map at the same time.
-
-{{< cta1 >}}
 
 ## Mutexes to the rescue
 

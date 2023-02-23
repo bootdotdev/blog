@@ -31,6 +31,8 @@ When you walk in (or sign in) to a job interview, remember that the people inter
 * Be fun to work with
 * etc
 
+{{< cta1 >}}
+
 ## People want to hire people who make their job easier
 
 This is the first point I'll make where *confidence* matters. When you're in an interview you're making a sales pitch. You're quite literally selling your services to your interviewer. Your interviewer is *very* interested in your skills because they want to know if hiring *you* will take some work off of their plate. Your interviewer will be wondering things like:
@@ -47,8 +49,6 @@ I know, I know, it's easier said than done. That said, like Simon from Gurren La
 
 {{< youtube 7de0yAefMpE >}}
 
-{{< cta1 >}}
-
 ## People hire people who are enjoyable to work with
 
 Being "confident" isn't the same as being a boastful goober. When I say "be confident" I'm saying that you should believe in your abilities, and if you don't know something, believe in your ability to figure it out.
@@ -63,6 +63,8 @@ It's also *very* important that you have a fun, positive attitude. Remember, the
 * Be excited about the interview. Have fun, and try to relax. Treat the coding problems like fun challenges.
 * Collaborate and use inclusive language. When working on a problem in an interview, use words like "well WE could do x..." or "I'm thinking WE could try y". It puts you on the "same team" as the interviewers, and makes you look like a team player. Heck, they might even be more generous with hints and tips.
 
+{{< cta2 >}}
+
 ## Be humble - know-it-alls are not fun to work with 
 
 Let's switch gears and talk a little bit about humility. Like the title of the article says, it's important to have confidence *and* humility. Confidence communicates to your employers that you can help solve their problems, but humility helps in a few ways as well:
@@ -70,8 +72,6 @@ Let's switch gears and talk a little bit about humility. Like the title of the a
 * Being humble shows that you're not an ass. You'll be more enjoyable to work with.
 * Being humble communicates that you will be *teachable* and learn faster.
 * Being humble means you're more likely to be willing to adapt to how the team does things.
-
-{{< cta2 >}}
 
 ## How can you be confident *and* humble?
 

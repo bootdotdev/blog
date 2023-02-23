@@ -31,6 +31,8 @@ To help you find out, here's a selection of 20 basic JavaScript interview questi
 6. Undefined
 7. Null
 
+{{< cta1 >}}
+
 ## 2 -- What are the differences between global and local variables? And how can having too many global variables negatively affect your code?
 
 **Answer:**
@@ -38,8 +40,6 @@ To help you find out, here's a selection of 20 basic JavaScript interview questi
 Global variables have no scope and are accessible globally — they're fully available and accessible throughout your code.
 
 However, global variables can also be more difficult to debug as coupling occurs between the many global variables, making bugs more likely, as well as more difficult to find and debug. There can also be conflicts between variable names in the local and global scope.
-
-{{< cta1 >}}
 
 ## 3 -- What are the differences between the `=`, `==`, and `===` operators?
 
@@ -133,6 +133,8 @@ console.log(doubledPrimes);
 // expected output: Array [6, 10, 14, 22]
 ```
 
+{{< cta3 >}}
+
 ## 7 -- Write a loop that prints every number divisible by 3 from 1-200:
 
 **Answer:**
@@ -175,8 +177,6 @@ y = 5;
 
 !(x == y) // evaluates to true
 ```
-
-{{< cta3 >}}
 
 ## 9 -- How do `break` and `continue` statements differ and where would you use each?
 

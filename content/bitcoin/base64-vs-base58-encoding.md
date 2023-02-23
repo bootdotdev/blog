@@ -22,6 +22,8 @@ Let's rank [Base58](https://en.wikipedia.org/wiki/Base58), Base64, and ASCII enc
 
 All data is stored in a raw binary format on computers. These encoding formats (Base64, Base58, and ASCII) are just different ways of reading and writing binary data. For example, in Base64 the binary code `000000` represents the letter `A`, but in ASCII the binary `00000000` represents the `NUL` character.
 
+{{< cta1 >}}
+
 ## ASCII Encoding
 
 ![ASCII encoding chart ](/img/800/Screen-Shot-2020-03-02-at-11.32.00-AM-1024x678.png)
@@ -35,8 +37,6 @@ Not all human language characters are possible using ASCII, but the most importa
 Each character (typically) takes an entire byte (8 bits) of data. To represent the `NUL` character, we need to store `00000000`, which is a lot of wasted zeros! It is worth noting that ASCII can work with only 7 bits, but because computers work in base-2, it is more simple to use a full byte.
 
 You could also call ASCII Base128 because its alphabet is made up of 128 characters.
-
-{{< cta1 >}}
 
 ## Base64
 
@@ -53,6 +53,8 @@ Base64 was essentially designed to trick computers... kind of. When we have bina
 ### Data Compression Rank: 2nd
 
 Each character only takes 6 bits of data, and a padding character, **`=`**, is used to round to the nearest multiple of 4.
+
+{{< cta2 >}}
 
 ## Base58
 

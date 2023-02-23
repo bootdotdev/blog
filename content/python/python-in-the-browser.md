@@ -27,6 +27,8 @@ In other words, normally only JavaScript can run in a browser, but if you can co
 > 
 > [Github Project](https://github.com/iodide-project/pyodide)
 
+{{< cta1 >}}
+
 ## How did I do it?
 
 My Python execution plan is quite similar to the way I run Go code in the browser. There are basically three steps:

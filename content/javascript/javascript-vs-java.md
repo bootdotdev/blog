@@ -26,6 +26,8 @@ Java rose quickly to fame and adoption mostly due to its cross-platform nature a
 
 OOP was so popular in the early 2000s that it became (in my opinion) overly widespread. These days it has more appropriately found its correct place in programming, but when JavaScript was first coming into existence OOP was the name of the game.
 
+{{< cta1 >}}
+
 ## JavaScript - Brief History
 
 In 1995, 4 years after Java got its start, Brendan Eich created JavaScript while he worked for Netscape. At the time, Netscape had complete market control of the web browsing industry, while Microsoft was just starting with the Internet Explorer project.
@@ -49,8 +51,6 @@ However, JavaScript was positioned uniquely. This would contribute to it becomin
 Many developers considered "front-end" development to be for artists and designers. After all, "It's just styling and templating, right?"
 
 This was the case for a long time. However, in the last decade, front-end development has become just as serious as backend development. Single page apps, and frameworks like Angular, React, and Vue, have pushed logic that used to be controlled by the backend directly into the user's browser.
-
-{{< cta1 >}}
 
 ## Runtimes, Speed, and Benchmarks
 
@@ -80,13 +80,13 @@ As you can see in the following benchmarks, Java fairly consistently performs be
 
 What really slows JavaScript down is that it is interpreting code at runtime. At \*roughly\* each line of execution, the interpreter has to convert the JavaScript into machine code, a very slow process to be doing at runtime.
 
+{{< cta2 >}}
+
 ## Classes and OOP
 
 In Java, **everything** is a class and OOP is enforced in an authoritarian manner.
 
 In JavaScript, classes are optional, and [functional programming](https://boot.dev/learn/learn-functional-programming) is possible and even [encouraged](/clean-code/benefits-of-functional-programming/) lately. JavaScript has most of the OOP paradigms available in the language. However, [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) is not as robust as it is with Java.
-
-{{< cta2 >}}
 
 ## Threading and Concurrency
 

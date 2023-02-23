@@ -27,6 +27,8 @@ Now that we have a better understanding of these two languages, we can finally s
 
 **Hot tip:** Functional programming is more than just a paradigm, it’s a way of thinking and approaching coding as a whole. Improving your [functional programming](https://boot.dev/learn/learn-functional-programming) skills make you a better developer and helps you create better applications.
 
+{{< cta1 >}}
+
 ## JavaScript vs Python: Which is Best For Beginners?
 
 Both languages have excellent advantages for beginners, it just depends on what advantages you’re looking for. Python was designed to be straightforward, and what makes it a great choice for beginners is its readability. Python is praised by industry professionals of all backgrounds for its simplistic design that reads like plain English, giving it an unbeatable learning curve. That's why we teach Python to beginner developers first here at [Boot.dev](https://boot.dev) instead of JavaScript.
@@ -47,8 +49,6 @@ As one of the most used scripting languages, JavaScript comes with respect and i
 
 You will benefit from learning either language, the the best choice probably depends upon on what field you want to work in. **If you want to see how easy they are to learn for yourself**, then head over to our free-to-try [Learn JavaScript](https://boot.dev/learn/learn-javascript) or [Learn Python](https://boot.dev/learn/learn-python) courses for a quick taste.
 
-{{< cta1 >}}
-
 ## Python vs JavaScript Salary
 
 Learning a new language is great, but it’s important to learn a language that’s going to earn your money back.
@@ -58,6 +58,8 @@ According to the [2020 Stack Overflow Developer Survey](https://insights.stackov
 Along with being well paid, JavaScript ranked number 1 for the most popular language used by developers for the eighth year in a row, and Python ranked number 3. They also ranked highly for most wanted, with Python in spot number 1 and JavaScript just behind in spot number 2.
 
 **Overall,** both Python and JavaScript are the top desired and used languages by developers and offer well-paying careers.
+
+{{< cta2 >}}
 
 ## Python vs JavaScript Performance
 
@@ -72,8 +74,6 @@ In this [Python vs Node.js benchmark,](https://benchmarksgame-team.pages.debian.
 Python gets its readability from using higher levels of abstraction and has stricter rules around coding, meaning it takes longer to interpret. However, it’s these exact features that make it a safer language. There’s also no compilation option, so it relies on slower interpreted code.
 
 It’s not all bad, as Python’s "coding time" is faster. Because its syntax is so simple, you can write programs much faster than you would be able to do in JavaScript. Python also has implementations like Jython and Cython. In fact, when running compute-heavy machine learning workloads in Cython, you basically get the speed of stright C, which outperforms JavaScript and it's V8 engine everytime.
-
-{{< cta2 >}}
 
 ## Python vs JavaScript for Machine Learning
 
@@ -109,6 +109,8 @@ JavaScript’s potential is growing in the field, although right now it’s best
 
 **Hot tip:** Avoid getting weighed down navigating data structures by studying [Big O](https://boot.dev/learn/learn-data-structures) [notation](https://boot.dev/learn/learn-data-structures). This will help you sift through the noise and find the best solution for you and your project faster.
 
+{{< cta3 >}}
+
 ## Python vs JavaScript for Front-End Development
 
 I said earlier that both languages support some form of web development, but one ultimately does it better.
@@ -124,8 +126,6 @@ JavaScript is truly the jack of all trades when it comes to web development.
 Python, however, really only works for back-end development when it comes to the web. Its robust and stable design makes it ideal for handling back-end CPU operations, and its readability makes coding and documenting back-end software a breeze. Because it can't run in a browser, it just doesn't work on the front-end very well. Sure there are ways to hack together a Python front-end, but it's almost certainly more trouble than it's worth.
 
 **Overall,** JavaScript’s universal support and ability to move between front-end and back-end give it a level of versatility that can’t be ignored.
-
-{{< cta3 >}}
 
 ## Which Is Better, Python or JavaScript?
 
