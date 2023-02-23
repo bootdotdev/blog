@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .textlink {
+    @apply hover:text-blue-300 text-blue-400 underline cursor-pointer;
+  }
+}

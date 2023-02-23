@@ -1,41 +1,62 @@
-<aside class="w-96 p-6 border-gray-600 hidden lg:block border-r h-full-minus-bar overflow-auto bg-gray-800">
-  <div class="flex flex-col items-center">
-    <img width="150" height="150" class="rounded mb-4" loading="lazy" src="/img/800/headshot.png.webp" />
-    <p class="mb-4">
-      Lane Wagner is a senior back-end developer. He founded <a href="https://boot.dev" target="_blank"
-        class="text-blue-400 hover:text-blue-300 underline">Boot.dev</a> to make it
-      fun and affordable to become a back-end engineer.
+<aside class="w-96 p-6 border-gray-600 hidden lg:block border-r h-full-minus-bar overflow-auto bg-gray-800 ">
+  <div class="flex flex-col">
+    <div class="w-full flex justify-center">
+      <img width="150" height="150" class="rounded mb-4" loading="lazy" src="/img/800/headshot.png.webp" />
+    </div>
+    <p class="mb-2">
+      Greetings! I'm Lane. I built <a href="https://boot.dev" target="_blank"
+        class="text-blue-400 hover:text-blue-300 underline">Boot.dev</a> so you can become a back-end developer by
+      playing
+      a dopamine-inducing game. You will earn:
     </p>
 
-    <div class="flex justify-center mb-4">
+    <ul class="mb-2 ml-2">
+      <li>🎉 XP & Levels</li>
+      <li>🌟 Roles & Achievements</li>
+      <li>🏁 Leaderboard spots</li>
+    </ul>
+
+    <p>all by writing a ton of code.</p>
+
+    <button class="flex justify-center mb-2">
       <a href="https://boot.dev"
         class="p-4 m-4 rounded text-white hover:text-white no-underline bg-blue-500 hover:bg-blue-400">
-        Become a Back-end Engineer
+        Start Coding Now
       </a>
-    </div>
+    </button>
 
-    <p class="mb-8">
-      Universities are slow, boot camps are expensive, and e-learning platforms are built for front-end
-      learners. Boot.dev is the only resource built just for back-end devs.
+    <p class="mb-2">
+      You will only like our courses if you...
     </p>
 
-
-    <ul>
-      <li>
-        <a class="flex flex-row items-center text-blue-400 hover:text-blue-300 underline"
-          href="https://youtube.com/@bootdotdev" target="_blank">
-          {{ partial "youtube.svg" . }}
-          <span>YouTube</span>
-        </a>
-      </li>
-
-      <li>
-        <a class="flex flex-row items-center text-blue-400 hover:text-blue-300 underline"
-          href="https://twitter.com/bootdotdev" target="_blank">
-          {{ partial "twitter.svg" . }}
-          <span>Twitter</span></a>
-        </a>
-      </li>
+    <ul class="mb-4 ml-2">
+      <li>...like building projects.</li>
+      <li>...enjoy a good game.</li>
+      <li>...are ready to dive deep.</li>
     </ul>
+
+    <p class="mb-4 italic text-sm">
+      Alternatively, if you're looking to get rich quick or want a shortcut to success, please stay away.
+    </p>
+
+    <div class="w-full flex flex-col items-center">
+      <ul>
+        <li>
+          <a class="flex flex-row items-center text-blue-400 hover:text-blue-300 underline"
+            href="https://youtube.com/@bootdotdev" target="_blank">
+            {{ partial "youtube.svg" . }}
+            <span>YouTube</span>
+          </a>
+        </li>
+
+        <li>
+          <a class="flex flex-row items-center text-blue-400 hover:text-blue-300 underline"
+            href="https://twitter.com/bootdotdev" target="_blank">
+            {{ partial "twitter.svg" . }}
+            <span>Twitter</span></a>
+          </a>
+        </li>
+      </ul>
+    </div>
   </div>
 </aside>
