@@ -3,7 +3,7 @@ title: "About Boot.dev"
 author: Lane Wagner
 date: "2020-02-06"
 images:
-  - /img/800/bootdev-mainpic.png.webp
+  - /img/800/bootdev-explorer.png.webp
 imgAlts:
   - Boot.dev fantasy journey
 lastmod: "2023-01-25"
