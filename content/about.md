@@ -9,9 +9,11 @@ imgAlts:
 lastmod: "2023-01-25"
 ---
 
-Universities are slow, boot camps are expensive, and e-learning platforms are built for front-end learners.
+**Learning back-end development can be fun - even addicting.** We're building a learning path that forces you to delve deep into programming fundamentals and, frankly, write **a ton** of code.
 
-**We make it fun and affordable for you to become a modern back-end engineer.**
+*Why settle for mediocrity when you can be a remarkable engineer?*
+
+## The Story
 
 I built [Boot.dev](https://boot.dev) for my wife Breanna who wanted to transition from x-ray to back-end development. The trouble is, we couldn't find any e-learning platforms that impressed me as a hiring manager. I decided to build a curriculum tailored to back-end developers who aren't afraid of in-depth education. My wife was my first student and loves the courses, so I hope you do too.
 
