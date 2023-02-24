@@ -1,5 +1,5 @@
 ---
-title: "How to Become a Golang Back-End Developer in 7 Steps"
+title: "How to Become a Golang Engineer (on the Back-End)"
 author: Natalie Schooner
 date: "2023-02-23"
 categories: 
@@ -187,7 +187,7 @@ As soon as you run into the mention of something you’re not super familiar wit
 
 This kind of technology shifts with some regularity * e.g., Spark and Hadoop used to be much more popular; they’re waning now * so I recommend, whenever you’re coming across this article, that you do your research to see what’s current today.
 
-## 4. Investigate and practice related skills
+## 4. Investigate and practice related skills and technologies
 
 Maybe back-end development was once its own discipline. But in today’s developer-poor job market, many jobs expect you to not just be a back-end developer, but also [have a hand in DevOps](/devops/backend-devops-roles-merging/), cloud engineering, and data engineering, among other disciplines.
 
@@ -202,6 +202,31 @@ You can’t learn it all, but I recommend you dabble a bit in:
 * [DevSecOps](/devops/devops-vs-devsecops/)
 
 And see which you like best. You won’t be able to be a perfect match for every single Go back-end developer role, but you’ll be a much stronger candidate in the fields that are the most fun for you.
+
+### Technologies to learn
+
+You'll also need to get familiar with some of the most popular technologies and tools used in back-end development. Here are a few to get you started.
+
+#### Databases
+
+* PostgreSQL
+* SQLite
+* MySQL
+* MongoDB
+* Redis
+* Elasticsearch
+* Firebase
+* Cassandra
+* RabbitMQ
+* Kafka
+* Google PubSub
+* Docker
+* Kubernetes
+* AWS/GCP
+
+You don't need to be an expert on all of them, but at least try *some* of them, and figure out what they are from a high level. This [online flashcard game](https://prepcards.dev/) might help.
+
+Also, if you want to dive deeper into popular back-end technologies, check out our [article on that](/backend/top-backend-technologies/).
 
 ## 5. Take on personal projects
 
