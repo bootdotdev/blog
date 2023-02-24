@@ -5,7 +5,7 @@ date: "2022-08-24"
 categories: 
   - "computer-science"
 images:
-  - /img/800/csbooks.jpeg.webp
+  - /img/800/stackofbooks.webp.webp
 lastmod: "2023-01-24"
 ---
 

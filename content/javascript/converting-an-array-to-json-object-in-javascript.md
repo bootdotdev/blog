@@ -6,7 +6,7 @@ lastmod: "2022-10-01"
 categories: 
   - "javascript"
 images:
-  - /img/800/javascript-on-laptop.webp
+  - /img/800/mechanical-beast.png.webp
 ---
 
 JSON, or "JavaScript Object Notation", is a highly popular data exchange format that's widely used in web development. In this post, we'll explore several simple methods for converting a JavaScript array into JSON data. Plus, we'll discuss the benefits of using JSON and how it can help improve your web development projects.

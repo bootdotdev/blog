@@ -6,7 +6,7 @@ lastmod: "2022-10-01"
 categories: 
   - "golang"
 images:
-  - /img/800/replace-lightbulb.webp
+  - /img/800/prety-strings.png.webp
 ---
 
 Go has a powerful standard library that makes string manipulation easy right out of the box. One of the functions I use most often is the [strings](https://golang.org/pkg/strings) package's [Replace()](https://golang.org/pkg/strings/#Replace) function. `strings.Replace()` returns a *copy* of its input string after replacing all instances of a given substring with a new one.

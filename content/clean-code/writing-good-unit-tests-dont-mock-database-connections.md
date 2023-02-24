@@ -6,7 +6,7 @@ lastmod: "2022-10-01"
 categories: 
   - "clean-code"
 images:
-  - /img/800/Writing-Good-Unit-Tests-Dont-Use-Database-Mocking.webp
+  - /img/800/wizard-testing.png.webp
 ---
 
 Unit tests are incredibly important because they allow us to *demonstrate* the correctness of the code we've written. More importantly, unit tests allow us to make updates to our code base with the confidence that we haven't broken anything. However, in our zeal to achieve 100% code coverage, we often write tests for logic that we may not even *want* to test. I'm here to convince you that creating mock database abstractions to write unit tests is usually a **bad idea**.
