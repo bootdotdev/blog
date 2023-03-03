@@ -12,6 +12,9 @@ sed -i '.bak' 's/”/"/g' "out.md"
 # Fix bullet points
 sed -i '.bak' 's/- /* /g' "out.md"
 
+# Fix absolute links
+sed -i '.bak' 's/(https:\/\/blog.boot.dev/(/g' "out.md"
+
 # no h1s in the article
 sed -i '.bak' 's/^# /## /g' "out.md"
 
