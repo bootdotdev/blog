@@ -1,7 +1,7 @@
 ---
 title: "Do Backend Developers Need to Know SQL?"
 author: Natalie Schooner
-date: "2023-01-02"
+date: "2023-03-02"
 categories: 
   - "backend"
 images:
