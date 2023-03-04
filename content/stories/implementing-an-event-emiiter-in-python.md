@@ -1,5 +1,5 @@
 ---
-title: "Implementing events from scratch in python"
+title: "Implementing an EventEmitter class in python"
 author: Youdiowei Eteimorde
 date: "2023-03-03"
 images:
@@ -22,9 +22,10 @@ Node.js offers a module called [events](https://nodejs.org/api/events.html) that
 
 Unlike Node.js, the Python programming language does not include an events module in its standard library. However, various third-party libraries are available for this purpose. In this article, we will explore the concept of events and create a class that facilitates working with events in Python. The class will have an API based on the Node.js [EventEmitter](https://nodejs.org/api/events.html#class-eventemitter) class.
 
-## The concept of events
+## The concept of event
 
-Events are a critical element of [event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture), which generally involves two types of entities: publishers and subscribers. 
+Event is a critical element of the [event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture), 
+which generally involves two types of entities: publishers and subscribers. 
 The publisher is responsible for generating events and making them available to the subscribers, while the subscribers listen to events and execute actions in response to them.
 
 When a publisher generates an event, it triggers a notification to all subscribed listeners.
@@ -135,7 +136,6 @@ class EventEmitter:
 
         for func in self.events[event_name]:
                 func(*arg)
-
     
     def off(self, event_name, callback: Callable[..., Any]) -> None:
         """
@@ -170,4 +170,4 @@ Obvisouly there is still much to be done to make it functional like its nodejs c
 Here are a few ideas:
 - Study the node [EventEmitter](https://nodejs.org/api/events.html#class-eventemitter) api and implement other methods like [once](https://nodejs.org/api/events.html#emitteronceeventname-listener), [listenerCount](https://nodejs.org/api/events.html#emitterlistenercounteventname) and [setMaxListeners](https://nodejs.org/api/events.html#emittersetmaxlistenersn).
 - Create a python package for it.
-
+- Build a project utilizing the `EventEmitter` class.
