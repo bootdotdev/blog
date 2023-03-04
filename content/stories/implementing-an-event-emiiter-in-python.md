@@ -1,5 +1,5 @@
 ---
-title: "Implementing an EventEmitter class in python"
+title: "Implementing an eventemitter class in python"
 author: Youdiowei Eteimorde
 date: "2023-03-03"
 images:
