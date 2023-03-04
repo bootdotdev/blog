@@ -57,7 +57,7 @@ The `on` method of the class will be used to listen to events and register callb
 Every registered callback is kept in a set that corresponds to a specific event. The `emit` method is used call every callback
 in the set that corresponds to the triggered event. The `off` method is used to remove a specific callback from the set of callbacks of an event.
 
-Let's implement the `init` method:
+### `init` method
 
 ```python
 from typing import Callable, Any
@@ -73,7 +73,7 @@ On initialization of the class, we have a default dictionary that uses the event
 We used a [default dictionary](https://docs.python.org/3/library/collections.html#collections.defaultdict) to prevent a [KeyError](https://docs.python.org/3/library/exceptions.html#KeyError) on the first addition to the dictionary.
 We also imported all necessary [types](https://docs.python.org/3/library/typing.html) and defaultdict which isn't available globally.
 
-Let's implement the `on` method:
+### `on` method
 
 ```python
 def on(self, event_name: str, callback: Callable[..., Any]) -> None:
@@ -86,7 +86,7 @@ The `on` method takes in the **event name** as a string and a callback of type [
 We have to ensure the user is truly providing a callable by using the [callable](https://docs.python.org/3/library/functions.html#callable) builtin function to check. 
 If they are not we will raise an exception. Every subsequence call to the on method will just add more callbacks to the dictionary.
 
-Let's implement the `emit` method:
+### `emit` method
 
 ```python
 def emit(self, event_name: str, *arg):
@@ -95,6 +95,8 @@ def emit(self, event_name: str, *arg):
 ```
 
 The `emit` function uses a for loop to call every functions mapped to that particular event.
+
+### `off` method
 
 As for the `off` method we just have to check if the callback is in the set. If it is we remove it.
 
@@ -145,6 +147,8 @@ class EventEmitter:
             self.events[event_name].remove(callback)
 
 ```
+
+## Client code
 
 Now let's write the client code that will make use of the `EventEmitter` class:
 
