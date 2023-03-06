@@ -1,5 +1,5 @@
 ---
-title: "Boot.dev Beat. February 2022"
+title: "Boot.dev Beat. February 2023"
 author: Lane Wagner
 date: "2023-03-01"
 categories:
