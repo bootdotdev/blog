@@ -80,7 +80,7 @@ This article does a great job explaining how to build high-quality libraries in 
 
 ## Top Plugs for December
 
-### [The Boot.dev YouTube Channel]([/news/tech-layoffs-for-new-devs/](https://www.youtube.com/@bootdotdev))
+### [The Boot.dev YouTube Channel](https://www.youtube.com/@bootdotdev)
 
 We've started publishing more coding videos! Many of the videos end up embedded within the courses, but some aren't about specific course material, so you'll need to check them out on YouTube. It's free to subscribe of course, so go watch some of our recent videos and subscribe to our channel!
 
