@@ -8,11 +8,13 @@ categories:
   - "misc"
   - "javascript"
 images:
-  - /img/800/webhooks-splash.jpg
+  - "/img/800/fantasy-hooks-4k.png.webp"
+imageAlts:
+  - "A large anchor that looks like a hook"
 ---
 
-In this post, we'll be talking about and coding through a common integration pattern with an external API called a 
-**webhook**. Loosely speaking, there are three main types of communication you'll see when building an 
+In this post, we'll be talking about coding with a common integration pattern with an external API called a 
+*webhook*. Loosely speaking, there are three main types of communication you'll see when building an 
 application.
 
 1. Frontend to Backend.
@@ -28,7 +30,7 @@ a **webhook**, is also prevalent.  Before we get started, let's settle on some t
 
 ## What is an asynchronous flow and why are they important?
 
-Let's start first with what you probably already know.  When you send a HTTP request to an API and expect an immediate
+Let's start first with what you probably already know.  When you send an HTTP request to an API and expect an immediate
 response, that is a **synchronous call**. Your code _waits_ for the API to respond, and ties up resources on your
 server while it is servicing that request.  The resources tied up differs depending on your language and web framework,
 but typically a thread is tied up, or at the very least CPU time and RAM are consumed while waiting.
@@ -41,9 +43,9 @@ result in a timeout, which depending on the platform is typically between 10 and
 2. The external API or platform will not have an immediate answer for your request.  A common use case here would be a 
 workflow requiring a human on the other side to complete a task before responding to you.
 
-From these examples, we can back into our definition of an asynchronous flow.  An asynchronous flow is any type of 
-communication between two parties that it not immediate. You might send a request to an API and get an immediate 
-response, but you will not get any data of good use (don't worry if this doesnt seem to make sense now, we'll explain 
+An asynchronous flow is any type of 
+communication between two parties that is not immediate. You might send a request to an API and get an immediate 
+response, but you will not get any data of good use (don't worry if this doesn't seem to make sense now, we'll explain 
 further in the example below). 
 
 This eliminates the need for both parties to be available for your request at the same time, making it ideal for 
@@ -52,8 +54,7 @@ applications that involve a human in the loop or are computationally expensive.
 ### What is a webhook?
 
 Now that we know what an asynchronous flow is, what is a webhook?  Put simply, a webhook is a call to **your API**
-that is the result of an event that happened in an external system.  Webhooks allow applications to communicate in real
-time, but in an asynchronous manner.
+that is the result of an event that happened in an external system.  Webhooks allow applications to communicate in real-time, but asynchronously.
 
 Rolling with the example provided above, imagine you're tasked with integrating with a Help Desk company that provides 
 agents that reviews documents your users submit.
@@ -62,7 +63,7 @@ agents that reviews documents your users submit.
 2. That API call immediately responds with an `agentId` representing the agent assigned to the case, a `documentId`, 
 and a status of `PENDING_REVIEW` for the case.
 3. When the agent reviews the document, it is ultimately marked as `ACCEPTED` or `DECLINED`.  At this time, the Help
-Desk company will trigger a **webhook**, calling your API, telling you the status, along with the `documentId`.
+Desk company will trigger a **webhook**, call your API, tell you the status, along with the `documentId`.
 
 For completeness, I will call out that there are other ways to solve this problem, such as API Polling, but we will
 avoid discussion of API Polling as webhooks are much more efficient.
@@ -84,7 +85,7 @@ In order to complete this section, you'll need a few things set up on your machi
 ## Getting Situated
 
 First off, we'll be working in TypeScript and using a framework called [AdonisJS](https://adonisjs.com/) 
-(don't be too worried about this, I'll hold you hand through anything not obvious.)
+(don't be too worried about this, I'll hold your hand through anything not obvious.)
 
 In our repository, we have a few different components set up via docker containers.  If you're not familiar with docker,
 there's a great course on [docker in the boot.dev curriculum](https://boot.dev/learn/learn-docker), although it's not
@@ -95,7 +96,7 @@ If you'd like to take a look at our docker containers for this article, all of t
 Let's step through what each component is.
 
 1. We have the `adonis_app` which we'll be using to call our external API.
-2. We also have an `external_api`, which is somewhat self explanatory.  This is the "Help Desk" API that we'll be
+2. We also have an `external_api`, which is somewhat self-explanatory.  This is the "Help Desk" API that we'll be
    calling that we can expect a webhook from at a later time.
 3. In addition, there's a `postgres` container, as we'll need to store some data along the way.
 4. There's also a `redis` container, but we won't be touching it, it's solely to facilitate our artificial webhook 
@@ -106,6 +107,7 @@ You can find the routes in `api/routes/start.ts`, which is where we'll be doing 
 
 Alright, what will we be building?  Sticking with the example above in our explanation of webhooks, we'll be calling a
 POST endpoint to request a review for a document:
+
 ```
 POST /document
 
@@ -153,6 +155,7 @@ Once that's done,  run `docker compose up` from the root of the repository to br
 next section.
 
 ### The Help Desk API Call
+
 Let's start developing.  First, let's navigate to the `api` folder in our terminal and install Axios, a library that 
 allows you to make HTTP calls with little effort. 
 
@@ -187,7 +190,7 @@ Route.get('/', async () => {
 
 A couple of things to note in the commit 
 [here](https://github.com/nickabb/async-flows-and-webhooks/pull/2/commits/2ef39c4afa7bf3138c990cf7673fad79f3299a4b).
-1. In a real, live system, you'd probably want to define OUR_API and EXTERNAL_API in an environment file.  For the
+1. In a real, live system, you'd probably want to define `OUR_API` and `EXTERNAL_API` in an environment file.  For the
 simplicity of this tutorial, we've hard coded them.
 2. The first parameter to `axios.post` is the endpoint you want to hit on the external API.  Rolling with our example
 of a Help Desk API, we're requesting a document review of `https://boot.dev/community/`, which is the second parameter, 
@@ -202,7 +205,8 @@ If you're interested how webhooks might vary depending on the platform you're in
 webhooks and how to improve your developer experience around them when developing in local environments.
 
 ### The Webhook
-With all of this set up, let's get to the meat and potatoes of it all, so we can see the webhook working.  We'll want
+
+With all of this confiugured, let's get to the meat and potatoes of it all, so we can see the webhook working.  We'll want
 to do a few things.
 
 1. Set up a database table, we'll want to store the `agentId` and `documentId` from the original response, so we know
@@ -339,6 +343,7 @@ Route.post('/document/update', async ({ request }) => {
 We're now ready to test!
 
 #### Testing
+
 Since we already ran `docker compose up` earlier, all of your containers should be running already.  In a web browser,
 navigate to `http://localhost:3333/`.
 
@@ -367,6 +372,7 @@ adonis_app=>
 
 Now, you can execute the following to see the table contents, feel free to run it in quick succession, to see the
 values in the database both before and after the webhook hits your API.
+
 ```sql
 SELECT * FROM document_reviews;
 ```
@@ -381,19 +387,29 @@ Want to go further and learn more about webhooks?  Here are some features you wo
 environment if you're interested in doing some more digging.
 
 #### Retries
+
 When a webhook call fails, you'll need to retry it at a later time.  Most **retry policies** have an [exponential 
   backoff](https://medium.com/gympass/handling-failed-webhooks-with-exponential-backoff-72d2e01017d7).  In our example, 
   this would be implemented in the `external` API.
+
 #### Refactor logic into a controller
+
 Our implementation currently has all the logic in the `routes.ts` file.  Consider refactoring the logic into a
   controller.  You can see an example of this with the `AuthorizationsController`.
+
 #### Write some tests
+
 No pull request is complete without tests! Feel free to write some.
+
 #### Implement idempotency
+
 [Learn about idempotency](https://nickabbene.com/idempotency-to-prevent-duplicates), and implement a middleware for idempotent requests.
+
 #### Validate the payload of the request
+
 What happens if we hit our webhook without the variables we expect? Can we handle it more gracefully? 
+
 #### Optimize your database, [add indices](https://www.codecademy.com/article/sql-indexes)
-Our webhook queries the database on the `documentId` field, which is not an index.  If we had many items in the
-  database, they query would be slow.  
+
+Our webhook queries the database on the `documentId` field, which is not an index.  If we had many items in the database, the query would be slow.  
  
