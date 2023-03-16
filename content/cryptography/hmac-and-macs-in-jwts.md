@@ -92,6 +92,6 @@ Authentication: Bearer {"userID":"e7a6e5b4-dbaa-4503-bd25-8ebfc3a54448"}.hmacCod
 2. The server verifies that the user really is Lane by validating the HMAC code. Only someone with access to the secret key `thisIsASecretKey1234` could have made the HMAC code that corresponds to the `e7a6e5b4-dbaa-4503-bd25-8ebfc3a54448` JWT.
 3. If verification is successful, then the server updates Lane's profile picture.
 
-![JWT lifecycle](/img/800/jwtlifecycle.png.webp)
+![JWT lifecycle](/img/800/hi42b4G.png.webp)
 
 If you feel that I missed anything important, or have any questions, feel free to contact me!
