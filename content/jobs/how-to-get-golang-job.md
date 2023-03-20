@@ -79,7 +79,7 @@ Warning: it’s relatively advanced, so you may need to do deeper dives into any
 
 ### Object-oriented Programming
 
-No, not [that OOP](https://www.youtube.com/watch?v=PUttqdr38t4).\[Lane, this is very well-known in my circle of the internet but idk if programmers will find it funny lol. Feel free to take it out if the reference doesn’t fit.\]
+No, not [that OOP](https://www.youtube.com/watch?v=PUttqdr38t4).
 
 Object-oriented programming (OOP) is a computer programming model used in many languages, including Python. The idea is that "objects" can contain data and code.
 
