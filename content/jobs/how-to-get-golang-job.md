@@ -1,13 +1,12 @@
 ---
 title: "How to Get a Job as a Golang Developer"
 author: Natalie Schooner
-date: "2023-03-17"
+date: "2023-03-20"
 categories: 
   - "jobs"
   - "golang"
 images:
   - /img/800/lane_gophers_in_a_job_interview_whisical_fantasy_setting_bb50879d-3834-4317-99bd-caab82f2daf0.png.webp
-draft: true
 ---
 
 Step 1: Learn Golang. Step 2: Apply for jobs. Step 3: Get accepted.
