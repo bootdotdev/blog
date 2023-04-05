@@ -16,7 +16,7 @@
 
                 {{ if .Params.images }}
                 <div class="mb-4">
-                    <img class="rounded" width="736" height="414" {{ if .Params.imageAlts }}
+                    <img class="rounded" width="736" height="490" {{ if .Params.imageAlts }}
                         alt="{{ index (.Params.imageAlts) 0 }}" {{ end }} src="{{ index (.Params.images) 0 }}" />
                 </div>
                 {{ end }}
