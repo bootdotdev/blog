@@ -16,6 +16,10 @@ That said, choosing good technologies to learn can certainly help. Unfortunately
 
 This is a mistake.
 
+## Video version of this post
+
+{{< youtube e4fhq5VjhKw >}}
+
 ## The total number of jobs doesn't matter
 
 According to Stack Overflow's latest survey, JavaScript is [the most popular programming language in the world](https://survey.stackoverflow.co/2022/#section-most-popular-technologies-programming-scripting-and-markup-languages), both for people learning to code as well as professional developers.
