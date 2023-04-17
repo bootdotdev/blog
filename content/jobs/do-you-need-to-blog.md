@@ -1,7 +1,7 @@
 ---
 title: "Do You Need to Blog to Get a Coding Job?"
 author: Lane Wagner
-date: "2022-04-17"
+date: "2023-04-17"
 categories: 
   - "jobs"
 images:
