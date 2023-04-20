@@ -19,16 +19,6 @@ The one thing that every programmer has in common, whether they've only ever imp
 
 That's why getting involved in a tech community is *so important*. With the rise of hybrid, remote, and freelance work, connecting with colleagues on your team and other teams within your company is harder than it used to be, and that's assuming you have other coding colleagues. "The Great Resignation", amongst higher-than-normal turnover rates make it hard to connect with those moving through the revolving door of employment. If you find yourself missing technical mentors, peers, or friends of a similar profession, your best bet is to reach out online to find friends within the many coding communities already in existence.
 
-Coding communities can help you solve basic programming issues, weigh the pros and cons of one package manager over another, choose an employer, pick which programming language to learn next, and much more. Coding communities are great for supporting you with your hard skills and your soft skills. Someone who has much more experience in the industry can advise you on how to sell your skills in an interview and advise you on which skills you should be learning based on the jobs you're interested in and your situation.
-
-Another aspect to consider if you're just starting is the support and accountability a community of coders can offer you. It can be hard to discover the many varied applications of computer science as a beginner in the field, and it's even harder to overcome the "you don't know what you don't know" paradigm.
-
-All of these environmental factors combined exhibit why it's so crucial for you to find a community in the coding world. You need a community that will support you in technical, professional, and even emotional matters. Whether you're frustrated by code that won't compile, a recent job rejection, or simply don't know which step to take next, a community you settle into should be able to help you clear all of these hurdles.
-
-Thankfully, computer science has a great reputation for being a generous industry. Open source projects abound, and many skilled, knowledgeable coders support others in forums. Let me step you through the top communities you can join as you start your coding journey.
-
-{{< cta1 >}}
-
 ## 1. Discord
 
 ![Discord Screenshot](/img/800/discordss.png.webp)
