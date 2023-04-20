@@ -11,7 +11,6 @@ imageAlts:
   - "A painting of a Dwarf Forest community"
 aliases:
  - /misc/top-12-best-communities-for-learning-to-code
-toc: true
 ---
 
 ## Why you need a coding community
