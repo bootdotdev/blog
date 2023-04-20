@@ -8,7 +8,7 @@ images:
   - /img/800/blob.webp
 ---
 
-Generics in Go have been [released with Go 1.18](https://go.dev/blog/go1.18)! This is one of the most eagerly-awaited features since the release of the language. Many devs have gone so far as to say Go’s previous lack of generic types made the language too painful to use at all. Let’s dive into what generics are, why you might use them in your own projects, and how they work in Go.
+Generics in Go have been [released with Go 1.18](https://go.dev/blog/go1.18)! This is one of the most eagerly-awaited features since the release of the language. Many devs have gone so far as to say Go's previous lack of generic types made the language too painful to use at all. Let's dive into what generics are, why you might use them in your own projects, and how they work in Go.
 
 ## What is a generic type?
 
@@ -256,7 +256,7 @@ Now, with generics, we can stop generating so much code! Code generation will st
 
 ## Using generics now
 
-You can play with generics today with Go 1.18! Make sure you just get your local toolchain updated to the latest version. You can get going immediately by playing around on [boot.dev's Golang playground](https://boot.dev/playground/go), it’s running 1.18 at the time of writing.
+You can play with generics today with Go 1.18! Make sure you just get your local toolchain updated to the latest version. You can get going immediately by playing around on [boot.dev's Golang playground](https://boot.dev/playground/go), it's running 1.18 at the time of writing.
 
 ## How do generics work under the hood?
 

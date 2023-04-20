@@ -19,13 +19,13 @@ This guide is going to be what I wish I had when I started [learning JavaScript]
 
 I highly recommend projects in general as a way to learn to code: they're more hands-on and can be more rewarding than watching a lecture or reading a textbook. Interactive learning by actually doing the coding is more effective for faster learning than lecture. The learning curve can feel steeper, but the skills you learn will be much stickier.
 
-JavaScript has a bunch of different frameworks (we’ll get into what frameworks are in a second), so I'm going to section this article into vanilla JavaScript, Vue.js, and Angular. All of these are free JavaScript projects - all you’ll need to invest is your time.
+JavaScript has a bunch of different frameworks (we'll get into what frameworks are in a second), so I'm going to section this article into vanilla JavaScript, Vue.js, and Angular. All of these are free JavaScript projects - all you'll need to invest is your time.
 
 Ready for 19 fun and interesting JavaScript practice projects for beginners? Let's jump in.
 
 ## Section 1: Vanilla JavaScript Projects for Beginners
 
-A [framework](/backend/dont-start-with-frameworks/) is basically a prepackaged chunk of code that does something specific. Think of it as a cheat, or a shortcut. Frameworks come and go, but JavaScript stays forever! That's why I wanted to start with some vanilla, simple JavaScript projects for beginners. These don’t rely on any frameworks.
+A [framework](/backend/dont-start-with-frameworks/) is basically a prepackaged chunk of code that does something specific. Think of it as a cheat, or a shortcut. Frameworks come and go, but JavaScript stays forever! That's why I wanted to start with some vanilla, simple JavaScript projects for beginners. These don't rely on any frameworks.
 
 ### 1. Build a Simple Web Crawler
 
@@ -37,7 +37,7 @@ This [project tutorial](https://boot.dev/build/link-analyzer) will walk you thro
 
 Okay, so this isn't exactly a stand-alone project, but an interactive course that forces you to write a lot of code can get you started on the right foot.
 
-JavaScript ideas for beginners don’t only have to come in video or article form. If you've looked at the three tutorials above and you’re kind of feeling lost, there's no shame in learning JavaScript with some help -- like by taking an interactive course that you gradually build up your skills with as you progress through lessons and modules.
+JavaScript ideas for beginners don't only have to come in video or article form. If you've looked at the three tutorials above and you're kind of feeling lost, there's no shame in learning JavaScript with some help -- like by taking an interactive course that you gradually build up your skills with as you progress through lessons and modules.
 
 [This JavaScript course from Boot.dev](https://boot.dev/learn/learn-javascript) is free to audit, and it takes you from a complete beginner and teaches you the skills you need to progress as a programmer. I only recommend it because it's *kinda* like a project in the sense that you'll solve many individual coding challenges in JavaScript.
 
@@ -51,7 +51,7 @@ The app tutorial will walk you through building a location-based weather app. Ba
 
 ### 4. Build a landing page for your website.
 
-Building a whole website is a massive endeavor. Let’s start with one of the small JavaScript projects for beginners instead: a landing page. If you want to get a job using JavaScript, it's always a good idea to have your own website built using JavaScript. [This YouTube tutorial](https://www.youtube.com/watch?v=fSTQzlprGLI) is 35 minutes long and will teach you to build a home page or landing page that you can interact with, and save your name/focus to local storage.
+Building a whole website is a massive endeavor. Let's start with one of the small JavaScript projects for beginners instead: a landing page. If you want to get a job using JavaScript, it's always a good idea to have your own website built using JavaScript. [This YouTube tutorial](https://www.youtube.com/watch?v=fSTQzlprGLI) is 35 minutes long and will teach you to build a home page or landing page that you can interact with, and save your name/focus to local storage.
 
 The guy making the videos has 1.62 million subscribers and tons of positive comments. I found his teaching style to be really engaging and straightforward. He also offers the full code so you can check it out and poke around for yourself.
 
@@ -67,7 +67,7 @@ It'll teach you higher-order functions like `map`, `reduce`, and `filter`. Highe
 
 Back to the food. This basic javascript project tutorial will teach you to update and delete items from a grocery list, which walks you through the process of creating a simple CRUD. (CRUD just means create, read, update, and delete.)
 
-It’s [another project](https://boot.dev/learn/learn-javascript) from the same person who did the restaurant menu page tutorial, so maybe he was hungry as well. If you’ve got the time and inclination I recommend checking out all eight hours of his 15 JavaScript projects. It's the kind of content that I can't believe he gives away for free, it’s so in-depth and valuable.
+It's [another project](https://boot.dev/learn/learn-javascript) from the same person who did the restaurant menu page tutorial, so maybe he was hungry as well. If you've got the time and inclination I recommend checking out all eight hours of his 15 JavaScript projects. It's the kind of content that I can't believe he gives away for free, it's so in-depth and valuable.
 
 ![](https://lh6.googleusercontent.com/0cC_hjLSF_O0gajrBwlJ6zw561jl0VANXOpoJxUAB6hJiPRc_nEh0ImWdHq3aO5KnXV9tqdbcy2i2wyTCzBjLfM69zrHbyEHViN7UThGiJF3jwLg4HlwZR4L6iNN6d_BIjEl_SNT=s0)
 
@@ -103,7 +103,7 @@ Especially compared to some of the other tutorials above, this one's on the shor
 
 ### 10. To-do app
 
-I love [this tutorial](https://www.youtube.com/playlist?list=PLINmvGGUwYc3fsN0ba_ZSZE0ywDeS0cd2) because it's short, sweet, and simple. The creator, CJ, writes clean and easy-to-understand code, so it’s great to learn from.
+I love [this tutorial](https://www.youtube.com/playlist?list=PLINmvGGUwYc3fsN0ba_ZSZE0ywDeS0cd2) because it's short, sweet, and simple. The creator, CJ, writes clean and easy-to-understand code, so it's great to learn from.
 
 If you want a JavaScript project for beginners that will help you stay on top of things, this tutorial will show you how to create a to-do app. Throughout the process, you'll also learn the core concepts of Vue.js.
 
@@ -129,7 +129,7 @@ This temperature converter website tutorial could have saved me that pain. I lov
 
 ## Section 3: Angular JavaScript Projects for Beginners 
 
-Angular is both a platform and framework for building single-page client applications using HTML and TypeScript. It's good for scalability. I've added it to the end of this list because it'll probably be something that only dedicated JavaScript beginners want to look at, but it is really worth getting familiar with. It shores up a lot of JavaScript’s weaknesses for single-page applications, which are only getting more popular.
+Angular is both a platform and framework for building single-page client applications using HTML and TypeScript. It's good for scalability. I've added it to the end of this list because it'll probably be something that only dedicated JavaScript beginners want to look at, but it is really worth getting familiar with. It shores up a lot of JavaScript's weaknesses for single-page applications, which are only getting more popular.
 
 Because Angular is a more complex concept, I've kept most of these tutorials on the simpler side of things.
 
@@ -155,7 +155,7 @@ I'm a little weird in that I love doing my budget. Every Sunday morning, I sit d
 
 [The tutorial](https://www.youtube.com/watch?v=sU4z4Ti-8OQ&t=3s) is about two hours long and focuses on designing the user interface. It covers topics like Angular forms, displaying dialogues, and component interaction. Like any self-respecting coding tutorial creator, he also linked to [his GitHub repo](https://github.com/Devstackr/budget-app-angular) for that project. JavaScript projects with example code are the best to learn from.
 
-I find it a visually appealing app - it’s very satisfying to make these kinds of applications that look and feel smooth to use, especially once you know what’s behind the curtain.![](https://lh4.googleusercontent.com/CmsdLukeIXt23yd4MvAS06A_C6tkrnZ-DoiLWVRAaJuy_yA5WTKx7qvYznFR4wwxerOYsogsUvaPBo59udohRPhImBDzLKif_0xNGZI4SQjtgMzqmdRquDilbtTNWX9aPJXNvrSt=s0)
+I find it a visually appealing app - it's very satisfying to make these kinds of applications that look and feel smooth to use, especially once you know what's behind the curtain.![](https://lh4.googleusercontent.com/CmsdLukeIXt23yd4MvAS06A_C6tkrnZ-DoiLWVRAaJuy_yA5WTKx7qvYznFR4wwxerOYsogsUvaPBo59udohRPhImBDzLKif_0xNGZI4SQjtgMzqmdRquDilbtTNWX9aPJXNvrSt=s0)
 
 [Screenshot from the video](https://www.youtube.com/watch?v=sU4z4Ti-8OQ&t=3s)
 
@@ -163,7 +163,7 @@ I find it a visually appealing app - it’s very satisfying to make these kinds 
 
 Who doesn't love maps? [This tutorial](https://blog.ng-book.com/angular-and-google-maps-a-tutorial/) teaches you to create interactive Google Maps powered by Angular. That's a pretty cool idea! 
 
-The tutorial walks you through instantiating the map, geocoding by address and location, working with markers, and programmatically adjusting the radii (plural for radius, of course) of circles for location. There’s also [a GitHub repo](https://github.com/bodrovis/GoogleMapsAngular) where you can snag the code. 
+The tutorial walks you through instantiating the map, geocoding by address and location, working with markers, and programmatically adjusting the radii (plural for radius, of course) of circles for location. There's also [a GitHub repo](https://github.com/bodrovis/GoogleMapsAngular) where you can snag the code. 
 
 The written tutorial is pretty comprehensive. It runs at about a 9-minute read, but of course, you'll spend much longer implementing the code. I love this tutorial because it gave you all the code, but also explained what the code was doing, why it was important, and even how you could tweak it yourself.
 

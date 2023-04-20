@@ -8,11 +8,11 @@ images:
   - /img/800/pexels-photo-2422293.webp.webp
 ---
 
-Learning how to get into computer science can be a daunting task. There are so many career paths down which a computer education can take you, so many programming languages to master, and so many skills to learn. I’ll give you a basic rundown of what computer science *is*, along with a plethora of resources and tools to help you carve out your own [pathway into a computer science career](/computer-science/comprehensive-guide-to-learn-computer-science-online/).
+Learning how to get into computer science can be a daunting task. There are so many career paths down which a computer education can take you, so many programming languages to master, and so many skills to learn. I'll give you a basic rundown of what computer science *is*, along with a plethora of resources and tools to help you carve out your own [pathway into a computer science career](/computer-science/comprehensive-guide-to-learn-computer-science-online/).
 
 ## What is computer science?
 
-Computer science, to put it simply, is the study of the principles and use of computers. The field uses the principles of mathematics, science, and engineering to study and develop computers, hardware, software, networks, databases–even artificial intelligence. It is a highly complex and critical field, as computers and technology have been integrated into virtually (that’s a little computer pun for you there) every industry, organization, and economic center in some way.
+Computer science, to put it simply, is the study of the principles and use of computers. The field uses the principles of mathematics, science, and engineering to study and develop computers, hardware, software, networks, databases–even artificial intelligence. It is a highly complex and critical field, as computers and technology have been integrated into virtually (that's a little computer pun for you there) every industry, organization, and economic center in some way.
 
 {{< cta1 >}}
 
@@ -80,7 +80,7 @@ While most schools have computer science courses, these schools are considered t
 
 ### Scholarships: 2022 into 2023
 
-You may think, "well, that list of schools is lovely, but I’m completely broke"! Don’t worry, we have you covered–there are numerous scholarship options available for computer science hopefuls, some even covering the cost of thousands of dollars. Each scholarship has different parameters that need to be met, but scholarships are an excellent way to save yourself money (and escape the hellish void of student loan debt) if you decide to pursue a school-bound course.
+You may think, "well, that list of schools is lovely, but I'm completely broke"! Don't worry, we have you covered–there are numerous scholarship options available for computer science hopefuls, some even covering the cost of thousands of dollars. Each scholarship has different parameters that need to be met, but scholarships are an excellent way to save yourself money (and escape the hellish void of student loan debt) if you decide to pursue a school-bound course.
 
 1. [(ISC)2 Graduate Scholarships](https://scholarships360.org/scholarships/search/isc%c2%b2-graduate-scholarship/)
 2. [(ISC)2 Undergraduate Scholarships](https://scholarships360.org/scholarships/search/isc2-undergraduate-scholarships/)
@@ -155,15 +155,15 @@ You may think, "well, that list of schools is lovely, but I’m completely broke
 
 ## Computer science for dummies
 
-Let’s say formal education isn’t your style. Going the self-taught route isn’t always easy, but it allows you to work at your own pace and strengthen your problem-solving skills. We will go on a quick run-down of coding languages you can focus on (and reasons why you should) before moving into resources that can aid you on your computer science journey.
+Let's say formal education isn't your style. Going the self-taught route isn't always easy, but it allows you to work at your own pace and strengthen your problem-solving skills. We will go on a quick run-down of coding languages you can focus on (and reasons why you should) before moving into resources that can aid you on your computer science journey.
 
 ![hacker face](/img/800/pexels-photo-5952651.webp.webp)
 
 {{< cta3 >}}
 
-## Let’s talk programming languages
+## Let's talk programming languages
 
-Where to start? With over 700 computer languages out there, it sounds impossible. However, like most things, programming languages follow a power law so there aren’t *that many* popular ones. Anyways, we can start with some of the simplest languages to learn. There are some general categories we can use to separate programming languages into different groups: procedural, functional, and object-oriented languages.
+Where to start? With over 700 computer languages out there, it sounds impossible. However, like most things, programming languages follow a power law so there aren't *that many* popular ones. Anyways, we can start with some of the simplest languages to learn. There are some general categories we can use to separate programming languages into different groups: procedural, functional, and object-oriented languages.
 
 ### Cornerstone languages of the web
 
@@ -184,13 +184,13 @@ Whatever specialty you choose, as long as it includes a visual component, CSS an
 
 ### A sneak peek beyond the basics
 
-Once you’ve mastered a few basic languages, you can move on to more intermediate languages. Remember, these are harder languages, many of them are meant to complement basic programming languages. So why talk about it now? While it’s good to know what to look forward to in your career, it also gives you an idea of how these languages are interwoven together and build on top of each other to create specialized designs and meet specific needs. These are just a few samples of intermediate programming languages that are out there:
+Once you've mastered a few basic languages, you can move on to more intermediate languages. Remember, these are harder languages, many of them are meant to complement basic programming languages. So why talk about it now? While it's good to know what to look forward to in your career, it also gives you an idea of how these languages are interwoven together and build on top of each other to create specialized designs and meet specific needs. These are just a few samples of intermediate programming languages that are out there:
 
-* C++ is considered to be one of the harder languages to learn. It’s an extension of the ‘C’ language, that is used for high-performance applications.
+* C++ is considered to be one of the harder languages to learn. It's an extension of the 'C' language, that is used for high-performance applications.
 * R is specifically designed to perform statistics work across large datasets. (Not to be confused with Ruby, which is a general purpose language).
 * Swift is another general purpose, multiple paradigm language developed by Apple that is mainly used for iOS and macOS.
 * PHP is general-purpose scripting language that is geared for web development.
-* SQL is a domain-specific language that’s designed for managing data in database management systems.
+* SQL is a domain-specific language that's designed for managing data in database management systems.
 * Kotlin is cross-platform language that interoperates with Java. It is widely used for creating mobile apps on Android systems.
 * Matlab is a multiparadigm programming language that allows for matrix manipulations, plotting of functions and data, and uses matrix math and array orientation that makes it easy to learn for scientists and engineers; though it is not open-source, as users need to buy licenses to access it.
 * TypeScript is an open-source language provided by Microsoft that builds on top of JavaScript. It aim to make the JS developer experience better.
@@ -199,11 +199,11 @@ Once you’ve mastered a few basic languages, you can move on to more intermedia
 * Haskell is a general purpose, functional programming language that is designed for research and industrial applications.
 * XML is a markup language much like HTML but is designed to carry data, not focus on how data looks, it's not a *really* a programming language.
 * COBOL is a very old language designed for business use. It's a procedural language.
-* Prolog. If you’ve hit prolog, congrats–you’ve reached the harder, and more niche languages. PROLOG is a logic-based language developed by AI and can be hard for new learners to grasp because it's not procedural.
+* Prolog. If you've hit prolog, congrats–you've reached the harder, and more niche languages. PROLOG is a logic-based language developed by AI and can be hard for new learners to grasp because it's not procedural.
 
 ## A collection of resources for learning CS as a beginner
 
-Now that we’ve covered a few of the more common programming languages, it's time to move on to the next phase: actually learning how to use and apply them. For that, resources are needed. If you’re looking to do independent learning, consider reading some computer science books.
+Now that we've covered a few of the more common programming languages, it's time to move on to the next phase: actually learning how to use and apply them. For that, resources are needed. If you're looking to do independent learning, consider reading some computer science books.
 
 ![study books](/img/800/pexels-photo-261909.webp.webp)
 
@@ -268,11 +268,11 @@ Now that we’ve covered a few of the more common programming languages, it's ti
 
 ### Computer Science Books (For Purchase, or Check Out at Your Local Library)
 
-Unfortunately, not everything in the world is free. If the list above doesn’t satisfy your computer science cravings, here are 25 books that are available for purchase (or at your local library).
+Unfortunately, not everything in the world is free. If the list above doesn't satisfy your computer science cravings, here are 25 books that are available for purchase (or at your local library).
 
-1. [Absolute Beginner’s Guide to Computing](https://www.amazon.com/Absolute-Beginners-Guide-Computing-Wallace/dp/1484222881)
+1. [Absolute Beginner's Guide to Computing](https://www.amazon.com/Absolute-Beginners-Guide-Computing-Wallace/dp/1484222881)
 2. [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
-3. [A Programmer’s Guide to Computer Science](https://www.amazon.com/Programmers-Guide-Computer-Science-self-taught/dp/195120400X/ref=asc_df_195120400X/?tag=hyprod-20&linkCode=df0&hvadid=366282014808&hvpos=&hvnetw=g&hvrand=8834930393233388112&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029750&hvtargid=pla-855015797167&psc=1&tag=&ref=&adgrpid=79033899031&hvpone=&hvptwo=&hvadid=366282014808&hvpos=&hvnetw=g&hvrand=8834930393233388112&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029750&hvtargid=pla-855015797167)
+3. [A Programmer's Guide to Computer Science](https://www.amazon.com/Programmers-Guide-Computer-Science-self-taught/dp/195120400X/ref=asc_df_195120400X/?tag=hyprod-20&linkCode=df0&hvadid=366282014808&hvpos=&hvnetw=g&hvrand=8834930393233388112&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029750&hvtargid=pla-855015797167&psc=1&tag=&ref=&adgrpid=79033899031&hvpone=&hvptwo=&hvadid=366282014808&hvpos=&hvnetw=g&hvrand=8834930393233388112&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029750&hvtargid=pla-855015797167)
 4. [Building Microservices: Designing Fine-Grain Systems](https://www.oreilly.com/library/view/building-microservices/9781491950340/)
 5. [Computer Programming for Absolute Beginners](https://www.amazon.com/Computer-Programming-Absolute-Beginners-programming/dp/1839216867?dchild=1&keywords=introduction+to+computer+science&qid=1615771032&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFGRlBPTUc4SThRUFMmZW5jcnlwdGVkSWQ9QTA0ODk4MzMxUVFBTzJDTDhKMDNJJmVuY3J5cHRlZEFkSWQ9QTA1NzcxNjUzUExSNlE3QTk4VTVSJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&linkCode=sl1&tag=365blottochal-20&linkId=db271ac848613c542457915f112a2d3a&language=en_US&ref_=as_li_ss_tl)
 6. [Computer Programming for Beginners: Fundamentals of Programming Terms and Concepts](https://www.amazon.com/Computer-Programming-Beginners-Fundamentals-Concepts/dp/1719439559/ref=sr_1_17_sspa?keywords=computer+science+for+dummies&qid=1660449183&s=books&sr=1-17-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRllSVVA0NzBMOVI5JmVuY3J5cHRlZElkPUEwNDcwNTgwMlFET1lBMkFLNUFUNyZlbmNyeXB0ZWRBZElkPUEwMzMxNDg5R00wUzYxSlZXNlpNJndpZGdldE5hbWU9c3BfYnRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
@@ -313,7 +313,7 @@ Podcasts are an excellent way to learn on the go. Here are a few you can check o
 * [Linux Action Show](https://www.jupiterbroadcasting.com/show/linuxactionshow/) - A weekly show that covers open-source and Linux news, reviews, and how-tos.
 * [Packet Pushers](https://packetpushers.net/) - A networking and infrastructure engineering podcast by IT architects.
 * [Programming Throwdown](https://www.programmingthrowdown.com/) - Educates computer scientists and software engineers on programming and tech topics
-* [Security Now](https://twit.tv/shows/security-now) - Steve Gibson and Leo Laporte discuss hot topics in today’s security
+* [Security Now](https://twit.tv/shows/security-now) - Steve Gibson and Leo Laporte discuss hot topics in today's security
 * [Security Weekly](https://securityweekly.com/category-webcasts/registration/) - A webcast that covers problems faced by information security. (Each webcast is worth 1 CPE credit!)
 * [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/) - Covers interviews about technical topics
 * [Software Engineering Radio](https://www.se-radio.net/) - Offers ideas, expert analyses, and thoughtful insights for software professionals keeping up with rapid technology changes
@@ -328,7 +328,7 @@ Podcasts are an excellent way to learn on the go. Here are a few you can check o
 
 ### Computer Science Youtube Channels
 
-If you’re more of a visual learner, consider checking out different Youtube channels and videos. There are thousands of video tutorials for beginners with different perspectives on computer science. Here’s a list of a few channels and videos to help you get started. Now, watching videos is no substitute for actual coding, but these should give you a basic idea of things you can learn (along with providing you interesting to follow tutorials).
+If you're more of a visual learner, consider checking out different Youtube channels and videos. There are thousands of video tutorials for beginners with different perspectives on computer science. Here's a list of a few channels and videos to help you get started. Now, watching videos is no substitute for actual coding, but these should give you a basic idea of things you can learn (along with providing you interesting to follow tutorials).
 
 The same thing I said about podcasts applies to YouTube videos however, **make sure you're getting hands-on practice writing code and building projects.** Just consuming information won't be enough.
 
@@ -358,10 +358,10 @@ The same thing I said about podcasts applies to YouTube videos however, **make s
 
 ### Computer Science Bootcamps for newbies
 
-If formal schooling and going completely self taught aren’t the routes for you, bootcamps are an excellent way to achieve computer science knowledge at a rapid pace. They have shorter durations and are often very intense, though they are typically more affordable than getting a 4-year degree. Different camps will cover different materials in their courses. Oftimes, the tradeoff is that a bootcamp may or [may not offer a job guarantee](/jobs/getting-a-job-after-coding-bootcamp-is-hard). When choosing a bootcamp, make sure you thoroughly inspect each one to decide if it's the route for you.
+If formal schooling and going completely self taught aren't the routes for you, bootcamps are an excellent way to achieve computer science knowledge at a rapid pace. They have shorter durations and are often very intense, though they are typically more affordable than getting a 4-year degree. Different camps will cover different materials in their courses. Oftimes, the tradeoff is that a bootcamp may or [may not offer a job guarantee](/jobs/getting-a-job-after-coding-bootcamp-is-hard). When choosing a bootcamp, make sure you thoroughly inspect each one to decide if it's the route for you.
 
 * [Actualize:](https://anyonecanlearntocode.com/) - Is a 17-week program taught by expert educators, broken up into 5 weeks of at-home exercises and 12 weeks of live instruction. The curriculum covers backend database design while teaching you how to think like a true developer
-* [Alchemy Code Lab:](https://www.alchemycodelab.com/) - Alchemy’s 25-week course offers full-time instruction that allows you to graduate as a professional software developer, ready for mid-level entry into the job world
+* [Alchemy Code Lab:](https://www.alchemycodelab.com/) - Alchemy's 25-week course offers full-time instruction that allows you to graduate as a professional software developer, ready for mid-level entry into the job world
 * [App Academy:](https://www.appacademy.io/) - A 16-24 week bootcamp with a curriculum that covers JavaScript, Python, SQL, CSS, ReactJS, Express, Flask, and SQL Alchemy. It can be done full-time, part-time, or at your own pace
 * [App Academy:](https://www.appacademy.io/) - Offers a 16-week on-campus training in New York City or San Francisco, but offers a 24-week online route. It can be done full or part-time and has you design four different projects for your personal portfolio
 * [Big Nerd Ranch:](https://bignerdranch.com/bootcamps/) - A one-week coding bootcamp that covers iOS, Android, Kotlin, Web, and UX/UI design.
@@ -387,7 +387,7 @@ If formal schooling and going completely self taught aren’t the routes for you
 
 ### Computer science projects for beginners
 
-Whether you get formal schooling, do a bootcamp or learn independently, I cannot begin to emphasize the importance of working on personal projects. It’s a great way to build skills and prove those skills with something tangible to show for it. For a project, you can focus on what particular skills you are looking to develop. So what are some great computer science projects for newbies? Let’s look at a few:
+Whether you get formal schooling, do a bootcamp or learn independently, I cannot begin to emphasize the importance of working on personal projects. It's a great way to build skills and prove those skills with something tangible to show for it. For a project, you can focus on what particular skills you are looking to develop. So what are some great computer science projects for newbies? Let's look at a few:
 
 1. Build a website landing page
 2. Create a platformer game 
@@ -416,14 +416,14 @@ Whether you get formal schooling, do a bootcamp or learn independently, I cannot
 25. Task management application
 
 
-If you’re looking for more language-specific projects, consider checking out [Javascript Projects for Beginners](/javascript/javascript-projects-for-beginners/) or [Python Projects for Beginners](/python/python-projects-for-beginners/). 
+If you're looking for more language-specific projects, consider checking out [Javascript Projects for Beginners](/javascript/javascript-projects-for-beginners/) or [Python Projects for Beginners](/python/python-projects-for-beginners/). 
 
 ## Starting a computer science path
 
-Once you’ve completed your schooling, or even before you’ve finished, **start look for jobs straight away**. Familiarize yourself with job requirements to find an entry level job–though some jobs and projects can launch you into intermediate level jobs. The [outlook for computer jobs is bright](/jobs/whats-the-job-outlook-for-computer-science-students/), and with the proper set of skills learned, (and a brushed up [resume](/computer-science/computer-science-resumes)) you should be able to find a job in no time. If you’re unsure of what jobs to look for [check out some of our other articles](/categories/jobs/) for more insight.
+Once you've completed your schooling, or even before you've finished, **start look for jobs straight away**. Familiarize yourself with job requirements to find an entry level job–though some jobs and projects can launch you into intermediate level jobs. The [outlook for computer jobs is bright](/jobs/whats-the-job-outlook-for-computer-science-students/), and with the proper set of skills learned, (and a brushed up [resume](/computer-science/computer-science-resumes)) you should be able to find a job in no time. If you're unsure of what jobs to look for [check out some of our other articles](/categories/jobs/) for more insight.
 
 ## Can you really learn computer science?
 
-Computer Science is, overall, a blend of math and science, of soft skills and hard skills, all it's all tied together to keep our apps, phones and computers running. Pursuing computer science requires you to become a rapacious learner with an insatiable curiosity and a strong propensity for problem-solving. Even if you think of yourself as a computer ‘dummy’, if you invest the time and effort, computer science will reward you, whichever path you choose to pursue.
+Computer Science is, overall, a blend of math and science, of soft skills and hard skills, all it's all tied together to keep our apps, phones and computers running. Pursuing computer science requires you to become a rapacious learner with an insatiable curiosity and a strong propensity for problem-solving. Even if you think of yourself as a computer 'dummy', if you invest the time and effort, computer science will reward you, whichever path you choose to pursue.
 
 Good luck!!!

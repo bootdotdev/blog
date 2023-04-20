@@ -20,14 +20,14 @@ Let's be clear about something. Migrations are here to stay, and while we can't 
 
 Naming variables is hard, but naming database keys and API behaviors is much harder. When you name something that other code and systems rely on, you either won't be able to change it in the future, or that migration is going to be excruciating. I have a few rules of thumb [on variable naming](/clean-code/naming-variables/), so I won't rehash all the details here. That said, here's a tl;dr.
 
-1. Following existing naming conventions of the language or framework that you’re using. In Python, use `snake_case`.
+1. Following existing naming conventions of the language or framework that you're using. In Python, use `snake_case`.
 2. Single-letter variables have a place, and that place is rare.
 3. Include units in your variable names. `sleepTimeMilliseconds` vs `sleepTime`.
-4. Include types in your variable names if it isn’t obvious. `createdAt` is better than `created` for a timestamp.
+4. Include types in your variable names if it isn't obvious. `createdAt` is better than `created` for a timestamp.
 5. Make the name as long as necessary but no longer.
 6. Include the meaning of complex calculations in your variable names.
 7. Use the properly pluralized form of the item.
-8. Don’t use abbreviations or acronyms without sufficient context.
+8. Don't use abbreviations or acronyms without sufficient context.
 9. No magic numbers or magic values, use a variable.
 
 I'll mention one more that I've been thinking about recently. Just because product or marketing decided that your users are going to be called "friendly huggy bears", doesn't mean you should riddle your code with that name. If there is a more "standard" way to name an entity in your system, that might just be a good idea. Marketing teams are always changing their minds about what to call stuff. If they give you a ridiculous display name for something, maybe use a more descriptive and generic name in the code instead.

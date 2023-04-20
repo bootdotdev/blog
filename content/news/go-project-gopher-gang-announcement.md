@@ -6,7 +6,7 @@ categories:
   - "news"
 ---
 
-We’re super excited to bring you our next learning track: [Gopher Gang](https://boot.dev/dashboard/courses/golang-track).
+We're super excited to bring you our next learning track: [Gopher Gang](https://boot.dev/dashboard/courses/golang-track).
 
 We released our [Python Track](https://boot.dev/learn/learn-python) and [Data Structures & Algorithms Track](https://boot.dev/learn-data-structures-algorithms/) last month, and after such a positive response, we felt we had to do the same with our Golang course content.
 
@@ -14,9 +14,9 @@ But after hearing some feedback from Reddit, Discord (join ours [here](https://d
 
 **Our first Go project** has you create a social media backend server, as you work on your local machine and create a working codebase you can show off on your Github profile or resume.
 
-You’ll build a RESTful social media API in Golang, giving you exactly the practical skills you need to write Go services in the cloud, the holistic approach other courses don't offer
+You'll build a RESTful social media API in Golang, giving you exactly the practical skills you need to write Go services in the cloud, the holistic approach other courses don't offer
 
-As this is our first off-site project, we want to hear your feedback. If you really like these, and they made you feel more comfortable with writing Go independently, then we’ll make more of these to complement our interactive course range.
+As this is our first off-site project, we want to hear your feedback. If you really like these, and they made you feel more comfortable with writing Go independently, then we'll make more of these to complement our interactive course range.
 
 The project is free to try, and all we ask is that you submit your feedback in the Google Form below:
 

@@ -8,7 +8,7 @@ images:
   - /img/800/videocall.jpeg
 ---
 
-This article contains some of my thoughts on communications for distributed teams and is a response to [No, we won’t have a video call for that!](https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/) by Florian Hass. Read his article first if you haven't yet, he makes some great points!
+This article contains some of my thoughts on communications for distributed teams and is a response to [No, we won't have a video call for that!](https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/) by Florian Hass. Read his article first if you haven't yet, he makes some great points!
 
 I really enjoyed Florian's article, and while we agree on a lot of things, like [Scrum being a bad idea](https://wagslane.dev/posts/leave-scrum-to-rugby/), I found some key points I disagree with. Let's start with the disagreements, because they tend to be more interesting, and then I'll follow up by emphasizing some of his ideas I agree with.
 
@@ -16,9 +16,9 @@ Like Florian, my thoughts here **are not science**. I'm presenting anecdotes and
 
 ## "A capable distributed team habitually externalizes information"
 
-> Information is generally far less useful when it is only stored in one person’s head, as opposed to being accessible in a shared system that everyone trusts and can use. If you take important information out of your own head and store it in a medium that allows others to easily find and contextualise it, that’s a win for everyone....
+> Information is generally far less useful when it is only stored in one person's head, as opposed to being accessible in a shared system that everyone trusts and can use. If you take important information out of your own head and store it in a medium that allows others to easily find and contextualise it, that's a win for everyone....
 > 
-> ...While _sharing_ information in a chat is extremely easy, it is also a "fire and forget" mode of communications. Chat makes it difficult to find information after the fact. If you’ve ever attempted to scour a busy Slack or IRC archive for a discussion on a specific topic that you only remember to have happened a "few months ago", you’ll agree with me here.
+> ...While _sharing_ information in a chat is extremely easy, it is also a "fire and forget" mode of communications. Chat makes it difficult to find information after the fact. If you've ever attempted to scour a busy Slack or IRC archive for a discussion on a specific topic that you only remember to have happened a "few months ago", you'll agree with me here.
 
 While I agree with this in a lot of cases, the problem is that most communication contains information that simply doesn't need to be distributed to everyone. If I documented even as little as 10% of the information my team communicates between itself on slack, our Wiki would get insanely unwieldy.
 

@@ -199,7 +199,7 @@ A typical embedded system requires a wide range of programming tools, microproce
 
 ## Developer, Mobile - $120,000/yr
 
-Mobile developers are a kind of software engineer. They specialize in mobile software such as apps for Google’s Android and Apple’s iOS operating systems. Job titles for this type of role also include _Android developer_ and _iOS developer_ when the roles are more specific. Mobile devs learn the languages and development environment for their chosen platforms, for example, Swift Xcode, Kotlin, Java, and Android Studio.
+Mobile developers are a kind of software engineer. They specialize in mobile software such as apps for Google's Android and Apple's iOS operating systems. Job titles for this type of role also include _Android developer_ and _iOS developer_ when the roles are more specific. Mobile devs learn the languages and development environment for their chosen platforms, for example, Swift Xcode, Kotlin, Java, and Android Studio.
 
 ### Responsibilities:
 
@@ -215,7 +215,7 @@ Mobile developers are a kind of software engineer. They specialize in mobile sof
 
 ## Scientist - $120,000/yr
 
-The "Computer Scientist" title means a lot of different things to different people. It seems (after browsing various job sites) that it usually involves government or security work. As a Computer Scientist, you’ll use your skills to automate and enrich a variety of data in support of analytics and reports. CS employees sometimes need to bridge the gap between non-computer scientist analysts and other technical professions such as Data Scientists and software developers. Computer scientist jobs often involve continual learning and ongoing research into cutting-edge problems.
+The "Computer Scientist" title means a lot of different things to different people. It seems (after browsing various job sites) that it usually involves government or security work. As a Computer Scientist, you'll use your skills to automate and enrich a variety of data in support of analytics and reports. CS employees sometimes need to bridge the gap between non-computer scientist analysts and other technical professions such as Data Scientists and software developers. Computer scientist jobs often involve continual learning and ongoing research into cutting-edge problems.
 
 ### Responsibilities:
 
@@ -282,7 +282,7 @@ Database administrators, also known as DBAs, use specialized software (databases
 
 - Manage the performance of databases within an organization
 - Plan and build new database architectures and interactions
-- Protect the organization’s data against cyber-attacks and leaks
+- Protect the organization's data against cyber-attacks and leaks
 - Conduct maintenance and upgrades to keep databases running efficiently
 
 ## Developer, Front-End - $110,000/yr

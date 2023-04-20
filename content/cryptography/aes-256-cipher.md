@@ -15,7 +15,7 @@ AES, or "Advanced Encryption Standard", is an encryption specification that uses
 
 **Symmetric encryption uses the same key** for encryption and decryption and **asymmetric encryption uses different keys.**
 
-Asymmetric encryption is preferred when you want someone to be able to send you encrypted data, but **you don’t want to share your private key**.
+Asymmetric encryption is preferred when you want someone to be able to send you encrypted data, but **you don't want to share your private key**.
 
 **Symmetric** encryption is preferred when you are encrypting **only for yourself**.
 
@@ -85,7 +85,7 @@ a5 5a 20 be
 1b 2c 59 6f
 00 7c 7c 47
 
-6. Shift rows. The first row doesn’t shift, the second-row shifts left once, the third row twice, and the last row 3 times.
+6. Shift rows. The first row doesn't shift, the second-row shifts left once, the third row twice, and the last row 3 times.
 
 a5 5a 20 be
 53 2b 5a 2c → 2b 5a 2c 53
@@ -97,7 +97,7 @@ a5 5a 20 be
 59 6f 1b 2c
 47 00 7c 7c
 
-7. Mix Columns. Each column is modulo multiplied by the [Rijndael’s Galois Field](https://www.samiam.org/galois.html). The math involved is outside the scope of this article, so I won’t be including the example output matrix.
+7. Mix Columns. Each column is modulo multiplied by the [Rijndael's Galois Field](https://www.samiam.org/galois.html). The math involved is outside the scope of this article, so I won't be including the example output matrix.
 
 ![mixcolumns in aes example](/img/800/1_RIsEo_r50T1595fhc7CKEw-1.png)
 
@@ -114,6 +114,6 @@ a5 5a 20 be
 
 ## That's it! /s
 
-Obviously the Rijndael cipher used in AES is fairly complex but I hope I’ve been able to shed light on a high-level view of what goes on inside! Thanks for reading.
+Obviously the Rijndael cipher used in AES is fairly complex but I hope I've been able to shed light on a high-level view of what goes on inside! Thanks for reading.
 
 {{< youtube gP4PqVGudtg >}}

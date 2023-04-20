@@ -51,12 +51,12 @@ Our goal is to help you get to where you want to be, in the most effective way p
 
 ## Why Boot.dev?
 
-At boot.dev we’re focused on one thing: [teaching computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/).
+At boot.dev we're focused on one thing: [teaching computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/).
 
 Following our "learning by doing" philosophy, we design our courses to be as interactive as possible, cementing learning and helping you to actively code along to challenges, lessons, and answer multiple-choice questions. 
 
-And having been on the other side in the recruitment game, we understand how employers think, and what they’re looking for.
+And having been on the other side in the recruitment game, we understand how employers think, and what they're looking for.
 
-We build our courses based on what gets you hired, and support our courses with interview prep articles and courses so you’re fully prepared for your next coding job interview.
+We build our courses based on what gets you hired, and support our courses with interview prep articles and courses so you're fully prepared for your next coding job interview.
 
 [Learn To Code With boot.dev Now](https://boot.dev/)

@@ -14,13 +14,13 @@ The software development industry is growing at a break-neck pace. Currently, th
 
 If you are someone [looking to break into the industry](https://boot.dev/), the first step is to learn and understand the different programming languages and the unique purposes they serve.  
   
-There are _hundreds_ of different programming languages in use today, however, the eight we’ll be exploring in the list below are some of the most widely-used and in-demand for an array of job titles, namely software development, mobile development, and game development.  
+There are _hundreds_ of different programming languages in use today, however, the eight we'll be exploring in the list below are some of the most widely-used and in-demand for an array of job titles, namely software development, mobile development, and game development.  
   
-In this article we’ll compare and contrast:
+In this article we'll compare and contrast:
 
 - What each language or framework _is_
 - How easy it is to learn
-- Where and how it’s most widely used
+- Where and how it's most widely used
 
 First, let's recap the difference between a _language_ and a _framework_. A language is syntax, grammar, semantics (and sometimes a core library) that implementers are required to support. A framework is an additional cohesive set of code that provides high-level tools for programming in any given language.
 
@@ -30,7 +30,7 @@ First, let's recap the difference between a _language_ and a _framework_. A lang
 
 JavaScript is (primarily) a front-end programming language used to create interactive effects within web browsers, and is basically the only way to get stuff done in the browser. JS is used to seamlessly display information that does not remain static on a web page. JavaScript helps with timely content updates, interactive maps, animated graphics, scrolling videos, etc. 
 
-The large majority of today’s software developers use JS on a very regular basis. In fact, this programming language was ranked most popular among developers going on [eight years](https://fossbytes.com/javascript-most-popular-programming-language-stack-overflow/) in a row.
+The large majority of today's software developers use JS on a very regular basis. In fact, this programming language was ranked most popular among developers going on [eight years](https://fossbytes.com/javascript-most-popular-programming-language-stack-overflow/) in a row.
 
 JS is often associated with TypeScript, a syntactical superset of JS that adds optional static typing to the language.
 
@@ -52,7 +52,7 @@ There are over [1.6 billion](https://medium.com/javascript-scene/how-popular-is-
 
 Go, also known as "Golang", is an open-source programming language primarily used to build simple, reliable, and efficient software. This statically typed, compiled programming language was designed by a team of professionals at Google in 2007 (making it one of the youngest languages on this list). 
 
-Go was built as an alternative to C and Java, and was driven by the needs of Google’s app developers to serve their network servers and distributed systems. Since then, Go has expanded to meet the needs of many programmers working on large projects and is frequently [compared to Rust](/golang/rust-vs-go-in-backend-web-development/) in terms of back-end performance. 
+Go was built as an alternative to C and Java, and was driven by the needs of Google's app developers to serve their network servers and distributed systems. Since then, Go has expanded to meet the needs of many programmers working on large projects and is frequently [compared to Rust](/golang/rust-vs-go-in-backend-web-development/) in terms of back-end performance. 
 
 ### Is It Easy to Learn?
 
@@ -76,7 +76,7 @@ Ruby on Rails uses the traditional Ruby programming language, and the framework 
 
 #### Rapid Development
 
-There’s a wide variety of libraries called ‘ruby gems to use as resources to help speed the development process along. In fact, developers who use Ruby on Rails can build applications about [40%](https://naturaily.com/blog/who-gives-f-about-rails) faster than teams that use other stacks.
+There's a wide variety of libraries called 'ruby gems to use as resources to help speed the development process along. In fact, developers who use Ruby on Rails can build applications about [40%](https://naturaily.com/blog/who-gives-f-about-rails) faster than teams that use other stacks.
 
 #### Convention over Configuration
 
@@ -90,7 +90,7 @@ Rails abstracts and simplifies common repetitive tasks, so programmers are able 
 
 Some say learning Rails can be difficult because there are many independent concepts to grasp. However, if you already have an understanding of the Ruby programming language that can help lower the learning curve for Rails. 
 
-It’s important to note that security and debugging can sometimes be difficult with Rails, especially when dealing with slightly more complex application requirements.
+It's important to note that security and debugging can sometimes be difficult with Rails, especially when dealing with slightly more complex application requirements.
 
 ### Where Is It Used?
 
@@ -112,7 +112,7 @@ Nowadays, Python is often the first language taught to programming students in s
 
 ### Where Is It Used?
 
-One of the primary reasons for Python’s quick popularity growth among programmers is that there is no shortage of scientific and mathematic libraries to use with it. Python is used to accomplish many things from building web applications to machine learning.  
+One of the primary reasons for Python's quick popularity growth among programmers is that there is no shortage of scientific and mathematic libraries to use with it. Python is used to accomplish many things from building web applications to machine learning.  
   
 Traditionally, Python has been very widely used in the following industries:
 
@@ -153,7 +153,7 @@ While many get C# confused with languages of a similar name such as C and C++, C
 
 ### Where Is It Used?
 
-C# is (not surprisingly) the primary language used by developers working with Microsoft technologies (including) Windows phone apps. It’s also used for the popular game development engine, Unity, as the primary language.
+C# is (not surprisingly) the primary language used by developers working with Microsoft technologies (including) Windows phone apps. It's also used for the popular game development engine, Unity, as the primary language.
 
 {{< cta3 >}}
 
@@ -181,11 +181,11 @@ Many well-known companies use Elixir for a wide variety of uses. Pepsi uses Elix
 
 PHP is a free and open-source general-purpose scripting language best suited to web development. Created by a Danish-Canadian programmer in 1994, The PHP reference implementation is now produced by [The PHP Group](https://www.php.net/copyright.php).
 
-PHP is a server-side scripting language. It is primarily used to develop static websites or dynamic websites, and web applications. Many know that PHP stands for ‘Hypertext Pre-Processor’, but it is less known that it previously stood for ‘Personal Home Pages.
+PHP is a server-side scripting language. It is primarily used to develop static websites or dynamic websites, and web applications. Many know that PHP stands for 'Hypertext Pre-Processor', but it is less known that it previously stood for 'Personal Home Pages.
 
 ### Is It Easy to Learn?
 
-PHP is considered one of the easiest programming languages to learn, assuming the student already has an understanding of HTML. It’s important to note that without knowing HTML before starting to learn PHP, the process can be much harder. Therefore, it’s advised to know HTML basics before diving into PHP.
+PHP is considered one of the easiest programming languages to learn, assuming the student already has an understanding of HTML. It's important to note that without knowing HTML before starting to learn PHP, the process can be much harder. Therefore, it's advised to know HTML basics before diving into PHP.
 
 I personally am not a fan of PHP and consider it outdated. I largely agree with the famous article, [PHP, a Fractal of Bad Design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/).
 
@@ -193,4 +193,4 @@ I personally am not a fan of PHP and consider it outdated. I largely agree with 
 
 PHP is used to build a variety of webpages including simple WordPress websites to way more complex web platforms like Facebook. Flexibility, nativity, multiple integration opportunities and high speed are among the main reasons companies like to use PHP in their web projects.
 
-As you can see from this list, there’s not necessarily any best web development languages or _best web pr_o_gramming languages_ for new developers to learn. It strictly depends on the needs and uniqueness of each project. However, being familiar with several of these basic and popular languages can help shape a more well-rounded and more successful development career.
+As you can see from this list, there's not necessarily any best web development languages or _best web pr_o_gramming languages_ for new developers to learn. It strictly depends on the needs and uniqueness of each project. However, being familiar with several of these basic and popular languages can help shape a more well-rounded and more successful development career.

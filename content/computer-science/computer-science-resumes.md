@@ -10,7 +10,7 @@ images:
 
 It's really hard to get your foot in the door for engineering interviews, especially if you have no experience and are looking for an entry-level position. Often times, more experienced candidates looking to find a [higher-paying job](/computer-science/highest-paying-computer-science-jobs/) can also have trouble. As an employer myself, I can tell you that one of the biggest mistakes I see in 75% of resumes is using a _visually boring template_. When I'm sifting through forty or fifty applicants, it's really easy for my eyes to glaze over. Think of your resume as your website landing page. You need to catch your employer's attention by calling out your biggest accomplishments and selling points at a glance.
 
-A pile of hundreds of computer science resumes stands staunchly opposed to your bright coding future. To stand out in the crowd and land the interviews you'll need to get that dream job, you’ll need to write a _fantastic_ computer science resume.
+A pile of hundreds of computer science resumes stands staunchly opposed to your bright coding future. To stand out in the crowd and land the interviews you'll need to get that dream job, you'll need to write a _fantastic_ computer science resume.
 
 I've looked at hundreds of resumes from computer science students, researched other's opinions about what works and what doesn't, and compiled a list of the top 6 resume templates that will help you get your point across no matter your work experience, desired job position, or schooling history. These template samples are meant to be copied! Take one of these resume templates and swap all the information out for your own.
 

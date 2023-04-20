@@ -9,7 +9,7 @@ images:
   - /img/800/grass-split.avif.webp
 ---
 
-"Software engineer" has become a ubiquitous term for people who write, deploy, architect, or sometimes even simply test code. In reality, I think there are two classes of "software engineers"; those who understand computer science well enough to do challenging, innovative work, and those who just get by because they’re familiar with a few high-level tools. The laziness with which the tech industry has adopted the term "software engineer" has made it harder for us to distinguish between the two.
+"Software engineer" has become a ubiquitous term for people who write, deploy, architect, or sometimes even simply test code. In reality, I think there are two classes of "software engineers"; those who understand computer science well enough to do challenging, innovative work, and those who just get by because they're familiar with a few high-level tools. The laziness with which the tech industry has adopted the term "software engineer" has made it harder for us to distinguish between the two.
 
 For the sake of this article, I'm going to refer to those who've taken the time to study in-depth as "computer scientists", and those who skipped the boring stuff to learn how to deploy a React portfolio as "developers". Keep in mind I just need some words to work with, there's nothing wrong with the term "developer" and there's nothing magic about the title "computer scientist".
 
@@ -39,7 +39,7 @@ It's true that both kinds of software engineers earn similar salaries in their e
 
 In other words, it's easier to learn the fundamentals and _then_ the high-level tools, rather than the high-level tools and _then_ the fundamentals. If you did it backwards don't sweat it! The important thing is simply to identify gaps in your knowledge and fill them as you have time.
 
-Over time, and often as soon as the first year of employment, "computer scientists" tend to move towards more fulfilling and well-compensated work, whether that’s well-funded open-source projects, technical leadership, or mission-critical commercial systems. "Developers" tend to continue doing what they've always done, learn a new framework, use an ORM to make simple database queries, or render information in a browser using a tool someone else made.
+Over time, and often as soon as the first year of employment, "computer scientists" tend to move towards more fulfilling and well-compensated work, whether that's well-funded open-source projects, technical leadership, or mission-critical commercial systems. "Developers" tend to continue doing what they've always done, learn a new framework, use an ORM to make simple database queries, or render information in a browser using a tool someone else made.
 
 {{< cta2 >}}
 

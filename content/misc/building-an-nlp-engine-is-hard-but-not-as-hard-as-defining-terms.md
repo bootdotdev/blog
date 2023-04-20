@@ -31,19 +31,19 @@ Let's look at some of the examples we had trouble with as a team and go over the
 
 Keep in mind that the definition of anticipation according to [Oxford](https://languages.oup.com/google-dictionary-en/) is "The action of anticipating something; expectation or prediction." In other words, we're looking for when someone is showing forethought, making a prediction, etc. Here are some examples we agreed on quickly as expressing "anticipation":
 
-- "I can’t wait to go to the movie theater again!"
-- "I’m so excited for sports to come back, can’t happen soon enough!"
+- "I can't wait to go to the movie theater again!"
+- "I'm so excited for sports to come back, can't happen soon enough!"
 - "Tesla stock is way too high, it's going to tank soon."
 
 The first one we had trouble with was:
 
-> I’m so nervous to go back to the office. Working from home has been great.
+> I'm so nervous to go back to the office. Working from home has been great.
 
 Some of us had the idea that "anticipation" carried a connotation of "being excited". In other words, you can't really anticipate something if you _don't want_ it to happen. We eventually decided that this isn't a useful definition for several reasons. First, we already do sentiment classification separately, so baking positive sentiment into the anticipation facet isn't super helpful. Second, the opposite of anticipation in our emotion wheel is "surprise". We all agreed that surprises can be good or bad. It stands to reason the surpise's opposite, anticipation, should behave the same way.
 
 The next problematic example arose a few days later:
 
-> I don’t know if I’m going to win
+> I don't know if I'm going to win
 
 One of my teammates made the point that this sentence expresses apprehension, which can be considered a form of anticipation. I played devil's advocate saying that "I don't know" is the polar opposite of a prediction, how can that be anticipation?
 
@@ -115,6 +115,6 @@ The project we're working on currently has also turned out to be a vague and dif
 
 The following however posed an interesting problem:
 
-> Do I want a $42 @gucci lipstick yes I do.... can I afford it right now No I cant  but it’s soooo good!!!!!!!
+> Do I want a $42 @gucci lipstick yes I do.... can I afford it right now No I cant  but it's soooo good!!!!!!!
 
 While it's obviously promoting Gucci, it isn't actually soliciting direct action from the reader. There's no call to action. Is this a requirement of a solicitation as scored by Nuvi? We're not sure yet - but we're figuring that out.

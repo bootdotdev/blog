@@ -34,17 +34,17 @@ Think of a Rubix cube.
 
 ![completed rubix cube ](/img/800/1_-PWqlRo2P97cfzZAbdVMlA-300x169.jpeg)
 
-I start with the cube unscrambled. If I start twisting randomly, by the end I will end up with something that does not resemble anything close to what I started with. Also, if I were to start over and do the exact same series of moves, I would be able to repeatedly get the exact same outcome. Even though the outcome may _appear_ random, it isn’t at all. That is what **deterministic** means.
+I start with the cube unscrambled. If I start twisting randomly, by the end I will end up with something that does not resemble anything close to what I started with. Also, if I were to start over and do the exact same series of moves, I would be able to repeatedly get the exact same outcome. Even though the outcome may _appear_ random, it isn't at all. That is what **deterministic** means.
 
-Determinism is important for securely storing a password. For instance, let’s pretend my password is "iLoveBitcoin"
+Determinism is important for securely storing a password. For instance, let's pretend my password is "iLoveBitcoin"
 
 I can use a hash function to scramble it:
 
 > iLoveBitcoin → "2f5sfsdfs5s1fsfsdf98ss4f84sfs6d5fs2d1fdf15"
 
-Now, if anyone were to see the scrambled version, they wouldn’t know my original password! This is important because it means that as a website developer, I only need to store the hash (scrambled data) of my user’s password to be able to verify them. When the user signs up, I hash the password and store it in my database. When the user logs in, I just hash what they typed in and compare the two hashes. Because a given input always produces the same hash, this works every time.
+Now, if anyone were to see the scrambled version, they wouldn't know my original password! This is important because it means that as a website developer, I only need to store the hash (scrambled data) of my user's password to be able to verify them. When the user signs up, I hash the password and store it in my database. When the user logs in, I just hash what they typed in and compare the two hashes. Because a given input always produces the same hash, this works every time.
 
-If a website stores passwords in plain-text (not hashed) it is a huge breach of security. If someone were to hack that site’s database and find all the emails stored with plain-text passwords, they could then use those combinations and try them on other websites.
+If a website stores passwords in plain-text (not hashed) it is a huge breach of security. If someone were to hack that site's database and find all the emails stored with plain-text passwords, they could then use those combinations and try them on other websites.
 
 ## No Matter the Input, the Output is the Same Size
 
@@ -58,21 +58,21 @@ This is another important feature because it can save us computing time. A class
 
 When a program stores data in a map, a key and value are given to the map. When a program wants to access the value, it can give the appropriate key to the map and receive the corresponding value. Data maps are good because they can find data _instantly._ The key is used as an address that the computer can find immediately, instead of taking hours searching through millions of records.
 
-Because keys are like addresses, they can’t be too large. If I want to store books in a data map I can hash the contents of the book and use the hash as a key. As a programmer, I can simply use the hash to look up the contents of the book instead of trying to sort through thousands of records by title, author, etc.
+Because keys are like addresses, they can't be too large. If I want to store books in a data map I can hash the contents of the book and use the hash as a key. As a programmer, I can simply use the hash to look up the contents of the book instead of trying to sort through thousands of records by title, author, etc.
 
 {{< cta2 >}}
 
 ## How Do They Work?
 
-Here is the real challenge of writing this article. I’m going to keep it extremely simple and omit the actual implementation details while giving you a basic idea of what the computer actually does when it hashes some data.
+Here is the real challenge of writing this article. I'm going to keep it extremely simple and omit the actual implementation details while giving you a basic idea of what the computer actually does when it hashes some data.
 
-Let’s walk through an example algorithm I’m making up on the fly for this demonstration, **LANEHASH:**
+Let's walk through an example algorithm I'm making up on the fly for this demonstration, **LANEHASH:**
 
 - We start with some data to hash
 
 > iLoveBitcoin
 
-- I convert the letters and numbers into 1’s and 0’s (All data in computers are stored in 1’s and 0’s, different patterns of 1’s and 0’s represent different letters)
+- I convert the letters and numbers into 1's and 0's (All data in computers are stored in 1's and 0's, different patterns of 1's and 0's represent different letters)
 
 > iLoveBitcoin→ 100010100000101111
 
@@ -115,4 +115,4 @@ As you can see, if you start with the same word at the beginning, you will alway
 
 ## Disclaimer
 
-On the steps where I convert from English to binary, and from binary to English, I followed no pattern. Don’t let that confuse you. There are many [different ways to convert binary data to English](/bitcoin/base64-vs-base58-encoding/) and back, I just didn’t want to get hung up on that in this article.
+On the steps where I convert from English to binary, and from binary to English, I followed no pattern. Don't let that confuse you. There are many [different ways to convert binary data to English](/bitcoin/base64-vs-base58-encoding/) and back, I just didn't want to get hung up on that in this article.

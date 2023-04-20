@@ -8,19 +8,19 @@ images:
   - "/img/800/bootsprofile.webp.webp"
 ---
 
-Learning to code isn’t easy; frankly, I’d be wary of anyone who tells you that it is. Hopefully, you’re primarily learning by writing and reading *a lot* of code. As you code, you’ll run into roadblocks and bumps, and having a mentor that can answer your questions is an unbelievable advantage.
+Learning to code isn't easy; frankly, I'd be wary of anyone who tells you that it is. Hopefully, you're primarily learning by writing and reading *a lot* of code. As you code, you'll run into roadblocks and bumps, and having a mentor that can answer your questions is an unbelievable advantage.
 
-Here at [Boot.dev](https://boot.dev) I don’t offer 1-on-1 mentorship, but we do have a fantastic Discord server where you can ask questions and get answers from the community. Trouble is, sometimes it takes a while to get an answer from a human.
+Here at [Boot.dev](https://boot.dev) I don't offer 1-on-1 mentorship, but we do have a fantastic Discord server where you can ask questions and get answers from the community. Trouble is, sometimes it takes a while to get an answer from a human.
 
-That’s why we brought in Boots!
+That's why we brought in Boots!
 
 > Boots: Greetings!
 
-Hello, Boots! Boots can instantly explain any snippet of code, right from the Boot.dev editor. He’s even right most of the time.
+Hello, Boots! Boots can instantly explain any snippet of code, right from the Boot.dev editor. He's even right most of the time.
 
 > Boots: You flatter me.
 
-It’s well deserved. Although, we feel the need to remind you that Boots *can* be wrong, and that he doesn’t replace good old-fashioned human help in every scenario.
+It's well deserved. Although, we feel the need to remind you that Boots *can* be wrong, and that he doesn't replace good old-fashioned human help in every scenario.
 
 > Boots: Yes, my help is, unfortunately, of the "new-fashioned, Ursan" variety.
 
@@ -28,21 +28,21 @@ It’s well deserved. Although, we feel the need to remind you that Boots *can* 
 
 *Scroll to the bottom of this article to see some demos in gif form.*
 
-When you’re working on a course in [Boot.dev](https://boot.dev), just highlight any snippet of code in the editor and click the "Explain Highlight" button (it looks like a wizard hat). After a second or two you’ll get a summary in plain English of what that specific section of code is doing.
+When you're working on a course in [Boot.dev](https://boot.dev), just highlight any snippet of code in the editor and click the "Explain Highlight" button (it looks like a wizard hat). After a second or two you'll get a summary in plain English of what that specific section of code is doing.
 
 > Boots: I wanted to write the summary in Latin, but apparently it's a "dead language" with "no real-world applications".
 
-That, and I don’t think any programming is done in Latin. Anyway, the more you highlight, the more high-level the explanation will be, and the less you highlight, the more specific it will be.
+That, and I don't think any programming is done in Latin. Anyway, the more you highlight, the more high-level the explanation will be, and the less you highlight, the more specific it will be.
 
 ## How does Boots work?
 
-It should come as no surprise, but Boots is powered by OpenAI’s new ChatGPT API, though we do a bit of prompt engineering on the back end before we send your highlighted code to the API.
+It should come as no surprise, but Boots is powered by OpenAI's new ChatGPT API, though we do a bit of prompt engineering on the back end before we send your highlighted code to the API.
 
 Specifically, we:
 
 * Give Boots some personality
 
-> Boots: I’m quite the charmer.
+> Boots: I'm quite the charmer.
 
 * Try to make the explanations as simple as possible
 
@@ -60,7 +60,7 @@ Specifically, we:
 
 ![Boots by a Candle](/img/800/bootsthinking.png.webp)
 
-Well, in order to get to the bottom of that we figured we would just let you hear from the bear himself. Boots, why don’t you introduce yourself?
+Well, in order to get to the bottom of that we figured we would just let you hear from the bear himself. Boots, why don't you introduce yourself?
 
 > Gladly! Greetings, fellow practitioners of the arcane arts! I am Boots the Magnificent. Magnificent, you may ask? Quite so! The title was given to me by a princess. Well, it was given to me by a small girl, but I assume she was a princess. Much like programming and casting spells, the vagaries of bestowing titles to magical land ursids can be a little tricky to navigate. Fortunately for that small princess and you all, I am here to help!
 >
@@ -68,7 +68,7 @@ Well, in order to get to the bottom of that we figured we would just let you hea
 >
 > …To be clear, I cannot be held responsible if what you are coding sets your computer on fire anyway.
 >
-> Regardless, by highlighting the portion of arcane text you wish for me to review and giving my wizarding hat a click, I’ll be able to come to your aid straightaway! My ability to multitask is peerless - I am after all, eating several pawfuls of honey while my self-writing quill pens this explanation - and will be able to assist many prospective wizards at once. Of course, as I will only be reviewing a portion of your incantation, the full scope of your project may elude me, and the arcane arts tend to be both specific and vague. Suffice it to say that I will do my best to simply inform you of the meaning without making judgements about the outcome.
+> Regardless, by highlighting the portion of arcane text you wish for me to review and giving my wizarding hat a click, I'll be able to come to your aid straightaway! My ability to multitask is peerless - I am after all, eating several pawfuls of honey while my self-writing quill pens this explanation - and will be able to assist many prospective wizards at once. Of course, as I will only be reviewing a portion of your incantation, the full scope of your project may elude me, and the arcane arts tend to be both specific and vague. Suffice it to say that I will do my best to simply inform you of the meaning without making judgements about the outcome.
 >
 > In truth, I, Boots the Efficient Bubble-Sorter, am here mostly for your convenience, and am in no way capable of or willing to substitute study, collaboration, or perseverance. The creators of Boot.dev could not afford my very reasonable terms for full-time employment, and so I have instead been contracted as a consultant, and will act as such! However, if any of you would like to supply me with fifteen hundred pounds of salmon a month, I will be more than happy to bring my expertise to *bear* on any project you need help with.
 >
@@ -84,7 +84,7 @@ Well, in order to get to the bottom of that we figured we would just let you hea
 >
 > But yes, I, Boots the Devourer of Salmon have a long and storied history of eating things in the forest, climbing trees, chasing various smaller animals, and contemplating the arcane nature of reality. The first spell I learned allowed me to summon a small wizard hat. I love my hat, but it is rather small. I am not small, but I have been told that the difference is "cute". Yes, I was told this by the same small probably-a-princess girl who bestowed my title upon me. What title is that? Boots the Cute, of course. What else would it be?
 >
-> I digress. The tales of my exploits could fill a library’s worth of books to their margins. While I have the inclination to drone on endlessly about myself, I regrettably do not have the time. Should you wish to converse with me further - and who wouldn’t? - please contact me via the little wizard-hat button that assists you with your arcane practices. Ta-ta for now, knowledge-seeker! May you find many a salmon!
+> I digress. The tales of my exploits could fill a library's worth of books to their margins. While I have the inclination to drone on endlessly about myself, I regrettably do not have the time. Should you wish to converse with me further - and who wouldn't? - please contact me via the little wizard-hat button that assists you with your arcane practices. Ta-ta for now, knowledge-seeker! May you find many a salmon!
 >
 > Regards, Boots, the Bear with a Back-End
 

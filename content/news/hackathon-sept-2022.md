@@ -32,7 +32,7 @@ I'm not going to share too many details yet (because you're not allowed to start
 
 ## Prizes
 
-We’ll have two categories of participants.
+We'll have two categories of participants.
 
 * Those who have been programming for *less* than a year
 * Those who have been programming for *more* than a year

@@ -4,7 +4,7 @@ author: Lane Wagner
 date: "2020-02-06"
 ---
 
-Thanks for being a member of Boot.dev! If you are not entirely satisfied with your purchase, we’re here to help.
+Thanks for being a member of Boot.dev! If you are not entirely satisfied with your purchase, we're here to help.
 
 ## Refunds
 

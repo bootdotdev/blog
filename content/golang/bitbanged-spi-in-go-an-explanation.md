@@ -8,11 +8,11 @@ images:
   - /img/800/1_5WD0gV6autEIzv8GMkc5gQ.webp
 ---
 
-I’m going to focus mostly on some design decisions and also how I went about writing an SPI interface using Go on a Raspberry Pi. I assume my readers have a basic understanding of what a Raspberry Pi is, and how basic electronics work. If not, read on anyway and I will be sure to include some valuable resources below.
+I'm going to focus mostly on some design decisions and also how I went about writing an SPI interface using Go on a Raspberry Pi. I assume my readers have a basic understanding of what a Raspberry Pi is, and how basic electronics work. If not, read on anyway and I will be sure to include some valuable resources below.
 
 ## Why Go?
 
-In a past life, I worked on hardware interfacing software. The first thing I can certainly tell you is that I hate C. Don’t get me wrong, I understand the appeal of having lightning-fast code. Also, the ability to manipulate memory and low-level functions is useful. I also understand the headache of writing concurrent C code, and anyone familiar with Go knows that this is where it shines.
+In a past life, I worked on hardware interfacing software. The first thing I can certainly tell you is that I hate C. Don't get me wrong, I understand the appeal of having lightning-fast code. Also, the ability to manipulate memory and low-level functions is useful. I also understand the headache of writing concurrent C code, and anyone familiar with Go knows that this is where it shines.
 
 ![Raspberry Pi 3](/img/800/1_l-OnL3gWfBBOTceP8V-vXw.jpeg)
 
@@ -23,10 +23,10 @@ The project that first got me interested in using Go for embedded applications w
 I quickly threw together a prototype in Python using the standard [Python GPIO library](https://pypi.org/project/RPi.GPIO/), and was satisfied with the initial results. It was apparent however that for a more industrial solution we needed an application that was:
 
 - **Faster** — Able to support more operations per second at lower memory and CPU usage.
-- **Compiled** — We didn’t want anyone to be able to pop out the Compute Module and steal our source code.
+- **Compiled** — We didn't want anyone to be able to pop out the Compute Module and steal our source code.
 - **Maintainable** — We had a very small team, and none of us were very experienced with firmware so we wanted to abstract up a bit if possible.
 
-I considered C++ at first. C++ is about as fast as it gets, and is a compiled language. I’m quite comfortable in C++ and have written many applications using it, but we ultimately decided on Go instead for the simple fact the concurrent programming in Go is as easy as it gets. C++ may run a bit faster, but we knew that if we wrote this particular program in Go, it would likely be about half the size (in lines of code) and we were more confident in our ability to keep the code clean and maintainable.
+I considered C++ at first. C++ is about as fast as it gets, and is a compiled language. I'm quite comfortable in C++ and have written many applications using it, but we ultimately decided on Go instead for the simple fact the concurrent programming in Go is as easy as it gets. C++ may run a bit faster, but we knew that if we wrote this particular program in Go, it would likely be about half the size (in lines of code) and we were more confident in our ability to keep the code clean and maintainable.
 
 It is important to note that the program in question was doing a lot more than just the data collection via SPI interface with an ADC component. There were user inputs, data displays, etc. It was to be a highly concurrent program.
 
@@ -36,7 +36,7 @@ It is important to note that the program in question was doing a lot more than j
 
 ![Master Slave SPI](/img/800/1_5WD0gV6autEIzv8GMkc5gQ.png)
 
-SPI stands for serial peripheral interface. I don’t want to get too far off track, but basically it is just a protocol for a master (your program) to communicate with the hardware (like a thermometer or analog to digital converter). If you want to learn more check out the link in the picture’s caption.
+SPI stands for serial peripheral interface. I don't want to get too far off track, but basically it is just a protocol for a master (your program) to communicate with the hardware (like a thermometer or analog to digital converter). If you want to learn more check out the link in the picture's caption.
 
 [SPI Protocol Details](http://www.circuitbasics.com/basics-of-the-spi-communication-protocol/)
 
@@ -52,7 +52,7 @@ SPI stands for serial peripheral interface. I don’t want to get too far off tr
 
 ## Implementation
 
-First things first, I needed a great GPIO package. For this project, we built the code to be able to use any of the GPIO pins on the Pi. I used [Dave Cheney’s library](https://github.com/davecheney/gpio)
+First things first, I needed a great GPIO package. For this project, we built the code to be able to use any of the GPIO pins on the Pi. I used [Dave Cheney's library](https://github.com/davecheney/gpio)
 
 The code below should build and run. Please keep in mind that if you are going to use this code, you will need to change the pin numbers to match the pins you used to connect your GPIOs to your ADC.
 

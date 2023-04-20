@@ -116,4 +116,4 @@ There are exceptions, and any paid development work is typically better than non
 
 ## Let us know what you think
 
-We’re always refining our ideas. If you have any thoughts on this stuff, tell us. The easiest ways are to join our [Discord community server](https://discord.gg/EEkFwbv) or to [tweet at us](https://twitter.com/bootdotdev).
+We're always refining our ideas. If you have any thoughts on this stuff, tell us. The easiest ways are to join our [Discord community server](https://discord.gg/EEkFwbv) or to [tweet at us](https://twitter.com/bootdotdev).

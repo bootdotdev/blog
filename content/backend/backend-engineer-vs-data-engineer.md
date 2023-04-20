@@ -1,5 +1,5 @@
 ---
-title: "Backend Engineer vs Data Engineer: What’s the Difference?"
+title: "Backend Engineer vs Data Engineer: What's the Difference?"
 author: Natalie Schooner
 date: "2022-09-21"
 categories: 
@@ -13,11 +13,11 @@ The sexiest job title of the decade, data scientist, has spawned about a dozen e
 * A data engineer (sometimes called a *big* data engineer) is responsible for designing and building systems that let organizations collect, store, and analyze large amounts of data.
 * Meanwhile, a backend engineer is a more broad job description - they work on the application side of a product, building APIs and connecting databases to user-facing interfaces.
 
-When comparing data engineers and backend engineers, it depends a lot on the company, too. Some companies might have a different understanding of data engineering than others. It’s a sexy job title, yes, but to one company it sounds like hard-code coding from scratch, and to another, it sounds like Excel.
+When comparing data engineers and backend engineers, it depends a lot on the company, too. Some companies might have a different understanding of data engineering than others. It's a sexy job title, yes, but to one company it sounds like hard-code coding from scratch, and to another, it sounds like Excel.
 
 One particularly convoluted answer on Reddit [reads](https://www.reddit.com/r/dataengineering/comments/qecxfa/comment/hhtagbb/?utm_source=share&utm_medium=web2x&context=3):
 
-> "I guess you could say that data engineers are the back-end developers of ‘data-intensive application development’."
+> "I guess you could say that data engineers are the back-end developers of 'data-intensive application development'."
 
 I preferred a different answer, which [reads](https://www.reddit.com/r/dataengineering/comments/qecxfa/comment/hhs7uzl/?utm_source=share&utm_medium=web2x&context=3):
 
@@ -25,7 +25,7 @@ I preferred a different answer, which [reads](https://www.reddit.com/r/dataengin
 
 The simplest answer, in my opinion? Data engineers are a *type* of backend engineer. Data is a huge part of the backend. It makes sense that backend engineers have to build systems to collect and manage the data that makes the frontend run. But as the role of data has expanded, organizations have expanded the role of data engineer to be its own thing.
 
-Let’s talk about each role on its own, and then come back to the comparison. By the way, if you're interested in becoming a data engineer *or* a back-end engineer, check out [Boot.dev](https://boot.dev) - you can learn online in your spare time for *waaaaay* less than you would spend on college or a bootcamp.
+Let's talk about each role on its own, and then come back to the comparison. By the way, if you're interested in becoming a data engineer *or* a back-end engineer, check out [Boot.dev](https://boot.dev) - you can learn online in your spare time for *waaaaay* less than you would spend on college or a bootcamp.
 
 ## What is a Data Engineer?
 
@@ -51,7 +51,7 @@ You also need to be able to communicate. Not many people put the words data and 
 
 ### What are data engineering job requirements?
 
-This differs a lot from company to company. I picked [GSK’s entry for Data Engineer](https://www.google.com/search?q=data+engineer+job&rlz=1C5CHFA_enUS890US890&sxsrf=ALiCzsZFfygFW-QRYyBKGlNDrD_cCsIFtg:1663611846041&ei=xrMoY87rAbes5NoPwJGSsAQ&uact=5&oq=data+engineer+job&gs_lcp=Cgdnd3Mtd2l6EAMyDggAEIAEELEDEIMBEMkDMgUIABCSAzIKCAAQgAQQhwIQFDILCAAQgAQQsQMQgwEyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6DQgAEEcQ1gQQsAMQyQM6CggAEEcQ1gQQsAM6BwgAELADEEM6DQgAEOQCENYEELADGAE6EgguEMcBENEDEMgDELADEEMYAjoGCAAQHhAHOgQIIxAnOgQIABBDOgcIABCxAxBDOgoIABCxAxCDARBDOgoIABCxAxDJAxBDOgUIABCRAkoECEEYAEoECEYYAVCHB1jHEmDaE2gCcAF4AIABYYgBhwaSAQE5mAEAoAEByAERwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz&ibp=htl;jobs&sa=X&ved=2ahUKEwiGmfiNvaH6AhWXF2IAHTXOC_IQkd0GegQIHRAB#fpstate=tldetail&htivrt=jobs&htiq=data+engineer+job&htidocid=-n1Zp8wVaH8AAAAAAAAAAA%3D%3D) as an arbitrary employer. To be hired as a data engineer, you may need:
+This differs a lot from company to company. I picked [GSK's entry for Data Engineer](https://www.google.com/search?q=data+engineer+job&rlz=1C5CHFA_enUS890US890&sxsrf=ALiCzsZFfygFW-QRYyBKGlNDrD_cCsIFtg:1663611846041&ei=xrMoY87rAbes5NoPwJGSsAQ&uact=5&oq=data+engineer+job&gs_lcp=Cgdnd3Mtd2l6EAMyDggAEIAEELEDEIMBEMkDMgUIABCSAzIKCAAQgAQQhwIQFDILCAAQgAQQsQMQgwEyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6DQgAEEcQ1gQQsAMQyQM6CggAEEcQ1gQQsAM6BwgAELADEEM6DQgAEOQCENYEELADGAE6EgguEMcBENEDEMgDELADEEMYAjoGCAAQHhAHOgQIIxAnOgQIABBDOgcIABCxAxBDOgoIABCxAxCDARBDOgoIABCxAxDJAxBDOgUIABCRAkoECEEYAEoECEYYAVCHB1jHEmDaE2gCcAF4AIABYYgBhwaSAQE5mAEAoAEByAERwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz&ibp=htl;jobs&sa=X&ved=2ahUKEwiGmfiNvaH6AhWXF2IAHTXOC_IQkd0GegQIHRAB#fpstate=tldetail&htivrt=jobs&htiq=data+engineer+job&htidocid=-n1Zp8wVaH8AAAAAAAAAAA%3D%3D) as an arbitrary employer. To be hired as a data engineer, you may need:
 
 * A BS/MS in Computer Science, Analytics, or similar experience/education
 * 2+ years of professional software engineering experience
@@ -95,9 +95,9 @@ Technical skills include: developing REST APIs, being familiar with SQL or other
 
 ### What are back-end engineer job requirements?
 
-Like data engineers, the responsibilities of backend engineers differ from company to company. Here’s just one example from [Hired](https://www.google.com/search?q=backend+engineer+jobs&rlz=1C5CHFA_enUS890US890&sxsrf=ALiCzsZdgTqoVFaCTfYgSCXD7HzRG5OSOQ:1663612988087&ei=PLgoY_vQBK-t5NoPxZGs8AM&uact=5&oq=backend+engineer+jobs&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyCAgAEIAEEMkDMgUIABCABDIFCAAQgAQyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBY6DQgAEEcQ1gQQsAMQyQM6CggAEEcQ1gQQsANKBAhBGABKBAhGGABQmQJYmQJgxwNoAnABeACAAU-IAU-SAQExmAEAoAEByAEIwAEB&sclient=gws-wiz&ibp=htl;jobs&sa=X&ved=2ahUKEwjo3--rwaH6AhUeGlkFHdEUAxkQkd0GegQIGhAB#fpstate=tldetail&htivrt=jobs&htiq=backend+engineer+jobs&htidocid=_Co1E3xwrnwAAAAAAAAAAA%3D%3D).
+Like data engineers, the responsibilities of backend engineers differ from company to company. Here's just one example from [Hired](https://www.google.com/search?q=backend+engineer+jobs&rlz=1C5CHFA_enUS890US890&sxsrf=ALiCzsZdgTqoVFaCTfYgSCXD7HzRG5OSOQ:1663612988087&ei=PLgoY_vQBK-t5NoPxZGs8AM&uact=5&oq=backend+engineer+jobs&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyCAgAEIAEEMkDMgUIABCABDIFCAAQgAQyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBY6DQgAEEcQ1gQQsAMQyQM6CggAEEcQ1gQQsANKBAhBGABKBAhGGABQmQJYmQJgxwNoAnABeACAAU-IAU-SAQExmAEAoAEByAEIwAEB&sclient=gws-wiz&ibp=htl;jobs&sa=X&ved=2ahUKEwjo3--rwaH6AhUeGlkFHdEUAxkQkd0GegQIGhAB#fpstate=tldetail&htivrt=jobs&htiq=backend+engineer+jobs&htidocid=_Co1E3xwrnwAAAAAAAAAAA%3D%3D).
 
-You’ll need:
+You'll need:
 
 * A degree in computer science / web development / computer engineering or equivalent experience
 * Experience in any of: SQL, Ruby on Rails, Ruby, Java for front-end and back-end programming, Go, Swift, Docker, Azure, AngularJS and Angular 2
@@ -110,7 +110,7 @@ You’ll need:
 
 Backend engineers seem to need a wide variety of skills.
 
-In that role, you’ll need to know how to:
+In that role, you'll need to know how to:
 
 * Construct all the back-end functionality for a website, and make it efficient
 * Use frameworks to build service software and integrate APIs and cloud computing

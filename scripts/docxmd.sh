@@ -6,8 +6,8 @@ sed -i '.bak' 's/<u>//g' "out.md"
 sed -i '.bak' 's/<\/u>//g' "out.md"
 
 # remove smart quotes
-sed -i '.bak' 's/“/"/g' "out.md"
-sed -i '.bak' 's/”/"/g' "out.md"
+sed -i '.bak' 's/"/"/g' "out.md"
+sed -i '.bak' 's/"/"/g' "out.md"
 
 # Fix bullet points
 sed -i '.bak' 's/- /* /g' "out.md"

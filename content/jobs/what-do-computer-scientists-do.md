@@ -19,12 +19,12 @@ By definition, a computer scientist is a person trained in [computer science](/c
 
 ### Computer Science vs. Computer Programming
 
-You may be thinking, but wait, aren’t they the *same thing*? Put simply, no, they're not. 
+You may be thinking, but wait, aren't they the *same thing*? Put simply, no, they're not. 
 
 * Computer *science* focuses on computer *theory*
 * Computer *programming* covers *practical application*.
 
-It's not that the two paths don’t ever intersect. Computer scientists will often have to cover areas of practical application and vice versa. And if that isn’t the case, computer programmers and computer scientists will often work in tandem on different projects. In fact, many students who study computer science in school go on to become programmers.
+It's not that the two paths don't ever intersect. Computer scientists will often have to cover areas of practical application and vice versa. And if that isn't the case, computer programmers and computer scientists will often work in tandem on different projects. In fact, many students who study computer science in school go on to become programmers.
 
 ### What a computer scientist *do*? 
 
@@ -98,7 +98,7 @@ So much about your life as a computer scientist will depend on where you go to w
 
 ## What kinds of jobs can I get as a computer scientist?
 
-As computer science breaks down into smaller categories, so do the jobs. This is just a smattering of [different coding jobs](/jobs/whats-the-job-outlook-for-computer-science-students) out there (and if you want to see a more in-depth look at jobs, feel free to [check out some articles on coding jobs](https://blog.boot.dev/jobs/whats-the-job-outlook-for-computer-science-students/). If you remember our prior discussion on computer programming vs. computer science, you’ll know that these jobs will lean toward one or the other (or occasionally overlap). Just know that the definition of job titles and tasks associated may shift depending on the company that is writing the job description.
+As computer science breaks down into smaller categories, so do the jobs. This is just a smattering of [different coding jobs](/jobs/whats-the-job-outlook-for-computer-science-students) out there (and if you want to see a more in-depth look at jobs, feel free to [check out some articles on coding jobs](https://blog.boot.dev/jobs/whats-the-job-outlook-for-computer-science-students/). If you remember our prior discussion on computer programming vs. computer science, you'll know that these jobs will lean toward one or the other (or occasionally overlap). Just know that the definition of job titles and tasks associated may shift depending on the company that is writing the job description.
 
 
 * **.NET Developer** - A programmer who creates online software, applications, and interfaces specific to the .NET framework
@@ -109,9 +109,9 @@ As computer science breaks down into smaller categories, so do the jobs. This is
 * **Frontend Developer** - Develops the graphic interfaces that a client or web user will see
 * **Fullstack Developer** - Does both front and back-end development
 * **Hardware Engineer** - Research, design, develop and test new computer systems and components, such as circuit boards and processors
-* **Information Security Analyst** - Monitor an organization’s network for breaches in security, often investigating when breaches do occur
-* **IT Auditor** - They make sure that an organization’s systems and infrastructure run as efficiently as possible
-* **IT Project Manager** - Plan and allocate resources to meet an organization’s needs
+* **Information Security Analyst** - Monitor an organization's network for breaches in security, often investigating when breaches do occur
+* **IT Auditor** - They make sure that an organization's systems and infrastructure run as efficiently as possible
+* **IT Project Manager** - Plan and allocate resources to meet an organization's needs
 * **Java Developer** - Develops applications and software with the [Java programming language](https://blog.boot.dev/javascript/)
 * **Network Administrator** - They organize, install and support computer systems for companies
 * **Network Architect** - Plans, designs, and implements data communication networks for a specific organization or company

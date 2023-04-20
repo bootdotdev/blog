@@ -51,7 +51,7 @@ According to [Lane Wagner's article on Computer Science resume's for 2021](/comp
 - Tweak your resume for each position you apply for
 - Include only relevant information
 - Try to keep it on one page
-- If a position asks for a specific technology, don’t be afraid to spend a day or two brushing up on the specifics of it
+- If a position asks for a specific technology, don't be afraid to spend a day or two brushing up on the specifics of it
 - Use color to emphasize important points
 - Spell and grammar check
 

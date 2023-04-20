@@ -9,11 +9,11 @@ images:
   - /img/800/pexels-diego-madrigal-2062314-scaled.webp
 ---
 
-I’ve made no secret of the fact that I love Python, and that I believe [one of the best ways to learn Python](https://boot.dev/learn/learn-python) is by finding an awesome project you care about to work on. There’s nothing more stimulating than passion and curiosity, and that makes the best projects for Python beginners usually something a little grittier than the standard tutorials. 
+I've made no secret of the fact that I love Python, and that I believe [one of the best ways to learn Python](https://boot.dev/learn/learn-python) is by finding an awesome project you care about to work on. There's nothing more stimulating than passion and curiosity, and that makes the best projects for Python beginners usually something a little grittier than the standard tutorials. 
 
-While it’s fine to start with "Hello World", it’s not exactly the most fascinating of projects and won’t keep you going when the going gets tough.
+While it's fine to start with "Hello World", it's not exactly the most fascinating of projects and won't keep you going when the going gets tough.
 
-You might be sold on the concept of using a project to learn Python, but maybe you’re wondering how you can find the best Python projects for beginners. The good news is that thanks to the awesome community of Pythonistas out there, the prevalence of open source code and data, and the wide world of the internet, you’re bound to find a Python project for beginners that you’ll love.
+You might be sold on the concept of using a project to learn Python, but maybe you're wondering how you can find the best Python projects for beginners. The good news is that thanks to the awesome community of Pythonistas out there, the prevalence of open source code and data, and the wide world of the internet, you're bound to find a Python project for beginners that you'll love.
 
 Full disclosure, some of these will be harder than your usual Python projects for newbies. On the upside, these are fun, interesting projects that will actually teach you Python. You will struggle, you will have to Google stuff, but that's all part of the experience. Here are some ideas to get you started.
 
@@ -59,7 +59,7 @@ Think of this option as less of a project for Python beginners, and more of some
 
 Something I've learned about coding is that it's rare that you are typing frantically at your keyboard and writing lines of code that magically fill your screen. Instead, it looks a little bit more like copying scrappy code from all around the internet and Googling it on StackOverflow when it doesn't do what it's supposed to.
 
-That's why I love this tutorial which is based on a package called `howdoi`. When properly set up, it gives you instant coding answers from the command line. Ideally, this means you won't have to open your browser to look for help. If you’re extra ambitious once you set this up, you can go a step further and create a GUI or a flask web app that wraps the `howdoi` package.
+That's why I love this tutorial which is based on a package called `howdoi`. When properly set up, it gives you instant coding answers from the command line. Ideally, this means you won't have to open your browser to look for help. If you're extra ambitious once you set this up, you can go a step further and create a GUI or a flask web app that wraps the `howdoi` package.
 
 Once you acknowledge how much time you spend Googling things, you'll realize the value of using this as a Python project for beginners.
 
@@ -79,7 +79,7 @@ Our first course, Learn Python, is designed to take you from a complete beginner
 
 [Learn Python with boot.dev Here](https://boot.dev/learn/learn-python)
 
-### [7. Coursera’s Python Project option](https://www.coursera.org/learn/python-project-for-data-science)
+### [7. Coursera's Python Project option](https://www.coursera.org/learn/python-project-for-data-science)
 
 Coursera is normally what I recommend to people who want to secure a certificate for their Python experience, and not necessarily as a source of Python projects for beginners. However, it also is replete with courses that either act as a project or let you select a project yourself. 
 
@@ -87,13 +87,13 @@ For example, this Python project for data science is intended for you to demonst
 
 ### [8. YouTube lectures](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
 
-Have you ever wanted to make a neural network that makes images become really trippy using Python and Tensorflow, mimicking the effects of hallucinogenic drugs? Well, who wouldn’t? And now you can learn how with [t](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)h[is](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5) YouTube lecture/tutorial.
+Have you ever wanted to make a neural network that makes images become really trippy using Python and Tensorflow, mimicking the effects of hallucinogenic drugs? Well, who wouldn't? And now you can learn how with [t](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)h[is](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5) YouTube lecture/tutorial.
 
 Siraj is an awesome tutor due to his energy and clear experience. He has a whole series of tutorials that make up his "Learn Python for Data Science" course. He links to the source code in all his videos, so you can try this out for yourself.
 
 We also have an article on [Python for data science](https://boot.dev/python/python-for-data-science/)
 
-If you’re not a fan of this particular Python project for beginners, you can check out his other videos to see if there’s a project that does grab your attention.
+If you're not a fan of this particular Python project for beginners, you can check out his other videos to see if there's a project that does grab your attention.
 
 ### [9. LinkedIn Learning](https://www.linkedin.com/learning/python-projects)
 

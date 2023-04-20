@@ -19,7 +19,7 @@ If you are a developer, or are in the middle of learning to code, you may be jus
 
 Well, no one really knows where the markets are going in the future, but things are getting rocky quickly. Y Combinator, arguably the most successful tech startup accelerator [wrote a letter](https://techcrunch.com/2022/05/19/yc-advises-founders-to-plan-for-the-worst/) to the founders they have funded where they say:
 
-> No one can predict how bad the economy will get, but things don’t look good. The safe move is to plan for the worst. If the current situation is as bad as the last two economic downturns, the best way to prepare is to cut costs and extend your runway within the next 30 days.
+> No one can predict how bad the economy will get, but things don't look good. The safe move is to plan for the worst. If the current situation is as bad as the last two economic downturns, the best way to prepare is to cut costs and extend your runway within the next 30 days.
 
 I have no idea if the market is going down another 20%, is going to rebound to all-time-highs by the end of the year, or if we'll trade sideways for the next few months. If I were you, I'd be wary of anyone who is telling you that they do know what is going to happen, especially if there is a price tag attached to the information. What I do know is that there is a sentiment sweeping across the tech industry that has company leaders thinking about tightening their budgets to weather a storm - whether or not the storm comes.
 

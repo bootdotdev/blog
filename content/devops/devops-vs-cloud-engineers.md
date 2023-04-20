@@ -9,31 +9,31 @@ images:
   - /img/800/cloudspacestation.png.webp
 ---
 
-The deeper you get into the tech sphere, the more unintelligible the job titles seem to be. Plus, the same title at different companies often encompasses different responsibilities. Ask twenty data scientists what they do and you’ll get twenty different answers.
+The deeper you get into the tech sphere, the more unintelligible the job titles seem to be. Plus, the same title at different companies often encompasses different responsibilities. Ask twenty data scientists what they do and you'll get twenty different answers.
 
-"DevOps Engineers" and "Cloud Engineers" are two jobs that *sound* very similar, but they’re quite distinct. Like many jobs in the tech space, there’s some overlap between them, but there’s a reason that DevOps Engineer and Cloud Engineer are separate job roles.
+"DevOps Engineers" and "Cloud Engineers" are two jobs that *sound* very similar, but they're quite distinct. Like many jobs in the tech space, there's some overlap between them, but there's a reason that DevOps Engineer and Cloud Engineer are separate job roles.
 
-DevOps stands for *Dev*elopment and *Op*erations Engineer. The “cloud” in cloud engineering refers to the cloud-based architecture many modern companies rely on for operations.
+DevOps stands for *Dev*elopment and *Op*erations Engineer. The "cloud" in cloud engineering refers to the cloud-based architecture many modern companies rely on for operations.
 
-Let’s break down some key similarities, differences, and career prospects for each role.
+Let's break down some key similarities, differences, and career prospects for each role.
 
 ## What is the difference between a DevOps Engineer and a cloud Engineer?
 
 *To put it simply, the difference between a DevOps engineer vs a cloud engineer is that cloud engineers are essentially DevOps engineers who specialize in cloud infrastructure products like Azure, AWS, GC, Kubernetes, and Docker.*
 
-There is very little daylight between the two roles. Review just a few job descriptions and you’ll quickly realize that cloud engineers are often just cloud-based DevOps engineers. A cloud engineer will specialize in their deep knowledge of cloud technologies (AWS, GC, MSFT azure), but both roles deal with deployments, live sites, and health metrics of systems.
+There is very little daylight between the two roles. Review just a few job descriptions and you'll quickly realize that cloud engineers are often just cloud-based DevOps engineers. A cloud engineer will specialize in their deep knowledge of cloud technologies (AWS, GC, MSFT azure), but both roles deal with deployments, live sites, and health metrics of systems.
 
-That said, it’s actually hard to find a DevOps engineering role that *doesn’t* use some kind of cloud-based technology.
+That said, it's actually hard to find a DevOps engineering role that *doesn't* use some kind of cloud-based technology.
 
 The real difference between the non-cloud DevOps and normal DevOps is specific to the kind of product these roles are helping develop.
 
-For example, a product like Microsoft Word is *not* a cloud product. Desktop apps don't (primarily) run in the cloud. Logs emitted (directly) in the cloud. There’s no need for DevOps engineers who deal with deploying client-side code to be as deeply knowledgeable about cloud-based back-end technology. A product like Google Drive, meanwhile, is 100% cloud-based. They need DevOps and cloud engineers to push out new versions, store all of your files, push/pull updates to your files from various devices, etc.
+For example, a product like Microsoft Word is *not* a cloud product. Desktop apps don't (primarily) run in the cloud. Logs emitted (directly) in the cloud. There's no need for DevOps engineers who deal with deploying client-side code to be as deeply knowledgeable about cloud-based back-end technology. A product like Google Drive, meanwhile, is 100% cloud-based. They need DevOps and cloud engineers to push out new versions, store all of your files, push/pull updates to your files from various devices, etc.
 
 {{< cta1 >}}
 
 ## Six key differences between DevOps Engineers vs cloud Engineers
 
-Now that you’ve got a rough sense of the difference between DevOps engineers and cloud engineers, let’s break down some more distinct differences in these roles.
+Now that you've got a rough sense of the difference between DevOps engineers and cloud engineers, let's break down some more distinct differences in these roles.
 
 We'll look at:
 
@@ -48,9 +48,9 @@ We'll look at:
 
 A cloud engineer focuses on the design, implementation, and maintenance of cloud infrastructure and services. A DevOps engineer also focuses on the design, implementation, and maintenance of infrastructure and services, just not *necessarily* cloud infra and services.
 
-That’s a lot of jargon, isn’t it?
+That's a lot of jargon, isn't it?
 
-Let’s use a baking analogy to break it down because I’m a little hungry as I write this. As a DevOps engineer, you’re ensuring the cake is baking evenly and well. If the recipe works well, you make sure that’s noted. If it needs adjustment, you ensure you show what you changed.
+Let's use a baking analogy to break it down because I'm a little hungry as I write this. As a DevOps engineer, you're ensuring the cake is baking evenly and well. If the recipe works well, you make sure that's noted. If it needs adjustment, you ensure you show what you changed.
 
 What does this look like when mapped onto actual job responsibilities?
 
@@ -64,7 +64,7 @@ DevOps engineers:
 
 Meanwhile, a cloud Engineer is more like the site manager who makes sure the kitchen is fully prepared. They make sure the oven is working properly, they might put in a test cake before the real one to see that it's coming out alright, and they could check that the temperature it says it's at is accurate.
 
-Let’s take a look at actual responsibilities:
+Let's take a look at actual responsibilities:
 
 * Build and maintain cloud infrastructure, such as servers, storage, and databases (AKA, ensuring that the kitchen has the necessary tools, like ovens, mixers, and baking trays)
 * Design, implement, and maintain scalable, highly available, and fault-tolerant systems (making sure that there are enough ovens and mixers, and that cakes can still get baked in the event of a power outage)
@@ -81,9 +81,9 @@ In baking terms, this is like saying DevOps engineers are amazing at measuring f
 
 *Just kidding.*
 
-At this point, the baking analogy begins to lose its usefulness – I mean, what does skill for measuring flour even mean? Hopefully, you’ve got a clear idea of the main differences between DevOps engineers vs cloud engineers. Let’s look at the actual skills you’d be expected to have as a DevOps engineer versus a cloud engineer.
+At this point, the baking analogy begins to lose its usefulness – I mean, what does skill for measuring flour even mean? Hopefully, you've got a clear idea of the main differences between DevOps engineers vs cloud engineers. Let's look at the actual skills you'd be expected to have as a DevOps engineer versus a cloud engineer.
 
-To be a DevOps engineer, here are the skills and familiarities you’ll be expected to have:
+To be a DevOps engineer, here are the skills and familiarities you'll be expected to have:
 
 * Tools like Ansible, Jenkins, Python, or Docker for automation and scripting
 * Infrastructure-as-code (IAC) tools like Terraform or cloud formation
@@ -94,9 +94,9 @@ To be a DevOps engineer, here are the skills and familiarities you’ll be expec
 * CI/CD pipeline tools
 * And of course, strong communication and collaboration skills, since DevOps Engineers often work closely with development and operations teams
 
-This area of comparison between cloud engineers versus DevOps engineers has the most overlap. As a cloud engineer, you’ll be expected to have mastery of a lot of the same tools as you would as a DevOps engineer. In the list below, I’ve noted all the areas of overlap between DevOps engineers and cloud engineers.
+This area of comparison between cloud engineers versus DevOps engineers has the most overlap. As a cloud engineer, you'll be expected to have mastery of a lot of the same tools as you would as a DevOps engineer. In the list below, I've noted all the areas of overlap between DevOps engineers and cloud engineers.
 
-You’ll need:
+You'll need:
 
 * Strong experience with cloud infrastructure providers like AWS, GCP, Azure, and their services (overlaps with DevOps)
 * Experience with (IAC tools, such as Terraform, and cloudFormation (overlaps with DevOps)
@@ -107,7 +107,7 @@ You’ll need:
 * Knowledge of containerization and container orchestration tools, such as Docker and Kubernetes (overlacdps with DevOps)
 * Experience with monitoring and logging tools, such as cloudwatch, Stackdriver, Prometheus (overlaps with DevOps)
 
-The areas where there isn’t as much overlap are:
+The areas where there isn't as much overlap are:
 
 * Security (cloud engineer specialty)
 * Virtualization technologies (cloud engineer)
@@ -129,7 +129,7 @@ In summary, DevOps engineers streamline the software delivery process and make s
 
 ### 4. Interaction with teams
 
-No employee or team works in a vacuum. If you were paying attention in earlier sections, you’d notice that both DevOps engineers and cloud engineers are expected to work and collaborate with different teams across the company.
+No employee or team works in a vacuum. If you were paying attention in earlier sections, you'd notice that both DevOps engineers and cloud engineers are expected to work and collaborate with different teams across the company.
 
 Few software departments employ both DevOps engineers and cloud engineers. Some products lend themselves more to classic DevOps, and some require more cloud infrastructure. The work relating to setting up and using the cloud infrastructure could fall to someone with the title of DevOps engineer OR cloud engineer, depending on the company and its history.
 
@@ -139,16 +139,16 @@ Cloud engineers interact with development, operations, and infrastructure teams 
 
 ### 5. Pay
 
-I’ve written before about how much salaries can vary across locations, and how much the cost of living affects the actual take-home money you earn.
+I've written before about how much salaries can vary across locations, and how much the cost of living affects the actual take-home money you earn.
 
-Of course, it’s a given that both [the salaries for DevOps engineers and cloud engineers](/devops/devops-salary/) are generous. The median annual salary for each role in the United States, based on data from Glassdoor, is:
+Of course, it's a given that both [the salaries for DevOps engineers and cloud engineers](/devops/devops-salary/) are generous. The median annual salary for each role in the United States, based on data from Glassdoor, is:
 
 * DevOps engineer: `$115,000 - $140,000`
 * Cloud engineer: `$120,000 - $150,000`
 
-But let’s take a look at a more usable number, based on location, cost of living, rent, and taxes for DevOps vs cloud engineers.
+But let's take a look at a more usable number, based on location, cost of living, rent, and taxes for DevOps vs cloud engineers.
 
-Here’s the salary data for DevOps engineers in the top five cities:
+Here's the salary data for DevOps engineers in the top five cities:
 
 ![dev ops salary](/img/800/devopssalary.png.webp)
 
@@ -167,7 +167,7 @@ Here’s the salary data for DevOps engineers in the top five cities:
 
 As you can see, while San Francisco is the highest paid, Houston delivers the highest take-home pay thanks to a low cost of living and rent burden.
 
-Let’s have a look at cloud engineer salary data:
+Let's have a look at cloud engineer salary data:
 
 ![dev ops salary](/img/800/cloudengsalary.png.webp)
 
@@ -192,16 +192,16 @@ Quick caveat: these estimates vary based on company size and level of expertise,
 
 ### 6. Job prospects 
 
-It’s tough to compare the job prospects of DevOps engineers and cloud engineers because both are frankly great. Even just twenty years ago, DevOps engineers and cloud engineers weren’t even job titles. Today, they’re some of the most in-demand IT jobs out there. Employment prospects for DevOps Engineers and Cloud Engineers can vary depending on location and industry, but in general, both roles are in high demand in the current job market. Yes, even despite all the recent tech layoffs!
+It's tough to compare the job prospects of DevOps engineers and cloud engineers because both are frankly great. Even just twenty years ago, DevOps engineers and cloud engineers weren't even job titles. Today, they're some of the most in-demand IT jobs out there. Employment prospects for DevOps Engineers and Cloud Engineers can vary depending on location and industry, but in general, both roles are in high demand in the current job market. Yes, even despite all the recent tech layoffs!
 
 As [reported](https://www.bain.com/insights/tech-talent-war-tech-report-2021/) by Consultancy Bain & Company in September 2019, job postings for DevOps professionals skyrocketed by 443% between 2015 and 2019, making it a hotter field than even machine learning, and leaving data science and software engineering in the dust with growth rates of only 167% and 69% respectively.
 
-Cloud Engineers are also in high demand as more companies are moving their operations and applications to the cloud. The Open Source Job Report [reported](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/Open%20Source%20Jobs%20Report%202021%20-%20Report.pdf) that 61% of professionals surveyed claimed that their organizations increased the use of cloud technology in 2021, which of course means that there’s a growing demand for cloud engineers.
+Cloud Engineers are also in high demand as more companies are moving their operations and applications to the cloud. The Open Source Job Report [reported](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/Open%20Source%20Jobs%20Report%202021%20-%20Report.pdf) that 61% of professionals surveyed claimed that their organizations increased the use of cloud technology in 2021, which of course means that there's a growing demand for cloud engineers.
 
 To increase the chances of finding a job, it's a good idea to have a strong set of skills, and relevant experience and continue to learn new technologies and tools that are in demand by the industry.
 
 ## Final thoughts on DevOps engineers vs Cloud Engineers
 
-This has been a thorough and hopefully conclusive answer to the difference between DevOps engineers vs cloud engineers. There is a fair amount of similarity between the roles, not least of which is the great job prospects. There’s truly no bad choice here.
+This has been a thorough and hopefully conclusive answer to the difference between DevOps engineers vs cloud engineers. There is a fair amount of similarity between the roles, not least of which is the great job prospects. There's truly no bad choice here.
 
-If you’re deciding which to go for, this guide will help you determine which job responsibilities you’d prefer to focus on.
+If you're deciding which to go for, this guide will help you determine which job responsibilities you'd prefer to focus on.

@@ -25,7 +25,7 @@ One person or legal entity may not maintain more than one account.
 You may not use the Affiliate Program for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws).
 You may not use the Affiliate Program to earn money on your own Boot.dev product accounts.
 Links/graphics on your site, in your emails, or other communications
-Once you have signed up for the Affiliate Program, you will be assigned a unique Affiliate Code. You are permitted to place links, banners, or other graphics we provide with your Affiliate Code on your site, in your emails, or in other communications. We will provide you with guidelines, link styles, and graphical artwork to use in linking to Boot.dev. We may change the design of the artwork at any time without notice, but we won’t change the dimensions of the images without proper notice.
+Once you have signed up for the Affiliate Program, you will be assigned a unique Affiliate Code. You are permitted to place links, banners, or other graphics we provide with your Affiliate Code on your site, in your emails, or in other communications. We will provide you with guidelines, link styles, and graphical artwork to use in linking to Boot.dev. We may change the design of the artwork at any time without notice, but we won't change the dimensions of the images without proper notice.
 
 To permit accurate tracking, reporting, and referral fee accrual, we will provide you with special link formats to be used in all links between your site and the Boot.dev. You must ensure that each of the links between your site and the Boot.dev properly utilizes such special link formats. Links to the Boot.dev placed on your site pursuant to this Agreement and which properly utilize such special link formats are referred to as "Special Links." You will earn referral fees only with respect to sales on a Boot.dev product occurring directly through Special Links; we will not be liable to you with respect to any failure by you or someone you refer to use Special Links or incorrectly type your Affiliate Code, including to the extent that such failure may result in any reduction of amounts that would otherwise be paid to you pursuant to this Agreement.
 
@@ -38,7 +38,7 @@ We will only pay commissions on links that are automatically tracked and reporte
 
 We reserve the right to disqualify commissions earned through fraudulent, illegal, or overly aggressive, questionable sales or marketing methods.
 
-Payments only begin once you’ve earned more than $20 in affiliate income. If your affiliate account never crosses the $20 threshold, your commissions will not be realized or paid. We are only responsible for paying accounts that have crossed the $20 threshold.
+Payments only begin once you've earned more than $20 in affiliate income. If your affiliate account never crosses the $20 threshold, your commissions will not be realized or paid. We are only responsible for paying accounts that have crossed the $20 threshold.
 
 Identifying yourself as a Boot.dev Affiliate
 You may not issue any press release with respect to this Agreement or your participation in the Program; such action may result in your termination from the Program. In addition, you may not in any manner misrepresent or embellish the relationship between us and you, say you develop our products, say you are part of Boot.dev or express or imply any relationship or affiliation between us and you or any other person or entity except as expressly permitted by this Agreement (including by expressing or implying that we support, sponsor, endorse, or contribute money to any charity or other cause).
@@ -47,7 +47,7 @@ You may not purchase products through your affiliate links for your own use. Suc
 
 ## Payment schedule
 
-As long as your current affiliate earning are over $20, you’ll be paid each month. If you haven’t earned $20 since your last payment, we’ll pay you the following month after you’ve crossed the threshold.
+As long as your current affiliate earning are over $20, you'll be paid each month. If you haven't earned $20 since your last payment, we'll pay you the following month after you've crossed the threshold.
 
 ## Customer definition
 
@@ -63,7 +63,7 @@ Ensuring the display of Special Links on your site does not violate any agreemen
 The accuracy, truth, and appropriateness of materials posted on your site (including, among other things, all Product-related materials and any information you include within or associate with Special Links)
 Ensuring that materials posted on your site do not violate or infringe upon the rights of any third party (including, for example, copyrights, trademarks, privacy, or other personal or proprietary rights)
 Ensuring that materials posted on your site are not libelous or otherwise illegal
-Ensuring that your site accurately and adequately discloses, either through a privacy policy or otherwise, how you collect, use, store, and disclose data collected from visitors, including, where applicable, that third parties (including advertisers) may serve content and/or advertisements and collect information directly from visitors and may place or recognize cookies on visitors’ browsers.
+Ensuring that your site accurately and adequately discloses, either through a privacy policy or otherwise, how you collect, use, store, and disclose data collected from visitors, including, where applicable, that third parties (including advertisers) may serve content and/or advertisements and collect information directly from visitors and may place or recognize cookies on visitors' browsers.
 
 ## Compliance with Laws
 
@@ -95,7 +95,7 @@ YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT AND AGREE TO ALL ITS TERMS AND
 
 ## Arbitration
 
-Any dispute relating in any way to this Agreement (including any actual or alleged breach hereof), any transactions or activities under this Agreement or your relationship with us or any of our affiliates shall be submitted to confidential arbitration, except that, to the extent you have in any manner violated or threatened to violate our intellectual property rights, we may seek injunctive or other appropriate relief in any state or federal court (and you consent to non-exclusive jurisdiction and venue in such courts) or any other court of competent jurisdiction. Arbitration under this agreement shall be conducted under the rules then prevailing of the American Arbitration Association. The arbitrator’s award shall be binding and may be entered as a judgment in any court of competent jurisdiction. To the fullest extent permitted by applicable law, no arbitration under this Agreement shall be joined to an arbitration involving any other party subject to this Agreement, whether through class arbitration proceedings or otherwise.
+Any dispute relating in any way to this Agreement (including any actual or alleged breach hereof), any transactions or activities under this Agreement or your relationship with us or any of our affiliates shall be submitted to confidential arbitration, except that, to the extent you have in any manner violated or threatened to violate our intellectual property rights, we may seek injunctive or other appropriate relief in any state or federal court (and you consent to non-exclusive jurisdiction and venue in such courts) or any other court of competent jurisdiction. Arbitration under this agreement shall be conducted under the rules then prevailing of the American Arbitration Association. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction. To the fullest extent permitted by applicable law, no arbitration under this Agreement shall be joined to an arbitration involving any other party subject to this Agreement, whether through class arbitration proceedings or otherwise.
 
 ## Miscellaneous
 

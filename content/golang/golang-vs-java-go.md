@@ -12,9 +12,9 @@ Golang (or Go) and Java offer an interesting comparison because despite their wi
 
 But which one is best for you?
 
-We'll start by breaking down the languages, how they work and how they’re used – like I did with [Golang vs C++](/golang/go-vs-c-plus-plus-golang/) – to help you decide which language is best suited for you.
+We'll start by breaking down the languages, how they work and how they're used – like I did with [Golang vs C++](/golang/go-vs-c-plus-plus-golang/) – to help you decide which language is best suited for you.
 
-First we introduce each language's history, and go through their design. Then, we’ll see how stack up against each other in performance, certain applications, popularity, and salary.
+First we introduce each language's history, and go through their design. Then, we'll see how stack up against each other in performance, certain applications, popularity, and salary.
 
 ## Golang vs Java: Opposite Sides of History
 
@@ -50,19 +50,19 @@ As you can see, on a very _very_ base level, Java and Go seem quite similar, off
 
 ## Golang vs Java: Which Is Better for Beginners?
 
-Java and Go are both high-level languages, offering better readability than mid-level languages like C++ -- but that’s where Java’s beginner-friendly nature ends.
+Java and Go are both high-level languages, offering better readability than mid-level languages like C++ -- but that's where Java's beginner-friendly nature ends.
 
 Java is object-oriented, a model based on organizing software around data or objects, rather than function and logic. As a developer, you focus on manipulating the objects, not the logic surrounding them, and once an object is known, you sort it into a class.
 
-The benefit of OOP is the great reusability and efficiency it offers, though it’s more difficult to learn and use -- especially for beginners. It can take years to master object-oriented programming to its full potential.
+The benefit of OOP is the great reusability and efficiency it offers, though it's more difficult to learn and use -- especially for beginners. It can take years to master object-oriented programming to its full potential.
 
-Alternatively, Golang is praised for being easy to learn and perfect for beginners, and as a newer language, it offers better optimized features. It’s also a procedural language, which is notoriously easier to write than object-oriented languages.
+Alternatively, Golang is praised for being easy to learn and perfect for beginners, and as a newer language, it offers better optimized features. It's also a procedural language, which is notoriously easier to write than object-oriented languages.
 
-Golang’s procedural approach is derived from imperative programming and uses procedures and subroutines to perform computations. You’ll directly instruct the device on how to complete a task by using logical steps like you’re writing down a recipe for the device to follow.
+Golang's procedural approach is derived from imperative programming and uses procedures and subroutines to perform computations. You'll directly instruct the device on how to complete a task by using logical steps like you're writing down a recipe for the device to follow.
 
 With more and more people switching to tech without traditional degrees, easy-to-learn languages like Golang are insanely useful. It truly is a language for the modern age, and while it may not be as established as Java, it has a bright future.
 
-On top of being easy to learn, Go continues to outpace Java in the [2020 Stack Overflow survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved), beating it in the ‘most loved’ and ‘most wanted’ categories for languages among developers. So, beginners learning Go are well positioned to succeed.
+On top of being easy to learn, Go continues to outpace Java in the [2020 Stack Overflow survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved), beating it in the 'most loved' and 'most wanted' categories for languages among developers. So, beginners learning Go are well positioned to succeed.
 
 **Conclusion:** Go is better for beginners and considered easier to learn than Java.
 
@@ -70,23 +70,23 @@ On top of being easy to learn, Go continues to outpace Java in the [2020 Stack O
 
 ## Advantages of Go vs Java for Experienced Programmers
 
-You’ll be hard-pressed to find an experienced programmer that doesn’t know Java. With platforms like Facebook, Amazon, and Twitter all using Java in their systems, Java definitely sets the bar for back-end development.
+You'll be hard-pressed to find an experienced programmer that doesn't know Java. With platforms like Facebook, Amazon, and Twitter all using Java in their systems, Java definitely sets the bar for back-end development.
 
-Java’s greatest advantage for experienced programmers is its skill with complex applications. Java’s long history gives it a fruitful set of libraries and tech stacks that make implementing code changes efficient and reliable, including their microservices.
+Java's greatest advantage for experienced programmers is its skill with complex applications. Java's long history gives it a fruitful set of libraries and tech stacks that make implementing code changes efficient and reliable, including their microservices.
 
-Java’s also concurrent and offers multithreading capabilities, further demonstrating its efficient development of complex applications.
+Java's also concurrent and offers multithreading capabilities, further demonstrating its efficient development of complex applications.
 
-However, Go’s advantage for experienced programmers is it can do most of that, _but better_.
+However, Go's advantage for experienced programmers is it can do most of that, _but better_.
 
-Golang doesn’t possess the history, notoriety, or complexity of Java, but it is optimized for performance and simplicity. Go's multithreading, concurrency and microservice abilities far outweigh that of Java’s with its minimal memory footprint and faster start time.
+Golang doesn't possess the history, notoriety, or complexity of Java, but it is optimized for performance and simplicity. Go's multithreading, concurrency and microservice abilities far outweigh that of Java's with its minimal memory footprint and faster start time.
 
 What you lose in excess libraries and tech stacks, you gain in speed and performance when it comes to developing large-scale projects.
 
-**Conclusion:** Deciding which language is better for professionals depends on what kind of applications you’re developing. Java is better for those working on complex applications and Golang is best for more sizeable developments.
+**Conclusion:** Deciding which language is better for professionals depends on what kind of applications you're developing. Java is better for those working on complex applications and Golang is best for more sizeable developments.
 
 ## Java vs Go: Which Is Better Paid?
 
-While it’s nice to think we’re in tech for the passion, a key factor in learning new skills or a new programming language is the salary.
+While it's nice to think we're in tech for the passion, a key factor in learning new skills or a new programming language is the salary.
 
 Going back to our trusty Stack Overflow survey, Go developers on average made $140,000 annually in the USA, and $74,000 globally -- making Go the second highest paid language overall.
 
@@ -104,11 +104,11 @@ Java boasts amazing platform independence. With the JVM it can run on Linux, Win
 
 It also has a large community that brings endless support, as well as tools and tech stacks that allow you to code complex servers in a stitch.
 
-But, Java’s primary use has moved from back-end web development to back-end mobile development -- so much so that Java is almost exclusively used by Google for Android apps.
+But, Java's primary use has moved from back-end web development to back-end mobile development -- so much so that Java is almost exclusively used by Google for Android apps.
 
-Golang, however, was created with the intent of managing large-scale network servers and continues to do so. It has built-in support for HTTP/2 and brings flexibility, scalability, and simplicity to web development in a way that Java can’t.
+Golang, however, was created with the intent of managing large-scale network servers and continues to do so. It has built-in support for HTTP/2 and brings flexibility, scalability, and simplicity to web development in a way that Java can't.
 
-You also don’t have to worry about using 3rd party web servers or libraries as there are enough tools you can build web servers using Golang itself, thanks to the Golang creators and community.
+You also don't have to worry about using 3rd party web servers or libraries as there are enough tools you can build web servers using Golang itself, thanks to the Golang creators and community.
 
 **Conclusion:** Golang is undoubtedly the best choice for web development, with the exception of smaller-scale projects, in which case Java may prove more useful.
 
@@ -118,7 +118,7 @@ You also don’t have to worry about using 3rd party web servers or libraries as
 
 Java has brought some incredible tools to data science, like Hadoop, Hive, and Scala, and is a known [preferred development stack](https://towardsdatascience.com/top-programming-languages-for-data-science-in-2020-3425d756e2a7) for secure enterprise development. It's used for cleaning, exporting, importing, and visualizing data, as well as deep learning and analysis.
 
-And not to beat a dead horse, but if you’ve mastered Java, the ease of creating complex applications from scratch is unbeatable.
+And not to beat a dead horse, but if you've mastered Java, the ease of creating complex applications from scratch is unbeatable.
 
 Golang can also be used for data science, with cutting edge concurrency and basic data science packages available. However, it hasn't been widely adopted by the data science community. It also offers less flexibility and takes longer with exploratory analysis and machine learning techniques.
 
@@ -132,25 +132,25 @@ Java and Go both use a garbage collector and multithreading, tools that in pract
 
 Garbage collectors are automatic memory management tools, and multithreading is a CPU feature that allows multiple threads or instructions to be executed at once, making Java and Go concurrent languages.
 
-Garbage collectors are famous for weighing down performance, however, Go’s compiler is newer and optimized, so even with the added feature, it doesn’t add nearly as much drag as it did to Java in the tests.
+Garbage collectors are famous for weighing down performance, however, Go's compiler is newer and optimized, so even with the added feature, it doesn't add nearly as much drag as it did to Java in the tests.
 
-Multithreading doesn’t inherently eat up memory, but Java’s concurrency is dense and bulky compared to Go’s, and it takes an excessive amount of memory to craft and destroy Java threads. A server can only handle a small amount of Java threads, whereas it can handle thousands of threads in Golang.
+Multithreading doesn't inherently eat up memory, but Java's concurrency is dense and bulky compared to Go's, and it takes an excessive amount of memory to craft and destroy Java threads. A server can only handle a small amount of Java threads, whereas it can handle thousands of threads in Golang.
 
-In fact, one of Golang’s best features is its multithreading abilities. Its cutting-edge ‘goroutines’ provide a smooth application, and even allows you to check your code in binary to ensure its safety.
+In fact, one of Golang's best features is its multithreading abilities. Its cutting-edge 'goroutines' provide a smooth application, and even allows you to check your code in binary to ensure its safety.
 
-In the end, a comparison of [Go’s and Java’s](https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c) [memory](https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c) [usage](https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c), when sitting idle, showed Java consumed upwards of 160 MB of memory, while Go only used 0.86 MB – an insane difference.
+In the end, a comparison of [Go's and Java's](https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c) [memory](https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c) [usage](https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c), when sitting idle, showed Java consumed upwards of 160 MB of memory, while Go only used 0.86 MB – an insane difference.
 
-**Conclusion:** While both languages use potentially memory and time-wasting features, Golang’s innovative and leading-edge design allows it to avoid the issues that plague Java.
+**Conclusion:** While both languages use potentially memory and time-wasting features, Golang's innovative and leading-edge design allows it to avoid the issues that plague Java.
 
 ## Golang vs Java: The Final Verdict
 
 So, which is better, Golang or Java?
 
-Well, it’s not a one size fits all kind of decision. Depending on your project, your preferences, and a range of other factors, either Java or Go will work better for you.
+Well, it's not a one size fits all kind of decision. Depending on your project, your preferences, and a range of other factors, either Java or Go will work better for you.
 
 Are you more into traditional coding? Do you prefer greater control over the intimate details of your program and thrive with a large community? Are you looking to add a stable and classic language to your skillset? Then Java could be the answer for you!
 
-However, if you’re more interested in learning the latest technology, or eager to join the industry and learn a language fast that promises a highly-paid career, then Golang is your perfect choice.
+However, if you're more interested in learning the latest technology, or eager to join the industry and learn a language fast that promises a highly-paid career, then Golang is your perfect choice.
 
 We're big fans of Go here at boot.dev, which is why we created our [Learn Go courses](https://boot.dev/learn/learn-golang) to help programmers learn Go and take advantage of all its benefits. Our course takes you from complete beginner, all way through even the more advanced concepts -- and then when you've gained the skills, our [Go Interview Prep](https://boot.dev/learn/learn-golang) course is designed to get you a job programming Go.
 
