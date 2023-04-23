@@ -1,5 +1,5 @@
 ---
-title: "Which is More Important: Hard or Soft Skills for Programmers"
+title: "Which is More Important: Hard or Soft Skills for Programmers?"
 author: Lane Wagner
 date: "2023-04-22"
 categories: 
