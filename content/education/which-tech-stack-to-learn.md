@@ -1,5 +1,5 @@
 ---
-title: "JS, Python, Go? Which Tech Stack Should You Learn?"
+title: "JavaScript? Python? Go? Which Tech Stack Should You Learn?"
 author: Lane Wagner
 date: "2023-04-24"
 categories: 
