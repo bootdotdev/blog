@@ -35,7 +35,11 @@
   <link rel="canonical" href="{{ .Permalink }}page/{{ $.Paginator.PageNumber }}/" />
   {{ end }}
   {{ else }}
-  <link rel="canonical" href="{{ .Permalink }}" />
+  {{ if .Params.canonical }}
+  <link rel="canonical" href="{{ .Params.canonical }}">
+  {{ else }}
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ end }}
   {{ end }}
 
   {{- if $.Paginator -}}
