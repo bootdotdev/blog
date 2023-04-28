@@ -24,7 +24,7 @@ A blog can certainly help you stand out in a crowded job market, as it has for m
 
 ## Blogging will only help land jobs if you write bangers
 
-Assuming you *do* decide to start a blog, it's important to note that not all blog posts are created equal. For a blog to ackchyually help your job search, you need to write amazing content that showcases your expertise and adds *new value* to your readers.
+Assuming you *do* decide to start a blog, it's important to note that not all blog posts are created equal. For a blog to actually help your job search, you need to write amazing content that showcases your expertise and adds *new value* to your readers.
 
 Regurgitating information that can be found elsewhere on the inter-webs net won't do you any favors. Your blog posts need to be original, well-written, and packed with insights that can't be found elsewhere. If you're going to invest time and effort into creating a blog, make sure that you're creating content that's truly worth reading.
 
