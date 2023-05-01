@@ -7,6 +7,7 @@ categories:
 canonical: https://cybernews.com/security/lane-wagner-boot-dev-the-technologies-youre-familiar-with-dont-define-your-worth-as-a-developer/
 images:
   - /img/800/lanecybernews.jpg.webp
+draft: true
 ---
 
 *Even though development skills are highly sought-tafter these days, actually learning coding can be intimidating and time-consuming for many newcomers.*
