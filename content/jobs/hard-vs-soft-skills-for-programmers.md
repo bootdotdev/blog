@@ -43,6 +43,8 @@ You don't need to be an expert on *everything*, but you need to know how to deli
 * Know how to [build a REST API](https://boot.dev/learn/learn-web-servers) using those technologies
 * Know how to deploy that API to a cloud platform like AWS or GCP 
 
+{{< cta1 >}}
+
 ## Soft Skills
 
 Soft skills, on the other hand, are the intangible, interpersonal abilities that can give your career a nice boots. They might not be as easy to quantify as hard skills but they're nearly as vital. Soft skills include:

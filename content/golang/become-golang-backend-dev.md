@@ -39,6 +39,8 @@ Also, it was literally built by Google for use in Google's backend. It's hard to
 
 OK, now onto the seven steps, for real this time.
 
+{{< cta1 >}}
+
 ## 1. Learn the basics of Go
 
 It should go without saying, but if you want a back-end job writing Go, you should know how Go works, generally.
@@ -187,6 +189,8 @@ As soon as you run into the mention of something you're not super familiar with,
 
 This kind of technology shifts with some regularity * e.g., Spark and Hadoop used to be much more popular; they're waning now * so I recommend, whenever you're coming across this article, that you do your research to see what's current today.
 
+{{< cta2 >}}
+
 ## 4. Investigate and practice related skills and technologies
 
 Maybe back-end development was once its own discipline. But in today's developer-poor job market, many jobs expect you to not just be a back-end developer, but also [have a hand in DevOps](/devops/backend-devops-roles-merging/), cloud engineering, and data engineering, among other disciplines.
@@ -253,6 +257,8 @@ Typically, you'll get certified after learning a course. There are so many place
 * Udemy. This one carries less weight since anyone can upload and teach a Go course, but it's still a good place to get certifications in more niche competencies, like "[Building Modern Web Apps with Go](https://www.udemy.com/course/building-modern-web-applications-with-go/)" or comprehensive tracks like "[Backend Master Class \[Golang + Postgres + Kubernetes + gRPC\]](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/)"
 
 If I can be honest for a moment, Golang back-end developers are in high demand. You don't need a degree. You don't need a prestige certification. Employers will be excited to see you can do the things they need you to do.
+
+{{< cta3 >}}
 
 ## 7. Be confident, humble, and practiced
 

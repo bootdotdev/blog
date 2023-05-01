@@ -46,6 +46,8 @@ Getting a job as a python programmer will require an honest effort from you. You
 
 Let's break down how to become a python developer step by step.
 
+{{< cta1 >}}
+
 ## Learn Python
 
 Want to know how to get a job as a Python programmer? Start with Python, of course. Learning Python comes down to these three steps.
@@ -213,6 +215,8 @@ Finally, it's a good idea to publish your projects on GitHub as well as have a l
 Beyond that, I actually think GitHub is better for demonstrating your ability to write Python with other people. Consider contributing to other projects, too. Submit bug fixes, add documentation, and contribute code. That adds more of that "real-world problem" flavor to your resume.
 
 Remember, coding doesn't exist in a vacuum. By working with other Python programmers on open-source projects, you start making connections by proving you care about adding positive contributions to projects.
+
+{{< cta2 >}}
 
 ## Demonstrate you're a hirable person
 

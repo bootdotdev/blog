@@ -21,6 +21,8 @@ I wrote the first line of code for Boot.dev as the pandemic broke out in March 2
 
 I worked solo on the project for a couple of years. 2022 was finally the year that the project took off. I hired my first employee at the tail end of 2021, and we grew from about $1k monthly revenue from that point until July of 2022 when I raised a bit of seed funding from some angel investors that I knew personally from a past job. That money allowed me and my employee to both go full-time on Boot.dev in August of 2022, and we’ve been growing quickly ever since.
 
+{{< cta1 >}}
+
 ## Q: Can you introduce us to what you do? What makes boot.dev different from other coding boot camps?
 
 The name “Boot.dev is a bit tongue-in-cheek – we’re not really a boot camp. Boot.dev is a self-paced online learning platform for back-end developers. We’re unique in a few ways:
@@ -39,6 +41,8 @@ The most successful students are the ones who can settle on a goal, and make dee
 In regard to traditional education (think college and university), the biggest mistake is teaching too much tangential material. I love philosophy and humanities as much as the next guy, I actually read and listen to quite a few philosophy podcasts. However, when students are struggling to make ends meet, it’s not the time to distract them with material unrelated to their career goals.
 
 In regard to Bootcamps, the biggest mistake is moving students too quickly through a bunch of fancy technologies. With a tech recession in full swing, and the prevalence of 12-week boot camps abounding, I think the best way to differentiate yourself in the job market is to take the time to learn more thoroughly. That means understanding more of the fundamentals, going deeper into the subject matter, and ruthlessly figuring out how it applies to your future career by building real projects.
+
+{{< cta2 >}}
 
 ## Q: What are the best practices companies should follow when developing applications?
 
@@ -66,6 +70,8 @@ I’m a big believer in the idea that the technologies you’re familiar with do
 Like the rest of the world, I’m eagerly watching the advancements of LLMs and AI in general. I’m fascinated by how much more efficient and effective we can become as engineers with these new tools in our toolbelts. I also love to see what’s happening with languages like Go, Rust, and TypeScript.
 
 I think static typing and developer tooling is just going to keep getting better and better and understanding how to leverage those advantages will give many engineers an edge over the rest who are taking a more manual approach.
+
+{{< cta3 >}}
 
 ## Q: And finally, what’s next for Boot.dev?
 

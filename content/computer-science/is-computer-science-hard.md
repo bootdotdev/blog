@@ -47,6 +47,8 @@ People normally learn computer science as a stepping stone to a career, like sof
 
 If you're looking into learning computer science to get a job, and not just because you have a love of all things computer, the most important thing you should know is that computer science is not just about learning how to write code. It is about learning how to think critically about problems and how to solve them using computers. This is a skill that is essential for many different careers, not just those in the tech industry.
 
+{{< cta1 >}}
+
 ## Why is computer science hard?
 
 If someone tells you computer science isn't hard, it's probably because they think computer science is just copy-pasting some code from StackOverflow. They're wrong. Let's get into all the various reasons computer science is hard–but still worth learning.
@@ -128,6 +130,8 @@ Boot.dev has a thriving [Discord group](https://boot.dev/community) complete wit
 Finally, the easiest way to learn computer science is by putting in the hours. It's always tempting to look for shortcuts. But they don't work. Don't spend time and energy looking for hacks or shortcuts.
 
 Instead, try things, get things wrong, rebuild, and deploy. Share your work and get feedback. Give feedback yourself. Try things that are slightly too hard, and learn as you go.
+
+{{< cta2 >}}
 
 ## What's the future of computer science?
 

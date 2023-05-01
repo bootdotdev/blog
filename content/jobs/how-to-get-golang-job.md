@@ -35,6 +35,8 @@ If you're reading this article, you should have:
 
 > If you're brand new to Go, I recommend you hop off this article and learn a little about it first. As part of our [backend-development career track](https://boot.dev/tracks/backend), we at Boot.dev offer a fantastic [Go intro course](https://boot.dev/learn/learn-golang) that will walk you through everything you need to know to get started with Go.
 
+{{< cta1 >}}
+
 ## What you don't need
 
 Let's clear up some common misconceptions. If you're looking to get a job with Go, you do not need:
@@ -106,6 +108,8 @@ Paraphrasing Austen slightly, but chances are you already know that if you want 
 Pro tip: make sure to fully spell out cryptography when you research it, or else you'll just get a bunch of bitcoin.
 
 Want to practice your cryptography skills? Again, we've got a [superb code-based tutorial](https://boot.dev/learn/learn-cryptography) on the subject. Aside from that, you could consider creating a simple cipher to encrypt and decrypt plaintext into and out of cyphertext. [Here's](https://www.golangprograms.com/cryptography.html) a basic tutorial walking you through that project.
+
+{{< cta2 >}}
 
 ## Step 2. Master coding basics
 
@@ -186,6 +190,8 @@ To get a job as a Golang developer, you need to demonstrate the following "soft"
 * **Code reviews:** Many companies will ask that you participate in these. Join coding communities and offer to buddy up with people to do this.
 * **Big picture discussions:** Go back to those fundamentals. Are you able to contribute to a company's overall strategy? Can you intelligently recommend different architectural structures? Do you have thoughts on cryptography? Most companies don't want you to be a cog in the machine * they want people who have enough general knowledge in the field to spot bigger issues and know how to fix them, rather than just following instructions all the time.
 * **Ability to interview well:** [Be humble and confident](/jobs/confidence-in-job-interviews/). That's what it boils down to. It's easier to do that if you know what you're talking about, so I recommend doing as much interview question prep on websites like StrataScratch as you can. This will help you be more secure in your knowledge.
+
+{{< cta3 >}}
 
 ## Step 5. Portfolio and jobs
 

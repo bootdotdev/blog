@@ -32,6 +32,8 @@ It has its roots in colleges and universities, and that's where you're likely to
 
 Its main pro? It doesn't take a pro to use it. You don't need much of a programming background to get started with MATLAB; it's a fairly intuitive language.
 
+{{< cta1 >}}
+
 ## Philosophical differences
 
 Almost every main difference between MATLAB versus Python comes down to this simple fact: MATLAB is proprietary and Python is not. You can't build a new MATLAB functionality and add it to the language for anyone to use and enjoy, because MATLAB is a profitable tool owned and sold by a company called MathWorks.
@@ -93,6 +95,8 @@ What does that mean? Imagine you want to look at a dataset's mean, median, and s
 This is way better than a nonmodularizable language. Without that feature, you'd need to write separate functions for each operation, resulting in more duplicated code and a less flexible program.
 
 Ultimately, both MATLAB and Python can help with reusability, modularity, and flexibility for that reason.
+
+{{< cta2 >}}
 
 ## Tools
 
@@ -174,6 +178,8 @@ MATLAB costs start at $99/year for students. For enterprise users, [the cost can
 ![reddit matlab meme](/img/800/redditmatlabmeme.webp.webp)
 
 [- image source](https://www.reddit.com/r/ProgrammerHumor/comments/e2jvl1/matlab_fake_it_until_you_make_it/)
+
+{{< cta3 >}}
 
 ## FAQ about MATLAB and Python
 

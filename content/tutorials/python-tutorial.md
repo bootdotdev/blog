@@ -18,6 +18,8 @@ If you're interested in [back-end web development](/backend/become-backend-devel
 
 I've included all the static read-only material you'll need here in this tutorial, but if you would like a **more hands-on experience**, you can take the interactive version of this course, complete with coding challenges and projects on [Boot.dev here](https://boot.dev/learn/learn-python).
 
+{{< cta1 >}}
+
 ## Chapter 1: Introduction
 
 ![python](https://i.imgur.com/s2j2b4e.png)
@@ -338,6 +340,8 @@ sword_length = 200
 Any number of variables can be declared on the same line, and variables declared on the same line *should* be related to one another in some way so that the code remains easy to understand.
 
 We call code that's easy to understand "clean code".
+
+{{< cta2 >}}
 
 ## Chapter 2: Computing Basics
 
@@ -1134,6 +1138,8 @@ my_tuples = [("this is the first tuple in the list", 45, True),("this is the sec
 print(my_tuples[0][0])
 # this is the first tuple in the list
 ```
+
+{{< cta3 >}}
 
 ## Chapter 7: Functions
 

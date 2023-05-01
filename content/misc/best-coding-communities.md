@@ -19,6 +19,8 @@ The one thing that every programmer has in common, whether they've only ever imp
 
 That's why getting involved in a tech community is *so important*. With the rise of hybrid, remote, and freelance work, connecting with colleagues on your team and other teams within your company is harder than it used to be, and that's assuming you have other coding colleagues. "The Great Resignation", amongst higher-than-normal turnover rates make it hard to connect with those moving through the revolving door of employment. If you find yourself missing technical mentors, peers, or friends of a similar profession, your best bet is to reach out online to find friends within the many coding communities already in existence.
 
+{{< cta1 >}}
+
 ## 1. Discord
 
 ![Discord Screenshot](/img/800/discordss.png.webp)
@@ -73,6 +75,8 @@ One additional bonus of Hacker News is that it has a job board for startups, so 
 
 What Hacker News does not provide you with is specific help on questions, and the community won't coddle you. If you're looking for encouragement and support to start coding, this isn't the place.
 
+{{< cta3 >}}
+
 ## 6. Hashnode
 
 [Hashnode](https://hashnode.com/) provides a great way to discover and digest tech blogs. The platform allows you to follow individual tech bloggers and connect with them. They have a lot of programming challenges and explanations of the basics, so it's a good place to get grounded and stretch the application of your skills.
@@ -90,8 +94,6 @@ Codepen also hosts weekly challenges to hone your front-end development skills. 
 They have lots of really cool, helpful frontend dev content, making it a Great place to look for implementation inspiration.
 
 The biggest drawback of CodePen is that you need a private, paid account to keep all of the cool things you implement in their frontend environment private. If you're just messing around with different bits, that's not a problem, but if you're working on anything sensitive or that you don't want others to look at, you can't use CodePen for their sandbox.
-
-{{< cta3 >}}
 
 ## 8. CodeNewbie
 

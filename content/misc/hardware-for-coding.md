@@ -35,6 +35,8 @@ Compiling code: Compiling is the process of turning your code into an executable
 
 For most use cases, you probably won't want less than 4GB of RAM. There isn't a true minimum, because, depending on the programs you use, you can get away with quite little, but if you can get 8 you'll be in a good place, and 16+ will feel like a dream.
 
+{{< cta1 >}}
+
 ## CPU: Nothing too wild
 
 The CPU (Central Processing Unit) is the brain of your computer, executing instructions and performing calculations.
@@ -48,6 +50,8 @@ So, while a good CPU can certainly help, you don't *need* the latest, most power
 You'll just save so much time when you start up your computer and load applications if you have a solid-state drive (SSD). SSDs are faster than traditional magnetic (spinning disk) hard drives, and they're also more reliable.
 
 You don't *need* one, but you'll be much more productive if you have one. As far as storage space goes, I would hesitate to ever go below 256 GB, just because you'll probably have a lot of apps and data on your local device. That said, if you can get a full TB of storage you'll be in a fantastic place.
+
+{{< cta2 >}}
 
 ## GPU: Nice, but far from necessary
 
@@ -72,6 +76,8 @@ Now that we've covered the core hardware components, let's talk about the softwa
 [Vim](https://www.vim.org/) (or [NeoVim](https://neovim.io/s)) is a prime example of a lightweight tool that doesn't require much in terms of hardware. It's a text editor with a small memory footprint, making it ideal for coding on less powerful machines. But Vim is just one example—there are plenty of other lightweight tools out there, each catering to different programming languages and tasks.
 
 Lightweight tools put less strain on your system, so you'll experience fewer slowdowns and crashes, even if your hardware isn't top-of-the-line. Since lightweight tools use fewer resources, they generally load and run faster, which means you can write, test, and debug your code more quickly. Generally speaking, if you're happy and efficient using the lighter-weight stuff, there's no reason not to use it.
+
+{{< cta3 >}}
 
 ## Using bloatware
 

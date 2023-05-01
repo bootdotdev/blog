@@ -26,6 +26,8 @@ But what if you're more into Python? No problem! Python is not only the darling 
 
 The point is: whatever tech stack you choose, there's a job out there for you *if you know what you're doing*.
 
+{{< cta1 >}}
+
 ## Total number of jobs doesn't matter, you only need *one*
 
 Let's say you're a Golang aficionado, but you're worried because there aren't as many Go jobs as there are for JavaScript. Well, remember this: you only need to land *one* job.
@@ -39,6 +41,8 @@ The tech industry rewards adaptability and growth. Technologies come and go, but
 In fact, dabbling in [multiple languages and frameworks](/education/learn-multiple-programming-languages/) can make you a more well-rounded and versatile developer. By exposing yourself to different ways of thinking and solving problems, you'll develop a more comprehensive understanding of programming concepts.
 
 I've seen hundreds of learners fail in their journey to become developers because they gave up and stopped learning. *I've never seen a single person fail because they started with the wrong stack.*
+
+{{< cta2 >}}
 
 ## Anything will work, but some choices *are* better than others
 
@@ -73,6 +77,8 @@ For example, if you're working to become a back-end developer, here are some of 
 * [REST APIs](https://boot.dev/learn/learn-web-servers)
 * [Functional programming basics](https://boot.dev/learn/learn-functional-programming)
 * [Security](https://boot.dev/learn/learn-cryptography)
+
+{{< cta3 >}}
 
 ## Don't worry, you can always learn more
 

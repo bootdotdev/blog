@@ -34,6 +34,8 @@ Contrast this with how I define a *library*:
 * gorilla/mux: library
 * Express.js: library (claims to be a framework)
 
+{{< cta1 >}}
+
 ## Why do we use frameworks?
 
 We use frameworks for two primary reasons:
@@ -48,6 +50,8 @@ Getting started with a framework is easy, sometimes as easy as typing `rails new
 The pain comes later. A framework provides a set of tools for practically everything at the cost of flexibility.
 
 Frameworks make it *much harder* to modularly update your project. Want to use a different authentication library, database driver, or templating engine? Get to hacking.
+
+{{< cta2 >}}
 
 ## "It's a Unix system! I know this!"
 

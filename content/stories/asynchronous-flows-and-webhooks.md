@@ -75,6 +75,8 @@ commit by commit (I'll link to the commits throughout), review the Pull Request
 [here](https://github.com/nickabb/async-flows-and-webhooks/pull/2), or start where I am starting at 
 [this commit](https://github.com/nickabb/async-flows-and-webhooks/commit/92e74a9896d2c4e8254723d58e2c1e8f19530999).
 
+{{< cta1 >}}
+
 ## Prerequisites
 In order to complete this section, you'll need a few things set up on your machine.
 
@@ -143,6 +145,8 @@ Expected Request Body:
 Notice how I didn't note the Expected Response Body? That's because most webhooks don't really take much care
 to what you respond - as long as you return a 200, 201, or 202 status code, they'll treat the call as a success and
 move on.
+
+{{< cta2 >}}
 
 ## Implementation
 
