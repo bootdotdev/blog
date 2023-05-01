@@ -22,15 +22,16 @@ Unlocking new roles is your primary objective, and you'll do so by gaining level
 
 Your role is shown on your profile page, and it also gives you special perks and privileges in the [Discord community](https://boot.dev/community), where your role is shown next to your name.
 
-* Apprentice: Level 4
-* Pupil: Level 10
-* Acolyte: Level 20
-* Disciple: Level 30
-* Scholar: Level 40
-* Mage: Level 50
-* Sage: Level 60
-
-{{< cta1 >}}
+* **Apprentice:** Level 10
+* **Pupil:** Level 20
+* **Acolyte:** Level 30
+* **Disciple:** Level 40
+* **Scholar:** Level 50
+* **Mage:** Level670
+* **Sage:** Level 70
+* **Druid:** Level 80
+* **Necromancer:** Level 90
+* **Archmage:** Level 100
 
 ## Levels and XP
 
@@ -43,15 +44,13 @@ You can earn XP in a variety of ways, but the most common way is to pass off cod
 * Level 5: 2,080 XP
 * ...
 
-Keep in mind these are *totals*, so going from level 2 to level 3 only requires 480 XP.
+Keep in mind these are *totals*, so going from level 2 to level 3 only requires `480` XP.
 
 ## Leaderboard
 
 There are several sections on the [leaderboard](https://boot.dev/leaderboard), and each works a little differently. You'll gain a spot on the public leaderboard by being one of the top students in a given category for a specific timeframe.
 
 For example, the daily XP leaderboard is very competitive: the students who have earned the most XP in the last 24 hours are shown at the top.
-
-{{< cta2 >}}
 
 ## Gems
 
@@ -69,21 +68,19 @@ Gems can be spent on two things:
 
 ### How do I recover sharpshooter progress?
 
-When you lose your sharpshooter progress by getting an answer wrong, the sharpshooter icon in the course navigation bar will turn red. If you have enough gems to do so (3), you'll be able to click on that red icon to recover your progress.
+When you lose your sharpshooter progress by getting an answer wrong, the sharpshooter icon in the course navigation bar will turn red. If you have enough gems to do so, you'll be able to click on that red icon to recover your progress.
 
 ## XP Boosts
 
 XP boosts are purchased with gems, and they give you a temporary multiplier for any XP that you earn. For example, you may get +25% XP for all assignments completed within the hour that a boost is active.
 
-You can buy boosts by clicking on the gem icon in the sidebar, as long as you have enough gems (10).
+You can buy boosts by clicking on the gem icon in the sidebar, as long as you have enough gems.
 
 ## Quests
 
 Completing quests will award you with gems. You complete quests by earning a certain amount of XP within a week. The harder the quest, the more XP you'll need to earn, and the more gems you'll gain as a reward.
 
 You may only have a single quest active at any given time. You can select a quest if you don't have one yet from the [questboard](https://boot.dev/questboard).
-
-{{< cta3 >}}
 
 ## Achievements
 

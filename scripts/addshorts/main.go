@@ -48,6 +48,11 @@ func main() {
 				return nil
 			}
 
+			// skip the wiki
+			if parts[1] == "wiki" {
+				return nil
+			}
+
 			dat, err := os.ReadFile(path)
 			if err != nil {
 				return err
