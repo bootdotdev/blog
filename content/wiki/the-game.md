@@ -18,7 +18,7 @@ We aim to make your voyage of learning to code as delightful as possible. Should
 
 ![roles banner](/img/800/rolesbanner.png.webp)
 
-Unlocking new roles is your primary objective, and you'll do so by gaining levels. You will start roleless, but upon reaching level `4`, you'll unlock your first role: "Apprentice".
+Unlocking new roles is your primary objective, and you'll do so by gaining levels. You will start roleless, but upon reaching level `10`, you'll unlock your first role: "Apprentice".
 
 Your role is shown on your profile page, and it also gives you special perks and privileges in the [Discord community](https://boot.dev/community), where your role is shown next to your name.
 
