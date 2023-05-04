@@ -25,11 +25,11 @@ There were very few places that met *all* my criteria.
 
 Of course, other folks learning Python online might want different things, like being able to read a textbook or taking some kind of high-octane Python Bootcamp. You might want to get a Python certification, or maybe you need to only look at free online courses.
 
-My point is that everyone wants something slightly different, so it's tough to put together a list of truly “best” places to learn Python online.
+My point is that everyone wants something slightly different, so it's tough to put together a list of truly "best" places to learn Python online.
 
 Instead, I'm making a list of some great Python options, and giving you enough information to make up your mind.
 
-I will also assume that you are a beginner coder, who isn't interested in shortcuts or “the easy way” (which doesn't exist), and that you want to get a full-time job at the end of learning Python. I will also assume you don't have ten thousand dollars or four years to spend on a degree or Bootcamp.
+I will also assume that you are a beginner coder, who isn't interested in shortcuts or "the easy way" (which doesn't exist), and that you want to get a full-time job at the end of learning Python. I will also assume you don't have ten thousand dollars or four years to spend on a degree or Bootcamp.
 
 ## Interactive Coding Platforms
 
@@ -106,7 +106,7 @@ Create three dictionaries: lloyd, alice, and tyler.
 
 Give each dictionary the keys "name", "homework", "quizzes", and "tests".
 
-Have the “name” key be the name of the student (that is, lloyd‘s name should be "Lloyd") and the other keys should be an empty list (We’ll fill in these lists soon!)
+Have the "name" key be the name of the student (that is, lloyd‘s name should be "Lloyd") and the other keys should be an empty list (We’ll fill in these lists soon!)
 
 ### FreeCodeCamp
 
@@ -132,7 +132,7 @@ It’s free! And there’s tons of material to dive into.
 
 #### Cons
 
-This is a much less interactive format than the other two, with less interactivity, and more lectures. That same Reddit thread described the lectures as “awful” and projects as “hellish,” due to lack of guidance. This is better for people who are determined to be self-taught.
+This is a much less interactive format than the other two, with less interactivity, and more lectures. That same Reddit thread described the lectures as "awful" and projects as "hellish," due to lack of guidance. This is better for people who are determined to be self-taught.
 
 #### Example task
 
