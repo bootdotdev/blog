@@ -18,9 +18,9 @@ I thought we'd moved past this by now. A decade or so ago, it seemed like there 
 
 I actually would *love* to hear some good reasons in support of the idea that dynamic typing helps *in any way*. Unfortunately, I don't see any concrete arguments in the original essay apart from statements like:
 
-> It [dynamic typing] allows the poetic syntax that results in such beautiful code
+> [dynamic typing] allows the poetic syntax that results in such beautiful code
 
-To be fair, making arguments may not be the point of DHH's article in the first place. It seems to be more about his mindset of "to each their own, I like my dynamic typing."
+To be fair, making arguments about the merits of dynamic types may not be the point of DHH's article in the first place. It seems to be more about his mindset of "to each their own, I like my dynamic typing."
 
 ## Steelmanning the dynamic typing argument
 
@@ -30,9 +30,9 @@ I've gone to external resources to try to find some arguments for dynamic typing
 
 > Dynamically typed languages often have simpler syntax and less boilerplate code
 
-True. I choose to start developers with Python on [Boot.dev](https://boot.dev) because I think it has such a simple syntax that it makes for an amazing environment in which to learn programming.
+True. I choose to start developers with Python on [Boot.dev](https://boot.dev) because I think it has a simple syntax.
 
-But that's *despite* the dynamic typing, not *because* of it.
+Python makes for an amazing environment in which to learn programming, bsut that's *despite* the dynamic typing, not *because* of it.
 
 With languages that support type inference, 80% of the "boilerplate" code is just gone. In Python, we have:
 
@@ -48,7 +48,7 @@ x := 1
 
 The difference is that in the Go version, if I later try to use `x` as a string, or I pass it into a function that expects a non-integer, I'll be warned *before* I run my code.
 
-I think is an outdated argument, and it originates from back when good type inference wasn't as common.
+This is an outdated argument, and it originates from back when good type inference wasn't as common.
 
 Now, type inference does *not* eliminate the "boilerplate" syntax that is actually useful, namely, *function signatures*. For example, in Python, we have:
 
