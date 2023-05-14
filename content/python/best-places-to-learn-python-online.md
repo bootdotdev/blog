@@ -53,7 +53,7 @@ Boot.dev [costs](https://boot.dev/pricing) either \$39/month, \$228 a year, or \
 
 #### How long does it take to learn Python here?
 
-This is hugely dependent on your situation. Boot.dev estimates that their backend career path [takes around 6 months](/backend/how-long-to-become-backend-dev/).
+This is hugely dependent on your situation. Boot.dev estimates that their backend career path [takes around 12 months](/backend/how-long-to-become-backend-dev/).
 
 Quick math time: if you do manage to learn Python in, say six months, pricewise you’re still better off paying for yearlong access (\$228) versus six individual months of payment (6 x \$39 = \$234).
 

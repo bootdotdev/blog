@@ -28,15 +28,15 @@ Let's jump in.
 
 <div class="tablewrap">
 
-| Backend Bootcamp         | Content Highlights             | Style                     | Price            | Duration  | Bonus Info               |
-| ------------------------ | ------------------------------ | ------------------------- | ---------------- | --------- | ------------------------ |
-| Boot.dev                 | Python, Go, CS, SQL, Wep Apps  | Game-like coding platform | $24-$34/month    | ~6 months | Addicting game-like feel |
-| Clarusway                | Databases, web architecture    | Zoom lectures             | $11,400          | 3 months  | IT specialists           |
-| Nucamp                   | Python, SQL, DevOps            | Instructor-led cohorts    | $1,925           | 16 weeks  | Highly rated             |
-| Knowledgehut             | Intro to web dev, Linux, SDLC  | Instructor/self paced mix | $999 - $2,799    | ~18 weeks | Beginner-friendly        |
-| Nashua Community College | Java, SQL, AWS, DSA, OOP, DDL  | Instructor office hours   | $215 - $490      | 18 weeks  | Run by educational pros  |
-| Technigo                 | JS Stack, SQL, Docker          | Real-world problems       | $6570            | 22 weeks  | Better for upskilling    |
-| Springboard              | Comprehensive Java, SQL, MySQL | Video lectures + mentors  | $9,900 - $16,500 | 9 months  | Average $26k salary bump |
+| Backend Bootcamp         | Content Highlights             | Style                     | Price            | Duration   | Bonus Info               |
+| ------------------------ | ------------------------------ | ------------------------- | ---------------- | ---------- | ------------------------ |
+| Boot.dev                 | Python, Go, CS, SQL, Wep Apps  | Game-like coding platform | $24-$34/month    | ~12 months | Addicting game-like feel |
+| Clarusway                | Databases, web architecture    | Zoom lectures             | $11,400          | 3 months   | IT specialists           |
+| Nucamp                   | Python, SQL, DevOps            | Instructor-led cohorts    | $1,925           | 16 weeks   | Highly rated             |
+| Knowledgehut             | Intro to web dev, Linux, SDLC  | Instructor/self paced mix | $999 - $2,799    | ~18 weeks  | Beginner-friendly        |
+| Nashua Community College | Java, SQL, AWS, DSA, OOP, DDL  | Instructor office hours   | $215 - $490      | 18 weeks   | Run by educational pros  |
+| Technigo                 | JS Stack, SQL, Docker          | Real-world problems       | $6570            | 22 weeks   | Better for upskilling    |
+| Springboard              | Comprehensive Java, SQL, MySQL | Video lectures + mentors  | $9,900 - $16,500 | 9 months   | Average $26k salary bump |
 
 </div>
 
