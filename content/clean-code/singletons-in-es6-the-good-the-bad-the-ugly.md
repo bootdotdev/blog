@@ -26,8 +26,6 @@ By contrast, it only instantiates a singleton once, and therefore any code that 
 
 Which means a singleton is _almost_ a global instance of a class. Gross.
 
-{{< cta1 >}}
-
 ## I Can't Believe It's Not Global!
 
 For the purpose of this article, we will assume we are using ES6 modules in our front-end React or Vue project. An example of a singleton we might want could be:

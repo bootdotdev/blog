@@ -48,8 +48,6 @@ Pure functions are functions with no side effects. They are similar to [function
 
 It makes them easy to test and predictable. Pure functions are widely used in [functional programming](https://en.wikipedia.org/wiki/Functional_programming)
 
-{{< cta1 >}}
-
 ## Subroutine
 
 ```python
@@ -105,8 +103,6 @@ Task finished in 5.004022927998449
 
 The coroutine `chill` is called three times, and each instance of it blocks for a certain period. When a particular coroutine starts blocking it passes control to another coroutine. The coroutines in the example above block for a total of 10 seconds but they perform their task in 5 seconds in real-time because they worked cooperatively at the same time.
 
-{{< cta2 >}}
-
 ## Generators
 
 When regular functions are called they perform their task and return to their caller. If they are called again they start execution from the beginning and return to their caller again.
@@ -158,8 +154,6 @@ p.pos() # (4, 5)
 ```
 
 The class above defines 3 methods. The `__init__()` method is the constructor, `pos()` returns a tuple of the object's position and `set_pos()` changes the object's position. `self.x` and `self.y` are member variables mutated by the various methods.
-
-{{< cta3 >}}
 
 ## Anonymous function
 

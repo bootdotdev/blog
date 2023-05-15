@@ -22,8 +22,6 @@ Trouble is, when you're just starting, those boring details are *exactly* the th
 
 Like any good developer, I use a library and call `sha256.Hash(text)` when I need to hash some data. I don't try to write my cryptography from scratch! That said, I've taken the time to learn and understand *why* [sha256](https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/) is a good choice in a given scenario, and what security it provides me. Similarly, when you're learning back-end development, frameworks are just too high-level to be a good starting point.
 
-{{< cta1 >}}
-
 ## Frameworks are easy to learn, that's the whole point
 
 The entire selling point of a framework like Django, Flask, or Rails is that they're easy to use. They take the repetitive, boring stuff and give you an opinionated way to do it. With just a few CLI commands, you can have a fully-functional web application up and running!
@@ -45,8 +43,6 @@ I stressed for weeks trying to make sure my site was "secure". Every blog post o
 Anyhow, a year later when I [learned Go](https://boot.dev/learn/learn-golang) and built an API without any frameworks, *everything started to come together for me*. I finally understood all the moving parts.
 
 Since then, I've worked with minimalistic Go apps, Django, Flask, Rails and Express servers. I'm no longer stressed when I build a server in Django because I know what tradeoffs are being made. Django and Rails are not bad tools for building web apps, they're just bad tools to start your learning process with.
-
-{{< cta2 >}}
 
 ## How far down the rabbit hole do I need to go?
 

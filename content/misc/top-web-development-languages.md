@@ -44,8 +44,6 @@ Although JS is most often used for front end development, it can also be used on
 
 There are over [1.6 billion](https://medium.com/javascript-scene/how-popular-is-javascript-in-2019-823712f7c4b1#:~:text=As%20I%20mentioned%2C%20JavaScript%20is,billion%20web%20sites%20with%20JavaScript).) websites in the world, and JS is used on 95% of them,  including giants like Facebook, YouTube, Gmail, and others.
 
-{{< cta1 >}}
-
 ## 2. Go (Golang)
 
 ### What Is It?
@@ -95,8 +93,6 @@ It's important to note that security and debugging can sometimes be difficult wi
 ### Where Is It Used?
 
 Rails is used by companies running the gamut from small start-ups to giants like Twitter, Hulu, GitHub, Groupon, and more. 
-
-{{< cta2 >}}
 
 ## 4. Python (Django and Flask)
 
@@ -154,8 +150,6 @@ While many get C# confused with languages of a similar name such as C and C++, C
 ### Where Is It Used?
 
 C# is (not surprisingly) the primary language used by developers working with Microsoft technologies (including) Windows phone apps. It's also used for the popular game development engine, Unity, as the primary language.
-
-{{< cta3 >}}
 
 ## 7. Elixir
 

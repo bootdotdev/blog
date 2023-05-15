@@ -21,8 +21,6 @@ This is the most important point I'm going to make. While not the most egregious
 * Chat with people and get to know the more active members of the community. These are the people that are most likely to help you or ban you after all. Can't hurt to get to know them.
 * Read the rules of the community, and make sure you understand what the purpose of the community is.
 
-{{< cta1 >}}
-
 ## Don't beat around the bush with pleasantries
 
 One of my biggest pet peeves is when people DM or @ me with a message that just says "hi". I love chatting, but I don't know what to do with this. I don't know you, and I don't know what you want to chat about, so why should I engage at all? If you're going to chat someone up, say something *substantive*. Ask a question, share a story, comment on the conversation, but don't expect responses from a meaningless greeting.
@@ -30,8 +28,6 @@ One of my biggest pet peeves is when people DM or @ me with a message that just 
 ## Don't be weird about it
 
 This goes hand-in-hand with the annoying "hi" message. The only thing worse than a DM that just says "hi" is one that says "hello my great friend". Why you gotta be so weird? I don't know you, we aren't friends yet. I love when people are nice and welcoming, don't get me wrong, but don't be super weird about it.
-
-{{< cta2 >}}
 
 ## Don't look like a robot, scammer, or low-effort troll
 
@@ -75,8 +71,6 @@ If you aren't getting help, it's probably *not* anyone else's fault. These are t
 * Have I taken the time to get to know anyone here?
 * Do I look legitimate?
 * Am I asking a specific question?
-
-{{< cta3 >}}
 
 ## Let me know if you have other tips
 

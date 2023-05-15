@@ -41,8 +41,6 @@ Once that change is in production, that's when your SREs would come in. They mak
 
 That's just one example, but in short, **DevOps roles focus on making the software delivery cycle more efficient. SREs make sure that system is stable and reliable.**
 
-{{< cta1 >}}
-
 ## Roles and responsibilities of DevOps and SREs
 
 Now that you understand the focus of each of these job roles, let's see how that primary focus breaks down into the main roles and responsibilities of each job.
@@ -182,8 +180,6 @@ The main difference is that as an SRE, most jobs will want you to show off a dee
 There's not much to add to the chart I produced above. It's worth noting that the educational requirements are pretty flexible – most job openings make a point of saying that they'll accept work experience in place of degrees.
 
 If you want to get either job but didn't get a degree in the right field, hope is not lost. You can bulk out your software engineering portfolio with some [backend projects](https://blog.boot.dev/backend/best-backend-projects/), show off your skills in languages like [Python](https://blog.boot.dev/python/python-projects-for-beginners/) and [Go](https://blog.boot.dev/golang/best-ways-to-learn-golang/), and think about getting a certification or two.
-
-{{< cta2 >}}
 
 ## Career prospects
 

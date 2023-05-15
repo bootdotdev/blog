@@ -31,8 +31,6 @@ This demand explains why you should learn JavaScript: [72% of companies](https:/
 
 Even if you don't want to program websites or apps for a career, being able to create your own website with JavaScript to host your portfolio can be a huge help in your job hunt. 
 
-{{< cta1 >}}
-
 ## 2. It makes you a versatile programmer.
 
 JavaScript is kind of a lingua franca among coding languages. If you know how to code in JavaScript, there's no cap to the kind of cool stuff you can program. JavaScript gained a foothold by helping developers code on the client-side (frontend) of websites, but recently, there have been additions to the JavaScript frameworks that make it a great language for coding on the server-side or [backend](/backend/become-backend-developer/) of websites using Node.js. 
@@ -52,8 +50,6 @@ Even similarly simple languages like Python are hard compared to JavaScript. Whe
 This makes it ultra-accessible for beginners like me. With a very basic understanding, you can follow a tutorial like [this one](https://www.oreilly.com/library/view/javascript-jquery/9781491948583/ch01.html) from Oreilly and write a program within minutes. Why learn JavaScript only by rote, when you can do it hands-on? 
 
 You can also learn by poking around in the Javascript that runs an overwhelming majority of websites, by right-clicking and selecting "inspect" on any website. It's a fun way to pick apart pre-existing JavaScript and see what happens when you change things. ![](https://lh3.googleusercontent.com/TXbn1zmVBTRwSROeE1dRagznXw-tHXP0aSGV9bo0oOsZsLJLPRoTTizBGpuMXd7msGheRemVGIHHZ1FdGnBb9cBmoz8rmxHSv97Zg3K0c5Z4Ai6UDUysJjzmrAr1HlFr_bvWNvJk)
-
-{{< cta2 >}}
 
 ## 4. There are a lot of shortcuts, when you're ready to take them.
 
@@ -80,8 +76,6 @@ Nowadays, knowing only one coding language is good, but most jobs ask that you c
 "JavaScript provides a crucial introduction to key principles and practices that you'll take with you throughout your career as a developer," [writes](https://careerfoundry.com/en/blog/web-development/should-you-learn-javascript/) Stevens in Career Foundry. Same as C++, Python and Java, JavaScript supports object-oriented, functional, and imperative styles of programming. That means that when you're fully versed in JavaScript and thinking about picking up language number 2, you'll be able to pick it up much faster than normal. 
 
 A lot of languages borrow concepts from each other, or are built to shore up the weaknesses of another. JavaScript is one of the few that has completely transferable skills that can help you hit the ground running when you start to learn another programming language. Why learn JavaScript? Because it'll help you learn Python, or C++, or any other similar language.
-
-{{< cta3 >}}
 
 ## 7. Can a junior web developer work remote?
 

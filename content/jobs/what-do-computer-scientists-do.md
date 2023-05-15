@@ -38,8 +38,6 @@ This is quite a different question: a computer scientist is almost an umbrella t
 
 In reality, the field of software engineering is very open, and depending on what you've learned you can do almost anything. An understanding of key computer science principles like data structures and algorithms opens many career opportunities.
 
-{{< cta1 >}}
-
 ## A day in the life of a computer scientist turned software engineer
 
 I can't speak for every computer scientist, but I'm a back-end software engineer with a degree in computer science. I usually do some version of the following on a daily basis.
@@ -94,8 +92,6 @@ So much about your life as a computer scientist will depend on where you go to w
 * **Good work environment.** Many tech companies are able to raise quite frankly insane amounts of capital. Because they're interested in retaining top talent, they often have cool amenities. For example, I've had office ping pong tables, massage chairs, catered meals, gyms, etc.
 * [**Good pay.**](/jobs/how-much-do-software-engineers-make/) Companies are still having a hard time finding good talent.
 
-{{< cta2 >}}
-
 ## What kinds of jobs can I get as a computer scientist?
 
 As computer science breaks down into smaller categories, so do the jobs. This is just a smattering of [different coding jobs](/jobs/whats-the-job-outlook-for-computer-science-students) out there (and if you want to see a more in-depth look at jobs, feel free to [check out some articles on coding jobs](https://blog.boot.dev/jobs/whats-the-job-outlook-for-computer-science-students/). If you remember our prior discussion on computer programming vs. computer science, you'll know that these jobs will lean toward one or the other (or occasionally overlap). Just know that the definition of job titles and tasks associated may shift depending on the company that is writing the job description.
@@ -132,8 +128,6 @@ On top of making a pretty penny, job growth in this sector is predicted to climb
 ## Do you need a degree to work in computer science?
 
 You do not need a degree to work in computer science or programming! There are some jobs that will require a degree, but those employers are in the minority. You can learn to program online, and you can even learn the academic side of computer science without going back to school. You might be interested in a [CS certificate](/computer-science/compsci-certificate-vs-degree/), but even that isn't strictly necessary. The most important thing is to [gain the requisite coding skills](/computer-science/comprehensive-guide-to-learn-computer-science-online/).
-
-{{< cta3 >}}
 
 ## Do computer scientists work at home or in the office?
 

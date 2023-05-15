@@ -25,8 +25,6 @@ Ever wondered how your data is kept safe online? This course will teach you abou
 
 If you're interested in becoming a valuable back-end engineer, an understanding of cryptography will set you apart from other candidates that will fail to answer basic security questions.
 
-{{< cta1 >}}
-
 ## Chapters
 
 ### 1. Symmetric Encryption

@@ -46,8 +46,6 @@ JavaScript is not hard to learn, it's not as simple as Ruby, but the sheer deman
 
 Both languages are cross-platform compatible, boast large communities, and are popular in web development, however, it's worth noting JS is the world's [most used language](https://insights.stackoverflow.com/survey/2020#most-popular-technologies) by developers regardless of the field they work in. So, even if you don't learn it first, you'll likely have to learn it at some point.
 
-{{< cta1 >}}
-
 ## Ruby vs JavaScript Salary
 
 When it comes to salary, both languages fare well.
@@ -79,8 +77,6 @@ And lastly, Ruby consumes a lot of RAM. Its whole focus on not re-writing code a
 This isn't to say Ruby itself has awful performance. Compared to other server-side languages like Python, it compares fairly well.
 
 However, against the lightweight JavaScript language and Node's Google V8 engine it doesn't hold up. Essentially, all the characteristics we love about Ruby and make it fun to use, ultimately hurt its performance.
-
-{{< cta2 >}}
 
 ## Ruby vs JavaScript: Which Is Better for Web Development?
 

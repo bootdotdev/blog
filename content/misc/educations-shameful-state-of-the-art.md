@@ -27,8 +27,6 @@ All of these problems are compounded by Covid-19. Now students are still paying 
 
 At boot.dev our goal is to provide the equivalent of a **bachelor's degree for less than $1,000 USD**, and in many cases much less.
 
-{{< cta1 >}}
-
 ## Generalized Education
 
 Most college degrees are too generalized. In the United States, it's common for students to complete two years of higher education without yet knowing what they want their major to be. I decided fairly quickly on [Computer Science](/computer-science/comprehensive-guide-to-learn-computer-science-online/) but was still required to waste my precious time and money on:
@@ -61,8 +59,6 @@ Mastery learning has long been considered impractical in a physical setting. How
 Daniel Kahn, a favorite of mine, has a great Ted talk on the subject:
 
 {{< youtube -MTRxRO5SRA >}}
-
-{{< cta2 >}}
 
 ## Quality over Quantity
 

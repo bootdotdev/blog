@@ -69,10 +69,6 @@ package main
 
 Now we can run **go generate** from the root of our project and both executables will be built at the root.
 
-{{< cta1 >}}
-
-{{< cta2 >}}
-
 ## Can We Do More?
 
 Have more steps in the build process? Go generate is quite flexible, lets's build the production docker image as well (assuming we have a Dockerfile in the root of the project):

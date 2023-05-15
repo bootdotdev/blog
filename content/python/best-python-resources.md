@@ -24,8 +24,6 @@ Yes, much of Python is best learned in front of a computer screen. However, some
 
 I find having all this information laid out in a logical, organized way for you to digest is the best way to build a framework of knowledge. Everything else you learn can be slotted into the framework you build with books.
 
-{{< cta1 >}}
-
 ## [A Byte of Python](https://python.swaroopch.com/)
 
 This book really takes the cake. It is incredibly thorough, well-written, and specifically targeted at those who are first learning to code. Even experienced programmers will enjoy this read and gain some knowledge. It's easy to feel frustrated with the learning process, but this book has helped so many people, from curious kids to people looking to change careers.
@@ -44,8 +42,6 @@ Al Sweigart makes programming with Python very approachable. The book is free, a
 
 These very cool programming challenges really are quite practical. The book walks you through in great detail any libraries or tools you need to download, like [openpyxl](https://openpyxl.readthedocs.io/en/stable/).
 
-{{< cta2 >}}
-
 ## [Python for Beginners: Learn Python Programming With No Coding Experience in 7 Days](https://www.amazon.com/Python-Beginners-Programming-Experience-Web-Programming/dp/B09GZHFH2C)
 
 If you don't already know how to program, I'd recommend this book. It lets you get your feet wet before you dive into the deep end of programming.
@@ -63,8 +59,6 @@ Some of the best resources for learning Python are more hands-on. If you're look
 This course checks all the boxes you need it to, covering variables, comparisons, lists and loops, functions, dictionaries, sets, and more. Additionally, this course has lovely little programming activities scattered throughout the content. One of the stand-out aspects of this course is you get instant feedback on the code you've written, and if you're really stuck, you have access to well-written solutions to the problems, so you can learn from the professionals.
 
 *Learn Python* from boot.dev also gets you access to their active discord community. If you're hoping to break into the software industry, this community will help you do everything from prepping your resume, finding jobs that fit your skills and interests, and maybe even some mock interviews!
-
-{{< cta3 >}}
 
 ## [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-LbJFQp70Ng6EWthQCcCudg&utm_medium=udemyads&utm_source=aff-campaign)
 

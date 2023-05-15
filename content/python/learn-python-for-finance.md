@@ -22,8 +22,6 @@ If you've read any [other coding listicle](https://towardsdatascience.com/10-com
 
 It's a great idea to learn Python for finance because of the same reasons that make Python great for anything else. If you want to analyze financial data with Python, you'll be pleased to hear it's a breeze to start.
 
-{{< cta1 >}}
-
 ## 2. Shortcuts Already Exist 
 
 Python as a language is bolstered by libraries, AKA reusable chunks of code someone else already built for you. Beyond being simple to pick up, there's a robust framework of open-source, third-party libraries that are useful in all sorts of situations but specifically for finance. 
@@ -39,8 +37,6 @@ The really great thing about the use of Python in finance is that despite being 
 Beyond the open-source libraries, there are entire [Python courses](https://boot.dev/learn/learn-python) and [textbooks](https://www.oreilly.com/library/view/python-for-finance/9781491945360/) and [tutorials](https://pythonprogramming.net/getting-stock-prices-python-programming-for-finance/) dedicated to helping you pick up the basics specifically of Python for finance. 
 
 If you want to learn Python for finance, you won't have to rely on generic courses and tutorials - there is plenty of content geared around how to learn Python in a finance context.
-
-{{< cta2 >}}
 
 ## 4. Great Community
 
@@ -67,8 +63,6 @@ Python is [better known for data science](/python/python-for-data-science/) but 
 To quote an expert, "It's just much easier to integrate the work of economists into Python-based platforms. Tools like SciPy, NumPy or Matplotlib allow one to perform sophisticated financial calculations and display the results in a very approachable manner," [says](https://www.netguru.com/blog/python-in-finance) Jakub Protasiewicz, an engineering manager with over ten years of IT experience.
 
 Economists use Python for their economic analysis due to its simplicity and flatter learning curve. 
-
-{{< cta3 >}}
 
 ## 7. You're In Good Company 
 

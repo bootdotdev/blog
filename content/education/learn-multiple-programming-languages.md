@@ -27,8 +27,6 @@ Boot.dev is a batteries-included computer science curriculum in the browser. We 
 * We have a linear curriculum so students don't have to worry about what they should be learning next
 * We gamify the experience as much as possible to keep students motivated
 
-{{< cta1 >}}
-
 ## So why can't the whole curriculum be taught in a single language?
 
 If you look at the [full CS curriculum we have planned in our public roadmap on Github](https://github.com/bootdotdev/curriculum), you'll see that it's basically impossible. There are certain concepts that are so tightly coupled to specific technologies that it makes no sense to try to teach them all the same way. Let's look at a few trivial examples.
@@ -49,8 +47,6 @@ In short, we have 2 competing goals:
 ## So how many languages are you going to teach me?
 
 Over the course of my traditional CS degree at university, I used 12+ programming languages. I think that's too many. I don't want to teach languages for the sake of teaching them. It's really an optimization problem where we want to introduce as few languages as possible, while effectively teaching every concept we want to teach. I'm confident that the full curriculum for [Boot.dev](https://boot.dev) will only require the use of about 6 languages in total, and that the majority of the program can just use JavaScript, Python, and Go.
-
-{{< cta2 >}}
 
 ## Learning multiple languages removes your tunnel-vision
 
@@ -112,8 +108,6 @@ Python gets out of your way, syntactically speaking. Algorithms and data structu
 ### Why Go?
 
 Our CS degree has an emphasis on backend programming, and I've personally had tremendous success with Go as a backend language.Go will make it easier to teach things like concurrency, compilers, and distributed systems than some of the other choices I've thought about. I do think we might eventually have a Rust course that goes to an even lower level in terms of manual memory management, but I haven't decided on that yet.
-
-{{< cta3 >}}
 
 ## Questions? Comments? Concerns?
 

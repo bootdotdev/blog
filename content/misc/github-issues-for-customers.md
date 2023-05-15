@@ -111,8 +111,6 @@ As you can see, given an...
 
 ...the `CreateIssue` method simply creates a new issue in the repo with a static label. I've split the inputs into a Github issue "title" and "body" that's formatted to my needs so that I can resolve the issues as quickly as possible.
 
-{{< cta1 >}}
-
 ## Why not use an out of the box solution?
 
 I know there are a billion and a half issue tracking tools you can buy on the market, but I really liked this solution for a few reasons:

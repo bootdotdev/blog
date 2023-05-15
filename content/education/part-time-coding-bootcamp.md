@@ -20,8 +20,6 @@ Recruiting processes take several weeks on their own, so I could potentially hav
 
 So, like a lot of people, I considered how to do a part-time [coding bootcamp *online*](/education/top-online-bootcamps/). But that's still usually 20+ hours of work per week. Some employers make it simple to cut back on your hours for a period of time. Others (like mine) may not be open to it. Since keeping your current employment is probably quite important, it's best to figure out if and how your work schedule may change before selecting a coding bootcamp to participate in.
 
-{{< cta1 >}}
-
 ## Choose the Right Coding Bootcamp for Your Situation
 
 Your existing commitments are the biggest factor in choosing a coding bootcamp. Depending on how demanding your day job is and what your other commitments outside of it are, you should choose between a full-time, part-time, or on-demand bootcamp. Doing a full-time coding bootcamp is quite a large gamble, since most would require you to resign from your current position to meet the time commitments required.
@@ -41,8 +39,6 @@ Every format of bootcamp will recommend or require a certain number of self-stud
 I recommend setting a goal number of hours per work to dedicate to the bootcamp outside of the lectures and officially organized program time. When you're first learning to code, a lot of hurdles can get in your way. Some concepts might make immediate sense to you, or you might struggle with a few much longer than other classmates. There are many factors that determine how quickly you are able to grasp a concept, so it's great to build in some study buffer for yourself so you can double down on those concepts that are tricky for you.
 
 On top of regular study, a lot of bootcamps have homework assignments. While it is easy to get frustrated when you hit unexpected efforts, it's incredibly important that you find a way to recognize your own efforts. Budget in time for things to not work or take longer than estimated and find a way to reward yourself just for trying. Even if the code isn't running after a few hours, you'll still have learned plenty about the issue and lots of ways of how not to solve it. I suggest a chapter in an audiobook, or a baked good if that hits your fancy. I always go for chocolate chip cookies.
-
-{{< cta2 >}}
 
 ## Keep Motivation High
 
@@ -65,8 +61,6 @@ Putting in this extra effort in advance will allow you to have a smoother start 
 The price of online coding bootcamps varies a lot. Some are very affordable, some are quite a bit of money. You can choose how you want to approach your upskilling. Starting with a cheaper one with a less serious time commitment might give you a better idea of whether you want to fully invest in a multi-thousand dollar program. You're unlikely to find a free part time coding bootcamp that's worth your time, though, so get ready to shell out some money at least.
 
 (The only way to get a free coding bootcamp is by applying for scholarships, or by signing away a percentage of your future earnings.)
-
-{{< cta3 >}}
 
 ## Asynchronous Part-Time Coding Bootcamps
 

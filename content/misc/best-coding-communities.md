@@ -19,8 +19,6 @@ The one thing that every programmer has in common, whether they've only ever imp
 
 That's why getting involved in a tech community is *so important*. With the rise of hybrid, remote, and freelance work, connecting with colleagues on your team and other teams within your company is harder than it used to be, and that's assuming you have other coding colleagues. "The Great Resignation", amongst higher-than-normal turnover rates make it hard to connect with those moving through the revolving door of employment. If you find yourself missing technical mentors, peers, or friends of a similar profession, your best bet is to reach out online to find friends within the many coding communities already in existence.
 
-{{< cta1 >}}
-
 ## 1. Discord
 
 ![Discord Screenshot](/img/800/discordss.png.webp)
@@ -47,8 +45,6 @@ You can view different collections of topics, look at the most-voted posts withi
 
 Reddit to me is more like a random collection of links to articles, tutorials, conferences, hack-a-thons, etc. It's a good place to show off cool projects or get inspired by others, but if you're looking for a tribe of like-minded people to get through the journey of entering the software industry, Reddit will leave you feeling isolated and overwhelmed.
 
-{{< cta2 >}}
-
 ## 3. FreeCodeCamp
 
 ![FreeCodeCamp Screenshot](/img/800/freecodecampss.png.webp)
@@ -74,8 +70,6 @@ You can connect with other users, but it's *mostly* for finding articles to read
 One additional bonus of Hacker News is that it has a job board for startups, so if that's the direction you're looking to head in, it will provide you with some good contacts.
 
 What Hacker News does not provide you with is specific help on questions, and the community won't coddle you. If you're looking for encouragement and support to start coding, this isn't the place.
-
-{{< cta3 >}}
 
 ## 6. Hashnode
 

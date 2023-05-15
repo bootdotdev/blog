@@ -27,8 +27,6 @@ That said, homework can sometimes be tolerable. I think for junior-level jobs, w
 - Give the homework before any serious interviews. Don't make candidates sit through several interviews, only to be handed homework afterwards.
 - Don't give homework if the candidate can point to projects or open source code they've written. The point of homework is to verify a basic level of technical proficiency. If they already have proof, just move on to the real interviewing.
 
-{{< cta1 >}}
-
 ## If you don't like homework, what do you like?
 
 The goal of both parties in the interview process should be to properly convey or assess the talent and experience of the candidate. Employers don't want to miss out on great hires, and candidates want to be given a fair share shake.

@@ -16,8 +16,6 @@ Crypto has been explosive in 2021. The gains have been even better than the meme
 
 Bitcointalk is undoubtedly the gold standard for the crypto community on the web. There are 3 million posts and two million members on this platform. There are several sections dedicated to speculation, mining, development, technical support, IOC, and more. Also, the site is available in twenty different languages.
 
-{{< cta1 >}}
-
 ## [#2 Reddit - /r/bitcoin](https://reddit.com/r/bitcoin)
 
 ![reddit logo](/img/800/1_e3E0OQzfYCuWk0pket5dAA-1024x576.png)
@@ -27,8 +25,6 @@ Reddit has the most siloed and specific communities in regards to crypto. It's a
 ## [#3 Reddit - /r/cryptocurrency](https://www.reddit.com/r/cryptocurrency/)
 
 While the /r/bitcoin subreddit focuses on Bitcoin related news, the /r/cryptocurrency subreddit is where you can find information and speculation regarding other altcoins. Because /r/bitcoin is so pro-BTC, /r/cryptocurrency actually rarely mentions the mother coin at all. If you're into alts, this is the place to discuss them.
-
-{{< cta2 >}}
 
 ## [#4 Reddit - /r/ethereum](https://www.reddit.com/r/ethereum/)
 
@@ -43,8 +39,6 @@ Steemit was one of the first blockchains to focus on social media. In return for
 ![telegram logo](/img/800/unnamed.png)
 
 Telegram is seen as a competitor of WhatsApp as it is also a chatting App. Numerous Crypto professionals have made groups. Some of these groups require little payment while there are some groups that are also free.
-
-{{< cta3 >}}
 
 ## [#7 Medium](https://medium.com/search?q=crypto)
 

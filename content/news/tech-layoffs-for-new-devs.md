@@ -34,8 +34,6 @@ Tech did *so well* during the Coronavirus because people were stuck at home. The
 
 Ad revenue from Facebook and Google is tapering off, and people are canceling their Netflix subscriptions as the commodification of online videos proliferates.
 
-{{< cta1 >}}
-
 ## Are layoffs happening?
 
 Yes, they are. [Layoffs.fyi](https://layoffs.fyi/) has some great data on this. Anytime there's a market dip, companies take advantage of the opportunity to cull the chaff in their orgs.
@@ -73,8 +71,6 @@ Again, I can't give you *personal* advice, but here's what I would do in a few d
 * **Learning to code?** Keep learning. If anything I would study harder than before because the pressure is a bit higher. I'd keep my day job if I had one and self-teach to save money. I'd use sites like [Boot.dev (yes, I'm biased)](https://boot.dev), FreeCodeCamp, and Scrimba.
 * **Have a coding job at a company that's doing well?** What are you worried about? Keep doing what you're doing, it's probably working.
 * **Have a coding job at a company that's NOT doing well?** Are you likely to be laid off? If so, get ahead of it by preparing your resume, and applying around. I'm not saying you need to immediately jump ship, but it might be a good time to start casually looking.
-
-{{< cta2 >}}
 
 ## What happens when things are not going well at a tech company?
 

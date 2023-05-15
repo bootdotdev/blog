@@ -44,8 +44,6 @@ Once you've got a minimal HTTP server that saves information to the filesystem, 
 
 Contrast this approach with my own experience. Without understanding the difference between a `GET` and a `POST` request I spun up a Django server and copy/pasted code from Stack Overflow. Most of the time I was terrified that a small change that a friendly internet stranger suggested could break the whole thing.
 
-{{< cta1 >}}
-
 ## Note: It's not about "learning the right way"
 
 If you learn to code you've won. There is no "wrong way" to learn. If you didn't take the approach I'm suggesting (I didn't) that doesn't mean you're not a real engineerᵗᵐ. If it worked for you, that's fantastic, I've just found that this approach speeds up the process for *a lot* of people.
@@ -58,8 +56,6 @@ One of the [reasons I decided to start Boot.dev](https://blog.boot.dev/about/) w
 * An n-month bootcamp rushing through new technologies and frameworks
 
 **As a general rule, bootcamps are too fast and degrees are too slow.** Bootcamps skip theory almost completely while degrees take years to get you to the point where you can build something useful. I think there's a better middle-ground approach: A curriculum that teaches all the career-relevant theory while constantly putting it into practice by building real-world projects.
-
-{{< cta2 >}}
 
 ## Different people need different advice
 

@@ -56,8 +56,6 @@ func main() {
 }
 ```
 
-{{< cta1 >}}
-
 ## Split by delimiters and retain the delimiters
 
 ### strings.SplitAfter()
@@ -139,8 +137,6 @@ func main() {
     // prints ["apple", "banana", "orange", "pear"]
 }
 ```
-
-{{< cta2 >}}
 
 ## Gotcha - Strings in Go are special
 

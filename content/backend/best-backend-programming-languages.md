@@ -53,8 +53,6 @@ Notably, major cloud service providers like Microsoft's Azure and AWS Lambda hav
 
 Finally, Go is gaining ground on the cybersecurity front – American Express, Capital One, and 1Password use Go for cybersecurity.
 
-{{< cta1 >}}
-
 ## Most used for beginners: Python
 
 ![python logo](/img/800/pythonlogo.png.webp)
@@ -80,8 +78,6 @@ If you're a bit confused about this front-end/back-end JavaScript stuff, check o
 ### Who's hiring for JavaScript?
 
 So many companies will use JavaScript for something. Coding Dojo [found](https://www.globenewswire.com/en/news-release/2019/07/11/1881446/34385/en/Coding-Dojo-Identifies-the-Most-In-Demand-Programming-Languages-at-Top-US-Unicorns.html) that 16 out of 25 unicorns use JavaScript. Thanks to JavaScript's Node.js, companies like Facebook, Google, and eBay use JavaScript to run their website backends.
-
-{{< cta2 >}}
 
 ## Most loved: Rust
 
@@ -128,8 +124,6 @@ Again: worth learning, but I don't expect this will be the case forever as use c
 ### Who's hiring for PHP?
 
 There's a [healthy use](https://www.trio.dev/blog/companies-using-php) of it among big companies like Meta, Wikipedia, and Tumblr. Meta in particular has used it to develop Facebook's backend since 2004. Slack uses PHP in its backend to work more efficiently while streamlining web request time.
-
-{{< cta3 >}}
 
 ## Highest paying: Ruby
 

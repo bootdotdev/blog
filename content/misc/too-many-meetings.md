@@ -24,8 +24,6 @@ Meetings are a communication mechanism. In the context of software development, 
 
 **Meetings are none of these things.** Meetings are ways for us to communicate about these things. Meetings serve the same purpose as an email, a call, or a slack channel - they're just another medium through which we can talk about how to accomplish tasks.
 
-{{< cta1 >}}
-
 ## Why a meeting instead of an email?
 
 ![](/img/800/meeting-email-meme-1024x536.jpeg)
@@ -51,8 +49,6 @@ Now that we know the goal of a good meeting is to communicate in ways that are m
 - **Good meetings are as short as possible but no shorter.** It always sucks to be in the middle of a productive discussion only to have people start dropping off for their next meeting.
 - **Good meetings are scheduled for a reason, bad meetings find a reason to fill the schedule.** For example, it's generally a bad idea to have a recurring "engineering all-hands" every Tuesday at 2. How about when something interesting happens that concerns all engineers you schedule the meeting then?
 - **Good meetings end with an action item or a decision_._** 90% of the time, the action item should not be another meeting.
-
-{{< cta2 >}}
 
 ## Turn down those meetings
 

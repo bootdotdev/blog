@@ -20,8 +20,6 @@ Boot.dev is a developer-first workspace, and as such we've switched to a (defaul
 
 ![screenshot of boot.dev course](/img/800/screenshot-course.webp)
 
-{{< cta1 >}}
-
 ## New guiding principles
 
 If you haven't read about our unique beliefs on coding education, you should check them out. We have some fairly strong opinions about the best way for new developers to advance their careers. Specifically surrounding the relationship between real coding projects and guided courses. Read all about that on our new [about page here](/about).

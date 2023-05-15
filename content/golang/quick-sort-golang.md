@@ -17,8 +17,6 @@ Quicksort is an efficient sorting algorithm commonly used in production sorting 
 - The pivot is now in its **final** position
 - Recursively repeat the operation on both sides of the pivot
 
-{{< cta1 >}}
-
 ## Conquer
 
 - Return a sorted array after all elements have been through the pivot operation
@@ -69,8 +67,6 @@ func quickSortStart(arr []int) []int {
 	return quickSort(arr, 0, len(arr)-1)
 }
 ```
-
-{{< cta2 >}}
 
 ## Example of using Quicksort in real code
 

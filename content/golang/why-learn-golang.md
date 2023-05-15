@@ -25,8 +25,6 @@ The reason it's so easy is that Google as a company has been great about hiring 
 
 It's worth emphasizing the point that Go isn't easy in the same way that training wheels are easy. That is, Go isn't a language you'll need to "graduate" from in the future. On the contrary, developers from more complex languages like Java and PHP are moving to Go all the time because Go's simplicity encourages better engineering work.
 
-{{< cta1 >}}
-
 ## Go is the language of the cloud
 
 > Go makes it very easy to scale as a company. This is very important because, as our engineering team grows, each service can be managed by a different unit.
@@ -42,8 +40,6 @@ Why learn Golang if it's so new? Well, mostly for two reasons. First, there are 
 Secondly, because it's a newer language built for a specific purpose and not as an artifact or accident, it will teach you good habits if you go on to learn new languages. 
 
 [One Reddit thread](https://www.reddit.com/r/golang/comments/2c58rd/would_you_advise_a_beginner_to_learn_golang_as/) detailing why you should learn Golang explains that you'll have to use a 3rd party library less often because Go is a self-containing language. Furthermore, it's easily documentable using docstrings - learning these code-documenting habits will give you immediate tangible benefits. Unlike languages like PHP, there's often just one way to accomplish a task, a black-and-white mentality perfect for beginners learning their first coding language. And lastly, it's built to be future-proof - no matter what comes down the coding line, Go was created to still be relevant to any future apps or frameworks, no matter what they may be.
-
-{{< cta2 >}}
 
 ## Go is designed to be concurrent
 
@@ -68,8 +64,6 @@ This is another reason Go is great for beginners to learn - not all coding begin
 [Upwork lists](https://insights.dice.com/2020/09/10/15-programming-languages-that-pay-freelancers-best-golang-more/) the average hourly rate as **$64/hour**, which is only topped by Objective-C. (Objective-C is Apple's older language, currently being replaced by their newer language, Swift) If you're wondering why you should learn Golang, it makes sense to consider that even if you're not ready for a job switch, you can still use the knowledge to earn money.
 
 Unlike many of the other programming languages recommended for beginners like Python, Go is a specialty language and hence is in much greater demand. Learning Go in 2021 will give you the chance to test your coding skills and get paid well for it before necessarily taking the plunge and quitting your job.
-
-{{< cta3 >}}
 
 ## Go is built for software engineers, not academics
 

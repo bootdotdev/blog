@@ -31,8 +31,6 @@ As you pick a template and replace the dummy information for your own, keep thes
 - When you fail to land an interview, **ask your point of contact if they can provide feedback** as to why you were rejected. Don't take the feedback personally, but use it to improve your resume for the next application.
 - If you need extra help, join [Boot.dev's Discord channel](https://discord.com/invite/xCQxj2vb) and post your resume! We have a friendly community willing to give you feedback and help.
 
-{{< cta1 >}}
-
 ## #1 Entry-Level Web Developer - Computer Science Student
 
 [Link to Resume in Google Docs](https://docs.google.com/document/d/1tHF3aJanamLxxqO2drRCoNwxw5ETBCuLiqulBupW4M0/edit?usp=sharing)
@@ -48,8 +46,6 @@ Entry-Level Web Developer - Computer Science Student
 ![Front-End Developer Resume Sample - Self-Taught](/img/800/Self-taught-front-end-web-resume-page-001.jpg)
 
 Front-End Developer Resume Sample - Self-Taught
-
-{{< cta2 >}}
 
 ## #3 Mobile Developer Internship Resume Sample - CS Student
 
@@ -74,8 +70,6 @@ Back-End Development Resume Sample - Self-Taught
 ![DevOps Resume Sample - CS Student](/img/800/cs-student-devops-resume-page-001.jpg)
 
 DevOps Resume Sample - CS Student
-
-{{< cta3 >}}
 
 ## #6 Game Development Resume Sample - Self-Taught
 

@@ -47,8 +47,6 @@ A BaaS would be the equivalent of getting your blankets automatically delivered 
 
 A PaaS offers you more flexibility – you have complete control over the route, the gas, and so on – but it comes at a cost. It requires a significant time investment to develop all of the backend services you require.
 
-{{< cta1 >}}
-
 ## When to use a BaaS?
 
 There are a lot of reasons why it makes sense to use a BaaS. First, it's fast. Second, it's good for prototyping. Third, it's good for those without much backend experience. Let's break those down.
@@ -74,8 +72,6 @@ Using another company's products is never free. At a small scale, it's almost al
 Is BaaS the future? For certain types of companies, yes! For others, probably not. While BaaS solves a lot of headaches for traditional backend users, particularly for non-tech people or organizations looking to prototype something, it will be difficult for BaaS to overtake the tech market unless the BaaS providers reach a level of customization that is yet to be seen.
 
 Baas will probably have a lifecycle similar to that of WordPress and other blogging tools. If all you need is a blog or a simple e-commerce store, then WordPress does great. The minute you need to customize further it's time to build your own application. Similarly, with a backend-as-a-service I think simple CRUD apps will use out-of-the-box solutions just fine. That said, for companies that are innovating and building custom applications, I think it will be harder to use a BaaS, even if the tools improve.
-
-{{< cta2 >}}
 
 ## Is BaaS the right option for you?
 

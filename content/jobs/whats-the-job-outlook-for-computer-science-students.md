@@ -27,8 +27,6 @@ Programming jobs vary in their educational requirements. Depending on the positi
 
 In some cases it may be beneficial to seek out internships or to consider a [*coding bootcamp*](https://blog.boot.dev/jobs/is-coding-bootcamp-worth-it/) to gain the coding knowledge necessary to be hired for a job. When it comes to the level of education needed, make sure you research what the specific position you're interested requires. For example, machine learning specialists may require more formal training that front-end developers.
 
-{{< cta1 >}}
-
 ## So what are the career options in computer science?
 
 This isn't a comprehensive list of *all* your job title possibilities if you choose to study computer science, but I think I've hit all the big ones.

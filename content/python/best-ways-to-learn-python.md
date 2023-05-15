@@ -24,8 +24,6 @@ The best way to Learn Python interactively is by taking the courses here on boot
 
 The cool thing about this course is that it's designed to help you get a job. That means it's not just going to teach you flashy tricks, but guide you through the principles underlying how python works that might trip you up in a potential job interview. It also focuses on tasty job skills to open you up to more career choices, especially in machine learning if that's your jam.
 
-{{< cta1 >}}
-
 ## The Best Way to Learn Python For Free
 
 You can find free/freemium options to learn Python just about anywhere online, but I love Exercism, freeCodeCamp, and boot.dev as the best ways to learn Python for free. Why? Because each offers a unique way of teaching that suits each unique circumstance.
@@ -55,8 +53,6 @@ There are so many amazing, talented, kind-hearted individuals who have posted un
 However, there's no better way to learn Python on your own. If you want to go your own way, make your own curriculum, learn your own lessons, on your own timeline, the best way to learn Python is by creating your own lesson list by curating YouTube tutorials and lectures.
 
 Here's an [hour-long lecture](https://www.youtube.com/watch?v=kqtD5dpn9C8) I really enjoyed by a YouTuber called Programming with Mosh. Also, freeCodeCamp has most, if not all, of their tutorials integrated with Youtube, so there's no short supply of information. 
-
-{{< cta2 >}}
 
 ## The Best Way to Learn Python Fast
 
@@ -105,8 +101,6 @@ On top of a quick introduction to the language, the book also covers crucial Pyt
 The other book, Automate the Boring Stuff, is briefly packed into just 500 pages and is an internationally best-selling book. The authors' manifesto is all about learning how to make Python do the boring stuff, so you're not wasting your precious time paper pushing and number crunching. 
 
 This book will take complete beginners to confident coders. At the end of each chapter you are encouraged to apply what you've learned in a project, and you'll learn new tricks in Google sheets and automating Gmail. Keep yourself motivated, and this book will have Python working alongside you in no time. Same as above, it costs around $20 but is even cheaper if you're willing to buy it pre-loved.
-
-{{< cta3 >}}
 
 ## The Best Way to Learn Python to Get a Certificate
 

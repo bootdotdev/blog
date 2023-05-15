@@ -48,8 +48,6 @@ PHP is also easy to learn, with its peculiarities being easy to understand, espe
 
 Overall, PHP gets a point for simplicity, which beginners will enjoy, but JavaScript also earns a point because the payoff is substantially better in terms of career and useability.
 
-{{< cta1 >}}
-
 ## PHP vs JavaScript Salary
 
 When looking at salary, I also like to examine how the languages are received on a personal level by developers. Money is all well and good, but the quality of life is just as important.
@@ -77,8 +75,6 @@ And if you want to take it a step further and even out the playing field, JS's b
 PHP, on the other hand, is identified by a multi-threaded, I/O blocking model, and is synchronous, so only one line of code can run at a time and must be completed before starting the next. Some argue that in lieu of performance, PHP is more stable than JavaScript, which may have some ground if you're comparing it to JS for frontend development, but if we're talking about Node.js, it holds more like a rumor.
 
 Either way, JavaScript takes home the point for performance.
-
-{{< cta2 >}}
 
 ## When to Use PHP vs JavaScript?
 

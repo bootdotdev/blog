@@ -43,8 +43,6 @@ Ruby was definitely more popular a couple of years ago, but in the developer com
 
 It's not just among enthusiasts where Python is more popular. If you want to get a job, remote jobs at StackOverflow show 5x as many results when you search for [Python](https://stackoverflow.com/jobs?q=python) vs. [Ruby](https://stackoverflow.com/jobs?q=ruby). 
 
-{{< cta1 >}}
-
 ## 2. Ruby vs Python: Which is best for beginners?
 
 If you're a novice coder like me, there's no question when choosing which is best for beginners: it's Python. When looking at Ruby vs Python for syntax, Python's syntax is super clear to read and write, very similar to English. This is what makes it really good for beginners to pick up and start getting to grips with the coding concepts.
@@ -62,8 +60,6 @@ I really loved [this post](https://scoutapm.com/blog/python-vs-ruby) by Scout AP
 The author points out that if you're really looking at pure language performance, you probably want a compiled language. In most business cases, solving the problem first ( AKA product-market fit) matters more than Pure Performance. For large-scale web apps, performance comes down to architecture design rather than language choice.
 
 I agree, so I won't pick a winner in terms of performance or benchmarking between Ruby versus python. If you have a specific task in mind, I recommend you check through the post yourself and see the various instances where Python shines over Ruby or vice versa.
-
-{{< cta2 >}}
 
 ## 4. Ruby vs Python: Which is best for web development?
 
@@ -90,8 +86,6 @@ However, there's a huge demand for specialized Ruby Developers. Remember how man
 As I mentioned in the section above, Python's strength is definitely in AI/machine learning/deep learning (all of which are kind of the same thing). There's no particular reason why Python is better, other than the fact that there is a rich ecosystem of libraries and frameworks around AI, machine learning, and deep learning. Libraries include Scikit, NumPy, TensorFlow, Keras, and more.
 
 Plus, new libraries are developed and shared on a regular basis. Ruby is mostly used for Ruby on Rails, whose usefulness kind of caps out at web application development.
-
-{{< cta3 >}}
 
 ## 7. Ruby vs Python: Which is best for productivity?
 

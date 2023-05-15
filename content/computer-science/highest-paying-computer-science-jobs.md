@@ -50,8 +50,6 @@ Let's jump into each role and see what makes them worth their salaries, the [fut
 
 The job titles listed here are, for the most part, very different. If you are planning on applying to two or three different kind of jobs, you should also have two or three [distinct resumes](/computer-science/computer-science-resumes/) you use. Each resume can be tailored to the specific job posting.
 
-{{< cta1 >}}
-
 ## Engineering Manager - $152,000/yr
 
 With great responsibility, comes a great salary. I believe Uncle Ben said that. As you can imagine, one way to earn more than the average developer is to manage an entire team of developers. At larger companies, candidates will likely need over ten years of experience to break into management, but at smaller companies, the rules are more flexible, with developers with as few as 5 years able to move into a higher leadership position. With that in mind, smaller companies also often don't pay quite as well, with compensation often tied directly to the performance of the company as a whole.
@@ -84,8 +82,6 @@ If you haven't heard of DevOps, you probably need to get your head out of the sa
 - Understand and be able to communicate the scale, capacity, security, performance attributes, and requirements of the services you own
 - Test, maintain and improve existing processes
 - Implement, test, and maintain new processes
-
-{{< cta2 >}}
 
 ## Data Scientist or Machine Learning Specialist - $125,000/yr
 
@@ -136,8 +132,6 @@ Data engineers build and advocate for high-quality core data sources in a compan
 - Monitor and improve the health of our data pipelines and quality
 - Contribute to the evolution of tools, systems, and methods for harnessing data
 - Help ensure appropriate data privacy and security
-
-{{< cta3 >}}
 
 ## Developer, Back-End - $120,000/yr
 

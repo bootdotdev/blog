@@ -24,8 +24,6 @@ In their [Learn Go course](https://boot.dev/learn/learn-golang), where you'll ge
 
 And once all that is done, you get to hop on discord to chat with the Boot.dev community to discuss not only the learning material but also current trending hot topics in the field.
 
-{{< cta1 >}}
-
 ## Learn Go the free way
 
 If you're not sure about spending money just yet, there's always the free method of learning Golang.
@@ -53,8 +51,6 @@ Tech with Tim is a verified channel that has over [20 videos](https://www.youtub
 All of his Go videos were also made recently, so you don't have to worry about learning out-of-date concepts and methods.
 
 All in all, this channel, along with many others, give you the flexibility to create your own curriculum, which I know is highly desirable for experienced coders already intuitive enough with programming to not need the hand-holding aspect of online courses.  
-
-{{< cta2 >}}
 
 ## Learn Go the fast way
 
@@ -102,8 +98,6 @@ This works because:
 2. [Golang is an incredibly simple language to learn](/golang/why-learn-golang/), so it's an ideal language to support the teaching of programming as a whole, making this book the perfect culmination of fruitful learning for new coders.
   
 These books also make great additions to the other forms of learning Golang, to help seal in knowledge and provide resources.
-
-{{< cta3 >}}
 
 ## Learn Golang the Certified Way
 

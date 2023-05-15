@@ -35,8 +35,6 @@ For example, geographic tech hubs (San Francisco, we're looking at you) have bec
 - Wealth inequality is a real problem, but I'd rather see a more simple and targeted solution like a small UBI. It would help workers across all industries without needing to add paperwork, membership, and union dues to our already complicated lives.
 - Fewer zoning laws, and better access to public transportation. Americans spend quite a bit on cars, with the [average car owner spending roughly $775/month](https://www.hotcars.com/average-american-spends-roughly-800-a-month-on-their-car/) on car-related expenses. If more of us could walk, bike, or catch trains to get around it would help with the environment and our wallets.
 
-{{< cta1 >}}
-
 ## #2 Difficulty proving your worth without having a silver tongue
 
 I'll be the first to admit that this is a huge problem in the coding industry, and really in any knowledge-based industry where aptitude and impact are hard to measure. There are terrible engineers who make 4x more than seriously talented engineers, simply because they're better at writing resumes, interviewing, building social profiles, or smooth-talking at the negotiating table.
@@ -69,8 +67,6 @@ Unions are basically the strong-arm approach to companies exploiting workers. As
 I'm not sure which practices could prove to be most effective, but my point is that if the problem truly is bigoted or biased _individuals_ at companies, how will unions make it better? Those unions will be just as prone to having bigoted and biased administrators and members. No, I think the answer here more likely lies in each of us standing up for diversity and making sure that the companies we work for do the same.
 
 I can see unionization being the correct choice if bigoted executives are explicitly refusing to take action, and are blocking managers from doing the same. If this is the case where you work, it may be time to start organizing. Extra care will need to be taken to ensure the union organizers have the worker's diversity goals in mind.
-
-{{< cta2 >}}
 
 ## #4 Market-value discrepancy between junior and senior developers
 
@@ -123,8 +119,6 @@ I think unions seriously helped a lot of workers in the 20th century, and there 
 - Could make it harder for workers to break off and start their own competing companies, leading to the biggest companies monopolizing the workforce
 
 In the end, I tend to think that the majority of us in the development world are better off without unions currently. This might change, and there may be a place for specific sub-industries or geographic areas to band together.
-
-{{< cta3 >}}
 
 ## Special Mention - Pension Benefits
 

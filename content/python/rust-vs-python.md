@@ -54,8 +54,6 @@ This is an intriguing aspect for experienced programmers that are familiar with 
 
 **Overall:** Rust lacks that easy intuitive design that makes Python such a clear shout for beginners.
 
-{{< cta1 >}}
-
 ## Rust vs Python Salary: Which is higher paid?
 
 Like most developer roles, both Rust and Python programming jobs pay well.
@@ -79,8 +77,6 @@ Rust's memory management system is also seriously efficient as the code is check
 It's not all bad for Python though. Some extensions help increase performance, like PyPy and Cython, but they're better for specific applications.
 
 In the end, Rust's origin is founded on speed and stability, and it shows.
-
-{{< cta2 >}}
 
 ## Rust vs Python for Machine Learning
 
@@ -141,8 +137,6 @@ Python has excellent memory management, but it relies on a garbage collector, wh
 Python also doesn't offer the same kind of low-level control. What makes Pythons so easy to read is the amount of "batteries included", hiding all of those low-level details.
 
 In the end, Rust brings a lot of modern features to the field that weren't previously there, namely in memory and low-level management. Don't take it from me though, take it from Amazon who uses it on multiple AWS services like Amazon Firecracker, Amazon EC2, and Amazon CloudFront.
-
-{{< cta3 >}}
 
 ## Rust vs Python: The Final Verdict
 

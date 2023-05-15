@@ -77,8 +77,6 @@ Frontend programming has a lot of aspects to it, but thankfully there are a lot 
 
 There are plenty of coding bootcamps and online tutorials for you to learn how to develop frontends. One of my favorites for beginners is [React's tutorial](https://reactjs.org/tutorial/tutorial.html) since it's extremely well-documented and so popular that it's practically guaranteed to always be kept up to date. If you do it, you'll feel like a pro in no time.
 
-{{< cta1 >}}
-
 ## What is Backend?
 
 We've covered the frontend. Now let's take a look behind the curtains.

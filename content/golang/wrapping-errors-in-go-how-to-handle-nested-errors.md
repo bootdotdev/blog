@@ -154,10 +154,6 @@ if errors.Is(err, io.EOF) {
 
 As far as I know, when working with errors it's *always better* to use `%w` over `%v`.
 
-{{< cta1 >}}
-
-{{< cta2 >}}
-
 ## Manually unwrapping errors
 
 To be honest, I've never felt the need to manually unwrap an error. That said, I'm sure there are cases where you would want to do so. The standard library provides [errors.Unwrap](https://pkg.go.dev/errors#Unwrap) to do just that.

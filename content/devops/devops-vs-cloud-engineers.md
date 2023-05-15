@@ -29,8 +29,6 @@ The real difference between the non-cloud DevOps and normal DevOps is specific t
 
 For example, a product like Microsoft Word is *not* a cloud product. Desktop apps don't (primarily) run in the cloud. Logs emitted (directly) in the cloud. There's no need for DevOps engineers who deal with deploying client-side code to be as deeply knowledgeable about cloud-based back-end technology. A product like Google Drive, meanwhile, is 100% cloud-based. They need DevOps and cloud engineers to push out new versions, store all of your files, push/pull updates to your files from various devices, etc.
 
-{{< cta1 >}}
-
 ## Six key differences between DevOps Engineers vs cloud Engineers
 
 Now that you've got a rough sense of the difference between DevOps engineers and cloud engineers, let's break down some more distinct differences in these roles.

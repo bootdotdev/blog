@@ -26,8 +26,6 @@ It's tempting to jump right in and just get the certificate in computer science 
 
 This informal questionnaire gives you the knowledge you need to pick the most efficient certificate that makes sense for you. There are so many out there that could potentially fulfill your needs, so the more you know about your own situation, the better positioned you'll be to select the right certificate for your needs.
 
-{{< cta1 >}}
-
 ## Step 2: Understand the different types of certificates in computer science.
 
 The great thing about computer science is that there's no one preferred certificate. This frees you up to select between many options, but it also makes it complicated to choose just one. 
@@ -37,8 +35,6 @@ Depending on what you're after, you will find that certain certificates in compu
 ## The vendor-specific certificate
 
 Many companies offer their own certifications, like AWS, Azure, and Google Cloud Platform certificates. These are essentially companies offering a certificate in computer science but specific to their own products, as a way to promote them. They can be useful, especially if you are dead set on working for one of those vendors, but if you want something more all-encompassing, it's probably not the best fit.
-
-{{< cta2 >}}
 
 ## The university certificate
 
@@ -63,8 +59,6 @@ To get that from a certificate in computer science, you can conduct a cost-benef
 They should also actually either teach you the skills you need or prove you already know them. It's no good to wield your computer science certificate on your [resume](/computer-science/computer-science-resumes/) to land a job interview, then fail to answer their questions due to a fundamental lack of comprehension.
 
 Especially where some certificates can be very expensive and time-consuming to achieve, you want to make sure they will do the one thing you need them to do: certify you have the computer science understanding and skills needed.
-
-{{< cta3 >}}
 
 ## Step 4:  Find one that will help you do the work
 

@@ -70,8 +70,6 @@ This is great when you can't for the life of you figure out which direction to g
 
 Ascending in difficulty, completing these Python coding challenges can help you get to grips with this awesome language. 
 
-{{< cta1 >}}
-
 ## For-purpose Coding Challenges
 
 While coding challenges are a great way to learn and brush up on your skills in a particular coding language, programmers might have other reasons to practice coding challenges. 
@@ -105,8 +103,6 @@ IBM's [coding challenge](https://www.stratascratch.com/blog/amazon-data-scientis
 Other companies like Amazon don't hold open coding challenges like Google does, but it's an integral part of their interview process, enough so that platforms like StrataScratch have compiled a [list](https://www.stratascratch.com/blog/amazon-data-scientist-interview-questions?via=qvault) of example questions that serve as an Amazon coding challenge.
 
 J.P. Morgan's coding challenge is [called](https://careers.jpmorgan.com/us/en/students/programs/code-for-good?search=&tags=location__Americas__UnitedStatesofAmerica) the Code for Good hackathon event, but it's a holistic event. You go in-person to "work alongside our technology experts in teams to solve real-world problems for nonprofits," according to their website. It's definitely a coding challenge, but not one for the casual coder. 
-
-{{< cta2 >}}
 
 ## More places to look for coding challenges
 

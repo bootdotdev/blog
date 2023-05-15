@@ -6,4 +6,24 @@
   .textlink {
     @apply hover:text-blue-300 text-blue-400 underline cursor-pointer;
   }
+  .glassmorph {
+    @apply rounded border border-gray-500 bg-glassmorph;
+  }
+  .bg-glassmorph {
+    @apply bg-gradient-to-br from-gray-750/60  to-black/60 bg-clip-padding backdrop-filter backdrop-blur-sm;
+  }
+  .block-button-primary {
+    @apply active-scale-103 relative block origin-bottom overflow-hidden rounded px-4 py-2 text-white shadow-md focus:outline-none disabled:scale-100 disabled:cursor-not-allowed bg-gradient-to-br from-blue-500 to-blue-550 hover:from-blue-550 hover:to-blue-600 disabled:from-blue-350 disabled:to-blue-450;
+  }
+  .block-button-secondary {
+    @apply active-scale-103 relative block origin-bottom overflow-hidden rounded px-4 py-2 text-white shadow-md focus:outline-none disabled:scale-100 disabled:cursor-not-allowed bg-gradient-to-br from-gray-650 to-gray-700 hover:from-gray-700 hover:to-gray-750 disabled:from-gray-500 disabled:to-gray-600;
+  }
+}
+
+.active-scale-103 {
+  transition: transform 0.15s;
+}
+
+.active-scale-103:hover {
+  transform: scale(1.03);
 }

@@ -26,8 +26,6 @@ Java rose quickly to fame and adoption mostly due to its cross-platform nature a
 
 OOP was so popular in the early 2000s that it became (in my opinion) overly widespread. These days it has more appropriately found its correct place in programming, but when JavaScript was first coming into existence OOP was the name of the game.
 
-{{< cta1 >}}
-
 ## JavaScript - Brief History
 
 In 1995, 4 years after Java got its start, Brendan Eich created JavaScript while he worked for Netscape. At the time, Netscape had complete market control of the web browsing industry, while Microsoft was just starting with the Internet Explorer project.
@@ -79,8 +77,6 @@ As you can see in the following benchmarks, Java fairly consistently performs be
 [source](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/javascript.html)
 
 What really slows JavaScript down is that it is interpreting code at runtime. At \*roughly\* each line of execution, the interpreter has to convert the JavaScript into machine code, a very slow process to be doing at runtime.
-
-{{< cta2 >}}
 
 ## Classes and OOP
 

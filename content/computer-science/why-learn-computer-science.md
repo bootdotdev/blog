@@ -28,8 +28,6 @@ There are a lot of job opportunities for anyone who is learning computer science
 
 Plus, these jobs will stay relevant for the long haul. We're barely scratching the potential of AI and machine learning. A computer science skill set means employment for life. The flexibility of potential career tracks, combined with the income and future opportunities, make computer science a solid choice to learn.
 
-{{< cta1 >}}
-
 ## 2. You don't need a college degree
 
 Why learn computer science, especially if you've already got a degree in something unrelated? Plenty of folks worry that it's too late for them to learn computer science. They think that if they don't have a college degree, they may as well not bother. But nothing could be further from the truth.
@@ -47,8 +45,6 @@ When you think of computer science, you probably think of the analytical "right-
 A computer scientist will experiment, think about the problem, and finally enter some code that might get the job done. Then they'll iterate, debug, and keep problem-solving until they create a solution. Then, they'll keep tweaking that solution until it's optimized.
 
 Painters and writers get a lot of creative credit. Computer scientists deserve as much, if not more. When you ask a computer scientist, "Why did you choose to study computer science?" many will mention the joy of creativity before anything else.
-
-{{< cta2 >}}
 
 ## 4. The basics unlock potential
 
@@ -73,8 +69,6 @@ Today's computer scientists are highly sought after, respected, well-paid, and h
 As new frameworks, languages, and technologies are developed, having a solid grounding in computer science will give you opportunities in a quickly-growing field. Look at blockchain and web3 - that's just one potential direction computer science will take you. I couldn't possibly predict what ground-changing new development will come next, but I know computer scientists will be at the forefront of it.
 
 Why learn computer science? Because it's one of the few disciplines that will give you a foothold in whatever the future brings.
-
-{{< cta3 >}}
 
 ## Why learn computer science? Hopefully, because you want to.
 

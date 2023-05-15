@@ -22,8 +22,6 @@ Let's start with the most important point: **you don't need to start a blog to g
 
 A blog can certainly help you stand out in a crowded job market, as it has for me, it's absolutely not a requirement. Your skills, experience, and ability to solve problems are ultimately what will get you hired. If you're not interested in blogging or don't enjoy writing, then there's no need to force yourself to do it.
 
-{{< cta1 >}}
-
 ## Blogging will only help land jobs if you write bangers
 
 Assuming you *do* decide to start a blog, it's important to note that not all blog posts are created equal. For a blog to ackchyually help your job search, you need to write amazing content that showcases your expertise and adds *new value* to your readers.
@@ -51,8 +49,6 @@ At the end of the day, what matters is your ability to solve problems, create va
 * Networking with other developers at meetups in [online communities](https://boot.dev/community)
 
 Don't let the hype around personal branding make you feel like you're not doing enough if you don't have a large following on social media. Focus on building skills in order to write amazing code that solves real-world problems. The rest will follow.
-
-{{< cta2 >}}
 
 ## Learning to write is a valuable communication skill
 

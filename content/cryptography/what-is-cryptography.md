@@ -16,8 +16,6 @@ Encryption transforms a key and input, the _plaintext_, into an encrypted output
 
 A real-world example would be credit card information that you use for purchases on Amazon or other e-commerce sites. The code in your web browser encrypts the plaintext, your card number, into ciphertext, which to someone without the keys would look like illegible, random text. However, once your card number reaches its intended recipient, the online store, their software would decrypt it back into plaintext so they can charge you for your purchase.
 
-{{< cta1 >}}
-
 ## Principles of cryptography
 
 The core principles of modern-day cryptography include:
@@ -75,8 +73,6 @@ Let's take a look at a few rules of thumb for securely storing keys.
 Lastly, ensure you only use key strengths and operating modes that comply with the latest industry best practices. For example, AES-256 should typically be used over AES-128, if for no other reason than its larger key size provides more entropy when going up against a quantum algorithm.
 
 For more information, read our post on [whether open-source cryptography really is secure](/cryptography/is-open-source-cryptography-really-secure/)
-
-{{< cta2 >}}
 
 ## What practical problems does cryptography solve?
 
@@ -165,8 +161,6 @@ Cryptanalysis is the inverse of cryptography. It's the study of how to break sec
 Imagine that the FBI gets ahold of your personal mobile phone, and they want to snoop around to see what you've been up to. The methods they would employ to "crack" the code and decrypt the contents of your phone would be cryptanalysis techniques.
 
 For more information, we have a full post on [cryptology vs cryptography](/cryptography/cryptology-vs-cryptography/)
-
-{{< cta3 >}}
 
 ## What is quantum computing, and will quantum computing break cryptography?
 

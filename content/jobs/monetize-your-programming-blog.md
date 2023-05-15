@@ -20,8 +20,6 @@ This guide won't mention Google Ads for the simple reason that many programmers 
 
 All you need is some programming knowledge, a desire to write, and a blog to put your thoughts on. 
 
-{{< cta1 >}}
-
 ## 1. Monetize Your Programming Blog With Affiliate links
 
 Affiliate links are when a company or individual gives you a specific link to their product, service, or slates funnel. If someone clicks on that link and makes a purchase, you get a percentage of that revenue. The most common iteration you'll see for this type of monetization is the Amazon affiliate program. 
@@ -49,8 +47,6 @@ It's also typical to believe that if programmers want to monetize their blogs, t
 With sponsored posts, the key is to ensure the focus is not on the brand, but rather on the value to the user. For example, if you have a sponsor who sells mechanical keyboards, you can write a post on doing pros and cons of mechanical keyboards versus membrane keyboards and your honest opinion. Even if you say something slightly negative about the brand, brands will prefer that to an overly promotional one. Programmers can smell inauthenticity from a mile away.
 
 In sum, sponsored posts are a way for brands to pay you to write about them obliquely. You don't have to wait until you have a huge audience - start when you have a modest, but engaged audience. As long as you stay honest and authentic, your readers won't mind it.
-
-{{< cta2 >}}
 
 ## 3. Monetize Your Programming Blog By Selling Your Own Code
 
@@ -95,8 +91,6 @@ A common mistake I see is coaches pricing themselves too low. Even as a beginner
 As an example, take a look at [Dan Bader's blog](https://dbader.org/), which is geared for novice Pythonistas. Along with tons of useful free advice that will help solve almost everyone's problems, he has a whole section to sell his courses and one-on-one mentorship. 
 
 In sum, coaching readers is a great way to add additional value to the readers who really want to go that extra step. As long as you treat your coaching like the gold dust it is and offer as much value as you can up front, you'll ensure your coaching business flourishes on your programming blog. 
-
-{{< cta3 >}}
 
 ## 6. Monetize Your Programming Blog by Advertising Your Freelance Services
 

@@ -64,8 +64,6 @@ You're **managing risk**. This is also a different role. You'll be in charge of 
 
 Finally, you're back to **collaboration and communication**. Security is only as strong as its weakest point, so you'll need to work closely with Development teams, Operations teams, and security teams to make sure everyone is up to date on best Sec practices, and that security is fully integrated through the software development life cycle.
 
-{{< cta1 >}}
-
 ## 2. Necessary background, education, and skills
 
 That was a long old section. This one will be a little shorter. And to make it handy, I'll summarize it all here in some charts:
@@ -190,8 +188,6 @@ It seems like *most* companies who are hiring or have hired DevOps engineers or 
 It's more like if you're a DevSecOps, you do all the same stuff as a DevOps engineer plus a Sec component.
 
 In fact, I noticed very few places hiring both DevOps and DevSecOps roles at the same time. Many newer companies seemed to be forgoing DevOps engineers and going straight into hiring DevSecOps engineers instead to get a two-for-one bargain.
-
-{{< cta2 >}}
 
 ## 4. Job prospects
 

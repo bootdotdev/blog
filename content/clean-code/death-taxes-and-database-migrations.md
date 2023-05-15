@@ -14,8 +14,6 @@ Earlier in my career, I would come to a new project and inevitably a hectic migr
 
 Let's be clear about something. Migrations are here to stay, and while we can't be rid of them completely, we can learn how to use them less painfully. I've put together a small list of guidelines that have helped me cope with migrations, and maybe they'll help you too.
 
-{{< cta1 >}}
-
 ## #1 Get the names right the first time
 
 Naming variables is hard, but naming database keys and API behaviors is much harder. When you name something that other code and systems rely on, you either won't be able to change it in the future, or that migration is going to be excruciating. I have a few rules of thumb [on variable naming](/clean-code/naming-variables/), so I won't rehash all the details here. That said, here's a tl;dr.
@@ -39,8 +37,6 @@ Migrating from a simple tool, like [moment.js](https://momentjs.com/) or [date-f
 I'm not saying to _never_ use frameworks, that would be hypocritical of me since I use Vue.js all the time. I'm saying you need to be okay being tied to your framework for the rest of your project's life. There is a significant "lock-in" cost when using a holistic framework, and if you can get the job done easily without one, why use one? I write Go on the backend, and frankly, I've never even been tempted to use a framework. There are some out there, but the standard library is so rich that writing the API from scratch isn't a problem at all.
 
 Use small tools and libraries over frameworks wherever possible. It's the [Unix philosophy.](https://en.wikipedia.org/wiki/Unix_philosophy)
-
-{{< cta2 >}}
 
 ## #3 Database features are a slippery slope
 

@@ -14,8 +14,6 @@ Want to learn Go fast? The good news is that Go is one of the simplest programmi
 
 The Go programming language, or Golang for short, is an open-source programming language that helps developers create simple, reliable and efficient software. Go was developed at Google in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. It was designed to be fast, easy and safe to use. Go is quickly becoming one of the most popular programming languages and is one of the [best-paid languages](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states) for developers.
 
-{{< cta1 >}}
-
 ## Best Courses
 
 ### [1. Learn Go - Boot.dev](https://boot.dev/)
@@ -60,8 +58,6 @@ If you are into real-time discussion then the Gophers slack channel is the place
 ### [4. #golang on Twitter](https://twitter.com/search?q=%23golang)
 
 ### [5. Good Gophers list on Twitter](https://twitter.com/i/lists/1320149354120769536)
-
-{{< cta2 >}}
 
 ## Best Blogs
 

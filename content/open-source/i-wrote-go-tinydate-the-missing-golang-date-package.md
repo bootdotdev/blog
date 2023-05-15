@@ -62,8 +62,6 @@ type TinyDate struct {
 
 Only **4 bytes!** We give up the ability to track anything more specific than the date, but often that is all we need.
 
-{{< cta1 >}}
-
 ## Quick Start
 
 Create a date and add to it:
@@ -104,8 +102,6 @@ As the TinyDate [Readme](https://github.com/wagslane/go-tinydate/blob/master/REA
 - You are working in embedded systems and every byte counts
 - You are working on a system that stores thousands of dates, and reducing memory costs by >75% is significant
 - You are sure you will never need more than date precision
-
-{{< cta2 >}}
 
 ## Why No Timezones?
 

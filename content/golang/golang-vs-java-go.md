@@ -28,8 +28,6 @@ Development started in 2007, led by three Google engineers Robert Griesemer, Rob
 
 Fun fact: Despite the Go dev team's disdain of C++, Go ended up being very syntactically similar to it. The original compiler was also coded in C.
 
-{{< cta1 >}}
-
 ## Golang vs Java: The Basics
 
 Here are the standard qualities of Java and Go:
@@ -65,8 +63,6 @@ With more and more people switching to tech without traditional degrees, easy-to
 On top of being easy to learn, Go continues to outpace Java in the [2020 Stack Overflow survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved), beating it in the 'most loved' and 'most wanted' categories for languages among developers. So, beginners learning Go are well positioned to succeed.
 
 **Conclusion:** Go is better for beginners and considered easier to learn than Java.
-
-{{< cta2 >}}
 
 ## Advantages of Go vs Java for Experienced Programmers
 
@@ -111,8 +107,6 @@ Golang, however, was created with the intent of managing large-scale network ser
 You also don't have to worry about using 3rd party web servers or libraries as there are enough tools you can build web servers using Golang itself, thanks to the Golang creators and community.
 
 **Conclusion:** Golang is undoubtedly the best choice for web development, with the exception of smaller-scale projects, in which case Java may prove more useful.
-
-{{< cta3 >}}
 
 ## Java vs Go: Which Is Better for Data Science?
 

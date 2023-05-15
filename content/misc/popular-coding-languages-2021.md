@@ -33,8 +33,6 @@ With so many constantly-shifting languages it's hard to know where to start, esp
 
 Table describing the most popular coding languages of 2021 for different purposes.
 
-{{< cta1 >}}
-
 ## 1. The most popular coding language for absolute beginners: Python
 
 No matter what list you check, Python is almost always listed as the most popular coding language for beginners - on [boot.dev's post on best programming languages for beginners](/misc/top-coding-languages-for-beginners/), [GitHub's ranking](https://pypl.github.io/PYPL.html), [Stack Overflow's developer survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted), and is even the [top-most language universities are teaching to computer science majors](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext). 
@@ -78,8 +76,6 @@ R is the most popular coding language for people who don't code in their jobs fo
 ### The best way to learn R for non-programmers
 
 Especially for folks who don't have or want a job in programming, I find it's [best to find a project you really care about and set out a specific goal](https://towardsdatascience.com/the-fastest-way-to-learn-to-code-be-invested-in-your-numbers-ccb24d55d856). You don't have the necessity from your job - you can get away with not knowing how to code, for now anyway. You don't have any prior experience coding, so the learning curve will be steep. You need something that you're deeply passionate about. Only that will get you over the frustrating hurdles, knowledge gaps, and user errors that come with every coder's beginner journey.
-
-{{< cta2 >}}
 
 ## 3. The most popular coding language to increase your salary: Perl 
 
@@ -132,8 +128,6 @@ For many beginner coders, it can feel limiting to work with a language like Pyth
 ### The best way to learn Ruby for lateral thinkers
 
 Because of Ruby's dynamic nature, there isn't a single method to learn things. While it's important that you go into it understanding core coding concepts like variables, data structures and conditional statements, the simplicity of Ruby and Ruby on Rails means that once you've grasped the basics, the next step should be trying to build a simple web app of your own.
-
-{{< cta3 >}}
 
 ## 6. The most popular coding language for mobile apps and web development: JavaScript 
 

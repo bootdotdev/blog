@@ -19,8 +19,6 @@ boot.dev started as a simple tech blog, it was essentially just my personal blog
 
 I use a custom deployment of [WordPress](https://wordpress.org/download/) hosted on [GCP's compute engine](https://cloud.google.com/compute) to serve all my blog posts and landing pages. This has been convenient because I don't need to edit code to update simple visuals. That said, it's also been a giant page in the butt as the site has grown, because sometimes it would be easier to just write some code. I'm looking at moving the blog to [Hugo](https://gohugo.io/) and hosting it on [Netlify](https://www.netlify.com/).
 
-{{< cta1 >}}
-
 ## The app's front-end - Vue.js SPA on Netlify
 
 All the coding courses and projects on boot.dev exist within a Vue.js web app. I'm currently running the front-end as a [single page app](https://en.wikipedia.org/wiki/Single-page_application) hosted on Netlify. I ended up choosing Netlify over Github Pages because Netlify has some server-side-rendering built-in that gives me an SEO boost.
@@ -52,8 +50,6 @@ Here are some more of the technologies I use on the backend:
 - [Sendgrid](https://sendgrid.com/)
 - [Gorm](https://gorm.io/index.html)
 - [Gorilla/Mux](https://github.com/gorilla/mux)
-
-{{< cta2 >}}
 
 ## The database - Postgres on Cloud SQL
 

@@ -41,8 +41,6 @@ Coding bootcamps really started to spring up in the 2010s to fill a [void in the
 
 The idea behind coding bootcamps is to quickly funnel students through a condensed, rigorous curriculum that gives them the only minimum knowledge they need for an entry-level job. The only problem is that over the last decade, many employers started to question the quality of the education provided by these bootcamps.
 
-{{< cta1 >}}
-
 ## Coding bootcamps and college degrees both have downsides.
 
 There are so many good reasons to become a software developer - [the pay](/jobs/how-much-do-software-engineers-make/), the flexibility, the job security, not to mention the personal satisfaction. That's why it can feel so disappointing when you're stuck after a bootcamp: You feel ready and excited, and you don't yet understand what's holding you back.
@@ -72,8 +70,6 @@ We wanted to create courses that people could dip in and out of, but that could 
 We've created a set of courses that form an equivalent CS degree, but that you can take on your own time, and even just take courses based on your own interests, such as our [Python Track](https://boot.dev/learn/learn-python). Actually completing real-life-mimicking lesson challenges forces you to learn and retain the concepts, and puts you far ahead of video lecture learners in your computer science journey.
 
 If you've completed a coding bootcamp but are still struggling to land a job, we've designed courses especially for you. Common areas that stump people in technical interviews include data structures and algorithms, which we've dedicated three courses to covering.
-
-{{< cta2 >}}
 
 ## Other options for self-study
 

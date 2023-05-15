@@ -30,8 +30,6 @@ The package [typing](https://docs.python.org/3/library/typing.html) allows assig
 
 There also exist tools for static type checking, like [mypy](http://mypy-lang.org/). This can make it easier to find bugs with less debugging. Static typing also makes your code a lot easier to understand. Mypy is able to infer the types of other variables, so static and dynamic typing can be mixed when using it, so you only need to statically type where it makes sense.
 
-{{< cta1 >}}
-
 ## Python Best Practices #2: Docstrings
 
 Writing meaningful comments and documentation is always important. It helps others understand the gist of a class, method, or package by reading through it without having to thoroughly inspect the code just to get an idea of what's going on. For example, if you're debating between using two methods from a package that do similar but distinct things, it's great to have documentation to quickly understand what the difference is without having to read through the source code. 
@@ -51,8 +49,6 @@ The problem with using print statements is that they need to be removed from pro
 To solve this problem, use logging. Logging is an elegant solution to understanding the runtime execution of your application. 
 
 Logging allows you to control whether the statements are outputted and even where they end up. You could output them to a file or silence them entirely. You can also annotate each log with a category. They typically are something like `verbose`, `information`, `debug`, `warning`, `error`, and `critical`.
-
-{{< cta2 >}}
 
 ## Python Best Practices #4: Testing
 
@@ -77,8 +73,6 @@ Package managers are important when it comes to [managing](https://blog.idrsolut
 [Pip](https://pypi.org/project/pip/) is Python's official package manager. Pip allows you to install and manage libraries that are outside of Python's standard library, like [numpy](https://numpy.org/) or [TensorFlow](https://www.tensorflow.org/). It's also great for managing the requirements for your scripts and applications, as well as uninstalling libraries when they are no longer in use.
 
 Another important aspect of managing your application's execution environment is virtual environments. A virtual machine is a computer that is running in a virtual environment. A great way of managing your virtual environment is by using [anaconda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). Anaconda allows you to switch between different environments. For example, you could have one virtual environment that has Python 2 installed and another with Python 3 on the same physical device! You can also have different versions of packages or different packages altogether in different environments. This allows you to manage complex and thorough development and testing environments.
-
-{{< cta3 >}}
 
 ## Python Best Practices #7: Naming conventions
 

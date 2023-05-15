@@ -16,8 +16,6 @@ Computer Information Systems are essentially in charge of coordinating the pract
 
 Demand for someone with working knowledge of information systems increases as the size (and, extrapolating from there, profit) increases. This places graduates in this field in a unique position to leverage their knowledge to their advantage.
 
-{{< cta1 >}}
-
 ## What is Computer Science?
 
 Computer Science, the study of computation, has a [rich history](/computer-science/the-history-of-computer-science/) of mathematics and theoretical work. Nowadays, however, most of the actual careers that deal with CS involve the creation of tangible hardware and software, with a stronger focus on software. Computer scientists learn how to create and implement programs, and are in demand in industries where the creation, optimization, and implementation of programs is a necessity.

@@ -14,8 +14,6 @@ Learning how to get into computer science can be a daunting task. There are so m
 
 Computer science, to put it simply, is the study of the principles and use of computers. The field uses the principles of mathematics, science, and engineering to study and develop computers, hardware, software, networks, databases–even artificial intelligence. It is a highly complex and critical field, as computers and technology have been integrated into virtually (that's a little computer pun for you there) every industry, organization, and economic center in some way.
 
-{{< cta1 >}}
-
 ## Computer science vs. computer engineering
 
 Computer science deals more with the study of *software*, while computer engineering deals more with *hardware* and often even bleeds into electrical engineering. Oftentimes, someone will get their undergrad in electrical engineering and either double or minor in computer science. While there can be a lot of overlap between both fields, being specific on which courses you want to take will help quite a bit.
@@ -33,8 +31,6 @@ Computer science includes:
 * Computational problem-solving and implementation
 
 Sound like a lot? Well, maybe, but learning the basics of computer science is actually simpler than you may think.
-
-{{< cta2 >}}
 
 ## How to get started with computer science
 
@@ -158,8 +154,6 @@ You may think, "well, that list of schools is lovely, but I'm completely broke"!
 Let's say formal education isn't your style. Going the self-taught route isn't always easy, but it allows you to work at your own pace and strengthen your problem-solving skills. We will go on a quick run-down of coding languages you can focus on (and reasons why you should) before moving into resources that can aid you on your computer science journey.
 
 ![hacker face](/img/800/pexels-photo-5952651.webp.webp)
-
-{{< cta3 >}}
 
 ## Let's talk programming languages
 

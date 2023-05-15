@@ -61,8 +61,6 @@ I was feeling like I needed to learn something new last weekend, so I decided to
 
 It's an open-source project, so feel free to play the game or contribute and add cards to it!
 
-{{< cta1 >}}
-
 ## What we're working on
 
 * Upgrading the "game" system. We want to re-introduce gems as a way to save your sharpshooter progress and buy boosts.
@@ -82,8 +80,6 @@ By Theo of Ping.gg
 ### [(Podcast) Running Containers at the Edge](https://podcasts.apple.com/us/podcast/running-containers-at-the-edge/id1462366641?i=1000574875303)
 
 By DevOps Paradox
-
-{{< cta2 >}}
 
 ## Top plugs
 

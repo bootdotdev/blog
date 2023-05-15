@@ -34,8 +34,6 @@ I aggregated all the answers about developer employment from the last 9 years of
 
 That said, let's get into the data. I'll drop the script I wrote to create the aggregate data as well as a link to the raw data at the bottom of this article.
 
-{{< cta1 >}}
-
 ## Web Trends: Full-Stack, Front-end and Back-end
 
 <div class="tablewrap">
@@ -127,8 +125,6 @@ It appears that from 2013-2015, developers were restricted to only submitting a 
 
 That said, even after looking at this data I think there is still a good case to be made that [back-end developers will be doing more and more "devops" work](/devops/backend-devops-roles-merging/), especially at smaller companies.
 
-{{< cta2 >}}
-
 ## Data trends: Data science, data engineering, and back-end
 
 <div class="tablewrap">
@@ -176,8 +172,6 @@ I've talked about my personal interpretations regarding the data that I found mo
 ## Raw CSV Data
 
 Here's a link to the [raw CSV data](https://insights.stackoverflow.com/survey) on Stack Overflow.
-
-{{< cta3 >}}
 
 ## My Script
 

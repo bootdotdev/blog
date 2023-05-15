@@ -22,8 +22,6 @@ Programming and its sister endeavors [computer science](/computer-science/compre
 
 There are certainly little shortcuts you can take here or there to get you into an entry-level job faster, but you can't completely skip the fundamentals. It will come back to bite you.
 
-{{< cta1 >}}
-
 ## 2. Don't watch Youtube videos (at least not for everything)
 
 YouTube is great for learning all sorts of things. It's free, and there are thousands of content creators who share their coding courses and hot programming tricks free of charge. Unfortunately, what you save in money and cognitive strain, you often lose in time.
@@ -47,8 +45,6 @@ Don't pay for courses that don't give you hands-on experience. You're better off
 Courses that do allow you to write and submit code for feedback are probably the right ones to be taking. In addition to programming courses, do some google searches for small projects that you can do on the side, particularly projects related to the courses you just completed.
 
 _Tip: Build a project as you make your way through any learning material. A personal project you can publish to Github is a great way to get started._
-
-{{< cta2 >}}
 
 ## 4. Googling is a skill. Learn to Google better
 
@@ -81,8 +77,6 @@ I've found that if there is a concept or topic I really want to commit to memory
 It's hard to be excited about something if you don't keep up on the exciting news, memes, and innovations that are happening in the space. I've compiled a list of some of my [favorite coding communities](/misc/best-coding-communities/). Join the ones that interest you and hit me up [personally](https://twitter.com/wagslane) if you want to connect as well.
 
 _Tip: You'll learn things from personal conversations that you could never pick up in a book. Communities can give you various expert perspectives on complex topics._
-
-{{< cta3 >}}
 
 ## 7. Contribute to open-source
 

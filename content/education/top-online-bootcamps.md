@@ -16,8 +16,6 @@ In the past, you'd need a degree to get a job in computer science. But today, so
 
 A quick distinction: many coding bootcamps are in person. But thanks to the pandemic (and regular convenience) some of the best coding bootcamps are now online. These are often more affordable and flexible. Some coding bootcamps are even part-time.
 
-{{< cta1 >}}
-
 ## What is the structure of an online coding bootcamp?
 
 A good online coding bootcamp will be a mix of instructor-led lessons, independent study, practice assignments, and group projects, much like you'd get at a university degree. The main difference is the speed at which you do these. Many online coding bootcamps require a steep time commitment of full-time work for 13-22 weeks in some cases. (Part-time or self-directed bootcamps range from 20-60 weeks.)
@@ -33,8 +31,6 @@ They're expensive and time-consuming. With so many low-cost, flexible learning o
 If you're someone who struggles with self-guided learning, or if you need a sense of accountability and partnership, an online coding bootcamp will be a good option for you.
 
 Want to know what the top 8 online coding bootcamps are? In the following sections, I'll include the cost, the duration, the specialty, and why each online coding bootcamp makes the cut.
-
-{{< cta2 >}}
 
 ## 1. AppAcademy.io Online Coding Academy: Job-focused
 
@@ -81,8 +77,6 @@ It's an inclusive program that gives its students the same rigorous coding curri
 **Duration**: The Foundations portion typically requires about 20 hours of dedicated work per week (4 weeks total). After that, you can expect full-time hours plus 15+ hours of independent study.
 
 **Structure**: You'll begin with the Foundations course, which will give you a grounding in HTML, CSS, and JavaScript. It includes learning materials, weekly assignments, and weekly one-on-one virtual office hours with a Grace Hopper Program instructor. Then there's the Junior course, which gives you lectures paired with workshops. It's very module-based. Finally, you'll end with the Senior program, which is career-focused, offering LinkedIn training, career coaches, and interview training.
-
-{{< cta3 >}}
 
 ## 4. Flatiron Software Engineer Online Coding Bootcamp: For Software Engineering
 

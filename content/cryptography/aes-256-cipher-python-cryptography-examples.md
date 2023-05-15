@@ -52,10 +52,6 @@ def encrypt(plain_text, password):
     }
 ```
 
-{{< cta1 >}}
-
-{{< cta2 >}}
-
 ## Notes on encrypt() function
 
 1. [Nonce](https://en.wikipedia.org/wiki/Cryptographic_nonce): A random nonce (arbitrary value) must be a random and unique value for each time our encryption function is used with the same key. Think of it as a random salt for a cipher. The library supplies us with a secure nonce.

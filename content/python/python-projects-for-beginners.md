@@ -63,8 +63,6 @@ That's why I love this tutorial which is based on a package called `howdoi`. Whe
 
 Once you acknowledge how much time you spend Googling things, you'll realize the value of using this as a Python project for beginners.
 
-{{< cta1 >}}
-
 ## 3 Python Projects using courses or lectures
 
 While some of the best Python beginner projects are based on straight Python or use a couple of Python packages, you can also use courses as a way to do a more interactive, guided project. These options are billed as courses that teach you Python, but optionally can be used to complete your first Python project.
@@ -126,8 +124,6 @@ All you need to do is install the random module and then head over to the direct
 This project is for another one of the social media addicts out there like me. It's a script that counts the number of followings, followers, and posts of any account. It takes the username from the terminal and shows you the output.
 
 I like this tutorial because you can do what you want with it. If you want to just run it, run it! But you can also look into the more complex script and try to figure out what's going on. Take what you want from this learning experience. 
-
-{{< cta2 >}}
 
 ## 5 Python Projects using your own data
 

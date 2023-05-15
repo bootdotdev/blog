@@ -41,8 +41,6 @@ This is a simple and subtle improvement, but one that's been requested by many o
 
 This doesn't directly impact the Boot.dev platform, but we've started migrating the front-end of the app from JavaScript to TypeScript. So far the migration has already helped catch some subtle bugs, and we're excited that by having all our code in TypeScript, we'll be able to fix future bugs and release new features more quickly!
 
-{{< cta1 >}}
-
 ## What we're working on now
 
 * Making the gem system more intuitive and easy to use. Right now you need to click on the gem icon or the sharpshooter icon to spend gems, but we want to make it more obvious how that works.
@@ -75,8 +73,6 @@ I saw this one on Hacker News (I think?) and really liked it. Of all the inclusi
 By Abhinav Gupta
 
 This article does a great job explaining how to build high-quality libraries in Go. I've always believed that adding a library to your portfolio will help a lot in your professional development. It helps you stand out and appeal to hiring managers as someone who can write high-quality code that others will actually download and use.
-
-{{< cta2 >}}
 
 ## Top Plugs for December
 

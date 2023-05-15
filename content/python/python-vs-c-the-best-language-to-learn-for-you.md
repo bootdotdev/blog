@@ -52,8 +52,6 @@ However, Python comes with the nickname "batteries included" for a reason. The a
 
 Overall, Python comes recommended as a beginner language because it's readable and supportive, while C++ comes recommended as an intermediate language and for those who already understand the basics of computer science.
 
-{{< cta1 >}}
-
 ## Python vs C++ Salary
 
 As far as salary goes, you can't go wrong with either language.
@@ -79,8 +77,6 @@ However, I don't believe performance is synonymous with speed, and where C++ is 
 Python's robust structure may weigh down speed, but it allows it to handle big data and huge programs with ease. Its performance advantage lies in its strength and security, whereas C++'s lies in flexibility and speed.
 
 You see this in their applications as well, where Python is typically used for handling CPU-intensive programs and C++ is used more for graphic-heavy software.
-
-{{< cta2 >}}
 
 ## Python vs C++: Which Is Best for Building Web Servers
 
@@ -141,8 +137,6 @@ Like I mentioned above, C++ can help boost Python machine learning projects, Pyt
 Partnered with tools like Pygame, its most popular set of game development modules (which are partly written in C), PyKyra framework, and Pyglet, Python's been used to craft games like Battlefield 2 and Pirates of the Caribbean.
 
 Python's real value in the field, however, comes from prototyping. Designing prototypes quickly means getting to the end-stage that much faster. It's too heavy of a language though to produce the speed needed for large games that C++ can provide.
-
-{{< cta3 >}}
 
 ## The Final Verdict: Which Language Should You Learn?
 

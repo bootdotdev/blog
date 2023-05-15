@@ -32,8 +32,6 @@ JavaScript is widely known for making the Internet pretty. There are a lot of gr
 
 You may remember the [New York Times' visual coverage](https://www.nytimes.com/interactive/2021/world/covid-cases.html) of the global Covid-19 outbreak, like this one. Americans alone use 4.2 million GB of internet data every single minute. Big data is here to stay, and to make sense of all of this data, we need data visualizations. There are so many different ways to visually represent data, from a simple pie chart to heatmaps of electricity sources. JavaScript is a must-use web development programming language for visualizing complex data sets.
 
-{{< cta1 >}}
-
 ## Web Server and Server Applications with JavaScript
 
 What is JavaScript used for, other than the frontend web? Well, the Node.js framework is used to create server-based applications. Node.js enables JavaScript code to be run on the server. The results are then downloaded and displayed in the browser. Node.js also has an HTTP module that can be used to build an HTTP server. Node.js was designed to build scalable server applications.
@@ -49,8 +47,6 @@ So far, we've answered the question "What is JavaScript used for" by discussing 
 So many of the popular JavaScript mobile app development frameworks are intended to be used for cross-platform development, or as the [Asper brothers](https://asperbrothers.com/blog/cross-platform-app-development/#:~:text=Cross%2Dplatform%20application%20development%20is,app%20versions%20for%20each%20platform.) put it, "building a single application that can run on various operating systems." There is a long list of JavaScript frameworks that make your life a lot easier by enabling cross-platform development, like NativeScript, Ionic, Vue Native, and others.
 
 By using JavaScript's service workers, you can optimize how your mobile app (or web app) behaves with a slow or no internet connection by maximizing the use of the cache and storing network requests. A great metric to follow is how long it takes to get meaningful content on the screen for the user. You want to create a great experience for your users, regardless of how good their internet connection is. You can use the service worker API with Node.js to reliably and instantly load your app's content onto the screen.
-
-{{< cta2 >}}
 
 ## Machine Learning with JavaScript
 

@@ -20,8 +20,6 @@ So where does that leave us? Coding bootcamps. There are both in-person programm
 
 Getting some professional assistance can be a big help when you're trying to break into a new industry and get your skills up from zero to 60 in a time-efficient way. But not all coding bootcamps are created equal. Let's break down the pros and cons of coding bootcamps.
 
-{{< cta1 >}}
-
 ## Pro of Online Coding Bootcamps: Organization
 
 Coding bootcamps specialize in figuring out what you need to know and teaching it to you. If you tackle your computer science education entirely on your own, you'll have to spend a good chunk of the time you've set aside for your learning to determine what you need to know and find resources to learn from.
@@ -42,8 +40,6 @@ Depending on your background and how much coding groundwork you've done on your 
 
 Online coding bootcamps allow you to deepen your coding curriculum in the places you want to. If this is a style of learning that you're interested in, I'd choose an asynchronous online coding bootcamp that doesn't have fixed meeting times.
 
-{{< cta2 >}}
-
 ## Pro of Online Coding Bootcamps: Support
 
 If you go for [the right bootcamp](https://blog.boot.dev/education/part-time-coding-bootcamp/), they can provide you with a meaningful support network, like a Slack or a Discord channel filled with your peers. Let's be real: tackling the expansion of your knowledge into a technical industry is difficult for a lot of reasons. It takes a lot of emotional effort to understand all the new concepts and keep your motivation high.
@@ -63,8 +59,6 @@ Depending on the online bootcamp you choose, money can be a big factor. There ar
 If, however, you decide on a synchronous, intensive online coding bootcamp, those typically run between $10K-$18K, require a commitment of at least 20 hours each week if you [do it part time](https://blog.boot.dev/education/part-time-coding-bootcamp/), most of which is synchronous, and last between 3 and 9 months. All of those factors depend on which bootcamp you ultimately choose. You can find tips on how to choose the best online coding bootcamp for you in [this detailed guide](https://blog.boot.dev/education/top-online-bootcamps/).
 
 If money is a big factor for you, or you'd like to see whether programming is something you really want to pursue, starting out with a cheaper bootcamp with a monthly subscription model can make your start into the realm of coding bootcamps much more manageable, both in terms of money and time commitment.
-
-{{< cta3 >}}
 
 ## Cons of Coding Bootcamps: Risk
 

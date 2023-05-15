@@ -23,8 +23,6 @@ A [pure function](/golang/pure-functions-in-golang/) is a function that has both
 
 Because pure functions ensure that the state of the outside program isn't altered, they are strictly better to write than impure functions where possible. In some cases, an impure function is necessary however, for example, if you need to make a network call, interact with a database, or print data to the console.
 
-{{< cta1 >}}
-
 ## 2. Pure functions are easier to test
 
 ![](/img/800/testing-in-bio-lab-300x204.jpeg)
@@ -39,8 +37,6 @@ Because testing is so important in programming, it's nice when we make it easier
 ## 3. Functional programming leads to fewer bugs
 
 Debugging and writing code with fewer bugs becomes quite a bit easier with pure functions. Because each function is simply a mapping of inputs to outputs, a simple stack trace or print statement at each level will reveal the problem. With imperative paradigms, you could have shared or mutable state almost anywhere else in the codebase that's potentially causing the bug.
-
-{{< cta2 >}}
 
 ## 4. Functional code tends to have its state isolated, making it easier to comprehend
 
@@ -94,8 +90,6 @@ func areaOfCircle() float64 {
 ```
 
 If two separate threads ([goroutines](/rust/concurrency-in-rust-can-it-stack-up-against-gos-goroutines/?_ga=2.84789082.296037147.1649171050-1013439933.1641951325)) are accessing the `areaOfCircle` function at the same time and altering the value of `radius`, one process could easily overwrite the other's value of radius and one thread ends up with the output that was intended for the other thread.
-
-{{< cta3 >}}
 
 ## 7. Recursion is simpler, though not necessarily easier to learn
 

@@ -72,8 +72,6 @@ To complete this backend web development bootcamp, you should expect to spend ar
 
 Sounds like the best backend bootcamp for you? [Enroll here](https://boot.dev/).
 
-{{< cta1 >}}
-
 ## 2. Clarusway: Backend Development Course
 
 ![boot.dev](/img/800/claurusway.png.webp)
@@ -138,8 +136,6 @@ This isn't an on-demand program, though – the courses run at set times. The ne
 ### Bonus info:
 
 This backend development bootcamp purports to be the \#1 coding bootcamp in all the United States by aggregation websites like Career Karma and Course Report.
-
-{{< cta2 >}}
 
 ## 4. Knowledgehut: Back-End Development Bootcamp
 
@@ -246,8 +242,6 @@ This backend bootcamp will likely take 20-25 hours per week once you're done wit
 This backend bootcamp has a fun stat: it boasts a 95% hiring rate for career changers. That means that if you join the course with the aim to change your career, there's a very, very high chance you'll be successful.
 
 At the time of writing, the next start date is January 31st, 2023.
-
-{{< cta3 >}}
 
 ## 7. Springboard: Backend Development Bootcamp
 

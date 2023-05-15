@@ -35,8 +35,6 @@ Go's memory management concurrency primitives are slightly more powerful (my opi
 
 ![go vs c sharp for experienced programmers, high salaries, performance, web development and game development](/img/800/Go-vs-C-Sharp-salary-performance-web-development-game-min-1.png)
 
-{{< cta1 >}}
-
 ## Go vs C#: Which is better for experienced programmers?
 
 Golang and C# both offer distinct advantages for experienced programmers.
@@ -68,8 +66,6 @@ Alternatively, C#'s performance stems from the .NET framework, which powers C#'s
 While C# is powerful, it's still slower than Go. Why? Mostly due to C#'s heavier feature set, Go is simply more lightweight. There's less overhead to your code in Go. Go programs tend to have smaller memory footprints, and generate fewer instructions. Go's simple language provides certain constraints that enable additional automatic optimization, optimizations that are otherwise unlikely to be made, like escape analysis and the inlining of lambda functions.
 
 In the end, Golang's raw CPU speed is very similar to C#, but because of its simplistic style and native compilation, its memory usage is much lighter and Go code compiles **much** faster than C# code. 
-
-{{< cta2 >}}
 
 ## Go vs C#: Which has the best salary?
 
@@ -106,8 +102,6 @@ C# is famous for its extensive use in the Unity game engine, one of the most pop
 Golang _can_ be used in game development and offers decent performance while doing so, however, it's not widely adopted by the community and the standard library offers very limited support for game development. Anything you'd want, you'd have to create, like handle input, initialize graphics API, and hundreds of other platform-specific details. Also, not being object-oriented, developers will struggle to write game logic, OOP is a paradigm well suited for making games, which rely heavily on stateful objects.
 
 So, while the possibility is there for Go, C# is definitely the leader in the gaming space.
-
-{{< cta3 >}}
 
 ## Go vs C#: The final verdict
 

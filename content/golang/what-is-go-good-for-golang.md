@@ -65,8 +65,6 @@ Now over 10 years since Go's original open-source release, Go is the second high
 
 It's never been a better time to learn Go, and here's why:
 
-{{< cta1 >}}
-
 ## What is Go Good For?
 
 ### Simple Syntax & Easy To Learn
@@ -138,8 +136,6 @@ Both Go and Python have been considered some of the best programming languages f
 Go can handle [complex math problems much faster than Python](https://www.rtinsights.com/why-golang-and-not-python-which-language-is-perfect-for-ai/), though Python has advantages with its versatility, readability and multi-purpose use for data science. You can now run Tensorflow models in Go as opposed to just Python to take advantage of some of Go's speed advantages.
 
 We believe that Go will become a much more widely adopted machine-learning language in the future.
-
-{{< cta2 >}}
 
 ## Limitations of Go
 

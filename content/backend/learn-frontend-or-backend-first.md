@@ -14,8 +14,6 @@ So you want to get into web development, and you keep hearing about "front-end" 
 
 To be clear, it's the wild west out here. In tech, as long as you're willing to put in the reps, you can teach yourself to code and get any kind of programming job that you want. However, your learning path and career trajectory will be much more efficient if you're smart. And with that, we come to the most important factor when deciding whether to learn front-end or back-end first: *Which do you like more?*
 
-{{< cta1 >}}
-
 ## Which do you like more? Front-end or back-end development?
 
 Because you can start with either one, the most important question is "what do you enjoy most"?
@@ -29,8 +27,6 @@ The beautiful thing about web development is that even if you specialize, you ca
 If you're a bit on the fence, maybe you don't have a strong preference for data or for visuals, then the next things to consider have to do with the state of the job market. According to the last [StackOverflow developer survey](https://survey.stackoverflow.co/2022/#developer-profile-developer-roles), 43% of developers have back-end responsibilities, while only 26% have front-end duties.
 
 There are simply more back-end devs out there, which means there are more positions that you yourself could potentially fill.
-
-{{< cta2 >}}
 
 ## Back-end positions pay a bit more
 
@@ -64,8 +60,6 @@ I'd estimate that it takes about 25% longer to learn back-end development than f
 I wish I could find better data on this, if you know of a more quantitative resource I can cite here, please [let me know](/contact). That said, at the last 4 companies I worked at if we opened a position for front-end engineers we were getting 100+ applicants. Conversely, when I opened a position for my own back-end team, we would get about 20.
 
 My belief is that due to the *slightly* shorter learning path to becoming a front-end dev, the majority of entry-level programmers go that route. It's important to understand because it means that if you decide to take a [back-end learning path](https://boot.dev/tracks/backend) you'll have a higher chance of placement at the end. 
-
-{{< cta3 >}}
 
 ## Front-end work will give you more exposure to users
 

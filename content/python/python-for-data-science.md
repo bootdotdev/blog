@@ -37,8 +37,6 @@ It's so simple that Next Academy actually recommends it as a [great choice](http
 
 If you want to get into data science, Python is a great choice of coding language because you can add it to your tool belt pretty quickly and with a minimum of pain. Learning data science with Python for beginners can be a simple solution.
 
-{{< cta1 >}}
-
 ## 2. It's easy to read
 
 Python has a clean and simple syntax that mirrors English, so whatever you build will be understood by you and many people, even if they're not Pythonistas themselves.
@@ -54,8 +52,6 @@ If you learn Python, you'll be one of many. It's one of the most widely used lan
 As I alluded to above, many companies are using Python to build frameworks and projects. Google, for example, created Tensorflow, which is based on Python; Facebook and Netflix are also relying on it more and more in their data science projects.
 
 If you want to get into data science, you won't get far without knowing at least some Python. Luckily it's a joy to learn!
-
-{{< cta2 >}}
 
 ## 4. Huge Community of Pythonistas
 
@@ -80,8 +76,6 @@ Even though Python has a practically unlimited number of applications, there's a
 As you go through the standard track of learning how to code in Python, you'll cross over with some data science basics by default. For example, you'll start by learning how to set up your environment, importing data, cleaning it, running some statistical analyses on it, creating some nice visualizations, and sharing your findings. And look at that - you've done some data science with Python.
 
 As long as you keep typical data science tasks in mind as you look for Python tutorials, you'll easily be able to find plenty of resources that teach you Python - and simultaneously teach you Python for data science, specifically. Learning basic Python for data science is a natural learning path.
-
-{{< cta3 >}}
 
 ## 7. Data cleaning is a breeze
 

@@ -24,8 +24,6 @@ The goal of the course is to cover the basics of FP in such a way that students 
 
 The course has ~60 exercises currently, and like all of our courses, we will be adding to it and improving the quality regularly.
 
-{{< cta1 >}}
-
 ## What the Hell is PureScript?
 
 [PureScript](https://www.purescript.org/) is a strongly-typed purely functional programming language that compiles to JavaScript. PureScript has a very Haskell-like syntax and you can play around with it on our [PureScript playground here.](https://boot.dev/playground/purescript)

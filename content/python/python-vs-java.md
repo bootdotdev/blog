@@ -46,8 +46,6 @@ Overall, both languages offer huge passionate communities that can't be ignored 
 
 But for experienced programmers, both languages are useful, with Python better for those looking to work in experimental fields and wanting to create their own projects, and Java best for those looking to maintain security in traditional institutions and work with a universal solution.
 
-{{< cta1 >}}
-
 ## Python vs Java Performance
 
 When it comes to performance, it's a bit of a double-edged sword.
@@ -77,8 +75,6 @@ There's much more deviation in rankings though when it comes to preference.
 When it came to which languages are the most wanted by developers, [Python scored way above Java](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted), and all the others, doubling the percentage of second-place runner-up, JavaScript. Python is also listed in the top three for most loved languages by developers, while Java sat in 17th place.
 
 Now, I'm not saying to choose a language based on a popularity contest…but I am saying if the pay is the same, it doesn't hurt to listen to your fellow peers.
-
-{{< cta2 >}}
 
 ## Java vs Python for Game Development
 
@@ -115,8 +111,6 @@ Following the same trend above, as we're still operating in the AI space, Python
 Python tools possess powerful data visualization and analysis capabilities, and their stability and predictability work well with the developmental cycle. Paired with its already extensive and targeted library, Python is also compatible with the Hadoop software which specializes in data processing. And again, its simple design makes it feel effortless to interact with such immense data loads.
 
 Java, like Python, also has the ability to work with Big Data, but lacks the demand from the professional and academic world. It has little library support, and its verbosity makes it more difficult for researchers to work with.
-
-{{< cta3 >}}
 
 ## Java vs Python for Enterprise Applications
 

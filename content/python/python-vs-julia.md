@@ -25,8 +25,6 @@ Julia was created in 2012 by Jeff Bezanson, Stefan Karpinski, Viral B. Shah, and
 
 ![julia vs python](/img/800/juliavpython.webp)
 
-{{< cta1 >}}
-
 ## Julia versus python in terms of popularity
 
 So who wins the popularity contest, Julia or Python? You might have guessed it already, depending on how familiar you are with the languages or by looking at the age of each language respectively. In this case, there's a clear winner. Python is *significantly* more popular than Julia. In 2019 over [8.2 million developers](https://www.zdnet.com/article/programming-languages-python-developers-now-outnumber-java-ones/) used Python, and that figure continues to grow. Python has an impressively active open-source community. There are over [137,000 Python libraries](https://www.mygreatlearning.com/blog/open-source-python-libraries/#:~:text=There%20are%20over%20137%2C000%20python,data%20manipulation%20applications%20and%20more.), some of which are true powerhouses, like Numpy, Pandas, PyTorch, TensorFlow, and many more. 
@@ -48,8 +46,6 @@ Python, although often used as a scripting language, is closer to traditional pr
 When it comes to syntax for Julia vs Python, it's really up to you. I'd recommend finding simple examples of both programming languages and finding which one reads better for you. A lot of times, understanding code in a certain programming language just has to do with your existing knowledge and experience, and one may be significantly easier for you to understand at a glance than the other.
 
 Since Python is more widely used, it is a safer bet if you're just starting to learn to program. Due to its crushing popularity and very versatile uses, there are an unparalleled amount of tutorials for Python. You're more likely to find one that you like as well as one that uses examples that interest you.
-
-{{< cta2 >}}
 
 ## Is Python or Julia better for machine learning?
 
@@ -78,8 +74,6 @@ In the tech industry, significantly more jobs require Python experience. A quick
 Let's compare Julia versus Python for salary. Looking at compensation, the national average salary for Julia programmers in the US is [$77K, up to $150K](https://www.ziprecruiter.com/Salaries/Julia-Programming-Salary). The national average salary for Python programmers in the US for entry-level is [$78K](https://devskiller.com/python-developer-salary/#:~:text=The%20entry%2Dlevel%20Python%20developer,developer%20earns%20%24130%2C268%20on%20average) on average, and senior Python programmers earn [$130K on average](https://devskiller.com/python-developer-salary/#:~:text=The%20entry%2Dlevel%20Python%20developer,developer%20earns%20%24130%2C268%20on%20average). The overall national average for Python developers is [$96K and can range up to $144K](https://www.glassdoor.com/Salaries/python-developer-salary-SRCH_KO0,16.htm). 
 
 The salaries come out to be fairly comparable, but given the disproportionate number of jobs for Python developers, the safe bet when it comes to job security would be to learn and master Python now. If you continue to pursue a career in the data science or machine learning areas, you can add Julia to your list of skills further down the line.
-
-{{< cta3 >}}
 
 ## Julia versus Python in performance
 

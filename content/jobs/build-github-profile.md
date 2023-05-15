@@ -18,8 +18,6 @@ I'm amazed whenever I click on a candidate's Github profile and the first severa
 
 Apart from just pinning your best six, you should also put those in order, with your best works at the top. Consider that most people are going to only look at your first one or two repositories, so make sure those are your best ones.
 
-{{< cta1 >}}
-
 ## Give yourself a profile picture, username and bio
 
 Fill out your profile. Seriously, it takes 3 minutes tops. If you have an embarrassing username that you created years ago, update it. If you have the default avatar, add a professional photo of yourself, or a cool AI-generated image or something.
@@ -37,8 +35,6 @@ Hiring managers will be clicking into your repositories. Create a good Readme fo
 * How do I contribute?
 
 Apart from the Readme on the project, clean up the code if you haven't looked at it in a while. Maybe organize some of those files and clean up some of the code to make it more readable. Maybe even add some linting rules or automated CI tests. The point is, if the hiring engineer hops into your project and pokes around some of the files, you want them to be impressed.
-
-{{< cta2 >}}
 
 ## Add a profile Readme
 
@@ -59,8 +55,6 @@ By the way, this is what the heatmap I'm talking about looks like. More green is
 ## Make your embarassing repositories private
 
 When I was in school, private repositories were a paid feature of GitHub, but now they're free! There really isn't any excuse to just hide your old code that you don't plan on maintaining behind a privacy flag. If you want to clean it up, then feel free to make it public, but I would recommend keeping your public list tidy.
-
-{{< cta3 >}}
 
 ## Work on a mix of applications, libraries, and open source contributions
 

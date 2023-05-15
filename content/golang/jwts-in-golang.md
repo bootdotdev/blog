@@ -82,8 +82,6 @@ signedToken, err := token.SignedString([]byte("secureSecretText"))
 
 Finally, the signed token can be sent back to the client.
 
-{{< cta1 >}}
-
 ## Validating a JWT
 
 When the client makes a request to a protected endpoint we can verify the JWT is authentic using the following steps.

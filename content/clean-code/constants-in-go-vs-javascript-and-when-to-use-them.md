@@ -92,10 +92,6 @@ fmt.Println(e)
 // prints 2.718281828459045
 ```
 
-{{< cta1 >}}
-
-{{< cta2 >}}
-
 ## Should You Use Constants?
 
 Yes. Constants are safer.
@@ -129,8 +125,6 @@ const lane myString = "wagslane"
 Other types like arrays, slices, and maps can not be declared as constant. This makes sense because those types are essentially just pointers, which are addresses of mutable data. However, I have written [another article on the elegant ways to get "effectively constant" slices and maps in Go](/golang/golang-constant-maps-slices/).
 
 By contrast, in JavaScript, _anything_ can be made constant. JavaScript arrays can be declared as constant, but it doesn't stop the programmer from mutating the elements of the array! The only safety JavaScript's `const` provides is that the variable can't be explicitly reassigned.
-
-{{< cta3 >}}
 
 ## Constants Are Untyped By Default
 

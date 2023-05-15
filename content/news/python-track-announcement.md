@@ -31,8 +31,6 @@ These 4 courses feature over 285 interactive lessons where you write Python code
 
 Completing all 4 courses will put you in a great position to land your next coding job -- the courses contain everything you need to become more employable.
 
-{{< cta1 >}}
-
 ## Why Python?
 
 Python developers are well-paid with a [$120,000 median salary](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states). It's an extremely popular language that's loved by programmers, and the #1 language for data science, machine learning and AI.
@@ -46,8 +44,6 @@ Python is only going to become an even more dominant force in the world of progr
 While this Python Track is our first released track, we have designs on a range of others. These aren't replacing our commitment to building a complete grad-level computer science degree set of courses -- we're simply packaging our existing courses so that those of you looking for more targeted learning can quickly train up, while those who want to complete the entire degree can still do that.
 
 Our goal is to help you get to where you want to be, in the most effective way possible. For some, that's blitzing straight through our Python courses (or our Go courses if you want to be part of Gopher Gang 😀), while some want the entire computer science degree experience. With Tracks, you're free to tailor your own boot.dev experience and gear your learning to whatever works best for you!
-
-{{< cta2 >}}
 
 ## Why Boot.dev?
 

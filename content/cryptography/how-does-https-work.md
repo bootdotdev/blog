@@ -32,8 +32,6 @@ In short, HTTPS works like this:
 6. The server uses the shared private key to send the client an encrypted response
 7. The client uses the shared private key to decrypt the response
 
-{{< cta1 >}}
-
 ## HTTPS is just HTTP with extra security
 
 ![HTTPS](https://i.imgur.com/iOkQUdG.png)
@@ -47,8 +45,6 @@ While HTTPS is only *critically* important when it comes to sensitive data, it's
 ![no http browser](/img/800/no-https.png.webp)
 
 *If you develop websites, use HTTPS.*
-
-{{< cta2 >}}
 
 ## Careful! HTTPS is not necessarily private
 

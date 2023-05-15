@@ -22,8 +22,6 @@ Using [FFmpeg](https://www.ffmpeg.org/), we can easily convert mp3 files to HLS 
 
 ![FFmpeg](/img/800/1_mgCxTQSqrTvKsmDRmuRa7w-1024x499.jpeg)
 
-{{< cta1 >}}
-
 ## Get Started - Format Some Media for your Server
 
 Download a sample .mp3:

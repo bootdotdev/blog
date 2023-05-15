@@ -23,8 +23,6 @@ The entire value proposition of a heuristic is based on trade-offs. Typically we
 
 Example problems and some of their common heuristics are given below.
 
-{{< cta1 >}}
-
 ## Traveling Salesperson Problem (TSP)
 
 ![](/img/800/tsp-1024x606.jpg)
@@ -46,8 +44,6 @@ The knapsack problem poses the issue:
 > Given a set of items, each with a weight and a value, determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible.
 
 An example heuristic for this problem is a greedy algorithm, which sorts the items in descending order of value per weight, and then proceeds to insert them into the "sack". This ensures the most valuably "dense" items make it into the sack first.
-
-{{< cta2 >}}
 
 ## Search Optimization
 

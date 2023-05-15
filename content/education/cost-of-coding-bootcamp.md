@@ -26,8 +26,6 @@ You might want to know:
 
 Let's answer those questions.
 
-{{< cta1 >}}
-
 ## Coding bootcamps cost a fraction of a college degree.
 
 One of the most useful comparisons is looking at the cost of a coding bootcamp as an alternative to a degree in software engineering or computer science. To get a job in data science or engineering, it's no longer necessary to get a degree. Many entry-level computer science jobs only want proof that you can code in Javascript. Your skills matter much more than your diploma.
@@ -41,8 +39,6 @@ Coding bootcamps cost around $13,500, yes. There's also a high time cost, too. C
 Even if you're on the part-time model, many coding bootcamps expect a time commitment of 20-25 hours per week, usually filled up in the evenings and weekends.
 
 Full-time coding bootcamps run for at least 12 weeks, but sometimes up to 20 weeks on the full-time model. Even if you think the price is worth it, definitely consider the time cost too.
-
-{{< cta2 >}}
 
 ## Coding bootcamps cost much more than the alternatives. 
 
@@ -75,8 +71,6 @@ Coding bootcamps are often well-connected in the software engineering industry, 
 However, it's also good to know that the requirements for fulfilling that job offer are pretty strict. Many require you to accept the first job you're offered – even if it's not what you want, or it's a part-time or contract role. They may also need to submit a certain number of job applications per week.
 
 If you're happy with those conditions, then count that as an advantage of coding bootcamps.
-
-{{< cta3 >}}
 
 ## Short answer: Coding bootcamps cost $13,500 or so on average, but only you know it is worth it.
 

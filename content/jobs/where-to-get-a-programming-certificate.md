@@ -23,8 +23,6 @@ I've already written about the benefits and [difference between getting a progra
 
 Let's dive into the two ways you can get a programming certificate. The basic summary is that you can choose between getting a programming certificate from universities or online courses. 
 
-{{< cta1 >}}
-
 ## Option 1. Get a programming certificate online from a university
 
 Not many people know that universities offer programming certificates online as well as diplomas. Even before the pandemic, the option to get a programming certificate online was appealing to a lot of students who didn't fancy going in person, or wanted to hold down a job at the same time. Now, of course, many universities have doubled down on this. 
@@ -73,8 +71,6 @@ Examples:
 In summary, the process to get a programming certificate online from an online course comes with real benefits - it tends to be cheaper, and more self-paced than getting one from a university. However, that can also be a disadvantage - it's easier to be motivated to complete something when you've invested a lot of money, and someone is guiding you through the process. To combat those disadvantages, ensure you select an online course with a solid community that can help get you motivated to actually get the course done. 
 
 You should also ensure the reputation of your online course is unimpeachable - universities come with their own brand name aura, while online courses are seen as a little more fast and loose. Do your research to pick the certificate that will impress an employer, or select one that lets you prove your skills by displaying a portfolio.
-
-{{< cta2 >}}
 
 ## You can get your programming certificate online from a university or an online course.
 

@@ -57,8 +57,6 @@ float64
 complex128
 ```
 
-{{< cta1 >}}
-
 ## Why Do We Care About Defaults?
 
 There is a good reason that the majority of code uses these values. In all of the above cases, the choice of specific sub-types are based on range and precision. `int8` can store values between `-128` and `127`, while `int64` ranges from `-9,223,372,036,854,775,808` to `9,223,372,036,854,775,807. At the same time, int8` uses a single byte while `int64` uses 8x that.
@@ -86,8 +84,6 @@ That's about it. The only reason to deviate from the defaults is to squeeze out 
 For example, I probably wouldn't swap out a single _uint32_ for _uint8_, even if I was certain I would only need 8 bytes. However, If I have a slice of uints that can potentially hold thousands of values, I may see a significant memory savings by doing a few type conversions and using _uint8_.
 
 A few good examples of this are the packages I maintain, [go-tinydate](https://github.com/lane-c-wagner/go-tinydate), and [go-tinytime](https://github.com/lane-c-wagner/go-tinytime). Usually, I encourage users NOT to use them, and to just use the [default time.Time](/golang/golang-date-time/). However, in my backend career, there have been applications that went from using 16GB of RAM down to less than 4GB by making the swap to TinyDate or TinyTime.
-
-{{< cta2 >}}
 
 ## Use Defaults
 

@@ -43,8 +43,6 @@ This is typically the `all` target, equivalent to `make all`. It should build
 the whole program with all its dependencies. The command can be invoked
 repeatedly to rebuild the program.
 
-{{< cta1 >}}
-
 ## make run
 
 Runs the program. Useful if the program needs some sort of setup before

@@ -46,8 +46,6 @@ If I search for "DevOps engineer" jobs on [LinkedIn](https://www.linkedin.com/jo
 
 Why is it so popular? Well, it's a key role for any business that has software development and IT (AKA almost all of them nowadays) and there's a real skill gap. Over 60% of companies [say](https://learn.gitlab.com/devops-institute/2021-doi-devops-upskilling-report?utm_medium=email&utm_source=marketo&utm_campaign=devopsgtm&utm_content=doi-devops-upskilling-report) they have a hard time hiring DevOps engineers, no matter the salary. Google [reports](https://cloud.google.com/devops/state-of-devops/) that DevOps engineers are worth any cost: organizations with a good DevOps team experienced 208x faster deployments, 2,604x faster incident recovery times, and 7x lower change failure rates.
 
-{{< cta1 >}}
-
 ## What do you need to become a DevOps engineer? 
 
 Do you dream of being a highly sought-after DevOps engineer with that enticing salary? Then here's what you should know.
@@ -122,8 +120,6 @@ Beyond that, additional soft skills that can bolster your CV are:
 * Communication. Since your job is literally at the juncture of two massive departments, being able to get two teams to play nice together is a huge booster for your salary as a DevOps engineer.
 * Business intelligence. Gone are the days when writing lines of code was all that mattered. The ability to take a bird's eye view of the situation and make informed decisions based on business interests will make you a prime candidate.
 * Leadership. It's a simple fact: DevOps [managers](https://www.glassdoor.com/Salaries/devops-manager-salary-SRCH_KO0,14.htm) make more than DevOps [engineers](https://www.glassdoor.com/Salaries/devops-engineer-salary-SRCH_KO0,15.htm).
-
-{{< cta2 >}}
 
 ## How does the salary stack up compared to other developer/engineer jobs? 
 

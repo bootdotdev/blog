@@ -34,8 +34,6 @@ Scala is a statically typed, general-purpose, object-oriented language that aims
 
 Choosing between these languages is no easy thing, so I'm here to do the hard work for you. Keep reading to see how the languages compare in skill level, performance, salary, and application to figure out which one is best for you!
 
-{{< cta1 >}}
-
 ## Scala vs Golang: Which Is Better for Beginners?
 
 When it comes to choosing between Go or Scala as a beginner language, the vote is unanimous for Golang due to its emphasis on simplicity and power.
@@ -63,8 +61,6 @@ Go comes into play if you're looking for a safe but powerful back-end language, 
 It also has a wider range of uses and is ideal for microservices, CLIs, serverless applications, and stream processing.
 
 **Conclusion:** both have advantages for experienced programmers, it just depends on what you're doing. If you know Java and like working with data, then Scala is a better option, but if you want to learn a language fast with a broader application, then Golang is the winner.
-
-{{< cta2 >}}
 
 ## Scala vs Go: Which Has Higher Pay?
 
@@ -101,8 +97,6 @@ While Scala can be used for web development, its best face is seen in other area
 Scala does not offer native tools that allow you to build web servers and requires the help of frameworks like Play Framework and Lift to build applications. You'll also need to use Spark or Hadoop for any cloud application you wish to do.
 
 The real key takeaway here is that Golang's native support for web development, which inherently means a smoother and faster process than Scala.
-
-{{< cta3 >}}
 
 ## Scala vs Golang: Which Is Best for Big Data?
 

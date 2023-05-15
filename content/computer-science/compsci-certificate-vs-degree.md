@@ -22,8 +22,6 @@ The good news is that in 2021, many of your potential future employers won't car
 
 The question now becomes which works best for you when looking at the difference between a certificate or a diploma. Let's look at the pros and cons of a degree versus a certificate when you're trying to get a programming job.
 
-{{< cta1 >}}
-
 ## Actually, what's the difference between a certificate and a diploma in computer science?
 
 You might look at both and think there's no real difference between a certificate and a diploma: they both give you a piece of paper saying you spent _time_ and _money_ to learn _something_. The difference between a certificate or a diploma in any field comes down to the scope of those three characteristics: time, cost, and specificities. Computer science degrees and certificates are no different.
@@ -39,8 +37,6 @@ When I set out to get my job, I had only a very vague idea of what I wanted to d
 If you have a more specific idea than me, like you know you want to be a data scientist or that you want to be a front-end engineer, you'll have an easier time than I did picking a course to complete for a certificate. This is much more highly specialized knowledge that you can use to prove your worth to employers.
 
 If you're still unsure and just know you want something programming-related, it's worth spending some time deciding what it is you want to do before launching yourself into a degree or a certificate. You can do something similar to what I did, and look at several [CS job descriptions](/computer-science/highest-paying-computer-science-jobs/) to see what universal skills would be handy to have or talk to any programmers you know today to see what they'd say. It might even be worth doing an "Intro to X" type course before you sink time and cash into a degree that might not end up being your passion.
-
-{{< cta2 >}}
 
 ## How much time and money do you have to learn computer science?
 
@@ -69,8 +65,6 @@ This is the only place where I'll say the difference between a certificate and a
 However, as I proved for myself, more and more employers are open to hiring without a degree as long as the computer science math and fundamentals have still been learned. They'll look for some external validation on your resume, whether a degree or a certificate, and then they'll test you in your interview to make sure you're the right person for the job. At that point, as long as you have the skills, it doesn't matter where they came from. 
 
 If you have your dream employer in mind, it may be worth putting them on hold for 2-4 years. You can use that time to get a computer science degree, or you can use it to get a job with an employer who doesn't need a degree to prove that you have the knowledge and skills to be successful. Then apply when you're more mature and experienced in your career track. 
-
-{{< cta3 >}}
 
 ## The difference between a certificate and a diploma comes down to you.
 

@@ -42,8 +42,6 @@ If you've already spent time and money on your bootcamp or course, you don't hav
 
 There are many resources online, both paid and free, that can help you learn the building blocks. Whether you get the basics from a degree, course, or bootcamp, you can't expect to do a single course focusing on one niche aspect and get a job. 
 
-{{< cta1 >}}
-
 ## 2. You're not presenting yourself in a way that demonstrates you're a good culture fit
 
 Personally, part of the reason I ended up going for a data science job out of college was because I hated sales, like many other people. But while everyone hates sales, when you're applying for jobs, you have to know how to sell yourself at every stage of the application process. If you can't get a programming job, it may be because you're neglecting this part of the application process.
@@ -90,8 +88,6 @@ If you're getting to the interview stage and still can't get a programming job, 
 - At the end of the interview, make a passing reference to what you spoke to them at the start. 
 
 This shows interviewers that you're not just a superb coder, but you're a good interviewer, and hence a good communicator. 
-
-{{< cta2 >}}
 
 ## 4. You don't have experience
 
@@ -162,8 +158,6 @@ Keep your future employers' goals in mind. Like the years of experience, they do
 By sticking to what you do know, both on the job application and in the interview, you'll be able to play to your strengths. Be honest about your skills as well as your limitations. So long as you can demonstrate that you can do what they'll need you to do, you'll be in with a chance.
 
 Consider an employer who meets two candidates: one who says they can do something that they can't, and one who says it's beyond their current skill set, but demonstrates how they've grown their skills over the past year. The latter is much more appealing to employers. If you can't get a programming job, consider how to pare back your alleged skills to keep it as real as possible.
-
-{{< cta3 >}}
 
 ## 7. You haven't demonstrated you want to learn
 

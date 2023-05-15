@@ -38,8 +38,6 @@ else:
     print("not found :(")
 ```
 
-{{< cta1 >}}
-
 ## Use pathlib.Path(path).is\_file() to check for only files
 
 ```py
@@ -65,8 +63,6 @@ if dir_exists:
 else:
     print("not found :(")
 ```
-
-{{< cta2 >}}
 
 ## Use pathlib.Path(path).is\_symlink() to check for only symlinks
 

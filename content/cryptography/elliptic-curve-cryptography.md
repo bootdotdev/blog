@@ -18,8 +18,6 @@ A common use of ECC is to encrypt data so that only authorized parties can decry
 
 For example, in the [boot.dev web app](https://boot.dev/), I could use ECC to encrypt a confirmation email so that no one but the recipient could read the message.
 
-{{< cta1 >}}
-
 ## ECC is public-key cryptography
 
 There are many types of public-key cryptography, and Elliptic Curve Cryptography is just one flavor. Other algorithms include [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), [Diffie-Helman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange), etc.
@@ -55,8 +53,6 @@ As you can see, this form of encryption can be quite useful. Here are some key p
 - The private key must be kept safe because if someone in the middle were to get the private key, they could decrypt messages.
 - Computers can quickly use the public key to encrypt a message, and quickly use the private key to decrypt a message.
 - Computers require a _very_ long time (millions of years) to derive the original data from the encrypted message if they don't have the private key.
-
-{{< cta2 >}}
 
 ## How it Works: The Trapdoor Function
 
@@ -111,8 +107,6 @@ This is a great trapdoor function because if you know where the starting point (
 Public Key: Starting Point A, Ending Point E
 
 Private Key: Number of hops from A to E
-
-{{< cta3 >}}
 
 ## Answers to some elliptic curve cryptography questions
 

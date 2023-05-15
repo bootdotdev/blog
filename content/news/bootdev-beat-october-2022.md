@@ -44,8 +44,6 @@ We've started creating blackboard videos for some of the more visually demanding
 
 At the bottom-left of each exercise on Boot.dev there is a "report issue" tab. We receive tons of amazing feature requests, ideas for content improvements, and even bug reports through that channel. This month we resolved and made improvements for 156 of those reports! Thanks for all the amazing feedback.
 
-{{< cta1 >}}
-
 ## Boot.dev Learner Interview: [Theo Beers](https://boot.dev/u/katomyomachia)
 
 ![theo beers profile](https://i.imgur.com/NJuvHVS.jpg)
@@ -61,8 +59,6 @@ At the bottom-left of each exercise on Boot.dev there is a "report issue" tab. W
 ## Join us in the Boot.dev Community Discord
 
 Theo, myself, and hundreds of other learners are active in the [Boot.dev community Discord](https://boot.dev/community). Join our programming discussions, ask for help when you get stuck, and improve your understanding by explaining what you know to help out others!
-
-{{< cta2 >}}
 
 ## Top picks from the interwebs
 

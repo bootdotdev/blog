@@ -39,8 +39,6 @@ type TinyTime struct {
 
 We sacrifice timezones and dates older than the unix epoch of 1970, but if these are acceptable tradeoffs, we can save a lot of memory.
 
-{{< cta1 >}}
-
 ## When Should It Be Used?
 
 As the TinyTime [Readme](https://github.com/wagslane/go-tinytime/blob/master/README.md) states, if you aren't hurting for resources, better to stick with the standard time.Time. The following situations can be good reasons to use to TinyTime:
@@ -53,8 +51,6 @@ As the TinyTime [Readme](https://github.com/wagslane/go-tinytime/blob/master/REA
 ## API
 
 The tinytime.TinyTime API largely mirrors that of time.Time. The only methods missing are the ones that make no sense without timezone support. You can swap out the vast majority without any changes. Check out the [godoc for reference](https://godoc.org/github.com/wagslane/go-tinytime).
-
-{{< cta2 >}}
 
 ## TinyDate
 

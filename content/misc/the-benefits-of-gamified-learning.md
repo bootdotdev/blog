@@ -27,8 +27,6 @@ It utilizes the structures and employs the elements of popular videogames to hel
 - Staying within time restrictions
 - Completing objectives
 
-{{< cta1 >}}
-
 ## Advantages of Gamified Learning
 
 ### Increases Motivation

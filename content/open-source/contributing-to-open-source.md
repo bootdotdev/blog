@@ -22,8 +22,6 @@ Don't open a PR like this:
 
 Your PR should do _one thing_. Large diffs increase the cognitive load of the reviewer and make it easier to get your code into the main branch. If you have beef with multiple issues in a project then open multiple PRs.
 
-{{< cta1 >}}
-
 ## 2. Don't Break Consistency
 
 This one happens the most often to me in my own projects. Well-intentioned developers open pull requests with any of the following annoyances:
@@ -45,8 +43,6 @@ If you hop into a Github repo and find something you don't like, don't immediate
 - Start work on your PR.
 
 This will help mitigate the creation of pointless PRs that will never be accepted on the basis of a flawed premise.
-
-{{< cta2 >}}
 
 ## 4. Don't Re-Open Known Problems/Solutions
 

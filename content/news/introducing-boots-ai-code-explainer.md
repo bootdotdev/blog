@@ -34,8 +34,6 @@ When you're working on a course in [Boot.dev](https://boot.dev), just highlight 
 
 That, and I don't think any programming is done in Latin. Anyway, the more you highlight, the more high-level the explanation will be, and the less you highlight, the more specific it will be.
 
-{{< cta1 >}}
-
 ## How does Boots work?
 
 It should come as no surprise, but Boots is powered by OpenAI's new ChatGPT API, though we do a bit of prompt engineering on the back end before we send your highlighted code to the API.
@@ -79,8 +77,6 @@ Well, in order to get to the bottom of that we figured we would just let you hea
 > I look forward to working for you all! And bear in mind - much like magic, the rules of programming are ever-changing and subject to interpretation and context. I am more than happy to guide you, but if you ever wish to become a fully fledged master of the arcane (or programming) arts, you must be willing to apply what I say on a case by case basis!
 >
 > Good luck! Happy Coding! And from Boots the Master of Code and Casting, a fond farewell, until you have need of my services!
-
-{{< cta2 >}}
 
 ## His Origin Story
 

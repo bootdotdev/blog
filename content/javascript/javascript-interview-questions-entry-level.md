@@ -31,8 +31,6 @@ To help you find out, here's a selection of 20 basic JavaScript interview questi
 6. Undefined
 7. Null
 
-{{< cta1 >}}
-
 ## 2 -- What are the differences between global and local variables? And how can having too many global variables negatively affect your code?
 
 **Answer:**
@@ -88,8 +86,6 @@ console.log("Him & I are \"good\" friends.")
 
 The `\` character is used before the double quotes to be able to use these in the string.
 
-{{< cta2 >}}
-
 ## 5 -- Explain the `.pop()` and `.push()` methods using the following array:
 
 ```js
@@ -132,8 +128,6 @@ const doubledPrimes = primes.map(x => x * 2);
 console.log(doubledPrimes);
 // expected output: Array [6, 10, 14, 22]
 ```
-
-{{< cta3 >}}
 
 ## 7 -- Write a loop that prints every number divisible by 3 from 1-200:
 

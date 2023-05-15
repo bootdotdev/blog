@@ -38,8 +38,6 @@ We integrated all of the bonus challenges for the [Learn Python course](https://
 
 It used to take a second or so to navigate between lessons within a course on Boot.dev. Well, we spent some time implementing some caching optimizations, and now navigation is instant! We want you spending more time coding and less time waiting.
 
-{{< cta1 >}}
-
 ## What we're working on now
 
 * New "Learn Web Servers" course. I've written the first 3 chapters out of about 9. This one will be quite different, and I'm super pumped to get it out next month. You'll write a back-end web server on your own machine and run automated tests from within the Boot.dev platform against it.
@@ -64,8 +62,6 @@ It can be hard to understand why we would need two different built-in ways to de
 by The Bootstrapped Founder
 
 While this podcast is aimed at entrpreneurship, Arvid does have a software engineering background, and this particular episode is a great dive into the nuances of remote work. If you're interested in working remotely, or being a more effective remote worker, this is worth a listen.
-
-{{< cta2 >}}
 
 ## Top plugs for this month
 

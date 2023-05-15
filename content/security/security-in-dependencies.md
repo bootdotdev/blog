@@ -24,8 +24,6 @@ This should be the first question asked when a new dependency is being considere
 - Will our implementation be better? (don't write your own cryptography)
 - Does the language's standard library already have this functionality?
 
-{{< cta1 >}}
-
 ## Review
 
 If we decide that we shouldn't write the code ourselves, we find a valid candidate package. We take a look at the code and ensure:
@@ -44,8 +42,6 @@ For any dependencies that are more security-critical, it is important to lock ve
 Vulnerabilities in updates aren't protected by this feature. For this reason, we try to use **'1.4.4'** vs **'~1.4.4'** or **'^1.4.4'**. By not including the tilde or the caret, we tell yarn that we don't want to automatically update this package.
 
 When locking versions in this way we need to be more diligent about regularly reviewing and manually applying updates because many times new updates fix old security holes.
-
-{{< cta2 >}}
 
 ## Communication
 

@@ -69,8 +69,6 @@ export default {
 
 We have setup the component such that the user of the component can use the `v-model` attribute to get/set the current state of the switch. We have setup the `backgroundStyles` and `indicatorStyles` to dynamically change some CSS for us as the state updates.
 
-{{< cta1 >}}
-
 ## The CSS
 
 ```css

@@ -72,8 +72,6 @@ export default {
 
 Like I mentioned above, this sets up the use of `v-model`. We set the default `currentValue` to the `this.value` prop, and by emitting the current value with the `@input` hook, we are good to go.
 
-{{< cta1 >}}
-
 ## The CSS
 
 You may not be here for exactly my styling, but you're probably here so that you can swap out the styling. Feel free to copypasta my CSS and swap it our for your own sutff!

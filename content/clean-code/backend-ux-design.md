@@ -20,8 +20,6 @@ I'm here to contend that UX is extremely important in backend development as wel
 
 In other words, UX design is all about making it easy for your users to interact with your product, and get their tasks done in a straightforward manner.
 
-{{< cta1 >}}
-
 ## Examples of UX Design
 
 ![door push handle ux](/img/800/door-push-handle.jpeg)

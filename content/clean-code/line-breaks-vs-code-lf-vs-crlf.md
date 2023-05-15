@@ -26,8 +26,6 @@ If you're here to quickly fix a single file that you're having problems with, yo
 
 Click the LF/CRLF button to toggle line endings
 
-{{< cta1 >}}
-
 ## The Big Fix
 
 If you want new files to automatically have the correct line endings, then you can set the following setting in the top level of your settings.json file:

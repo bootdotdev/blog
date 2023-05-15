@@ -23,8 +23,6 @@ PHP was created in 1994 by Rasmus Lerdorf. His first use for it was tracking who
 
 PHP has also been deemed a general-purpose scripting language. It was one of the first few server-side languages which developers could embed into HTML, which makes it easier to produce jazzy and interactive websites.
 
-{{< cta1 >}}
-
 ## Python versus PHP: Easiest to Learn
 
 Python was created with the intent to be incredibly easy to understand. Most people who are not familiar with programming can fairly easily read through a Python script and get the gist of it, as long as whoever wrote it was good at [naming variables](/clean-code/naming-variables)! 
@@ -44,8 +42,6 @@ PHP is pretty great when it comes to getting it installed. It runs without issue
 Python, on the other hand, can require a bit more work. It comes pre-installed on Mac and Linux, but if that version is outdated, but you'll often need to install newer versions of Python, and maintaining multiple versions on one device can be tricky. Luckily, there's a cool tool called [pyenv](https://github.com/pyenv/pyenv) that was made just for managing multiple Python versions.
 
 If you're interested in getting a Python environment set up on your machine, check out our [development environment setup project](https://boot.dev/build/build-local-dev-environment-python).
-
-{{< cta2 >}}
 
 ## Python versus PHP: Popularity
 
@@ -80,8 +76,6 @@ PHP's Laravel ranks as the #8 most popular framework on GitHub, and Symfony and 
 | CodeIgniter | PHP      |
 
 </div>
-
-{{< cta3 >}}
 
 ## Python versus PHP: Maintainability
 

@@ -19,8 +19,6 @@ _I won't be talking about the differences in job titles among software engineers
 
 Before anyone gets too upset, let me acknowledge that the technical skill level of all software engineers could be divided into as many classes as there are engineers in existence. I'm trying to point out that there seems to be a _great divide_ between those who have taken the time to learn algorithms, data structures, and higher maths, and those who took an 8-week crash course in web development.
 
-{{< cta1 >}}
-
 ## Stop gatekeeping
 
 ![](/img/800/i-am-the-gatekeeper-41079851.jpg)
@@ -40,8 +38,6 @@ It's true that both kinds of software engineers earn similar salaries in their e
 In other words, it's easier to learn the fundamentals and _then_ the high-level tools, rather than the high-level tools and _then_ the fundamentals. If you did it backwards don't sweat it! The important thing is simply to identify gaps in your knowledge and fill them as you have time.
 
 Over time, and often as soon as the first year of employment, "computer scientists" tend to move towards more fulfilling and well-compensated work, whether that's well-funded open-source projects, technical leadership, or mission-critical commercial systems. "Developers" tend to continue doing what they've always done, learn a new framework, use an ORM to make simple database queries, or render information in a browser using a tool someone else made.
-
-{{< cta2 >}}
 
 ## Demand won't always be higher than supply
 

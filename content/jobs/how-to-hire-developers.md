@@ -20,8 +20,6 @@ Ideally, all resumes would be exactly _1 page_. If you have hundreds of applican
 
 Inb4, "but I have so much relevant experience, it doesn't fit on one page". Yes it does. No one gives a flying fart about the project you worked on 10 years ago and 6 companies ago. Boil it down to your MOST INTERESTING projects and MOST RELEVANT experience. It can fit on one page.
 
-{{< cta1 >}}
-
 ## #2 - Simplify the Process
 
 There is nothing worse as a candidate than sitting through 3 different 2 hour-long interviews only to find they didn't get the job. Conversely, it also sucks as an employer to sit through several long interviews and have the candidate take another opportunity.
@@ -45,8 +43,6 @@ I've found there are diminishing returns on your time spent trying to find a can
 **X Axis:** Number of candidates interviewed
 
 ![Log(x)+4](/img/800/Screen-Shot-2020-10-13-at-7.24.24-AM-e1602595625480.png)
-
-{{< cta2 >}}
 
 ## #4 - Whiteboarding
 

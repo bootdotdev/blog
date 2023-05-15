@@ -51,8 +51,6 @@ Instead of trying to keep 3 things in sync:
 
 We also have the added benefit of re-emphasizing the expected behavior to readers of the code that calls this function, rather than just the readers of the function definition.
 
-{{< cta1 >}}
-
 ## Avoid redundant comments. Strive for a single source of truth
 
 When a comment describes something that can easily be read in code, it runs the risk of being redundant. Redundancy in documentation is generally bad, especially if the code in question is updated frequently. With duplicate documentation, you run the risk of two different parts of the documentation disagreeing with each other. At that point, your reader will not only be confused but will be forced to go to the absolute source of truth, the code, to see what's going on.
@@ -85,8 +83,6 @@ func cleanInput(input string){
 ```
 
 A comment that explains that carets and question marks are removed for later use in a regex is an example of a good comment because it's often impossible to express the "why" in code.
-
-{{< cta2 >}}
 
 ## Always write comments at API boundaries
 

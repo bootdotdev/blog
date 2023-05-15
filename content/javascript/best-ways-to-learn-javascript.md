@@ -27,8 +27,6 @@ You can even practice without the courses on their site, by accessing Boot.dev's
 
 Boot.dev's emphasis on interactivity makes it interesting, but it's not even the best part. Boot.dev's overall goal is to get you primed and ready for a career with JavaScript. Aside from hands-on practice, you'll also be greeted with developmental techniques that are geared towards preparing you for job interviews, as well as more specialized coding skills like functional programming, making it by far one of the best ways to learn JS.
 
-{{< cta1 >}}
-
 ## #2 Learn for free
 
 I get it, it's hard to invest money in an online course when:
@@ -57,8 +55,6 @@ The videos are normally short (around an hour) and offer a brief crash course on
 It doesn't end here though. Tons of individuals have dedicated their time to creating great informational videos ranging from long to short and beginner to advanced, so take the time to look around and find a channel that suits you.
 
 It's also worth mentioning that freeCodeCamp's tutorials are integrated with YouTube, so you'll find most, if not all, of their online classes there too. Needless to say, there's an endless supply of resources here for you to learn JavaScript your own way.
-
-{{< cta2 >}}
 
 ## #4 Learn JavaScript the fast way
 
@@ -97,8 +93,6 @@ However, if the definitive guide is a bit too bourgeois for you, then may I dire
 This book is directed at beginners, with examples and practice exercises heavily published throughout the book.
 
 While you can learn JavaScript from these texts alone, much like Codewars, I think these are beneficial resources to have in tandem with online courses and add a lot of value to your learning.
-
-{{< cta3 >}}
 
 ## #7 Earning a certificate
 

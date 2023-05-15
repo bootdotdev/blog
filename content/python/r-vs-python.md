@@ -24,8 +24,6 @@ R is actually the implementation ­– or modernized – form of the S programmi
 
 So, we have one multi-functional language and one specific, now it's time to see how they compare. First, I'll lay out how each language works for beginners and experts, then break down salary, performance, which is best for data science, machine learning, and you!
 
-{{< cta1 >}}
-
 ## R vs Python: Which is easiest to learn and more versatile?
 
 Python is praised as a beginner language, but it's useful for all skill levels.
@@ -63,8 +61,6 @@ The real difference for R is it's a programming language for non-programmers. Th
 R also has the [Shiny](https://shiny.rstudio.com/) package for dashboard creations, which allows those with little technical experience to easily craft and publish dashboards to share with colleagues.
 
 **Overall**, if you have a team of dedicated programmers that will benefit from the use of a multipurpose language like Python, then choose Python. But, if you're not dedicated to programming, then R is a better choice.
-
-{{< cta2 >}}
 
 ## R vs Python Salary
 
@@ -109,8 +105,6 @@ You can use Python for scripting or object-oriented programming, and it's platfo
 With data science and machine learning being so closely related, you'd think R would work well here too, however, R just doesn't have the same support. R truly is a statistical tool used by academics, engineers, scientists, and those without any programming background that purely need to explore and experiment with data.
 
 Overall, Python is unmatched when it comes to handling large-scale projects and machine learning.
-
-{{< cta3 >}}
 
 ## R vs Python for Back-End Development
 

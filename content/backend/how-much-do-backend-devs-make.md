@@ -31,8 +31,6 @@ If I [search](https://www.linkedin.com/jobs/search/?currentJobId=3289579147&geoI
 
 This demand leads to a high salary. It's worth getting the job.
 
-{{< cta1 >}}
-
 ## What do you need to become a backend developer?
 
 There are six basic concepts you should know pretty thoroughly if you want to get a job as a backend developer. Looking at how much backend developers make, it's not an impossible task. Even if you're a total beginner, we expect you can [learn enough about back-end development to get a job](https://blog.boot.dev/backend/how-long-to-become-backend-dev/) in nine months to two years.
@@ -97,8 +95,6 @@ I compared that to the estimated wage increase corresponding to an extra level o
 We can conclude (within the limitations of the studies, and the fact that I'm referencing two different studies with different populations) that grit, self-esteem, and communication are soft skills that are worth more than a whole extra degree. Risk-taking is also, surprisingly, a significant factor in how much backend developers earn.
 
 Finally, we know that scientifically speaking, [confidence in job interviews](/jobs/confidence-in-job-interviews/) [predicts](https://www.pnas.org/doi/abs/10.1073/pnas.2010269117) the gender pay gap among STEM graduates. Increasing confidence is therefore a key determinant in your starting salary – and especially important for women and non-binary folks.
-
-{{< cta2 >}}
 
 ## How does the salary stack up compared to other developer/engineer jobs?
 

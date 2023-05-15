@@ -125,10 +125,6 @@ fmt.Println(sum)
 
 In other words, a `for` loop in Go without an `init` or `post` statement is equivalent to a `while` loop in other languages.
 
-{{< cta1 >}}
-
-{{< cta2 >}}
-
 ## #4 Optional components loop
 
 Building on the idea of a flexible for-loop, we can omit the `init` or `post` statements of the three-component loop as we please.

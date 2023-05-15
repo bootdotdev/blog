@@ -15,8 +15,6 @@ I believe that the job duties of "back-end" and "DevOps" engineers will coalesce
 
 First, let's talk about *why* I think this is happening, and then let's talk about what it means for us as back-end and DevOps engineers.
 
-{{< cta1 >}}
-
 ## The problem: Most companies need to ship simple features more quickly
 
 The underlying idea behind this entire article is a simple one - most companies need to ship simple features more quickly. It's not particularly challenging to build simple features, the hard part in any product-driven company is finding out *which* features deserve to be shipped, and keeping the code in a place where features can be added quickly.
@@ -42,8 +40,6 @@ Generally speaking, smaller companies need these jack-of-all-trades engineers th
 Larger companies generally need a larger diversity of expertise to ensure that *someone* on the team can solve domain-specific problems as they arise.
 
 **The trade-off is one of speed for expertise. More specialized teams can usually solve harder problems but do so more slowly.**
-
-{{< cta2 >}}
 
 ## What's changed: Companies can get away without specializing for longer
 

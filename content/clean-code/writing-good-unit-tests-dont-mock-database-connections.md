@@ -59,8 +59,6 @@ func logPow(expBase float64, pow int, logBase float64) float64 {
 
 The goal of unit tests is to test a "unit", or small portion, of code. If we can break our code into many small testable units, then we can automate much of our testing through these kinds of test suites.
 
-{{< cta1 >}}
-
 ## Good code is easier to test
 
 `logPow` is a perfect candidate for a suite of unit tests. It's a mathematical function with predictable output for any given input. Not all functions we write will be *nearly* this straightforward to test. However, if we can write small and ideally [pure functions wherever possible](/golang/pure-functions-in-golang/), writing tests for them becomes much easier.
@@ -184,8 +182,6 @@ With this code, we can now write a unit test that calls the entire `saveUser()` 
 * We technically have better "test coverage" with this approach, but our tests aren't actually any more robust. We get a false sense of security.
 * We have made the *real* code harder to find by abstracting it behind an interface.
 * The fact that `saveUser()` was hard to test was a great signal to us as developers that it needed refactoring. We've silenced a good signal that our code needs to be cleaned up.
-
-{{< cta2 >}}
 
 ## Don't test your dependencies, ensure they pass their own tests
 

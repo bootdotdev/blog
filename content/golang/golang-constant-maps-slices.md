@@ -89,8 +89,6 @@ When setting configuration globals, which should be read-only, there's **no good
 
 Most people already know this about global variables thankfully, and switching global variables to global constants is a fairly straightforward task.
 
-{{< cta1 >}}
-
 ## What happens if I try to use a constant array, map, or slice?
 
 ![global slice](/img/800/Screen-Shot-2019-10-21-at-7.50.41-AM.png)
@@ -134,8 +132,6 @@ var supportedNetworks = []string{"facebook", "twitter", "instagram"}
 ```
 
 Whenever we find ourselves leaving comments like this, we should be aware we are doing something **wrong**.
-
-{{< cta2 >}}
 
 ## The Better Solution for Constants in Go
 

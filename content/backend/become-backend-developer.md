@@ -32,8 +32,6 @@ Some of the most common job titles for programmers include:
 
 According to Stack Overflow's last [developer survey](https://survey.stackoverflow.co/2022/#salary-united-states), backend developers in the US tie for the highest median salary of this group: **$150,000**. If you enjoy working on problems that involve algorithms, data structures, natural language processing, databases, or distributed systems, then backend development might be for you.
 
-{{< cta1 >}}
-
 ## Can I learn back-end devlopment by myself?
 
 Many people assume that because backend developers typically need to have a better understanding of computer science fundamentals, that's it's harder to get an entry-level backend position, and as a result, they start educating themselves on front-end technologies. **I think this is a mistake.**
@@ -163,8 +161,6 @@ The big secret to landing a backend job as a self-taught developer is to build a
 * Make friends in [online coding communities](/misc/best-coding-communities/)
 
 Once you've done that *start applying to jobs*! Use every job board you can find, and try to apply only to jobs that are specific to your area of expertise - e.g. "backend go developers". Try to find niche job boards if they exist, I really like the [Golang cafe](https://golang.cafe/), for example.
-
-{{< cta2 >}}
 
 ## Additional questions, answered
 

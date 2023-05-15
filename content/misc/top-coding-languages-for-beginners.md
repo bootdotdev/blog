@@ -28,8 +28,6 @@ That said, JavaScript has had major syntax and design improvements over the last
 
 Anyone who wants to get up and running building web applications as quickly as possible. You may miss out on some of the fundamentals of how computer hardware and operating systems work at a lower level, just be sure to go back and learn as you grow as a developer.
 
-{{< cta1 >}}
-
 ## 2. Go
 
 _Version one released: 2012 by Google_
@@ -73,8 +71,6 @@ While Python is definitely the slowest language on our list, it makes up for its
 Python is great for educational purposes, particularly for learning computer science basics like data structures and algorithms. Python allows students to focus on the concepts at hand, because the syntax is second nature.
 
 Python is also a great first choice if you have an interest in machine learning. Python is basically the go-to language for AI/ML and Tensorflow is the state of the art in that field.
-
-{{< cta2 >}}
 
 ## 4. Rust
 

@@ -20,8 +20,6 @@ This is a mistake.
 
 {{< youtube e4fhq5VjhKw >}}
 
-{{< cta1 >}}
-
 ## The total number of jobs doesn't matter
 
 According to Stack Overflow's latest survey, JavaScript is [the most popular programming language in the world](https://survey.stackoverflow.co/2022/#section-most-popular-technologies-programming-scripting-and-markup-languages), both for people learning to code as well as professional developers.
@@ -60,8 +58,6 @@ Next, the "competition ratio": `10.4 / 7.7 = 1.4`
 
 Based on these numbers, I'd estimate that your competition for JavaScript jobs is about 1.4x higher than your competition for Golang jobs. According to this completely scientific and in no-way fallible analysis, it looks like Go might be a better choice if you're trying to minimize your competition for jobs.
 
-{{< cta2 >}}
-
 ## Can I trust these numbers?
 
 I don't know, probably not. My goal here isn't to convince you to learn Go, Python, Rust, JavaScript, or anything else for that matter. I just want you to think about the job market in a slightly different way.
@@ -79,8 +75,6 @@ It's like, "is what I'm learning sufficiently popular that I can reasonably expe
 The next thing to consider is your location. Remote work is great, but I'm a big fan of junior devs trying to [work on-site](/about/#9-get-an-on-site-full-time-job-first) for at least a year or two. You'll learn faster, and you'll actually have an easier time landing a job in the first place (assuming you're in a place with some jobs). When you compete for a local job, you're only competing against people who live in your city, not the entire world.
 
 If Python has tons of jobs, and a fantastic ratio of candidates to jobs, but where you live the only developer openings are for Go and Java, then I'd recommend reconsidering your choice of technology.
-
-{{< cta3 >}}
 
 ## Please don't worry about it too much
 

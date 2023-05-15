@@ -23,8 +23,6 @@ Well, no one really knows where the markets are going in the future, but things 
 
 I have no idea if the market is going down another 20%, is going to rebound to all-time-highs by the end of the year, or if we'll trade sideways for the next few months. If I were you, I'd be wary of anyone who is telling you that they do know what is going to happen, especially if there is a price tag attached to the information. What I do know is that there is a sentiment sweeping across the tech industry that has company leaders thinking about tightening their budgets to weather a storm - whether or not the storm comes.
 
-{{< cta1 >}}
-
 ## The markets have been anything but normal lately
 
 For the last decade, stocks have been way up, especially tech stocks. Let's look at some of the winners.
@@ -56,8 +54,6 @@ Finally, the market advantage of tech companies might also be waning. Companies 
 So, assuming the industry won't be what it once was, what does that mean for those of us who work in tech? Well, it means that the insanely-hot hiring market will cool down a bit. The days of recruiters pounding down your door if you have 6-months of experience listed on LinkedIn might be over.
 
 Less investment money means fewer startups and fewer "series-X" fundraising rounds. Less cash in a business's pocket means slower growth, and slower growth means less hiring.
-
-{{< cta2 >}}
 
 ## What kind of developers would a recession impact the most?
 

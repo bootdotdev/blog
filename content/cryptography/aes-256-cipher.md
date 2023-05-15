@@ -21,8 +21,6 @@ Asymmetric encryption is preferred when you want someone to be able to send you 
 
 ![symmetric vs asymmetric key systems](/img/800/1_oe-Kk1FfLPNO5sAAl-4N-g.jpeg)
 
-{{< cta1 >}}
-
 ## AES-256 Secret Key
 
 The secret key used in AES-256 must be 256 bits long. To use a password or passphrase as the key, a [hashing algorithm](https://blog.goodaudience.com/very-basic-intro-to-hash-functions-sha-256-md-5-etc-ed721622ff8) needs to be used to extend the length.
@@ -109,8 +107,6 @@ a5 5a 20 be
 - Substitute bytes
 - Shift rows
 - Multiply columns
-
-{{< cta2 >}}
 
 ## That's it! /s
 

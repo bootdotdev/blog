@@ -38,8 +38,6 @@ D     E
     G  
 ```
 
-{{< cta1 >}}
-
 ## Why do we want balanced trees?
 
 Balanced binary search trees ensure **speed**. The speed of an operation in a binary tree depends on the height of the tree. If the tree is balanced, then the height is only the `log` of the number of nodes, which means the tree will work as fast as possible. However, if the tree is unbalanced, for example with one really long branch, then the height because the total number of nodes rather than the log.
@@ -176,8 +174,6 @@ def rotate_right(self, x):
     y.right = x
     x.parent = y
 ```
-
-{{< cta2 >}}
 
 ## Step 6 - Fix insert
 

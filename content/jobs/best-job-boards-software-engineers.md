@@ -14,8 +14,6 @@ Below you won't find a crazy-huge list of 50 different sites - that's useless. I
 
 ## Top 10 Traditional Job Boards
 
-{{< cta1 >}}
-
 ## 1. LinkedIn
 
 * [Link to job board](https://www.linkedin.com/jobs)
@@ -34,8 +32,6 @@ I like this for a few reasons, namely:
 * The jobs are all remote friendly
 * The search is powerful and easy to use
 
-{{< cta2 >}}
-
 ## 3. KeyValues
 
 * [Link to job board](https://www.keyvalues.com/)
@@ -53,8 +49,6 @@ AngelList is a bit unique in that you'll primarily use it to apply at smaller co
 * [Link to job board](https://www.theladders.com/jobs/search-jobs)
 
 Ladders is a good place to search if you're interested (and think you're ready) to earn over 100k/year in salary. The jobs on the site might be less entry-level, but they tend to be well put-together.
-
-{{< cta3 >}}
 
 ## 6. HackerNews
 

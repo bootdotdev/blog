@@ -69,8 +69,6 @@ Want money? Learn Ruby. Thanks to the Ruby on Rails framework, Ruby backend deve
 
 Gotcha! SQL isn't a programming language like the other seven. But it's, as we'll get into below, a very useful and popular query language. Backend developers often use SQL to communicate between relational databases. It's hard to find a company that wouldn't find SQL knowledge useful, so count this as a must-know language to be hired. You can [learn SQL here](/news/learn-sql-course-released/).
 
-{{< cta1 >}}
-
 ## Top six back-end SQL databases
 
 OK, we've covered coding languages. Now onto databases. A SQL database is a relational database, which means that it stores data in tables that are related to one another. Think rows and columns.
@@ -252,8 +250,6 @@ Sky uses Cassandra for database persistence. Spotify uses it for personalization
 #### Where can I learn Cassandra?
 
 Udemy has a solid [course](https://www.udemy.com/course/apache-cassandra) for $50.
-
-{{< cta2 >}}
 
 ## Top four message queues
 

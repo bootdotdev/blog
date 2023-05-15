@@ -34,8 +34,6 @@ If you know anything about programming, you may already be starting to get an in
 
 Go is used heavily by Google to support their back-end infrastructure. It's good for back-end development because that's what it was *designed* for.
 
-{{< cta1 >}}
-
 ## Can Go be used on the front-end?
 
 I mean, if you really want to, you can use Go as a frontend language, the same way you *can* use a hammer to make a screw go in.
@@ -68,8 +66,6 @@ And of course, Go's own progenitor Google has made use of Go to create or suppor
 * dl.google.com: dl.google.com is a web service that provides access to Google's software downloads, including Chrome, Android Studio, and various other tools. The [dl.google.com backend](https://groups.google.com/g/golang-nuts/c/BNUNbKSypE0/m/E4qSfpx9qI8J?pli=1), which is responsible for serving download files and tracking download statistics, is served by Go.
 * gVisor: gVisor is an open-source security sandbox that allows developers to run untrusted code in a secure environment. [gVisor is built with Go](https://github.com/google/gvisor).
 * Google Cloud Functions: Google Cloud Functions is a serverless computing platform that allows developers to run code in response to events. [The Cloud Functions runtime](https://cloud.google.com/functions/docs/concepts/go-runtime), which is responsible for executing functions and handling requests, is built with Go.
-
-{{< cta2 >}}
 
 ## Which Go frameworks should I use?
 

@@ -27,8 +27,6 @@ We use JavaScript throughout the course for two reasons:
 - JavaScript is an [interpreted](https://en.wikipedia.org/wiki/Interpreted_language#:~:text=An%20interpreted%20language%20is%20a,program%20into%20machine%2Dlanguage%20instructions.), dynamically typed language. This means we can leave some of the lower-level details for later courses and focus on more interesting concepts immediately.
 - JavaScript is extremely popular and one of the most-used programming languages. JavaScript tends to be a language that junior developers are able to find a job using quickly.
 
-{{< cta1 >}}
-
 ## What's Next?
 
 One of the next courses in our pipeline is a direct sequel to "(Very) Basic Intro to Coding". We need to cover other core coding concepts like:

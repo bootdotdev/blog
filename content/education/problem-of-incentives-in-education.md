@@ -48,8 +48,6 @@ Only "George" and "Sally" have their incentives *aligned* with those of the comp
 * Percentage-based transaction fees
 * Free returns on e-commerce purchases
 
-{{< cta1 >}}
-
 ## The problem with university
 
 I think it's safe to say that Austen was right when he pointed out on the podcast that universities aren't incentivized enough to care about job placement rates. Not only do the institutions have no reason to worry about job placement, oftentimes the professors themselves consider teaching an afterthought. Many are there primarily to do research, publish papers, and advance the boundaries of their field.
@@ -59,8 +57,6 @@ I think it's safe to say that Austen was right when he pointed out on the podcas
 Lambda was the pioneer of the "income share agreement", or ISA. The idea is that you do not pay upfront for your tuition. Instead, *if* you get a job upon graduation, you pay the school back a percentage of your wages until you hit a cap. What this does is ensure that Lambda School is incentivized to make sure you get a job upon graduation.
 
 Okay, so far so good. ISAs fixed everything right?
-
-{{< cta2 >}}
 
 ## If ISAs are so great, why all the fuss about Lambda?
 

@@ -31,8 +31,6 @@ roundedToNearest := math.Round(x*100)/100 // 2.0
 roundedUp := math.Ceil(x*100)/100 // 2.0
 ```
 
-{{< cta1 >}}
-
 ## Round float and store in an int
 
 To store the result as an `int`, use the same method as before and then cast the result.

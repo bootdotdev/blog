@@ -20,8 +20,6 @@ Let's take a look at some good technical questions to be familiar with, whether 
 - Goroutines are not hardware-dependent like threads.
 - Goroutines are more lightweight, largely due to [segmented stacks](https://blog.cloudflare.com/how-stacks-are-handled-in-go/#segmentedstacks) in memory
 
-{{< cta1 >}}
-
 ## 2. Can constants be computed in Go?
 
 Constants can **not** be computed at runtime, their value must be known at compile time. That said, constants can be computed at compile-time, typically as a derivative of other constants. For example:
@@ -43,8 +41,6 @@ Go doesn't use a package manager like NPM or Cargo. The Go toolchain provides co
 ```go
 var1, var2 = var2, var1
 ```
-
-{{< cta2 >}}
 
 ## 5. Do you have any preferences for error-handling methodologies in Go?
 
@@ -89,8 +85,6 @@ s1 := primes[1:4]
 `s1` will be: `[3 5 7]`
 
 When slicing an existing array or slice the first index is inclusive while the last index is exclusive. If an index is omitted on one side of the colon, then all values until the edge of the original slice are included in the result.
-
-{{< cta3 >}}
 
 ## 9. Are channels and maps safe for concurrent access?
 

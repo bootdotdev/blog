@@ -34,8 +34,6 @@ This month we plugged the new GPT AI into Boot.dev! You can highlight any code i
 
 Challenges continue to be one of the favorite features on Boot.dev! We now have optional end-of-chapter challenges for "Learn Python" and "Learn OOP"!
 
-{{< cta1 >}}
-
 ## What is yet to come
 
 * Challenges for "Learn Algorithms". We'll continue working our way up the learning path adding more and more optional challenges to the end of each chapter.
@@ -61,8 +59,6 @@ Jason interviews Mat Wilk about logging. As a back-end developer logging is supe
 by SST
 
 Astro is a front-end framework, but that's not the point. This is just hilarious tech YouTube humor that split my side. We need more of this hilarity.
-
-{{< cta2 >}}
 
 ## Shameless plugs
 

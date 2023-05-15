@@ -27,8 +27,6 @@ Now that we have a better understanding of these two languages, we can finally s
 
 **Hot tip:** Functional programming is more than just a paradigm, it's a way of thinking and approaching coding as a whole. Improving your [functional programming](https://boot.dev/learn/learn-functional-programming) skills make you a better developer and helps you create better applications.
 
-{{< cta1 >}}
-
 ## JavaScript vs Python: Which is Best For Beginners?
 
 Both languages have excellent advantages for beginners, it just depends on what advantages you're looking for. Python was designed to be straightforward, and what makes it a great choice for beginners is its readability. Python is praised by industry professionals of all backgrounds for its simplistic design that reads like plain English, giving it an unbeatable learning curve. That's why we teach Python to beginner developers first here at [Boot.dev](https://boot.dev) instead of JavaScript.
@@ -58,8 +56,6 @@ According to the [2020 Stack Overflow Developer Survey](https://insights.stackov
 Along with being well paid, JavaScript ranked number 1 for the most popular language used by developers for the eighth year in a row, and Python ranked number 3. They also ranked highly for most wanted, with Python in spot number 1 and JavaScript just behind in spot number 2.
 
 **Overall,** both Python and JavaScript are the top desired and used languages by developers and offer well-paying careers.
-
-{{< cta2 >}}
 
 ## Python vs JavaScript Performance
 
@@ -108,8 +104,6 @@ JavaScript has asynchronous capabilities, so its programs run smaller tasks in t
 JavaScript's potential is growing in the field, although right now it's best for small projects as it can't handle Big Data like Python _yet._ JavaScript also doesn't have the same investment from developers and companies to beef up its data support.
 
 **Hot tip:** Avoid getting weighed down navigating data structures by studying [Big O](https://boot.dev/learn/learn-data-structures) [notation](https://boot.dev/learn/learn-data-structures). This will help you sift through the noise and find the best solution for you and your project faster.
-
-{{< cta3 >}}
 
 ## Python vs JavaScript for Front-End Development
 

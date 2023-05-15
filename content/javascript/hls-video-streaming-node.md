@@ -18,8 +18,6 @@ HLS allows us to serve large media files as many smaller files. We will use a pr
 - The majority of unwatched or unlistened-to portions of the song won't be downloaded
 - We can use the familiar HTTP protocol, which means less server and client configuration
 
-{{< cta1 >}}
-
 ## First Step - FFMPEG
 
 [FFmpeg](https://www.ffmpeg.org/) will convert mp3 files to HLS format, which is really a bunch of files. The main HLS file is the `.m3u8` file, and the URL that will be given to the streaming client will be the path to this file. This `.m3u8` metadata file tells the client where to find each data (.ts) file. Data files typically contain small chunks of media data (~10 seconds) and are fetched at the client's request as the user progresses through the song or video.

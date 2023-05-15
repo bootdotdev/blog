@@ -30,8 +30,6 @@ C# is a statically typed, general-purpose language, that supports true object or
 
 Its main claim to fame is its tight integration with the .NET framework, which allows for cross-language interoperability, automatic memory management, and access to a large class library. If you prefer a longer history, I encourage you to check out [Wikipedia’s page on C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=The%20C%23%20programming%20language%20was,of%20which%20were%20closed%2Dsource.).
 
-{{< cta1 >}}
-
 ## A brief history of Python
 
 You know what I love about Python’s history? Python stayed so true to its mission. Guido van Rossum, way back in 1991, wanted to develop a language that was easy to read, write, and understand. He wanted to open up the field of computer programming to everyone.
@@ -51,8 +49,6 @@ Let's take a brief look at C programming, as well as C++ since they're often con
 | C#       | High-level language | Simplified syntax, automatic memory management, .NET Framework libraries, versatile for desktop and web applications                                | Built for Microsoft platforms, runs on a virutal machine, automatic memory management                         |
 | C        | Low-level language  | Direct access to system resources, efficient memory management, fast and efficient                                                                  | No built-in support for OOP, compiles to machine code, manual memory management                               |
 | C++      | Mid-level language  | Efficient memory management, support for object oriented programming language, compiled language, fast and efficient for performance-critical tasks | Built-in support for OOP, more high-level features than C, compiles to machine code, manual memory management |
-
-{{< cta2 >}}
 
 ## Code examples
 
@@ -161,8 +157,6 @@ From a pure user perspective, Python is definitely more popular. The 2023 Tiobe 
 Python was also [slightly more "loved](https://survey.stackoverflow.co/2022/#section-most-loved-dreaded-and-wanted-programming-scripting-and-markup-languages)" than C#, at 67.34% versus 63.39% loved respectively. However, 17% of respondents want to learn Python next, while only around 6% have their sights set on C#.
 
 This isn’t surprising and isn’t really a good indicator of which is best. Of course, Python is more popular; as I explained, it’s much better for beginners. But among certain career paths, such as game developers, C# is infinitely more popular because it’s the lingua franca. Unity, a cross-platform game engine and development platform, uses C#.
-
-{{< cta3 >}}
 
 ## Which has a better performance?
 

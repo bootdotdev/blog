@@ -41,8 +41,6 @@ If you can answer "yes" to any of these questions, your journey will be quite a 
 
 Of course, there are many other tidbits of knowledge and training that can speed up your journey. I just listed 10 of the most common ones.
 
-{{< cta1 >}}
-
 ## What else impacts how long it will take me to learn back-end development?
 
 Apart from analyzing where you're starting from, there are some other key factors that will heavily impact how long it will take you to get a backend job.
@@ -61,8 +59,6 @@ Are you a helpful member of tech communities online?
 * Do you live in a tech hub or at least a city that has *some* good jobs?
 * Do you know some people (online or IRL) that can review your resume and project portfolio?
 * Do you like meetups, and are there any coding meetups in your city?
-
-{{< cta2 >}}
 
 ## Does it take longer to learn back-end or front-end?
 

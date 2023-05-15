@@ -27,8 +27,6 @@ Here are some examples.
 | [numpy](https://numpy.org/)                            | Library     |
 | [lodash](https://www.npmjs.com/package/lodash)         | Library     |
 
-{{< cta1 >}}
-
 ## What is a "portfolio project" anyhow?
 
 A portfolio project is just a project that you feel comfortable sharing with potential employers - both the finished product *and* the code. Its primary purpose is simply to assist you in your job search, it shows what you're capable of building, and frankly, a great portfolio can do a lot for your [confidence in interviews](/jobs/confidence-in-job-interviews/). Not every project you build while learning to code should necessarily be a "portfolio" project. You'll build plenty of projects just for the sake of learning, or for fun.
@@ -80,8 +78,6 @@ Now, I'm not saying you should spend your valuable time marketing your portfolio
 When you're applying for your first developer job, your competing with many other new developers. Frankly, most of the candidates are doing the same old things, which makes it hard for the hiring team to find the best people. Anything you can do to stand out positively will help!
 
 The fact that most developers don't even have a good portfolio of projects will already be a point in your favor. However, if on top of that you have a cool library with a simple API you'll be in a really good place.
-
-{{< cta2 >}}
 
 ## The libraries and packages that helped me get work
 

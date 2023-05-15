@@ -14,8 +14,6 @@ This is a tutorial on how to set up an Electron app on [Travis CI](https://travi
 
 I created a [boilerplate repo](https://github.com/lane-c-wagner/electron-ci-boilerplate) that has all the necessary configuration to deploy a minimalistic app to Github releases. If you get lost during the tutorial you can look to that as an example. Also, if you don't have an electron app yet and just want to start with it as an example feel free.
 
-{{< cta1 >}}
-
 ## Electron Builder
 
 We need a package that will handle packing the app into an executable and deploying to Github releases. [Electron Builder](https://github.com/electron-userland/electron-builder) is a fantastic npm package that handles building, signing, notarizing, and deploying an electron app on all three operating systems. Add it using yarn ([recommended by Electron Builder](https://www.npmjs.com/package/electron-builder#installation)):

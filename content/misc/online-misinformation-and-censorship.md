@@ -18,8 +18,6 @@ By removing content they believe to be dubious, Twitter and Facebook have made t
 
 **This is a problem.**
 
-{{< cta1 >}}
-
 ## So we can't censor?
 
 We certainly can, and we certainly should in some cases. Let's get some obvious ones out of the way:
@@ -66,8 +64,6 @@ By removing misleading content, platforms run the risk of fueling an [argumentum
 > But the fact that some geniuses were laughed at does not imply that all who are laughed at are geniuses. They laughed at Columbus, they laughed at Fulton, they laughed at the Wright brothers. But they also laughed at Bozo the Clown.
 > 
 > \- Carl Sagan, Probably
-
-{{< cta2 >}}
 
 ## What should users do about misinformation?
 

@@ -119,8 +119,6 @@ export async function updateUserInterests(interestUUIDs) {
 }
 ```
 
-{{< cta1 >}}
-
 ## Why wouldn't you DRY out your code?
 
 It seems like a good idea to reduce code duplication right? Well, yes, in general, it is. That said, let's look at some of the drawbacks that come along with too much centralization.

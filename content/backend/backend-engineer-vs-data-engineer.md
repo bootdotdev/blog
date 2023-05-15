@@ -69,8 +69,6 @@ Your tasks include:
 
 What do you get for all this incredible work? As of September 2022, it looks like [the average salary](https://www.glassdoor.com/Salaries/data-engineer-salary-SRCH_KO0,13.htm) for a data engineer is $110,000 per year, with a high end of $174,000 per year. You also get job stability. LinkedIn [called](https://www.linkedin.com/pulse/demand-data-engineers-exceed-scientists-analysis-hossain-phd#:~:text=Multiple%20recent%20recruitment%20surveys%20revealed,the%20number%20of%20open%20positions.) it the most in-demand job in 2021, above even the famously sexy data scientist job!
 
-{{< cta1 >}}
-
 ## What is a Backend Engineer?
 
 As the background engineer, data is still your baby, but now you have a whole family of *additional* responsibilities. You're responsible for making sure your organization's website or website products run as smoothly as possible. That includes databases, back-end logic, APIs, architecture, and servers. In many cases, especially at smaller companies, you may find yourself *also* doing some data engineering as a more generalized back-end engineer.

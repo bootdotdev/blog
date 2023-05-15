@@ -24,8 +24,6 @@ Read on for some project ideas, or, if you're looking for a more complete learni
 5. A database of pokemon
 6. Deploy an earlier project using Docker
 
-{{< cta1 >}}
-
 ## The skills you'll learn in these projects
 
 What skills are most in demand? If you want to [become a backend developer](/backend/become-backend-developer/), you'll need to demonstrate these six key skills to potential employers:
@@ -52,8 +50,6 @@ This simple project is a text analyzer in python. This tutorial runs you through
 The CLI is a text-based interface used to run software and operating systems. As a user, you type commands into the interface. The CLI runs it and shows the output of your command on the screen. As a backend dev, you'll be dealing with servers, not clients. Mastering the CLI is a must.
 
 If you can't manage this, no worries! Take a step back, re-learn [Python fundamentals](https://boot.dev/learn/learn-python), and come back when you're ready.
-
-{{< cta2 >}}
 
 ## [Project 2: A visual maze solver](https://boot.dev/build/maze-solver-python)
 
@@ -94,8 +90,6 @@ This project should get you *really* familiar with the basics of RESTful APIs. T
 I'd also recommend doing a couple more toy projects to practice related concepts and technologies like GraphQL and gRPC. I recommend [this](https://www.codeproject.com/Articles/452052/Build-Your-Own-Web-Server) old-but-gold project to build a simple web server and make it internet-accessible. It's super simple but gives a lot of customization potential which is important for projects for backend devs.
 
 Web Socket APIs are important because they allow bi-directional, full-duplex communication between clients and servers. RESTful APIs matter because they're the [definitive state of rules](https://medium.com/techloop/an-introduction-to-backend-development-and-rest-apis-b1a1a978821f) that developers follow when they create their APIs. GraphQL is a language used to read and modify data from API and is growing in popularity. Six years ago, only 5% of JavaScript developers used it. By 2020, almost [half](https://2020.stateofjs.com/en-US/technologies/datalayer/) (44.3%) of the respondents had used it.
-
-{{< cta3 >}}
 
 ## Project 5: A pokemon database
 

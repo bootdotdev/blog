@@ -21,8 +21,6 @@ If you don't know already, boot.dev is a code-in-the-browser computer science pr
 
 All of these were problems for my wife when I told her, "you don't need to go back to school, you can [learn online](/computer-science/comprehensive-guide-to-learn-computer-science-online/)!". She had problems just knowing where to start with popular course marketplaces and certainly couldn't put together her own curriculum.
 
-{{< cta1 >}}
-
 ## Free computer science courses
 
 Boot.dev now works on a subscription model with a very permissive free tier. With the free plan, you can work through entire courses, you just aren't able to verify your answers without supporting the project. In other words, you can read all the content and execute the code in a sandbox, you'll just have to decide for yourself when you feel like you've mastered a concept.

@@ -20,8 +20,6 @@ However, they're both held up as answers to a lot of typical coding questions: w
 
 The truth, like just about every article I write about how to [learn computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/), is that it's complicated. The answer to whether you should [learn Go](/golang/learn-go-fast/) vs Python depends on if you're a beginner, what job you want, what your history with computer science is, and what your goal is. 
 
-{{< cta1 >}}
-
 ## Let's start with a brief historical definition of Golang vs Python
 
 Python slithered onto the coding scene in 1991, written by Guido van Rossum who wanted a successor for a programming language I've never even heard of, called ABC programming. Its hallmarks are readability, versatility, and scalability. It's a beast of a language with tremendous libraries, a fervent community of supporters (called pythonistas), and three versions that are patchily compatible. 
@@ -43,8 +41,6 @@ Python, meanwhile, is a winner for me in terms of which language is best for abs
 - Is versatile enough for any project a beginner might want to try
 
 In summary, when the question is "Golang vs Python: which is best for beginners?" for most people the answer will be Python.
-
-{{< cta2 >}}
 
 ## Golang vs Python: Which coding language is best for experienced coders?
 
@@ -89,8 +85,6 @@ Python is certainly the most popular choice for coders who want to write a machi
 Part of the reason Python is so popular for machine learning is that it's the home of TensorFlow, which is a deep learning framework released in Python. Where Go is good for its simple, easy-to-implement libraries and frameworks, Python's deep and rich history in complex, multitudinous frameworks is what makes it the best language for machine learning. TensorFlow is definitely chief among those libraries, but Keras and Scikit-learn are also notable libraries.
 
 It's worth noting that popularity isn't the same as quality. While Go [doesn't even rank on the top 10 languages for machine learning](https://github.blog/2019-01-24-the-state-of-the-octoverse-machine-learning/) in terms of popularity, [Websensa admitted in their post](https://websensa.com/en/2020/07/01/go-vs-python-which-one-is-better-for-machine-learning/) on which language is best that "Go is faster, more scalable, and performant so that it is perfect for large-scale projects. And that makes it one of the best choices to work on machine learning infrastructure." Perhaps in the future when debating between Golang vs Python, Go will be a machine learning coder's go-to.
-
-{{< cta3 >}}
 
 ## Golang versus Python: Which language is best for programmer productivity? 
 

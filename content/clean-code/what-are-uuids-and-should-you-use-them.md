@@ -17,8 +17,6 @@ UUIDs are just a specific *kind* of ID. A universally unique identifier (UUID) i
 
 In short, if you don't have *extremely* strict memory and performance requirements, I'd recommend using UUIDs instead of integer IDs. It reduces the chances of future ID conflicts and makes building a distributed architecture *much* easier. On [Boot.dev](https://boot.dev), my platform for developers who want to [learn back-end engineering](/backend/become-backend-developer/), I use UUIDs as the primary key for all database records.
 
-{{< cta1 >}}
-
 ## Why use a UUID?
 
 The main advantage of using UUIDs is that you can create a UUID and use it to identify something, such as a row in a database, with near certainty that the identifier will not exist in another row in your system _or anyone else's_. UUIDs used by completely unrelated companies or organizations can be referenced together without duplication.
@@ -53,8 +51,6 @@ You have to have a bit of custom code that generates a specific format of the st
 
 UUIDs take up 128 bits in memory and can take up more if stored as a string. In systems where resources are precious, it could make sense to use a more compact format. That said, in modern web development, I think we'd be penny-wise and dollar-stupid to care about such negligible resource usage.
 
-{{< cta2 >}}
-
 ## The UUID Format
 
 While you could just generate 32 random digits and call your home-grown ID format "good enough", it's nice to use [standards that already exist](/clean-code/use-existing-standards/). Aside from the fact that there are safe libraries you can use to work with standard UUIDs, it's nice to look at the UUID format and know "hey, this is an ID"! If you roll your own format, you'll likely confuse members of your team. They could think it's an encoded JWT, or perhaps a private key. Best to avoid that confusion.
@@ -83,8 +79,6 @@ At the end of the day, all UUIDs are IDs, but not all IDs are UUIDs. A UUID is a
 * Slugs - Predefined strings like `status_processing`, `status_failed`, and `status_new`
 
 In reality, anything can be used as an ID, but the best IDs are unique, small, recognizable and efficient.
-
-{{< cta3 >}}
 
 ## A note on uniqueness
 

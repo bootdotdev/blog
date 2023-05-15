@@ -16,8 +16,6 @@ By the end of this walkthrough, you'll have a project structure that looks somet
 
 ![Golang Microservice Boilerplate Directory](/img/800/Screen-Shot-2020-09-30-at-8.55.37-PM.png)
 
-{{< cta1 >}}
-
 ## Step 1 - Create a Remote Repo and Clone It
 
 I'm a sucker for the old [GOPATH](https://golang.org/doc/gopath_code.html). Using the actual GOPATH is no longer recommended, but I find the single workspace principle neat and orderly. As such, I keep all my projects in:
@@ -96,8 +94,6 @@ This will create three new things in your project root:
 - `go.sum` - hashes of dependencies for security reasons
 - vendor directory - source code of all dependencies
 
-{{< cta2 >}}
-
 ## Step 4 - .gitignore
 
 I don't like pre-built `.gitignore` files, I like project-specific ones so I start from scratch. This is my typical starting point:
@@ -128,8 +124,6 @@ CMD ["/bin/sh"]
 We use a lightweight OS, Debian stretch-slim. Remember, we're deploying statically compiled executables! Go is a compiled language, we don't need to include the whole Go toolchain in our deploys.
 
 After that, we just add our executables to the `/bin` directory and launch a shell.
-
-{{< cta3 >}}
 
 ## Step 6 - Github Actions (optional)
 

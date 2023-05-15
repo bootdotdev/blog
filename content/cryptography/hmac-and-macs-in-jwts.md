@@ -43,8 +43,6 @@ if (macCode == sha256('thisIsASecretKey1234' + message)){
 
 Note that MACs don't _necessarily_ need to use a hash function, but a hash _can_ be used as the "signing" mechanism.
 
-{{< cta1 >}}
-
 ## HMAC - [Hash-Based Message Authentication Code](https://en.wikipedia.org/wiki/HMAC)
 
 An HMAC is a kind of MAC. All HMACs are MACs but not all MACs are HMACs. The main difference is that an HMAC uses two rounds of hashing instead of one (or none). Each round of hashing uses a section of the secret key. As a naive example:

@@ -38,8 +38,6 @@ const newArray = oldArray.map(double);
 
 There is also an optional second parameter to the map function that we will go over later, a way to override `thi`s.
 
-{{< cta1 >}}
-
 ## Syntactic Sugar
 
 In the above example, to double each value in the original array, we only used the `val` argument. It's _extremely_ common to only care about the `val` argument in the map function. When that's all we need we can simplify the syntax, and even throw in some es6 arrow functions:
@@ -85,8 +83,6 @@ const newArray = oldArray.map((val, index) => {
 
 // newArray = [0, 4, 18, 48]
 ```
-
-{{< cta2 >}}
 
 ## Array Parameter
 

@@ -56,8 +56,6 @@ Also, before diving into all the various requirements, I'd like to point out tha
 
 These topics cover almost everything that a typical CS student would learn at a university, though you obviously need to make sure you go appropriately deep into each topic. Later in the article, we'll cover each topic in more detail, and supply resources to get you started.
 
-{{< cta1 >}}
-
 ## Feeling Overwhelmed? Don't Be.
 
 A typical computer science undergraduate takes [4 years to complete their degree](/computer-science/compsci-certificate-vs-degree/). Hopefully, this isn't news to you, that's just how college works. Have hope! If you're teaching yourself, you can cut out the fat and speed up the process. If you follow these tips, you'll likely be able to learn the equivalent of a CS major in less than two years, and should be able to get an internship or a first job after just 3-6 months, depending on how much time you're able to practice and study daily.
@@ -87,8 +85,6 @@ Don't be that developer, or if you are that developer, you can easily go back an
 Like myself, you may have been hearing for the past 15 years that "there are more programming jobs than there are candidates to fill them". While still true, _the software engineering career outlook is changing_.
 
 We've recently had an influx of thousands of self-taught developers or Bootcamp grads that are all looking for entry-level jobs, but don't have the fundamental math and CS skills to solve more technically challenging problems. By having a deeper understanding of computational theory and algorithms, you can set yourself apart to land jobs faster and command a higher salary when you get there.
-
-{{< cta2 >}}
 
 ## Required Topics
 

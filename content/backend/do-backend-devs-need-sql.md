@@ -50,8 +50,6 @@ Say, for instance, you want to log into [Boot.dev](https://boot.dev) to take ano
 
 Once the backend has retrieved your profile data, it sends it back to the front end in a format that can be displayed on your screen. The front end then uses HTML and CSS to render the profile data and display it to you.
 
-{{< cta1 >}}
-
 ## How can you learn SQL for the backend? 
 
 [Like Go](/golang/become-golang-backend-dev/), SQL is one of these languages that is primarily back-end oriented. If you learn SQL, you're learning SQL for the backend by default.
@@ -126,8 +124,6 @@ As a backend developer, you might need to integrate the database with other tool
 For example, if you are working on a financial application, you can use SQL to integrate the database with a tool that analyzes financial data and provides insights into investment opportunities.
 
 Overall, SQL is a powerful tool that is essential for backend developers who work with databases. When you're a SQL master, you have the power to manage data efficiently, optimize queries, design databases, and integrate with other technologies.
-
-{{< cta2 >}}
 
 ## What other database tools and technologies should you know as a backend developer?
 

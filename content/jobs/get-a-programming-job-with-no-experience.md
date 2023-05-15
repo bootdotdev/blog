@@ -28,8 +28,6 @@ You see, for you, this may be a breakthrough gig. For your potential employers t
 
 So you know how to code? Good. Learn to **prove it.**
 
-{{< cta1 >}}
-
 ## Personal Projects - A Necessity
 
 So your abilities will speak for themselves in an interview... when a company finally gives you an opportunity to speak. You want those capabilities to be able to talk the ears off any potential employers, but sometimes, even after a glance at your resume and a quick Google, they don't want anything to do with you. It happens - but we have more ways to alleviate that.
@@ -54,8 +52,6 @@ According to [Lane Wagner's article on Computer Science resume's for 2021](/comp
 - If a position asks for a specific technology, don't be afraid to spend a day or two brushing up on the specifics of it
 - Use color to emphasize important points
 - Spell and grammar check
-
-{{< cta2 >}}
 
 ## Going Above and Beyond - Your Online Presence
 
@@ -108,8 +104,6 @@ If something comes up in the interview that you don't know, however, **don't tak
 Maybe you don't get the job - but that doesn't mean this was a waste of your time. Getting interviews at all is an important component of networking. If you can convince someone to give you a shot, or at least convince someone to like you, then they can vouch for you to others, or take another look at your qualifications down the road. There are also more immediately benefits to trying and failing an interview, namely that you now have more practice interviewing, and if you're smart, you'll ask your interviewer for feedback that can help you do better on future interviews.
 
 Interviews aren't the end-all of networking, either. Community events like meetups, developer organizations, and tech conventions are a great place to start forming connections. You have to be confident and brazen, however. Remember: It's better to be annoying than forgotten... at least when it comes to finding a job.
-
-{{< cta3 >}}
 
 ## Finding a Way Forward
 

@@ -21,8 +21,6 @@ Data integrity protects from a wide range of problems that involve data being mu
 
 **Malicious Actor** - A man-in-the-middle could be altering messages to confuse correspondents or learn valuable information.
 
-{{< cta1 >}}
-
 ## Solution - Checksum
 
 A checksum solves all three of the potential data integrity problems listed above. A checksum is a [deterministic](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) value derived from the message data and can be transmitted separately. This means the checksum for a given message will always be the same.
@@ -41,8 +39,6 @@ There are many types of checksums, but the best checksums are typically [cryptog
 - **Small** - The result of the hash (AKA the "digest") should be short - no need to waste a lot of data.
 
 The [SHA-256](/cryptography/how-sha-2-works-step-by-step-sha-256/) hash function is often used to create checksum digests.
-
-{{< cta2 >}}
 
 ## Example - Validating a Real Checksum
 

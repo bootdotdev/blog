@@ -50,8 +50,6 @@ The main three languages used in web page development are HTML, CSS, and JavaScr
 
 > HTML provides the structure, CSS provides the presentation and formatting, and JavaScript makes the elements dynamic and controls their behavior.
 
-{{< cta1 >}}
-
 ## HTML, CSS & JavaScript: What do they do?
 
 HTML gives structure to web pages using each different element, and can also affect font, color, hyperlinks, and images. HTML files have either `.html` or `.htm` extensions when stored.
@@ -141,8 +139,6 @@ A quote from [this art](https://ischool.syr.edu/why-html-is-not-a-programming-la
 
 Therefore, without programming logic, some do not consider it a programming language. Nevertheless, when you write in HTML you are still coding, and HTML5 brings a wealth of new extras like geolocation and multimedia to web page design, so HTML's importance shouldn't be questioned, whether you agree or disagree with it being a programming language.
 
-{{< cta2 >}}
-
 ## Differences between HTML, CSS and JavaScript, and how they work together
 
 HTML can combine JavaScript within scripts that convert HTML's static form into dynamic content by modifying the web page contents without reloading the page. However, the reverse cannot occur. JavaScript doesn't really embed HTML.
@@ -160,8 +156,6 @@ However, all major browsers support dynamic JavaScript content and unless you us
 HTML is typically rendered from the server-side as it is static and therefore doesn't need anything client-side. It's usually processed by the server before it's ever sent to the user. That said, new front-end frameworks like React and Vue actually render the HTML in the JavaScript code on the front-end, which is still a relatively new idea.
 
 JavaScript is a client-side scripting language where it is internally compiled and then interpreted before the scripts or functions are executed client-side. Because JavaScript is run on the user's machine, it's not secure -- you should never process passwords or any other sensitive data in JavaScript.
-
-{{< cta3 >}}
 
 ## HTML vs CSS vs JavaScript: Add-ons and libraries
 

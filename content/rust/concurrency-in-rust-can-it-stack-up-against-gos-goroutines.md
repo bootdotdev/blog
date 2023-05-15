@@ -112,10 +112,6 @@ Where the last ten lines are all printed within five seconds of each other becau
 
 The `block_on` executor that we used blocks the main thread, which means that all the concurrency happened on a single thread.
 
-{{< cta1 >}}
-
-{{< cta2 >}}
-
 ## Rust's Threading
 
 Threading in Rust takes advantage of multi-core hardware. When a new thread is spawned, the operating system knows that these separate threads of the program can be executed in parallel on different cores at exactly the same time.

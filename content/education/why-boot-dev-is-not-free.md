@@ -30,8 +30,6 @@ This project, if it's actually going to accomplish its goals (which I believe ar
 
 Right of the gate I'm bound by the constraint that I need to be able to earn a living wage through this thing.
 
-{{< cta1 >}}
-
 ## So what is Boot.dev's current business model anyways?
 
 I don't think I've gotten this right yet, but at the moment we have a simple way to fund ongoing development: our "membership".
@@ -84,8 +82,6 @@ This is an interesting one I've been thinking about recently. The idea is that I
 I think we'll experiment with this, but I'm a little skeptical, because the incentives become too focused on "weeding out" the students who are less likely to be placed in a career, rather than just educating everyone as effectively as possible.
 
 There could be a hybrid model where the career placements subsidize the education platform, making the learning portion cheaper while still incentivizing us to provide an amazing experience.
-
-{{< cta2 >}}
 
 ## So what are we going to do?
 

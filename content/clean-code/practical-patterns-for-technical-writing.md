@@ -25,8 +25,6 @@ We will work our way from a very high-level view of the document to a detailed a
 7. Iterate and review
 8. Conclusion
 
-{{< cta1 >}}
-
 ## Your Audience
 
 Before you start writing, you should **be clear about who is your audience**. In some cases, it might make sense to explicitly state who this is in the actual document. Make clear which knowledge or skill prerequisites the reader needs to have to understand your document.
@@ -44,8 +42,6 @@ To make your structure easily understandable, it helps to ask the three Ws which
 1. What are you trying to tell the reader?
 2. Why is it important for the reader to know this?
 3. How should the reader use this knowledge?
-
-{{< cta2 >}}
 
 ## Active Voice vs. Passive Voice
 
@@ -82,8 +78,6 @@ First of all, every list should be introduced by a sentence that describes what 
 ### Tables
 
 Tables basically follow the same rules. Make sure to have **clear headers** for every row and column. Avoid putting more than two sentences into a table field. Otherwise, it will easily be bloated and hard to understand for the reader.
-
-{{< cta3 >}}
 
 ## Word Choice
 

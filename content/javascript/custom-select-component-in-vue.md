@@ -14,8 +14,6 @@ Creating a custom select tag with its own styling is notoriously difficult. Some
 
 ## [Code Sandbox Demo](https://codesandbox.io/s/custom-vuejs-select-component-8nqgd)
 
-{{< cta1 >}}
-
 ## The HTML
 
 ```html
@@ -88,8 +86,6 @@ Important things to note about the JavaScript:
 
 - We also emit the selected value on _mount_ so that the parent doesn't need to set the default value explicitly.
 - If our select component is a small part of a larger form, then we want to be able to set the correct [tabindex](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex).
-
-{{< cta2 >}}
 
 ## The CSS
 

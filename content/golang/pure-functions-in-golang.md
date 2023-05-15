@@ -25,8 +25,6 @@ Which means that as a developer I know two important things:
 
 Because of these properties, pure functions keep applications simple. As we know, simple applications tend to be faster, are easier to test and debug, and are less error prone in general.
 
-{{< cta1 >}}
-
 ## Example in Go
 
 Let's take a look at an example function. Using Go, we'll write a `countNamesInText` function that [splits a given string into words delimited by whitespace](/golang/split-strings-golang/), then, counts all the words that match a name pulled from the database.
