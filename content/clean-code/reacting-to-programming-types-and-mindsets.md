@@ -32,7 +32,7 @@ I've gone to external resources to try to find some arguments for dynamic typing
 
 True. I choose to start developers with Python on [Boot.dev](https://boot.dev) because I think it has a simple syntax.
 
-Python makes for an amazing environment in which to learn programming, bsut that's *despite* the dynamic typing, not *because* of it.
+Python makes for an amazing environment in which to learn programming, but that's *despite* the dynamic typing, not *because* of it.
 
 With languages that support type inference, 80% of the "boilerplate" code is just gone. In Python, we have:
 
