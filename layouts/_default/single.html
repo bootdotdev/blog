@@ -46,6 +46,10 @@
             </div>
 
             <div>
+                {{ if $isBlog }}
+                {{ partial "newsletter.html" . }}
+                {{ end }}
+
                 <main>
 
                     {{ if .Params.toc }}
