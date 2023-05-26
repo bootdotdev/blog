@@ -52,7 +52,7 @@ I use the following settings:
 
 Simply put, [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) does everything `gofmt` does but additionally formats import statements. I like that.
 
-## Bonus: Auto-Update, Staticcheck, Linting and Vetting
+## Bonus: Auto-Update, Staticcheck and Vetting
 
 I also have these additional settings to add even more functionality to my VS Code environment. If you find them useful, feel free to use them.
 
