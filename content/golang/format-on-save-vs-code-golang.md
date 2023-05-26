@@ -66,7 +66,6 @@ I also have these additional settings to add even more functionality to my VS Co
         }
     },
     "go.toolsManagement.autoUpdate": true,
-    "go.lintTool": "golint",
     "go.vetOnSave": "package",
 }
 ```
