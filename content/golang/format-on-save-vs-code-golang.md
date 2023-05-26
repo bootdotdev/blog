@@ -58,17 +58,12 @@ I also have these additional settings to add even more functionality to my VS Co
 
 ```json
 {
-    "gopls": {
-        "staticcheck": true,
-        "analyses": {
-            "ST1000": false,
-            "ST1018": false
-        }
-    },
     "go.toolsManagement.autoUpdate": true,
     "go.vetOnSave": "package",
 }
 ```
+
+The [staticcheck](https://staticcheck.io/) tools should automatically work within VS Code if you're using the language server and the Go extension and have it [installed](https://staticcheck.io/docs/getting-started/).
 
 ## Not Working?
 
