@@ -34,13 +34,14 @@ If you're interested in any of the following positions, please send an email to 
 
 ### Senior Software Engineer
 
-**Compensation**: $100-150k + Equity Package + Bonus
-**Location**: Remote USA. Bonus points for SLC, UT
-**Experience**: Number of years isn't too important, but *most* developers will take 5-10 years of professional experience to reach the "senior" level we're looking for
+* **Compensation**: $100-150k + Equity Package + Bonus
+* **Location**: Remote USA. Bonus points for SLC, UT
+* **Experience**: Number of years isn't too important, but *most* developers will take 5-10 years of professional experience to reach the "senior" level we're looking for
 
 We're looking for the 3rd member of our team! In descending order of importance, your responsibilities will include:
 
-* Build the Boot.dev learning platform. This includes the backend API, frontend, and blog.
+* Build the Boot.dev learning platform.
+  * This includes the backend API, frontend, and blog.
   * We aren't satisfied with simply publishing text+video tutorials.
   * We're constantly looking to improve the learning experience with tight feedback loops, gamification, and better solution verification.
 * Maintain and improve existing Boot.dev courses and projects.
