@@ -19,7 +19,7 @@ All the best, Lane
 
 ## Patch notes
 
-### 1. [BackendBanter.fm](https://www.backendbanter.fm) Podcast
+### [BackendBanter.fm](https://www.backendbanter.fm) Podcast
 
 Backend Banter is our brand new podcast about backend technologies and careers! We've released 3 episodes so far, and we're releasing a new one every Monday. You can watch to the video version on [YouTube](https://www.youtube.com/playlist?list=PLw1W1TeNPmy6_qwxibW_51XhkuYYRBDLK) or subscribe on your [favorite podcast player](https://www.backendbanter.fm).
 
