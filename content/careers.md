@@ -6,8 +6,6 @@ images:
   - "/img/800/wagslane_A_young_30_year_old_fire_mage_walking_into_a_beautiful_85f9ac70-080d-4515-8183-d7e649fa4690.png.webp"
 ---
 
-## Who we are
-
 We're building the most fun, effective, and in-depth learning experience for aspiring backend developers. We're a small team of developers who love to make the process of learning as fun and hands-on as it can be.
 
 ### Our tech stack
