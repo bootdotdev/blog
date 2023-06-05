@@ -34,7 +34,6 @@ If you're interested in any of the following positions, please send an email to 
 
 ### Senior Software Engineer
 
-* **Compensation**: $100-150k + Equity Package + Bonus
 * **Location**: Remote USA. Bonus points for SLC, UT
 * **Experience**: Number of years isn't too important, but *most* developers will take 5-10 years of professional experience to reach the "senior" level we're looking for
 
