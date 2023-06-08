@@ -78,9 +78,13 @@ You can buy boosts by clicking on the gem icon in the sidebar, as long as you ha
 
 ## Quests
 
-Completing quests will award you with gems. You complete quests by earning a certain amount of XP within a week. The harder the quest, the more XP you'll need to earn, and the more gems you'll gain as a reward.
+There are two types of quests on Boot.dev: Daily, and Weekly.
 
-You may only have a single quest active at any given time. You can select a quest if you don't have one yet from the [questboard](https://boot.dev/questboard).
+Completing daily quests will award you with XP. Daily quests are completed by passing off a certain amount of assignments for the day. The daily quest you are given each day is random. You can accept your daily quest from the [questboard](https://boot.dev/questboard). You can only complete a single daily quest every 24 hours.
+
+Weekly quests will award you with gems. You complete weekly quests by earning a certain amount of XP within a week. The harder the quest, the more XP you'll need to earn, and the more gems you'll gain as a reward. You cannot abandon a quest once you accept it! So choose wisely!
+
+You may only have a single quest of each type active at any given time. You can select a quest if you don't have one yet from the [questboard](https://boot.dev/questboard).
 
 ## Achievements
 
