@@ -30,8 +30,6 @@ for (let i = 0; i< arr.length; i++){}
 
 ~39 milliseconds
 
-{{< cta1 >}}
-
 ## 3rd: ES6 forEach()
 
 ```js
@@ -51,8 +49,6 @@ $.each(arr, function( index, value ) {});
 ~225 milliseconds
 
 Eeeeeew... jQuery. Convenient if you live in 2010. Very Slow.
-
-{{< cta2 >}}
 
 ## Wildcard: For..Of ES6
 

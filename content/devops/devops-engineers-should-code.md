@@ -43,8 +43,6 @@ The most important point for our purposes is:
 
 In other words, if a "DevOps" team is to be a team at all, in my opinion, it should be the team responsible for building the tooling that enables developers to quickly test, deploy, and monitor their services *themselves*.
 
-{{< cta1 >}}
-
 ## Is there no place for IT Ops people anymore?
 
 Yes, there absolutely is. There are plenty of organizations that need traditional IT operations engineers and have no real need for them to be writing custom code. I want to be clear, the vast majority of *my experience* is in the development of cloud-based web services. In that environment, I've found that "DevOps" engineers who can script, write automation, build APIs and use Git are more effective than those who can't.
@@ -68,8 +66,6 @@ If you're a DevOps engineer that's uncomfortable with the idea of writing code, 
 * They're already used to banging their head against the keyboard trying to figure out why something is broken
 
 Anyhow, not to plug my stuff too hard, but if you're interested in getting started with back-end coding, I've created [Boot.dev](https://boot.dev) to be a place for ops engineers to upskill in coding and computer science. Do check it out if you want to learn to write back-end code in Python, JavaScript and Go. That said, if Boot.dev is not your cup of tea, check out [FreeCodeCamp](https://www.freecodecamp.org/), [the Odin Project](https://www.theodinproject.com/), or any other good resources that work for your needs.
-
-{{< cta2 >}}
 
 ## So, are you a DevOps engineer if you aren't writing code?
 

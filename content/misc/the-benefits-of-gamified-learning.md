@@ -61,8 +61,6 @@ Learning progresses so much [faster](/jobs/learn-coding-fast/) when it's enjoyab
 
 ![Gaming Makes You Happy Meme](/img/800/gaming-makes-you-happy-776x1024.jpg)
 
-{{< cta1 >}}
-
 ## Disadvantages of Gamified Learning
 
 ### Cost to Develop

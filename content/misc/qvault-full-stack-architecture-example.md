@@ -35,8 +35,6 @@ Here are some additional details on the technologies I'm using within the Vue ap
 - [Markdown-it](https://github.com/markdown-it/markdown-it) - All of the instructions in the app are written in Markdown, so the front-end needs a Markdown renderer.
 - [Tailwind CSS](https://tailwindcss.com/) - Tailwind has been amazing. I would highly recommend it if you have a hard time writing "clean" css.
 
-{{< cta1 >}}
-
 ## The app's back-end - Golang server on Kubernetes
 
 The backend of the boot.dev app consists of two services, both written in [Golang](https://go.dev/), running on a [Kubernetes](https://kubernetes.io/) cluster in Google Cloud Platform on [auto-pilot mode](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview). One of them is an HTTP server that acts as the RESTful backend for the frontend. The other server powers the [Discord bot for our community](/news/roles-qvault-discord-server/).
@@ -56,8 +54,6 @@ Here are some more of the technologies I use on the backend:
 ## The database - Postgres on Cloud SQL
 
 I really like [PostgresQL](https://www.postgresql.org/). I'm of the opinion that it's one the best general-purpose solution for new apps, though I do try to build my apps so [I can move to more specialized storage mechanisms](/clean-code/death-taxes-and-database-migrations/) if need be. The application backend uses this Postgres instance running in Google Cloud SQL to persist things like user preferences, exercise completions, etc.
-
-{{< cta2 >}}
 
 ## Payments - Stripe
 

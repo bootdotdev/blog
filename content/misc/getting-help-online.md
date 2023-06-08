@@ -25,8 +25,6 @@ This is the most important point I'm going to make. While not the most egregious
 
 One of my biggest pet peeves is when people DM or @ me with a message that just says "hi". I love chatting, but I don't know what to do with this. I don't know you, and I don't know what you want to chat about, so why should I engage at all? If you're going to chat someone up, say something *substantive*. Ask a question, share a story, comment on the conversation, but don't expect responses from a meaningless greeting.
 
-{{< cta1 >}}
-
 ## Don't be weird about it
 
 This goes hand-in-hand with the annoying "hi" message. The only thing worse than a DM that just says "hi" is one that says "hello my great friend". Why you gotta be so weird? I don't know you, we aren't friends yet. I love when people are nice and welcoming, don't get me wrong, but don't be super weird about it.
@@ -42,8 +40,6 @@ Your picture doesn't have to be your actual face, but by at least adding *someth
 
 * Appear human
 * Put forth some effort creating your account, it shows
-
-{{< cta2 >}}
 
 ## Don't be vague. Ask specific questions, and provide as much context as possible
 

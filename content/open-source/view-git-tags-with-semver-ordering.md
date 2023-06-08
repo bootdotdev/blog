@@ -10,7 +10,7 @@ images:
 
 If you're like me, you wish all [Git tags](https://git-scm.com/docs/git-tag) adhered to the [Semantic Versioning standard](https://semver.org/). Unfortunately, Semver is just a convention, so Git tags can basically be any string of text. By default when you use the `git tag` command, your output will be in _alphabetical_ order. Being a gopher, almost all the projects I work on are tagged according to Semver standards, which means the default output is fairly useless.
 
-In order to print all the Git tags in a project in Semver order, simply run `git tag -l | sort -V`.
+To print all the Git tags in a project in Semver order, simply run `git tag -l | sort -V`.
 
 Alternatively, if you're on at least version 2 of Git, you won't even need to use the `sort` command, just run:
 

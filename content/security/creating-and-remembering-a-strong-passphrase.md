@@ -27,7 +27,7 @@ This XKCD comic does a good job of explaining the difference between passwords a
 
 ## Entropy
 
-You may have noticed in the comic that the example password has 28 bits of entropy while the passphrase has 44. Entropy just means the number of possibilities that an attacker would need to guess in order to crack a password or passphrase.
+You may have noticed in the comic that the example password has 28 bits of entropy while the passphrase has 44. Entropy just means the number of possibilities that an attacker would need to guess to crack a password or passphrase.
 
 For example, imagine a password has 16 characters, and each character has 58 possibilities. This means that there are:
 
@@ -42,8 +42,6 @@ The chart below gives a rough idea of how long a given password or passphrase wi
 ![password chart ](/img/800/rhdADIZYXJM2FxqNf6UOFqU5ar0VX3fayLFpKspN8uI.png)
 
 [entropy chart](https://www.reddit.com/r/dataisbeautiful/comments/322lbk/time_required_to_bruteforce_crack_a_password/)
-
-{{< cta1 >}}
 
 ## How to Remember
 

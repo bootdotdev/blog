@@ -48,8 +48,6 @@ As the TinyTime [Readme](https://github.com/wagslane/go-tinytime/blob/master/REA
 - If you are sure you will never need more than second precision
 - Or you know you will never need timezones other than UTC
 
-{{< cta1 >}}
-
 ## API
 
 The tinytime.TinyTime API largely mirrors that of time.Time. The only methods missing are the ones that make no sense without timezone support. You can swap out the vast majority without any changes. Check out the [godoc for reference](https://godoc.org/github.com/wagslane/go-tinytime).

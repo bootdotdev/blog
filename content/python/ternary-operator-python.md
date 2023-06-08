@@ -55,8 +55,6 @@ print(is_even_message(5))
 # Number is odd!
 ```
 
-{{< cta1 >}}
-
 ## Example of a nested ternary
 
 First of all, I need to get this off my chest: *please don't nest your ternaries!* It's confusing and hard to read. That said, here's how you can do it if you really want to.

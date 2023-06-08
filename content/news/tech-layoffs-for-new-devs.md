@@ -96,7 +96,7 @@ SAAS companies are a new beast, and accounting terms get a little funny. In a ph
 
 > Cost of goods sold (COGS) refers to the direct costs of producing the goods sold by a company. This amount includes the cost of the materials and labor directly used to create the good. It excludes indirect expenses, such as distribution costs and sales force costs.
 >
-> -- [Investopedia]((https://www.investopedia.com/terms/c/cogs.asp))
+> -- [Investopedia](https://www.investopedia.com/terms/c/cogs.asp)
 
 In SAAS, however, COGS is a little weird. Your hosting and external SAAS integrations are your only *true* "cost of goods sold". If you're paying for your servers and the tools that make your product run, then you're able to service your customers. That said, your engineers are the next closest thing. When something happens to the servers, if you don't have engineers that can fix it, then you'll start losing customers right and left.
 

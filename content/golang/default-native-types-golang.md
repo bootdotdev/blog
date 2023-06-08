@@ -75,8 +75,6 @@ math.Round(float64(myFloat32))
 
 This is not only slow but clunky to read. Type conversions take time. Memory must be allocated. My advice is to use the default type (_float64_ in the case of floats) in your applications unless you have a compelling reason not to.
 
-{{< cta1 >}}
-
 ## When Not To Use Default Types
 
 Performance and Memory.

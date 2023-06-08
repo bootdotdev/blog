@@ -39,8 +39,6 @@ Global variables have no scope and are accessible globally — they're fully ava
 
 However, global variables can also be more difficult to debug as coupling occurs between the many global variables, making bugs more likely, as well as more difficult to find and debug. There can also be conflicts between variable names in the local and global scope.
 
-{{< cta1 >}}
-
 ## 3 -- What are the differences between the `=`, `==`, and `===` operators?
 
 **Answer:**
@@ -87,8 +85,6 @@ console.log("Him & I are \"good\" friends.")
 ```
 
 The `\` character is used before the double quotes to be able to use these in the string.
-
-{{< cta2 >}}
 
 ## 5 -- Explain the `.pop()` and `.push()` methods using the following array:
 
@@ -175,8 +171,6 @@ y = 5;
 
 !(x == y) // evaluates to true
 ```
-
-{{< cta3 >}}
 
 ## 9 -- How do `break` and `continue` statements differ and where would you use each?
 

@@ -85,8 +85,6 @@ sixMinutes := time.Minute * 6
 oneDay := time.Hour * 24
 ```
 
-{{< cta1 >}}
-
 ## Convert between separate timezones and locations
 
 Every `time.Time` object is associated with a location, which is basically a timezone. 5 o'clock is meaningless if you don't know which timezone it's in. Locations are defined by the [`time.Location`](https://golang.org/pkg/time/#Location) type, which, like the `time.Time` type, is a struct with no exported fields.
@@ -123,8 +121,6 @@ tzName := "CUSTOM-TZ"
 tzOffset := 60*60*5 // seconds east of UTC
 loc := time.FixedZone(tzName, tzOffset)
 ```
-
-{{< cta2 >}}
 
 ## Add, subtract and compare times
 

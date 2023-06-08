@@ -30,8 +30,6 @@ and for another device like IBMQ Vigo:
 backend_monitor(provider.backends.ibmq_vigo)
 ```
 
-{{< cta1 >}}
-
 ## Steps
 
 1. Copy and paste the code below in to a python file

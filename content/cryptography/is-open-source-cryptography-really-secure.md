@@ -44,8 +44,6 @@ If you roll your own crypto, you are likely to overlook vulnerabilities that hav
 
 Not only are you likely to have problems in underlying mathematics and algorithms, but it is likely that your application-level implementation will also have vulnerabilities. There are no industry standard best practices to follow for your custom algorithms.
 
-{{< cta1 >}}
-
 ## 3. Get New Updates
 
 By using popular crypto libraries that are regularly updated, your code won't be vulnerable to the recently discovered attacks on the algorithms you are using.

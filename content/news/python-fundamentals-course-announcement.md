@@ -7,11 +7,11 @@ categories:
   - "python"
 ---
 
-We’ve just launched our latest course, [Learn Python](https://boot.dev/learn/learn-python).
+We've just launched our latest course, [Learn Python](https://boot.dev/learn/learn-python).
 
 [Start the "Learn Python" Course Now](https://boot.dev/dashboard/courses)
 
-**What’s more:** to celebrate the release, we’re offering full FREE access to the entire course — yep, you can take the entire course for free for a month — but the code expires in just 14 days. Simply enter this code at checkout:
+**What's more:** to celebrate the release, we're offering full FREE access to the entire course — yep, you can take the entire course for free for a month — but the code expires in just 14 days. Simply enter this code at checkout:
 
 YAYPYTHON
 
@@ -19,7 +19,7 @@ Featuring more than 65 interactive, code-in-your-browser lessons across six modu
 
 View our [full course curriculum here](https://github.com/bootdotdev/curriculum)
 
-## What’s included?
+## What's included?
 
 Our Learn Python course features six modules covering:
 
@@ -38,14 +38,12 @@ Python developers are well-paid with a [$120,000 median salary](https://insights
 
 Python reads closer to standard English than almost any other language, is simpler to learn than most, and there are huge amounts of open dev positions currently left unfilled as companies hunt for Python programmers worldwide.
 
-{{< cta1 >}}
-
 ## Why Boot.dev?
 
-At boot.dev we’re focused on one thing: [teaching computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/).
+At boot.dev we're focused on one thing: [teaching computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/).
 
 Following our "learning by doing" philosophy, we design our courses to be as interactive as possible, cementing learning and helping you to actively code along to challenges, lessons, and answer multiple-choice questions. 
 
-And having been on the other side in the recruitment game, we understand how employers think, and what they’re looking for.
+And having been on the other side in the recruitment game, we understand how employers think, and what they're looking for.
 
-We build our courses based on what gets you hired, and support our courses with interview prep articles and courses so you’re fully prepared for your next coding job interview.
+We build our courses based on what gets you hired, and support our courses with interview prep articles and courses so you're fully prepared for your next coding job interview.

@@ -55,8 +55,6 @@ password3 -> 5906ac361a137e2d286465cd6588ebb5ac3f5ae955001100bc41577c3d751764
 
 A slow KDF like Bcrypt solves this problem.
 
-{{< cta1 >}}
-
 ## Bcrypt Explained Step by Step
 
 Bcrypt can be visualized with the following Go-like pseudo-code:

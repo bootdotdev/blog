@@ -46,8 +46,6 @@ output000.ts output001.ts outputlist.m3u8
 
 Congratulations! You are done with the hard part, you now have simple files that can be served over HTTP. Any modern client-side media library will know how to read HLS files.
 
-{{< cta1 >}}
-
 ## Building the Streaming Server
 
 As I eluded to above, HLS is very simple on the server-side. All we need to do is serve a path to the `.m3u8` file, and make sure the `.ts` files are served from the same path. In traditional file server architecture, this just means that they need to be in the same directory.

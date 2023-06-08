@@ -52,8 +52,6 @@ Only "George" and "Sally" have their incentives *aligned* with those of the comp
 
 I think it's safe to say that Austen was right when he pointed out on the podcast that universities aren't incentivized enough to care about job placement rates. Not only do the institutions have no reason to worry about job placement, oftentimes the professors themselves consider teaching an afterthought. Many are there primarily to do research, publish papers, and advance the boundaries of their field.
 
-{{< cta1 >}}
-
 ## How Lambda School approached a new incentive model
 
 Lambda was the pioneer of the "income share agreement", or ISA. The idea is that you do not pay upfront for your tuition. Instead, *if* you get a job upon graduation, you pay the school back a percentage of your wages until you hit a cap. What this does is ensure that Lambda School is incentivized to make sure you get a job upon graduation.
@@ -80,8 +78,6 @@ Let's review what they *are not highly* incentivized to do:
 
 * Teach their students in a way that will help them advance post-placement
 * Provide an education to those that are less likely to be high performers
-
-{{< cta2 >}}
 
 ## What other models could be better?
 
@@ -114,20 +110,6 @@ Codecademy has a straightforward business model. They charge $19-39 per month at
 
 * Prepare students for a job
 * Care how much students earn in their first job
-
-### FreeCodeCamp
-
-FreeCodeCamp is unique on this list - they're totally free! That said, that doesn't mean the creators and maintainers don't have an incentive structure. There is always an incentive mechanism, even if it's not obvious.
-
-#### Likely incentivized to:
-
-* Keep costs extremely low
-* Monetize users indirectly (for example via ads, data mining, or something else)
-* Prioritize traffic and engagement over learning outcomes
-
-#### Not likely incentivized to:
-
-* Prepare students for a job
 
 ### Udemy
 
@@ -177,7 +159,7 @@ This ensures that the learning side of the platform remains top-of-mind for us. 
 
 2. A free-if-you-get-placed career coaching funnel for students that complete our materials.
 
-The career coaching services and materials would ensure that we care about the career success of our students. We could even offer them to those who are looking for second and third jobs, or even just looking to get promoted or snag a raise. It also has the nice side-effect of helping us keep our learning content streamlined and career-applicable, because in order to maximize revenue we need to be able to place those students in jobs.
+The career coaching services and materials would ensure that we care about the career success of our students. We could even offer them to those who are looking for second and third jobs, or even just looking to get promoted or snag a raise. It also has the nice side-effect of helping us keep our learning content streamlined and career-applicable, because to maximize revenue we need to be able to place those students in jobs.
 
 Payment for the optional career coaching might be an ISA model, or maybe it's a flat fee that's paid back x months after the desired career outcome - I'm not sure. But all in all, I think this **could** be a great path forward for us. 
 

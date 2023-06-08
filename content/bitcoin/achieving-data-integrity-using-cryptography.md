@@ -9,34 +9,32 @@ images:
   - /img/800/photo-1542185400-f1c993ecbea2.jpeg
 ---
 
-Data integrity refers to the accuracy, legitimacy, and consistency of information in a system. When a message is sent, particularly using an untrusted medium, data integrity provides us confidence that the message wasn't tampered with. For example, the SSL signature of [Boot.dev](https://blog.boot.dev) provides confidence that the webpage and data coming from our servers are really coming from us and not the NSA.
+Data integrity refers to the accuracy, legitimacy, and consistency of information in a system. When a message is sent, particularly using an untrusted medium, data integrity provides us with confidence that the message wasn't tampered with. For example, the SSL signature of [Boot.dev](https://blog.boot.dev) provides confidence that the webpage and data coming from our servers are coming from us and not the NSA.
 
-## What Are Potential Causes of Illegitimate Data?
+## What Are the Potential Causes of Illegitimate Data?
 
-Data integrity provides protection from a wide range of problems which involve data being mutated against the purposes of the system. Some potential problems include:
+Data integrity protects from a wide range of problems that involve data being mutated against the purposes of the system. Some potential problems include:
 
 **Physical Accident** - Bits of data sent over an imperfect medium can become corrupted. For example, a wireless signal could be lost temporarily, or a wire could experience a noisy electrical signal.
 
 **Digital Accident** - The software responsible for communicating the message could have bugs that unintentionally mutate a subset of messages.
 
-**Malicious Actor** - A man-in-the-middle could be altering messages in order to confuse correspondents or learn valuable information.
+**Malicious Actor** - A man-in-the-middle could be altering messages to confuse correspondents or learn valuable information.
 
 ## Solution - Checksum
 
-A checksum solves all three of the potential data integrity problems listed above. A checksum is a [deterministic](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) value derived from the message data and can be transmitted separately. This means checksum for a given message will always be the same.
+A checksum solves all three of the potential data integrity problems listed above. A checksum is a [deterministic](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) value derived from the message data and can be transmitted separately. This means the checksum for a given message will always be the same.
 
 The receiver of a message can generate a checksum from the message, and if the generated checksum matches the one that was sent then the message couldn't have been tampered with.
 
 It is important to note that if the medium over which the checksum was obtained is untrusted then a malicious actor _could_ alter the message and the checksum. It is common good practice to sign the checksum using a digital signature. The digital signature provides proof that the sender of the checksum is who they say they are.
 
-{{< cta1 >}}
-
 ## What Makes a Good Checksum?
 
-There are many types of checksums, but the best checksums are typically [cryptographic hash functions](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/). Hash functions which have the following properties make great checksums for validating data integrity:
+There are many types of checksums, but the best checksums are typically [cryptographic hash functions](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/). Hash functions that have the following properties make great checksums for validating data integrity:
 
-- **Deterministic** - The hash of the same message will always be the same, no randomness
-- **Fast** - computing a checksum shouldn't use unnecessary resources (A [KDF](/cryptography/key-derivation-functions/) is an inefficient checksum)
+- **Deterministic** - The hash of the same message will always be the same, with no randomness
+- **Fast** - Computing a checksum shouldn't use unnecessary resources (A [KDF](/cryptography/key-derivation-functions/) is an inefficient checksum)
 - **Rare collisions** - The likelihood of two different messages creating the same checksum should be astronomically unlikely
 - **Small** - The result of the hash (AKA the "digest") should be short - no need to waste a lot of data.
 
@@ -76,4 +74,4 @@ Which should match:
 
 If they match, congratulations! Your download has been verified. No man in the middle altered the program that you downloaded.
 
-Again, keep in mind that in order to verify that the checksum you were provided wasn't tampered with, you would need also to verify the [GPG signature](https://www.gnupg.org/gph/en/manual/x135.html).
+Again, keep in mind that to verify that the checksum you were provided wasn't tampered with, you would need also to verify the [GPG signature](https://www.gnupg.org/gph/en/manual/x135.html).

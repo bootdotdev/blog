@@ -36,8 +36,6 @@ For any new project, the setup process looks something like this.
 
 Because I usually work in Go, I then setup some boilerplate. I have an [entirely separate post](/golang/golang-project-structure/) on that process, so you can check that out if you're interested in Go-specific boilerplate.
 
-{{< cta1 >}}
-
 ## How I develop locally - some of my favorite tools
 
 ### VS Code

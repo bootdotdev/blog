@@ -47,8 +47,6 @@ I know, I know, it's easier said than done. That said, like Simon from Gurren La
 
 {{< youtube 7de0yAefMpE >}}
 
-{{< cta1 >}}
-
 ## People hire people who are enjoyable to work with
 
 Being "confident" isn't the same as being a boastful goober. When I say "be confident" I'm saying that you should believe in your abilities, and if you don't know something, believe in your ability to figure it out.
@@ -70,8 +68,6 @@ Let's switch gears and talk a little bit about humility. Like the title of the a
 * Being humble shows that you're not an ass. You'll be more enjoyable to work with.
 * Being humble communicates that you will be *teachable* and learn faster.
 * Being humble means you're more likely to be willing to adapt to how the team does things.
-
-{{< cta2 >}}
 
 ## How can you be confident *and* humble?
 

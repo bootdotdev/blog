@@ -30,8 +30,6 @@ My process is fairly simple:
 2. ~20-minute zoom phone screen. This is not an interview. Just answering questions about the company and learning about the candidate's situation. If there are no red flags, go to step 3.
 3. ~90-minute (preferably in-person) interview. This is it. Learn everything you need to know in less than 90 minutes. If you can't do that, you are a bad interviewer and need more practice.
 
-{{< cta1 >}}
-
 ## #3 - Take One of the First Good Candidates
 
 If you are a manager like me, then you spend ~80% of your time "coding" (doing technical work) and ~20% of your time "managing" (whatever the hell that means). Algorithmically, we all know that to find the greatest number in a list we need to check **all** the numbers. That's O(n).
@@ -53,8 +51,6 @@ Somehow whiteboarding has become a naughty word when talking about interviewing.
 No one cares. White-boarding is just a convenient way to ignore dumb things that we can all google (like syntax) and focus on shit that matters (algorithms, data structures, architectural prowess, understanding of frameworks/concepts etc)
 
 I don't ask React developers to build binary trees. I don't ask candidates for the data team to talk about Redux vs React Context. Keep the questions _applicable_, and don't be afraid to use a goddamn whiteboard.
-
-{{< cta2 >}}
 
 ## #5 - Homework
 

@@ -115,7 +115,7 @@ err = consumer.StartConsuming(
 )
 ```
 
-There are some out-of-the-box configuration function (using Go’s variadic feature) that will mutate a pointer to the configuration struct the way we want. In the above code, we made our queue durable, we tell the consumer we want ten threads running their own handler, and we want the server to send us batches of 100 messages at a time (this just helps with throughput, each handler still only processes a single message at once).
+There are some out-of-the-box configuration function (using Go's variadic feature) that will mutate a pointer to the configuration struct the way we want. In the above code, we made our queue durable, we tell the consumer we want ten threads running their own handler, and we want the server to send us batches of 100 messages at a time (this just helps with throughput, each handler still only processes a single message at once).
 
 You can also build your own custom function:
 
@@ -137,7 +137,7 @@ err = consumer.StartConsuming(
 
 ## Publishing options
 
-Frankly, I’m not a huge fan of the mandatory and immediate options. To me, it seems like it breaks a simple tenet of the pub/sub architecture, that is, publishers should be unaware of their consumers. It should be up to the consumers to make sure they’re correctly connected and their queues are created. That said, you can still use those options:
+Frankly, I'm not a huge fan of the mandatory and immediate options. To me, it seems like it breaks a simple tenet of the pub/sub architecture, that is, publishers should be unaware of their consumers. It should be up to the consumers to make sure they're correctly connected and their queues are created. That said, you can still use those options:
 
 ```go
 err = publisher.Publish(
@@ -150,10 +150,8 @@ err = publisher.Publish(
 )
 ```
 
-If you have any questions about the library or suggestions for improvement please open an issue on the Github project and let’s talk about it!
-
-{{< cta1 >}}
+If you have any questions about the library or suggestions for improvement please open an issue on the Github project and let's talk about it!
 
 ## A note on stability
 
-I plan to keep the library in v0 until I’m super sure I’m happy with the API. So be aware there may be very small breaking changes before v1.
+I plan to keep the library in v0 until I'm super sure I'm happy with the API. So be aware there may be very small breaking changes before v1.

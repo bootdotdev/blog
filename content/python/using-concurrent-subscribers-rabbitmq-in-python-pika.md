@@ -46,7 +46,7 @@ import threading
 The messages we consume will be in JSON format so we need a parser. Pika is the package to interact with RabbitMQ. We will use _time.sleep()_ to simulate i/o operations to ensure our concurrency is performing as expected. Lastly, the [threading](https://docs.python.org/3/library/threading.html) package allows us to spawn threads.
 
   
-In order to make use of the threading package, let's subclass the Thread class:
+To make use of the threading package, let's subclass the Thread class:
 
 ```py
 class ThreadedConsumer(threading.Thread):

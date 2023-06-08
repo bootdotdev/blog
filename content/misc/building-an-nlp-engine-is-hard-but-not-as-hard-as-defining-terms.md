@@ -25,25 +25,25 @@ The eight emotions we set out to build a classification engine for are defined b
 - Anticipation
 - Surprise
 
-Our emotion detection is based on a probabilistic algorithm that requires training and test data from human-annotations. In order to get a high-quality dataset, we found early on that simply telling our annotators to categorize sentences as to whether or not the author was expressing "anticipation" wasn't _nearly_ enough instruction. Once we got down to the brass tacks of some specific examples, we found that _we didn't even agree internally_ on classifications in many instances.
+Our emotion detection is based on a probabilistic algorithm that requires training and test data from human-annotations. To get a high-quality dataset, we found early on that simply telling our annotators to categorize sentences as to whether or not the author was expressing "anticipation" wasn't _nearly_ enough instruction. Once we got down to the brass tacks of some specific examples, we found that _we didn't even agree internally_ on classifications in many instances.
 
 Let's look at some of the examples we had trouble with as a team and go over the conclusions we came to. If you have thoughts be sure to [tweet at me](https://twitter.com/wagslane) and let me know what you think.
 
 Keep in mind that the definition of anticipation according to [Oxford](https://languages.oup.com/google-dictionary-en/) is "The action of anticipating something; expectation or prediction." In other words, we're looking for when someone is showing forethought, making a prediction, etc. Here are some examples we agreed on quickly as expressing "anticipation":
 
-- "I can’t wait to go to the movie theater again!"
-- "I’m so excited for sports to come back, can’t happen soon enough!"
+- "I can't wait to go to the movie theater again!"
+- "I'm so excited for sports to come back, can't happen soon enough!"
 - "Tesla stock is way too high, it's going to tank soon."
 
 The first one we had trouble with was:
 
-> I’m so nervous to go back to the office. Working from home has been great.
+> I'm so nervous to go back to the office. Working from home has been great.
 
 Some of us had the idea that "anticipation" carried a connotation of "being excited". In other words, you can't really anticipate something if you _don't want_ it to happen. We eventually decided that this isn't a useful definition for several reasons. First, we already do sentiment classification separately, so baking positive sentiment into the anticipation facet isn't super helpful. Second, the opposite of anticipation in our emotion wheel is "surprise". We all agreed that surprises can be good or bad. It stands to reason the surpise's opposite, anticipation, should behave the same way.
 
 The next problematic example arose a few days later:
 
-> I don’t know if I’m going to win
+> I don't know if I'm going to win
 
 One of my teammates made the point that this sentence expresses apprehension, which can be considered a form of anticipation. I played devil's advocate saying that "I don't know" is the polar opposite of a prediction, how can that be anticipation?
 
@@ -103,8 +103,6 @@ In the end, we ended up mixing the concept of probability and intensity for the 
 
 Once we started looking at everything as a fluid spectrum it became much easier to agree amongst ourselves what constitutes "vulgarity". My coworker who claimed "shit", "damn", and "hell" aren't vulgar easily admitted that they're _more vulgar_ than trivial interjections like "crap", "dang", or "heck".
 
-{{< cta1 >}}
-
 ## Promotion and Solicitation Detection
 
 The project we're working on currently has also turned out to be a vague and difficult one to pin down. The goal is to classify text as to whether it's promotional or not, but we've had a hard time defining what we want. For example, we all agreed quickly that the following we classify as :promotional":
@@ -115,6 +113,6 @@ The project we're working on currently has also turned out to be a vague and dif
 
 The following however posed an interesting problem:
 
-> Do I want a $42 @gucci lipstick yes I do.... can I afford it right now No I cant  but it’s soooo good!!!!!!!
+> Do I want a $42 @gucci lipstick yes I do.... can I afford it right now No I cant  but it's soooo good!!!!!!!
 
 While it's obviously promoting Gucci, it isn't actually soliciting direct action from the reader. There's no call to action. Is this a requirement of a solicitation as scored by Nuvi? We're not sure yet - but we're figuring that out.

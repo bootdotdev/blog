@@ -14,6 +14,8 @@ images:
 
 A binary search tree, or BST for short, is a tree where each node is a value greater than all of its left child nodes and less than all of its right child nodes. Read on for an implementation of a binary search tree in Python from scratch!
 
+Also, if you're interested in learning Python data structures from the ground up, check out my [Learn Python](https://boot.dev/learn/learn-python) and [Learn Algorithms](https://boot.dev/learn/learn-algorithms) courses on [Boot.dev](https://boot.dev).
+
 ## Why would I use a binary search tree?
 
 Binary trees are useful for storing data in an organized manner so that it can be quickly retrieved, inserted, updated, and deleted. This arrangement of nodes allows each comparison to skip about *half* of the rest of the tree, so each operation as a whole is lightning fast.
@@ -32,8 +34,6 @@ To be precise, binary search trees provide an average Big-O complexity of `O(log
 * Slow for a brute-force search. If you need to iterate over each node, you might have more success with an array.
 * When the tree becomes unbalanced, all fast `O(log(n))` operations quickly degrade to `O(n)`.
 * Since pointers to whole objects are typically involved, a BST can require quite a bit more memory than an array, although this depends on the implementation.
-
-{{< cta1 >}}
 
 ## Implementing a B-tree in Python
 
@@ -93,7 +93,7 @@ def insert(self, val):
     self.right = BSTNode(val)
 ```
 
-If the node doesn't yet have a value, we can just set the given value and return. If we ever try to insert a value that also exists, we can also simply return as this can be considered a "no-op". If the given value is less than our node's value and we already have a left child then we recursively call `insert` on our left child. If we don't have a left child yet then we just make the given value our new left child. We can do the same (but inverted) for our right side.
+If the node doesn't yet have a value, we can just set the given value and `return`. If we ever try to insert a value that also exists, we can also simply return as this can be considered a "no-op". If the given value is less than our node's value and we already have a left child then we recursively call `insert` on our left child. If we don't have a left child yet then we just make the given value our new left child. We can do the same (but inverted) for our right side.
 
 ### Step 3 - Get Min and Get Max
 
@@ -117,44 +117,6 @@ def get_max(self):
 
 ```py
 def delete(self, val):
-    if self == None:
-        return self
-    if val < self.val:
-        self.left = self.left.delete(val)
-        return self
-    if val > self.val:
-        self.right = self.right.delete(val)
-        return self
-    if self.right == None:
-        return self.left
-    if self.left == None:
-        return self.right
-    min_larger_node = self.right
-    while min_larger_node.left:
-        min_larger_node = min_larger_node.left
-    self.val = min_larger_node.val
-    self.right = self.right.delete(min_larger_node.val)
-    return selfdef delete(self, val):
-    if self == None:
-        return self
-    if val < self.val:
-        if self.left:
-            self.left = self.left.delete(val)
-        return self
-    if val > self.val:
-        if self.right:
-            self.right = self.right.delete(val)
-        return self
-    if self.right == None:
-        return self.left
-    if self.left == None:
-        return self.right
-    min_larger_node = self.right
-    while min_larger_node.left:
-        min_larger_node = min_larger_node.left
-    self.val = min_larger_node.val
-    self.right = self.right.delete(min_larger_node.val)
-    return selfdef delete(self, val):
     if self == None:
         return self
     if val < self.val:
@@ -379,17 +341,17 @@ class BSTNode:
 
 ## Where would you use a binary search tree in real life?
 
-There are many applications of binary search trees in real life, and one of the most common use-cases is in storing indexes and keys in a database.
+There are many applications of binary search trees in real life, and one of the most common use cases is in storing indexes and keys in a database.
 
-For example, in MySQL or PostgresQL when you create a primary key column, what you're really doing is creating a binary tree where the keys are the values of the column, and those nodes point to database rows. This lets the application easily search database rows by providing a key. For example, getting a user record by the `email` primary key.
+For example, in MySQL or PostgreSQL when you create a primary key column, what you're really doing is creating a binary tree where the keys are the values of the column, and those nodes point to database rows. This lets the application easily search database rows by providing a key. For example, getting a user record by the `email` primary key.
 
 There are many applications of binary search trees in real life, and one of the most common use cases is storing indexes and keys in a database.
 
-For example, when you create a primary key column in MySQL or PostgresQL, you create a binary tree where the keys are the values of the column and the nodes point to database rows. This allows the application to easily search for database rows by specifying a key, for example, to find a user record using the email primary key.
+For example, when you create a primary key column in MySQL or PostgreSQL, you create a binary tree where the keys are the values of the column and the nodes point to database rows. This allows the application to easily search for database rows by specifying a key, for example, to find a user record using the email primary key.
 
 Other common uses include:
 
-* Pathfinding algorithms in video-games (A\*) use BSTs
+* Pathfinding algorithms in video games (A\*) use BSTs
 * File compression using a Huffman encoding scheme uses a binary search tree
 * Rendering calculations - Doom (1993) was famously the first game to use a BST
 * Compilers for low-level coding languages parse syntax using a BST

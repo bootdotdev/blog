@@ -44,8 +44,6 @@ In short, we have 2 competing goals:
 * We want to teach all the concepts using as few technologies as possible
 * We want to teach all the concepts using technologies that teach the concept best
 
-{{< cta1 >}}
-
 ## So how many languages are you going to teach me?
 
 Over the course of my traditional CS degree at university, I used 12+ programming languages. I think that's too many. I don't want to teach languages for the sake of teaching them. It's really an optimization problem where we want to introduce as few languages as possible, while effectively teaching every concept we want to teach. I'm confident that the full curriculum for [Boot.dev](https://boot.dev) will only require the use of about 6 languages in total, and that the majority of the program can just use JavaScript, Python, and Go.
@@ -76,8 +74,6 @@ if err != nil {
 ```
 
 By familiarizing you with several languages, I firmly believe you will have a deeper understanding of each technology, and when you might want to use different tools.
-
-{{< cta2 >}}
 
 ## Will I be a jack-of-all-trades, master of none?
 

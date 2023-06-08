@@ -20,8 +20,6 @@ Library packages allow developers to export code so it can be used by the outsid
 
 Now that we've gone over the basics of what a package _is_ let's talk about how to write good packages. The rest of this article will focus on some good rules of thumb to know _when_, _how_, and _why_ to separate code into a new package.
 
-{{< cta1 >}}
-
 ## 1. Hide Internal Functions
 
 Oftentimes an application will have complex logic that requires a lot of code. In almost every case the logic that the application cares about can be exposed via an API, and most of the dirty work can be kept within a package. For example, imagine we are building an application that needs to classify images. We could build a package:

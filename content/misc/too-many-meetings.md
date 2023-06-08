@@ -37,8 +37,6 @@ That said, meeting face-to-face has its benefits. According to Meetings.org, onl
 - Synchronicity is needed. For example, we need to come to an urgent decision and asynchronous chats are taking too long.
 - A complex or important subject needs to be communicated en masse. For example, changes to the 40-page employee agreement need to have their important points emphasized to the entire company.
 
-{{< cta1 >}}
-
 ## What makes a 10x meeting?
 
 Now that we know the goal of a good meeting is to communicate in ways that are more effective than text channels, we can get into the properties of a good meeting. Apart from needing to fall into one of the categories discussed above, there are additional criteria.

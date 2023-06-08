@@ -21,8 +21,6 @@ Quicksort is an efficient sorting algorithm commonly used in production sorting 
 
 - Return a sorted array after all elements have been through the pivot operation
 
-{{< cta1 >}}
-
 ## Quicksort Pseudocode
 
 ### Partition() function in Golang

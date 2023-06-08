@@ -9,11 +9,11 @@ images:
   - /img/800/photo-1523348837708-15d4a09cfac2.jpeg
 ---
 
-If you're new to Bitcoin and cryptocurrency, you may have heard the common phrase [not your keys not your coins](https://www.youtube.com/watch?v=dnC5mFaIW3Q). While self-custody isn't for everyone, its the only way to truly have exclusive control over your funds. If that's what you're into, read on.
+If you're new to Bitcoin and cryptocurrency, you may have heard the common phrase [not your keys not your coins](https://www.youtube.com/watch?v=dnC5mFaIW3Q). While self-custody isn't for everyone, it's the only way to truly have exclusive control over your funds. If that's what you're into, read on.
 
 ## Dangers of storing your own Bitcoin
 
-In order to spend your Bitcoin, you need to have access to your [wallet](https://bitcoin.org/en/choose-your-wallet) or to the [seed phrase](https://en.bitcoin.it/wiki/Seed_phrase) that was created alongside the wallet. Likewise, an attacker only needs access to one of those two things in order to steal all your coins.
+To spend your Bitcoin, you need to have access to your [wallet](https://bitcoin.org/en/choose-your-wallet) or to the [seed phrase](https://en.bitcoin.it/wiki/Seed_phrase) that was created alongside the wallet. Likewise, an attacker only needs access to one of those two things to steal all your coins.
 
 A seed phrase is essentially the _master key_ to a crypto wallet and usually comes in the form of 12 or 24 words. If you lose your wallet, for example maybe the phone your wallet was on becomes lost, then you can use the seed to regenerate every private key in the wallet and regain access to your Bitcoin.
 
@@ -29,7 +29,7 @@ Like choosing a wallet, choosing a method to store your seed phrase depends slig
 
 ### Storing the seed phrase on paper
 
-This is the simplest method, and for many people it's a good start.
+This is the simplest method, and for many people, it's a good start.
 
 - Can't be hacked digitally
 - Can be physically stolen
@@ -70,7 +70,7 @@ This is almost certainly a bad idea. Only do this if you really know what you're
 - Can easily be hacked - If the machine has access to the internet there are myriad ways that a hacker could steal your coins.
 - Hard to lose - You can easily backup multiple copies of the phrase
 - Difficult to destroy - You can back the files up using the cloud
-- Unlikely a physical break-in to your home will result in loss
+- Unlikely a physical break-in to your home will result in a loss
 
 ### Storing the seed phrase digitally offline
 
@@ -79,6 +79,6 @@ Storing the phrase digitally is usually a bad idea, but if you're going to do it
 - Can't easily be hacked unless someone gains access to the device
 - Easily lost - Since the seed probably isn't on multiple offline devices if you lose the one it's on you're out of luck.
 - Easily destroyed in a house fire or even simple hardware malfunction
-- Unlikely a physical break-in to your home will result in loss
+- Unlikely a physical break-in to your home will result in a loss
 
 Every person and organization will have different preferences for how to store seed phrases. Factors that should influence this decision include the amount of crypto being stored, the technical abilities of the owners, and also tolerance for inconvenience.

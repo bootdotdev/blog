@@ -68,8 +68,6 @@ fatal error: concurrent map iteration and map write
 
 In Go, it isn't safe to read from and write to the same map at the same time.
 
-{{< cta1 >}}
-
 ## Mutexes to the rescue
 
 ```go

@@ -16,14 +16,14 @@ I've been paying attention to our throughput and efficiency as we've made a cons
 
 ## Context and Caveats
 
-I've found that in articles like this it's important to give as much context to the situation as possible, as certain development methodologies may work better or worse in teams with a different size, tech stack, or development process. Here are some notable things about our situation:
+I've found that in articles like this it's important to give as much context to the situation as possible, as certain development methodologies may work better or worse in teams with different sizes, tech stacks, or development processes. Here are some notable things about our situation:
 
 - 4 engineers on my team, ~16 in the company
 - Tech stack - Go, Postgres, ElasticSearch and RabbitMQ
 - Microservices architecture on Kubernetes
 - Kanban-style development process - [no scrum](https://wagslane.dev/posts/leave-scrum-to-rugby/)
 - Our team is responsible for ~15 repositories
-- Each repo represents a small service in a data pipeline process that handles sorting and NLP of social media posts
+- Each repo represents a small service in a data pipeline process that handles the sorting and NLP of social media posts
 
 ![Go Kubernetes](/img/800/go_kubernetes-1024x592.png)
 
@@ -33,21 +33,17 @@ With only four engineers on my team and ~15 repositories we're responsible for, 
 
 By focusing more of our time on reviewing and refactoring existing code, it gave us a chance to hop into projects that we never would have had a reason to become familiar with before. Not only does getting more eyes on a project mean the overall code quality will likely go up, but it also means we aren't hosed if the original maintainer moves on to a new company.
 
-{{< cta1 >}}
-
 ## Slow to Fix Bugs
 
-When you get deep into spaghetti code, it can be really hard to find bugs. In a messy codebase, sometimes fixing a bug can actually _add_ to the "uncleanliness" of the code. You may have to exacerbate or extend an already bad architectural pattern in order to get a bug fix in.
+When you get deep into spaghetti code, it can be really hard to find bugs. In a messy codebase, sometimes fixing a bug can _add_ to the "uncleanliness" of the code. You may have to exacerbate or extend an already bad architectural pattern to get a bug fix in.
 
-Ideally, you would do the refactoring _first_ and _then_ fix the bug (assuming the bug still exists after a good refactoring). Unfortunately, oftentimes there isn't enough time to refactor a project before fixing a critical bug. For this reason, we should **always be refactoring** so that bug fixes can happen quickly without having a negative impact on code quality.
+Ideally, you would do the refactoring _first_ and _then_ fix the bug (assuming the bug still exists after a good refactoring). Unfortunately, oftentimes there isn't enough time to refactor a project before fixing a critical bug. For this reason, we should **always be refactoring** so that bug fixes can happen quickly without harming code quality.
 
 ## Slow to Add Features
 
 I don't want to beat a dead horse, the reasoning here is largely the same as with bug fixes. Adding features to a messy codebase just makes it messier. It's like frosting a cake that's already been dropped on the ground. I guess the cake would taste better if you still felt inclined to eat it, but you've made the inevitable clean-up harder.
 
 ![Happy Birthday to the Ground](/img/800/happy_birthday_to_ground.gif)
-
-{{< cta2 >}}
 
 ## Try It Yourself
 

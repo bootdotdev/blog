@@ -28,8 +28,6 @@ The reason to write on Boot.dev is the same reason you might write on FreeCodeCa
 
 [Boot.dev](https://boot.dev) is a platform for anyone interested in learning to code, particularly backend development in Python, JavaScript, and Go. As far as the stories we'll publish, we accept *well-written articles that are at least somewhat related to programming*.
 
-{{< cta1 >}}
-
 ## How do I submit articles?
 
 First, know that it's free to contribute articles to Boot.dev, and we do not pay you for your contribution. No money changes hands.

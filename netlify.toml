@@ -12,3 +12,9 @@
   from = "/posts/continuous-deployments-arent-continuous-disruptions"
   to = "https://wagslane.dev/posts/continuous-deployments-arent-continuous-disruptions"
   status = 301
+
+[build]
+  functions = "./functions/"
+
+[functions]
+  node_bundler = "esbuild"

@@ -9,7 +9,7 @@ images:
   - /img/800/math.webp
 ---
 
-If you are getting into [cryptography](/cryptography/what-is-cryptography/), or just trying to understand the fundamentals, you may have noticed that the `exclusive-or` (XOR) operation is used quite often, especially in ciphers. XOR is a simple bitwise operation that allows cryptographers to create strong encryption systems, and consequently is a fundamental building block of practically all modern ciphers. Let's dive into the details and see what makes XOR so important.
+If you are getting into [cryptography](/cryptography/what-is-cryptography/), or just trying to understand the fundamentals, you may have noticed that the `exclusive or` (XOR) operation is used quite often, especially in ciphers. XOR is a simple bitwise operation that allows cryptographers to create strong encryption systems, and consequently is a fundamental building block of practically all modern ciphers. Let's dive into the details and see what makes XOR so important.
 
 ## What is XOR?
 
@@ -17,7 +17,7 @@ XOR, or "exclusive or" operates on binary data. It returns true if both of its i
 
 ![XOR example](/img/800/Screenshot-from-2019-08-04-12-01-49.png)
 
-For example, in Go, the code it would be something like:
+For example, in Go, the code would be something like:
 
 ```
 func exclusiveOr(a bool, b bool) bool {

@@ -13,7 +13,7 @@ Python is commonly seen as the AI/ML language, but is often a dull blade due to 
 
 ## What is CoNLL-U?
 
-The Conference on Natural Language Learning (CoNNL) has created multiple file-formats for storing natural language annotations. [CoNLL-U](https://universaldependencies.org/format.html) is one such format and is used by the [Universal Dependency Project](https://universaldependencies.org/), which hosts many annotations of textual data. In order to use these corpora, we need a parser that makes it simple for developers to utilize the data.
+The Conference on Natural Language Learning (CoNNL) has created multiple file-formats for storing natural language annotations. [CoNLL-U](https://universaldependencies.org/format.html) is one such format and is used by the [Universal Dependency Project](https://universaldependencies.org/), which hosts many annotations of textual data. To use these corpora, we need a parser that makes it simple for developers to utilize the data.
 
 ![Universal Dependencies Machine Learning Logo](/img/800/logo-ud.png)
 

@@ -19,16 +19,16 @@ By definition, a computer scientist is a person trained in [computer science](/c
 
 ### Computer Science vs. Computer Programming
 
-You may be thinking, but wait, aren’t they the *same thing*? Put simply, no, they're not. 
+You may be thinking, but wait, aren't they the *same thing*? Put simply, no, they're not. 
 
 * Computer *science* focuses on computer *theory*
 * Computer *programming* covers *practical application*.
 
-It's not that the two paths don’t ever intersect. Computer scientists will often have to cover areas of practical application and vice versa. And if that isn’t the case, computer programmers and computer scientists will often work in tandem on different projects. In fact, many students who study computer science in school go on to become programmers.
+It's not that the two paths don't ever intersect. Computer scientists will often have to cover areas of practical application and vice versa. And if that isn't the case, computer programmers and computer scientists will often work in tandem on different projects. In fact, many students who study computer science in school go on to become programmers.
 
 ### What a computer scientist *do*? 
 
-It depends a lot on where the computer scientist in question. They specialize in researching how to compute the answers to problems. Computer scientists need to know the theoretical foundation upon which the hardware and software is built that enables computers operate properly in order to solve problems.
+It depends a lot on where the computer scientist in question. They specialize in researching how to compute the answers to problems. Computer scientists need to know the theoretical foundation upon which the hardware and software is built that enables computers operate properly to solve problems.
 
 This requires a person to develop essential skills such as mathematics, proficiency in computer languages, critical thinking, and even creative thinking.
 
@@ -83,8 +83,6 @@ The rest of my afternoon is usually just writing more code, with the occasional 
 
 </div>
 
-{{< cta1 >}}
-
 ## Some key takeaways
 
 So much about your life as a computer scientist will depend on where you go to work. Here are some of the most common benefits.
@@ -96,7 +94,7 @@ So much about your life as a computer scientist will depend on where you go to w
 
 ## What kinds of jobs can I get as a computer scientist?
 
-As computer science breaks down into smaller categories, so do the jobs. This is just a smattering of [different coding jobs](/jobs/whats-the-job-outlook-for-computer-science-students) out there (and if you want to see a more in-depth look at jobs, feel free to [check out some articles on coding jobs](https://blog.boot.dev/jobs/whats-the-job-outlook-for-computer-science-students/). If you remember our prior discussion on computer programming vs. computer science, you’ll know that these jobs will lean toward one or the other (or occasionally overlap). Just know that the definition of job titles and tasks associated may shift depending on the company that is writing the job description.
+As computer science breaks down into smaller categories, so do the jobs. This is just a smattering of [different coding jobs](/jobs/whats-the-job-outlook-for-computer-science-students) out there (and if you want to see a more in-depth look at jobs, feel free to [check out some articles on coding jobs](https://blog.boot.dev/jobs/whats-the-job-outlook-for-computer-science-students/). If you remember our prior discussion on computer programming vs. computer science, you'll know that these jobs will lean toward one or the other (or occasionally overlap). Just know that the definition of job titles and tasks associated may shift depending on the company that is writing the job description.
 
 
 * **.NET Developer** - A programmer who creates online software, applications, and interfaces specific to the .NET framework
@@ -107,9 +105,9 @@ As computer science breaks down into smaller categories, so do the jobs. This is
 * **Frontend Developer** - Develops the graphic interfaces that a client or web user will see
 * **Fullstack Developer** - Does both front and back-end development
 * **Hardware Engineer** - Research, design, develop and test new computer systems and components, such as circuit boards and processors
-* **Information Security Analyst** - Monitor an organization’s network for breaches in security, often investigating when breaches do occur
-* **IT Auditor** - They make sure that an organization’s systems and infrastructure run as efficiently as possible
-* **IT Project Manager** - Plan and allocate resources in order to meet an organization’s needs
+* **Information Security Analyst** - Monitor an organization's network for breaches in security, often investigating when breaches do occur
+* **IT Auditor** - They make sure that an organization's systems and infrastructure run as efficiently as possible
+* **IT Project Manager** - Plan and allocate resources to meet an organization's needs
 * **Java Developer** - Develops applications and software with the [Java programming language](https://blog.boot.dev/javascript/)
 * **Network Administrator** - They organize, install and support computer systems for companies
 * **Network Architect** - Plans, designs, and implements data communication networks for a specific organization or company
@@ -117,11 +115,9 @@ As computer science breaks down into smaller categories, so do the jobs. This is
 * **Programmer Analyst** - Tests and troubleshoots different computer applications and programs
 * **Software Architect** - Frames technical standards and makes high-level design choices
 * **Software Developer** - Designs, programs, and builds computer software
-* **Systems Analyst** - Analyzes computer processes and operations in order to increase efficiency
-* **UX Designer** - Does research and data analysis in order to improve user experience
+* **Systems Analyst** - Analyzes computer processes and operations to increase efficiency
+* **UX Designer** - Does research and data analysis to improve user experience
 * **Web Developer** - Creates websites; making them not only visually appealing and user-friendly but maintaining their performance as well
-
-{{< cta2 >}}
 
 ## How much do computer scientists make?
 
@@ -135,9 +131,7 @@ You do not need a degree to work in computer science or programming! There are s
 
 ## Do computer scientists work at home or in the office?
 
-Where a computer scientist works is entirely up to you (and your employer). Remote computer science jobs will save you time and that sweet, sweet gas money. Office jobs often provide varying perks in order to retain talent, and oftentimes have tighter-knit work groups. If you have a super distracting home environment–screaming baby, barking dog–you may want to take advantage of an away-from-home environment. If hearing your gum-chewing and pen-clicking coworker who always plays his music too damn loud–not to mention a long commute through snails-paced traffic – you may want to consider a work-from-home environment.
-
-{{< cta3 >}}
+Where a computer scientist works is entirely up to you (and your employer). Remote computer science jobs will save you time and that sweet, sweet gas money. Office jobs often provide varying perks to retain talent, and oftentimes have tighter-knit work groups. If you have a super distracting home environment–screaming baby, barking dog–you may want to take advantage of an away-from-home environment. If hearing your gum-chewing and pen-clicking coworker who always plays his music too damn loud–not to mention a long commute through snails-paced traffic – you may want to consider a work-from-home environment.
 
 ## Tools I've used as a computer scientist
 
@@ -202,4 +196,4 @@ The tools a developer uses will vary quite wildly depending on where they work. 
 
 ## How do I get started learning computer science?
 
-Computer scientists are logical thinking, computer-savvy folk that know how to dig deep in order to solve problems. If you want to pursue an interest in computer science, consider starting with our [computer science for back-end developers track at boot.dev](https://boot.dev/tracks/backend). We would love to help you on your way. Good luck.
+Computer scientists are logical thinking, computer-savvy folk that know how to dig deep to solve problems. If you want to pursue an interest in computer science, consider starting with our [computer science for back-end developers track at boot.dev](https://boot.dev/tracks/backend). We would love to help you on your way. Good luck.

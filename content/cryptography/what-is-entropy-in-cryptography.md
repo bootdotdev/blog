@@ -30,7 +30,9 @@ Time.
 > 
 > [Wikipedia](https://en.wikipedia.org/wiki/Deterministic_system)
 
-In order to coax a machine into doing something random, we actually have to introduce a source of seemingly random input from outside the machine. Typically operating systems are primarily responsible for supplying sources of entropy to programs.
+To coax a machine into doing something random, we actually have to introduce a source of seemingly random input from outside the machine. Typically operating systems are primarily responsible for supplying sources of entropy to programs.
+
+{{< youtube abI_sTj4mrY >}}
 
 ### An example - How does the Linux kernel produce randomness for applications?
 

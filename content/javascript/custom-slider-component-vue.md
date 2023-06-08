@@ -8,7 +8,7 @@ images:
   - /img/800/vue-custom-slider.webp
 ---
 
-Creating a custom slider component can be tricky, especially if you want to create a lean standalone Vue component. In this quick article, you’ll learn how to build a fully customizable slider component in Vue. Feel free to swap out the majority of the CSS to get the styling you want, but I'll give you a good jumping-off point.
+Creating a custom slider component can be tricky, especially if you want to create a lean standalone Vue component. In this quick article, you'll learn how to build a fully customizable slider component in Vue. Feel free to swap out the majority of the CSS to get the styling you want, but I'll give you a good jumping-off point.
 
 In fact, the component we'll be building is the exact same component that we use in production, and you can see it in action in the signup workflow for our [coding courses](https://boot.dev/).
 
@@ -36,7 +36,7 @@ You can see a [full demo on codesandbox here](https://codesandbox.io/s/custom-vu
 </template>
 ```
 
-That wasn't so bad right? We are building out the data model in such a way the in order to use the component we can sue the built-in `v-model` property.
+That wasn't so bad right? We are building out the data model in such a way the to use the component we can sue the built-in `v-model` property.
 
 ## The JavaScript
 
@@ -71,8 +71,6 @@ export default {
 ```
 
 Like I mentioned above, this sets up the use of `v-model`. We set the default `currentValue` to the `this.value` prop, and by emitting the current value with the `@input` hook, we are good to go.
-
-{{< cta1 >}}
 
 ## The CSS
 

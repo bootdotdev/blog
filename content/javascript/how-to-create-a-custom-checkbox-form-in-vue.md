@@ -68,8 +68,6 @@ export default {
 
 We only require one prop: `options`, which represent all of the options available to the user. As boxes are checked, we add them to the `checked` state variable, and each time that variable changes we emit it so that the parent can stay reactive.
 
-{{< cta1 >}}
-
 ## The CSS
 
 ```css

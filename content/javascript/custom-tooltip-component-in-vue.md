@@ -55,8 +55,6 @@ Fairly simple setup here. We need:
 - A slot tag to inject the child component (whatever is hovered over to show the tooltip).
 - A `span` that will house the text of our tooltip.
 
-{{< cta1 >}}
-
 ## The JavaScript
 
 ```js

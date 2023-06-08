@@ -23,8 +23,6 @@ There is no reason learning shouldn't feel more like a game. The current "learn 
 
 https://www.youtube.com/watch?v=ctvib19wL4E
 
-{{< cta1 >}}
-
 ## Focus on Mastery
 
 _Mastery-based learning_ allows each student to master a concept before moving on to the next one. Contrast this with traditional schools where students pass with a "C" and are forced to move to the next course, where they will likely do _even worse_. Advanced subjects like Computer Science require solid fundamentals, and mastery-based learning is the best way to achieve that.

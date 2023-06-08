@@ -29,8 +29,6 @@ I like this plan for now for several reasons. Before, since I was charging for c
 
 That said, I think for those that can spare a few bucks a month, the pro plan will be well worth it. Getting instant verification on answers will save students a ton of time, and the ability to take the quizzes will reinforce concepts learned. At this point, [certifications](/computer-science/guide-to-certificate-in-computer-science/) are also only available to pro students simply because they're the only ones that can prove completion, so if you need proof-of-completion for employment purposes you'll want to seriously consider upgrading.
 
-{{< cta1 >}}
-
 ## For just a cup of coffee...
 
 If you supported every open-source project and indie hacker product on the basis of it only costing "the price of your daily coffee" you'd run out of money pretty quickly. Personally, I make my own coffee for $0.20. That said, one of the biggest goals of boot.dev is to provide the user experience, certifications, and interactivity that open lectures from Stanford and Harvard are missing while keeping costs _well below_ that of university or boot camp tuition.

@@ -28,15 +28,13 @@ All data is stored in a raw binary format on computers. These encoding formats (
 
 ### Human Readability Rank: 1st
 
-Not all human language characters are possible using ASCII, but the most important ones are. ASCII is meant to be used in applications that need a simple way to represent Latin-based text, the Arabic numerals, and formatting characters like newlines and spacing. ASCII is based on how typewriters worked in the pre-computer days.
+Not all human language characters are possible using ASCII, but the most important ones are. ASCII is meant to be used in applications that need a simple way to represent Latin-based text, Arabic numerals, and formatting characters like newlines and spacing. ASCII is based on how typewriters worked in the pre-computer days.
 
 ### Data Compression Rank: 3rd
 
-Each character (typically) takes an entire byte (8 bits) of data. In order to represent the `NUL` character, we need to store `00000000`, which is a lot of wasted zeros! It is worth noting that ASCII can work with only 7 bits, but because computers work in base-2, it is more simple to use a full byte.
+Each character (typically) takes an entire byte (8 bits) of data. To represent the `NUL` character, we need to store `00000000`, which is a lot of wasted zeros! It is worth noting that ASCII can work with only 7 bits, but because computers work in base-2, it is more simple to use a full byte.
 
 You could also call ASCII Base128 because its alphabet is made up of 128 characters.
-
-{{< cta1 >}}
 
 ## Base64
 
@@ -60,7 +58,7 @@ Each character only takes 6 bits of data, and a padding character, **`=`**, is u
 
 ### Human Readability Rank: 2nd
 
-Satoshi Nakamoto, also the anonymous creator of Bitcoin, invented Base58. The goal was to get data compression levels comparable to that of Base64 but to make it easier for humans to read by eliminating characters that look similar to 0 (zero), O (capital o), I (capital i), l (lower case L). Alphanumeric characters `+` (plus) and `/` (slash) were also omitted for readability.
+Satoshi Nakamoto, also the anonymous creator of Bitcoin, invented Base58. The goal was to get data compression levels comparable to that of Base64 but to make it easier for humans to read by eliminating characters that look similar to `0` (zero), `O` (capital o), `I` (capital i), `l` (lower case L). Alphanumeric characters `+` (plus) and `/` (slash) were also omitted for readability.
 
 ### Data Compression Rank: 3rd
 

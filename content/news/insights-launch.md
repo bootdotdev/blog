@@ -41,8 +41,6 @@ We may still go down this path in the future, we love the idea of Wikipedia-styl
 
 We do have a [Discord server](https://discord.gg/EEkFwbv) that we love, but the majority of students miss the best insights because they are only posted once in a chat channel, and then effectively disappear forever. We will continue to grow and use our Discord community, but we need to be realistic about the its limitations. Not every online conversation is best had over real-time chat.
 
-{{< cta1 >}}
-
 ## How this fits into our methodology
 
 Two of the points we make in our [methodology, which you can read all about here](/about), are:
