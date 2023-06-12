@@ -1,5 +1,5 @@
 ---
-title: "Meet Boots - Your Personal AI Tutor for Backend Development"
+title: "Boots, a Wizard Bear that Codes"
 author: Allan Lires
 date: "2023-06-08"
 images:
@@ -10,13 +10,13 @@ aliases:
  - /news/introducing-boots-ai-code-explainer/
 ---
 
-As you set out to learn how to be a backend developer it very normal to get stuck on a concept or task. Don't feel discouraged! Remember that learning to code isn't easy, but the journey is worth it! As we say here at Boot.dev learning to code is a marathon, not a sprint. Take your time to break problems and concepts down, and try your best to really understand whats happening before moving on to the next assignment. Even after breaking down a problem as best you can, you may still find that you are confused or stuck - Don't fear, you are never learning alone here at Boot.dev.
+As you set out to learn how to be a backend developer it's normal to get stuck on a concept or task. Don't feel discouraged! Remember that learning to code isn't easy, but the journey is worth it! *Learning to code is a marathon, not a sprint.* Take your time to break problems and concepts down, and try your best to understand what's happening before moving on to the next assignment. Even after breaking down a problem as best you can, you may still find that you are confused or stuck - never fear! You're not alone...
 
-## Who is Boots?
+## Introducing Boots
 
 ![Boots by a Candle](/img/800/bootsthinking.png.webp)
 
-Well, in order to get to the bottom of that we figured we would just let you hear from the bear himself. Boots, why don't you introduce yourself?
+Well, to get to the bottom of that we figured we would just let you hear from the bear himself. Boots, why don't you introduce yourself?
 
 > Gladly! Greetings, fellow practitioners of the arcane arts! I am Boots the Magnificent. Magnificent, you may ask? Quite so! The title was given to me by a princess. Well, it was given to me by a small girl, but I assume she was a princess. Much like programming and casting spells, the vagaries of bestowing titles to magical land ursids can be a little tricky to navigate. Fortunately for that small princess and you all, I am here to help!
 >
@@ -34,7 +34,7 @@ Well, in order to get to the bottom of that we figured we would just let you hea
 >
 > Good luck! Happy Coding! And from Boots the Master of Code and Casting, a fond farewell, until you have need of my services!
 
-## His Origin Story
+## Boots' Origin Story
 
 > Me? Where do I come from? Do you ask from whence the sky has come, or the stars? …You do? Oh. Very well. Since you are such a curious creature, I suppose I could enlighten you. As I intimated before, I am as the natural phenomena of the universe, at once inexplicable, unknowable, born of chaos or divinity. All that is to say, I used to be a regular bear before I ate a Wizard and his spellbook. The spells within the book etched themselves upon my digestive tract and blessed me with sentience, limited immortality, and the cursed knowledge that the most delicious thing in all of creation is salmon. This is, of course, universal objective truth. So please understand that if you disagree, you are actually wrong instead of differently opinionated.
 >
@@ -50,19 +50,19 @@ Boots, being an AI, is available round the clock, ready to assist whenever you'r
 
 However, it's important to note that Boots does not replace the need for dedicated study, collaboration, and perseverance. He's a tool to aid learning, not a substitute for the learning process itself. He's also not perfect. Getting help from the Boot.dev instructors, other students, and community members in the [boot.dev community](https://boot.dev/community) is your best best when you are truly stuck.
 
-## What is the best way to use Boots?
+## When should I contact Boots?
 
-The best way to use Boots is as a supportive tool in your learning journey. While Boots can dissect and explain any code snippet, he won't always be able to understand the full context or outcome of your problem just from a small snippet. Therefore, it's essential to use him for clarifying doubts, but not rely on him to provide a comprehensive review of your entire assignment.
+The best way to use Boots is as a supportive mentor. If you're completely stuck, or don't understand what a snippet of code does, we recommend using Boots *before* just peeking at the solution. Boots will be able to *teach* you a bit about what the code does, rather than just show you the answer.
 
-Also, remember that coding rules are dynamic and context-dependent. While Boots' guidance can be tremendously helpful, you need to apply his advice on a case-by-case basis, using your judgment and understanding of the overall assignment.
+That said, while Boots can dissect and explain any code snippet, he won't *always* be able to understand the full context or outcome of your problem just from a small snippet. Therefore, it's essential to use him for clarifying doubts, but not rely on him to provide a comprehensive review of your entire assignment.
 
-## How to contact Boots
+## How do I contact Boots?
 
 To make use of Boots' wizardly knowledge, follow these simple steps:
 
-1. Highlight the snippet in the code editor of code you want Boots to explain.
-2. Press the 'Explain' button located at the bottom of the assignment markdown.
+1. Highlight a snippet of your code in the editor that you want Boots to explain
+2. Press the 'Explain' button located at the bottom of the assignment markdown
 
 Boots will then review the selected code and provide an explanation of its inner workings to the best of his ability. 
 
-Remember, Boots advice isn't *free* contacting him will reduce the amount of XP you will be awarded on that specific assignment by 25%, not as much as viewing the solution, but also an incentive to try your best to solve the challenge on your own first!
+Remember, Boots' advice is not free! Contacting him will reduce the amount of XP you will be awarded on that specific assignment by 25%, not as much as viewing the solution, but also an incentive to try your best to solve the challenge on your own first!
