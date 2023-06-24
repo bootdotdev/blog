@@ -30,35 +30,11 @@ We don't know you yet, but if you're going to enjoy working with us, you'll prob
 
 ## Open positions
 
-If you're interested in any of the following positions, please send an email to `hello at boot .dev` with your resume and a personal note about why you're interested in working with us.
+*Sorry, we don't have any openings at the moment!*
 
-### Senior Software Engineer
+## How to apply
 
-* **Location**: Remote USA. Bonus points for SLC, UT
-* **Experience**: Number of years isn't too important, but *most* developers will take 5-10 years of professional experience to reach the "senior" level we're looking for
-
-We're looking for the 3rd member of our team! In descending order of importance, your responsibilities will include:
-
-* Build the Boot.dev learning platform.
-  * This includes the backend API, frontend, and blog.
-  * We aren't satisfied with simply publishing text+video tutorials.
-  * We're constantly looking to improve the learning experience with tight feedback loops, gamification, and better solution verification.
-* Maintain and improve existing Boot.dev courses and projects.
-  * We spend more time improving existing courses than we do creating new ones.
-  * Quality is more important than quantity when it comes to our learning material.
-* Write new courses and projects, and build new features for the platform to support them.
-  * We have a long backlog of courses and projects that we want to create.
-  * You should be comfortable creating a course outline, then building the course from start to finish (of course we'll help)
-* Design the product experience
-  * You don't need to be the best designer in the world, but you should be able to create a good user experience
-  * We're a small team, so we need our developers to be able to design and implement their own features
-* Be a community leader
-  * Our Discord community is growing quickly and we need more people helping to keep it a fun and safe place to learn.
-  * Answer questions, help people debug their code, and share your knowledge with others
-* Help us grow
-  * We're a small team and we need everyone to help us grow
-  * This could be blogging, creating videos, going on podcasts, or streaming on Twitch
-  * We're in the process of growing a YouTube channel and podcast
+If you're interested in any of the positions listed above, please send an email to `hello at boot .dev` with your resume and a personal note about why you're interested in working with us.
 
 ## Other stuff to know
 
