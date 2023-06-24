@@ -19,7 +19,7 @@ Imagine this. You're squaring off against another candidate for a job, and you b
 
 Who do *you* think the employer will choose?
 
-## The necessity vs. curiosity dilemma
+## The necessity vs curiosity dilemma
 
 Now, I'm not saying you should learn every design pattern, language or tool that comes onto the scene. What you need is a balance between **necessity** and **curiosity**.
 
@@ -27,7 +27,7 @@ Before you panic about not knowing the ins and outs of Kubernetes or TensorFlow,
 
 But if you want to stand out in this vast sea of developers, a spark of intellectual curiosity can be your purple cow. Go ahead and explore an interesting algorithm, RTFM when you're working with a new library, or take a minute to watch FireShip's latest video about that language you've been eyeing. You might be surprised by the doors it can open. 
 
-## Increasing Your 'Starting Point'
+## Increasing your "starting point"
 
 Learning isn't about hoarding answers like Scrat hoards that acorn. It's about pushing the boundary of your ignorance a little further with each passing day. I like to call this your **"starting point"**. 
 
