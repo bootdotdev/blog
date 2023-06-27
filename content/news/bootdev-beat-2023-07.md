@@ -51,6 +51,8 @@ When you use a SQL database like Postgres, you have to understand the subtleties
 
 ### [(Article) Why I Switched From Neovim To VSCode](https://www.nexxel.dev/blog/neovim-to-vscode)
 
+by Nexxel
+
 As you might know I'm a VS Code guy, but have always been vim-curious. This was an interesting read because it's not often you hear someone who has put in the time to learn Vim switch back to VS Code.
 
 ## Backend Banter Podcast
