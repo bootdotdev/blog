@@ -20,7 +20,7 @@ At some point, it's time to take the training wheels off and build something *on
 
 ## When is it time to build your own project?
 
-At [Boot.dev](https://boot.dev), we have students write their first non-tutorial project after completing the following modules:
+At [Boot.dev](https://boot.dev), students write their first non-tutorial project after completing the following modules:
 
 * Learn Python (course)
 * Learn OOP (course)
@@ -30,13 +30,13 @@ At [Boot.dev](https://boot.dev), we have students write their first non-tutorial
 * Build a Maze Solver (project)
 * **Personal Project 1** (when they build their first fully custom project) 
 
-Now, keep in mind that on Boot.dev students are hands-on-keyboard 100% of the time. I'm not saying you should watch 40 hours of video before setting out on your own to build your first project from scratch, I'm saying you should have a solid understanding of coding fundamentals before building your *own idea*. And you hopefully learned those fundamentals by *building*, but probably by building pre-defined projects.
+Now, keep in mind that Boot.dev students are hands-on-keyboard 100% of the time. I'm not saying you should watch 40 hours of video before building anything, but I *am* saying you should have a solid understanding of coding fundamentals before building your *own idea*. You should learn those fundamentals by *writing code*, but it's best if the projects and challenges you're working on are *guided* so that you can focus more on learning the *concepts* and less on figuring out what to build.
 
 ## What's the goal of your first project?
 
 Your goal here is *not* to build something that makes money, or even to build something that will make its way onto your resume.
 
-The goal with this *first* project is simply to get you used to the process of building something from scratch. You just need to get some practice breaking down a project into smaller pieces. You need to experience that first breath of fresh air as you emerge from the depths of tutorial hell for the first time.
+The goal of this *first* project is simply to get you used to the process of building something from scratch. You just need to get some practice breaking down a project into smaller pieces. You need to experience that first breath of fresh air as you emerge from the depths of tutorial hell for the first time.
 
 ## What are some good requirements for your first project?
 
@@ -103,4 +103,4 @@ Ask questions in the [Boot.dev Discord server](https://boot.dev/community), espe
 
 ## Publish and share
 
-Get your project out into the world! Again, the purpose of your *first ever* personal coding project probably shouldn't be to build something amazing for your resume. That said, I still think you should put enough love into it that your not ashamed to make it public on your GitHub profile and share it with other devs you know. Get some feedback, ask for code reviews, and you can always iterate on it later and improve it as your skills improve.
+Get your project out into the world! Again, the purpose of your *first-ever* personal coding project probably shouldn't be to build something amazing for your resume. That said, I still think you should put enough love into it that you're not ashamed to make it public on your [GitHub profile](https://blog.boot.dev/jobs/build-github-profile/) and share it with other devs you know. Get some feedback, ask for code reviews, and you can always iterate on it later and improve it as your skills improve.
