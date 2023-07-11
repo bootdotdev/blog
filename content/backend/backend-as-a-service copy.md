@@ -27,7 +27,7 @@ Let’s start.
 
 ### What is Vue, and why is it used?
 
-![vue logo](/800/vue-js-logo-png-transparent-png.png.webp)
+![vue logo](/img/800/vue-js-logo-png-transparent-png.png.webp)
 
 Vue.js is a progressive JavaScript framework that is mostly used for building interactive and dynamic user interfaces, hence Alex’s fun dog-walking app. It's a frontend framework because it focuses on the client-side of the stack.
 
