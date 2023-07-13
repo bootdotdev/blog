@@ -41,8 +41,6 @@ That said, I certainly want an online system where hate speech and misinformatio
 
 In reality, we can't take such a pacifistic approach. We need to [protect our gardens](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism) a bit more.
 
-{{< cta1 >}}
-
 ## What should social networks do about misinformation?
 
 The steps platforms take are _more important_ than what users do on a personal level to combat misinformation. Platforms can directly affect user behavior patterns that result in more accurate information being circulated through combinations of UI, UX, tooling, and even moderation. As we'll see in the next section, all individual users can do is try to account for their own biases and look to primary sources.

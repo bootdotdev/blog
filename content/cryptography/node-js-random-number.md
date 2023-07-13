@@ -77,8 +77,6 @@ However, weak pseudo-randomness can be *catastrophically dangerous* if you're tr
 * Generate passwords or salts
 * etc ...
 
-{{< cta1 >}}
-
 ## Should I always use crypto.randomBytes()?
 
 No. There are dangers if you implement your random number generator on top of a low-level API like random bytes. Because it returns bytes and not numbers, it's up to you to convert the bytes into numbers. If you make a mistake, it can result in a vulnerability in your system.

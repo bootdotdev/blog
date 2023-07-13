@@ -31,8 +31,6 @@ Before you start writing, you should **be clear about who is your audience**. In
 
 Technical documentation aims to break down a complex topic to make it understandable to a broader audience. Therefore, your writing should fit your audience. Use simple words and do not try to sound overly professional or academic. Avoid slang and try to stay culturally neutral.
 
-{{< cta1 >}}
-
 ## Structuring Your Document Into Paragraphs
 
 The system you are describing usually consists of multiple parts. The structure of your document should mimic these parts and nothing more. There are multiple studies on [how people read online](https://www.nngroup.com/articles/how-people-read-online/). In short, people usually scan documents and do not read every sentence. Thus, t**he structure of your document should be self-explanatory**. If a reader needs to read a two-sided introduction to understand what the document is about, it is likely that you will lose their attention.
@@ -57,8 +55,6 @@ Active voice is more precise on what to do and is typically also shorter and eas
 
 If you spot passive voice in your documents (form of be + past participle), try to convert it to active voice to make it more direct.
 
-{{< cta2 >}}
-
 ## Writing Clear and Concise Sentences
 
 Technical writing aims to transfer complex knowledge to a broader audience. Therefore, clarity is a top priority. Write short sentences with precise, strong, and specific verbs that leave no room for misinterpretation. Concentrate on the actual facts and avoid marketing speak. Technical writing does not want to convince the reader, because they are already convinced by the time they are reading the document.
@@ -81,7 +77,7 @@ First of all, every list should be introduced by a sentence that describes what 
 
 ### Tables
 
-Tables basically follow the same rules. Make sure to have **clear headers** for every row and column. Avoid putting more than two sentences into a table field. Otherwise it will easily be bloated and hard to understand for the reader.
+Tables basically follow the same rules. Make sure to have **clear headers** for every row and column. Avoid putting more than two sentences into a table field. Otherwise, it will easily be bloated and hard to understand for the reader.
 
 ## Word Choice
 
@@ -94,8 +90,6 @@ So far, we've had a high-level view of the concepts of technical writing. Here a
 **Use acronyms properly.** Acronyms should always be introduced. Even though it might be obvious, do it anyway. Write the full term with the acronym in parentheses bold. (i.e. **Transfer Control Protocol (TCP)**).
 
 **Disambiguate pronouns.** Pronouns can only be used after introducing the noun. Furthermore, they should be used as close as possible to the noun. A rule of thumb can be: If you introduced a second noun between your noun and the respective pronoun, avoid the pronoun and rather repeat the noun.
-
-{{< cta3 >}}
 
 ## Iterate and Review
 

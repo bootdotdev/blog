@@ -32,8 +32,6 @@ Sometimes it's easier to understand through bad examples. In the image above, a 
 
 I like to think of good UX design as the death of user manuals. Remember user manuals? You might still get them for tools or household appliances. In the early days of software, installable CD ROMs often came with user manuals. Can you imagine needing to open a user manual to figure out how to login to Facebook? No, the goal with UX is to make your software (or product) so easy to use that you get very few questions, even without providing explicit instructions.
 
-{{< cta1 >}}
-
 ## Why does this matter in backend code?
 
 It mostly comes down to one thing, **clean APIs**. As backend developers, our users are other developers. If you've ever had the misfortune of sifting through outdated or poorly written API documentation, hopefully, you'll appreciate the point I'm trying to make here.
@@ -86,11 +84,11 @@ json
 }
 ```
 
-There's a lot wrong here. While this API is probably usable, it makes me want to cry. Nothing about it is obvious, and no internal patterns are adhered to. I don't even care that much if the API isn't very RESTful at all, but can it please be not-RESTful in a consistent way?
+There's a lot wrong here. While this API is probably usable, it makes me want to cry. Nothing about it is obvious, and no internal patterns are adhered to. I don't even care that much if the API isn't very RESTful at all, but can it please be non-RESTful in a consistent way?
 
 ### Problem #1 - Plurality seems arbitrary
 
-Some of the endpoints use `/users` while others use `/user`. When should I expect one over the other? It's not clear so back to the users manual (documentation) for me I suppose.
+Some of the endpoints use `/users` while others use `/user`. When should I expect one over the other? It's not clear so back to the user's manual (documentation) for me I suppose.
 
 ### Problem #2 - When does the path include the verb?
 

@@ -74,8 +74,6 @@ func (conn Conn) Publish(routingKey string, data []byte) error {
 
 The purpose of this small internal package is to set some defaults for the more powerful AMQP package and control which functionality is exposed to our app. For example, if we know that our app will always use the `events` exchange and we want the `mandatory` or `immediate` flags set we can just do so here.
 
-{{< cta1 >}}
-
 ## Consuming
 
 Consuming is a bit trickier than publishing. We'll use a simple pattern here where we have the app supply a handler function, a queue, the routing key that the queue binds to, and the maximum number of goroutines we should spin up to handle messaegs.

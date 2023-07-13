@@ -59,8 +59,6 @@ This accomplishes several important things.
 - Fixes all linting errors on save (to the best of its ability)
 - Forces all line endings to UNIX style (LF) instead of Windows (CRLF)
 
-{{< cta1 >}}
-
 ## ESLint Config
 
 We need to set our linting rules:

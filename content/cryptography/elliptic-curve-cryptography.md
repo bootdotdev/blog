@@ -32,11 +32,9 @@ Public-key cryptography allows the following to happen:
 
 We create two keys, a public key, and a private key. The public key is given freely, and any party can encrypt data by using it. However, the private key is kept secret and only those who hold it will have the ability to decrypt data.
 
-{{< cta1 >}}
-
 ## An example of public-key cryptography
 
-Let’s pretend that Facebook is going to receive a private post from Donald Trump. Facebook needs to be able to ensure that when the ex-president sends his post over the internet, no one in the middle (Like the NSA, or an internet service provider) can read the message. The entire exchange using public-key cryptography would go like this:
+Let's pretend that Facebook is going to receive a private post from Donald Trump. Facebook needs to be able to ensure that when the ex-president sends his post over the internet, no one in the middle (Like the NSA, or an internet service provider) can read the message. The entire exchange using public-key cryptography would go like this:
 
 - Donald Trump notifies Facebook that he wants to send them a private post
 - Facebook sends Donald Trump their public key
@@ -54,7 +52,7 @@ As you can see, this form of encryption can be quite useful. Here are some key p
 - The public key can safely be sent to anyone. It's public.
 - The private key must be kept safe because if someone in the middle were to get the private key, they could decrypt messages.
 - Computers can quickly use the public key to encrypt a message, and quickly use the private key to decrypt a message.
-- Computers require a _very_ long time (millions of years) to derive the original data from the encrypted message if they don’t have the private key.
+- Computers require a _very_ long time (millions of years) to derive the original data from the encrypted message if they don't have the private key.
 
 ## How it Works: The Trapdoor Function
 
@@ -64,13 +62,13 @@ The crux of all public-key cryptographic algorithms is that they each have their
 
 `A + B = C`
 
-If I’m given A and B I can compute C. However, if I’m given B and C I can also compute A. This is not a trapdoor function.
+If I'm given A and B I can compute C. However, if I'm given B and C I can also compute A. This is not a trapdoor function.
 
 ### Trapdoor function:
 
 `"I love Fox and Friends" + Public Key --> s80s1s9sadjds9s`
 
-If given "I love Fox and Friends" and the public key, I can produce `s80s1s9sadjds9s`, but if given `s80s1s9sadjds9s` and the Public Key I can’t produce "I love Fox and Friends"
+If given "I love Fox and Friends" and the public key, I can produce `s80s1s9sadjds9s`, but if given `s80s1s9sadjds9s` and the Public Key I can't produce "I love Fox and Friends"
 
 In RSA, which is arguably the most widely used public-key cryptosystem, the trapdoor function relies on how hard it is to factor large numbers into their prime factors.
 
@@ -82,13 +80,11 @@ In the example above the public key is a very large number, and the private key 
 
 > In real cryptography, the private key would need to be 200+ digits long to be considered secure.
 
-{{< cta2 >}}
-
 ## What Makes Elliptic Curve Cryptography Different?
 
 You would use ECC for the same reasons as RSA. ECC and RSA both generate a public and private key and allow two parties to communicate securely. One advantage to ECC however, is that a 256-bit key in ECC offers about the same security as a 3072-bit key using RSA. ECC allows resource-constrained systems like smartphones, embedded computers, and cryptocurrency networks to use ~10% of the storage space and bandwidth required by RSA.
 
-## ECC’s Trapdoor Function
+## ECC's Trapdoor Function
 
 This is probably why most of you are here. The trapdoor function is what makes ECC special and different than RSA. The trapdoor function is similar to a mathematical game of pool.
 
@@ -116,9 +112,9 @@ Private Key: Number of hops from A to E
 
 Here are a few questions I had when I first learned about ECC. Hopefully, I can address them properly.
 
-### 1. How is the second point found? If the dot function is basically drawing a line between two points, don’t you need a second point to start with?
+### 1. How is the second point found? If the dot function is basically drawing a line between two points, don't you need a second point to start with?
 
-No. The second point (we will call it -R below) is actually the result of P dot P (let’s assume the first point is called P)
+No. The second point (we will call it -R below) is actually the result of P dot P (let's assume the first point is called P)
 
 `P dot P = -R`
 
@@ -130,7 +126,7 @@ So what is `P dot P`? It is actually just the tangent line of P. See the graphic
 
 ### 2. What happens if the dot function produces a line that will go way off out to some extreme?
 
-If the line doesn’t hit the curve close to the origin, we can actually define a maximum X value where the line will wrap back around and start from the beginning again. See the graphic below for an example.
+If the line doesn't hit the curve close to the origin, we can actually define a maximum X value where the line will wrap back around and start from the beginning again. See the graphic below for an example.
 
 ![elliptic curve cryptography illustration](/img/800/liones.gif)
 
@@ -141,8 +137,6 @@ If the line doesn’t hit the curve close to the origin, we can actually define 
 Nope! The number of hops is _very_ large, something like `2^256`. It would take far too long to compute each hop one by one, for example `p dot p dot p dot p ...`.
 
 If however, you know the number of hops you can use an [exponentiation](https://en.wikipedia.org/wiki/Exponentiation_by_squaring) trick to find the ending point quite quickly. For example, and omitting the details of elliptic curve operations: `2P = P dot P` and then `4P = 2P dot 2P`. This allows you to get up to those crazy high calculations exponentially faster.
-
-{{< cta3 >}}
 
 ## Who Cares?
 

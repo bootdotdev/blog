@@ -9,9 +9,9 @@ images:
   - /img/800/man-at-computer-with-wallet.jpeg
 ---
 
-There are many jobs within the software industry, and most of them are easier to land, or are higher-paying once you land them, if you have a solid grasp of computer science fundamentals. You don't need a degree from an accredited university in 90% of cases, but you do need to learn the material, whether it be online, on the job, or in a formal setting. Let's explore the most common computer science job titles and their associated compensation, details, and duties.
+There are many jobs within the software industry, and most of them are easier to land or are higher-paying once you land them, if you have a solid grasp of computer science fundamentals. You don't need a degree from an accredited university in 90% of cases, but you do need to learn the material, whether it be online, on the job, or in a formal setting. Let's explore the most common computer science job titles and their associated compensation, details, and duties.
 
-If you don't feel you have a solid grasp of basic computer science skills yet, don't worry! Here at Boot.dev, we offer straight-forward courses designed to get you a computer science job, without having to take out student loans or go to night school. You can [sign up and demo them](https://boot.dev/) for free.
+If you don't feel you have a solid grasp of basic computer science skills yet, don't worry! Here at Boot.dev, we offer straightforward courses designed to get you a computer science job, without having to take out student loans or go to night school. You can [sign up and demo them](https://boot.dev/) for free.
 
 ## Median salaries for CS jobs in the US
 
@@ -57,7 +57,7 @@ With great responsibility, comes a great salary. I believe Uncle Ben said that. 
 ### Responsibilities:
 
 - Plan & execute the software development process within a team
-- Communicate with clients members of other departments
+- Communicate with clients and members of other departments
 - Mentor junior programmers and be a leader and motivator for the entire team
 - Create detailed reports, evaluate new technologies, and give presentations
 - Coordinate effectively with customers, designers, and engineering teams to drive development
@@ -65,11 +65,9 @@ With great responsibility, comes a great salary. I believe Uncle Ben said that. 
 - Plan effectively to consistently meet commitments made to customers and executives
 - Recruit and retain a growing team of top-tier engineers
 
-{{< cta1 >}}
-
 ## Engineer, Site Reliability - $140,000/yr
 
-If you haven't heard of DevOps, you probably need to get your head out of the sand. SRE's play a huge role, especially at larger companies, making sure that a software companies site and services are always available. Think of the monetary disaster Google would face if their search engine was down for just a single hour. Many millions of dollars would wasted, and as such, companies like Google are willing to invest heavily in site reliability.
+If you haven't heard of DevOps, you probably need to get your head out of the sand. SREs play a huge role, especially at larger companies. They make sure that a software company's site and services are always available. Think of the monetary disaster Google would face if their search engine was down for just a single hour. Many millions of dollars would be wasted, and as such, companies like Google are willing to invest heavily in site reliability.
 
 ### Responsibilities:
 
@@ -78,7 +76,7 @@ If you haven't heard of DevOps, you probably need to get your head out of the sa
 - Optimize software delivery systems for efficiency
 - Turning high-touch manual processes into fully automatic solutions, and maintaining and improving existing automation.
 - Use your clear understanding of automation and orchestration procedures to automate wherever and whenever possible while eliminating technical debt
-- Find optimizations and other efficiencies in order to scale applications and services
+- Find optimizations and other efficiencies to scale applications and services
 - Communicate end-to-end configuration, technical dependencies, and overall behavioral characteristics of the production services you own
 - Be an expert at articulating the technical characteristics of your services and the dependencies between services
 - Understand and be able to communicate the scale, capacity, security, performance attributes, and requirements of the services you own
@@ -100,8 +98,6 @@ Artificial intelligence and Machine Learning are at the forefront of many new te
 - Influence project priorities, deadlines, and deliverables
 - Serve as a key resource to team members on engineering best practices, design, and coding standards
 
-{{< cta2 >}}
-
 ## DevOps Specialist - $125,000/yr
 
 DevOps is a blanket term that includes philosophies, practices, and tools that increase the ability of an organization to deliver software. The idea is to blur the line between software management, deployment, testing, and development to improve products at a faster pace. This speed allows organizations to better serve customers and compete in a growing marketplace.
@@ -122,7 +118,7 @@ DevOps engineers need to have a solid understanding of scripting languages like 
 
 ## Engineer, Data - $125,000/yr
 
-Data engineers build and advocate for high-quality core data sources in a companies data warehouse. This involves crafting thoughtful data models, reliable data transformations and pipelines, and effective data structures for analytics. Think of a data engineer as the new and improved database administrator. Rather than managing a single database, a data engineer can be responsible for all things data and app state across a tech organization.
+Data engineers build and advocate for high-quality core data sources in a company's data warehouse. This involves crafting thoughtful data models, reliable data transformations and pipelines, and effective data structures for analytics. Think of a data engineer as the new and improved database administrator. Rather than managing a single database, a data engineer can be responsible for all things data and app state across a tech organization.
 
 ### Responsibilities:
 
@@ -139,7 +135,7 @@ Data engineers build and advocate for high-quality core data sources in a compan
 
 ## Developer, Back-End - $120,000/yr
 
-Back-end developers are the lifeblood of the web. They are responsible to writing the core application logic for websites, web apps, and mobile applications. Back-end developers can work in almost and language (and sometimes framework) under the sun, and typically spend most of their time interfacing with databases and writing APIs that make the front-end developer's lives easier.
+Back-end developers are the lifeblood of the web. They are responsible for writing the core application logic for websites, web apps, and mobile applications. Back-end developers can work in almost any language (and sometimes framework) under the sun, and typically spend most of their time interfacing with databases and writing APIs that make the front-end developer's lives easier.
 
 ### Common back-end languages (not inclusive)
 
@@ -180,11 +176,9 @@ Common back-end databases
 - Identify and participate in code refactoring needs
 - Participate in code reviews and architecture discussions
 
-{{< cta3 >}}
-
 ## Developer, Embedded Applications or Devices - $120,000/yr
 
-Embedded software engineers develop software that controls various devices and machines that aren't jsut traditional computers. Integrating software engineering with non-computer devices leads to the development of embedded systems. Embedded systems are most common in medical, consumer electronics, manufacturing science, aviation, automotive industries.
+Embedded software engineers develop software that controls various devices and machines that aren't just traditional computers. Integrating software engineering with non-computer devices leads to the development of embedded systems. Embedded systems are most common in medical, consumer electronics, manufacturing science, aviation, and automotive industries.
 
 A typical embedded system requires a wide range of programming tools, microprocessors, IDEs, and operating systems. Think of the code that runs the remote control that's connected to your TV. There isn't an operating system that executes a `.exe` file, but there is code running on the device. Embedded application engineers write that code.
 
@@ -199,7 +193,7 @@ A typical embedded system requires a wide range of programming tools, microproce
 
 ## Developer, Mobile - $120,000/yr
 
-Mobile developers are a kind of software engineer. They specialize in mobile software such as apps for Google’s Android and Apple’s iOS operating systems. Job titles for this type of role also include _Android developer_ and _iOS developer_ when the roles are more specific. Mobile devs learn the languages and development environment for their chosen platforms, for example, Swift Xcode, Kotlin, Java, and Android Studio.
+Mobile developers are a kind of software engineer. They specialize in mobile software such as apps for Google's Android and Apple's iOS operating systems. Job titles for this type of role also include _Android developer_ and _iOS developer_ when the roles are more specific. Mobile devs learn the languages and development environment for their chosen platforms, for example, Swift Xcode, Kotlin, Java, and Android Studio.
 
 ### Responsibilities:
 
@@ -215,17 +209,17 @@ Mobile developers are a kind of software engineer. They specialize in mobile sof
 
 ## Scientist - $120,000/yr
 
-The "Computer Scientist" title means a lot of different things to different people. It seems (after browsing various job sites) that it usually involves government or security work. As a Computer Scientist you’ll use your skills to automate and enrich a variety of data in support of analytics and reports. CS employees sometimes need to bridge the gap between non-computer scientist analysts and other technical professions such as Data Scientists and software developers. Computer scientist jobs often involve continual learning and ongoing research into cutting-edge problems.
+The "Computer Scientist" title means a lot of different things to different people. It seems (after browsing various job sites) that it usually involves government or security work. As a Computer Scientist, you'll use your skills to automate and enrich a variety of data in support of analytics and reports. CS employees sometimes need to bridge the gap between non-computer scientist analysts and other technical professions such as Data Scientists and software developers. Computer scientist jobs often involve continual learning and ongoing research into cutting-edge problems.
 
 ### Responsibilities:
 
 - Use applications and algorithms to find solutions to complex problems
-- Conduct new research and analyze results of peer studies
+- Conduct new research and analyze the results of peer studies
 - Work with government agencies or universities on grant-funded projects
 
 ## Developer, Desktop or Enterprise Applications - $115,000/yr
 
-Desktop developers write code for applications that run natively on computer's operating systems like macOS, Windows, and Linux, and don't _necessarily_ require an internet connection. A desktop developer's responsibilities depend on the kind of apps the employer creates and the senior of the dev in question. Desktop and enterprise app developers prototype, build, implement, and maintain the source code behind apps like Microsoft Word, VS Code, Slack, Google Chrome, and over the operating systems themselves.
+Desktop developers write code for applications that run natively on a computer's operating systems like macOS, Windows, and Linux, and don't _necessarily_ require an internet connection. A desktop developer's responsibilities depend on the kind of apps the employer creates and the senior of the dev in question. Desktop and enterprise app developers prototype, build, implement, and maintain the source code behind apps like Microsoft Word, VS Code, Slack, Google Chrome, and over the operating systems themselves.
 
 ### Responsibilities:
 
@@ -264,7 +258,7 @@ It's interesting to note that full-stack developers on average earn $8,000 less 
 
 Game devs plan, design, and create video games for computers, mobile devices, or specialized consoles like Xbox, Nintendo, and PlayStation. Their work involves developing engines and writing code to implement the features and functionality required to make the game work. Game developers typically require more of a math, graphics, and CS background than the average web developer, because performance is of the utmost importance.
 
-Many game programmers work full-time hours at game studios or larger companies, there are also many who prefer to work remotely or to self-publish their games as indy projects on platforms like Steam.
+Many game programmers work full-time hours at game studios or larger companies, but many prefer to work remotely or to self-publish their games as indy projects on platforms like Steam.
 
 ### Responsibilities:
 
@@ -282,7 +276,7 @@ Database administrators, also known as DBAs, use specialized software (databases
 
 - Manage the performance of databases within an organization
 - Plan and build new database architectures and interactions
-- Protect the organization’s data against cyber-attacks and leaks
+- Protect the organization's data against cyber-attacks and leaks
 - Conduct maintenance and upgrades to keep databases running efficiently
 
 ## Developer, Front-End - $110,000/yr
@@ -294,7 +288,7 @@ Front-end web developers are responsible for implementing the entire visual and 
 - Work with designers and establish the needs and preferences of website design
 - Design, code, and modify websites and web apps
 - Develop the UI and UX of applications
-- Work with front-end technologies such as React, Vue, JavaScript , CSS, and HTML
+- Work with front-end technologies such as React, Vue, JavaScript, CSS, and HTML
 
 ## System Administrator - $110,000/yr
 
@@ -308,15 +302,15 @@ System administrators, also referred to as sysadmins, are responsible for the ma
 
 ## Developer, QA or Test - $105,000/yr
 
-QA engineers design and implement tests and debugging procedures at the companies they work for. QA engineers are often also responsible to track quality assurance metrics (e.g. defect densities and open defect counts.) and manage bug tracking software like Jira or Github issues. There is a distinct difference between a QA Engineer, and a"normal" QA role, and along with the differences in duties there is a very large pay gap.
+QA engineers design and implement tests and debugging procedures at the companies they work for. QA engineers are often also responsible to track quality assurance metrics (e.g. defect densities and open defect counts) and manage bug tracking software like Jira or GitHub issues. There is a distinct difference between a QA Engineer, and a"normal" QA role, and along with the differences in duties there is a very large pay gap.
 
-A QA engineer will actually write and deploy code that automates the testing of the software in question. They will write unit tests, integration tests, and help build out a deployment pipeline. On the other hand, non-technical QA positions likely are required to simply act as a user of the software and manually report any issues they find.
+A QA engineer will write and deploy code that automates the testing of the software in question. They will write unit tests, integration tests, and help build out a deployment pipeline. On the other hand, non-technical QA positions likely are required to simply act as a user of the software and manually report any issues they find.
 
 ### Responsibilities:
 
 - Use and create test automation software for deployment pipelines
 - Run and develop new tests for existing applications
-- Use bug tracking systems to document problems and aide engineers in identifying solutions
+- Use bug tracking systems to document problems and aid engineers in identifying solutions
 
 ## Academic Researcher - $100,000/yr
 
@@ -334,15 +328,15 @@ Business analysts, also known as BI professionals, work alongside other business
 ### Responsibilities:
 
 - Work with the internal organization to help them improve their processes and systems
-- Know the ins and outs of popular databases like Postgres, MySQL, and Mongo in order to conduct BI research
-- Perform analysis in order to come up with solutions to business problems
+- Know the ins and outs of popular databases like Postgres, MySQL, and Mongo to conduct BI research
+- Perform analysis to come up with solutions to business problems
 - Help to introduce data-driven solutions to businesses and their clients
 
 ## Designer - $100,000/yr
 
-UI/UX designers are often responsible for gathering user requirements, designing graphic elements and building navigation components. The software they use to create designs is rapidly changing, and there is fierce competition in that industry. In order to do well, a designer needs to stay up-to-date with the latest trends in the design tools, as well as design best-practices.
+UI/UX designers are often responsible for gathering user requirements, designing graphic elements and building navigation components. The software they use to create designs is rapidly changing, and there is fierce competition in that industry. To do well, a designer needs to stay up-to-date with the latest trends in the design tools, as well as design best practices.
 
-UI/UX designers typically don't need any CS or programming experience, but I've actually seen some designers make a transition from front-end work to design because they enjoy the creative side.
+UI/UX designers typically don't need any CS or programming experience, but I've seen some designers make a transition from front-end work to design because they enjoy the creative side a bit more.
 
 ### Responsibilities:
 

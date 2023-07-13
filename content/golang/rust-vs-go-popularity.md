@@ -77,7 +77,7 @@ Here are my current fast and loose opinions on the strengths and weaknesses of e
 
 Lane's Sloppy Rust vs Go Comparison
 
-I think **Go will likely be the go-to for performant backend systems**. Go's rich standard library and easy concurrency makes standing up HTTP servers or other networked services simple and easy. Go is also faster, safer, and less memory intensive than most of the legacy competition. For example, Go is less memory intensive than Java and C#, faster than Python and Ruby, safer than C++.
+I think **Go will likely be the go-to for performant backend systems**. Go's rich standard library and easy concurrency makes standing up HTTP servers or other networked services simple and easy. Go is also faster, safer, and less memory intensive than most of the legacy competition. For example, Go is less memory intensive than Java and C#, faster than Python and Ruby, and safer than C++.
 
 Rust seems like it may steal some of the spotlights from Go in **deeper backend processes** that need to get every ounce of efficiency that they can from the hardware. In microservices and polyglot architectures, it makes sense to mix and match technologies behind the scenes a bit.
 

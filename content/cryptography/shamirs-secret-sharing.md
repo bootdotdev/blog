@@ -27,8 +27,6 @@ Luckily, one of the family members is also a cryptographer. Instead of naively s
 
 Every Shamir sharing scheme has a total number of shares and a threshold. The **threshold is the number of shares required** to reconstruct the original secret. For example, with five shares and a threshold of three, you only need three of the five shares to calculate the original secret.
 
-{{< cta1 >}}
-
 ## The Math - Lines
 
 One of the fundamental mathematical properties used in Shamir's secret sharing is the fact that it takes _k_ points to define a polynomial of degree _k_ \- 1. For example:
@@ -90,8 +88,6 @@ y = 1954 + 43\*3 + 12\*3^2 = 2191
 y = 1954 + 43\*4 + 12\*4^2 = 2318
 
 (4, 2318)
-
-{{< cta2 >}}
 
 ## Reconstruction
 

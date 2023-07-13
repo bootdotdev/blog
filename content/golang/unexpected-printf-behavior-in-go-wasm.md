@@ -81,6 +81,6 @@ writeSync(fd, buf) {
 }
 ```
 
-As you can see, `console.log()` is only called on the buffer if a newline is found within the output string, otherwise the output is just appended to the stateful `outputBuf`.
+As you can see, `console.log()` is only called on the buffer if a newline is found within the output string, otherwise, the output is just appended to the stateful `outputBuf`.
 
-My current working theory is that it was implemented this way because there is no way to print to the console in a browser without appending a newline. JavaScript's [console.log()](https://developer.mozilla.org/en-US/docs/Web/API/Console/log) _always_ appends a newline.
+My current working theory is that it was implemented this way because there is no way to print to the console in a browser without appending a new line. JavaScript's [console.log()](https://developer.mozilla.org/en-US/docs/Web/API/Console/log) _always_ appends a new line.

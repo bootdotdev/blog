@@ -50,8 +50,6 @@ const (
 
 Pretend you need to change the name of `statusFailed` to `statusCancelled`, perhaps to become consistent with the rest of the codebase. If you had previously used the value `failed` instead of an enum, and now that value is strewn all across various databases, it becomes _really_ hard to change it. If you had just used an `enum`, you can [change the name](/clean-code/naming-variables/) without touching the value and your code remains clean.
 
-{{< cta1 >}}
-
 ## How to create an enum starting from 1
 
 Sometimes, if you're a masochist, or perhaps a Lua developer, you'll want your list of enums to start with a value of `1` instead of the default `0`, you can do that easily in Go.
@@ -79,8 +77,6 @@ const (
 ```
 
 With that in mind, remember that just because you _can_ doesn't mean you _should_.
-
-{{< cta2 >}}
 
 ## Using enums that skip values
 

@@ -36,8 +36,6 @@ The tour uses the Go Playground for its computation backend (as mentioned below)
 
 [Here John Arundel](https://www.youtube.com/c/BitfieldConsulting) provides a pick of Go tutorials, conference talks, and other videos that will help you learn the basics of the Go programming language.
 
-{{< cta1 >}}
-
 ## Best Communities
 
 ### [1. The Go Forum](https://forum.golangbridge.org/)
@@ -76,8 +74,6 @@ This is the official Golang blog maintained by Go team. Can't recommend it enoug
 Dave Cheney is a personal favorite of mine. He was one of the first Gophers and has been a prolific writer and fantastic community member.
 
 ### [4. Thoughts and links about programming](https://research.swtch.com/), by [Russ Cox](https://swtch.com/~rsc/)
-
-{{< cta2 >}}
 
 ## Best Editors and IDEs
 

@@ -112,7 +112,7 @@ func getAndPrintData(url string) {
 
 If you run this code, you will see that nothing is printed and the program exits almost immediately. The problem is that after starting three separate goroutines and yielding execution back to the main thread, there is nothing stopping main() from exiting. Once main exits, it cleans up its goroutines before they can get a response.
 
-In order to make sure that we wait for all of our functions to complete, but to still allow them to execute at the same time, we use a `WaitGroup`.
+To make sure that we wait for all of our functions to complete, but to still allow them to execute at the same time, we use a `WaitGroup`.
 
 ```go
 package main

@@ -33,8 +33,6 @@ Alan Turing
 
 People often lazily use Cryptography in place of the word cryptology, but in reality, cryptography focuses only on **creating** secure cryptosystems. For example, the design of RSA would have been cryptography work.
 
-{{< cta1 >}}
-
 ## Cryptanalysis
 
 > You use **Cryptanalysis** to breach cryptographic security systems and gain access to the contents of encrypted messages, even if the cryptographic key is unknown.

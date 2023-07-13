@@ -43,7 +43,7 @@ bcrypt.hashpw('userPlainTextPassword'.encode(), bcrypt.gensalt())
 
 ## Rainbow Tables and Salts
 
-You may have wondered in the above code snippet what the _gensalt()_ function does. If we were to hash passwords without salts, an attacker could do a [rainbow table](https://en.wikipedia.org/wiki/Rainbow_table) attack in order to find the original plain text.
+You may have wondered in the above code snippet what the _gensalt()_ function does. If we were to hash passwords without salts, an attacker could do a [rainbow table](https://en.wikipedia.org/wiki/Rainbow_table) attack to find the original plain text.
 
 > A salt is a random string of data hashed alongside a password to keep the hash result unique. **Salts should be recreated** each time a new password is saved, and the salt is stored alongside the hashed result so that it can be used again for comparison. **Libraries like bcrypt are smart enough to store the salt IN the resulting string** so that developers don't need to do the extra work.
 

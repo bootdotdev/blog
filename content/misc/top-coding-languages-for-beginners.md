@@ -42,7 +42,7 @@ _Version one released: 2012 by Google_
 
 Go is a compiled language, which means it runs much faster than its interpreted counterparts like JavaScript and Python. Being compiled also means that by learning Go, you will learn more about how operating systems, static typing, and CPU architecture play a role in programming.
 
-Go is known for having a rich standard library, particularly when it comes to backend web features. For example, in order to write a web server in Python or JavaScript, you would likely use a framework like [Express](https://expressjs.com/), [Django](https://www.djangoproject.com/), or [Flask](https://flask.palletsprojects.com/en/1.1.x/) to make up for the missing functionality. In Go, the standard HTTP library is powerful enough to build production servers without importing any large dependencies.
+Go is known for having a rich standard library, particularly when it comes to backend web features. For example, to write a web server in Python or JavaScript, you would likely use a framework like [Express](https://expressjs.com/), [Django](https://www.djangoproject.com/), or [Flask](https://flask.palletsprojects.com/en/1.1.x/) to make up for the missing functionality. In Go, the standard HTTP library is powerful enough to build production servers without importing any large dependencies.
 
 ### Who Should Start With Go?
 
@@ -51,8 +51,6 @@ Anyone interested in DevOps or [backend development](/backend/become-backend-dev
 ![Best Paying Programming Languages](/img/800/Screen-Shot-2020-07-09-at-7.46.49-AM-1024x469-1.png)
 
 [Stack Overflow](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states)
-
-{{< cta1 >}}
 
 ## 3. Python
 
@@ -95,8 +93,6 @@ Rust gives the programmer fine-grained control over how the code interacts with 
 ### Who Should Learn Rust First?
 
 Honestly, you probably shouldn't learn Rust _first_. That said, Rust is arguably the best _second_ language on the list. Rust is probably the most complex language on this list, but along with that complexity comes power, speed, and ultimately the opportunity for the developer to learn more about how code interacts directly with the hardware.
-
-{{< cta2 >}}
 
 ## Performance Benchmarks
 

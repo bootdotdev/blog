@@ -228,11 +228,9 @@ It's rare to encounter an error when marshaling JSON data, but unmarshalling JSO
 - A `null` value can't be decoded into a value that doesn't have a `nil` option. For example, if you have a number field that can be `null`, you should unmarshal into a `*int`
 - A `time.Time` can only decode an RFC 3339 string - other kinds of timestamps will fail
 
-{{< cta1 >}}
-
 ## Custom JSON marshaling
 
-While most types have a default way to encode and decode JSON data, you may want custom behavior from time to time. Luckily, the `json.Marshal` and `json.Unmarshal` respect the [`json.Marshaler`](https://golang.org/pkg/encoding/json/#Marshaler) and [`json.Unmarshaler`](https://golang.org/pkg/encoding/json/#Unmarshaler) interfaces. In order to [customize your behavior you just need to overwrite their methods](/golang/golang-interfaces/) `MarshalJSON` and `UnmarshalJSON` respectively.
+While most types have a default way to encode and decode JSON data, you may want custom behavior from time to time. Luckily, the `json.Marshal` and `json.Unmarshal` respect the [`json.Marshaler`](https://golang.org/pkg/encoding/json/#Marshaler) and [`json.Unmarshaler`](https://golang.org/pkg/encoding/json/#Unmarshaler) interfaces. To [customize your behavior you just need to overwrite their methods](/golang/golang-interfaces/) `MarshalJSON` and `UnmarshalJSON` respectively.
 
 ```go
 type Marshaler interface {
@@ -311,8 +309,6 @@ for k, v := range m {
 ```
 
 I want to point out that `map[string]interface{}` should _only_ be used when you absolutely have to. If you have a priori knowledge of the shape of the data, _please_ use a `struct` or some other concrete type. Avoid the dynamic typing provided by interfaces when working with JSON, if you want, you can always [use anonymous structs for one-off usage](/golang/anonymous-structs-golang/).
-
-{{< cta2 >}}
 
 ## Streaming JSON encodings
 

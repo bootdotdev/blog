@@ -36,8 +36,6 @@ One of the next courses in our pipeline is a direct sequel to "(Very) Basic Intr
 - Scope
 - [Node](https://nodejs.org/en/) and [Deno](https://deno.land/)
 
-{{< cta1 >}}
-
 ## What If I'm Not a Beginner?
 
 That's great! boot.dev's focus is on computer science fundamentals, and many of our courses are for more experiences developers.

@@ -6,7 +6,7 @@ lastmod: "2022-10-01"
 categories: 
   - "golang"
 images:
-  - /img/800/replace-lightbulb.webp
+  - /img/800/prety-strings.png.webp
 ---
 
 Go has a powerful standard library that makes string manipulation easy right out of the box. One of the functions I use most often is the [strings](https://golang.org/pkg/strings) package's [Replace()](https://golang.org/pkg/strings/#Replace) function. `strings.Replace()` returns a *copy* of its input string after replacing all instances of a given substring with a new one.
@@ -35,7 +35,7 @@ Notes about the function:
 
 ## Example #1 - Replacing delimiters
 
-Let's say you have some comma-separated-values, CSVs. Perhaps you want to separate each word with a _space_ instead of a _comma_. This can be useful if you need to make your delimiters consistent so you can later [split the string into a slice](/golang/split-strings-golang/).
+Let's say you have some comma-separated values, CSVs. Perhaps you want to separate each word with a _space_ instead of a _comma_. This can be useful if you need to make your delimiters consistent so you can later [split the string into a slice](/golang/split-strings-golang/).
 
 ```go
 package main
@@ -69,8 +69,6 @@ func main() {
 }
 ```
 
-{{< cta1 >}}
-
 ## Example #3 - Remove all instances of a string
 
 Sometimes you just want to strip out specific characters. For example, you may want to remove all periods. To do so, you can simply replace all periods with an empty string.
@@ -89,7 +87,7 @@ func main() {
 }
 ```
 
-## Example #4 - High performance string replacement
+## Example #4 - High-performance string replacement
 
 If you need to perform the same replacements on many different documents, it can make sense to initialize a [Replacer](https://golang.org/pkg/strings/#Replacer), which is much faster that the `strings.Replace` function when used repeatedly. It's faster is because it builds a [trie structure](https://en.wikipedia.org/wiki/Trie) under the hood that it keeps in memory, and that structure can be used repeatedly.
 

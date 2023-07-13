@@ -30,7 +30,7 @@ OOP was so popular in the early 2000s that it became (in my opinion) overly wide
 
 In 1995, 4 years after Java got its start, Brendan Eich created JavaScript while he worked for Netscape. At the time, Netscape had complete market control of the web browsing industry, while Microsoft was just starting with the Internet Explorer project.
 
-In an attempt to beat Microsoft, Netscape partnered with Sun Microsystems. They branded it with the name JavaScript in order to latch onto the Java hype train that was certainly plowing ahead in the developer community.
+In an attempt to beat Microsoft, Netscape partnered with Sun Microsystems. They branded it with the name JavaScript to latch onto the Java hype train that was certainly plowing ahead in the developer community.
 
 ### JavaScript's Success
 
@@ -49,8 +49,6 @@ However, JavaScript was positioned uniquely. This would contribute to it becomin
 Many developers considered "front-end" development to be for artists and designers. After all, "It's just styling and templating, right?"
 
 This was the case for a long time. However, in the last decade, front-end development has become just as serious as backend development. Single page apps, and frameworks like Angular, React, and Vue, have pushed logic that used to be controlled by the backend directly into the user's browser.
-
-{{< cta1 >}}
 
 ## Runtimes, Speed, and Benchmarks
 
@@ -85,8 +83,6 @@ What really slows JavaScript down is that it is interpreting code at runtime. At
 In Java, **everything** is a class and OOP is enforced in an authoritarian manner.
 
 In JavaScript, classes are optional, and [functional programming](https://boot.dev/learn/learn-functional-programming) is possible and even [encouraged](/clean-code/benefits-of-functional-programming/) lately. JavaScript has most of the OOP paradigms available in the language. However, [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) is not as robust as it is with Java.
-
-{{< cta2 >}}
 
 ## Threading and Concurrency
 

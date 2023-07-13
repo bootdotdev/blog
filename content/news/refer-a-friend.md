@@ -6,7 +6,7 @@ categories:
   - "news"
 ---
 
-We think learning is better with friends! For every person you invite to join, you’ll both earn some free gems. As soon as your friend signs up, we’ll credit each of your accounts with, at the time of writing, **150 gems**.
+We think learning is better with friends! For every person you invite to join, you'll both earn some free gems. As soon as your friend signs up, we'll credit each of your accounts with, at the time of writing, **150 gems**.
 
 ## How to Invite Friends
 

@@ -49,8 +49,6 @@ Runs the program. Useful if the program needs some sort of setup before
 starting the actual program. Maybe starting an emulator. If you happen to be
 developing an OS it can start the kernel in a virtual machine.
 
-{{< cta1 >}}
-
 ## make install
 
 Installs the program. Is usually invoked with `sudo` and after doing `make` to

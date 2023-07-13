@@ -9,7 +9,7 @@ images:
   - /img/800/man-at-laptop-in-conference.avif.webp
 ---
 
-The future is bright for career options in computer science with remote work opening up doors that weren’t present before. Trying to navigate through computer science career options can be overwhelming what with all the options at your disposal. While we won’t go through *every* job option in the field today, we have a list of common yet crucial jobs to help you get started on finding the career that’s right for you. But first...
+The future is bright for career options in computer science with remote work opening up doors that weren't present before. Trying to navigate through computer science career options can be overwhelming what with all the options at your disposal. While we won't go through *every* job option in the field today, we have a list of common yet crucial jobs to help you get started on finding the career that's right for you. But first...
 
 ## Things to Consider In Your CS Job Search
 
@@ -19,13 +19,13 @@ Career paths for computer science students are promising when it comes to making
 
 ### Work Life Balance
 
-Work-life balance is a critical benefit to consider when career hunting. Don't plunge head-long into a new career without thinking about the toll it will take on your lifestlye. Different fields in computer science allow for you to find the perfect job that suits your individual needs, whether it’s a full time job for a large corporation or a simple part time, remote job for the stay at home parent. A job in computer science will alow for you to work fulltime or as a freelancer.
+Work-life balance is a critical benefit to consider when career hunting. Don't plunge head-long into a new career without thinking about the toll it will take on your lifestlye. Different fields in computer science allow for you to find the perfect job that suits your individual needs, whether it's a full time job for a large corporation or a simple part time, remote job for the stay at home parent. A job in computer science will alow for you to work fulltime or as a freelancer.
 
 ### Education requirements
 
-Programming jobs vary in their educational requirements. Depending on the position, [*certifications*](https://blog.boot.dev/jobs/where-to-get-a-programming-certificate/), [*associates*](https://blog.boot.dev/jobs/programming-job-with-associates-degree/) or Bachelor’s degrees may be necessary. **Most positions however simply require that you know what your're doing**, and that you can complete the programming tasks required of you. A portfolio of side projects is a great way to break into the industry.
+Programming jobs vary in their educational requirements. Depending on the position, [*certifications*](https://blog.boot.dev/jobs/where-to-get-a-programming-certificate/), [*associates*](https://blog.boot.dev/jobs/programming-job-with-associates-degree/) or Bachelor's degrees may be necessary. **Most positions however simply require that you know what your're doing**, and that you can complete the programming tasks required of you. A portfolio of side projects is a great way to break into the industry.
 
-In some cases it may be beneficial to seek out internships or to consider a [*coding bootcamp*](https://blog.boot.dev/jobs/is-coding-bootcamp-worth-it/) in order to gain the coding knowledge necessary to be hired for a job. When it comes to the level of education needed, make sure you research what the specific position you're interested requires. For example, machine learning specialists may require more formal training that front-end developers.
+In some cases it may be beneficial to seek out internships or to consider a [*coding bootcamp*](https://blog.boot.dev/jobs/is-coding-bootcamp-worth-it/) to gain the coding knowledge necessary to be hired for a job. When it comes to the level of education needed, make sure you research what the specific position you're interested requires. For example, machine learning specialists may require more formal training that front-end developers.
 
 ## So what are the career options in computer science?
 
@@ -99,7 +99,7 @@ Salary on Average: [*$150,000*](https://survey.stackoverflow.co/2022/#salary-uni
 
 ### Security Engineer
 
-Security engineers build safeguards to protect systems from malware, hacking and cybernetic threats. The work of network security engineers includes testing and configuring hardware and software systems. There is a lot of room for upward momentum, as NSE’s are needed from entry level up onto executive levels.
+Security engineers build safeguards to protect systems from malware, hacking and cybernetic threats. The work of network security engineers includes testing and configuring hardware and software systems. There is a lot of room for upward momentum, as NSE's are needed from entry level up onto executive levels.
 
 Network security engineers are often expected to have around two years of learning experience under their belt and/or a degree in Computer Science, IT or a similar field. Languages such as Java, JavaScript, [*Python*](https://blog.boot.dev/python/how-hard-is-python-to-learn/), SQL, PHP, PowerShell, and C may be required. Many developers get started in backend development then go on to specialize in security engineering.
 
@@ -107,7 +107,7 @@ Salary on Average: [*$156,277*](https://survey.stackoverflow.co/2022/#salary-uni
 
 ### Game Developer
 
-Depending on the company and game being developed, a developer may be given a single task, or follow a game from concept to final release. Developers can come up with new ideas for game design and translate those visual ideas into code. During the course of a project, developers may collaborate with designers, producers, artists, and quality analysts in order to ensure a quality product. Oftentimes, developers will monitor the stability of a game across different platforms, review existing code, recommend improvements as needed, and be able to transport full games or elements of game from one system to another.
+Depending on the company and game being developed, a developer may be given a single task, or follow a game from concept to final release. Developers can come up with new ideas for game design and translate those visual ideas into code. During the course of a project, developers may collaborate with designers, producers, artists, and quality analysts to ensure a quality product. Oftentimes, developers will monitor the stability of a game across different platforms, review existing code, recommend improvements as needed, and be able to transport full games or elements of game from one system to another.
 
 Skills in video game development can be learned independently, or through obtaining a degree in computer science, interactive media or game design. Customarily, developers work most prominently in the C# and C++ languages.
 
@@ -117,27 +117,25 @@ Salary on Average: [*$140,000*](https://survey.stackoverflow.co/2022/#salary-uni
 
 ### Project Manager
 
-While project managers aren’t unique to development, project managers in tech oversee budgeting, scheduling, planning, and executing projects from beginning to end. It is a great choice for those with not only analytical tendencies, but those with strong leadership skills. Most project managers tend to have a background in development, especially at smaller companies. In other words, you might want to start your career as a indivudal contributor, and later move up" to management.
+While project managers aren't unique to development, project managers in tech oversee budgeting, scheduling, planning, and executing projects from beginning to end. It is a great choice for those with not only analytical tendencies, but those with strong leadership skills. Most project managers tend to have a background in development, especially at smaller companies. In other words, you might want to start your career as a indivudal contributor, and later move up" to management.
 
 Oftentimes, it is required of a project manager to have knowledge in data management and related systems, security, programming basics, and the principles of project management, some of which are: setting clear project goals, managing risks, establishing a performance baseline, maintaining healthy communication and defined accountability.
 
-Becoming a project manager typically requires a bachelor’s degree in computer science, IT project management, or information technology. Managers typically need to be on top of knowing basic HTML, Javascript and CSS.
+Becoming a project manager typically requires a bachelor's degree in computer science, IT project management, or information technology. Managers typically need to be on top of knowing basic HTML, Javascript and CSS.
 
 Salary on Average: [*$140,000*](https://survey.stackoverflow.co/2022/#salary-united-states)
 
 ### Business Intelligence Analyst
 
-Business Intelligence Analysts review data in order to track trends and understand patterns in markets.They then take that newfound knowledge to their respective company and make recommendations that will improve the business and aid it's growth.
+Business Intelligence Analysts review data to track trends and understand patterns in markets.They then take that newfound knowledge to their respective company and make recommendations that will improve the business and aid it's growth.
 
 Becoming a Business Intelligence Analyst requires a strong knowledge of data collection protocols and software. Analysts require proficiency in programming languages such as SQL, Python and Hadoop.
 
 Salary on Average: [*$125,000*](https://survey.stackoverflow.co/2022/#salary-united-states)
 
-{{< cta1 >}}
-
 ## So, is computer science a good career option for you?
 
-Now that you’ve had a chance to look over different computer science career options, take time to weigh out the different variables that are needed for a job. Answer some of the following questions for yourself:
+Now that you've had a chance to look over different computer science career options, take time to weigh out the different variables that are needed for a job. Answer some of the following questions for yourself:
 
 * Do your want to work on the front or backend? Do you prefer working with data or visual interfaces?
 * What salary you hope to make? Is a difference of $20k/year a big deal to you?

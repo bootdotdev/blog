@@ -10,7 +10,7 @@ images:
 
 As technology continues to advance, the need for professionals who are capable of utilizing and understanding computers continues to grow. This demand creates a strong job market, with excellent pay and exclusive opportunities. However, there are two fields of study when it comes to working with this technology: Computer Information Systems and [Computer Science](/computer-science/comprehensive-guide-to-learn-computer-science-online/). Both are useful areas of study with in-demand skills, but what are the benefits of each, in comparison to each other? We explore that below.
 
-## What are Computer Information Systems?
+## What is Computer Information Systems?
 
 Computer Information Systems are essentially in charge of coordinating the practical application of technology within any commercial setting, also known as Information Technology (IT). Whether or not a business has a dedicated IT professional, it will undoubtedly make use of a wide variety of Information Systems. The larger the company, however, the more necessary it becomes to have a dedicated IT professional.
 
@@ -21,8 +21,6 @@ Demand for someone with working knowledge of information systems increases as th
 Computer Science, the study of computation, has a [rich history](/computer-science/the-history-of-computer-science/) of mathematics and theoretical work. Nowadays, however, most of the actual careers that deal with CS involve the creation of tangible hardware and software, with a stronger focus on software. Computer scientists learn how to create and implement programs, and are in demand in industries where the creation, optimization, and implementation of programs is a necessity.
 
 Unlike Computer Information System specialists, their knowledge tends to be more focused. This puts them in an unfavorable position of only being sought after by companies in the technology industry. With specialized work comes job security, however.
-
-{{< cta1 >}}
 
 ## How do they benefit you?
 

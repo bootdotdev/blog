@@ -11,7 +11,7 @@ images:
 
 Politicians in the United States have been claiming recently that end-to-end encryption is certainly too dangerous to permit. This movement is serious. Congress even [introduced a bill](https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rUwvwv0X.db8/v0) that would remove the protections that we currently have that allow us to legally encrypt information. Lindsey Graham is one such proponent of this restrictive legislation:
 
-> Senator Lindsey Graham, a top Trump ally, is targeting giant internet platforms with a child protection measure that could threaten tech companies’ use of encryption and a liability exemption they prize.
+> Senator Lindsey Graham, a top Trump ally, is targeting giant internet platforms with a child protection measure that could threaten tech companies' use of encryption and a liability exemption they prize.
 > 
 > [Bloomberg](https://www.bloomberg.com/news/articles/2020-01-30/lindsey-graham-proposal-could-expose-apple-facebook-to-lawsuits)
 
@@ -39,7 +39,7 @@ The practical problem is that the math behind encryption is already public knowl
 
 While true, the world can't unlearn math. Outlawing companies' abilities to protect their customer's data doesn't make illicit [cryptography](/cryptography/what-is-cryptography/) more difficult.
 
-Obviously, Emotional bills based on irrational fears are rarely a good idea to push quickly through congress. Of course, Politicians typically use these kinds of proposals to create a problem. Then, they can "solve" it in order to seem like a hero.
+Obviously, Emotional bills based on irrational fears are rarely a good idea to push quickly through congress. Of course, Politicians typically use these kinds of proposals to create a problem. Then, they can "solve" it to seem like a hero.
 
 For example, If the argument for a regulation starts with something like:
 

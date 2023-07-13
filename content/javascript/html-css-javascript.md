@@ -30,9 +30,9 @@ That's how you build a webpage, too:
 
 ### HTML
 
-HTML makes up this web page's skeleton and structure, and almost every other web page you’ll ever visit. It’s a markup language that "marks up" and forms the backbone to online content, putting the site structure in place for the web browser to understand.
+HTML makes up this web page's skeleton and structure, and almost every other web page you'll ever visit. It's a markup language that "marks up" and forms the backbone to online content, putting the site structure in place for the web browser to understand.
 
-HTML, or Hypertext Markup Language, was first proposed and published in 1993, though its roots trace back to proposals by Sir Tim Berners-Lee in 1989 for an internet hypertext system. It’s developed by WHATWG, with the latest version, HTML5, currently in place.
+HTML, or Hypertext Markup Language, was first proposed and published in 1993, though its roots trace back to proposals by Sir Tim Berners-Lee in 1989 for an internet hypertext system. It's developed by WHATWG, with the latest version, HTML5, currently in place.
 
 ### CSS
 
@@ -44,7 +44,7 @@ CSS, or Cascading Style Sheets, shape the HTML and affects how it's displayed to
 
 JavaScript (JS) is another key language for web page design and inserts dynamic text into HTML client-side.
 
-It’s a scripting language rather than a markup language, and was first released two years after HTML in 1995, developed by Brendan Eich of Netscape, a now-defunct web browser. JavaScript is maintained by the ECMA and as of 2021, the 12th version of ECMA is active.
+It's a scripting language rather than a markup language, and was first released two years after HTML in 1995, developed by Brendan Eich of Netscape, a now-defunct web browser. JavaScript is maintained by the ECMA and as of 2021, the 12th version of ECMA is active.
 
 The main three languages used in web page development are HTML, CSS, and JavaScript. In general:
 
@@ -65,7 +65,7 @@ CSS is inserted into HTML using the `<style>` element, and affects how the HTML 
 
 CSS doesn't make web pages interactive or dynamic, however, but better styles HTML for aesthetics and presentation, giving it a better structure.
 
-JavaScript can be added to these pages to more them more dynamic and interactive. For example, JavaScript can make buttons clickable to take you to your chosen destination, and lets you design on-page calculators and other widgets. It doesn’t replace HTML, it complements it to create dynamic and interactive content.
+JavaScript can be added to these pages to more them more dynamic and interactive. For example, JavaScript can make buttons clickable to take you to your chosen destination, and lets you design on-page calculators and other widgets. It doesn't replace HTML, it complements it to create dynamic and interactive content.
 
 HTML elements include `<p>` paragraph tags, `<h1>` and other heading tags, and many other elements for structuring web pages. JavaScript doesn't use tags, instead it uses functions and data structures to manipulate the code. However, you need to use the `<script>` element to insert JavaScript into HTML.
 
@@ -113,8 +113,6 @@ JavaScript can then be added to bring these styled pages (via the CSS) pages to 
 
 You can create more complex calculators fairly easily by adding more elements within a JavaScript function, such as developing an interest rate calculator based on inputs of the original starting amount invested, based on a certain interest rate, and based on a certain amount of time. 
 
-{{< cta1 >}}
-
 ## HTML vs CSS vs JavaScript: Which is easier to learn?
 
 HTML is much easier to learn than JavaScript and is considered the easiest language to learn. You can learn most of HTML from a complete beginner level to coding your own (basic) HTML in just a day or two, but just knowing HTML won't land you a coding job.
@@ -131,23 +129,21 @@ Despite this, JavaScript and Python are still considered two of the easiest prog
 
 ### HTML: Is it a programming language? The debate
 
-HTML’s lack of executable logic has led to intense debates around whether it is a programming language or not. 
+HTML's lack of executable logic has led to intense debates around whether it is a programming language or not. 
 
-HTML isn’t executable; it marks up pages with tags for the browser to infer the purpose for the viewer. As a markup language, you can’t carry out executable tasks in HTML, for example, you couldn’t add two numbers together.
+HTML isn't executable; it marks up pages with tags for the browser to infer the purpose for the viewer. As a markup language, you can't carry out executable tasks in HTML, for example, you couldn't add two numbers together.
 
 A quote from [this art](https://ischool.syr.edu/why-html-is-not-a-programming-language/#:~:text=HTML%20is%20used%20for%20structural,web%20page%2C%20not%20functional%20ones.&text=Programming%20languages%20have%20functional%20purposes,HTML%20contains%20no%20programming%20logic.)[i](https://ischool.syr.edu/why-html-is-not-a-programming-language/#:~:text=HTML%20is%20used%20for%20structural,web%20page%2C%20not%20functional%20ones.&text=Programming%20languages%20have%20functional%20purposes,HTML%20contains%20no%20programming%20logic.)[cle](https://ischool.syr.edu/why-html-is-not-a-programming-language/#:~:text=HTML%20is%20used%20for%20structural,web%20page%2C%20not%20functional%20ones.&text=Programming%20languages%20have%20functional%20purposes,HTML%20contains%20no%20programming%20logic.) on the Syracuse University School of Information Studies elaborates:
 
-> "Programming languages have functional purposes. HTML, as a markup language doesn’t really "do" anything in the sense that a programming language does. HTML contains no programming logic."
+> "Programming languages have functional purposes. HTML, as a markup language doesn't really "do" anything in the sense that a programming language does. HTML contains no programming logic."
 
-Therefore, without programming logic, some do not consider it a programming language. Nevertheless, when you write in HTML you are still coding, and HTML5 brings a wealth of new extras like geolocation and multimedia to web page design, so HTML’s importance shouldn’t be questioned, whether you agree or disagree with it being a programming language.
+Therefore, without programming logic, some do not consider it a programming language. Nevertheless, when you write in HTML you are still coding, and HTML5 brings a wealth of new extras like geolocation and multimedia to web page design, so HTML's importance shouldn't be questioned, whether you agree or disagree with it being a programming language.
 
 ## Differences between HTML, CSS and JavaScript, and how they work together
 
 HTML can combine JavaScript within scripts that convert HTML's static form into dynamic content by modifying the web page contents without reloading the page. However, the reverse cannot occur. JavaScript doesn't really embed HTML.
 
 HTML tells the web page what it should display rather than how it should display it, whereas JavaScript instructs the web page on how exactly the data and content should be displayed. 
-
-{{< cta2 >}}
 
 ## HTML vs JavaScript: Browser compatibility
 
@@ -157,9 +153,9 @@ However, all major browsers support dynamic JavaScript content and unless you us
 
 ## HTML vs JavaScript: server-side or client-side
 
-HTML is typically rendered from the server-side as it is static and therefore doesn't need anything client-side. It’s usually processed by the server before it’s ever sent to the user. That said, new front-end frameworks like React and Vue actually render the HTML in the JavaScript code on the front-end, which is still a relatively new idea.
+HTML is typically rendered from the server-side as it is static and therefore doesn't need anything client-side. It's usually processed by the server before it's ever sent to the user. That said, new front-end frameworks like React and Vue actually render the HTML in the JavaScript code on the front-end, which is still a relatively new idea.
 
-JavaScript is a client-side scripting language where it is internally compiled and then interpreted before the scripts or functions are executed client-side. Because JavaScript is run on the user’s machine, it’s not secure -- you should never process passwords or any other sensitive data in JavaScript.
+JavaScript is a client-side scripting language where it is internally compiled and then interpreted before the scripts or functions are executed client-side. Because JavaScript is run on the user's machine, it's not secure -- you should never process passwords or any other sensitive data in JavaScript.
 
 ## HTML vs CSS vs JavaScript: Add-ons and libraries
 

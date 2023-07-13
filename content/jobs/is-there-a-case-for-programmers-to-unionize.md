@@ -22,7 +22,7 @@ It's true that the '50s were very different from today in terms of who worked, h
 
 In the '50s, the median inflation-adjusted household income was around $30,000 in 2020 dollars. Today, we make [significantly more money](/computer-science/highest-paying-computer-science-jobs/), around $60,000 (back of the envelope math from [here](https://www.multpl.com/us-median-real-income/table/by-year) and [here](https://web.stanford.edu/class/polisci120a/immigration/Median%20Household%20Income.pdf)), and yet clearly many families still struggle to make ends meet. To me, it seems this is largely due to the certain "necessities" that simply didn't exist in the mid-20th century. We have many bills they didn't have back then; cell phones, prescription medications, internet connections, multiple cars, and [much larger houses](http://www.npr.org/templates/story/story.php?storyId=5525283) to name a just few.
 
-While we've made advances in technology that make our lives better, they've simultaneously made our lives more expensive. You simply _must_ pay an exorbitant hospital bill in order to have a child in 2021, anything less is irresponsible. Most people can't walk to the grocery store or work these days with suburban sprawl, so multiple cars per family is a necessity. There were no cell phones in the '50s, but it's nearly impossible to function in society without one now.
+While we've made advances in technology that make our lives better, they've simultaneously made our lives more expensive. You simply _must_ pay an exorbitant hospital bill to have a child in 2021, anything less is irresponsible. Most people can't walk to the grocery store or work these days with suburban sprawl, so multiple cars per family is a necessity. There were no cell phones in the '50s, but it's nearly impossible to function in society without one now.
 
 **I think this is a problem, but developers are some of the most highly-paid workers out there. The solution likely resides outside the domain of software specifically, seeing as people of other professions, even highly-unionized professions suffer more.**
 
@@ -49,8 +49,6 @@ I have two main problems with this approach.
 
 1. Standardizing testing and certification systems likely wouldn't be effective in a field as fast-paced as software engineering. Best practices in 2019 can be obsolete in 2020, and I just don't trust union administrators to keep up.
 2. We can solve this problem without unions. I think there's a growing market demand for developer-vetting. Right now this need is mostly filled by service-based recruiting companies, but I think there's an opportunity for a kind of developer-profile industry to emerge. Ideally, it would make it easy for developers to showcase their knowledge and projects in an effective and streamlined way, and at a fraction of what union dues would cost.
-
-{{< cta1 >}}
 
 ## #3 Discrimination
 
@@ -85,8 +83,6 @@ The junior/senior problem seems to mostly be a supply and demand problem, with p
 - If there are just too many engineers (doubtful) then let people know so new learners will know what they're getting into
 
 In regards to junior developers not being able to prove their skills, I think there are potential cultural improvements and product innovations that have a lot of potential. For example, inexpensive access to online courses and certificates helps students that didn't go to college prove that they understand certain concepts. The open-source community seems to me to be more inclusive and collaborative, and if you maintain a project you can help by flagging issues with `good first issue` or `help wanted` which encourages newer devs to get their hands dirty and fill out their open-source portfolio.
-
-{{< cta2 >}}
 
 ## #5 Employees are at the mercy of employers
 

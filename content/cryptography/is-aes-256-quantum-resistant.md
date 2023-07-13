@@ -37,8 +37,6 @@ Symmetric encryption, or more specifically AES-256, is believed to be quantum-re
 
 [Grover's algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm) can reduce the brute force attack time to its square root. So for AES-128 the attack time becomes reduced to 2^64 (not very secure), while AES-256 becomes reduced to 2^128 which is still considered very secure.
 
-{{< cta1 >}}
-
 ## A Caveat
 
 It is important to remember that [256-bit keys derived](/cryptography/key-derivation-functions/) from passwords actually can have less than 256-bits of entropy. If the owner of the key generated it from a weak password an attacker can try deriving keys from common passwords instead of trying random 256-bit numbers.

@@ -95,8 +95,6 @@ if err != nil{
 convertedTime := newTinydate.ToTime()
 ```
 
-{{< cta1 >}}
-
 ## When Should I Use It?
 
 As the TinyDate [Readme](https://github.com/wagslane/go-tinydate/blob/master/README.md) states, if you aren't constrained for resources, better to stick with the standard time.Time. But the following situations can be good reasons to switch to TinyDate:
@@ -108,8 +106,6 @@ As the TinyDate [Readme](https://github.com/wagslane/go-tinydate/blob/master/REA
 ## Why No Timezones?
 
 The main reason? Timezones are the most memory heavy part of a time.Time struct, yet the best practice is **usually** to store dates and times only in UTC. TinyDate stays tiny by always storing dates in UTC, but still gives the ability to calculate dates in other timezones via methods like [ParseInLocation](https://godoc.org/github.com/wagslane/go-tinydate#ParseInLocation) [FromTime](https://godoc.org/github.com/wagslane/go-tinydate#FromTime) and [ToTime](https://godoc.org/github.com/wagslane/go-tinydate#TinyDate.ToTime).
-
-{{< cta2 >}}
 
 ## API
 

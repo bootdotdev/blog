@@ -38,9 +38,7 @@ Most college degrees are too generalized. In the United States, it's common for 
 
 Don't misunderstand; I love the idea of learning concepts and ideas that I may not otherwise have been exposed to. I had to take philosophy and humanities classes that I'm really glad I took. That said, I wish I wasn't _forced_ to take them. I actually study a lot of philosophy on my own now, just for fun. I don't need school to force me through that sort of thing.
 
-At [boot.dev](https://boot.dev/), the programs that we are assembling will be goal-focused. You want to be a web developer? We'll build you the best, most focused, and most comprehensive program we can in order to help you reach that specific goal. Then if you want to take extra courses, projects, or subjects for fun, that's up to you.
-
-{{< cta1 >}}
+At [boot.dev](https://boot.dev/), the programs that we are assembling will be goal-focused. You want to be a web developer? We'll build you the best, most focused, and most comprehensive program we can to help you reach that specific goal. Then if you want to take extra courses, projects, or subjects for fun, that's up to you.
 
 ## Traditional Education vs Mastery-Based
 
@@ -74,8 +72,6 @@ What differentiates boot.dev, and what will continue to set us apart, is that we
 One of the questions I hear often from friends is, "I want to learn to code but I don't know where to start." This is a _huge_ problem.
 
 My own wife recently went to one of [boot.dev's](https://boot.dev/) biggest competitors and it took her 30 minutes just to _start_ a course because she didn't have enough knowledge to know what she was looking for. We have big plans to improve boot.dev's onboarding process. It will become seamless as we algorithmically generate programs (lists of courses) that can get our users started quickly and progressing to their dream goal or career.
-
-{{< cta2 >}}
 
 ## Common Concerns
 

@@ -28,11 +28,9 @@ I'm not going to share too many details yet (because you're not allowed to start
 * The application must be written in Python 3
 * The application must somehow make use of PokeAPI data. Make a Pokemon app!
 
-{{< cta1 >}}
-
 ## Prizes
 
-We’ll have two categories of participants.
+We'll have two categories of participants.
 
 * Those who have been programming for *less* than a year
 * Those who have been programming for *more* than a year
@@ -57,7 +55,5 @@ In addition, everyone who participates will earn 1000XP in the Boot.dev app, and
 1. [Original Pokemon Artwork by Oscar-Sherelis](https://github.com/Oscar-Sherelis/Python-pokemon-artwork-image)
 2. [Pokemon Image by KR411-prog](https://github.com/KR411-prog/pokemonimage)
 3. [Height and Weight PokeSearch by Raimusha](https://github.com/Raimusha/hackathonTristin)
-
-{{< cta2 >}}
 
 ## Thanks so much, see you at the next one!

@@ -6,7 +6,7 @@ lastmod: "2022-10-01"
 categories: 
   - "clean-code"
 images:
-  - /img/800/Writing-Good-Unit-Tests-Dont-Use-Database-Mocking.webp
+  - /img/800/wizard-testing.png.webp
 ---
 
 Unit tests are incredibly important because they allow us to *demonstrate* the correctness of the code we've written. More importantly, unit tests allow us to make updates to our code base with the confidence that we haven't broken anything. However, in our zeal to achieve 100% code coverage, we often write tests for logic that we may not even *want* to test. I'm here to convince you that creating mock database abstractions to write unit tests is usually a **bad idea**.
@@ -61,11 +61,9 @@ The goal of unit tests is to test a "unit", or small portion, of code. If we can
 
 ## Good code is easier to test
 
-`logPow` is a perfect candidate for a suite of unit tests. It's a mathematical function with predictable outputs for any given inputs. Not all functions we write will be *nearly* this straightforward to test. However, if we can write small and ideally [pure functions whereever possible](/golang/pure-functions-in-golang/), writing tests for them becomes much easier.
+`logPow` is a perfect candidate for a suite of unit tests. It's a mathematical function with predictable output for any given input. Not all functions we write will be *nearly* this straightforward to test. However, if we can write small and ideally [pure functions wherever possible](/golang/pure-functions-in-golang/), writing tests for them becomes much easier.
 
 **Testing shouldn't be hard.** Good code is easy to test.
-
-{{< cta1 >}}
 
 ## Unit tests shouldn't depend on infrastructure
 
@@ -178,18 +176,16 @@ func saveUser(db sqlDB, user *User) error {
 }
 ```
 
-With this code, we can now write a unit test that calls the entire `saveUser()` function by passing in a `mockDB` so that we don't need on a running database for the tests. As I hope is clear, there are several issues with this approach:
+With this code, we can now write a unit test that calls the entire `saveUser()` function by passing in a `mockDB` so that we don't need a running database for the tests. As I hope is clear, there are several issues with this approach:
 
 * The mock database code is unused in production. *We are testing code that literally doesn't matter.*
 * We technically have better "test coverage" with this approach, but our tests aren't actually any more robust. We get a false sense of security.
 * We have made the *real* code harder to find by abstracting it behind an interface.
 * The fact that `saveUser()` was hard to test was a great signal to us as developers that it needed refactoring. We've silenced a good signal that our code needs to be cleaned up.
 
-{{< cta2 >}}
-
 ## Don't test your dependencies, ensure they pass their own tests
 
-Building on the example of the refactored `saveUser()` function from before, we sill have two functions that are likely dependent on third party libraries, namely the `hash()` function and the `saveUserToDB()` function. If we've written our code well, those functions shouldn't do much more than encapsulate a libraries API.
+Building on the example of the refactored `saveUser()` function from before, we still have two functions that are likely dependent on third-party libraries, namely the `hash()` function and the `saveUserToDB()` function. If we've written our code well, those functions shouldn't do much more than encapsulate a library's API.
 
 ```go
 func hash(password string) (string, error) {
@@ -203,19 +199,19 @@ There is no reason I can see to write a test for the `hash` function. Before imp
 
 ## So what do I do, just not test my database layer?
 
-Nope, I think you absolutely *should* test your database layer, I just don't think you should be using *mocks*. Where possible, I think it makes a ton of sense to write automated integration tests for your database logic. The way that you implement the tests will probably depend quite a bit on your tech stack, but let me give you an example of something I'd be happy to see.
+Nope, I think you absolutely *should* test your database layer, I just don't think you should be using *mocks*. Where possible, I think it makes a ton of sense to write automated integration tests for your database logic. The way that you implement the tests will probably depend on your tech stack, but let me give you an example of something I'd be happy to see.
 
-You could write a test script that spins up a *very real* instance of your database within a docker container, and executes *your exact queries that will be used in production* in a series of tests. Maybe it:
+You could write a test script that spins up a *very real* instance of your database within a Docker container and executes *your exact queries that will be used in production* in a series of tests. Maybe it:
 
-1. Creates the db schema
+1. Creates the database schema
 2. Inserts a bunch of records
 3. Checks that the insertions worked
 4. Updates some of the records
-5. Makes sure the updates performed as expected
+5. Makes sure the updates are performed as expected
 6. Deletes some stuff
 7. Makes sure stuff got deleted
 8. Tears down the database
 
-When done this way, you're always testing code that actually gets deployed to production. Again, the biggest problem with mocking is that there are execution paths being tested that never are taken in production.
+When done this way, you're always testing code that gets deployed to production. Again, the biggest problem with mocking is that execution paths are being tested that are never used in production.
 
 If you have any questions or comments about the article be sure to [contact me on Twitter](https://twitter.com/wagslane) and let me know.

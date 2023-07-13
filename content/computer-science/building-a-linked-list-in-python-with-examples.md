@@ -40,7 +40,7 @@ class Node:
         return self.val
 ```
 
-Each node has a `val` data member (the information it stores) and a `next` data member. The `next` data member just points to the next `Node` in the list if there is one, otherwise it's `None`
+Each node has a `val` data member (the information it stores) and a `next` data member. The `next` data member just points to the next `Node` in the list if there is one, otherwise, it's `None`
 
 ### Linked List Constructor
 
@@ -54,7 +54,7 @@ The constructor is easy - just initialize an empty `head` pointer. This indicate
 
 ### Iterating over the list
 
-Let's make it easy to iterate over each item in the list using python's `for _ in _` syntax.
+Let's make it easy to iterate over each item in the list using Python's `for _ in _` syntax.
 
 ```py
 def __iter__(self):

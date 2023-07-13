@@ -31,7 +31,11 @@ pluralizelisttitles = false
     "https://boot.dev",
     "https://blog.boot.dev",
     "https://wagslane.dev",
-    "https://scrimba.com"
+    "https://scrimba.com",
+    "https://prepcards.dev",
+    "https://www.stratascratch.com",
+    "https://www.youtube.com",
+    "https://podcasts.apple.com",
   ]
 
   [[params.courses]]
@@ -104,6 +108,11 @@ pluralizelisttitles = false
     type = "Course"
     link = "https://boot.dev/learn/learn-cryptography"
     imgURL = "https://user-images.githubusercontent.com/19890545/150690287-d7a7a4c0-ce89-4c49-8043-5af0348e615e.png"
+  [[params.courses]]
+    name = "Learn Docker"
+    type = "Course"
+    link = "https://boot.dev/learn/learn-docker"
+    imgURL = "https://cdn.iconscout.com/icon/free/png-256/docker-3521391-2944835.png"
   [[params.courses]]
     name = "Learn Advanced Algorithms"
     type = "Course"

@@ -22,8 +22,6 @@ LinkedIn is probably the best place to *start* your search. Even if you don't li
 
 Aside from the benefits of a great profile looking good on your resume when you apply to jobs, it has a couple other benefits. First, assuming you've added the proper keywords to your account (things like "backend", "golang", or "AWS"), you will be contacted by recruiters. Second, it makes applying to many jobs seamless with the "Easy Apply" button. Because your LinkedIn profile is essentially a copy of your resume, you can apply to many jobs without spending hours and hours copy and pasting on application forms.
 
-{{< cta1 >}}
-
 ## 2. WeWorkRemotely
 
 * [Link to job board](https://weworkremotely.com/remote-jobs/search)
@@ -39,8 +37,6 @@ I like this for a few reasons, namely:
 * [Link to job board](https://www.keyvalues.com/)
 
 KeyValues is another favorite of mine because it allows you to filter by companies that share your values. Do you want to work for carbon-neutral companies? Do you want companies that value workplace equity? KeyValues makes it easy to find great companies that think like you do.
-
-{{< cta2 >}}
 
 ## 4. AngelList
 
@@ -59,8 +55,6 @@ Ladders is a good place to search if you're interested (and think you're ready) 
 * [Link to job board](https://news.ycombinator.com/jobs)
 
 HackerNews is an amazing forum and community, and they keep a dedicated list of all the posts about job openings. Don't be scared of the old-timey interface, these are modern tech companies that tend to advertise here, and they all have good funding.
-
-{{< cta3 >}}
 
 ## 7. Crunchboard
 

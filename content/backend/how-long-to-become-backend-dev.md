@@ -12,7 +12,7 @@ images:
 
 I get really frustrated when I see people and companies online selling unrealistic dreams when it comes to coding education. It's quite lucrative when you're in the edtech industry to heavily exaggerate (or even lie) about how long it will take for learners to get job-ready. I teach backend development skills at [Boot.dev](https://boot.dev) and try my best to give students realistic goals they can reach for.
 
-Read on to hear all about my thoughts on how long it will take to learn back-end development, but first let's cover some of the most important stuff right off the bat.
+Read on to hear all about my thoughts on how long it will take to [learn back-end development](https://boot.dev/tracks/backend), but first let's cover some of the most important stuff right off the bat.
 
 1. *Almost* no one is getting "job ready" in less than 16 weeks.
 2. If you're learning efficiently, it probably won't take more than 2 years to get "job ready".
@@ -49,8 +49,6 @@ Apart from analyzing where you're starting from, there are some other key factor
 * Are you a fast learner? The numbers I'm working with assume you're about average.
 * How much schooling have you received? The numbers I'm working with assume at least a high-school diploma.
 
-{{< cta1 >}}
-
 ## Do the time-frames above include the time for the job search itself?
 
 Probably not - but again, that just depends on so much. If you don't have any connections, and you're in a "mediocre" city in regards to tech opportunities, I'd expect it to take another 3-6 months to find a job that's a great fit for you. Let's look at a few key questions that will impact how long your job search takes. The more "yes" answers the better!
@@ -67,8 +65,6 @@ Are you a helpful member of tech communities online?
 I don't actually know.
 
 My *guess* is that it takes about 20% longer to learn job-ready backend skills because there seems to be more to learn. A good computer science foundation is practically required for most back-end and data engineering jobs. While CS basics are still *super* useful for front-end developers, they aren't as necessary.
-
-{{< cta2 >}}
 
 ## How much data do you have to back this up?
 

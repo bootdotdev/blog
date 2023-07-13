@@ -22,8 +22,6 @@ Elasticsearch is a NoSQL distributed database that is good for, well, **searchin
 
 Percolate queries can be simply thought of as an inverse search. Instead of sending a _query_ to an index and getting the _matching documents_, you send a _document_ to an index and get the _matching queries_. This is exactly what most alerting systems need.
 
-{{< cta1 >}}
-
 ## What does it look like?
 
 From [elastic's documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-percolate-query.html#query-dsl-percolate-query), we will create an index with a mapping (which is basically a loosey-goosy SQL schema) for an index that holds percolating queries:

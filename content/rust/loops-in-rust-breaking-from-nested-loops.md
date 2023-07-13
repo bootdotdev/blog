@@ -102,8 +102,6 @@ which prints:
 5
 ```
 
-{{< cta1 >}}
-
 ## Working With Nested Loops
 
 Nested loops can get tricky in a lot of languages. What if I want to continue through an outer loop when a condition within an inner loop occurs? We can do the following:

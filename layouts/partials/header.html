@@ -35,7 +35,11 @@
   <link rel="canonical" href="{{ .Permalink }}page/{{ $.Paginator.PageNumber }}/" />
   {{ end }}
   {{ else }}
-  <link rel="canonical" href="{{ .Permalink }}" />
+  {{ if .Params.canonical }}
+  <link rel="canonical" href="{{ .Params.canonical }}">
+  {{ else }}
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ end }}
   {{ end }}
 
   {{- if $.Paginator -}}
@@ -64,6 +68,17 @@
   {{ $syntaxcss := resources.Get "css/syntax.css" | minify }}
   <link href="{{ $syntaxcss.RelPermalink }}" rel="stylesheet">
 
+
+  <!-- fonts -->
+  <link rel="preconnect" href="https://use.typekit.net">
+  <link rel="stylesheet" href="https://use.typekit.net/cmx5dxo.css">
+  <!-- end fonts -->
+
+  <!-- Rewardful -->
+  <script>(function (w, r) { w._rwq = r; w[r] = w[r] || function () { (w[r].q = w[r].q || []).push(arguments) } })(window, 'rewardful');</script>
+  <script async src='https://r.wdfl.co/rw.js' data-rewardful='44a8ec'></script>
+  <!-- End Rewardful -->
+
   {{ partial "favicons.html" . }}
   {{ partial "gtm.html" . }}
   {{ partial "jsonld.html" . }}
@@ -72,8 +87,6 @@
   {{ template "_internal/schema.html" . }}
 </head>
 
-<body class="bg-gray-800 text-gray-250 m-0">
+<body class="bg-glassmorph text-gray-250 m-0">
 
   {{ partial "top_nav.html" . }}
-
-  {{ partial "sticky_cta.html" . }}

@@ -111,9 +111,9 @@ for i, char := range name {
 // 3 e
 ```
 
-## #3 While loop
+## #3 While loop in Golang
 
-*While loops don't exist in Go!* However, by modifying a for loop we get the same functionality.
+*While loops don't exist in Go!* However, by modifying a for loop we can get the same functionality.
 
 ```go
 sum := 1
@@ -123,7 +123,7 @@ for sum < 10 {
 fmt.Println(sum)
 ```
 
-{{< cta1 >}}
+In other words, a `for` loop in Go without an `init` or `post` statement is equivalent to a `while` loop in other languages.
 
 ## #4 Optional components loop
 
@@ -154,8 +154,6 @@ for {
 }
 // never reached, loops continues on forever
 ```
-
-{{< cta2 >}}
 
 ## #6 Break from a loop
 

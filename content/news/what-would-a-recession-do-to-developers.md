@@ -8,7 +8,7 @@ categories:
 images:
   - /img/800/stocks.avif.webp
 aliases:
-  - "/news/what-would-a-recession-do-to-developers/(https:/boot.dev)"
+  - "/news/what-would-a-recession-do-to-developers/"
 ---
 
 With markets in a slump, many of us are concerned a recession could be right around the corner. The NASDAQ is already [down 27% so far in 2022](https://www.marketwatch.com/investing/index/comp). Heck, maybe we're already in the middle of a recession.
@@ -19,7 +19,7 @@ If you are a developer, or are in the middle of learning to code, you may be jus
 
 Well, no one really knows where the markets are going in the future, but things are getting rocky quickly. Y Combinator, arguably the most successful tech startup accelerator [wrote a letter](https://techcrunch.com/2022/05/19/yc-advises-founders-to-plan-for-the-worst/) to the founders they have funded where they say:
 
-> No one can predict how bad the economy will get, but things don’t look good. The safe move is to plan for the worst. If the current situation is as bad as the last two economic downturns, the best way to prepare is to cut costs and extend your runway within the next 30 days.
+> No one can predict how bad the economy will get, but things don't look good. The safe move is to plan for the worst. If the current situation is as bad as the last two economic downturns, the best way to prepare is to cut costs and extend your runway within the next 30 days.
 
 I have no idea if the market is going down another 20%, is going to rebound to all-time-highs by the end of the year, or if we'll trade sideways for the next few months. If I were you, I'd be wary of anyone who is telling you that they do know what is going to happen, especially if there is a price tag attached to the information. What I do know is that there is a sentiment sweeping across the tech industry that has company leaders thinking about tightening their budgets to weather a storm - whether or not the storm comes.
 
@@ -49,8 +49,6 @@ Both of those points basically have the same consequence: **borrowing money is e
 
 Finally, the market advantage of tech companies might also be waning. Companies that haven't innovated have been dying (think Blockbuster and Macy's). The survivors are taking advantage of the efficiencies investment in tech brings, which means the competition among "tech companies" is higher than it once was, which makes the returns harder to find. I believe this all culminates in a few headwinds for developers.
 
-{{< cta1 >}}
-
 ## When an industry is flush with cash, it's easier to find jobs in that industry
 
 So, assuming the industry won't be what it once was, what does that mean for those of us who work in tech? Well, it means that the insanely-hot hiring market will cool down a bit. The days of recruiters pounding down your door if you have 6-months of experience listed on LinkedIn might be over.
@@ -62,8 +60,6 @@ Less investment money means fewer startups and fewer "series-X" fundraising roun
 Junior developers have always had a harder time finding work than mid-level or senior developers. Frankly, that first job has always been hard to land, but landing any job once you have some experience under your belt has been much easier historically. I think entry-level developers will unfortunately be disproportionately impacted by a "tech recession". Now more than ever, the competition among entry-level devs will be fierce. It might not be enough anymore to [attend a 12-week bootcamp and come out the other side making $80k](/jobs/getting-a-job-after-coding-bootcamp-is-hard).
 
 Second, I suspect that high-growth startups will be hit harder than more established companies. Companies that are profitable will likely be able to take advantage of the market downturn and pick up talent on the cheap. Companies relying entirely on outside investment will have to go through layoffs or at least slow that pace with which they snap up developers.
-
-{{< cta2 >}}
 
 ## Don't panic
 

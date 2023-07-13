@@ -27,8 +27,6 @@ Symmetric algorithms are computationally fast. They are primarily used to encryp
 
 PGP is a hybrid cryptosystem, it takes advantage of certain benefits from symmetric and asymmetric systems. PGP uses asymmetric keys to encrypt symmetric keys, which are used to encrypt messages. This keeps PGP computationally efficient while also allowing users to own their own private keys.
 
-{{< cta1 >}}
-
 ## How Does It Work?
 
 OpenPGP, the protocol to which PGP and GPG adhere, can really be looked at as a set of rules for _how_ we use _other_ encryption and authentication algorithms. There are four main components of a PGP system:
@@ -43,7 +41,7 @@ OpenPGP, the protocol to which PGP and GPG adhere, can really be looked at as a 
 Let's go through each step of how a PGP message exchange works:
 
 1. Raw data is hashed and signed using the sender's asymmetric private key. This will allow the receiver to verify that the message is _from_ who they think it is.
-2. The data is compressed in order to save space
+2. The data is compressed to save space
 3. A new random symmetric key is generated for this exchange
 4. The random symmetric key is used to encrypt the compressed data
 5. The symmetric key is encrypted using the receiver's asymmetric public key
@@ -56,8 +54,6 @@ Let's go through each step of how a PGP message exchange works:
 ![PGP Step by Step flowchart](/img/800/Untitled-Project-792x1024.jpg)
 
 That's it! If you have questions be sure to reach out on [Twitter](https://twitter.com/wagslane).
-
-{{< cta2 >}}
 
 ## Which Algorithms are Used?
 

@@ -1,150 +1,168 @@
 ---
 title: "Is Computer Science Really that Hard?"
 author: Natalie Schooner
-date: "2022-07-27"
+date: "2023-04-05"
 categories: 
   - "computer-science"
   - "jobs"
 images:
-  - /img/800/pexels-photo-1108101.webp.webp
+  - /img/800/android-studying-cs.webp
 ---
 
-I spent a lot of time scouring google with queries like "Is computer science hard reddit" back when I was deciding whether I should go ahead and actually get a computer science degree. I wanted advice from someone who had boots on the ground in the computer science field.
+Yes, computer science is hard, but you already know that. You don't want to know if computer science is hard. You want to know if it's *too* hard. You want to know if having to learn computer science is going to be a real obstacle in your way to achieving your goal.
 
-I was in a weird spot in my life. I already had a degree in biology from a decent school. But honestly, fieldwork didn’t appeal to me, nor did becoming a teacher. I didn’t care enough about any particular discipline to go in deeper. So I was at loose ends, working odd jobs while I decided on my next move.
+What's your goal? Only you know. Maybe your goal is:
 
-I had heard from a few of my friends that computer science was a good job... if you were up for it. With that ominous caveat, I took to Google to try to find the answer. Was computer science hard? More importantly, was it too hard for me? (Was it worth it for that hefty [software engineering salary](/jobs/how-much-do-software-engineers-make/?)
+* Becoming a backend developer, game developer, or data engineer.
+* Learning programming languages like Python or JavaScript.
+* Increasing your salary by moving from entry-level data analyst to one of the jobs I mentioned above.
 
-Here were some of the answers I found after searching again today:
+For all those cases, the answer is "Yes, computer science is hard – but not *too* hard." Beyond just your goal, the difficulty of learning computer science comes down to a few factors.
 
-> "I have a CS degree - while there is a lot of math, if you’re willing to study and take it serious, with all the resources nowadays I don’t see why you would have problems passing."
-> 
-> – [PianoConcertoNo2](https://www.reddit.com/r/college/comments/pe97ce/comment/havwo82/?utm_source=share&utm_medium=web2x&context=3)
+* Do you know anything about programming?
+* Are you interested in code?
+* Do you like thinking about and solving thorny problems?
+* How much do you enjoy practicing things?
+* How comfortable are you stretching your comfort zone?
 
-> "Don't choose a CS career if you just want money. Choose the CS path because you enjoy technology work."
-> 
-> – [VA\_Network\_Nerd](https://www.reddit.com/r/college/comments/pe97ce/comment/havxc7p/?utm_source=share&utm_medium=web2x&context=3)
+This article is written for people who are thinking about getting a [job in backend development](/backend/become-backend-developer/) or software engineering and want to know if computer science is too hard to learn without a degree.
 
-> "Computer Science is effectively a math degree that teaches you programming. If you are struggling with math, you will probably find computer science to be very upsetting and stressful."
-> 
-> – [SouthernRhubarb](https://www.reddit.com/r/college/comments/pe97ce/comment/havtobp/?utm_source=share&utm_medium=web2x&context=3)
+Short answer: computer science is hard, but not too hard for you. With the right tools, plan, and attitude, you can learn computer science in [six to nine months](/backend/how-long-to-become-backend-dev/).
 
-After scouring the internet, I realized my problem. I wanted someone to give me a straight-up:
+Longer answer: let's dive in.
 
-> "Yes, computer science is too hard"
+## What is computer science?
 
-or a:
+Slightly boring but necessary answer first: Computer science is the study of computation and information. It is a broad field that encompasses the study of algorithms, programming languages, software engineering, computer architecture, and artificial intelligence.
 
-> "No, computer science is fine."
+The problem with this definition is that every other word also needs to come with a definition for you to really get a sense of what computer science means. I mean, the [Wikipedia page for computer science](https://en.wikipedia.org/wiki/Computer_science) is roughly 50% hyperlinks. **Look at all that blue text!**
 
+![wikipedia cs blue hyperlinks](/img/800/wikipediacstext.png.webp)
 
-However, like so many other things in life, there isn’t any one answer to the question. All the answers said the same thing: if you like math and tech, then you’ll probably enjoy computer science enough to stick through a course or degree.
+Image Source: [https://en.wikipedia.org/wiki/Computer_science](https://en.wikipedia.org/wiki/Computer_science)
 
-Ultimately, I decided not to get a degree. They were expensive, and I kind of wanted to get a move on in my life faster than four years. So I embarked on my own journey of [learning computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/). I am now happily qualified to answer the question, **"Is computer science hard?"**
+So, in a pithier way, computer science is the study of how to make computers do the thing you want them to do.
 
-Let’s jump in.
+People normally learn computer science as a stepping stone to a career, like software or data engineering, backend development, game development, or any other job that touches computers.
 
-## The short answer: Yes, computer science is hard. 
+If you're looking into learning computer science to get a job, and not just because you have a love of all things computer, the most important thing you should know is that computer science is not just about learning how to write code. It is about learning how to think critically about problems and how to solve them using computers. This is a skill that is essential for many different careers, not just those in the tech industry.
 
-I’ll give you what I wish I’d had back in 2020, when I was wondering if computer science is hard. Yes, it’s hard. But so are statistics, calculus, biology, English literature, social media marketing and psychology. There’s no such thing as an easy subject. There are only people who make it look easy, and people who don’t.
+## Why is computer science hard?
 
-A lot of folks ask questions like, "Is computer science harder than engineering?" or "Is computer science harder than medicine?"
+If someone tells you computer science isn't hard, it's probably because they think computer science is just copy-pasting some code from StackOverflow. They're wrong. Let's get into all the various reasons computer science is hard–but still worth learning.
 
-My answer: these comparisons aren’t helpful. Like anything, if you want to learn it well enough to get a decent job, it’s hard. You’ll have to apply yourself to pick up the lessons and code for hours in front of a screen cramped with code. It takes a toll on you. It’s not easy.
+### Complex topics
 
-## What exactly is hard about computer science?
+The biggest reason computer science is hard is that computer science is a complex, broad concept that encompasses a lot of other complex, broad concepts. Look at that Wikipedia page I linked above and you'll quickly see exactly how wide-ranging computer science is.
 
-Why is computer science hard? Slightly paraphrasing Leo Tolstoy here: every difficult subject is difficult in its own way. Computer science is hard due to a unique set of characteristics.
+To learn computer science, you'll need to [understand algorithms](https://boot.dev/learn/learn-algorithms), data structures, and programming languages. And you'll need to learn them twice * once in theory, as you understand the concepts, and then again in practice, as you learn how to implement them. That takes a lot of thinking and practice to master.
 
-### There’s a bias about who is good at computer science. 
+### Math skills
 
-Here’s a set of images created by DALL-E mini with the prompt, "computer scientist." Notice anything?
+You also need a lot of math skills, which require active, intentional practice to master. You will need to be familiar with calculus, algebra, and discrete mathematics. All these concepts are famously tricky to get a handle on.
 
-![dalle cs](https://i.imgur.com/e6x7pvw.png)
+### Multiple programming languages
 
-Apart from looking like escaped demons from the ninth circle of hell, they’re all white men. That’s the predominant image of computer scientists on the web. (You can check out DALL-E’s disclaimer [here](https://huggingface.co/dalle-mini/dalle-mini#limitations) about its biases and limitations.)
+You'll also need to [learn not one, not two, but probably close to half a dozen programming languages](/education/learn-multiple-programming-languages/) such as Python, Go, Javascript, and SQL. Each language has different syntax, rules, and programming paradigms.
 
-Why does that make computer science hard? Because for a long, long time, if you weren’t a straight white guy, you would face discrimination from peers, professors, and bosses.
+For example, learning Python will [teach you object-oriented programming](https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/), while Javascript is functional programming.
 
-And it’s still the case [today](https://www.reddit.com/r/TwoXChromosomes/comments/k7q069/it_is_so_great_being_a_woman_in_cs/), if to a lesser degree. The LA Times published [this article](https://www.latimes.com/opinion/story/2022-03-07/silicon-valley-diversity-representation-progress) in 2022 about the lack of diversity in Silicon Valley, highlighting some of the author’s experiences as a Latina woman in tech. It sucks, but it’s still true today, even if hopefully it’s getting better over time.
+### Time-consuming
 
-### Mistakes are easy to make and hard to fix. 
+Computer science is also tough because [it's time-consuming to learn](/backend/how-long-to-become-backend-dev/), so you'll need a lot of staying power. Despite all the boot camps that promise you can learn enough CompSci to get a job in three months, it's not always true. Those boot camps shovel you full of code, but often don't let you get a mental grasp of the concepts I mentioned above.
 
-One thing that makes computer science hard is the stubbornness of errors. I remember spending hours trying to debug a script I’d written. It came down to a single misplaced comma. One single comma! I spent an entire frustrating afternoon staring at my screen, fixing different things, trying to interpret obscure error messages before I finally caught my typo.
+The best way to learn computer science is by learning the basics of coding, learning the fundamentals that underpin them, writing code, debugging, and repeating that process again and again. That kind of learning takes time, mental energy, and a lot of effort.
 
-With computer science, you need to come armed with patience and resilience. Things can and will go wrong.
+### Learning never ends
 
-### There’s a steep learning curve.
+Five years ago, machine-learning-as-a-service didn't really exist. Hadoop and Spark were just on the up-and-up. General Adversarial Networks were but a glimmer in Ian Goodfellow's eye.
 
-Think of computer science like a complex video game. When I started gaming, I played two different games. I tried "Divinity: Original Sin" and "Lego City Undercover". Both were hard for me at first, because I’d never played video games before. But Lego City Undercover was a lot easier to pick up.
+![twitter goodfellow](/img/800/twittergoodfellow.png.webp)
 
-DOS had a much steeper learning curve. It took me much longer to get the lessons to stick, what to do when. It was a more complex game, with more options. I could go much deeper, too. Computer science was like DOS for me. It took a while for me to get comfortable with it. I had to learn a lot of the same lessons over and over again. And when I thought I’d mastered a concept or angle, I’d screw up in a way that taught me I had a lot left to learn.
+Tweet Source: [https://twitter.com/goodfellow_ian/status/1084973596236144640](https://twitter.com/goodfellow_ian/status/1084973596236144640)
 
-This complexity and depth mean computer science is hard to learn.
+To learn computer science, you'll be expected to stay up to date with not just all the technologies that are currently in vogue, but also all the new ones coming up, not to mention updates to existing tech.
 
-### Lack of pop culture
+For example, Python recently stopped supporting previous versions. Everyone who'd learned how to use Python 2.xx was forced to migrate to 3.x. Not a huge issue, but compound that with all the other technologies constantly being developed and updated. It's a lot to keep up with.
 
-Don’t laugh! This is a real issue with computer science. Some subjects are easier to pick up because there’s a lot of cultural immersion. For example, when I studied literature, I already knew a lot of the beats of the classics we studied. Dracula appears in pop culture, as do the Grimm stories and a lot of the 19th-century British literature we read. Not only that, but someone had gone to a lot of effort to make complex subjects easy to grasp through resources like SparkNotes.
+![Python 2 scary ghost](https://i.redd.it/et48l7mvr5c11.jpg)
 
-Computer science doesn’t really have an equivalent because there’s no agreement on what "the classics" are. There’s very little overlap between your day-to-day life and what you learn in computer science. You start much less familiar with the source material than you do with other subjects, which makes it less accessible. Ergo, computer science is hard due to lack of familiarity through pop culture.
+### Bad resources and low support
 
-{{< cta1 >}}
+Finally, learning computer science is hard because so often, the first introduction you get is a janky, blurry 11-minute YouTube tutorial that promises to cover the entirety of Computer Science.
 
-## Computer science is easier depending on the format.
+Or worse, you shell out [\$13,500 for a coding bootcamp](/education/cost-of-coding-bootcamp/) only to learn that Silicon Valley thinks of bootcamp grads as "not quite prepared," or a snake oil scam that [leaves you](https://www.bloomberg.com/news/features/2016-12-06/want-a-job-in-silicon-valley-keep-away-from-coding-schools#xj4y7vzkg) "jobless and out \$14,400 in tuition and fees."
 
-Computer science is challenging in a different way, too: the entry bar is lower. Nobody’s going to hire you to be a postdoc in chemistry unless you have a PhD in chemistry. But due to the chronic shortage of capable computer scientists, people can and do get hired for computer science positions based on their self-taught lessons.
+Because the salaries for [DevOps](/devops/devops-salary/), [Backend Developers](/backend/how-much-do-backend-devs-make/), and [Software Engineers](/jobs/how-much-do-software-engineers-make/) are so high, there's a huge market to sell bad resources to people who want to learn computer science to get those jobs. The thinking is that those people, anticipating six-figure salaries, will be happy to spend thousands of dollars or hundreds of hours on bad material.
 
-So now the door is open. You could conceivably learn computer science without going back to school for it. And guess what? That’s really hard.
+There are good programs out there, run by real people who want to help computer science learners. But they can be hard to spot.
 
-I did it the hard way. I checked out the [best places to learn Python online](/python/best-places-to-learn-python-online/). I googled and read blog posts and watched YouTube videos. I took tons of free online courses and a few cheap Udemy courses. I’m glad I did, but boy, I spent so long and so much of my blood, sweat, and tears when there’s an easier way.
+## What's an easier way to learn computer science?
 
-1.  Go back to school. You have the option of going back to university. It takes four years and a ton of money, but the option is there. Get spoon-fed information, projects, knowledge, and get a fancy diploma at the end of it.
-2.  Lean on pre-existing curricula. This is what [boot.dev](https://boot.dev/) offers – a complete and ever-growing course of knowledge to help you cover the theoretical and practical side of computer science. There’s also a kickass community and weekly events to help fill out your resume.
-3.  DIY. This is what I did. It’s not for the faint of heart, and you risk missing massive integral areas of study because you just don’t know they’re there.
-4.  A mix of the above. You can get a certificate here, a bootcamp there, a YouTube series too, maybe a college-certified course off Coursera.
+Right now, you are fully up to date on the challenges facing anyone who wants to learn computer science. Let's look at some ways to learn computer science the "easy" way.
 
-## Computer science is easier to learn if you have these advantages
+I've put "easy" in brackets. [Learning to code isn't ever easy](/jobs/how-much-do-software-engineers-make/). But there is an easier way for sure.
 
-Is computer science hard for someone with no experience? Well, it’s a lot easier with the right background. For example, like Reddit user SouthernRhubarb implies, you need to like math in order to comfortably get through a computer science curriculum.
+### Get your game face on
 
-If you have experience with and enjoyment of these things, then you’ll find computer science a lot less hard:
+The most important thing you need to realize is that [coding can be fun](/about/#1-coding-is-fun-dont-make-it-dull), even addicting. The feedback loop between trying something and seeing if it works or not is almost instantaneous. And the rush of building something yourself and getting it to do what you want it to? It's incredible.
 
-### Computers in general
+The problem is that it's easy to forget that, because computer science is hard. You should be a [little uncomfortable](/about/#1-coding-is-fun-dont-make-it-dull), because that's how you learn best. However, if you get into the mindset that coding is a game, that it's hard but enjoyable, and start building and deploying things, then it's a lot easier to learn computer science.
 
-The more you know about computers in general, the more effective you’ll be at picking up a skill that’s intimately involved with them. The less time you’ll need to spend learning how to copy & paste, configure desktop settings, connect to the internet, or open the developer console in a browser, the faster you’ll be able to move. This makes computer science less hard.
+### Practice with a plan
 
-### Math
+When I wanted to learn painting, I thought I'd start with a self-portrait. I see my own face every day * how hard can it be to capture it? That's why my very first painting super sucked. I went into learning to paint without a plan.
 
-Assuming your goal is to learn computer science, and not just basic software development, the more math you’ve taken the better off you’ll be. For example, if you’ve never even learned basic algebra it’s going to take a minute to catch up.
+![Natalie Self-Portrait](/img/800/nataliedrawing.png.webp)
 
-There’s a surprising amount of algebra and basic math in even the most simple algorithms. Trigonometry and Calculus help a lot also but aren’t as necessary as a solid algebra foundation.
+When you learn computer science, you should go in with a plan. That's how our founder Lane built [Boot.dev](https://boot.dev/). He developed a learning path that forces you to delve deep into programming fundamentals and write a ton of code. At the end, you have portfolio-worthy projects, a deep understanding of computer science and back-end development, and loads of coding practice.
 
-### Tinkering
+### Look for community
 
-This one has less to do with your experience level and more to do with your personality. However, even if you don’t love to tinker and play with problems it’s a trait that can be learned.
+This is one of the toughest factors in learning computer science – it can be lonely out there. That's why one of the best ways to make it a more enjoyable journey is by looking for friends, colleagues, and peers.
 
-Once you actually get a job coding and building software systems, you’ll be surprised how much of your job is just tinkering with existing projects to see what makes them tick. If you enjoy looking deep into how stuff works, it will help you to avoid burnout when you can’t figure out why the code isn’t behaving as expected.
+Boot.dev has a thriving [Discord group](https://boot.dev/community) complete with areas to show off your latest project, compete on leaderboards, or just chat about what's going well. Kaggle is another good place to find community as you work through computer science fundamentals. And of course Reddit has a thriving computer science community in various subreddits. Check out r/[WebDev](https://www.reddit.com/r/webdev/), [r/LearnProgramming](https://www.reddit.com/r/learnprogramming/), and [r/BadCode](https://www.reddit.com/r/badcode) for a few places to start.
 
-### Self-directed research
+### Don't cut corners
 
-Did I mention how much of my time has been spent googling and reading StackOverflow questions? It’s practically impossible to learn all there is about a field as vast as computer science and programming. You need to get used to the idea that you’ll be spending a good amount of your work day as a developer looking stuff up.
+Finally, the easiest way to learn computer science is by putting in the hours. It's always tempting to look for shortcuts. But they don't work. Don't spend time and energy looking for hacks or shortcuts.
 
-No one will ever fault you for not knowing even a slightly-obscure fact about the industry, but you will be expected to be able to find that answer.
+Instead, try things, get things wrong, rebuild, and deploy. Share your work and get feedback. Give feedback yourself. Try things that are slightly too hard, and learn as you go.
 
-### Writing code
+## What's the future of computer science?
 
-Coding, while practically inseparable from computer science, is actually a different discipline. Learning computer science is possible with just paper and pencil, but it’s much easier (and more practical) to use code.
+I've written about the [future of computer science](/computer-science/future-of-computer-science/) before, and my main conclusion was that it would be hard to predict. After all, even four months ago, could anyone have predicted that AI text generation would be as popular as it is today?
 
-If you’re a coder and are just trying to learn computer science (algorithms, data structures, cryptography, etc) you’ll have a much easier time learning computer science.
+That being said, let me get out my crystal ball and make some educated guesses.
 
-{{< cta2 >}}
+### Careers in Computer Science
 
-## Is computer science hard?
+There are no guarantees, but it's a safe bet that anyone learning computer science is still more employable than a non-computer scientist. Even with hiring freezes, layoffs, and no-code, computer science is [still projected](https://www2.staffingindustry.com/Editorial/IT-Staffing-Report/Feb.-3-2022/Starting-salaries-for-computer-sciences-grads-to-rise-5.2-NACE) to be the second-most secure job in the United States, only behind mathematicians.
 
-The short answer, again is **yes. Computer science is tough to learn**. It’s easier or harder depending on your background or how you choose to learn it. Do you have zero experience coding and want to learn the DIY way? Then you’ll struggle, though it’s still doable. Are you an avid programmer who’s handy around a computer and spent a lot of time behind a keyboard writing scripts for your favorite videogames? Then you’ll find it *easier* – but not easy.
+It's worth thinking about whether AI will replace or threaten computer science careers. I mean, when I ask ChatGPT to complete a problem we challenge Boot.dev students with, it was able to complete it correctly (though Bard, Google's competitor, is not yet trained to do so.)
 
-For example, I had an interest in animals and science growing up. I’d read a lot of the textbooks that were assigned later in college. I had seen some David Attenborough documentaries. All these things made it easier than computer science for me personally, though the degree was still hard. If things had been different, maybe biology would have been harder than computer science.
+### Salaries in Computer Science
 
-When you ask, "Is computer science hard?" I have to assume you’re really asking: "Is computer science *too hard for me?"* or "Is computer science *too hard to be worth it?*"
+I can't predict what computer science salaries will be in 2033, but we can extrapolate a little by looking into the past. Ten years ago, the [median U.S. salary](https://www2.census.gov/library/publications/2014/acs/acsbr13-02.pdf) was \$52,250. The [median salary](https://www.bls.gov/news.release/archives/ocwage_04012014.pdf) for computer and information research scientists was \$109,260. High even then!
 
-And I can’t answer that question. Only you can. After reading this post, I hope you’re a little closer to your answer.
+In 2023, the [median U.S. salary](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjT4eOIwIb-AhUBLFkFHd0cDjgQFnoECBcQAw&url=https%3A%2F%2Fwww.narcity.com%2Faverage-us-salary-2023-jobs-pay-much-more&usg=AOvVaw3i37EwgI3DyiQH3jBiHdqk) is \$53,490 a year, an increase of around 2.4%. A computer and information research scientist [earns a median salary](https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm#tab-5) of \$131,490 in May 2021, an increase of around 20.3%.
+
+While wages have stagnated nationally, computer science is a skill that translates to a much higher salary. And there's a huge range of opportunities in the [highest-paid computer science jobs](/computer-science/highest-paying-computer-science-jobs) – you could become a DevOps specialist, a Cloud engineer, or just a regular software developer.
+
+![stack overflow highest paying jobs](/img/800/sographsalaries.png.webp)
+
+Source: [2022 Stack Overflow](https://survey.stackoverflow.co/2022/#work-salary)
+
+## How hard is Computer Science vs Engineering, IT, or Math?
+
+When thinking about how hard Computer Science is, it's worth comparing it to other famously difficult disciplines. How hard is computer science compared to math? What about engineering or IT?
+
+In my view, it's the same difficulty level. Computer science, engineering, IT, and math all require the same conditions for success. You need to practice things hands-on to really "get" them. You need discipline to sit down and study underlying fundamentals before you understand how things work in practice.
+
+However, the difficulty of computer science versus math, IT, or engineering also comes down to personal preferences. Personally, I found it easier to dedicate myself to the intricacies of Python versus the subtleties of a differential equation. You may be different. But the hardness comes down to what you like or find hard, rather than anything innate about computer science.
+
+## Computer science isn't too hard for you to learn
+
+That's the real conclusion here. Is computer science hard? Yes. Insurmountably so? No. It's within the range of possibility for you to learn computer science, as long as you're in it for the right reasons.
+
+If you think you'll get rich quick, computer science will be too hard. If you think it's the kind of thing you can simply read about, computer science will be too hard. But if you go into learning computer science with the right attitude, a plan to cover concepts, and the determination to apply yourself? Computer science isn't too hard at all.

@@ -33,8 +33,6 @@ Keep in mind that "tech problems" only account for 6% of failed startups. If you
 
 Good engineers can be hired. Budgets can be found. Bugs can be fixed. The real challenge in a product-focused company is finding the right problem to solve, and identifying a product design that actually solves it.
 
-{{< cta1 >}}
-
 ## So remind me why good product people have bad ideas?
 
 It's not actually "having bad ideas" that is important. In fact, there is nothing inherently wrong with having good ideas. The problem is when a product manager _believes_ they have good ideas - whether they're good or not. Every idea that a team has should be formed into hypotheses that can be tested in the market, and critically, with some rejection criteria baked in. Let me give some examples.

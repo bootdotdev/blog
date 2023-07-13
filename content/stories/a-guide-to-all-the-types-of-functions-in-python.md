@@ -48,8 +48,6 @@ Pure functions are functions with no side effects. They are similar to [function
 
 It makes them easy to test and predictable. Pure functions are widely used in [functional programming](https://en.wikipedia.org/wiki/Functional_programming)
 
-{{< cta1 >}}
-
 ## Subroutine
 
 ```python
@@ -104,8 +102,6 @@ Task finished in 5.004022927998449
 ```
 
 The coroutine `chill` is called three times, and each instance of it blocks for a certain period. When a particular coroutine starts blocking it passes control to another coroutine. The coroutines in the example above block for a total of 10 seconds but they perform their task in 5 seconds in real-time because they worked cooperatively at the same time.
-
-{{< cta2 >}}
 
 ## Generators
 
@@ -173,8 +169,6 @@ Anonymous functions are also called **lambda expressions**. The functions can th
 sq = lambda x: x * x
 sq(2) # returns 4
 ```
-
-{{< cta3 >}}
 
 ## Higher-Order Functions
 

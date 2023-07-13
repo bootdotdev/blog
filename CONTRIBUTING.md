@@ -22,7 +22,7 @@ By writing and publishing your ideas publicly, you can:
 
 We are *very* picky about the quality of articles we publish. Don't be discouraged if your submissions get rejected! Feel free to publish the rejected work on your own blog, and come back and submit to Boot.dev again with new content in the future. Here are some guidelines that will help you as you craft stories for us to accept:
 
-* The article *must* be related to programming, at least tangentially.
+* The article *must* be related to programming, ideally back-end development.
 * No "blog-a-day" or "stream of consciousness" posts.
 * Cite **all** sources.
 * Bring data as needed.
@@ -30,11 +30,8 @@ We are *very* picky about the quality of articles we publish. Don't be discourag
 * Bring original data visualizations as needed.
 * Write at least 500 words, preferably 1000+.
 * Avoid clickbait titles.
-* Add a cover image you have the legal rights to use. Use no-attribution-needed sites like Unsplash and Pexels.
-* Cover images should be horizontal rectangles. An aspect ratio of `1.91:1` is preferred.
 * Do not hot-link images, add images to the `static/img/{size}` directory.
 * Use a descriptive, evergreen URL path (filename) for your post.
-* Add appropriate categories to your front-matter.
 * Use a grammar plugin like Grammarly to avoid typos.
 * Structure text with bullet points, lists, etc. Avoid walls of paragraph text.
 * Use code blocks. We support syntax highlighting for popular programming languages.
@@ -46,7 +43,7 @@ We are *very* picky about the quality of articles we publish. Don't be discourag
 
 ### How to submit
 
-1. Fork this repository into your own Github account
+1. Fork this repository into your own GitHub account
 2. Make changes to your version of the repo
 3. Submit a pull request from your version to the `main` branch on this repo
 4. Wait for approval. All feedback will be given directly in the pull request.
@@ -55,22 +52,26 @@ We are *very* picky about the quality of articles we publish. Don't be discourag
 
 We use [Hugo](https://gohugo.io/) as our static site generator. All articles are written in Markdown.
 
-In order to contribute an article, all you need to do is:
+To contribute an article, all you need to do is:
 
 * Add your Markdown file
-* Add any images
+* Add any images that will be used within your article (we'll handle to cover image)
 
 ### Add your Markdown file
 
-All guest submissions belong in the `content/stories` folder. You can look at any of the existing articles in there as an example for how to format your markdown file.
+All guest submissions belong in the `content/stories` directory. You can look at any of the existing articles in there as an example of how to format your markdown file.
 
-Make sure to add your title, author name, date, categories, and cover image to the [frontmatter](https://gohugo.io/content-management/front-matter/).
+Make sure to add your title, author name, date, and categories to the [frontmatter](https://gohugo.io/content-management/front-matter/).
+
+Be sure to add `draft: true` to the frontmatter. This will prevent your article from being published until we have a chance to add an image and edit it.
 
 ### Adding images
 
+Do *not* worry about a cover image - we will add one for you.
+
 All images go in the `static/img/{size}` directory, where `size` is the width. Use `webp` images, and make sure they're properly sized. You can use our [image resizer script](https://github.com/bootdotdev/blog#resize-images) if you're comfortable using [yarn](https://yarnpkg.com/).
 
-Link to the image using a relative link. The root is the `img` folder, e.g. `![alt text here](/img/800/my-image.webp)`. You don't need to link to the cover image in the body of your content, just add it to the frontmatter.
+Link to the image using a relative link. The root is the `img` directory, e.g. `![alt text here](/img/800/my-image.webp)`.
 
 ### Whitelisting your domain
 
@@ -91,4 +92,4 @@ Once approved, we'll merge your pull request! As soon as it's merged, our CI/CD 
 
 ## License
 
-Boot.dev retains the rights to all content submitted to and published via this public repository. You *may not* host this site elsewhere. That said, you can ask us to remove an article you have previously authored for us and we will do so as quickly as we reasonably can. If you do ask us to remove content, you likely will be unable to contribute again in the future, we don't want to be dealing with take-downs and dead URLs often.
+Boot.dev retains the rights to all content submitted to and published via this public repository. You *may not* host this site elsewhere. That said, you may ask us to remove an article you have previously authored for us and we will do so as quickly as we reasonably can. If you do ask us to remove content, you likely will be unable to contribute again in the future, we don't want to be dealing with take-downs and dead URLs often.

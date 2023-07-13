@@ -38,7 +38,7 @@ const frameRate = 60
 
 The takeaway if you are coming from JavaScript is that Go's constants are just _different_. They deal with compile-time values, not immutable naming.
 
-In Go, constants provide _complete safety_ in regards to the value they hold. They cannot be computed (making them used less often), but are guaranteed to always reference the same value.
+In Go, constants provide _complete safety_ in regard to the value they hold. They cannot be computed (making them used less often), but are guaranteed to always reference the same value.
 
 In JavaScript, all a `const` does is ensure that the same [name](/clean-code/naming-variables) can't be changed to reference a different variable in the same scope.
 
@@ -60,11 +60,11 @@ func addMinutes(minutes int) {
 }
 ```
 
-This won't work because `more` relies on a runtime variable, `minutes`. Keep in mind that this would work in JavaScript, because the only rule with constants in javascript is that they can't be reassigned.
+This won't work because `more` relies on a runtime variable, `minutes`. Keep in mind that this would work in JavaScript because the only rule with constants in javascript is that they can't be reassigned.
 
 ## Constants Are Faster
 
-The Go compiler doesn't need to worry about a constant changing its value, so it can swap every instance of the const with an unchanging number. This makes constants slightly faster.
+The Go compiler doesn't need to worry about a `const` changing its value, so it can swap every instance of the `const` with an unchanging number. This makes constants slightly faster.
 
 ## Numeric Constants are Just Numbers
 
@@ -84,17 +84,13 @@ small := (large / 1e9999) // works as expected
 fmt.Println(small) // prints 10
 ```
 
-High precision floating point numbers like E can still be used but the high precision is lost when assigned to a `float64` or `float32`.
+High-precision floating point numbers like E can still be used but the high precision is lost when assigned to a `float64` or `float32`.
 
 ```go
 e := math.E
 fmt.Println(e)
 // prints 2.718281828459045
 ```
-
-{{< cta1 >}}
-
-{{< cta2 >}}
 
 ## Should You Use Constants?
 
@@ -130,8 +126,6 @@ Other types like arrays, slices, and maps can not be declared as constant. This 
 
 By contrast, in JavaScript, _anything_ can be made constant. JavaScript arrays can be declared as constant, but it doesn't stop the programmer from mutating the elements of the array! The only safety JavaScript's `const` provides is that the variable can't be explicitly reassigned.
 
-{{< cta3 >}}
-
 ## Constants Are Untyped By Default
 
 In Go, variables can have their typed inferred:
@@ -146,7 +140,7 @@ Constants, on the other hand, get an untyped flag
 const unTypedString = "@wagslane"
 ```
 
-An untyped string behaves [mostly like a string](https://blog.golang.org/constants#TOC_4.). That is, its a string type, but doesn't have a Go value of type **string**. In order to give it the official Go type of string, it must be declared:
+An untyped string behaves [mostly like a string](https://blog.golang.org/constants#TOC_4.). That is, it's a string type, but doesn't have a Go value of type **string**. To give it the official Go type of string, it must be declared:
 
 ```go
 const typedString string = "@wagslane"

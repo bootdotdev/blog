@@ -10,7 +10,7 @@ images:
 
 It's really hard to get your foot in the door for engineering interviews, especially if you have no experience and are looking for an entry-level position. Often times, more experienced candidates looking to find a [higher-paying job](/computer-science/highest-paying-computer-science-jobs/) can also have trouble. As an employer myself, I can tell you that one of the biggest mistakes I see in 75% of resumes is using a _visually boring template_. When I'm sifting through forty or fifty applicants, it's really easy for my eyes to glaze over. Think of your resume as your website landing page. You need to catch your employer's attention by calling out your biggest accomplishments and selling points at a glance.
 
-A pile of hundreds of computer science resumes stands staunchly opposed to your bright coding future. To stand out in the crowd and land the interviews you'll need to get that dream job, you’ll need to write a _fantastic_ computer science resume.
+A pile of hundreds of computer science resumes stands staunchly opposed to your bright coding future. To stand out in the crowd and land the interviews you'll need to get that dream job, you'll need to write a _fantastic_ computer science resume.
 
 I've looked at hundreds of resumes from computer science students, researched other's opinions about what works and what doesn't, and compiled a list of the top 6 resume templates that will help you get your point across no matter your work experience, desired job position, or schooling history. These template samples are meant to be copied! Take one of these resume templates and swap all the information out for your own.
 
@@ -20,12 +20,12 @@ As a point of interest before we get started, if you need an extra resume boost,
 
 As you pick a template and replace the dummy information for your own, keep these important tips in mind.
 
-- **Fine-tune your resume for each position you apply for.** You should have a "main" copy of your resume but tailor it especially to each job you submit it to. For example, if the job you're applying for is a Python web development position, include more Python projects and information than you otherwise might.
+- **Fine-tune your resume for each position you apply for.** You should have a "main" copy of your resume but tailor it specially to each job you submit it to. For example, if the job you're applying for is a Python web development position, include more Python projects and information than you otherwise might.
 - **Include only relevant information.** If you were a lifeguard when you were 16, congratulations! No one cares.
 - **Try to keep it on one page.** If you need two pages that's okay, but definitely don't go to three.
 - If the only employment history you have isn't in the field you're applying for, then only include one or two of those positions. Include any personal projects or open-source contributions as part of your experience.
 - **If a position asks for a specific technology, don't be afraid to spend a day or two brushing up on the specifics of it.** Assuming you get an interview, do a more in-depth look at it, and consider building a toy project using it to prepare for the interview.
-- **Use color to emphasize important points.** These templates are designed to catch the eye. There's nothing more boring than a black and white resume.
+- **Use color to emphasize important points.** These templates are designed to catch the eye. There's nothing more boring than a black-and-white resume.
 - **Spell and grammar check!** Especially if English is your second language.
 - If you haven't been to school or received a formal education, don't worry! You can land entry-level jobs even if you [learned computer science by yourself online](/computer-science/comprehensive-guide-to-learn-computer-science-online/). Just be sure to include the courses and programs you completed.
 - When you fail to land an interview, **ask your point of contact if they can provide feedback** as to why you were rejected. Don't take the feedback personally, but use it to improve your resume for the next application.
@@ -38,8 +38,6 @@ As you pick a template and replace the dummy information for your own, keep thes
 ![CS student entry level web resume](/img/800/CS-student-entry-level-web-resume-page-001-1.jpg)
 
 Entry-Level Web Developer - Computer Science Student
-
-{{< cta1 >}}
 
 ## #2 Front-End Developer Resume Sample - Self-Taught
 
@@ -56,8 +54,6 @@ Front-End Developer Resume Sample - Self-Taught
 ![Mobile Developer Internship Resume Sample - CS Student](/img/800/CS-student-mobile-internship-resume-page-001.jpg)
 
 Mobile Developer Internship Resume Sample - CS Student
-
-{{< cta2 >}}
 
 ## #4 Back-End Development Resume Sample - Self-Taught
 
@@ -82,8 +78,6 @@ DevOps Resume Sample - CS Student
 ![Game Development Resume Sample - Self-Taught](/img/800/Self-taught-game-dev-resume-page-001.jpg)
 
 Game Development Resume Sample - Self-Taught
-
-{{< cta3 >}}
 
 ## Good Luck
 

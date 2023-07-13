@@ -33,7 +33,7 @@ This particularly resonated with me because my (fairly) simple app's development
 
 Vite vs Vue-cli + Weback
 
-Additionally, in order to get the 18 modules shown above using the Vue cli and webpack, I had to add comment annotations to my `routes.js` file. Out of the box the Vue-cli makes one giant bundle, which is much worse for page performance reasons. Vite splits the bundle along module lines out-of-the-box without the need for those annoying annotations.
+Additionally, to get the 18 modules shown above using the Vue cli and webpack, I had to add comment annotations to my `routes.js` file. Out of the box the Vue-cli makes one giant bundle, which is much worse for page performance reasons. Vite splits the bundle along module lines out-of-the-box without the need for those annoying annotations.
 
 ## Migration Guide
 

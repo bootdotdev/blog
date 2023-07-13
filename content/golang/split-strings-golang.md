@@ -98,8 +98,6 @@ func main() {
 }
 ```
 
-{{< cta1 >}}
-
 ## Split by whitespace and newlines
 
 The strings package can do more than just separate a string based on a provided delimiter. The [strings.Fields() function](https://golang.org/pkg/strings/#Fields) separates a string **on all kinds of whitespace** and excludes them from the final result. This is useful if you don't care about the type of whitespace, e.g. tabs, spaces, and newlines all count as spaces.
@@ -123,7 +121,7 @@ func main() {
 
 ## Split using a regex
 
-Regular expressions are a popular way to manipulate strings, and Go's built-in regex engine can help us out. We don't even need to use the `strings` package here, instead we'll use the [regexp package](https://golang.org/pkg/regexp/).
+Regular expressions are a popular way to manipulate strings, and Go's built-in regex engine can help us out. We don't even need to use the `strings` package here, instead, we'll use the [regexp package](https://golang.org/pkg/regexp/).
 
 ```go
 package main
@@ -139,8 +137,6 @@ func main() {
     // prints ["apple", "banana", "orange", "pear"]
 }
 ```
-
-{{< cta2 >}}
 
 ## Gotcha - Strings in Go are special
 

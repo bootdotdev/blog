@@ -1,131 +1,206 @@
 ---
-title: "C# vs Python in Backend Development, Machine Learning, and More"
-author: Meghan Reichenbach
-date: "2021-12-17"
+title: "C Sharp vs Python: Which Is the Best Programming Language?"
+author: Natalie Schooner
+date: "2023-04-27"
 categories: 
   - "python"
 images:
-  - /img/800/cvspython.webp
+  - /img/800/pythononpiano.png.webp
+imageAlts:
+  - "Python on piano"
 ---
 
-C# and Python represent the two sides of what it means to be a powerful language.
+"You're comparing apples to oranges," Susan, a developer at my company, said when I asked her which programming language she preferred, C \# or Python. "It's like asking me if I prefer wrenches or hammers. One language is a compiled, statically typed language, the other is a ducktyped scripting language. Each is excellent in its correct context."
 
-C# is fast, lightweight, and flexible, while Python is robust, simple, and secure. But which language does coding best?
+She was right, of course. It’s no use asking which programming language is best. You can only decide which is best for your immediate needs.
 
-Let’s find out as we compare Python and C#’s learning curve, speed, salary, and see how they rank for backend development, game development, and machine learning. By the end of this guide, you’ll know which language is best for you!
+In short, C# is best for speed, performance, and game development. Python is best for novice coders, machine learning, and versatility.
 
-## A Quick Overview
+Let’s get into a deeper discussion of these two languages, C \# and Python.
 
-Python was developed by Guido van Rossum in 1991. It’s a high-level, interpreted, dynamically typed language that supports OOP, procedural, and functional programming. It’s often described as "batteries included" because of how jam-packed of useful resources the language is.
+## History of C# and Python
 
-C#, on the other hand, was developed in 2000 by Anders Hejlsberg at Microsoft. It’s a statically typed, general-purpose language, that supports true OOP, functional, and component-oriented programming, along with others. C# acts as a more modernized and high-level version of C++ and is known as an insanely fast language.
+I like to start these kinds of comparison articles with a bit of history. I find it helpful to understand the circumstances around what caused each programming language to be invented. Hopefully, you do too.
 
-![](/img/800/pythonvsC.jpg)
+### A brief history of C#
 
-## C# vs Python Comparison
+In 2000, Microsoft's Anders Hejlsberg designed C#. It was nearly called *Cool*, which stands for **C**-like **o**bject-**o**riented **l**anguage. I don’t know about you, but I prefer C#.
 
-### Which To Learn First? C# vs Python
+C# is a statically typed, general-purpose language, that supports true object oriented programming (OOP), functional, and component-oriented programming, along with others. It’s *very* similar to Java, because it was invented to compete with it.
 
-If you’re a new programmer trying to decide your first language, odds are you want something easy to learn, that’s in demand, and has a variety of applications.
+Its main claim to fame is its tight integration with the .NET framework, which allows for cross-language interoperability, automatic memory management, and access to a large class library. If you prefer a longer history, I encourage you to check out [Wikipedia’s page on C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=The%20C%23%20programming%20language%20was,of%20which%20were%20closed%2Dsource.).
 
-C# and Python, more or less, both suit all of these needs.
+## A brief history of Python
 
-C# and Python are both easy to learn. Python’s whole philosophy is entrenched in simplicity and readability, and it shows in its straightforward syntax that reads like natural English. It was designed to be powerful, but it’s end up becoming the ultimate beginner language. Similarly, C# also sports a very readable syntax, but the differences come in with complexity.
+You know what I love about Python’s history? Python stayed so true to its mission. Guido van Rossum, way back in 1991, wanted to develop a language that was easy to read, write, and understand. He wanted to open up the field of computer programming to everyone.
 
-While C# is readable, its concepts are complex and there are a lot more nuanced procedures and constructions to learn, whereas Python is straightforward through and through, making it not only easy to learn but easy to apply.
+Today, the Python programming language is the most popular programming language because… it’s easy to read, write, and understand. It’s a high-level, interpreted programming, dynamically typed language that supports OOP, procedural, and functional programming. It has a vast community of developers, coders, and hobbyists who continually release amazing packages.
 
-In terms of demand, both Python and C# are incredibly popular languages, thanks to how useful and important they’ve become in multiple computer science communities. According to Berkeley, however, research shows that Python is the second most in-demand language (under JavaScript) thanks to its easy learning curve making it an ideal language for beginner _and_ experienced coders.
+It may have started as a hobby to keep Van Rossum busy during the week around Christmas when his office was closed. But in the three intervening decades, it has grown in leaps and bounds to become a beloved, useful language. If you want more history, the Wikipedia [page](https://en.wikipedia.org/wiki/Guido_van_Rossum) is great as is *Programming Python*’s [forward](https://www.python.org/doc/essays/foreword/).
 
-Lastly, when I say "variety of applications", I mean the versatility of the language – how many jobs or fields you can work in with this language. Both C# and Python are general-purpose languages, which means in theory, you should be able to create anything you want with C# and Python, but they’re still specialized towards certain fields.
+It’s often described as a language with "batteries included" because of how jam-packed with useful resources the language is. Its main strengths are its syntax and rich set of libraries. Python is very popular for machine learning, data science, and artificial intelligence.
 
-Python is most commonly used in backend development, data science, and app development, while C# covers game development, apps, and VR. From the outset, both languages seem to be versatile enough, but the one semi-fault is C# is it’s dependent on the .NET framework and was designed for Microsoft platforms. The introduction of Visual Studio sorted out cross-platform compatibility, but you’ll still get your best work on Windows-centric applications.
+## Hang on, what about the other C-suite languages?
 
-This obstacle by no means ruins C#’s versatility, but it does add one more hoop to jump through to get your wanted results.
+Let's take a brief look at C programming, as well as C++ since they're often confused with C#. Here's a quick table with some pros and cons of the C programming language family.
 
-Overall, Python is undeniably the best language for first-time coders, not only because it’s easy, valuable, and versatile, but because the language is intuitively designed and will have you crafting your own projects in no time.
+| Language | Type                | Pros                                                                                                                                                | Cons                                                                                                          |
+| -------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| C#       | High-level language | Simplified syntax, automatic memory management, .NET Framework libraries, versatile for desktop and web applications                                | Built for Microsoft platforms, runs on a virutal machine, automatic memory management                         |
+| C        | Low-level language  | Direct access to system resources, efficient memory management, fast and efficient                                                                  | No built-in support for OOP, compiles to machine code, manual memory management                               |
+| C++      | Mid-level language  | Efficient memory management, support for object oriented programming language, compiled language, fast and efficient for performance-critical tasks | Built-in support for OOP, more high-level features than C, compiles to machine code, manual memory management |
 
-### Python vs C# Speed
+## Code examples
 
-Speed always has and always will be a reigning factor when it comes to technology and the endless pursuit of making things faster.
+Now that you know a little about how each language, C# and Python, came to be, let’s have a look at some code examples.
 
-C# is one of the fastest languages in use and it’s because of the language itself, rather than the implementation of it, thanks to its Common Language Infrastructure (CLI) framework. C# also brings fast compilations, is concurrent, so it runs multiple threads at a time, and executes graphics-heavy applications in no time.
+### Here’s one for C#:
 
-That said, Python’s development time is far faster. I mentioned C# was more complex since it required understanding a lot more concepts. Well, this also means developing applications take longer since you’re having to do more work. Python, on the other hand, has superb development time, for example, it only takes 2 lines to write a PrintName program in Python while it takes in nearly 10 lines in C#!
+```csharp
+using System;
+class Person {
+    public string Name { get; set; }
+    public int Age { get; set; }
+    public void SayHello() {
+        Console.WriteLine("Hello, my name is " + Name + " and I am " + Age + " years old.");
+    }
+}
 
-So on top of its readability making development faster, you can also seemingly get twice the amount of work done in the same amount of code.
+class Program {
+    static void Main(string[] args) {
+        Person person = new Person { Name = "John", Age = 25 };
+        person.SayHello();
+    }
+}
+```
 
-I also feel it’s my responsibility to mention that speed is not synonymous with performance. Both Python and C# offer incredible performance in their fields, which are very **different**. So, this notion of comparing their performance is finicky.
+This code defines a simple `Person` class with two properties (`Name` and `Age`) and a method (`SayHello`) that prints a greeting to the console. The `Main` method creates a new instance of the `Person` class and calls the `SayHello` method.
 
-However, if you’re specifically looking at a language’s speed, then C# is the winner.
+One of the weaknesses of C#, especially as compared to Python: it’s very wordy. Compared to another dynamically-typed programming language like Python, you need much more boilerplate code. In this example, the syntax to define and instantiate the `Person` class is more complex than what you would see in a similar Python program.
 
-### Python vs C# Salary
+### Now let’s look at a similar Python code example:
 
-Programming doesn’t only offer creative and experimental careers; it also offers well-paying ones.
+```python
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
 
-According to [the Stack Overflow survey](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states), Python developers earn on average $120k a year, and C# developers make $110k a year. These numbers do change on a global scale, but you’d also need to consider currency, cost of living, and other factors to interpret the salary differently.
+    def say_hello(self):
+        print(f"Hello, my name is {self.name} and I am {self.age} years old.")
 
-So, we see that Python developers earn more, but do they enjoy the language?
+def main():
+    person = Person(name="John", age=25)
+    person.say_hello()
 
-Well, according to the same research, yes! Python is in the top 3 for the most loved programming languages and is number 1 for the most wanted. C#, however, sits at spots 8 and 10 on the respective lists. Now there is still a lot of praise for the language by the C# community, it just doesn’t seem as widespread as Python’s.
+main()
+```
 
-All in all, Python offers a better salary and promises to be an enjoyable and fulfilling language to use.
+Look how readable that is! In my opinion, the Python code is much easier to understand, there are fewer arcane keywords like `static` and `void`, and the syntax is much more concise.
 
-### Python vs C# for Game Development
+But, if you were to run that code, you’d quickly discover one of Python’s weaknesses – it can be a little slow due to its dynamic type-checking and interpreted nature. C# code often runs up to 10 times faster than Python code, depending on the task.
 
-If you’re into gaming at all, then you’re probably familiar with the Unity game engine, and fan-favorite games like Cuphead, Rust, and Hearthstone.
+If you want more Python code examples to demonstrate how simple Python is to read, write, and understand, Boot.dev's [Learn Python](https://boot.dev/learn/learn-python) course is chock full of fun examples like this one.
 
-Well, you can go ahead and thank C# for all of that. C# has been the staple language of the Unity framework for years, because of its speed and mastery in handling detail-oriented programs. Games have multiple functions running at a time and need to produce 60 frames a second. That means the programming language needs to support and process all those threads without lag or errors interfering with the gameplay.
+## Which is best for beginners?
 
-In fact, C# became so popular with game development, Microsoft adapted a .NET game development framework.
+There’s no question – when comparing the Python language to C#, Python is a much, much better programming language for beginners. Here’s why:
 
-Along with C# being a popular and excellent game development language, the Unity engine is free to use for personal use and students, so you could effectively start developing games as soon as you wanted. There’s also an insane community behind C# and Unity, so you’ll get loads of outside support from peers and experienced developers.
+### Syntax
 
-Oppositely, Python doesn’t have the same hold on game development.
+Imagine if I told you that, before learning to code, you actually have to learn Spanish first. (Or another language if you already speak Spanish.)
 
-Python’s amazing readability a quick development time also means you have very little control over the actual machine code, a.k.a the code the computer reads. This is because complexities are abstracted away to the point it feels like you’re writing in English. So it’s great for users, but bad for games because it’s slow and inefficient.
+That’d be a real wrench in the gears, right? It’d slow you down.
 
-However, Python has gained a _little_ attention for developing simple 2D games with libraries like Pyglet, PyGame, and Godot. But overall, it’s just an indisputable fact that if you want to work in game development, learn C#.
+Python is like coding in English. It’s designed to be a simple, straightforward programming language, easy for nonprogrammers to read at a glance. It reads much more like a spoken human language than C#.
 
-### Python vs C# for Backend Development
+C#, by contrast, is like if you had to learn another language before you could start coding. It takes time, it’s not easy or fun to read, and it’s frustrating to learn from others.
 
-Backend development is what’s happening behind the scenes while you’re on the internet. It’s why when you add an item to your basket, it knows what item and how many to add, and where data and information are stored until it’s called upon.
+### No compiling
 
-Both C# and Python support this type of development.
+What is compiling? Non-programmers have no clue, and with Python, you don’t need to. Python is an interpreted language, which means you don’t need to translate your source code and translate it into something a machine can read.
 
-Since the .NET framework is Microsoft, C# backend development integrates seamlessly with Windows platforms. C# is a scalable language and works great for enterprise applications, and it comes with a hefty set of libraries that help make development faster and easier.
+With C \#, you need to have a C# compiler installed on your computer so that when you run your code, the machine knows what to do with it.
 
-Some current companies using C# backend are Stack Overflow and MarketWatch. The only thing against C# is that there are more popular choices for backend development… like JavaScript and Python.
+### Dynamically typed
 
-Aside from being safe and easy to work with, Python’s real value in backend development comes with its kitted-out standard library that provides plenty of pre-written code, saving you from wasting time developing basic items.
+In a statically typed language like C#, you have to declare every variable with a specific data type before it can be used. For example, say you want to store an integer value in a variable in C#. Here’s how you’d need to declare it:
 
-It’s also popular with enterprise applications because of how easily it integrates with existing code in Java, PHP, and .NET, and is supported by well-known frameworks such as Django, Pyramid, and Flask which work to further simplify and speed up the process of backend development.
+`int myNumber = 42;`
 
-Current companies using Python backends include Google, Spotify, and Pinterest.
+Python is dynamically typed, which means it will automatically figure out what kind of data type it is. You can just assign a value to a variable. In contrast, in Python, you do not need to declare the data type of a variable explicitly.
 
-Essentially both languages support backend development, but Python takes the lead as it’s the more popular option, offers quicker development, and has a lower entry barrier for programmers.
+Let’s look at that same task using Python programming. To store the integer value 42 in a variable in Python, you can simply do the following:
 
-### Python vs C# for Machine Learning
+`my_number = 42`
 
-Machine learning is one of the most intriguing fields in computer science, in my opinion, because of how progressive and experimental the work is with virtually endless possibilities.
+Python knows that my_number is an integer variable without you having to say so.
 
-Python is the holy grail of programming languages when it comes to machine learning and data science, and is the most used language in the field.
+### Fast feedback loop
 
-Its simple syntax and construction make machine learning engineer's life easier, by adding a level of consistency while they deal with abstract and complex problems. Python is also supported by several libraries and frameworks crucial to machine learning computing and visualization like TensorFlow, Matplotlib, Scikit, Pandas, and SciPy – just to name a few.
+All the features above combine to give Python a very fast, rewarding feedback loop.
 
-Then there’s the useful fact that because Python is so easy to learn, professionals in this field who aren’t programmers are still able to pick up a language quickly and get their projects sorted.
+Imagine you’re trying to build a table versus building a deck as a novice carpenter. You could probably figure out how to construct a table without too much difficulty. It wouldn’t be perfect, and you might have to research or ask questions along the way, but it’d be doable. And then you’d have a table you built yourself. You’d be keen to go on constructing things of increasing difficulty.
 
-C#’s also supports machine learning with .NET Core’s machine learning platform, ML.NET, which allows users to infuse their own machine learning models into applications. It’s also supported TensorFlowSharp, an open-source TensorFlow library that’s compatible with C#.
+Compare that to building a deck as a novice builder. Where do you even start? You’d have to do so much reading and learning before you’d even know the right questions to put into Google to figure out how to build it.
 
-While C# is fine to use in machine learning, it doesn’t have the same backing as Python. Python is literally the cornerstone language of machine learning, and therefore businesses and developers prioritize it in the field.
+Coding in Python is like building a table. There’s such a shallow learning curve to get started compared to a more complex language like C#. You build something, deploy it, feel proud and accomplished, and immediately want to dive back in for more.
 
-{{< cta1 >}}
+## Which is more popular?
 
-## C# vs Python: Choosing the Best Language
+From a pure user perspective, Python is definitely more popular. The 2023 Tiobe Index [ranks](https://www.tiobe.com/tiobe-index/) Python as the most popular. C#, by contrast, comes in at number five. The [StackOverflow 2022](https://survey.stackoverflow.co/2022/) survey had similar results.
 
-C# and Python are powerful, versatile, and important languages that are sure to make you highly employable, highly paid, and completely fulfilled. But which one do you choose?
+![python vs csharp tiobe](/img/800/tiobepythoncsharp.png.webp)
 
-C# is best for creatives. As the reigning champion in the field of game development, this is best for those looking to create games, or alternatively master Windows applications and programs. It’s tough to learn and requires you to be extremely competent in the language before working professionally, so it’s best for those that already know a language, namely Java or C++.  
+[Screenshot source](https://www.tiobe.com/tiobe-index/)
 
-On the other hand, Python is best for experimenters. Its hold in the machine learning industry means you’ll spend a lot of your time computing and understanding data and discovering new ways to apply it. It’s also a common language used amongst trendy startups, so if you want to be in the latest tech companies, this would also be an excellent choice.
+Python was also [slightly more "loved](https://survey.stackoverflow.co/2022/#section-most-loved-dreaded-and-wanted-programming-scripting-and-markup-languages)" than C#, at 67.34% versus 63.39% loved respectively. However, 17% of respondents want to learn Python next, while only around 6% have their sights set on C#.
 
-Either way, there’s no **one** best language, but there’s the best language for _you._
+This isn’t surprising and isn’t really a good indicator of which is best. Of course, Python is more popular; as I explained, it’s much better for beginners. But among certain career paths, such as game developers, C# is infinitely more popular because it’s the lingua franca. Unity, a cross-platform game engine and development platform, uses C#.
+
+## Which has a better performance?
+
+Short answer: C# is faster, and it’s compiled to run on a VM like Java. But Python is more versatile than C# and can do more things. It runs with an interpreter.
+
+If you need speed or .NET, C# is your language. But if you need it to do a weird or edge-case thing, I’d recommend Python.
+
+To give a more elaborate explanation, I’d say C# has a better performance when you already know what you’re doing and you’re familiar with your toolbox. Think of it like a very technical mountain bike. For experienced mountain bikers, there’s no contest – it’s the fastest.
+
+Beginners on that mountain bike would go slowly, because they wouldn’t know how to use its features appropriately. A general-purpose hybrid bike would be a better fit to help novice cyclists perform better. That’s why for prototyping and the general speed of getting stuff done as a beginner, I recommend Python.
+
+It's worth mentioning that both are a type of structured programming language – they are both designed to be easier to understand, write, and maintain, by breaking down complex tasks into simpler, more manageable tasks that can be easily understood and modified.
+
+## Python vs C# careers
+
+Let’s compare the two languages from a job perspective. I’ll look at:
+
+* job openings
+* salaries
+
+### Job openings
+
+This isn’t a perfect measure, of course, but let’s check out the number of job openings that mention C# versus Python on LinkedIn, Glassdoor, and Indeed.
+
+| **JOB OPENINGS** | Indeed                                                                                | Glassdoor                                                                             | LinkedIn                                                                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Python           | [85706](https://www.indeed.com/jobs?q=python&l=&from=searchOnHP&vjk=79a90c0a28b0ff24) | [45988](https://www.glassdoor.com/Job/python-jobs-SRCH_KO0,6.htm)                     | [166352](https://www.linkedin.com/jobs/search/?currentJobId=3560627329&keywords=python)                                                    |
+| C#               | [40708](https://www.indeed.com/jobs?q=c%23&l=&vjk=967f87acf11397df)                   | [22319](https://www.glassdoor.com/Job/jobs.htm?sc.keyword=c%23&clickSource=searchBox) | [89957](https://www.linkedin.com/jobs/search/?currentJobId=3542631149&geoId=103644278&keywords=c%23&location=United%20States&refresh=true) |
+
+It appears that there are roughly 2x as many Python developer job openings as there are C# job openings. Now let’s look at salaries.
+
+### Salaries
+
+| **SALARIES** | Indeed                                                                         | Glassdoor                                                                          |
+| ------------ | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| Python       | [114k](https://www.indeed.com/career/python-developer/salaries?from=whatwhere) | [102k](https://www.glassdoor.com/Salaries/python-developer-salary-SRCH_KO0,16.htm) |
+| C#           | [114k](https://www.indeed.com/career/.net-developer/salaries?from=top_sb)      | [107k](https://www.glassdoor.com/Salaries/c-developer-salary-SRCH_KO0,11.htm)      |
+
+Salaries are roughly comparable, maybe with a slight increase for C#.
+
+## Final thoughts
+
+Hopefully this article has helped you decide where you are on your learning journey, and which language makes the most sense for you.
+
+To summarize: Python is better for people just getting into coding, data science, machine learning, data analysis, or any web development not done on the .NET framework. C# is better for performance, speed, game development, and web development done on .NET
+
+And ultimately, remember that these don’t have to be either-or questions. Think of these as tools – you may start with learning how to use a hammer, and work your way up to using a power tool, but it’s helpful to have both at your disposal.

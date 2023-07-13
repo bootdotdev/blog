@@ -36,8 +36,6 @@ Here's the thing though, _videos do have a place in your coding education_. Whil
 
 For example, a video that says it will teach you how to build a pop-up component for a website would better be consumed as a blog post. However, a lecture on how the Go and Rust programming languages differ might be a great video to watch while sipping a morning coffee.
 
-{{< cta1 >}}
-
 ## 3. Learn by doing. Hands-on courses and projects only
 
 If you want to learn to code, you need to spend a lot of time coding. Seems like a no-brainer right?
@@ -68,8 +66,6 @@ Some people are really good at googling stuff, and others aren't. The good news 
 
 _Tip: Your first instinct when you're stuck should be to Google your problem_
 
-{{< cta2 >}}
-
 ## 5. Once you've Googled the same thing three times, write it down
 
 Googling is great, but if you find yourself having to look up the same thing over and over, it's probably best to commit it to memory. If you know it by heart, you'll not only save a lot of time in the future, but you'll be able to recall it in interviews and team meetings.
@@ -89,8 +85,6 @@ If you don't yet have a coding job, it can be hard to learn collaboration skills
 The best way I've found to get this experience when you're out on your own is to look for [open-source projects on Github](/open-source/contributing-to-open-source/) and Gitlab that interest you. You can get to know the maintainers, fix open bug issues, and propose and work on new features. If you aren't working on open-source, you'll be at a huge disadvantage when it comes time to [compete for your first job](/jobs/getting-a-job-after-coding-bootcamp-is-hard/).
 
 _Tip: Employers will want to see your Github profile, make it impressive!_
-
-{{< cta3 >}}
 
 ## 8. When you get stuck, sleep on it
 

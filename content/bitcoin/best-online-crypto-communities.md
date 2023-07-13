@@ -22,8 +22,6 @@ Bitcointalk is undoubtedly the gold standard for the crypto community on the web
 
 Reddit has the most siloed and specific communities in regards to crypto. It's a great place to go, but beware, tribalism runs deep and if you are in favor of the "wrong coin" on the wrong subreddit, you may just get banned.
 
-{{< cta1 >}}
-
 ## [#3 Reddit - /r/cryptocurrency](https://www.reddit.com/r/cryptocurrency/)
 
 While the /r/bitcoin subreddit focuses on Bitcoin related news, the /r/cryptocurrency subreddit is where you can find information and speculation regarding other altcoins. Because /r/bitcoin is so pro-BTC, /r/cryptocurrency actually rarely mentions the mother coin at all. If you're into alts, this is the place to discuss them.
@@ -31,8 +29,6 @@ While the /r/bitcoin subreddit focuses on Bitcoin related news, the /r/cryptocur
 ## [#4 Reddit - /r/ethereum](https://www.reddit.com/r/ethereum/)
 
 Do you like NFTs, Dapps, and web 3.0 discussion? If so, the Ethereum subreddit is where you'll want to be. Ethereum is similar to Bitcoin, the main difference being its execution engine. Etherum is basically a globally distributed virtual machine that allow users to run "smart contracts". The goal is to decentralize generalized computing problems, rather than just money.
-
-{{< cta2 >}}
 
 ## [#5 Steemit](https://steemit.com/)
 
@@ -49,8 +45,6 @@ Telegram is seen as a competitor of WhatsApp as it is also a chatting App. Numer
 ![medium](/img/800/1_I0E7U5xI-4UvnkExSGKp_w.png)
 
 Medium is referred to as a backer on the community of Crypto. Albeit it does not directly belong to the direct digital currency community. Medium could further be explained as a microblogging site, and it is also a renowned place for Crypto Content.
-
-{{< cta3 >}}
 
 ## [#8 Discord](https://top.gg/servers/tag/crypto)
 

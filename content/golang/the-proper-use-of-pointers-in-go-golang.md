@@ -75,7 +75,7 @@ prints:
 original
 ```
 
-Pointers can be useful, but in the same way that they are useful, they can be dangerous. For example, if we dereference a pointer that has no value, the program will panic. For this reason we always check if an error value is nil before trying to print it.
+Pointers can be useful, but in the same way that they are useful, they can be dangerous. For example, if we dereference a pointer that has no value, the program will panic. For this reason, we always check if an error value is `nil` before trying to print it.
 
 ## Syntax
 
@@ -106,7 +106,7 @@ Which is the memory address of that variable in your machine.
 
 **2. Describing a pointer: \***
 
-In a function signature or type definition, the \* is used to designate that a value is a pointer.
+In a function signature or type definition, the `*` is used to designate that a value is a pointer.
 
 ```go
 func passPointer(pointer *string) {
@@ -115,7 +115,7 @@ func passPointer(pointer *string) {
 
 **3. Dereferencing a pointer: \***
 
-It can be slightly confusing, but the \* is used to describe a pointer and it is also used as an operator to dereference a pointer.
+It can be slightly confusing, but the `*` is used to describe a pointer and it is also used as an operator to dereference a pointer.
 
 ```go
 func derefPointer(pointer *string) {

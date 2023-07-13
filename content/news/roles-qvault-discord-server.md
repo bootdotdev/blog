@@ -76,7 +76,7 @@ Keep in mind, this will _only work for declared roles_. The following roles are 
 
 ## Earned Roles
 
-There are several roles you will automatically earn through your activity within Qvault's courses and projects. In order to connect your discord account to your Qvault account so that roles can be properly assigned, run the following command.
+There are several roles you will automatically earn through your activity within Qvault's courses and projects. To connect your discord account to your Qvault account so that roles can be properly assigned, run the following command.
 
 ```
 /sync {api_key}
