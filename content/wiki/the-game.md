@@ -63,7 +63,7 @@ You can earn gems in two different ways:
 
 Gems can be spent on two things:
 
-* To buy armor to protect you from losing your sharpshooter streak
+* To buy sharpshooter armor
 * To buy XP boosts
 
 ### How do I protect my sharpshooter progress?
