@@ -63,12 +63,17 @@ You can earn gems in two different ways:
 
 Gems can be spent on two things:
 
-* To recover your sharpshooter progress when you get an answer wrong
+* To buy armor to protect you from losing your sharpshooter streak
 * To buy XP boosts
 
-### How do I recover sharpshooter progress?
+### How do I protect my sharpshooter progress?
 
-When you lose your sharpshooter progress by getting an answer wrong, the sharpshooter icon in the course navigation bar will turn red. If you have enough gems to do so, you'll be able to click on that red icon to recover your progress.
+Armor protects your sharpshooter streak from being lost! If you get an assignment incorrect, and you have armor purchased, you will instead lose a piece of armor instead of losing your sharpshooter streak! Once armor has been used on an assignment, that assignment will always be protected as indicated by the shield icon turning green.
+
+Armor will not be lost when: 
+
+* Getting an assignment incorrect that you have already completed in the past. 
+* If your sharpshooter streak is at 0
 
 ## XP Boosts
 
