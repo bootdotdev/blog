@@ -246,15 +246,21 @@ func TestValidateUser(t *testing.T) {
 We've tested all the validation logic that we *would* have tested in the original function with a mock, and now we don't need to, you know, write a stupid mock.
 
 > Mocks cause blocks
+> 
 > Blocks cause talks
+> 
 > Talks about mocks with devs are cocks
 > 
 > Bugs with shrugs come
+> 
 > Bugs with lugs come
+> 
 > Lugs writing bugs with mighty shrugs come
 >
 > Look here. Look here. Mister dev dear
+> 
 > Let's stop the mocks that cause the blocks here
 > 
 > We can test, and we can nest here
+> 
 > But we don't need to mock the rest here
