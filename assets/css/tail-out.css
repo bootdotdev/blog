@@ -685,10 +685,6 @@ video {
   border-width: 0;
 }
 
-.invisible {
-  visibility: hidden;
-}
-
 .absolute {
   position: absolute;
 }
@@ -820,6 +816,10 @@ video {
 
 .h-6 {
   height: 1.5rem;
+}
+
+.h-14 {
+  height: 3.5rem;
 }
 
 .w-full {
@@ -1171,10 +1171,6 @@ video {
 .focus\:ring-white:focus {
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(255 255 255 / var(--tw-ring-opacity));
-}
-
-.group:hover .group-hover\:visible {
-  visibility: visible;
 }
 
 @media (min-width: 640px) {

@@ -27,7 +27,7 @@ This one's pretty simple. Send your resume (pdf) and a personal note about why y
 
 ### 2. Quick Screen
 
-This meeting will most likely be a video call, but if you're local we might want to meet over lunch or coffee. The purpose of this meeting is to figure out your expectations and see if there is a high-level fit. We're not interviewing for techincal prowess. We want to know:
+This meeting will most likely be a video call, but if you're local we might want to meet over lunch or coffee. The purpose of this meeting is to figure out your expectations and see if there is a high-level fit. We're not interviewing for technical prowess. We want to know:
 
 * Compensation expectations
 * Work-life balance expectations
@@ -42,8 +42,8 @@ This is a small project that you must spend no more than 2 hours on. We *hate* t
 
 This is it, the interview! This is the only interview, everyone you need to meet will be in this meeting. The format is:
 
-1. ~30 minutes of introductions. You'll tell us about your education, work experience, and relevant projects you've worked on. We'll tell you about our company, our team, and our current projects.
-2. ~30 minutes of code review. You'll bring some code that you've written in the past and we'll review it together. You'll walk us through it, and we'll ask questions about it. Make sure it's large/complex enough that we can have a 30 minute conversation about it.
+1. ~30 minutes of introductions. You'll tell us about your education, work experience, and relevant projects you've worked on. We'll tell you about our company, our team, and our current projects. We're interested in a good [culture fit](/wiki/team-culture/).
+2. ~30 minutes of code review. You'll bring some code that you've written in the past and we'll review it together. You'll walk us through it, and we'll ask questions about it. Make sure it's large/complex enough that we can have a 30-minute conversation about it.
 3. ~30 minutes of "whiteboarding". We'll ask you to solve a technical problem or two. You won't have to do any live coding, but you might write some pseudo-code or draw some diagrams. We're not looking for the "right" answer, we're looking for how you think about problems and how you communicate your ideas.
 4. ~30 minutes of Q&A. You'll have a chance to ask us any questions you have about the company, the team, the work, or anything else.
 
