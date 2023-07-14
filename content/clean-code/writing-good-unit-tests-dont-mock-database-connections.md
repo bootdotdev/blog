@@ -32,7 +32,7 @@ I'm not thirty minutes into my new job (still `brew install`ing a bunch of nonse
 
 > Bill: "I've re-added try/catch to the language! No more `if err != nil`!"
 
-Take a look at the elegance of Bill's new language feature in this usage example:
+Take a look at the elegance of Bill's new language feature:
 
 ```go
 func main() {
