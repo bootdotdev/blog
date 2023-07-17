@@ -114,7 +114,7 @@ Let’s compare a few different Python frameworks: Django, Flask, and FastAPI.
 
 ### Flask
 
-![flask logo](/img/800/download.png.webp)
+![flask logo](/img/800/1_0G5zu7CnXdMT9pGbYUTQLQ.png.webp)
 
 Compared to Django, Flask is more of a lightweight and flexible micro-framework. It gives you more freedom in architecture and customization.
 
