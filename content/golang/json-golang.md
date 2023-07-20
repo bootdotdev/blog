@@ -70,7 +70,7 @@ fmt.Println(user)
 
 ### Example - Go JSON HTTP server
 
-Building a JSON API in Go is simple, you don't even need a framework to get access to convenient high-level HTTP support. I typically start by writing two little helper functions, `respondWithJSON` and `responsdWithError`.
+Building a JSON API in Go is simple, you don't even need a framework to get access to convenient high-level HTTP support. I typically start by writing two little helper functions, `respondWithJSON` and `respondWithError`.
 
 ```go
 func respondWithJSON(w http.ResponseWriter, code int, payload interface{}) error {

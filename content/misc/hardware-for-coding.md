@@ -69,7 +69,7 @@ As far as monitors go, I would never recommend working with a screen less than 1
 
 Now that we've covered the core hardware components, let's talk about the software side of things. Choosing the right tools for coding can make a huge difference in terms of hardware requirements and overall efficiency.
 
-[Vim](https://www.vim.org/) (or [NeoVim](https://neovim.io/s)) is a prime example of a lightweight tool that doesn't require much in terms of hardware. It's a text editor with a small memory footprint, making it ideal for coding on less powerful machines. But Vim is just one example—there are plenty of other lightweight tools out there, each catering to different programming languages and tasks.
+[Vim](https://www.vim.org/) (or [NeoVim](https://neovim.io)) is a prime example of a lightweight tool that doesn't require much in terms of hardware. It's a text editor with a small memory footprint, making it ideal for coding on less powerful machines. But Vim is just one example—there are plenty of other lightweight tools out there, each catering to different programming languages and tasks.
 
 Lightweight tools put less strain on your system, so you'll experience fewer slowdowns and crashes, even if your hardware isn't top-of-the-line. Since lightweight tools use fewer resources, they generally load and run faster, which means you can write, test, and debug your code more quickly. Generally speaking, if you're happy and efficient using the lighter-weight stuff, there's no reason not to use it.
 

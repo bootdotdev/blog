@@ -12,7 +12,7 @@ A few days ago I received an email regarding [Boot.dev](https://boot.dev) where 
 
 > I am ideologically opposed to charging people for online education.
 
-I mean fair enough right? I certainly understand this viewpoint, and perhaps I even ideologically agree. That said, let me explain why Boot.dev isn't *completely* free - though **quite a bit of it is free**.
+I mean fair enough right? I certainly understand this viewpoint. That said, let me explain why Boot.dev isn't *completely* free - though **quite a bit of it is free**.
 
 ## The lifeblood of a good learning platform is ongoing development
 
@@ -24,23 +24,17 @@ My current goal with Boot.dev is to provide the most effective [path to a career
 * The whole experience should be as fun and engaging as possible. Achievements, XP, levels, all the fun stuff.
 * The content will be *extremely* up to date. We won't have you learning Python 2 in 2022, or using the `var` keyword in JavaScript.
 
-You'll notice, I can't really accomplish these goals by, say, spending a few months of my spare time writing content, then putting it out for free while I get back to work at a full time job. The content wouldn't remain up to date, wouldn't be gamified, and I simply wouldn't have the time be able to write all the material I want to. I want this thing to be as thorough as a CS degree (but more streamlined) when its complete.
+You'll notice, I can't really accomplish these goals by, say, spending a few months of my spare time writing content, then putting it out for free while I get back to work at a full-time job. The content wouldn't remain up to date, wouldn't be gamified, and I simply wouldn't have the time be able to write all the material I want to. I want this thing to be as thorough as a CS degree (but more streamlined) when its complete.
 
 This project, if it's actually going to accomplish its goals (which I believe are aligned with the student's goals) requires that myself, and maybe even a few others are able to continuously work on this thing full-time.
 
-Right of the gate I'm bound by the constraint that I need to be able to earn a living wage through this thing.
+Right out of the gate, I'm bound by the constraint that I need to be able to earn a living wage for myself (and potentially for a full team) through this thing.
 
 ## So what is Boot.dev's current business model anyways?
 
 I don't think I've gotten this right yet, but at the moment we have a simple way to fund ongoing development: our "membership".
 
-Signing up, reading *all* the content, and even playing in the code sandbox is **free for everyone**. However, after the first few chapters of any individual course, if you want to continue to "pass off" assignments, and get your answers checked for correctness you need to [become a member](https://boot.dev/pricing). There are 3 pricing options:
-
-* A monthly plan of `$39 / mo`
-* A semiannual plan of `$249 / ye`
-* A lifetime plan of `$999`
-
-A membership subscription sill get you access to all the features and content.
+Reading and watching *all* of the content is **free for everyone**. However, after the first few chapters of any individual course, if you want to continue to run code and interact with assignments you need to [become a member](https://boot.dev/pricing).
 
 ## Charging the learners isn't the only way to monetize the platform
 
@@ -69,11 +63,11 @@ Benefits:
 
 Drawbacks:
 
-* I'm skeptical I would make enough off of donations to support a full-time team. I would almost certainly need another job (I know I would need one today at least). Maybe this could happen after we've grown significantly. Kahn Academy does a great job.
+* It's basically impossible to earn enough from donations to support a full-time team. I would almost certainly need another job (I know I would need one today at least).
 
 ### Model #3 - Charge businesses for career placement after students graduate
 
-I actually looked into this for a couple months, and based on my research, I don't think this will work for a platform built primarily for entry-level developers. If I was providing career education to junior or mid level developers, I'm sure I could charge a "recruiting" fee to businesses or something like that. Unfortunately, companies simply don't pay to find juniors.
+I actually looked into this for a couple of months, and based on my research, I don't think this will work for a platform built primarily for entry-level developers. If I was providing career education to junior or mid-level developers, I'm sure I could charge a "recruiting" fee to businesses or something like that. Unfortunately, companies simply don't pay to find juniors.
 
 ### Model #4 - Charge students for career coaching
 
@@ -85,7 +79,7 @@ There could be a hybrid model where the career placements subsidize the educatio
 
 ## So what are we going to do?
 
-Well, for now we're going to keep monetizing the way we've been doing it - simple monthly subscriptions. For students who can't afford the price, all of our content can be read for free, and hopefully that's a decent middle-ground solution until we have the bandwidth to try other things.
+Well, for now, we're going to keep monetizing the way we've been doing it - simple paid memberships. For students who can't afford the price, all of our content can be read for free, and hopefully that's a decent middle-ground solution until we have the bandwidth to try other things.
 
 My priority right now is just getting this thing to a level where I can pay my server costs, my mortgage and my family's expenses without going into the red.
 

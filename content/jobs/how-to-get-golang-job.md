@@ -184,7 +184,7 @@ To get a job as a Golang developer, you need to demonstrate the following "soft"
 * **Problem-solving:** It's on almost every single job posting for the very simple reason that as a Golang developer, people will be looking to you to fix a lot of problems, not just the ones in your specific purview.
 * **Lateral thinking:** "Thinking outside the box" is harder to prove. I recommend you practice logic puzzles and riddles. This can be a lot of fun!
 * **Code reviews:** Many companies will ask that you participate in these. Join coding communities and offer to buddy up with people to do this.
-* **Big picture discussions:** Go back to those fundamentals. Are you able to contribute to a company's overall strategy? Can you intelligently recommend different architectural structures? Do you have thoughts on cryptography? Most companies don't want you to be a cog in the machine * they want people who have enough general knowledge in the field to spot bigger issues and know how to fix them, rather than just following instructions all the time.
+* **Big picture discussions:** Go back to those fundamentals. Are you able to contribute to a company's overall strategy? Can you intelligently recommend different architectural structures? Do you have thoughts on cryptography? Most companies don't want you to be a cog in the machine - they want people who have enough general knowledge in the field to spot bigger issues and know how to fix them, rather than just following instructions all the time.
 * **Ability to interview well:** [Be humble and confident](/jobs/confidence-in-job-interviews/). That's what it boils down to. It's easier to do that if you know what you're talking about, so I recommend doing as much interview question prep on websites like StrataScratch as you can. This will help you be more secure in your knowledge.
 
 ## Step 5. Portfolio and jobs
@@ -216,7 +216,7 @@ To apply intelligently, you should be:
 
 * **Doing company research**. Stay up to date with company announcements, developments, new products, and press releases. This especially matters with companies using Golang.
 * **Staying current with new tech**. Programming is a fast-moving field; Go is a new language that's growing fast. You can impress hiring managers just by knowing more about the latest buzzword than your peers.
-* **Practicing good network hygiene**. It's a shame, but a lot of job success comes from who you know, not necessarily what you know. Join communities and learn how to make friends. See how you can give back * with code reviews, feedback, introductions, or debugging help. Then see if anyone can help you.
+* **Practicing good network hygiene**. It's a shame, but a lot of job success comes from who you know, not necessarily what you know. Join communities and learn how to make friends. See how you can give back - with code reviews, feedback, introductions, or debugging help. Then see if anyone can help you.
 
 ## How to get a job as a Golang developer: practice, apply, and get accepted.
 
