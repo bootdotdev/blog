@@ -36,6 +36,8 @@ pluralizelisttitles = false
     "https://www.stratascratch.com",
     "https://www.youtube.com",
     "https://podcasts.apple.com",
+    "https://backendbanter.fm",
+    "https://www.backendbanter.fm",
   ]
 
   [[params.courses]]
