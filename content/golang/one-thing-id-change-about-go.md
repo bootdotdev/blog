@@ -26,7 +26,7 @@ Go is built for grug brained programmers like me.
 > 
 > given choice between complexity or one on one against t-rex, grug take t-rex: at least grug see t-rex
 >
-> - [grugbrain.dev](https://grugbrain.dev/)
+> -- [grugbrain.dev](https://grugbrain.dev/)
 
 The Go team took *many years* to add generics to the language. It was a good addition, and many argued that it was an *obvious* decision that should have been made sooner.
 
@@ -149,7 +149,7 @@ Believe it or not, I can still do this in Go:
 ```go
 type Color string
 
-var color Color = "clearly not a color"
+var carColor Color = "clearly not a color"
 ```
 
 The compiler don't care. The `Color` type we made is just an alias for `string`. Any `string` is a valid `Color`. Sure, I defined some constants, `Red`, `Green`, and `Blue`, but they're just constants that I *hope* and *pray* and *beg* my team to use.
