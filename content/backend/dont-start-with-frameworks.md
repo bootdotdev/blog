@@ -16,7 +16,7 @@ That said, I'm adamant that you should not *start* with frameworks when you're [
 
 ## Frameworks automate the boring stuff
 
-Frameworks are *great* at automating all that boring stuff like boilerplate code, authentication, and [database migrations](https://blog.boot.dev/clean-code/death-taxes-and-database-migrations/). Who wants to to invent the wheel over and over again? *Not me*.
+Frameworks are *great* at automating all that boring stuff like boilerplate code, authentication, and [database migrations](https://blog.boot.dev/clean-code/death-taxes-and-database-migrations/). Who wants to invent the wheel over and over again? *Not me*.
 
 Trouble is, when you're just starting, those boring details are *exactly* the things you need to learn. They're the building blocks of back-end applications, the foundations of what you need to know. And when you use a framework, you're missing out on all that good stuff.
 

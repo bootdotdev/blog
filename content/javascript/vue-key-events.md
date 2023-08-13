@@ -44,9 +44,9 @@ According [to the docs](https://vuejs.org/guide/essentials/event-handling.html#k
 * `.left` 
 * `.right`
 
-But what if you want to capture a *different* key? Well, unfortunately, the docs mostly gloss over this use case. At least I couldn't find where it was addressed.
+But what if you want to capture a *different* key?
 
-I did however find some useful information in the [Vue2 -> Vue3 migration guide](https://v3-migration.vuejs.org/breaking-changes/keycode-modifiers.html). Turns out that can use the `kebab-case` name for any key you want to use as a modifier. For example:
+Turns out that can use the `kebab-case` name for any key you want to use as a modifier. For example:
 
 ```html
 <input @keyup.a="onPressA" />

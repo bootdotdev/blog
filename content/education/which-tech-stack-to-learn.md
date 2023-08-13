@@ -58,7 +58,7 @@ Remember: your tech stack choice should align with your personal interests and c
 
 * If you're passionate about data science and machine learning, [Python](https://boot.dev/learn/learn-python) might be a better choice for you than PHP
 * If you're interested in cloud-native back-end development, I'd certainly recommend [Golang](https://boot.dev/learn/learn-golang).
-* f you're all about building sleek and interactive web apps, [JavaScript](https://boot.dev/learn/learn-javascript) and its various frameworks could be right up your alley
+* If you're all about building sleek and interactive web apps, [JavaScript](https://boot.dev/learn/learn-javascript) and its various frameworks could be right up your alley
 
 ## Don't be afraid to learn technologies that you won't use at work
 
