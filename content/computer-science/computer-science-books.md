@@ -9,7 +9,7 @@ images:
 lastmod: "2023-01-24"
 ---
 
-In today's modern, fast-paced world, we look to StackOverflow, Reddit, and [hands-on courses](https://blog.boot.dev/about/#you-cant-learn-to-code-if-you-arent-writing-a-lot-of-code) to learn about computer science. But there are some real benefits to using books as an additional resource.
+In today's modern, fast-paced world, we look to StackOverflow, Reddit, and [hands-on courses](https://boot.dev) to learn about computer science and software engineering. But there are some real benefits to using books as an additional resource.
 
 When studying computer science, books are:
 
@@ -19,7 +19,7 @@ When studying computer science, books are:
 * **Structured for completion.** A blog will give you a solitary answer. A book will give you the answer in the context of all the other information you need to make sense of that answer.
 * **Satisfying to hold.** As a computer scientist, I've spent a lot of time staring at screens. Sometimes it's nice to hold something physical for a change.
 
-If you want to construct a comprehensive, learnable, achievable [computer science curriculum](/computer-science/comprehensive-guide-to-learn-computer-science-online/) for yourself, it's wise to include books as a key starting point.
+If you want to construct a comprehensive, learnable, achievable [computer science curriculum](https://boot.dev/tracks/backend) for yourself, it's wise to include books as a key starting point.
 
 Persuaded? Good. Let's talk about the best CS books out there.
 
