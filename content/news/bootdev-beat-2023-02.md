@@ -18,7 +18,7 @@ All the best, Lane
 
 ## What we've done this month
 
-### [1. "Build a Pokedex" guided Golang project released](https://boot.dev/build/build-pokedex-cli)
+### [1. "Build a Pokedex" guided Golang project released](https://boot.dev/learn/build-pokedex-cli)
 
 This project will guide you through the steps to build a REPL pokedex on the command line in Go. Learn how to use JSON, make network requests, implement caching, and more! This is a great project if you're familiar with Go, but want some more practice. There is even a full video walkthrough (linked at the end of the newsletter) to watch in case you get stuck!
 

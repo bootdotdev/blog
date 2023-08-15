@@ -234,7 +234,7 @@ By now, you've got a comprehensive list of technologies, tools, and areas you wa
 
 Here are a few examples of personal projects you can take on to become a Go back-end developer.
 
-* **Develop a CLI tool**. Get experience building a standalone app that can interact with APIs, databases, and other backend systems. For example, we've got a great project that walks you through [how to build a Pokedex](https://boot.dev/build/build-pokedex-cli) on the command line in Go.
+* **Develop a CLI tool**. Get experience building a standalone app that can interact with APIs, databases, and other backend systems. For example, we've got a great project that walks you through [how to build a Pokedex](https://boot.dev/learn/build-pokedex-cli) on the command line in Go.
 * **Rewrite an existing project in Go**. This is a good place to start because you know what the end product is supposed to be already.
 * **Create a microservice architecture**. This project will teach you how to build and deploy containerized Go applications, and manage them using Kubernetes. [Here's a good example](https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-golang).
 * **Build a chat application**. Using Go and WebSockets, this project gives you experience handling real-time data, like chat messages and providing functionality for multiple users. It's also good for practicing with the front end. [This is a great project](https://betterprogramming.pub/how-to-build-a-concurrent-chat-app-with-golang-and-websockets-fb48562a1329) to showcase Go's many strengths, such as concurrency and scalability.

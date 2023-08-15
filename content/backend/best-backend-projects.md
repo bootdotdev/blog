@@ -31,7 +31,7 @@ What skills are most in demand? If you want to [become a backend developer](/bac
 * Coding basics in [Python](https://boot.dev/learn/learn-python), [Go](https://boot.dev/learn/learn-golang), or another back-end language
 * [Data structures](https://boot.dev/learn/learn-data-structures) and [algorithms](https://boot.dev/learn/learn-algorithms)
 * The basics of the web, like [HTTP](https://boot.dev/learn/learn-http)
-* [Simple web servers](https://boot.dev/build/social-media-backend-golang)
+* [Simple web servers](https://boot.dev/learn/build-social-media-backend-golang)
 * Database fundamentals - [SQL](https://boot.dev/learn/learn-sql) or NoSQL
 * How to deploy to the internet, maybe with something like [Docker](https://boot.dev/learn/learn-docker)
 
@@ -39,7 +39,7 @@ Therefore, the *best* backend project ideas show off at least one of those skill
 
 Remember, these are a starting point. Try these six backend projects out, note where you struggle, and take the time to read up on any difficult concepts. These six backend projects will help map out your strengths and weaknesses while also allowing you to boost your project portfolio.
 
-## [Project 1: Book Bot, a book analyzer](https://boot.dev/build/build-local-dev-environment-python)
+## [Project 1: Book Bot, a book analyzer](https://boot.dev/learn/build-local-dev-environment-python)
 
 *This is a backend project for beginners, the goal is to get you comfortable building projects on your own machine.*
 
@@ -51,7 +51,7 @@ The CLI is a text-based interface used to run software and operating systems. As
 
 If you can't manage this, no worries! Take a step back, re-learn [Python fundamentals](https://boot.dev/learn/learn-python), and come back when you're ready.
 
-## [Project 2: A visual maze solver](https://boot.dev/build/maze-solver-python)
+## [Project 2: A visual maze solver](https://boot.dev/learn/maze-solver-python)
 
 *This is an impressive portfolio project where you can show your knowledge of computer science concepts.*
 
@@ -65,7 +65,7 @@ That said, I also liked the Coursera [project](https://www.coursera.org/lecture/
 
 If you're getting stuck, I recommend checking out Boot.dev's [Data Structures](https://boot.dev/learn/learn-data-structures) and [Algorithm](https://boot.dev/learn/learn-algorithms) courses. They each take 16 hours and will teach you everything you need to know about DSA fundamentals.
 
-## [Project 3: A web crawler](https://boot.dev/build/link-analyzer)
+## [Project 3: A web crawler](https://boot.dev/learn/link-analyzer)
 
 As a backend developer, you need to know:
 
@@ -81,7 +81,7 @@ I also recommend [this project](https://www.youtube.com/watch?v=91Q6RvKvd7o), wh
 
 It's more of a front-end project, but that knowledge is crucial to supporting your development as a back-end dev. Backend development doesn't happen in a vacuum, after all!
 
-## [Project 4: A social media CRUD server](https://boot.dev/build/social-media-backend-golang)
+## [Project 4: A social media CRUD server](https://boot.dev/learn/social-media-backend-golang)
 
 This project should get you *really* familiar with the basics of RESTful APIs. The backend (to remind you, also called the server side) is made up of the server, which provides data on request, the application that channels it, and the database which organizes the information.
 

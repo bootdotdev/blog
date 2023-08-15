@@ -119,7 +119,7 @@ All you need to know here is that object-oriented programming is a principle of 
 7. Make your first commit.
 8. Install and run Python
 
-**Where you can learn it**: We published a [full setup guide on Boot.dev](https://boot.dev/build/build-local-dev-environment-python) that will take from zero to a complete professional setup. I also like Microsoft's [guide](https://learn.microsoft.com/en-us/windows/dev-environment/). They cover different types of languages and environments.
+**Where you can learn it**: We published a [full setup guide on Boot.dev](https://boot.dev/learn/build-local-dev-environment-python) that will take from zero to a complete professional setup. I also like Microsoft's [guide](https://learn.microsoft.com/en-us/windows/dev-environment/). They cover different types of languages and environments.
 
 **Data structures and algorithms**: How do you put data somewhere? How do you get it back out? What if you need to process that data in some way? The answer to all those nebulous questions is "data structures."
 

@@ -100,8 +100,8 @@ Your goal here is to understand *why* we need backend developers at all, and how
 
 Next, you need to pick a language or two that you want to specialize in. For example, I'm primarily a backend Go engineer - but I dabble in Python and JavaScript. By specializing, you will make your job search *easier* on yourself. Companies want experts in the areas they're hiring for - not a jack-of-all-trades. Here are some projects you can take a look at:
 
-* [A social media backend in Go](https://boot.dev/build/social-media-backend-golang)
-* [Personal Projects on Boot.dev](https://boot.dev/build/personal-project-1)
+* [A social media backend in Go](https://boot.dev/learn/build-social-media-backend-golang)
+* [Personal Projects on Boot.dev](https://boot.dev/learn/build-personal-project-1)
 * [Python Projects](/python/python-projects-for-beginners/)
 * [DevdevShow's project ideas](https://devdevshow.com/backend-project-ideas-for-beginners-portfolio/)
 

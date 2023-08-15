@@ -58,9 +58,9 @@ Joining the Boot.dev backend bootcamp also includes access to the [Discord commu
 
 The content style is "[learn by doing](/about/#you-cant-learn-to-code-if-you-arent-writing-a-lot-of-code)." Lessons include some explanatory text, but right from the start, you'll run into actual coding tasks to complete. These tasks build on your knowledge, growing more complex as you go.
 
-For example, you'll learn how to [build a RESTful social media API in Golang](https://boot.dev/build/social-media-backend-golang) using the standard library. If you're interested in getting a job writing Go on the web, this is the single most important project you can practice with.
+For example, you'll learn how to [build a RESTful social media API in Golang](https://boot.dev/learn/build-social-media-backend-golang) using the standard library. If you're interested in getting a job writing Go on the web, this is the single most important project you can practice with.
 
-The course also comes with a personal [capstone project](https://boot.dev/build/capstone-project) for every student to complete. By the end of the course, you'll have a library of projects to put in your portfolio.
+The course also comes with a personal [capstone project](https://boot.dev/learn/build-capstone-project) for every student to complete. By the end of the course, you'll have a library of projects to put in your portfolio.
 
 ### Price: 
 

@@ -20,7 +20,7 @@ All the best, Lane.
 
 ## New stuff from Boot.dev this October
 
-1. ["Build a Local Dev Environment" project](https://boot.dev/build/build-local-dev-environment-python)
+1. ["Build a Local Dev Environment" project](https://boot.dev/learn/build-local-dev-environment-python)
 
 We are super excited about this new project tutorial. One of my biggest struggles in school was that I didn't have a local dev setup that worked well. This tutorial will have you up and running with a simple yet professional suite of tools.
 

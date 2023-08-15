@@ -29,7 +29,7 @@ A [framework](/backend/dont-start-with-frameworks/) is basically a prepackaged c
 
 ### 1. Build a Simple Web Crawler
 
-This [project tutorial](https://boot.dev/build/link-analyzer) will walk you through building a simple web crawler on the command line using Node.js. It might sound tricky, but if you have a basic understanding of JavaScript it's actually quite simple. A web crawler is a useful tool that SEO experts use to audit their websites. There is even an hour-long YouTube video where the author builds the entire project on camera!
+This [project tutorial](https://boot.dev/learn/build-link-analyzer) will walk you through building a simple web crawler on the command line using Node.js. It might sound tricky, but if you have a basic understanding of JavaScript it's actually quite simple. A web crawler is a useful tool that SEO experts use to audit their websites. There is even an hour-long YouTube video where the author builds the entire project on camera!
 
 {{< bdyoutube C0pXaNchNTA >}}
 

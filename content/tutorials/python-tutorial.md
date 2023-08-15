@@ -36,7 +36,7 @@ On the other hand, it's not particularly well-known for front-end work. While it
 
 ### Setup a Local Development Environment
 
-To get started with Python, you'll need to install the `python` command on your computer, and then install a text editor or IDE. If you're not already familiar with how to do that, I have a full step-by-step [project guide here](https://boot.dev/build/build-local-dev-environment-python) that you can follow.
+To get started with Python, you'll need to install the `python` command on your computer, and then install a text editor or IDE. If you're not already familiar with how to do that, I have a full step-by-step [project guide here](https://boot.dev/learn/build-local-dev-environment-python) that you can follow.
 
 If you're able to edit and run Python code on your computer, you're ready to continue!
 

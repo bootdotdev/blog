@@ -40,7 +40,7 @@ Here's what you should know:
 * Coding basics in [Python](https://boot.dev/learn/learn-python), Go, or another back-end language
 * [Data structures](https://boot.dev/learn/learn-data-structures) and [algorithms](https://boot.dev/learn/learn-algorithms)
 * The basics of the web, like [HTTP](https://boot.dev/learn/learn-http)
-* [Simple web servers](https://boot.dev/build/social-media-backend-golang)
+* [Simple web servers](https://boot.dev/learn/build-social-media-backend-golang)
 * Database fundamentals - [SQL](https://boot.dev/learn/learn-sql) or NoSQL
 * How to deploy to the internet
 

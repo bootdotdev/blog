@@ -41,7 +41,7 @@ PHP is pretty great when it comes to getting it installed. It runs without issue
 
 Python, on the other hand, can require a bit more work. It comes pre-installed on Mac and Linux, but if that version is outdated, but you'll often need to install newer versions of Python, and maintaining multiple versions on one device can be tricky. Luckily, there's a cool tool called [pyenv](https://github.com/pyenv/pyenv) that was made just for managing multiple Python versions.
 
-If you're interested in getting a Python environment set up on your machine, check out our [development environment setup project](https://boot.dev/build/build-local-dev-environment-python).
+If you're interested in getting a Python environment set up on your machine, check out our [development environment setup project](https://boot.dev/learn/build-local-dev-environment-python).
 
 ## Python versus PHP: Popularity
 

@@ -22,7 +22,7 @@ All the best, Lane
 
 This is our new flagship back-end programming course. If you're following along the back-end career path, you'll take this course after you learn the Go programming language. In this one, you'll build a fully-fledged web server in Go from scratch (look ma, no frameworks!)
 
-### [2. "Build a Blog Aggregator" project released](https://boot.dev/build/blog-aggregator)
+### [2. "Build a Blog Aggregator" project released](https://boot.dev/learn/build-blog-aggregator)
 
 To accompany the new web servers course, I replaced our old "build a social media back-end" project with this blog (rss) aggregator! This project comes in the learning path directly after you learn SQL. You'll use your newfound database skills to integrate a production-grade PostgreSQL database into a back-end service that collects blog posts from the internet.
 
