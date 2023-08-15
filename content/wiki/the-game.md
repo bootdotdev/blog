@@ -72,9 +72,9 @@ Armor protects your sharpshooter streak from being lost! If you get an assignmen
 
 Armor will not be lost when: 
 
-* Getting an assignment incorrect that you have already completed in the past. 
-* If your sharpshooter streak is at 0
-* If you have already used armor on a lesson
+* Getting an assignment incorrect that you have already completed in the past 
+* Your sharpshooter streak is at 0
+* You have already used armor on a lesson
 
 ## XP Boosts
 
