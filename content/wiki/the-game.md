@@ -68,12 +68,13 @@ Gems can be spent on two things:
 
 ### How do I protect my sharpshooter progress?
 
-Armor protects your sharpshooter streak from being lost! If you get an assignment incorrect, and you have armor purchased, you will instead lose a piece of armor instead of losing your sharpshooter streak! Once armor has been used on an assignment, that assignment will always be protected as indicated by the shield icon turning green.
+Armor protects your sharpshooter streak from being lost! If you get an assignment incorrect, and you have armor purchased, you will instead lose a piece of armor instead of losing your sharpshooter streak! Once armor has been used on an assignment, that assignment will always be protected as indicated by the shield icon being shattered and broken.
 
 Armor will not be lost when: 
 
 * Getting an assignment incorrect that you have already completed in the past. 
 * If your sharpshooter streak is at 0
+* If you have already used armor on a lesson
 
 ## XP Boosts
 
