@@ -5,12 +5,12 @@ date: "2023-08-31"
 categories:
   - "news"
 images:
-  - /img/800/bootdevbeatdrumdesert.png.webp
+  - /img/800/bootdevdrumshroom.png.webp
 imageAlts:
   - "Boot.dev Beat Drum"
 dofollows:
-  - "https://www.codenewbie.org"
-draft: true
+  - "https://www.quantamagazine.org"
+  - "https://syntax.fm"
 ---
 
 The best part of working on [Boot.dev](https://boot.dev) is seeing you all make almost unbelievable strides in not only your understanding of fundamental concepts, but what you can now *build from scratch*. It's not just that, I've been hearing a lot of stories about the *confidence* that's being gained by our alumnis after shipping so much code. That's a critical part of the journey.
