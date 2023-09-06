@@ -52,17 +52,8 @@ However, it's important to note that Boots does not replace the need for dedicat
 
 ## When should I contact Boots?
 
-The best way to use Boots is as a supportive mentor. If you're completely stuck, or don't understand what a snippet of code does, we recommend using Boots *before* just peeking at the solution. Boots will be able to *teach* you a bit about what the code does, rather than just show you the answer.
+The best way to use Boots is as a supportive mentor. If you're stuck we recommend using Boots *before* just peeking the solution. Boots will be able to *teach* you how to solve the problem, rather than just provide the solution.
 
 That said, while Boots can dissect and explain any code snippet, he won't *always* be able to understand the full context or outcome of your problem just from a small snippet. Therefore, it's essential to use him for clarifying doubts, but not rely on him to provide a comprehensive review of your entire assignment.
-
-## How do I contact Boots?
-
-To make use of Boots' wizardly knowledge, follow these simple steps:
-
-1. Highlight a snippet of your code in the editor that you want Boots to explain
-2. Press the 'Explain' button located at the bottom of the assignment markdown
-
-Boots will then review the selected code and provide an explanation of its inner workings to the best of his ability. 
 
 Remember, Boots' advice is not free! Contacting him will reduce the amount of XP you will be awarded on that specific assignment by 25%, not as much as viewing the solution, but also an incentive to try your best to solve the challenge on your own first!
