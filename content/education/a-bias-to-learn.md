@@ -33,36 +33,35 @@ Dijkstra's algorithm is great if you know where you're going. If you don't, you 
 
 The tech scene is a clusterf*ck of complexity. I learned like 10 different programming languages in college, and even after 3 years into my degree, I still didn't know that I'd end up working as a backend engineer writing Go. I interviewed for all sorts of nonsense, from embedded systems to frontend development.
 
-If you actually knew *exactly* which concepts you'd need to master to pass your first interviews, then you could might find an effective shortcut. The trouble is, there is no *precise* subset of knowledge that will always be enough to pass those first interviews.
+If you knew *exactly* which concepts you'd need to master to pass your first interviews, then you could might be able to find an effective shortcut. The trouble is, there is no *precise* subset of knowledge that will always be enough to pass every possible first interview.
 
-* Every company has unique needs
-* Every hiring manager has different interview methodologies
-* Every industry has different requirements
-* Every city has a different tech culture
-* Every developer role requires different technologies
+* Every company has its own janky tech stack
+* Every PM has their own version of "agile"
+* Every hiring manager has their own 7-step interview process
+* Every developer role requires different types of arcane knowledge
 
 The list goes on and on. The point is, you have *no idea* what you'll be doing day to day at your first job when you're just starting to learn to code. I hear people say things like "I never even use my DSA skills at work", and upon further inspection, it turns out they're a WordPress "developer".
 
 ## So I shouldn't be looking for the shortest path?
 
-You should, it's just not where you think you'll find it. The shortest path to a job as a programmer is *not* to try to minimize the amount of things you need to learn and build. That sort of thinking tends to result in a much longer, more mentally taxing journey. It usually looks like this:
+You should, it's just not where you think you'll find it. The shortest path to a job as a programmer does *not* involve minimizing the amount of things you need to learn and build. That sort of thinking results in a much longer, more mentally exhausting journey. That slog usually looks something like this:
 
-1. Jump directly into a web framework (probably Next.js if you're basic)
-2. Find you have a talent for building Spotify clones
-3. Realize you can't even build "hello world" without a tutorial
+1. Jump directly into a web framework (probably Next.js since you're basic af)
+2. Find you have a talent for building todo apps
+3. Realize you can't build "hello world" without a tutorial
 4. Attempt to remedy that by doing more tutorials
 5. Read on Twitter that ackshaully Rust is the best language
 6. Admit defeat at the hands of the borrow checker
-7. Repeat steps 1-4 `n` times, where `n` is a `D4 roll * your_stubbornness`
+7. Repeat steps 1-4 `n` times, where `n` is a `d4_roll * your_stubbornness`
 
 The shortest path (or at least short*er* path) usually looks like this:
 
 1. Learn core programming/cs *concepts* in some language
 2. Tentatively decide on the kind of programming you want to do (frontend, backend, mobile, etc)
-3. Learn the fundamentals of that kind of programming in technologies well suited to it
+3. Learn the fundamentals of that kind of programming in technologies well suited for it
 4. Build, build, learn, build, learn and build, etc
 
-Don't get me wrong, this second path still isn't exactly short. Programming isn't easy. But, the difference is that you're not wandering aimlessly through the 9th circle of tutorial hell. You're building a foundation of knowledge and skills that are useful in almost any programming job.
+Don't get me wrong, this second path still isn't short. Programming isn't easy, sorry if you were told it was. But, the difference with this second approach is that you're not wandering aimlessly through the 9th circle of tutorial hell. You're building a foundation of knowledge that remains useful in almost any programming job.
 
 ## It's about having a bias for learning
 
