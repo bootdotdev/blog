@@ -63,7 +63,7 @@ The shortest path (or at least short*er* path) usually looks like this:
 
 Don't get me wrong, this second path still isn't short. Programming isn't easy, sorry if you were told it was. But, the difference with this second approach is that you're not wandering aimlessly through the 9th circle of tutorial hell. You're building a foundation of knowledge that remains useful in almost any programming job.
 
-## It's about having a bias for learning
+## It's really an attitude problem
 
 The primary difference between the 2 paths I outlined is one of *mindset*.
 
