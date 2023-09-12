@@ -68,7 +68,7 @@ Don't get me wrong, this second path still isn't short. Programming isn't easy, 
 
 Folks spend eons trying to find the shortest learning path, or trying to avoid learning things that "they'll never use again". They're fine wasting *months or years* learning absolutely nothing to avoid doing *any* unnecessary work. Why not bite the bullet and risk spending a few *days* learning something that's not directly applicable to the job you'll eventually land?
 
-## Dogecoin to the mooon?
+## Dogecoin to the moon?
 
 Let's be 100000000% honest. Some folks are looking for a good 'ol fasioned get rich quick scheme. After a few weeks of struggling with loops, they'll give up and purchase an AI-powered crypto trading bot on Fiverr. Don't be like those folks.
 
