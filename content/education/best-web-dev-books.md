@@ -18,7 +18,7 @@ No matter why you’re looking for web dev books, this list will point you in th
 
 This generation has a somewhat unfair reputation for not liking books; it’s all TikTok and Netflix. But especially in web development, which changes and updates so frequently, it’s worth thinking about why read books at all. Wouldn’t blogs or YouTube videos be better for learning web dev?
 
-I never like to issue definitive answers like “YouTube videos are always better than books.” It’s so rare that I can accurately make statements like that. And this books vs videos/articles/podcasts question is no exception. *Yes*, there are types of knowledge or skills that you’d be better off watching a video or taking a tutorial on instead of reading a textbook.
+I never like to issue definitive answers like "YouTube videos are always better than books." It’s so rare that I can accurately make statements like that. And this books vs videos/articles/podcasts question is no exception. *Yes*, there are types of knowledge or skills that you’d be better off watching a video or taking a tutorial on instead of reading a textbook.
 
 But textbooks have their place too.
 

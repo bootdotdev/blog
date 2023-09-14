@@ -47,9 +47,9 @@ Now let’s look at what you need to know when you choose a Vue backend.
 
 I’ve talked a bit about decoupled architecture in our blog post about the [best backend for React](/backend/backend-for-react/#a-quick-note-on-decoupled-architectures), so I’ll quote myself:
 
-> “Decoupled architecture is when you separate the frontend and backend of your application, allowing them to function independently while communicating through APIs.”
+> "Decoupled architecture is when you separate the frontend and backend of your application, allowing them to function independently while communicating through APIs."
 
-As you might know already if you follow this blog, [Boot.dev’s](https://boot.dev) architecture is decoupled. The SPA (frontend) is served from the domain “boot.dev” while the API (backend) is served from a separate subdomain, “api.boot.dev”.
+As you might know already if you follow this blog, [Boot.dev’s](https://boot.dev) architecture is decoupled. The SPA (frontend) is served from the domain "boot.dev" while the API (backend) is served from a separate subdomain, "api.boot.dev".
 
 I’ve also discussed the [pros](/backend/backend-for-react/#benefits-to-decoupling) and [cons](/backend/backend-for-react/#downsides-to-decoupled-architecture) of decoupling in that blog post, so I’ll summarize them briefly here:
 
@@ -144,7 +144,7 @@ I recommend it as a backend for Vue because it’s **fast**, it’s **supportive
 
 Let’s go a little deeper. Ruby on Rails is geared for **fast development**. It comes with lots of built-in tools, libraries, and generators that streamline common tasks like database migrations, routing, and form handling.
 
-**The community is vibrant and supportive.** Developers have developed tons of libraries (known colloquially as “gems”) to extend Rails’s functionality and add features to your Vue.js application. When I was a novice Ruby on Rails user, I found the community provided comprehensive documentation, tutorials, and forums, making it easier for me to find help and resources when needed. For example, [here’s](https://bootrails.com/blog/ruby-on-rails-and-vuejs-tutorial/) a great one I used when I was testing out if Vue and Ruby on Rails make for a good match.
+**The community is vibrant and supportive.** Developers have developed tons of libraries (known colloquially as "gems") to extend Rails’s functionality and add features to your Vue.js application. When I was a novice Ruby on Rails user, I found the community provided comprehensive documentation, tutorials, and forums, making it easier for me to find help and resources when needed. For example, [here’s](https://bootrails.com/blog/ruby-on-rails-and-vuejs-tutorial/) a great one I used when I was testing out if Vue and Ruby on Rails make for a good match.
 
 Finally, Ruby on Rails makes **automated testing easy**. It comes with tons of testing frameworks like [RSpec](https://rspec.info/) and [Capybara](https://github.com/teamcapybara/capybara), making it easier to write unit tests, integration tests, and end-to-end tests. Testing your backend API in conjunction with the Vue.js frontend can help identify and prevent issues early on. And as any developer can tell you, you’ll run into many issues.
 
@@ -158,9 +158,9 @@ I’d recommend Ruby on Rails as a backend for Vue for an **e-commerce platform*
 
 First of all, if you haven't seen Quentin Tarantino's Django Unchained, stop reading, go watch it, and come back. It's a masterpiece.
 
-OK, got that out of my system. Back to business. Django is a high-level Python web framework known for its “batteries-included” approach, providing a robust set of tools and functionalities for web development.
+OK, got that out of my system. Back to business. Django is a high-level Python web framework known for its "batteries-included" approach, providing a robust set of tools and functionalities for web development.
 
-Now, we at Boot.dev have some, ahem, controversial thoughts on “batteries included” tools. Basically, we think it’s so important to [understand the fundamentals](/backend/dont-start-with-frameworks/) of the tools you use, instead of blindly relying on them. That way, when they break, you can fix them. That doesn’t mean you shouldn’t *use* them, just that you should *understand* them.
+Now, we at Boot.dev have some, ahem, controversial thoughts on "batteries included" tools. Basically, we think it’s so important to [understand the fundamentals](/backend/dont-start-with-frameworks/) of the tools you use, instead of blindly relying on them. That way, when they break, you can fix them. That doesn’t mean you shouldn’t *use* them, just that you should *understand* them.
 
 To that end, if you’re interested in learning Python for backend development, you can check out our [full Python course here](https://boot.dev/learn/learn-python).
 

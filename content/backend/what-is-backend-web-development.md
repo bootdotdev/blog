@@ -20,7 +20,7 @@ And, while it has a steeper learning curve than frontend development, for exampl
 
 I want to be clear that in this article, I’m going to narrow my focus a little bit. I’ll be talking specifically about what backend web development is, as opposed to backend game development or backend mobile development.
 
-Let’s get into answering the question, “What is backend web development?”
+Let’s get into answering the question, "What is backend web development?"
 
 ## What does a Backend Web Developer do?
 
@@ -88,18 +88,18 @@ We’ve covered the [best backend programming languages](/backend/best-backend-p
 | PostgreSQL                 | Go-to database for production, high-volume data operations                    |
 | -------------------------- | ----------------------------------------------------------------------------- |
 | SQLite                     | Most widely-deployed database in the world because it’s so lightweight        |
-| MySQL                      | “Standard” SQL database, though being overtaken by PostgreSQL                 |
+| MySQL                      | "Standard" SQL database, though being overtaken by PostgreSQL                 |
 | MariaDB                    | A fork of MySQL, fully open source, 12+ storage engines and 2000k+ connection |
 | Oracle                     | Not as customizable as MySQL, but better for a higher degree of scalability   |
 | Microsoft SQL Server/MSSQL | Better for Windows-based projects that gel well with Microsoft products       |
 
 #### Top NoSQL Databases
 
-| MongoDB       | Most popular, “standard” option                                                                             |
+| MongoDB       | Most popular, "standard" option                                                                             |
 | ------------- | ----------------------------------------------------------------------------------------------------------- |
 | Redis         | More limited query functionality, but optimized for ephemeral work – caching and in-memory data structuring |
 | Elasticsearch | For search and log analysis                                                                                 |
-| Firebase      | Cloud-hosted, optimized for “back-end as a service”                                                         |
+| Firebase      | Cloud-hosted, optimized for "back-end as a service"                                                         |
 | Cassandra     | Very distributed and scalable database, used for extremely high volume workloads                            |
 
 ### Examples of popular web development frameworks
@@ -179,7 +179,7 @@ Different factors affect expected salary levels, such as location, experience le
 | DevOps specialist             | \$80,158.5 |
 | Database administrator        | \$78,686.5 |
 
-I’ve talked about “alternative” or more specialized backend web dev roles here:
+I’ve talked about "alternative" or more specialized backend web dev roles here:
 
 * [Golang backend developer](/golang/become-golang-backend-dev/)
 * [Data engineer](/backend/backend-engineer-vs-data-engineer/)
@@ -187,7 +187,7 @@ I’ve talked about “alternative” or more specialized backend web dev roles 
 * [DevOps](/devops/backend-devops-roles-merging/)
 * [DevSecOps](/devops/devops-vs-devsecops/)
 
-In terms of job lookout, the number of websites and web apps is not getting any smaller. The Bureau of Labor Statistics [expects](https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm) the role of “web developer” (an imperfect match up to backend web dev) to grow 23 percent between 2021 and 2031, which is way faster than most jobs they projected, which was just 0.5 percent.
+In terms of job lookout, the number of websites and web apps is not getting any smaller. The Bureau of Labor Statistics [expects](https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm) the role of "web developer" (an imperfect match up to backend web dev) to grow 23 percent between 2021 and 2031, which is way faster than most jobs they projected, which was just 0.5 percent.
 
 ## Conclusion
 

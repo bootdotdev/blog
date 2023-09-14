@@ -78,7 +78,7 @@ Plus. you can’t just jump in headfirst as I mentioned above. To build anything
 
 ### Not super flexible
 
-> “Isn’t this the opposite of what you just said in the pro section?”
+> "Isn’t this the opposite of what you just said in the pro section?"
 
 Yes – Django is versatile. It’s customizable and it can do lots of different things. But it’s not always flexible. As an opinionated framework, it has standard and consistent ways of doing things. Want to do them a different way? You’re out of luck. Not much wiggle room in this framework.
 
