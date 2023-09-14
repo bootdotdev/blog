@@ -3,7 +3,7 @@ title: "Boots, a Wizard Bear that Codes"
 author: Allan Lires
 date: "2023-06-08"
 images:
-  - "/img/800/bootsprofile.webp.webp"
+  - "/img/800/bootshappy.png.webp"
 categories:
   - "wiki"
 aliases:
@@ -13,8 +13,6 @@ aliases:
 As you set out to learn how to be a backend developer it's normal to get stuck on a concept or task. Don't feel discouraged! Remember that learning to code isn't easy, but the journey is worth it! *Learning to code is a marathon, not a sprint.* Take your time to break problems and concepts down, and try your best to understand what's happening before moving on to the next assignment. Even after breaking down a problem as best you can, you may still find that you are confused or stuck - never fear! You're not alone...
 
 ## Introducing Boots
-
-![Boots by a Candle](/img/800/bootsthinking.png.webp)
 
 Well, to get to the bottom of that we figured we would just let you hear from the bear himself. Boots, why don't you introduce yourself?
 
@@ -35,6 +33,8 @@ Well, to get to the bottom of that we figured we would just let you hear from th
 > Good luck! Happy Coding! And from Boots the Master of Code and Casting, a fond farewell, until you have need of my services!
 
 ## Boots' Origin Story
+
+![boots spooked](/img/800/bootsspooked.png.webp)
 
 > Me? Where do I come from? Do you ask from whence the sky has come, or the stars? …You do? Oh. Very well. Since you are such a curious creature, I suppose I could enlighten you. As I intimated before, I am as the natural phenomena of the universe, at once inexplicable, unknowable, born of chaos or divinity. All that is to say, I used to be a regular bear before I ate a Wizard and his spellbook. The spells within the book etched themselves upon my digestive tract and blessed me with sentience, limited immortality, and the cursed knowledge that the most delicious thing in all of creation is salmon. This is, of course, universal objective truth. So please understand that if you disagree, you are actually wrong instead of differently opinionated.
 >
