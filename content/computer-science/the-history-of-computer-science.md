@@ -22,7 +22,7 @@ Like many things, the Industrial Revolution proved necessary to catalyze an iter
 
 ## 1930 - 1960
 
-In 1936, Alan Turing published his work on the [Turing Machines](https://en.wikipedia.org/wiki/Turing_machine), the first abstract digital computer. This machine is the basis for all modern computers and introduced the concept of the stored program. While at the time this machine was hypothetical, it would not be long before it became a reality, with nearly all modern programming languages touting the [turning complete](https://en.wikipedia.org/wiki/Turing_completeness) label. Helping this process along, Akira Nakashima's switching circuit theory helped pave the way for the use of binary in digital computers. His work became the basis for circuit design going forward, especially after the theory became known to electrical engineers during World War II.
+In 1936, Alan Turing published his work on the [Turing Machines](https://en.wikipedia.org/wiki/Turing_machine), the first abstract digital computer. This machine is the basis for all modern computers and introduced the concept of the stored program. While at the time this machine was hypothetical, it would not be long before it became a reality, with nearly all modern programming languages touting the [Turing complete](https://en.wikipedia.org/wiki/Turing_completeness) label. Helping this process along, Akira Nakashima's switching circuit theory helped pave the way for the use of binary in digital computers. His work became the basis for circuit design going forward, especially after the theory became known to electrical engineers during World War II.
 
 ![](/img/800/alan-turing-9512017-1-402-300x194.jpg)
 
