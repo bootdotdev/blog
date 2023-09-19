@@ -79,4 +79,5 @@
             </div>
         </div>
     </div>
+    {{ if (findRE "<pre" .Content 1) }} <script>{{ partial "code-block-copy.js" . | safeJS}}</script> {{ end }}
 </div>
