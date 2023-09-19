@@ -7,6 +7,12 @@
 
     img.src = "/icons/clipboard.svg";
     img.alt = "Copy to clipboard button";
+
+    const successImg = new Image();
+
+    successImg.src = "/icons/clipboard-success.svg";
+    successImg.alt = "Copied to clipboard";
+
     button.className =
       "absolute w-6 h-6 m-4 right-0 cursor-pointer outline-none focus:opacity-50";
 
@@ -19,9 +25,11 @@
       navigator.clipboard.writeText(codeBlock.innerText).then(function () {
         button.blur();
 
-        img.src = "/icons/clipboard-success.svg";
+        btnNode.appendChild(successImg);
+        btnNode.removeChild(img);
         setTimeout(() => {
-          img.src = "/icons/clipboard.svg";
+          btnNode.appendChild(img);
+          btnNode.removeChild(successImg);
         }, 2000);
       });
     });
