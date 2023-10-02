@@ -12,7 +12,7 @@ dofollows:
   - "https://www.raspberrypi.com"
 ---
 
-Happy All Hallow's Eve month. I hope you enjoy this month's cover art. It might be my favorite so far.
+Happy All Hallow's Eve. I hope you enjoy this month's cover art. It might be my favorite so far.
 
 All the best, Lane
 
@@ -29,7 +29,7 @@ The course is in private beta at the moment! It will be fully released this week
 Boots, our amazing in-app AI mentor has undergone some serious improvements. They include:
 
 * GPT 4 instead of GPT 3.5
-* He now uses the [socratic teaching method](https://tilt.colostate.edu/the-socratic-method/) to help you solve problems instead of just giving you the answer
+* He now uses the [Socratic teaching method](https://tilt.colostate.edu/the-socratic-method/) to help you solve problems instead of just giving you the answer
 * Chat-first, meaning you now just strike up a conversation instead of highlighting code
 * One-click button to include your code in the chat
 
@@ -54,7 +54,7 @@ This month's episodes include:
 * [#020 - Running SQLite on the Edge with Pekka Enberg](https://www.backendbanter.fm/episodes/020-running-sqlite-on-the-edge-with-pekka-enberg)
 * [#019 - Full-time vs Freelancing vs Starting a Company with Rob Walling](https://www.backendbanter.fm/episodes/019-full-time-vs-freelancing-vs-starting-a-company-with-rob-walling)
 * [#018 - Data Engineering for Gophers with Miriah Peterson](https://www.backendbanter.fm/episodes/18-data-engineering-for-gophers-with-miriah-peterson)
-* [#017 - Writing Go at Multi-Million Dollar Companies with Mat Ryers](https://www.backendbanter.fm/episodes/017-writing-go-at-multi-million-dollar-companies-with-mat-ryer)
+* [#017 - Writing Go at Multi-Million Dollar Companies with Mat Ryer](https://www.backendbanter.fm/episodes/017-writing-go-at-multi-million-dollar-companies-with-mat-ryer)
 
 Be sure to subscribe to the show on your podcast player of choice! And leave a rating & review if you really want to help us out.
 
