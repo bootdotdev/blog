@@ -1,0 +1,29 @@
+<div class="mb-4 flex flex-col items-center">
+  <div class="w-full flex">
+    <input id="sha256Input" type="text" placeholder="Enter a message to hash with sha256 here"
+      class="rounded p-2 bg-gray-650 w-full mb-2 mr-2" />
+    <button class="block-button-secondary mb-2" onclick="shaClick()">
+      Hash
+    </button>
+  </div>
+  <input readonly id="sha256Output" type="text" class="rounded p-2 bg-gray-650 w-full" />
+</div>
+<script>
+  async function digestMessage(message) {
+    const encoder = new TextEncoder();
+    const data = encoder.encode(message);
+    const hash = await crypto.subtle.digest("SHA-256", data);
+    return hash;
+  }
+
+  // eslint-disable-next-line no-unused-vars
+  async function shaClick() {
+    const msg = document.getElementById("sha256Input").value;
+    const hashBuffer = await digestMessage(msg);
+    const hashArray = Array.from(new window.Uint8Array(hashBuffer));
+    const hashHex = hashArray
+      .map((b) => b.toString(16).padStart(2, "0"))
+      .join("");
+    document.getElementById("sha256Output").value = hashHex;
+  }
+</script>

@@ -1,0 +1,118 @@
+<nav class="bg-glassmorph z-50 border-b border-gray-600">
+  <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 top-nav-bar-height">
+    <div class="relative flex items-center justify-between h-full">
+
+      <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
+        <button type="button" onclick="clickMobileMenuToggle()"
+          class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"
+          aria-controls="mobile-menu" aria-expanded="false">
+          <span class="sr-only">Open main menu</span>
+          <svg class="block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+            stroke="currentColor" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+          <svg class="hidden h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+            stroke="currentColor" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+
+      <div class="flex-1 flex items-center justify-center sm:justify-evenly">
+        <div class="h-full">
+          <h2 class="text-xl font-bold">
+            <a href="https://boot.dev">
+              <img src="/img/300/bootdev-logo-full-small.png" height="56" class="h-14" />
+            </a>
+          </h2>
+        </div>
+        <div class="hidden sm:block sm:ml-6">
+          <div class="flex space-x-4 text-sm h-full items-center">
+            <a href="https://boot.dev/tracks/backend"
+              class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
+              <button>Courses</button>
+            </a>
+
+            <a href="https://boot.dev/pricing"
+              class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
+              <button>Pricing</button>
+            </a>
+
+            <a href="https://boot.dev/leaderboard"
+              class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
+              <button>Leaderboard</button>
+            </a>
+
+            <a href="https://boot.dev/community"
+              class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
+              <button>Community</button>
+            </a>
+
+            <a href="/about/" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
+              <button>About</button>
+            </a>
+
+            <a href="/" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
+              <button>Blog</button>
+            </a>
+
+            <a href="https://boot.dev" class="block-button-secondary">
+              <button>Sign In</button>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sm:hidden" id="mobile-menu" style="display:none">
+    <div class="px-2 pt-2 pb-3 space-y-1">
+      <a href="https://boot.dev" class="bg-gray-900 text-white block px-3 py-2 rounded-md text-base font-medium"
+        aria-current="page">
+        <button>Sign In</button>
+      </a>
+
+      <a href="https://boot.dev/tracks/backend"
+        class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
+        <button>Courses</button>
+      </a>
+
+      <a href="https://boot.dev/pricing"
+        class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
+        <button>Pricing</button>
+      </a>
+
+      <a href="https://boot.dev/leaderboard"
+        class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
+        <button>Leaderboard</button>
+      </a>
+
+      <a href="https://boot.dev/community"
+        class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
+        <button>Community</button>
+      </a>
+
+      <a href="/about/"
+        class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
+        <button>About</button>
+      </a>
+
+      <a href="/"
+        class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
+        <button>Blog</button>
+      </a>
+    </div>
+  </div>
+</nav>
+
+<script>
+  // eslint-disable-next-line no-unused-vars
+  function clickMobileMenuToggle() {
+    const mobileMenu = document.getElementById("mobile-menu");
+    if (mobileMenu.style.display === "none") {
+      mobileMenu.style.display = "block";
+    } else {
+      mobileMenu.style.display = "none";
+    }
+  }
+</script>

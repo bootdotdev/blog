@@ -1,0 +1,72 @@
+baseURL = 'https://blog.boot.dev/'
+languageCode = 'en-us'
+title = 'Boot.dev Blog'
+disqusShortname = ""
+ignoreFiles = []
+paginate = 25
+enableRobotsTXT = true
+summaryLength = 15
+pluralizelisttitles = false
+
+[Author]
+  name = "Lane Wagner"
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+
+[taxonomies]
+  category = "categories"
+
+[permalinks]
+  post = "/:section/:slug/"
+  categories = "/:slug/"
+
+[params]
+  description = "You don't need a CS degree to get hired, but you do need computer science skills. Prepare to land an entry-level role in tech by building real coding projects."
+  footer = "&copy; [Boot.dev](https://boot.dev) {Year}"
+  logo = "/favicons/favicon-32x32.png"
+  googleTagManager = "GTM-PT7FHFB"
+  dofollows = [
+    "https://boot.dev",
+    "https://blog.boot.dev",
+    "https://wagslane.dev",
+    "https://scrimba.com",
+    "https://prepcards.dev",
+    "https://www.stratascratch.com",
+    "https://www.youtube.com",
+    "https://podcasts.apple.com",
+    "https://backendbanter.fm",
+    "https://www.backendbanter.fm",
+  ]
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 2
+    ordered = true
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = false
+    style = "hugo gen chromastyles --style=dracula > assets/css/syntax.css"
+    tabWidth = 4
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[related]
+  includeNewer = false
+  threshold = 80
+  toLower = false
+[[related.indices]]
+  name = 'categories'
+  weight = 100
+[[related.indices]]
+  name = 'date'
+  weight = 10

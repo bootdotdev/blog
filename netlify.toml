@@ -1,0 +1,20 @@
+[[redirects]]
+  from = "/posts/kanban-vs-scrum"
+  to = "https://wagslane.dev/posts/kanban-vs-scrum"
+  status = 301
+
+[[redirects]]
+  from = "/posts/leave-scrum-to-rugby"
+  to = "https://wagslane.dev/posts/leave-scrum-to-rugby"
+  status = 301
+
+[[redirects]]
+  from = "/posts/continuous-deployments-arent-continuous-disruptions"
+  to = "https://wagslane.dev/posts/continuous-deployments-arent-continuous-disruptions"
+  status = 301
+
+[build]
+  functions = "./functions/"
+
+[functions]
+  node_bundler = "esbuild"

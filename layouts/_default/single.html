@@ -1,0 +1,83 @@
+{{ partial "header.html" . }}
+
+{{ $isBlog := and (.Params.categories) (not (in .Params.categories "wiki")) }}
+
+{{ if $isBlog }}
+{{ partial "sticky_cta.html" .}}
+{{ end }}
+
+<div class="flex flex-row">
+
+    {{ if $isBlog }}
+    {{ partial "laneside.html" . }}
+    {{ end }}
+
+    <div class="flex-1 h-full-minus-bar overflow-y-auto bg-glassmorph items-center w-full">
+        <div class="max-w-3xl p-4 m-auto">
+            <div class="mb-8">
+
+                {{ partial "breadcrumb" . }}
+
+                {{ if .Params.images }}
+                <div class="mb-4">
+                    <img class="rounded" width="736" height="490" {{ if .Params.imageAlts }}
+                        alt="{{ index (.Params.imageAlts) 0 }}" {{ end }} src="{{ index (.Params.images) 0 }}" />
+                </div>
+                {{ end }}
+
+                <h1 class="text-4xl text-white mb-2">{{ .Title }}</h1>
+
+                {{ $date := .Params.date.Format "Jan 2, 2006" }}
+                {{ if .Params.author }}
+                <p class="text-sm text-gray-300">
+                    By {{ .Params.author }}
+                    {{ if (gt .Params.date 0) }}
+                    on {{ $date }}
+                    {{ end }}
+                </p>
+                {{ end }}
+
+                {{ $lastmod := .Params.lastmod.Format "Jan 2, 2006" }}
+                {{ if and (ne $lastmod $date) (gt .Params.lastmod .Params.date) }}
+                <p class="text-sm text-gray-300">
+                    Last updated on {{ $lastmod }}
+                </p>
+                {{ end }}
+            </div>
+
+            <div>
+                {{ if $isBlog }}
+                {{ partial "newsletter.html" . }}
+                {{ end }}
+
+                <main>
+
+                    {{ if .Params.toc }}
+                    <h2>Table of Contents</h2>
+                    <aside>
+                        {{.TableOfContents}}
+                    </aside>
+                    {{ end }}
+
+
+                    {{ .Content }}
+
+                    <div class="py-2 flex justify-center">
+                        <div class="border-t-2 border-gray-600 w-full max-w-4xl"></div>
+                    </div>
+
+                    {{ if $isBlog }}
+                    {{ partial "signature.html" . }}
+                    {{ end }}
+                </main>
+
+                {{ if $isBlog }}
+                {{ partial "related.html" . }}
+                {{ end }}
+
+                {{ partial "footer.html" . }}
+            </div>
+        </div>
+    </div>
+    {{ if (findRE "<pre" .Content 1) }} <script>{{ partial "code-block-copy.js" . | safeJS}}</script> {{ end }}
+</div>

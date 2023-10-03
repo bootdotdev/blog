@@ -1,0 +1,11 @@
+public/
+node_modules/
+.vscode/
+.DS_Store
+bin/
+.hugo_build.lock
+docx/
+out.md
+raw/
+csv/
+prompts/

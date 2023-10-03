@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    {{if eq .Title .Site.Title }}
+    {{ if $.Paginator }}
+    {{ if gt $.Paginator.PageNumber 1 }}
+    {{ title .Title }} Pg. {{ $.Paginator.PageNumber }}
+    {{ else }}
+    {{ title .Title }}
+    {{ end }}
+    {{ else }}
+    {{ title .Title }}
+    {{ end }}
+    {{ else }}
+    {{ if $.Paginator }}
+    {{ if gt $.Paginator.PageNumber 1 }}
+    {{ title .Title }} Pg. {{ $.Paginator.PageNumber }} | Boot.dev
+    {{ else }}
+    {{ title .Title }} | Boot.dev
+    {{ end }}
+    {{ else }}
+    {{ title .Title }} | Boot.dev
+    {{ end }}
+    {{ end }}
+  </title>
+
+  {{ if and (.IsHome) ($.Paginator) }}
+  {{ if eq $.Paginator.PageNumber 1 }}
+  <link rel="canonical" href="{{ .Permalink }}" />
+  {{ else }}
+  <link rel="canonical" href="{{ .Permalink }}page/{{ $.Paginator.PageNumber }}/" />
+  {{ end }}
+  {{ else }}
+  {{ if .Params.canonical }}
+  <link rel="canonical" href="{{ .Params.canonical }}">
+  {{ else }}
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ end }}
+  {{ end }}
+
+  {{- if $.Paginator -}}
+  {{- if $.Paginator.HasPrev -}}
+  <link rel="prev" href="{{ $.Paginator.Prev.URL | absURL }}" />
+  {{- end -}}
+  {{- if $.Paginator.HasNext -}}
+  <link rel="prev" href="{{ $.Paginator.Next.URL | absURL }}" />
+  {{- end -}}
+  {{- end }}
+
+  {{ if .Description }}
+  <meta name="description" content="{{ .Description }}" />
+  {{ else if .Summary }}
+  <meta name="description" content="{{ .Summary }}" />
+  {{ else }}
+  <meta name="description" content="{{ .Site.Params.Description }}" />
+  {{ end }}
+
+  {{ $tailcss := resources.Get "css/tail-out.css" | minify }}
+  <link href="{{ $tailcss.RelPermalink }}" rel="stylesheet">
+
+  {{ $stylescss := resources.Get "css/styles.css" | minify }}
+  <link href="{{ $stylescss.RelPermalink }}" rel="stylesheet">
+
+  {{ $syntaxcss := resources.Get "css/syntax.css" | minify }}
+  <link href="{{ $syntaxcss.RelPermalink }}" rel="stylesheet">
+
+
+  <!-- fonts -->
+  <link rel="preconnect" href="https://use.typekit.net">
+  <link rel="stylesheet" href="https://use.typekit.net/cmx5dxo.css">
+  <!-- end fonts -->
+
+  <!-- Rewardful -->
+  <script>(function (w, r) { w._rwq = r; w[r] = w[r] || function () { (w[r].q = w[r].q || []).push(arguments) } })(window, 'rewardful');</script>
+  <script async src='https://r.wdfl.co/rw.js' data-rewardful='44a8ec'></script>
+  <!-- End Rewardful -->
+
+  {{ partial "favicons.html" . }}
+  {{ partial "gtm.html" . }}
+  {{ partial "jsonld.html" . }}
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
+  {{ template "_internal/schema.html" . }}
+</head>
+
+<body class="bg-glassmorph text-gray-250 m-0">
+
+  {{ partial "top_nav.html" . }}

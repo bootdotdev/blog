@@ -1,0 +1,32 @@
+<footer class="mb-4">
+  {{ with .Site.Params.footer }}
+  <div class="py-4 flex justify-center">
+    <div class="border-t-2 border-gray-600 w-full max-w-3xl"></div>
+  </div>
+
+  <main class="mb-4 flex justify-center flex-wrap">
+    <span>{{ replace . "{Year}" now.Year | markdownify}}</span>
+    <span class="mx-2">|</span>
+    <a href="/categories/"><span>Categories</span></a>
+    <span class="mx-2">|</span>
+    <a href="/contact/"><span>Contact</span></a>
+    <span class="mx-2">|</span>
+    <a href="https://boot.dev/playground/go"><span>Playground</span></a>
+  </main>
+
+  <main class="mb-4 flex justify-center flex-wrap">
+    <a href="/sitemap.xml"><span>Sitemap</span></a>
+    <span class="mx-2">|</span>
+    <a href="/index.xml"><span>RSS</span></a>
+    <span class="mx-2">|</span>
+    <a href="/faq/"><span>FAQ</span></a>
+    <span class="mx-2">|</span>
+    <a href="/terms/"><span>TOS</span></a>
+    <span class="mx-2">|</span>
+    <a href="/privacy/"><span>Privacy</span></a>
+  </main>
+  {{ end }}
+</footer>
+</body>
+
+</html>

@@ -1,0 +1,44 @@
+{{ partial "header.html" . }}
+
+<div class="max-w-xl m-auto p-4 sm:p-8">
+  <main class="mb-8 flex flex-row justify-center">
+    <h1 class="text-4xl text-white mb-2">
+      {{ title .Title }}
+    </h1>
+  </main>
+
+  <ul>
+    {{ range .Data.Terms }}
+    <li>
+      <a href="{{ .Page.RelPermalink }}"
+        class="cursor-pointer flex flex-col sm:flex-row p-4 my-4 hover:bg-gray-700 rounded-xl">
+
+        <div class="flex-1">
+          <div class="flex flex-row justify-between">
+            <h2 class="text-lg text-white inline">
+              {{ .Page.Title }}
+            </h2>
+
+            <span class="leading-6 flex text-blue-400 items-center">
+              Read more
+              <svg class="relative mt-px overflow-visible ml-2.5 text-sky-300 dark:text-sky-700" width="3" height="6"
+                viewBox="0 0 3 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round">
+                <path d="M0 0L3 3L0 6"></path>
+              </svg>
+            </span>
+          </div>
+
+          <h3 class="text-sm text-gray-400 mb-2">
+            {{ .Count }} articles
+          </h3>
+
+          <p class="hidden sm:block">{{ .Page.Description }}</p>
+        </div>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+
+{{ partial "footer.html" . }}

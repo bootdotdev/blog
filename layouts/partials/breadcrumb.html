@@ -1,0 +1,21 @@
+<div class="mb-2 text-gray-300">
+  {{ template "breadcrumbnav" (dict "p1" . "p2" . "op" .) }}
+</div>
+
+{{ define "breadcrumbnav" }}
+{{ if .p1.Parent }}
+{{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 "op" . )}}
+{{ else if not .p1.IsHome }}
+{{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 "op" . )}}
+{{ end }}
+
+<span>
+  {{ if eq .p1.RelPermalink .op.RelPermalink }}
+  » {{ title .p1.Title }}
+  {{ else if .p1.Parent }}
+  » <a class="text-blue-400 hover:text-blue-300 underline" href="{{ .p1.RelPermalink }}">{{ title .p1.Title }}</a>
+  {{ else }}
+  <a class="text-blue-400 hover:text-blue-300 underline" href="{{ .p1.RelPermalink }}">{{ title .p1.Title }}</a>
+  {{ end }}
+</span>
+{{ end }}
