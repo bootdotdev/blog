@@ -9,8 +9,6 @@ images:
   - /img/800/cangoimage.png.webp
 ---
 
-# **Can Go Be Used in Web Development?**
-
 Recently I saw an interesting post on Reddit: “I would like to be more full-stack,” user [<u>Fenugurod</u>](https://www.reddit.com/r/golang/comments/ksdofe/what_do_you_guys_think_about_web_development_with/) said. “I was studying Tailwindcsss and I'm pretty sure I can create really nice UIs with it. But what do you guys think about web development with Go? Most of my friends simply say to embrace the JS ecosystem with Nuxt or Next and use Go simply as an API.”
 
 Here at Boot.dev, I’m biased. I love Go for nearly anything. It has so many great points – its concurrency, the goroutines, the compilation speed. But I also believe in using the right tool for the right job. The web development Go combo may be *workable*, but is it *ideal*?

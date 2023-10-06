@@ -51,19 +51,19 @@ A PaaS offers you more flexibility – you have complete control over the route,
 
 There are a lot of reasons why it makes sense to use a BaaS. First, it's fast. Second, it's good for prototyping. Third, it's good for those without much backend experience. Let's break those down.
 
-### Using a BaaS to save time
+## Using a BaaS to save time
 
 If you're under a big time crunch, contracting a BaaS can help get you set up quickly with reliable, secure services. Using a BaaS generally saves a lot of time, and it also makes it easy to get a functioning backend connected to your custom frontend in a few hours, even if you've never used a BaaS before.
 
-### Using a BaaS to build a prototype
+## Using a BaaS to build a prototype
 
 When you're making a prototype of something, a BaaS is also super helpful since you can build something viable without spending too much time or developer resources on a prototype. Most prototypes don't need much custom functionality, and a lot of the BaaS providers have free tiers that tend to be enough to have your prototype running for some test users or a demo.
 
-### Using a BaaS when you're not an expert
+## Using a BaaS when you're not an expert
 
 Finally, another motivating factor in using a BaaS is a lack of expertise. If you have no experience as a back-end developer, and maybe have no interest in gaining those skills, then a BaaS is a great option for your own projects. There are a lot of complex and risky functionalities like database migrations and secure connections that a BaaS can accomplish for you with very little effort on your part. Since a BaaS is sophisticated, it can help ensure your application can smoothly scale to handle spikes or sustained increases in load.
 
-### Using a BaaS when you're not concerned with the cost
+## Using a BaaS when you're not concerned with the cost
 
 Using another company's products is never free. At a small scale, it's almost always cheaper to buy than build, but at a certain level of scale, control of your own code helps save on costs. [Paying software engineers 6+ figures](/jobs/how-much-do-software-engineers-make/) to build simple apps may not be economical, but Netflix will gladly pay high engineering salaries because small tweaks to their codebase can save millions of dollars in computing costs.
 
