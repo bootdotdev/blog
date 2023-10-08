@@ -147,18 +147,18 @@ The tools a developer uses will vary quite wildly depending on where they work. 
 ### Project Planning
 
 * Jira
-* Github Projects
+* GitHub Projects
 * Trello
 
 ### Source control
 
-* Github
+* GitHub
 * Gitlab
 * Bitbucket
 
 ### Continuous Integration / Continuous Deployment
 
-* Github actions
+* GitHub actions
 * Gitlab runners
 * Circle CI
 * Travis CI

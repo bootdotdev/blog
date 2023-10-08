@@ -25,7 +25,7 @@ In other words, normally only JavaScript can run in a browser, but if you can co
 
 > Pyodide brings the Python 3.8 runtime to the browser via WebAssembly, along with the Python scientific stack including NumPy, Pandas, Matplotlib, parts of SciPy, and NetworkX. The `packages` directory lists over 35 packages which are currently available.
 > 
-> [Github Project](https://github.com/iodide-project/pyodide)
+> [GitHub Project](https://github.com/iodide-project/pyodide)
 
 ## How did I do it?
 

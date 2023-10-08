@@ -75,15 +75,15 @@ func getNumberFromStdIn() (int, error) {
 	reader := bufio.NewReader(os.Stdin)
 	text, _, err := reader.ReadLine()
 	if err != nil {
-		return 0, fmt.Errorf("reader.ReadLine: %w", fName, err)
+		return 0, fmt.Errorf("reader.ReadLine: %w", err)
 	}
 	i, err := strconv.Atoi(string(text))
 	if err != nil {
-		return 0, fmt.Errorf("strconv.Atoi: %w", fName, err)
+		return 0, fmt.Errorf("strconv.Atoi: %w", err)
 	}
 	err = isInRange(i)
 	if err != nil {
-		return 0, fmt.Errorf("isInRange: %w", fName, err)
+		return 0, fmt.Errorf("isInRange: %w", err)
 	}
 	return i, nil
 }
@@ -91,7 +91,7 @@ func getNumberFromStdIn() (int, error) {
 func runMainThread() error {
 	i, err := getNumberFromStdIn()
 	if err != nil{
-		return fmt.Errorf("getNumberFromStdIn: %w")
+		return fmt.Errorf("getNumberFromStdIn: %w", err)
 	}
 }
 ```

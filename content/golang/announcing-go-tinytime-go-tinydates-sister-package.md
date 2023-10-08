@@ -13,7 +13,7 @@ images:
 
 [Go-TinyDate](https://github.com/wagslane/go-tinydate) is its sister package that allows for a much larger date range but doesn't get more than **day** precision. Between **time.Time**, **go-tinydate**, and **go-tinytime** all of our time problems can be solved using the same API.
 
-Don't forget to ⭐ the [Github](https://github.com/wagslane/go-tinytime)
+Don't forget to ⭐ the [GitHub](https://github.com/wagslane/go-tinytime)
 
 ## How Does It Work?
 

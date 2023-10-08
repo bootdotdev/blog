@@ -26,7 +26,7 @@ JavaScript versus Node.js boils down to the matter of a flexible and simple fron
 
 ### JavaScript
 
-JavaScript is omnipresent on today's internet: [95%](https://generalassemb.ly/blog/what-makes-javascript-so-popular/#:~:text=There%20are%20over%201.8%20Billion,to%20Github's%202020%20Octoverse%20Report.) of the Internet's websites use it. There likely isn't a professional website that doesn't use JavaScript. It's essential for an elevated user experience when it comes to speed, reliability, and aesthetics of a website. 
+JavaScript is omnipresent on today's internet: [95%](https://generalassemb.ly/blog/what-makes-javascript-so-popular/#:~:text=There%20are%20over%201.8%20Billion,to%20GitHub's%202020%20Octoverse%20Report.) of the Internet's websites use it. There likely isn't a professional website that doesn't use JavaScript. It's essential for an elevated user experience when it comes to speed, reliability, and aesthetics of a website. 
 
 JavaScript is a scripting language upon which most websites are based. It is often used [in combination with HTML and CSS](/javascript/html-css-javascript/) to render web pages, as JavaScript can be used to dynamically update HTML elements. It allows you to automatically refresh the page to update data, display information using cool visuals, and create interactive elements.
 

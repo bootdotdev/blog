@@ -34,7 +34,7 @@ I interviewed for all sorts of nonsense, from embedded systems to frontend devel
 
 ![it's a declarative system](/img/800/its-declarative.png.webp)
 
-If you knew *exactly* which concepts you'd need to master to pass your first interview, then you could might be able to find an effective shortcut. The trouble is, there is no *precise* subset of knowledge that will always be enough to pass every possible first interview.
+If you knew *exactly* which concepts you'd need to master to pass your first interview, then you might be able to find an effective shortcut. The trouble is, there is no *precise* subset of knowledge that will always be enough to pass every possible first interview.
 
 * Every company has its own janky tech stack
 * Every PM has their own version of "agile"

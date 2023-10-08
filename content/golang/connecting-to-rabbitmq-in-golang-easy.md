@@ -150,7 +150,7 @@ err = publisher.Publish(
 )
 ```
 
-If you have any questions about the library or suggestions for improvement please open an issue on the Github project and let's talk about it!
+If you have any questions about the library or suggestions for improvement please open an issue on the GitHub project and let's talk about it!
 
 ## A note on stability
 

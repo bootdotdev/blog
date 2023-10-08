@@ -21,7 +21,7 @@ I use a custom deployment of [WordPress](https://wordpress.org/download/) hosted
 
 ## The app's front-end - Vue.js SPA on Netlify
 
-All the coding courses and projects on boot.dev exist within a Vue.js web app. I'm currently running the front-end as a [single page app](https://en.wikipedia.org/wiki/Single-page_application) hosted on Netlify. I ended up choosing Netlify over Github Pages because Netlify has some server-side-rendering built-in that gives me an SEO boost.
+All the coding courses and projects on boot.dev exist within a Vue.js web app. I'm currently running the front-end as a [single page app](https://en.wikipedia.org/wiki/Single-page_application) hosted on Netlify. I ended up choosing Netlify over GitHub Pages because Netlify has some server-side-rendering built-in that gives me an SEO boost.
 
 One thing that you might be wondering is how does the code you write within a boot.dev course get executed? Well, I actually think I'm the only educational site taking this unique approach, but it actually runs in your own browser. I spin up a [web worker](/golang/running-go-in-the-browser-wasm-web-workers/) that executes your JavaScript code, or if it's a different language, it [compiles to Web Assembly](/golang/running-go-in-the-browser-with-web-assembly-wasm/) first.
 
@@ -59,6 +59,6 @@ I really like [PostgresQL](https://www.postgresql.org/). I'm of the opinion that
 
 Not too much to say about Stripe, other than it makes payments pretty seamless for our [pro accounts](https://boot.dev/pricing). My biggest complaint about Stripe is that I had to write an annoying about of code for the "lifetime subscription" option because Stripe doesn't have that built-in.
 
-## Deployments and source control - Github/Github Actions
+## Deployments and source control - GitHub/GitHub Actions
 
-I really don't like doing monotonous tasks if I can avoid it. Running tests and deploying applications can be painfully time consuming, so I've automated all of that with Github actions. Each time code is updated in Git, a new deploy is automatically triggered, and I've set this up both for the Vue.js frontend and the Golang backend.
+I really don't like doing monotonous tasks if I can avoid it. Running tests and deploying applications can be painfully time consuming, so I've automated all of that with GitHub actions. Each time code is updated in Git, a new deploy is automatically triggered, and I've set this up both for the Vue.js frontend and the Golang backend.

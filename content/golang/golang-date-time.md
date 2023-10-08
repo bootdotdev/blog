@@ -224,5 +224,5 @@ The first tick to come through the ticker channel is after the first duration. I
 
 A typical time.Time value takes ~24 bytes in memory. Sometimes, you can't afford to use that much. If you're in that situation then check out my TinyTime and TinyDate libraries on GitHub. They only use 4 bytes each!
 
-- [TinyDate Github](https://github.com/wagslane/go-tinydate)
-- [TinyTime Github](https://github.com/wagslane/go-tinytime)
+- [TinyDate GitHub](https://github.com/wagslane/go-tinydate)
+- [TinyTime GitHub](https://github.com/wagslane/go-tinytime)

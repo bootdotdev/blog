@@ -88,6 +88,6 @@ My favorite is VS Code because I use it for everything. That said, here is my fu
 
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Golang.org FAQ](https://golang.org/doc/faq)
-- [Go Github - Common Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+- [Go GitHub - Common Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Godoc](https://godoc.org/)
 - [How to Write Go Code - Setup and Installation](https://golang.org/doc/code.html)

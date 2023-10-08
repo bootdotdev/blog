@@ -11,7 +11,7 @@ images:
 
 [time.Time](https://golang.org/pkg/time/#Time) makes dealing with dates and times in Go a breeze, and it even comes bundled in the standard library! However, a time.Time{} struct uses more than **24 bytes** of memory under most conditions, and I've run into situations where I need to store millions of them in memory, but all I really needed was a UTC date! [Go-TinyDate](https://github.com/wagslane/go-tinydate) solves this with just **4 bytes** of memory.
 
-Star the [Github!](https://github.com/wagslane/go-tinydate)
+Star the [GitHub!](https://github.com/wagslane/go-tinydate)
 
 ## How?
 
@@ -111,4 +111,4 @@ The main reason? Timezones are the most memory heavy part of a time.Time struct,
 
 The tinydate.Tinydate API largely mirrors that of time.Time. The only methods missing are the ones that make no sense without timezone or intra-day support. Check out the godoc for reference: [https://godoc.org/github.com/wagslane/go-tinydate](https://godoc.org/github.com/wagslane/go-tinydate)
 
-If you like the package, give it a Star on [Github](https://github.com/wagslane/go-tinydate)
+If you like the package, give it a Star on [GitHub](https://github.com/wagslane/go-tinydate)

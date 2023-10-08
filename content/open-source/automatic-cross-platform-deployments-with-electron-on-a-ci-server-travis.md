@@ -8,15 +8,15 @@ images:
   - /img/800/electron2.webp
 ---
 
-This is a tutorial on how to set up an Electron app on [Travis CI](https://travis-ci.org/), so that new versions are deployed to [Github Releases](https://help.github.com/en/articles/creating-releases) with a simple pull request.
+This is a tutorial on how to set up an Electron app on [Travis CI](https://travis-ci.org/), so that new versions are deployed to [GitHub Releases](https://help.github.com/en/articles/creating-releases) with a simple pull request.
 
 ## Boilerplate
 
-I created a [boilerplate repo](https://github.com/lane-c-wagner/electron-ci-boilerplate) that has all the necessary configuration to deploy a minimalistic app to Github releases. If you get lost during the tutorial you can look to that as an example. Also, if you don't have an electron app yet and just want to start with it as an example feel free.
+I created a [boilerplate repo](https://github.com/lane-c-wagner/electron-ci-boilerplate) that has all the necessary configuration to deploy a minimalistic app to GitHub releases. If you get lost during the tutorial you can look to that as an example. Also, if you don't have an electron app yet and just want to start with it as an example feel free.
 
 ## Electron Builder
 
-We need a package that will handle packing the app into an executable and deploying to Github releases. [Electron Builder](https://github.com/electron-userland/electron-builder) is a fantastic npm package that handles building, signing, notarizing, and deploying an electron app on all three operating systems. Add it using yarn ([recommended by Electron Builder](https://www.npmjs.com/package/electron-builder#installation)):
+We need a package that will handle packing the app into an executable and deploying to GitHub releases. [Electron Builder](https://github.com/electron-userland/electron-builder) is a fantastic npm package that handles building, signing, notarizing, and deploying an electron app on all three operating systems. Add it using yarn ([recommended by Electron Builder](https://www.npmjs.com/package/electron-builder#installation)):
 
 ```bash
 yarn add electron-builder --dev
@@ -96,7 +96,7 @@ which will build and package your app locally into the _dist_ directory. However
 
 ![travis ci](/img/800/TravisCI-Full-Color.png)
 
-Navigate to [https://travis-ci.org/](https://travis-ci.org/) and sign up using your Github account. Once signed in you should be able to select which repository you want to connect to Travis.
+Navigate to [https://travis-ci.org/](https://travis-ci.org/) and sign up using your GitHub account. Once signed in you should be able to select which repository you want to connect to Travis.
 
 Copy this code into _.travis.yml_ at the root of your repository:
 
@@ -178,7 +178,7 @@ branches:
   - prod
 ```
 
-The comments in the above file should explain what each step does, but the basic idea is to _yarn test_ on each pull request to verify that a pull request doesn't break the app. Then, once code is merged into the prod branch, we trigger the following deploy script to build and push our code to Github Releases:
+The comments in the above file should explain what each step does, but the basic idea is to _yarn test_ on each pull request to verify that a pull request doesn't break the app. Then, once code is merged into the prod branch, we trigger the following deploy script to build and push our code to GitHub Releases:
 
 Copy this file to _deploy.travis.sh_
 
@@ -193,13 +193,13 @@ else
 fi
 ```
 
-In order for your _.travis.yml_ script to have permission to upload code to Github Releases, then you will need to set an environment variable that contains an API token.
+In order for your _.travis.yml_ script to have permission to upload code to GitHub Releases, then you will need to set an environment variable that contains an API token.
 
-In Github Navigate to your personal settings / Developer Settings / Generate New Token. Then go to your repository settings in Travis and you can add an environment variable. The variable name is GH\_TOKEN and the token is the one you created on Github. Make sure to keep the variable private (the default) on Travis so that it won't print the token in the logs.
+In GitHub Navigate to your personal settings / Developer Settings / Generate New Token. Then go to your repository settings in Travis and you can add an environment variable. The variable name is GH\_TOKEN and the token is the one you created on GitHub. Make sure to keep the variable private (the default) on Travis so that it won't print the token in the logs.
 
 ## Done!
 
-Now all pull requests to master and prod should run tests, and all code merged into the prod branch should trigger a new release. The released assets and downloadable installers will be published to your Github repository under the [releases tab](https://github.com/lane-c-wagner/electron-ci-boilerplate/releases).
+Now all pull requests to master and prod should run tests, and all code merged into the prod branch should trigger a new release. The released assets and downloadable installers will be published to your GitHub repository under the [releases tab](https://github.com/lane-c-wagner/electron-ci-boilerplate/releases).
 
 The release will be a draft so after each deployment you need to go in manually and convert from a draft to a published release, which is just the click of a button.
 

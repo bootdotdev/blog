@@ -12,7 +12,7 @@ We released our [Python Track](https://boot.dev/learn/learn-python) and [Data St
 
 But after hearing some feedback from Reddit, Discord (join ours [here](https://discord.com/invite/EEkFwbv)), and a couple of other places, we felt we could further improve your CS learning experience by developing projects that you can create in VS Code or any other preferred code editor off-site, and display in your portfolio to land a Go programming job.
 
-**Our first Go project** has you create a social media backend server, as you work on your local machine and create a working codebase you can show off on your Github profile or resume.
+**Our first Go project** has you create a social media backend server, as you work on your local machine and create a working codebase you can show off on your GitHub profile or resume.
 
 You'll build a RESTful social media API in Golang, giving you exactly the practical skills you need to write Go services in the cloud, the holistic approach other courses don't offer
 

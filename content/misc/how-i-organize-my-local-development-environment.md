@@ -20,7 +20,7 @@ For example, my open-source package [go-password-validator](https://github.com/w
 
 I like this setup for several reasons.
 
-1. By including `remote` in the path, I'm reminded to always user version control. In fact, any new project gets created on the remote server (usually Github) first, then cloned down to it's proper location.
+1. By including `remote` in the path, I'm reminded to always user version control. In fact, any new project gets created on the remote server (usually GitHub) first, then cloned down to it's proper location.
 2. By namespacing this way, it's impossible for me to have collisions with various projects I work on. For example, say I have a personal "image-cacher", but my work also has an "image-cacher" project. If they weren't in different directories I'd have to do something silly.
 3. I always know exactly where everything is. Back when I was a student, I would forget where I put different projects or snippets, and that hasn't been a problem for me in a long time.
 4. When I'm at work, sometimes I need to work in a few different repositories at the same time. It's really nice to open VS Code at the `namespace` level and see all the projects for the organization.
@@ -29,7 +29,7 @@ I like this setup for several reasons.
 
 For any new project, the setup process looks something like this.
 
-1. Create a new repository on Github
+1. Create a new repository on GitHub
 2. Initialize it with a README.md, and if it's open-source, a license
 3. Clone the repo down to my local workspace as described above
 4. Change the repo settings to auto-delete head branches (I hate branch-creep)

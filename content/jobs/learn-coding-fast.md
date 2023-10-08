@@ -44,7 +44,7 @@ Don't pay for courses that don't give you hands-on experience. You're better off
 
 Courses that do allow you to write and submit code for feedback are probably the right ones to be taking. In addition to programming courses, do some google searches for small projects that you can do on the side, particularly projects related to the courses you just completed.
 
-_Tip: Build a project as you make your way through any learning material. A personal project you can publish to Github is a great way to get started._
+_Tip: Build a project as you make your way through any learning material. A personal project you can publish to GitHub is a great way to get started._
 
 ## 4. Googling is a skill. Learn to Google better
 
@@ -82,9 +82,9 @@ _Tip: You'll learn things from personal conversations that you could never pick 
 
 If you don't yet have a coding job, it can be hard to learn collaboration skills that you will need out in the real world. 99% of the time, coding isn't a thing you do alone, you have to learn to work with others on a team project.
 
-The best way I've found to get this experience when you're out on your own is to look for [open-source projects on Github](/open-source/contributing-to-open-source/) and Gitlab that interest you. You can get to know the maintainers, fix open bug issues, and propose and work on new features. If you aren't working on open-source, you'll be at a huge disadvantage when it comes time to [compete for your first job](/jobs/getting-a-job-after-coding-bootcamp-is-hard/).
+The best way I've found to get this experience when you're out on your own is to look for [open-source projects on GitHub](/open-source/contributing-to-open-source/) and Gitlab that interest you. You can get to know the maintainers, fix open bug issues, and propose and work on new features. If you aren't working on open-source, you'll be at a huge disadvantage when it comes time to [compete for your first job](/jobs/getting-a-job-after-coding-bootcamp-is-hard/).
 
-_Tip: Employers will want to see your Github profile, make it impressive!_
+_Tip: Employers will want to see your GitHub profile, make it impressive!_
 
 ## 8. When you get stuck, sleep on it
 

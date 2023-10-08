@@ -327,7 +327,7 @@ Aside from these languages and databases, I'd recommend looking into a few other
 
 * Docker: Containerization
 * Kubernetes & Helm: Container management
-* Github actions: CI/CD
+* GitHub actions: CI/CD
 * Bash: Shell scripting
 * AWS/GCP: Cloud environments
 

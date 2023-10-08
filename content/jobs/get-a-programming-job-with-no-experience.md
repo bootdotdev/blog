@@ -36,9 +36,9 @@ This is going to sound radical, but you're going to have to code, and code in pu
 
 What is it you're coding? Anything. Everything. Any little project that benefits you, or maybe is just for fun. You want to be able to display not only that you can write code, but that you can write code with purpose, and code that works well to boot. If employers can see that your stuff works, its going to help alleviate the risk inherent in hiring programmers.
 
-Then, when you have it, make a portfolio. Use something like [Github](https://github.com/) to store, document, and display your programs. In fact, Github is perfect for this sort of endeavor, as it is both widely used and easily accessible. Your Github profile itself acts as an online portfolio of your work, and any savvy employers are going to know to check out the profiles of any potential employees before hiring them.
+Then, when you have it, make a portfolio. Use something like [GitHub](https://github.com/) to store, document, and display your programs. In fact, GitHub is perfect for this sort of endeavor, as it is both widely used and easily accessible. Your GitHub profile itself acts as an online portfolio of your work, and any savvy employers are going to know to check out the profiles of any potential employees before hiring them.
 
-As such, you should make your Github/Gitlab profile - or whatever portfolio you make - as impressive as possible. After all, it's documented proof that you know what you're doing.
+As such, you should make your GitHub/Gitlab profile - or whatever portfolio you make - as impressive as possible. After all, it's documented proof that you know what you're doing.
 
 ## Nail the Resume
 

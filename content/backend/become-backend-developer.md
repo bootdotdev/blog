@@ -125,7 +125,7 @@ I would recommend becoming familiar with a SQL database first, probably PostgreS
 
 * [StrataScratch DB practice](https://www.stratascratch.com/)
 * [Codecademy](https://www.codecademy.com/learn/learn-sql)
-* [Collection of resources on Momer's Github](https://gist.github.com/momer/19a159ffc336a047b2fa)
+* [Collection of resources on Momer's GitHub](https://gist.github.com/momer/19a159ffc336a047b2fa)
 
 Technologies to read up on:
 
@@ -143,7 +143,7 @@ Upgrade one of the projects you built before to use a database!
 
 Finally, you're going to want to actually deploy some projects! This is how you show employers as a self-taught dev that you know what you're doing. Unlike a front-end developer, as a back-end developer, it's less about a beautiful personal website, and more about the code itself. In order of importance you should work on the following things:
 
-* A Beautiful [Github Profile](/jobs/build-github-profile/)
+* A Beautiful [GitHub Profile](/jobs/build-github-profile/)
 * Great `README.md` files on your top 3 public repos
 * At least one project that's deployed to the internet. This should either have a front-end that contacts it, or documentation that can get users using it with a Postman client, cURL, etc.
 * List the projects on your [resume](/computer-science/computer-science-resumes/)
@@ -154,7 +154,7 @@ Not only will deploying your projects make your online presence appear more attr
 
 The big secret to landing a backend job as a self-taught developer is to build an amazing online presence that flaunts your work. As we mentioned above:
 
-* Put some work into your public Github profile
+* Put some work into your public GitHub profile
 * Build some open-source projects
 * Contribute to existing open-source projects
 * Build a great LinkedIn landing page and do some networking
@@ -190,7 +190,7 @@ Most importantly, *do not stop learning and building*!!! I've seen so many devel
 * How the operating system interacts with your application code
 * Threads and concurrency - You'll be working on systems that need to run fast without bottlenecks
 * DNS and networking
-* Version control with Git/Github
+* Version control with Git/GitHub
 * Authentication/Authorization
 * Caching
 * Clean code principles
