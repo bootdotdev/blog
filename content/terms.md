@@ -2,9 +2,8 @@
 title: "Terms of Service"
 author: Lane Wagner
 date: "2020-02-06"
+lastmod: "2021-05-21"
 ---
-
-Last updated: May 21, 2021
 
 Please read these terms and conditions carefully before using Our Service.
 
