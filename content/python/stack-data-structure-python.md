@@ -1,5 +1,5 @@
 ---
-title: "Understanding Stacks: From Concept to Python Implementation"
+title: "Understanding Stacks: Python Implementation of a Core Data Structure"
 author: Lane Wagner
 date: "2023-10-06"
 categories: 
@@ -13,7 +13,7 @@ A **stack** is an abstract data type that serves as a collection of elements. Th
 
 ![Stack Image](/img/800/stackclass.png.webp)
 
-A stack operates on a `LIFO` (last in, first out) principle. This means that the most recently added item will be the first to be removed.
+A stack operates on a `LIFO` (last in, first out) principle. This means that the most recently added item will be the first to be removed (as opposed to a [queue](/python/queue-data-structure-python/), which is `FIFO`).
 
 {{< bdyoutube SD45xbKReT4 >}}
 
