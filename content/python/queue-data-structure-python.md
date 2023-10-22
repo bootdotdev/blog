@@ -11,7 +11,7 @@ images:
 
 A **queue** is an efficient collection of ordered items. New items can be added to one side, and removed from the other side.
 
-![Queue Image](/img/800/queueclass.png.webp)
+![Queue Image](https://i.imgur.com/axhYf8C.png)
 
 A queue is like a line at the grocery store; the first person to get in line will be the first to be checked out. The fundamental principle behind a queue is `FIFO` (first in, first out), meaning the first element added to the queue will be the first one to get removed (as opposed to a [stack](/python/stack-data-structure-python/), which is `LIFO`).
 
