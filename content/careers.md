@@ -22,6 +22,7 @@ Junior? Senior? Whatever. We just want someone that can do a great job helping n
 * **Writing & Copywriting**: Can you tell a good story? Can you grab someone's attention and keep it? Can you write in a way that's easy to understand?
 * **Creative**: Can you make things look good? Can you script an engaging YouTube video? Can you point out what's wrong with a TikTok video?
 * **Code & tech**: Can you write a simple script in Python? Do you know how to use Git?
+* **Sponsorships & Partnerships**: Do you know how to find and run successful sponsorships and partnerships with creators and companies?
 * **SEO**: Do you know how to audit a website for SEO issues? Do you know how to optimize the content to rank? Do you know how to build backlinks?
 * **Analytics**: Do you know how to setup and manage Google Analytics, MixPanel, Posthog, etc? Do you know which metrics are important?
 * **Paid campaigns**: Do you know how to setup and manage Google Ads, Facebook Ads, etc? Do you know how to get creative in order to find a positive ROAS?
