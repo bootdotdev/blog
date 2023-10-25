@@ -30,7 +30,7 @@ Junior? Senior? Whatever. We just want someone that can do a great job helping n
 
 You'll be the first full-time marketing hire, so you'll have a lot of freedom to experiment and try new things. We have budget to try new things, but we need someone that can be responsible with the money and find profitable channels quickly. We plan to stay profitable.
 
-One of the critical things we're looking for is that understands our core audience. We're not looking for someone that can market a weight loss product on Facebook. We're looking for someone who deeply understands the pain points of aspiring developers and can help them find Boot.dev in places they already hang out.
+We need someone who understands our core audience. We're not looking for someone that can market a weight loss product on Facebook. We're looking for someone who deeply understands the pain points of aspiring developers and can help them find Boot.dev in places they already hang out.
 
 **How to apply:**
 
