@@ -151,7 +151,7 @@ SQL isn't a backend "programming" language in the typical sense of the word. It'
 
 > Yes, SQL is a programming language. No, you should not apply for a job as a "programmer" if you only know SQL.
 
-It's used by nearly *half* backend developers, so it merits inclusion on this list of programming languages for 2024. Almost half of StackOverflow's respondents use SQL, and 2/3s of people who use it love it. Plus, MySQL, PostgreSQL, and SQLite are the most popular databases, all of which rely on SQL to be queried. SQL is typically used alongside a general-purpose programming language like Go, Python or JavaScript.
+It's used by nearly *half* of backend developers, so it merits inclusion on this list of programming languages for 2024. Almost half of StackOverflow's respondents use SQL, and 2/3s of people who use it love it. Plus, MySQL, PostgreSQL, and SQLite are the most popular databases, all of which rely on SQL to be queried. SQL is typically used alongside a general-purpose programming language like Go, Python or JavaScript.
 
 [Do backend developers need to learn SQL](https://blog.boot.dev/backend/do-backend-devs-need-sql/)? Yes, 100%. If you want to [learn SQL](https://boot.dev/learn/learn-sql) (and I recommend you do if you want to get into backend development) [Boot.dev](https://boot.dev) has a great course running through the fundamentals.
 
@@ -162,6 +162,7 @@ It is such a workhorse of a backend query language that you'd be hard-pressed to
 ## What is the best programming language for backend developers to learn 2024?
 
 In short? It comes down to a mix of:
+
 * What language you already know
 * Where you want to work
 * Whether you value new, up-and-coming languages or whether you want something with legacy
