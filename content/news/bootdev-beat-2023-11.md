@@ -1,7 +1,7 @@
 ---
 title: "The Boot.dev Beat. November 2023"
 author: Lane Wagner
-date: "2023-11-01"
+date: "2023-10-30"
 categories:
   - "news"
 images:
@@ -12,7 +12,6 @@ dofollows:
   - "https://salt.security"
   - "https://www.se-radio.net"
   - "https://realpython.com"
-draft: true
 ---
 
 Hope you had a fantastic Halloween. I spent last weekend in Seattle with Allan and Hunter (the other two full-timers here at Boot.dev) at the DotA 2 International. Absolute blast. I've never been to such an enormous gaming event in person. Ah, well, back to coding.
