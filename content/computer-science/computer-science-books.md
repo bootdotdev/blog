@@ -9,7 +9,7 @@ images:
 lastmod: "2023-01-24"
 ---
 
-Computer science books are a bit passe now, aren't they? Would-be backend developers look to StackOverflow, Reddit, and [hands-on courses](https://boot.dev) to learn about computer science and software engineering. But there are some real benefits to using books as an additional resource.
+In today's modern, fast-paced world, we look to StackOverflow, Reddit, and [hands-on courses](https://boot.dev) to learn about computer science and software engineering. But there are some real benefits to using books as an additional resource.
 
 When studying computer science, books are:
 
