@@ -43,7 +43,7 @@ Here's how you start:
 4. Identify one of the skills they talk about. 
 5. Complete a project that demonstrates that skill.
 
-For example: say you're a Pythonista. You find this backend engineer job working at Memfault. Their job app requests, "Proven experience in building scalable backends in Python (Django, Flask, SQLAlchemy, Celery, PostgreSQL, Clickhouse, TimescaleDB, Redis, AWS, Docker a plus)." So you look for a project where you can build a demo backend using Django, Redis, and Docker. With a simple search, I was able to find this [project tutorial](https://medium.com/@sheehabpranto/setting-up-django-project-with-docker-redis-celery-and-setup-pycharm-professional-ide-39ecd78fd6ba) that covers some of those skills.
+For example: say you're a Pythonista. You find [this backend engineer](https://g.co/kgs/FDXSpf) job working at Memfault. Their job app requests, "Proven experience in building scalable backends in Python (Django, Flask, SQLAlchemy, Celery, PostgreSQL, Clickhouse, TimescaleDB, Redis, AWS, Docker a plus)." So you look for a project where you can build a demo backend using Django, Redis, and Docker. With a simple search, I was able to find this [project tutorial](https://medium.com/@sheehabpranto/setting-up-django-project-with-docker-redis-celery-and-setup-pycharm-professional-ide-39ecd78fd6ba) that covers some of those skills.
 
 Stick it on your portfolio and you're done.
 
