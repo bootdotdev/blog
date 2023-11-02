@@ -9,15 +9,15 @@ imgAlts:
 lastmod: "2023-01-25"
 ---
 
-Ready to finally become a backend developer? Don't make it a grind. **The smartest way to learn to code is to ensure you’re never bored.**
+Ready to become a backend developer? Don't make it a grind. **The smartest way to learn to code is to make sure you’re never bored.**
 
 We’re building off of years of psychological research and modern game design to guide you from beginner to master–if you’re ready to put in the time. With a curriculum designed for builders, a vibrant Discord community, and hat-tip to the gamer in all of us, we welcome you to the most captivating, finger-flying, addictive way to learn to code.
 
 ## The Story
 
-I originally built [Boot.dev](https://boot.dev) for my wife Breanna to allow her to transition from being an x-ray tech to a back-end developer. We had run into a few problems:
+I originally built [Boot.dev](https://boot.dev) for my wife Breanna so she could transition from being an x-ray tech to a back-end developer. The reason being, we had run into a few problems:
 
-* We didn't have the time or money for yet another 4-year degree
+* We didn't have the time or money for a 4-year CS degree, but I felt a lot of the core CS concepts were important
 * As a hiring manager, I found that many resources don't focus enough on building projects
 * We found plenty of places to learn front-end development, but not back-end
 * Few people fail because coding is too hard, they fail because they lose motivation
@@ -55,9 +55,9 @@ Coding is *inherently* a game. There's a tight feedback loop, and you get to mak
 
 Coding, and in particular *learning to code*, can become dull if the magic is lost. We do everything we can to keep that magic alive. We think there are a few critical elements to this:
 
-* Ensuring that all concepts are learned through hands-on coding lessons
-* Explaining each theoretical concept within the context of a real-world software project
-* Using game elements like achievements and quests to supply boosts of external motivation
+* Everything should be learned through hands-on coding lessons
+* All concepts should be taught within the context of a real-world software project
+* Game elements like achievements and quests can supply boosts of external motivation and sweet sweet dopamine
 
 ### 2. Computer science matters, degrees don't
 
@@ -67,7 +67,7 @@ Mastering computer science concepts like algorithms, data structures, functional
 
 ### 3. You need to build
 
-Too many self-taught learners watch hours of YouTube videos, only to find that they don't know where to start when building their own projects.
+Too many self-taught learners watch hours of YouTube tutorials, only to find that they don't know where to start when building their own projects.
 
 The tighter your feedback loop, the better. Our courses teach new concepts through hands-on coding exercises, then you go use those concepts in your own projects that you build from scratch.
 
@@ -79,7 +79,7 @@ The point is, you need to *show your work*, and that work should be *interesting
 
 ### 5. It's hard to find good resources
 
-The internet is estimated to host over 100 Zettabytes of data. That's about 100 *trillion* gigabytes of data. If you're learning to code, you're don't need *more* information, you need a roadmap of the *most important* information packaged in a way that's easy to digest.
+The internet is estimated to host over 100 Zettabytes of data. That's about 100 *trillion* gigabytes of data. If you're learning to code, you're don't need *more* information, you need a curated roadmap of the *most important* information packaged in a way that's easy to digest.
 
 ### 6. Learning to code is a depth-first algorithm
 
@@ -89,7 +89,7 @@ Err on the side of going deep into a topic or technology that interests you. The
 
 ### 7. It's a marathon, not a sprint
 
-You almost certainly won't be able to learn to code in 3 months, but you also don't need to spend a full 4 years in college to get a job.
+You're not going to "learn to code" in 3 months, but you also don't need to spend a full 4 years in college to get a job.
 
 We believe that it will take [about 12 months](/backend/how-long-to-become-backend-dev/) to get ready for your first back-end development job, depending on your situation.
 
