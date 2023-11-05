@@ -61,7 +61,7 @@ Fuck coding homework. It's a waste of time for several reasons:
 
 Think of coding homework as the opposite of application review. Application review weeds out bad candidates. Coding homework will often weed out the _good_ ones.
 
-Look at your candidate's Github, Gitlab, whatever. Have them send links to projects they've worked on. Look at their commit histories. They've likely written thousands of lines of code you can get access to.
+Look at your candidate's GitHub, Gitlab, whatever. Have them send links to projects they've worked on. Look at their commit histories. They've likely written thousands of lines of code you can get access to.
 
 ### A Homework Caveat
 

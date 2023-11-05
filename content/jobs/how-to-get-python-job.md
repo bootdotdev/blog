@@ -262,7 +262,7 @@ It shouldn't matter, but many jobs come down to who you know. This is as true in
 The good news is that Pythonistas are a friendly, helpful bunch. I recommend:
 
 * Joining Python communities on Slack
-* Contributing to open-source Python projects on Github
+* Contributing to open-source Python projects on GitHub
 * Creating useful Python packages that other Pythonistas can reuse
 * Commenting on Python blog posts you find interesting
 

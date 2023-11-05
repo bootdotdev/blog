@@ -36,7 +36,7 @@ If you think styling needs to change, see points #1 and #3.
 
 ## 3. Don't Start Work Without Approval
 
-If you hop into a Github repo and find something you don't like, don't immediately open a pull request. Follow these steps instead:
+If you hop into a GitHub repo and find something you don't like, don't immediately open a pull request. Follow these steps instead:
 
 - Is there already an issue logged? If not, make one.
 - If there is an issue, reach out to the maintainers (just comment on the issue) and let them know you are working on it, and give a quick overview of how you will address it. If they have problems with that approach, they will likely let you know.

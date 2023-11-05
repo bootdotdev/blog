@@ -11,7 +11,7 @@ We're starting our first hackathon in the [Qvault Discord server](https://discor
 
 ## Date and time
 
-Our first hackathon will be a quick one! We tried to find a time that would work for most of our members, and so we cut it down to just 5 hours of hacking, so you'll need to code fast! You'll have from 8AM PST to 1PM PST to work on your projects. 1PM PST is the deadline to submit your code via a Github link in the #i-made-this channel. Please include in the Readme.md a few simple instructions to clone, install and dependencies, any run your code.
+Our first hackathon will be a quick one! We tried to find a time that would work for most of our members, and so we cut it down to just 5 hours of hacking, so you'll need to code fast! You'll have from 8AM PST to 1PM PST to work on your projects. 1PM PST is the deadline to submit your code via a GitHub link in the #i-made-this channel. Please include in the Readme.md a few simple instructions to clone, install and dependencies, any run your code.
 
 The judges will take an hour to review the projects, and we'll meet back up at 3PM PST to announce winners and look at what everyone built. If you don't finish in time, don't worry! Work on it after the event, this is a great opportunity to build a project that can go on your resume.
 

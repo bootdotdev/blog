@@ -51,7 +51,7 @@ Luckily, up to this point, the [Go community has been much more rigorous](https:
 That said, once dependencies get out of control, the only option is to stop committing the folder to source control. If you're working on a sufficiently large project, it might make sense to you and your team to add `vendor` to your `.gitignore`. You'll just miss out on some amazing benefits of having all the code required to build your app stored in your source control, including:
 
 1. Reproducible builds. You never need to worry about missing source code.
-2. Simple CI/CD. You're CI/CD pipelines don't need access to remote repos, or permissions to remote *private* repos to build and test your code.
+2. Simple CI/CD. Your CI/CD pipelines don't need access to remote repos, or permissions to remote *private* repos to build and test your code.
 3. Developer friendliness. There isn't a laundry list of setup instructions you'll commonly find with Node.js projects. No `npm install` required.
 
 ## Final verdict

@@ -8,4 +8,4 @@ Thanks for being a member of Boot.dev! If you are not entirely satisfied with yo
 
 ## Refunds
 
-If you didn't like our platform, you have 30 calendar days to request a complete refund on your subscription from the date you activated it. If you have any questions on how to return your item to us, [contact us](/contact).
+If you didn't like our platform, you have 30 calendar days to request a complete refund on your subscription from the date you activated it. To request a refund, please [contact us](/contact/) with the email address you used to sign up.

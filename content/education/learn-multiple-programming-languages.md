@@ -29,7 +29,7 @@ Boot.dev is a batteries-included computer science curriculum in the browser. We 
 
 ## So why can't the whole curriculum be taught in a single language?
 
-If you look at the [full CS curriculum we have planned in our public roadmap on Github](https://github.com/bootdotdev/curriculum), you'll see that it's basically impossible. There are certain concepts that are so tightly coupled to specific technologies that it makes no sense to try to teach them all the same way. Let's look at a few trivial examples.
+If you look at the [full CS curriculum we have planned in our public roadmap on GitHub](https://github.com/bootdotdev/curriculum), you'll see that it's basically impossible. There are certain concepts that are so tightly coupled to specific technologies that it makes no sense to try to teach them all the same way. Let's look at a few trivial examples.
 
 * It's hard to really teach databases without SQL
 * It's hard to teach functional programming without a purely functional language

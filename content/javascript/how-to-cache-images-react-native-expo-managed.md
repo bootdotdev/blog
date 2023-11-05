@@ -50,7 +50,7 @@ CachedImage keeps it simple. It downloads the image to the user's local filesyst
 
 Tip: To bust the cache, you can append a query string or anchor text to the URI.
 
-[Link to the Github](https://github.com/lane-c-wagner/react-native-expo-cached-image)
+[Link to the GitHub](https://github.com/lane-c-wagner/react-native-expo-cached-image)
 
 ## Code
 

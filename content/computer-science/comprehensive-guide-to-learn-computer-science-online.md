@@ -245,7 +245,7 @@ From gaming and video editing software to web browsers, graphics programming is 
 
 Resources
 
-- [gltut - OpenGL tutorials on Github](https://github.com/paroj/gltut)
+- [gltut - OpenGL tutorials on GitHub](https://github.com/paroj/gltut)
 - Book: 3D Math Primer for Graphics and Game Development
 - Book: Real-Time Rendering, Fourth Edition
 - Book: Ray Tracing in One Weekend by Peter Shirly

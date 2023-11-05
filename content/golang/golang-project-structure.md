@@ -22,7 +22,7 @@ I'm a sucker for the old [GOPATH](https://golang.org/doc/gopath_code.html). Usin
 
 `~/workspace/src/REMOTE/NAMESPACE/PROJECT`
 
-The fastest way to start a new project is to hop into Github, Gitlab, or wherever your source control is located and [create a new project](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/create-a-repo) with the default `README.md`. Then you can clone it down using `git clone` and the remote Git connection is already set up. For example:
+The fastest way to start a new project is to hop into GitHub, Gitlab, or wherever your source control is located and [create a new project](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/create-a-repo) with the default `README.md`. Then you can clone it down using `git clone` and the remote Git connection is already set up. For example:
 
 ```
 cd ~/workspace/src/github.com/wagslane
@@ -125,9 +125,9 @@ We use a lightweight OS, Debian stretch-slim. Remember, we're deploying statical
 
 After that, we just add our executables to the `/bin` directory and launch a shell.
 
-## Step 6 - Github Actions (optional)
+## Step 6 - GitHub Actions (optional)
 
-So I'm going to get a bit sloppy here. And the reason for that is Github Actions configurations are VERY dependent on the exact tools you use to deploy your apps. We use Kubernetes, [Helm](https://helm.sh/), [Helm Secrets](https://github.com/zendesk/helm-secrets), and [AWS ECR](https://aws.amazon.com/ecr/).
+So I'm going to get a bit sloppy here. And the reason for that is GitHub Actions configurations are VERY dependent on the exact tools you use to deploy your apps. We use Kubernetes, [Helm](https://helm.sh/), [Helm Secrets](https://github.com/zendesk/helm-secrets), and [AWS ECR](https://aws.amazon.com/ecr/).
 
 That said, the test file is universally useful. In `github/workflows/tests.yml`:
 

@@ -84,7 +84,7 @@ import pika
 import time
 import threading
 
-RABBIT_URL = 'amqp://nuvihermoth:D0nn1eDarkoisRabbitFrank@rabbit-cluster-external-stage-1443209739.us-east-1.elb.amazonaws.com'
+RABBIT_URL = 'amqp://username:pass@hostname'
 ROUTING_KEY = 'throttle.compact_social_activity.throttled'
 QUEUE_NAME = 'test.' + ROUTING_KEY
 EXCHANGE = 'events'

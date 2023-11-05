@@ -42,7 +42,7 @@ The goal of this *first* project is simply to get you used to the process of bui
 
 * Try to spend 20-40 hours on this project.
 * Use a programming language you're already familiar with.
-* Commit your code to Git often, and push it up to Github.
+* Commit your code to Git often, and push it up to GitHub.
 * Create a [README.md file](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes#about-readmes) for your project. It should explain to readers:
   * What the project is, and what it does
   * How to clone and run it

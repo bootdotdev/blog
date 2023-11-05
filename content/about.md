@@ -9,26 +9,33 @@ imgAlts:
 lastmod: "2023-01-25"
 ---
 
-**Learning back-end development can be fun - even addicting.** We're building a learning path that forces you to delve deep into programming fundamentals and, frankly, write **a ton** of code.
+Ready to become a backend developer? Don't make it a grind. **The smartest way to learn to code is to make sure you’re never bored.**
 
-*Why settle for mediocrity when you can be a remarkable engineer?*
+We’re building off of years of psychological research and modern game design to guide you from beginner to master–if you’re ready to put in the time. With a curriculum designed for builders, a vibrant Discord community, and hat-tip to the gamer in all of us, we welcome you to the most captivating, finger-flying, addictive way to learn to code.
 
 ## The Story
 
-I built [Boot.dev](https://boot.dev) for my wife Breanna who wanted to transition from x-ray to back-end development. The trouble is, we couldn't find any e-learning platforms that impressed me as a hiring manager. I decided to build a curriculum tailored to back-end developers who aren't afraid of in-depth education. My wife was my first student and loves the courses, so I hope you do too.
+I originally built [Boot.dev](https://boot.dev) for my wife Breanna so she could transition from being an x-ray tech to a back-end developer. The reason being, we had run into a few problems:
+
+* We didn't have the time or money for a 4-year CS degree, but I felt a lot of the core CS concepts were important
+* As a hiring manager, I found that many resources don't focus enough on building projects
+* We found plenty of places to learn front-end development, but not back-end
+* Few people fail because coding is too hard, they fail because they lose motivation
+
+I decided it would be fun to build a course that incorporates a lot of the fun aspects of RPG games, and started Boot.dev as a side project. My wife was my first student and loves the courses, so I hope you do too.
 
 ## Socials
 
-* Follow us on [Twitter](https://twitter.com/intent/follow?screen_name=bootdotdev)
-* Subscribe to our [YouTube channel](https://www.youtube.com/@bootdotdev?sub_confirmation=1)
-
-{{< youtube lqqL0qnNXQA >}}
+* Subscribe to our [YouTube](https://www.youtube.com/@bootdotdev?sub_confirmation=1)
+* Listen to our [Podcast](https://www.backendbanter.fm)
+* Follow us on [Twitter/X](https://twitter.com/intent/follow?screen_name=bootdotdev)
+* Follow us on [LinkedIn](https://www.linkedin.com/school/bootdotdev)
 
 ## Our Beliefs
 
 We have some opinions about how you should learn to code.
 
-1. Coding is fun, don't make it dull
+1. Coding is fun, don't ruin it
 2. Computer science matters, degrees don't
 3. You need to build
 4. You need to deploy
@@ -38,25 +45,29 @@ We have some opinions about how you should learn to code.
 8. You should be uncomfortable
 9. Get an on-site, full-time job first
 
-### 1. Coding is fun, don't make it dull
+### 1. Coding is fun, don't ruin it
 
 > A game is a series of interesting choices
 >
-> -- [Sid Meier](https://en.wikipedia.org/wiki/Sid_Meier)
+> -- [Sid Meier](https://en.wikipedia.org/wiki/Sid_Meier), creator of the [Civilization](https://en.wikipedia.org/wiki/Civilization_(series)) series
 
-Coding is *inherently* a game. There's a tight feedback loop, and you get to make interesting decisions about the code you write that moves you toward your goal: a project that does something useful.
+Coding is *inherently* a game. There's a tight feedback loop, and you get to make interesting decisions about the code you write that moves you toward your goal: building a project that does something useful.
 
-Coding, and in particular *learning to code*, can become dull if the magic is lost. We do everything we can to keep that magic alive.
+Coding, and in particular *learning to code*, can become dull if the magic is lost. We do everything we can to keep that magic alive. We think there are a few critical elements to this:
+
+* Everything should be learned through hands-on coding lessons
+* All concepts should be taught within the context of a real-world software project
+* Game elements like achievements and quests can supply boosts of external motivation and sweet sweet dopamine
 
 ### 2. Computer science matters, degrees don't
 
 People are becoming more tech-literate every day, and that's a wonderful thing. Deploying a simple website doesn't require advanced programming knowledge anymore. That doesn't mean we no longer need smart engineers, *we do.* They just work on more interesting problems, and at a different scale.
 
-Mastering CS concepts like algorithms, data structures, distributed computing, and cryptography is a great way to differentiate yourself as a developer, and universities aren't the gatekeepers of that knowledge.
+Mastering computer science concepts like algorithms, data structures, functional programming, and cryptography is a great way to differentiate yourself as a developer, and universities needn't be the gatekeepers of that knowledge.
 
 ### 3. You need to build
 
-Too many self-taught learners watch hours of YouTube videos, only to find that they don't know where to start when building their own projects.
+Too many self-taught learners watch hours of YouTube tutorials, only to find that they don't know where to start when building their own projects.
 
 The tighter your feedback loop, the better. Our courses teach new concepts through hands-on coding exercises, then you go use those concepts in your own projects that you build from scratch.
 
@@ -68,11 +79,7 @@ The point is, you need to *show your work*, and that work should be *interesting
 
 ### 5. It's hard to find good resources
 
-The internet is estimated to host over 100 Zettabytes of data. That's about 100 *trillion* gigabytes of data.
-
-As developers learning to code, we don't lack raw information. Technically you can learn just about anything by reading dense Wikipedia articles.
-
-In many instances, we do lack *useful information* that's packaged nicely into an exciting learning experience. That's the problem we're trying to solve.
+The internet is estimated to host over 100 Zettabytes of data. That's about 100 *trillion* gigabytes of data. If you're learning to code, you're don't need *more* information, you need a curated roadmap of the *most important* information packaged in a way that's easy to digest.
 
 ### 6. Learning to code is a depth-first algorithm
 
@@ -82,15 +89,9 @@ Err on the side of going deep into a topic or technology that interests you. The
 
 ### 7. It's a marathon, not a sprint
 
-> "Learn to code and you'll land a developer job in 8 weeks"
+You're not going to "learn to code" in 3 months, but you also don't need to spend a full 4 years in college to get a job.
 
-> "You need a 4-year computer science degree to become a developer"
-
-Both of these opinions are *wrong*.
-
-If you spend about 10 hours each week, it should take [about 6 to 18 months](/backend/how-long-to-become-backend-dev/) to get ready for your first back-end development job, depending on your situation.
-
-*6-18 months is still fast.* It's like going to the gym, if you stay consistent, it's amazing how quickly you will see results.
+We believe that it will take [about 12 months](/backend/how-long-to-become-backend-dev/) to get ready for your first back-end development job, depending on your situation.
 
 ### 8. You should be uncomfortable
 
@@ -116,4 +117,4 @@ There are exceptions, and any paid development work is typically better than non
 
 ## Let us know what you think
 
-We're always refining our ideas. If you have any thoughts on this stuff, tell us. The easiest ways are to join our [Discord community server](https://discord.gg/EEkFwbv) or to [tweet at us](https://twitter.com/bootdotdev).
+We're always refining our ideas. If you have any thoughts on this stuff, tell us. The easiest ways are to join our [Discord community server](https://boot.dev/community/) or to [tweet at us](https://twitter.com/bootdotdev).

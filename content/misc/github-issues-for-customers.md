@@ -1,5 +1,5 @@
 ---
-title: "Using Github Issues to Hack Together A Feedback System"
+title: "Using GitHub Issues to Hack Together A Feedback System"
 author: Lane Wagner
 date: "2022-07-31"
 categories: 
@@ -15,15 +15,15 @@ Boot.dev has been my side-project for the last couple of years now. Being a [lea
 * Not all students are in the Discord
 * There is more friction to report issues in a different application
 
-The solution that has been working splendidly for me so far was to add a feedback box directly within each coding assignment! Now students can easily report issues with near-zero hassle. Unfortunately, running SQL queries to get at those submitted issues is a giant pain... *The Github API has entered the chat*.
+The solution that has been working splendidly for me so far was to add a feedback box directly within each coding assignment! Now students can easily report issues with near-zero hassle. Unfortunately, running SQL queries to get at those submitted issues is a giant pain... *The GitHub API has entered the chat*.
 
-## Using Github issues to track user feedback
+## Using GitHub issues to track user feedback
 
-I have a private Github repo where I store all the content for the [back-end CS courses](https://boot.dev/tracks/backend) on Boot.dev in markdown files. It would be *really convenient* if user reported issues automatically manifested as Github issues on that repository! After just a few minutes of digging, I realized it was quite easy to do with the Github API. Given that my backend is a REST-ish API written in Go, I decided to use [Google's Github API client package](https://github.com/google/go-github/) and the official [Golang oauth2 package](https://pkg.go.dev/golang.org/x/oauth2).
+I have a private GitHub repo where I store all the content for the [back-end CS courses](https://boot.dev/tracks/backend) on Boot.dev in markdown files. It would be *really convenient* if user reported issues automatically manifested as GitHub issues on that repository! After just a few minutes of digging, I realized it was quite easy to do with the GitHub API. Given that my backend is a REST-ish API written in Go, I decided to use [Google's GitHub API client package](https://github.com/google/go-github/) and the official [Golang oauth2 package](https://pkg.go.dev/golang.org/x/oauth2).
 
 I you're interested in following along, first you need is a [personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) with "repo" permissions.
 
-Next, I created a `githubclient` package in my project to manage interactions with the Github API. It exposes a `Client` struct:
+Next, I created a `githubclient` package in my project to manage interactions with the GitHub API. It exposes a `Client` struct:
 
 ```go
 // Client -
@@ -109,7 +109,7 @@ As you can see, given an...
 * username of the reporter
 * comment from the reporter
 
-...the `CreateIssue` method simply creates a new issue in the repo with a static label. I've split the inputs into a Github issue "title" and "body" that's formatted to my needs so that I can resolve the issues as quickly as possible.
+...the `CreateIssue` method simply creates a new issue in the repo with a static label. I've split the inputs into a GitHub issue "title" and "body" that's formatted to my needs so that I can resolve the issues as quickly as possible.
 
 ## Why not use an out of the box solution?
 
@@ -119,4 +119,4 @@ I know there are a billion and a half issue tracking tools you can buy on the ma
 * It's free
 * It's integrated with the tooling I already use daily (GitHub)
 
-If you need a simple issue tracker for your app I'd recommend looking into using Github issues via the API, at least until it stops working for you!
+If you need a simple issue tracker for your app I'd recommend looking into using GitHub issues via the API, at least until it stops working for you!

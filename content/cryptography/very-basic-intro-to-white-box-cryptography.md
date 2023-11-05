@@ -41,7 +41,7 @@ To successfully hide the keys given this scenario, according to [Brecht Wyseur](
 
 Well, it depends. Security through obscurity is a well-known bad-practice in the cryptography industry, but there is an argument to be made that white-box crypto is more than just obfuscation. A recent [2018 paper](https://eprint.iacr.org/2018/098.pdf) on cracking white-box may be insightful.
 
-White box practices have certainly been used, but not many time-tested open-source solutions currently exist. That said, you may be interested in one of the larger (still small) repositories on Github which white-boxes AES in C++: [https://github.com/ph4r05/Whitebox-crypto-AES](https://github.com/ph4r05/Whitebox-crypto-AES)
+White box practices have certainly been used, but not many time-tested open-source solutions currently exist. That said, you may be interested in one of the larger (still small) repositories on GitHub which white-boxes AES in C++: [https://github.com/ph4r05/Whitebox-crypto-AES](https://github.com/ph4r05/Whitebox-crypto-AES)
 
 Intertrust recently claimed to launch the first [enterprise-ready solution](https://www.businesswire.com/news/home/20200224005912/en/Intertrust-Launches-Enterprise-Ready-White-Box-Cryptography-Solution-Web). Reading more on that may give some insight.
 

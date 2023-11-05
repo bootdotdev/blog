@@ -1,5 +1,10 @@
 {{ $related := .Site.RegularPages.Related . | first 4 }}
 {{ with $related }}
+
+<div class="py-2 flex justify-center">
+	<div class="border-t-2 border-gray-600 w-full max-w-4xl"></div>
+</div>
+
 <div class="flex flex-col items-center py-8">
 	<h3 class="text-3xl text-white mb-2">Related Articles</h3>
 
