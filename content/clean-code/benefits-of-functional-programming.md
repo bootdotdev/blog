@@ -8,7 +8,7 @@ images:
   - /img/800/calculus-on-a-chalkboard.webp
 ---
 
-Functional programming is a way to writing code where programs are created strictly through functions. Functional programming has gained quite a bit of traction in recent years among the development community, mostly because of the benefits it provides.
+Functional programming is a way to write code where programs are created strictly through functions. Functional programming has gained quite a bit of traction in recent years among the development community, mostly because of the benefits it provides.
 
 Functional programming is a declarative way to write provably correct code. Function definitions are expressions that simply map inputs to outputs, rather than a sequence of statements that update the state of the application.
 
@@ -93,7 +93,7 @@ If two separate threads ([goroutines](/rust/concurrency-in-rust-can-it-stack-up-
 
 ## 7. Recursion is simpler, though not necessarily easier to learn
 
-If you've ever tried to write an interpreter for a programming language, you've realized that recursion is a fairly easy concept to implement, at least when compared to imperative ideas like for-loops. Recursion simply requires that functions are able to call themselves, the rest is up to the developer. For-loops require a bunch of custom code in the interpreter or compiler that does the initialization, checks the end condition, executes the body, then finally executes the update statement.
+If you've ever tried to write an interpreter for a programming language, you've realized that recursion is a fairly easy concept to implement, at least when compared to imperative ideas like for-loops. Recursion simply requires that functions can call themselves, the rest is up to the developer. For-loops require a bunch of custom code in the interpreter or compiler that does the initialization, checks the end condition, executes the body, and then finally executes the update statement.
 
 ```go
 for (initialization; condition; update) {
@@ -101,7 +101,7 @@ for (initialization; condition; update) {
 }
 ```
 
-I'll readily admit that while recursion is simpler, it's often harder for new programmers to wrap their heads around ot. Take a look at the following examples of a `pow` function that computes the result of `x` raised to the `n` power.
+I'll readily admit that while recursion is simpler, it's often harder for new programmers to wrap their heads around it. Take a look at the following examples of a `pow` function that computes the result of `x` raised to the `n` power.
 
 ### Imperative power function
 
@@ -136,7 +136,7 @@ With that in mind, there are instances where immutability is a bad idea. This is
 
 ## Which languages are purely functional programming languages?
 
-The following languages support purely-functional styles. In other words, the language will enforce the rules of functional programming:
+The following languages support purely functional styles. In other words, the language will enforce the rules of functional programming:
 
 1. [Haskell](https://www.haskell.org/)
 2. [Clojure](https://clojure.org/)
