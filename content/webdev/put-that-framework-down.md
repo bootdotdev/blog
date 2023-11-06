@@ -9,7 +9,7 @@ images:
   - /img/800/frameworkhouse.png.webp
 ---
 
-There is only one question that ignites my inner range more than "How do I get a developer job in 3 months?"? That question is:
+There is only one question that ignites my inner rage more than "How do I get a developer job in 3 months?"? That question is:
 
 > What [web framework](/backend/dont-start-with-frameworks/) should I use?
 
@@ -40,12 +40,12 @@ Story time. I was working at a company about 5 years ago where we were maintaini
 * Sorting the messages into categories based on keywords in the content
 * Sending alerts based on the aforementioned categories
 
-One day I was tasked with figuring out why one of our services was choking at a mere 30 messages per second. This service was responsible for taking messages from a queue and placing them into different Postgres databases depending on which customer cares about the message. In theory, it was literally this simple:
+One day I was tasked with figuring out why one of our services was choking at a mere 30 messages per second. This service was responsible for taking messages from a queue and placing them into different Postgres databases depending on which customer cared about the message. In theory, it was literally this simple:
 
 1. Message comes in
 2. If the  `customer_id` on the message is in the map of `customer_id` -> `database_url`, then insert the message into the database at `database_url`
 
-I hopped into the project, and was immediately dismayed to learn it was a Ruby project. But not *just* a Ruby project, it was a Ruby on *Rails* project.
+I hopped into the project and was immediately dismayed to learn it was a Ruby project. But not *just* a Ruby project, it was a Ruby on *Rails* project.
 
 ![Ruby on Rails Kalm/Panik](/img/800/kalmpanicrails.png.webp)
 
@@ -56,7 +56,7 @@ But this isn't a monolithic web application. This is a *tiny* service that's sup
 I need two things:
 
 * A way to concurrently pull messages from a Rabbit queue
-* A way to insert messages into a database asynchonously
+* A way to insert messages into a database asynchronously
 
 Go and JavaScript both have *super* easy and lightweight ways to accomplish this. I just need a few lines of code, and not much by way of dependencies. After a couple of hours poking through this Rails monstrosity (that for some reason also used Redis to track progress) I just wrote a single worker in Go, which took less than an hour, deployed the new service, tested it in production, and archived the Ruby project.
 
@@ -64,7 +64,7 @@ Go and JavaScript both have *super* easy and lightweight ways to accomplish this
 
 Yes. I'm sure that I could have just refactored that Rails project, found the hot paths, and optimized the performance bottlenecks. I mean, its unlikely that it was ever going to be as fast or as lightweight as a Go service, but the project was I/O bound so it could have been fine.
 
-The point is that sometimes as software engineers we find a hammer that we really f---ing love. Its such a fun hammer! It's so ergonomic! So *clean*! And we're so good at wielding it! So, its natural that we go around swinging it at every goddamn nail we see.
+The point is that sometimes as software engineers we find a hammer that we really f---ing love. It's such a fun hammer! It's so ergonomic! So *clean*! And we're so good at wielding it! So, its natural that we go around swinging it at every goddamn nail we see.
 
 ## It's a question of defaults
 
