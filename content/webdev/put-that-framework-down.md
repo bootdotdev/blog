@@ -11,7 +11,7 @@ images:
 
 There is only one question that ignites my inner range more than "How do I get a developer job in 3 months?"? That question is:
 
-> What framework should I use?
+> What [web framework](/backend/dont-start-with-frameworks/) should I use?
 
 It's not that I think frameworks are evil, scary, or even bad. I'm just bothered by the '*assumption* that to build an online thing, you *must* start with a framework.
 
