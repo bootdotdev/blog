@@ -19,6 +19,8 @@ I have anecdotally found 2 things to be true:
 
 As a new developer, it's smart to consume developer content. However, when you listen to Prime, Dax, Theo, or myself give opinions, you need to remember that they're *our* opinions, not *yours*.
 
+![i think this htmx meme](/img/800/ithinkthishtmx.png.webp)
+
 Don't misunderstand: I publish my opinions to convince you to join my cult (Go is based) but taking my word at face value does a disservice to yourself. If you simply regurgitate another developer's opinions, not only will you stunt your learning, but it will look bad in interviews and on the job. *It's obvious when your opinions haven't been forged in the fires of your own experience.*
 
 ## Context-specific opinions
@@ -44,8 +46,6 @@ No matter what advice you're hearing about technology, you need to remember that
 
 * Do you need to scale computing power across a cluster of machines? Kubernetes good.
 * Are you building a personal site for your dog? Kubernetes bad.
-
-![Kubernetes argument](/img/800/koobernetusmeme.png.webp)
 
 * I work mostly on Backend HTTP servers in Go and think debuggers are a waste of time (the state of the program is easy to reproduce)
 * John Carmack does a lot with game engines and loves debuggers (the state of the program is hard to reproduce)
@@ -78,6 +78,8 @@ That's why it's *literally impossible* to hate Haskell. No one has tried it in p
 ## Be a humble junior dev (I wasn't)
 
 One of the biggest mistakes I made early was simply assuming I knew more than I did. I would push for refactors that made no sense to get away from technologies that I thought were "old" or "bad". I wanted to rewrite perfectly stable parts of the code because I thought the new hotness was more maintainable.
+
+![rewrite in react](/img/800/rwwriteinreact.png.webp)
 
 By all means, consume coding content online, but try to understand the reasoning behind the opinions you're hearing. Try to think about the context the speaker is coming from. Then, when you have a chance, try the thing out for yourself before making your own bold claims.
 
