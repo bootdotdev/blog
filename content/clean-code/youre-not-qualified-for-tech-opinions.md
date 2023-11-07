@@ -73,12 +73,12 @@ These are things that you'll hear about often, and most developers tend to form 
 
 > If you haven't used it in a real project, don't hate it (yet)
 
-That's why it's *literally impossible* to hate Haskell. No one's tried it in production.
+That's why it's *literally impossible* to hate Haskell. No one has tried it in production yet.
 
 ## Be a humble junior dev (I wasn't)
 
-One of the biggest mistakes I made early was simply assuming I knew more than I did. I didn't have the epexerience required to know yet, don't be like me.
+One of the biggest mistakes I made early was simply assuming I knew more than I did. I would push for refactors that made no sense to get away from technologies that I thought were "old" or "bad". I wanted to rewrite perfectly stable parts of the code because I thought the new hotness was more maintainable.
 
-Consume coding content, but try to understand the reasoning behind the opinions you're hearing online. Try to think about the context the speaker is coming from. Then, when you have a chance, try the thing out for yourself before sharing your own hot takes.
+By all means, consume coding content online, but try to understand the reasoning behind the opinions you're hearing. Try to think about the context the speaker is coming from. Then, when you have a chance, try the thing out for yourself before making your own bold claims.
 
 *PS: The only exception to all of this is scrum. **Scrum always sucks**, you can just trust me on that one. It sucks regardless of your company, religion, political beliefs or sexual orientation.*
