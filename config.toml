@@ -38,6 +38,8 @@ dofollows = [
   "https://podcasts.apple.com",
   "https://backendbanter.fm",
   "https://www.backendbanter.fm",
+  "https://www.golanginterview.dev",
+  "https://golanginterview.dev",
 ]
 
 [markup]

@@ -1,5 +1,5 @@
 ---
-title: "Top 15 Golang Interview Questions [Updated 2022]"
+title: "Top 15 Golang Interview Questions [Updated 2024]"
 author: Lane Wagner
 date: "2020-08-31"
 categories: 
@@ -8,7 +8,7 @@ images:
   - /img/800/whiteboard.webp
 ---
 
-Let's take a look at some good technical questions to be familiar with, whether you are the interviewer or the interviewee.
+Let's take a look at some good technical [questions](https://www.golanginterview.dev/questions/) to be familiar with, whether you are looking to nail your next [Golang interview](https://www.golanginterview.dev/), or if you're the interviewer yourself..
 
 ## 1. What's the difference between a goroutine and an operating system thread?
 

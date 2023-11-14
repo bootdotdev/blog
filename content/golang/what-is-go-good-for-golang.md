@@ -155,4 +155,4 @@ So should you learn Go, too?
 
 We absolutely think so.
 
-We're huge fans of Golang at Boot.dev, and created our [Learn Go courses](https://boot.dev/learn/learn-golang) to help teach Go as effectively as possible — by learning by doing. Our interactive lessons have you code in Go to fix problems, create programs, and we even built a specialized [Go Interview Prep course](https://boot.dev/golang/interview-prep-golang-course-released/) for landing a job once you've gained the core skills.
+We're huge fans of Golang at Boot.dev, and created our [Learn Go courses](https://boot.dev/learn/learn-golang) to help teach Go as effectively as possible — by learning by doing. Our interactive lessons have you code in Go to fix problems, create programs, and we even built a specialized [Interview Prep course](https://www.boot.dev/learn/learn-job-search) for landing a job once you've gained the core skills.

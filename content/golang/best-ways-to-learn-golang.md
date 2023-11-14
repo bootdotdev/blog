@@ -1,6 +1,6 @@
 ---
 title: "The 7 Best Ways to Learn Golang and Find Your Inner Gopher"
-author: Lane Wagner
+author: Natalie Schooner
 date: "2022-02-05"
 categories: 
   - "golang"

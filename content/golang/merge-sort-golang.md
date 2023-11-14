@@ -6,6 +6,7 @@ categories:
   - "golang"
 images:
   - /img/800/swirl.webp
+lastmod: "2023-11-14"
 ---
 
 Merge sort is a recursive sorting algorithm and, luckily for us, it's quite a bit faster than [bubble sort](/golang/bubble-sort-golang/). Merge sort is a [divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm).
@@ -92,3 +93,7 @@ If you need a sorting algorithm to use in a production system, I recommend [not 
 ## Merge sort Big-O complexity
 
 Merge sort has a complexity of `O(n*log(n))`. Don't be fooled because there aren't an explicit number of for-loops to count in the code. In merge sort's case, the number of recursive function calls is important.
+
+## Is it useful in job interviews
+
+If you're preparing for a [golang job interview](https://www.golanginterview.dev/questions/), it's important to be ready for algorithms questions. That doesn't mean you need to have all the sorting algorithms memorized, but you should at least understand the most common ones and be familiar with their big o runtimes.

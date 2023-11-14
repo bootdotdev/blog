@@ -265,7 +265,7 @@ At this point, you've:
 * Taken on personal projects to get your feet wet with the realities of back-end development in Go.
 * Received certifications from an external source that prove you can do the thing.
 
-The only thing remaining to become a Golang backend developer is to apply for jobs that look like a good fit for your skills and interests – and smash the interview.
+The only thing remaining to become a Golang backend developer is to apply for jobs that look like a good fit for your skills and interests – and [smash the interview](https://www.golanginterview.dev/questions/).
 
 To crush your interview, I recommend you practice common interview questions on platforms like [StrataScratch](https://www.stratascratch.com/blog/categories/interview-questions/) or Glassdoor.
 
