@@ -8,7 +8,9 @@ categories:
   - "javascript"
   - "security"
 images:
-  - /img/800/6-dice-game-1024x350.webp
+  - /img/800/SecureRandomNumbersInNodeBlogArt.png.webp
+imageAlts:
+  - "fantasy painting of gamblers generating random numbers with dice"
 ---
 
 **Quick answer: use [crypto.randomBytes()](https://nodejs.org/api/crypto.html#crypto_crypto_randombytes_size_callback) for cryptographically secure randomness in Node.js.**
