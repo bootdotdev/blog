@@ -6,7 +6,9 @@ categories:
   - "bitcoin"
   - "security"
 images:
-  - /img/800/pulse-trust-768x512.webp
+  - /img/800/TrustvsTrust.png.webp
+imageAlts:
+  - "betrayal of trust, distrust"
 ---
 
 In the wake of the [hearings](https://www.youtube.com/watch?v=h4aPp3wGufY) about Facebook's new Libra blockchain, it is more important than ever that we all understand the difference between _trustworthy_ and _trustless_ apps.

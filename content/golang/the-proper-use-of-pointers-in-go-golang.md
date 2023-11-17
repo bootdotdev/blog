@@ -6,7 +6,9 @@ categories:
   - "clean-code"
   - "golang"
 images:
-  - /img/800/photo-1497005367839-6e852de72767.webp
+  - /img/800/theproperuseofpointers.png.webp
+imageAlts: 
+  - "this man is properly using his pointers in GO"
 ---
 
 Go has become increasingly popular in recent years, especially in my local area. It has been consistently displacing other backend languages like Ruby, Python, C# and Java. Go is wanted for its simplicity, explicitness, speed, and low memory consumption.

@@ -5,7 +5,9 @@ date: "2019-08-08"
 categories: 
   - "open-source"
 images:
-  - /img/800/electron2.webp
+  - /img/800/AutomaticwithElectron.png.webp
+imageAlts: 
+  - "fantasy lightning wizard who wants cross platform deployments to be automatic"
 ---
 
 This is a tutorial on how to set up an Electron app on [Travis CI](https://travis-ci.org/), so that new versions are deployed to [GitHub Releases](https://help.github.com/en/articles/creating-releases) with a simple pull request.
