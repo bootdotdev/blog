@@ -8,13 +8,13 @@ categories:
 draft: true
 ---
 
-GitHub has been re-founded on copilot, rumors of an AI superior to GPT-4 are abounding, and you still can't even write a red-black tree.
+GitHub has been re-founded on copilot, rumors of an AI superior to GPT-4 abound, and you still can't even write a red-black tree. What's a budding developer to do?
 
-I'm rightfully asked quite frequently about the future of AI-assisted programming, and while the short answer is "I don't know", boy oh boy do I have some opinions to share.
+I'm rightfully asked frequently about the future of AI-assisted programming, and while the short answer is "I don't know", boy oh boy do I have some opinions and anecdotes to share. Strap in.
 
 ## First, let's understand the state of the world
 
-GPT-4 is, at least as I write this, the most advanced general-purpose LLM model on the market. It's important to understand that there is a big difference between a product that uses a model, and the model itself. For example:
+GPT-4 is, as I write this, the most advanced general-purpose LLM model on the market. It's important to understand that there is a big difference between a product that *uses* a model, and the model itself. For example:
 
 * Chat GPT is a web app that uses GPT-3.5 and GPT-4
 * Boots is our (Boot.dev's) GPT-4 powered teaching assistant
@@ -61,7 +61,8 @@ If I got 400% more out each dev I hire, I'd hire *more* devs, not *fewer*. I'd b
 
 ## But you won't need developers, just product managers
 
-Sorry if you're a "product person", but whenever I'm told that it immediately translates in my head to "I'm an ideas guy".
+Sorry, but whenever I hear "I'm a product manager" it immediately translates in my head to "I'm an ideas guy".
 
 ![idea person product manager anakin meme](/img/800/anakinpadeproductmanager.png.webp)
 
+No one really *needs* product managers. 
