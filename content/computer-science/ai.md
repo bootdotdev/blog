@@ -10,7 +10,7 @@ draft: true
 
 GitHub has been re-founded on copilot, rumors of an AI superior to GPT-4 are abounding, and you still can't even write a red-black tree.
 
-I'm rightfully asked quite frequently about the future of AI-assisted programming, and while the short answer is "I don't know", boy oh boy do I have some opinions to share.
+I'm rightfully asked frequently about the future of AI-assisted programming, and while the short answer is "I don't know", boy oh boy do I have some opinions to share.
 
 ## First, let's understand the state of the world
 
@@ -61,7 +61,28 @@ If I got 400% more out each dev I hire, I'd hire *more* devs, not *fewer*. I'd b
 
 ## But you won't need developers, just product managers
 
-Sorry if you're a "product person", but whenever I'm told that it immediately translates in my head to "I'm an ideas guy".
+Sorry if you're a "product person", but whenever I hear that it immediately translates in my head to "I'm the ideas guy".
 
 ![idea person product manager anakin meme](/img/800/anakinpadeproductmanager.png.webp)
 
+So the idea here is that, well, maybe you won't need fewer people, but they won't need to be developers. Anytime they need to write code, they'll just whip out the 'ol LLM and get to work.
+
+To be clear, *we have experience with this already*. In the early 2000's, if you wanted to do ecommerce, you had to hire a developer to build you a custom ecommerce site. They had to build shopping carts, checkout, coupon codes, billing, inventory management, all from scratch. Today, if you're doing something super common, like ecommerce or blogging, there are zero reasons to build it from scratch.
+
+Despite the proliferation of low-code tools over the last 20 years, the demand for developers has only exploded over the same period. Why? Because even though we automate vast swaths of common functionality, companies are constantly looking to get an edge, either by building internal tools to increase their own efficiency, or by building novel software products that they can sell to others who want that edge.
+
+So, will LLMs make certain tasks that only developers can do today more accessible to non-developers? I believe so. Let me give some examples.
+
+## ChatGPT makes Winston a coder
+
+The blog you're reading right now is a static site generated with Hugo. Blog posts are written in Markdown, and Git/GitHub is our CMS (content management system).
+
+We have an employee here at Boot.dev that takes care of a lot of the non-technical operations tasks. He's a great writer, he's creative, but hasn't done much with code in the past (though ofc now learning on Boot.dev). Before ChatGPT I would have had to provide a ton of documentation to him on how to use VS Code, edit markdown, commit to Git, and open pull requests for him to make changes to the blog.
+
+I've given him access to ChatGPT Pro, and, yes, it takes him longer than it would take one of our engineers at present, but he's able to walk himself through the process much more quickly than he could have just Googling and reading documentation.
+
+The flip side of this is that if I assign one of our engineer's bug tickets to Winston, ChatGPT access is not closing the knowledge gap required to make effective changes, and it's not even close.
+
+## I've tried to write blog posts with ChatGPT
+
+GPT-4 is really good at dumping mostly accurate information onto a page, in the voice of a well-known author. It's *truly terrible* at writing something engaging that feels human.
