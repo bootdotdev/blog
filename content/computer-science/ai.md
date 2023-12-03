@@ -8,35 +8,35 @@ categories:
 draft: true
 ---
 
-GitHub has been re-founded on copilot, rumors of an AI superior to GPT-4 are abounding, and you still can't even write a red-black tree.
+GitHub has been re-founded on copilot, rumors of an AI superior to GPT-4 abound, and you still can't even write a red-black tree. What's a budding developer to do?
 
-I'm rightfully asked frequently about the future of AI-assisted programming, and while the short answer is "I don't know", boy oh boy do I have some opinions to share.
+I'm often asked about the future of AI-assisted programming, and while the short answer is "I don't know", boy oh boy do I have some opinions and anecdotes to share. Strap in.
 
 ## First, let's understand the state of the world
 
-GPT-4 is, at least as I write this, the most advanced general-purpose LLM model on the market. It's important to understand that there is a big difference between a product that uses a model, and the model itself. For example:
+GPT-4 is, as I write this, the most advanced general-purpose LLM model on the market. It's important to understand that there is a big difference between a product that *uses* a model, and the model itself. For example:
 
 * Chat GPT is a web app that uses GPT-3.5 and GPT-4
-* Boots is our (Boot.dev's) GPT-4 powered teaching assistant
-* GitHub Copilot is a VSCode plugin that uses GPT-4 (although I believe its a modified version)
+* Boots is our GPT-4 powered teaching assistant on Boot.dev
+* GitHub Copilot is a VSCode plugin that uses GPT-4 (although I believe it's a modified version)
 
-It's important to understand that there is a *really big* difference between the GPT-3.5 and GPT-4 models. GPT-4 has about **10x** more parameters than GPT-3.5 and is trained on a much larger dataset. "Parameters" is a confusing term, but it's basically just the number of decision-making knobs the model has fine-tuned throughout its training. To get really hand-wavy about it, the more parameters a model has, the more sophisticated its understanding of the world can be.
+There is a *really big* difference between the GPT-3.5 and GPT-4 models. GPT-4 has about **10x** more parameters than GPT-3.5 and is trained on a much larger dataset. "Parameters" is a confusing term, but to oversimplfy it's just the number of decision-making levers the model has fine-tuned throughout its training. To get really hand-wavy about it, the more parameters a model has, the more sophisticated its understanding of the world can be.
 
-It's worth understanding the difference between GPT-3.5 and 4 because I've heard quite a few people say, "eh, Chat GPT is not that great", only to find out they had only tried GPT-3.5. Chat GPT is not a model, it's just a web app.
+It's worth understanding the difference between GPT-3.5 and 4 because I've heard quite a few people say, "meh, Chat GPT is not that great", only to find out they had only tried GPT-3.5. Chat GPT is not a model, it's just a web app. GPT-4 is the game-changing model that was released this year.
 
 ## Will AI eventually replace all knowledge workers?
 
-Probably. I don't see any reason from a physics/information theory perspective as to why it wouldn't, but the key phrase is "eventually". Saying "the market will crash" is almost certainly true, but it's not very useful. The question is *when*. You can only profit as an investor if you can predict with some accuracy *when* a market will crash.
+Probably. I don't see any reason from first principles as to why it wouldn't, but the key phrase is "eventually". Saying "the market will crash" is almost certainly true, but it's not very useful. The question is *when*. You can only profit as an investor if you can predict with some accuracy *when* a market will crash.
 
 The big problem is that it seems unclear whether improvements in the effectiveness of LLMs will have compounding, linear, or diminishing returns.
 
 ![growth graph](/img/800/growthgraphai.png.webp)
 
-What often happens in the world of technology is that a new technology is invented, and it has compounding returns for a while, but then it hits a wall and we sit around waiting for a breakthrough in science to push us to the next level. For example, the invention of the magnetic hard disk was a huge breakthrough, but spinning disks can only get so small and fast. SSDs were a huge breakthrough, but they also have limitations in size and speed. LLMs are obviously a big step forward in AI, but the question is whether or not we'll hit a wall and have to wait around for something novel before we get AGI.
+What often happens is that a new technology is invented, and it has compounding returns for a while, but then it hits a wall and we sit around waiting for a breakthrough in science to push us to the next level. For example, the invention of the magnetic hard disk was a huge breakthrough, but spinning disks can only get so small and fast. SSDs were a huge breakthrough, but they also have limitations in size and speed. LLMs are obviously a big step forward in AI, but the question is whether or not we'll hit a wall and have to wait around for something novel before we get AGI.
 
-If LLMs turn out to have compounding gains in effectiveness for long enough (blue line), we might as well all give up now. Ultron will exist within the next few decades, and the last thing you'll have to worry about is whether your Python skills are marketable or not. The only issue in the case of AGI is whether or not the value produced by AI is harnessed and distributed to humanity in a way that you can benefit from.
+If LLMs turn out to have compounding gains in effectiveness for long enough (blue line), we might as well all give up now. Ultron will exist within the next few decades, and the last thing you'll have to worry about is whether your Python skills are marketable or not. In the case of AGI, the only thing to worry about is whether or not the value produced by it will be harnessed and distributed to humanity in a way that we peasants can benefit from.
 
-However, if the returns of LLMs turn out to be linear or diminishing, or even just *become* linear or diminishing, then we knowledge workers will continue to have an important part to play in the world economy.
+However, if the returns of LLMs turn out to be linear or diminishing, or even just *become* linear or diminishing, then we knowledge workers will continue to have an important part to play in the world economy for some time.
 
 ## I'm gonna fire my developers and hire GPT-4
 
@@ -49,15 +49,17 @@ As it so happens, those are the two things that GPT-4 is best at, so if I can in
 
 First, let's talk about **firing Allan**, my most tenured full-time employee.
 
-I pay for ChatGPT Pro and GitHub Copilot for everyone at Boot.dev. I figure if it makes them even 5% more effective, it pays for itself. I'll get into specifics later about *how* exactly LLMs help us, but to slap a number on it, I'd say that they're making us around 10-20% more effective with our work. Certainly enough to pay for itself, but not enough to drastically disrupt our operations at the moment.
+I pay for ChatGPT Pro and GitHub Copilot for everyone at Boot.dev. I figure if it makes them even 5% more effective, it pays for itself. To slap a number on it, I'd estimate that ChatGPT and Copilot make myself and the other 2 engineers about 20-30% more effective with our work. Certainly enough to pay for itself, but not enough to drastically disrupt our operations.
 
 But for the sake of argument, let's pretend that GPT-4 makes developers 400% more effective. What do I need Allan for right??? I can just fire him and do all his work myself. I'll even have hours to spare!
 
 This is smol-brain business logic.
 
-I have an *incredible amount* of technical projects that, upon completion, will add immense business value. Major refactors and migrations, ambitious new features, and annoying bugs that at present are sitting *way back* on the back burner. It's all about balancing ROI at companies, and the companies that reinvest in growth outpace the ones that don't.
+I have an *incredible amount* of technical projects that, upon completion, will add immense value to the business. Major refactors and migrations, ambitious new features, and annoying bugs that at present are sitting *way back* on the back burner. It's all about balancing ROI at companies, and the companies that reinvest in growth outpace the ones that don't. If the costs of these projects come down enough, then the ROI (return on investment) on the project goes up, meaning I should be tackling them *sooner*, not *later*.
 
-If I got 400% more out each dev I hire, I'd hire *more* devs, not *fewer*. I'd be able to tackle more projects, and I'd be able to tackle them faster. Now, there are obviously companies that don't work this way as well. For example, maybe companies that don't sell tech as their product will be able to get away with fewer devs working on internal tooling and IT systems. However, for companies like mine where technology is the driver of revenue, I don't see why I would want fewer devs, even if GPT-4 were 10x more effective.
+For example, if a new feature will add $100,000 in revenue, but will cost $100,000 to build, then the ROI is 0. However, if the cost of the feature comes down to $50,000, I stand to earn $50,000 in profit by shipping it. If I can get 400% more work out of each dev I hire, I'd hire *more* devs, not *fewer*. I'd be able to tackle more projects, and I'd be able to tackle them faster.
+
+Now, there are counter-examples of this. For example, maybe companies that don't sell tech products as their primary driver of revenue will be able to get away with fewer devs working on internal tooling and IT systems. For them, it could be more about cutting costs than creating value. However, for companies like mine where technology is the driver of revenue, I don't see why I would want fewer devs, even if GPT-4 were 10x more effective.
 
 ## But you won't need developers, just product managers
 
@@ -65,24 +67,43 @@ Sorry if you're a "product person", but whenever I hear that it immediately tran
 
 ![idea person product manager anakin meme](/img/800/anakinpadeproductmanager.png.webp)
 
-So the idea here is that, well, maybe you won't need fewer people, but they won't need to be developers. Anytime they need to write code, they'll just whip out the 'ol LLM and get to work.
+So the idea here is that, well, maybe you won't need fewer *people*, but they won't need to be *developers*. Anytime they need to write code, they'll just whip out the 'ol LLM and get to work.
 
-To be clear, *we have experience with this already*. In the early 2000's, if you wanted to do ecommerce, you had to hire a developer to build you a custom ecommerce site. They had to build shopping carts, checkout, coupon codes, billing, inventory management, all from scratch. Today, if you're doing something super common, like ecommerce or blogging, there are zero reasons to build it from scratch.
+To be clear, *we have experience with this already*. In the early 2000's, if you wanted to sell stuff online, you had to hire a developer to build you a custom e-commerce site. They had to build shopping carts, checkout, coupon codes, billing, inventory management, all from scratch. Today, if you're doing something super common, like e-commerce or blogging, there's no reason to build it from scratch.
 
-Despite the proliferation of low-code tools over the last 20 years, the demand for developers has only exploded over the same period. Why? Because even though we automate vast swaths of common functionality, companies are constantly looking to get an edge, either by building internal tools to increase their own efficiency, or by building novel software products that they can sell to others who want that edge.
+*At the heart of software development is the core idea of automating away common tasks.* If we're not automating away the boring stuff so that we can go build newer, cooler stuff, why even call ourselves engineers? We're just code monkeys endlessly migrating the same stupid web app from one JavaScript framework to the Next.
+
+Despite the proliferation of low-code tools over the last 20 years, the demand for developers has only exploded over the same period. Why? Because even though we automate vast swaths of common functionality, companies are constantly looking to get an edge, either by building internal tools to increase their own efficiency; or by building novel software products that they can sell to others who want that edge.
 
 So, will LLMs make certain tasks that only developers can do today more accessible to non-developers? I believe so. Let me give some examples.
 
-## ChatGPT makes Winston a coder
+## Just give Winston a ChatGPT account
 
-The blog you're reading right now is a static site generated with Hugo. Blog posts are written in Markdown, and Git/GitHub is our CMS (content management system).
+I have a great administrative assistant. For this story let's call him "Winston", mostly because that's the name his mother gave him at birth.
 
-We have an employee here at Boot.dev that takes care of a lot of the non-technical operations tasks. He's a great writer, he's creative, but hasn't done much with code in the past (though ofc now learning on Boot.dev). Before ChatGPT I would have had to provide a ton of documentation to him on how to use VS Code, edit markdown, commit to Git, and open pull requests for him to make changes to the blog.
+The blog you're reading right now is a static site generated with Hugo. Blog posts are written in Markdown, and Git/GitHub is our CMS (content management system). Now, Winston takes care of a lot of the non-technical operations tasks here at Boot.dev. He's a great writer, he's creative, but hasn't done much with code in the past (though he's now learning on Boot.dev). Before ChatGPT I would have had to provide a ton of documentation to him on how to use VS Code, edit markdown, commit to Git, and open pull requests for him to make changes to the blog.
 
 I've given him access to ChatGPT Pro, and, yes, it takes him longer than it would take one of our engineers at present, but he's able to walk himself through the process much more quickly than he could have just Googling and reading documentation.
 
-The flip side of this is that if I assign one of our engineer's bug tickets to Winston, ChatGPT access is not closing the knowledge gap required to make effective changes, and it's not even close.
+The best part is that he's learning how to do it as he goes. It's not that ChatGPT is capable of doing the work for him, but it is capable of doing a rudimentary job of guiding him through the process and explaining along the way. He'll be even faster when he doesn't need to consult Chat GPT for every step.
 
-## I've tried to write blog posts with ChatGPT
+## I can't assign engineering tickets to Winston yet
 
-GPT-4 is really good at dumping mostly accurate information onto a page, in the voice of a well-known author. It's *truly terrible* at writing something engaging that feels human.
+Even with GPT-4, I'm still nowhere close to being able to assign these coding tickets directly to Winston, and that's really the crux of the issue. Here's my current belief: it will likely become apparent that code is a better way to model software systems than natural language. In other words, if you know how to write code, it's easier to write code that does a thing, than it is to write natural language that does a thing, at least if you care about precision. Let me give a concrete example.
+
+Fibonacci calculation in Python:
+
+```py
+def fib(n):
+    if n < 2:
+        return n
+    return fib(n-1) + fib(n-2)
+```
+
+Fibonacci calculation in English:
+
+> To calculate the nth Fibonacci number, check if n is less than 2. If it is, then n is the nth Fibonacci number. Otherwise, it's the sum of the Fibonacci numbers of n minus 1 and n minus 2, which can be calculated recursively.
+
+Lawyers are paid a lot of money to write contracts in natural language. Why? Because it's *really hard* to write natural language that describes a contract. It's actually *easier* and *simpler* to use a language that's more explicit and less ambiguous.
+
+I believe that in the medium term AI will continue to be used to generate code, but the people who can inspect, debug, and modify code will continue to be in high demand, becaues getting the details right matters. The tools developers use will keep evolving, and the trend of finding better and better layers of abstraction will continue.
