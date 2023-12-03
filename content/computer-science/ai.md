@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "9 Months with GPT-4: Can I Fire my Developers Yet?"
 author: Lane Wagner
 date: "2021-04-05"
 categories: 
@@ -8,7 +8,7 @@ categories:
 draft: true
 ---
 
-GitHub has been re-founded on copilot, rumors of an AI superior to GPT-4 abound, and you still can't even write a red-black tree. What's a budding developer to do?
+GitHub has been re-founded on copilot, rumors of an AI superior to GPT-4 abound, and you're trying to decide if it's worth it to learn what a red-black tree is.
 
 I'm often asked about the future of AI-assisted programming, and while the short answer is "I don't know", boy oh boy do I have some opinions and anecdotes to share. Strap in.
 
@@ -16,27 +16,29 @@ I'm often asked about the future of AI-assisted programming, and while the short
 
 GPT-4 is, as I write this, the most advanced general-purpose LLM model on the market. It's important to understand that there is a big difference between a product that *uses* a model, and the model itself. For example:
 
-* Chat GPT is a web app that uses GPT-3.5 and GPT-4
-* Boots is our GPT-4 powered teaching assistant on Boot.dev
-* GitHub Copilot is a VSCode plugin that uses GPT-4 (although I believe it's a modified version)
+* ChatGPT is a web app that uses the GPT-3.5 and GPT-4 models
+* Boot.dev's "Boots" is an AI-powered teaching assistant that uses GPT-4
+* GitHub Copilot is a VSCode plugin that uses (a modified version?) of GPT-4
 
-There is a *really big* difference between the GPT-3.5 and GPT-4 models. GPT-4 has about **10x** more parameters than GPT-3.5 and is trained on a much larger dataset. "Parameters" is a confusing term, but to oversimplfy it's just the number of decision-making levers the model has fine-tuned throughout its training. To get really hand-wavy about it, the more parameters a model has, the more sophisticated its understanding of the world can be.
+There is a *really big* difference between the GPT-3.5 and GPT-4 models. GPT-4 has about **10x** more parameters than GPT-3.5 and is trained on a much larger dataset. "Number of parameters" is a confusing term, but to oversimplify, it's just the number of decision-making levers the model has fine-tuned throughout its training. To get hand-wavy about it, the more parameters a model has, the more sophisticated its understanding of the world can be.
 
-It's worth understanding the difference between GPT-3.5 and 4 because I've heard quite a few people say, "meh, Chat GPT is not that great", only to find out they had only tried GPT-3.5. Chat GPT is not a model, it's just a web app. GPT-4 is the game-changing model that was released this year.
+It's worth understanding the difference between GPT-3.5 and GPT-4 because I've heard several people say, "meh, ChatGPT is not that great", only to find out they had only tried GPT-3.5. ChatGPT is not a model, it's just a web app. GPT-4 is the model that was released this year that has everyone's heads turning, so make sure you're using the right one when you're evaluating it.
 
-## Will AI eventually replace all knowledge workers?
+## Will AI eventually do all of our knowledge work?
 
-Probably. I don't see any reason from first principles as to why it wouldn't, but the key phrase is "eventually". Saying "the market will crash" is almost certainly true, but it's not very useful. The question is *when*. You can only profit as an investor if you can predict with some accuracy *when* a market will crash.
+Probably. If I zoom out to first principles, I don't see any reason as to why it wouldn't, but the key phrase is "eventually". Saying "the market will crash" is almost certainly true, but it's not very useful. The question is *when*. You can only profit as an investor if you can predict with some accuracy *when* a market will crash.
 
 The big problem is that it seems unclear whether improvements in the effectiveness of LLMs will have compounding, linear, or diminishing returns.
 
 ![growth graph](/img/800/growthgraphai.png.webp)
 
-What often happens is that a new technology is invented, and it has compounding returns for a while, but then it hits a wall and we sit around waiting for a breakthrough in science to push us to the next level. For example, the invention of the magnetic hard disk was a huge breakthrough, but spinning disks can only get so small and fast. SSDs were a huge breakthrough, but they also have limitations in size and speed. LLMs are obviously a big step forward in AI, but the question is whether or not we'll hit a wall and have to wait around for something novel before we get AGI.
+What often happens is that a new technology is invented, it has compounding returns for a while, but then it hits a wall and we sit around waiting for a breakthrough in science to push us to the next level. The transformer architecture that powers LLMs was one such breakthrough in 2017: neural networks had been around for decades, but transformers allowed us to train much larger models without running into the vanishing gradient problem (a fancy way of saying that the model can't learn anything new because it's too big).
 
-If LLMs turn out to have compounding gains in effectiveness for long enough (blue line), we might as well all give up now. Ultron will exist within the next few decades, and the last thing you'll have to worry about is whether your Python skills are marketable or not. In the case of AGI, the only thing to worry about is whether or not the value produced by it will be harnessed and distributed to humanity in a way that we peasants can benefit from.
+LLMs are a massive step forward in AI, but the question is whether or not we'll hit a new wall before we get AGI (artificial general intelligence) and have to wait around for something novel to get us to the next level.
 
-However, if the returns of LLMs turn out to be linear or diminishing, or even just *become* linear or diminishing, then we knowledge workers will continue to have an important part to play in the world economy for some time.
+If LLMs turn out to have continuous compounding gains in effectiveness (blue line), we might as well all give up now. Ultron will exist within the next few decades, and the last thing you'll have to worry about is whether your Python skills are marketable or not. The only thing to argue about at that point will be how to distribute the wealth generated by the machines, or alternatively, how to destroy them before they destroy us.
+
+What seems more likely to me is that LLMs turn out to have linear or diminishing effectiveness as we add data. If that's the case, then we knowledge workers will continue to have an important part to play in the world economy for some time.
 
 ## I'm gonna fire my developers and hire GPT-4
 
@@ -47,11 +49,11 @@ I've been aggressively using and testing GPT-4 ever since it was released. I run
 
 As it so happens, those are the two things that GPT-4 is best at, so if I can increase efficiency in those two areas, I can dramatically increase my profit margins. You can see why I've been so interested in GPT-4.
 
-First, let's talk about **firing Allan**, my most tenured full-time employee.
+First, let's talk about **firing Allan**, my most tenured full-time employee. 
 
-I pay for ChatGPT Pro and GitHub Copilot for everyone at Boot.dev. I figure if it makes them even 5% more effective, it pays for itself. To slap a number on it, I'd estimate that ChatGPT and Copilot make myself and the other 2 engineers about 20-30% more effective with our work. Certainly enough to pay for itself, but not enough to drastically disrupt our operations.
+Everyone at Boot.dev has Copilot and GPT-4 access. I figure it it makes us just 5% more effective, it pays for itself. I polled my coworkers, and we estimate that ChatGPT and Copilot make us about 20-30% more effective with our work. Certainly enough to pay for itself, but not enough to drastically disrupt our operations.
 
-But for the sake of argument, let's pretend that GPT-4 makes developers 400% more effective. What do I need Allan for right??? I can just fire him and do all his work myself. I'll even have hours to spare!
+But for the sake of argument, let's pretend that GPT-4 made us 400% more effective. What do I need Allan for right??? I can just fire him and do all his work myself. I'll even have hours to spare!
 
 This is smol-brain business logic.
 
@@ -106,4 +108,4 @@ Fibonacci calculation in English:
 
 Lawyers are paid a lot of money to write contracts in natural language. Why? Because it's *really hard* to write natural language that describes a contract. It's actually *easier* and *simpler* to use a language that's more explicit and less ambiguous.
 
-I believe that in the medium term AI will continue to be used to generate code, but the people who can inspect, debug, and modify code will continue to be in high demand, becaues getting the details right matters. The tools developers use will keep evolving, and the trend of finding better and better layers of abstraction will continue.
+AI will continue to be used to generate code, but because the output is *code*, not *English*, I believe that the people who can inspect, debug, and modify code will continue to be in high demand in the medium term. The tools developers use will keep evolving, and the trend of finding better and better layers of abstraction will continue.
