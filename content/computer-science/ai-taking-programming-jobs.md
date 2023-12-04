@@ -105,7 +105,7 @@ That kind of AI might exist in the *far distant* future, but I doubt its anywher
 
 ![tire swing project management meme 2](/img/800/tireswing2.png.webp)
 
-> Code is a better way to model software systems than natural language
+My hot take? *Code is a better way to model software systems than natural language.*
 
 When things go wrong, we need some sort of inspectable instruction set that we can debug and fix. You thought JavaScript was a bad programming language? Try English. I'm a native speaker, I studied this clusterf**k of a language for 12 years, and I still don't understand why we have 6 different pronunciations for "ough". For the curious:
 
