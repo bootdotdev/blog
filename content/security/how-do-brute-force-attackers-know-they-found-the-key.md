@@ -9,21 +9,23 @@ images:
   - /img/800/armstrong-1.webp
 ---
 
-Brute force attackers guess passwords, passphrases, and private keys in an attempt to eventually get the right answer and crack the security of a system. They systematically guess every combination. For example, if they were guessing telephone numbers in the US:
+To "Brute Force" something (when talking about computers) means to systematically try every possible combination until you find the right answer.
+
+Brute force attackers guess passwords, passphrases, and private keys in an attempt to eventually get the right answer and crack the security of a system. They systematically guess every combination. For example, if they were guessing telephone numbers in the US, they would start with `000-0000` and end with `999-9999`:
 
 ```
 (000) 000-0000
 (000) 000-0001
 (000) 000-0002
+(000) 000-0003
 ...
-(000) 000-0010
-(000) 000-0011
-...
+(999) 999-9996
+(999) 999-9997
+(999) 999-9998
+(999) 999-9999
 ```
 
-The question is, _how do they know when they have the right key?_
-
-It depends on the system.
+The question is, *how do they know when they have the right key?* Well, it depends on the system.
 
 Let's answer the question three times, one for three different common systems.
 
@@ -71,7 +73,7 @@ For example, the most naive form of brute force attack would be to try every per
 > 
 > aaa, aab, aac, ... aba, abb, abc... bba, bbb, bbc...
 
-Assuming 26 lowercase letters, 26 uppercase letters, 10 digits, and 10 special characters, it would take 66^10 (~1560000000000000000) guesses just to try all the combinations of exactly length 10. Assuming a modest 200 guesses per second, it would take ~247,336,377 years to crack the password.
+Assuming 26 lowercase letters, 26 uppercase letters, 10 digits, and 10 special characters, it would take 72^10 (~3,740,000,000,000,000,000) guesses just to try all the combinations of exactly length 10. Assuming a modest 200 guesses per second, it would take ~593,592,440 years to crack the password.
 
 ## So I'm Safe Right?
 
@@ -79,8 +81,7 @@ Based on the math above, it certainly seems like 10 digit passwords are impervio
 
 Instead of the attacker guess every single combination, instead, they may try every word in the English dictionary, with every three-digit combination appended to the end.
 
-- apple001, apple002, apple003...
-    
-- baby001, baby002, baby003...
+* apple001, apple002, apple003...
+* baby001, baby002, baby003...
     
 Assuming 50,000 words in the English dictionary, there are only 50,000,000 combinations! Again, assuming 200 guesses per second, it would take ~2.9 **days** to crack the password... that isn't very long. It is also trivial for the attacker to throw in special characters for corresponding letters. For example, `@pp1e001`
