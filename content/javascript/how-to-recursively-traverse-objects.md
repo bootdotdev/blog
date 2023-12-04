@@ -5,7 +5,9 @@ date: "2019-09-22"
 categories: 
   - "javascript"
 images:
-  - /img/800/colorful-recursive-fractal.webp.webp
+  - /img/800/recursivelytraversejsonobjects.png.webp
+imageAlts: 
+  - "this thing is a recursive json object, definitely"
 ---
 
 I've found that it's pretty rare that I need recursion in application code, but every once in a while I need to write a function that operates on a tree of unknown depth, such as a JSON object, and that's often best solved recursively. Even though recursion is rare, it is important to recognize when a problem is best solved recursively so that we can implement a good solution when the time comes.

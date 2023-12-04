@@ -7,7 +7,9 @@ categories:
   - "clean-code"
   - "golang"
 images:
-  - /img/800/slicing-const.png.webp
+  - /img/800/howtocreatemaps.png.webp
+imageAlts: 
+  - "Making maps, slices, and arrays in GoLang is as easy as making maps, slices, and arrays in GoLang"
 ---
 
 **The quick answer is that Go does not support constant arrays, maps or slices.** However, there are some great workarounds.

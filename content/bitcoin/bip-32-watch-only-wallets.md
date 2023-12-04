@@ -7,7 +7,8 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/800/frozen.jpeg
+  - /img/800/Bip32Watch.png.webp
+imageAlts: "fantasy monster frozen in block of ice"
 ---
 
 [Bitcoin improvement proposal 32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) is, in my opinion, one of the most important BIPs we have. (Thanks [Peter Wuille](https://twitter.com/pwuille)!) BIP 32 gave us Hierarchical Deterministic Wallets, which grant the ability to create a tree of keys from a single seed.

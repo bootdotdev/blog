@@ -6,7 +6,9 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/800/stop.webp
+  - /img/800/EncodevsEncrpyt.png.webp
+imageAlts: 
+  - "fantasy skull and book judging you for not knowing the difference between encoding and encrpytion"
 ---
 
 While encryption does _involve_ various methods of encoding data, the two are absolutely not interchangeable. In fact, if you get them mixed up it can result in serious data breaches and security vulnerabilities.
