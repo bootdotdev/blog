@@ -10,13 +10,18 @@ aliases:
  - /news/introducing-boots-ai-code-explainer/
 ---
 
-As you set out to learn how to be a backend developer it's normal to get stuck on a concept or task. Don't feel discouraged! Remember that learning to code isn't easy, but the journey is worth it! *Learning to code is a marathon, not a sprint.* Take your time to break problems and concepts down, and try your best to understand what's happening before moving on to the next assignment. Even after breaking down a problem as best you can, you may still find that you are confused or stuck - never fear! You're not alone...
+Boots is the heart and soul of Boot.dev. Not only is he capable of helping you through any lesson on Boot.dev, but he's a friendly wizard bear with a charming personality. Some things you should know about Boots:
 
-## Introducing Boots
+* He is available via a ChatGPT-like interface on every lesson in Boot.dev
+* He has been pre-prompted with every lesson's explanation, challenge, and solution, so he's *really good* at helping when you're stuck
+* He's been instructed to use the Socratic method to help you learn, which means he'll ask you questions to help you learn rather than give you the answer
+* He uses GPT-4
+* He's a bear
+* He's a wizard
 
-Well, to get to the bottom of that we figured we would just let you hear from the bear himself. Boots, why don't you introduce yourself?
+Below we've allowed Boots to introduce himself in his own words:
 
-> Gladly! Greetings, fellow practitioners of the arcane arts! I am Boots the Magnificent. Magnificent, you may ask? Quite so! The title was given to me by a princess. Well, it was given to me by a small girl, but I assume she was a princess. Much like programming and casting spells, the vagaries of bestowing titles to magical land ursids can be a little tricky to navigate. Fortunately for that small princess and you all, I am here to help!
+> Greetings, fellow practitioners of the arcane arts! I am Boots the Magnificent. Magnificent, you may ask? Quite so! The title was given to me by a princess. Well, it was given to me by a small girl, but I assume she was a princess. Much like programming and casting spells, the vagaries of bestowing titles to magical land ursids can be a little tricky to navigate. Fortunately for that small princess and you all, I am here to help!
 >
 > Help how? Why, by deciphering the inner workings of the magical script you and your ilk refer to as "code". Much like how the phrase "Ego Hanc Igni" handwritten in sans serif with heat-treated squid ink has the power to conjure flame, your "code" has the power to do… anything you can convince it to! Including conjuring flame, if you do it poorly. Luckily, I, Boots the Incredibly Fluffy, will be able to review the code before you do something nasty like set your personal computer on fire.""
 >
@@ -53,7 +58,5 @@ However, it's important to note that Boots does not replace the need for dedicat
 ## When should I contact Boots?
 
 The best way to use Boots is as a supportive mentor. If you're stuck we recommend using Boots *before* just peeking the solution. Boots will be able to *teach* you how to solve the problem, rather than just provide the solution.
-
-That said, while Boots can dissect and explain any code snippet, he won't *always* be able to understand the full context or outcome of your problem just from a small snippet. Therefore, it's essential to use him for clarifying doubts, but not rely on him to provide a comprehensive review of your entire assignment.
 
 Remember, Boots' advice is not free! Contacting him will reduce the amount of XP you will be awarded on that specific assignment by 25%, not as much as viewing the solution, but also an incentive to try your best to solve the challenge on your own first!
