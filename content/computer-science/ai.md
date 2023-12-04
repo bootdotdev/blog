@@ -20,7 +20,7 @@ GPT-4 is, as I write this, the most advanced general-purpose LLM model on the ma
 * Boots is our GPT-4 powered teaching assistant on Boot.dev
 * GitHub Copilot is a VSCode plugin that uses GPT-4 (although I believe it's a modified version)
 
-There is a *really big* difference between the GPT-3.5 and GPT-4 models. GPT-4 has about **10x** more parameters than GPT-3.5 and is trained on a much larger dataset. "Parameters" is a confusing term, but to oversimplfy it's just the number of decision-making levers the model has fine-tuned throughout its training. To get really hand-wavy about it, the more parameters a model has, the more sophisticated its understanding of the world can be.
+There is a *really big* difference between the GPT-3.5 and GPT-4 models. GPT-4 has about **10x** more parameters than GPT-3.5 and is trained on a much larger dataset. "Parameters" is a confusing term, but to oversimplify it's just the number of decision-making levers the model has fine-tuned throughout its training. To get really hand-wavy about it, the more parameters a model has, the more sophisticated its understanding of the world can be.
 
 It's worth understanding the difference between GPT-3.5 and 4 because I've heard quite a few people say, "meh, Chat GPT is not that great", only to find out they had only tried GPT-3.5. Chat GPT is not a model, it's just a web app. GPT-4 is the game-changing model that was released this year.
 
