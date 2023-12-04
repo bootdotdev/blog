@@ -57,9 +57,9 @@ Everyone at Boot.dev has Copilot and GPT-4 access. I figure if it makes us just 
 
 But for the sake of argument, let's pretend that GPT-4 made us 400% more effective. What do I need Allan for right??? I can just fire him and do all his work myself. I'll even have extra hours to spare!
 
-*This is smol-brain business logic.*
+**This is smol-brain business logic.**
 
-I have an *incredible amount* of technical projects that, upon completion, will add immense value to the business. Ambitious new features, tons of content to write, major refactors and migrations, and annoying bugs that at present are sitting *way back* on the back burner. It's all about balancing ROI at companies, and the companies that can effectively reinvest in growth outpace the ones that don't. If the costs of projects come down, then their ROI (return on investment) goes up.
+I have an *incredible number* of technical projects that, upon completion, will add immense value to my business. Ambitious new features, tons of content to write, major refactors and migrations, and annoying bugs that at present are sitting *way back* on the back burner. It's all about balancing ROI at companies, and the companies that can effectively reinvest in growth outpace the ones that don't. If the costs of projects come down, then their ROI (return on investment) goes up.
 
 If a new feature will generate $100,000 in revenue, but will cost $100,000 to build, then the ROI is 0, and I won't build it. However, if the cost of the feature comes down to $50,000, I stand to earn $50,000 in profit by shipping it. If I can get 400% more work out of each dev I hire, I'd hire *more* devs, not *fewer*. I'd be able to tackle more projects, and I'd be able to tackle them faster.
 
