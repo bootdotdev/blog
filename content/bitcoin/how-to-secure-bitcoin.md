@@ -6,7 +6,8 @@ categories:
   - "bitcoin"
   - "security"
 images:
-  - /img/800/photo-1523348837708-15d4a09cfac2.jpeg
+  - /img/800/howtosecureyourdogecoin.png.webp
+imageAlts: "your BitCoin is secure within these fantasy vaults because you secured them here"
 ---
 
 If you're new to Bitcoin and cryptocurrency, you may have heard the common phrase [not your keys not your coins](https://www.youtube.com/watch?v=dnC5mFaIW3Q). While self-custody isn't for everyone, it's the only way to truly have exclusive control over your funds. If that's what you're into, read on.

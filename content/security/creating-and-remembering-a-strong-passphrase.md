@@ -6,7 +6,9 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/800/photo-1509822929063-6b6cfc9b42f2.jpeg
+  - /img/800/CreatingandRememberingPass.png.webp
+imageAlts: 
+  - "locked fantasy treasure chest"
 ---
 
 We all have hundreds of online accounts. Ideally, as many of those accounts as possible have unique passwords. Unique passwords however present a difficult problem.

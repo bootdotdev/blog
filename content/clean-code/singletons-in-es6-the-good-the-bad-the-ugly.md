@@ -6,7 +6,9 @@ categories:
   - "clean-code"
   - "javascript"
 images:
-  - /img/800/photo-1473655443462-4c2bdebc3e1c.webp
+  - /img/800/singleton.png.webp
+imageAlts:
+  - "this guy sure is a singleton in ES6"
 ---
 
 Singletons are fairly controversial as far as I can tell, especially in JavaScript programming. Let's take a look at what they are, when to (maybe) use them, and when not to.
