@@ -63,7 +63,7 @@ I have an *incredible number* of technical projects that, upon completion, will 
 
 If a new feature will generate $100,000 in revenue, but will cost $100,000 to build, then the ROI is 0, and I won't build it. However, if the cost of the feature comes down to $50,000, I stand to earn $50,000 in profit by shipping it. If I can get 400% more work out of each dev I hire, I'd hire *more* devs, not *fewer*. I'd be able to tackle more projects, and I'd be able to tackle them faster.
 
-Caveat: There are cases where it makes sense for a company to layoff excess workers as the remaining employees become more efficient. This is mostly likely to happen in companies where developers are a cost center, not a profit center. If a company sells software (think Stripe), developers are part of the profit center. If you're a company that writes internal software to operations more efficient (think Walmart), developers are a cost center.
+Caveat: There are cases where it makes sense for a company to layoff excess workers as the remaining employees become more efficient. This is mostly likely to happen in companies where developers are a cost center, not a profit center. If a company sells software (think Stripe), developers are part of the profit center. If you're a company that writes internal software to make operations more efficient (think Walmart), developers are a cost center.
 
 *It's usually best to work in profit centers, not cost centers.*
 
