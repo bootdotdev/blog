@@ -89,7 +89,7 @@ I have a great administrative assistant. For the sake of the story let's just ca
 
 The blog you're reading right now is a static site generated with Hugo. Blog posts are written in Markdown, and Git is our CMS (content management system). Winston takes care of a lot of the non-technical operations tasks here at Boot.dev. He hasn't done much coding in the past (though he's now learning on Boot.dev). Before ChatGPT I would have had to provide pages of documentation to him on how to use VS Code, edit markdown, commit to Git, and open pull requests for him to be able to make small content changes to the blog.
 
-I've given him access to GPT-4, and, yes, it takes him longer than it would take a tenured developer, but walked himself through the process of editing markdown and making PRs without any help from me.
+I've given him access to GPT-4, and, yes, it takes him longer than it would take a tenured developer, but Winston walked himself through the process of editing markdown and making PRs without any help from me.
 
 But, even with GPT-4, I'm still nowhere close to being able to utilize Winston as a software engineer, and that's really the crux of the issue.
 
