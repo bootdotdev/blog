@@ -66,9 +66,13 @@ Gems can be spent on two things:
 * To buy sharpshooter armor
 * To buy XP boosts
 
+## Sharpshooter Sprees
+
+A *sharpshooter spree* is earned when you complete 15 assignments correctly in a row without making any mistakes! *Running* your code does not count against you, so feel free to run your code as much as you want while debugging, but make sure you are confident in your solution before you submit the assignment! Once earned a sharpshooter spree is never lost. Earning enough sprees will award you with sharpshooter achievements for big XP rewards!
+
 ### How do I protect my sharpshooter progress?
 
-Armor protects your sharpshooter streak from being lost! If you get an assignment incorrect, and you have armor purchased, you will instead lose a piece of armor instead of losing your sharpshooter streak! Once armor has been used on an assignment, that assignment will always be protected as indicated by the shield icon being shattered and broken.
+Armor protects your current sharpshooter spree from being lost! If you get an assignment incorrect, and you have armor purchased, you will instead lose a piece of armor instead of losing progress on your current sharpshooter spree! Once armor has been used on an assignment, that assignment will always be protected as indicated by the shield icon being shattered and broken.
 
 Armor will not be lost when: 
 
@@ -84,11 +88,11 @@ You can buy boosts by clicking on the gem icon in the sidebar, as long as you ha
 
 ## Quests
 
-There are two types of quests on Boot.dev: Daily, and Weekly.
+There are two types of quests on Boot.dev: Daily, and Ongoing.
 
-Completing daily quests will award you with XP. Daily quests are completed by passing off a certain amount of assignments for the day. The daily quest you are given each day is random. You can accept your daily quest from the [questboard](https://boot.dev/questboard). You can only complete a single daily quest every 24 hours.
+Completing daily quests will award you with XP. Daily quests are completed by passing off a certain amount of assignments for the day. You can choose between 4 different daily quests each day, the harder the quest the more XP you'll earn. Your choice should depend on how much time you think you will have in the platform that day. You can accept your daily quest from the Quests icon on the left side nav. You can only complete a single daily quest every 24 hours. You cannot abandon a quest once you accept it! So choose wisely!
 
-Weekly quests will award you with gems. You complete weekly quests by earning a certain amount of XP within a week. The harder the quest, the more XP you'll need to earn, and the more gems you'll gain as a reward. You cannot abandon a quest once you accept it! So choose wisely!
+Ongoing quests will award you with gems. You complete ongoing quests by earning a certain amount of XP. The difficulty of ongoing quests are given at random! The more difficult the ongoing quest, the more gems it will reward so keep an eye on it! XP rewards from achievements count towards your quest progress! So keep an eye on where you are at and make sure you have a quest accepted before you claim your XP!
 
 You may only have a single quest of each type active at any given time. You can select a quest if you don't have one yet from the [questboard](https://boot.dev/questboard).
 
