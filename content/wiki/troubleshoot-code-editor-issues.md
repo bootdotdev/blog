@@ -8,7 +8,7 @@ categories:
   - "wiki"
 ---
 
-As a Boot.dev student, you may have encountered frustrating moments when your code editor suddenly freezes or is stuck "Running Code", leaving you wondering what went wrong. Don't worry; we're here to help. Code editor freezing issues can be caused by various factors, and in this blog post, we'll explore some common culprits and provide solutions to help you get back to coding smoothly.
+As a Boot.dev student, you may have encountered frustrating moments when your code editor freezes or is stuck "Setting up your environment", leaving you wondering what went wrong. Don't worry; we're here to help. These issues can be caused by various factors, and in this blog post, we'll explore some common culprits and provide solutions to help you get back to coding smoothly.
 
 
 ## 1. Chrome Extensions Blocking the Python Interpreter
