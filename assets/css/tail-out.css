@@ -1118,6 +1118,11 @@ video {
   color: hsl(235 6% 81% / var(--tw-text-opacity));
 }
 
+.text-gray-200 {
+  --tw-text-opacity: 1;
+  color: hsl(235 7% 86% / var(--tw-text-opacity));
+}
+
 .text-red-500 {
   --tw-text-opacity: 1;
   color: rgb(237 66 69 / var(--tw-text-opacity));
