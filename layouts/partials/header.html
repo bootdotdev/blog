@@ -68,16 +68,10 @@
   {{ $syntaxcss := resources.Get "css/syntax.css" | minify }}
   <link href="{{ $syntaxcss.RelPermalink }}" rel="stylesheet">
 
-
   <!-- fonts -->
   <link rel="preconnect" href="https://use.typekit.net">
   <link rel="stylesheet" href="https://use.typekit.net/cmx5dxo.css">
   <!-- end fonts -->
-
-  <!-- Rewardful -->
-  <script>(function (w, r) { w._rwq = r; w[r] = w[r] || function () { (w[r].q = w[r].q || []).push(arguments) } })(window, 'rewardful');</script>
-  <script async src='https://r.wdfl.co/rw.js' data-rewardful='44a8ec'></script>
-  <!-- End Rewardful -->
 
   {{ partial "favicons.html" . }}
   {{ partial "gtm.html" . }}
