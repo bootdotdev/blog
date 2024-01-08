@@ -13,7 +13,7 @@ There is only one question that ignites my inner rage more than "How do I get a 
 
 > What [web framework](/backend/dont-start-with-frameworks/) should I use?
 
-It's not that I think frameworks are evil, scary, or even bad. I'm just bothered by the '*assumption* that to build an online thing, you *must* start with a framework.
+It's not that I think frameworks are evil, scary, or even bad. I'm just bothered by the *assumption* that to build an online thing, you *must* start with a framework.
 
 ## What do I mean by "framework"?
 
@@ -30,7 +30,7 @@ A library is hot-swappable. If I use a library for database operations, and a ne
 
 **Hey Next.js devs, React is a framework.** Neither Dan Abramov nor God himself can convince me that React is just a library. I understand that it can kinda be used as one, but no one does that.
 
-And while we're at it, Express.js isn't a framework. It's just a routing library. *(yes I know it says framework on the homepage, but see my preview comments about the JS ecosystem)*
+And while we're at it, Express.js isn't a framework. It's just a routing library. *(yes I know it says framework on the homepage, but see my previous comments about the JS ecosystem)*
 
 ## Put that hammer down
 
@@ -49,7 +49,7 @@ I hopped into the project and was immediately dismayed to learn it was a Ruby pr
 
 ![Ruby on Rails Kalm/Panik](/img/800/kalmpanicrails.png.webp)
 
-Look, I have no problem with Ruby on Rails. There are plenty of examples of companies that have made millions or even billions dollars on the back of Rails projects.
+Look, I have no problem with Ruby on Rails. There are plenty of examples of companies that have made millions or even billions of dollars on the back of Rails projects.
 
 But this isn't a monolithic web application. This is a *tiny* service that's supposed to quickly dump messages into a Postgres database. Why do I need an HTTP router? Why do I need an auth library? Why do I need all the other junk?
 
@@ -62,9 +62,9 @@ Go and JavaScript both have *super* easy and lightweight ways to accomplish this
 
 ## But could it have worked in Rails?
 
-Yes. I'm sure that I could have just refactored that Rails project, found the hot paths, and optimized the performance bottlenecks. I mean, its unlikely that it was ever going to be as fast or as lightweight as a Go service, but the project was I/O bound so it could have been fine.
+Yes. I'm sure that I could have just refactored that Rails project, found the hot paths, and optimized the performance bottlenecks. I mean, it's unlikely that it was ever going to be as fast or as lightweight as a Go service, but the project was I/O bound so it could have been fine.
 
-The point is that sometimes as software engineers we find a hammer that we really f---ing love. It's such a fun hammer! It's so ergonomic! So *clean*! And we're so good at wielding it! So, its natural that we go around swinging it at every goddamn nail we see.
+The point is that sometimes as software engineers we find a hammer that we really love. It's such a fun hammer! It's so ergonomic! So *clean*! And we're so good at wielding it! So, it's natural that we go around swinging it at every goddamn nail we see.
 
 ## It's a question of defaults
 
