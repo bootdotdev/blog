@@ -9,20 +9,18 @@ imgAlts:
 lastmod: "2023-01-25"
 ---
 
-Ready to become a backend developer? Don't make it a grind. **The smartest way to learn to code is to make sure you’re never bored.**
-
-We’re building off of years of psychological research and modern game design to guide you from beginner to master–if you’re ready to put in the time. With a curriculum designed for builders, a vibrant Discord community, and hat-tip to the gamer in all of us, we welcome you to the most captivating, finger-flying, addictive way to learn to code.
+We think the smartest way to learn to code is to make sure you’re never bored.
 
 ## The Story
 
-I originally built [Boot.dev](https://boot.dev) for my wife Breanna so she could transition from being an x-ray tech to a back-end developer. The reason being, we had run into a few problems:
+I originally built [Boot.dev](https://boot.dev) for my wife Breanna so she could transition from being an x-ray tech to a back-end developer, but we ran into a few problems:
 
 * We didn't have the time or money for a 4-year CS degree, but I felt a lot of the core CS concepts were important
 * As a hiring manager, I found that many resources don't focus enough on building projects
 * We found plenty of places to learn front-end development, but not back-end
 * Few people fail because coding is too hard, they fail because they lose motivation
 
-I decided it would be fun to build a course that incorporates a lot of the fun aspects of RPG games, and started Boot.dev as a side project. My wife was my first student and loves the courses, so I hope you do too.
+I decided it would be fun to build a course that incorporates a lot of the fun aspects of RPG games and started Boot.dev as a side project. My wife was my first student and loves the courses, so I hope you do too.
 
 ## Socials
 
@@ -57,7 +55,7 @@ Coding, and in particular *learning to code*, can become dull if the magic is lo
 
 * Everything should be learned through hands-on coding lessons
 * All concepts should be taught within the context of a real-world software project
-* Game elements like achievements and quests can supply boosts of external motivation and sweet sweet dopamine
+* Game elements like achievements and quests can supply boosts of external motivation and sweet, sweet dopamine
 
 ### 2. Computer science matters, degrees don't
 
@@ -75,11 +73,11 @@ The tighter your feedback loop, the better. Our courses teach new concepts throu
 
 Sometimes "deploy" means to host a web app on the internet. Sometimes it just means packaging up your project with great documentation and pushing it to GitHub.
 
-The point is, you need to *show your work*, and that work should be *interesting* if you want a better chance of landing a job.
+The point is you need to *show your work*, and that work should be *interesting* if you want a better chance of landing a job.
 
 ### 5. It's hard to find good resources
 
-The internet is estimated to host over 100 Zettabytes of data. That's about 100 *trillion* gigabytes of data. If you're learning to code, you're don't need *more* information, you need a curated roadmap of the *most important* information packaged in a way that's easy to digest.
+The internet is estimated to host over 100 Zettabytes of data. That's about 100 *trillion* gigabytes of data. If you're learning to code, you don't need *more* information, you need a curated roadmap of the *most important* information packaged in a way that's easy to digest.
 
 ### 6. Learning to code is a depth-first algorithm
 
@@ -99,8 +97,8 @@ Learning to code isn't easy. If it were, everyone would be doing it, and we woul
 
 You learn most effectively when you're in your [zone of proximal development](https://en.wikipedia.org/wiki/Zone_of_proximal_development), the place just *outside* of your comfort zone. There are just two rules for staying in the ZOPD:
 
-1. Don't waste your time-solving problems that you already know how to solve
-2. Don't waste your time-solving problems that are impossible for your skill level
+1. Don't waste your time solving problems that you already know how to solve
+2. Don't waste your time solving problems that are impossible for your skill level
 
 ### 9. Get an on-site, full-time job first
 
