@@ -11,27 +11,7 @@ We're building the smartest way to master backend development by tackling the ha
 
 ## Open positions
 
-### Digital Marketer #1
-
-* Location: Remote possible, Salt Lake Area preferred
-* Reports to: Founder
-* Compensation: Salary + Equity DOE
-
-Junior? Senior? Whatever. We just want someone that can do a great job helping new learners find Boot.dev. We need someone with the following skills in descending order of importance:
-
-* **Writing & Copywriting**: Can you tell a good story? Can you grab someone's attention and keep it? Can you write in a way that's easy to understand?
-* **Creative**: Can you make things look good? Can you script an engaging YouTube video? Can you point out what's wrong with a TikTok video?
-* **Code & tech**: Can you write a simple script in Python? Do you know how to use Git?
-* **Sponsorships & Partnerships**: Do you know how to find and run successful sponsorships and partnerships with creators and companies?
-* **SEO**: Do you know how to audit a website for SEO issues? Do you know how to optimize the content to rank? Do you know how to build backlinks?
-* **Analytics**: Do you know how to setup and manage Google Analytics, MixPanel, Posthog, etc? Do you know which metrics are important?
-* **Paid campaigns**: Do you know how to setup and manage Google Ads, Facebook Ads, etc? Do you know how to get creative in order to find a positive ROAS?
-
-*You don't need to be an expert in all of these areas, but we need someone that can do well and learn quickly.*
-
-You'll be the first full-time marketing hire, so you'll have a lot of freedom to experiment and try new things. We have budget to try new things, but we need someone that can be responsible with the money and find profitable channels quickly. We plan to stay profitable.
-
-We need someone who understands our core audience. We're not looking for someone that can market a weight loss product on Facebook. We're looking for someone who deeply understands the pain points of aspiring developers and can help them find Boot.dev in places they already hang out.
+None rn. Check back later!
 
 **How to apply:**
 
