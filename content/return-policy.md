@@ -9,3 +9,5 @@ Thanks for being a member of Boot.dev! If you are not entirely satisfied with yo
 ## Refunds
 
 If you didn't like our platform, you have 30 calendar days to request a complete refund on your subscription from the date you activated it. To request a refund, please [contact us](/contact/) with the email address you used to sign up.
+
+We limit one refund per customer per product. If you've already been refunded for a membership in the past, you are not eligible for another refund.

@@ -14,6 +14,8 @@ images:
 hello at boot.dev
 ```
 
+*The `at` is an `@` symbol.*
+
 Social links:
 
 * [YouTube](https://www.youtube.com/@bootdotdev)
