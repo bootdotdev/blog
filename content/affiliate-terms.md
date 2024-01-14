@@ -15,10 +15,8 @@ Violation of any of the terms below will result in the termination of your Accou
 ## Account Terms
 
 You must be 18 years or older to be part of this Program.
-You must live in the United States to be an Affiliate.
 You must be a human. Accounts registered by "bots" or other automated methods are not permitted.
 You must provide your legal full name, a valid email address, and any other information requested to complete the signup process.
-Your login may only be used by one person – a single login shared by multiple people is not permitted.
 You are responsible for maintaining the security of your account and password. Boot.dev cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
 You are responsible for all Content posted and activity that occurs under your account.
 One person or legal entity may not maintain more than one account.
@@ -44,10 +42,6 @@ Identifying yourself as a Boot.dev Affiliate
 You may not issue any press release with respect to this Agreement or your participation in the Program; such action may result in your termination from the Program. In addition, you may not in any manner misrepresent or embellish the relationship between us and you, say you develop our products, say you are part of Boot.dev or express or imply any relationship or affiliation between us and you or any other person or entity except as expressly permitted by this Agreement (including by expressing or implying that we support, sponsor, endorse, or contribute money to any charity or other cause).
 
 You may not purchase products through your affiliate links for your own use. Such purchases may result (in our sole discretion) in the withholding of referral fees and/or the termination of this Agreement.
-
-## Payment schedule
-
-As long as your current affiliate earning are over $20, you'll be paid each month. If you haven't earned $20 since your last payment, we'll pay you the following month after you've crossed the threshold.
 
 ## Customer definition
 
