@@ -24,7 +24,7 @@ We're looking for an in-house video producer to:
 * Manage any outside contractors we need to make our projects go off
 * (it's a lot, but startups amirite)
 
-Ideally, you'll be able to do most of what we need yourself, and only hire out for the stuff that:
+Ideally, you'll be able to do *most* of what we need yourself, and only hire out for the stuff that:
 
 1. Is outside your skillset
 2. You don't have time to do given the workload
@@ -35,7 +35,7 @@ Ideally, you'll be able to do most of what we need yourself, and only hire out f
 * Animations and effects
 * Social media prowess
 * Thumbnail badassery
-* Audio level wizardry
+* Audio leveling wizardry
 * Good effing taste
 
 **Compensation:**
