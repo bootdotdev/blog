@@ -11,7 +11,40 @@ We're building the smartest way to master backend development by tackling the ha
 
 ## Open positions
 
-None rn. Check back later!
+### Video Producer | Full-time | Remote
+
+We're looking for an in-house video producer to:
+
+* Make our video podcast look and sound amazing
+* Edit and produce explainer videos for our courses
+* Edit and produce any other videos we need for marketing and content
+* Be involved and help with the creative process of planning and executing videos
+* Manage all organic social media
+* Plan and execute a strategy to get our organic content in front of more folks, mostly on social
+* Manage any outside contractors we need to make our projects go off
+* (it's a lot, but startups amirite)
+
+Ideally, you'll be able to do most of what we need yourself, and only hire out for the stuff that:
+
+1. Is outside your skillset
+2. You don't have time to do given the workload
+
+**Stuff we like to see:**
+
+* Experience making engaging videos
+* Animations and effects
+* Social media prowess
+* Thumbnail badassery
+* Audio level wizardry
+* Good effing taste
+
+**Compensation:**
+
+* $50,000-$65,000 USD per year
+* Health benefits
+* Unlimited PTO
+* Coding education provided (forced)
+* Options equity
 
 **How to apply:**
 
