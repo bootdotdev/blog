@@ -43,6 +43,7 @@ Ideally, you'll be able to do *most* of what we need yourself, and only hire out
 * $50,000-$65,000 USD per year
 * Health benefits
 * Unlimited PTO
+* Yearly team retreat (probably)
 * Coding education provided (forced)
 * Options equity
 
