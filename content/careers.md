@@ -11,41 +11,7 @@ We're building the smartest way to master backend development by tackling the ha
 
 ## Open positions
 
-### Video Producer | Full-time | Remote
-
-We're looking for an in-house video producer to:
-
-* Make our video podcast look and sound amazing
-* Edit and produce explainer videos for our courses
-* Edit and produce any other videos we need for marketing and content
-* Be involved and help with the creative process of planning and executing videos
-* Manage all organic social media
-* Plan and execute a strategy to get our organic content in front of more folks, mostly on social
-* Manage any outside contractors we need to make our projects go off
-* (it's a lot, but startups amirite)
-
-Ideally, you'll be able to do *most* of what we need yourself, and only hire out for the stuff that:
-
-1. Is outside your skillset
-2. You don't have time to do given the workload
-
-**Stuff we like to see:**
-
-* Experience making engaging videos
-* Animations and effects
-* Social media prowess
-* Thumbnail badassery
-* Audio leveling wizardry
-* Good effing taste
-
-**Compensation:**
-
-* $50,000-$65,000 USD per year
-* Health benefits
-* Unlimited PTO
-* Yearly team retreat (probably)
-* Coding education provided (forced)
-* Options equity
+None rn check back later!
 
 **How to apply:**
 
@@ -78,8 +44,8 @@ We don't know you yet, but if you're going to enjoy working with us, you'll prob
 ## Other stuff to know
 
 * We've grown roughly 10x in 2023
-* Boot.dev was originally a side project, but we're now a full-time team of 3.
+* Boot.dev was originally a side project, but we're now a full-time team of 6.
 * We raised $330,000 dollars from an angel investor, but are now profitable and have a nice buffer of cash in the bank.
 * We don't have plans to raise more money. We want to grow responsibly and build a sustainable business that provides value to our students.
 * We like to play. We play video games, magic the gathering, eat together when possible and even take trips together when we hit our goals.
-* We don't have plans to quickly sell the company or go public. It could happen, but it's more likely that we'll distribute profits to the team and investors.
+* We don't have plans to quickly sell the company or go public. It could happen, but it's more likely that we'll distribute profits to the team and owners.
