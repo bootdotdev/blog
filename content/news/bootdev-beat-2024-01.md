@@ -68,4 +68,4 @@ Mitchell is a co-founder of one of the companies I admire most: Hashicorp. They 
 
 ### [(Article) Choosing Go at American Express [2019]](https://americanexpress.io/choosing-go/)
 
-In 2019 American Express decided to start using Go for some of their backend services. This article is a great read about why they chose Go and how they went about introducing it to their organization. I love reading about how large companies make decisions like this. It's a bit older or an article, but I still found it interesting!
+In 2019 American Express decided to start using Go for some of their backend services. This article is a great read about why they chose Go and how they went about introducing it to their organization. I love reading about how large companies make decisions like this. It's a bit older of an article, but I still found it interesting!
