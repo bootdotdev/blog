@@ -11,12 +11,12 @@ images:
 
 As a developer, how many times each day do you look something up online? I'm not talking about a simple piece of syntax, I'm talking about the things that are a bit harder to find. For example:
 
-* Is there a good way to compile C to WebAssembly and run it in a browser in a way that feels native?
-* Does the Stripe UI have a feature for exporting promotion code redemptions as a CSV?
+* Is there a good way to compile C to WebAssembly and run it in a browser without needing to modify the code itself?
+* Can the Stripe UI export promotion code redemptions as a CSV?
 * Is there a *good* tool for hot module reloading in Go?
-* Will I be discriminated against if I go out in public in South Dakota with blue hair?
+* Is it socially acceptable to go out in public in South Dakota with blue hair?
 
-While working as a team lead a few years ago, I remember asking Jeffy, a developer on my team with about 2 years of experience:
+While working as a team lead a few years ago, I remember asking Jeffy, a developer on my team:
 
 > "Is there a way to get SQLC to use pointers for nullable columns instead of the sql.Null types?"
 
@@ -38,11 +38,11 @@ Counterintuitively, I believe Jeffy's problem was that he didn't know when to gi
 
 ![Jeffy's Local Maximum](/img/800/jeffylocalmax.png.webp)
 
-Jeffy was too attached to his initial searching methods. Maybe he was too attached to one page from the docs, to his initial search query, or Google as a search mechanism altogether. Jeffy found a *local maximum* in his quest for a good answer and got stuck there. He should have bailed **so much sooner** and tried looking elsewhere.
+Jeffy was too attached to his initial searching methods. Maybe he was too attached to one page from the docs, to his initial search query, or Google as a search mechanism altogether. Jeffy found a *local maximum* and became stuck. He should have bailed **so much sooner** and tried looking elsewhere.
 
-If I don't find good evidence that the answer I'm looking for exists in the place I'm searching, I'm bailing pronto. That doesn't mean I'm 100% certain, but you usually don't have to read an entire Stack Overflow thread to know if it relates to your problem.
+If I don't find good evidence that the answer I'm looking for exists in the place I'm searching, I'm bailing pronto. That doesn't mean I'm 100% certain it doesn't exist, but you usually don't have to read an entire Stack Overflow thread to know if it relates to your problem.
 
-I'm honestly amazed how some people take so long to look stuff up. To be fair, sometimes you have a solid sense for efficiently searching, and you still get stuck in a "quagmire": a local maximum. If you're not careful, you can find yourself reading on and on about a topic that seems like *exactly* what you're looking for, only for it to skim over the details you need. Bummer.
+I'm honestly amazed how some people take so long to look stuff up. To be fair, even if you're an efficient searcher, you can still get stuck in a "quagmire": a local maximum. If you're not careful, you can find yourself reading on and on about a topic that seems like *exactly* what you're looking for, only for it to skim over the details you need. Bummer.
 
 I'm a big fan of using AI as a replacement for some of my would-be Google searches, but Chat GPT is the *ultimate* quagmire: the ultimate local maximum. It's the worst kind of quagmire, because at every step it will confidently reassure you that it does know that answer, and when you insist that it's wrong, it confidently continues to provide information that sounds correct, but isn't.
 
@@ -55,17 +55,17 @@ Sometimes we talk about "Googling things" as a skill, and it kinda is. But simil
 * Does the SERP indicate that your original search query was a good one? No? Bail.
 * Does the first page you visit have a directly relevant title or first paragraph? No? Bail.
 * After spending another minute on the page are you still convinced the answer is somewhere below? No? Bail.
-* Is it likely the answer can be found more easily in the docs, the user manual, (gasp) the code itself? Yes? Bail.
+* Is it likely the answer can be found more easily in the docs, the user manual, or, *gasp*, the code itself? Yes? Bail.
 
-Reading the manual, perusing the official docs, or digging through the source code usually takes longer than skimming an on-topic article or tutorial. The trouble is, those articles often coalesce into an entire ocean of local maxima. They tease you by scratching the surface of what you're looking for, but if your issue isn't the most common one, you're left hanging.
+Reading the manual, perusing the official docs, or digging through the source code usually takes longer than skimming an on-topic article or tutorial. SEO-spam articles often coalesce into an entire sea of local maxima. They tease you by scratching the surface of what you're looking for, but if your issue isn't the most common one, you're left hanging.
 
 Sometimes, taking the time to go deep into the topic is the fastest (only?) way to find answers to the more esoteric questions.
 
 ## Back to Jeffy
 
-I don't want to leave you hanging on this story. As it turned out, the documentation for SQLC was complete, but it was a bit hard to understand how to use pointers for nullable columns if you landed on the wrong page. There is a lot of configuration options, and it's easy to get lost.
+I don't want to leave you hanging on this story. As it turned out, the documentation for SQLC was complete, but it was a bit hard to understand how to use pointers for nullable columns if you landed on the wrong page. There are a lot of configuration options, and it's easy to get lost.
 
-I just cloned the repo, grepped for "pointer", and found the code that parsed the configuration option. It made it clear that we just needed to be sure to do three things:
+I just cloned the repo, grepped for "pointer", and found the code that parsed the configuration option. It was clear after just a few minutes of code reading that we just needed to do three things:
 
 1. Specify the `go_type` we want (e.g. "string" instead of `sql.NullString`)
 2. Set `nullable: true`
