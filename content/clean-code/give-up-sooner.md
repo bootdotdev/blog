@@ -6,7 +6,7 @@ categories:
   - "clean-code"
   - "golang"
 images:
-  - /img/800/frameworkhouse.png.webp
+  - /img/800/goldencitysad.png.webp
 ---
 
 As a developer, how many times each day do you look something up online? I'm not talking about a simple piece of syntax, I'm talking about the things that are a bit harder to find. For example:
