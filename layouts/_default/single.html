@@ -2,12 +2,12 @@
 
 {{ $isBlog := and (.Params.categories) (not (in .Params.categories "wiki")) }}
 
-{{ if $isBlog }}
-{{ partial "sticky_cta.html" .}}
-{{ end }}
-
 <div class="flex flex-row">
     <div class="flex-1 h-full-minus-bar overflow-y-auto bg-glassmorph items-center w-full">
+        {{ if $isBlog }}
+        {{ partial "sticky_cta.html" .}}
+        {{ end }}
+
         <div class="max-w-3xl p-4 m-auto">
             <div class="mb-8">
 

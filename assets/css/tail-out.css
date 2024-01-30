@@ -754,11 +754,6 @@ video {
   margin-right: auto;
 }
 
-.my-1 {
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
-}
-
 .mb-4 {
   margin-bottom: 1rem;
 }
@@ -871,10 +866,6 @@ video {
   cursor: pointer;
 }
 
-.list-disc {
-  list-style-type: disc;
-}
-
 .grid-cols-2 {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
@@ -923,10 +914,6 @@ video {
   margin-bottom: calc(0.25rem * var(--tw-space-y-reverse));
 }
 
-.overflow-auto {
-  overflow: auto;
-}
-
 .overflow-visible {
   overflow: visible;
 }
@@ -949,10 +936,6 @@ video {
 
 .border-t-2 {
   border-top-width: 2px;
-}
-
-.border-r {
-  border-right-width: 1px;
 }
 
 .border-b {
@@ -1002,24 +985,8 @@ video {
   padding: 1rem;
 }
 
-.p-6 {
-  padding: 1.5rem;
-}
-
 .p-2 {
   padding: 0.5rem;
-}
-
-.p-1 {
-  padding: 0.25rem;
-}
-
-.p-0\.5 {
-  padding: 0.125rem;
-}
-
-.p-0 {
-  padding: 0px;
 }
 
 .py-4 {
@@ -1045,11 +1012,6 @@ video {
 .px-3 {
   padding-left: 0.75rem;
   padding-right: 0.75rem;
-}
-
-.py-1 {
-  padding-top: 0.25rem;
-  padding-bottom: 0.25rem;
 }
 
 .pt-2 {
@@ -1105,10 +1067,6 @@ video {
 
 .font-medium {
   font-weight: 500;
-}
-
-.italic {
-  font-style: italic;
 }
 
 .leading-6 {
@@ -1284,10 +1242,6 @@ video {
 }
 
 @media (min-width: 1024px) {
-  .lg\:block {
-    display: block;
-  }
-
   .lg\:px-8 {
     padding-left: 2rem;
     padding-right: 2rem;
