@@ -60,12 +60,6 @@ If you haven't yet, subscribe on YouTube, Spotify, or Apple Podcasts! If you lea
 
 ## The cream of the crop
 
-### [(Podcast) Consider this before migrating the Backend to HTTP/3](https://podcasts.apple.com/us/podcast/consider-this-before-migrating-the-backend-to-http-3/id1330350799?i=1000630346842)
-
-by Hussein Nasser
-
-Hussein is the host of the Backend Engineering Podcast! He does a great job tackling deeply technical projects in each episode, usually by himself. HTTP 2 and 3 are fascinating, and there is a lot of confusion around them. Hussein does a great job explaining some of the things you should consider before migrating to HTTP 3.
-
 ### [(Article) Rook to XSS: How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
 
 by Jacob
