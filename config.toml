@@ -30,11 +30,13 @@ googleTagManager = "GTM-PT7FHFB"
 dofollows = [
   "https://boot.dev",
   "https://blog.boot.dev",
+  "https://www.boot.dev",
   "https://wagslane.dev",
   "https://scrimba.com",
   "https://prepcards.dev",
   "https://www.stratascratch.com",
   "https://www.youtube.com",
+  "https://youtube.com",
   "https://podcasts.apple.com",
   "https://backendbanter.fm",
   "https://www.backendbanter.fm",

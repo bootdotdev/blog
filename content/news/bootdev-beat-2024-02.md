@@ -1,7 +1,7 @@
 ---
 title: "The Boot.dev Beat. February 2024"
 author: Lane Wagner
-date: "2024-02-01"
+date: "2024-01-31"
 categories:
   - "news"
 images:
@@ -9,13 +9,10 @@ images:
 imageAlts:
   - "Boot.dev Beat Drum"
 dofollows:
-  - "https://mitchellh.com"
-  - "https://americanexpress.io"
-  - "https://podcasts.apple.com"
-draft: true
+  - "https://skii.dev"
 ---
 
-Hope you had a wonderful holiday! I know you might not have been able to take time off, but I hope you were able to spend *some* time with family and friends. I spent the whole week driving up and down the state of Utah. It was fun, but I'm happy to be back in my office. Kids can be exhausting. Love 'em, but they're exhausting.
+**609,179**. That's the number of lessons you crazy folks have completed on [Boot.dev](https://www.boot.dev) in the last 30 days. Good work my fellow pupils.
 
 Regards, Lane
 
@@ -29,9 +26,11 @@ Using a terminal is an invaluable skill for any developer, but it's also often o
 
 ["The March of Time"](https://www.boot.dev/lore) is an online novel that we're publishing chapter by chapter on Boot.dev. It's the lore of Boots' universe, and we hope you'll enjoy it. It's not required reading by any means, but if you enjoy the legendarium we're building to keep learning fun, you might want to check it out.
 
-### 3. Boots works the same in all lesson types
+### 3. Big Boots Update
 
-Boots used to only be available on multiple choice lessons *after* completing the assignment, and he wasn't available on all lesson types. We've now made Boots available on all lesson types, and he works the same way in all of them.
+Your conversations with Boots are now saved, so you can pick them up where you left off or review them later! You can also quickly start a new conversation without needing to refresh the page.
+
+Also, Boots used to only be available on multiple choice lessons *after* completing the assignment, and he wasn't available on all lesson types. We've now made Boots available on all lesson types, and he works the same way in all of them!
 
 ### 4. Fellowship Achievements
 
@@ -52,12 +51,12 @@ Our [Discord community](https://boot.dev/community) is easily one of our most va
 
 This month's episodes include:
 
-* []()
+* [#038 - I Got Caught Rolling my Own Auth... feat. Dev Agrawal](https://www.backendbanter.fm/episodes/039-auth-with-dev-agrawal)
 * [#037 - Caddy Chronicles with Matt Holt](https://www.backendbanter.fm/episodes/caddy-chronicles-with-matt-holt)
 * [#036 - BadCop's Bash Breakdown](https://www.backendbanter.fm/episodes/ep-36)
 * [#035 - Discussing Roc and functional systems with Richard Fieldman](https://www.backendbanter.fm/episodes/035-discussing-roc-and-functional-systems-with-richard-fieldman)
 
-Subscribe to the show in your podcast player of choice! All episodes are free, and you can find them on Spotify, Apple Podcasts, YouTube music, and everywhere else.
+If you haven't yet, subscribe on YouTube, Spotify, or Apple Podcasts! If you leave a rating and a review, I'll love you forever.
 
 ## The cream of the crop
 
@@ -67,14 +66,14 @@ by Hussein Nasser
 
 Hussein is the host of the Backend Engineering Podcast! He does a great job tackling deeply technical projects in each episode, usually by himself. HTTP 2 and 3 are fascinating, and there is a lot of confusion around them. Hussein does a great job explaining some of the things you should consider before migrating to HTTP 3.
 
-### [(Article) Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
-
-by Mitchell Hashimoto
-
-Mitchell is a co-founder of one of the companies I admire most: Hashicorp. They make some of the best developer tools out there, including Terraform. He also blogs on his site, and I found this piece about terminal emulators particularly interesting. I've been using the terminal for as long as I've been a developer, and I had no idea about some of the intricacies he talks about.
-
 ### [(Article) Rook to XSS: How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
 
 by Jacob
 
 Jacob (unsure of his last name) wrote an amazing article about how he hacked chess.com. It's a great read about web security and I was further amazed to learn that he's only 17 years old!
+
+### [(Article) Give Up Sooner](https://blog.boot.dev/clean-code/give-up-sooner/)
+
+by Lane Wagner
+
+Yeah yeah, so I wrote this one. I wouldn't have published it if I didn't think it was good. Clickbait title aside, it's about knowing when to give up on a search for information, or rather, knowing when to bail on a local maximum. It should help you be a better "googler".
