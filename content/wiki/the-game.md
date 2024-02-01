@@ -29,8 +29,8 @@ Your role is shown on your profile page, and it also gives you special perks and
 * **Scholar:** Level 50
 * **Mage:** Level 60
 * **Sage:** Level 70
-* **Druid:** Level 80
-* **Necromancer:** Level 90
+* **Archsage:** Level 80
+* **Mage:** Level 90
 * **Archmage:** Level 100
 
 ## Levels and XP
@@ -84,7 +84,7 @@ Armor will not be lost when:
 
 XP boosts are purchased with gems, and they give you a temporary multiplier for any XP that you earn. For example, you may get +25% XP for all assignments completed within the hour that a boost is active.
 
-You can buy boosts by clicking on the gem icon in the sidebar, as long as you have enough gems.
+You can buy boosts by clicking on the gem icon in the sidebar, as long as you have enough gems. A maximum of 4 boosts can be active at once.
 
 ## Quests
 
