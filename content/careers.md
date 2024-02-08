@@ -11,12 +11,12 @@ We're building the smartest way to master backend development by tackling the ha
 
 ## Open positions
 
-### Software Engineering Teacher (mid/senior)
+### Software Engineering Teacher | mid or senior level
 
-**Location:** Remote or Onsite (Salt Lake City, UT area)
-**Reports to:** Founder
-**Compensation:** 60k-150k DOE, Equity Package, Benefits
-**Type:** Full-time
+* Location: Remote or Onsite (Salt Lake City, UT area)
+* Reports to: Founder
+* Compensation: 60k-150k DOE, Equity Package, Benefits
+* Type: Full-time
 
 We need a software engineer who is maniacal about teaching and explaining complex topics in simple terms. As a teacher at Boot.dev, your primary responsibility will be to create and maintain world-class interactive courses that teach backend development and cloud engineering. We do not do any live teaching, you'll primarily be writing text-based content and creating interactive challenges and projects for students.
 
