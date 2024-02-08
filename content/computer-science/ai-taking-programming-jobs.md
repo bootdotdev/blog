@@ -99,7 +99,7 @@ Some folks have hypothesized:
 
 > In the movies, when the AI takes over, it's not generating Python code. Humans tell the AI what to do, and the AI just does it, probably by JIT compiling some assembly code or something.
 
-That kind of AI might exist in the *far distant* future, but I doubt its anywhere close. Even if the AI were 100% accurate at producing working executables, I don't trust *humans* to give the AI good instructions. Communicating with humans is *really hard*, even if you're a super-intelligent AI.
+That kind of AI might exist in the *far distant* future, but I doubt it's anywhere close. Even if the AI were 100% accurate at producing working executables, I don't trust *humans* to give the AI good instructions. Communicating with humans is *really hard*, even if you're a super-intelligent AI.
 
 ![tire swing project management meme 1](/img/800/tireswing1.png.webp)
 
