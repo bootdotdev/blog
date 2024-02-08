@@ -11,9 +11,9 @@ We're building the smartest way to master backend development by tackling the ha
 
 ## Open positions
 
-### Software Engineering Teacher (mid or senior level)
+### Software Engineering Teacher (mid/senior)
 
-**Location:** Remote or Onsite in Salt Lake City, UT area
+**Location:** Remote or Onsite (Salt Lake City, UT area)
 **Reports to:** Founder
 **Compensation:** 60k-150k DOE, Equity Package, Benefits
 **Type:** Full-time
