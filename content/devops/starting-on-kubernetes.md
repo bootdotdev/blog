@@ -10,13 +10,15 @@ images:
 draft: true
 ---
 
-Theo made a video about Kubernetes like, forever ago, and I kept meaning to respond to it, but I didn't. Until now.
+Theo made a video about Kubernetes like, forever ago, and I kept meaning to respond to it, but I didn't. Until now. The video is [here: "You Don't Need Kubernetes"](https://www.youtube.com/watch?v=H5sPGruv2yc). It's a great watch, especially if you're an indie developer or building an internet startup.
 
-The video is [here: "You Don't Need Kubernetes"](https://www.youtube.com/watch?v=H5sPGruv2yc).
+*But.*
 
-I think Theo is unilaterally correct if you fall into a specific category of developer. That is, I think he's correct if you're a developer building at a small company (maybe your own) and you're not already good at Kubernetes.
+If you're trying to build a successful career as a software engineer, I think there is a less obvious lesson to be learned hidden between the frames: if you want to be an *expensive* engineer, maybe you should be learning (things like) Kubernetes.
 
-Now, to be clear, Theo does provide a lot of nuance about cases where K8s is useful in his video, and he's right about his caveats. But the 95% of the video I agree with doesn't make for an interesting read, so let's dive into the 5% I disagree with.
+## The danger of doing the popular thing
+
+It's common knowledge that if you're starting a business, you don't want to be doing the thing that everyone else is doing. When you come up with a killer app idea, and you pitch it to your friends, inevitably the first thing out of their.
 
 ## Kubernetes is hard
 
