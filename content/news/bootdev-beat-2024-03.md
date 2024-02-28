@@ -28,7 +28,7 @@ This month we ran our very first boss battle event! It was a ton of fun, we even
 
 Weekly streaks are, arguably, the most important game feature on Boot.dev. They're designed to keep you consistent with your coding habits. One painful thing about them is that they fully reset if you miss a week. We're introducing the frozen flame item, which you can purchase with gems and will be auto-consumed if you miss a week to keep your streak alive.
 
-![Frozen Flame Icon](/img/800/Frozen_Fire.png.webp)
+![Frozen Flame Icon](/img/800/Frozen_Fire.png.webp.webp)
 
 We've also started commissioning custom art from artists rather than relying so much on AI-generated art. It takes longer of course, but we think the quality is so worth it.
 
