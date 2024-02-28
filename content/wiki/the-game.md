@@ -61,10 +61,11 @@ You can earn gems in two different ways:
 * Completing quests
 * Unlocking new roles
 
-Gems can be spent on two things:
+Gems can be spent on three things:
 
 * To buy sharpshooter armor
 * To buy XP boosts
+* To buy frozen flames
 
 ## Sharpshooter Sprees
 
@@ -101,6 +102,14 @@ You may only have a single quest of each type active at any given time. You can 
 ![achievements banner](/img/800/achievmentsbanner.png.webp)
 
 The primary purpose of achievements is to award you with bonus XP, but when you earn achievements you'll also unlock the associated badge on your portfolio page. There are many different ways in which achievements can be earned, each achievement is different. You can read about the available achievements on the [achievements page](https://boot.dev/achievements).
+
+## Streak Achievements
+
+You start a streak by passing your first assignment. You gain streak achievements by extending your streak to each achievement's set number of weeks. Every seven days you must pass a new assignment or lose your streak progress. You will not lose your streak achievements by losing your streak, but to gain the next streak achievement, you must start your streak over.
+
+## How do I protext my streak?
+
+Frozen flames protects your current streak from being lost! If you fail to complete a new assignment within seven days of your latest assignment completion, and you have a frozen flame purchased, you will lose the frozen flame instead of losing your streak progress. You will have seven extra days to complete a new assignment or purchase another frozen flame.
 
 ## Karma
 
