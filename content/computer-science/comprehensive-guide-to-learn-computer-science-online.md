@@ -132,7 +132,7 @@ Assembly is the native language of the processor, and writing a bit of it can he
 #### Resources
 
 - eBook: [Computer Organization and Design](https://ict.iitk.ac.in/wp-content/uploads/CS422-Computer-Architecture-ComputerOrganizationAndDesign5thEdition2014.pdf)
-- [Binary and Hexadecimal (Kahn Academy)](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra#algebra-alternate-number-bases)
+- [Binary and Hexadecimal (Khan Academy)](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra#algebra-alternate-number-bases)
 - [Azeria Labs Writing Arm Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 #### Goals
@@ -148,10 +148,11 @@ The study of algorithms and data structures is the bread and butter of computer 
 
 I'm in complete agreement with the traditional education system that familiarity with common algorithms and data structures is vital to the success of any developer. Understanding these basic problem-solving skills will also benefit you in any aspect of your career and life.
 
-![](/img/800/travelling_salesman_problem.png)
+![tsp](/img/800/travelling_salesman_problem.png)
+
 #### Resources
 - [Boot.dev's Learn Algorithms course](https://boot.dev/learn/learn-algorithms)
-- [Boot.dev's LearnData Structures course](https://boot.dev/learn/learn-data-structures)
+- [Boot.dev's Learn Data Structures course](https://boot.dev/learn/learn-data-structures)
 - [Boot.dev's Learn Advanced Algorithms course](https://boot.dev/learn/learn-advanced-algorithms)
 - [Data-Structures & Algorithms with JavaScript](https://github.com/GauravWalia19/Free-Algorithms-Books/blob/master/Library/src/JAVASCRIPT/Data-Structures-%26-Algorithms-with-JavaScript.pdf)
 - [Steven Skiena's Video Lectures](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
