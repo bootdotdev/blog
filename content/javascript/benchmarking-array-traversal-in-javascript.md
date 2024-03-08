@@ -5,7 +5,7 @@ date: "2019-11-08"
 categories: 
   - "javascript"
 images:
-  - /static/img/800/ruinreborn_fasthorse.webp.webp
+  - /img/800/ruinreborn_fasthorse.webp.webp
 ---
 
 There are many ways to traverse an array in Javascript. In this benchmark, we will look at five different ways and the pros and cons of each. Keep in mind that these benchmarks were run in a Chrome browser on Codepen.io. Results will vary by browser/interpreter.
