@@ -60,4 +60,4 @@ To be clear, I don't believe in standing in the way of progress. I want coding a
 
 ## So should I not learn Next.js?
 
-I'm not trying to single out individual technologies necessary (except for Java, don't do Java kids). I'm saying that you shouldn't be scared of the hard stuff. Don't jump from easy project to easy project. Once you've found your bearings in this whole coding thing, start tackling some harder problems. That's what will carry you forward in your career.
+I'm not trying to single out individual technologies (except for Java, don't do Java kids). I'm saying that you shouldn't be scared of the hard stuff. Don't jump from easy tutorial to easy tutorial. Once you've found your bearings in this whole coding thing, start tackling some harder problems. The work will pay off.
