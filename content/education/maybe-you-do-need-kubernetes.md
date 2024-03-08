@@ -8,9 +8,7 @@ images:
   - /img/800/buildingarobot.png.webp
 ---
 
-Theo has this great video on Kubernetes, currently titled ["You Don't Need Kubernetes"](https://www.youtube.com/watch?v=H5sPGruv2yc). Now, I'm a Kubernetes enjoyer, but I'm not here to argue about that. The part of the video I *do* want to discuss has nothing to do with k8s. It's where Theo draws the "Line of Primeagen":
-
-![line of primeagen](/img/800/pointofprime.jpeg.webp)
+Theo has this great video on Kubernetes, currently titled ["You Don't Need Kubernetes"](https://www.youtube.com/watch?v=H5sPGruv2yc). I'm a Kubernetes enjoyer, but I'm not here to argue about that. The part of the video I *do* want to discuss has nothing to do with k8s. It's where Theo draws the "Line of Primeagen".
 
 He explains that some technologies trade scalability (performance, flexibility, whatever) for speed of development. Deploying Next.js using Vercel and Firebase is quick but it comes at a cost. As you scale up, either by adding users or by adding more complex features, you'll need to do one of two things:
 
@@ -19,7 +17,11 @@ He explains that some technologies trade scalability (performance, flexibility, 
 
 So, the idea is that you should choose a fast-to-ship technology so that you can move faster and hire more cheaply.
 
-You should stick to that strategy until you scale up to the "Line of Primeagen". It represents the point where you're spendng so much money due to slow code or third-party costs that it's worth it to do the hard things required to more efficiently "sacle" (whatever that means in your case).
+Then you stick with that strategy until you scale up to the "Line of Primeagen":
+
+![line of primeagen](/img/800/pointofprime.jpeg.webp)
+
+It represents the point where you're spending so much money due to slow code or third-party costs that it's worth it to do the hard things required to more efficiently "scale" (whatever that means in your case).
 
 You gotta hire a Rust Chad and kick those React Andys to the curb. Or something.
 
