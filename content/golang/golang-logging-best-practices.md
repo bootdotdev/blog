@@ -6,7 +6,7 @@ categories:
   - "clean-code"
   - "golang"
 images:
-  - /img/800/photo-1457524461416-8796b6d23efb-e1589473495660.webp
+  - /static/img/800/golang_logging_best_practices.webp
 ---
 
 Let's discuss a few rules of thumb for logging in Go, as well as some features you may not have heard of that can make debugging easier. Best practices for logging in Go are not so obvious and sometimes we need to look closer to see what is the best choice, considering the unique situation of error handling in Go.
