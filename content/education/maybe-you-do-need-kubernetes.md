@@ -17,6 +17,8 @@ He explains that some technologies trade scalability (performance, flexibility, 
 
 So, the idea is that you should choose a fast-to-ship technology so that you can move faster and hire more cheaply.
 
+*...I can ship a Go app to k8s faster than I can get eslint, tsc, and vsc-de to cooperate... but I digress...*
+
 Then you stick with that strategy until you scale up to the "Line of Primeagen":
 
 ![line of primeagen](/img/800/pointofprime.jpeg.webp)
@@ -28,8 +30,6 @@ You gotta hire a Rust Chad and kick those React Andys to the curb. Or something.
 ## What's wrong with this idea?
 
 Well, nothing really. Theo's correct. If you're a founder, indiehacker, or engineer #1 at a startup, this is exactly how you should be thinking.
-
-*...granted, I can ship a Go app on k8s faster than I can get eslint, tsc, and vsc-de to cooperate but I digress...*
 
 The problem is that *you* aren't a founder, an indiehacker, or engineer #1 at a startup. 99% of my readers want to be a great engineer and earn a high salary as employee #2-10000 at a tech company. There's nothing wrong with that, but it means you should think about this stuff differently.
 
