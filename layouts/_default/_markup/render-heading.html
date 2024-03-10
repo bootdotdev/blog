@@ -1,6 +1,6 @@
-<h{{ .Level }} class="anchor group" id="{{ .Anchor | safeURL }}">
-  {{- if and (ge .Level 1) (le .Level 6) }}{{" " -}}
-  <a href="#{{ .Anchor | safeURL }}">🔗</a>
-  {{- end -}}
+<h{{ .Level }} class="flex anchor group" id="{{ .Anchor | safeURL }}">
   <span> {{ .Text | safeHTML }}</span>
+  {{- if and (ge .Level 1) (le .Level 6) }}{{" " -}}
+  <a class="mr-2 order-first" href="#{{ .Anchor | safeURL }}">🔗</a>
+  {{- end -}}
 </h{{ .Level }}>
