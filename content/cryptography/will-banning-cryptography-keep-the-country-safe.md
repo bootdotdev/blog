@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/800/photo-1522251670181-320150ad6dab.jpeg
+  - /img/800/will-banning-cryptography-keep-the-country-safe.webp
 ---
 
 Politicians in the United States have been claiming recently that end-to-end encryption is certainly too dangerous to permit. This movement is serious. Congress even [introduced a bill](https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rUwvwv0X.db8/v0) that would remove the protections that we currently have that allow us to legally encrypt information. Lindsey Graham is one such proponent of this restrictive legislation:

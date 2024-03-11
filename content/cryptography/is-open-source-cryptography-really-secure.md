@@ -7,7 +7,7 @@ categories:
   - "open-source"
   - "security"
 images:
-  - /img/800/photo-1497285597995-6ed7de6bfebd.webp
+  - /img/800/is-open-source-cryptography-really-secure.webp
 ---
 
 The purpose of [cryptography](/cryptography/what-is-cryptography/) is to keep information private, and the purpose of open-source is to make code public... So we shouldn't open-source our cryptography algorithms right?
