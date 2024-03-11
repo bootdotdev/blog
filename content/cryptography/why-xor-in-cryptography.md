@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/800/math.webp
+  - /img/800/why-is-exclusive-or-_xor_-important-in-cryptography.webp
 ---
 
 If you are getting into [cryptography](/cryptography/what-is-cryptography/), or just trying to understand the fundamentals, you may have noticed that the `exclusive or` (XOR) operation is used quite often, especially in ciphers. XOR is a simple bitwise operation that allows cryptographers to create strong encryption systems, and consequently is a fundamental building block of practically all modern ciphers. Let's dive into the details and see what makes XOR so important.
