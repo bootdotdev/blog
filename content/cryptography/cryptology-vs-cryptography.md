@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/800/e2ccd365950e1e853a2c3a4f27d8b92c.jpeg
+  - /img/800/cryptograhpy_vs_cryptology.webp
 ---
 
 Many new developers are jumping right into writing code, usually for those fat paychecks, without learning much about the [history of Computer Science](/computer-science/the-history-of-computer-science/). Alan Turing is recognized as the father of Computer Science, though many don't know that his roots were in cryptology and mathematics. It was out of cryptology, cryptography, and mathematics that computer science was born.

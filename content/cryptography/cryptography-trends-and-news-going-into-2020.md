@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/800/photo-1536242918817-db5e93c7a0e4.webp
+  - /img/800/cryptography_trends_and_news.webp
 ---
 
 ## Quantum Computing

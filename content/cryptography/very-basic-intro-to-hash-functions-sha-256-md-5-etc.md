@@ -7,7 +7,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/800/1_RbxKUerkTr8T62uuQ64M8Q.webp
+  - /img/800/very_basic_intro_to_hash_functions.webp
 ---
 
 Hash functions are used to securely store passwords, find duplicate records, quickly store and retrieve data, among other useful computational tasks. As a practical example, all user passwords on [boot.dev](https://boot.dev/) are hashed using [Bcrypt](/cryptography/bcrypt-step-by-step/) to ensure that if an attacker were ever to gain access to our database our user's passwords wouldn't be compromised.
