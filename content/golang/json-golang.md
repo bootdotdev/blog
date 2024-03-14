@@ -193,7 +193,7 @@ type User struct {
 
 ### Tag Options - Ignore field
 
-As mentioned above, non-exported (lowercase) fields are ignored by the marshaler. If you want to ignore additional fields you can use the `-` tag.
+Non-exported (lowercase) fields are ignored by the marshaler. If you want to ignore additional fields you can use the `-` tag.
 
 ```go
 type User struct {
