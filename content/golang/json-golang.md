@@ -33,11 +33,11 @@ func Marshal(v interface{}) ([]byte, error)
 As you can see, `Marshal()` takes a value as input, and returns the encoded JSON as a slice of bytes on success, or an `error` if something went wrong.
 
 ```go
-dat, _ := json.Marshal(`User{
+dat, _ := json.Marshal(User{
     FirstName: "Lane",
     BirthYear: 1990,
     Email:     "example@gmail.com",
-}`)
+})
 fmt.Println(string(dat))
 
 // prints:
