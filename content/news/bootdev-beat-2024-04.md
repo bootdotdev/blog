@@ -33,7 +33,7 @@ The purpose of all our game mechanics is to encourage great learning habits. As 
 
 ### 3. Profile heatmaps
 
-![profile heatmap](/img/800/profile-heatmap.png.webp)
+![profile heatmap](/img/800/new-heatmap.png.webp)
 
 Your public profile page now includes a GitHub-style heatmap of all your accomplishments on Boot.dev. You can also sync a GitHub account and it will show GitHub commits as well.
 
