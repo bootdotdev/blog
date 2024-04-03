@@ -5,7 +5,7 @@ date: "2024-04-03"
 categories:
   - "news"
 images:
-  - /img/800/???
+  - /img/800/ruinreborn_drum_drum_in_center_of_shot_fantasy_drum_fantasy_for_168d8215-f368-4264-b4f6-d3f07171d1b0.png
 imageAlts:
   - "Boot.dev Beat Drum"
 draft: true
