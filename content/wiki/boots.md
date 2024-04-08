@@ -59,4 +59,4 @@ However, it's important to note that Boots does not replace the need for dedicat
 
 The best way to use Boots is as a supportive mentor. If you're stuck we recommend using Boots *before* just peeking the solution. Boots will be able to *teach* you how to solve the problem, rather than just provide the solution.
 
-Remember, Boots' advice is not free! Contacting him requires you to offer Baked Salmon or he will reduce the amount of XP you will be awarded on that specific assignment by 50%, not as much as viewing the solution, but also an incentive to try your best to solve the challenge on your own first!
+Remember, Boots' advice is not free! Contacting him requires an offering of Baked Salmon or he will reduce the amount of XP you will be awarded on that specific assignment by 50%, not as much as viewing the solution, but also an incentive to try your best to solve the challenge on your own first!
