@@ -52,20 +52,25 @@ There are several sections on the [leaderboard](https://boot.dev/leaderboard), a
 
 For example, the daily XP leaderboard is very competitive: the students who have earned the most XP in the last 24 hours are shown at the top.
 
-## Gems
+## Quests
+
+Completing quests will award you with chests. These daily quests are completed by earning a certain amount of XP for the day. You can choose between 3 different quests each day, the harder the quest the more valuable the chest you'll earn. Your choice should depend on how much time you think you will have in the platform that day. You can only complete a single quest every 24 hours. You cannot abandon a quest once you accept it! So choose wisely!
+
+You can accept quests by clicking the Quests icon on the left side navigation menu.
+
+## Chests and Gems
 
 ![gems banner](/img/800/gemsbanner.png.webp)
 
-You can earn gems in two different ways:
+Completing quests will reward you with chests, which can be opened to receive gems and random items. Chests have a chance to drop any of these items:
 
-* Completing quests
-* Unlocking new roles
+* Sharpshooter Armor
+* XP Potions
+* Baked Salmon
+* Seer Stones
+* Frozen Flames
 
-Gems can be spent on three things:
-
-* To buy sharpshooter armor
-* To buy XP boosts
-* To buy frozen flames
+Gems can be used to purchase these items from the gem store on the left side navigation menu.
 
 ## Sharpshooter Sprees
 
@@ -81,27 +86,23 @@ Armor will not be lost when:
 * Your sharpshooter streak is at 0
 * You have already used armor on a lesson
 
-## XP Boosts
+## XP Potions
 
-XP boosts are purchased with gems, and they give you a temporary multiplier for XP that you earn from completing a new assignment. For example, you may get +25% XP for all assignments completed within the hour that a boost is active.
+XP potions give you a temporary multiplier for XP that you earn from completing a new assignment. You can buy XP potions by clicking on the gem icon in the sidebar, as long as you have enough gems. To activate an XP potion, click the potion icon at the top of the assignment page. After a potion has been activated, you'll get +50% XP for all assignments completed within the next 30 minutes. Activating another XP potion will extend the duration for another 30 minutes.
 
-You can buy boosts by clicking on the gem icon in the sidebar, as long as you have enough gems. A maximum of 4 boosts can be active at once.
+## Baked Salmon
 
-## Quests
+Baked Salmon allows you to talk with [Boots](https://blog.boot.dev/wiki/boots) without taking the 50% XP penalty on lesson completion.
 
-There are two types of quests on Boot.dev: Daily, and Ongoing.
+## Seer Stones
 
-Completing daily quests will award you with XP. Daily quests are completed by passing off a certain amount of assignments for the day. You can choose between 4 different daily quests each day, the harder the quest the more XP you'll earn. Your choice should depend on how much time you think you will have in the platform that day. You can only complete a single daily quest every 24 hours. You cannot abandon a quest once you accept it! So choose wisely!
-
-Ongoing quests will award you with gems. You complete ongoing quests by earning a certain amount of XP. The difficulty of ongoing quests are given at random! The more difficult the ongoing quest, the more gems it will reward so keep an eye on it! XP rewards from achievements count towards your quest progress! So keep an eye on where you are at and make sure you have a quest accepted before you claim your XP!
-
-You may only have a single quest of each type active at any given time. You can accept quests by clicking the Quests icon on the left side navigation menu.
+Seer Stones let you view solutions without taking a penalty to the XP gained on lesson completion. If you have one, it's used automatically when you click "View Solution." If not, you lose 100% lesson XP.
 
 ## Achievements
 
 ![achievements banner](/img/800/achievmentsbanner.png.webp)
 
-The primary purpose of achievements is to award you with bonus XP, but when you earn achievements you'll also unlock the associated badge on your portfolio page. There are many different ways in which achievements can be earned, each achievement is different. You can read about the available achievements on the [achievements page](https://boot.dev/achievements).
+Achievements recognize your accomplishments by unlocking a distinctive badge on your profile page. There are many different ways in which achievements can be earned, each achievement is different. You can read about the available achievements on the [achievements page](https://boot.dev/achievements).
 
 ## Streak Achievements
 
