@@ -27,7 +27,7 @@ Your role is shown on your profile page, and it also gives you special perks and
 * **Acolyte:** Level 30
 * **Disciple:** Level 40
 * **Scholar:** Level 50
-* **Mage:** Level 60
+* **Sorcerer:** Level 60
 * **Sage:** Level 70
 * **Archsage:** Level 80
 * **Mage:** Level 90
