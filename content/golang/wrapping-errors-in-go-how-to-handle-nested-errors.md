@@ -7,7 +7,7 @@ categories:
   - "clean-code"
   - "golang"
 images:
-  - /img/800/Nested Erros.webp
+  - /img/800/Nested_Erros.webp
 ---
 
 Errors in Go are a hot topic. Many newcomers to the language immediately level their first criticism, "errors in go are clunky! Let me just use try/catch!" This criticism is well-meaning but misguided.
