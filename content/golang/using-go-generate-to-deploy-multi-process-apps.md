@@ -6,7 +6,7 @@ categories:
   - "clean-code"
   - "golang"
 images:
-  - /img/800/GE-740x520-1.jpeg
+  - /img/800/Using Go Generate.webp
 ---
 
 In microservice architectures, it's fairly common to have a project that includes different worker types. A [Makefile](https://en.wikipedia.org/wiki/Makefile) can be used to manage the creation of multiple programs, but the Go toolchain has a tool that can be used as well, [go generate](https://blog.golang.org/generate). Here are some examples of how it can be used:
