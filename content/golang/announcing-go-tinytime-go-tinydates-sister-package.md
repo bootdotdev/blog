@@ -6,7 +6,7 @@ categories:
   - "golang"
   - "open-source"
 images:
-  - /img/800/Announcing Go-Tinytime.webp
+  - /img/800/Announcing_Go-Tinytime.webp
 ---
 
 [time.Time](https://golang.org/pkg/time/#Time) is the perfect choice for [handling times in Go](/golang/golang-date-time/) in most cases, it even comes in the standard library! The problem is that the `time.Time{}` struct uses more than **24 bytes** of memory under most conditions. [Go-TinyTime](https://github.com/wagslane/go-tinytime) solves this problem by restricting the available dates to the range between 1970 - 2106, and only supporting UTC timezones. This brings data usage down to just **4 bytes** of memory.
