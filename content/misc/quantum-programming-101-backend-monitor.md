@@ -5,7 +5,7 @@ date: "2020-05-12"
 categories: 
   - "python"
 images:
-  - /img/800/QvKyBb3LzY7gFPBxE8FFse-scaled.jpeg
+  - /img/800/Quantum Programming 101 Backend Monitor.webp
 ---
 
 ## Introduction
