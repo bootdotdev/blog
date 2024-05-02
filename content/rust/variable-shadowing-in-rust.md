@@ -5,7 +5,7 @@ date: "2020-05-13"
 categories: 
   - "rust"
 images:
-  - /img/800/rustshadow.jpeg
+  - /img/800/Variable Shadowing.webp
 ---
 
 Let's take a look at some of the common pitfalls with the keywords _let_ and _mut_**.** Then, we will learn how **immutable != constant** by using _variable shadowing_.
