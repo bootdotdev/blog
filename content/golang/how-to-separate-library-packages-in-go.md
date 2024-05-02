@@ -5,7 +5,7 @@ date: "2020-03-29"
 categories: 
   - "golang"
 images:
-  - /img/800/photo-1550535424-b498819c412f.webp
+  - /img/800/Library Packages.webp
 ---
 
 I've often seen, and have been responsible for, throwing code into packages without much thought. I've quickly drawn a line in the sand and started putting code into different folders (which in Go are different packages by definition) just for the sake of findability. Learning to properly build small and reusable packages can take your Go career to the next level.
