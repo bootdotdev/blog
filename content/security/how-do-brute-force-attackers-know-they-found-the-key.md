@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/800/Brute Force.webp
+  - /img/800/Brute_Force.webp
 ---
 
 To "Brute Force" something (when talking about computers) means to systematically try every possible combination until you find the right answer.
