@@ -6,7 +6,7 @@ categories:
   - "clean-code"
   - "golang"
 images:
-  - /img/800/anonymous-person.png.webp
+  - /img/800/Golangs Anonymous Structs.webp
 ---
 
 An anonymous struct is just like a normal struct, but it is defined *without a name* and therefore *cannot be referenced* elsewhere in the code.
