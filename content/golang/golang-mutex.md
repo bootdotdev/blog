@@ -5,7 +5,7 @@ date: "2020-03-19"
 categories: 
   - "golang"
 images:
-  - /img/800/exclude.webp
+  - /img/800/How to use Mutexes.webp
 ---
 
 Golang is King when it comes to concurrency. No other language has so many tools right out of the box, and one of those tools is the standard library's [sync.Mu](https://golang.org/pkg/sync/)[t](https://golang.org/pkg/sync/)[ex{}](https://golang.org/pkg/sync/). Mutexes let us safely control access to data across multiple goroutines.
