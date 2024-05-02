@@ -5,7 +5,7 @@ date: "2020-04-20"
 categories: 
   - "python"
 images:
-  - /img/800/QvKyBb3LzY7gFPBxE8FFse-scaled.jpeg
+  - /img/800/QuantumProgramming101SuperdenseCoding.webp
 ---
 
 ## What is Superdense coding?

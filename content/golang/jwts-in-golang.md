@@ -7,7 +7,7 @@ categories:
   - "golang"
   - "security"
 images:
-  - /img/800/logo-400.webp
+  - /img/800/JWT_Auth.webp
 ---
 
 Go is becoming very popular for [backend web development](/backend/become-backend-developer/), and JWT's are one of the most popular ways to handle authentication on API requests. In this article, we'll go over the basics of JWT's and how to implement a secure authentication strategy in Go!

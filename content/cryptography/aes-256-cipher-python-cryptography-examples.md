@@ -7,7 +7,7 @@ categories:
   - "python"
   - "security"
 images:
-  - /img/800/photo-1507680225127-6450260913c0.webp
+  - /img/800/AES256_Python.webp
 aliases:
   - /cryptography/aes-256-cipher-python-cryptography-examples/cryptography/very-basic-intro-to-the-scrypt-hash/
 ---

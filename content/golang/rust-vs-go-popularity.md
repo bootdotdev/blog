@@ -6,7 +6,7 @@ categories:
   - "golang"
   - "rust"
 images:
-  - /img/800/Rust-vs-Go-Which-is-More-Popular_.jpeg
+  - /img/800/Rust_Vs._Go.webp
 ---
 
 Go and Rust are two of the hottest compiled programming languages, but which is more popular, Go or Rust?. I develop in Go full-time and love it, and I'm learning more about Rust recently - it's an exciting language. Let's explore some differences between the two and look at which is growing faster in the popularity polls.

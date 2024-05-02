@@ -6,7 +6,7 @@ categories:
   - "bitcoin"
   - "cryptography"
 images:
-  - /img/800/photo-1542185400-f1c993ecbea2.jpeg
+  - /img/800/Data_Integrity.webp
 ---
 
 Data integrity refers to the accuracy, legitimacy, and consistency of information in a system. When a message is sent, particularly using an untrusted medium, data integrity provides us with confidence that the message wasn't tampered with. For example, the SSL signature of [Boot.dev](https://blog.boot.dev) provides confidence that the webpage and data coming from our servers are coming from us and not the NSA.
