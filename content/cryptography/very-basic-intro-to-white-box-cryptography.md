@@ -6,7 +6,7 @@ categories:
   - "cryptography"
   - "security"
 images:
-  - /img/800/depositphotos_233639070-stock-video-abstract-3d-monochrom-cube-rotating.webp
+  - /img/800/White Box Crypto.webp
 ---
 
 White-box cryptography combines methods of encryption and obfuscation to embed secret keys within application code. The goal is to combine code and keys in such a way that the two are indistinguishable to an attacker, and the new "white-box" program can be safely run in an insecure environment.
