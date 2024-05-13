@@ -20,7 +20,7 @@ One case that mutexes help us avoid is the **concurrent read/write problem**. Th
 
 Mutex is short for _mutual exclusion_. Mutexes keep track of which thread has access to a variable at any given time.
 
-![mutex diagram](/img/800/download.png)
+![mutex diagram](/img/800/mutex.png)
 
 Let's see some examples! Consider the following program:
 
