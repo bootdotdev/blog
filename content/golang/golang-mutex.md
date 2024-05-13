@@ -8,7 +8,7 @@ images:
   - /img/800/How_to_use_Mutexes.webp
 ---
 
-Golang is King when it comes to concurrency. No other language has so many tools right out of the box, and one of those tools is the standard library's [sync.Mu](https://golang.org/pkg/sync/)[t](https://golang.org/pkg/sync/)[ex{}](https://golang.org/pkg/sync/). Mutexes let us safely control access to data across multiple goroutines.
+Golang is King when it comes to concurrency. No other language has so many tools right out of the box, and one of those tools is the standard library's [sync.Mutex{}](https://golang.org/pkg/sync/). Mutexes let us safely control access to data across multiple goroutines.
 
 ## What problem do mutexes solve?
 
