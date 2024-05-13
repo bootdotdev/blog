@@ -2,7 +2,7 @@
   <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 top-nav-bar-height">
     <div class="relative flex items-center justify-between h-full">
 
-      <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
+      <div class="absolute inset-y-0 left-0 flex items-center md:hidden">
         <button type="button" onclick="clickMobileMenuToggle()"
           class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"
           aria-controls="mobile-menu" aria-expanded="false">
@@ -22,12 +22,12 @@
         <div class="h-full">
           <h2 class="text-xl font-bold">
             <a href="https://boot.dev">
-              <img src="/img/300/bootdev-logo-full-small.png" height="56" class="h-14" />
+              <img src="/img/300/bootdev-logo-full-small.png" height="48" class="h-12" />
             </a>
           </h2>
         </div>
-        <div class="hidden sm:block sm:ml-6">
-          <div class="flex space-x-4 text-sm h-full items-center">
+        <div class="hidden md:flex lg:ml-2">
+          <div class="flex text-sm h-full items-center lg:space-x-4">
             <a href="https://boot.dev/tracks/backend"
               class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
               Courses
@@ -48,9 +48,13 @@
               Community
             </a>
 
-            <a href="https://boot.dev/lore"
-              class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
+            <a href="https://boot.dev/lore" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
               Lore
+            </a>
+
+            <a href="https://www.youtube.com/@bootdotdev"
+              class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded">
+              Youtube
             </a>
 
             <a href="https://www.backendbanter.fm/"
@@ -71,7 +75,7 @@
     </div>
   </div>
 
-  <div class="sm:hidden" id="mobile-menu" style="display:none">
+  <div class="md:hidden" id="mobile-menu" style="display:none">
     <div class="px-2 pt-2 pb-3 space-y-1">
       <a href="https://boot.dev" class="bg-gray-900 text-white block px-3 py-2 rounded-md text-base font-medium"
         aria-current="page">
@@ -96,6 +100,21 @@
       <a href="https://boot.dev/community"
         class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
         Community
+      </a>
+
+      <a href="https://boot.dev/lore"
+        class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
+        Lore
+      </a>
+
+      <a href="https://www.youtube.com/@bootdotdev"
+        class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
+        Youtube
+      </a>
+
+      <a href="https://www.backendbanter.fm/"
+        class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
+        Podcast
       </a>
 
       <a href="/about/"
