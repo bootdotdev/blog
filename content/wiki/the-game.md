@@ -74,7 +74,7 @@ Gems can be used to purchase these items from the gem store on the left side nav
 
 ## Sharpshooter Sprees
 
-A *sharpshooter spree* is earned when you complete 15 assignments correctly in a row without making any mistakes! *Running* your code does not count against you, so feel free to run your code as much as you want while debugging, but make sure you are confident in your solution before you submit the assignment! Once earned a sharpshooter spree is never lost. Earning enough sprees will award you with sharpshooter achievements for big XP rewards!
+A *sharpshooter spree* is earned when you complete 15 assignments correctly in a row without making any mistakes! *Running* your code does not count against you, so feel free to run your code as much as you want while debugging, but make sure you are confident in your solution before you submit the assignment! Once earned a sharpshooter spree is never lost. Completing a spree will earn you a random chest and count as progress towards the sharpshooter achievements!
 
 ### How do I protect my sharpshooter progress?
 
