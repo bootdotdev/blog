@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
     {{if eq .Title .Site.Title }}
-    {{ if $.Paginator }}
+    {{ if or (eq .Kind "home") (eq .Kind "section") (eq .Kind "taxonomy") (eq .Kind "taxonomyTerm") }}
     {{ if gt $.Paginator.PageNumber 1 }}
     {{ title .Title }} Pg. {{ $.Paginator.PageNumber }}
     {{ else }}
@@ -16,7 +16,7 @@
     {{ title .Title }}
     {{ end }}
     {{ else }}
-    {{ if $.Paginator }}
+    {{ if or (eq .Kind "home") (eq .Kind "section") (eq .Kind "taxonomy") (eq .Kind "taxonomyTerm") }}
     {{ if gt $.Paginator.PageNumber 1 }}
     {{ title .Title }} Pg. {{ $.Paginator.PageNumber }} | Boot.dev
     {{ else }}
@@ -42,7 +42,7 @@
   {{ end }}
   {{ end }}
 
-  {{- if $.Paginator -}}
+  {{ if or (eq .Kind "home") (eq .Kind "section") (eq .Kind "taxonomy") (eq .Kind "taxonomyTerm") }}
   {{- if $.Paginator.HasPrev -}}
   <link rel="prev" href="{{ $.Paginator.Prev.URL | absURL }}" />
   {{- end -}}
