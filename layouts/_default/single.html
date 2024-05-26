@@ -22,20 +22,18 @@
 
                 <h1 class="text-4xl text-white mb-2">{{ .Title }}</h1>
 
-                {{ $date := .Params.date.Format "Jan 2, 2006" }}
                 {{ if .Params.author }}
                 <p class="text-sm text-gray-300">
                     By {{ .Params.author }}
                     {{ if (gt .Params.date 0) }}
-                    on {{ $date }}
+                    on {{ time.Format "January 2, 2006" .Params.date }}
                     {{ end }}
                 </p>
                 {{ end }}
 
-                {{ $lastmod := .Params.lastmod.Format "Jan 2, 2006" }}
-                {{ if and (ne $lastmod $date) (gt .Params.lastmod .Params.date) }}
+                {{ if and (ne .Params.lastmod .Params.date) (gt .Params.lastmod .Params.date) }}
                 <p class="text-sm text-gray-300">
-                    Last updated on {{ $lastmod }}
+                    Last updated on {{ time.Format "January 2, 2006" .Params.lastmod }}
                 </p>
                 {{ end }}
             </div>
