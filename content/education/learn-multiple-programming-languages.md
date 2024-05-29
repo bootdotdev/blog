@@ -107,7 +107,7 @@ Python gets out of your way, syntactically speaking. Algorithms and data structu
 
 ### Why Go?
 
-Our CS degree has an emphasis on backend programming, and I've personally had tremendous success with Go as a backend language.Go will make it easier to teach things like concurrency, compilers, and distributed systems than some of the other choices I've thought about. I do think we might eventually have a Rust course that goes to an even lower level in terms of manual memory management, but I haven't decided on that yet.
+Our CS degree has an emphasis on backend programming, and I've personally had tremendous success with Go as a backend language. Go will make it easier to teach things like concurrency, compilers, and distributed systems than some of the other choices I've thought about. I do think we might eventually have a Rust course that goes to an even lower level in terms of manual memory management, but I haven't decided on that yet.
 
 ## Questions? Comments? Concerns?
 
