@@ -20,7 +20,7 @@ Respectfully, Lane
 
 ![git course image](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/UdsHT64.png)
 
-Ah, Git. The source control system that every developer uses, but few truly understand. In this course, [ThePrimeagen](https://www.boot.dev/teachers/the-primeagen) teaches us not just learn how to use Git, but he goes over some of the plumbing commands that make it all work. A part 2 about using Git with teams is coming soon.
+Ah, Git. The source control system that every developer uses, but few truly understand. In this course, [ThePrimeagen](https://www.boot.dev/teachers/the-primeagen) teaches us not only how to use Git, but he goes over some of the plumbing commands that make it all work. A part 2 about using Git with teams is coming soon.
 
 ### 2. New Lore for the Boss Fight
 
