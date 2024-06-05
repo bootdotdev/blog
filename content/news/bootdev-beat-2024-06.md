@@ -28,7 +28,9 @@ I'm not going to tell you who the boss for Monday is (you'll get an email then),
 
 ### 3. Bannerlord Achievements
 
-You can now earn achievements and earn chests when you refer friends to Boot.dev! We had a ton of students asking about a rewards program because they wanted to work through Boot.dev with friends, and this is the result! You can find the recruit a friend button on the left-side nav when logged in.
+![bannerlord achievement](/img/800/gmbannerlord.webp.webp)
+
+You can now earn achievements and chests when you refer friends to Boot.dev! We had a ton of students asking about a rewards program because they wanted to work through Boot.dev with friends, and this is the result! You can find the recruit a friend button on the left-side nav when logged in.
 
 ### 4. Big Speed and UI Improvements
 
@@ -47,7 +49,7 @@ If you've been around for awhile you'll notice that navigating around the site, 
 * **Next Monday! A New Boss Fight**
 * New Course: "Learn Memory Management in C"
 * New Course: "Learn Git 2"
-* New Course: "Learn Memory Management in C"
+* New Course: "Linux System Administration" (this is a working title, we're still cooking...)
 * Moving existing courses to the Boot.dev CLI
 
 ## Backend Banter Podcast
