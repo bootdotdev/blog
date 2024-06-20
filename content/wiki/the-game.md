@@ -118,6 +118,6 @@ Karma is a measure of how helpful you are to others in the [Discord community](h
 
 Here are some ways you can earn karma:
 
-* Sending messages in the Discord server
+* Helping other students in the Discord server help forums
 * Receiving emojis from other users on your messages in the Discord server
 * Receiving "thanks" from other users in the Discord server
