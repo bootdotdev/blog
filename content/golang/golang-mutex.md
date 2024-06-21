@@ -8,7 +8,7 @@ images:
   - /img/800/How_to_use_Mutexes.webp
 ---
 
-Golang is King when it comes to concurrency. No other language has so many tools right out of the box, and one of those tools is the standard library's [sync.Mu](https://golang.org/pkg/sync/)[t](https://golang.org/pkg/sync/)[ex{}](https://golang.org/pkg/sync/). Mutexes let us safely control access to data across multiple goroutines.
+Golang is King when it comes to concurrency. No other language has so many tools right out of the box, and one of those tools is the standard library's [sync.Mutex{}](https://pkg.go.dev/sync#Mutex). Mutexes let us safely control access to data across multiple goroutines.
 
 ## What problem do mutexes solve?
 
@@ -20,7 +20,7 @@ One case that mutexes help us avoid is the **concurrent read/write problem**. Th
 
 Mutex is short for _mutual exclusion_. Mutexes keep track of which thread has access to a variable at any given time.
 
-![mutex diagram](/img/800/download.png)
+![mutex diagram](/img/800/mutex.png)
 
 Let's see some examples! Consider the following program:
 
