@@ -63,7 +63,7 @@ Test your knowledge with this quick test:
 2. How does Go manage concurrency?
 3. What is a channel in Go?
 4. Can multiple goroutines access the same variable at the same time?
-5. Do you know how to synchronize access to shared resources in Go using [mutexes](/golang/golang-mutex/?
+5. Do you know how to synchronize access to shared resources in Go using [mutexes](/golang/golang-mutex/)?
 
 **Garbage collection**: Go uses automatic memory management, which means that the Go runtime takes care of allocating and freeing memory. This allows Go developers to focus on writing code instead of managing memory.
 
