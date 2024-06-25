@@ -114,7 +114,7 @@ Frozen flames protects your current streak from being lost! If you fail to compl
 
 ## Boss Events
 
-Boss Events are special, community-driven battles that occur once every few months at Boot.dev. During these events, the entire community comes together to take on a boss. By participating, members can earn bonus XP, chests, and progress towards their boss achievements. A minimum of 5000 experience must be earned during the event to be eligible for rewards. These events are a great opportunity for collaboration with the community, as the more students actively working in the platform increases the bonus experience for everyone! Don't miss out on the excitement and the chance to level up faster during our Boss Events!
+Boss Events are special, platform-wide events that occur once every few months at Boot.dev. During these events, the entire community comes together to take on a boss. By participating, members can earn bonus XP, chests, and progress towards their boss achievements. A minimum of 5,000 XP must be earned during the event to be eligible for boss rewards! These events are a great opportunity for collaboration with the community, as more students actively working on the platform increases the bonus XP for everyone! So encourage your friends in the community to jump in and code!
 
 ## Karma
 
