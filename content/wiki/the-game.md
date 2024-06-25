@@ -112,6 +112,10 @@ You start a streak by passing your first assignment. You gain streak achievement
 
 Frozen flames protects your current streak from being lost! If you fail to complete a new assignment within seven days of your latest assignment completion, and you have a frozen flame purchased, you will lose the frozen flame instead of losing your streak progress. You will have seven extra days to complete a new assignment or purchase another frozen flame.
 
+## Boss Events
+
+Boss Events are special, platform-wide events that occur once every few months at Boot.dev. During these events, the entire community comes together to take on a boss. By participating, members can earn bonus XP, chests, and progress towards their boss achievements. A minimum of 5,000 XP must be earned during the event to be eligible for boss rewards! These events are a great opportunity for collaboration with the community, as more students actively working on the platform increases the bonus XP for everyone! So encourage your friends in the community to jump in and code!
+
 ## Karma
 
 Karma is a measure of how helpful you are to others in the [Discord community](https://boot.dev/community). Karma is shown on your profile and the members with the highest karma earn a spot on the [leaderboard](https://boot.dev/leaderboard).
