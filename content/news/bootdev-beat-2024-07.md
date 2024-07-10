@@ -10,17 +10,17 @@ imageAlts:
   - "Boots the Wizard Bear camping in the summer"
 ---
 
-**One million lessons.** Well, to be precise, you all completed 1,122,050 lessons in June. That's *nuts*. I was so preoccupied with how cool it is that you all are learning so much that I'm late on this newsletter. Sorry 'bout that.
+**One million lessons.** Well, to be precise, you have all completed **1,122,050 lessons just in June**. That's *nuts*. I was so preoccupied with how cool it is that you all are learning so much that I'm late on this newsletter. Sorry 'bout that.
 
 Humbly, Lane
 
 ## Patch notes
 
-### 1. [7-Hour Python Course Walkthrough](https://www.youtube.com/watch?v=4M87qBgpafk)
+### 1. 7-Hour Python Course Walkthrough
 
 ![python course image](/img/800/trashpuppypythoncourse.jpg.webp)
 
-[Trshpuppy](https://www.twitch.tv/trshpuppy) is an incredible developer (and past podcast guest) who recently released a complete 7-hour walkthrough of the Boot.dev Python course. If you've been struggling with this course this video is a must-watch.
+[Trshpuppy](https://www.twitch.tv/trshpuppy) is an incredible developer (and past podcast guest) who recently released a complete [7-hour walkthrough of the Boot.dev Python course](https://www.youtube.com/watch?v=4M87qBgpafk). If you've been struggling with the Python course then this video is a must-watch. It's also completely free, feel free to share it with anyone who might benefit.
 
 ### 2. FP and Static Site Generator Overhaul
 
