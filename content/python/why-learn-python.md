@@ -22,7 +22,7 @@ Python was first developed by Dutch programmer Guido van Rossum over the Christm
 
 Python is a high-level programming language designed to read as easily as possible. Its syntax follows plain English — a breath of fresh air compared to less intuitive languages like Java or C++ — and it's an object-oriented language that can also support functional programming, as well as empirical and structured paradigms.
 
-We also have a [course on functional programming](https://boot.dev/learn/learn-functional-programming)
+We also have a [course on functional programming](https://boot.dev/courses/learn-functional-programming)
 
 Python is dynamically and strongly typed, helping detect any errors you've made quickly and painlessly. As an interpreted language, Python code can run as soon as you've written it — so there's no delay in getting results, unlike code written in C++ or Java. And, as it's open-source, a huge range of frameworks and libraries have been developed on top of Python, for machine learning, AI, and many other uses.
 
@@ -158,6 +158,6 @@ It's basically a who's who of top companies.
 
 We're confident that Python will continue to be a major player in computer science, and hope to have answered your questions on why you should learn Python this year.
 
-Python is a fantastic language, and we developed our [Learn Python](https://boot.dev/learn/learn-python) course because we're so confident it's the future. Our Python course teaches you the basics of Python, with over 65 lessons that take you from beginner to intermediate. After that, we have a range of more specialized courses in Python, such as our [Data Structures course](https://boot.dev/learn/learn-data-structures), and our [Advanced Algorithms course](https://boot.dev/learn/learn-advanced-algorithms).
+Python is a fantastic language, and we developed our [Learn Python](https://boot.dev/courses/learn-python) course because we're so confident it's the future. Our Python course teaches you the basics of Python, with over 65 lessons that take you from beginner to intermediate. After that, we have a range of more specialized courses in Python, such as our [Data Structures course](https://boot.dev/courses/learn-data-structures), and our [Advanced Algorithms course](https://boot.dev/courses/learn-advanced-algorithms).
 
 All our courses are free to audit, and we're in the process of developing an entire computer science curriculum to take you from your current level to a CS grad.

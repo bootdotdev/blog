@@ -97,6 +97,6 @@ I'll end with a great quote from [experienced Go programmer Pancy](https://pancy
 
 Go is a great language for a lot of reasons: it's fast, it's simple, and as I kept harping on above, it's an all-in-one option. It's very easy to learn and it's satisfying to build things in.
 
-That's why I recommend [learning Go](https://boot.dev/learn/learn-golang) no matter where you are on your coding journey. For the same reasons that make Go a great backend language, Go is a just good language to learn, full stop. Even if you plan to go fully frontend in your programming career, it never hurts to have the flexibility to be able to code in Go.
+That's why I recommend [learning Go](https://boot.dev/courses/learn-golang) no matter where you are on your coding journey. For the same reasons that make Go a great backend language, Go is a just good language to learn, full stop. Even if you plan to go fully frontend in your programming career, it never hurts to have the flexibility to be able to code in Go.
 
-If you want to get started learning Go, I recommend you take our course to [learn Go](https://boot.dev/learn/learn-golang).
+If you want to get started learning Go, I recommend you take our course to [learn Go](https://boot.dev/courses/learn-golang).

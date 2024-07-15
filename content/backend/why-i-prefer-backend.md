@@ -69,7 +69,7 @@ Let's switch gears and talk about JavaScript.
 
 It's unbelievably impressive that JavaScript has come as far as it has, you know, being the absolute cluster f*** of a language that it is. It's a [dynamically typed](https://blog.boot.dev/clean-code/reacting-to-programming-types-and-mindsets/) nightmare with legacy baggage that's been bolted on over the years. There are ways to work with it that are *less* bad, but it's still bad.
 
-At the moment [Go](https://boot.dev/learn/learn-golang) is my language of choice. Static typing, fast compile times, a great standard library, and statically compiled binaries. It's a joy to work with.
+At the moment [Go](https://boot.dev/courses/learn-golang) is my language of choice. Static typing, fast compile times, a great standard library, and statically compiled binaries. It's a joy to work with.
 
 The great thing about the backend is that you can kinda just pick your stack. *Use whatever you want!*
 

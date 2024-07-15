@@ -14,7 +14,7 @@ One such obstacle is the common misunderstanding about how _long_ it takes to le
 
 The truth is, the answer is complex. The length of time it'll take you to learn a language depends on a lot of your requirements and decisions - for instance, [it may be quicker](/misc/top-web-development-languages/) to learn basic JavaScript than an entire framework like Ruby on Rails.
 
-*By the way, if you want to learn basic JavaScript, my favorite resources include [Boot.dev](https://boot.dev/learn/learn-javascript/), [Scrimba](https://scrimba.com/articles/how-long-does-it-take-to-learn-javascript) and [FreeCodeCamp](https://freecodecamp.com)!*
+*By the way, if you want to learn basic JavaScript, my favorite resources include [Boot.dev](https://boot.dev/courses/learn-javascript/), [Scrimba](https://scrimba.com/articles/how-long-does-it-take-to-learn-javascript) and [FreeCodeCamp](https://freecodecamp.com)!*
 
 Rather than asking yourself how long it would take to become a programmer or learn a coding language, it's better to ask yourself what your _plan_ is. Consider the following factors:
 

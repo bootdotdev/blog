@@ -132,6 +132,6 @@ However, if you want to strictly study data and access statistical help, have no
 
 In the end, both languages offer amazing resources, benefits, and careers, but your goals need to align with them to get the most out of either language.
 
-**If you're looking to learn Python**, we designed our [Learn Python](https://boot.dev/learn/learn-python) course to teach you the fundamentals and reach an intermediate skill level. From there, you'll have the tools you need to land an entry-level Python job. If you've already got the fundamentals down, we also have a [data structures course](https://boot.dev/learn/learn-data-structures) and [advanced algorithms course](https://boot.dev/learn/learn-advanced-algorithms) to finetune your Python skills.
+**If you're looking to learn Python**, we designed our [Learn Python](https://boot.dev/courses/learn-python) course to teach you the fundamentals and reach an intermediate skill level. From there, you'll have the tools you need to land an entry-level Python job. If you've already got the fundamentals down, we also have a [data structures course](https://boot.dev/courses/learn-data-structures) and [advanced algorithms course](https://boot.dev/courses/learn-advanced-algorithms) to finetune your Python skills.
 
 Our courses are fully interactive, where you code the answer to each lesson's challenge, giving you hands-on experience in real-life mimicking scenarios. Learning by doing is the most effective way to fast-track your learning and get qualified and employed in your dream coding role.

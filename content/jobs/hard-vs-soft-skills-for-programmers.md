@@ -23,9 +23,9 @@ First I'll annoyingly explain what hard and soft skills are, but then we'll dive
 
 First things first: what are hard skills? These are the tangible, measurable abilities that you *need* to get the job done. As a developer, you'll need to:
 
-1. **Code in specific languages** - like [Python](https://boot.dev/learn/learn-python), [JavaScript](https://boot.dev/learn/learn-javascript), or [Golang](https://boot.dev/learn/learn-golang).
-2. **Use technologies and tools** - such as Git, [Docker](https://boot.dev/learn/learn-docker), or AWS.
-3. **Understand [algorithms](https://boot.dev/learn/learn-algorithms) and [data structures](https://boot.dev/learn/learn-data-structures)** - because nobody wants to be that developer who can't reverse a string without Googling it first.
+1. **Code in specific languages** - like [Python](https://boot.dev/courses/learn-python), [JavaScript](https://boot.dev/courses/learn-javascript), or [Golang](https://boot.dev/courses/learn-golang).
+2. **Use technologies and tools** - such as Git, [Docker](https://boot.dev/courses/learn-docker), or AWS.
+3. **Understand [algorithms](https://boot.dev/courses/learn-algorithms) and [data structures](https://boot.dev/courses/learn-data-structures)** - because nobody wants to be that developer who can't reverse a string without Googling it first.
 4. **A boatload of other things** - because programming is a vast and ever-expanding field.
 
 ### Importance of hard skills for landing a job
@@ -39,8 +39,8 @@ The tech world moves at breakneck speed, and if you're not continuously leveling
 You don't need to be an expert on *everything*, but you need to know how to deliver working code that solves real problems within your domain. If you want to [be a back-end developer](https://boot.dev) and work at SaaS companies, then you should at the very least:
 
 * Have a solid understanding of a couple of programming languages like Python and Go
-* Be able to set up and use a [SQL database](https://boot.dev/learn/learn-sql)
-* Know how to [build a REST API](https://boot.dev/learn/learn-web-servers) using those technologies
+* Be able to set up and use a [SQL database](https://boot.dev/courses/learn-sql)
+* Know how to [build a REST API](https://boot.dev/courses/learn-web-servers) using those technologies
 * Know how to deploy that API to a cloud platform like AWS or GCP 
 
 ## Soft Skills

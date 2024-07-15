@@ -15,9 +15,9 @@ aliases:
   - /news/practical-cryptography-course-released
 ---
 
-Greetings! We're excited to announce that we've unveiled a brand-new [cryptography course](https://boot.dev/learn/learn-cryptography) on [Boot.dev](https://boot.dev). We're convinced that this new experience is truly one of a kind. If you want to learn cryptography while writing real code in the [Go programming language](https://boot.dev/learn/learn-golang), you should check it out.
+Greetings! We're excited to announce that we've unveiled a brand-new [cryptography course](https://boot.dev/courses/learn-cryptography) on [Boot.dev](https://boot.dev). We're convinced that this new experience is truly one of a kind. If you want to learn cryptography while writing real code in the [Go programming language](https://boot.dev/courses/learn-golang), you should check it out.
 
-You can [get started for free here](https://boot.dev/learn/learn-cryptography).
+You can [get started for free here](https://boot.dev/courses/learn-cryptography).
 
 ## Why learn cryptography?
 

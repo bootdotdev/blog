@@ -7,7 +7,7 @@ categories:
   - "news"
 ---
 
-We just launched the new [boot.dev](https://boot.dev/) computer science platform and can't be more excited. Our first crash course in Go, "[Learn Go](https://boot.dev/learn/learn-golang)" is now available! We teach students by allowing them to write, compile, and run backend code directly in the browser.
+We just launched the new [boot.dev](https://boot.dev/) computer science platform and can't be more excited. Our first crash course in Go, "[Learn Go](https://boot.dev/courses/learn-golang)" is now available! We teach students by allowing them to write, compile, and run backend code directly in the browser.
 
 ## Our Difference
 

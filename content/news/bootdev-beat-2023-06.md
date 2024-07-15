@@ -25,14 +25,14 @@ Backend Banter is our brand new podcast about backend technologies and careers! 
 
 Don't miss it, we have some *amazing* guests lined up. This is the place to get backend career advice from the best in the industry.
 
-### [2. Challenges for "Learn Algorithms" and "Learn Data Structures"](https://boot.dev/learn/learn-algorithms)
+### [2. Challenges for "Learn Algorithms" and "Learn Data Structures"](https://boot.dev/courses/learn-algorithms)
 
 Optional challenges at the end of each chapter continue to be a popular request, and we now have them for the first 4 courses in the learning path:
 
-* [Learn Python](https://boot.dev/learn/learn-python)
-* [Learn OOP](https://boot.dev/learn/learn-object-oriented-programming)
-* [Learn Algorithms](https://boot.dev/learn/learn-algorithms)
-* [Learn Data Structures](https://boot.dev/learn/learn-data-structures)
+* [Learn Python](https://boot.dev/courses/learn-python)
+* [Learn OOP](https://boot.dev/courses/learn-object-oriented-programming)
+* [Learn Algorithms](https://boot.dev/courses/learn-algorithms)
+* [Learn Data Structures](https://boot.dev/courses/learn-data-structures)
 
 ### [3. Karma updates in the Discord Community](https://boot.dev/community)
 

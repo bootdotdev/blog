@@ -19,7 +19,7 @@ Regards, Lane
 
 ## Patch notes
 
-### [1. New Kubernetes Course](https://www.boot.dev/learn/learn-kubernetes)
+### [1. New Kubernetes Course](https://www.boot.dev/courses/learn-kubernetes)
 
 ![k8s course](https://i.imgur.com/wJvn2A7.png)
 

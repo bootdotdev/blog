@@ -7,7 +7,7 @@ categories:
   - "news"
 ---
 
-We've launched our new [Learn Algorithms](https://boot.dev/learn/learn-algorithms) course! We wrote this course for engineers who need a refresher on computer science basics or want to learn the fundamentals for the first time.
+We've launched our new [Learn Algorithms](https://boot.dev/courses/learn-algorithms) course! We wrote this course for engineers who need a refresher on computer science basics or want to learn the fundamentals for the first time.
 
 The study of algorithmic complexity is often overlooked by new developers, and we've found that get-rich-quick boot camps often skimp on these details. It's impossible to become a senior developer without being familiar with the concepts in this course, so we figured it was high time we published it.
 

@@ -84,7 +84,7 @@ There are two general categories of databases: SQL and its mirror image, noSQL.
 
 ### SQL
 
-Most job descriptions ask that you [know SQL](https://boot.dev/learn/learn-sql), which is a very common, very popular database querying language. SQL stands for Structured Query Language. With SQL commands, back-end developers can access data that is stored in tables that are related to each other.
+Most job descriptions ask that you [know SQL](https://boot.dev/courses/learn-sql), which is a very common, very popular database querying language. SQL stands for Structured Query Language. With SQL commands, back-end developers can access data that is stored in tables that are related to each other.
 
 Most traditional SQL databases are good for vertical scaling. These databases typically scale in size by throwing more hardware at them.
 

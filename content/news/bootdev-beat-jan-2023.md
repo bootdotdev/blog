@@ -20,13 +20,13 @@ All the best, Lane
 
 ## What we've done this month
 
-### [1. "Learn Cryptography" course released](https://boot.dev/learn/learn-cryptography)
+### [1. "Learn Cryptography" course released](https://boot.dev/courses/learn-cryptography)
 
-Okay, technically we re-released it, but this new course is so much better than the old one. Allan and I have learned a lot about making awesome courses. If you're interested in cryptography, DevSecOps, or cyber security, and have already taken our [Learn Go course](https://boot.dev/learn/learn-golang), you should hit this up for sure.
+Okay, technically we re-released it, but this new course is so much better than the old one. Allan and I have learned a lot about making awesome courses. If you're interested in cryptography, DevSecOps, or cyber security, and have already taken our [Learn Go course](https://boot.dev/courses/learn-golang), you should hit this up for sure.
 
 ### 2. Tries and heaps chapters added
 
-We added 2 new chapters to the [Learn Data Structures](https://boot.dev/learn/learn-data-structures) and [Learn Advanced Algorithms](https://boot.dev/learn/learn-advanced-algorithms) courses: tries and heaps.
+We added 2 new chapters to the [Learn Data Structures](https://boot.dev/courses/learn-data-structures) and [Learn Advanced Algorithms](https://boot.dev/courses/learn-advanced-algorithms) courses: tries and heaps.
 
 ### 3. Better gem store experience
 

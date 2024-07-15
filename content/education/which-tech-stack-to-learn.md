@@ -18,7 +18,7 @@ But here's a little secret for you: **it's more important to be insatiably curio
 
 ## It doesn't matter much. There are jobs in every stack
 
-There are jobs in every tech stack. From popular ones like [JavaScript](https://boot.dev/learn/learn-javascript), [Python](https://boot.dev/learn/learn-python), and Ruby to newer languages like [Go](https://boot.dev/learn/learn-golang), Elixir, or Rust, there's a market for each of them.
+There are jobs in every tech stack. From popular ones like [JavaScript](https://boot.dev/courses/learn-javascript), [Python](https://boot.dev/courses/learn-python), and Ruby to newer languages like [Go](https://boot.dev/courses/learn-golang), Elixir, or Rust, there's a market for each of them.
 
 Take JavaScript, for example. It's the go-to language for front-end development, and [Node.js](/javascript/nodejs-vs-javascript/) has made it incredibly versatile on the back-end too. With the rise of serverless architectures and the popularity of React and Angular, JavaScript devs are in high demand.
 
@@ -56,9 +56,9 @@ Working with a tech stack that has a strong community and support network can he
 
 Remember: your tech stack choice should align with your personal interests and career goals.
 
-* If you're passionate about data science and machine learning, [Python](https://boot.dev/learn/learn-python) might be a better choice for you than PHP
-* If you're interested in cloud-native back-end development, I'd certainly recommend [Golang](https://boot.dev/learn/learn-golang).
-* If you're all about building sleek and interactive web apps, [JavaScript](https://boot.dev/learn/learn-javascript) and its various frameworks could be right up your alley
+* If you're passionate about data science and machine learning, [Python](https://boot.dev/courses/learn-python) might be a better choice for you than PHP
+* If you're interested in cloud-native back-end development, I'd certainly recommend [Golang](https://boot.dev/courses/learn-golang).
+* If you're all about building sleek and interactive web apps, [JavaScript](https://boot.dev/courses/learn-javascript) and its various frameworks could be right up your alley
 
 ## Don't be afraid to learn technologies that you won't use at work
 
@@ -66,13 +66,13 @@ To become a well-rounded developer, there are a slew of *concepts* that are impo
 
 For example, if you're working to become a back-end developer, here are some of the important concepts:
 
-* [OOP](https://boot.dev/learn/learn-object-oriented-programming)
-* [DSA](https://boot.dev/learn/learn-algorithms)
-* [Databases](https://boot.dev/learn/learn-sql)
-* [HTTP + Basic networking](https://boot.dev/learn/learn-http)
-* [REST APIs](https://boot.dev/learn/learn-web-servers)
-* [Functional programming basics](https://boot.dev/learn/learn-functional-programming)
-* [Security](https://boot.dev/learn/learn-cryptography)
+* [OOP](https://boot.dev/courses/learn-object-oriented-programming)
+* [DSA](https://boot.dev/courses/learn-algorithms)
+* [Databases](https://boot.dev/courses/learn-sql)
+* [HTTP + Basic networking](https://boot.dev/courses/learn-http)
+* [REST APIs](https://boot.dev/courses/learn-web-servers)
+* [Functional programming basics](https://boot.dev/courses/learn-functional-programming)
+* [Security](https://boot.dev/courses/learn-cryptography)
 
 ## Don't worry, you can always learn more
 

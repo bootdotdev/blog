@@ -13,7 +13,7 @@ toc: true
 
 From the outset, comparing JavaScript and Python seems a bit like comparing apples and oranges. Surprisingly however, there are quite a few similarities hidden beneath their popular respective exteriors.
 
-[Python](https://boot.dev/learn/learn-python) is known for its simple and elegant language design and is used across the board for machine learning, data engineering, and back-end development work. On the other hand, [JavaScript](https://boot.dev/learn/learn-javascript) has a syntax similar to Java's and is mostly used on the front-end, though with the advent of new technologies like Node.js and React Native JavaScript is now also used in back-end and mobile development.
+[Python](https://boot.dev/courses/learn-python) is known for its simple and elegant language design and is used across the board for machine learning, data engineering, and back-end development work. On the other hand, [JavaScript](https://boot.dev/courses/learn-javascript) has a syntax similar to Java's and is mostly used on the front-end, though with the advent of new technologies like Node.js and React Native JavaScript is now also used in back-end and mobile development.
 
 ## A Quick Background on Python and JavaScript
 
@@ -25,7 +25,7 @@ Alternatively, JavaScript first appeared in 1995, four years *after* Python, and
 
 Now that we have a better understanding of these two languages, we can finally start comparing. I'll start by weighing out which language is best suited for beginners, then move on to the juicy stuff like salary, performance, data science, web development, and which one is best for you!
 
-**Hot tip:** Functional programming is more than just a paradigm, it's a way of thinking and approaching coding as a whole. Improving your [functional programming](https://boot.dev/learn/learn-functional-programming) skills make you a better developer and helps you create better applications.
+**Hot tip:** Functional programming is more than just a paradigm, it's a way of thinking and approaching coding as a whole. Improving your [functional programming](https://boot.dev/courses/learn-functional-programming) skills make you a better developer and helps you create better applications.
 
 ## JavaScript vs Python: Which is Best For Beginners?
 
@@ -45,7 +45,7 @@ JavaScript's learning curve isn't as simple as Python's, but it's not too far be
 
 As one of the most used scripting languages, JavaScript comes with respect and investment not only from developers but also large companies, leading to the creation of powerful run-time environments like [Node.js](https://nodejs.org/en/), and libraries like React.
 
-You will benefit from learning either language, the the best choice probably depends upon on what field you want to work in. **If you want to see how easy they are to learn for yourself**, then head over to our free-to-try [Learn JavaScript](https://boot.dev/learn/learn-javascript) or [Learn Python](https://boot.dev/learn/learn-python) courses for a quick taste.
+You will benefit from learning either language, the the best choice probably depends upon on what field you want to work in. **If you want to see how easy they are to learn for yourself**, then head over to our free-to-try [Learn JavaScript](https://boot.dev/courses/learn-javascript) or [Learn Python](https://boot.dev/courses/learn-python) courses for a quick taste.
 
 ## Python vs JavaScript Salary
 
@@ -87,7 +87,7 @@ It's also compatible with Google's famous ML and deep learning library TensorFlo
 
 Even with this support, however, it was never adopted by the machine learning community. There are limited resources and no promise of new developments any time soon because current investment is focused on Python rather than JavaScript.
 
-**Hot tip:** Machine learning is largely the application of algorithms that use and learn from data. So, the more [advanced your algorithms](https://boot.dev/learn/learn-advanced-algorithms) are, the better machine learning developer you'll become.
+**Hot tip:** Machine learning is largely the application of algorithms that use and learn from data. So, the more [advanced your algorithms](https://boot.dev/courses/learn-advanced-algorithms) are, the better machine learning developer you'll become.
 
 ## Python vs JavaScript for Data Science
 
@@ -103,7 +103,7 @@ JavaScript has asynchronous capabilities, so its programs run smaller tasks in t
 
 JavaScript's potential is growing in the field, although right now it's best for small projects as it can't handle Big Data like Python _yet._ JavaScript also doesn't have the same investment from developers and companies to beef up its data support.
 
-**Hot tip:** Avoid getting weighed down navigating data structures by studying [Big O](https://boot.dev/learn/learn-data-structures) [notation](https://boot.dev/learn/learn-data-structures). This will help you sift through the noise and find the best solution for you and your project faster.
+**Hot tip:** Avoid getting weighed down navigating data structures by studying [Big O](https://boot.dev/courses/learn-data-structures) [notation](https://boot.dev/courses/learn-data-structures). This will help you sift through the noise and find the best solution for you and your project faster.
 
 ## Python vs JavaScript for Front-End Development
 
@@ -131,4 +131,4 @@ If you're interested in a modern yet established language, working in start-up e
 
 In reality, both languages have the potential to satisfy any of these cravings – machine learning, web development, modern, start-up – and both come with the promise of exciting and well-paying futures.
 
-**At Boot.dev we're big fans of both JavaScript and Python**, and think they're two of the best languages to teach beginners to computer science. We developed our [Learn Python](https://boot.dev/learn/learn-python) course for brand-new coders which we recommend you start with, as well as our [Learn JavaScript](https://boot.dev/learn/learn-javascript) course to build on your skills and learn about some more advanced topics like functional programming.
+**At Boot.dev we're big fans of both JavaScript and Python**, and think they're two of the best languages to teach beginners to computer science. We developed our [Learn Python](https://boot.dev/courses/learn-python) course for brand-new coders which we recommend you start with, as well as our [Learn JavaScript](https://boot.dev/courses/learn-javascript) course to build on your skills and learn about some more advanced topics like functional programming.

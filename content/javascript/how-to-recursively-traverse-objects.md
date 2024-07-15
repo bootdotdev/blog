@@ -111,4 +111,4 @@ and
 
 > How do I call myself to get to the next value?
 
-Recursion is an important principle to understand for any programmer, and I hope this helps you be just a little better! If you're interested in learning more about recursion and functional programming principles, take a look at our [functional programming course.](https://boot.dev/learn/learn-functional-programming)
+Recursion is an important principle to understand for any programmer, and I hope this helps you be just a little better! If you're interested in learning more about recursion and functional programming principles, take a look at our [functional programming course.](https://boot.dev/courses/learn-functional-programming)

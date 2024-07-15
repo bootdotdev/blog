@@ -72,7 +72,7 @@ Plus, you may need unnecessary overhead and require additional configuration jus
 
 ### Hard to learn
 
-I may surprise some people here because [Python is famous for how easy it is to learn](https://boot.dev/learn/learn-python). But in my opinion, Django has a steeper learning curve. While it does have a plug-and-play design, it can be hard, especially for beginners or non-Pythonistas who find its conventions and structure challenging to grasp.
+I may surprise some people here because [Python is famous for how easy it is to learn](https://boot.dev/courses/learn-python). But in my opinion, Django has a steeper learning curve. While it does have a plug-and-play design, it can be hard, especially for beginners or non-Pythonistas who find its conventions and structure challenging to grasp.
 
 Plus. you can’t just jump in headfirst as I mentioned above. To build anything, first, you’ll have to take the time to understand the framework's concepts and best practices.
 

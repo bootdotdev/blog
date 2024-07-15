@@ -82,7 +82,7 @@ What really slows JavaScript down is that it is interpreting code at runtime. At
 
 In Java, **everything** is a class and OOP is enforced in an authoritarian manner.
 
-In JavaScript, classes are optional, and [functional programming](https://boot.dev/learn/learn-functional-programming) is possible and even [encouraged](/clean-code/benefits-of-functional-programming/) lately. JavaScript has most of the OOP paradigms available in the language. However, [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) is not as robust as it is with Java.
+In JavaScript, classes are optional, and [functional programming](https://boot.dev/courses/learn-functional-programming) is possible and even [encouraged](/clean-code/benefits-of-functional-programming/) lately. JavaScript has most of the OOP paradigms available in the language. However, [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) is not as robust as it is with Java.
 
 ## Threading and Concurrency
 

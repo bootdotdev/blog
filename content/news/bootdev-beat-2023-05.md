@@ -38,7 +38,7 @@ We've also added 3 new roles: Druid, Necromancer, and Archmage.
 * **Necromancer:** Level 90
 * **Archmage:** Level 100
 
-### [2. "Learn Go" Course Redressing](https://boot.dev/learn/learn-golang)
+### [2. "Learn Go" Course Redressing](https://boot.dev/courses/learn-golang)
 
 Allan and I spent the majority of our time this month making big updates to the "Learn Go" course and recording videos for it. All the videos are now recorded and edited, and we'll be releasing them on YouTube and as embedded videos in the course over the next few weeks. Keep an eye out for those to drop!
 

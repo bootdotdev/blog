@@ -45,7 +45,7 @@ def remove_duplicates(original):
   return list(set(original))
 ```
 
-This method will be faster in most circumstances than the previous two because each transfer is `O(n)` in [big-o notation](https://boot.dev/learn/learn-algorithms) terms. A group of two `O(n)` operations is faster than one `O(n^2)` operation. As a bonus, it even uses less code.
+This method will be faster in most circumstances than the previous two because each transfer is `O(n)` in [big-o notation](https://boot.dev/courses/learn-algorithms) terms. A group of two `O(n)` operations is faster than one `O(n^2)` operation. As a bonus, it even uses less code.
 
 ## Method #4 - Use an ordered dictionary (fast, maintains order)
 

@@ -12,7 +12,7 @@ imgAlts:
 ---
 
 
-Hypertext Transfer Protocol *Secure* or [HTTPS](https://developer.mozilla.org/en-US/docs/Glossary/https) is an extension of the [HTTP protocol](http://boot.dev/learn/learn-http). HTTPS secures the data transfer between client and server by [encrypting](https://developer.mozilla.org/en-US/docs/Glossary/Encryption) all of the information communicated.
+Hypertext Transfer Protocol *Secure* or [HTTPS](https://developer.mozilla.org/en-US/docs/Glossary/https) is an extension of the [HTTP protocol](http://boot.dev/courses/learn-http). HTTPS secures the data transfer between client and server by [encrypting](https://developer.mozilla.org/en-US/docs/Glossary/Encryption) all of the information communicated.
 
 HTTPS allows a client to safely share sensitive information with a server through an HTTP request. HTTPS is critically important when it comes to sending sensitive data such as credit card information, passwords, or bank account numbers.
 

@@ -18,7 +18,7 @@ All the best, Lane
 
 ## Patch notes
 
-### [1. New Learn to Get a Job Course](https://www.boot.dev/learn/learn-job-search)
+### [1. New Learn to Get a Job Course](https://www.boot.dev/courses/learn-job-search)
 
 I've been slowly building this course in the shadows for awhile, collecting all the best job search advice from coworkers, hiring managers, and even my podcast guests. This is an info course that will guide you through the process of creating a portfolio or projects, resume, GitHub profile, etc. I even talk about the best ways to source job opportunities, and how to prepare for interviews.
 

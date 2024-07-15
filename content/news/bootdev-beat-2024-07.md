@@ -24,7 +24,7 @@ Humbly, Lane
 
 ### 2. FP and Static Site Generator Overhaul
 
-Our [Functional Programming Course](https://www.boot.dev/learn/learn-functional-programming) and [Static Site Generator Project](https://www.boot.dev/learn/build-static-site-generator) have had a complete overhaul. Tons of new lessons were added and updated. These were frequently cited by students as being too difficult for their spots in the curriculum, so we spent a lot of time smoothing out the difficulty curve.
+Our [Functional Programming Course](https://www.boot.dev/courses/learn-functional-programming) and [Static Site Generator Project](https://www.boot.dev/courses/build-static-site-generator) have had a complete overhaul. Tons of new lessons were added and updated. These were frequently cited by students as being too difficult for their spots in the curriculum, so we spent a lot of time smoothing out the difficulty curve.
 
 ### 3. Adjusted Gem Prices
 

@@ -20,7 +20,7 @@ The Go programming language, or Golang for short, is an open-source programming 
 
 ![](/img/800/social-150x150.jpg)
 
-We obviously have to give ourselves credit! We have recently released our new [Learn Go course](https://boot.dev/learn/learn-golang). This course can be taken entirely in the browser and covers all the basic syntax and concepts of Go. If you have some development experience and want to start your Go career, this is the course for you.
+We obviously have to give ourselves credit! We have recently released our new [Learn Go course](https://boot.dev/courses/learn-golang). This course can be taken entirely in the browser and covers all the basic syntax and concepts of Go. If you have some development experience and want to start your Go career, this is the course for you.
 
 ### [2. Go By Example](https://gobyexample.com/)
 
