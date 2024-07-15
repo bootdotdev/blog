@@ -7,7 +7,7 @@ categories:
   - "news"
 ---
 
-The [boot.dev app](https://boot.dev/) - our new gamified learning platform - just launched its first [JavaScript coding course](https://boot.dev/learn/learn-javascript/)! This one is short, sweet, and to the point. We created a thirty-exercise, two-module course that caters to students who have never seen a single line of code before. That's right, this is a code-in-the-browser course for absolute beginners.
+The [boot.dev app](https://boot.dev/) - our new gamified learning platform - just launched its first [JavaScript coding course](https://boot.dev/courses/learn-javascript/)! This one is short, sweet, and to the point. We created a thirty-exercise, two-module course that caters to students who have never seen a single line of code before. That's right, this is a code-in-the-browser course for absolute beginners.
 
 ## What is Taught?
 

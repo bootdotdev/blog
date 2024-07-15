@@ -18,7 +18,7 @@ All the best, Lane
 
 ## Patch notes
 
-### [1. New CI/CD Course](https://boot.dev/learn/learn-ci-cd)
+### [1. New CI/CD Course](https://boot.dev/courses/learn-ci-cd)
 
 The new CI/CD course using GitHub actions, Docker, PlanetScale and GCP is live! If you haven't taken a look, be sure to check it out. It's our most unique interactive course yet. You'll spend the majority of the time working in a local repository and pushing up changes to GitHub. However, our new "HTTP test" and "GitHub check" lessons types will automatically connect to your project and ensure you're doing each step correctly.
 
@@ -28,7 +28,7 @@ The sharpshooter achievement remains a student favorite, but the awkwardness of 
 
 ### 3. New videos in the Learn SQL course
 
-I've filmed 6 new explainer videos for [the SQL course](https://boot.dev/learn/learn-sql) this month, of which 4 have been released and the next 2 will be out this week. You can watch them directly on [YouTube here](https://www.youtube.com/watch?v=pYKirBUnr-8&list=PLw1W1TeNPmy4RLtkkl9PFUzAPOkgTPFkc). Of course, if you're going through the SQL course on Boot.dev then you'll encounter the videos within the course itself at the appropriate time.
+I've filmed 6 new explainer videos for [the SQL course](https://boot.dev/courses/learn-sql) this month, of which 4 have been released and the next 2 will be out this week. You can watch them directly on [YouTube here](https://www.youtube.com/watch?v=pYKirBUnr-8&list=PLw1W1TeNPmy4RLtkkl9PFUzAPOkgTPFkc). Of course, if you're going through the SQL course on Boot.dev then you'll encounter the videos within the course itself at the appropriate time.
 
 ## What is yet to come
 

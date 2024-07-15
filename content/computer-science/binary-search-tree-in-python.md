@@ -14,7 +14,7 @@ images:
 
 A binary search tree, or BST for short, is a tree where each node is a value greater than all of its left child nodes and less than all of its right child nodes. Read on for an implementation of a binary search tree in Python from scratch!
 
-Also, if you're interested in learning Python data structures from the ground up, check out my [Learn Python](https://boot.dev/learn/learn-python) and [Learn Algorithms](https://boot.dev/learn/learn-algorithms) courses on [Boot.dev](https://boot.dev).
+Also, if you're interested in learning Python data structures from the ground up, check out my [Learn Python](https://boot.dev/courses/learn-python) and [Learn Algorithms](https://boot.dev/courses/learn-algorithms) courses on [Boot.dev](https://boot.dev).
 
 {{< bdyoutube MkY9KJQecqg >}}
 

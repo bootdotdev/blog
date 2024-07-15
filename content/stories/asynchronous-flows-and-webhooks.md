@@ -88,7 +88,7 @@ First off, we'll be working in TypeScript and using a framework called [AdonisJS
 (don't be too worried about this, I'll hold your hand through anything not obvious.)
 
 In our repository, we have a few different components set up via docker containers.  If you're not familiar with docker,
-there's a great course on [docker in the boot.dev curriculum](https://boot.dev/learn/learn-docker), although it's not
+there's a great course on [docker in the boot.dev curriculum](https://boot.dev/courses/learn-docker), although it's not
 required to have any knowledge of docker for this article.
 
 If you'd like to take a look at our docker containers for this article, all of the components are defined in our

@@ -35,7 +35,7 @@ TL;DR: JavaScript makes interactive web pages. That's it. But it's one of the [m
 
 JavaScript is ubiquitous, so it's not only good to learn how, but also kind of fun. If you know JavaScript, you feel a little bit like you're peeking behind the veil of the world wide web.
 
-This guide is going to be what I wish I had when I started [learning JavaScript](https://boot.dev/learn/learn-javascript). These are fun, interesting, slightly challenging JavaScript projects for beginners. 
+This guide is going to be what I wish I had when I started [learning JavaScript](https://boot.dev/courses/learn-javascript). These are fun, interesting, slightly challenging JavaScript projects for beginners. 
 
 JavaScript has a bunch of different frameworks (we'll get into what frameworks are in a second), so I'm going to section this article into vanilla JavaScript, Vue.js, and Angular. All of these are free JavaScript projects - all you'll need to invest is your time.
 
@@ -49,7 +49,7 @@ A [framework](/backend/dont-start-with-frameworks/) is basically a prepackaged c
 
 ### 1. Build a Simple Web Crawler
 
-This [project tutorial](https://boot.dev/learn/build-link-analyzer) will walk you through building a simple web crawler on the command line using Node.js. It might sound tricky, but if you have a basic understanding of JavaScript it's actually quite simple. A web crawler is a useful tool that SEO experts use to audit their websites. There is even an hour-long YouTube video where the author builds the entire project on camera!
+This [project tutorial](https://boot.dev/courses/build-link-analyzer) will walk you through building a simple web crawler on the command line using Node.js. It might sound tricky, but if you have a basic understanding of JavaScript it's actually quite simple. A web crawler is a useful tool that SEO experts use to audit their websites. There is even an hour-long YouTube video where the author builds the entire project on camera!
 
 {{< bdyoutube C0pXaNchNTA >}}
 
@@ -59,7 +59,7 @@ Okay, so this isn't exactly a stand-alone project, but an interactive course tha
 
 JavaScript ideas for beginners don't only have to come in video or article form, and in fact, I recommend you *don't*. Interactive sandbox-style courses are better. If you've skimmed through the tutorials on this list and you're already kind of feeling lost, there's no shame in learning JavaScript with some help -- like by taking an interactive course that you gradually build up your skills with as you progress through lessons and modules.
 
-[Our own JavaScript course from Boot.dev](https://boot.dev/learn/learn-javascript) is free to audit, and it takes you from a complete beginner and teaches you the skills you need to progress as a programmer. I  recommend it because it's *kinda* like a project in the sense that you'll solve many individual coding challenges in JavaScript.
+[Our own JavaScript course from Boot.dev](https://boot.dev/courses/learn-javascript) is free to audit, and it takes you from a complete beginner and teaches you the skills you need to progress as a programmer. I  recommend it because it's *kinda* like a project in the sense that you'll solve many individual coding challenges in JavaScript.
 
 ### 3. Build a weather app.
 
@@ -87,7 +87,7 @@ It'll teach you higher-order functions like `map`, `reduce`, and `filter`. Highe
 
 This basic JavaScript project tutorial will teach you to update and delete items from a grocery list, which walks you through the process of creating a simple CRUD. (CRUD just means create, read, update, and delete.)
 
-It's [another project](https://boot.dev/learn/learn-javascript) from the same person who did the restaurant menu page tutorial, so maybe he was hungry as well. If you've got the time and inclination I recommend checking out all eight hours of his 15 JavaScript projects. It's the kind of content that I can't believe he gives away for free, it's so in-depth and valuable.
+It's [another project](https://boot.dev/courses/learn-javascript) from the same person who did the restaurant menu page tutorial, so maybe he was hungry as well. If you've got the time and inclination I recommend checking out all eight hours of his 15 JavaScript projects. It's the kind of content that I can't believe he gives away for free, it's so in-depth and valuable.
 
 ![](https://lh6.googleusercontent.com/0cC_hjLSF_O0gajrBwlJ6zw561jl0VANXOpoJxUAB6hJiPRc_nEh0ImWdHq3aO5KnXV9tqdbcy2i2wyTCzBjLfM69zrHbyEHViN7UThGiJF3jwLg4HlwZR4L6iNN6d_BIjEl_SNT=s0)
 
@@ -231,6 +231,6 @@ These great JavaScript practice projects can all be tricky to do. I'm not going 
 
 ## Other resources
 
-**For beginners**: we recommend our [Learn Python](https://boot.dev/learn/learn-python) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
+**For beginners**: we recommend our [Learn Python](https://boot.dev/courses/learn-python) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
 
-**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://boot.dev/learn/learn-functional-programming), which mixes JS with PureScript. We also recommend our [Learn Go courses](https://boot.dev/learn/learn-golang) for anyone looking to learn Golang, as well as our [Learn Python course](https://boot.dev/learn/learn-python).
+**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://boot.dev/courses/learn-functional-programming), which mixes JS with PureScript. We also recommend our [Learn Go courses](https://boot.dev/courses/learn-golang) for anyone looking to learn Golang, as well as our [Learn Python course](https://boot.dev/courses/learn-python).

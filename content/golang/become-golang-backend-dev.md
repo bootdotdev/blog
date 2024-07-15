@@ -124,7 +124,7 @@ Sure you've got the hang of it? Let's find out:
 
 If you do find yourself struggling with any of these concepts, here are a few resources to help you out:
 
-1. [We've got a course for that](https://boot.dev/learn/learn-golang). Our Go course (part of our Backend track) covers these topics in some depth, in around 20h of material paired with 179 challenges and quizzes.
+1. [We've got a course for that](https://boot.dev/courses/learn-golang). Our Go course (part of our Backend track) covers these topics in some depth, in around 20h of material paired with 179 challenges and quizzes.
 2. [StackOverflow](https://stackoverflow.com/questions/tagged/go). You can bet any of these questions have been posed on StackOverflow, and a generous Go developer has written a comprehensive, useful answer.
 3. [Go's documentation](https://go.dev/). Google *wants* you to learn Go. They've put together some pretty great resources to teach you the basics.
 
@@ -234,7 +234,7 @@ By now, you've got a comprehensive list of technologies, tools, and areas you wa
 
 Here are a few examples of personal projects you can take on to become a Go back-end developer.
 
-* **Develop a CLI tool**. Get experience building a standalone app that can interact with APIs, databases, and other backend systems. For example, we've got a great project that walks you through [how to build a Pokedex](https://boot.dev/learn/build-pokedex-cli) on the command line in Go.
+* **Develop a CLI tool**. Get experience building a standalone app that can interact with APIs, databases, and other backend systems. For example, we've got a great project that walks you through [how to build a Pokedex](https://boot.dev/courses/build-pokedex-cli) on the command line in Go.
 * **Rewrite an existing project in Go**. This is a good place to start because you know what the end product is supposed to be already.
 * **Create a microservice architecture**. This project will teach you how to build and deploy containerized Go applications, and manage them using Kubernetes. [Here's a good example](https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-golang).
 * **Build a chat application**. Using Go and WebSockets, this project gives you experience handling real-time data, like chat messages and providing functionality for multiple users. It's also good for practicing with the front end. [This is a great project](https://betterprogramming.pub/how-to-build-a-concurrent-chat-app-with-golang-and-websockets-fb48562a1329) to showcase Go's many strengths, such as concurrency and scalability.
@@ -258,7 +258,7 @@ If I can be honest for a moment, Golang back-end developers are in high demand. 
 
 At this point, you've:
 
-* [Learned the basics of Go](https://boot.dev/learn/learn-golang), if you didn't already.
+* [Learned the basics of Go](https://boot.dev/courses/learn-golang), if you didn't already.
 * Checked off the main competencies of any back-end developer
 * Looked at enough job postings to get a sense of any edge-case skills or competencies you should learn.
 * Investigated neighbor skills to back-end development, since more and more jobs expect you to be a unicorn that can do full-stack, systems administration, database design, and infosec to boot.

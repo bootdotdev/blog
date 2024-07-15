@@ -80,7 +80,7 @@ Ah, Go. A Boot.dev favorite. We love Golang for too many reasons to count. You c
 
 But what is it, and why do we love it? Go, or Golang, is an open-source, statically typed, compiled language developed by Google. It’s known for its simplicity, efficiency, and its ability to handle concurrent operations thanks to its unique [goroutines](https://go.dev/tour/concurrency/1).
 
-> If you’d like to learn Go for backend development, check out our [full Golang course here](https://boot.dev/learn/learn-golang).
+> If you’d like to learn Go for backend development, check out our [full Golang course here](https://boot.dev/courses/learn-golang).
 
 Go is an excellent choice for creating highly performant backend systems. Why do I recommend it? Honestly, a lot of it comes down to **personal preference**. But there are objective reasons, too.
 
@@ -162,7 +162,7 @@ OK, got that out of my system. Back to business. Django is a high-level Python w
 
 Now, we at Boot.dev have some, ahem, controversial thoughts on "batteries included" tools. Basically, we think it’s so important to [understand the fundamentals](/backend/dont-start-with-frameworks/) of the tools you use, instead of blindly relying on them. That way, when they break, you can fix them. That doesn’t mean you shouldn’t *use* them, just that you should *understand* them.
 
-To that end, if you’re interested in learning Python for backend development, you can check out our [full Python course here](https://boot.dev/learn/learn-python).
+To that end, if you’re interested in learning Python for backend development, you can check out our [full Python course here](https://boot.dev/courses/learn-python).
 
 Why do I recommend Django as the best backend for Vue? It has a lot of parallels with Ruby on Rails, but for Pythonistas rather than Javascripters. Like RoR, it follows similar **conventions**, like the MVC architectural pattern. It also has **an active community and rich library**. Finally, it’s just as well-suited for **building APIs and delivering JSON responses**, which can be seamlessly integrated with Vue.js on the frontend.
 

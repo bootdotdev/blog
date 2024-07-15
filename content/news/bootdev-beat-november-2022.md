@@ -26,7 +26,7 @@ All the best, Lane
 
 This course is a bit different. It's packed with text-based walkthroughs as well as videos, and you'll complete all of the steps on your own machine. After all, Docker isn't a programming language, but a tool that's invaluable to back-end and full-stack engineers.
 
-[Start the Docker course here](https://boot.dev/learn/learn-docker)
+[Start the Docker course here](https://boot.dev/courses/learn-docker)
 
 ![docker](/img/800/docker.png.webp)
 

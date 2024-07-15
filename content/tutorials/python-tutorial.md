@@ -16,7 +16,7 @@ If you're interested in [back-end web development](/backend/become-backend-devel
 
 ## Would you rather learn by doing?
 
-I've included all the static read-only material you'll need here in this tutorial, but if you would like a **more hands-on experience**, you can take the interactive version of this course, complete with coding challenges and projects on [Boot.dev here](https://boot.dev/learn/learn-python).
+I've included all the static read-only material you'll need here in this tutorial, but if you would like a **more hands-on experience**, you can take the interactive version of this course, complete with coding challenges and projects on [Boot.dev here](https://boot.dev/courses/learn-python).
 
 ## Chapter 1: Introduction
 
@@ -36,7 +36,7 @@ On the other hand, it's not particularly well-known for front-end work. While it
 
 ### Setup a Local Development Environment
 
-To get started with Python, you'll need to install the `python` command on your computer, and then install a text editor or IDE. If you're not already familiar with how to do that, I have a full step-by-step [project guide here](https://boot.dev/learn/build-local-dev-environment-python) that you can follow.
+To get started with Python, you'll need to install the `python` command on your computer, and then install a text editor or IDE. If you're not already familiar with how to do that, I have a full step-by-step [project guide here](https://boot.dev/courses/build-local-dev-environment-python) that you can follow.
 
 If you're able to edit and run Python code on your computer, you're ready to continue!
 
@@ -1747,6 +1747,6 @@ print("hello world")
 
 ## Congratulations on making it to the end!
 
-If you're interested in doing the interactive coding assignments and quizzes for this course you can check out the [Learn Python course over on Boot.dev](https://boot.dev/learn/learn-python).
+If you're interested in doing the interactive coding assignments and quizzes for this course you can check out the [Learn Python course over on Boot.dev](https://boot.dev/courses/learn-python).
 
 That course is a part of my full [back-end developer career path](https://boot.dev/tracks/backend), made up of other courses and projects if you're interested in checking those out.

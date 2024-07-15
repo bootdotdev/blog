@@ -18,11 +18,11 @@ All the best, Lane
 
 ## What we've done this month
 
-### [1. "Build a Pokedex" guided Golang project released](https://boot.dev/learn/build-pokedex-cli)
+### [1. "Build a Pokedex" guided Golang project released](https://boot.dev/courses/build-pokedex-cli)
 
 This project will guide you through the steps to build a REPL pokedex on the command line in Go. Learn how to use JSON, make network requests, implement caching, and more! This is a great project if you're familiar with Go, but want some more practice. There is even a full video walkthrough (linked at the end of the newsletter) to watch in case you get stuck!
 
-If you haven't written any Go yet, check out my [Learn Go course](https://boot.dev/learn/learn-golang) first.
+If you haven't written any Go yet, check out my [Learn Go course](https://boot.dev/courses/learn-golang) first.
 
 ### 2. PPP Discounts
 
@@ -32,7 +32,7 @@ Now, we have automatic support for PPP discounts in about 90 countries! Just loa
 
 ### 3. Challenges Update
 
-We integrated all of the bonus challenges for the [Learn Python course](https://boot.dev/learn/learn-python) directly into the course itself! We noticed that the previous UX made it hard for you all to find the challenges, but this change brings all that extra content directly into the primary course flow.
+We integrated all of the bonus challenges for the [Learn Python course](https://boot.dev/courses/learn-python) directly into the course itself! We noticed that the previous UX made it hard for you all to find the challenges, but this change brings all that extra content directly into the primary course flow.
 
 ### 4. Big speed improvements
 

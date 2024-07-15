@@ -25,7 +25,7 @@ All the best, Lane
 
 We have, at long last, found a new full time Boot.dev team member: Hunter! You'll surely see him around in the [Discord](https://boot.dev/community), but he's a senior software engineer that loves teaching, and just so happens to share our passion for gaming. Truth be told, we only hired him so that he could carry the Boot.dev Dota 2 team to victory in our Friday afternoon games...
 
-### [2. New Functional Programming Course](https://boot.dev/learn/learn-functional-programming)
+### [2. New Functional Programming Course](https://boot.dev/courses/learn-functional-programming)
 
 I've been talking about this for awhile now, and it's finally done! We've released a full rewrite of our old Functional Programming course in Python. This new course goes over so much more of the fundamentals of functional programming, and it's done in a language that you already know as part of the core learning path.
 

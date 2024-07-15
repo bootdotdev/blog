@@ -15,7 +15,7 @@ imageAlts:
 
 SHA-2 (Secure Hash Algorithm 2), of which SHA-256 is a part, is one of the most popular [hash algorithms](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) around. A cryptographic hash, also often referred to as a "digest", "fingerprint" or "signature", is an *almost perfectly unique* string of characters that is generated from a separate piece of input text. SHA-256 generates a 256-bit (32-byte) signature.
 
-Toward the end of this article, I'll break down each step of SHA 256's [cryptographic algorithm](/cryptography/what-is-cryptography/), and work through a real example by hand. If you're interested in learning cryptography with hands-on code examples, you can also check out my ["Learn Cryptography" course on Boot.dev](https://boot.dev/learn/learn-cryptography).
+Toward the end of this article, I'll break down each step of SHA 256's [cryptographic algorithm](/cryptography/what-is-cryptography/), and work through a real example by hand. If you're interested in learning cryptography with hands-on code examples, you can also check out my ["Learn Cryptography" course on Boot.dev](https://boot.dev/courses/learn-cryptography).
 
 ## Generate a SHA 256 hash
 
@@ -510,7 +510,7 @@ digest := hash := h0 append h1 append h2 append h3 append h4 append h5 append h6
 
 ## Are SHA-2 and SHA-256 the same?
 
-SHA-2 is an [algorithm](https://boot.dev/learn/learn-algorithms), or a generalized idea of how to hash data. SHA-2 has several variants, all of which use the same algorithm but use different constants. SHA-256, for example, sets additional constants that define the behavior of the SHA-2 algorithm, one of these constants is the output size, 256. The 256 and 512 in SHA-256 and SHA-512 refer to the respective digest size in bits.
+SHA-2 is an [algorithm](https://boot.dev/courses/learn-algorithms), or a generalized idea of how to hash data. SHA-2 has several variants, all of which use the same algorithm but use different constants. SHA-256, for example, sets additional constants that define the behavior of the SHA-2 algorithm, one of these constants is the output size, 256. The 256 and 512 in SHA-256 and SHA-512 refer to the respective digest size in bits.
 
 ## What's the difference between SHA-1 and SHA-2?
 

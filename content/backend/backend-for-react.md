@@ -56,7 +56,7 @@ In the context of this React backend comparison, this means that the React front
 
 ### Benefits to decoupling
 
-First, it grants you more **flexibility**. You can choose different technologies for the frontend and backend based on their strengths. For example, you can use React for the frontend and choose a backend technology that excels at handling specific tasks like data processing, real-time updates, or complex business logic even if it’s not a perfect native fit for React. (cough, cough, [Golang](https://boot.dev/learn/learn-golang))
+First, it grants you more **flexibility**. You can choose different technologies for the frontend and backend based on their strengths. For example, you can use React for the frontend and choose a backend technology that excels at handling specific tasks like data processing, real-time updates, or complex business logic even if it’s not a perfect native fit for React. (cough, cough, [Golang](https://boot.dev/courses/learn-golang))
 
 It’s also more **scalable** to decouple your architecture. You can independently scale each component based on its specific requirements. For instance, you might add more frontend servers to handle increased user traffic or scale the backend independently to handle heavy computational tasks or database operations.
 
@@ -100,7 +100,7 @@ A meta-framework like Next.js really shines when you need the very first page lo
 
 Django is a high-level Python web framework known for its "batteries-included" approach, providing a robust set of tools and functionalities for web development. Here at Boot.dev, we’ve got a [pretty strong opinion](/backend/dont-start-with-frameworks/) on batteries-included tools like frameworks, specifically that it’s really important that you understand the *fundamentals* of the tools you use, instead of blindly relying on them. That way, when they break, you can fix them.
 
-If you're interested in learning Python for backend development you can check out [our full Python course here](https://boot.dev/learn/learn-python).
+If you're interested in learning Python for backend development you can check out [our full Python course here](https://boot.dev/courses/learn-python).
 
 However, it’s still a great option as a backend for your React app. Django offers a mature ecosystem and a wide range of built-in features such as authentication, ORM, and an admin panel. It also integrates well with React using RESTful APIs, which goes back to my point on decoupling. This allows your frontend and backend to be decoupled while still getting the benefit of Django's backend capabilities.
 
@@ -118,7 +118,7 @@ At least in 2021, [both Facebook and Instagram](https://instagram-engineering.co
 
 Golang, also known as Go, is a statically typed, compiled language developed by Google. It is known for its simplicity, efficiency, and ability to handle concurrent operations due to its unique [goroutines](https://go.dev/tour/concurrency/1). Go comes with a powerful standard library, which includes inbuilt support for web server implementation, meaning you won't need a fully-fledged web framework like Express.js or Django.
 
-Go is an excellent choice for creating highly performant backend systems, and if you're interested in learning Go for backend development, check out our [full Golang course here](https://boot.dev/learn/learn-golang).
+Go is an excellent choice for creating highly performant backend systems, and if you're interested in learning Go for backend development, check out our [full Golang course here](https://boot.dev/courses/learn-golang).
 
 As a backend for React, Go offers speed and efficiency that few other languages can match. The efficient handling of concurrent processes makes it ideal for applications dealing with high traffic and computationally heeavy workloads. Furthermore, Go's simplicity and straightforward syntax make it easier to learn and use, especially for developers already familiar with languages like JavaScript.
 

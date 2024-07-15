@@ -96,7 +96,7 @@ Coding can be really fun and has a low barrier to entry. The goal here is to get
 
 #### Resources
 
-* [Boot.dev's Basic Intro to JavaScript](https://boot.dev/learn/learn-javascript/)
+* [Boot.dev's Basic Intro to JavaScript](https://boot.dev/courses/learn-javascript/)
 * [Edabit JavaScript Challenges](https://edabit.com/challenges/javascript)
 * [A Byte of Python](https://python.swaroopch.com/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
@@ -151,9 +151,9 @@ I'm in complete agreement with the traditional education system that familiarity
 ![tsp](/img/800/travelling_salesman_problem.png)
 
 #### Resources
-- [Boot.dev's Learn Algorithms course](https://boot.dev/learn/learn-algorithms)
-- [Boot.dev's Learn Data Structures course](https://boot.dev/learn/learn-data-structures)
-- [Boot.dev's Learn Advanced Algorithms course](https://boot.dev/learn/learn-advanced-algorithms)
+- [Boot.dev's Learn Algorithms course](https://boot.dev/courses/learn-algorithms)
+- [Boot.dev's Learn Data Structures course](https://boot.dev/courses/learn-data-structures)
+- [Boot.dev's Learn Advanced Algorithms course](https://boot.dev/courses/learn-advanced-algorithms)
 - [Data-Structures & Algorithms with JavaScript](https://github.com/GauravWalia19/Free-Algorithms-Books/blob/master/Library/src/JAVASCRIPT/Data-Structures-%26-Algorithms-with-JavaScript.pdf)
 - [Steven Skiena's Video Lectures](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
 - ["Algorithms" book by Dasgupta](https://freecomputerbooks.com/Algorithms.html)
@@ -228,7 +228,7 @@ I recommend [learning backend](/backend/become-backend-developer/) APIs using th
 
 #### Resources
 
-- [Learn Go - For Backend](https://boot.dev/learn/learn-golang)
+- [Learn Go - For Backend](https://boot.dev/courses/learn-golang)
 - [The Odin Project - Comprehensive Web Tutorials](https://www.theodinproject.com/)
 
 #### Goals
@@ -265,7 +265,7 @@ Functional programming concepts and styles are especially important in web devel
 
 #### Resources
 
-- Boot.dev's [Learn Functional Programming course](https://boot.dev/learn/learn-functional-programming)
+- Boot.dev's [Learn Functional Programming course](https://boot.dev/courses/learn-functional-programming)
 - eBook: [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/book.pdf)
 
 #### Goals
@@ -305,7 +305,7 @@ Cryptography underpins the security of all digital applications. Valuable engine
 
 #### Resources
 
-- Boot.dev's [Learn Cryptography course](https://boot.dev/learn/learn-cryptography)
+- Boot.dev's [Learn Cryptography course](https://boot.dev/courses/learn-cryptography)
 - Christof Paar's [Youtube Lectures](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
 
 #### Goals
@@ -374,7 +374,7 @@ Distributed systems is the study of programs that can efficiently take advantage
 
 #### Resources
 
-- Boot.dev's [Learn Go course](https://boot.dev/learn/learn-golang)
+- Boot.dev's [Learn Go course](https://boot.dev/courses/learn-golang)
 - [Dixie State's Chord Assignment](http://cit.dixie.edu/cs/3410/asst_chord.php)
 - [Google's BigTable Research Paper - Read and take notes!](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf)
 - [Understanding Paxos](https://understandingpaxos.wordpress.com/)

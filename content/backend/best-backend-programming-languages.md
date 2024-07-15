@@ -35,7 +35,7 @@ New backend programming languages are developed every year while existing ones a
 
 As we'll discuss in more detail later, we know from the StackOverflow data that a majority of developers use JavaScript. What's next on their to-learn list?
 
-StackOverflow reports that for many JavaScript developers, the most-desired language is Go. Over 10k JavaScript developers want to start or continue developing in Go and Rust. Go is also in demand for Python developers, with over 9k Pythonistas choosing to [learn or continue learning Go](https://boot.dev/learn/learn-golang) next.
+StackOverflow reports that for many JavaScript developers, the most-desired language is Go. Over 10k JavaScript developers want to start or continue developing in Go and Rust. Go is also in demand for Python developers, with over 9k Pythonistas choosing to [learn or continue learning Go](https://boot.dev/courses/learn-golang) next.
 
 Go is a relative newcomer on the scene, which explains why it's not the most popular language yet. Developed in 2009 by disgruntled backend developers in Google, Go (or Golang) is built based on the power and syntax of C. It's designed to focus on safety, simplicity, and speed.
 
@@ -149,7 +149,7 @@ SQL isn't a backend "programming" language in the typical sense of the word. It'
 
 It's used by nearly *all* backend developers, so it merits inclusion on this list of the top backend programming languages for 2023. Almost half of StackOverflow's respondents use SQL, and 2/3s of people who use it love it. Plus, MySQL, PostgreSQL, and SQLite are the most popular databases, all of which rely on SQL to be queried. SQL is typically used alongside a general-purpose programming language like Go, Python or JavaScript.
 
-If you want to [learn SQL](https://boot.dev/learn/learn-sql) (and I recommend you do if you want to get into backend development) [Boot.dev](https://boot.dev) has a great course running through the fundamentals.
+If you want to [learn SQL](https://boot.dev/courses/learn-sql) (and I recommend you do if you want to get into backend development) [Boot.dev](https://boot.dev) has a great course running through the fundamentals.
 
 ### Who's hiring for SQL?
 

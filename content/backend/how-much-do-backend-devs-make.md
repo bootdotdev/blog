@@ -37,11 +37,11 @@ There are six basic concepts you should know pretty thoroughly if you want to ge
 
 Here's what you should know:
 
-* Coding basics in [Python](https://boot.dev/learn/learn-python), Go, or another back-end language
-* [Data structures](https://boot.dev/learn/learn-data-structures) and [algorithms](https://boot.dev/learn/learn-algorithms)
-* The basics of the web, like [HTTP](https://boot.dev/learn/learn-http)
-* [Simple web servers](https://boot.dev/learn/build-social-media-backend-golang)
-* Database fundamentals - [SQL](https://boot.dev/learn/learn-sql) or NoSQL
+* Coding basics in [Python](https://boot.dev/courses/learn-python), Go, or another back-end language
+* [Data structures](https://boot.dev/courses/learn-data-structures) and [algorithms](https://boot.dev/courses/learn-algorithms)
+* The basics of the web, like [HTTP](https://boot.dev/courses/learn-http)
+* [Simple web servers](https://boot.dev/courses/build-social-media-backend-golang)
+* Database fundamentals - [SQL](https://boot.dev/courses/learn-sql) or NoSQL
 * How to deploy to the internet
 
 The easiest, cheapest, most fun and most effective way to learn those six fundamentals is by taking our [backend development course](https://boot.dev/). You can also opt to learn backend development by running through these [six back-end projects](https://blog.boot.dev/backend/best-backend-projects/).

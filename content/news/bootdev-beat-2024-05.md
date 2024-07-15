@@ -16,7 +16,7 @@ Dutifully, Lane
 
 ## Patch notes
 
-### 1. [New Course: "Learn Pub/Sub Architecture"](https://www.boot.dev/learn/learn-pub-sub)
+### 1. [New Course: "Learn Pub/Sub Architecture"](https://www.boot.dev/courses/learn-pub-sub)
 
 ![pub/sub course image](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/pSHXBLR.png)
 

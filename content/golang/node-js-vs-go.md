@@ -64,7 +64,7 @@ There are a couple of reasons for such a deviation. The first being Golang is an
 
 Second, the JavaScript market is completely [saturated with programmers](https://www.theregister.com/2021/04/26/report_developers_slashdata/), whereas Golang is still an untapped market. While JavaScript continues to be one of the most popular languages, Golang is one of the most wanted, so now's the time to jump in and fill the demand.
 
-Try out our [Learn Go courses for free.](https://boot.dev/learn/learn-golang)
+Try out our [Learn Go courses for free.](https://boot.dev/courses/learn-golang)
 
 ## Go vs Node: Which Is Best for Web Development?
 
@@ -124,8 +124,8 @@ Either way, Go and Node.js both offer serious value to your skillset and provide
 
 **Take action and learn to code:**
 
-**Learn JavaScript:** with our [Learn JavaScript](https://boot.dev/learn/learn-javascript). You'll learn how computer science works, and build your skills up and code your own game interactively using conditionals, variables, functions, and more. You'll gain the skills you need to eventually start using Node.js and other JS extras.
+**Learn JavaScript:** with our [Learn JavaScript](https://boot.dev/courses/learn-javascript). You'll learn how computer science works, and build your skills up and code your own game interactively using conditionals, variables, functions, and more. You'll gain the skills you need to eventually start using Node.js and other JS extras.
 
-**Learn Golang:** with our [Learn Go](https://boot.dev/learn/learn-golang). Our Go course covers everything from the basics to advanced concepts like concurrency.
+**Learn Golang:** with our [Learn Go](https://boot.dev/courses/learn-golang). Our Go course covers everything from the basics to advanced concepts like concurrency.
 
 All our courses are part of our wider [computer science curriculum](https://github.com/bootdotdev/curriculum) to take anyone from complete beginner to CS grad level.

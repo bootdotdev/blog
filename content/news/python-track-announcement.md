@@ -22,10 +22,10 @@ View our [full course curriculum here](https://github.com/bootdotdev/curriculum)
 
 **The entire Python Track consists of:**
 
-1. **[Learn Python](https://boot.dev/learn/learn-python)**
-2. **[Learn Algorithms](https://boot.dev/learn/learn-algorithms)**
-3. **[Learn Data Structures](https://boot.dev/learn/learn-data-structures)**
-4. **[Learn Advanced Algorithms](https://boot.dev/learn/learn-advanced-algorithms)**
+1. **[Learn Python](https://boot.dev/courses/learn-python)**
+2. **[Learn Algorithms](https://boot.dev/courses/learn-algorithms)**
+3. **[Learn Data Structures](https://boot.dev/courses/learn-data-structures)**
+4. **[Learn Advanced Algorithms](https://boot.dev/courses/learn-advanced-algorithms)**
 
 These 4 courses feature over 285 interactive lessons where you write Python code to solve challenges and gain practical experience to advance your skills. It's all browser-based with no downloads, and it's ideal for any would-be Python programmers starting from scratch, as well as for anyone more advanced who wants to ace their next technical interview by jumping straight in at the Learn Algorithms course.
 

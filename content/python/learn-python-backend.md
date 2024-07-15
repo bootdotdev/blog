@@ -64,7 +64,7 @@ But that also means you can spend years programming in Python without ever touch
 
 Of course, to become a Python backend developer, you will need basic Python skills. These you probably already know, so I won't spend much time here – just make sure you're comfortable writing for loops, you know how to write functions, and you're familiar with classes and objects.
 
-If you want a quick revision, we've got a [solid Python course here](https://boot.dev/learn/learn-python), or you can review Python's [shockingly readable documentation](https://docs.python.org/3/).
+If you want a quick revision, we've got a [solid Python course here](https://boot.dev/courses/learn-python), or you can review Python's [shockingly readable documentation](https://docs.python.org/3/).
 
 ### Front-end
 
@@ -84,7 +84,7 @@ I'm not talking about making friends, although that never hurts. I'm talking abo
 
 Here are a few networking skills it's useful to know as a Python back-end developer, along with a few places to learn more about them:
 
-* Understand TCP/IP and HTTP protocols. Check out this [HTTP course](https://boot.dev/learn/learn-http) to learn all you'll need to know about how front-end apps request information from a back-end.
+* Understand TCP/IP and HTTP protocols. Check out this [HTTP course](https://boot.dev/courses/learn-http) to learn all you'll need to know about how front-end apps request information from a back-end.
 * Be familiar with RESTful API design. This is a common architectural pattern to build web APIs that are scalable, maintainable, and easy to use. StackOverflow has a solid [guide](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/) on the subject.
 * Be aware of some of the networking libraries such as [Requests](https://pypi.org/project/requests/), [Twisted](https://twisted.org/), or [SocketIO](https://python-socketio.readthedocs.io/). These help services communicate over the network, handling connections and data exchange. I've linked to the relevant documentation for each library.
 
@@ -140,7 +140,7 @@ However, at the end of the day, you should research which technologies are being
 
 A lot of being a back-end dev is doing things that rightfully should be their jobs, like DevOps, database admin, and security, without complaining. As a Python back-end developer, it's no different.
 
-As a backend developer, you need to be aware of security issues that can arise when communicating over the network. You should have a thorough understanding of concepts like encryption, SSL/TLS, and OAuth that can help you build more secure and reliable systems. While not *required*, [understanding the basics of the cryptography](https://boot.dev/learn/learn-cryptography) involved in these protocols can help you build more secure systems.
+As a backend developer, you need to be aware of security issues that can arise when communicating over the network. You should have a thorough understanding of concepts like encryption, SSL/TLS, and OAuth that can help you build more secure and reliable systems. While not *required*, [understanding the basics of the cryptography](https://boot.dev/courses/learn-cryptography) involved in these protocols can help you build more secure systems.
 
 ### Databases * SQL and NoSQL
 
@@ -157,7 +157,7 @@ I've touched on these before in [this article](/backend/top-backend-technologies
 * Indexing and optimizing database performance
 * Relational data integrity and constraints
 
-I recommend getting your feet wet with PostgreSQL, SQLite, MySQL, and MariaDB. If you want to [learn SQL, check out this course](https://boot.dev/learn/learn-sql).
+I recommend getting your feet wet with PostgreSQL, SQLite, MySQL, and MariaDB. If you want to [learn SQL, check out this course](https://boot.dev/courses/learn-sql).
 
 As for NoSQL, these are the concepts you'll need:
 

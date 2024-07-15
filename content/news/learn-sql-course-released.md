@@ -9,7 +9,7 @@ images:
   - https://i.imgur.com/mxAwMkG.png
 ---
 
-I'm happy to announce that today we launched our new [Learn SQL course](https://boot.dev/learn/learn-sql)! It was a ton of fun to write, but I also had a blast building the back-end infrastructure that allows students to write and execute SQL in the browser. If you've been wanting to gain a solid foundation of SQL skills, this course is for you!
+I'm happy to announce that today we launched our new [Learn SQL course](https://boot.dev/courses/learn-sql)! It was a ton of fun to write, but I also had a blast building the back-end infrastructure that allows students to write and execute SQL in the browser. If you've been wanting to gain a solid foundation of SQL skills, this course is for you!
 
 ## What's in the course?
 

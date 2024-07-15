@@ -58,7 +58,7 @@ In short, you need to learn how to code with Python, you need to understand the 
 
 ### Learn Python and coding syntax
 
-There are so many guides and courses and videos out there that can teach you Python and its coding syntax. We've got a [great one](https://boot.dev/learn/learn-python) at Boot.dev that's free to audit if you're looking for a place to start.
+There are so many guides and courses and videos out there that can teach you Python and its coding syntax. We've got a [great one](https://boot.dev/courses/learn-python) at Boot.dev that's free to audit if you're looking for a place to start.
 
 Rather than reinventing the wheel, I'll make this more of a checklist. Here are the basic Python principles you should grasp before you move on.
 
@@ -104,7 +104,7 @@ All you need to know here is that object-oriented programming is a principle of 
 3. Add unique attributes and behaviors to the child classes to represent differences
 4.  Create objects from the child class that represents dogs within that subgroup."
 
-**Where you can learn it**: At Boot.dev we have a [comprehensive, interactive OOP course in Python](https://boot.dev/learn/learn-object-oriented-programming). If you like videos I also recommend [Corey Schafer's video series](https://coreyms.com/development/python/python-oop-tutorials-complete-series) on Python OOP. But the real best way is to build a project that has a lot of duplicate code and find ways where objects can help you simplify and reduce the code. (a lot of how to get a job as a Python programmer comes down to DIY.)
+**Where you can learn it**: At Boot.dev we have a [comprehensive, interactive OOP course in Python](https://boot.dev/courses/learn-object-oriented-programming). If you like videos I also recommend [Corey Schafer's video series](https://coreyms.com/development/python/python-oop-tutorials-complete-series) on Python OOP. But the real best way is to build a project that has a lot of duplicate code and find ways where objects can help you simplify and reduce the code. (a lot of how to get a job as a Python programmer comes down to DIY.)
 
 **Local dev environment**: This is an important step! Building a local dev environment will help you get more hands-on experience writing Python code. You'll need to choose and set up different packages, modules, and libraries.
 
@@ -119,7 +119,7 @@ All you need to know here is that object-oriented programming is a principle of 
 7. Make your first commit.
 8. Install and run Python
 
-**Where you can learn it**: We published a [full setup guide on Boot.dev](https://boot.dev/learn/build-local-dev-environment-python) that will take from zero to a complete professional setup. I also like Microsoft's [guide](https://learn.microsoft.com/en-us/windows/dev-environment/). They cover different types of languages and environments.
+**Where you can learn it**: We published a [full setup guide on Boot.dev](https://boot.dev/courses/build-local-dev-environment-python) that will take from zero to a complete professional setup. I also like Microsoft's [guide](https://learn.microsoft.com/en-us/windows/dev-environment/). They cover different types of languages and environments.
 
 **Data structures and algorithms**: How do you put data somewhere? How do you get it back out? What if you need to process that data in some way? The answer to all those nebulous questions is "data structures."
 
@@ -131,7 +131,7 @@ Algorithms commonly get lumped in with data structures when learning computer sc
 
 It doesn't end there – you'll need a list or a table to display those lovely green bow ties to your user, and you'll want some kind of filtering or sorting algorithm to present them correctly.
 
-**Where you can learn it**: If you want to test your knowledge, you can audit our [Algorithms](https://boot.dev/learn/learn-algorithms) and [Data Structure](https://boot.dev/learn/learn-data-structures) courses for free. Find you're struggling a little? You can use a tutorial [like this one](https://www.manning.com/liveproject/trees) to practice. You're also welcome to go back to our courses – the algorithms course will walk you through building a demo product, and the courses are designed to complement each other.
+**Where you can learn it**: If you want to test your knowledge, you can audit our [Algorithms](https://boot.dev/courses/learn-algorithms) and [Data Structure](https://boot.dev/courses/learn-data-structures) courses for free. Find you're struggling a little? You can use a tutorial [like this one](https://www.manning.com/liveproject/trees) to practice. You're also welcome to go back to our courses – the algorithms course will walk you through building a demo product, and the courses are designed to complement each other.
 
 **Networking**: Networking is how different computer systems and servers over a network are connected and exchange data. Pop quiz! What is the difference between IPv4 and IPv6?
 
@@ -143,13 +143,13 @@ If you look at that list of acronyms and think, "WTF?" to yourself, then it's a 
 
 You'll need to establish a connection, authenticate with the server, retrieve and process the data, then upload the results back to the server.
 
-**Where you can learn it:** Our [Learn HTTP](https://boot.dev/learn/learn-http) course walks you through all those acronyms, as well as helps guide you through individual challenges that make up part of a bigger, real-world application. [Tutorialspoint](https://www.tutorialspoint.com/python/python_networking.htm) gives you a pretty in-depth walkthrough if you prefer reading to doing.
+**Where you can learn it:** Our [Learn HTTP](https://boot.dev/courses/learn-http) course walks you through all those acronyms, as well as helps guide you through individual challenges that make up part of a bigger, real-world application. [Tutorialspoint](https://www.tutorialspoint.com/python/python_networking.htm) gives you a pretty in-depth walkthrough if you prefer reading to doing.
 
 **Databases:** Different from data structures, which are *how* you organize data. This is absolutely a must-know for anyone who wants to know how to get a job as a Python programmer, and I've explained more about that [here](/backend/do-backend-devs-need-sql/). Databases are where data lives. You should have a good familiarity with SQL and NoSQL databases (which I've covered [here](/backend/top-backend-technologies/#top-six-back-end-sql-databases) and [here](/backend/top-backend-technologies/#top-five-back-end-nosql-databases) respectively).
 
 **Example**: Say you need to store search log data. Do you know how to create a database, or which kind you should create? Do you know how to access that data using Python? How about manipulating it? Are you familiar with how Python and SQL work together?
 
-**Where you can learn it**: This is one of the few computer science basics where it's best to learn with a different language. I recommend our [SQL course](https://boot.dev/learn/learn-sql) to build out real database tables and practice querying them. And again, there's no substitute for learning by doing. Try connecting your Python project to a NoSQL database. Get it wrong. Figure out why. Get it right.
+**Where you can learn it**: This is one of the few computer science basics where it's best to learn with a different language. I recommend our [SQL course](https://boot.dev/courses/learn-sql) to build out real database tables and practice querying them. And again, there's no substitute for learning by doing. Try connecting your Python project to a NoSQL database. Get it wrong. Figure out why. Get it right.
 
 This is one of the few computer science basics I recommend doing in JavaScript, not Python. If you're thinking about how to get a job as a Python programmer, I recommend learning another language anyway as I'll get into below.
 

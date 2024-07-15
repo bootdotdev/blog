@@ -22,7 +22,7 @@ Computer science deals more with the study of *software*, while computer enginee
 
 Computer science includes:
 
-* The study of [algorithms](https://boot.dev/learn/learn-algorithms) and [data structures](https://boot.dev/learn/learn-data-structures)
+* The study of [algorithms](https://boot.dev/courses/learn-algorithms) and [data structures](https://boot.dev/courses/learn-data-structures)
 * Computer and network design
 * Writing code through the use of programming languages
 * Computer organization

@@ -20,7 +20,7 @@ All the best, Lane.
 
 ## New stuff from Boot.dev this October
 
-1. ["Build a Local Dev Environment" project](https://boot.dev/learn/build-local-dev-environment-python)
+1. ["Build a Local Dev Environment" project](https://boot.dev/courses/build-local-dev-environment-python)
 
 We are super excited about this new project tutorial. One of my biggest struggles in school was that I didn't have a local dev setup that worked well. This tutorial will have you up and running with a simple yet professional suite of tools.
 
@@ -36,7 +36,7 @@ We've started creating blackboard videos for some of the more visually demanding
 * [Bitwise and Logical Operators](https://www.youtube.com/watch?v=1rUzblmGHzk&t=1s)
 * [Big-O In Real Life](https://www.youtube.com/watch?v=99IbJfrA5tE)
 
-4. New chapter on generics added to [Learn Go](https://boot.dev/learn/learn-golang)
+4. New chapter on generics added to [Learn Go](https://boot.dev/courses/learn-golang)
 
 [Generics](/golang/how-to-use-golangs-generics/) are a newly released feature in Go (as of version 1.18). We just added a new chapter to the "Learn Go" course that covers exactly how they work and how to use them in the wild!
 

@@ -37,10 +37,10 @@ It covers:
 
 * Computing systems
 * Binary code
-* [Algorithms](https://boot.dev/learn/learn-algorithms)
+* [Algorithms](https://boot.dev/courses/learn-algorithms)
 * Computational thinking
 * Loops, events, and procedures
-* Programming in Scratch and [Python](https://boot.dev/learn/learn-python)
+* Programming in Scratch and [Python](https://boot.dev/courses/learn-python)
 * Boolean Expressions
 * Web development
 * Cybersecurity
@@ -106,7 +106,7 @@ It's fewer fundamentals, and more practicalities. It contains a ton of job-speci
 
 Here are the five sections covered in this book:
 
-1. [Learn to program in Python 3](https://boot.dev/learn/learn-python) and build your first program.
+1. [Learn to program in Python 3](https://boot.dev/courses/learn-python) and build your first program.
 2. Learn Object-oriented programming and create a powerful Python program to get you hooked.
 3. Learn to use tools like Git, Bash, and regular expressions. Then use your new coding skills to build a web scraper.
 4. Study Computer Science fundamentals like data structures and algorithms.
@@ -196,7 +196,7 @@ Here are some more specialist books that are worth reading.
 
 ### [1. Cryptography Made Simple](https://www.amazon.com/Cryptography-Made-Simple-Information-Security/dp/3319219359)
 
-Anyone who claims to make [learning cryptography](https://boot.dev/learn/learn-cryptography) simple must be looked at with a certain degree of skepticism. And yet, hats off to Nigel, he really did it. (Or as best as anyone can claim to make cryptography simple.)
+Anyone who claims to make [learning cryptography](https://boot.dev/courses/learn-cryptography) simple must be looked at with a certain degree of skepticism. And yet, hats off to Nigel, he really did it. (Or as best as anyone can claim to make cryptography simple.)
 
 This book is about the basics of infosec. If you want to read this, you should know basic discrete mathematics, probability, and elementary calculus before you dive in. It's written as a textbook for college students, but it's also recommended for professionals in infosec.
 
@@ -220,7 +220,7 @@ This computer science tome (I hesitate to even call it a book) is considered the
 Here's what you can expect this book to cover:
 
 * Sorting and order statistics
-* [Data structures](https://boot.dev/learn/learn-data-structures)
+* [Data structures](https://boot.dev/courses/learn-data-structures)
 * Advanced design and analysis techniques
 * Advanced data structures
 * Graph algorithms

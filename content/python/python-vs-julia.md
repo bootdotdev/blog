@@ -15,11 +15,11 @@ Julia, on the other hand, is the new kid on the block. The language is more than
 
 If you're a beginner looking to get into data science or machine learning, you may ask yourself, "should I learn Julia or Python?" If you're a seasoned pro looking to further optimize your data processing or machine learning models, maybe you wonder if Julia is faster than Python. Let me fill you in, so you can make the best choice for *you*. To summarize the Python vs Julia battle:
 
-**Julia has some edge-case advantages where it's undeniably better than Python. However, Python's popularity and longevity mean it's still best for beginners to learn. If you want to get started learning one of the most valuable languages in computer science, you can start [right here.](https://boot.dev/learn/learn-python)**
+**Julia has some edge-case advantages where it's undeniably better than Python. However, Python's popularity and longevity mean it's still best for beginners to learn. If you want to get started learning one of the most valuable languages in computer science, you can start [right here.](https://boot.dev/courses/learn-python)**
 
 ## Julia versus Python, definitions and history
 
-Python is a high-level interpreted programming language that makes use of garbage collection and is dynamically typed. Designed by [Guido van Rossum in 1991](https://www.geeksforgeeks.org/history-of-python/), Python is intended to be readable and is more concise than other popular languages like Java, C, C++, etc. Due to its high readability and the option to use it as a scripting language, a lot of really great tutorials for Python exist, [like this one](https://boot.dev/learn/learn-python). Python is seen as a general-purpose programming language in the computer science community.
+Python is a high-level interpreted programming language that makes use of garbage collection and is dynamically typed. Designed by [Guido van Rossum in 1991](https://www.geeksforgeeks.org/history-of-python/), Python is intended to be readable and is more concise than other popular languages like Java, C, C++, etc. Due to its high readability and the option to use it as a scripting language, a lot of really great tutorials for Python exist, [like this one](https://boot.dev/courses/learn-python). Python is seen as a general-purpose programming language in the computer science community.
 
 Julia was created in 2012 by Jeff Bezanson, Stefan Karpinski, Viral B. Shah, and Alan Edelman. They created Julia with the goal of taking [all the strengths](https://julialang.org/blog/2012/02/why-we-created-julia/) of various programming languages, such as R, C, Matlab, Python, and Ruby, while eliminating their drawbacks when it comes to "scientific computing, machine learning, data mining, large-scale linear algebra, distributed and parallel computing". Since it was made with these applications in mind, it can be quite a powerhouse if your use case falls into these categories.
 
@@ -61,7 +61,7 @@ Julia is faster when loading data in, which is very important for data scientist
 
 Given Julia being faster, making better use of multi-processing, and its mathematical appearance, many data scientists find Julia more comfortable and efficient to work with. Julia is definitely better than Python for data science when it comes to *performance*.
 
-With that in mind, why did [3 out of 4 data professionals](https://www.kdnuggets.com/2020/01/python-preferred-languages-data-science.html) recommend those interested in becoming data scientists [learn Python](https://boot.dev/learn/learn-python)? Could Python be the winner in a competition of Julia versus Python for data science?
+With that in mind, why did [3 out of 4 data professionals](https://www.kdnuggets.com/2020/01/python-preferred-languages-data-science.html) recommend those interested in becoming data scientists [learn Python](https://boot.dev/courses/learn-python)? Could Python be the winner in a competition of Julia versus Python for data science?
 
 Python is truly omnipresent in the field of machine learning (which is often used in data science). Industry standards are set by Pytorch and Tensorflow. Not only that, but Python's flexibility and all-purpose nature tend to serve data scientists better from initially collecting the data all the way to visualizing their findings.
 

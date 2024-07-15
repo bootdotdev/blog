@@ -26,7 +26,7 @@ Historically, Boots has only been able to provide AI assistance on code completi
 
 ### 2. SQL course challenges
 
-We've added optional challenges to the [SQL course](https://www.boot.dev/learn/learn-sql)! If you've already taken the course and want to try the challenges, you are more than welcome to! We'll continue to add challenges to all the courses that don't have them yet.
+We've added optional challenges to the [SQL course](https://www.boot.dev/courses/learn-sql)! If you've already taken the course and want to try the challenges, you are more than welcome to! We'll continue to add challenges to all the courses that don't have them yet.
 
 ### 3. Many bug fixes and UI tweaks
 

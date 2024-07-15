@@ -7,7 +7,7 @@ categories:
   - "python"
 ---
 
-We've just launched our latest course, [Learn Python](https://boot.dev/learn/learn-python).
+We've just launched our latest course, [Learn Python](https://boot.dev/courses/learn-python).
 
 [Start the "Learn Python" Course Now](https://boot.dev/dashboard/courses)
 
@@ -15,7 +15,7 @@ We've just launched our latest course, [Learn Python](https://boot.dev/learn/lea
 
 YAYPYTHON
 
-Featuring more than 65 interactive, code-in-your-browser lessons across six modules, this course is perfect for new-to-beginner students who have completed our [Intro To Coding with JavaScript Courses](https://boot.dev/learn/learn-javascript) and picked up the basics of a trickier language by taking [Learn Go 1](https://boot.dev/learn/learn-golang).
+Featuring more than 65 interactive, code-in-your-browser lessons across six modules, this course is perfect for new-to-beginner students who have completed our [Intro To Coding with JavaScript Courses](https://boot.dev/courses/learn-javascript) and picked up the basics of a trickier language by taking [Learn Go 1](https://boot.dev/courses/learn-golang).
 
 View our [full course curriculum here](https://github.com/bootdotdev/curriculum)
 
@@ -30,7 +30,7 @@ Our Learn Python course features six modules covering:
 5. **Functions**
 6. **Dictionaries and sets**
 
-Completing all six modules will bring you up to an intermediate level, putting you in great position to complete our more advanced Python courses, including our [Data Structures](https://boot.dev/learn/learn-data-structures) and [Advanced Algorithms](https://boot.dev/learn/learn-advanced-algorithms) courses.
+Completing all six modules will bring you up to an intermediate level, putting you in great position to complete our more advanced Python courses, including our [Data Structures](https://boot.dev/courses/learn-data-structures) and [Advanced Algorithms](https://boot.dev/courses/learn-advanced-algorithms) courses.
 
 ## Why Python?
 

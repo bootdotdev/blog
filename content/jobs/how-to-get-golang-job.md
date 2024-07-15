@@ -33,7 +33,7 @@ If you're reading this article, you should have:
 * Interest in coding.
 * A desire to learn your craft *in-depth*, without cutting corners.
 
-> If you're brand new to Go, I recommend you hop off this article and learn a little about it first. As part of our [backend-development career track](https://boot.dev/tracks/backend), we at Boot.dev offer a fantastic [Go intro course](https://boot.dev/learn/learn-golang) that will walk you through everything you need to know to get started with Go.
+> If you're brand new to Go, I recommend you hop off this article and learn a little about it first. As part of our [backend-development career track](https://boot.dev/tracks/backend), we at Boot.dev offer a fantastic [Go intro course](https://boot.dev/courses/learn-golang) that will walk you through everything you need to know to get started with Go.
 
 ## What you don't need
 
@@ -89,13 +89,13 @@ As a Golang developer, you should understand the key four OOP concepts: abstract
 
 You will almost certainly be asked about this at interviews. Now, you can just memorize the definition of those concepts and rattle them off when prompted. That'll at least show you prepared. But if you want to demonstrate real understanding, you'll be better off if you actually understand them.
 
-Go isn't OOP per se, but there are times when it makes sense to force Go to behave like one. But for the sake of this section, I recommend learning about OOP using an OOP-native language like Python. We've got a [three-minute demo tutorial](https://boot.dev/learn/learn-object-oriented-programming) that will show you how to use OOP and how it works.
+Go isn't OOP per se, but there are times when it makes sense to force Go to behave like one. But for the sake of this section, I recommend learning about OOP using an OOP-native language like Python. We've got a [three-minute demo tutorial](https://boot.dev/courses/learn-object-oriented-programming) that will show you how to use OOP and how it works.
 
 ### Algorithms and data structures
 
 Data structures are how you organize and store data in memory. An algorithm is just a good set of instructions to perform on that data. The two go hand in hand because you'll almost always use them both together. For example, a sorting algorithm will need a data structure for the data to be stored. How well the algorithm performs depends on which data structure you choose.
 
-Again, these are basics you can know in any language, so I recommend you use a tutorial [like this one](https://www.manning.com/liveproject/trees) to practice coding your algorithm and choosing data structures. We also have a [comprehensive algorithms course](https://boot.dev/learn/learn-algorithms) on Boot.dev that walks you through algorithms by actually building a demo product and an accompanying [data structures course](https://boot.dev/learn/learn-data-structures).
+Again, these are basics you can know in any language, so I recommend you use a tutorial [like this one](https://www.manning.com/liveproject/trees) to practice coding your algorithm and choosing data structures. We also have a [comprehensive algorithms course](https://boot.dev/courses/learn-algorithms) on Boot.dev that walks you through algorithms by actually building a demo product and an accompanying [data structures course](https://boot.dev/courses/learn-data-structures).
 
 ### Cryptography
 
@@ -105,7 +105,7 @@ Paraphrasing Austen slightly, but chances are you already know that if you want 
 
 Pro tip: make sure to fully spell out cryptography when you research it, or else you'll just get a bunch of bitcoin.
 
-Want to practice your cryptography skills? Again, we've got a [superb code-based tutorial](https://boot.dev/learn/learn-cryptography) on the subject. Aside from that, you could consider creating a simple cipher to encrypt and decrypt plaintext into and out of cyphertext. [Here's](https://www.golangprograms.com/cryptography.html) a basic tutorial walking you through that project.
+Want to practice your cryptography skills? Again, we've got a [superb code-based tutorial](https://boot.dev/courses/learn-cryptography) on the subject. Aside from that, you could consider creating a simple cipher to encrypt and decrypt plaintext into and out of cyphertext. [Here's](https://www.golangprograms.com/cryptography.html) a basic tutorial walking you through that project.
 
 ## Step 2. Master coding basics
 

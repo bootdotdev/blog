@@ -34,7 +34,7 @@ Scipy, NumPy, Matplotlib, and a range of other add-ons make it easier than ever 
 
 The really great thing about the use of Python in finance is that despite being a relatively new use of the language, there are already a ton of resources that can help you get started and smooth your way in. This is because Python has been in use generally for decades. A lot of the same resources that made Python great for data science can make your finance experience better too.
 
-Beyond the open-source libraries, there are entire [Python courses](https://boot.dev/learn/learn-python) and [textbooks](https://www.oreilly.com/library/view/python-for-finance/9781491945360/) and [tutorials](https://pythonprogramming.net/getting-stock-prices-python-programming-for-finance/) dedicated to helping you pick up the basics specifically of Python for finance. 
+Beyond the open-source libraries, there are entire [Python courses](https://boot.dev/courses/learn-python) and [textbooks](https://www.oreilly.com/library/view/python-for-finance/9781491945360/) and [tutorials](https://pythonprogramming.net/getting-stock-prices-python-programming-for-finance/) dedicated to helping you pick up the basics specifically of Python for finance. 
 
 If you want to learn Python for finance, you won't have to rely on generic courses and tutorials - there is plenty of content geared around how to learn Python in a finance context.
 
@@ -94,8 +94,8 @@ Python use in finance is practically unlimited, and I expect that as time goes o
 
 ## Want to Learn Python For a Future Finance Role?
 
-If you're looking to get started with Python, we built our [Learn Python course](https://boot.dev/learn/learn-python) to take you from novice to intermediate level, prepping you to take on more advanced topics like data science for financial data.
+If you're looking to get started with Python, we built our [Learn Python course](https://boot.dev/courses/learn-python) to take you from novice to intermediate level, prepping you to take on more advanced topics like data science for financial data.
 
 If you're more advanced, we also have Big O Data Structures and Advanced Algorithms to learn key computer science concepts while interactively coding along with each lesson's challenge, putting your newly-gained skilled into action.
 
-[Learn Python Now](https://boot.dev/learn/learn-python)
+[Learn Python Now](https://boot.dev/courses/learn-python)

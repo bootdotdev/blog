@@ -44,7 +44,7 @@ For example, on the login page, the frontend will probably check the formatting 
 
 The frontend is also responsible for formatting and sending requests to the backend. Once the frontend has verified the email format, it would format a login request and send it off to the backend. A common protocol to use for this communication between frontend and backend is HTTP (or HTTPS) which you probably know as the prefix to a lot of website URLs, like [https://boot.dev](https://boot.dev).
 
-A great course for learning how to properly set up and customize HTTP requests to connect your frontend and backend is Boot.dev's [HTTP course](https://boot.dev/learn/learn-http).
+A great course for learning how to properly set up and customize HTTP requests to connect your frontend and backend is Boot.dev's [HTTP course](https://boot.dev/courses/learn-http).
 
 The backend will respond to the request, and the frontend is responsible for receiving these responses, digesting them, and updating the UI based on them. Once the server responds with the successful login status, the frontend should update the page to show the home page instead of the login screen.
 
@@ -73,7 +73,7 @@ Frameworks make developing software a lot easier, given the structure and out-of
 
 ### Where to Learn Frontend Programming
 
-Frontend programming has a lot of aspects to it, but thankfully there are a lot of options for learning how to develop frontends for programs. Scrimba has a beginner's [guide to frontend development](https://scrimba.com/articles/frontend-developer-guide/). FreeCodeCamp has a compilation of close to [200 articles and tutorials](https://www.freecodecamp.org/news/tag/front-end-development/) to help you learn frontend development. Boot.dev has both [JavaScript](https://boot.dev/learn/learn-javascript) and [HTTP](https://boot.dev/learn/learn-http) courses, which will teach you foundational concepts that will you developing robust frontends in no time.
+Frontend programming has a lot of aspects to it, but thankfully there are a lot of options for learning how to develop frontends for programs. Scrimba has a beginner's [guide to frontend development](https://scrimba.com/articles/frontend-developer-guide/). FreeCodeCamp has a compilation of close to [200 articles and tutorials](https://www.freecodecamp.org/news/tag/front-end-development/) to help you learn frontend development. Boot.dev has both [JavaScript](https://boot.dev/courses/learn-javascript) and [HTTP](https://boot.dev/courses/learn-http) courses, which will teach you foundational concepts that will you developing robust frontends in no time.
 
 There are plenty of coding bootcamps and online tutorials for you to learn how to develop frontends. One of my favorites for beginners is [React's tutorial](https://reactjs.org/tutorial/tutorial.html) since it's extremely well-documented and so popular that it's practically guaranteed to always be kept up to date. If you do it, you'll feel like a pro in no time.
 
@@ -124,13 +124,13 @@ Frameworks are such an important part of developing maintainable, modern, and pr
 
 Some of the most popular backend frameworks include Laravel, .NET, NodeJS, Django, and Flask. *Statics & Data* put together a cool motion graphic of the shifts in [backend framework popularity](https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2022/) over the last ten years.
 
-Backend technologies are diverse and numerous. Kubernetes, [Docker](https://boot.dev/learn/learn-docker), Apache, TensorFlow, Apache Hadoop, and many more are astounding backend technologies that are extremely useful and specialized in what they do. If you're not incorporating machine learning into your backend, TensorFlow probably isn't something you need to use. Nonetheless, there are a bunch of cool tools out there. Some are free and some aren't. There are even companies that offer backend-as-a-service, so you'd only have to concern yourself with the frontend and connecting it to the provided backend.
+Backend technologies are diverse and numerous. Kubernetes, [Docker](https://boot.dev/courses/learn-docker), Apache, TensorFlow, Apache Hadoop, and many more are astounding backend technologies that are extremely useful and specialized in what they do. If you're not incorporating machine learning into your backend, TensorFlow probably isn't something you need to use. Nonetheless, there are a bunch of cool tools out there. Some are free and some aren't. There are even companies that offer backend-as-a-service, so you'd only have to concern yourself with the frontend and connecting it to the provided backend.
 
 ### Common Databases Used in Backend Development
 
 Databases and the management of them are integral parts of the backend. An application that doesn't have permanence isn't very useful. If your Google Drive didn't save documents after you closed them, it wouldn't be good for much.
 
-The most common databases used in backend are MySQL, PostgreSQL, DynamoDB, and MongoDB. Boot.dev has put together a guide to [the best backend technologies](/backend/top-backend-technologies/) to decipher which database is best for each scenario, and if you're interested in a deep dive in SQL you can check out their [Learn SQL course](https://boot.dev/learn/learn-sql).
+The most common databases used in backend are MySQL, PostgreSQL, DynamoDB, and MongoDB. Boot.dev has put together a guide to [the best backend technologies](/backend/top-backend-technologies/) to decipher which database is best for each scenario, and if you're interested in a deep dive in SQL you can check out their [Learn SQL course](https://boot.dev/courses/learn-sql).
 
 ### Where to Learn Backend Development
 

@@ -16,7 +16,7 @@ Respectfully, Lane
 
 ## Patch notes
 
-### 1. [New Course: "Learn Git"](https://www.boot.dev/learn/learn-git)
+### 1. [New Course: "Learn Git"](https://www.boot.dev/courses/learn-git)
 
 ![git course image](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/UdsHT64.png)
 

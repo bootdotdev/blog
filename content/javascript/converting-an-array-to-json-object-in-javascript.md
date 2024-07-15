@@ -11,7 +11,7 @@ images:
 
 JSON, or "JavaScript Object Notation", is a highly popular data exchange format that's widely used in web development. In this post, we'll explore several simple methods for converting a JavaScript array into JSON data. Plus, we'll discuss the benefits of using JSON and how it can help improve your web development projects.
 
-If you're interested in learning more about JSON and HTTP, check out my ["Learn HTTP" course on Boot.dev](https://boot.dev/learn/learn-http) for an in-depth look at these powerful technologies.
+If you're interested in learning more about JSON and HTTP, check out my ["Learn HTTP" course on Boot.dev](https://boot.dev/courses/learn-http) for an in-depth look at these powerful technologies.
 
 ## JS Array to JSON using JSON.stringify()
 
@@ -42,7 +42,7 @@ const arr = JSON.parse("[1, 2, 3]")
 // [1, 2, 3]
 ```
 
-If you're looking to enhance your JavaScript skills, check out my [full JS course on Boot.dev](https://boot.dev/learn/learn-javascript)!
+If you're looking to enhance your JavaScript skills, check out my [full JS course on Boot.dev](https://boot.dev/courses/learn-javascript)!
 
 ## Array to JSON with indexes as keys
 
