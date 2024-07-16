@@ -100,7 +100,7 @@ Look how readable that is! In my opinion, the Python code is much easier to unde
 
 But, if you were to run that code, you’d quickly discover one of Python’s weaknesses – it can be a little slow due to its dynamic type-checking and interpreted nature. C# code often runs up to 10 times faster than Python code, depending on the task.
 
-If you want more Python code examples to demonstrate how simple Python is to read, write, and understand, Boot.dev's [Learn Python](https://boot.dev/learn/learn-python) course is chock full of fun examples like this one.
+If you want more Python code examples to demonstrate how simple Python is to read, write, and understand, Boot.dev's [Learn Python](https://boot.dev/courses/learn-python) course is chock full of fun examples like this one.
 
 ## Which is best for beginners?
 

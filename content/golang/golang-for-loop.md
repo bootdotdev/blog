@@ -145,7 +145,7 @@ This can be a useful pattern when you want something like a [do-while](https://d
 
 ## #5 Infinite loop
 
-Infinite loops are useful when you have a worker or process that need to run forever, like a [web crawler](https://boot.dev/learn/build-link-analyzer).
+Infinite loops are useful when you have a worker or process that need to run forever, like a [web crawler](https://boot.dev/courses/build-link-analyzer).
 
 ```go
 sum := 0

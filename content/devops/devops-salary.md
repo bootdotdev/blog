@@ -53,7 +53,7 @@ Do you dream of being a highly sought-after DevOps engineer with that enticing s
 To become a DevOps engineer, you'll need a couple of key skills:
 
 * Knowledge and experience with CI/CD pipelines
-* Programming fundamentals, [ideally in Python](https://boot.dev/learn/learn-python), [Go](https://boot.dev/learn/learn-golang), and [JavaScript](https://boot.dev/learn/learn-javascript)
+* Programming fundamentals, [ideally in Python](https://boot.dev/courses/learn-python), [Go](https://boot.dev/courses/learn-golang), and [JavaScript](https://boot.dev/courses/learn-javascript)
 * Linux fundamentals
 * Building, testing, deploying, and monitoring applications
 * Kubernetes/Docker

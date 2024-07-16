@@ -36,7 +36,7 @@ JS is often associated with TypeScript, a syntactical superset of JS that adds o
 
 ### Is It Easy to Learn?
 
-Luckily, the ever-popular JS is also one of the easiest programming languages [for beginners to learn](https://boot.dev/learn/learn-javascript/) due to a forgiving, and flexible syntax that works across almost all browsers. Because of its immense popularity, it is advised by industry professionals that anyone looking to enter into software development learn JS. 
+Luckily, the ever-popular JS is also one of the easiest programming languages [for beginners to learn](https://boot.dev/courses/learn-javascript/) due to a forgiving, and flexible syntax that works across almost all browsers. Because of its immense popularity, it is advised by industry professionals that anyone looking to enter into software development learn JS. 
 
 ### Where Is It Used?
 
@@ -54,7 +54,7 @@ Go was built as an alternative to C and Java, and was driven by the needs of Goo
 
 ### Is It Easy to Learn?
 
-Thanks to its simple and modern structure, [Go is quite easy for new developers](https://boot.dev/learn/learn-golang) to learn, as shown by its quick growth in popularity. Syntactically, Go is very similar to C (_discussed below)_, but with the additional features of memory safety, garbage collection (which can detect and clear wasted disk space), structural typing, and CSP-style concurrency.
+Thanks to its simple and modern structure, [Go is quite easy for new developers](https://boot.dev/courses/learn-golang) to learn, as shown by its quick growth in popularity. Syntactically, Go is very similar to C (_discussed below)_, but with the additional features of memory safety, garbage collection (which can detect and clear wasted disk space), structural typing, and CSP-style concurrency.
 
 ### Where Is It Used?
 

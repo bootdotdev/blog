@@ -205,6 +205,6 @@ Cryptology is a _very_ young science. Although humans have had rudimentary forms
 
 ## For further study
 
-**For beginners:** If you've been inspired to learn cryptography as a beginner to coding and computer science, we have an entire computer science course curriculum to take you from complete beginner to graduate level. As cryptography is a more advanced topic, we suggest you start with our [Learn Python](https://boot.dev/learn/learn-python).
+**For beginners:** If you've been inspired to learn cryptography as a beginner to coding and computer science, we have an entire computer science course curriculum to take you from complete beginner to graduate level. As cryptography is a more advanced topic, we suggest you start with our [Learn Python](https://boot.dev/courses/learn-python).
 
-**For experienced coders:** We recommend our [Learn Cryptography course](https://boot.dev/learn/learn-cryptography) which covers everything from the basics of encryption and brute force attacks to stream ciphers, block ciphers, and hash functions.
+**For experienced coders:** We recommend our [Learn Cryptography course](https://boot.dev/courses/learn-cryptography) which covers everything from the basics of encryption and brute force attacks to stream ciphers, block ciphers, and hash functions.

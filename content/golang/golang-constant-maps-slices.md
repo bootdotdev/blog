@@ -14,7 +14,7 @@ imageAlts:
 
 **The quick answer is that Go does not support constant arrays, maps or slices.** However, there are some great workarounds.
 
-For the most part, I've found that [developers learning Go](https://boot.dev/learn/learn-golang) for the first time are pretty good at using global *constants* for configuration values rather than global *variables*. However, a problem arises when we want a constant version of some of the more complex types. The Go compiler does not allow us to [create array, map, or slice](/golang/golang-make-maps-and-slices/) constants. After realizing this, many developers decide to use a dangerous global variable.
+For the most part, I've found that [developers learning Go](https://boot.dev/courses/learn-golang) for the first time are pretty good at using global *constants* for configuration values rather than global *variables*. However, a problem arises when we want a constant version of some of the more complex types. The Go compiler does not allow us to [create array, map, or slice](/golang/golang-make-maps-and-slices/) constants. After realizing this, many developers decide to use a dangerous global variable.
 
 In this article, we will explore some alternative options that allow us to make a *form* of constant maps, slices, and arrays, albeit with some trade-offs. Please don't use global variables if you can avoid them!
 

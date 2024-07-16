@@ -20,7 +20,7 @@ Regards, Lane
 
 ### 1. New Course: Learn Shells and Terminals
 
-Using a terminal is an invaluable skill for any developer, but it's also often overlooked. When I got my CS degree, I had to teach myself how to navigate the command line, and I wish I had a course that would have taken me through all the fundamentals. That's what this new course, [Learn Shells and Terminals](https://www.boot.dev/learn/learn-shells-and-terminals) is all about. No need for you to suffer!
+Using a terminal is an invaluable skill for any developer, but it's also often overlooked. When I got my CS degree, I had to teach myself how to navigate the command line, and I wish I had a course that would have taken me through all the fundamentals. That's what this new course, [Learn Shells and Terminals](https://www.boot.dev/courses/learn-shells-and-terminals) is all about. No need for you to suffer!
 
 ### 2. Lore
 

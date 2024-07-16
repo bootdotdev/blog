@@ -14,7 +14,7 @@ A while back, one of my friends bragged that he bagged a six-figure backend deve
 
 "It's so easy, anyone can do it," he said smugly as I labored to learn the basics of computer science the hard, slow, old-fashioned way (taking courses, reading books, building projects on my own). "You don't need to know the first thing about SQL to become a backend developer."
 
-A few weeks later, of course, he was summarily fired for being incompetent at his job. This proves a few things, first, my friend is a bit of a loser, but also that it's not enough to *look* good on paper to be a backend developer. You have to know these topics inside and out. [Learning SQL](https://boot.dev/learn/learn-sql) is no exception.
+A few weeks later, of course, he was summarily fired for being incompetent at his job. This proves a few things, first, my friend is a bit of a loser, but also that it's not enough to *look* good on paper to be a backend developer. You have to know these topics inside and out. [Learning SQL](https://boot.dev/courses/learn-sql) is no exception.
 
 You might luck out like my pal did, but even if you do manage to snag a job through trickery and deceit, it's not enough to have a passing familiarity with CRUD operations and joins. You need to know the language well, and you need to understand the database theory behind it. Otherwise, you'll both struggle to get a job as a backend developer, and you definitely won't be able to keep it.
 
@@ -32,7 +32,7 @@ If you want the long answer, then we'll cover:
 
 Before I explain in more detail why it's so imperative that backend developers know SQL, let's break down what SQL is in case it's a new-ish concept to you.
 
-> If you want to gain a solid understanding of SQL skills, look no further - we've got a [great course covering the basics of SQL](https://boot.dev/learn/learn-sql) and beyond.
+> If you want to gain a solid understanding of SQL skills, look no further - we've got a [great course covering the basics of SQL](https://boot.dev/courses/learn-sql) and beyond.
 
 SQL, or Structured Query Language, is a programming language used to manage and manipulate relational databases.
 
@@ -69,7 +69,7 @@ That being said, if you want to learn SQL for the back-end, there are a few key 
 
 ### How can I learn this long laundry list of SQL skills?
 
-First, not coincidentally, this is a list of exactly the lessons you'll learn from our [Learn SQL](https://boot.dev/learn/learn-sql) course. You will build out real database tables and practice querying them in flexible ways right in your browser. Not only will you understand how to use SQL, but you will also learn when you should use it and in what situations. It's a great course!
+First, not coincidentally, this is a list of exactly the lessons you'll learn from our [Learn SQL](https://boot.dev/courses/learn-sql) course. You will build out real database tables and practice querying them in flexible ways right in your browser. Not only will you understand how to use SQL, but you will also learn when you should use it and in what situations. It's a great course!
 
 Want a more DIY approach? You can also look on YouTube and Google for tutorials covering each of these skills. For example, searching "[sql normalize a database" on YouTube](https://www.youtube.com/watch?v=siiYInWniFs) delivers a great 10-minute video tutorial on the subject.
 

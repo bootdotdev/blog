@@ -145,7 +145,7 @@ It's also standardized, meaning that updates and releases with new versions freq
 
 ### The best way to learn JavaScript for web developers
 
-If you search "learn JavaScript," it's easy to become overwhelmed with the quantity of information, tutorials, and guides. It's hard to even know which frameworks and libraries you need. That's why I recommend a hierarchical approach that lets you systematically and consistently progress with learning the most popular coding language for web developers. Some examples include [JS: The Right Way](http://jstherightway.org/), and [Learn JavaScript](https://boot.dev/learn/learn-javascript).
+If you search "learn JavaScript," it's easy to become overwhelmed with the quantity of information, tutorials, and guides. It's hard to even know which frameworks and libraries you need. That's why I recommend a hierarchical approach that lets you systematically and consistently progress with learning the most popular coding language for web developers. Some examples include [JS: The Right Way](http://jstherightway.org/), and [Learn JavaScript](https://boot.dev/courses/learn-javascript).
 
 ## 7. The most popular coding language to quickly increase your salary: Go
 
@@ -165,7 +165,7 @@ It's also possible to learn it just by reading since the syntax is clear enough 
 
 As a language built by Google for the internet, you can imagine there are several free web-based resources that can help you on your way to learn. First, several sources recommended checking out [A Tour of Go](https://tour.golang.org/welcome/1) where you learn to use Go. It's interactive and you run your own code snippets on the website itself. It's divided into modules, which makes it easy to keep track of where you are and reference back if necessary.
 
-Once you've grasped the basics, some other great resources include [Go By Example](https://gobyexample.com/) and [Learn Go](https://boot.dev/learn/learn-golang), where you'll learn to find examples of code for typical or common tasks.
+Once you've grasped the basics, some other great resources include [Go By Example](https://gobyexample.com/) and [Learn Go](https://boot.dev/courses/learn-golang), where you'll learn to find examples of code for typical or common tasks.
 
 ## 8. The most popular coding language in 2022: Rust
 

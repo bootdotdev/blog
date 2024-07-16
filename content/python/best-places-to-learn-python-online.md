@@ -10,7 +10,7 @@ imageAlts:
   - "Python surrounding a castle"
 ---
 
-For anyone who wants to [learn Python online](https://boot.dev/learn/learn-python), it can be a bit overwhelming. When I Googled it, I came up with over 200 million hits.
+For anyone who wants to [learn Python online](https://boot.dev/courses/learn-python), it can be a bit overwhelming. When I Googled it, I came up with over 200 million hits.
 
 The frustrating thing is that despite having a ton of options, very few of them fit your needs. When I was a beginner who wanted to learn Python, I wanted:
 
@@ -229,7 +229,7 @@ What if you prefer to read? Text-based tutorials are a great option for any burg
 
 There are a plethora of free resources available online that provide detailed and comprehensive Python tutorials in written form.
 
-These tutorials cover everything from the basics of Python syntax and [data structures](https://boot.dev/learn/learn-data-structures) to more advanced topics like web scraping, data analysis, and machine learning. Many of these resources also provide practical examples and exercises to help reinforce the concepts learned.
+These tutorials cover everything from the basics of Python syntax and [data structures](https://boot.dev/courses/learn-data-structures) to more advanced topics like web scraping, data analysis, and machine learning. Many of these resources also provide practical examples and exercises to help reinforce the concepts learned.
 
 ### Cons
 

@@ -25,19 +25,19 @@ We already covered the [top eight backend programming languages](/backend/best-b
 
 ![go-banner](/img/800/go-banner.webp)
 
-Go is the fastest-growing and most-desired backend language, used by companies like Uber, YouTube, and Spotify. Backend developers like it because it's super safe to use, it's incredibly simple to pick up, and it's fast. You can get started [learning Go here](https://boot.dev/learn/learn-golang).
+Go is the fastest-growing and most-desired backend language, used by companies like Uber, YouTube, and Spotify. Backend developers like it because it's super safe to use, it's incredibly simple to pick up, and it's fast. You can get started [learning Go here](https://boot.dev/courses/learn-golang).
 
 ### 2. Python
 
 ![python-banner](/img/800/python-banner.webp)
 
-Python is the most popular backend programming language for beginners. It has a simple and limited syntax, which makes it easy to read and write. Its immense number of libraries makes it incredibly versatile. Companies like Airbnb, SpaceX, and Stripe rely on Python to maintain their backends. You can get started [learning Python here](https://boot.dev/learn/learn-python).
+Python is the most popular backend programming language for beginners. It has a simple and limited syntax, which makes it easy to read and write. Its immense number of libraries makes it incredibly versatile. Companies like Airbnb, SpaceX, and Stripe rely on Python to maintain their backends. You can get started [learning Python here](https://boot.dev/courses/learn-python).
 
 ### 3. JavaScript
 
 ![js-banner](/img/800/javascript-banner.webp)
 
-JavaScript is the most popular backend language for all developers, though it's mostly used for frontend dev. However, its frameworks like NodeJS make it a popular choice for backend developers too. Companies like Facebook, Google, and eBay use JavaScript. You can get started [learning JavaScript here](https://boot.dev/learn/learn-javascript).
+JavaScript is the most popular backend language for all developers, though it's mostly used for frontend dev. However, its frameworks like NodeJS make it a popular choice for backend developers too. Companies like Facebook, Google, and eBay use JavaScript. You can get started [learning JavaScript here](https://boot.dev/courses/learn-javascript).
 
 ### 4. Rust
 
@@ -109,7 +109,7 @@ The SQLite site [documents](https://www.sqlite.org/famous.html) plenty of exampl
 
 #### Where can I learn SQLite?
 
-Our very own [Learn SQL course](https://boot.dev/learn/learn-sql) uses SQLite as the engine, so it's the best place to get started!
+Our very own [Learn SQL course](https://boot.dev/courses/learn-sql) uses SQLite as the engine, so it's the best place to get started!
 
 ### 3. MySQL
 

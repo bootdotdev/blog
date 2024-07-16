@@ -13,7 +13,7 @@ Versatile, powerful and ever-present, JavaScript is the world's most used progra
 
 94.5% of web pages use JavaScript, it's one of the 10 most-loved programming languages, and with median salaries of [$112,000](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states) in the US, JavaScript offers a way to fast-track your way to higher earnings if you're thinking of switching careers.
 
-You've mastered the basics -- perhaps by taking our [Intro to JavaScript course](https://boot.dev/learn/learn-javascript) -- and tried your hand at some simpler JavaScript projects or challenges. But are you ready for an entry-level junior dev role writing JavaScript?
+You've mastered the basics -- perhaps by taking our [Intro to JavaScript course](https://boot.dev/courses/learn-javascript) -- and tried your hand at some simpler JavaScript projects or challenges. But are you ready for an entry-level junior dev role writing JavaScript?
 
 To help you find out, here's a selection of 20 basic JavaScript interview questions you may be asked a variation of on the way to securing your first job.
 

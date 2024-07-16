@@ -6,7 +6,7 @@ categories:
   - "javascript"
 ---
 
-We just launched our new ["Learn Functional Programming" course](https://boot.dev/learn/learn-functional-programming), and frankly, I'm a bit exhausted (more on that later). This course is an interactive code-in-the-browser course that teaches the basics of FP in JavaScript and PureScript.
+We just launched our new ["Learn Functional Programming" course](https://boot.dev/courses/learn-functional-programming), and frankly, I'm a bit exhausted (more on that later). This course is an interactive code-in-the-browser course that teaches the basics of FP in JavaScript and PureScript.
 
 To celebrate this launch, we will be offering the course for **free** on signup (using the 250 free signup gems) for the **entire month of October**! Even if you can't take the course this month, be sure to create an account and claim the offer :)
 

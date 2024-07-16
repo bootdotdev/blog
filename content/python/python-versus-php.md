@@ -11,7 +11,7 @@ images:
 
 PHP famously claims to be the backend programming language for just under [80% of the Internet](https://w3techs.com/technologies/details/pl-php). However, if you look at the [popularity rankings of programming languages](https://survey.stackoverflow.co/2022/#technology-most-popular-technologies), Python is consistently far ahead of PHP. How can that be? Both languages can be used for backend web development, and PHP was even specifically made for web development.
 
-So which one is better, Python or PHP? If I were starting fresh, I'd probably [learn Python](https://boot.dev/learn/learn-python), and here's why.
+So which one is better, Python or PHP? If I were starting fresh, I'd probably [learn Python](https://boot.dev/courses/learn-python), and here's why.
 
 ## Python versus PHP: Groundwork
 
@@ -41,7 +41,7 @@ PHP is pretty great when it comes to getting it installed. It runs without issue
 
 Python, on the other hand, can require a bit more work. It comes pre-installed on Mac and Linux, but if that version is outdated, but you'll often need to install newer versions of Python, and maintaining multiple versions on one device can be tricky. Luckily, there's a cool tool called [pyenv](https://github.com/pyenv/pyenv) that was made just for managing multiple Python versions.
 
-If you're interested in getting a Python environment set up on your machine, check out our [development environment setup project](https://boot.dev/learn/build-local-dev-environment-python).
+If you're interested in getting a Python environment set up on your machine, check out our [development environment setup project](https://boot.dev/courses/build-local-dev-environment-python).
 
 ## Python versus PHP: Popularity
 
@@ -103,4 +103,4 @@ Spotify, Instacart, and Pinterest use Python as their backend web development la
 
 ## What should I learn?
 
-Python is one of the world's most popular programming languages, and it seems to gain more popularity every year. It's an incredibly versatile language, and the tech fields that are currently gaining the most popularity, like machine learning and data science, rely *heavily* on Python. If you have to pick one, I'd pick Python, and you can even easily learn it using our [Python course for beginners](https://boot.dev/learn/learn-python). It will serve you well in the long run.
+Python is one of the world's most popular programming languages, and it seems to gain more popularity every year. It's an incredibly versatile language, and the tech fields that are currently gaining the most popularity, like machine learning and data science, rely *heavily* on Python. If you have to pick one, I'd pick Python, and you can even easily learn it using our [Python course for beginners](https://boot.dev/courses/learn-python). It will serve you well in the long run.

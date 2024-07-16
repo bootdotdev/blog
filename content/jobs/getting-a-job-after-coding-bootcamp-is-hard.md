@@ -67,7 +67,7 @@ The rigid, time-intensive structure of in-person bootcamps doesn't suit many peo
 
 We wanted to create courses that people could dip in and out of, but that could still engage and teach effectively -- with our _learn by doing_ philosophy front and center.
 
-We've created a set of courses that form an equivalent CS degree, but that you can take on your own time, and even just take courses based on your own interests, such as our [Python Track](https://boot.dev/learn/learn-python). Actually completing real-life-mimicking lesson challenges forces you to learn and retain the concepts, and puts you far ahead of video lecture learners in your computer science journey.
+We've created a set of courses that form an equivalent CS degree, but that you can take on your own time, and even just take courses based on your own interests, such as our [Python Track](https://boot.dev/courses/learn-python). Actually completing real-life-mimicking lesson challenges forces you to learn and retain the concepts, and puts you far ahead of video lecture learners in your computer science journey.
 
 If you've completed a coding bootcamp but are still struggling to land a job, we've designed courses especially for you. Common areas that stump people in technical interviews include data structures and algorithms, which we've dedicated three courses to covering.
 

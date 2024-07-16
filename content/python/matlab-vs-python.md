@@ -8,7 +8,7 @@ images:
   - /img/800/lane_python_slithering_around_a_graph_sci_fi_fantasy_f36f8b88-348c-40f9-9b76-a0766c9114e2.png.webp
 ---
 
-This is one of those arguments where, outside of a few very specific examples, there's a clear answer. [Python](https://boot.dev/learn/learn-python) is better than MATLAB in (almost) every situation. But you're searching for the differences between MATLAB and Python, so clearly you're not convinced. Let's take a deeper look comparing Python vs MATLAB so you are finally persuaded.
+This is one of those arguments where, outside of a few very specific examples, there's a clear answer. [Python](https://boot.dev/courses/learn-python) is better than MATLAB in (almost) every situation. But you're searching for the differences between MATLAB and Python, so clearly you're not convinced. Let's take a deeper look comparing Python vs MATLAB so you are finally persuaded.
 
 ## History and definitions
 
@@ -40,7 +40,7 @@ Almost every main difference between MATLAB versus Python comes down to this sim
 
 Python is open source, which means that, for example, a twenty-three year old guy named Armin can run an elaborate April Fool's joke by bundling all his libraries into a one-file microframework, realize it was actually a great idea, and release the Flask microframework, which would go on to become one of the two most popular web frameworks for Python. Flask is usable by anyone, for free.
 
-The open source nature of Python has fostered a vibrant community of developers to create and share a vast number of third-party libraries, frameworks, and tools, which are available for free for anyone to use and modify. This allows for a level of collaboration and innovation that you just can't get with proprietary software like MATLAB. This also makes it very easy to [learn Python](https://boot.dev/learn/learn-python) – there are so many people willing to help you through videos, tutorials, how-tos, books, and more, all for free or cheap.
+The open source nature of Python has fostered a vibrant community of developers to create and share a vast number of third-party libraries, frameworks, and tools, which are available for free for anyone to use and modify. This allows for a level of collaboration and innovation that you just can't get with proprietary software like MATLAB. This also makes it very easy to [learn Python](https://boot.dev/courses/learn-python) – there are so many people willing to help you through videos, tutorials, how-tos, books, and more, all for free or cheap.
 
 Ultimately I believe in the future of open source languages. Open source languages are more reproducible, cost-effective, community-driven, customizable, and transparent. And I'm not alone – even though MATLAB is most frequently used in universities, that's no longer the case.
 
@@ -166,7 +166,7 @@ As you can see, Python is anywhere from ~2x to ~7x more hireable, based just on 
 
 ## Cost
 
-Haven't I hammered this point home enough yet? Python is free forever because it's open source. The only currency you'll spend is time and energy as you work to [learn it](https://boot.dev/learn/learn-python).
+Haven't I hammered this point home enough yet? Python is free forever because it's open source. The only currency you'll spend is time and energy as you work to [learn it](https://boot.dev/courses/learn-python).
 
 MATLAB costs start at $99/year for students. For enterprise users, [the cost can rocket](https://www.mathworks.com/pricing-licensing.html) up to thousands of dollars per user, per year.
 

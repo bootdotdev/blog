@@ -62,7 +62,7 @@ The basic coding skills, whether learned through Python or another language, are
 
 #### Resources to learn basic coding skills
 
-* [Boot.dev's Learn Python](https://boot.dev/learn/learn-python/)
+* [Boot.dev's Learn Python](https://boot.dev/courses/learn-python/)
 * [Edabit JavaScript Challenges](https://edabit.com/challenges/javascript)
 * [A Byte of Python](https://python.swaroopch.com/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
@@ -78,8 +78,8 @@ Your goal here should be to [learn computer science fundamentals](/computer-scie
 
 #### Resources for data structures and algorithms
 
-* [Learn Algorithms on Boot.dev](https://boot.dev/learn/learn-algorithms)
-* [Learn Data Structures on Boot.dev](https://boot.dev/learn/learn-data-structures)
+* [Learn Algorithms on Boot.dev](https://boot.dev/courses/learn-algorithms)
+* [Learn Data Structures on Boot.dev](https://boot.dev/courses/learn-data-structures)
 * [Udemy](https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/)
 
 
@@ -95,7 +95,7 @@ Your goal here is to understand *why* we need backend developers at all, and how
 
 #### Resources
 
-* [Learn HTTP](https://boot.dev/learn/learn-http)
+* [Learn HTTP](https://boot.dev/courses/learn-http)
 * [FreeCodeCamp's Learn HTTP](https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/)
 * [HTML and CSS](https://www.freecodecamp.org/news/html-css-11-hour-course/)
 * [Learn Front-end Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
@@ -104,8 +104,8 @@ Your goal here is to understand *why* we need backend developers at all, and how
 
 Next, you need to pick a language or two that you want to specialize in. For example, I'm primarily a backend Go engineer - but I dabble in Python and JavaScript. By specializing, you will make your job search *easier* on yourself. Companies want experts in the areas they're hiring for - not a jack-of-all-trades. Here are some web development projects you can take a look at:
 
-* [A social media backend in Go](https://boot.dev/learn/build-social-media-backend-golang)
-* [Personal Projects on Boot.dev](https://boot.dev/learn/build-personal-project-1)
+* [A social media backend in Go](https://boot.dev/courses/build-social-media-backend-golang)
+* [Personal Projects on Boot.dev](https://boot.dev/courses/build-personal-project-1)
 * [Python Projects](/python/python-projects-for-beginners/)
 * [DevdevShow's project ideas](https://devdevshow.com/backend-project-ideas-for-beginners-portfolio/)
 

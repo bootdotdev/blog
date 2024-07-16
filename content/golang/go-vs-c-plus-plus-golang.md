@@ -15,7 +15,7 @@ Needing to be a math genius to [learn to code](https://boot.dev) is a thing of t
 
 With dozens of languages available, which ones are worth learning? Regardless of whether you plan to work as a professional developer, or casually dabble in code, one of the best things you can do is understand which programming languages are specialized for which tasks. That way, you know you're learning a language thats good to accomplish your specific goals.
 
-Now, you may have seen our breakdown of [Golang vs. Python](/golang/golang-vs-python/), but now it's time to see how Golang matches up to C++. We'll compare their design, performance, speed, and security, as well as discuss key differences between the two languages and how they're used in the real world. By the end of this article you'll know if you want to [learn Golang](https://boot.dev/learn/learn-golang) or C++.
+Now, you may have seen our breakdown of [Golang vs. Python](/golang/golang-vs-python/), but now it's time to see how Golang matches up to C++. We'll compare their design, performance, speed, and security, as well as discuss key differences between the two languages and how they're used in the real world. By the end of this article you'll know if you want to [learn Golang](https://boot.dev/courses/learn-golang) or C++.
 
 ## Golang vs C++: A Brief History
 
@@ -23,7 +23,7 @@ When it comes to history, C++ and Golang sit at opposite ends of the spectrum.
 
 The first edition of C++ was released in 1985, originally named C with Classes, bringing the first C language superset to the market. Development started in 1979 by Danish computer scientist Bjarne Stroustrup at Bell Laboratories, to create an easier version of C that uses classes or code templates.
 
-Golang (or Go) 1.0, however, wasn't on the market until 2012, after being developed by Robert Griesemer, Rob Pike, and Ken Thompson, who, ironically, were inspired by their mutual frustration with C++. In the end, they took the best of everything – the best of the Java, [Python](https://boot.dev/learn/learn-python), and C languages – to create Go. Its C-inspired syntax also makes learning Golang for C++ programmers effortless.
+Golang (or Go) 1.0, however, wasn't on the market until 2012, after being developed by Robert Griesemer, Rob Pike, and Ken Thompson, who, ironically, were inspired by their mutual frustration with C++. In the end, they took the best of everything – the best of the Java, [Python](https://boot.dev/courses/learn-python), and C languages – to create Go. Its C-inspired syntax also makes learning Golang for C++ programmers effortless.
 
 ## Go vs C++: Which Has a Better Design?
 
@@ -88,7 +88,7 @@ Object-oriented (or OOP) is when you manipulate the object, rather than the logi
 
 Now again, it doesn't possess as many layers as high-level languages, but it has enough that you can directly control the action you're trying to achieve. This isn't an easy job though, as creating programs based on the interaction of objects is extremely complex.
 
-It's important to note that while C++ is an OOP language, it's also a multi-paradigm language, so it can support procedural and [functional programming](https://boot.dev/learn/learn-functional-programming). However, OOP, especially with modern C++, is its most common application.
+It's important to note that while C++ is an OOP language, it's also a multi-paradigm language, so it can support procedural and [functional programming](https://boot.dev/courses/learn-functional-programming). However, OOP, especially with modern C++, is its most common application.
 
 Golang, on the other hand, is a procedural language. For this, you simply write down the steps of the task in the order you want the computer to run them. It's based on the concept of a series of computational steps. Golang is also a multi-paradigm language and supports functional programming.
 
@@ -176,6 +176,6 @@ C++ is perfect for traditionalists that like to get their hands dirty in code an
 
 **Golang is the modern web developer's language**. People from all kinds of backgrounds are making the shift to tech, and Go welcomes them with open arms. It's easy to use and has a scalable nature that promises a fruitful career to anyone using it.
 
-We're big fans of Go at [Boot.dev](https://boot.dev), so much so that we've created several courses to help you learn Go! No matter your skill level, our [Learn Go course](https://boot.dev/learn/learn-golang) will get you the skills you need to work as a Go programmer.
+We're big fans of Go at [Boot.dev](https://boot.dev), so much so that we've created several courses to help you learn Go! No matter your skill level, our [Learn Go course](https://boot.dev/courses/learn-golang) will get you the skills you need to work as a Go programmer.
 
 Overall, to figure out which one is best, you need to figure which one are *you*. No matter the choice, Golang and C++ only continue to grow in popularity and will benefit you way into the future.

@@ -18,11 +18,11 @@ All the best, Lane
 
 ## Patch notes
 
-### [1. "Learn Web Servers" course released](https://boot.dev/learn/learn-web-servers)
+### [1. "Learn Web Servers" course released](https://boot.dev/courses/learn-web-servers)
 
 This is our new flagship back-end programming course. If you're following along the back-end career path, you'll take this course after you learn the Go programming language. In this one, you'll build a fully-fledged web server in Go from scratch (look ma, no frameworks!)
 
-### [2. "Build a Blog Aggregator" project released](https://boot.dev/learn/build-blog-aggregator)
+### [2. "Build a Blog Aggregator" project released](https://boot.dev/courses/build-blog-aggregator)
 
 To accompany the new web servers course, I replaced our old "build a social media back-end" project with this blog (rss) aggregator! This project comes in the learning path directly after you learn SQL. You'll use your newfound database skills to integrate a production-grade PostgreSQL database into a back-end service that collects blog posts from the internet.
 
@@ -30,7 +30,7 @@ To accompany the new web servers course, I replaced our old "build a social medi
 
 This month we plugged the new GPT AI into Boot.dev! You can highlight any code in the platform and ask Boots, our new mascot, to explain what the code does to you in plain English.
 
-### [4. New Challenges for "Learn OOP" course](https://boot.dev/learn/learn-object-oriented-programming)
+### [4. New Challenges for "Learn OOP" course](https://boot.dev/courses/learn-object-oriented-programming)
 
 Challenges continue to be one of the favorite features on Boot.dev! We now have optional end-of-chapter challenges for "Learn Python" and "Learn OOP"!
 

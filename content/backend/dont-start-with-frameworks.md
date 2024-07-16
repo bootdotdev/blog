@@ -40,7 +40,7 @@ Anyhow, I heard Django was popular, so I decided to use it to build a website. I
 
 I stressed for weeks trying to make sure my site was "secure". Every blog post online kept telling me I had to set this configuration, or that setting, if I wanted to be able to run my Django server in production. I avoided interacting with the database like the plague, instead opting to use Django's ORM and admin panel to make changes to my data. I'm embarrassed to admit that at the time I didn't even understand that the database was a separate thing from the web server.
 
-Anyhow, a year later when I [learned Go](https://boot.dev/learn/learn-golang) and built an API without any frameworks, *everything started to come together for me*. I finally understood all the moving parts.
+Anyhow, a year later when I [learned Go](https://boot.dev/courses/learn-golang) and built an API without any frameworks, *everything started to come together for me*. I finally understood all the moving parts.
 
 Since then, I've worked with minimalistic Go apps, Django, Flask, Rails and Express servers. I'm no longer stressed when I build a server in Django because I know what tradeoffs are being made. Django and Rails are not bad tools for building web apps, they're just bad tools to start your learning process with.
 

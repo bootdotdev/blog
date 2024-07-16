@@ -40,7 +40,7 @@ If that’s you, read on. Here are the twelve best alternatives to Codecademy. I
 
 ## 1. Boot.dev
 
-[Boot.dev](https://boot.dev/) is all about building strong coding foundations. The courses are geared around concepts and use coding languages to help you grasp those concepts, like [Functional Programming](https://boot.dev/learn/learn-functional-programming) or [Big-O algorithms](https://boot.dev/learn/learn-algorithms).
+[Boot.dev](https://boot.dev/) is all about building strong coding foundations. The courses are geared around concepts and use coding languages to help you grasp those concepts, like [Functional Programming](https://boot.dev/courses/learn-functional-programming) or [Big-O algorithms](https://boot.dev/courses/learn-algorithms).
 
 Everything on Boot.dev is geared around helping you get a coding job. It won’t be fast – you can expect it to take between six to 18 months, depending on your pace – but it’s a reliable, interactive, fun way to learn to code.
 
