@@ -1,6 +1,6 @@
 ---
 title: "Terms of Service"
-author: Lane Wagner
+author: Boot.dev Legal Team
 date: "2020-02-06"
 lastmod: "2024-07-18"
 ---
