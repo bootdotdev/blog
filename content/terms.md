@@ -2,113 +2,83 @@
 title: "Terms of Service"
 author: Lane Wagner
 date: "2020-02-06"
-lastmod: "2021-05-21"
+lastmod: "2024-07-18"
 ---
 
-Please read these terms and conditions carefully before using Our Service.
+## BOOT.DEV TERMS AND CONDITIONS OF USE
 
-## Interpretation and Definitions
+Ogdolo LLC, dba Boot.dev (“Boot.dev”), whose principal office is located at 3520 N. University Ave., Suite 300, Provo, UT 84604, owns and operates [www.boot.dev](http://www.boot.dev) (the “Site”), providing access to digital information and educational content related to learning backend development (our “Service”).
 
-### Interpretation
+Access to and use of the Site and the Service is provided by Boot.dev (“we”, “us”, and/or “our”) subject to the following terms and conditions (the “Terms”).
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions.
+By using the Site and Service, you agree to comply with and be bound by the Terms. If you do not agree with all the Terms, you must exit this Site immediately. We reserve the right to refuse access and service to anyone for any reason at any time.
 
-The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+To contact us, please email [hello@boot.dev](mailto:hello@boot.dev).
 
-### Definitions
+## 1. Data Collection and Privacy Policy.
 
-For the purposes of these Terms and Conditions:
+We will use any personal data provided by you or collected through your use of the Site in accordance with our Privacy Policy, which is available at <https://blog.boot.dev/privacy/>.
 
-* Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for the election of directors or other managing authority.
-* Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Boot.dev – Cryptography, Programming, and Security Articles.
-* Country refers to Utah, United States
-* Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
-* Service refers to the Website.
-* Terms and Conditions (also referred to as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the Terms and Conditions Generator.
-* Third-party Social Media Service means any services or content (including data, information, products, or services) provided by a third party that may be displayed, included, or made available by the Service.
-* Website refers to Boot.dev – Cryptography, Programming, and Security Articles, accessible from boot.dev
-* You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+By using the Site and the Service, you consent to Boot.dev securely sending certain of your personally identifiable information to our Google Analytics account for tracking and analytics purposes, and further consent to such data being used to associate data across your unauthenticated and authenticated sessions on the Site, as more fully described at <https://support.google.com/analytics/answer/12150158?hl=en&utm_id=ad>.
 
-## Acknowledgment
+## 2. Updates and Changes.
 
-These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
+You can review the most current version of the Terms at any time on this page. We reserve the right, at our sole discretion, to update, change or replace any part of these Terms by posting updates and changes to the Site. It is your responsibility to check our Site periodically for changes. Your continued use of or access to our Site or the Service following the posting of any changes to these Terms constitutes acceptance of those changes.
 
-Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
+## 3. Use of Site.
 
-By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
+You represent that you are over the age of 18. We do not permit those under 18 to use the Site.
 
-You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
+You acknowledge that Boot.dev is the sole owner (or the licensee) of all content on the Site, including, without limitation, all applicable copyrights, patents, trademarks, trade secrets, logos, and other intellectual property rights, as well as all text, images, graphics, logos, audio, video, URLs, metadata and other material appearing on the Site (the “Boot.dev Content”). The Site and the Boot.dev Content are protected by the copyright and intellectual property laws of the United States and are protected globally by similar laws and applicable international copyright treaties.
 
-Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
+You agree that your use of the Site and Boot.dev Content is for your own personal and non-commercial use only. Without limitation, you shall not use (and you agree not to assist or allow anyone else to use) the Site and/or any Boot.dev Content for any other purpose without our prior written approval. This includes, without limitation, that you shall not reproduce, distribute, display, modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from the Site or Boot.dev Content for any reason including but not limited to: (a) for any commercial use; (b) for any text and data aggregation, analysis or mining; (c) for any machine learning or artificial intelligence-related purposes (including the training or development of such technologies); or (d) with any machine learning and/or artificial intelligence technologies to generate any data.
 
-## Links to Other Websites
+You shall not use any service, software, device, tool, method, program, technique, algorithm or process to circumvent any protection or technological measure that controls access to the Site or Boot.dev Content in any way, including circumventing any access controls of the Site.
 
-Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
+## 4. Malicious Use.
 
-The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
+We take reasonable precautions to prevent computer viruses, bugs and any other items that may damage the operation of computers, but do not accept any liability for them if they are present. You should use your own virus protection software.
 
-We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
+You agree not to misuse this Site by introducing viruses, trojans, worms or other material that is malicious or harmful. You further agree not to attack this Site via a denial-of-service attack or a distributed denial-of service attack or doing anything which may affect the functioning of or the ability of any another user to access the Site. We will report any breach of this provision to the relevant legal authorities, and we will cooperate fully with them in their investigation of such incidents. In the event of such a breach, your right to use this Site will cease immediately.
 
-## Termination
+## 5. Other Prohibited Uses.
 
-We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
+In addition to other prohibitions set forth in the Terms, you are prohibited from using the site or its content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to collect or track the personal information of others; (h) to spam, phish, pharm, pretext, spider, crawl, or scrape; (i) for any obscene or immoral purpose; or (j) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet. We reserve the right to terminate your use of the Site and Service, or any related website, for violating any of the prohibited uses.
 
-Upon termination, Your right to use the Service will cease immediately.
+## 6. Indemnification.
 
-## Limitation of Liability
+You agree to indemnify, defend and hold harmless Boot.dev and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third-party due to or arising out of your breach of any of these or your violation of any law or the rights of a third-party.
 
-Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
+## 7. No Warranties.
 
-To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
+The Service is provided to you “AS IS” and “AS AVAILABLE” and with all faults and defects without warranty of any kind.
 
-Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
+TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, BOOT.DEV EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, WITH RESPECT TO THE SERVICE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT, AND WARRANTIES THAT MAY ARISE OUT OF COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE OR TRADE PRACTICE. WITHOUT LIMITATION TO THE FOREGOING, BOOT.DEV PROVIDES NO WARRANTY OR UNDERTAKING, AND MAKES NO REPRESENTATION OF ANY KIND THAT THE SERVICE WILL MEET YOUR REQUIREMENTS, ACHIEVE ANY INTENDED RESULTS, BE COMPATIBLE OR WORK WITH ANY OTHER SOFTWARE, APPLICATIONS, SYSTEMS OR SERVICES, OPERATE WITHOUT INTERRUPTION, MEET ANY PERFORMANCE OR RELIABILITY STANDARDS OR BE ERROR FREE OR THAT ANY ERRORS OR DEFECTS CAN OR WILL BE CORRECTED.
 
-## "AS IS" and "AS AVAILABLE" Disclaimer
+Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to you. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
 
-The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
+## 8. Limit of Liability.
 
-Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
+IN NO CASE SHALL BOOT.DEV, OUR DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, AGENTS, CONTRACTORS, INTERNS, SUPPLIERS, SERVICE PROVIDERS OR LICENSORS BE LIABLE FOR ANY INJURY, LOSS, CLAIM, OR ANY DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING, WITHOUT LIMITATION LOST PROFITS, LOSS OF DATA, REPLACEMENT COSTS, OR ANY SIMILAR DAMAGES, WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, ARISING FROM YOUR USE OF THE SITE OR THE SERVICE, OR FOR ANY OTHER CLAIM RELATED IN ANY WAY TO YOUR USE OF THE SITE OR THE SERVICE, INCLUDING, BUT NOT LIMITED TO, ANY ERRORS OR OMISSIONS IN ANY CONTENT, OR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SERVICE, EVEN IF ADVISED OF THEIR POSSIBILITY. BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR THE LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN SUCH STATES OR JURISDICTIONS, OUR LIABILITY SHALL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW.
 
-Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
+## 9. Third Party Sites.
 
-## Recruiting Partners
+Our Service may contain links to third-party web sites or services that are not owned or controlled by Boot.dev. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or services. You further acknowledge and agree that Boot.dev shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such websites or services.
 
-If you are a recruiting partner of Boot.dev (you have been granted access to the "recruiters" view), then the following rules apply to you.
+We strongly advise you to read the terms and conditions and privacy policies of any third-party websites or services that you visit.
 
-If you contact a candidate you found through Boot.dev you must disclose to them in your initial outreach that you found them through Boot.dev.
-If a candidate asks you to, you must remove them from all your organization's contact lists.
-When a candidate is successfully placed in a job, you're required to notify Boot.dev on or before their first day and will pay the agreed-upon referral fee. Failure to do so is theft.
-Governing Law
-The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
+## 10. Severability.
 
-## Disputes Resolution
+In the event that any provision of these Terms is determined to be unlawful, void or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, the unenforceable portion shall be deemed to be severed from these Terms, and such determination shall not affect the validity and enforceability of any other remaining provisions.
 
-If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
+## 11. No Waiver.
 
-## For European Union (EU) Users
+Our failure to insist upon or enforce any provision of these terms of service shall not be construed as a waiver of any provision or right of Boot.dev.
 
-If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
+## 12. Governing Law:
 
-## United States Legal Compliance
+These terms and conditions are governed by the laws of the United States of America and the laws of the State of Utah. You agree that exclusive jurisdiction for any claim or dispute with Boot.dev or relating in any way to your use of the Site will be in the courts of Utah County, State of Utah, and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of Utah County, State of Utah, in connection with any such dispute and including any claim involving Boot.dev or its affiliates, subsidiaries, employees, contractors, officers, and directors.
 
-You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
+## 13. Entire Agreement.
 
-## Severability and Waiver
-
-### Severability
-
-If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
-
-### Waiver
-
-Except as provided herein, the failure to exercise a right or to require performance of an obligation under this Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall be the waiver of a breach constitute a waiver of any subsequent breach.
-
-## Translation Interpretation
-
-These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute.
-
-## Changes to These Terms and Conditions
-
-We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
-
-By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
+These Terms and any policies or operating rules posted by us on this Site or in respect to the Service constitutes the entire agreement and understanding between you and us and govern your use of the Site and Service, superseding any prior or contemporaneous agreements, communications and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms).
