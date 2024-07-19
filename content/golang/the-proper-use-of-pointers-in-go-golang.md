@@ -53,7 +53,7 @@ This prints:
 boot.dev
 ```
 
-As you can see, because we have a pointer to the address of the variable_,_ we can modify its value, even within the scope of another function. If the value were not a pointer, this would not work:
+As you can see, because we have a pointer to the address of the variable, we can modify its value, even within the scope of another function. If the value were not a pointer, this would not work:
 
 ```go
 package main
@@ -128,7 +128,7 @@ func derefPointer(pointer *string) {
 
 ## When Should I Use a Pointer?
 
-There are probably many nuanced cases for when a pointer is a good idea, but I would guess that 95% of the time when you use a pointer, it should be for one the following reasons:
+There are probably many nuanced cases for when a pointer is a good idea, but 90% of the time when you use a pointer it should be for one the following reasons:
 
 **1. A function that mutates one of its parameters**
 
@@ -136,22 +136,28 @@ When I call a function that takes a pointer as an argument, I expect that my var
 
 **2. Better Performance**
 
-If you have a string that contains an entire novel in memory it gets really expensive to copy that variable each time it is passed to a new function. It may be worthwhile to pass a pointer instead, which will save CPU and memory. This comes at the cost of readability however, so only make this optimization if you must.
+If you have a string that contains an entire novel in memory it gets really expensive to copy that variable each time it is passed to a new function. It may be worthwhile to pass a pointer instead, which will save CPU and memory. This comes at the cost of readability however so only make this optimization if you must.
 
 **3. Need a Nil Value Option**
 
-Sometimes a function needs to know what something's value is, as well as if it exists or not. I usually use this when [decoding JSON](/golang/json-golang/) to know if a field exists or not. For example, if a JSON object is:
+Sometimes a function needs to know what something's value is, as well as if it exists or not. I usually use this when [decoding JSON](/golang/json-golang/) to know if a field exists or not. For example:
 
-```
-{ "name": "boot.dev" } ----> *name: "boot.dev"
-```
+```go
+type Person struct {
+	Name *string `json:"name"`
+}
 
-```
-{ "name": "" } ----------> *name: ""
-```
+func main(){
+	p := Person{}
+	json.Unmarshal([]byte(`{"name": "boot.dev"}`), &p)
+	fmt.Println(*p.Name) // prints "boot.dev"
 
-```
-{} ----------------------> *name: nil
+	json.Unmarshal([]byte(`{"name": ""}`), &p)
+	fmt.Println(*p.Name) // prints ""
+
+	json.Unmarshal([]byte(`{}`), &p)
+	fmt.Println(p.Name) // prints "<nil>"
+}
 ```
 
 These are some rules of thumb for when to use pointers in your code. If you are unsure, and a normal value will work just fine, I would advise avoiding the pointer. Pointers are useful tools but can lead to nasty bugs or unreadable code quite easily.
