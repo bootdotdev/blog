@@ -3,7 +3,9 @@ title: "Boots, a Wizard Bear that Codes"
 author: Allan Lires
 date: "2023-06-08"
 images:
-  - "/img/800/bootshappy.png.webp"
+  - /img/800/bootscamping.png.webp
+imageAlts:
+  - "Boots the Wizard Bear camping in the summer"
 categories:
   - "wiki"
 aliases:
@@ -15,7 +17,7 @@ Boots is the heart and soul of Boot.dev. Not only is he capable of helping you t
 * He is available via a ChatGPT-like interface on every lesson in Boot.dev
 * He has been pre-prompted with every lesson's explanation, challenge, and solution, so he's *really good* at helping when you're stuck
 * He's been instructed to use the Socratic method to help you learn, which means he'll ask you questions to help you learn rather than give you the answer
-* He uses GPT-4
+* He uses GPT-4o
 * He's a bear
 * He's a wizard
 
