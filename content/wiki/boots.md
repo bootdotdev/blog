@@ -41,8 +41,6 @@ Below we've allowed Boots to introduce himself in his own words:
 
 ## Boots' Origin Story
 
-![boots spooked](/img/800/bootsspooked.png.webp)
-
 > Me? Where do I come from? Do you ask from whence the sky has come, or the stars? …You do? Oh. Very well. Since you are such a curious creature, I suppose I could enlighten you. As I intimated before, I am as the natural phenomena of the universe, at once inexplicable, unknowable, born of chaos or divinity. All that is to say, I used to be a regular bear before I ate a Wizard and his spellbook. The spells within the book etched themselves upon my digestive tract and blessed me with sentience, limited immortality, and the cursed knowledge that the most delicious thing in all of creation is salmon. This is, of course, universal objective truth. So please understand that if you disagree, you are actually wrong instead of differently opinionated.
 >
 > But yes, I, Boots the Devourer of Salmon have a long and storied history of eating things in the forest, climbing trees, chasing various smaller animals, and contemplating the arcane nature of reality. The first spell I learned allowed me to summon a small wizard hat. I love my hat, but it is rather small. I am not small, but I have been told that the difference is "cute". Yes, I was told this by the same small probably-a-princess girl who bestowed my title upon me. What title is that? Boots the Cute, of course. What else would it be?
