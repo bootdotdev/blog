@@ -179,7 +179,7 @@ Having a solid understanding of the math that makes computer science work will g
 
 #### Resources
 
-- [Kahn Academy's Linear Algebra](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)
+- [Khan Academy's Linear Algebra](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)
 - [Concrete Mathematics Book](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf)
 - [Discrete Mathematics - On Open Introduction](http://discrete.openmathbooks.org/pdfs/dmoi-tablet.pdf)
 - [Statistics 110: Probability (Stanford)](https://projects.iq.harvard.edu/stat110/home)

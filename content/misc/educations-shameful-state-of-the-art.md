@@ -56,7 +56,7 @@ Mastery learning has long been considered impractical in a physical setting. How
 
 **Everything we build at Boot.dev has Mastery-based learning in mind.**
 
-Daniel Kahn, a favorite of mine, has a great Ted talk on the subject:
+Daniel Khan, a favorite of mine, has a great Ted talk on the subject:
 
 {{< youtube -MTRxRO5SRA >}}
 
