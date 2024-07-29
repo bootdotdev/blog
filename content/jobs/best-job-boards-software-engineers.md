@@ -40,7 +40,7 @@ KeyValues is another favorite of mine because it allows you to filter by compani
 
 ## 4. AngelList
 
-* [Link to job board](https://angel.co/company/angellist/jobs)
+* [Link to job board](https://wellfound.com/company/angellist/jobs)
 
 AngelList is a bit unique in that you'll primarily use it to apply at smaller companies. Similar to LinkedIn, if you're going to use AngelList you might want to take some time to setup your profile, because oftentimes companies will actually reach out through AngelList directly to candidates who haven't even applied yet if they look like they might be a good fit.
 
@@ -76,21 +76,15 @@ We're now getting towards the end of the list, so these are job boards that I do
 
 Last, and probably least to be honest, Indeed has an insane amount of jobs on their board. Again, they aren't necessarily the best jobs, and they aren't targeted at any specific niche, but if you just need to find more places to apply to, Indeed has limitless openings.
 
-## Top 3 sites to apply to many jobs at once
+## Top Sites to apply to many jobs at once
 
-### 1. TripleByte
-
-* [Link to job board](https://triplebyte.com/)
-
-TripleByte is different than any other job board - they're more like a recruiting service. You'll sign up, create a profile, and take a quiz. Depending on how you do, you'll be matched with potential employers. Honestly, I think it's worth doing, even if it's just for the interview practice.
-
-### 2. WhiteTruffle
+### 1. WhiteTruffle
 
 * [Link to job board](https://whitetruffle.com/)
 
 Both WhiteTruffle and Underdog.io are places where you can submit your resume once and apply to many jobs in one fell swoop - while it may or may not work, at least it doesn't take a lot of time.
 
-### 3. Underdog.io
+### 2. Underdog.io
 
 * [Link to job board](https://underdog.io/)
 

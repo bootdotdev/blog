@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=ctvib19wL4E
 
 _Mastery-based learning_ allows each student to master a concept before moving on to the next one. Contrast this with traditional schools where students pass with a "C" and are forced to move to the next course, where they will likely do _even worse_. Advanced subjects like Computer Science require solid fundamentals, and mastery-based learning is the best way to achieve that.
 
-Sal Kahn from Kahn Academy has a great video about mastery-based learning, and spells out exactly what we are aiming for at [boot.dev](https://boot.dev/):
+Sal Khan from Khan Academy has a great video about mastery-based learning, and spells out exactly what we are aiming for at [boot.dev](https://boot.dev/):
 
 https://www.youtube.com/watch?v=-MTRxRO5SRA
 

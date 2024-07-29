@@ -45,7 +45,7 @@ It's also worth pointing out that when you run code in the boot.dev app that nee
 
 Here are some more of the technologies I use on the backend:
 
-- [JWT-go](https://github.com/dgrijalva/jwt-go)
+- [JWT-go](https://github.com/golang-jwt/jwt)
 - [DiscordGo](https://github.com/bwmarrin/discordgo)
 - [Sendgrid](https://sendgrid.com/)
 - [Gorm](https://gorm.io/index.html)

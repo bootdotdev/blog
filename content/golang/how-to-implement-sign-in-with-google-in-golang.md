@@ -41,7 +41,7 @@ func ValidateGoogleJWT(tokenString string) (GoogleClaims, error) {
 
 ## Claims
 
-JWT's are just [JSON objects](/golang/json-golang/) that are signed with a private key to ensure they haven't been tampered with. The signed JSON object's fields are referred to as "claims". We will be using the most popular JWT library in Go to build our solution: [https://github.com/dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go), and the claims that Google sends have the following shape:
+JWT's are just [JSON objects](/golang/json-golang/) that are signed with a private key to ensure they haven't been tampered with. The signed JSON object's fields are referred to as "claims". We will be using the most popular JWT library in Go to build our solution: [https://github.com/golang-jwt/jwt](https://github.com/golang-jwt/jwt), and the claims that Google sends have the following shape:
 
 ```go
 // GoogleClaims -

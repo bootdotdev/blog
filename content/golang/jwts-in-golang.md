@@ -39,10 +39,10 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndhZ3NsYW5lIn0.ov6d8XtwQoK
 
 ## Create a JWT
 
-We're going to use a popular library for dealing with JSON Web Tokens in Go, [jwt-go](https://github.com/dgrijalva/jwt-go). Make sure you have the code cloned locally:
+We're going to use a popular library for dealing with JSON Web Tokens in Go, [jwt-go](https://github.com/golang-jwt/jwt). Make sure you have the code cloned locally:
 
 ```bash
-go get github.com/dgrijalva/jwt-go
+go get https://github.com/golang-jwt/jwt
 ```
 
 For simplicity, we're going to use a symmetric encryption scheme. If you go this route, it just means that any server that can verify that a JWT is valid will also be allowed to issue new JWTs.
@@ -129,4 +129,4 @@ You now know the username of the authenticated user!
 username := claims.Username
 ```
 
-For full examples take a look at the package's [tests](https://github.com/dgrijalva/jwt-go/blob/master/example_test.go). Let me know if I missed anything by hitting me up on [Twitter](https://twitter.com/wagslane)!
+For full examples take a look at the package's [tests](https://github.com/golang-jwt/jwt/blob/main/example_test.go). Let me know if I missed anything by hitting me up on [Twitter](https://twitter.com/wagslane)!

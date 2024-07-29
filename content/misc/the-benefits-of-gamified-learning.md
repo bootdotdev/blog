@@ -47,7 +47,7 @@ One [study](https://journals.lww.com/jonajournal/Abstract/2017/09000/Using_Gamif
 
 Gamification promotes a firm understanding of the topic. Other learning approaches will only periodically test your knowledge. In a gamified system, it's unlikely that you'll advance to the next level if you don't fully comprehend a specific concept. This helps pinpoint specific areas for improvement.
 
-The idea that you should not advance in a curriculum unless you completely understand the current subject is known as Mastery-Based Learning. Sal Kahn is a big advocate of mastery-based learning and you can listen to his ted talk [here](https://www.ted.com/talks/sal_khan_let_s_teach_for_mastery_not_test_scores?language=en#t-636688). It may take certain students longer to master certain concepts, but the end result is still full comprehension.
+The idea that you should not advance in a curriculum unless you completely understand the current subject is known as Mastery-Based Learning. Sal Khan is a big advocate of mastery-based learning and you can listen to his ted talk [here](https://www.ted.com/talks/sal_khan_let_s_teach_for_mastery_not_test_scores?language=en#t-636688). It may take certain students longer to master certain concepts, but the end result is still full comprehension.
 
 ### Autonomous Learning
 
