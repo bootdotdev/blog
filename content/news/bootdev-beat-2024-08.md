@@ -51,7 +51,8 @@ The [Static Site Generator Project](https://www.boot.dev/courses/build-static-si
 
 This month's episodes include:
 
+* [#064 - You're doing networking wrong feat. Lawrence Lockhart](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/064---Youre-doing-networking-wrong-feat--Lawrence-Lockhart-e2lqorm)
 * [#063 - I was fired for using HTMX](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/063---I-was-fired-for-using-HTMX-e2lqorj)
-* [#062 - Declaring War Against the Frontend with Sam Selikoff](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/062---Declaring-War-Against-the-Frontend-feat--Sam-Selikoff-e2l59i7)
+* [#062 - Declaring War Against the Frontend with Sam Selikoff](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/062---Declaring-War-Against-the-Frontend-feat--Sam-Selikoff-e2l59i7) 
 
 If you haven't yet, subscribe on [YouTube](https://www.youtube.com/@backendbanterfm), [Spotify](https://open.spotify.com/show/35trT95UkRVCkEb6tXndpF), or [Apple Podcasts](https://podcasts.apple.com/us/podcast/backend-banter/id1688115203)! If you **leave a rating and a review**, I'll love you forever.
