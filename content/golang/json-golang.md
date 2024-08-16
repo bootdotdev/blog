@@ -308,7 +308,7 @@ for k, v := range m {
 // key: age, value: 30
 ```
 
-I want to point out that `map[string]interface{}` should _only_ be used when you absolutely have to. If you have a priori knowledge of the shape of the data, _please_ use a `struct` or some other concrete type. Avoid the dynamic typing provided by interfaces when working with JSON, if you want, you can always [use anonymous structs for one-off usage](/golang/anonymous-structs-golang/).
+I want to point out that `map[string]interface{}` should _only_ be used when you absolutely have to. If you have prior knowledge of the shape of the data, _please_ use a `struct` or some other concrete type. Avoid the dynamic typing provided by interfaces when working with JSON, if you want, you can always [use anonymous structs for one-off usage](/golang/anonymous-structs-golang/).
 
 ## Streaming JSON encodings
 
