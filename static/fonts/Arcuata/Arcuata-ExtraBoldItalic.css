@@ -1,0 +1,12 @@
+/* Webfont: Arcuata-ExtraBoldItalic */@font-face {
+    font-family: 'ArcuataExtBd';
+    src: url('Arcuata-ExtraBoldItalic.eot'); /* IE9 Compat Modes */
+    src: url('Arcuata-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Arcuata-ExtraBoldItalic.woff') format('woff'), /* Modern Browsers */
+         url('Arcuata-ExtraBoldItalic.woff2') format('woff2'), /* Modern Browsers */
+         url('Arcuata-ExtraBoldItalic.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
