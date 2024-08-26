@@ -1,0 +1,12 @@
+/* Webfont: Arcuata-Medium */@font-face {
+    font-family: 'ArcuataMed';
+    src: url('Arcuata-Medium.eot'); /* IE9 Compat Modes */
+    src: url('Arcuata-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Arcuata-Medium.woff') format('woff'), /* Modern Browsers */
+         url('Arcuata-Medium.woff2') format('woff2'), /* Modern Browsers */
+         url('Arcuata-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

@@ -59,6 +59,9 @@
   <meta name="description" content="{{ .Site.Params.Description }}" />
   {{ end }}
 
+  {{ $fontcss := resources.Get "css/fonts.css" | minify }}
+  <link href="{{ $fontcss.RelPermalink }}" rel="stylesheet">
+
   {{ $tailcss := resources.Get "css/tail-out.css" | minify }}
   <link href="{{ $tailcss.RelPermalink }}" rel="stylesheet">
 
