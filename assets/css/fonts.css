@@ -1,0 +1,295 @@
+@font-face {
+    font-family: 'Arcuata';
+    src: url('/fonts/Arcuata/Arcuata-Bold.eot');
+    /* IE9 Compat Modes */
+    src: url('/fonts/Arcuata/Arcuata-Bold.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('/fonts/Arcuata/Arcuata-Bold.woff') format('woff'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-Bold.woff2') format('woff2'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-Bold.ttf') format('truetype');
+    /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'Arcuata';
+    src: url('/fonts/Arcuata/Arcuata-BoldItalic.eot');
+    /* IE9 Compat Modes */
+    src: url('/fonts/Arcuata/Arcuata-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('/fonts/Arcuata/Arcuata-BoldItalic.woff') format('woff'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-BoldItalic.woff2') format('woff2'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-BoldItalic.ttf') format('truetype');
+    /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'ArcuataExtBd';
+    src: url('/fonts/Arcuata/Arcuata-ExtraBold.eot');
+    /* IE9 Compat Modes */
+    src: url('/fonts/Arcuata/Arcuata-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('/fonts/Arcuata/Arcuata-ExtraBold.woff') format('woff'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-ExtraBold.woff2') format('woff2'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-ExtraBold.ttf') format('truetype');
+    /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'ArcuataExtBd';
+    src: url('/fonts/Arcuata/Arcuata-ExtraBoldItalic.eot');
+    /* IE9 Compat Modes */
+    src: url('/fonts/Arcuata/Arcuata-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('/fonts/Arcuata/Arcuata-ExtraBoldItalic.woff') format('woff'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-ExtraBoldItalic.woff2') format('woff2'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-ExtraBoldItalic.ttf') format('truetype');
+    /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'Arcuata';
+    src: url('/fonts/Arcuata/Arcuata-Italic.eot');
+    /* IE9 Compat Modes */
+    src: url('/fonts/Arcuata/Arcuata-Italic.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('/fonts/Arcuata/Arcuata-Italic.woff') format('woff'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-Italic.woff2') format('woff2'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-Italic.ttf') format('truetype');
+    /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'ArcuataLight';
+    src: url('/fonts/Arcuata/Arcuata-Light.eot');
+    /* IE9 Compat Modes */
+    src: url('/fonts/Arcuata/Arcuata-Light.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('/fonts/Arcuata/Arcuata-Light.woff') format('woff'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-Light.woff2') format('woff2'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-Light.ttf') format('truetype');
+    /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'ArcuataLight';
+    src: url('/fonts/Arcuata/Arcuata-LightItalic.eot');
+    /* IE9 Compat Modes */
+    src: url('/fonts/Arcuata/Arcuata-LightItalic.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('/fonts/Arcuata/Arcuata-LightItalic.woff') format('woff'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-LightItalic.woff2') format('woff2'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-LightItalic.ttf') format('truetype');
+    /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'ArcuataMed';
+    src: url('/fonts/Arcuata/Arcuata-Medium.eot');
+    /* IE9 Compat Modes */
+    src: url('/fonts/Arcuata/Arcuata-Medium.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('/fonts/Arcuata/Arcuata-Medium.woff') format('woff'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-Medium.woff2') format('woff2'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-Medium.ttf') format('truetype');
+    /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'ArcuataMed';
+    src: url('/fonts/Arcuata/Arcuata-MediumItalic.eot');
+    /* IE9 Compat Modes */
+    src: url('/fonts/Arcuata/Arcuata-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('/fonts/Arcuata/Arcuata-MediumItalic.woff') format('woff'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-MediumItalic.woff2') format('woff2'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-MediumItalic.ttf') format('truetype');
+    /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'Arcuata';
+    src: url('/fonts/Arcuata/Arcuata-Regular.eot');
+    /* IE9 Compat Modes */
+    src: url('/fonts/Arcuata/Arcuata-Regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('/fonts/Arcuata/Arcuata-Regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-Regular.woff2') format('woff2'),
+        /* Modern Browsers */
+        url('/fonts/Arcuata/Arcuata-Regular.ttf') format('truetype');
+    /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/DMSans/DMSans-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
