@@ -4,15 +4,15 @@ author: Lane Wagner
 date: "2024-09-17"
 categories:
   - "tutorials"
-  - "python"
+  - "Go"
 images:
-  - /https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/EqY2AKt.png
+  - /
 toc: true
 ---
 
-# Welcome
+## Welcome
 
-## What are we building?
+### What are we building?
 
 We're going to build an [RSS](https://en.wikipedia.org/wiki/RSS) feed aggregator in Go! It's a web server that allows clients to:
 
@@ -22,17 +22,17 @@ We're going to build an [RSS](https://en.wikipedia.org/wiki/RSS) feed aggregator
 
 RSS feeds are a way for websites to publish updates to their content. You can use this project to keep up with your favorite blogs, news sites, podcasts, and more!
 
-## Prerequisites
+### Prerequisites
 
 This project assumes that you've already taken our "Learn Web Servers" course. If you haven't, go take it! It will give you a solid foundation for this project.
 
-## Learning goals
+### Learning goals
 
 * Learn how to integrate a Go server with PostgreSQL
 * Learn about the basics of database migrations
 * Learn about long-running service workers
 
-## Setup
+### Setup
 
 Before we dive into the project, let's make sure you have everything you'll need on your machine.
 
@@ -44,19 +44,19 @@ Before we dive into the project, let's make sure you have everything you'll need
 
 If you're ready, move on to the next step!
 
-## Optional video walkthrough
+### Optional video walkthrough
 
 *Try to build this project on your own!* Use this video if you get stuck, or to compare your architecture and coding patterns to mine.
 
 @[youtube](https://www.youtube.com/watch?v=dpXhDzgUSe4)
 
-# Boilerplate
+## Boilerplate
 
 Before we get to the app-specific stuff, let's scaffold a simple CRUD server, hopefully, you're already familiar with how to do this from the "Learn Web Servers" course! That said, I'll provide a quick refresher.
 
 *It might be a good idea to use your "Learn Web Servers" code as a reference while building this project!*
 
-## Assignment
+### Assignment
 
 1. [ ] Create a new project. You should know how to do this by now! My process is:
     * [ ] Create a repo on [GitHub](https://github.com) (initialized with a README).
@@ -120,11 +120,11 @@ go build -o out && ./out
 
 Once it's running, use an HTTP client to test your endpoints.
 
-# PostgreSQL
+## PostgreSQL
 
 PostgreSQL is a production-ready, open-source database. It's a great choice database for many web applications, and as a back-end engineer, it might be the single most important database to be familiar with.
 
-## How does PostgreSQL work?
+### How does PostgreSQL work?
 
 Postgres, like most other database technologies, is itself a server. It listens for requests on a port (Postgres' default is `:5432`), and responds to those requests. To interact with Postgres, first you will install the server and start it. Then, you can connect to it using a client like [psql](https://www.postgresql.org/docs/current/app-psql.html#:~:text=psql%20is%20a%20terminal%2Dbased,or%20from%20command%20line%20arguments.) or [PGAdmin](https://www.pgadmin.org/).
 
@@ -211,7 +211,7 @@ SELECT version();
 
 If everything is working, you can move on. *You can type `exit` to leave the `psql` shell.*
 
-# Create Users
+## Create Users
 
 In this step, we'll be adding an endpoint to create new users on the server. We'll be using a couple of tools to help us out:
 
@@ -417,7 +417,7 @@ I'm a fan of a convention where *every table* in my database has:
 
 C'mon, you know what to do.
 
-# API Key
+## API Key
 
 1. [ ] Add an "api key" column to the users table
 
@@ -463,7 +463,7 @@ Example response body:
 
 Don't forget that each time you update your queries or schema you'll need to regenerate your Go code with `sqlc generate`. If you update the schema you'll also need to migrate your database up (and maybe down).
 
-# Create a Feed
+## Create a Feed
 
 An RSS feed is just a URL that points to some XML. Users will be able to add feeds to our database so that our server (in a future step) can go download all of the posts in the feed (like blog posts or podcast episodes).
 
@@ -485,13 +485,13 @@ Write the appropriate migrations and run them.
 
 Now, I'm not a fan of how some frameworks handle stateful middleware using [context](https://pkg.go.dev/context) (middleware that passes data down to the next handler). I prefer to create custom handlers that accept extra values. You can add middleware however you like, but here are some examples from my code.
 
-### A custom type for handlers that require authentication
+#### A custom type for handlers that require authentication
 
 ```go
 type authedHandler func(http.ResponseWriter, *http.Request, database.User)
 ```
 
-### Middleware that authenticates a request, gets the user and calls the next authed handler
+#### Middleware that authenticates a request, gets the user and calls the next authed handler
 
 ```go
 func (cfg *apiConfig) middlewareAuth(handler authedHandler) http.HandlerFunc {
@@ -499,7 +499,7 @@ func (cfg *apiConfig) middlewareAuth(handler authedHandler) http.HandlerFunc {
 }
 ```
 
-### Using the middleware
+#### Using the middleware
 
 ```go
 v1Router.Get("/users", apiCfg.middlewareAuth(apiCfg.handlerUsersGet))
@@ -535,19 +535,19 @@ Example response body:
 
 5. [ ] Test your handler using an HTTP client, then use your database client to make sure the data was saved correctly.
 
-# Get all feeds
+## Get all feeds
 
 Create a new endpoint to retrieve *all* of the feeds in the database. This endpoint should *not* require authentication.
 
 You should be familiar with all of the steps to make this happen by now, use your other endpoints as a reference.
 
-# Feed Follows
+## Feed Follows
 
 Aside from just adding new feeds to the database, users can specify *which* feeds they want to follow. This will be important later when we want to show users a list of posts from the feeds they follow.
 
 Add support for the following endpoints, and update the "create feed" endpoint as specified below.
 
-## What is a "feed follow"?
+### What is a "feed follow"?
 
 A feed follow is just a link between a user and a feed. It's a [many-to-many](https://en.wikipedia.org/wiki/Many-to-many_(data_model)) relationship, so a user can follow many feeds, and a feed can be followed by many users.
 
@@ -627,7 +627,7 @@ The response of this endpoint should now contain both entities:
 
 5. [ ] Test. As always, test all of your endpoints and make sure they work. Additionally, make sure that they return the proper error codes when they receive invalid inputs.
 
-# Scraper
+## Scraper
 
 This is going to be a fairly large step. I recommend breaking it down into smaller pieces and functions, and testing each piece as you go.
 
@@ -685,7 +685,7 @@ I recommend adding a lot of logging messages to this worker so that as it runs y
 
 6. [ ] Call your worker from `main.go`. Be sure to start the worker in its own goroutine, so that it runs in the background and processes feeds even as it simultaneously handles new HTTP requests.
 
-# Posts
+## Posts
 
 1. [ ] Add a `posts` table to the database.
 
@@ -716,11 +716,11 @@ This endpoint should return a list of posts for the authenticated user. It shoul
 
 6. [ ] Start scraping some feeds! Test your scraper to make sure it's working! Go find some of your favorite websites and add their RSS feeds to your database. Then start your scraper and watch it go to work.
 
-# Submit the link to your Git repository!
+## Submit the link to your Git repository!
 
 Your link should look something like `https://github.com/github-username/repo-name`.
 
-## Ideas for extending the project
+### Ideas for extending the project
 
 You don't *have* to extend this project, but here are just a few ideas if you're interested:
 
