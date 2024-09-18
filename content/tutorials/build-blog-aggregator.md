@@ -44,7 +44,7 @@ If you're ready, move on to the next step!
 
 _Try to build this project on your own!_ Use this video if you get stuck, or to compare your architecture and coding patterns to mine.
 
-@[youtube](https://www.youtube.com/watch?v=dpXhDzgUSe4)
+{{< bdyoutube dpXhDzgUSe4 >}}
 
 **Caveat**: There is a more updated version of this course that's more interactive over on [Boot.dev here](https://www.boot.dev/courses/build-blog-aggregator). If you're looking for a more interactive experience, I recommend checking it out!
 
