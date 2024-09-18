@@ -1,5 +1,5 @@
 ---
-title: "Complete Python Tutorial for Absolute Beginners in 2023"
+title: "Learn Python: A Free Tutorial for Beginners"
 author: Lane Wagner
 date: "2023-03-30"
 categories:
@@ -24,15 +24,15 @@ I've included all the static read-only material you'll need here in this tutoria
 
 Thousands of students start their coding journey right here with Python. We think it's the best programming language to get started with. Python is famous for being a simple language that's easy to read and write.
 
-However, just because it's simple that doesn't mean it's not useful! Python is an *extremely* popular language in the industry, and is well-known for:
+However, just because it's simple that doesn't mean it's not useful! Python is an _extremely_ popular language in the industry, and is well-known for:
 
-* Backend web servers
-* DevOps and cloud engineering
-* Machine learning
-* Scripting and automation
-* etc...
+- Backend web servers
+- DevOps and cloud engineering
+- Machine learning
+- Scripting and automation
+- etc...
 
-On the other hand, it's not particularly well-known for front-end work. While it's *possible* to do so, Python isn't typically used to build visual user interfaces.
+On the other hand, it's not particularly well-known for front-end work. While it's _possible_ to do so, Python isn't typically used to build visual user interfaces.
 
 ### Setup a Local Development Environment
 
@@ -42,9 +42,9 @@ If you're able to edit and run Python code on your computer, you're ready to con
 
 ### What is "Code"?
 
-Code is just a series of instructions that computers can follow. Computers obey each instruction, *one after another*.
+Code is just a series of instructions that computers can follow. Computers obey each instruction, _one after another_.
 
-Programs can be comprised of *many* instructions. Like many. Like millions.
+Programs can be comprised of _many_ instructions. Like many. Like millions.
 
 Addition is one of the most common instructions in coding.
 
@@ -89,17 +89,17 @@ print("this prints last")
 
 ### Syntax Errors
 
-[Syntax](https://en.wikipedia.org/wiki/Syntax_(programming_languages)) is jargon for "valid code that the computer can understand". For example,
+[Syntax](<https://en.wikipedia.org/wiki/Syntax_(programming_languages)>) is jargon for "valid code that the computer can understand". For example,
 
 ```py
 prnt("hello world")
 ```
 
-is invalid [syntax](https://en.wikipedia.org/wiki/Syntax_(programming_languages)) because `prnt()` is not a valid function, "print" is spelled incorrectly. As a result, an error will be thrown and the code won't execute.
+is invalid [syntax](<https://en.wikipedia.org/wiki/Syntax_(programming_languages)>) because `prnt()` is not a valid function, "print" is spelled incorrectly. As a result, an error will be thrown and the code won't execute.
 
 ### Syntax varies from langauge to language
 
-A coding language's syntax makes up the rules that define what properly structured expressions and statements look like in that language. For example, in Python, the following would be considered *correct* syntax:
+A coding language's syntax makes up the rules that define what properly structured expressions and statements look like in that language. For example, in Python, the following would be considered _correct_ syntax:
 
 ```py
 print("hello world")
@@ -113,9 +113,9 @@ fmt.Println("hello world")
 
 Code can have many different problems that prevent it from working as intended. Some examples include:
 
-* A bug in the logic. For example, a program that should add numbers multiplies them instead
-* A problem with speed. A program that calculates how to play the perfect game of chess might never be able to finish because it requires too many calculations.
-* A problem with syntax. This is the most common problem for new developers. Luckily the Python interpreter will try to give you a descriptive error message in the console to help you find the problem.
+- A bug in the logic. For example, a program that should add numbers multiplies them instead
+- A problem with speed. A program that calculates how to play the perfect game of chess might never be able to finish because it requires too many calculations.
+- A problem with syntax. This is the most common problem for new developers. Luckily the Python interpreter will try to give you a descriptive error message in the console to help you find the problem.
 
 ## Chapter 2: Variables
 
@@ -146,7 +146,7 @@ acceleration = 20
 print(acceleration)
 ```
 
-The line `acceleration = 20` *reassigns* the value of `acceleration` to 20. It *overwrites* whatever was being held in the `acceleration` variable before.
+The line `acceleration = 20` _reassigns_ the value of `acceleration` to 20. It _overwrites_ whatever was being held in the `acceleration` variable before.
 
 ### Let's do some math
 
@@ -163,7 +163,7 @@ quotient = a / b
 
 ### Comments
 
-Comments don't run like code, they are *ignored* by the computer. Comments are useful for adding reminders or explaining what a piece of code does in plain English.
+Comments don't run like code, they are _ignored_ by the computer. Comments are useful for adding reminders or explaining what a piece of code does in plain English.
 
 #### Single line comment
 
@@ -178,7 +178,7 @@ You can use triple quotes to start and end multi-line comments as well:
 
 ```python
 """
-    the code found below 
+    the code found below
     will print 'Hello, World!' to the console
 """
 print('Hello, World!')
@@ -266,7 +266,7 @@ The value of `empty` in this instance is `None` until we use the assignment oper
 
 #### None is NOT a specific string
 
-Note that the `None` type is *not* the same as a string with a value of "None":
+Note that the `None` type is _not_ the same as a string with a value of "None":
 
 ```py
 my_none = None # this is a None-type
@@ -288,7 +288,7 @@ speed = "five"
 
 #### Just because you can doesn't mean you should!
 
-In almost all circumstances, it's a *bad idea* to change the type of a variable. The "proper" thing to do is to just create a new one. For example:
+In almost all circumstances, it's a _bad idea_ to change the type of a variable. The "proper" thing to do is to just create a new one. For example:
 
 ```py
 speed = 5
@@ -335,7 +335,7 @@ sword_damage = 10
 sword_length = 200
 ```
 
-Any number of variables can be declared on the same line, and variables declared on the same line *should* be related to one another in some way so that the code remains easy to understand.
+Any number of variables can be declared on the same line, and variables declared on the same line _should_ be related to one another in some way so that the code remains easy to understand.
 
 We call code that's easy to understand "clean code".
 
@@ -398,7 +398,7 @@ my_float = 5.5
 
 Python has great out-of-the-box support for mathematical operations. This, among other reasons, is why it has had such success in artificial intelligence, machine learning, and data science applications.
 
-Floor division is like normal division except the result is [floored](https://en.wikipedia.org/wiki/Floor_and_ceiling_functions) afterward, which means the remainder is *removed*. As you would expect, this means the result is an `integer` instead of a `float`.
+Floor division is like normal division except the result is [floored](https://en.wikipedia.org/wiki/Floor_and_ceiling_functions) afterward, which means the remainder is _removed_. As you would expect, this means the result is an `integer` instead of a `float`.
 
 ```python
 7 // 3
@@ -436,7 +436,7 @@ player_score = player_score - 1
 # player_score now equals 3
 ```
 
-Don't let the fact that the expression `player_score = player_score - 1` is not a valid mathematical expression be confusing. *It doesn't matter*, it *is valid code*. It's valid because the way the expression should be read in English is:
+Don't let the fact that the expression `player_score = player_score - 1` is not a valid mathematical expression be confusing. _It doesn't matter_, it _is valid code_. It's valid because the way the expression should be read in English is:
 
 > Assign to player_score the old value of player_score minus 1
 
@@ -488,7 +488,7 @@ You're probably familiar with the logical operators `AND` and `OR`.
 
 Logical operators deal with [boolean values](https://en.wikipedia.org/wiki/Boolean_data_type), `True` and `False`.
 
-The logical `AND` operator requires that *both* inputs are `True` to return `True`. The logical `OR` operator only requires that *at least one* input is `True` to return `True`.
+The logical `AND` operator requires that _both_ inputs are `True` to return `True`. The logical `OR` operator only requires that _at least one_ input is `True` to return `True`.
 
 For example:
 
@@ -540,14 +540,14 @@ Binary numbers are just "base 2" numbers. They work the same way as "normal" bas
 
 Each `1` in a binary number represents a greater multiple of 2. In a 4-digit number, that means you have the eight's place, the four's place, the two's place, and the one's place. Similar to how in decimal you would have the thousandth's place, the hundredth's place, the ten's place, and the one's place.
 
-* `0001` = 1
-* `0010` = 2
-* `0011` = 3
-* `0100` = 4
-* `0101` = 5
-* `0110` = 6
-* `0111` = 7
-* `1000` = 8
+- `0001` = 1
+- `0010` = 2
+- `0011` = 3
+- `0100` = 4
+- `0101` = 5
+- `0110` = 6
+- `0111` = 7
+- `1000` = 8
 
 ![binary](https://www.wikihow.com/images/4/47/B2d.gif)
 
@@ -581,8 +581,8 @@ A `1` in binary is the same as `True`, while `0` is `False`. So really a bitwise
 
 When writing a number in binary, the prefix `0b` is used to indicate that what follows is a binary number.
 
-* `0b0101` is 5
-* `0b0111` is 7
+- `0b0101` is 5
+- `0b0111` is 7
 
 ### Example: Guild Permissions
 
@@ -590,10 +590,10 @@ It's common practice in backend development to store user permissions as binary 
 
 Let's pretend we have 4 permissions:
 
-* `can_create_guild` - Leftmost bit
-* `can_review_guild` - Second to left bit
-* `can_delete_guild` - Second to right bit
-* `can_edit_guild` - Rightmost bit
+- `can_create_guild` - Leftmost bit
+- `can_review_guild` - Second to left bit
+- `can_delete_guild` - Second to right bit
+- `can_edit_guild` - Rightmost bit
 
 Which are represented by `0b0000`. For example, if a user only has the `can_create_guild` permission, their binary permissions would be `0b1000`. A user with `can_review_guild` and `can_edit_guild` would be `0b0101`.
 
@@ -603,18 +603,18 @@ To check for, say, the `can_review_guild` permission, we can perform a bitwise `
 
 As you may have guessed, the bitwise "or" operator is similar to the bitwise "and" operator in that it works on binary rather than boolean values. However, the bitwise "or" operator "ORs" the bits together. Here's an example:
 
-* `0101` is 5
-* `0111` is 7
+- `0101` is 5
+- `0111` is 7
 
 ```
 0101
-|     
+|
 0111
 =
 0111
 ```
 
-A `1` in binary is the same as `True`, while `0` is `False`. So a bitwise operation is just a bunch of logical operations that are completed in tandem. When two binary numbers are "OR'ed" together, the result has a `1` in any place where *either* of the input numbers has a `1` in that place.
+A `1` in binary is the same as `True`, while `0` is `False`. So a bitwise operation is just a bunch of logical operations that are completed in tandem. When two binary numbers are "OR'ed" together, the result has a `1` in any place where _either_ of the input numbers has a `1` in that place.
 
 `|` is the bitwise `OR` operator in Python. `5 | 7 = 7` and `5 | 2 = 7` as well!
 
@@ -646,12 +646,12 @@ When coding it's necessary to be able to compare two values. `Boolean logic` is 
 
 The operators:
 
-* `<` "less than"
-* `>` "greater than"
-* `<=` "less than or equal to"
-* `>=` "greater than or equal to"
-* `==` "equal to"
-* `!=` "not equal to"
+- `<` "less than"
+- `>` "greater than"
+- `<=` "less than or equal to"
+- `>=` "greater than or equal to"
+- `==` "equal to"
+- `!=` "not equal to"
 
 For example:
 
@@ -680,13 +680,13 @@ is_bigger = 5 > 4
 is_bigger = True
 ```
 
-In both of the above cases, we're creating a `Boolean` variable called `is_bigger` with a value of `True`. 
+In both of the above cases, we're creating a `Boolean` variable called `is_bigger` with a value of `True`.
 
 Since `5 > 4`, `is_bigger` is always assigned the value of `True`.
 
 ### Why would I use the comparison if I can just set it to "True"?
 
-You wouldn't in *this* case. However, let's imagine that instead of hard-coding the numbers `5` and `4`, we had some *dynamic* variables that we don't know the values of. For example, perhaps you're making a video game and need to keep track of player scores.
+You wouldn't in _this_ case. However, let's imagine that instead of hard-coding the numbers `5` and `4`, we had some _dynamic_ variables that we don't know the values of. For example, perhaps you're making a video game and need to keep track of player scores.
 
 To calculate who wins, you would need to write something like:
 
@@ -759,8 +759,8 @@ If none of the `if` statements evaluate to `True` then the final `else` statemen
 
 ### If-Else Rules
 
-* You can't have an `elif` or an `else` without an `if`
-* You *can* have an `else` without an `elif`
+- You can't have an `elif` or an `else` without an `if`
+- You _can_ have an `else` without an `elif`
 
 ## Chapter 5: Loops
 
@@ -783,9 +783,9 @@ print(8)
 print(9)
 ```
 
-Even so, it would save me a lot of time typing to use a *loop*. Especially if I wanted to do the same thing *one thousand* or *one million* times.
+Even so, it would save me a lot of time typing to use a _loop_. Especially if I wanted to do the same thing _one thousand_ or _one million_ times.
 
-A *"for loop"* in Python is written like this:
+A _"for loop"_ in Python is written like this:
 
 ```py
 for i in range(0, 10):
@@ -804,7 +804,7 @@ The result is that the numbers `0-9` are logged to the console in order.
 
 ### Whitespace matters in Python!
 
-The body of a for-loop *must* be indented, otherwise you'll get a syntax error.
+The body of a for-loop _must_ be indented, otherwise you'll get a syntax error.
 
 ### Example
 
@@ -859,10 +859,10 @@ A natural way to organize and store data is in the form of a `List`. Some langua
 
 For example:
 
-* A twitter feed is a list of posts
-* An online store is a list of products
-* The state of a chess game is a list of moves
-* This list is a list of things that are lists
+- A twitter feed is a list of posts
+- An online store is a list of products
+- The state of a chess game is a list of moves
+- This list is a list of things that are lists
 
 Lists in Python are declared using square brackets, with commas separating each item:
 
@@ -902,16 +902,16 @@ Take the following array as an example:
 names = ["Bob", "Lane", "Alice", "Breanna"]
 ```
 
-* Index 0: `Bob`
-* Index 1: `Lane`
-* Index 2: `Alice`
-* Index 3: `Breanna`
+- Index 0: `Bob`
+- Index 1: `Lane`
+- Index 2: `Alice`
+- Index 3: `Breanna`
 
 ### Indexing into Lists
 
 Now that we know how to create new lists, we need to know how to access specific items in the list.
 
-We access items in a list directly by using their *index*. Indexes start at 0 (the first item) and increment by one with each successive item. The syntax is as follows:
+We access items in a list directly by using their _index_. Indexes start at 0 (the first item) and increment by one with each successive item. The syntax is as follows:
 
 ```py
 best_languages = ["JavaScript", "Go", "Rust", "Python", "C"]
@@ -974,7 +974,7 @@ for i in range(0, len(sports)):
 
 ### No-index Syntax
 
-In my opinion, Python has *the most elegant* syntax for iterating directly over the items in a list without worrying about index numbers. If you don't need the index number you can use the following syntax:
+In my opinion, Python has _the most elegant_ syntax for iterating directly over the items in a list without worrying about index numbers. If you don't need the index number you can use the following syntax:
 
 ```py
 trees = ['oak', 'pine', 'maple']
@@ -1005,24 +1005,24 @@ For example, `7` [modulo](https://en.wikipedia.org/wiki/Modulo_operation) `2` wo
 
 `2 * 3 = 6`
 
-Then there is 1 *remaining* to get from `6` to `7`.
+Then there is 1 _remaining_ to get from `6` to `7`.
 
 `7 - 6 = 1`
 
-The d operator is the percent sign: `%`. It's important to recognize modulo is *not* a percentage though! That's just the symbol we're using.
+The d operator is the percent sign: `%`. It's important to recognize modulo is _not_ a percentage though! That's just the symbol we're using.
 
 ```py
 remainder = 8 % 3
 # remainder = 2
 ```
 
-An odd number is a number that when divided by `2`, the remainder is *not* `0`.
+An odd number is a number that when divided by `2`, the remainder is _not_ `0`.
 
 ### Slicing lists
 
 Python makes it easy to slice and dice lists to work only with the section you care about. One way to do this is to use the simple slicing operator, which is just a colon `:`.
 
-With this operator, you can specify where to start and end the slice, and how to step through the original. List slicing returns a *new list* from the existing list.
+With this operator, you can specify where to start and end the slice, and how to step through the original. List slicing returns a _new list_ from the existing list.
 
 The syntax is as follows:
 
@@ -1037,7 +1037,7 @@ print(scores[1:5:2])
 # Prints [70, 20]
 ```
 
-The above reads as "give me a slice of the `scores` list from index 1, up to but not including 5, skipping every 2nd value. *All of the sections are optional*.
+The above reads as "give me a slice of the `scores` list from index 1, up to but not including 5, skipping every 2nd value. _All of the sections are optional_.
 
 ```python
 scores = [50, 70, 30, 20, 90, 10, 50]
@@ -1062,6 +1062,7 @@ all = [1, 2, 3] + [4, 5, 6]
 print(all)
 # Prints: [1, 2, 3, 4, 5, 6]
 ```
+
 ### List Operations - Contains
 
 Checking whether a value exists in a list is also really easy in Python, just use the `in` keyword.
@@ -1074,7 +1075,7 @@ print("banana" in fruits)
 
 ### Tip: Quotes within quotes
 
-To use quotes within quotes, they either need to be [escaped](https://stackoverflow.com/questions/10646142/what-does-it-mean-to-escape-a-string) or you need to use the *other* kind of quotes. Because we usually use double quotes, we can nest strings with single quotes:
+To use quotes within quotes, they either need to be [escaped](https://stackoverflow.com/questions/10646142/what-does-it-mean-to-escape-a-string) or you need to use the _other_ kind of quotes. Because we usually use double quotes, we can nest strings with single quotes:
 
 ```py
 f"banana is in fruits list: {'banana' in fruits}"
@@ -1137,7 +1138,7 @@ print(my_tuples[0][0])
 
 ## Chapter 7: Functions
 
-Functions allow us to *reuse* and *organize* code. For example, let's pretend we need to calculate the area of a circle. We can use the formula `area = pi * r^2`, or in code:
+Functions allow us to _reuse_ and _organize_ code. For example, let's pretend we need to calculate the area of a circle. We can use the formula `area = pi * r^2`, or in code:
 
 ```py
 r = 5
@@ -1195,7 +1196,7 @@ def subtract(a, b):
 
 ### Where to Declare Functions
 
-You've probably noticed that a variable needs to be declared *before* it's used. For example, the following doesn't work:
+You've probably noticed that a variable needs to be declared _before_ it's used. For example, the following doesn't work:
 
 ```py
 print(my_name)
@@ -1209,17 +1210,17 @@ my_name = 'Lane Wagner'
 print(my_name)
 ```
 
-Lines of code execute in *order from top to bottom*, so a variable needs to be created before it can be used. That means that if you define a function, you can't call that function until after the definition.
+Lines of code execute in _order from top to bottom_, so a variable needs to be created before it can be used. That means that if you define a function, you can't call that function until after the definition.
 
 The `main()` function is a convention used in many programming languages to specify the entrypoint of an application. By defining a single `main` function, and only calling `main()` at the end of the entire program we ensure that all of our function are defined before they're called.
 
 ### Order of functions
 
-All functions *must* be defined before they're used.
+All functions _must_ be defined before they're used.
 
 You might think this would make structuring Python code difficult because the order in which the functions are declared can quickly become so dependent on each other that writing anything becomes impossible.
 
-As it turns out, most Python developers solve this problem by simply defining all the functions first, then finally calling the entrypoint function *last*. If you do that, then the order that the functions are declared in *doesn't matter*. The entrypoint function is usually called "main".
+As it turns out, most Python developers solve this problem by simply defining all the functions first, then finally calling the entrypoint function _last_. If you do that, then the order that the functions are declared in _doesn't matter_. The entrypoint function is usually called "main".
 
 ```python
 def main():
@@ -1236,7 +1237,7 @@ main() # entrypoint
 
 ### Scope
 
-Scope refers to *where* a variable or function name is available to be used. For example, when we create variables in a function (by giving names to our parameters for example), that data is *not* available outside of that function.
+Scope refers to _where_ a variable or function name is available to be used. For example, when we create variables in a function (by giving names to our parameters for example), that data is _not_ available outside of that function.
 
 For example:
 
@@ -1248,13 +1249,13 @@ print(x)
 # ERROR! "name 'x' is not defined"
 ```
 
-When the `subtract` function is called, we assign the variable `x` to 5, but `x` only exists in the code *within* the `subtract` function. If we try to print `x` outside of that function then we won't get a result, in fact we'll get a big fat error.
+When the `subtract` function is called, we assign the variable `x` to 5, but `x` only exists in the code _within_ the `subtract` function. If we try to print `x` outside of that function then we won't get a result, in fact we'll get a big fat error.
 
 {{< bdyoutube CKv_WHCcR-w >}}
 
 ### Global Scope
 
-So far we've been working in the global scope. That means that when we define a variable or a function, that name is accessible in *every other place* in our program, even within other functions.
+So far we've been working in the global scope. That means that when we define a variable or a function, that name is accessible in _every other place_ in our program, even within other functions.
 
 For example:
 
@@ -1299,7 +1300,7 @@ def my_func():
 
 ### Parameters vs arguments
 
-Parameters are the names used for inputs when *defining* a function. Arguments are the names of the inputs supplied when a function is *called*.
+Parameters are the names used for inputs when _defining_ a function. Arguments are the names of the inputs supplied when a function is _called_.
 
 To reiterate, arguments are the actual values that go into the function, say `42.0`, `"the dark knight"`, or `True`. Parameters are the names we use in the function definition to refer to those values, which at the time of writing the function, could be anything.
 
@@ -1361,7 +1362,7 @@ msg = get_greeting("lane@example.com")
 # Hello there, welcome! You've registered your email: lane@example.com
 ```
 
-If the second parameter is omitted, the default `"there"` value will be used in its place. As you may have guessed, for this structure to work, optional arguments that have defaults specified come *after* all the required arguments.
+If the second parameter is omitted, the default `"there"` value will be used in its place. As you may have guessed, for this structure to work, optional arguments that have defaults specified come _after_ all the required arguments.
 
 ## Chapter 8: Dictionaries
 
@@ -1453,7 +1454,7 @@ print(names_dict)
 
 ### Deleting keys that don't exist
 
-Notice that if you try to delete a key that doesn't exist, you'll get an *error*.
+Notice that if you try to delete a key that doesn't exist, you'll get an _error_.
 
 ```python
 names_dict = {
@@ -1503,17 +1504,17 @@ for name in fruit_sizes:
 
 ### Ordered or Unordered?
 
-As of Python version `3.7`, dictionaries are *ordered*. In Python `3.6` and earlier, dictionaries were *unordered*.
+As of Python version `3.7`, dictionaries are _ordered_. In Python `3.6` and earlier, dictionaries were _unordered_.
 
-Because dictionaries are ordered, the items have a defined order, and that order will *not* change.
+Because dictionaries are ordered, the items have a defined order, and that order will _not_ change.
 
-Unordered means that the items used to *not* have a defined order, so you couldn't refer to an item by using an index.
+Unordered means that the items used to _not_ have a defined order, so you couldn't refer to an item by using an index.
 
-**The takeaway is that if you're on Python `3.7` or later, you'll be able to iterate over dictionaries in the same order every time.
+\*\*The takeaway is that if you're on Python `3.7` or later, you'll be able to iterate over dictionaries in the same order every time.
 
 ## Chapter 9: Sets
 
-Sets are *like* Lists, but they are *unordered* and they guarantee uniqueness. There can be no two of the same value in a set.
+Sets are _like_ Lists, but they are _unordered_ and they guarantee uniqueness. There can be no two of the same value in a set.
 
 ```python
 fruits = {'apple', 'banana', 'grape'}
@@ -1569,8 +1570,8 @@ print(fruits)
 
 You've probably encountered some errors in your code from time to time if you've gotten this far in the course. In Python, there are two main kinds of distinguishable errors.
 
-* syntax errors
-* exceptions
+- syntax errors
+- exceptions
 
 ### Syntax errors
 
@@ -1607,7 +1608,7 @@ The `try` block is executed until an exception is raised or it completes, whiche
 
 ### Raising your own exceptions
 
-Errors are *not* something to be scared of. Every program that runs in production is expected to manage errors on a constant basis. Our job as developers is to handle the errors gracefully and in a way that aligns with our user's expectations.
+Errors are _not_ something to be scared of. Every program that runs in production is expected to manage errors on a constant basis. Our job as developers is to handle the errors gracefully and in a way that aligns with our user's expectations.
 
 #### Errors are NOT bugs
 
@@ -1615,7 +1616,7 @@ Errors are *not* something to be scared of. Every program that runs in productio
 
 When something in our own code happens that we don't expect, we should raise our own exceptions. For example, if someone passes some bad inputs to a function we write, we should not be afraid to raise an exception to let them know they did something wrong.
 
-An *error* or *exception* is raised when something bad happens, but as long as our code handles it as users expect it to, it's *not* a bug. A bug is when code behaves in ways our users don't expect it to.
+An _error_ or _exception_ is raised when something bad happens, but as long as our code handles it as users expect it to, it's _not_ a bug. A bug is when code behaves in ways our users don't expect it to.
 
 For example, if a player tries to forge an iron sword out of bronze metal, we might raise an exception and display an error message to the player. However, that's the expected behavior of the game, so it's not a bug. If a player can forge the iron sword out of bronze, that may be considered a bug because that's against the rules of the game.
 
@@ -1670,60 +1671,60 @@ unknown exception
 Tim Peters, a long time Pythonista describes the guiding principles of Python in his famous short piece, [The Zen of Python](https://www.python.org/dev/peps/pep-0020/).
 
 > Beautiful is better than ugly.
-> 
+>
 > Explicit is better than implicit.
-> 
+>
 > Simple is better than complex.
-> 
+>
 > Complex is better than complicated.
-> 
+>
 > Flat is better than nested.
-> 
+>
 > Sparse is better than dense.
-> 
+>
 > Readability counts.
-> 
+>
 > Special cases aren't special enough to break the rules.
-> 
+>
 > Although practicality beats purity.
-> 
+>
 > Errors should never pass silently.
-> 
+>
 > Unless explicitly silenced.
-> 
+>
 > In the face of ambiguity, refuse the temptation to guess.
-> 
+>
 > There should be one-- and preferably only one --obvious way to do it.
-> 
+>
 > Although that way may not be obvious at first unless you're Dutch.
-> 
+>
 > Now is better than never.
-> 
-> Although never is often better than *right* now.
-> 
+>
+> Although never is often better than _right_ now.
+>
 > If the implementation is hard to explain, it's a bad idea.
-> 
+>
 > If the implementation is easy to explain, it may be a good idea.
-> 
+>
 > Namespaces are one honking great idea -- let's do more of those!
 
 ### Why Python?
 
 Here are some reasons we think Python is a future-proof choice for developers:
 
-* Easy to read and write - Python reads like plain English. Due to its simple syntax, it's a great choice for implementing advanced concepts like AI. This is arguably Python's *best feature*.
-* Popular - According to the Stack Overflow Developer Survey, [Python is the 4th most popular](https://insights.stackoverflow.com/survey/2020#most-popular-technologies) coding language in 2020.
-* Free - Python, like many languages nowadays, is developed under an open-source license. It's free to install, use, and distribute.
-* Portable - Python written for one platform will work on any other platform.
-* Interpreted - Code can be executed as soon as it's written. Because it doesn't need to take a long time to compile like Java, C++, or Rust, releasing code to production is typically faster.
+- Easy to read and write - Python reads like plain English. Due to its simple syntax, it's a great choice for implementing advanced concepts like AI. This is arguably Python's _best feature_.
+- Popular - According to the Stack Overflow Developer Survey, [Python is the 4th most popular](https://insights.stackoverflow.com/survey/2020#most-popular-technologies) coding language in 2020.
+- Free - Python, like many languages nowadays, is developed under an open-source license. It's free to install, use, and distribute.
+- Portable - Python written for one platform will work on any other platform.
+- Interpreted - Code can be executed as soon as it's written. Because it doesn't need to take a long time to compile like Java, C++, or Rust, releasing code to production is typically faster.
 
 ### Why not Python?
 
 Python might not be the best choice for a project if:
 
-* The code needs to run fast. Python code executes very slowly, which is why performance critical applications like PC games aren't written in Python.
-* The codebase will become large and complex. Due to its dynamic type system, Python code can be harder to keep clean of bugs.
-* The application needs to be distributed directly to non-technical users. They would have to install Python in order to run your code, which would be a huge inconvenience.
+- The code needs to run fast. Python code executes very slowly, which is why performance critical applications like PC games aren't written in Python.
+- The codebase will become large and complex. Due to its dynamic type system, Python code can be harder to keep clean of bugs.
+- The application needs to be distributed directly to non-technical users. They would have to install Python in order to run your code, which would be a huge inconvenience.
 
 ### Python 2 vs Python 3
 
