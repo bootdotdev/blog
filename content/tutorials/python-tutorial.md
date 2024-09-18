@@ -14,6 +14,12 @@ Python is an unbelievably powerful programming language that is used by millions
 
 If you're interested in [back-end web development](/backend/become-backend-developer/), data science, [data engineering](/backend/backend-engineer-vs-data-engineer/), or just want to automate some of your boring tasks, Python is a great place to start.
 
+**Optional video walkthrough**:
+
+_Try to build this project on your own!_ Use this video if you get stuck, or to compare your architecture and coding patterns to mine.
+
+{{< bdyoutube 4M87qBgpafk >}}
+
 ## Would you rather learn by doing?
 
 I've included all the static read-only material you'll need here in this tutorial, but if you would like a **more hands-on experience**, you can take the interactive version of this course, complete with coding challenges and projects on [Boot.dev here](https://boot.dev/courses/learn-python).
