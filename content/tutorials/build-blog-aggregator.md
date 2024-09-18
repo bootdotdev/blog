@@ -4,35 +4,31 @@ author: Lane Wagner
 date: "2024-09-17"
 categories:
   - "tutorials"
-  - "Go"
+  - "golang"
 images:
-  - /
+  - /img/800/blog_aggregator_art.png.webp
 toc: true
 ---
 
-## Welcome
-
-### What are we building?
-
 We're going to build an [RSS](https://en.wikipedia.org/wiki/RSS) feed aggregator in Go! It's a web server that allows clients to:
 
-* Add RSS feeds to be collected
-* Follow and unfollow RSS feeds that other users have added
-* Fetch all of the latest posts from the RSS feeds they follow
+- Add RSS feeds to be collected
+- Follow and unfollow RSS feeds that other users have added
+- Fetch all of the latest posts from the RSS feeds they follow
 
 RSS feeds are a way for websites to publish updates to their content. You can use this project to keep up with your favorite blogs, news sites, podcasts, and more!
 
-### Prerequisites
+**Pre-requisites**:
 
 This project assumes that you've already taken our "Learn Web Servers" course. If you haven't, go take it! It will give you a solid foundation for this project.
 
-### Learning goals
+**Learning goals**:
 
-* Learn how to integrate a Go server with PostgreSQL
-* Learn about the basics of database migrations
-* Learn about long-running service workers
+- Learn how to integrate a Go server with PostgreSQL
+- Learn about the basics of database migrations
+- Learn about long-running service workers
 
-### Setup
+**Setup**:
 
 Before we dive into the project, let's make sure you have everything you'll need on your machine.
 
@@ -44,9 +40,9 @@ Before we dive into the project, let's make sure you have everything you'll need
 
 If you're ready, move on to the next step!
 
-### Optional video walkthrough
+**Optional video walkthrough**:
 
-*Try to build this project on your own!* Use this video if you get stuck, or to compare your architecture and coding patterns to mine.
+_Try to build this project on your own!_ Use this video if you get stuck, or to compare your architecture and coding patterns to mine.
 
 @[youtube](https://www.youtube.com/watch?v=dpXhDzgUSe4)
 
@@ -54,15 +50,15 @@ If you're ready, move on to the next step!
 
 Before we get to the app-specific stuff, let's scaffold a simple CRUD server, hopefully, you're already familiar with how to do this from the "Learn Web Servers" course! That said, I'll provide a quick refresher.
 
-*It might be a good idea to use your "Learn Web Servers" code as a reference while building this project!*
+_It might be a good idea to use your "Learn Web Servers" code as a reference while building this project!_
 
 ### Assignment
 
 1. [ ] Create a new project. You should know how to do this by now! My process is:
-    * [ ] Create a repo on [GitHub](https://github.com) (initialized with a README).
-    * [ ] Clone it onto your machine.
-    * [ ] Create a new Go module with `go mod init`.
-    * [ ] Create a `main.go` file in the root of your project, and add a `func main()` to it.
+   - [ ] Create a repo on [GitHub](https://github.com) (initialized with a README).
+   - [ ] Clone it onto your machine.
+   - [ ] Create a new Go module with `go mod init`.
+   - [ ] Create a `main.go` file in the root of your project, and add a `func main()` to it.
 2. [ ] Install the [godotenv](https://github.com/joho/godotenv) package using `go get github.com/joho/godotenv`.
 3. [ ] Create a [gitignore](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/)'d `.env` file in the root of your project and add the following:
 
@@ -72,23 +68,24 @@ PORT="8080"
 
 The `.env` file is a convenient way to store environment (configuration) variables.
 
-* [ ] Use [godotenv.Load()](https://pkg.go.dev/github.com/joho/godotenv#Load) to load the variables from the file into your environment at the top of `main()`.
-* [ ] Use [os.Getenv()](https://pkg.go.dev/os#Getenv) to get the value of `PORT`.
+- [ ] Use [godotenv.Load()](https://pkg.go.dev/github.com/joho/godotenv#Load) to load the variables from the file into your environment at the top of `main()`.
+- [ ] Use [os.Getenv()](https://pkg.go.dev/os#Getenv) to get the value of `PORT`.
 
 4. [ ] Create a router and server
-    * [ ] Create a [ServeMux](https://pkg.go.dev/net/http#ServeMux) using [http.NewServeMux](https://pkg.go.dev/net/http#NewServeMux)
-    * [ ] Create a new [http.Server](https://pkg.go.dev/net/http#Server) and add the port and your multiplexer to it.
-    * [ ] Start the server
+
+   - [ ] Create a [ServeMux](https://pkg.go.dev/net/http#ServeMux) using [http.NewServeMux](https://pkg.go.dev/net/http#NewServeMux)
+   - [ ] Create a new [http.Server](https://pkg.go.dev/net/http#Server) and add the port and your multiplexer to it.
+   - [ ] Start the server
 
 5. [ ] Create some JSON helper functions:
-    * [ ] `respondWithJSON(w http.ResponseWriter, code int, payload interface{})`
-    * [ ] `respondWithError(w http.ResponseWriter, code int, msg string)` (which calls `respondWithJSON` with error-specific values)
+   - [ ] `respondWithJSON(w http.ResponseWriter, code int, payload interface{})`
+   - [ ] `respondWithError(w http.ResponseWriter, code int, msg string)` (which calls `respondWithJSON` with error-specific values)
 
 You used these in the "Learn Web Servers" course, so you should be able to figure out how to implement them again. They're simply helper functions that write an HTTP response with:
 
-* A status code
-* An `application/json` content type
-* A JSON body
+- A status code
+- An `application/json` content type
+- A JSON body
 
 6. [ ] Add a readiness handler. It should handle `GET /v1/healthz` requests. It should return a 200 status code and a JSON body:
 
@@ -98,7 +95,7 @@ You used these in the "Learn Web Servers" course, so you should be able to figur
 }
 ```
 
-*The purpose of this endpoint is for you to test your `respondWithJSON` function.*
+_The purpose of this endpoint is for you to test your `respondWithJSON` function._
 
 7. [ ] Add an error handler.
 
@@ -110,7 +107,7 @@ Add a handler for `GET /v1/err` requests. It should return a 500 status code and
 }
 ```
 
-*The purpose of this endpoint is for you to test your `respondWithError` function.*
+_The purpose of this endpoint is for you to test your `respondWithError` function._
 
 8. [ ] Run and test your server.
 
@@ -159,15 +156,15 @@ Enter a password, and be sure you won't forget it. You can just use something ea
 
 4. [ ] Start the Postgres server in the background
 
-* Mac: `brew services start postgresql`
-* Linux: `sudo service postgresql start`
+- Mac: `brew services start postgresql`
+- Linux: `sudo service postgresql start`
 
 5. [ ] Connect to the server. I recommend simply using the `psql` client. It's the "default" client for Postgres, and it's a great way to interact with the database. While it's not as user-friendly as a GUI like [PGAdmin](https://www.pgadmin.org/), it's a great tool to be able to do at least basic operations with.
 
 Enter the `psql` shell:
 
-* Mac: `psql postgres`
-* Linux: `sudo -u postgres psql`
+- Mac: `psql postgres`
+- Linux: `sudo -u postgres psql`
 
 You should see a new prompt that looks like this:
 
@@ -199,7 +196,7 @@ blogator=#
 ALTER USER postgres PASSWORD 'postgres';
 ```
 
-For simplicity, I used `postgres` as the password. Before, we altered the *system* user's password, now we're altering the *database* user's password.
+For simplicity, I used `postgres` as the password. Before, we altered the _system_ user's password, now we're altering the _database_ user's password.
 
 9. [ ] Query the database
 
@@ -209,15 +206,15 @@ From here you can run SQL queries against the `blogator` database. For example, 
 SELECT version();
 ```
 
-If everything is working, you can move on. *You can type `exit` to leave the `psql` shell.*
+If everything is working, you can move on. _You can type `exit` to leave the `psql` shell._
 
 ## Create Users
 
 In this step, we'll be adding an endpoint to create new users on the server. We'll be using a couple of tools to help us out:
 
-* [database/sql](https://pkg.go.dev/database/sql): This is part of Go's standard library. It provides a way to connect to a SQL database, execute queries, and scan the results into Go types.
-* [sqlc](https://sqlc.dev/): SQLC is an *amazing* Go program that generates Go code from SQL queries. It's not exactly an [ORM](https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/), but rather a tool that makes working with raw SQL almost as easy as using an ORM.
-* [Goose](https://github.com/pressly/goose): Goose is a database migration tool written in Go. It runs migrations from the same SQL files that SQLC uses, making the pair of tools a perfect fit.
+- [database/sql](https://pkg.go.dev/database/sql): This is part of Go's standard library. It provides a way to connect to a SQL database, execute queries, and scan the results into Go types.
+- [sqlc](https://sqlc.dev/): SQLC is an _amazing_ Go program that generates Go code from SQL queries. It's not exactly an [ORM](https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/), but rather a tool that makes working with raw SQL almost as easy as using an ORM.
+- [Goose](https://github.com/pressly/goose): Goose is a database migration tool written in Go. It runs migrations from the same SQL files that SQLC uses, making the pair of tools a perfect fit.
 
 1. [ ] Install SQLC
 
@@ -232,6 +229,7 @@ Then run `sqlc version` to make sure it's installed correctly.
 2. [ ] Install Goose
 
 Like SQLC, Goose is just a command line tool. I also recommend [installing](https://github.com/pressly/goose#install) it using `go install`:
+
 ```bash
 go install github.com/pressly/goose/v3/cmd/goose@latest
 ```
@@ -260,10 +258,10 @@ DROP TABLE users;
 
 Write out the `CREATE TABLE` statement in full, I left it blank for you to fill in. A `user` should have 4 fields:
 
-* id: a `UUID` that will serve as the primary key
-* created_at: a `TIMESTAMP` that can not be null
-* updated_at: a `TIMESTAMP` that can not be null
-* name: a string that can not be null
+- id: a `UUID` that will serve as the primary key
+- created_at: a `TIMESTAMP` that can not be null
+- updated_at: a `TIMESTAMP` that can not be null
+- name: a string that can not be null
 
 The `-- +goose Up` and `-- +goose Down` comments are required. They tell Goose how to run the migration. An "up" migration moves your database from its old state to a new state. A "down" migration moves your database from its new state back to its old state.
 
@@ -279,8 +277,8 @@ protocol://username:password@host:port/database
 
 Here are examples:
 
-* Mac OS (no password, your username): `postgres://wagslane:@localhost:5432/blogator`
-* Linux (password from last lesson, postgres user): `postgres://postgres:postgres@localhost:5432/blogator`
+- Mac OS (no password, your username): `postgres://wagslane:@localhost:5432/blogator`
+- Linux (password from last lesson, postgres user): `postgres://postgres:postgres@localhost:5432/blogator`
 
 Test your connection string by running `psql`, for example:
 
@@ -358,7 +356,7 @@ Add this import to the top of your `main.go` file:
 import _ "github.com/lib/pq"
 ```
 
-*This is one of my least favorite things working with SQL in Go currently. You have to import the driver, but you don't use it directly anywhere in your code. The underscore tells Go that you're importing it for its side effects, not because you need to use it.*
+_This is one of my least favorite things working with SQL in Go currently. You have to import the driver, but you don't use it directly anywhere in your code. The underscore tells Go that you're importing it for its side effects, not because you need to use it._
 
 11. [ ] Open a connection to the database, and store it in a config struct
 
@@ -407,11 +405,11 @@ Example response:
 
 Use Google's [UUID](https://pkg.go.dev/github.com/google/uuid) package to generate a new [UUID](https://blog.boot.dev/clean-code/what-are-uuids-and-should-you-use-them/) for the user's ID. Both `created_at` and `updated_at` should be set to the current time. If we ever need to update a user, we'll update the `updated_at` field.
 
-I'm a fan of a convention where *every table* in my database has:
+I'm a fan of a convention where _every table_ in my database has:
 
-* An `id` field that is a UUID (if you're curious why, [read this](https://blog.boot.dev/clean-code/what-are-uuids-and-should-you-use-them/))
-* A `created_at` field that indicates when the row was created
-* An `updated_at` field that indicates when the row was last updated
+- An `id` field that is a UUID (if you're curious why, [read this](https://blog.boot.dev/clean-code/what-are-uuids-and-should-you-use-them/))
+- A `created_at` field that indicates when the row was created
+- An `updated_at` field that indicates when the row was last updated
 
 13. [ ] Test your handler with an HTTP client!
 
@@ -427,8 +425,8 @@ The "up" migration adds the column, and the "down" migration removes it.
 
 Use a `VARCHAR(64)` that must be unique and not null. Using a string of a specific length does two things:
 
-* [ ] It ensures we don't accidentally store a key that's too long (type safety)
-* [ ] It's more performant than using a variable length `TEXT` column
+- [ ] It ensures we don't accidentally store a key that's too long (type safety)
+- [ ] It's more performant than using a variable length `TEXT` column
 
 Because we're enforcing the `NOT NULL` constraint, and we already have some users in the database, we need to set a default value for the column. A blank default would be a bit silly: that's no better than null! Instead, we'll generate valid API keys (256-bit hex values) using SQL. Here's the function I used:
 
@@ -451,15 +449,15 @@ Example response body:
 
 ```json
 {
-    "id": "3f8805e3-634c-49dd-a347-ab36479f3f83",
-    "created_at": "2021-09-01T00:00:00Z",
-    "updated_at": "2021-09-01T00:00:00Z",
-    "name": "Lane",
-    "api_key": "cca9688383ceaa25bd605575ac9700da94422aa397ef87e765c8df4438bc9942"
+  "id": "3f8805e3-634c-49dd-a347-ab36479f3f83",
+  "created_at": "2021-09-01T00:00:00Z",
+  "updated_at": "2021-09-01T00:00:00Z",
+  "name": "Lane",
+  "api_key": "cca9688383ceaa25bd605575ac9700da94422aa397ef87e765c8df4438bc9942"
 }
 ```
 
-*Test your endpoints with an HTTP client before moving on!*
+_Test your endpoints with an HTTP client before moving on!_
 
 Don't forget that each time you update your queries or schema you'll need to regenerate your Go code with `sqlc generate`. If you update the schema you'll also need to migrate your database up (and maybe down).
 
@@ -471,9 +469,9 @@ An RSS feed is just a URL that points to some XML. Users will be able to add fee
 
 Like any table in our DB, we'll need the standard `id`, `created_at`, and `updated_at` fields. We'll also need a few more:
 
-* `name`: The name of the feed (like "The Changelog, or "The Boot.dev Blog")
-* `url`: The URL of the feed
-* `user_id`: The ID of the user who added this feed
+- `name`: The name of the feed (like "The Changelog, or "The Boot.dev Blog")
+- `url`: The URL of the feed
+- `user_id`: The ID of the user who added this feed
 
 I'd recommend making the `url` field unique so that in the future we aren't downloading duplicate posts. I'd also recommend using [ON DELETE CASCADE](https://stackoverflow.com/a/14141354) on the `user_id` foreign key so that if a user is deleted, all of their feeds are automatically deleted as well.
 
@@ -507,7 +505,7 @@ v1Router.Get("/users", apiCfg.middlewareAuth(apiCfg.handlerUsersGet))
 
 4. [ ] Create a handler to create a feed
 
-Create a handler that creates a feed. This handler *and* the "get user" handler should use the authentication middleware.
+Create a handler that creates a feed. This handler _and_ the "get user" handler should use the authentication middleware.
 
 Endpoint: `POST /v1/feeds`
 
@@ -537,19 +535,19 @@ Example response body:
 
 ## Get all feeds
 
-Create a new endpoint to retrieve *all* of the feeds in the database. This endpoint should *not* require authentication.
+Create a new endpoint to retrieve _all_ of the feeds in the database. This endpoint should _not_ require authentication.
 
 You should be familiar with all of the steps to make this happen by now, use your other endpoints as a reference.
 
 ## Feed Follows
 
-Aside from just adding new feeds to the database, users can specify *which* feeds they want to follow. This will be important later when we want to show users a list of posts from the feeds they follow.
+Aside from just adding new feeds to the database, users can specify _which_ feeds they want to follow. This will be important later when we want to show users a list of posts from the feeds they follow.
 
 Add support for the following endpoints, and update the "create feed" endpoint as specified below.
 
 ### What is a "feed follow"?
 
-A feed follow is just a link between a user and a feed. It's a [many-to-many](https://en.wikipedia.org/wiki/Many-to-many_(data_model)) relationship, so a user can follow many feeds, and a feed can be followed by many users.
+A feed follow is just a link between a user and a feed. It's a [many-to-many](<https://en.wikipedia.org/wiki/Many-to-many_(data_model)>) relationship, so a user can follow many feeds, and a feed can be followed by many users.
 
 Creating a feed follow indicates that a user is now following a feed. Deleting it is the same as "unfollowing" a feed.
 
@@ -559,7 +557,7 @@ It's important to understand that the `ID` of a feed follow is not the same as t
 
 Endpoint: `POST /v1/feed_follows`
 
-*Requires authentication*
+_Requires authentication_
 
 Example request body:
 
@@ -589,7 +587,7 @@ Endpoint: `DELETE /v1/feed_follows/{feedFollowID}`
 
 Endpoint: `GET /v1/feed_follows`
 
-*Requires authentication*
+_Requires authentication_
 
 Example response:
 
@@ -633,11 +631,11 @@ This is going to be a fairly large step. I recommend breaking it down into small
 
 Here are some different strategies I use depending on the situation:
 
-* Write a unit test for a function that has simple inputs and outputs
-* Edit `main.go` to call a function so I can quickly test it by running the whole program. Remove the call after testing and plug it into its proper place
-* Put the code in a package, then write a separate `main` package (just a little `main()` script) that I can use to independently test the code in the package
+- Write a unit test for a function that has simple inputs and outputs
+- Edit `main.go` to call a function so I can quickly test it by running the whole program. Remove the call after testing and plug it into its proper place
+- Put the code in a package, then write a separate `main` package (just a little `main()` script) that I can use to independently test the code in the package
 
-*Commit your code each time you get a new piece working.*
+_Commit your code each time you get a new piece working._
 
 1. [ ] Add a `last_fetched_at` column to the `feeds` table.
 
@@ -663,21 +661,21 @@ This function should accept the URL of a live RSS feed, and return the parsed da
 
 You can test with these ones:
 
-* `https://blog.boot.dev/index.xml`
-* `https://wagslane.dev/index.xml`
+- `https://blog.boot.dev/index.xml`
+- `https://wagslane.dev/index.xml`
 
 And any other blogs you enjoy that have RSS feeds.
 
-*Please be careful not to [DDOS](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/) any of the sites you're fetching from. Don't send too many requests!*
+_Please be careful not to [DDOS](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/) any of the sites you're fetching from. Don't send too many requests!_
 
-You can parse the returned XML with the [encoding/xml](https://pkg.go.dev/encoding/xml) package, it works *very* similarly to `encoding/json`. Define the structure of an RSS feed as a Go struct, then unmarshal the XML into that struct.
+You can parse the returned XML with the [encoding/xml](https://pkg.go.dev/encoding/xml) package, it works _very_ similarly to `encoding/json`. Define the structure of an RSS feed as a Go struct, then unmarshal the XML into that struct.
 
 5. [ ] Write a worker that fetches feeds continuously.
 
 This function should, on an interval (say every 60 seconds or so):
 
-* Get the next `n` feeds to fetch from the database (you can configure `n`, I used `10`)
-* Fetch and process all the feeds *at the same time* (you can use [sync.WaitGroup](https://pkg.go.dev/sync#WaitGroup) for this)
+- Get the next `n` feeds to fetch from the database (you can configure `n`, I used `10`)
+- Fetch and process all the feeds _at the same time_ (you can use [sync.WaitGroup](https://pkg.go.dev/sync#WaitGroup) for this)
 
 For now, "process" the feed by simply printing out the titles of each post
 
@@ -691,14 +689,14 @@ I recommend adding a lot of logging messages to this worker so that as it runs y
 
 A post is a single entry from a feed. It should have:
 
-* `id` - a unique identifier for the post
-* `created_at` - the time the record was created
-* `updated_at` - the time the record was last updated
-* `title` - the title of the post
-* `url` - the URL of the post *this should be unique*
-* `description` - the description of the post
-* `published_at` - the time the post was published
-* `feed_id` - the ID of the feed that the post came from
+- `id` - a unique identifier for the post
+- `created_at` - the time the record was created
+- `updated_at` - the time the record was last updated
+- `title` - the title of the post
+- `url` - the URL of the post _this should be unique_
+- `description` - the description of the post
+- `published_at` - the time the post was published
+- `feed_id` - the ID of the feed that the post came from
 
 Some of these fields can probably be null, others you might want to be more strict about - it's up to you.
 
@@ -710,26 +708,26 @@ Some of these fields can probably be null, others you might want to be more stri
 
 Endpoint: `GET /v1/posts`
 
-*This is an authenticated endpoint*
+_This is an authenticated endpoint_
 
 This endpoint should return a list of posts for the authenticated user. It should accept a `limit` query parameter that limits the number of posts returned. The default if the parameter is not provided can be whatever you think is reasonable.
 
 6. [ ] Start scraping some feeds! Test your scraper to make sure it's working! Go find some of your favorite websites and add their RSS feeds to your database. Then start your scraper and watch it go to work.
 
-## Submit the link to your Git repository!
+## Submit your Git repo
 
 Your link should look something like `https://github.com/github-username/repo-name`.
 
 ### Ideas for extending the project
 
-You don't *have* to extend this project, but here are just a few ideas if you're interested:
+You don't _have_ to extend this project, but here are just a few ideas if you're interested:
 
-* Support [pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/) of the endpoints that can return many items
-* Support different options for sorting and filtering posts using query parameters
-* Classify different types of feeds and posts (e.g. blog, podcast, video, etc.)
-* Add a CLI client that uses the API to fetch and display posts, maybe it even allows you to read them in your terminal
-* Scrape lists of feeds themselves from a third-party site that aggregates feed URLs
-* Add support for other types of feeds (e.g. Atom, JSON, etc.)
-* Add integration tests that use the API to create, read, update, and delete feeds and posts
-* Add bookmarking or "liking" to posts
-* Create a simple web UI that uses your backend API
+- Support [pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/) of the endpoints that can return many items
+- Support different options for sorting and filtering posts using query parameters
+- Classify different types of feeds and posts (e.g. blog, podcast, video, etc.)
+- Add a CLI client that uses the API to fetch and display posts, maybe it even allows you to read them in your terminal
+- Scrape lists of feeds themselves from a third-party site that aggregates feed URLs
+- Add support for other types of feeds (e.g. Atom, JSON, etc.)
+- Add integration tests that use the API to create, read, update, and delete feeds and posts
+- Add bookmarking or "liking" to posts
+- Create a simple web UI that uses your backend API
