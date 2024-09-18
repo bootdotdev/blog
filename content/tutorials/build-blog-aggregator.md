@@ -46,6 +46,8 @@ _Try to build this project on your own!_ Use this video if you get stuck, or to 
 
 @[youtube](https://www.youtube.com/watch?v=dpXhDzgUSe4)
 
+**Caveat**: There is a more updated version of this course that's more interactive over on [Boot.dev here](https://www.boot.dev/courses/build-blog-aggregator). If you're looking for a more interactive experience, I recommend checking it out!
+
 ## Boilerplate
 
 Before we get to the app-specific stuff, let's scaffold a simple CRUD server, hopefully, you're already familiar with how to do this from the "Learn Web Servers" course! That said, I'll provide a quick refresher.
@@ -731,3 +733,7 @@ You don't _have_ to extend this project, but here are just a few ideas if you're
 - Add integration tests that use the API to create, read, update, and delete feeds and posts
 - Add bookmarking or "liking" to posts
 - Create a simple web UI that uses your backend API
+
+## Solution
+
+If you get lost at any point, I've uploaded my solution repo to [GitHub here](https://github.com/bootdotdev/blog-agg-solution-snapshot-v0).
