@@ -6,88 +6,51 @@ images:
   - "/img/800/groupofmages.webp"
 ---
 
-* Our mission statement: **To make learning backend engineering skills as fun and simple as it can be.**
-* Our vision statement? We don't have one because they're a bit dumb.
+- Our mission statement: **To make learning backend engineering skills as fun and simple as it can be.**
+- Our vision statement? We don't have one because they're dumb.
 
 ## What values inform our culture?
 
-Integrity? Honesty? Excellence? Teamwork? *Barf.*
+Integrity? Honesty? Excellence? Teamwork? _Gross._
 
-Companies with corporate truisms as "values" don't actually have values. It's not a value unless you're willing to sacrifice some *other* good thing to uphold it. Here are some specific things we do care about:
+Companies that use a handful of truisms as their "values" don't actually have values. It's not a value unless you're willing to sacrifice some _other_ good thing to uphold it. Here are some specific things we do care about:
 
-* We work harder, we care more
-* We want you here for at least 5-10 years
-* Mediocre teams don't build great stuff
-* Work-life integration, not work-life balance
-* Aptitude, passion, then experience
-* Culture isn't ping pong tables and free snacks
-* Quantity is the enemy of quality
-* Perfect is the enemy of done
-* Big teams are not impressive
+- Quantity is the enemy of quality
+- Perfect is the enemy of done
+- Boring is the enemy of learning
+- Aptitude and passion matter more than experience
+- Flexible working hours, but lots of em
 
-## We work harder, we care more
+## Quantity is the enemy of quality
 
-There seems to be an exponential nature to "results" where working 10% harder often yields 50% better results, and working 20% harder often yields 100% better results. It makes sense when you think about it, most organizations are filled with people doing an "average" amount of work, and who care an "average" amount. If we work 20% harder, and care 20% more, we can easily be in the top 10% of organizations.
+We're _much_ more concerned about quality than quantity. It's impossible to compete with Udemy, YouTube, etc on the amount of programming content we can produce. Instead, we're building the _best possible experience_ for learning backend engineering skills, not the _largest repository_ of content.
 
-Sometimes we assume that everyone puts in the same ~8 hours of work each day, in reality, some people work *much* harder than others.
+## Perfect is the enemy of done
 
-## We want you here for at least 5-10 years
+We ship often, and occasionally we ship a bug, but we measure how long it takes to fix (noticable) bugs in _minutes or hours_ not _weeks_. We launch new features as MVPs. The meat is there, it works, and it improves the product, but not every additional bell and whistle is tacked on. We iterate quickly and kill our darlings.
 
-There's high turnover in tech companies. Employees stay at companies for 1-3 years, then find a shiny new position with a 20% raise. Our goal is to keep you here for 5-10 years. We believe your value to the team increases exponentially over time, and we want to invest in you. That means we do everything we can to make sure:
+## Boring is the enemy of learning
 
-* You love what we're working on
-* You love who you're working with
-* You are challenged and growing
-* You are compensated well and rewarded when the team succeeds
+There is a _lot_ of programming content out there. There is a lot of _accurate_ programming content out there. There is a lot of _well explained_ programming content out there.
 
-## Mediocre teams don't build great stuff
-
-We want great people. That doesn't mean experienced people, people with a fancy degree, or people who have worked at a FAANG company. It means people who are smart, hard-working, and who care about what we're doing. If we don't have a world-class team, how can we build a world-class learning experience that people love?
-
-## Work-life integration, not work-life balance
-
-Work-life balance is often thought of as the ability to put away your laptop at 5PM and not think about work until 8AM the next day. The ability to take a week-long vacation each year. Separating work and life.
-
-That might work for some people, but I prefer a healthy work-life *integration*.
-
-At Boot.dev we have unlimited PTO. We have flexible hours. We have flexible work locations. You're measured as a teammate on your inputs *and* your outputs. Here are some examples:
-
-* Hate mornings? No problem, start at 10AM! You'll need to pick up the slack in the evenings, but that's fine.
-* Feeling unproductive? Go take a walk, grab some lunch, do some shopping. Organize your schedule so that when you are working you're getting stuff done.
-* Crushed 5 bugs today and now you're exhausted? Sign off at 2PM and go enjoy the rest of your day.
-* Haven't shipped anything useful in a week? Spend some extra time this weekend. Small companies need everyone to make real progress to survive.
+There's not a lot of all of the above that's also incredibly _fun_ and _hands on_. We won't ship a course until its fun and interactive.
 
 ## Aptitude, passion, then experience
 
 We care about these things, in this order:
 
 1. Aptitude
-2. Passion & ambition
+2. Passion & work ethic
 3. Experience & skills
 
 The easiest thing to correct for is a lack of skills. The best people can pick up new skills. They're relentless. They don't throw up their hands and say "I don't know how to do that", they go learn how to do it, or find people who can help them.
 
 On the contrary, if we don't have smart, hard-working people, that's hard to fix. Similarly, it's hard (but not impossible) to get yourself to be excited about coding education if you're not already, so it's best to just start with people who love what we're doing.
 
-## Culture isn't ping pong tables and free snacks
+## Flexible working time, but not less time
 
-Ping-pong tables and free snacks are *awesome*, but they don't define a company's *culture*. We eat free as a team together. We play video games together. We go on retreats together. We have a ton of fun, but those are some of our *benefits*, not what defines our culture.
+I use the term "work life integration" instead of "work life balance". Work-life balance is often thought of as the ability to put away your laptop at 5PM and not think about work until 8AM the next day. The ability to take a week-long vacation each year. Separating work and life. That works for some organizations, and if that's your preferred method, you might want to go find one of them. It doesn't work for us.
 
-Our culture is defined by *how* we work together to make our mission a success, and how we hold each other accountable to our goals. Great people *want* to be challenged and build something remarkable. Our culture is defined by the people we hire, not the perks we offer.
+We have unlimited PTO. We have flexible hours. We all work remote. We don't care which hours you work (I go to the gym at 10AM because it's not busy) but we care _a lot_ that you're getting stuff done and that you're responsive to your teammates. Flexible time, but not _less_ time.
 
-## Quantity is the enemy of quality
-
-We're *much* more concerned about quality than quantity. It would be impossible to compete with YouTube on the amount of programming videos we can produce. Instead, we're building the *best possible experience* for learning backend engineering skills, not the *largest repository of knowledge*.
-
-## Perfect is the enemy of done
-
-We ship often, and occasionally we ship a bug, but we measure how long it takes to ship a bug fix in *hours* not *weeks*. We launch new features as MVPs. The meat is there, it works, and it improves the product, but not every additional bell and whistle is tacked on. We iterate quickly and kill our darlings.
-
-## Big teams are not impressive
-
-Many startups are tempted to hire as many people as quickly as they can. It's a vanity metric of sorts - when people ask about your company, one of the first questions they ask is "How many employees?". It feels good to be able to brag about the size of your team, but it has almost nothing to do with your success.
-
-We're much more concerned about the metric that matters: how much work we can get done *despite* having a smaller team. I'm always surprised by two seemingly contradictory things:
-
-* How much work a small team can get done
-* How little work a large team can get done
+We don't believe on any time tracking or micro-managing techniques for remote work. You'll be evaluated on your results, and on your ability to work with the team, not on when or for how long you're working.
