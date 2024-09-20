@@ -21,7 +21,7 @@ We're building the smartest way to master backend development by tackling the ha
 - **Years of experience**: 0-2
 - **Type**: 8 week contract to hire (benefits and equity post-contract)
 
-We're looking for our 2nd full time video editor/animator to help us create really goddamn cool educational programming videos. We havee two YouTube channels:
+We're looking for our 2nd full time video editor/animator to help us create really goddamn cool educational programming videos. We have two YouTube channels:
 
 - https://www.youtube.com/@bootdotdev
 - https://www.youtube.com/@backendbanterfm
