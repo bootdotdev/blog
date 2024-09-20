@@ -9,6 +9,8 @@ lastmod: "2024-02-07"
 
 We're building the smartest way to master backend development by tackling the hardest problem with e-learning: boredom. We're a small team of developers who love to make the process of learning as fun and hands-on as it can be.
 
+If you're curious about our team culture, check out our [wiki page about it](/wiki/team-culture).
+
 ## Open positions
 
 ### Junior Video Editor/Animator
