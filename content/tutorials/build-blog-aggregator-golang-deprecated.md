@@ -1,5 +1,5 @@
 ---
-title: "Build a Blog Aggregator"
+title: "Build a Blog Aggregator in Go [Deprecated]"
 author: Lane Wagner
 date: "2024-09-17"
 categories:
@@ -8,6 +8,8 @@ categories:
 images:
   - /img/800/blog_aggregator_art.png.webp
 toc: true
+aliases:
+  - /tutorials/build-blog-aggregator
 ---
 
 We're going to build an [RSS](https://en.wikipedia.org/wiki/RSS) feed aggregator in Go! It's a web server that allows clients to:
@@ -17,6 +19,8 @@ We're going to build an [RSS](https://en.wikipedia.org/wiki/RSS) feed aggregator
 - Fetch all of the latest posts from the RSS feeds they follow
 
 RSS feeds are a way for websites to publish updates to their content. You can use this project to keep up with your favorite blogs, news sites, podcasts, and more!
+
+**Caveat**: There is a more updated version of this course that's more interactive over on [Boot.dev here](https://www.boot.dev/courses/build-blog-aggregator). If you're looking for a more interactive experience, I recommend checking it out!
 
 **Pre-requisites**:
 
@@ -45,8 +49,6 @@ If you're ready, move on to the next step!
 _Try to build this project on your own!_ Use this video if you get stuck, or to compare your architecture and coding patterns to mine.
 
 {{< bdyoutube dpXhDzgUSe4 >}}
-
-**Caveat**: There is a more updated version of this course that's more interactive over on [Boot.dev here](https://www.boot.dev/courses/build-blog-aggregator). If you're looking for a more interactive experience, I recommend checking it out!
 
 ## Boilerplate
 

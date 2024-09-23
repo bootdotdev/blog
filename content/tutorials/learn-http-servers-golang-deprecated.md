@@ -1,5 +1,5 @@
 ---
-title: "Learn Web Servers"
+title: "Build a Web Server in Go [Deprecated]"
 author: Lane Wagner
 date: "2024-09-23"
 categories:
@@ -10,11 +10,9 @@ images:
 toc: true
 ---
 
-**Welcome to Web Servers**
+Let's build a fully-fledged HTTP server from scratch in Go. This course assumes you already have a solid understanding of Go. If you don't, take a step back and take our [Go course](https://www.boot.dev/courses/learn-golang).
 
-In a way, this course is where _everything_ you've learned so far on the Boot.dev back-end track comes together. Building web servers is the bread-and-butter of a backend developer's day-to-day work.
-
-This course assumes you already have a solid understanding of Go. If you don't, take a step back and take our [Go course](https://www.boot.dev/courses/learn-golang).
+**Caveat**: There is a more updated version of this course that's more interactive over on [Boot.dev here](https://www.boot.dev/courses/learn-http-servers). If you're looking for a more interactive experience, I recommend checking it out!
 
 **Goals of this course**
 
@@ -22,7 +20,9 @@ This course assumes you already have a solid understanding of Go. If you don't, 
 - Build an actual web server in Go, without the use of a framework
 - Learn what makes Go a great language for building fast web servers
 - We'll use production-ready tools for everything in this course _except the database_. We'll use flat files because we want to drive home the point that a database is just a fancy way to store data on disk. We'll cover DBs later.
+
 ## Servers
+
 **What is a server?**
 
 A web [server](https://en.wikipedia.org/wiki/Server_%28computing%29) is just a computer that serves data over a network, typically the Internet. Servers run software that listens for incoming requests from clients. When a request is received, the server responds with the requested data.
@@ -39,7 +39,7 @@ One of Chirpy's servers is processing requests _unbelievably_ slowly. Use a goro
 
 **Goroutines in servers**
 
-In Go, *goroutines* are used to serve *many* requests at the same time, but not all servers are quite so performant.
+In Go, _goroutines_ are used to serve _many_ requests at the same time, but not all servers are quite so performant.
 
 Go was built by Google, and one of the purposes of its creation was to power Google's massive web infrastructure. Go's goroutines are a great fit for web servers because they're lighter weight than operating system threads, but still take advantage of multiple cores. Let's compare a Go web server's concurrency model to other popular languages and frameworks.
 
@@ -49,23 +49,23 @@ In JavaScript land, servers are typically single-threaded. A [Node.js](https://n
 
 ![Node.js Server](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/bmsOkiQ.png)
 
-This might sound *horribly* inefficient, but it's not *too* bad. Node servers do just fine with the I/O workloads associated with most CRUD apps (Where processing is offloaded to the Database). You only start to run into trouble with this model when you need your server to do CPU-intensive work.
+This might sound _horribly_ inefficient, but it's not _too_ bad. Node servers do just fine with the I/O workloads associated with most CRUD apps (Where processing is offloaded to the Database). You only start to run into trouble with this model when you need your server to do CPU-intensive work.
 
 **Python / Django / Flask**
 
-[Django](https://www.djangoproject.com/) and [Flask](https://flask.palletsprojects.com/en/2.2.x/) are two of the most popular back-end Python frameworks. They're both built on top of the [WSGI](https://wsgi.readthedocs.io/en/latest/what.html) standard, which is a specification for how web servers and web applications should communicate. 
+[Django](https://www.djangoproject.com/) and [Flask](https://flask.palletsprojects.com/en/2.2.x/) are two of the most popular back-end Python frameworks. They're both built on top of the [WSGI](https://wsgi.readthedocs.io/en/latest/what.html) standard, which is a specification for how web servers and web applications should communicate.
 
-Generally speaking, Python application code only processes a single request at a time. This means that if a request is being processed, the application won't do *anything else* until it's finished.
+Generally speaking, Python application code only processes a single request at a time. This means that if a request is being processed, the application won't do _anything else_ until it's finished.
 
 The only reason this isn't completely debilitating is there is a separate WSGI process (for example [uwsgi](https://uwsgi-docs.readthedocs.io/en/latest/)) that handles the concurrency of the application code. It can spawn multiple processes of the Python application to handle different requests at once.
 
-In other words, `uwsgi + Flask` or `uwsgi + Django` are both needed to handle the same things that a single Node.js or Go server does *alone*.
+In other words, `uwsgi + Flask` or `uwsgi + Django` are both needed to handle the same things that a single Node.js or Go server does _alone_.
 
 **Takeaways**
 
-* Go servers are great for performance whether the workload is I/O *or* CPU-bound
-* Node.js and Express work well for I/O-bound tasks, but struggle with CPU-bound tasks
-* Python and Django/Flask do just fine with I/O bound tasks, but frankly, no one picks Python for its performance
+- Go servers are great for performance whether the workload is I/O _or_ CPU-bound
+- Node.js and Express work well for I/O-bound tasks, but struggle with CPU-bound tasks
+- Python and Django/Flask do just fine with I/O bound tasks, but frankly, no one picks Python for its performance
 
 I'm not saying Go is always "better" than Python or JavaScript when it comes to back-end development, but it generally outperforms them when it comes to speed.
 
@@ -73,9 +73,9 @@ I'm not saying Go is always "better" than Python or JavaScript when it comes to 
 
 **Server and Setup**
 
-*Starting now, this course is going to be very different than what you're used to on Boot.dev!*
+_Starting now, this course is going to be very different than what you're used to on Boot.dev!_
 
-We're building a fully-fledged web server from scratch *on your local machine*. You'll notice that the code to the right is *not* editable! That's because that's just the test suite that will make HTTP requests to your local server over [localhost](https://www.hostinger.com/tutorials/what-is-localhost).
+We're building a fully-fledged web server from scratch _on your local machine_. You'll notice that the code to the right is _not_ editable! That's because that's just the test suite that will make HTTP requests to your local server over [localhost](https://www.hostinger.com/tutorials/what-is-localhost).
 
 **Tools you'll need**
 
@@ -84,13 +84,13 @@ We're building a fully-fledged web server from scratch *on your local machine*. 
 3. The [Go toolchain](https://golang.org/doc/install) with version `1.22+`.
 4. The [Boot.dev CLI](https://github.com/bootdotdev/bootdev) to run the tests. Go ahead and install it following the instructions in the README, then run `bootdev login` to authenticate.
 
-The lessons in this course *require* at least version `1.22` of Go. If you're using an older version, you'll run into some frustrating issues!
+The lessons in this course _require_ at least version `1.22` of Go. If you're using an older version, you'll run into some frustrating issues!
 
 **Set up your project**
 
 Create a new GitHub/GitLab repository for your Chirpy project, and clone it down onto your local machine. Use `go mod init` to create a new Go module for the project, and add a `main.go` file. That's where you'll be writing your code for each assignment.
 
-*Do not delete your work after each assignment*! Each lesson will build upon the previous ones so we'll be reusing a lot of code.
+_Do not delete your work after each assignment_! Each lesson will build upon the previous ones so we'll be reusing a lot of code.
 
 **Assignment**
 
@@ -100,8 +100,8 @@ The Go standard library makes it easy to build a simple server. Your task is to 
 
 1. [ ] Create a [new http.ServeMux](https://pkg.go.dev/net/http#NewServeMux)
 2. [ ] Create a new [http.Server](https://pkg.go.dev/net/http#Server) struct.
-    * Use the new "ServeMux" as the server's handler
-    * Set the `.Addr` field to ":8080"
+   - Use the new "ServeMux" as the server's handler
+   - Set the `.Addr` field to ":8080"
 3. [ ] Use the server's [ListenAndServe](https://pkg.go.dev/net/http#Server.ListenAndServe) method to start the server
 4. [ ] Build and run your server (e.g. `go build -o out && ./out`)
 5. [ ] Open `http://localhost:8080` in your browser. You should see a `404` error because we haven't connected any handler logic yet. Don't worry, that's what is expected for the tests to pass for now.
@@ -109,18 +109,18 @@ The Go standard library makes it easy to build a simple server. Your task is to 
 
 **Tips**
 
-* Use `go mod init` to create a Go module for your project
-* Each time you change your code you'll need to rebuild and restart your server
-* Use Git to save your work as you go
+- Use `go mod init` to create a Go module for your project
+- Each time you change your code you'll need to rebuild and restart your server
+- Use Git to save your work as you go
 
 **Fileservers**
 
-A *fileserver* is a kind of simple web server that serves static files from the host machine. Fileservers are often used to serve static assets for a website, things like:
+A _fileserver_ is a kind of simple web server that serves static files from the host machine. Fileservers are often used to serve static assets for a website, things like:
 
-* HTML
-* CSS
-* JavaScript
-* Images
+- HTML
+- CSS
+- JavaScript
+- Images
 
 **Assignment**
 
@@ -128,11 +128,9 @@ The Go standard library makes it super easy to build a simple fileserver. Build 
 
 ```html
 <html>
-
-<body>
+  <body>
     <h1>Welcome to Chirpy</h1>
-</body>
-
+  </body>
 </html>
 ```
 
@@ -161,11 +159,12 @@ srv := &http.Server{
 log.Printf("Serving files from %s on port: %s\n", filepathRoot, port)
 log.Fatal(srv.ListenAndServe())
 ```
+
 **Serving Images**
 
-You may be wondering how the fileserver knew to serve the `index.html` file to the root of the server. It's *such* a common convention on the web to use a file called `index.html` to serve the webpage for a given path, that the Go standard library's [FileServer](https://pkg.go.dev/net/http#FileServer) does it automatically.
+You may be wondering how the fileserver knew to serve the `index.html` file to the root of the server. It's _such_ a common convention on the web to use a file called `index.html` to serve the webpage for a given path, that the Go standard library's [FileServer](https://pkg.go.dev/net/http#FileServer) does it automatically.
 
-When using a standard fileserver, the path to a file on disk is the same as its URL path. An exception is that `index.html` is served from `/` instead of `/index.html`. 
+When using a standard fileserver, the path to a file on disk is the same as its URL path. An exception is that `index.html` is served from `/` instead of `/index.html`.
 
 **Try it out**
 
@@ -175,9 +174,9 @@ This works for all directories, not just the root!
 
 For example:
 
-* `/index.html` will be served from `/`
-* `/pages/index.html` will be served from `/pages`
-* `/pages/about/index.html` will be served from `/pages/about`
+- `/index.html` will be served from `/`
+- `/pages/index.html` will be served from `/pages`
+- `/pages/about/index.html` will be served from `/pages/about`
 
 Alternatively, try opening a URL that doesn't exist, like `http://localhost:8080/doesntexist.html`. You'll see that the fileserver returns a 404 error.
 
@@ -194,11 +193,12 @@ Configure its filepath so that it's accessible from this URL:
 ```
 http://localhost:8080/assets/logo.png
 ```
+
 **Workflow tips**
 
-Servers are interesting because they're *always running.* A lot of the code we've written in Boot.dev up to this point has acted more like a command line tool: it runs, does its thing, and then exits.
+Servers are interesting because they're _always running._ A lot of the code we've written in Boot.dev up to this point has acted more like a command line tool: it runs, does its thing, and then exits.
 
-Servers are different. They run forever, waiting for requests to come in, processing them, sending responses, and then waiting for the next request. If they didn't work this way, websites and apps would be down and unavailable *all the time*!
+Servers are different. They run forever, waiting for requests to come in, processing them, sending responses, and then waiting for the next request. If they didn't work this way, websites and apps would be down and unavailable _all the time_!
 
 **Debugging a server**
 
@@ -209,15 +209,15 @@ Debugging a CLI app is simple:
 3. See if it did what you expected.
 4. If it didn't, add some logging or fix the code, and go back to step 2.
 
-Debugging a server is a little different. The *simplest* way (minimal tooling) is to:
+Debugging a server is a little different. The _simplest_ way (minimal tooling) is to:
 
 1. Write some code
 2. Build and run the code
-3. *Send a request to the server using a browser or some other HTTP client*
+3. _Send a request to the server using a browser or some other HTTP client_
 4. See if it did what you expected.
 5. If it didn't, add some logging or fix the code, and go back to step 2.
 
-*Make sure you're testing your server by hitting endpoints in the browser before submitting your answers.*
+_Make sure you're testing your server by hitting endpoints in the browser before submitting your answers._
 
 **Restarting a server**
 
@@ -259,7 +259,7 @@ The endpoint should be accessible at the `/healthz` path using any HTTP method.
 
 The endpoint should simply return a `200 OK` status code indicating that it has started up successfully and is listening for traffic. The endpoint should return a `Content-Type: text/plain; charset=utf-8` header, and the body will contain a message that simply says "OK" (the text associated with the 200 status code).
 
-*Later this endpoint can be enhanced to return a `503 Service Unavailable` status code if the server is not ready.*
+_Later this endpoint can be enhanced to return a `503 Service Unavailable` status code if the server is not ready._
 
 **1. Add the readiness endpoint**
 
@@ -309,7 +309,7 @@ You'll typically use a `HandlerFunc` when you want to implement a simple handler
 
 The `Request` argument is fairly obvious: it contains all the information about the incoming request, such as the HTTP method, path, headers, and body.
 
-The `ResponseWriter` is less intuitive in my opinion. The response is an *argument*, not a *return type*. Instead of returning a value all at once from the handler function, we *write* the response to the `ResponseWriter`.
+The `ResponseWriter` is less intuitive in my opinion. The response is an _argument_, not a _return type_. Instead of returning a value all at once from the handler function, we _write_ the response to the `ResponseWriter`.
 
 ## Routing
 
@@ -361,7 +361,7 @@ Where `x` is the number of requests that have been processed. This handler shoul
 
 6. [ ] Finally, create and register a handler on the `/reset` path that, when hit, will reset your `fileserverHits` back to `0`.
 
-*It should follow the same design as the previous handlers.*
+_It should follow the same design as the previous handlers._
 
 Remember, similar to the metrics endpoint, `/reset` will need to be a method on the `*apiConfig` struct so that it can also access the `fileserverHits`
 
@@ -401,7 +401,7 @@ The Go standard library has a lot of powerful HTTP features and, as of version 1
 
 Note that there are other powerful routing libraries like [Gorilla Mux](https://github.com/gorilla/mux) and [Chi](https://github.com/go-chi/chi), however, the instructions for this course will assume you are using Go's standard library. Just know that it isn't your only option!
 
-In this lesson, we are going to limit which endpoints are available via which HTTP methods. In our current implementation, we can use any HTTP method to access any endpoint. *This is not ideal.*
+In this lesson, we are going to limit which endpoints are available via which HTTP methods. In our current implementation, we can use any HTTP method to access any endpoint. _This is not ideal._
 
 **Try it!**
 
@@ -417,8 +417,8 @@ You should get an `OK` response - but we want this endpoint to only be available
 
 Add explicit HTTP methods to our current 2 custom endpoints to only allow for `GET` methods.
 
-* `/healthz`
-* `/metrics`
+- `/healthz`
+- `/metrics`
 
 In general, a pattern looks something like this: `[METHOD ][HOST]/[PATH]`
 
@@ -461,9 +461,9 @@ If you're interested, you can read more in the [ServeMux docs](https://pkg.go.de
 
 **Monoliths and Decoupling**
 
-"Architecture" in software can mean *many* different things, but in this lesson, we're talking about the high-level architecture of a web application from a structural standpoint. More specifically, we are concerned with the separation (or lack thereof) between the back-end and the front-end.
+"Architecture" in software can mean _many_ different things, but in this lesson, we're talking about the high-level architecture of a web application from a structural standpoint. More specifically, we are concerned with the separation (or lack thereof) between the back-end and the front-end.
 
-When we talk about "coupling" in this context, we're talking about the coupling between the *data* and the *presentation logic* of that data. Loosely speaking, when I say "a tightly coupled front-end and back-end", what I mean is:
+When we talk about "coupling" in this context, we're talking about the coupling between the _data_ and the _presentation logic_ of that data. Loosely speaking, when I say "a tightly coupled front-end and back-end", what I mean is:
 
 **Front-end: The presentation logic**
 
@@ -487,11 +487,11 @@ Sometimes monoliths host a REST API for raw data (like JSON data) within a subpa
 
 A "decoupled" architecture is one where the front-end and back-end are separated into different codebases. For example, the front-end might be hosted by a static file server on one domain, and the back-end might be hosted on a subdomain by a different server.
 
-Depending on whether or not a load balancer is sitting in front of a decoupled architecture or not, the API server might be hosted on a separate domain (as shown in the image) *or* on a subpath, as shown in the monolithic architecture. A decoupled architecture allows for either approach.
+Depending on whether or not a load balancer is sitting in front of a decoupled architecture or not, the API server might be hosted on a separate domain (as shown in the image) _or_ on a subpath, as shown in the monolithic architecture. A decoupled architecture allows for either approach.
 
 **Assignment**
 
-For now, Chirpy is *technically* a monolith. That said we *are* keeping all the API logic decoupled in the sense that it will be served from its own namespace (path prefix). We serve the website from the `app` path, and we'll be serving the API from the `/api` path.
+For now, Chirpy is _technically_ a monolith. That said we _are_ keeping all the API logic decoupled in the sense that it will be served from its own namespace (path prefix). We serve the website from the `app` path, and we'll be serving the API from the `/api` path.
 
 Let's move our non-website endpoints to the `/api` namespace in our routing.
 
@@ -499,20 +499,20 @@ To do this, prepend `/api` to the beginning of each of our API endpoints, e.g. `
 
 **Which is better?**
 
-There is *always* a trade-off.
+There is _always_ a trade-off.
 
 **Pros for monoliths**
 
-* Simpler to get started with
-* Easier to deploy new versions because everything is always in sync
-* In the case of the data being embedded in the HTML, the performance can result in better UX and SEO
+- Simpler to get started with
+- Easier to deploy new versions because everything is always in sync
+- In the case of the data being embedded in the HTML, the performance can result in better UX and SEO
 
 **Pros for decoupled architectures**
 
-* Easier to scale as traffic grows
-* Easier to practice good separation of concerns as the codebase grows
-* Can be hosted on separate servers and using separate technologies
-* Embedding data in the HTML is still possible with pre-rendering (similar to how Next.js works), it's just more complicated
+- Easier to scale as traffic grows
+- Easier to practice good separation of concerns as the codebase grows
+- Can be hosted on separate servers and using separate technologies
+- Embedding data in the HTML is still possible with pre-rendering (similar to how Next.js works), it's just more complicated
 
 **Can we have the best of both worlds?**
 
@@ -534,12 +534,10 @@ Use this template:
 
 ```html
 <html>
-
-<body>
+  <body>
     <h1>Welcome, Chirpy Admin</h1>
     <p>Chirpy has been visited %d times!</p>
-</body>
-
+  </body>
 </html>
 ```
 
@@ -553,13 +551,13 @@ Run and submit the HTTP tests using the CLI tool.
 
 **Deployment Options**
 
-We won't go in-depth with deployment instructions right now, that said, let's talk about how our choice of project architecture affects our deployment options, and how we *could* deploy our application in the future. We'll only talk about cloud deployment options here, and by the "cloud" I'm just referring to a remote server that's managed by a third-party company like Google or Amazon.
+We won't go in-depth with deployment instructions right now, that said, let's talk about how our choice of project architecture affects our deployment options, and how we _could_ deploy our application in the future. We'll only talk about cloud deployment options here, and by the "cloud" I'm just referring to a remote server that's managed by a third-party company like Google or Amazon.
 
 ![xkcd the cloud](https://imgs.xkcd.com/comics/the_cloud.png)
 
 - [xkcd](https://xkcd.com/908/)
 
-Using a cloud service to deploy applications is *super* common these days because it's easy, fast, and cheap.
+Using a cloud service to deploy applications is _super_ common these days because it's easy, fast, and cheap.
 
 That said, it's still possible to deploy to a local or on-premise server, and some companies still do that, but it's not as common as it used to be.
 
@@ -569,27 +567,27 @@ Deploying a monolith is straightforward. Because your server is just one program
 
 You could upload and run it on classic server, something like:
 
-* AWS EC2
-* GCP Compute Engine (GCE)
-* Digital Ocean Droplets
-* Azure Virtual Machines
+- AWS EC2
+- GCP Compute Engine (GCE)
+- Digital Ocean Droplets
+- Azure Virtual Machines
 
 Alternatively, you could use a platform that's specifically designed to run web applications, like:
 
-* Heroku
-* Google App Engine
-* Fly.io
-* AWS Elastic Beanstalk
+- Heroku
+- Google App Engine
+- Fly.io
+- AWS Elastic Beanstalk
 
 **Decoupled deployment**
 
-With a decoupled architecture, you have *two* different programs that need to be deployed. You would typically deploy your *back-end* to the same kinds of places you would deploy a monolith.
+With a decoupled architecture, you have _two_ different programs that need to be deployed. You would typically deploy your _back-end_ to the same kinds of places you would deploy a monolith.
 
-For your front-end server, you can do the same, *or* you can use a platform that's specifically designed to host static files and server-side rendered front-end apps, something like:
+For your front-end server, you can do the same, _or_ you can use a platform that's specifically designed to host static files and server-side rendered front-end apps, something like:
 
-* Vercel
-* Netlify
-* GitHub Pages
+- Vercel
+- Netlify
+- GitHub Pages
 
 Because the front-end bundle is likely just static files, you can host it easily on a [CDN (Content Delivery Network)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/) inexpensively.
 
@@ -605,19 +603,19 @@ I'm trying to gently introduce you to some popular technologies and how they wor
 
 **HTTP Clients**
 
-So far, you have *probably* been using a browser to test your server. That works fine with simple `GET` requests (the kind of request a browser sends when you type a URL into the address bar), but it's not very useful for any other HTTP methods or requests with custom headers and bodies.
+So far, you have _probably_ been using a browser to test your server. That works fine with simple `GET` requests (the kind of request a browser sends when you type a URL into the address bar), but it's not very useful for any other HTTP methods or requests with custom headers and bodies.
 
 **Debugging your endpoints**
 
 Servers are built to be used by clients. As you develop your code, you should be using a tool that makes sending one-off requests to your server easy! Here are some of my favorites:
 
-* [Thunder Client for VS Code](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
-* [REST Client for VS Code](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-* [Postman for VS Code](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
-* [cURL](https://curl.se/)
-* [Postman](https://www.postman.com/)
+- [Thunder Client for VS Code](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+- [REST Client for VS Code](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+- [Postman for VS Code](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
+- [cURL](https://curl.se/)
+- [Postman](https://www.postman.com/)
 
-Use whichever client you like, *but make sure you're using one!*
+Use whichever client you like, _but make sure you're using one!_
 
 **Why do I like Thunder Client?**
 
@@ -633,12 +631,12 @@ If you want to take a super deep dive into JSON in Go, then you can [read this p
 
 **Decode JSON request body**
 
-It's *very* common for `POST` requests to send JSON data in the request body. Here's how you can handle that incoming data:
+It's _very_ common for `POST` requests to send JSON data in the request body. Here's how you can handle that incoming data:
 
 ```json
 {
-    "name": "John",
-    "age": 30,
+  "name": "John",
+  "age": 30
 }
 ```
 
@@ -701,7 +699,7 @@ Add a new endpoint to the Chirpy API that accepts a `POST` request at `/api/vali
 
 ```json
 {
-    "body": "This is an opinion I need to share with the world"
+  "body": "This is an opinion I need to share with the world"
 }
 ```
 
@@ -709,7 +707,7 @@ If any errors occur, it should respond with an appropriate HTTP status code and 
 
 ```json
 {
-    "error": "Something went wrong"
+  "error": "Something went wrong"
 }
 ```
 
@@ -717,7 +715,7 @@ For example, if the Chirp is too long, respond with a `400` code and this body:
 
 ```json
 {
-    "error": "Chirp is too long"
+  "error": "Chirp is too long"
 }
 ```
 
@@ -725,7 +723,7 @@ If the Chirp is valid, respond with a `200` code and this body:
 
 ```json
 {
-    "valid": true
+  "valid": true
 }
 ```
 
@@ -778,17 +776,17 @@ We need to update the `/api/validate_chirp` endpoint to replace all "profane" wo
 
 Assuming the length validation passed, replace any of the following words in the Chirp with the static 4-character string `****`:
 
-* kerfuffle
-* sharbert
-* fornax
+- kerfuffle
+- sharbert
+- fornax
 
-Be sure to match against uppercase versions of the words as well, but not punctuation. "Sharbert!" does *not* need to be replaced, we'll consider it a different word due to the exclamation point. Finally, instead of the `valid` boolean, your handler should return the cleaned version of the text in a JSON response:
+Be sure to match against uppercase versions of the words as well, but not punctuation. "Sharbert!" does _not_ need to be replaced, we'll consider it a different word due to the exclamation point. Finally, instead of the `valid` boolean, your handler should return the cleaned version of the text in a JSON response:
 
 **Example input**
 
 ```json
 {
-    "body": "This is a kerfuffle opinion I need to share with the world"
+  "body": "This is a kerfuffle opinion I need to share with the world"
 }
 ```
 
@@ -796,28 +794,28 @@ Be sure to match against uppercase versions of the words as well, but not punctu
 
 ```json
 {
-    "cleaned_body": "This is a **** opinion I need to share with the world"
+  "cleaned_body": "This is a **** opinion I need to share with the world"
 }
 ```
 
 **Tips**
 
-*Use an HTTP client like [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) to test your POST requests.*
+_Use an HTTP client like [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) to test your POST requests._
 
 I'd recommend creating two helper functions:
 
-* `respondWithError(w http.ResponseWriter, code int, msg string)`
-* `respondWithJSON(w http.ResponseWriter, code int, payload interface{})`
+- `respondWithError(w http.ResponseWriter, code int, msg string)`
+- `respondWithJSON(w http.ResponseWriter, code int, payload interface{})`
 
-These helpers are not *required* but might help [DRY](https://blog.boot.dev/clean-code/dry-code/) up your code when we add more endpoints in the future.
+These helpers are not _required_ but might help [DRY](https://blog.boot.dev/clean-code/dry-code/) up your code when we add more endpoints in the future.
 
 I'd also recommend breaking the bad word replacement into a separate function. You can even write some unit tests for it!
 
 Here are some useful standard library functions:
 
-* [strings.ToLower](https://pkg.go.dev/strings#ToLower)
-* [strings.Split](https://pkg.go.dev/strings#Split)
-* [strings.Join](https://pkg.go.dev/strings#Join)
+- [strings.ToLower](https://pkg.go.dev/strings#ToLower)
+- [strings.Split](https://pkg.go.dev/strings#Split)
+- [strings.Join](https://pkg.go.dev/strings#Join)
 
 ## Storage
 
@@ -965,7 +963,7 @@ Here are some useful standard library functions to know about:
 
 **Database Review**
 
-As we talked about, *normally* you would use database software to store your data on disk. Your Go code would connect to a database using a library like [database/sql](https://pkg.go.dev/database/sql) and use SQL commands to query the database.
+As we talked about, _normally_ you would use database software to store your data on disk. Your Go code would connect to a database using a library like [database/sql](https://pkg.go.dev/database/sql) and use SQL commands to query the database.
 
 Sometimes that database runs on the same host machine as your server, but it's also common to have a separate database server that your server connects to over the network.
 
@@ -973,26 +971,26 @@ Sometimes that database runs on the same host machine as your server, but it's a
 
 **What is a database?**
 
-We'll talk more about databases in the future, but I chose to use a flat JSON file for this course because, at the end of the day, a "database" is just software that's optimized to *efficiently* store and retrieve data from disk, and I really want to drive that point home.
+We'll talk more about databases in the future, but I chose to use a flat JSON file for this course because, at the end of the day, a "database" is just software that's optimized to _efficiently_ store and retrieve data from disk, and I really want to drive that point home.
 
 **Popular databases**
 
 You don't need to know about these yet, but you might be curious about some of these technologies. Feel free to read about them if you have some spare time:
 
-* [PostgreSQL](https://www.postgresql.org/): A fantastic open-source SQL database.
-* [MySQL](https://www.mysql.com/): Another open-source SQL database. Less fantastic IMO.
-* [MongoDB](https://www.mongodb.com/): A popular open-source NoSQL document database.
-* [Firebase](https://firebase.google.com/): A popular cloud-based NoSQL database service.
+- [PostgreSQL](https://www.postgresql.org/): A fantastic open-source SQL database.
+- [MySQL](https://www.mysql.com/): Another open-source SQL database. Less fantastic IMO.
+- [MongoDB](https://www.mongodb.com/): A popular open-source NoSQL document database.
+- [Firebase](https://firebase.google.com/): A popular cloud-based NoSQL database service.
 
 Feel free to browse [DB Engine](https://db-engines.com/en/ranking) if you want to dive deeper into the world of database technologies.
 
 **Get**
 
-Request sizes can get out of control quickly if users need to download *every chirp in the database* each time they want to read one.
+Request sizes can get out of control quickly if users need to download _every chirp in the database_ each time they want to read one.
 
 **Assignment**
 
-Add a new endpoint to your server that allows users to get a *single* chirp by ID. The response should be a `200` status code and the chirp resource.
+Add a new endpoint to your server that allows users to get a _single_ chirp by ID. The response should be a `200` status code and the chirp resource.
 
 **GET /api/chirps/{chirpID}**
 
@@ -1011,12 +1009,12 @@ If the chirp does not exist, the server should return a `404` status code.
 
 **Make sure to delete your `database.json` file every time before you run the tests!!!** The tests assume that they start with a fresh database each time.
 
-* Use [http.Request.PathValue](https://pkg.go.dev/net/http#Request.PathValue) to get the `chirpID` from the request.
-* [strconv.Atoi](https://pkg.go.dev/strconv#Atoi) can be used to convert a string to an integer.
+- Use [http.Request.PathValue](https://pkg.go.dev/net/http#Request.PathValue) to get the `chirpID` from the request.
+- [strconv.Atoi](https://pkg.go.dev/strconv#Atoi) can be used to convert a string to an integer.
 
 **Collections and Singletons**
 
-We're building a *fairly* [RESTful API](https://restfulapi.net/).
+We're building a _fairly_ [RESTful API](https://restfulapi.net/).
 
 REST is a set of guidelines for how to build APIs. It's not a standard, but it's a set of conventions that many people follow. Not all back-end APIs are RESTful, but many are, and as a back-end developer you'll need to know how to build RESTful APIs.
 
@@ -1026,7 +1024,7 @@ In REST, it's conventional to name all of your endpoints after the resource that
 
 To get a collection of resources it's conventional to use a `GET` request to the plural name of the resource. That's why we use `GET /api/chirps` to get all of the chirps.
 
-To get a *singleton*, or a *single instance* of a resource, it's conventional to use a `GET` request to the plural name of the resource, followed by the `ID` of the resource. That's why we use `GET /api/chirps/1` to get the chirp with ID `1`.
+To get a _singleton_, or a _single instance_ of a resource, it's conventional to use a `GET` request to the plural name of the resource, followed by the `ID` of the resource. That's why we use `GET /api/chirps/1` to get the chirp with ID `1`.
 
 @[youtube](https://www.youtube.com/watch?v=YahE7cWw4p0)
 
@@ -1081,9 +1079,9 @@ Here's my recommendation: Add a `--debug` flag to your server that will delete t
 go build -o out && ./out --debug
 ```
 
-You can use the flag when testing *locally*, but the DevOps team at Chirpy can leave it out when deploying to production.
+You can use the flag when testing _locally_, but the DevOps team at Chirpy can leave it out when deploying to production.
 
-*This is optional, but I highly recommend it!*
+_This is optional, but I highly recommend it!_
 
 **Parsing command line flags in Go**
 
@@ -1096,15 +1094,15 @@ flag.Parse()
 
 ## Authentication with Passwords
 
-Authentication is the process of verifying *who* a user is. If you don't have a secure authentication system, your back-end systems will be open to attack!
+Authentication is the process of verifying _who_ a user is. If you don't have a secure authentication system, your back-end systems will be open to attack!
 
-Imagine if I could make an HTTP request to the YouTube API and upload a video to *your* channel. YouTube's authentication system prevents this from happening by verifying that I am who I say I am.
+Imagine if I could make an HTTP request to the YouTube API and upload a video to _your_ channel. YouTube's authentication system prevents this from happening by verifying that I am who I say I am.
 
 **Passwords**
 
 Passwords are a common way to authenticate users. You know how they work: When a user signs up for a new account, they choose a password. When they log in, they enter their password again. The server will then compare the password they entered with the password that was stored in the database.
 
-There are 2 *really important* things to consider when storing passwords:
+There are 2 _really important_ things to consider when storing passwords:
 
 1. **Storing passwords in plain text is awful.** If someone gets access to your database, they will be able to see all of your users' passwords. If you store passwords in plain text, you are giving away your users' passwords to anyone who gets access to your database.
 2. **Password strength matters.** If you allow users to choose weak passwords, they will be more likely to reuse the same password on other websites. If someone gets access to your database, they will be able to log in to your users' other accounts.
@@ -1113,9 +1111,9 @@ We won't be writing code to validate password strength in this course, but you g
 
 **Hashing**
 
-On the other hand, we *will* be writing code to store passwords in a way that prevents them from being read by anyone who gets access to your database. This is called *hashing*. Hashing is a one-way function. It takes a string as input and produces a string as output. The output string is called a *hash*.
+On the other hand, we _will_ be writing code to store passwords in a way that prevents them from being read by anyone who gets access to your database. This is called _hashing_. Hashing is a one-way function. It takes a string as input and produces a string as output. The output string is called a _hash_.
 
-We'll cover how hashing works in-depth in a later course. For now, just know that hashing is a way to store passwords in a way that prevents them from being read by anyone who gets access to your database, but still allows us to *compare* passwords when a user logs in.
+We'll cover how hashing works in-depth in a later course. For now, just know that hashing is a way to store passwords in a way that prevents them from being read by anyone who gets access to your database, but still allows us to _compare_ passwords when a user logs in.
 
 **Assignment**
 
@@ -1127,23 +1125,23 @@ Update the body parameters for this endpoint to include a new `password` field:
 
 ```json
 {
-    "password": "04234",
-    "email": "lane@example.com"
+  "password": "04234",
+  "email": "lane@example.com"
 }
 ```
 
-*Note: As long as your server uses HTTPS in production, it's safe to send passwords in HTTP bodies, because the entire request is encrypted.*
+_Note: As long as your server uses HTTPS in production, it's safe to send passwords in HTTP bodies, because the entire request is encrypted._
 
 Hash the password using the [bcrypt.GenerateFromPassword](https://pkg.go.dev/golang.org/x/crypto/bcrypt#GenerateFromPassword) function. [Bcrypt](https://blog.boot.dev/cryptography/bcrypt-step-by-step/) is a secure hash function that is intended to be used with passwords.
 
 Be sure to store the hashed password in the database as you create the user.
 
-The response from this endpoint should *not* include the password.
+The response from this endpoint should _not_ include the password.
 
 ```json
 {
-    "id": 1,
-    "email": "lane@example.com"
+  "id": 1,
+  "email": "lane@example.com"
 }
 ```
 
@@ -1155,8 +1153,8 @@ The login endpoint should accept this request body:
 
 ```json
 {
-    "password": "04234",
-    "email": "lane@example.com"
+  "password": "04234",
+  "email": "lane@example.com"
 }
 ```
 
@@ -1170,8 +1168,8 @@ If the passwords match, return a `200 OK` response and a copy of the user resour
 
 ```json
 {
-    "id": 1,
-    "email": "lane@example.com"
+  "id": 1,
+  "email": "lane@example.com"
 }
 ```
 
@@ -1179,15 +1177,15 @@ If the passwords match, return a `200 OK` response and a copy of the user resour
 
 It's a really bad idea for users to reuse the same passwords across sites. If someone figures out their password for one site, they can try it on other sites. If they get lucky, they can log in to and compromise many of their accounts.
 
-Unfortunately, it's very common for users to reuse passwords. We can't *force* users to not reuse passwords on the server side, but we can take steps to make it harder for them to reuse passwords. Namely, we can require that passwords are strong.
+Unfortunately, it's very common for users to reuse passwords. We can't _force_ users to not reuse passwords on the server side, but we can take steps to make it harder for them to reuse passwords. Namely, we can require that passwords are strong.
 
 **Passwords should be strong**
 
-The most important factor for the strength of a password is its *entropy*. [Entropy](https://blog.boot.dev/cryptography/what-is-entropy-in-cryptography/) is a measure of how many possible combinations of characters there are in a string. To put it simply:
+The most important factor for the strength of a password is its _entropy_. [Entropy](https://blog.boot.dev/cryptography/what-is-entropy-in-cryptography/) is a measure of how many possible combinations of characters there are in a string. To put it simply:
 
-* The longer the password the better
-* Special characters and capitals should always be allowed
-* Special characters and capitals aren't as important as length
+- The longer the password the better
+- Special characters and capitals should always be allowed
+- Special characters and capitals aren't as important as length
 
 ![password strength](https://imgs.xkcd.com/comics/password_strength.png)
 
@@ -1195,7 +1193,7 @@ The most important factor for the strength of a password is its *entropy*. [Entr
 
 **Passwords should never be stored in plain text**
 
-The most critical thing we can do to protect our users' passwords is to *never* store them in plain text. We should use cryptographically strong key derivation functions (which are a special class of hash functions) to store passwords in a way that prevents them from being read by anyone who gets access to your database.
+The most critical thing we can do to protect our users' passwords is to _never_ store them in plain text. We should use cryptographically strong key derivation functions (which are a special class of hash functions) to store passwords in a way that prevents them from being read by anyone who gets access to your database.
 
 [Bcrypt](https://blog.boot.dev/cryptography/bcrypt-step-by-step/) is a great choice. [SHA-256](https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/) and [MD5](https://en.wikipedia.org/wiki/MD5) are not.
 
@@ -1218,7 +1216,7 @@ That said, it's a valid choice.
 
 3rd party authentication is a way to authenticate users using a service like Google or GitHub (similarly to how we do it here on Boot.dev). 3rd party auth is great for user experience because it allows users to use their existing accounts to log in to your app, lowering friction.
 
-It's also nice because you don't need to worry about storing passwords yourself, meaning you can outsource the security of your users' passwords to a company that *hopefully* does a good job.
+It's also nice because you don't need to worry about storing passwords yourself, meaning you can outsource the security of your users' passwords to a company that _hopefully_ does a good job.
 
 The only real drawback to 3rd party auth is that you're trusting a 3rd party, and if your users don't have an account with that 3rd party, they won't be able to log in.
 
@@ -1246,7 +1244,7 @@ There are several different ways to handle authentication. We'll be using [JWTs]
 
 **Step 1: Login**
 
-It would be pretty annoying if you had to enter your username and password every time you wanted to make a request to an API. Instead, after a user enters a username and password, our server should respond with a *token* (JWT) that's saved in the client's device.
+It would be pretty annoying if you had to enter your username and password every time you wanted to make a request to an API. Instead, after a user enters a username and password, our server should respond with a _token_ (JWT) that's saved in the client's device.
 
 The token remains valid until it expires at which point the user will need to log in again.
 
@@ -1258,7 +1256,7 @@ When the user wants to make a request to the API, they send the token along with
 
 A JWT is a JSON Web Token. It's a cryptographically signed JSON object that contains information about the user. You'll learn about how the cryptography of JWTs work in our [Learn Cryptography](https://boot.dev/courses/learn-cryptography) course, for now, it's just important to know that once the token is created by the server, the data in the token can't be changed without the server knowing.
 
-*When your server issues a JWT to Bob, bob can use that token to make requests as Bob to your API. Bob won't be able to change the token to make requests as Alice.*
+_When your server issues a JWT to Bob, bob can use that token to make requests as Bob to your API. Bob won't be able to change the token to make requests as Alice._
 
 **Assignment**
 
@@ -1266,23 +1264,23 @@ Update the `POST /api/login` endpoint, and create a new `PUT /api/users` endpoin
 
 **POST /login**
 
-This endpoint should accept a new *optional* `expires_in_seconds` field in the request body:
+This endpoint should accept a new _optional_ `expires_in_seconds` field in the request body:
 
 ```json
 {
-    "password": "04234",
-    "email": "lane@example.com",
-    "expires_in_seconds": 2
+  "password": "04234",
+  "email": "lane@example.com",
+  "expires_in_seconds": 2
 }
 ```
 
 **JWT Secret**
 
-First, you'll need to create a *secret* for your server - the secret is used to sign and verify JWTs. By keeping it safe, no other servers will be able to create valid JWTs for your server.
+First, you'll need to create a _secret_ for your server - the secret is used to sign and verify JWTs. By keeping it safe, no other servers will be able to create valid JWTs for your server.
 
 Secrets shouldn't be stored in Git, just in case anyone malicious gains access to your repository. [Environment variables](https://en.wikipedia.org/wiki/Environment_variable) are simple key/value pairs that are available to the programs you run. They're a platform-agnostic way to store secrets and configuration information.
 
-We *could* manually set environment variables in our shell each time we start a session, but that's a pain. Instead, we'll store the secret in a gitignore'd file called `.env` at the root of the repo. That file should look like this:
+We _could_ manually set environment variables in our shell each time we start a session, but that's a pain. Instead, we'll store the secret in a gitignore'd file called `.env` at the root of the repo. That file should look like this:
 
 ```bash
 JWT_SECRET=your-secret-key
@@ -1313,45 +1311,44 @@ You'll want to store the `jwtSecret` in your `apiConfig` struct so that your han
 
 Create a JWT using [this JWT library](https://github.com/golang-jwt/jwt). Again, you'll need to install the library. You'll need to:
 
-* Use [jwt.NewWithClaims](https://pkg.go.dev/github.com/golang-jwt/jwt/v5#NewWithClaims) to create a new token.
-  * Use [jwt.SigningMethodHS256](https://pkg.go.dev/github.com/golang-jwt/jwt/v5#SigningMethodHS256) as the signing method.
-  * Use [jwt.RegisteredClaims](https://pkg.go.dev/github.com/golang-jwt/jwt/v5#RegisteredClaims) as the claims.
-    * Set the `Issuer` to "chirpy"
-    * Set `IssuedAt` to the current time in UTC
-    * Set `ExpiresAt` to the current time plus the expiration time (`expires_in_seconds`)
-    * Set the `Subject` to a stringified version of the user's `id`
-  * Use [token.SignedString](https://pkg.go.dev/github.com/golang-jwt/jwt/v5#Token.SignedString) to sign the token with the secret key. Refer to [here](https://golang-jwt.github.io/jwt/usage/signing_methods/#signing-methods-and-key-types) for an overview of the different signing methods and their respective key types.
+- Use [jwt.NewWithClaims](https://pkg.go.dev/github.com/golang-jwt/jwt/v5#NewWithClaims) to create a new token.
+  - Use [jwt.SigningMethodHS256](https://pkg.go.dev/github.com/golang-jwt/jwt/v5#SigningMethodHS256) as the signing method.
+  - Use [jwt.RegisteredClaims](https://pkg.go.dev/github.com/golang-jwt/jwt/v5#RegisteredClaims) as the claims.
+    - Set the `Issuer` to "chirpy"
+    - Set `IssuedAt` to the current time in UTC
+    - Set `ExpiresAt` to the current time plus the expiration time (`expires_in_seconds`)
+    - Set the `Subject` to a stringified version of the user's `id`
+  - Use [token.SignedString](https://pkg.go.dev/github.com/golang-jwt/jwt/v5#Token.SignedString) to sign the token with the secret key. Refer to [here](https://golang-jwt.github.io/jwt/usage/signing_methods/#signing-methods-and-key-types) for an overview of the different signing methods and their respective key types.
 
-
-`expires_in_seconds` is an *optional* parameter. If it's specified by the client, use it as the expiration time. If it's not specified, use a default expiration time of 24 hours. If the client specified a number over 24 hours, use 24 hours as the expiration time.
+`expires_in_seconds` is an _optional_ parameter. If it's specified by the client, use it as the expiration time. If it's not specified, use a default expiration time of 24 hours. If the client specified a number over 24 hours, use 24 hours as the expiration time.
 
 Once you have the token, respond to the request with a `200` code and this body shape:
 
 ```json
 {
-    "id": 1,
-    "email": "lane@example.com",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+  "id": 1,
+  "email": "lane@example.com",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
 }
 ```
 
 **PUT `/api/users`**
 
-This endpoint should *update* a user's email and password.
+This endpoint should _update_ a user's email and password.
 
-This is our first *authenticated endpoint*, which means it will require a JWT to be present in the request headers:
+This is our first _authenticated endpoint_, which means it will require a JWT to be present in the request headers:
 
 ```
 Authorization: Bearer <token>
 ```
 
-Notice that there is *not* an `id` in the path, that's because we already know the `id` of the user from the JWT in the headers.
+Notice that there is _not_ an `id` in the path, that's because we already know the `id` of the user from the JWT in the headers.
 
 **Validating the JWT**
 
 First, extract the token from the request headers using [r.Header.Get](https://pkg.go.dev/net/http#Header.Get). Remember, you'll need to strip off the `Bearer ` prefix.
 
-Next, use the [jwt.ParseWithClaims](https://pkg.go.dev/github.com/golang-jwt/jwt/v5#ParseWithClaims) function to validate the signature of the JWT and extract the claims into a [*jwt.Token](https://pkg.go.dev/github.com/golang-jwt/jwt/v5#Token) struct. An error will be returned if the token is invalid or has expired. If the token is invalid, return a `401 Unauthorized` response.
+Next, use the [jwt.ParseWithClaims](https://pkg.go.dev/github.com/golang-jwt/jwt/v5#ParseWithClaims) function to validate the signature of the JWT and extract the claims into a [\*jwt.Token](https://pkg.go.dev/github.com/golang-jwt/jwt/v5#Token) struct. An error will be returned if the token is invalid or has expired. If the token is invalid, return a `401 Unauthorized` response.
 
 If all is well with the token, use the [token.Claims](https://pkg.go.dev/github.com/golang-jwt/jwt/v5#Claims) interface to get access to the user's `id` from the claims (which should be stored in the `Subject` field).
 
@@ -1361,8 +1358,8 @@ If the JWT was valid, you should now have the ID of the authenticated user. Use 
 
 ```json
 {
-    "email": "lane@example.com",
-    "password": "04234"
+  "email": "lane@example.com",
+  "password": "04234"
 }
 ```
 
@@ -1374,25 +1371,25 @@ After updating the user, return a copy of the updated user resource (without the
 
 **Access tokens**
 
-One of the main benefits of JWTs is that they're *stateless*. The server doesn't need to keep track of which users are logged in via JWT. The server just needs to issue a JWT to a user and the user can use that JWT to authenticate themselves. Statelessness is *fast and scalable*, your server doesn't need to consult a database to see if a user is currently logged in.
+One of the main benefits of JWTs is that they're _stateless_. The server doesn't need to keep track of which users are logged in via JWT. The server just needs to issue a JWT to a user and the user can use that JWT to authenticate themselves. Statelessness is _fast and scalable_, your server doesn't need to consult a database to see if a user is currently logged in.
 
 However, that same benefit poses a potential problem. JWTs can't be revoked. If a user's JWT is stolen, there's no easy way to stop the JWT from being used. JWTs are just a signed string of text.
 
-The JWTs we've been using so far are more specifically *access tokens*. Access tokens are used to authenticate a user to a server, and they provide *access* to protected resources. Access tokens are:
+The JWTs we've been using so far are more specifically _access tokens_. Access tokens are used to authenticate a user to a server, and they provide _access_ to protected resources. Access tokens are:
 
-* Stateless
-* Short-lived (15m-24h)
-* Irrevocable
+- Stateless
+- Short-lived (15m-24h)
+- Irrevocable
 
-They *must* be short-lived because they can't be revoked. The shorter the lifespan, the more secure they are. Trouble is, this can create a poor user experience. We don't want users to have to log in every 15 minutes.
+They _must_ be short-lived because they can't be revoked. The shorter the lifespan, the more secure they are. Trouble is, this can create a poor user experience. We don't want users to have to log in every 15 minutes.
 
 **#A solution: refresh tokens**
 
-Refresh tokens don't provide access to resources directly, but they can be used to get new access tokens. Refresh tokens are much longer lived, and importantly, they *can* be revoked. They are:
+Refresh tokens don't provide access to resources directly, but they can be used to get new access tokens. Refresh tokens are much longer lived, and importantly, they _can_ be revoked. They are:
 
-* Stateful
-* Long-lived (24h-60d)
-* Revocable
+- Stateful
+- Long-lived (24h-60d)
+- Revocable
 
 Now we get the best of both worlds! Our endpoints and servers that provide access to protected resources can use access tokens, which are fast, stateless, simple, and scalable. On the other hand, refresh tokens are used to keep users logged in for longer periods of time, and they can be revoked if a user's access token is compromised.
 
@@ -1402,7 +1399,7 @@ To allow our users to stay logged in for longer periods, let's add refresh token
 
 **Session store**
 
-In our case, a refresh token will just be a random 256-bit string. It's a *token*, but not a *JSON Web Token*. It doesn't need to be a JWT because we'll store it in our database and associate it with a user server-side. No point in using stateless JWTs if we're going to store them in a database anyway.
+In our case, a refresh token will just be a random 256-bit string. It's a _token_, but not a _JSON Web Token_. It doesn't need to be a JWT because we'll store it in our database and associate it with a user server-side. No point in using stateless JWTs if we're going to store them in a database anyway.
 
 To revoke a refresh token, we'll simply delete it from the database.
 
@@ -1410,9 +1407,9 @@ To revoke a refresh token, we'll simply delete it from the database.
 
 We need to:
 
-* Update the `POST /api/login` endpoint
-* Add the `POST /api/refresh` endpoint
-* Add the `POST /api/revoke` endpoint
+- Update the `POST /api/login` endpoint
+- Add the `POST /api/refresh` endpoint
+- Add the `POST /api/revoke` endpoint
 
 **POST /api/login**
 
@@ -1420,30 +1417,30 @@ The login endpoint should now return this shape:
 
 ```json
 {
-    "id": 1,
-    "email": "lane@example.com",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
-    "refresh_token": "56aa826d22baab4b5ec2cea41a59ecbba03e542aedbb31d9b80326ac8ffcfa2a"
+  "id": 1,
+  "email": "lane@example.com",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
+  "refresh_token": "56aa826d22baab4b5ec2cea41a59ecbba03e542aedbb31d9b80326ac8ffcfa2a"
 }
 ```
 
-* Access tokens (JWTs) should expire after 1 hour. Expiration time is stored in the `exp` claim.
-* Refresh tokens should expire after 60 days. Expiration time is stored in the database.
+- Access tokens (JWTs) should expire after 1 hour. Expiration time is stored in the `exp` claim.
+- Refresh tokens should expire after 60 days. Expiration time is stored in the database.
 
 I used the following standard library functions to generate the refresh tokens:
 
-* [rand.Read](https://pkg.go.dev/crypto/rand#Read) to generate 32 bytes (256 bits) of random data from the `crypto/rand` package (`math/rand`'s `Read` function is deprecated).
-* [hex.EncodeToString](https://pkg.go.dev/encoding/hex#EncodeToString) to convert the random data to a hex string
+- [rand.Read](https://pkg.go.dev/crypto/rand#Read) to generate 32 bytes (256 bits) of random data from the `crypto/rand` package (`math/rand`'s `Read` function is deprecated).
+- [hex.EncodeToString](https://pkg.go.dev/encoding/hex#EncodeToString) to convert the random data to a hex string
 
 **POST /api/refresh**
 
-This new endpoint does *not* accept a request body but *does* require a refresh token to be present in the headers, in the same `Authorization: Bearer <token>` format.
+This new endpoint does _not_ accept a request body but _does_ require a refresh token to be present in the headers, in the same `Authorization: Bearer <token>` format.
 
 Look up the token in the database. If it doesn't exist, or if it's expired, respond with a `401` status code. Otherwise, respond with a `200` code and this shape:
 
 ```json
 {
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
 }
 ```
 
@@ -1451,7 +1448,7 @@ The `token` field should be a newly created access token that expires in 1 hour.
 
 **POST /api/revoke**
 
-This new endpoint does *not* accept a request body but *does* require a refresh token to be present in the headers, in the same `Authorization: Bearer <token>` format.
+This new endpoint does _not_ accept a request body but _does_ require a refresh token to be present in the headers, in the same `Authorization: Bearer <token>` format.
 
 Revoke the token in the database that matches the token that was passed in the header of the request. Respond with a [`204` status code](https://www.rfc-editor.org/rfc/rfc9110.html#name-204-no-content). A 204 status means the request was successful but no body is returned.
 
@@ -1459,7 +1456,7 @@ Revoke the token in the database that matches the token that was passed in the h
 
 HTTP [cookies](https://en.wikipedia.org/wiki/HTTP_cookie) are one of the most talked about but least understood aspects of the web.
 
-When cookies are talked about in the news, they're usually implied to simply be privacy-stealing bad guys. While cookies can certainly invade your privacy, that's not what they *are*.
+When cookies are talked about in the news, they're usually implied to simply be privacy-stealing bad guys. While cookies can certainly invade your privacy, that's not what they _are_.
 
 **What is an HTTP cookie?**
 
@@ -1467,18 +1464,18 @@ A cookie is a small piece of data that a server sends to a client. The client th
 
 Cookies can store any arbitrary data:
 
-* A user's name, or other tracking information
-* A JWT (refresh and access tokens)
-* Items in a shopping cart
-* etc.
+- A user's name, or other tracking information
+- A JWT (refresh and access tokens)
+- Items in a shopping cart
+- etc.
 
-The server decides *what* to put in a cookie, and the client's job is simply to store it and send it back.
+The server decides _what_ to put in a cookie, and the client's job is simply to store it and send it back.
 
 **How do cookies work?**
 
 Simply put, cookies work through HTTP headers.
 
-Cookies are sent from the server to the client in the `Set-Cookie` header. Cookies are most popular for web (browser-based) applications because browsers *automatically* send any cookies they have back to the server in the `Cookie` header.
+Cookies are sent from the server to the client in the `Set-Cookie` header. Cookies are most popular for web (browser-based) applications because browsers _automatically_ send any cookies they have back to the server in the `Cookie` header.
 
 **Why aren't we using cookies in Chirpy?**
 
@@ -1490,7 +1487,7 @@ For example, when using [httpOnly cookies](https://developer.mozilla.org/en-US/d
 
 ## Authorization
 
-While authentication is about verifying *who* a user is, authorization is about verifying *what a user is allowed to do*.
+While authentication is about verifying _who_ a user is, authorization is about verifying _what a user is allowed to do_.
 
 For example, a user might be authenticated as `lane@example.com`, but that doesn't mean that they should be allowed to delete chirps authored by `allan@example.com`. Only the user who created the chirp should be allowed to delete it.
 
@@ -1508,11 +1505,11 @@ As we covered briefly, authentication and authorization are two different things
 
 **Authentication**
 
-Verify *who* a user is, typically by asking for a password, api key, or other credentials.
+Verify _who_ a user is, typically by asking for a password, api key, or other credentials.
 
 **Authorization**
 
-Only allow a verified user to perform actions that *they* are allowed to perform. Sometimes it's based on exactly who they are, but often it's based on a role, like "admin" or "owner".
+Only allow a verified user to perform actions that _they_ are allowed to perform. Sometimes it's based on exactly who they are, but often it's based on a role, like "admin" or "owner".
 
 **Delete Chirp**
 
@@ -1524,7 +1521,7 @@ This is an authenticated endpoint, so be sure to check the token in the header. 
 
 If the chirp is deleted successfully, return a `204` status code..
 
-*Note: for simplicity we set the chirp id to `len(dbStructure.Chirps) + 1`. Though the HTTP tests do not test for this, consider what happens if a user does not delete the most recent chirp. We will get an ID conflict!*
+_Note: for simplicity we set the chirp id to `len(dbStructure.Chirps) + 1`. Though the HTTP tests do not test for this, consider what happens if a user does not delete the most recent chirp. We will get an ID conflict!_
 
 ## Webhooks
 
@@ -1542,7 +1539,7 @@ That's it! The only real difference between a webhook and a typical `HTTP` reque
 
 **Idempo... what?**
 
-Idempotent, or "idempotence", is a fancy word that means "the same result no matter how many times you do it". For example, your typical `POST /api/users` (create a user) endpoint will *not* be idempotent. If you send the same request twice, you'll end up with two users with the same information but different IDs.
+Idempotent, or "idempotence", is a fancy word that means "the same result no matter how many times you do it". For example, your typical `POST /api/users` (create a user) endpoint will _not_ be idempotent. If you send the same request twice, you'll end up with two users with the same information but different IDs.
 
 Webhooks on the other hand should be idempotent, and it's typically easy to build them this way because it's the client that's sending some kind of "event", and they'll usually be providing their own unique ID.
 
@@ -1567,9 +1564,9 @@ This endpoint should accept a request body of this shape:
 }
 ```
 
-If the `event` is any *other* than `user.upgraded`, the endpoint should simply immediately respond with a `204` status code - we don't care about any other events.
+If the `event` is any _other_ than `user.upgraded`, the endpoint should simply immediately respond with a `204` status code - we don't care about any other events.
 
-However, if the `event` *is* `user.upgraded`, then it should then go update the user in the database, and mark that they are a Chirpy Red member.
+However, if the `event` _is_ `user.upgraded`, then it should then go update the user in the database, and mark that they are a Chirpy Red member.
 
 If the user is upgraded successfully, the endpoint should respond with a `204` status code and an empty response body. If the user can't be found, the endpoint should respond with a `404` status code.
 
@@ -1583,9 +1580,9 @@ The `is_chirpy_red` field should be present on all the endpoints that return a `
 
 A webhook is just an event that's sent to your server by an external service. There are just a couple of things to keep in mind when building a webhook handler:
 
-* The third-party system will probably retry requests multiple times, so your handler should be [idempotent](https://en.wikipedia.org/wiki/Idempotence)
-* Be extra careful to never "acknowledge" a webhook request unless you processed it successfully. By sending a `2XX` code, you're telling the third-party system that you processed the request successfully, and they'll stop retrying it.
-* When you're writing a server, you typically get to define the API. However, when you're integrating a webhook from a service like Stripe, you'll probably need to adhere to their API: they'll tell you what shape the events will be sent in.
+- The third-party system will probably retry requests multiple times, so your handler should be [idempotent](https://en.wikipedia.org/wiki/Idempotence)
+- Be extra careful to never "acknowledge" a webhook request unless you processed it successfully. By sending a `2XX` code, you're telling the third-party system that you processed the request successfully, and they'll stop retrying it.
+- When you're writing a server, you typically get to define the API. However, when you're integrating a webhook from a service like Stripe, you'll probably need to adhere to their API: they'll tell you what shape the events will be sent in.
 
 **Are webhooks and websockets the same thing?**
 
@@ -1629,11 +1626,11 @@ Of course not! You're a good person. You're going to write documentation.
 
 We've talked a lot about how your REST API should follow conventions as much as possible. That said, the conventions aren't enough. You still need to document your endpoints. Without documentation, no one will know:
 
-* Which resources are available
-* What the path to the endpoints are
-* Which HTTP methods are supported for each resource
-* What the shape of the data is for each resource
-* etc
+- Which resources are available
+- What the path to the endpoints are
+- Which HTTP methods are supported for each resource
+- What the shape of the data is for each resource
+- etc
 
 **Assignment**
 
@@ -1641,13 +1638,13 @@ One type of endpoint that's nearly impossible to interact with without documenta
 
 That's because they often have different sorting, filtering, and [pagination](https://developer.squareup.com/docs/build-basics/common-api-patterns/pagination) features.
 
-Update the `GET /api/chirps` endpoint. It should accept an *optional* query parameter called `author_id`. If the `author_id` query parameter is provided, the endpoint should return only the chirps for that author. If the `author_id` query parameter is not provided, the endpoint should return all chirps as it did before.
+Update the `GET /api/chirps` endpoint. It should accept an _optional_ query parameter called `author_id`. If the `author_id` query parameter is provided, the endpoint should return only the chirps for that author. If the `author_id` query parameter is not provided, the endpoint should return all chirps as it did before.
 
 For example:
 
 `GET http://localhost:8080/api/chirps?author_id=1`
 
-*Continue sorting the chirps by `id` in ascending order.*
+_Continue sorting the chirps by `id` in ascending order._
 
 **Tips**
 
@@ -1670,7 +1667,7 @@ Obviously, the first approach is easier to get going with if you have a small AP
 
 **Incorrect documentation is worse than no documentation.**
 
-At least when there is *no* documentation your clients will reach out and ask for clarification. When the documentation is incorrect, it can lead to a lot of wasted time and frustration.
+At least when there is _no_ documentation your clients will reach out and ask for clarification. When the documentation is incorrect, it can lead to a lot of wasted time and frustration.
 
 **Manually writing documentation**
 
@@ -1680,19 +1677,19 @@ When I've worked on smaller teams, we've generally opted to write our documentat
 
 I've also written and consumed APIs that have used:
 
-* [Swagger](https://swagger.io/)
-* [GraphQL](https://graphql.org/) (not RESTful, but still a networking API)
-* [Godoc](https://go.dev/blog/godoc) (which only works for REST APIs if you provide an SDK)
-* [Postman](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/) (only useful if your team all uses Postman as their HTTP client)
+- [Swagger](https://swagger.io/)
+- [GraphQL](https://graphql.org/) (not RESTful, but still a networking API)
+- [Godoc](https://go.dev/blog/godoc) (which only works for REST APIs if you provide an SDK)
+- [Postman](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/) (only useful if your team all uses Postman as their HTTP client)
 
-**Okay, but what should *I* do *now*?**
+**Okay, but what should _I_ do _now_?**
 
 I recommend writing documentation for your personal projects in Markdown files and storing them alongside the rest of your code in Git. Your project's README.md file is a great place to start, but it's also common for the README.md file to link to a `/docs` folder that contains more detailed documentation. The benefits are:
 
-* It's easy to get started writing docs
-* The documentation lives alongside your code, so it's easy to keep it up to date
-* You'll learn Markdown, which is a great skill to have
-* GitHub/GitLab will render your Markdown files for you, so your docs will look great
+- It's easy to get started writing docs
+- The documentation lives alongside your code, so it's easy to keep it up to date
+- You'll learn Markdown, which is a great skill to have
+- GitHub/GitLab will render your Markdown files for you, so your docs will look great
 
 @[youtube](https://www.youtube.com/watch?v=oqyCM8_r79w)
 
@@ -1704,19 +1701,19 @@ That said, this is the same concept, and works just fine for our little server.
 
 **Assignment**
 
-Update the `GET /api/chirps` endpoint. It should accept an *optional* query parameter called `sort`. It can have 2 possible values:
+Update the `GET /api/chirps` endpoint. It should accept an _optional_ query parameter called `sort`. It can have 2 possible values:
 
-* `asc` - Sort the chirps in the response by `id` in ascending order
-* `desc` - Sort the chirps in the response by `id` in descending order
+- `asc` - Sort the chirps in the response by `id` in ascending order
+- `desc` - Sort the chirps in the response by `id` in descending order
 
 `asc` is the default if no `sort` query parameter is provided.
 
 **Examples of valid URLs**
 
-* `GET http://localhost:8080/api/chirps?sort=asc&author_id=2`
-* `GET http://localhost:8080/api/chirps?sort=asc`
-* `GET http://localhost:8080/api/chirps?sort=desc`
-* `GET http://localhost:8080/api/chirps`
+- `GET http://localhost:8080/api/chirps?sort=asc&author_id=2`
+- `GET http://localhost:8080/api/chirps?sort=asc`
+- `GET http://localhost:8080/api/chirps?sort=desc`
+- `GET http://localhost:8080/api/chirps`
 
 **Adding a README**
 
@@ -1728,23 +1725,23 @@ We'll be adding a more in-depth module on building a professional GitHub profile
 
 **Do I have to put this on GitHub?**
 
-You *really should*. It doesn't necessarily *need* to be publicly visible, but it's good to keep copies of *all* of your code for future reference.
+You _really should_. It doesn't necessarily _need_ to be publicly visible, but it's good to keep copies of _all_ of your code for future reference.
 
 **Projects are your professional portfolio**
 
-When you start looking for jobs, you're going to want a couple of *great* projects on your GitHub or GitLab profile that show off your skills.
+When you start looking for jobs, you're going to want a couple of _great_ projects on your GitHub or GitLab profile that show off your skills.
 
-*This probably isn't one of those because you built it using a guide.*
+_This probably isn't one of those because you built it using a guide._
 
-That said, it may be wise to *treat* this project like one and get your feet wet with the process of presenting a project to the world.
+That said, it may be wise to _treat_ this project like one and get your feet wet with the process of presenting a project to the world.
 
 **How to present this project**
 
-When someone navigates to your project's link, the *first* thing they'll see is the `README.md` file. You should quickly and concisely explain:
+When someone navigates to your project's link, the _first_ thing they'll see is the `README.md` file. You should quickly and concisely explain:
 
-* What your project does
-* Why someone should care
-* How to install and run your project
+- What your project does
+- Why someone should care
+- How to install and run your project
 
 Take a look at one of my portfolio projects as an example: [go-rabbitmq](https://github.com/wagslane/go-rabbitmq).
 
