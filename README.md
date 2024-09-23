@@ -16,7 +16,7 @@ Make sure you have `npm` and the latest version of [hugo](https://gohugo.io/gett
 
 ```bash
 npm install
-npm serve
+npm run serve
 ```
 
 ## Check for broken links
@@ -24,7 +24,7 @@ npm serve
 In one terminal start the server on `localhost:1313`
 
 ```bash
-npm serve
+npm run serve
 ```
 
 Then run the check in another terminal:
