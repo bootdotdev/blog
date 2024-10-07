@@ -30,7 +30,9 @@ Now, let's talk about how to succeed with your work at Boot.dev.
 
 ## Add some flair, and be yourself
 
-- Don't use corporate language when chatting with students. Don't write content that presents facts without some personality. Regurgitating information is not useful in 2024 - information is everywhere. We're here to create an incredible experience, and that means every interaction we have with students should surprise and delight them. That means being yourself, and having a lot of fun with it.
+- Don't use corporate language when chatting with students.
+- Don't write content that presents facts without some personality. Regurgitating information is not useful in 2024 - information is everywhere.
+- We're here to create an incredible experience, and that means every interaction we have with students should surprise and delight them. That means being yourself, and having a lot of fun with it.
 
 ## Don't multitask
 
