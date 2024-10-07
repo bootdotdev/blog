@@ -36,7 +36,7 @@ The old [HTTP Servers course](https://www.boot.dev/courses/learn-http-servers) w
 - The Blog Aggregator course is now a CLI tool, which makes using and testing it _way_ easier and more fun
 - Both now have auto-reset functionality, so no more failed submissions due to a bad database state
 
-### 4. `10,185` Course Issue Tickets Closed
+### 4. As of Today, 10,185 Issue Tickets Closed
 
 You know that little "report issue" button on each lesson? We take those reports _very_ seriously. Over Boot.dev's lifespan, we've closed 10,185 of those tickets (which is actually fewer than the total number or _reports_ because we batch all the reports on a given lesson into a single ticket). Anyhow, thanks so much for all the feedback. We're always listening, and we spend as much time updating existing content as we do creating new content.
 
