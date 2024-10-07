@@ -37,12 +37,12 @@ Now, let's talk about how to succeed with your work at Boot.dev.
 ## Don't multitask
 
 - Multitasking is a lie and a waste of energy. Work on one thing, and finish that thing, then work on the next. Only switch if you're blocked, something else becomes more important, or you need a break from the current task (e.g. creative work). In the case of taking a break by working on something else, you should still only have 2-3 things **max** at a time.
-- Break projects down into small tasks. You should be completing mosts tasks in a day or less. If you're not able to, you're probably not breaking them down enough.
+- Break projects down into small tasks. You should be completing most tasks in a day or less. If you're not able to, you're probably not breaking them down enough.
 - Optimize for *delivery*. It's better to finish a task today than to get 25% of the way through your next one. Fewer things in-flight, higher frequency of completion.
 
 ## Decision making
 
-- Have an opinion, and fight for it. Change your mind when you're wrong. If you don't get your way, support the decisison that was made - don't sabotage. Disagree and commit.
+- Have an opinion, and fight for it. Change your mind when you're wrong. If you don't get your way, support the decision that was made - don't sabotage. Disagree and commit.
 - 90/10 rule in all things: Perfect is the enemy of done.
 - That said, quality is more important than quantity - but there are often ways to get 90% of the perceived quality in 10% of the time by understanding what really moves the needle.
 - Blast radius: If your plan fails, how bad is it really? You'd be surprised how many things have a teensy-tiny blast radius and yet people are scared to just go for it. This goes the other way as well: aim for asymmetrical risk/reward.
@@ -51,7 +51,7 @@ Now, let's talk about how to succeed with your work at Boot.dev.
 ## Figure it out
 
 - If you can't find the answer to a problem, dig more. Don't give up because you heard a soft no, or because the first couple google searches didn't yield amazing results. Dig more than you think you should. There is a point where it's not worth it to dig deeper, but most people give up before that point. Again, 90/10 rule, stop at diminishing returns.
-- Be really really resourceful. That doesn't mean you can't ask questions, but google it first, gippity it first, dig a little. Take unorthodox appraoches, and **do the weird manual thing**. Do the thing that doesn't scale. If you're trying to get in contact with someone, don't just email them, not get a response, and give up. Send them a follow up email. Find them on Twitter or LinkedIn. Find an office phone number. Come up with a better hook to get their attention. See if you know someone who knows them. Think it through and figure it out. People are surprisingly reachable if you're creative and persistent.
+- Be really really resourceful. That doesn't mean you can't ask questions, but google it first, gippity it first, dig a little. Take unorthodox approaches, and **do the weird manual thing**. Do the thing that doesn't scale. If you're trying to get in contact with someone, don't just email them, not get a response, and give up. Send them a follow up email. Find them on Twitter or LinkedIn. Find an office phone number. Come up with a better hook to get their attention. See if you know someone who knows them. Think it through and figure it out. People are surprisingly reachable if you're creative and persistent.
 - Don't make your problems someone else's problems. Do everything you can to make your coworkers' lives and jobs easier, not harder.
 
 ## How we collaborate
@@ -64,9 +64,9 @@ Now, let's talk about how to succeed with your work at Boot.dev.
 ## Use the product
 
 - It doesn't matter what your role is at Boot.dev - you should be learning on the platform. There isn't a single role here that can get away with not knowing a *lot* about our platform, product, and content.
-- Along the same lines, you should know our students. The best place for this is via the discord, but there are a lot of ways to get in touch with students - via email, in feature requests, bug tickets, or GitHub issues, on Twitter, in YouTube comments, or on calls with students. Sometimes its tempting to implement a tecnical solution to a problem, when the better *and faster and easier* solution is to just talk to the students and deal with it manually.
+- Along the same lines, you should know our students. The best place for this is via the discord, but there are a lot of ways to get in touch with students - via email, in feature requests, bug tickets, or GitHub issues, on Twitter, in YouTube comments, or on calls with students. Sometimes its tempting to implement a technical solution to a problem, when the better *and faster and easier* solution is to just talk to the students and deal with it manually.
 
 ## Don't stop learning
 
 - You should be personally growing and improving faster than Boot.dev is. If you're not, you'll get left behind.
-- You should be reading, watching, listing to talks and podcasts, and generally just learning all the time. Be a part of communities that practically force you to stay up to date. If you need a book or a course, we can get that for you. Don't expect best practices, great ideas, and experience to just come to you because the time on your resume is ticking up. You've got to be curious and geniunely enjoy getting better at what you do.
+- You should be reading, watching, listing to talks and podcasts, and generally just learning all the time. Be a part of communities that practically force you to stay up to date. If you need a book or a course, we can get that for you. Don't expect best practices, great ideas, and experience to just come to you because the time on your resume is ticking up. You've got to be curious and genuinely enjoy getting better at what you do.
