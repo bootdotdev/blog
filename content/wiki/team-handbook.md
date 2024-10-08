@@ -5,7 +5,7 @@ date: "2023-06-12"
 images:
   - "/img/800/groupofmages.webp"
 aliases:
-  - /team-culture
+  - /wiki/team-culture
 ---
 
 - Our goal: **To make the best place to learn to code.** The most effective, the most fun, and the most thorough.
@@ -20,11 +20,11 @@ Now, let's talk about how to succeed with your work at Boot.dev.
 - We care about how responsive and helpful we are to each other, not how many or which hours we're "online"
 - Work when it's most productive for you and your team. Optimize your schedule for productivity, not hours
 - Take PTO, and be smart about it. Avoid blocking others for long periods of time, missing deadlines, or letting work pile up while you're gone. Communicate and stay ahead of the important stuff.
-- We work *flexibly*, but not *less*.
-  
+- We work _flexibly_, but not _less_.
+
 ## Who we want to work with
 
-- We only want to work with **the best people** (like top 5%). Life's too short to work with mediocre people. That doesn't mean the most *experienced* people. But it does mean people who are *really good*, who *get better fast*, and who *go hard*.
+- We only want to work with **the best people** (like top 5%). Life's too short to work with mediocre people. That doesn't mean the most _experienced_ people. But it does mean people who are _really good_, who _get better fast_, and who _go hard_.
 - People who own their work. If your project isn't getting done on time, or it's not good enough - that's on you. Own it. We'll do everything we can to help, but you gotta take responsibility.
 - If you're not doing well, we'll let you know, and we'll work with you to improve. If it's still not going well, we'll part ways. Mediocre people are a cancer to a team, and they turn even the best people into mediocre people over time.
 
@@ -38,7 +38,7 @@ Now, let's talk about how to succeed with your work at Boot.dev.
 
 - Multitasking is a lie and a waste of energy. Work on one thing, and finish that thing, then work on the next. Only switch if you're blocked, something else becomes more important, or you need a break from the current task (e.g. creative work). In the case of taking a break by working on something else, you should still only have 2-3 things **max** at a time.
 - Break projects down into small tasks. You should be completing most tasks in a day or less. If you're not able to, you're probably not breaking them down enough.
-- Optimize for *delivery*. It's better to finish a task today than to get 25% of the way through your next one. Fewer things in-flight, higher frequency of completion.
+- Optimize for _delivery_. It's better to finish a task today than to get 25% of the way through your next one. Fewer things in-flight, higher frequency of completion.
 
 ## Decision making
 
@@ -57,14 +57,14 @@ Now, let's talk about how to succeed with your work at Boot.dev.
 ## How we collaborate
 
 - Anything that can be async, should be async. Don't turn something that should have been a GitHub reply or a Discord message into a meeting or a phone call.
-- When you owe someone something, *push* updates to them. I *hate* having to "poll" people on their project's status. Let people know when you're done if they're waiting on you, and give frequent updates if you're taking longer than expected.
+- When you owe someone something, _push_ updates to them. I _hate_ having to "poll" people on their project's status. Let people know when you're done if they're waiting on you, and give frequent updates if you're taking longer than expected.
 - If something is important, write it down. If it should be shared, take the time to share it well. Update an internal document, write a good GitHub issue, or post a well-thought-out Discord message. A lot of time can be saved by writing well.
 - Sometimes a quick real-time discussion is best - this tends to be the case when there are a lot of unknown unknowns, the requirements are still unclear. The more anticipated back and forth, the more likely a real-time discussion is best.
 
 ## Use the product
 
-- It doesn't matter what your role is at Boot.dev - you should be learning on the platform. There isn't a single role here that can get away with not knowing a *lot* about our platform, product, and content.
-- Along the same lines, you should know our students. The best place for this is via the discord, but there are a lot of ways to get in touch with students - via email, in feature requests, bug tickets, or GitHub issues, on Twitter, in YouTube comments, or on calls with students. Sometimes its tempting to implement a technical solution to a problem, when the better *and faster and easier* solution is to just talk to the students and deal with it manually.
+- It doesn't matter what your role is at Boot.dev - you should be learning on the platform. There isn't a single role here that can get away with not knowing a _lot_ about our platform, product, and content.
+- Along the same lines, you should know our students. The best place for this is via the discord, but there are a lot of ways to get in touch with students - via email, in feature requests, bug tickets, or GitHub issues, on Twitter, in YouTube comments, or on calls with students. Sometimes its tempting to implement a technical solution to a problem, when the better _and faster and easier_ solution is to just talk to the students and deal with it manually.
 
 ## Don't stop learning
 
