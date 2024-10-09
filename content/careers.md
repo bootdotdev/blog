@@ -9,9 +9,30 @@ lastmod: "2024-02-07"
 
 We're building the smartest way to master backend development by tackling the hardest problem with e-learning: boredom. We're a small team of developers who love to make the process of learning as fun and hands-on as it can be.
 
-If you're curious about our team culture, check out our [wiki page about it](/wiki/team-culture).
+If you're curious about what its like to work with us, check out our [public handbook](/wiki/team-handbook).
 
 ## Open positions
+
+### Director of Business Development & Sales
+
+- **Location**: Remote (US Timezones Preferred)
+- **Salary**: DOE
+- **Healthcare**: Yes if in the US
+- **PTO**: Unlimited
+- **Equity**: Yes, in the form of 4-year vesting stock options
+- **Years of experience**: 2-5+
+- **Type**: 12 week contract to hire (benefits and equity post-contract)
+
+We are looking for our first dedicated business development/sales hire to help us expand our reach beyond the direct-to-consumer market and continue exponentially growing Boot dev. You will be expected to help develop, test, implement and maintain programs selling our profuct to schools, boot camps, corporate training departments and similar organizations. You will also be expected to develop relationships with companies and organizations that allow us to market our services to their customers, members and employees. While you do not need to be a programmer, the ideal candidate will have some experience with coding and online learning platforms, and be familiar with the edtech and corporate training industries.
+
+We need a highly motivated and outgoing personality who shares our drive to eliminate boredom and make e-learning fun.
+
+**How to apply:**
+
+Send an email to `lane at boot .dev` with:
+
+- Your resume
+- A personal note about why you're a good fit
 
 ### Junior Video Editor/Animator
 
@@ -32,7 +53,7 @@ The majority of the work will be on the first channel, creating the 3-5 minute e
 
 We don't need someone with tons of experience, we need someone with great taste and that's able to get really good really fast.
 
-## How to apply
+**How to apply:**
 
 Send an email to `lane at boot .dev` with:
 
@@ -41,32 +62,3 @@ Send an email to `lane at boot .dev` with:
 - Links to your own work
 - A personal note about why you're a good fit
 - If you want to go above and beyond, try your hand at redoing one of our videos on the channel - see if you can do it better!
-
-## Our tech stack
-
-- Backend: Go, Docker, k8s, Postgres, GCP, Pub/Sub
-- Frontend: Nuxt/Vue 3, TypeScript, Tailwind, Pinia, Vite, Vercel
-- Blog: Hugo, Tailwind, Vercel, Git
-
-## Who you are
-
-We don't know you yet, but if you're going to enjoy working with us, you'll probably have some of the following traits:
-
-- You love to teach and share your knowledge with others
-- You like to hang out in Discord
-- You enjoy working remotely and are able to stay motivated without a boss looking over your shoulder
-- You like to build with the latest technologies and aren't afraid to learn new things
-- You get stuff done when no one is looking
-- You relentlessly ship projects that you're proud of
-- You're a good writer and can explain complex topics in simple terms
-- You love video games. Bonus points for DotA, Starcraft, World of Warcraft or Age of Empires
-- You love a good fantasy story. Bonus points for Lord of the Rings, Game of Thrones, and The Stormlight Archive
-
-## Other stuff to know
-
-- We've grown roughly 5x in the last year
-- We're profitable
-- Boot.dev was originally a side project, but we're now a full-time team of 9.
-- We do not have plans to raise more money. We want to grow responsibly and build a sustainable business that provides value to our students.
-- We like to play. We play video games, magic the gathering, eat together when possible and even take trips together when we hit our goals.
-- We don't have plans to quickly sell the company or go public. It could happen, but it's more likely that we'll distribute profits to the team and owners.
