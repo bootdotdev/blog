@@ -23,7 +23,7 @@ If you're curious about what its like to work with us, check out our [public han
 - **Years of experience**: 2-5+
 - **Type**: 12 week contract to hire (benefits and equity post-contract)
 
-We are looking for our first dedicated business development/sales hire to help us expand our reach beyond the direct-to-consumer market and continue exponentially growing Boot dev. You will be expected to help develop, test, implement and maintain programs selling our profuct to schools, boot camps, corporate training departments and similar organizations. You will also be expected to develop relationships with companies and organizations that allow us to market our services to their customers, members and employees. While you do not need to be a programmer, the ideal candidate will have some experience with coding and online learning platforms, and be familiar with the edtech and corporate training industries.
+We are looking for our first dedicated business development/sales hire to help us expand our reach beyond the direct-to-consumer market and continue exponentially growing Boot dev. You will be expected to help develop, test, implement and maintain programs selling our product to schools, boot camps, corporate training departments and similar organizations. You will also be expected to develop relationships with companies and organizations that allow us to market our services to their customers, members and employees. While you do not need to be a programmer, the ideal candidate will have some experience with coding and online learning platforms, and be familiar with the edtech and corporate training industries.
 
 We need a highly motivated and outgoing personality who shares our drive to eliminate boredom and make e-learning fun.
 
