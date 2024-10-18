@@ -13,11 +13,11 @@ draft: true
 
 I've been building a learning curriculum for backend developers for the last 3 years, but I've mostly been relying on qualitative feedback and my own intuitions.
 
-_Well now I have my own quantatative data_, and as the founder/grand magus of [Boot.dev](https://www.boot.dev), I'm gonna use it. I figured I'd also share it with you, if you're interested.
+_Well now I have my own quantitative data_, and as the founder/grand magus of [Boot.dev](https://www.boot.dev), I'm gonna use it. I figured I'd also share it with you, if you're interested.
 
 ## What is this report?
 
-This is primarily an info dump of our Boot.dev learners's stats (aggregated and anonymized of course) with some of my own commentary. Obviously, **I'll only include data that makes me look correct and smart**.
+This is primarily an info dump of our Boot.dev learners' stats (aggregated and anonymized of course) with some of my own commentary. Obviously, **I'll only include data that makes me look correct and smart**.
 
 ## High-level numbers
 
@@ -56,7 +56,7 @@ Here's a chart of lesson completions by month (blue bars) and active members (or
 
 Let's start at the beginning. **Where do people give up**?
 
-Here's the dropoff funnel of chapters 4-14 of the very first course: "[Learn to code with Python](https://www.boot.dev/courses/learn-python)".
+Here's the drop-off funnel of chapters 4-14 of the very first course: "[Learn to code with Python](https://www.boot.dev/courses/learn-python)".
 
 ![python chapter drop off](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/rRTiims.png)
 
@@ -415,15 +415,15 @@ What's interesting to me, is that if we aggregate by "count per use average", we
 
 ![unique users boots vs solutions](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/GZ0XzYY.png)
 
-I _think_ this is because people who do use the AI mentor, use it more - but fewer people use it overall (I'm guessing Posthog exludes the `0`'s from the average calculation's denominator).
+I _think_ this is because people who do use the AI mentor, use it more - but fewer people use it overall (I'm guessing Posthog excludes the `0`'s from the average calculation's denominator).
 
 Now here's my favorite part:
 
 ![boots solutions totals before/after](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/b7BKKEa.png)
 
-Boots is disproportinately more popular _before_ a student has completed a lesson, while viewing solutions are more popular _after_ the lesson is complete.
+Boots is disproportionately more popular _before_ a student has completed a lesson, while viewing solutions are more popular _after_ the lesson is complete.
 
-This finding aligns with our hunch: students prefer to be guided using the socratic method (which is what our AI is prompted to do) than to "cheat". However, once a lesson is complete, students like to see how the instructor solved the problem - more than they like to ask follow-up questions.
+This finding aligns with our hunch: students prefer to be guided using the Socratic method (which is what our AI is prompted to do) than to "cheat". However, once a lesson is complete, students like to see how the instructor solved the problem - more than they like to ask follow-up questions.
 
 ### Breaking it down by language
 
@@ -473,7 +473,7 @@ Of these, only `diagnose-enhancement` and `diagnose-bug` are actionable. Everyth
 
 Well, up until about a month ago, this diagnosing and responding was done manually. In fact, we only responded to students <5% of the time that we would have liked to, because it was so time consuming.
 
-However, now we use GPT-4o diagnose, and based on the diagnosis, provide a simple response to the student. The diagnosis is helpful for us, because we can more quickly close the ticket or start on a content change with confidence. The response is helpful for the student becauset they instantly understand that:
+However, now we use GPT-4o diagnose, and based on the diagnosis, provide a simple response to the student. The diagnosis is helpful for us, because we can more quickly close the ticket or start on a content change with confidence. The response is helpful for the student because they instantly understand that:
 
 1. This isn't the place to ask a question
 2. They are likely confused - the lesson is in fact correct, and they should more carefully inspect their code, chat with Boots, or view the solution.
@@ -519,13 +519,13 @@ type Person struct {
 
 What's this have to do with AI? Well, as it turns out, AI is really good at taking a larger, more well-written lesson and condensing it down to a spellbook entry. We've written a script that recursively generates spellbook pages for each lesson in a directory. It still requires human verification and touch ups of course, but it's a _lot_ faster than writing them from scratch.
 
-## Reseting lessons
+## Resetting lessons
 
 Students like to review stuff. Spellbooks will be nice for recall, but not so much for practice. In the future we have plans for a better "practice" experience, but the quick and dirty thing was to allow users to reset lessons. When they reset, progress bars and navigation are reset, but re-completing the same lessons does _not_ reward XP or chests.
 
 Since adding lesson resets (July 24th, 2024) until now, we've had 3,561,569 successful lesson submissions and 418,289 resets. **That's 11.7% of all successful lesson submissions**.
 
-I was actually blown away by this number - I thought it would be in the 2-3% range, but apparantly people like to redo lessons more than I thought.
+I was actually blown away by this number - I thought it would be in the 2-3% range, but apparently people like to redo lessons more than I thought.
 
 ## People like to RTFM
 
