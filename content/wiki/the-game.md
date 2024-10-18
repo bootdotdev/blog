@@ -106,15 +106,15 @@ Achievements recognize your accomplishments by unlocking a distinctive badge on 
 
 ## Streak Achievements
 
-You start a streak by passing your first assignment. You gain streak achievements by extending your streak to each achievement's set number of weeks. Every seven days you must pass a new assignment or lose your streak progress. You will not lose your streak achievements by losing your streak, but to gain the next streak achievement, you must start your streak over.
+You start a streak by passing your first assignment. You gain streak achievements by extending your streak to each achievement's set number of days. Every day you must pass a new assignment or lose your streak progress. You will not lose your streak achievements by losing your streak, but to gain the next streak achievement, you must start your streak over.
 
 ## How do I protect my streak?
 
-Frozen flames protects your current streak from being lost! If you fail to complete a new assignment within seven days of your latest assignment completion, and you have a frozen flame purchased, you will lose the frozen flame instead of losing your streak progress. You will have seven extra days to complete a new assignment or purchase another frozen flame.
+Frozen flames protects your current streak from being lost! If you fail to complete a new assignment before the end of the day after your latest assignment completion, and you have a frozen flame purchased, you will lose the frozen flame instead of losing your streak progress. You will have four extra days to complete a new assignment or purchase another frozen flame.
 
 ## Boss Events
 
-Boss Events are special, platform-wide events that occur once every few months at Boot.dev. During these events, the entire community comes together to take on a boss. By participating, members can earn bonus XP, chests, and progress towards their boss achievements. A minimum of 5,000 XP must be earned during the event to be eligible for boss rewards! These events are a great opportunity for collaboration with the community, as more students actively working on the platform increases the bonus XP for everyone! So encourage your friends in the community to jump in and code!
+Boss Events are special, platform-wide events that occur once every few months at Boot.dev. During these events, the entire community comes together to take on a boss. By participating, members can earn bonus XP, chests, and progress towards their boss achievements. A minimum of 5,000 XP must be earned during each stage of the event to be eligible for that stage's boss reward! These events are a great opportunity for collaboration with the community, as more students actively working on the platform increases the bonus XP for everyone! So encourage your friends in the community to jump in and code!
 
 ## Karma
 
