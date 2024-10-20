@@ -9,7 +9,7 @@ images:
 lastmod: "2023-01-25"
 ---
 
-In the context of back-end web development, an ID is just a unique identifier for a record of data. For example, each user on a website will its own ID. If the site is a social media platform, then each post will *also* have a unique ID.
+In the context of back-end web development, an ID is just a unique identifier for a record of data. For example, each user on a website will have its own ID. If the site is a social media platform, then each post will *also* have a unique ID.
 
 UUIDs are just a specific *kind* of ID. A universally unique identifier (UUID) is a 128-bit format for creating IDs in code that has become popular in recent years, especially when it comes to database keys. By using UUIDs, you ensure that your ID is not just unique in the context of a single database table, but is unique in the *universe*. No other ID in existence should be the same as yours.
 
