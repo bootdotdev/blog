@@ -8,7 +8,6 @@ images:
   - /img/800/bootsatdesk.png.webp
 imageAlts:
   - "Boots writing at a desk"
-draft: true
 ---
 
 I've been building a learning curriculum for backend developers for the last 3 years, but I've mostly been relying on qualitative feedback and my own intuitions.
@@ -25,11 +24,11 @@ I'm not trying to flaunt our growth numbers (but if you want to acquire Boot.dev
 
 ### User data
 
-| Metric                   | Value   | Description                                                 |
-| ------------------------ | ------- | ----------------------------------------------------------- |
-| Total Registered Users   | 336,271 | Everyone who has made an account, free or paid              |
-| Total Individual Members | 18,255  | Folks who are paying (or paid, or were gifted) a membership |
-| Total Team Members       | 193     | Folks who are part of a team membership                     |
+| Metric                   | Value   | Description                                        |
+| ------------------------ | ------- | -------------------------------------------------- |
+| Total Registered Users   | 336,271 | Everyone who has made an account, free or paid     |
+| Total Individual Members | 18,255  | Folks who are paying (or were gifted) a membership |
+| Total Team Members       | 193     | Folks who are part of a team membership            |
 
 ### Course data
 
