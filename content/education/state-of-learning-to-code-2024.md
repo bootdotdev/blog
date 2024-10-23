@@ -355,7 +355,7 @@ This feels _really close_ to what our students report - so let's roll with it. M
 | 0     | Learn Kubernetes                    | Deployments                     |
 | 0     | Learn Python                        | Challenges                      |
 
-### To simplify, let's aggregate all this data course:
+### To simplify, let's aggregate all this data by course:
 
 | Score | Course                              |
 | ----- | ----------------------------------- |
