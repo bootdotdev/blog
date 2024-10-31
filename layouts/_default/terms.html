@@ -11,7 +11,7 @@
     {{ range .Data.Terms }}
     <li>
       <a href="{{ .Page.RelPermalink }}"
-        class="cursor-pointer flex flex-col sm:flex-row p-4 my-4 hover:bg-gray-700 rounded-xl">
+        class="cursor-pointer flex flex-col sm:flex-row p-4 my-4 border border-gray-600 hover:border-yellow-500">
 
         <div class="flex-1">
           <div class="flex flex-row justify-between">
@@ -19,7 +19,7 @@
               {{ .Page.Title }}
             </h2>
 
-            <span class="leading-6 flex text-blue-400 items-center">
+            <span class="leading-6 flex underline items-center hover:opacity-70">
               Read more
               <svg class="relative mt-px overflow-visible ml-2.5 text-sky-300 dark:text-sky-700" width="3" height="6"
                 viewBox="0 0 3 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
