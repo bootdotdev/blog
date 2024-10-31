@@ -4,7 +4,7 @@
 
 @layer components {
   .textlink {
-    @apply cursor-pointer text-blue-350 underline hover:text-blue-250;
+    @apply cursor-pointer underline hover:opacity-70;
   }
 
   .block-button-primary {
