@@ -13,9 +13,9 @@
   {{ if eq .p1.RelPermalink .op.RelPermalink }}
   » {{ title .p1.Title }}
   {{ else if .p1.Parent }}
-  » <a class="text-blue-400 hover:text-blue-300 underline" href="{{ .p1.RelPermalink }}">{{ title .p1.Title }}</a>
+  » <a class="textlink" href="{{ .p1.RelPermalink }}">{{ title .p1.Title }}</a>
   {{ else }}
-  <a class="text-blue-400 hover:text-blue-300 underline" href="{{ .p1.RelPermalink }}">{{ title .p1.Title }}</a>
+  <a class="textlink" href="{{ .p1.RelPermalink }}">{{ title .p1.Title }}</a>
   {{ end }}
 </span>
 {{ end }}
