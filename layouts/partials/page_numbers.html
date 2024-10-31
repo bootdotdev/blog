@@ -13,7 +13,7 @@
 <!-- If there's more than one page. -->
 {{ if gt $.Paginator.TotalPages 1 }}
 
-<ul class="flex flex-row justify-evenly">
+<ul class="flex flex-row justify-evenly text-blue-400 hover:text-blue-300">
   <!-- Previous page. -->
   {{ if $.Paginator.HasPrev }}
   <a href="{{ $.Paginator.Prev.URL }}">

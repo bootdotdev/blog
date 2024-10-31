@@ -1,79 +1,32 @@
-<footer class="bg-black-textured mt-24">
+<footer class="mb-4">
   {{ with .Site.Params.footer }}
-  <div class="w-full bg-center mb-24 relative top-[-35px] bg-wooden-divider h-16">
+  <div class="py-4 flex justify-center">
+    <div class="border-t-2 border-gray-600 w-full max-w-3xl"></div>
   </div>
 
-  <section class="flex-end isolate box-border flex flex-col items-center gap-12 p-4">
-    <div class="flex flex-col items-center gap-4 p-0 lg:flex-row">
-      <a href="/categories/"><span>Categories</span></a>
-      <span class="hidden lg:block">-</span>
-      <a href="/contact/"><span>Contact</span></a>
-      <span class="hidden lg:block">-</span>
-      <a href="https://boot.dev/playground/go"><span>Playground</span></a>
-      <span class="hidden lg:block">-</span>
-      <a href="/about/"><span>About</span></a>
-    </div>
+  <main class="mb-4 flex justify-center flex-wrap">
+    <span>{{ replace . "{Year}" now.Year | markdownify}}</span>
+    <span class="mx-2">|</span>
+    <a href="/categories/"><span>Categories</span></a>
+    <span class="mx-2">|</span>
+    <a href="/contact/"><span>Contact</span></a>
+    <span class="mx-2">|</span>
+    <a href="https://boot.dev/playground/go"><span>Playground</span></a>
+    <span class="mx-2">|</span>
+    <a href="/about/"><span>About</span></a>
+  </main>
 
-
-    <div class="flex h-4 items-center gap-8 p-0">
-      <a href="https://twitter.com/bootdotdev" target="_blank" rel="noopener noreferrer"
-        class="order-1 flex-none flex-grow-0">
-        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24"
-          height="24" viewBox="0 0 24 24" xml:space="preserve" style="fill:currentColor">
-          <path
-            d="M14.095479,10.316482L22.286354,1h-1.940718l-7.115352,8.087682L7.551414,1H1l8.589488,12.231093L1,23h1.940717  l7.509372-8.542861L16.448587,23H23L14.095479,10.316482z M11.436522,13.338465l-0.871624-1.218704l-6.924311-9.68815h2.981339  l5.58978,7.82155l0.867949,1.218704l7.26506,10.166271h-2.981339L11.436522,13.338465z" />
-        </svg>
-      </a>
-
-      <a href="https://youtube.com/@bootdotdev" target="_blank" rel="noopener noreferrer"
-        class="order-1 flex-none flex-grow-0">
-        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32"
-          viewBox="0 0 461.001 461.001" xml:space="preserve" style="fill:currentColor">
-          <g>
-            <path d="M365.257,67.393H95.744C42.866,67.393,0,110.259,0,163.137v134.728
-          c0,52.878,42.866,95.744,95.744,95.744h269.513c52.878,0,95.744-42.866,95.744-95.744V163.137
-          C461.001,110.259,418.135,67.393,365.257,67.393z M300.506,237.056l-126.06,60.123c-3.359,1.602-7.239-0.847-7.239-4.568V168.607
-          c0-3.774,3.982-6.22,7.348-4.514l126.06,63.881C304.363,229.873,304.298,235.248,300.506,237.056z" />
-          </g>
-        </svg>
-      </a>
-
-      <a href="https://backendbanter.fm/" target="_blank" rel="noopener noreferrer"
-        class="order-1 flex-none flex-grow-0">
-        <svg height="24" width="24" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"
-          style="fill:currentColor">
-          <g>
-            <path
-              d="M3.56001 9.03018e-06C3.09221 -0.00104577 2.6288 0.0903164 2.19641 0.26885C1.76401 0.447383 1.37114 0.70957 1.04036 1.04036C0.70957 1.37114 0.447383 1.76401 0.26885 2.19641C0.0903164 2.6288 -0.00104577 3.09221 9.03018e-06 3.56001V12.44C-0.00104577 12.9078 0.0903164 13.3712 0.26885 13.8036C0.447383 14.236 0.70957 14.6289 1.04036 14.9597C1.37114 15.2904 1.76401 15.5526 2.19641 15.7312C2.6288 15.9097 3.09221 16.0011 3.56001 16H12.44C12.9078 16.0011 13.3712 15.9097 13.8036 15.7312C14.236 15.5526 14.6289 15.2904 14.9597 14.9597C15.2904 14.6289 15.5526 14.236 15.7312 13.8036C15.9097 13.3712 16.0011 12.9078 16 12.44V3.56001C16.0011 3.09221 15.9097 2.6288 15.7312 2.19641C15.5526 1.76401 15.2904 1.37114 14.9597 1.04036C14.6289 0.70957 14.236 0.447383 13.8036 0.26885C13.3712 0.0903164 12.9078 -0.00104577 12.44 9.03018e-06H3.56001ZM7.91001 1.71201C9.46734 1.71201 10.8753 2.31334 11.9473 3.43668C12.7633 4.28468 13.222 5.18268 13.4567 6.36468C13.5367 6.75801 13.5367 7.83134 13.4613 8.27401C13.2119 9.68101 12.4405 10.942 11.3013 11.8047C10.896 12.1113 9.90401 12.6453 9.74401 12.6453C9.68534 12.6453 9.68001 12.5847 9.70668 12.3387C9.75468 11.944 9.80268 11.862 10.0267 11.768C10.384 11.6187 10.992 11.1853 11.3653 10.8113C12.0162 10.1608 12.4788 9.34624 12.704 8.45401C12.8427 7.90468 12.8267 6.68334 12.672 6.11801C12.1867 4.32068 10.72 2.92334 8.92268 2.55001C8.40001 2.44334 7.45068 2.44334 6.92268 2.55001C5.10401 2.92334 3.60001 4.39001 3.14134 6.23534C3.01868 6.73668 3.01868 7.95801 3.14134 8.45934C3.44534 9.68068 4.23468 10.8007 5.26934 11.4673C5.47201 11.6007 5.71734 11.7393 5.81868 11.782C6.04268 11.878 6.09068 11.958 6.13334 12.3527C6.16001 12.5927 6.15334 12.662 6.09601 12.662C6.05868 12.662 5.78668 12.5447 5.49868 12.406L5.47201 12.386C3.82401 11.5753 2.76801 10.2033 2.38401 8.37801C2.28801 7.90734 2.27201 6.78334 2.36401 6.35134C2.60401 5.19134 3.06268 4.28468 3.82534 3.48201C4.92401 2.32401 6.33734 1.71134 7.91068 1.71134L7.91001 1.71201ZM7.99934 3.58534C8.27201 3.58801 8.53468 3.61201 8.73668 3.65601C10.5927 4.06934 11.91 5.92801 11.654 7.77201C11.5527 8.51468 11.2967 9.12534 10.8433 9.69201C10.6193 9.97868 10.0753 10.4587 9.97934 10.4587C9.96401 10.4587 9.94734 10.2773 9.94734 10.0567V9.65334L10.2247 9.32268C11.27 8.07068 11.1953 6.32134 10.054 5.17334C9.61134 4.72668 9.09934 4.46401 8.43801 4.34268C8.01134 4.26401 7.92068 4.26401 7.47268 4.33734C6.79268 4.44868 6.26601 4.71201 5.79801 5.17468C4.65134 6.31068 4.57668 8.06934 5.62201 9.32268L5.89734 9.65334V10.0587C5.89734 10.2827 5.87934 10.464 5.85734 10.464C5.83734 10.464 5.68134 10.3573 5.51601 10.224L5.49334 10.2167C4.93868 9.77401 4.44801 8.98868 4.24534 8.21868C4.12268 7.75334 4.12268 6.86934 4.25068 6.40534C4.58668 5.15334 5.50934 4.18201 6.78934 3.72601C7.06268 3.62934 7.54534 3.57934 7.99934 3.58534ZM7.91268 5.57868C8.11934 5.57868 8.32601 5.61868 8.47534 5.69734C8.80068 5.86601 9.06734 6.19401 9.16868 6.53668C9.47801 7.58868 8.36334 8.51001 7.35534 8.03934H7.34534C6.87068 7.81868 6.61468 7.40201 6.60934 6.85934C6.60934 6.37068 6.88134 5.94534 7.35068 5.69601C7.50001 5.61801 7.70601 5.57868 7.91268 5.57868ZM7.90534 8.73068C8.56401 8.72801 9.04268 8.96334 9.21868 9.37734C9.35068 9.68668 9.30134 10.6653 9.07334 12.2453C8.91868 13.3493 8.83334 13.628 8.62001 13.816C8.32668 14.076 7.91068 14.148 7.51601 14.008H7.51401C7.03668 13.8367 6.93401 13.6047 6.73801 12.2453C6.51068 10.6653 6.46068 9.68668 6.59268 9.37734C6.76734 8.96668 7.24201 8.73334 7.90601 8.73068H7.90534Z" />
-          </g>
-        </svg>
-      </a>
-
-      <a href="https://www.linkedin.com/school/bootdotdev" target="_blank" rel="noopener noreferrer"
-        class="order-1 flex-none flex-grow-0">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill:currentColor">
-          <path :fill="color"
-            d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
-        </svg>
-      </a>
-    </div>
-
-    <a href="https://boot.dev" target="_blank" rel="noopener noreferrer">
-      <img src="/img/300/bootdev-logo-full-small.png" width="136" densities="1x 2x" alt="boot.dev" />
-    </a>
-
-    <div class="flex-start flex flex-col justify-center gap-8 p-0 lg:flex-row text-center">
-      <a href="/sitemap.xml"><span>Sitemap</span></a>
-      <a href="/index.xml"><span>RSS</span></a>
-      <a href="/faq/"><span>FAQ</span></a>
-      <a href="/terms/"><span>TOS</span></a>
-      <a href="/privacy/"><span>Privacy</span></a>
-    </div>
-
-    <span class="text-center text-gray-400 mb-24">
-      © Boot.dev 2024
-    </span>
-  </section>
+  <main class="mb-4 flex justify-center flex-wrap">
+    <a href="/sitemap.xml"><span>Sitemap</span></a>
+    <span class="mx-2">|</span>
+    <a href="/index.xml"><span>RSS</span></a>
+    <span class="mx-2">|</span>
+    <a href="/faq/"><span>FAQ</span></a>
+    <span class="mx-2">|</span>
+    <a href="/terms/"><span>TOS</span></a>
+    <span class="mx-2">|</span>
+    <a href="/privacy/"><span>Privacy</span></a>
+  </main>
   {{ end }}
 </footer>
 </body>
