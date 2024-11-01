@@ -2,14 +2,14 @@
 title: "What Are Golang's Anonymous Structs?"
 author: Lane Wagner
 date: "2020-04-21"
-categories: 
+categories:
   - "clean-code"
   - "golang"
 images:
   - /img/800/Golangs_Anonymous_Structs.webp
 ---
 
-An anonymous struct is just like a normal struct, but it is defined *without a name* and therefore *cannot be referenced* elsewhere in the code.
+An anonymous struct is just like a normal struct, but it is defined _without a name_ and therefore _cannot be referenced_ elsewhere in the code.
 
 Structs in Go are similar to structs in other languages like C. They have typed collections of fields and are used to group data to make it more manageable for us as programmers.
 
@@ -45,13 +45,13 @@ newCar := car{
 }
 ```
 
-If you're interested in doing a deep dive into the Go programming language, check out my ["Learn Go" course on Boot.dev](https://boot.dev/courses/learn-golang).
+If you're interested in doing a deep dive into the Go programming language, check out my ["Learn Go" course on Boot.dev](https://www.boot.dev/courses/learn-golang).
 
 ## When should I use an anonymous struct?
 
 I often use anonymous structs to [marshal and unmarshal JSON data](/golang/json-golang/) in HTTP handlers. If a struct is only meant to be used once, then it makes sense to declare it in such a way that developers down the road won't be tempted to accidentally use it again.
 
-Take a look at the code below. We can marshal the [HTTP request](https://boot.dev/courses/learn-http) directly into an unnamed struct inline. All the fields are still accessible via the dot operator, but we don't have to worry about another part of our project trying to use a type that wasn't intended for it.
+Take a look at the code below. We can marshal the [HTTP request](https://www.boot.dev/courses/learn-http-clients-golang) directly into an unnamed struct inline. All the fields are still accessible via the dot operator, but we don't have to worry about another part of our project trying to use a type that wasn't intended for it.
 
 ```go
 func createCarHandler(w http.ResponseWriter, req *http.Request) {
@@ -74,7 +74,7 @@ func createCarHandler(w http.ResponseWriter, req *http.Request) {
 
 ### Don't use `map[string]interface{}` for JSON data if you can avoid it.
 
-Instead of declaring a quick anonymous struct for JSON unmarshalling, I've often seen `map[string]interface{}` used. This is *terrible* in most scenarios for several reasons:
+Instead of declaring a quick anonymous struct for JSON unmarshalling, I've often seen `map[string]interface{}` used. This is _terrible_ in most scenarios for several reasons:
 
 1. **No type checking.** If the client sends a key called "name" with a `bool` value, but your code is expecting a `string`, then unmarshalling into a map won't catch the error
 2. **Maps are vague.** After unmarshalling the data, we are forced to use runtime checks to make sure the data we care about exists. If those checks aren't thorough, it can lead to a nil pointer dereference panic being thrown.
@@ -112,7 +112,7 @@ Anonymous structs are great for writing [table driven tests](https://dave.cheney
 var cars = []struct {
     make string
     model string
-    topSpeed 
+    topSpeed
 }{
     {"toyota", "camry", 100},
     {"tesla", "model 3", 250},

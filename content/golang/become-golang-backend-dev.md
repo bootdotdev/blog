@@ -2,7 +2,7 @@
 title: "How to Become a Golang Engineer (on the Back-End)"
 author: Natalie Schooner
 date: "2023-02-23"
-categories: 
+categories:
   - "golang"
   - "backend"
 images:
@@ -11,7 +11,7 @@ images:
 
 > "Guys, I've got an idea. What if we could design a language that's easy to read like Python, but fast? That has a slim feature-set like C, but is good for web development? That's compiled like Java, but doesn't need a VM?"
 
-*A dramatic pause.*
+_A dramatic pause._
 
 > "Fellas, what if we could create a language that would go on to be one of the best, easiest, quickest, most fun languages for back-end development ever?"
 
@@ -31,9 +31,9 @@ Let's jump in.
 
 Actually, let's take a brief pause. You may not yet be convinced that Go is, in fact, a backend language. Let's take a minute to reiterate why and how it is. I've already written a comprehensive blog post on the subject of whether [Go is a backend language](/golang/golang-frontend-or-backend/), so I'll just quote myself. There are three key reasons why Go is so great for the back end specifically:
 
-* Go has built-in concurrency called "goroutines". This means it can multitask, which is important for implementing high-performance servers and networked applications.
-* Networking. Go has a robust standard library that offers support for plenty of common backend networking tasks, like HTTP handling and TLS (Transport Layer Security) encryption.
-* Go goes fast. Go is famous for its rapid compilation times and efficient runtime performance, which is great for backend applications that need to handle a high volume of requests.
+- Go has built-in concurrency called "goroutines". This means it can multitask, which is important for implementing high-performance servers and networked applications.
+- Networking. Go has a robust standard library that offers support for plenty of common backend networking tasks, like HTTP handling and TLS (Transport Layer Security) encryption.
+- Go goes fast. Go is famous for its rapid compilation times and efficient runtime performance, which is great for backend applications that need to handle a high volume of requests.
 
 Also, it was literally built by Google for use in Google's backend. It's hard to get back-endier than that.
 
@@ -124,9 +124,9 @@ Sure you've got the hang of it? Let's find out:
 
 If you do find yourself struggling with any of these concepts, here are a few resources to help you out:
 
-1. [We've got a course for that](https://boot.dev/courses/learn-golang). Our Go course (part of our Backend track) covers these topics in some depth, in around 20h of material paired with 179 challenges and quizzes.
+1. [We've got a course for that](https://www.boot.dev/courses/learn-golang). Our Go course (part of our Backend track) covers these topics in some depth, in around 20h of material paired with 179 challenges and quizzes.
 2. [StackOverflow](https://stackoverflow.com/questions/tagged/go). You can bet any of these questions have been posed on StackOverflow, and a generous Go developer has written a comprehensive, useful answer.
-3. [Go's documentation](https://go.dev/). Google *wants* you to learn Go. They've put together some pretty great resources to teach you the basics.
+3. [Go's documentation](https://go.dev/). Google _wants_ you to learn Go. They've put together some pretty great resources to teach you the basics.
 
 ### Do I need to know any advanced Go topics specifically for back-end development?
 
@@ -170,10 +170,9 @@ Go is not a front-end language. For that reason, especially if you already know 
 
 Here are the key concepts you should be familiar with. You don't need to know these as well as what I mentioned in earlier sections, but have at least a passing familiarity with them.
 
-* **HTML and CSS**: This will help you understand how front-end developers create the structure and style of web pages.
+- **HTML and CSS**: This will help you understand how front-end developers create the structure and style of web pages.
 
-* **Javascript**: This will help you know how front-end developers add interactivity and functionality to web pages by querying... you guessed it, back-end APIs.
-
+- **Javascript**: This will help you know how front-end developers add interactivity and functionality to web pages by querying... you guessed it, back-end APIs.
 
 ## 3. Look at job postings
 
@@ -185,21 +184,21 @@ This is going to help you understand the deeper, more complex topics that will c
 
 As soon as you run into the mention of something you're not super familiar with, add it to a list and find tutorials on it. For example, [this opening](https://web.archive.org/web/20230222214933/https://www.remote.io/remote-software-development-jobs/software-engineer-fullstack-37034) mentions Kubernetes and Docker, two very popular back-end technologies. If this looks like a good job opp, you should ensure that you know how to [build a Docker image for a Go application](https://www.youtube.com/watch?v=UZup_YBK2Vg).
 
-This kind of technology shifts with some regularity * e.g., Spark and Hadoop used to be much more popular; they're waning now * so I recommend, whenever you're coming across this article, that you do your research to see what's current today.
+This kind of technology shifts with some regularity _ e.g., Spark and Hadoop used to be much more popular; they're waning now _ so I recommend, whenever you're coming across this article, that you do your research to see what's current today.
 
 ## 4. Investigate and practice related skills and technologies
 
 Maybe back-end development was once its own discipline. But in today's developer-poor job market, many jobs expect you to not just be a back-end developer, but also [have a hand in DevOps](/devops/backend-devops-roles-merging/), cloud engineering, and data engineering, among other disciplines.
 
-[This job](https://arc.dev/remote-jobs/details/go-developer-ft-freelance-worldwide-f9utu6q9g7), for example, also wants 2+ years of experience in database design. [This one](https://arc.dev/remote-jobs/j/mvi-group-gmbh-full-stack-developer-java-angular-ghw5adjhau) wants you to have comprehensive knowledge of CI/CD solutions, which are typically in the DevOps field.
+[This job](https://arc.dev/remote-jobs/details/go-developer-ft-freelance-worldwide-f9utu6q9g7), for example, also wants 2+ years of experience in database design. [This one](https://arc.dev/remote-jobs/j/mvi-group-gmbh-full-stack-developer-java-angular-ghw5adjhau) wants you to have comprehensive [knowledge of CI/CD](https://www.boot.dev/courses/learn-ci-cd-github-docker) solutions, which are typically in the DevOps field.
 
 You can't learn it all, but I recommend you dabble a bit in:
 
-* Systems admin
-* Database admin
-* [DevOps](/devops/devops-vs-cloud-engineers/)
-* Cloud Engineering
-* [DevSecOps](/devops/devops-vs-devsecops/)
+- Systems admin
+- Database admin
+- [DevOps](/devops/devops-vs-cloud-engineers/)
+- Cloud Engineering
+- [DevSecOps](/devops/devops-vs-devsecops/)
 
 And see which you like best. You won't be able to be a perfect match for every single Go back-end developer role, but you'll be a much stronger candidate in the fields that are the most fun for you.
 
@@ -209,22 +208,22 @@ You'll also need to get familiar with some of the most popular technologies and 
 
 #### Databases
 
-* PostgreSQL
-* SQLite
-* MySQL
-* MongoDB
-* Redis
-* Elasticsearch
-* Firebase
-* Cassandra
-* RabbitMQ
-* Kafka
-* Google PubSub
-* Docker
-* Kubernetes
-* AWS/GCP
+- PostgreSQL
+- SQLite
+- MySQL
+- MongoDB
+- Redis
+- Elasticsearch
+- Firebase
+- Cassandra
+- RabbitMQ
+- Kafka
+- Google PubSub
+- [Docker](https://www.boot.dev/courses/learn-docker)
+- [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)
+- AWS/GCP
 
-You don't need to be an expert on all of them, but at least try *some* of them, and figure out what they are from a high level. This [online flashcard game](https://prepcards.dev/) might help.
+You don't need to be an expert on all of them, but at least try _some_ of them, and figure out what they are from a high level. This [online flashcard game](https://prepcards.dev/) might help.
 
 Also, if you want to dive deeper into popular back-end technologies, check out our [article on that](/backend/top-backend-technologies/).
 
@@ -234,11 +233,11 @@ By now, you've got a comprehensive list of technologies, tools, and areas you wa
 
 Here are a few examples of personal projects you can take on to become a Go back-end developer.
 
-* **Develop a CLI tool**. Get experience building a standalone app that can interact with APIs, databases, and other backend systems. For example, we've got a great project that walks you through [how to build a Pokedex](https://boot.dev/courses/build-pokedex-cli) on the command line in Go.
-* **Rewrite an existing project in Go**. This is a good place to start because you know what the end product is supposed to be already.
-* **Create a microservice architecture**. This project will teach you how to build and deploy containerized Go applications, and manage them using Kubernetes. [Here's a good example](https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-golang).
-* **Build a chat application**. Using Go and WebSockets, this project gives you experience handling real-time data, like chat messages and providing functionality for multiple users. It's also good for practicing with the front end. [This is a great project](https://betterprogramming.pub/how-to-build-a-concurrent-chat-app-with-golang-and-websockets-fb48562a1329) to showcase Go's many strengths, such as concurrency and scalability.
-* **Develop a web scraper.** Use a library like Colly or Goquery. This project will give you experience building a backend system that can scrape and parse data from websites, and store it in a database or file. It also gives you exposure to some third-party libraries. [This tutorial](https://www.scrapingbee.com/blog/web-scraping-go/) uses both libraries.
+- **Develop a CLI tool**. Get experience building a standalone app that can interact with APIs, databases, and other backend systems. For example, we've got a great project that walks you through [how to build a Pokedex](https://www.boot.dev/courses/build-pokedex-cli-golang) on the command line in Go.
+- **Rewrite an existing project in Go**. This is a good place to start because you know what the end product is supposed to be already.
+- **Create a microservice architecture**. This project will teach you how to build and deploy containerized Go applications, and manage them using Kubernetes. [Here's a good example](https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-golang).
+- **Build a chat application**. Using Go and WebSockets, this project gives you experience handling real-time data, like chat messages and providing functionality for multiple users. It's also good for practicing with the front end. [This is a great project](https://betterprogramming.pub/how-to-build-a-concurrent-chat-app-with-golang-and-websockets-fb48562a1329) to showcase Go's many strengths, such as concurrency and scalability.
+- **Develop a web scraper.** Use a library like Colly or Goquery. This project will give you experience building a backend system that can scrape and parse data from websites, and store it in a database or file. It also gives you exposure to some third-party libraries. [This tutorial](https://www.scrapingbee.com/blog/web-scraping-go/) uses both libraries.
 
 Projects are an important way not only of becoming familiar and practicing with these skills and competencies but letting potential employers know you can do these things.
 
@@ -248,9 +247,9 @@ Becoming certified is an important step on your journey to becoming a Go back-en
 
 Typically, you'll get certified after learning a course. There are so many places to get certifications, and almost all those platforms offer Golang certifications. Here's a selection:
 
-* [Boot.dev](https://boot.dev/tracks/backend): We offer not just a course, projects for your portfolio, and a kickass blog, but also a certification that says you can do the things you say you can!
-* Coursera. Coursera offers courses run by industry and education professionals. Courses range from as generic as "[Getting Started with Go](https://www.coursera.org/learn/golang-getting-started)" to as specific as "[Use Go Code to Work With Google Cloud Data Sources](https://www.coursera.org/projects/googlecloud-use-go-code-to-work-with-google-cloud-data-sources-05wo8)."
-* Udemy. This one carries less weight since anyone can upload and teach a Go course, but it's still a good place to get certifications in more niche competencies, like "[Building Modern Web Apps with Go](https://www.udemy.com/course/building-modern-web-applications-with-go/)" or comprehensive tracks like "[Backend Master Class \[Golang + Postgres + Kubernetes + gRPC\]](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/)"
+- [Boot.dev](https://www.boot.dev/tracks/backend): We offer not just a course, projects for your portfolio, and a kickass blog, but also a certification that says you can do the things you say you can!
+- Coursera. Coursera offers courses run by industry and education professionals. Courses range from as generic as "[Getting Started with Go](https://www.coursera.org/learn/golang-getting-started)" to as specific as "[Use Go Code to Work With Google Cloud Data Sources](https://www.coursera.org/projects/googlecloud-use-go-code-to-work-with-google-cloud-data-sources-05wo8)."
+- Udemy. This one carries less weight since anyone can upload and teach a Go course, but it's still a good place to get certifications in more niche competencies, like "[Building Modern Web Apps with Go](https://www.udemy.com/course/building-modern-web-applications-with-go/)" or comprehensive tracks like "[Backend Master Class \[Golang + Postgres + Kubernetes + gRPC\]](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/)"
 
 If I can be honest for a moment, Golang back-end developers are in high demand. You don't need a degree. You don't need a prestige certification. Employers will be excited to see you can do the things they need you to do.
 
@@ -258,12 +257,12 @@ If I can be honest for a moment, Golang back-end developers are in high demand. 
 
 At this point, you've:
 
-* [Learned the basics of Go](https://boot.dev/courses/learn-golang), if you didn't already.
-* Checked off the main competencies of any back-end developer
-* Looked at enough job postings to get a sense of any edge-case skills or competencies you should learn.
-* Investigated neighbor skills to back-end development, since more and more jobs expect you to be a unicorn that can do full-stack, systems administration, database design, and infosec to boot.
-* Taken on personal projects to get your feet wet with the realities of back-end development in Go.
-* Received certifications from an external source that prove you can do the thing.
+- [Learned the basics of Go](https://www.boot.dev/courses/learn-golang), if you didn't already.
+- Checked off the main competencies of any back-end developer
+- Looked at enough job postings to get a sense of any edge-case skills or competencies you should learn.
+- Investigated neighbor skills to back-end development, since more and more jobs expect you to be a unicorn that can do full-stack, systems administration, database design, and infosec to boot.
+- Taken on personal projects to get your feet wet with the realities of back-end development in Go.
+- Received certifications from an external source that prove you can do the thing.
 
 The only thing remaining to become a Golang backend developer is to apply for jobs that look like a good fit for your skills and interests – and [smash the interview](https://www.golanginterview.dev/questions/).
 
@@ -273,16 +272,16 @@ Research has also found that confidence and humility are the key traits to show 
 
 Confidence matters because your employer wants to be sure that:
 
-* They won't have to hold your hand
-* You will quickly be able to contribute
-* You will take problems off their plate
-* Hiring you makes them look good
+- They won't have to hold your hand
+- You will quickly be able to contribute
+- You will take problems off their plate
+- Hiring you makes them look good
 
 Humility matters because people hire people they like, and know-it-alls are not fun to hang out with. You should demonstrate that:
 
-* You're enjoyable to work with
-* You will be teachable and learn quickly
-* You can adapt to however the team does things
+- You're enjoyable to work with
+- You will be teachable and learn quickly
+- You can adapt to however the team does things
 
 ## How to become a Golang back-end developer in 7 steps
 
@@ -290,9 +289,9 @@ It's easier than you might think, not least because back-end developers are in h
 
 If you have:
 
-* A solid portfolio
-* Certificates that prove your competencies
-* A humble yet confident attitude
-* Good answers to interview questions
+- A solid portfolio
+- Certificates that prove your competencies
+- A humble yet confident attitude
+- Good answers to interview questions
 
 Then you're well on your way to becoming a Go back-end developer. Hopefully, this roadmap helped you on your way to becoming a Go backend developer!

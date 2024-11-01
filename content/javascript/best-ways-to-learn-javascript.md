@@ -17,13 +17,13 @@ I've compiled the 7 best methods for learning JavaScript so you can find the bes
 
 ## #1 Learn JavaScript interactively
 
-One of the best ways to learn anything is by getting your hands dirty and trying out the knowledge yourself, and Boot.dev has brought that exact experience to [coding in JavaScript](https://boot.dev/courses/learn-javascript).
+One of the best ways to learn anything is by getting your hands dirty and trying out the knowledge yourself, and Boot.dev has brought that exact experience to [coding in JavaScript](https://www.boot.dev/courses/learn-javascript).
 
 While understanding computer science and the theory behind programming is important, until you actually write and interact with the code yourself, you might as well be sitting on the sidelines. Practicing writing code is where you build those hard skills that are so sought after by the IT world.
 
 Boot.dev does this by providing a web-based portal that works alongside its courses. Here, you'll get experience crafting and solving the problems on your own, without having to mess with external downloads.
 
-You can even practice without the courses on their site, by accessing Boot.dev's [free Playground](https://boot.dev/playground/js) and writing your own code right in the browser!
+You can even practice without the courses on their site, by accessing Boot.dev's [free Playground](https://www.boot.dev/playground/js) and writing your own code right in the browser!
 
 Boot.dev's emphasis on interactivity makes it interesting, but it's not even the best part. Boot.dev's overall goal is to get you primed and ready for a career with JavaScript. Aside from hands-on practice, you'll also be greeted with developmental techniques that are geared towards preparing you for job interviews, as well as more specialized coding skills like functional programming, making it by far one of the best ways to learn JS.
 
@@ -66,7 +66,7 @@ The first way is to start by [finding a project](/javascript/javascript-projects
 
 Another way is by joining an open-source JavaScript project. These are free projects and frameworks already created that you can edit and work with yourself. You'll find a lot of these on GitHub, and they offer risk-free opportunities to work with the language.
 
-However, if you want a project-based learning method, but don't feel comfortable enough to jump into creating your first program, [Boot.dev](https://boot.dev) does employ a series of mini-projects throughout their courses, so you get the efficiency of project-based learning, but in a more secure environment. Additionally, Scrimba has a [great list](https://scrimba.com/articles/beginners-javascript-project-ideas/) of JavaScript projects you can check out.
+However, if you want a project-based learning method, but don't feel comfortable enough to jump into creating your first program, [Boot.dev](https://www.boot.dev) does employ a series of mini-projects throughout their courses, so you get the efficiency of project-based learning, but in a more secure environment. Additionally, Scrimba has a [great list](https://scrimba.com/articles/beginners-javascript-project-ideas/) of JavaScript projects you can check out.
 
 ## #5 The fun way
 
@@ -104,7 +104,7 @@ Coursera is one of the top sites for this! As an online e-learning site that pro
 
 These courses often come with graded work, long-time commitments, and the occasional strict schedule, however, being able to show you know JavaScript from an established university looks good on your portfolio and helps build your reputation.
 
-That said, there are other faster and more affordable routes to take to receive certification. For instance, with a [Boot.dev subscription](https://boot.dev/pricing), you'll receive a certificate when you complete a course for only a few bucks a month, while Coursera ranges from $45+ per month, depending on the course you take. With Boot.dev you're also able to complete the course quicker, whereas Coursera's courses take anywhere from 6 to 10 months.
+That said, there are other faster and more affordable routes to take to receive certification. For instance, with a [Boot.dev subscription](https://www.boot.dev/pricing), you'll receive a certificate when you complete a course for only a few bucks a month, while Coursera ranges from $45+ per month, depending on the course you take. With Boot.dev you're also able to complete the course quicker, whereas Coursera's courses take anywhere from 6 to 10 months.
 
 ## The Best Way to learn for you
 

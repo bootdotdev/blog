@@ -2,7 +2,7 @@
 title: "Roles in the Boot.dev Discord Server"
 author: Lane Wagner
 date: "2021-12-19"
-categories: 
+categories:
   - "news"
 images:
   - /img/800/discord.jpeg
@@ -82,7 +82,7 @@ There are several roles you will automatically earn through your activity within
 /sync {api_key}
 ```
 
-Where `{api_key}` is the API key for your account on the [Boot.dev website](https://boot.dev/), which you can change and update in your [settings](https://boot.dev/dashboard/settings). Here are the roles that you'll unlock automatically:
+Where `{api_key}` is the API key for your account on the [Boot.dev website](https://www.boot.dev/), which you can change and update in your [settings](https://www.boot.dev/?modal=settings). Here are the roles that you'll unlock automatically:
 
 - pupil - You've completed at least 25 exercises
 - scholar - You've completed at least 100 exercises

@@ -55,7 +55,7 @@ Here's a chart of lesson completions by month (blue bars) and active members (or
 
 Let's start at the beginning. **Where do people give up**?
 
-Here's the drop-off funnel of chapters 4-14 of the very first course: "[Learn to code with Python](https://www.boot.dev/courses/learn-python)".
+Here's the drop-off funnel of chapters 4-14 of the very first course: "[Learn to code with Python](https://www.boot.dev/courses/learn-code-python)".
 
 ![python chapter drop off](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/rRTiims.png)
 

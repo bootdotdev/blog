@@ -42,8 +42,8 @@ Tech as an industry has outperformed the market. `NDXT` is the ticker for the "N
 
 Companies that included words like "cloud computing" and "mobile first" in their press releases received fantastic valuations from investors over the last decade, and that largely panned out, as they generally went on to make money hand over fist. It hasn't hurt that for the last ten years, the Fed has had interest rates at historic lows and has been flushing the markets with cash via [quantitative easing](https://www.investopedia.com/terms/q/quantitative-easing.asp). I won't get into the nitty gritty of QE and interest rates, but I'll explain the consequences I expect as a result of some coming changes.
 
-* Due to inflation concerns, quantitative easing is gone and [quantitative tightening is here](https://www.investopedia.com/quantitative-tightening-is-here-5270749#:~:text=For%20two%20years%20after%20the,to%20pivot%20toward%20slowing%20inflation.)
-* For the same reason, the [Fed is raising inflation rates](https://www.usnews.com/news/economy/articles/2022-05-04/fed-raises-interest-rates-by-half-a-percent-in-aggressive-move-to-fight-inflation#:~:text=Home-,Fed%20Raises%20Interest%20Rates%20by%20Half%20a%20Percent%20in%20Aggressive,each%20month%2C%20starting%20in%20June.&text=May%204%2C%202022%2C%20at%202%3A14%20p.m.)
+- Due to inflation concerns, quantitative easing is gone and [quantitative tightening is here](https://www.investopedia.com/quantitative-tightening-is-here-5270749#:~:text=For%20two%20years%20after%20the,to%20pivot%20toward%20slowing%20inflation.)
+- For the same reason, the [Fed is raising inflation rates](https://www.usnews.com/news/economy/articles/2022-05-04/fed-raises-interest-rates-by-half-a-percent-in-aggressive-move-to-fight-inflation#:~:text=Home-,Fed%20Raises%20Interest%20Rates%20by%20Half%20a%20Percent%20in%20Aggressive,each%20month%2C%20starting%20in%20June.&text=May%204%2C%202022%2C%20at%202%3A14%20p.m.)
 
 Both of those points basically have the same consequence: **borrowing money is expensive, and as a result companies will grow more slowly, and hire less.**
 
@@ -67,17 +67,17 @@ Second, I suspect that high-growth startups will be hit harder than more establi
 
 Don't jump ship on development! While the kombucha-on-tap and ping-pong in the office might not be as prevalent, I think developers will still be much better off than most other white collar workers. I haven't been comparing programming careers to other careers, I've been comparing a hypothetical short-term future for developers to what developers have had for the last decade.
 
-Even more, we might all end up being wrong about this recession business. In the beginning of 2020, the stock market ripped down with so much force that companies got spooked and had giant rounds of layoffs. Just a few months later, the biggest market rally in recent history began, which resulted in arguably the strongest market for developers *ever*.
+Even more, we might all end up being wrong about this recession business. In the beginning of 2020, the stock market ripped down with so much force that companies got spooked and had giant rounds of layoffs. Just a few months later, the biggest market rally in recent history began, which resulted in arguably the strongest market for developers _ever_.
 
 ## What can I do to protect myself from a market downturn?
 
-Put simply, *you should get better at your job*. This is always good advice, it just becomes more important when competition for the same jobs gets fierce.
+Put simply, _you should get better at your job_. This is always good advice, it just becomes more important when competition for the same jobs gets fierce.
 
-* If you've been putting off learning a new technology that interests you, make it happen
-* [Brush up on CS fundamentals](/computer-science/comprehensive-guide-to-learn-computer-science-online/), especially if you never went to school for CS
-* Build some side-projects, they will bolster your resume
-* For the same reason, consider contributing to some open-source for learning and internet points
-* Think about your current job situation. Is your company doing well? If not, there's no shame in casually looking for something new while staying employed
-* If you're in the middle of [learning to code](https://boot.dev), don't stop! The bar might be slightly higher, and you may need to spend more time on CS concepts to pass those pesky interviews, but this industry isn't going away.
+- If you've been putting off learning a new technology that interests you, make it happen
+- [Brush up on CS fundamentals](/computer-science/comprehensive-guide-to-learn-computer-science-online/), especially if you never went to school for CS
+- Build some side-projects, they will bolster your resume
+- For the same reason, consider contributing to some open-source for learning and internet points
+- Think about your current job situation. Is your company doing well? If not, there's no shame in casually looking for something new while staying employed
+- If you're in the middle of [learning to code](https://www.boot.dev), don't stop! The bar might be slightly higher, and you may need to spend more time on CS concepts to pass those pesky interviews, but this industry isn't going away.
 
 Technology is at the center of everything we do. There are very few products released these days that don't have software involved at some level. I'm convinced the mid-to-long-term outlook for developers remains extremely bright, and the near-term isn't too gloomy.

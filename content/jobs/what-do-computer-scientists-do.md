@@ -34,7 +34,7 @@ This requires a person to develop essential skills such as mathematics, proficie
 
 ### What *can* a computer scientist do?
 
-This is quite a different question: a computer scientist is almost an umbrella term. A computer scientist can manage projects, [become backend developers](https://boot.dev), become front-end developers, develop coding languages, build-open source projects, or work with data systems or artificial intelligence.
+This is quite a different question: a computer scientist is almost an umbrella term. A computer scientist can manage projects, [become backend developers](https://www.boot.dev), become front-end developers, develop coding languages, build-open source projects, or work with data systems or artificial intelligence.
 
 In reality, the field of software engineering is very open, and depending on what you've learned you can do almost anything. An understanding of key computer science principles like data structures and algorithms opens many career opportunities.
 
@@ -196,4 +196,4 @@ The tools a developer uses will vary quite wildly depending on where they work. 
 
 ## How do I get started learning computer science?
 
-Computer scientists are logical thinking, computer-savvy folk that know how to dig deep to solve problems. If you want to pursue an interest in computer science, consider starting with our [computer science for back-end developers track at boot.dev](https://boot.dev/tracks/backend). We would love to help you on your way. Good luck.
+Computer scientists are logical thinking, computer-savvy folk that know how to dig deep to solve problems. If you want to pursue an interest in computer science, consider starting with our [computer science for back-end developers track at boot.dev](https://www.boot.dev/tracks/backend). We would love to help you on your way. Good luck.

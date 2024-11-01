@@ -2,11 +2,11 @@
 title: "Systems and Processes that Aren't in Code are Terrifying"
 author: Lane Wagner
 date: "2019-10-03"
-categories: 
+categories:
   - "clean-code"
 images:
   - /img/800/systemsandprocessesareterrifying.png.webp
-imageAlts: 
+imageAlts:
   - "boy look at how scary those systems and processes are when they're not in code"
 ---
 
@@ -24,7 +24,7 @@ You may say,
 
 ![gordon ramsay](/img/800/26ipc1.jpg)
 
-I want to be able to look at the code base and know if the program is long-running, should be run manually, or if it runs on a specific schedule. It is fine if it's going to be run using crontab. We just make sure that the CI/CD config file (or something similar that is source controlled) specifies how that is triggered.
+I want to be able to look at the code base and know if the program is long-running, should be run manually, or if it runs on a specific schedule. It is fine if it's going to be run using crontab. We just make sure that the [CI/CD](https://www.boot.dev/courses/learn-ci-cd-github-docker) config file (or something similar that is source controlled) specifies how that is triggered.
 
 Or even better, program in Go so that spinning up side processes within your app is simpler than using the crontab ;)
 

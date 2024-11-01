@@ -12,7 +12,7 @@ toc: true
 
 Let's build a fully-fledged HTTP server from scratch in Go. This course assumes you already have a solid understanding of Go. If you don't, take a step back and take our [Go course](https://www.boot.dev/courses/learn-golang).
 
-**Caveat**: There is a more updated version of this course that's more interactive over on [Boot.dev here](https://www.boot.dev/courses/learn-http-servers). If you're looking for a more interactive experience, I recommend checking it out!
+**Caveat**: There is a more updated version of this course that's more interactive over on [Boot.dev here](https://www.boot.dev/courses/learn-http-servers-golang). If you're looking for a more interactive experience, I recommend checking it out!
 
 **Goals of this course**
 
@@ -623,7 +623,7 @@ Thunder Client is built into VS Code, so I don't need to leave my editor, and it
 
 **JSON**
 
-Hopefully, by now you already know what JSON is. If not, you should go back and take the Learn HTTP course [here first](https://boot.dev/courses/learn-http).
+Hopefully, by now you already know what JSON is. If not, you should go back and take the Learn HTTP course [here first](https://www.boot.dev/courses/learn-http-clients-golang).
 
 What you may be new to is handling and parsing JSON on the server side, rather than sending it as a client.
 
@@ -1254,7 +1254,7 @@ When the user wants to make a request to the API, they send the token along with
 
 **What is a JWT?**
 
-A JWT is a JSON Web Token. It's a cryptographically signed JSON object that contains information about the user. You'll learn about how the cryptography of JWTs work in our [Learn Cryptography](https://boot.dev/courses/learn-cryptography) course, for now, it's just important to know that once the token is created by the server, the data in the token can't be changed without the server knowing.
+A JWT is a JSON Web Token. It's a cryptographically signed JSON object that contains information about the user. You'll learn about how the cryptography of JWTs work in our [Learn Cryptography](https://www.boot.dev/courses/learn-cryptography-golang) course, for now, it's just important to know that once the token is created by the server, the data in the token can't be changed without the server knowing.
 
 _When your server issues a JWT to Bob, bob can use that token to make requests as Bob to your API. Bob won't be able to change the token to make requests as Alice._
 

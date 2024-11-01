@@ -2,7 +2,7 @@
 title: "Top 4 Coding Languages To Learn For Beginners in 2022"
 author: Lane Wagner
 date: "2020-10-07"
-categories: 
+categories:
   - "misc"
 images:
   - /img/800/paper-and-glasses-study.webp
@@ -10,7 +10,7 @@ images:
 
 Coding languages, tools, and frameworks are in a constant state of flux, improvement, deprecation, and popularity swings. Let's take a look at the top 4 languages for new programmers to learn in 2021.
 
-As it happens, we support all four of the top languages on the [boot.dev app](https://boot.dev/), and have courses for JavaScript and Go, with Rust and Python courses in active development. If you are interested in furthering your career, be sure to check it out.
+As it happens, we support all four of the top languages on the [boot.dev app](https://www.boot.dev/), and have courses for JavaScript and Go, with Rust and Python courses in active development. If you are interested in furthering your career, be sure to check it out.
 
 ## 1. JavaScript
 

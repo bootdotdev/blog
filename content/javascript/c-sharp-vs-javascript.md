@@ -2,7 +2,7 @@
 title: "C# vs JavaScript: Choosing the Best Language for You"
 author: Meghan Reichenbach
 date: "2021-10-07"
-categories: 
+categories:
   - "javascript"
 images:
   - /img/800/JavaScript-vs-C-Sharp-min.png
@@ -92,9 +92,9 @@ Aside from being the industry choice, JS has amazing cross-platform support, off
 
 There's also the React library that revolutionized JavaScript's front-end development and the MEAN stack (MongoDB, Express.js, Angular.js, Node.js) that help make JavaScript the dexterous web development language seen today.
 
-Oppositely, C# does not support front-end development. C# specializes in backend development as a strong, secure language and works well for enterprise projects and Windows applications. It also offers dynamic server-side web pages and apps.  
+Oppositely, C# does not support front-end development. C# specializes in backend development as a strong, secure language and works well for enterprise projects and Windows applications. It also offers dynamic server-side web pages and apps.
 
-The kicker, however, as we know, is that C# was made by Microsoft for Microsoft, which hampers it from having the same well-rounded web development approach as JavaScript.  
+The kicker, however, as we know, is that C# was made by Microsoft for Microsoft, which hampers it from having the same well-rounded web development approach as JavaScript.
 
 Essentially, if you're planning on focusing on Windows backend development, then C# is a no-brainer, but JavaScript is quintessential to this field, and if you want to work in it, then there's no avoiding JavaScript's importance.
 
@@ -114,7 +114,7 @@ Because JavaScript is the basis of the internet, it makes sense it would intuiti
 
 JavaScript is supported by game engines and libraries like Phaser, Pixi.js, HTML5, PlayCanvas, and Three.js, just to name a few.
 
-Whether you plan on dabbling or working professionally in the field, both languages offer incredible opportunities to work and develop your own gaming masterpiece. 
+Whether you plan on dabbling or working professionally in the field, both languages offer incredible opportunities to work and develop your own gaming masterpiece.
 
 ## Which Is Better?: The Final Verdict
 
@@ -130,6 +130,6 @@ Regardless of which suits your preferences, both jobs bring well-paid, creative,
 
 **For taking action:**
 
-**For beginners**: we recommend our [Learn Python](https://boot.dev/courses/learn-python) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
+**For beginners**: we recommend our [Learn Python](https://www.boot.dev/courses/learn-code-python) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
 
-**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://boot.dev/courses/learn-functional-programming), which mixes JS with PureScript. We also recommend our [Learn Go courses](https://boot.dev/courses/learn-golang) for anyone looking to learn Golang, as well as our [Learn Python course](https://boot.dev/courses/learn-python).
+**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://www.boot.dev/courses/learn-functional-programming-python), which mixes JS with PureScript. We also recommend our [Learn Go courses](https://www.boot.dev/courses/learn-golang) for anyone looking to learn Golang, as well as our [Learn Python course](https://www.boot.dev/courses/learn-code-python).

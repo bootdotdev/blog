@@ -2,7 +2,7 @@
 title: "Ruby vs JavaScript: Which Language Should You Learn First?"
 author: Meghan Reichenbach
 date: "2021-11-05"
-categories: 
+categories:
   - "javascript"
 images:
   - /img/800/Ruby-vs-JavaScript-min.png
@@ -14,7 +14,7 @@ One being that JavaScript has always been about furthering technology.
 
 Before JS, there was only [HTML and CSS](/javascript/html-css-javascript/), which instructed and described how a web page should work and look, but JavaScript gave it life with dynamic web pages. This not only made web pages interactive, but it changed their functionality forever.
 
-It's amazing to think that in 1995, Brendan Eich developed this interpreted, high-level, multiparadigm scripting and programming language in just 10 days, and it would go on to become the industry standard client-side language.  
+It's amazing to think that in 1995, Brendan Eich developed this interpreted, high-level, multiparadigm scripting and programming language in just 10 days, and it would go on to become the industry standard client-side language.
 
 Yet, while JavaScript was built to meet the needs of technology, Ruby was built to meet the needs of the programmer. Appearing in the same year, Japanese-based Yukihiro "Matz" Matsumoto wanted to create a fun language that inspired productivity while being a true object-oriented programming language.
 
@@ -128,6 +128,6 @@ In the end, you have to choose the language that suits your needs best, and luck
 
 **For taking action:**
 
-**For beginners**: we recommend our [Learn Python](https://boot.dev/courses/learn-python) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
+**For beginners**: we recommend our [Learn Python](https://www.boot.dev/courses/learn-code-python) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
 
-**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://boot.dev/courses/learn-functional-programming), which mixes JS with PureScript. We also recommend our [Learn Go courses](https://boot.dev/courses/learn-golang) for anyone looking to learn Golang, as well as our [Learn Python course](https://boot.dev/courses/learn-python).
+**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://www.boot.dev/courses/learn-functional-programming-python), which mixes JS with PureScript. We also recommend our [Learn Go courses](https://www.boot.dev/courses/learn-golang) for anyone looking to learn Golang, as well as our [Learn Python course](https://www.boot.dev/courses/learn-code-python).

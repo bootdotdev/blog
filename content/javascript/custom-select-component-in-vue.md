@@ -8,7 +8,7 @@ images:
   - /img/800/Custom-Select-Component-Vue.webp
 ---
 
-Creating a custom select tag with its own styling is notoriously difficult. Sometimes it's impossible to build from scratch without a combination of styled divs and custom JavaScript. In this article, you'll learn how to create a custom select component in Vue that can be easily styled with your own CSS. In fact, it's the same component we use in production on boot.dev, and you can see it in action on our [JavaScript playground](https://boot.dev/playground/js).
+Creating a custom select tag with its own styling is notoriously difficult. Sometimes it's impossible to build from scratch without a combination of styled divs and custom JavaScript. In this article, you'll learn how to create a custom select component in Vue that can be easily styled with your own CSS. In fact, it's the same component we use in production on boot.dev, and you can see it in action on our [JavaScript playground](https://www.boot.dev/playground/js).
 
 ![Vue Custom Select Example](/img/800/Screen-Shot-2020-09-25-at-7.09.42-AM.png)
 
@@ -158,7 +158,7 @@ Important things to note about the JavaScript:
 </style>
 ```
 
-This CSS is just an example, it's what we use in the [boot.dev](https://boot.dev) app. Feel free to change the styling to whatever your needs are.
+This CSS is just an example, it's what we use in the [boot.dev](https://www.boot.dev) app. Feel free to change the styling to whatever your needs are.
 
 If you put the three sections together in the same file, you will be left with a well-encapsulated custom select single file component! Copying and pasting code gets a bad rep, it's usually much better than importing libraries, especially for visual components. When you do "steal" code from somewhere, always be sure you understand it!
 

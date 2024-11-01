@@ -3,7 +3,7 @@ title: "How Hard Is Python to Learn?"
 author: Zulie Rane
 date: "2022-01-24"
 lastmod: "2022-10-16"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/blue-and-yellow-pythons.png.webp
@@ -14,25 +14,25 @@ toc: true
 
 ## Quick Answer: Python is one of the easiest coding languages to learn
 
-Python is arguably *the* easiest programming language for beginners to learn. If you're interested in writing code, [Python is a fantastic place to start](https://boot.dev/courses/learn-python). Aside from just being easy to learn, it's also widely used by industry professionals so you really can't go wrong.
+Python is arguably _the_ easiest programming language for beginners to learn. If you're interested in writing code, [Python is a fantastic place to start](https://www.boot.dev/courses/learn-code-python). Aside from just being easy to learn, it's also widely used by industry professionals so you really can't go wrong.
 
 ## Longer Answer: What makes Python ideal for newbies?
 
-One of the difficulties with [learning to program](https://boot.dev) is first being able to read code. The great thing about Python is that it was [designed with readability in mind](https://www.python.org/about/). If you're wondering how hard Python is to learn, I'll set out four strategies for you so that you can learn Python fast, no matter what your skill level is. Since Python was designed to be easy to read, this makes it ideal for learning to program. Understanding code that's been written by others is a key stepping stone to being able to program yourself. 
+One of the difficulties with [learning to program](https://www.boot.dev) is first being able to read code. The great thing about Python is that it was [designed with readability in mind](https://www.python.org/about/). If you're wondering how hard Python is to learn, I'll set out four strategies for you so that you can learn Python fast, no matter what your skill level is. Since Python was designed to be easy to read, this makes it ideal for learning to program. Understanding code that's been written by others is a key stepping stone to being able to program yourself.
 
 For me, Python is the most comfortable programming language to read. I have had a lot of success in showing snippets of Python code to non-programming friends and family, and they've been able to understand significant portions suggesting it's fairly easy to learn Python no matter how much of a beginner you may be. The answer to those wondering how hard is Python to learn is that since it's very beginner-friendly, as long as you follow the strategies below, it'll be simple.
 
-If you're looking to learn how to program, Python is one of the best languages to start with. If you've got an interest in [data science](/python/python-for-data-science), machine learning, or more backend-centered technologies, Python is the best language for you to learn programming with. Python is a true powerhouse and is the leading language in all of these fields. 
+If you're looking to learn how to program, Python is one of the best languages to start with. If you've got an interest in [data science](/python/python-for-data-science), machine learning, or more backend-centered technologies, Python is the best language for you to learn programming with. Python is a true powerhouse and is the leading language in all of these fields.
 
 Because it's a scripting language, there's a lot less overhead involved in getting a piece of code to successfully run. A [scripting language](https://careerkarma.com/blog/what-is-a-scripting-language/) is one that you can easily use to write a short snippet of code to run without compilation. When you are first learning to program, it's important that you can see progress in your learning, and Python makes it easy to do that. For anyone wondering, "How hard is Python to learn?" you'll be relieved to hear that all these factors make Python an easy language to get started with.
 
 ## How long does it take to learn Python?
 
-If you invest time, are highly motivated, and use the right tools, you will be able to produce working Python code within just a few seconds! For example, you can head over to [this online Python Playground](https://boot.dev/playground/py) and have a "hello world" program running immediately.
+If you invest time, are highly motivated, and use the right tools, you will be able to produce working Python code within just a few seconds! For example, you can head over to [this online Python Playground](https://www.boot.dev/playground/py) and have a "hello world" program running immediately.
 
-Within just a few days of [studying Python](https://boot.dev/courses/learn-python) you'll be able to write simple scripts that can find the average of a list of numbers or combine a few snippets of words. Speaking from my experience, it will most likely take you closer to several weeks before you can handle input from the [command line](https://en.wikipedia.org/wiki/Command-line_interface), use some Python libraries, or work across multiple files (all of which are skills necessary for advanced Python development).
+Within just a few days of [studying Python](https://www.boot.dev/courses/learn-code-python) you'll be able to write simple scripts that can find the average of a list of numbers or combine a few snippets of words. Speaking from my experience, it will most likely take you closer to several weeks before you can handle input from the [command line](https://en.wikipedia.org/wiki/Command-line_interface), use some Python libraries, or work across multiple files (all of which are skills necessary for advanced Python development).
 
-I've found that getting a great local development environment for Python configured is a common sticking point for new coders. If that's something you struggle with, check out our full tutorial on [how to build a local dev environment](https://boot.dev/courses/build-local-dev-environment-python) with VS Code, Pyenv, Git, and GitHub.
+I've found that getting a great local development environment for Python configured is a common sticking point for new coders. If that's something you struggle with, check out our full tutorial on [how to build a local dev environment](https://www.boot.dev/courses/build-bookbot-python) with VS Code, Pyenv, Git, and GitHub.
 
 How hard is Python to learn if you already have coding knowledge? Learning to program with Python can be even easier than what I outlined, depending on your background. If you already have knowledge of discrete mathematics or simple programming concepts like variables, functions, and classes, you're several days worth of work ahead of others. Alternatively, if you already know how to program using another language, learning to program with your second, third or even fourth language is significantly faster. Once you know how to program, or to [think computationally](https://en.wikipedia.org/wiki/Computational_thinking), it's just a matter of learning the syntax of a language.
 
@@ -42,17 +42,17 @@ How hard is Python to learn if you don't already know how to code? It's trickier
 
 How hard Python is to learn is mainly dependent on how much energy and focused time you want to invest. I find it helpful to think about why it is important to me. Do you want to automate a boring part of your job? Do you want to earn more money? Do you want to increase your job security? Maybe you want to create beautiful digital art from fractals.
 
-Whatever your reason is, keep it in mind. It's a lot easier to remain focused and motivated to learn Python fast if you've reflected on why you want to learn to program with Python. Because learning to program properly will likely take you several months, it is crucial that you can overcome the hurdle of waning motivation and dedication. You'll learn the fastest if you practice your coding daily, so try to focus on keeping your coding streak and participate in [awesome Python coding communities](https://boot.dev/community). Find a way to remind yourself of your inspiration. Maybe a sticky note on your monitor or a full-blown dream board. Figure out what works for you. How hard is Python to learn if you lose steam or motivation? It'll be a lot tougher, that's for sure. Motivation is key to learning any new skill.
+Whatever your reason is, keep it in mind. It's a lot easier to remain focused and motivated to learn Python fast if you've reflected on why you want to learn to program with Python. Because learning to program properly will likely take you several months, it is crucial that you can overcome the hurdle of waning motivation and dedication. You'll learn the fastest if you practice your coding daily, so try to focus on keeping your coding streak and participate in [awesome Python coding communities](https://www.boot.dev/community). Find a way to remind yourself of your inspiration. Maybe a sticky note on your monitor or a full-blown dream board. Figure out what works for you. How hard is Python to learn if you lose steam or motivation? It'll be a lot tougher, that's for sure. Motivation is key to learning any new skill.
 
 Another great use for your muse is it can be used as your single project idea to focus on. Let's say you want a way to track your habits. You can, for example, create an app that lets you add or remove the habits that are important to you, pick colors for certain categories, and display a calendar that shows you your streaks. You could start by creating and saving a list of important habits. Your first script could be counting how many habits are in the list and printing them out.
 
-Develop a small project that fits the theme of your motivation. First, you'll need a small, simple task, like creating a list to store the habits and then counting how many there are. Think of the concepts of the system that you are most familiar with, like basic math, and combine that with what you would consider to be the basic building blocks of your application. 
+Develop a small project that fits the theme of your motivation. First, you'll need a small, simple task, like creating a list to store the habits and then counting how many there are. Think of the concepts of the system that you are most familiar with, like basic math, and combine that with what you would consider to be the basic building blocks of your application.
 
 ## Understanding core coding concepts makes learning Python faster
 
 How hard is Python to learn compared with other programming languages? Python is actually a lot easier because the syntax and vocabulary are intuitive even to non-coders.
 
-To learn Python fast, the first thing to do is learn the language. Figure out what the `=` or `&` symbols mean in Python. It's crucial that you are able to understand the vocabulary, or "syntax", of Python. The first step for learning how to code is being able to read code. 
+To learn Python fast, the first thing to do is learn the language. Figure out what the `=` or `&` symbols mean in Python. It's crucial that you are able to understand the vocabulary, or "syntax", of Python. The first step for learning how to code is being able to read code.
 
 To properly program, you'll need to be familiar with some of the basic concepts of computer programming. There are several ways to architect programming applications, but the best way for beginners to learn how to do this is through object-oriented programming (OOP). Python can also be used for functional programming, but it is important when you first learn to program that you become acquainted with OOP. You'll need to get an idea for what a class is, how it organizes information, and what a generic implementation for one would look like. A class, or object, is a fundamental computer science concept that will appear again and again.
 
@@ -60,13 +60,13 @@ Find simple examples of code online and read through them. Lots of them are acco
 
 ## Building real projects will speed up your learning process
 
-The most critical part of learning to code is actually coding. How hard is Python to learn if you never code? It's impossible, like any other coding language. Sitting through lectures or watching Youtube video series on programming in Python will only get you so far, and it's actually one of the slowest ways to learn Python. Although it is necessary to understand basic concepts before implementing complex systems, it is important to apply your knowledge to start actually grasping key concepts and learning them fast. 
+The most critical part of learning to code is actually coding. How hard is Python to learn if you never code? It's impossible, like any other coding language. Sitting through lectures or watching Youtube video series on programming in Python will only get you so far, and it's actually one of the slowest ways to learn Python. Although it is necessary to understand basic concepts before implementing complex systems, it is important to apply your knowledge to start actually grasping key concepts and learning them fast.
 
 Just how when you handwrite information, your brain is better [able to retain it](https://www.lifesavvy.com/19204/why-you-remember-things-better-when-you-write-them-down/#:~:text=If%20you%20write%20something%20by,that%20information%20into%20your%20memory.), the same holds true for actively typing versus just reading. [Handwriting is even better than typing](https://www.pens.com/blog/the-benefits-of-handwriting-vs-typing/) though, so if you really want to speed up your learning process, try writing your code out by hand first before typing it into an IDE or coding website.
 
 Interactive learning is about digging in and interacting with the content. Find small coding exercises that allow you to use what you know and slowly expose yourself to new challenges. This will allow you to solidify your current knowledge while getting to know new concepts too. Websites like Leetcode and Hackerrank are great tools for practicing your skills. Others like [StrataScratch](https://www.stratascratch.com/) offer real interview coding questions, which can be a great way to practice both code and the practical skills needed to get a job. They have small coding activities that are labeled by difficulty. Start out with the simpler stuff, and if you get stuck, they do have the solutions.
 
-If you're learning to program outside of a classic education setting, it could be a good idea to find a way to structure your learning. Options like [Boot.dev's Learn Python course](https://boot.dev/courses/learn-python) are best if you do better in a more structured setting with clear goals and feedback.
+If you're learning to program outside of a classic education setting, it could be a good idea to find a way to structure your learning. Options like [Boot.dev's Learn Python course](https://www.boot.dev/courses/learn-code-python) are best if you do better in a more structured setting with clear goals and feedback.
 
 It's important to manage the rate at which you increase the difficulty of coding exercises. How hard is Python to learn if you just throw yourself at the toughest challenge? Well, since you don't know what you don't know, it can be frustrating to sift through different challenges on the internet to find those that are doable for you but are also a good use of your time. Burnout can easily become a huge slowdown in your path to learn to code, so be a good caretaker of tool number one of learning to code fast with Python – your motivation!
 

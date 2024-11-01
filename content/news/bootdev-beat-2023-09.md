@@ -13,7 +13,7 @@ dofollows:
   - "https://syntax.fm"
 ---
 
-The best part of working on [Boot.dev](https://boot.dev) is seeing you all make almost unbelievable strides in not only your understanding of fundamental concepts, but what you can now *build from scratch*. It's not just that, I've been hearing a lot of stories about the *confidence* that's being gained by our alumnis after shipping so much code. That's a critical part of the journey.
+The best part of working on [Boot.dev](https://www.boot.dev) is seeing you all make almost unbelievable strides in not only your understanding of fundamental concepts, but what you can now _build from scratch_. It's not just that, I've been hearing a lot of stories about the _confidence_ that's being gained by our alumnis after shipping so much code. That's a critical part of the journey.
 
 As I write this, **4,379** courses have been fully completed by you all, and **905** were completed just this August.
 
@@ -23,9 +23,9 @@ All the best, Lane
 
 ### 1. New hire: Hunter
 
-We have, at long last, found a new full time Boot.dev team member: Hunter! You'll surely see him around in the [Discord](https://boot.dev/community), but he's a senior software engineer that loves teaching, and just so happens to share our passion for gaming. Truth be told, we only hired him so that he could carry the Boot.dev Dota 2 team to victory in our Friday afternoon games...
+We have, at long last, found a new full time Boot.dev team member: Hunter! You'll surely see him around in the [Discord](https://www.boot.dev/community), but he's a senior software engineer that loves teaching, and just so happens to share our passion for gaming. Truth be told, we only hired him so that he could carry the Boot.dev Dota 2 team to victory in our Friday afternoon games...
 
-### [2. New Functional Programming Course](https://boot.dev/courses/learn-functional-programming)
+### [2. New Functional Programming Course](https://www.boot.dev/courses/learn-functional-programming-python)
 
 I've been talking about this for awhile now, and it's finally done! We've released a full rewrite of our old Functional Programming course in Python. This new course goes over so much more of the fundamentals of functional programming, and it's done in a language that you already know as part of the core learning path.
 
@@ -37,20 +37,20 @@ The web servers course has been fully revamped with a new lesson type: HTTP test
 
 ## What is yet to come
 
-* New "Learn Kubernetes" course
-* Challenges and reworking of the "Learn JavaScript" course
-* Looking into finding an animator to improve our explainer videos
-* Updates to make sharpshooter less painful and more rewarding
-* Plans for a new "unit test" assignment type
+- [New "Learn Kubernetes" course](https://www.boot.dev/courses/learn-kubernetes)
+- Challenges and reworking of the "Learn JavaScript" course
+- Looking into finding an animator to improve our explainer videos
+- Updates to make sharpshooter less painful and more rewarding
+- Plans for a new "unit test" assignment type
 
 ## Backend Banter Podcast
 
 This month's episodes include:
 
-* [#016 - Is Python even good? A debate with Dr. Michael Green](https://www.backendbanter.fm/episodes/016-debate-what-is-python-even-good-for)
-* [#015 - Forking Rust into Crablang with Travis Wagner](https://www.backendbanter.fm/episodes/015-forking-rust-into-crablang-with-travis-wagner)
-* [#014 - Building the Best Tools and Tests with The Primeagen](https://www.backendbanter.fm/episodes/014-building-the-best-tools-and-tests-with-the-primeagen)
-* [#013 - Landing your First Coding Job with James Q Quick](https://www.backendbanter.fm/episodes/013-landing-your-first-coding-job-with-james-q-quick)
+- [#016 - Is Python even good? A debate with Dr. Michael Green](https://www.backendbanter.fm/episodes/016-debate-what-is-python-even-good-for)
+- [#015 - Forking Rust into Crablang with Travis Wagner](https://www.backendbanter.fm/episodes/015-forking-rust-into-crablang-with-travis-wagner)
+- [#014 - Building the Best Tools and Tests with The Primeagen](https://www.backendbanter.fm/episodes/014-building-the-best-tools-and-tests-with-the-primeagen)
+- [#013 - Landing your First Coding Job with James Q Quick](https://www.backendbanter.fm/episodes/013-landing-your-first-coding-job-with-james-q-quick)
 
 Be sure to subscribe to the show on your podcast player of choice! And leave a review if you really want to help us out.
 
@@ -64,7 +64,7 @@ Wes Bos and Scott Tolinski are two of my favorite podcasters. They're both very 
 
 ### [(Video) One thing I'd Change About Go | Prime Reacts](https://www.youtube.com/watch?v=LgapXdYNqWE)
 
-by ThePrimeagen
+by [ThePrimeagen](https://www.boot.dev/teachers/the-primeagen)
 
 I wrote an article this month titled [One Thing I'd Change About Go](https://blog.boot.dev/golang/one-thing-id-change-about-go/) that Prime reacted to on YouTube. If you're interested in some of my weirdo opinions about Go, and what Prime thinks about em, check it out.
 

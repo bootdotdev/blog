@@ -20,7 +20,7 @@ We aim to make your voyage of learning to code as delightful as possible. Should
 
 Unlocking new roles is your primary objective, and you'll do so by gaining levels. You will start roleless, but upon reaching level `10`, you'll unlock your first role: "Apprentice".
 
-Your role is shown on your profile page, and it also gives you special perks and privileges in the [Discord community](https://boot.dev/community), where your role is shown next to your name.
+Your role is shown on your profile page, and it also gives you special perks and privileges in the [Discord community](https://www.boot.dev/community), where your role is shown next to your name.
 
 * **Apprentice:** Level 10
 * **Pupil:** Level 20
@@ -48,7 +48,7 @@ Keep in mind these are *totals*, so going from level 2 to level 3 only requires 
 
 ## Leaderboard
 
-There are several sections on the [leaderboard](https://boot.dev/leaderboard), and each works a little differently. You'll gain a spot on the public leaderboard by being one of the top students in a given category for a specific timeframe.
+There are several sections on the [leaderboard](https://www.boot.dev/leaderboard), and each works a little differently. You'll gain a spot on the public leaderboard by being one of the top students in a given category for a specific timeframe.
 
 For example, the daily XP leaderboard is very competitive: the students who have earned the most XP in the last 24 hours are shown at the top.
 
@@ -102,7 +102,7 @@ Seer Stones let you view solutions without taking a penalty to the XP gained on 
 
 ![achievements banner](/img/800/achievmentsbanner.png.webp)
 
-Achievements recognize your accomplishments by unlocking a distinctive badge on your profile page. There are many different ways in which achievements can be earned, each achievement is different. You can read about the available achievements on the [achievements page](https://boot.dev/achievements).
+Achievements recognize your accomplishments by unlocking a distinctive badge on your profile page. There are many different ways in which achievements can be earned, each achievement is different. You can read about the available achievements on the [achievements page](https://www.boot.dev/achievements).
 
 ## Streak Achievements
 
@@ -118,7 +118,7 @@ Boss Events are special, platform-wide events that occur once every few months a
 
 ## Karma
 
-Karma is a measure of how helpful you are to others in the [Discord community](https://boot.dev/community). Karma is shown on your profile and the members with the highest karma earn a spot on the [leaderboard](https://boot.dev/leaderboard).
+Karma is a measure of how helpful you are to others in the [Discord community](https://www.boot.dev/community). Karma is shown on your profile and the members with the highest karma earn a spot on the [leaderboard](https://www.boot.dev/leaderboard).
 
 Here are some ways you can earn karma:
 

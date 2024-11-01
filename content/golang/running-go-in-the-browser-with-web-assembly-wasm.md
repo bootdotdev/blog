@@ -2,15 +2,15 @@
 title: "Running Go in the Browser With Web Assembly (WASM)"
 author: Lane Wagner
 date: "2020-07-01"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/maxresdefault.webp
 ---
 
-If you are familiar with the [Go Playground](https://play.golang.org/), then you know how convenient it is to be able to have a Go scratchpad in the browser. Want to show someone a code snippet? Want to quickly test some syntax? Browser-based code pads are helpful. On that note, I [created a new playground](https://boot.dev/playground/go). The cool thing about this new playground that it doesn't use a remote server to run code, just to compile it. The code runs in your browser using [web assembly (WASM)](https://webassembly.org/).
+If you are familiar with the [Go Playground](https://play.golang.org/), then you know how convenient it is to be able to have a Go scratchpad in the browser. Want to show someone a code snippet? Want to quickly test some syntax? Browser-based code pads are helpful. On that note, I [created a new playground](https://www.boot.dev/playground/go). The cool thing about this new playground that it doesn't use a remote server to run code, just to compile it. The code runs in your browser using [web assembly (WASM)](https://webassembly.org/).
 
-The Playground can be found here: [Boot.dev playground](https://boot.dev/playground/go)
+The Playground can be found here: [Boot.dev playground](https://www.boot.dev/playground/go)
 
 Update: There is now a sequel to this article outlining how we run the WASM inside Web Workers which can be [found here](/golang/running-go-in-the-browser-wasm-web-workers/).
 
@@ -144,7 +144,9 @@ export default async function runGoWasm(rawData) {
   const result = await WebAssembly.instantiate(rawData, go.importObject);
   let oldLog = console.log;
   let stdOut = [];
-  console.log = (line) => {stdOut.push(line);};
+  console.log = (line) => {
+    stdOut.push(line);
+  };
   await go.run(result.instance);
   console.log = oldLog;
   return stdOut;
@@ -153,4 +155,4 @@ export default async function runGoWasm(rawData) {
 
 That's it! Running Go in the browser is pretty easy :)
 
-If you want to try our [Learn Go](https://boot.dev/go-mastery/) course that uses the WASM playground as its backbone, [sign up here!](https://boot.dev/)
+If you want to try our [Learn Go](https://www.boot.dev/courses/learn-golang) course that uses the WASM playground as its backbone, [sign up here!](https://www.boot.dev/)

@@ -1,4 +1,4 @@
 ---
 type: redirect
-target: https://boot.dev/privacy
+target: https://www.boot.dev/privacy
 ---

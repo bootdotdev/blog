@@ -8,7 +8,7 @@ images:
   - /img/800/help.avif.webp
 ---
 
-I've spent an unhealthy amount of time online over the course of my life, and in the last couple years I've been managing a [Discord server](https://discord.gg/EEkFwbv) for people who are [learning computer science](https://boot.dev/). Like all online communities, we have ban, kick, and moderation policies so that we're not overrun with spammers and other non-contributors. However, I'm not perfect, and I have realized recently that we get a decent number of members who at first glance seemed like a spammer, but it turns out they just have *no idea* how to communicate online in a way that's useful to themselves and others.
+I've spent an unhealthy amount of time online over the course of my life, and in the last couple years I've been managing a [Discord server](https://discord.gg/EEkFwbv) for people who are [learning computer science](https://www.boot.dev/). Like all online communities, we have ban, kick, and moderation policies so that we're not overrun with spammers and other non-contributors. However, I'm not perfect, and I have realized recently that we get a decent number of members who at first glance seemed like a spammer, but it turns out they just have *no idea* how to communicate online in a way that's useful to themselves and others.
 
 Let's go over a few rules of thumb that I believe will take you from apparent scammer to valued community member. Also, I'll try to keep these tips platform agnostic, but you might notice that they're more tailored toward channels like Discord, Twitter, Slack, and Reddit because that's where I spend most of my time. Use common sense to extrapolate how these principles might apply to other corners of the web.
 

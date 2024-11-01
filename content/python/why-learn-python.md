@@ -2,13 +2,13 @@
 title: "Why Learn Python? 9 Key Reasons"
 author: Zulie Rane
 date: "2021-09-09"
-categories: 
+categories:
   - "python"
 images:
-  - /img/800/Why-learn-Python.webp
+  - /img/800/Why-https://www.boot.dev/courses/learn-code-python.webp
 ---
 
-Simple to learn, endlessly versatile, and perennially in demand by employers paying higher and higher salaries every year — it feels like there's a million reasons to learn Python. 
+Simple to learn, endlessly versatile, and perennially in demand by employers paying higher and higher salaries every year — it feels like there's a million reasons to learn Python.
 
 I mean, what's not to love about being a Python programmer?
 
@@ -22,7 +22,7 @@ Python was first developed by Dutch programmer Guido van Rossum over the Christm
 
 Python is a high-level programming language designed to read as easily as possible. Its syntax follows plain English — a breath of fresh air compared to less intuitive languages like Java or C++ — and it's an object-oriented language that can also support functional programming, as well as empirical and structured paradigms.
 
-We also have a [course on functional programming](https://boot.dev/courses/learn-functional-programming)
+We also have a [course on functional programming](https://www.boot.dev/courses/learn-functional-programming-python)
 
 Python is dynamically and strongly typed, helping detect any errors you've made quickly and painlessly. As an interpreted language, Python code can run as soon as you've written it — so there's no delay in getting results, unlike code written in C++ or Java. And, as it's open-source, a huge range of frameworks and libraries have been developed on top of Python, for machine learning, AI, and many other uses.
 
@@ -84,7 +84,7 @@ R was long considered the gold standard for data science programming languages, 
 
 A major reason for Python's growth is its accessibility: non-math experts prefer Python's intuitive and readable syntax, providing a much flatter learning curve into data science and analysis.
 
-Dig deeper with our article [comparing R vs Python](https://boot.dev/python/r-vs-python/)
+Dig deeper with our article [comparing R vs Python](https://blog.boot.dev/python/r-vs-python/)
 
 Python is also considered more scalable and overall easier to maintain than R. Python data science packages like NumPy and Pandas greatly add to your data science capabilities, and Python is also used extensively to collect and conduct research for machine learning and AI, with frameworks such as Google's TensorFlow also available.
 
@@ -158,6 +158,6 @@ It's basically a who's who of top companies.
 
 We're confident that Python will continue to be a major player in computer science, and hope to have answered your questions on why you should learn Python this year.
 
-Python is a fantastic language, and we developed our [Learn Python](https://boot.dev/courses/learn-python) course because we're so confident it's the future. Our Python course teaches you the basics of Python, with over 65 lessons that take you from beginner to intermediate. After that, we have a range of more specialized courses in Python, such as our [Data Structures course](https://boot.dev/courses/learn-data-structures), and our [Advanced Algorithms course](https://boot.dev/courses/learn-advanced-algorithms).
+Python is a fantastic language, and we developed our [Learn Python](https://www.boot.dev/courses/learn-code-python) course because we're so confident it's the future. Our Python course teaches you the basics of Python, with over 65 lessons that take you from beginner to intermediate. After that, we have a range of more specialized courses in Python, such as our [Data Structures course](https://www.boot.dev/courses/learn-data-structures-python), and our [Advanced Algorithms course](https://www.boot.dev/courses/learn-algorithms-2-python).
 
 All our courses are free to audit, and we're in the process of developing an entire computer science curriculum to take you from your current level to a CS grad.

@@ -10,7 +10,7 @@ imageAlts:
   - "Man writing on hundreds of scrolls of paper"
 ---
 
-As the founder of [Boot.dev](https://boot.dev), I've worked with countless students who are eager to break into the tech industry. And time and time again, I see the same question pop up: "Do I need to start a blog to get a coding job?"
+As the founder of [Boot.dev](https://www.boot.dev), I've worked with countless students who are eager to break into the tech industry. And time and time again, I see the same question pop up: "Do I need to start a blog to get a coding job?"
 
 It's a valid question. There's a lot of buzz around personal branding and the importance of building an online presence. But as someone who worked (and I guess still works) as a hiring manager, I can tell you that blogs are *mostly* overrated.
 
@@ -46,7 +46,7 @@ At the end of the day, what matters is your ability to solve problems, create va
 
 * [A good portfolio of GitHub projects](/jobs/build-github-profile/)
 * Solid open-source contributions
-* Networking with other developers at meetups in [online communities](https://boot.dev/community)
+* Networking with other developers at meetups in [online communities](https://www.boot.dev/community)
 
 Don't let the hype around personal branding make you feel like you're not doing enough if you don't have a large following on social media. Focus on building skills in order to write amazing code that solves real-world problems. The rest will follow.
 

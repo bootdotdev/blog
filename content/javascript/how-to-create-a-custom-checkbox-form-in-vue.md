@@ -10,7 +10,7 @@ images:
 
 You have a problem. The browser's default checkbox form is ugly and outdated, but importing an entire library just to change the styling seems like overkill. Instead, let's build a custom checkbox form component from scratch. It will take 15 minutes to type up, or just 3 if you just copy and paste my boilerplate code.
 
-Before we dive into how it works, you can see a live demo [here](https://codesandbox.io/s/custom-checkbox-component-u378c?file=/src/components/Checkbox.vue), or you can see how we are using it in production on the signup flow of boot.dev's [coding courses platform.](https://boot.dev/)
+Before we dive into how it works, you can see a live demo [here](https://codesandbox.io/s/custom-checkbox-component-u378c?file=/src/components/Checkbox.vue), or you can see how we are using it in production on the signup flow of boot.dev's [coding courses platform.](https://www.boot.dev/)
 
 ## The HTML
 

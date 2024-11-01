@@ -2,7 +2,7 @@
 title: "What’s the Best Backend For React? 5 Options to Choose From"
 author: Natalie Schooner
 date: "2023-06-26"
-categories: 
+categories:
   - "backend"
 images:
   - /img/800/reactwarriorperson.png.webp
@@ -16,13 +16,13 @@ The truth is there is any number of reasons you’d want to know which backend t
 
 React is one of the most popular front-end technologies in use today, serving as a front-end library for building user interfaces on [over 11 million](https://trends.builtwith.com/javascript/React) websites. According to [StackOverflow’s 2023 Developer Survey](https://survey.stackoverflow.co/2023), it’s the [most desired](https://survey.stackoverflow.co/2023/#section-admired-and-desired-web-frameworks-and-technologies) web framework (35%), the [most used](https://survey.stackoverflow.co/2023/#most-popular-technologies-webframe-prof) web framework among professional developers (42%), and the [most loved](https://survey.stackoverflow.co/2023/#section-worked-with-vs-want-to-work-with-web-frameworks-and-technologies) web framework – over 90% of respondents want to continue developing with React.
 
-That’s a lot of superlatives! Why *is* React so popular among web developers? Well:
+That’s a lot of superlatives! Why _is_ React so popular among web developers? Well:
 
-* It’s easy for JavaScript developers of all skill levels to use in new or existing projects due to its straightforward design.
-* It’s easy to scale, thanks to its modular nature — components are easy to extract, merge, and reuse.
-* Its virtual DOM means faster rendering than many other frameworks, which makes it a top choice for high-performance applications.
+- It’s easy for JavaScript developers of all skill levels to use in new or existing projects due to its straightforward design.
+- It’s easy to scale, thanks to its modular nature — components are easy to extract, merge, and reuse.
+- Its virtual DOM means faster rendering than many other frameworks, which makes it a top choice for high-performance applications.
 
-Before we dive into these five backend frameworks for React, a quick note: if your architecture is *decoupled* – for example, if your front end [single page application](https://developer.mozilla.org/en-US/docs/Glossary/SPA) contacts your REST API on another server – it does not matter what your backend is written in. There’s also a reason I’ve selected five options, rather than just giving you the top choice. **Choices of technology always depend on your situation.** For instance, while Next.js is the most popular meta-framework for React, vanilla Node.js is a good choice if you need more flexibility.
+Before we dive into these five backend frameworks for React, a quick note: if your architecture is _decoupled_ – for example, if your front end [single page application](https://developer.mozilla.org/en-US/docs/Glossary/SPA) contacts your REST API on another server – it does not matter what your backend is written in. There’s also a reason I’ve selected five options, rather than just giving you the top choice. **Choices of technology always depend on your situation.** For instance, while Next.js is the most popular meta-framework for React, vanilla Node.js is a good choice if you need more flexibility.
 
 | Backend Option    | Description                                                                         | When to Use                                                                                                                                     |
 | ----------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -36,13 +36,13 @@ Before we dive into these five backend frameworks for React, a quick note: if yo
 
 If you’re still not sure why your situation should matter so much, here are some key considerations to take into account when considering backend development for React.
 
-* **Community**: Especially during the initial getting-used-to-it phase, you want ongoing updates, resources, and a helpful community for problem-solving.
-* **Documentation and a short learning curve**: Bad documentation makes it hard to implement new backends. Clear documentation helps your developers learn quickly and be productive.
-* **Performance and scalability**: It’s fine today, but what about tomorrow? Your backend should handle expected loads and scale effectively as your application grows. Backend performance matters for user experience.
-* **Integration**: Consider how easily backend integrations will work. For example, are there popular client libraries for your chosen3rd party vendors like Stripe or Twilio?
-* **Security**: Backend security means authentication and data protection, to keep user data secure.
-* **Maintenance and support**: Consider the long-term backend maintenance for React and the availability of support services for the chosen backend technology.
-* **Cost and resources**: Tally up licensing fees, hosting, and resource requirements. Do they fit within your budget and available resources? You want a cost-effective backend for React.
+- **Community**: Especially during the initial getting-used-to-it phase, you want ongoing updates, resources, and a helpful community for problem-solving.
+- **Documentation and a short learning curve**: Bad documentation makes it hard to implement new backends. Clear documentation helps your developers learn quickly and be productive.
+- **Performance and scalability**: It’s fine today, but what about tomorrow? Your backend should handle expected loads and scale effectively as your application grows. Backend performance matters for user experience.
+- **Integration**: Consider how easily backend integrations will work. For example, are there popular client libraries for your chosen3rd party vendors like Stripe or Twilio?
+- **Security**: Backend security means authentication and data protection, to keep user data secure.
+- **Maintenance and support**: Consider the long-term backend maintenance for React and the availability of support services for the chosen backend technology.
+- **Cost and resources**: Tally up licensing fees, hosting, and resource requirements. Do they fit within your budget and available resources? You want a cost-effective backend for React.
 
 ## A quick note on decoupled architectures
 
@@ -52,11 +52,11 @@ I promise we’ll get to the list soon, but I want to better explain my decouple
 
 [- image source](https://www.linkedin.com/pulse/decoupled-architecture-wordpress-drupal-josh-koenig/)
 
-In the context of this React backend comparison, this means that the React frontend can interact with a backend implemented in *any* language or framework, as long as it provides a suitable API. For example, our own [Boot.dev](https://boot.dev) architecture is decoupled. The SPA (frontend) is served from the domain "boot.dev" while the API (backend) is served from "api.boot.dev"
+In the context of this React backend comparison, this means that the React frontend can interact with a backend implemented in _any_ language or framework, as long as it provides a suitable API. For example, our own [Boot.dev](https://www.boot.dev) architecture is decoupled. The SPA (frontend) is served from the domain "boot.dev" while the API (backend) is served from "api.boot.dev"
 
 ### Benefits to decoupling
 
-First, it grants you more **flexibility**. You can choose different technologies for the frontend and backend based on their strengths. For example, you can use React for the frontend and choose a backend technology that excels at handling specific tasks like data processing, real-time updates, or complex business logic even if it’s not a perfect native fit for React. (cough, cough, [Golang](https://boot.dev/courses/learn-golang))
+First, it grants you more **flexibility**. You can choose different technologies for the frontend and backend based on their strengths. For example, you can use React for the frontend and choose a backend technology that excels at handling specific tasks like data processing, real-time updates, or complex business logic even if it’s not a perfect native fit for React. (cough, cough, [Golang](https://www.boot.dev/courses/learn-golang))
 
 It’s also more **scalable** to decouple your architecture. You can independently scale each component based on its specific requirements. For instance, you might add more frontend servers to handle increased user traffic or scale the backend independently to handle heavy computational tasks or database operations.
 
@@ -98,9 +98,9 @@ A meta-framework like Next.js really shines when you need the very first page lo
 
 ## Django (Python)
 
-Django is a high-level Python web framework known for its "batteries-included" approach, providing a robust set of tools and functionalities for web development. Here at Boot.dev, we’ve got a [pretty strong opinion](/backend/dont-start-with-frameworks/) on batteries-included tools like frameworks, specifically that it’s really important that you understand the *fundamentals* of the tools you use, instead of blindly relying on them. That way, when they break, you can fix them.
+Django is a high-level Python web framework known for its "batteries-included" approach, providing a robust set of tools and functionalities for web development. Here at Boot.dev, we’ve got a [pretty strong opinion](/backend/dont-start-with-frameworks/) on batteries-included tools like frameworks, specifically that it’s really important that you understand the _fundamentals_ of the tools you use, instead of blindly relying on them. That way, when they break, you can fix them.
 
-If you're interested in learning Python for backend development you can check out [our full Python course here](https://boot.dev/courses/learn-python).
+If you're interested in learning Python for backend development you can check out [our full Python course here](https://www.boot.dev/courses/learn-code-python).
 
 However, it’s still a great option as a backend for your React app. Django offers a mature ecosystem and a wide range of built-in features such as authentication, ORM, and an admin panel. It also integrates well with React using RESTful APIs, which goes back to my point on decoupling. This allows your frontend and backend to be decoupled while still getting the benefit of Django's backend capabilities.
 
@@ -118,7 +118,7 @@ At least in 2021, [both Facebook and Instagram](https://instagram-engineering.co
 
 Golang, also known as Go, is a statically typed, compiled language developed by Google. It is known for its simplicity, efficiency, and ability to handle concurrent operations due to its unique [goroutines](https://go.dev/tour/concurrency/1). Go comes with a powerful standard library, which includes inbuilt support for web server implementation, meaning you won't need a fully-fledged web framework like Express.js or Django.
 
-Go is an excellent choice for creating highly performant backend systems, and if you're interested in learning Go for backend development, check out our [full Golang course here](https://boot.dev/courses/learn-golang).
+Go is an excellent choice for creating highly performant backend systems, and if you're interested in learning Go for backend development, check out our [full Golang course here](https://www.boot.dev/courses/learn-golang).
 
 As a backend for React, Go offers speed and efficiency that few other languages can match. The efficient handling of concurrent processes makes it ideal for applications dealing with high traffic and computationally heeavy workloads. Furthermore, Go's simplicity and straightforward syntax make it easier to learn and use, especially for developers already familiar with languages like JavaScript.
 

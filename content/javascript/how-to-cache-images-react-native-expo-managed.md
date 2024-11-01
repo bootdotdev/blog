@@ -31,7 +31,7 @@ Use the component in a render() method:
 ```html
 <CachedImage
   isBackground
-  source={{ uri: 'https://boot.dev/wp-content/uploads/2019/05/QVault-app.png' }}
+  source={{ uri: 'https://www.boot.dev/wp-content/uploads/2019/05/QVault-app.png' }}
 />
 ```
 
@@ -40,7 +40,7 @@ The CachedImage component has the same props and API as React Native's [Image](h
 ```html
 <CachedImage
   isBackground
-  source={{ uri: 'https://boot.dev/wp-content/uploads/2019/05/QVault-app.png' }}
+  source={{ uri: 'https://www.boot.dev/wp-content/uploads/2019/05/QVault-app.png' }}
 />
 ```
 

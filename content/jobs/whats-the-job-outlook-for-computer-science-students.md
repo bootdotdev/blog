@@ -75,7 +75,7 @@ Backend developers will also have to get cozy with other technologies that their
 * Kubernetes (orchestration)
 * Helm (orchestration)
 
-Again, back-end developers don't need to be familiar with *everything* on this list, but they need to be able to use whatever specific technologies a given position requires. If you're interested ib becoming a backend developer, check out [Boot.dev's full backend learning path](https://boot.dev).
+Again, back-end developers don't need to be familiar with *everything* on this list, but they need to be able to use whatever specific technologies a given position requires. If you're interested ib becoming a backend developer, check out [Boot.dev's full backend learning path](https://www.boot.dev).
 
 Salary on Average: [*$150,000*](https://survey.stackoverflow.co/2022/#salary-united-states)
 

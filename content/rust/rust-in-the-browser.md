@@ -2,13 +2,13 @@
 title: "Running Rust in the Browser with Web Assembly"
 author: Lane Wagner
 date: "2020-10-12"
-categories: 
+categories:
   - "rust"
 images:
   - /img/800/rust.jpeg
 ---
 
-I've recently been working on getting Rust support in the [boot.dev app](https://boot.dev/). To write a more engaging course, I want students to be able to write and execute code right in the browser. As I've learned from my previous posts on this topic, the easiest way to sandbox code execution on a server is to _not_ execute code on a server. Enter Web Assembly, stage left.
+I've recently been working on getting Rust support in the [boot.dev app](https://www.boot.dev/). To write a more engaging course, I want students to be able to write and execute code right in the browser. As I've learned from my previous posts on this topic, the easiest way to sandbox code execution on a server is to _not_ execute code on a server. Enter Web Assembly, stage left.
 
 ## Deprecation Disclaimer!
 
@@ -402,9 +402,9 @@ The main difference here comes down to the `rust_worker.js` file. The equivalent
 
 ```js
 // send(line) sends a single line of stdout back to the browser to // be rendered in the on-screen console
-function send(line){
+function send(line) {
   postMessage({
-    message: readString(line)
+    message: readString(line),
   });
 }
 
@@ -419,38 +419,42 @@ function readString(ptr) {
   while (view[end]) ++end;
 
   const buf = new Uint8Array(view.subarray(ptr, end));
-  return (new TextDecoder()).decode(buf);
+  return new TextDecoder().decode(buf);
 }
 
 // addEventListener is a handler that get's called whenever the
 // main thread (editor) sends us some WASM to execute
-addEventListener('message', async (e) => {
-  const result = await WebAssembly.instantiate(e.data, {
-    // here we define the print, eprint, and trace
-    // functions as specified in the glue from above
-    // they just send stdout back using the send function
-    env: {
-      print(ptr){
-        send(ptr);
+addEventListener(
+  "message",
+  async (e) => {
+    const result = await WebAssembly.instantiate(e.data, {
+      // here we define the print, eprint, and trace
+      // functions as specified in the glue from above
+      // they just send stdout back using the send function
+      env: {
+        print(ptr) {
+          send(ptr);
+        },
+        eprint(ptr) {
+          send(ptr);
+        },
+        trace(ptr) {
+          send(ptr);
+        },
       },
-      eprint(ptr) {
-        send(ptr);
-      },
-      trace(ptr) {
-        send(ptr);
-      }
-    }
-  });
+    });
 
-  memory = result.instance.exports.memory;
+    memory = result.instance.exports.memory;
 
-  // run the main() function of the WASM code 
-  await result.instance.exports.main();
+    // run the main() function of the WASM code
+    await result.instance.exports.main();
 
-  // let the editor know we've sent all the output and have
-  // finished
-  postMessage({
-    done: true
-  });
-}, false);
+    // let the editor know we've sent all the output and have
+    // finished
+    postMessage({
+      done: true,
+    });
+  },
+  false
+);
 ```

@@ -2,7 +2,7 @@
 title: "Learn Go Fast - Top Courses and Resources"
 author: Lane Wagner
 date: "2020-11-02"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/fast-car.webp
@@ -16,11 +16,11 @@ The Go programming language, or Golang for short, is an open-source programming 
 
 ## Best Courses
 
-### [1. Learn Go - Boot.dev](https://boot.dev/)
+### [1. Learn Go - Boot.dev](https://www.boot.dev/)
 
 ![](/img/800/social-150x150.jpg)
 
-We obviously have to give ourselves credit! We have recently released our new [Learn Go course](https://boot.dev/courses/learn-golang). This course can be taken entirely in the browser and covers all the basic syntax and concepts of Go. If you have some development experience and want to start your Go career, this is the course for you.
+We obviously have to give ourselves credit! We have recently released our new [Learn Go course](https://www.boot.dev/courses/learn-golang). This course can be taken entirely in the browser and covers all the basic syntax and concepts of Go. If you have some development experience and want to start your Go career, this is the course for you.
 
 ### [2. Go By Example](https://gobyexample.com/)
 

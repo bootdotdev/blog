@@ -1,184 +1,147 @@
-// modified from
-// https://github.com/golang/go/blob/master/misc/linkcheck/linkcheck.go
-
 package main
 
 import (
-	"errors"
-	"flag"
 	"fmt"
-	"io"
-	"log"
 	"net/http"
+	"net/url"
 	"os"
-	"regexp"
 	"strings"
 	"sync"
+	"time"
+
+	"golang.org/x/net/html"
 )
 
-var (
-	root    = flag.String("root", "http://localhost:1313", "Root to crawl")
-	verbose = flag.Bool("verbose", false, "verbose")
-)
-
-var wg sync.WaitGroup        // outstanding fetches
-var urlq = make(chan string) // URLs to crawl
-
-// urlFrag is a URL and its optional #fragment (without the #)
-type urlFrag struct {
-	url, frag string
+type result struct {
+	url  string
+	err  error
+	code int
 }
 
 var (
-	mu          sync.Mutex
-	crawled     = make(map[string]bool)      // URL without fragment -> true
-	neededFrags = make(map[urlFrag][]string) // URL#frag -> who needs it
+	visited       = make(map[string]bool)
+	mux           sync.Mutex
+	baseURL       = "http://localhost:1313" // Change to your local server address
+	concurrency   = 3                       // Set the desired concurrency level
+	requestDelay  = 2000 * time.Millisecond // Set the desired delay between requests
+	semaphoreChan = make(chan struct{}, concurrency)
 )
-
-var aRx = regexp.MustCompile(`<a href=['"]?(/[^\s'">]+)`)
-
-// Owned by crawlLoop goroutine:
-var (
-	linkSources = make(map[string][]string) // url no fragment -> sources
-	fragExists  = make(map[urlFrag]bool)
-	problems    []string
-)
-
-func localLinks(body string) (links []string) {
-	seen := map[string]bool{}
-	mv := aRx.FindAllStringSubmatch(body, -1)
-	for _, m := range mv {
-		ref := m[1]
-		if strings.HasPrefix(ref, "/src/") {
-			continue
-		}
-		if !seen[ref] {
-			seen[ref] = true
-			links = append(links, m[1])
-		}
-	}
-	return
-}
-
-var idRx = regexp.MustCompile(`\bid=['"]?([^\s'">]+)`)
-
-func pageIDs(body string) (ids []string) {
-	mv := idRx.FindAllStringSubmatch(body, -1)
-	for _, m := range mv {
-		ids = append(ids, m[1])
-	}
-	return
-}
-
-// url may contain a #fragment, and the fragment is then noted as needing to exist.
-func crawl(url string, sourceURL string) {
-	mu.Lock()
-	defer mu.Unlock()
-	if u, frag, ok := strings.Cut(url, "#"); ok {
-		url = u
-		if frag != "" {
-			uf := urlFrag{url, frag}
-			neededFrags[uf] = append(neededFrags[uf], sourceURL)
-		}
-	}
-	if crawled[url] {
-		return
-	}
-	crawled[url] = true
-
-	wg.Add(1)
-	go func() {
-		urlq <- url
-	}()
-}
-
-func addProblem(url, errmsg string) {
-	msg := fmt.Sprintf("Error on %s: %s (from %s)", url, errmsg, linkSources[url])
-	if *verbose {
-		log.Print(msg)
-	}
-	problems = append(problems, msg)
-}
-
-func crawlLoop() {
-	for url := range urlq {
-		if err := doCrawl(url); err != nil {
-			addProblem(url, err.Error())
-		}
-	}
-}
-
-func doCrawl(url string) error {
-	defer wg.Done()
-
-	req, err := http.NewRequest("GET", url, nil)
-	if err != nil {
-		return err
-	}
-	res, err := http.DefaultTransport.RoundTrip(req)
-	if err != nil {
-		return err
-	}
-	// Handle redirects.
-	if res.StatusCode/100 == 3 {
-		newURL, err := res.Location()
-		if err != nil {
-			return fmt.Errorf("resolving redirect: %v", err)
-		}
-		if !strings.HasPrefix(newURL.String(), *root) {
-			// Skip off-site redirects.
-			return nil
-		}
-		crawl(newURL.String(), url)
-		return nil
-	}
-	if res.StatusCode != 200 {
-		return errors.New(res.Status)
-	}
-	slurp, err := io.ReadAll(res.Body)
-	res.Body.Close()
-	if err != nil {
-		log.Fatalf("Error reading %s body: %v", url, err)
-	}
-	if *verbose {
-		log.Printf("Len of %s: %d", url, len(slurp))
-	}
-	body := string(slurp)
-	for _, ref := range localLinks(body) {
-		if *verbose {
-			log.Printf("  links to %s", ref)
-		}
-		dest := *root + ref
-		linkSources[dest] = append(linkSources[dest], url)
-		crawl(dest, url)
-	}
-	for _, id := range pageIDs(body) {
-		if *verbose {
-			log.Printf(" url %s has #%s", url, id)
-		}
-		fragExists[urlFrag{url, id}] = true
-	}
-	return nil
-}
 
 func main() {
-	flag.Parse()
+	var wg sync.WaitGroup
+	results := make(chan result)
 
-	go crawlLoop()
-	crawl(*root, "")
+	go func() {
+		for r := range results {
+			if r.err != nil || r.code >= 400 {
+				fmt.Printf("BROKEN: %s (status: %d, error: %v)\n", r.url, r.code, r.err)
+			}
+		}
+	}()
 
+	// Start crawling from the base URL
+	wg.Add(1)
+	go crawl(baseURL, &wg, results)
+
+	// Wait for all crawling to finish, then close the results channel
 	wg.Wait()
-	close(urlq)
-	for uf, needers := range neededFrags {
-		if !fragExists[uf] {
-			problems = append(problems, fmt.Sprintf("Missing fragment for %+v from %v", uf, needers))
+	close(results)
+}
+
+func crawl(link string, wg *sync.WaitGroup, results chan<- result) {
+	defer wg.Done()
+
+	mux.Lock()
+	if visited[link] {
+		// Skip the request and sleep if already visited
+		mux.Unlock()
+		return
+	}
+	visited[link] = true
+	mux.Unlock()
+
+	// Limit concurrency by acquiring a semaphore
+	semaphoreChan <- struct{}{}
+	defer func() { <-semaphoreChan }()
+
+	// Throttle each request only for the first time
+	time.Sleep(requestDelay)
+
+	fmt.Println("FETCH:", link)
+	resp, err := http.Get(link)
+	if err != nil {
+		results <- result{url: link, err: err, code: 0}
+		return
+	}
+	defer resp.Body.Close()
+
+	results <- result{url: link, code: resp.StatusCode}
+
+	// Only continue if the page is OK (status 200)
+	if resp.StatusCode == 200 {
+		links := extractLinks(resp, link)
+		for _, l := range links {
+			if strings.HasPrefix(l, baseURL) {
+				// Internal link: crawl recursively
+				wg.Add(1)
+				go crawl(l, wg, results)
+			} else {
+				// External link: check once
+				wg.Add(1)
+				go func(link string) {
+					defer wg.Done()
+					mux.Lock()
+					if visited[link] {
+						mux.Unlock()
+						return
+					}
+					visited[link] = true
+					mux.Unlock()
+
+					semaphoreChan <- struct{}{}
+					defer func() { <-semaphoreChan }()
+					time.Sleep(requestDelay) // Throttle external link requests
+
+					fmt.Println("FETCH:", link)
+					resp, err := http.Get(link)
+					code := 0
+					if err == nil {
+						code = resp.StatusCode
+						resp.Body.Close()
+					}
+					results <- result{url: link, err: err, code: code}
+				}(l)
+			}
 		}
 	}
+}
 
-	for _, s := range problems {
-		fmt.Println(s)
+func extractLinks(resp *http.Response, base string) []string {
+	links := []string{}
+	baseURL, err := url.Parse(base)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error parsing base URL %s: %v\n", base, err)
+		return links
 	}
-	if len(problems) > 0 {
-		os.Exit(1)
+
+	doc := html.NewTokenizer(resp.Body)
+	for {
+		tt := doc.Next()
+		switch tt {
+		case html.ErrorToken:
+			return links
+		case html.StartTagToken, html.SelfClosingTagToken:
+			t := doc.Token()
+			if t.Data == "a" {
+				for _, a := range t.Attr {
+					if a.Key == "href" {
+						href, err := baseURL.Parse(a.Val)
+						if err == nil && (href.Scheme == "http" || href.Scheme == "https") {
+							links = append(links, href.String())
+						}
+					}
+				}
+			}
+		}
 	}
 }

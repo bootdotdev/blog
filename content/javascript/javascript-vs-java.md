@@ -2,13 +2,13 @@
 title: "JavaScript vs Java - Differences, Similarities, and History"
 author: Lane Wagner
 date: "2020-11-06"
-categories: 
+categories:
   - "javascript"
 images:
   - /img/800/java-vs-javascript.webp
 ---
 
-The naming of Java and JavaScript confuses many new programmers. They sound so similar, so one might think they have the same use-cases, similar properties, or maybe the same company created both languages. None of those assumptions are true! JavaScript is primarily used as a front-end in-the-browser language, like how we use it for [boot.dev's courses](https://boot.dev/). Java has been used for everything from games, to desktop apps, to backend APIs. Let's go over the differences between JavaScript vs Java in this quick read.
+The naming of Java and JavaScript confuses many new programmers. They sound so similar, so one might think they have the same use-cases, similar properties, or maybe the same company created both languages. None of those assumptions are true! JavaScript is primarily used as a front-end in-the-browser language, like how we use it for [boot.dev's courses](https://www.boot.dev/). Java has been used for everything from games, to desktop apps, to backend APIs. Let's go over the differences between JavaScript vs Java in this quick read.
 
 ## Java - Brief History
 
@@ -37,7 +37,7 @@ In an attempt to beat Microsoft, Netscape partnered with Sun Microsystems. They 
 JavaScript started as a small scripting language to perform actions on the client-side within the browser. Development was rushed and interesting design choices were made, including:
 
 - Optional semi-colon line endings
-- Objects and classes but with limited [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+- Objects and classes but with limited [encapsulation](<https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)>)
 - Single-threaded (Callback based, no concurrency)
 
 However, JavaScript was positioned uniquely. This would contribute to it becoming the [most used programming language](https://octoverse.github.com/#top_languages) today. The following points attributed to its widespread success:
@@ -82,7 +82,7 @@ What really slows JavaScript down is that it is interpreting code at runtime. At
 
 In Java, **everything** is a class and OOP is enforced in an authoritarian manner.
 
-In JavaScript, classes are optional, and [functional programming](https://boot.dev/courses/learn-functional-programming) is possible and even [encouraged](/clean-code/benefits-of-functional-programming/) lately. JavaScript has most of the OOP paradigms available in the language. However, [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) is not as robust as it is with Java.
+In JavaScript, classes are optional, and [functional programming](https://www.boot.dev/courses/learn-functional-programming-python) is possible and even [encouraged](/clean-code/benefits-of-functional-programming/) lately. JavaScript has most of the OOP paradigms available in the language. However, [encapsulation](<https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)>) is not as robust as it is with Java.
 
 ## Threading and Concurrency
 

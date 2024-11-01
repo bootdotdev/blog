@@ -2,11 +2,11 @@
 title: "How to Recursively Traverse JSON Objects"
 author: Lane Wagner
 date: "2019-09-22"
-categories: 
+categories:
   - "javascript"
 images:
   - /img/800/recursivelytraversejsonobjects.png.webp
-imageAlts: 
+imageAlts:
   - "this thing is a recursive json object, definitely"
 ---
 
@@ -23,12 +23,12 @@ For example:
 ```js
 function printArrayRecursive(arr, i) {
   // base case, stop recurring
-  if (i === arr.length){
+  if (i === arr.length) {
     return;
   }
-  console.log(arr[i])
+  console.log(arr[i]);
   // call ourself with the next index
-  recursive(arr, i+1)
+  recursive(arr, i + 1);
 }
 ```
 
@@ -37,9 +37,9 @@ In the code above, `printArrayRecursive` prints one element from the list, then 
 The same function looks quite a bit different in the **iterative** world, which you are probably more familiar with:
 
 ```js
-function printArrayIterative(arr){
-  for (let i = 0; i < arr.length; i++){
-    console.log(arr[i])
+function printArrayIterative(arr) {
+  for (let i = 0; i < arr.length; i++) {
+    console.log(arr[i]);
   }
 }
 ```
@@ -73,7 +73,7 @@ Recursively print all properties of a JSON object:
 function printAllVals(obj) {
   for (let k in obj) {
     if (typeof obj[k] === "object") {
-      printAllVals(obj[k])
+      printAllVals(obj[k]);
     } else {
       // base case, stop recurring
       console.log(obj[k]);
@@ -88,15 +88,15 @@ Recursively print all the filenames of a folder, and its subfolders, and their s
 function printSubFiles(dir) {
   files = fs.readdirSync(dir);
   files.forEach(function (file) {
-    absName = `${dir}/${file}`
+    absName = `${dir}/${file}`;
     if (fs.statSync(absName).isDirectory()) {
-      printSubFiles(absName)
+      printSubFiles(absName);
     } else {
       // base case, stop recurring
-      console.log(file)
+      console.log(file);
     }
   });
-};
+}
 ```
 
 When trying to figure out how to write a function recursively, think:
@@ -111,4 +111,4 @@ and
 
 > How do I call myself to get to the next value?
 
-Recursion is an important principle to understand for any programmer, and I hope this helps you be just a little better! If you're interested in learning more about recursion and functional programming principles, take a look at our [functional programming course.](https://boot.dev/courses/learn-functional-programming)
+Recursion is an important principle to understand for any programmer, and I hope this helps you be just a little better! If you're interested in learning more about recursion and functional programming principles, take a look at our [functional programming course.](https://www.boot.dev/courses/learn-functional-programming-python)

@@ -2,7 +2,7 @@
 title: "R vs Python: Which Is Best for Data?"
 author: Meghan Reichenbach
 date: "2021-08-25"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/R-vs-Python-min.png
@@ -56,7 +56,7 @@ It also has a massive thriving and welcoming community, which is perfect as an o
 
 Alternatively, R's greatness in data science lies with statistical data. It has a set of packages called the [Tidyverse](https://www.tidyverse.org/), which are powerful but easy-to-learn tools for importing, manipulating, visualizing, and reporting on data.
 
-The real difference for R is it's a programming language for non-programmers. Think researchers, academics, and anyone using statistics, but isn't necessarily a "developer".  R gives these users easy access to high-grade data visualization and charts.  
+The real difference for R is it's a programming language for non-programmers. Think researchers, academics, and anyone using statistics, but isn't necessarily a "developer". R gives these users easy access to high-grade data visualization and charts.
 
 R also has the [Shiny](https://shiny.rstudio.com/) package for dashboard creations, which allows those with little technical experience to easily craft and publish dashboards to share with colleagues.
 
@@ -132,6 +132,6 @@ However, if you want to strictly study data and access statistical help, have no
 
 In the end, both languages offer amazing resources, benefits, and careers, but your goals need to align with them to get the most out of either language.
 
-**If you're looking to learn Python**, we designed our [Learn Python](https://boot.dev/courses/learn-python) course to teach you the fundamentals and reach an intermediate skill level. From there, you'll have the tools you need to land an entry-level Python job. If you've already got the fundamentals down, we also have a [data structures course](https://boot.dev/courses/learn-data-structures) and [advanced algorithms course](https://boot.dev/courses/learn-advanced-algorithms) to finetune your Python skills.
+**If you're looking to learn Python**, we designed our [Learn Python](https://www.boot.dev/courses/learn-code-python) course to teach you the fundamentals and reach an intermediate skill level. From there, you'll have the tools you need to land an entry-level Python job. If you've already got the fundamentals down, we also have a [data structures course](https://www.boot.dev/courses/learn-data-structures-python) and [advanced algorithms course](https://www.boot.dev/courses/learn-algorithms-2-python) to finetune your Python skills.
 
 Our courses are fully interactive, where you code the answer to each lesson's challenge, giving you hands-on experience in real-life mimicking scenarios. Learning by doing is the most effective way to fast-track your learning and get qualified and employed in your dream coding role.

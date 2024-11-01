@@ -54,7 +54,7 @@ At this stage, you should totally understand your own motivations for wanting to
 
 Before you make your final decision, you will want to consider the main goal of your computer science certificate. The one thing that makes it a great option is that it's like a stamp of approval - a way to show employers that you know what you're doing, and look, someone else agrees. 
 
-To get that from a certificate in computer science, you can conduct a cost-benefit analysis on the certificate you have in mind. For example, some places let you build a [developer portfolio](https://boot.dev/u/wagslane) that will show not just the certificate, but all the skills leading up to it that you will have completed to be awarded the certificate. Others only offer a badge to paste on LinkedIn, or a piece of paper you can produce if asked.
+To get that from a certificate in computer science, you can conduct a cost-benefit analysis on the certificate you have in mind. For example, some places let you build a [developer portfolio](https://www.boot.dev/u/wagslane) that will show not just the certificate, but all the skills leading up to it that you will have completed to be awarded the certificate. Others only offer a badge to paste on LinkedIn, or a piece of paper you can produce if asked.
 
 They should also actually either teach you the skills you need or prove you already know them. It's no good to wield your computer science certificate on your [resume](/computer-science/computer-science-resumes/) to land a job interview, then fail to answer their questions due to a fundamental lack of comprehension.
 

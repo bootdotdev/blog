@@ -2,7 +2,7 @@
 title: "PHP vs JavaScript: Which is Best for Web Development?"
 author: Meghan Reichenbach
 date: "2021-11-10"
-categories: 
+categories:
   - "javascript"
 images:
   - /img/800/PHPvsJS.webp
@@ -34,7 +34,7 @@ When deciding on your first language, there are a few variables you need to cons
 
 The first thing to consider is that you need _useful_ language. Much like learning Latin, choosing a dead programming language, whilst enlightening, isn't going to get you hired and paid. And this brings us to the next topic: choose a language that pays well and is worth investing your money into learning.
 
-You also want a language that's easy to grasp, so you can start working sooner. You won't become a master within a week, but you should be able to confidently enter an interview and get yourself hired with a new language within a few months of picking it up, assuming you're already familiar with [programming basics](https://boot.dev/courses/learn-javascript).
+You also want a language that's easy to grasp, so you can start working sooner. You won't become a master within a week, but you should be able to confidently enter an interview and get yourself hired with a new language within a few months of picking it up, assuming you're already familiar with [programming basics](https://www.boot.dev/courses/learn-javascript).
 
 Now, JavaScript is without a doubt a useful language that's in demand. [Powering over 97%](https://w3techs.com/technologies/details/cp-javascript) of the world wide web, there's yet to be a language that does the job quite like JavaScript, and there's no sign of it changing.
 
@@ -58,7 +58,7 @@ However, when you look at the ratings for [most wanted and loved](https://insigh
 
 58% of people who use JavaScript reported they loved it and want to continue working with the language, but only 37% of people who use PHP stated the same. PHP also ranked 6th for the most dreaded language, with 62% of developers using the language expressing they have no interest in continuing to do so.
 
-JavaScript, on the other hand, continues its high streak coming in second as the most wanted language by developers, and first for most popular.  
+JavaScript, on the other hand, continues its high streak coming in second as the most wanted language by developers, and first for most popular.
 
 From these figures, it tells me that PHP earns decent money, the market simply isn't there. Developers seem uninterested in continuing to use it or to learn the language, so JavaScript earns this point for earning a higher salary and proving to be an unbeatable asset.
 
@@ -100,7 +100,7 @@ It's also incredibly flexible, allowing you to change or fix one "node" or event
 
 One fallback though is that because JS was not designed for backend work originally, it pulls up short when it comes to CPU-heavy computations in certain cases.
 
-Since PHP is designed for backend development, it earns a point for this round. If you want to learn a backend language, JavaScript and PHP aren't the only options. It may pay off to [learn Python](https://boot.dev/courses/learn-python) or [Golang](https://boot.dev/courses/learn-golang).
+Since PHP is designed for backend development, it earns a point for this round. If you want to learn a backend language, JavaScript and PHP aren't the only options. It may pay off to [learn Python](https://www.boot.dev/courses/learn-code-python) or [Golang](https://www.boot.dev/courses/learn-golang).
 
 ### JavaScript vs PHP for Frontend Development
 

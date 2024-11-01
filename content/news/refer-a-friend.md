@@ -2,7 +2,7 @@
 title: "Boot.dev's Refer a Friend Program"
 author: Lane Wagner
 date: "2020-12-29"
-categories: 
+categories:
   - "news"
 ---
 
@@ -12,7 +12,7 @@ We think learning is better with friends! For every person you invite to join, y
 
 Follow these steps to refer your friends directly from the app.
 
-1. [Login to Boot.dev](https://boot.dev/)
+1. [Login to Boot.dev](https://www.boot.dev/)
 2. Click the **Store** tab on the left
 3. Click "Invite friends, get free gems" from the bullet list
 4. Copy your unique invite link and share it with as many friends as you want

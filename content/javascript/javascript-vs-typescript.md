@@ -2,7 +2,7 @@
 title: "JavaScript vs TypeScript: What's the Difference?"
 author: Meghan Reichenbach
 date: "2021-09-06"
-categories: 
+categories:
   - "javascript"
 images:
   - /img/800/JavaScript-vs-TypeScript-min.webp
@@ -40,7 +40,7 @@ Oppositely, TypeScript is recommended as a second language.
 
 It has a steeper learning curve and a strict set of rules. Because TypeScript is a superset of JavaScript, it makes sense to learn JavaScript first, then tackle TypeScript once you understand the basics.
 
-Overall, JavaScript is the best for beginners, but the best route is to learn both. If you already have some coding skills but want to further improve, [our Functional Programming course teaches JavaScript and PureScript.](https://boot.dev/courses/learn-functional-programming) If you haven't heard of PureScript before, here's a quick comparison with TypeScript:
+Overall, JavaScript is the best for beginners, but the best route is to learn both. If you already have some coding skills but want to further improve, [our Functional Programming course teaches JavaScript and PureScript.](https://www.boot.dev/courses/learn-functional-programming-python) If you haven't heard of PureScript before, here's a quick comparison with TypeScript:
 
 ### TypeScript vs PureScript: A Mini Comparison
 
@@ -93,7 +93,7 @@ JavaScript was built for the World Wide Web, so it should come as no surprise th
 
 JavaScript _is_ the scripting language that brought us dynamic client-side web pages. By dynamic, I mean interactive user experiences with the web pages, i.e. content like images and text that can change. HTML only creates static web pages.
 
-Client-side dynamic web pages are when the interactive behavior is happening within the specific web page, as opposed to server-side dynamic web pages where it's sourced from between pages. 
+Client-side dynamic web pages are when the interactive behavior is happening within the specific web page, as opposed to server-side dynamic web pages where it's sourced from between pages.
 
 Along with being the founding father of modern web pages, JavaScript has an incredible catalog of libraries and frameworks that completely changed the game for both front-end and back-end web development.
 
@@ -135,6 +135,6 @@ In the end, adopting both languages will set you up for the best success career-
 
 ## For Further Study
 
-**For beginners**: we recommend our [Learn Python](https://boot.dev/courses/learn-python) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
+**For beginners**: we recommend our [Learn Python](https://www.boot.dev/courses/learn-code-python) for all brand-new coders looking to learn computer science. It's the first course in our curriculum and starts right from the beginning as you interactively code your first basic project -- a video game.
 
-**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://boot.dev/courses/learn-functional-programming), which mixes JS with PureScript. We also recommend our [Learn Go courses](https://boot.dev/courses/learn-golang) for anyone looking to learn Golang, as well as our [Learn Python course](https://boot.dev/courses/learn-python).
+**For coders with some experience:** our more advanced JavaScript courses include our Intro to [Functional Programming course](https://www.boot.dev/courses/learn-functional-programming-python), which mixes JS with PureScript. We also recommend our [Learn Go courses](https://www.boot.dev/courses/learn-golang) for anyone looking to learn Golang, as well as our [Learn Python course](https://www.boot.dev/courses/learn-code-python).

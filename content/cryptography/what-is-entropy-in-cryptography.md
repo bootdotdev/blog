@@ -14,7 +14,7 @@ If you're familiar with the [laws of thermodynamics](https://en.wikipedia.org/wi
 
 However, in [cryptography](/cryptography/what-is-cryptography/), [entropy](https://en.wikipedia.org/wiki/Entropy_(computing)) has a slightly different meaning. It refers to the randomness collected by a system for use in algorithms that require random seeds. A lack of good entropy can leave a crypto system vulnerable and unable to encrypt data securely.
 
-For example, the [Boot.dev](https://boot.dev/) checkout system needs to generate random coupon codes from time to time. If the coupon codes weren't generated with enough randomness, attackers could pre-compute the codes and steal access to the courses!
+For example, the [Boot.dev](https://www.boot.dev/) checkout system needs to generate random coupon codes from time to time. If the coupon codes weren't generated with enough randomness, attackers could pre-compute the codes and steal access to the courses!
 
 ## Computers are deterministic
 

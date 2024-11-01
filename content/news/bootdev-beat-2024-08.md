@@ -32,27 +32,27 @@ This has easily been our most requested feature of the last few months, and now 
 
 ### 4. Static Site Generator Revamp
 
-The [Static Site Generator Project](https://www.boot.dev/courses/build-static-site-generator) has had a big update, in particular, it's been made a bit easier (the feedback was that it was too hard for its spot in the curriculum) and it now gives a better up front explanation of the architecture of the project.
+The [Static Site Generator Project](https://www.boot.dev/courses/build-static-site-generator-python) has had a big update, in particular, it's been made a bit easier (the feedback was that it was too hard for its spot in the curriculum) and it now gives a better up front explanation of the architecture of the project.
 
 ### 5. Miscellaneous improvements
 
-* Achievements show the percentage of users who have completed them
-* You can now mark all notifications as read
-* New Boots emojis and profile picture
+- Achievements show the percentage of users who have completed them
+- You can now mark all notifications as read
+- New Boots emojis and profile picture
 
 ## What is yet to come
 
-* New Course: "Learn Memory Management in C"
-* New Course: "Linux System Administration" (this is a working title, we're still cooking...)
-* New Project: "Build an Asteroids Game"
-* New Track Option: The second half of the backend development track in TypeScript
+- New Course: "Learn Memory Management in C"
+- New Course: "Linux System Administration" (this is a working title, we're still cooking...)
+- New Project: "Build an Asteroids Game"
+- New Track Option: The second half of the backend development track in TypeScript
 
 ## Backend Banter Podcast
 
 This month's episodes include:
 
-* [#064 - You're doing networking wrong feat. Lawrence Lockhart](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/064---Youre-doing-networking-wrong-feat--Lawrence-Lockhart-e2lqorm)
-* [#063 - I was fired for using HTMX](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/063---I-was-fired-for-using-HTMX-e2lqorj)
-* [#062 - Declaring War Against the Frontend with Sam Selikoff](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/062---Declaring-War-Against-the-Frontend-feat--Sam-Selikoff-e2l59i7) 
+- [#064 - You're doing networking wrong feat. Lawrence Lockhart](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/064---Youre-doing-networking-wrong-feat--Lawrence-Lockhart-e2lqorm)
+- [#063 - I was fired for using HTMX](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/063---I-was-fired-for-using-HTMX-e2lqorj)
+- [#062 - Declaring War Against the Frontend with Sam Selikoff](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/062---Declaring-War-Against-the-Frontend-feat--Sam-Selikoff-e2l59i7)
 
 If you haven't yet, subscribe on [YouTube](https://www.youtube.com/@backendbanterfm), [Spotify](https://open.spotify.com/show/35trT95UkRVCkEb6tXndpF), or [Apple Podcasts](https://podcasts.apple.com/us/podcast/backend-banter/id1688115203)! If you **leave a rating and a review**, I'll love you forever.

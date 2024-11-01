@@ -8,7 +8,7 @@ images:
   - /img/800/fmt.Printf.png
 ---
 
-While working on [boot.dev's](https://boot.dev) [Go Playground](https://boot.dev/playground/go), I came across a very strange error. The standard library's [fmt.Printf()](https://golang.org/pkg/fmt/?m=all#Printf) function prints nothing to the console when called. _Nothing._
+While working on [boot.dev's](https://www.boot.dev) [Go Playground](https://www.boot.dev/playground/go), I came across a very strange error. The standard library's [fmt.Printf()](https://golang.org/pkg/fmt/?m=all#Printf) function prints nothing to the console when called. _Nothing._
 
 For those of you who are familiar with the function, when compiled to a "normal" executable `fmt.Printf` prints a formatted string to standard output. As per the official documentation, this program:
 
@@ -31,7 +31,7 @@ Will print:
 Kim is 22 years old.
 ```
 
-The interesting thing is that when the same exact program is compiled using Web Assembly, we get a different result. If you want to try it, copy the above program and run it [here](https://boot.dev/playground/go).
+The interesting thing is that when the same exact program is compiled using Web Assembly, we get a different result. If you want to try it, copy the above program and run it [here](https://www.boot.dev/playground/go).
 
 Spoiler alert: _It doesn't print anything._
 

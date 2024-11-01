@@ -2,7 +2,7 @@
 title: "How and Why to Write Enums in Go"
 author: Lane Wagner
 date: "2021-04-19"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/list-with-pencil-and-paper.webp
@@ -111,3 +111,5 @@ func (bp BodyPart) String() string {
 ```
 
 There are some "gotchas" to this approach, however, so be careful. If the number of declarations in your `const` block is different than the number of entries in the "[constant slice](/golang/golang-constant-maps-slices/)" created by your `String()` method, the compiler won't alert you to the potential "out of bounds" error. Also, if you ever update the name of one of the constants don't forget to update its corresponding string in the list.
+
+PS: I've got an [up-to-date Go course](https://www.boot.dev/courses/learn-golang) if you'd like to dive deeper into Go.

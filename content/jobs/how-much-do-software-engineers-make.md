@@ -2,7 +2,7 @@
 title: "How Much Do Software Engineers Make?"
 author: Lane Wagner
 date: "2020-11-09"
-categories: 
+categories:
   - "misc"
 images:
   - /img/800/cash.webp
@@ -21,9 +21,9 @@ At the end of the day, like all professions, it comes down to supply and demand.
 - Electrical Engineers: **~193,000**
 - Mechanical Engineers: **~316,300**
 
-Society needs twice as many software developers as it does mathematicians, chemical engineers, civil engineers, electrical engineers, and mechanical engineers _combined_. For this reason, [learning to code](https://boot.dev/) is a valuable skill that will ensure you're a highly compensated member of society for the foreseeable future.
+Society needs twice as many software developers as it does mathematicians, chemical engineers, civil engineers, electrical engineers, and mechanical engineers _combined_. For this reason, [learning to code](https://www.boot.dev/) is a valuable skill that will ensure you're a highly compensated member of society for the foreseeable future.
 
-Some of the most successful software developers didn't even take a traditional career path, and that's what we find most exciting about this career's prospects for the future. You can break into the development industry by simply taking [courses online](https://boot.dev/), attending a real-life [boot camp](/jobs/is-coding-bootcamp-worth-it/), or getting a degree from the university.
+Some of the most successful software developers didn't even take a traditional career path, and that's what we find most exciting about this career's prospects for the future. You can break into the development industry by simply taking [courses online](https://www.boot.dev/), attending a real-life [boot camp](/jobs/is-coding-bootcamp-worth-it/), or getting a degree from the university.
 
 ## How much do web developers make?
 
@@ -41,9 +41,9 @@ And globally:
 
 As it happens, we have several great Go courses to jumpstart your career:
 
-- [Learn Go](https://boot.dev/courses/learn-golang)
-- [Learn Algorithms)](https://boot.dev/courses/learn-algorithms)
-- [Learn Cryptography](https://boot.dev/courses/learn-cryptography)
+- [Learn Go](https://www.boot.dev/courses/learn-golang)
+- [Learn Algorithms)](https://www.boot.dev/courses/learn-algorithms-python)
+- [Learn Cryptography](https://www.boot.dev/courses/learn-cryptography-golang)
 
 ## Is It Best to Specialize in One Language?
 
@@ -79,4 +79,4 @@ The average annual salary in San Francisco for a software developer with a simil
 
 By any analysis, a career as a software engineer is one of the most lucrative in the world if job seekers get hired by an American company. Otherwise, salaries drop precipitously due to several factors that include the currency exchange rate and cost of living.
 
-Hopefully this information will help you as you seek to grow your development career! Don't forget to check out [boot.dev](https://boot.dev/) if you are ready to get started with some [courses](https://boot.dev/)!
+Hopefully this information will help you as you seek to grow your development career! Don't forget to check out [boot.dev](https://www.boot.dev/) if you are ready to get started with some [courses](https://www.boot.dev/)!

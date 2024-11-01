@@ -21,7 +21,7 @@ Absolutely! If you built it, use it. You'll build several personal projects whil
 
 - We're not a $10,000 bootcamp.
 - We're not a $50,000 university degree.
-  
+
 We are a self-paced, gamified online learning platform for back-end web development. You can learn with us for the price of a gym membership.
 
 ## What will I get as a member?
@@ -34,7 +34,7 @@ You can read all about [our methodology here.](/about/) In a nutshell, we're las
 
 ## Can I cancel my membership?
 
-We absolutely [hate dark patterns](https://wagslane.dev/posts/dark-patterns/), so we've made it easy to cancel your subscription any time. You can cancel your membership any time from your [settings page](/settings) and you won't be billed again.
+We absolutely [hate dark patterns](https://wagslane.dev/posts/dark-patterns/), so we've made it easy to cancel your subscription any time. You can cancel your membership any time from your [settings page](https://www.boot.dev?modal=settings) and you won't be billed again.
 
 ## Do you offer refunds?
 
@@ -46,11 +46,11 @@ Yes! We believe in being as fair as possible to learners around the world, and t
 
 ## Can my employer pay for my membership?
 
-Absolutely! We have team plans that let your manager pay for your membership and those of your team, while managing billing all in one place. To get started just check out [the teams page](/teams). You'll need to be logged in.
+Absolutely! We have team plans that let your manager pay for your membership and those of your team, while managing billing all in one place. To get started just check out [the teams page](https://www.boot.dev?modal=teams). You'll need to be logged in.
 
 ## Can I buy a Boot.dev membership for someone else?
 
-For sure, just check out [the gifts page](/gifts). You'll be able to purchase a redeemable code that you can give to a friend.
+For sure, just check out [the gifts page](https://www.boot.dev/gifts). You'll be able to purchase a redeemable code that you can give to a friend.
 
 ## My card is getting declined, what can I do?
 

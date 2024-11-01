@@ -49,7 +49,7 @@ Web developers might be seen as web designers, too, which as you can see command
 
 The lesson? If you want to earn more as a web developer, take a good, hard look at your skills and see if you couldn’t call yourself something else. As I’ll cover in the section below, many web developers do many of the same tasks that backend developers or full-stack developers do. You should earn the same.
 
-And if you don’t have those skills yet, you can look into getting them, for example, right here on [Boot.dev](https://boot.dev).
+And if you don’t have those skills yet, you can look into getting them, for example, right here on [Boot.dev](https://www.boot.dev).
 
 ## What does a web developer do?
 

@@ -2,18 +2,18 @@
 title: "The Top 22 Backend Technologies to Learn in 2023"
 author: Natalie Schooner
 date: "2022-11-16"
-categories: 
+categories:
   - "backend"
 images:
   - /img/800/technology.png.webp
 toc: true
 ---
 
-A backend technology is anything used server-side to build stable and efficient web architectures.  Back-end technologies include programming languages, databases, communication mechanisms, or frameworks that make up the building blocks of a web application's back-end.
+A backend technology is anything used server-side to build stable and efficient web architectures. Back-end technologies include programming languages, databases, communication mechanisms, or frameworks that make up the building blocks of a web application's back-end.
 
 In other words, we're talking about any kind of tech that helps you, as a backend developer, build or maintain the backend of a website.
 
-Even established backend developers need to constantly keep up to date with the best backend technologies of the day. You never know what a new company will use to maintain its backend, or if the company will require a migration from an older product to something more modern. You may even get the chance to create a new project and select a backend technology *yourself*.
+Even established backend developers need to constantly keep up to date with the best backend technologies of the day. You never know what a new company will use to maintain its backend, or if the company will require a migration from an older product to something more modern. You may even get the chance to create a new project and select a backend technology _yourself_.
 
 As technology moves so fast in this field, it's beneficial for your development as a backend dev to be familiar with the most useful and most used backend technologies today. Here are the top 22 backend technologies you should be familiar with. We'll cover eight languages, six relational databases, five nonrelational databases, and three message queues.
 
@@ -25,19 +25,19 @@ We already covered the [top eight backend programming languages](/backend/best-b
 
 ![go-banner](/img/800/go-banner.webp)
 
-Go is the fastest-growing and most-desired backend language, used by companies like Uber, YouTube, and Spotify. Backend developers like it because it's super safe to use, it's incredibly simple to pick up, and it's fast. You can get started [learning Go here](https://boot.dev/courses/learn-golang).
+Go is the fastest-growing and most-desired backend language, used by companies like Uber, YouTube, and Spotify. Backend developers like it because it's super safe to use, it's incredibly simple to pick up, and it's fast. You can get started [learning Go here](https://www.boot.dev/courses/learn-golang).
 
 ### 2. Python
 
 ![python-banner](/img/800/python-banner.webp)
 
-Python is the most popular backend programming language for beginners. It has a simple and limited syntax, which makes it easy to read and write. Its immense number of libraries makes it incredibly versatile. Companies like Airbnb, SpaceX, and Stripe rely on Python to maintain their backends. You can get started [learning Python here](https://boot.dev/courses/learn-python).
+Python is the most popular backend programming language for beginners. It has a simple and limited syntax, which makes it easy to read and write. Its immense number of libraries makes it incredibly versatile. Companies like Airbnb, SpaceX, and Stripe rely on Python to maintain their backends. You can get started [learning Python here](https://www.boot.dev/courses/learn-code-python).
 
 ### 3. JavaScript
 
 ![js-banner](/img/800/javascript-banner.webp)
 
-JavaScript is the most popular backend language for all developers, though it's mostly used for frontend dev. However, its frameworks like NodeJS make it a popular choice for backend developers too. Companies like Facebook, Google, and eBay use JavaScript. You can get started [learning JavaScript here](https://boot.dev/courses/learn-javascript).
+JavaScript is the most popular backend language for all developers, though it's mostly used for frontend dev. However, its frameworks like NodeJS make it a popular choice for backend developers too. Companies like Facebook, Google, and eBay use JavaScript. You can get started [learning JavaScript here](https://www.boot.dev/courses/learn-javascript).
 
 ### 4. Rust
 
@@ -77,7 +77,7 @@ Relational databases usually scale vertically. Data lives on a single server, an
 
 "Top" is subjective, but I'm somewhat data-driven. These are the top backend SQL databases as defined by [StackOverflow's tremendous annual developer survey](https://survey.stackoverflow.co/2022/#technology).
 
-It's worth pointing out that SQL is a query language, and when you learn it once, it enables you to work with *all* of the specific SQL databases we're about to cover in more detail. You can [learn SQL here](/news/learn-sql-course-released/).
+It's worth pointing out that SQL is a query language, and when you learn it once, it enables you to work with _all_ of the specific SQL databases we're about to cover in more detail. You can [learn SQL here](/news/learn-sql-course-released/).
 
 ### 1. PostgreSQL
 
@@ -103,19 +103,19 @@ For all that, it's the most widely-deployed database in the world because it's s
 
 The SQLite site [documents](https://www.sqlite.org/famous.html) plenty of examples of companies that use it, including
 
-* Apple for most of the native applications running on Mac OS-X desktops and servers, and iOS devices.
-* Adobe as the application file format.
-* Facebook as the SQL database engine in their osquery product.
+- Apple for most of the native applications running on Mac OS-X desktops and servers, and iOS devices.
+- Adobe as the application file format.
+- Facebook as the SQL database engine in their osquery product.
 
 #### Where can I learn SQLite?
 
-Our very own [Learn SQL course](https://boot.dev/courses/learn-sql) uses SQLite as the engine, so it's the best place to get started!
+Our very own [Learn SQL course](https://www.boot.dev/courses/learn-sql) uses SQLite as the engine, so it's the best place to get started!
 
 ### 3. MySQL
 
 ![mysql-banner](/img/800/mysql-banner.webp)
 
-MySQL is the "standard" SQL database. It's the most used database overall, with [46.85%](https://survey.stackoverflow.co/2022/#most-popular-technologies-database) of Stack Overflow respondents using it. It's a decent fit for many projects. That said, there are not many reasons to use it over PostgreSQL these days. They are *very* similar technologies, but many developers agree with me that Postgres is simply the more modern solution.
+MySQL is the "standard" SQL database. It's the most used database overall, with [46.85%](https://survey.stackoverflow.co/2022/#most-popular-technologies-database) of Stack Overflow respondents using it. It's a decent fit for many projects. That said, there are not many reasons to use it over PostgreSQL these days. They are _very_ similar technologies, but many developers agree with me that Postgres is simply the more modern solution.
 
 It used to be fully open source but was acquired by Oracle a while back. Oracle distributes it under a dual license – you can use the OSS version if you like, but if you work at a company that doesn't want its MySQL-based product to be OSS as well, you'll have to pay for a license.
 
@@ -195,13 +195,13 @@ MongoDB has its own "[university](https://university.mongodb.com/)" with a great
 
 Redis is the second most popular NoSQL database, used by 22.1% of respondents. Unlike MongoDB, you can only carry it through primary key access, which means it's got a more limited query functionality. It's worth noting that this functionality can be extended with Redis modules, but the out-of-the-box Redis is more limited.
 
-One of the primary reasons for it's popularity is that it doesn't compete with the other databases used here. It's usually used *in addition* to one of them. It's hyper-optimized for more ephemeral work like caching and in-memory data structuring.
+One of the primary reasons for it's popularity is that it doesn't compete with the other databases used here. It's usually used _in addition_ to one of them. It's hyper-optimized for more ephemeral work like caching and in-memory data structuring.
 
 The main differentiator between Redis and MongoDB is that it uses an in-memory key storage value. This means that data is stored on the host's RAM, not on the desk. This makes it fast – it can make millions of requests per second. But it means you are limited in terms of the dataset's size. It's also single-threaded.
 
 If you have small data sets and you're looking for speed, choose Redis. That's what Twitter, GitHub, Snapchat, Craigslist, Stack Overflow, and [more](https://techstacks.io/tech/redis) companies did.
 
-#### Where can I learn Redis? 
+#### Where can I learn Redis?
 
 The Redis help [docs](https://redis.io/docs/getting-started/) are a good place to start.
 
@@ -239,9 +239,9 @@ Google offers some great [pathways](https://firebase.google.com/community/learn)
 
 ![cassandra-banner](/img/800/cassandra-banner.webp)
 
-I'm not talking about the prophetess, though that's what the name pays homage to. The Cassandra database has a much smaller user base, with only 2.7% of Stack Overflow respondents reporting that they use it. It's an interesting one because it's a *very* distributed and scalable database. All the master nodes are in communication with each other in a peer-to-peer network, which means there's no single point of failure. By comparison, PostgresQL has a primary node/replica node model.
+I'm not talking about the prophetess, though that's what the name pays homage to. The Cassandra database has a much smaller user base, with only 2.7% of Stack Overflow respondents reporting that they use it. It's an interesting one because it's a _very_ distributed and scalable database. All the master nodes are in communication with each other in a peer-to-peer network, which means there's no single point of failure. By comparison, PostgresQL has a primary node/replica node model.
 
-At the end of the day, Cassandra is use for *extremely* high volume work loads. Heck, [Discord uses it](https://discord.com/blog/how-discord-stores-billions-of-messages#:~:text=Cassandra%20was%20the%20only%20database,any%20impact%20on%20the%20application.) to store the billions and billions of messages sent on their app.
+At the end of the day, Cassandra is use for _extremely_ high volume work loads. Heck, [Discord uses it](https://discord.com/blog/how-discord-stores-billions-of-messages#:~:text=Cassandra%20was%20the%20only%20database,any%20impact%20on%20the%20application.) to store the billions and billions of messages sent on their app.
 
 It's highly available with partition tolerance as per the CAP theorem. This means that it's less consistent, but it's more available than MongoDB. It's also one of the few NoSQL databases that is not an object-oriented model. It uses a more traditional table structure.
 
@@ -293,7 +293,7 @@ It's pull-based, which means that users can request message batches. It can be u
 
 It's trusted by some of the best in business, including Goldman Sachs, Target, and Cisco.
 
-#### Where can I learn Kafka? 
+#### Where can I learn Kafka?
 
 I recommend [Udemy's Learn Kafka for beginners course](https://www.udemy.com/course/apache-kafka/) which comes to $99.
 
@@ -301,9 +301,9 @@ I recommend [Udemy's Learn Kafka for beginners course](https://www.udemy.com/cou
 
 ![pubsub-banner](/img/800/pubsub-banner.webp)
 
-PubSub is Google's proprietary cloud offering for message queues. It's *very* similar to Apache Kafka, but requires no configuration or maintenance - the only way to use it is through Google's cloud offering. We actually use PubSub to run [Boot.dev's back-end learning platform](https://boot.dev).
+PubSub is Google's proprietary cloud offering for message queues. It's _very_ similar to Apache Kafka, but requires no configuration or maintenance - the only way to use it is through Google's cloud offering. We actually use PubSub to run [Boot.dev's back-end learning platform](https://www.boot.dev).
 
-#### Where can I learn PubSub? 
+#### Where can I learn PubSub?
 
 I recommend [the offical docs from Google](https://cloud.google.com/pubsub#section-5).
 
@@ -325,14 +325,14 @@ Amazon's [own](https://aws.amazon.com/sqs/getting-started/) learning portal is t
 
 Aside from these languages and databases, I'd recommend looking into a few other domain-specific technologies if you're interested in going as deep as you can into back-end development.
 
-* Docker: Containerization
-* Kubernetes & Helm: Container management
-* GitHub actions: CI/CD
-* Bash: Shell scripting
-* AWS/GCP: Cloud environments
+- Docker: Containerization
+- [Kubernetes](https://www.boot.dev/courses/learn-kubernetes) & Helm: Container management
+- GitHub actions: [CI/CD](https://www.boot.dev/courses/learn-ci-cd-github-docker)
+- Bash: Shell scripting
+- AWS/GCP: Cloud environments
 
 ## Final thoughts
 
-If you're a backend developer, you may be slightly overwhelmed with this extensive (and yet not even exhaustive!) list of the top backend technologies. *Remember, you don't have to know all of them.* But it's worth being familiar with one or two from each list so you can make an informed decisions when applying to jobs, or when choosing a new backend technology to use.
+If you're a backend developer, you may be slightly overwhelmed with this extensive (and yet not even exhaustive!) list of the top backend technologies. _Remember, you don't have to know all of them._ But it's worth being familiar with one or two from each list so you can make an informed decisions when applying to jobs, or when choosing a new backend technology to use.
 
 This list of backend languages, SQL databases, NoSQL databases, and message queues will go a long way toward getting you well-versed in the most important backend technologies you should be familiar with in 2023.

@@ -19,7 +19,7 @@ Let's take a look at an example of synchronous\* JavaScript code:
 const fetch = require('node-fetch')
 
 async function runSync() {
-    const resp = await fetch('https://boot.dev')
+    const resp = await fetch('https://www.boot.dev')
     let text = await resp.text()
     console.log(text)
     const resp2 = await fetch('https://github.com')
@@ -41,7 +41,7 @@ On order to speed this up, we want each network call to the server (using `fetch
 const fetch = require('node-fetch')
 
 async function runAsync() {
-    const promise1 = fetch('https://boot.dev')
+    const promise1 = fetch('https://www.boot.dev')
     const promise2 = fetch('https://github.com')
     const promise3 = fetch('https://gitlab.io')
 
@@ -72,7 +72,7 @@ import (
 )
 
 func main() {
-	getAndPrintData("https://boot.dev")
+	getAndPrintData("https://www.boot.dev")
 	getAndPrintData("https://github.com")
 	getAndPrintData("https://gitlab.io")
 }
@@ -97,7 +97,7 @@ import (
 )
 
 func main() {
-	go getAndPrintData("https://boot.dev")
+	go getAndPrintData("https://www.boot.dev")
 	go getAndPrintData("https://github.com")
 	go getAndPrintData("https://gitlab.io")
 }
@@ -130,7 +130,7 @@ func main() {
 
 	go func() {
 		defer wg.Done()
-		getAndPrintData("https://boot.dev")
+		getAndPrintData("https://www.boot.dev")
 	}()
 	go func() {
 		defer wg.Done()

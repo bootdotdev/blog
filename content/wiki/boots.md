@@ -9,17 +9,17 @@ imageAlts:
 categories:
   - "wiki"
 aliases:
- - /news/introducing-boots-ai-code-explainer/
+  - /news/introducing-boots-ai-code-explainer/
 ---
 
 Boots is the heart and soul of Boot.dev. Not only is he capable of helping you through any lesson on Boot.dev, but he's a friendly wizard bear with a charming personality. Some things you should know about Boots:
 
-* He is available via a ChatGPT-like interface on every lesson in Boot.dev
-* He has been pre-prompted with every lesson's explanation, challenge, and solution, so he's *really good* at helping when you're stuck
-* He's been instructed to use the Socratic method to help you learn, which means he'll ask you questions to help you learn rather than give you the answer
-* He uses GPT-4o
-* He's a bear
-* He's a wizard
+- He is available via a ChatGPT-like interface on every lesson in Boot.dev
+- He has been pre-prompted with every lesson's explanation, challenge, and solution, so he's _really good_ at helping when you're stuck
+- He's been instructed to use the Socratic method to help you learn, which means he'll ask you questions to help you learn rather than give you the answer
+- He uses GPT-4o
+- He's a bear
+- He's a wizard
 
 Below we've allowed Boots to introduce himself in his own words:
 
@@ -31,7 +31,7 @@ Below we've allowed Boots to introduce himself in his own words:
 >
 > Regardless, by highlighting the portion of arcane text you wish for me to review and giving my wizarding hat a click, I'll be able to come to your aid straightaway! My ability to multitask is peerless - I am after all, eating several pawfuls of honey while my self-writing quill pens this explanation - and will be able to assist many prospective wizards at once. Of course, as I will only be reviewing a portion of your incantation, the full scope of your project may elude me, and the arcane arts tend to be both specific and vague. Suffice it to say that I will do my best to simply inform you of the meaning without making judgements about the outcome.
 >
-> In truth, I, Boots the Efficient Bubble-Sorter, am here mostly for your convenience, and am in no way capable of or willing to substitute study, collaboration, or perseverance. The creators of Boot.dev could not afford my very reasonable terms for full-time employment, and so I have instead been contracted as a consultant, and will act as such! However, if any of you would like to supply me with fifteen hundred pounds of salmon a month, I will be more than happy to bring my expertise to *bear* on any project you need help with.
+> In truth, I, Boots the Efficient Bubble-Sorter, am here mostly for your convenience, and am in no way capable of or willing to substitute study, collaboration, or perseverance. The creators of Boot.dev could not afford my very reasonable terms for full-time employment, and so I have instead been contracted as a consultant, and will act as such! However, if any of you would like to supply me with fifteen hundred pounds of salmon a month, I will be more than happy to bring my expertise to _bear_ on any project you need help with.
 >
 > Ha! A pun. How delightful.
 >
@@ -53,10 +53,10 @@ Learning to code, especially backend development, can sometimes feel like trying
 
 Boots, being an AI, is available round the clock, ready to assist whenever you're stuck on a specific part of your assignment.
 
-However, it's important to note that Boots does not replace the need for dedicated study, collaboration, and perseverance. He's a tool to aid learning, not a substitute for the learning process itself. He's also not perfect. Getting help from the Boot.dev instructors, other students, and community members in the [boot.dev community](https://boot.dev/community) is your best best when you are truly stuck.
+However, it's important to note that Boots does not replace the need for dedicated study, collaboration, and perseverance. He's a tool to aid learning, not a substitute for the learning process itself. He's also not perfect. Getting help from the Boot.dev instructors, other students, and community members in the [boot.dev community](https://www.boot.dev/community) is your best best when you are truly stuck.
 
 ## When should I contact Boots?
 
-The best way to use Boots is as a supportive mentor. If you're stuck we recommend using Boots *before* just peeking the solution. Boots will be able to *teach* you how to solve the problem, rather than just provide the solution.
+The best way to use Boots is as a supportive mentor. If you're stuck we recommend using Boots _before_ just peeking the solution. Boots will be able to _teach_ you how to solve the problem, rather than just provide the solution.
 
 Remember, Boots' advice is not free! Contacting him requires an offering of Baked Salmon or he will reduce the amount of XP you will be awarded on that specific assignment by 50%, not as much as viewing the solution, but also an incentive to try your best to solve the challenge on your own first!

@@ -8,7 +8,7 @@ images:
   - /img/800/pexels-photo-1467277.webp.webp
 ---
 
-If you want to [learn to code](https://boot.dev), there are many strategies to get your coding skills from non-existent to employable. Some folks might go back to university and get a formal [education in computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/). Others prefer to teach themselves. And of course, you can always choose to put yourself through coding bootcamp.
+If you want to [learn to code](https://www.boot.dev), there are many strategies to get your coding skills from non-existent to employable. Some folks might go back to university and get a formal [education in computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/). Others prefer to teach themselves. And of course, you can always choose to put yourself through coding bootcamp.
 
 Learning to code by going back to college is the comprehensive route. You'll probably be able to get a job just by getting a computer science or software engineering degree. But it's also the most expensive and time-consuming option. Plus, a lot of that time and money will be spent on irrelevant classes and lectures. Unless you're dying to go back to college and spend a lot of time taking a bunch of classes that may not even align with your interests, I'd recommend finding another route.
 
@@ -46,7 +46,7 @@ If you go for [the right bootcamp](https://blog.boot.dev/education/part-time-cod
 
 It can really help your progress to have access to people who are going through a similar experience currently or have gone through it in the past. A community of past, present, and future coders can help you practice how to best pitch your skills to potential employers. It's also a great way to understand which directions you can apply your newfound knowledge in.
 
-With a bit of luck you can find someone working at your dream company (or a similar one) to help review your resume or even do some practice coding interviews with you. For example, [boot.dev](https://boot.dev) in particular has a great community surrounding their online bootcamps with a bopping Discord channel and weekly portfolio-boosting events.
+With a bit of luck you can find someone working at your dream company (or a similar one) to help review your resume or even do some practice coding interviews with you. For example, [boot.dev](https://www.boot.dev) in particular has a great community surrounding their online bootcamps with a bopping Discord channel and weekly portfolio-boosting events.
 
 ## Cons of Online Coding Bootcamps
 

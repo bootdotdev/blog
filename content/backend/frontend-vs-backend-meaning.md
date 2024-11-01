@@ -2,7 +2,7 @@
 title: "What do Frontend and Backend Development Mean?"
 author: Natalie Schooner
 date: "2022-12-13"
-categories: 
+categories:
   - "backend"
 images:
   - /img/800/serversandwebsite.png.webp
@@ -14,9 +14,9 @@ Soon after you dip your toe in the water of software development, you're guarant
 
 As it turns out, both frontend and backend development and systems involve coding, and they're both important parts of developing software products, whether that's a website, a desktop application, or a mobile app.
 
-**The frontend of the software is what the user sees**. If you look at a website, even something as simple as a login page, *everything you see on the page is considered the frontend*. Frontend code dictates the style and layout of the page.
+**The frontend of the software is what the user sees**. If you look at a website, even something as simple as a login page, _everything you see on the page is considered the frontend_. Frontend code dictates the style and layout of the page.
 
-**The backend of software exists behind the scenes**. Once you've entered your username and password, the application needs to verify whether the information is correct. Your profile and password are saved on the *server*, and the backend is responsible for validating your login and letting the front-end know that it was successful.
+**The backend of software exists behind the scenes**. Once you've entered your username and password, the application needs to verify whether the information is correct. Your profile and password are saved on the _server_, and the backend is responsible for validating your login and letting the front-end know that it was successful.
 
 Without a front-end, it's almost impossible to develop an interactive and user-friendly product. Without a backend, there would be no data permanence or business logic. Both frontend and backend are necessary to make interactive software products.
 
@@ -26,13 +26,13 @@ The frontend is like the worker of a drive-thru window. It's the part of the dri
 
 The frontend, or the drive-thru worker, in this case, is not responsible for:
 
-* Chopping the onions
-* Frying the French fries
-* Grilling the burger patty
-* Assembling the burger
-* Depositing the money at the bank
+- Chopping the onions
+- Frying the French fries
+- Grilling the burger patty
+- Assembling the burger
+- Depositing the money at the bank
 
-The window worker, i.e. the *frontend*, is solely responsible for interacting with the customer and providing the user with updates, like handing over the prepared food and accepting the payment.
+The window worker, i.e. the _frontend_, is solely responsible for interacting with the customer and providing the user with updates, like handing over the prepared food and accepting the payment.
 
 Now let's apply that analogy to a website. The front-end is responsible for the user interface, client-side logic, formatting and sending requests to the backend, receiving responses from the backend, and digesting and updating the user interface based on the backend's responses.
 
@@ -42,15 +42,15 @@ In your journey to learn about the front-end, you'll come across terms like "cli
 
 For example, on the login page, the frontend will probably check the formatting of your email address to ensure it has an @, includes a period in the second half of the address, and that it follows the rest of the email address formatting rules.
 
-The frontend is also responsible for formatting and sending requests to the backend. Once the frontend has verified the email format, it would format a login request and send it off to the backend. A common protocol to use for this communication between frontend and backend is HTTP (or HTTPS) which you probably know as the prefix to a lot of website URLs, like [https://boot.dev](https://boot.dev).
+The frontend is also responsible for formatting and sending requests to the backend. Once the frontend has verified the email format, it would format a login request and send it off to the backend. A common protocol to use for this communication between frontend and backend is HTTP (or HTTPS) which you probably know as the prefix to a lot of website URLs, like [https://www.boot.dev](https://www.boot.dev).
 
-A great course for learning how to properly set up and customize HTTP requests to connect your frontend and backend is Boot.dev's [HTTP course](https://boot.dev/courses/learn-http).
+A great course for learning how to properly set up and customize HTTP requests to connect your frontend and backend is Boot.dev's [HTTP course](https://www.boot.dev/courses/learn-http-clients-golang).
 
 The backend will respond to the request, and the frontend is responsible for receiving these responses, digesting them, and updating the UI based on them. Once the server responds with the successful login status, the frontend should update the page to show the home page instead of the login screen.
 
 ### Top Frontend Programming Languages
 
-The most common frontend languages include HTML and CSS. These are the classic (and almost *necessary*) frontend programming languages, and they've been used to create user interfaces for close to [30 years](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html#:~:text=1993%20%2D%20Present,official%20standard%20in%20December%201999.). There's so ubiquitous because browsers natively understand HTML and CSS. It's practically impossible to build a front-end that works in a web browser without HTML and CSS.
+The most common frontend languages include HTML and CSS. These are the classic (and almost _necessary_) frontend programming languages, and they've been used to create user interfaces for close to [30 years](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html#:~:text=1993%20%2D%20Present,official%20standard%20in%20December%201999.). There's so ubiquitous because browsers natively understand HTML and CSS. It's practically impossible to build a front-end that works in a web browser without HTML and CSS.
 
 JavaScript has become a very popular programming language for frontend development in recent years because it makes it so easy to create an animated user interface. A lot of the more [modern frontend behaviors](https://www.sliderrevolution.com/design/cool-javascript-animations/), like swipe effects, buttons that look like they get pushed deeper when you press on them, and much more, are thanks to JavaScript.
 
@@ -60,20 +60,20 @@ TypeScript is very similar to JavaScript and used for a lot of the same reasons,
 
 Frameworks make developing software a lot easier, given the structure and out-of-the-box functionalities that they come with. Some common frontend frameworks include React, Vue, and Svelte. MonoCubed has put together a comprehensive list of the most [popular frontend frameworks](https://www.monocubed.com/blog/best-front-end-frameworks/) and their pros and cons. Here's a condensed version:
 
-* [React](https://www.monocubed.com/blog/best-front-end-frameworks/#:~:text=192K-,React%20Framework,-Dropbox)
-* [Angular](https://github.com/angular/angular)
-* [Vue](https://www.monocubed.com/blog/best-front-end-frameworks/#:~:text=198k-,Vue.js%20Framework,-Nintendo)
-* [Ember](https://www.monocubed.com/blog/best-front-end-frameworks/#:~:text=22.2k-,Ember.js,-Twitch)
-* [jQuery](https://www.monocubed.com/blog/best-front-end-frameworks/#:~:text=56.5k-,jQuery,-JPMorgan%20Chase)
-* [Semantic UI](https://github.com/Semantic-Org/Semantic-UI)
-* [Backbone](https://www.monocubed.com/blog/best-front-end-frameworks/#:~:text=27.9k-,Backbone.js,-Racepoint%20Global)
-* [Preact](https://github.com/preactjs/preact)
-* [Svelte](https://github.com/sveltejs/svelte)
-* [Foundation](https://github.com/foundation/foundation-sites)
+- [React](https://www.monocubed.com/blog/best-front-end-frameworks/#:~:text=192K-,React%20Framework,-Dropbox)
+- [Angular](https://github.com/angular/angular)
+- [Vue](https://www.monocubed.com/blog/best-front-end-frameworks/#:~:text=198k-,Vue.js%20Framework,-Nintendo)
+- [Ember](https://www.monocubed.com/blog/best-front-end-frameworks/#:~:text=22.2k-,Ember.js,-Twitch)
+- [jQuery](https://www.monocubed.com/blog/best-front-end-frameworks/#:~:text=56.5k-,jQuery,-JPMorgan%20Chase)
+- [Semantic UI](https://github.com/Semantic-Org/Semantic-UI)
+- [Backbone](https://www.monocubed.com/blog/best-front-end-frameworks/#:~:text=27.9k-,Backbone.js,-Racepoint%20Global)
+- [Preact](https://github.com/preactjs/preact)
+- [Svelte](https://github.com/sveltejs/svelte)
+- [Foundation](https://github.com/foundation/foundation-sites)
 
 ### Where to Learn Frontend Programming
 
-Frontend programming has a lot of aspects to it, but thankfully there are a lot of options for learning how to develop frontends for programs. Scrimba has a beginner's [guide to frontend development](https://scrimba.com/articles/frontend-developer-guide/). FreeCodeCamp has a compilation of close to [200 articles and tutorials](https://www.freecodecamp.org/news/tag/front-end-development/) to help you learn frontend development. Boot.dev has both [JavaScript](https://boot.dev/courses/learn-javascript) and [HTTP](https://boot.dev/courses/learn-http) courses, which will teach you foundational concepts that will you developing robust frontends in no time.
+Frontend programming has a lot of aspects to it, but thankfully there are a lot of options for learning how to develop frontends for programs. Scrimba has a beginner's [guide to frontend development](https://scrimba.com/articles/frontend-developer-guide/). FreeCodeCamp has a compilation of close to [200 articles and tutorials](https://www.freecodecamp.org/news/tag/front-end-development/) to help you learn frontend development. Boot.dev has both [JavaScript](https://www.boot.dev/courses/learn-javascript) and [HTTP](https://www.boot.dev/courses/learn-http-clients-golang) courses, which will teach you foundational concepts that will you developing robust frontends in no time.
 
 There are plenty of coding bootcamps and online tutorials for you to learn how to develop frontends. One of my favorites for beginners is [React's tutorial](https://reactjs.org/tutorial/tutorial.html) since it's extremely well-documented and so popular that it's practically guaranteed to always be kept up to date. If you do it, you'll feel like a pro in no time.
 
@@ -114,7 +114,7 @@ For that reason, most classic computer science programs teach their students fir
 
 </div>
 
-*Table from our article on the subject of the best backend programming languages.*
+_Table from our article on the subject of the best backend programming languages._
 
 Each programming language has pros and cons, so picking which language to use to develop a backend depends on the constraints and the goals.
 
@@ -122,21 +122,21 @@ Each programming language has pros and cons, so picking which language to use to
 
 Frameworks are such an important part of developing maintainable, modern, and practical backend technologies. It's no wonder so many companies and open-source communities have put in concerted efforts to develop powerful and useful backend frameworks.
 
-Some of the most popular backend frameworks include Laravel, .NET, NodeJS, Django, and Flask. *Statics & Data* put together a cool motion graphic of the shifts in [backend framework popularity](https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2022/) over the last ten years.
+Some of the most popular backend frameworks include Laravel, .NET, NodeJS, Django, and Flask. _Statics & Data_ put together a cool motion graphic of the shifts in [backend framework popularity](https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2022/) over the last ten years.
 
-Backend technologies are diverse and numerous. Kubernetes, [Docker](https://boot.dev/courses/learn-docker), Apache, TensorFlow, Apache Hadoop, and many more are astounding backend technologies that are extremely useful and specialized in what they do. If you're not incorporating machine learning into your backend, TensorFlow probably isn't something you need to use. Nonetheless, there are a bunch of cool tools out there. Some are free and some aren't. There are even companies that offer backend-as-a-service, so you'd only have to concern yourself with the frontend and connecting it to the provided backend.
+Backend technologies are diverse and numerous. [Kubernetes](https://www.boot.dev/courses/learn-kubernetes), [Docker](https://www.boot.dev/courses/learn-docker), Apache, TensorFlow, Apache Hadoop, and many more are astounding backend technologies that are extremely useful and specialized in what they do. If you're not incorporating machine learning into your backend, TensorFlow probably isn't something you need to use. Nonetheless, there are a bunch of cool tools out there. Some are free and some aren't. There are even companies that offer backend-as-a-service, so you'd only have to concern yourself with the frontend and connecting it to the provided backend.
 
 ### Common Databases Used in Backend Development
 
 Databases and the management of them are integral parts of the backend. An application that doesn't have permanence isn't very useful. If your Google Drive didn't save documents after you closed them, it wouldn't be good for much.
 
-The most common databases used in backend are MySQL, PostgreSQL, DynamoDB, and MongoDB. Boot.dev has put together a guide to [the best backend technologies](/backend/top-backend-technologies/) to decipher which database is best for each scenario, and if you're interested in a deep dive in SQL you can check out their [Learn SQL course](https://boot.dev/courses/learn-sql).
+The most common databases used in backend are MySQL, PostgreSQL, DynamoDB, and MongoDB. Boot.dev has put together a guide to [the best backend technologies](/backend/top-backend-technologies/) to decipher which database is best for each scenario, and if you're interested in a deep dive in SQL you can check out their [Learn SQL course](https://www.boot.dev/courses/learn-sql).
 
 ### Where to Learn Backend Development
 
 If you're interested in learning how to develop backends and want to know what goes on behind the curtain of a software application, there are a lot of great ways to learn how!
 
-Whether you want to sign up for a [backend bootcamp](/backend/best-backend-bootcamps/) or start by following some tutorials, there are plenty of options. [Boot.dev](https://boot.dev/tracks/backend) is a great option if you want to learn at your own pace and avoid paying high course fees. [Nucamp](https://www.nucamp.co/bootcamp-overview/back-end-sql-devops-python) offers more hand-holding, but costs significantly more. [Nashua Community College](https://nashuacc.edu/career-training/individual-enrollment/back-end-coding-boot-camp/) is more affordable than Nucamp, but offers less direct interaction with instructors.
+Whether you want to sign up for a [backend bootcamp](/backend/best-backend-bootcamps/) or start by following some tutorials, there are plenty of options. [Boot.dev](https://www.boot.dev/tracks/backend) is a great option if you want to learn at your own pace and avoid paying high course fees. [Nucamp](https://www.nucamp.co/bootcamp-overview/back-end-sql-devops-python) offers more hand-holding, but costs significantly more. [Nashua Community College](https://nashuacc.edu/career-training/individual-enrollment/back-end-coding-boot-camp/) is more affordable than Nucamp, but offers less direct interaction with instructors.
 
 If you want to go for a cheaper option than coding bootcamps, tutorials are a great way to go. They're almost always free, but it's the most extreme self-taught route, which can be frustrating and slow.
 

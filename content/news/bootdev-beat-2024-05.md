@@ -10,13 +10,13 @@ imageAlts:
   - "Boot.dev Beat Drum"
 ---
 
-A new Pub/Sub Architecture course, lootable chests, and ThePrimeagen's Git course is only a couple weeks away. It's been a good April. glhf.
+A new Pub/Sub Architecture course, lootable chests, and [ThePrimeagen's Git course](https://www.boot.dev/courses/learn-git) is only a couple weeks away. It's been a good April. glhf.
 
 Dutifully, Lane
 
 ## Patch notes
 
-### 1. [New Course: "Learn Pub/Sub Architecture"](https://www.boot.dev/courses/learn-pub-sub)
+### 1. [New Course: "Learn Pub/Sub Architecture"](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)
 
 ![pub/sub course image](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/pSHXBLR.png)
 
@@ -48,20 +48,20 @@ We've moved all "HTTP Test" lesson types to make use of our brand-new CLI tool. 
 
 ### 5. Miscellaneous improvements
 
-* Improvements to Vim mode
-* XP bonuses are reworked to be more dependent on the difficulty of a lesson
-* New pages for instructors to view their courses and social links
-* Speed improvements to the app
-* No longer get logged out after 30 days
-* Fix SQL syntax highlighting
+- Improvements to Vim mode
+- XP bonuses are reworked to be more dependent on the difficulty of a lesson
+- New pages for instructors to view their courses and social links
+- Speed improvements to the app
+- No longer get logged out after 30 days
+- Fix SQL syntax highlighting
 
 ## What is yet to come
 
-* New Course: "Learn Git"
-* New Course: "Learn Memory Management in C"
-* Moving existing courses to the Boot.dev CLI
-* A new boss to fight
-* The ability to sell unwanted items for gems
+- New Course: "Learn Git"
+- New Course: "Learn Memory Management in C"
+- Moving existing courses to the Boot.dev CLI
+- A new boss to fight
+- The ability to sell unwanted items for gems
 
 ## Backend Banter Podcast
 
@@ -69,9 +69,9 @@ There is a brand new [site](https://www.backendbanter.fm/), and because we moved
 
 This month's episodes include:
 
-* [#051 - Should you grind Leetcode? Ft. Neetcode](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/051---Should-you-grind-leetcode--ft--NeetCode-e2hvpoh)
-* [#050 - Python is faster than Rust? Ft. john Crickett](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/050---Python-is-Faster-than-Rust-e2hvpob)
-* [#049 - Is OCaml SaaS ready? Ft. Leandro Ostera](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/049---Is-OCaml-SaaS-Ready-e2hvpkg)
-* [#048 - Your command line sucks. Ft. Bash Bunni](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/048---Your-command-line-sucks-ft--Bashbunni-e2h9ned)
+- [#051 - Should you grind Leetcode? Ft. Neetcode](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/051---Should-you-grind-leetcode--ft--NeetCode-e2hvpoh)
+- [#050 - Python is faster than Rust? Ft. john Crickett](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/050---Python-is-Faster-than-Rust-e2hvpob)
+- [#049 - Is OCaml SaaS ready? Ft. Leandro Ostera](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/049---Is-OCaml-SaaS-Ready-e2hvpkg)
+- [#048 - Your command line sucks. Ft. Bash Bunni](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/048---Your-command-line-sucks-ft--Bashbunni-e2h9ned)
 
 If you haven't yet, subscribe on [YouTube](https://www.youtube.com/@backendbanterfm), [Spotify](https://open.spotify.com/show/35trT95UkRVCkEb6tXndpF), or [Apple Podcasts](https://podcasts.apple.com/us/podcast/backend-banter/id1688115203)! If you leave a rating and a review, I'll love you forever.

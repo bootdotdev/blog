@@ -2,7 +2,7 @@
 title: "View Git Tags with Semver Ordering"
 author: Lane Wagner
 date: "2021-02-09"
-categories: 
+categories:
   - "misc"
 images:
   - /img/800/semver-info.webp
@@ -65,3 +65,5 @@ v1.12.0
 v2.0.0
 v10.0.0
 ```
+
+If all this weird tag stuff is going over your head, you might want to [check out ThePrimeagen's full Git course here](https://www.boot.dev/courses/learn-git).

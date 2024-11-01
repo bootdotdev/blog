@@ -2,7 +2,7 @@
 title: "Merge Sort in Golang with Examples"
 author: Lane Wagner
 date: "2021-06-10"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/swirl.webp
@@ -20,7 +20,7 @@ Merge sort is a recursive sorting algorithm and, luckily for us, it's quite a bi
 
 - Merge the two halves to form a sorted array
 
-![](/img/800/merge_sort_gif.gif)
+![merge sort gif](/img/800/merge_sort_gif.gif)
 
 ## Full example of the merge sort algorithm
 
@@ -94,6 +94,7 @@ If you need a sorting algorithm to use in a production system, I recommend [not 
 
 Merge sort has a complexity of `O(n*log(n))`. Don't be fooled because there aren't an explicit number of for-loops to count in the code. In merge sort's case, the number of recursive function calls is important.
 
-## Is it useful in job interviews
+PS: I've got two courses if you want to dig in deeper to this stuff:
 
-If you're preparing for a [golang job interview](https://www.golanginterview.dev/questions/), it's important to be ready for algorithms questions. That doesn't mean you need to have all the sorting algorithms memorized, but you should at least understand the most common ones and be familiar with their big o runtimes.
+- [Learn Algorithms](https://www.boot.dev/courses/learn-algorithms-python)
+- [Learn Go](https://www.boot.dev/courses/learn-golang)

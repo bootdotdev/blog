@@ -2,7 +2,7 @@
 title: "Which is More Important: Hard or Soft Skills for Programmers?"
 author: Lane Wagner
 date: "2023-04-22"
-categories: 
+categories:
   - "jobs"
 images:
   - /img/800/peopleonfloatingrock.png.webp
@@ -12,20 +12,20 @@ imageAlts:
 
 You're waiting at the front-desk of Google's campus in Boulder, Colorado, waiting for your coding interview to start. Across from you in the lobby sit two other candidates:
 
-* A charismatic airpods-flaunting developer who can charm the pants off of anyone in the room but requires an agonizing 8 hours to get a linked list working
-* A programming prodigy who writes games in assembly, but is such a colossal jerk that nobody will play their game anyways
+- A charismatic airpods-flaunting developer who can charm the pants off of anyone in the room but requires an agonizing 8 hours to get a linked list working
+- A programming prodigy who writes games in assembly, but is such a colossal jerk that nobody will play their game anyways
 
 Which of them will provide more fierce competition for the [job spot](/jobs/not-about-job-openings/)? Let's tackle the age-old question: **Which is more important, hard or soft skills for programmers?**
 
-First I'll annoyingly explain what hard and soft skills are, but then we'll dive into the reason I wanted to write this article: *the rectangle analogy*. This analogy will help you understand where you should be spending your time improving to maximize your chances of landing a job.
+First I'll annoyingly explain what hard and soft skills are, but then we'll dive into the reason I wanted to write this article: _the rectangle analogy_. This analogy will help you understand where you should be spending your time improving to maximize your chances of landing a job.
 
 ## Hard Skills: The Foundation
 
-First things first: what are hard skills? These are the tangible, measurable abilities that you *need* to get the job done. As a developer, you'll need to:
+First things first: what are hard skills? These are the tangible, measurable abilities that you _need_ to get the job done. As a developer, you'll need to:
 
-1. **Code in specific languages** - like [Python](https://boot.dev/courses/learn-python), [JavaScript](https://boot.dev/courses/learn-javascript), or [Golang](https://boot.dev/courses/learn-golang).
-2. **Use technologies and tools** - such as Git, [Docker](https://boot.dev/courses/learn-docker), or AWS.
-3. **Understand [algorithms](https://boot.dev/courses/learn-algorithms) and [data structures](https://boot.dev/courses/learn-data-structures)** - because nobody wants to be that developer who can't reverse a string without Googling it first.
+1. **Code in specific languages** - like [Python](https://www.boot.dev/courses/learn-code-python), [JavaScript](https://www.boot.dev/courses/learn-javascript), or [Golang](https://www.boot.dev/courses/learn-golang).
+2. **Use technologies and tools** - such as Git, [Docker](https://www.boot.dev/courses/learn-docker), or AWS.
+3. **Understand [algorithms](https://www.boot.dev/courses/learn-algorithms-python) and [data structures](https://www.boot.dev/courses/learn-data-structures-python)** - because nobody wants to be that developer who can't reverse a string without Googling it first.
 4. **A boatload of other things** - because programming is a vast and ever-expanding field.
 
 ### Importance of hard skills for landing a job
@@ -36,12 +36,12 @@ Hard skills are the bread and butter of your programming career. They're an abso
 
 The tech world moves at breakneck speed, and if you're not continuously leveling up your hard skills, you're gonna get left in the dust. Remember, Rome wasn't built in a day, and neither is your programming expertise. Invest time and effort in learning new languages, tools, and techniques over time.
 
-You don't need to be an expert on *everything*, but you need to know how to deliver working code that solves real problems within your domain. If you want to [be a back-end developer](https://boot.dev) and work at SaaS companies, then you should at the very least:
+You don't need to be an expert on _everything_, but you need to know how to deliver working code that solves real problems within your domain. If you want to [be a back-end developer](https://www.boot.dev) and work at SaaS companies, then you should at the very least:
 
-* Have a solid understanding of a couple of programming languages like Python and Go
-* Be able to set up and use a [SQL database](https://boot.dev/courses/learn-sql)
-* Know how to [build a REST API](https://boot.dev/courses/learn-web-servers) using those technologies
-* Know how to deploy that API to a cloud platform like AWS or GCP 
+- Have a solid understanding of a couple of programming languages like Python and Go
+- Be able to set up and use a [SQL database](https://www.boot.dev/courses/learn-sql)
+- Know how to [build a REST API](https://www.boot.dev/courses/learn-http-servers-golang) using those technologies
+- Know how to deploy that API to a cloud platform like AWS or GCP
 
 ## Soft Skills
 
@@ -80,10 +80,10 @@ To maximize `job_probability` with the least amount of effort, spend more time o
 
 ## The misconception of limited skill points
 
-If you're thinking this sounds a bit like a Dungeons & Dragons character sheet where you have a limited number of skill points to allocate, that's not how the real world works. In the real world, you can just *get more skill points*. You can excel in both hard and soft skills.
+If you're thinking this sounds a bit like a Dungeons & Dragons character sheet where you have a limited number of skill points to allocate, that's not how the real world works. In the real world, you can just _get more skill points_. You can excel in both hard and soft skills.
 
-* I've worked with amazing people who are easy to get along with and are brilliant programmers
-* I've also worked with incompetent jerks who are somehow also bad at writing code
+- I've worked with amazing people who are easy to get along with and are brilliant programmers
+- I've also worked with incompetent jerks who are somehow also bad at writing code
 
 If you work hard and do your best, you can be both a great programmer and a great person. It's not an either-or situation. In the immortal words of Shia LaBeouf, "Just do it!"
 
