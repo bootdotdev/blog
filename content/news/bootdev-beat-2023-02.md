@@ -18,21 +18,21 @@ All the best, Lane
 
 ## What we've done this month
 
-### [1. "Build a Pokedex" guided Golang project released](https://boot.dev/courses/build-pokedex-cli)
+### [1. "Build a Pokedex" guided Golang project released](https://www.boot.dev/courses/build-pokedex-cli-golang)
 
 This project will guide you through the steps to build a REPL pokedex on the command line in Go. Learn how to use JSON, make network requests, implement caching, and more! This is a great project if you're familiar with Go, but want some more practice. There is even a full video walkthrough (linked at the end of the newsletter) to watch in case you get stuck!
 
-If you haven't written any Go yet, check out my [Learn Go course](https://boot.dev/courses/learn-golang) first.
+If you haven't written any Go yet, check out my [Learn Go course](https://www.boot.dev/courses/learn-golang) first.
 
 ### 2. PPP Discounts
 
 We already offered purchasing power parity discounts, but now the whole experience is much smoother. Before, we only supported a 4 countries automatically, and you needed to send an email asking for a discount code if you live in a country with lower purchasing power.
 
-Now, we have automatic support for PPP discounts in about 90 countries! Just load [the pricing page](https://boot.dev/pricing), and you should see a discount in your local currency. If you don't feel free to still send an email.
+Now, we have automatic support for PPP discounts in about 90 countries! Just load [the pricing page](https://www.boot.dev/pricing), and you should see a discount in your local currency. If you don't feel free to still send an email.
 
 ### 3. Challenges Update
 
-We integrated all of the bonus challenges for the [Learn Python course](https://boot.dev/courses/learn-python) directly into the course itself! We noticed that the previous UX made it hard for you all to find the challenges, but this change brings all that extra content directly into the primary course flow.
+We integrated all of the bonus challenges for the [Learn Python course](https://www.boot.dev/courses/learn-code-python) directly into the course itself! We noticed that the previous UX made it hard for you all to find the challenges, but this change brings all that extra content directly into the primary course flow.
 
 ### 4. Big speed improvements
 
@@ -40,8 +40,8 @@ It used to take a second or so to navigate between lessons within a course on Bo
 
 ## What we're working on now
 
-* New "Learn Web Servers" course. I've written the first 3 chapters out of about 9. This one will be quite different, and I'm super pumped to get it out next month. You'll write a back-end web server on your own machine and run automated tests from within the Boot.dev platform against it.
-* We're in the middle of adding challenges to the "Learn OOP course", and those should be released within the next couple of weeks.
+- New "Learn Web Servers" course. I've written the first 3 chapters out of about 9. This one will be quite different, and I'm super pumped to get it out next month. You'll write a back-end web server on your own machine and run automated tests from within the Boot.dev platform against it.
+- We're in the middle of adding challenges to the "Learn OOP course", and those should be released within the next couple of weeks.
 
 ## Top picks for this month
 
@@ -65,5 +65,5 @@ While this podcast is aimed at entrpreneurship, Arvid does have a software engin
 
 ## Top plugs for this month
 
-* [(YouTube) Building a REPL in Go (PokeDex)](https://www.youtube.com/watch?v=8yrmAGcCnKg)
-* [(Article) Your Architecture is Bad, So Make it Easy to Change](https://blog.boot.dev/clean-code/make-architecture-easy-to-change/)
+- [(YouTube) Building a REPL in Go (PokeDex)](https://www.youtube.com/watch?v=8yrmAGcCnKg)
+- [(Article) Your Architecture is Bad, So Make it Easy to Change](https://blog.boot.dev/clean-code/make-architecture-easy-to-change/)

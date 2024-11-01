@@ -2,21 +2,21 @@
 title: "7 Best Practices for Every Python Developer"
 author: Zulie Rane
 date: "2022-01-04"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/stretching-women.jpeg
 ---
 
-If you're looking to improve your coding, there are lots of steps you can take, but the first is focusing on Python best practices. It's really important that your code is readable, testable, and maintainable. From picking good variable names, refactoring code that gets repeated out into its own method, or having clean and logical lines of inheritance and abstraction, there are a lot of qualities that differentiate code that someone wants to work with from code that everyone dreads having to maintain or develop further. 
+If you're looking to improve your coding, there are lots of steps you can take, but the first is focusing on Python best practices. It's really important that your code is readable, testable, and maintainable. From picking good variable names, refactoring code that gets repeated out into its own method, or having clean and logical lines of inheritance and abstraction, there are a lot of qualities that differentiate code that someone wants to work with from code that everyone dreads having to maintain or develop further.
 
 My first steps at Python were pathetic. Over half of my own coding problems were just because I didn't know to set up a virtual environment. I cringe to even look back at how I documented my code. As soon as I stepped back and started working on Python best practices, coding got easier for me. The same was true of any other language I tried to learn.
 
 To help others avoid my old issues, I've put together a comprehensive guide full of resources to clearly outline the Python best practices you should follow when coding in Python.
 
-Don't forget that overall programming best practices are always relevant – things that supersede programming languages. It's always important to pay attention to the performance of your programs, and know the Big O performance of the data structures and algorithms you choose to utilize or implement. There are a lot of helpful courses out there, like these for [learning algorithms and data structures](https://boot.dev/tracks/algorithms-and-data-structures). Both of these courses are based in Python, so if you're particularly interested in strengthening your Python skills and refreshing your knowledge of runtime performance and algorithm design, they'd be a good fit for you.
+Don't forget that overall programming best practices are always relevant – things that supersede programming languages. It's always important to pay attention to the performance of your programs, and know the Big O performance of the data structures and algorithms you choose to utilize or implement. There are a lot of helpful courses out there, like these for [learning algorithms and data structures](https://www.boot.dev/courses/learn-algorithms-python). Both of these courses are based in Python, so if you're particularly interested in strengthening your Python skills and refreshing your knowledge of runtime performance and algorithm design, they'd be a good fit for you.
 
- If you're looking for a deep dive on general best coding practices, I highly recommend the book Clean Code: A Handbook of Software Craftsmanship by Robert C. Martin, a.k.a. "Uncle Bob". It is a great read with fun examples, and it will be relevant to your work, no matter what you are programming.
+If you're looking for a deep dive on general best coding practices, I highly recommend the book Clean Code: A Handbook of Software Craftsmanship by Robert C. Martin, a.k.a. "Uncle Bob". It is a great read with fun examples, and it will be relevant to your work, no matter what you are programming.
 
 Here is how to write good Python code.
 
@@ -32,21 +32,21 @@ There also exist tools for static type checking, like [mypy](http://mypy-lang.or
 
 ## Python Best Practices #2: Docstrings
 
-Writing meaningful comments and documentation is always important. It helps others understand the gist of a class, method, or package by reading through it without having to thoroughly inspect the code just to get an idea of what's going on. For example, if you're debating between using two methods from a package that do similar but distinct things, it's great to have documentation to quickly understand what the difference is without having to read through the source code. 
+Writing meaningful comments and documentation is always important. It helps others understand the gist of a class, method, or package by reading through it without having to thoroughly inspect the code just to get an idea of what's going on. For example, if you're debating between using two methods from a package that do similar but distinct things, it's great to have documentation to quickly understand what the difference is without having to read through the source code.
 
 Your documentation and comments are useless, however, if you don't update them when you make changes to your code, so be sure to pay attention to them and update them when needed.
 
-A docstring is a string literal that is the first statement in a class, function, or module. Following this format, the [docstring](https://www.python.org/dev/peps/pep-0257/#what-is-a-docstring) "becomes the __doc__ special attribute of that object". All objects that are public or are exported as part of a module should have a docstring. Docstrings unequivocally belong to Python best practices, as they are ubiquitous in the Python community. Every professional Python package makes use of them.
+A docstring is a string literal that is the first statement in a class, function, or module. Following this format, the [docstring](https://www.python.org/dev/peps/pep-0257/#what-is-a-docstring) "becomes the **doc** special attribute of that object". All objects that are public or are exported as part of a module should have a docstring. Docstrings unequivocally belong to Python best practices, as they are ubiquitous in the Python community. Every professional Python package makes use of them.
 
 [Sphinx](https://www.sphinx-doc.org/en/master/) is the most common package used to automatically generate HTML code for a documentation website from your d
 
 ## Python Best Practices #3: Logging
 
-When it comes to good coding practices for Python, logging has to be on that list. If you have server applications or use multi-threading, debugging becomes an extremely frustrating and usually fruitless exercise. A simple solution would be to litter your code with print statements to understand what is going on at runtime. 
+When it comes to good coding practices for Python, logging has to be on that list. If you have server applications or use multi-threading, debugging becomes an extremely frustrating and usually fruitless exercise. A simple solution would be to litter your code with print statements to understand what is going on at runtime.
 
 The problem with using print statements is that they need to be removed from production code, but you need them for local development. Are you going to remove them every time you push to master and put them back in after you are working on your own branch again? That's incredibly time consuming, annoying, and inefficient.
 
-To solve this problem, use logging. Logging is an elegant solution to understanding the runtime execution of your application. 
+To solve this problem, use logging. Logging is an elegant solution to understanding the runtime execution of your application.
 
 Logging allows you to control whether the statements are outputted and even where they end up. You could output them to a file or silence them entirely. You can also annotate each log with a category. They typically are something like `verbose`, `information`, `debug`, `warning`, `error`, and `critical`.
 
@@ -62,7 +62,7 @@ Although unittest is a handy framework, there is still room for improvement. [Py
 
 Structuring your Python project is key to its success. It's very important that you set up your repository with a meaningful and simple folder structure. You should be able to quickly find what you're looking for, and files should be strictly organized. Tests should be kept separate from production code.
 
-Watch your dependencies. You should not have any circular dependencies, where two classes rely on each other. This will lead to confusing import statements as well as purposes. Every file should only contain one class, and each class should have one purpose. 
+Watch your dependencies. You should not have any circular dependencies, where two classes rely on each other. This will lead to confusing import statements as well as purposes. Every file should only contain one class, and each class should have one purpose.
 
 You should also take care to not have components that are highly coupled. [High coupling](https://livebook.manning.com/book/code-like-a-pro/chapter-10/) means two pieces of code are highly interdependent and making changes to one significantly impacts the other. If, for example, one small change to class X causes half of your tests for class Y to fail, those two classes are most likely way too tightly coupled.
 
@@ -76,7 +76,7 @@ Another important aspect of managing your application's execution environment is
 
 ## Python Best Practices #7: Naming conventions
 
-Last but not least is naming conventions. The names of variables, modules, and classes, and functions is incredibly important. Although Python is known as one of the most readable programming languages, if your [variables and objects are named poorly](/clean-code/naming-variables), or even worse, in a confusing manner, then any other developers will struggle trying to make heads or tails of your code. 
+Last but not least is naming conventions. The names of variables, modules, and classes, and functions is incredibly important. Although Python is known as one of the most readable programming languages, if your [variables and objects are named poorly](/clean-code/naming-variables), or even worse, in a confusing manner, then any other developers will struggle trying to make heads or tails of your code.
 
 Python has an [official guide](https://www.python.org/dev/peps/pep-0008/) to it as well, which is a great jumping-off point. The key here is consistency. If you're working with others, make sure you've all agreed to one naming strategy.
 

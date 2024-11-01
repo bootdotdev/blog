@@ -14,15 +14,15 @@ images:
 hello at boot.dev
 ```
 
-*The `at` is an `@` symbol.*
+_The `at` is an `@` symbol._
 
 Social links:
 
-* [YouTube](https://www.youtube.com/@bootdotdev)
-* [Podcast](https://www.backendbanter.fm)
-* [Twitter](https://twitter.com/bootdotdev)
-* [LinkedIn](https://www.linkedin.com/company/bootdotdev)
-* [Discord](https://boot.dev/community)
+- [YouTube](https://www.youtube.com/@bootdotdev)
+- [Podcast](https://www.backendbanter.fm)
+- [Twitter](https://twitter.com/bootdotdev)
+- [LinkedIn](https://www.linkedin.com/company/bootdotdev)
+- [Discord](https://www.boot.dev/community)
 
 ## If you're interested in any of the following just shoot us an email
 

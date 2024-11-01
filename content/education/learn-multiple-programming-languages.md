@@ -8,11 +8,11 @@ images:
   - /img/800/photo-1533709475520-a0745bba78bf.avif.webp
 ---
 
-I've been building [Boot.dev](https://boot.dev) as a side-project for the last couple of years, and have recently had many new students ask the same question:
+I've been building [Boot.dev](https://www.boot.dev) as a side-project for the last couple of years, and have recently had many new students ask the same question:
 
 > "Why does your computer science curriculum require me to learn more than one programming language?"
 
-It seems that a good number of students join the platform with the opinion that they would rather "fully master a single language" than "split their efforts". While I plan to explain this better in the app itself moving forward, I wanted to write get this blog post out to provide an in-depth explanation of why we have you learn several languages over the course of our [back-end career path](https://boot.dev/tracks/backend).
+It seems that a good number of students join the platform with the opinion that they would rather "fully master a single language" than "split their efforts". While I plan to explain this better in the app itself moving forward, I wanted to write get this blog post out to provide an in-depth explanation of why we have you learn several languages over the course of our [back-end career path](https://www.boot.dev/tracks/backend).
 
 ## First, some background on Boot.dev
 
@@ -46,7 +46,7 @@ In short, we have 2 competing goals:
 
 ## So how many languages are you going to teach me?
 
-Over the course of my traditional CS degree at university, I used 12+ programming languages. I think that's too many. I don't want to teach languages for the sake of teaching them. It's really an optimization problem where we want to introduce as few languages as possible, while effectively teaching every concept we want to teach. I'm confident that the full curriculum for [Boot.dev](https://boot.dev) will only require the use of about 6 languages in total, and that the majority of the program can just use JavaScript, Python, and Go.
+Over the course of my traditional CS degree at university, I used 12+ programming languages. I think that's too many. I don't want to teach languages for the sake of teaching them. It's really an optimization problem where we want to introduce as few languages as possible, while effectively teaching every concept we want to teach. I'm confident that the full curriculum for [Boot.dev](https://www.boot.dev) will only require the use of about 6 languages in total, and that the majority of the program can just use JavaScript, Python, and Go.
 
 ## Learning multiple languages removes your tunnel-vision
 

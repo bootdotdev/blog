@@ -16,7 +16,7 @@ Beyond our quotidian day-to-day, computer science also is a vital part of the cu
 
 CS used to be a very specialist field. A lot of folks have learned how to use the programs that ran on computers, but that's like learning to microwave a ready meal. Learning computer science is like learning to cook. Nowadays, a computer science degree is a popular choice, but even though more and more grads are choosing computer science as a discipline, they can't catch up to the huge surplus of computer science jobs.
 
-So, why [learn computer science](https://boot.dev)? Why bother? What if you already went to college and got a liberal arts degree? What if you don't think you're very good at coding?
+So, why [learn computer science](https://www.boot.dev)? Why bother? What if you already went to college and got a liberal arts degree? What if you don't think you're very good at coding?
 
 If you have any passing interest in computer science, you should learn it. Here's why.
 
@@ -32,7 +32,7 @@ Plus, these jobs will stay relevant for the long haul. We're barely scratching t
 
 Why learn computer science, especially if you've already got a degree in something unrelated? Plenty of folks worry that it's too late for them to learn computer science. They think that if they don't have a college degree, they may as well not bother. But nothing could be further from the truth.
 
-One of the benefits of computer science is that it's learnable by anyone, anywhere. You can choose to enroll in a [boot camp](https://boot.dev). You can choose to get an accreditation from a platform like Coursera. You can even learn computer science on your own with free resources like FreeCodeCamp. Companies are so desperate to hire people with computer science knowledge, and they're often *not looking for a degree*, they're just looking for people who can get the job done.
+One of the benefits of computer science is that it's learnable by anyone, anywhere. You can choose to enroll in a [boot camp](https://www.boot.dev). You can choose to get an accreditation from a platform like Coursera. You can even learn computer science on your own with free resources like FreeCodeCamp. Companies are so desperate to hire people with computer science knowledge, and they're often *not looking for a degree*, they're just looking for people who can get the job done.
 
 This means that even if you studied biology, or didn't get a degree at all, there's a way into a computer science track if you have the skills and experience. While many job opportunities in senior positions require some kind of a college degree, many of the entry-level ones only require proficiency in the right language, knowledge of the frameworks, and the ability to interview well.
 
@@ -74,4 +74,4 @@ Why learn computer science? Because it's one of the few disciplines that will gi
 
 Learning computer science is not easy. It's not fast. If you choose to start, it should be because you have a real desire to, not because you think you can take an eight-week bootcamp and be ready to rock and roll at Google. But if you're reading this article about why learn computer science, and especially if you've made it to the bottom, this is likely something you've been considering anyway. These benefits are great, but at the end of the day, the main answer to why you should learn computer science should be **because you want to**.
 
-CS is an awesome learning track. No matter if you decide to do it yourself with textbooks and YouTube tutorials, or enjoy a more [guided learning experience](https://boot.dev), learning computer science will be one of the most rewarding things you'll ever do.
+CS is an awesome learning track. No matter if you decide to do it yourself with textbooks and YouTube tutorials, or enjoy a more [guided learning experience](https://www.boot.dev), learning computer science will be one of the most rewarding things you'll ever do.

@@ -19,7 +19,7 @@ Interestingly enough, everyone also has very different ideas about what the prob
 * Cancel existing student debt
 * Online-first university
 
-A couple weeks ago I was listening to an old [Indiehackers](https://www.indiehackers.com/) podcast where the interviewer was speaking with Austen Allred, the founder of Lambda School (now Bloom University). Austen said that he believed the biggest problem with education is one of incentives - particularly that *universities don't care whether or not their students are placed in a good job upon graduation*. I tend to agree, though [Boot.dev](https://boot.dev), my current side-project, has ended up taking a different path than the one Lambda took.
+A couple weeks ago I was listening to an old [Indiehackers](https://www.indiehackers.com/) podcast where the interviewer was speaking with Austen Allred, the founder of Lambda School (now Bloom University). Austen said that he believed the biggest problem with education is one of incentives - particularly that *universities don't care whether or not their students are placed in a good job upon graduation*. I tend to agree, though [Boot.dev](https://www.boot.dev), my current side-project, has ended up taking a different path than the one Lambda took.
 
 Lambda School has been in the news over the past few years, sometimes good things were reported, sometimes not. I'm not here to gossip, instead, I simply want to look at them as an example of how Austen's original beliefs on educational incentives ended up panning out. First, let's talk about where Austen and I agree, and then we'll get into some of the things I think we can learn from Lambda school, and how we can make education even better.
 
@@ -127,7 +127,7 @@ Udemy is a marketplace, they don't create their own content, instead they allow 
 
 ## So what would a better incentive structure look like?
 
-First off, let's address the elephant in the room, I'm a big 'ol hypocrite at the moment. [Boot.dev](https://boot.dev) is my side project, and its business model is basically a carbon copy of Codecademy's. For now, I'm trying to get the project to a level of revenue where I can afford to go full-time on it. In the meantime, I'm thinking about how a different model could create a better incentive structure. We'll get there, but we aren't there yet.
+First off, let's address the elephant in the room, I'm a big 'ol hypocrite at the moment. [Boot.dev](https://www.boot.dev) is my side project, and its business model is basically a carbon copy of Codecademy's. For now, I'm trying to get the project to a level of revenue where I can afford to go full-time on it. In the meantime, I'm thinking about how a different model could create a better incentive structure. We'll get there, but we aren't there yet.
 
 Okay, so what might this "better model" look like? Well, we want a platform that is strongly incentivized monetarily to do as many of the following as possible:
 

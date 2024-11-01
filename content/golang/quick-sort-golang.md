@@ -2,7 +2,7 @@
 title: "Quick Sort in Golang"
 author: Lane Wagner
 date: "2021-06-17"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/quick.webp
@@ -23,7 +23,7 @@ Quicksort is an efficient sorting algorithm commonly used in production sorting 
 
 ## Quicksort Pseudocode
 
-### Partition() function in Golang
+### `partition()` function in Golang
 
 Quicksort actually makes use of two functions, the main `quicksort()` function as well as the `partition()` function. The meat of the algorithm counter-intuitively lives in the `partition()` function. It's responsible for finding the pivot and moving everything to the correct side of the pivot.
 
@@ -46,7 +46,7 @@ func partition(arr []int, low, high int) ([]int, int) {
 }
 ```
 
-### QuickSort() function in Golang
+### `quickSort()` function in Golang
 
 The `quickSort()` function is really just a wrapper around the partition function, and it handles the recursive nature of the algorithm.
 
@@ -102,4 +102,6 @@ The random approach is easy to code, works practically all of the time, and as s
 
 ### Finding the median optimization
 
-One of the most popular solutions is to use the "median of three" approach. Three elements (for example: the first, middle, and last elements) of each partition are chosen and the median is found between them. That item is then used as the pivot. This approach has the advantage that it can't break down to `O(n^2)` time because we are guaranteed to never use the worst item in the partition as the pivot. That said, it can still be slow_er_ because a true median isn't used.
+One of the most popular solutions is to use the "median of three" approach. Three elements (for example: the first, middle, and last elements) of each partition are chosen and the median is found between them. That item is then used as the pivot. This approach has the advantage that it can't break down to `O(n^2)` time because we are guaranteed to never use the worst item in the partition as the pivot. That said, it can still be slow*er* because a true median isn't used.
+
+PS: If you'd like to learn more about sorting algorithms, check out my [algorithms course](https://www.boot.dev/courses/learn-algorithms-python). If you want to learn the Go language, check out my [Go course](https://www.boot.dev/courses/learn-golang).

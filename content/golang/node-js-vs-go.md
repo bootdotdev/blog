@@ -2,7 +2,7 @@
 title: "Node.js vs Golang: Compared Over 6 Key Areas"
 author: Meghan Reichenbach
 date: "2021-09-23"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/Golang-vs-Nodejs-min.webp
@@ -58,13 +58,13 @@ A report was [released from PayPal](https://medium.com/paypal-tech/node-js-at-pa
 
 ## Golang vs Node.js: Which Has a Higher Salary?
 
-According to PayScale, Node.js developers earn a median [salary of $91,198 a year](https://www.payscale.com/research/US/Job=NodeJS_Developer/Salary) in the US, and [Go developers earn $117,394](https://www.payscale.com/research/US/Skill=Go_(Golang)_Programming_Language/Salary) a year.
+According to PayScale, Node.js developers earn a median [salary of $91,198 a year](https://www.payscale.com/research/US/Job=NodeJS_Developer/Salary) in the US, and [Go developers earn $117,394](<https://www.payscale.com/research/US/Skill=Go_(Golang)_Programming_Language/Salary>) a year.
 
 There are a couple of reasons for such a deviation. The first being Golang is an entire programming language, whereas Node.js is an environment used by JavaScript developers, which only make an [average of $84,219 a year](https://www.payscale.com/research/US/Skill=JavaScript/Salary) generally.
 
 Second, the JavaScript market is completely [saturated with programmers](https://www.theregister.com/2021/04/26/report_developers_slashdata/), whereas Golang is still an untapped market. While JavaScript continues to be one of the most popular languages, Golang is one of the most wanted, so now's the time to jump in and fill the demand.
 
-Try out our [Learn Go courses for free.](https://boot.dev/courses/learn-golang)
+Try out our [Learn Go courses for free.](https://www.boot.dev/courses/learn-golang)
 
 ## Go vs Node: Which Is Best for Web Development?
 
@@ -110,7 +110,7 @@ This support is particularly useful when troubleshooting or learning new framewo
 
 On the other hand, Golang's community is still small and new.
 
-It's definitely growing in popularity, but it has yet to reach its full potential, especially in data science and machine learning. While the community may not have the experience to help with troubleshooting, you do have the opportunity to learn together.  
+It's definitely growing in popularity, but it has yet to reach its full potential, especially in data science and machine learning. While the community may not have the experience to help with troubleshooting, you do have the opportunity to learn together.
 
 ## Go vs Node.js: The Final Verdict
 
@@ -124,8 +124,8 @@ Either way, Go and Node.js both offer serious value to your skillset and provide
 
 **Take action and learn to code:**
 
-**Learn JavaScript:** with our [Learn JavaScript](https://boot.dev/courses/learn-javascript). You'll learn how computer science works, and build your skills up and code your own game interactively using conditionals, variables, functions, and more. You'll gain the skills you need to eventually start using Node.js and other JS extras.
+**Learn JavaScript:** with our [Learn JavaScript](https://www.boot.dev/courses/learn-javascript). You'll learn how computer science works, and build your skills up and code your own game interactively using conditionals, variables, functions, and more. You'll gain the skills you need to eventually start using Node.js and other JS extras.
 
-**Learn Golang:** with our [Learn Go](https://boot.dev/courses/learn-golang). Our Go course covers everything from the basics to advanced concepts like concurrency.
+**Learn Golang:** with our [Learn Go](https://www.boot.dev/courses/learn-golang). Our Go course covers everything from the basics to advanced concepts like concurrency.
 
 All our courses are part of our wider [computer science curriculum](https://github.com/bootdotdev/curriculum) to take anyone from complete beginner to CS grad level.

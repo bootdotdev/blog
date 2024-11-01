@@ -2,7 +2,7 @@
 title: "Scala vs Go: Comparing Everything You Need to Know"
 author: Meghan Reichenbach
 date: "2021-08-18"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/Scala-vs-Go-min.webp
@@ -66,7 +66,7 @@ It also has a wider range of uses and is ideal for microservices, CLIs, serverle
 
 While working in an exciting and evolving industry like technology is attractive enough, the pay isn't too bad either.
 
-According to [Payscale](https://www.payscale.com/research/US/Skill=Go_(Golang)_Programming_Language/Salary), Golang developers earn a median salary of $117,394, and [Scala](https://www.payscale.com/research/US/Skill=Scala/Salary) developers earn a median salary of $177,698. It's hard to beat Scala, as it's [the highest-paid developer job](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states) in the US, but Go comes in at second place with solid pay, especially for a beginner. Keep in mind however, that Scala is a less popular language, so while it may pay well, there probably won't be as many job openings.
+According to [Payscale](<https://www.payscale.com/research/US/Skill=Go_(Golang)_Programming_Language/Salary>), Golang developers earn a median salary of $117,394, and [Scala](https://www.payscale.com/research/US/Skill=Scala/Salary) developers earn a median salary of $177,698. It's hard to beat Scala, as it's [the highest-paid developer job](https://insights.stackoverflow.com/survey/2020#technology-what-languages-are-associated-with-the-highest-salaries-worldwide-united-states) in the US, but Go comes in at second place with solid pay, especially for a beginner. Keep in mind however, that Scala is a less popular language, so while it may pay well, there probably won't be as many job openings.
 
 **Conclusion:** The data has Scala as the highest-paid language, with Go second. However, both of these are very highly paid.
 
@@ -124,4 +124,4 @@ In the end, both languages offer high-paying opportunities, job stability, and a
 
 **If you're interested in learning Go**, we have designed our Learn Go courses to take you from any skill level and give you the skills you need to land a Go programming job. The two courses cover the basics, and move on to more complex topics like currying and concurrency, and we even have a Go interview prep course to help you ace the interview.
 
-[Start Learning Go with boot.dev here](https://boot.dev/courses/learn-golang)
+[Start Learning Go with boot.dev here](https://www.boot.dev/courses/learn-golang)

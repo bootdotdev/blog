@@ -10,7 +10,7 @@ images:
 
 When I was looking into getting my first job related to programming, I had no idea what the difference between a certificate and a diploma was. I was terrified that I'd have to go back to school and spend [2-4 years getting a degree](/jobs/programming-job-with-associates-degree/) in computer science before an employer would even blink in my direction. Unfortunately for me, two degrees in conservation biology aren't enough to attract any serious coding employers. Then I learned about boot camps, which eased my concerns some, but I didn't have the time or money to spend on a 15-week program. 
 
-The thing that helped me get my first programming job was an online certificate I received after completing an intro to SQL course - and of course, the relevant knowledge that came with my certificate. The good news is that nowadays there are plenty of [great options like Boot.dev](https://boot.dev/) that will teach you to code online, and hook you up with the certificate you need to get a job.
+The thing that helped me get my first programming job was an online certificate I received after completing an intro to SQL course - and of course, the relevant knowledge that came with my certificate. The good news is that nowadays there are plenty of [great options like Boot.dev](https://www.boot.dev/) that will teach you to code online, and hook you up with the certificate you need to get a job.
 
 ## I know what a degree is, but what exactly is a computer science certificate?
 

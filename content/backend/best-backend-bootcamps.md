@@ -2,7 +2,7 @@
 title: "The 7 Best Backend Bootcamps of 2022"
 author: Natalie Schooner
 date: "2022-10-11"
-categories: 
+categories:
   - "backend"
 images:
   - /img/800/soldiers-in-camo.webp
@@ -14,15 +14,15 @@ However, [becoming a back-end engineer](/backend/become-backend-developer/) can 
 
 It's worth noting that backend bootcamps are relatively rare - most bootcamps focus on the front-end or teach the full stack (both frontend and backend development). But good backend bootcamps do exist. And here are seven of the best backend bootcamps.
 
-Backend bootcamps aim to teach you all the skills you need to do the job right. The really good backend bootcamps will help you develop backend projects to demonstrate to future employers. The best ones have some kind of interactive element to fight the coding fatigue that always sets in, like a [Discord channel](https://boot.dev/community) or group events.
+Backend bootcamps aim to teach you all the skills you need to do the job right. The really good backend bootcamps will help you develop backend projects to demonstrate to future employers. The best ones have some kind of interactive element to fight the coding fatigue that always sets in, like a [Discord channel](https://www.boot.dev/community) or group events.
 
 That being said, everyone's definition of "best" is super subjective, so I'll include as much information as I can around:
 
-* Price
-* Duration
-* Style
-* Content
-* Bonus info, like if the instructors are especially awesome or they provide employment stats.
+- Price
+- Duration
+- Style
+- Content
+- Bonus info, like if the instructors are especially awesome or they provide employment stats.
 
 Let's jump in.
 
@@ -46,31 +46,31 @@ Let's jump in.
 
 There are two things I really don't like about most coding bootcamps: they are obscenely expensive (I'm talking $10k+). And they're a massive time commitment. Like, if you don't have 40 spare hours in the week, don't even bother. The reality is that most people don't have a spare 40 hours in the week, nor a cool $10k lying around.
 
-That's why I'm starting with our own [Boot.dev's backend bootcamp](https://boot.dev), which in my view, is the best backend bootcamp. Here's the lowdown:
+That's why I'm starting with our own [Boot.dev's backend bootcamp](https://www.boot.dev), which in my view, is the best backend bootcamp. Here's the lowdown:
 
 ### Content:
 
 This backend bootcamp covers Python, JavaScript, and Go programming languages. There is a combination of guided lessons with an interactive coding window for you to test your code on, mixed with personal projects for you to develop your own coding skills.
 
-Joining the Boot.dev backend bootcamp also includes access to the [Discord community](https://boot.dev/community) of developers.
+Joining the Boot.dev backend bootcamp also includes access to the [Discord community](https://www.boot.dev/community) of developers.
 
-### Style: 
+### Style:
 
-The content style is "[learn by doing](/about/#you-cant-learn-to-code-if-you-arent-writing-a-lot-of-code)." Lessons include some explanatory text, but right from the start, you'll run into actual coding tasks to complete. These tasks build on your knowledge, growing more complex as you go.
+The content style is "learn by doing" Lessons include some explanatory text, but right from the start, you'll run into actual coding tasks to complete. These tasks build on your knowledge, growing more complex as you go.
 
-For example, you'll learn how to [build a RESTful social media API in Golang](https://boot.dev/courses/build-social-media-backend-golang) using the standard library. If you're interested in getting a job writing Go on the web, this is the single most important project you can practice with.
+For example, you'll learn how to [build a RESTful social media API in Golang](https://www.boot.dev/courses/build-social-media-backend-golang) using the standard library. If you're interested in getting a job writing Go on the web, this is the single most important project you can practice with.
 
-The course also comes with a personal [capstone project](https://boot.dev/courses/build-capstone-project) for every student to complete. By the end of the course, you'll have a library of projects to put in your portfolio.
+The course also comes with a personal [capstone project](https://www.boot.dev/courses/build-capstone-project) for every student to complete. By the end of the course, you'll have a library of projects to put in your portfolio.
 
-### Price: 
+### Price:
 
 This backend bootcamp has a few price options. At the high end, you can pay $34/month. You also have the option of paying $24/month if you pay the full year up-front.
 
-### Duration: 
+### Duration:
 
 To complete this backend web development bootcamp, you should expect to spend around six months – when working on this part-time, spending around 10h per week on it. In hour terms, you can expect it to take you 300 hours or so.
 
-Sounds like the best backend bootcamp for you? [Enroll here](https://boot.dev/).
+Sounds like the best backend bootcamp for you? [Enroll here](https://www.boot.dev/).
 
 ## 2. Clarusway: Backend Development Course
 
@@ -84,17 +84,17 @@ This backend bootcamp focuses on databases, programming, and web architecture. Y
 
 There are no prerequisites for this course – just bring yourself, motivation, commitment, and some general enthusiasm for IT.
 
-### Style: 
+### Style:
 
 Most of the course is delivered via Zoom lecture. However, you can also expect to complete five hands-on projects as well as a final capstone project.
 
-### Price: 
+### Price:
 
 Like most bootcamps, this one is on the pricier end. Upfront, you can expect to pay $11,400.
 
 They also offer Income Share Agreements (ISA) where you don't pay a penny until you're employed. With this agreement, you'll pay 9.9% of your monthly pre-tax income for 24 months.
 
-### Duration: 
+### Duration:
 
 This bootcamp runs for three months. You can expect to receive 100+ hours of in-class sessions and 54 hours of career management services. You'll get two weeks dedicated to working on your own capstone project.
 
@@ -110,24 +110,24 @@ That being said, languages are easy to pick up if you know more than one. You ca
 
 This course covers data structures, algorithms, and devops tools. You'll learn to deploy to Amazon AWS, Microsoft Azure, and Google Clouds. Here's the full list of technology and concepts you can expect to become familiar with:
 
-* Python and Postgres SQL
-* Data structures, algorithms and DevOps
-* Docker
-* Flask and Django
-* SDLC and CI/CD
-* Amazon AWS, Microsoft Azure, and Google Cloud
+- Python and Postgres SQL
+- Data structures, algorithms and DevOps
+- Docker
+- Flask and Django
+- SDLC and [CI/CD](https://www.boot.dev/courses/learn-ci-cd-github-docker)
+- Amazon AWS, Microsoft Azure, and Google Cloud
 
-### Style: 
+### Style:
 
 This bootcamp is closest to what you'd get as a semester of college. It's part-time, instructor-led, and only has a maximum of 15 students per class. Intimate!
 
 Sunday through Friday, expect video lectures, coding exercises, and quizzes. On Saturdays, you can look forward to four-hour live workshops. You'll have the chance to troubleshoot code problems and code the end-of-the-week assignment. Overall, it sounds pretty fun, pretty interactive, and engaging.
 
-### Price: 
+### Price:
 
 This bootcamp, maybe because it's not super time-intensive, clocks in at $1,925 total. They have a ton of different payment plans for that, though – the cheapest is to make five payments of $385, but you can also defer payment, make payments of $155-169 for a year, or apply for scholarships.
 
-### Duration: 
+### Duration:
 
 This backend bootcamp runs for sixteen weeks. You should be able to commit eight hours per week to online lectures and four hours per week for live online assignments and workshops. Overall, a 12-hour/week commitment isn't too bad for four months.
 
@@ -155,11 +155,11 @@ There's a long list of software you'll be exposed to, but the highlights are: Py
 
 You also get post-bootcamp coaching and job prep.
 
-### Style: 
+### Style:
 
 You'll get 100+ hours of instructor-led training, but a lot of this will be self-paced work. You should expect to spend nearly 700 hours of on-demand self-learning and 250 hours in Cloud Labs. Overall, there are 50 assignments and 12 projects, plus your Capstone project at the end.
 
-### Price: 
+### Price:
 
 They have an interesting model – you can opt to go for the instructor-led backend bootcamp, which doesn't say how much it costs, but does offer up to a 90% scholarship for a couple lucky students.
 
@@ -167,7 +167,7 @@ The other model is self-paced learning, with instructor-led "doubt-clearing sess
 
 Switchup.org [said](https://www.switchup.org/bootcamps/knowledgehut) the cost of the instructor-led model was $2,799, but they also said the self-paced pricing model was just $499, so who knows.
 
-### Duration: 
+### Duration:
 
 In their FAQ section, the creators of this backend bootcamp say that the most successful students dedicate 35-40 hours per week to the full-time model, or 12-15 hours per week if they're doing it part-time. You can also go fully self-paced if you prefer.
 
@@ -189,15 +189,15 @@ This isn't a bootcamp so much as a proper college course. This means it's going 
 
 This backend software development bootcamp covers a lot of ground. The highlights are Java, SQL, AWS, algorithms, object-oriented programming, data definition language, and RESTful APIs.
 
-### Style: 
+### Style:
 
 This backend bootcamp is defined by 27 hours of instructor-led classes. Beyond that, you'll be given assignments and reading materials to self-learn. Beyond assignments, you'll be able to attend one 30-minute mentor meeting, career office hours, and office drop-in hours every week if you want extra help and attention.
 
-### Price: 
+### Price:
 
 Nashua Community College costs $490 per credit if you're out of state, $323 per credit if you're in the New England area, or a low $215 if you're in the state of New Hampshire.
 
-### Duration: 
+### Duration:
 
 The course runs for 18 weeks. You can expect to spend 1.5 hours per week on that instructor-led session, every Thursday. The course also asks you to spend 15-20 hours of your own time on assignments and course prep.
 
@@ -219,17 +219,17 @@ This backend bootcamp focuses on the JS stack. The website makes a bold claim: i
 
 Beyond that, you can expect to cover concepts like continuous cloud deployment, unit testing, OAuth2, and two-factor authentication.
 
-### Style: 
+### Style:
 
 This backend bootcamp has an interesting approach. Every week, you'll build a project based on a common, real-world problem. You'll have access to instructor-led classes around that problem, as well as self-guided study.
 
-### Price: 
+### Price:
 
 This backend bootcamp is on the pricier side, coming in at 6,770 euros or $6,570.39 in today's American dollars. (Thank you, exchange rate.) They also have monthly or bimonthly payment plan options. If you're struggling with cash, check out their available scholarships to see if you could be considered for any of them.
 
 This price does include the beginner-friendly Web Development Bootcamp and the Career Coaching Program, so it's a bit of a three-for-one.
 
-### Duration: 
+### Duration:
 
 The course lasts for 22 weeks. The first two weeks of that are self-paced study – they ask that you spend 40 hours of your time on that. You'll be given access to pre-recorded course material. You'll also receive mandatory pre-course assignments.
 
@@ -255,7 +255,7 @@ To get the most out of this course, you should have a few prerequisites: program
 
 This backend bootcamp is a very deep, comprehensive dive into backend development through Java. You'll run through Java fundamentals, intermediate Java, SQL and MySQL, Advanced Java, and finally Java at Scale.
 
-### Style: 
+### Style:
 
 Springboard focuses on its mentorship program. You get 1:1 guidance, accountability, regular meetings, and on-demand calls with your experienced backend development mentor.
 
@@ -263,11 +263,11 @@ Beyond mentorship, you also get typical assignments, video lectures, and group c
 
 Finally, you'll create a full web app for your capstone project.
 
-### Price: 
+### Price:
 
 This backend bootcamp runs on the pricier end. If you pay upfront, you'll pay $9,900. If you opt for a monthly or deferred plan, you'll pay between $f439-$1,290 per month, but the course will end up costing you between $11610 to $16,500.
 
-### Duration: 
+### Duration:
 
 This program runs for a full nine months. You should be ready to spend 20-25 hours per week on this backend bootcamp. But, as it's self-paced, it may take more or less time.
 
@@ -279,8 +279,8 @@ They also guarantee a job offer. No job? Get your money back. There are some con
 
 ## What's the best backend bootcamp of them all?
 
-The best backend bootcamp for you is the right combo of price, intensity, subject matter, and general vibes. If you want to focus on [computer science fundamentals](/computer-science/comprehensive-guide-to-learn-computer-science-online/) for a more affordable, community-driven approach? Then [boot.dev's backend bootcamp](https://boot.dev) is the right option. If you want a deep dive into Java, then Springboard is probably a great bootcamp for you.
+The best backend bootcamp for you is the right combo of price, intensity, subject matter, and general vibes. If you want to focus on [computer science fundamentals](/computer-science/comprehensive-guide-to-learn-computer-science-online/) for a more affordable, community-driven approach? Then [boot.dev's backend bootcamp](https://www.boot.dev) is the right option. If you want a deep dive into Java, then Springboard is probably a great bootcamp for you.
 
-I've tried to provide you with all the relevant information you need to make the right choice for *you*. Most of these websites have a ton of additional information, pricing assistance, scholarships, curricula, and FAQs – I encourage you to check them out.
+I've tried to provide you with all the relevant information you need to make the right choice for _you_. Most of these websites have a ton of additional information, pricing assistance, scholarships, curricula, and FAQs – I encourage you to check them out.
 
 No matter which one you choose, the best backend bootcamp will end up helping you accomplish your goals, whether that's a career change, a salary hike, or just a better life.

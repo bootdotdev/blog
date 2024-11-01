@@ -20,7 +20,7 @@ At some point, it's time to take the training wheels off and build something *on
 
 ## When is it time to build your own project?
 
-At [Boot.dev](https://boot.dev), students write their first non-tutorial project after completing the following modules:
+At [Boot.dev](https://www.boot.dev), students write their first non-tutorial project after completing the following modules:
 
 * Learn Python (course)
 * Learn OOP (course)
@@ -99,7 +99,7 @@ Don't have ChatGPT write your code for you! You won't learn that way, and you'll
 
 ### Use Discord
 
-Ask questions in the [Boot.dev Discord server](https://boot.dev/community), especially if you're a current student (but you're welcome either way)! As with all question-asking, provide as much context as you can so that when your fellow students and mentors help they can efficiently provide you with the information you need.
+Ask questions in the [Boot.dev Discord server](https://www.boot.dev/community), especially if you're a current student (but you're welcome either way)! As with all question-asking, provide as much context as you can so that when your fellow students and mentors help they can efficiently provide you with the information you need.
 
 ## Publish and share
 

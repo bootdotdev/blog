@@ -26,7 +26,7 @@ All the best, Lane
 
 This course is a bit different. It's packed with text-based walkthroughs as well as videos, and you'll complete all of the steps on your own machine. After all, Docker isn't a programming language, but a tool that's invaluable to back-end and full-stack engineers.
 
-[Start the Docker course here](https://boot.dev/courses/learn-docker)
+[Start the Docker course here](https://www.boot.dev/courses/learn-docker)
 
 ![docker](/img/800/docker.png.webp)
 
@@ -34,12 +34,12 @@ This course is a bit different. It's packed with text-based walkthroughs as well
 
 We created new icons for all of our achievements, and we also added 6 new achievements:
 
-* **Milestone: Master** (480 assignments completed in total)
-* **Milestone: Grandmaster** (960 assignments completed in total)
-* **Sharpshooter: Master** (89 assignments correct in a row)
-* **Sharpshooter: Grandmaster** (144 assignments correct in a row)
-* **Streak: Master** (Complete an exercise weekly for 30 weeks)
-* **Streak: Grandmaster** (Complete an exercise weekly for 52 weeks)
+- **Milestone: Master** (480 assignments completed in total)
+- **Milestone: Grandmaster** (960 assignments completed in total)
+- **Sharpshooter: Master** (89 assignments correct in a row)
+- **Sharpshooter: Grandmaster** (144 assignments correct in a row)
+- **Streak: Master** (Complete an exercise weekly for 30 weeks)
+- **Streak: Grandmaster** (Complete an exercise weekly for 52 weeks)
 
 Since we released them 2 weeks ago, we've already had students unlocking these prestigious badges!
 
@@ -63,9 +63,9 @@ It's an open-source project, so feel free to play the game or contribute and add
 
 ## What we're working on
 
-* Upgrading the "game" system. We want to re-introduce gems as a way to save your sharpshooter progress and buy boosts.
-* The next course we release will probably be "Learn Kubernetes".
-* We want to do a major upgrade of the "Learn Functional Programming" and the "Learn Cryptography" courses.
+- Upgrading the "game" system. We want to re-introduce gems as a way to save your sharpshooter progress and buy boosts.
+- The next course we release will probably be "Learn Kubernetes".
+- We want to do a major upgrade of the "Learn Functional Programming" and the "Learn Cryptography" courses.
 
 ## Top picks from the interwebs
 
@@ -83,6 +83,6 @@ By DevOps Paradox
 
 ## Top plugs
 
-* [(Article) What do Tech Layoffs Mean for Budding Developers?](/news/tech-layoffs-for-new-devs/)
+- [(Article) What do Tech Layoffs Mean for Budding Developers?](/news/tech-layoffs-for-new-devs/)
 
-* [(Article) Add Libraries and Packages to Your Coding Portfolio](/jobs/libraries-and-packages-in-coding-portfolio/)
+- [(Article) Add Libraries and Packages to Your Coding Portfolio](/jobs/libraries-and-packages-in-coding-portfolio/)

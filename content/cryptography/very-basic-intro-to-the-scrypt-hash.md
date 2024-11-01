@@ -9,7 +9,7 @@ images:
   - /img/800/litecoin.webp
 ---
 
-Scrypt is a slow-by-design [key derivation function](/cryptography/key-derivation-functions/) designed to create strong cryptographic keys. Simply put, the purpose of the Scrypt hash is to create a fingerprint of its input data but to do it _very slowly_. A common use-case is to create a strong private key from a password, where the new private key is longer and more secure. Here at [boot.dev,](https://boot.dev) we use a similar KDF for securing user passwords.
+Scrypt is a slow-by-design [key derivation function](/cryptography/key-derivation-functions/) designed to create strong cryptographic keys. Simply put, the purpose of the Scrypt hash is to create a fingerprint of its input data but to do it _very slowly_. A common use-case is to create a strong private key from a password, where the new private key is longer and more secure. Here at [boot.dev,](https://www.boot.dev) we use a similar KDF for securing user passwords.
 
 Let's pretend your password is `password1234`. By using Scrypt, we can extend that deterministically into a 256-bit key:
 

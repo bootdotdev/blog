@@ -25,7 +25,7 @@ I preferred a different answer, which [reads](https://www.reddit.com/r/dataengin
 
 The simplest answer, in my opinion? Data engineers are a *type* of backend engineer. Data is a huge part of the backend. It makes sense that backend engineers have to build systems to collect and manage the data that makes the frontend run. But as the role of data has expanded, organizations have expanded the role of data engineer to be its own thing.
 
-Let's talk about each role on its own, and then come back to the comparison. By the way, if you're interested in becoming a data engineer *or* a back-end engineer, check out [Boot.dev](https://boot.dev) - you can learn online in your spare time for *waaaaay* less than you would spend on college or a bootcamp.
+Let's talk about each role on its own, and then come back to the comparison. By the way, if you're interested in becoming a data engineer *or* a back-end engineer, check out [Boot.dev](https://www.boot.dev) - you can learn online in your spare time for *waaaaay* less than you would spend on college or a bootcamp.
 
 ## What is a Data Engineer?
 

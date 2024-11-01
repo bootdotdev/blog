@@ -2,7 +2,7 @@
 title: "Top 10 Books on Web Development in 2023"
 author: Natalie Schooner
 date: "2023-09-05"
-categories: 
+categories:
   - "education"
 images:
   - /img/800/pileofbooks.png.webp
@@ -18,11 +18,11 @@ No matter why you’re looking for web dev books, this list will point you in th
 
 This generation has a somewhat unfair reputation for not liking books; it’s all TikTok and Netflix. But especially in web development, which changes and updates so frequently, it’s worth thinking about why read books at all. Wouldn’t blogs or YouTube videos be better for learning web dev?
 
-I never like to issue definitive answers like "YouTube videos are always better than books." It’s so rare that I can accurately make statements like that. And this books vs videos/articles/podcasts question is no exception. *Yes*, there are types of knowledge or skills that you’d be better off watching a video or taking a tutorial on instead of reading a textbook.
+I never like to issue definitive answers like "YouTube videos are always better than books." It’s so rare that I can accurately make statements like that. And this books vs videos/articles/podcasts question is no exception. _Yes_, there are types of knowledge or skills that you’d be better off watching a video or taking a tutorial on instead of reading a textbook.
 
 But textbooks have their place too.
 
-Sure, frameworks change and are released at a breakneck pace, but the broad, high-level state of web design and its trends can really only be adequately covered in book format. Not only that, but books – precisely *because* they’re less frequently published and updated, are typically better at giving you a comprehensive overview, or a definitive deep dive into a particular topic.
+Sure, frameworks change and are released at a breakneck pace, but the broad, high-level state of web design and its trends can really only be adequately covered in book format. Not only that, but books – precisely _because_ they’re less frequently published and updated, are typically better at giving you a comprehensive overview, or a definitive deep dive into a particular topic.
 
 There’s also the expertise angle. Books are written by full experts, compared to bloggers, because the resources required to write and publish one are much higher. And they go deeper, too. It’s hard to convey a skill properly in a blog post, no matter how many blog posts you write. A 200+ page book? Much better.
 
@@ -55,7 +55,7 @@ Duckett's book is tailored for beginners looking to dive into web development. T
 
 Whether you're a novice or seeking to strengthen your foundational knowledge, Jon Duckett's work provides an accessible entry into the world of web development.
 
-### 2. [JavaScript and JQuery](https://javascriptbook.com/) by Jon Duckett
+### 2. [JavaScript and JQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647) by Jon Duckett
 
 ![JavaScript and JQuery cover](https://i.imgur.com/nCvD81n.png)
 
@@ -93,7 +93,7 @@ This one is so well known it has a nickname: Prag Prog. Cute, huh?
 
 Andrew Hunt and David Thomas are software developers with extensive experience and contributions to the programming community. They wrote not just this seminal book, but also an [entire bookshelf](https://pragprog.com/) of books for pragmatic programmers.
 
-This particular book is best for developers looking to enhance their practical programming skills and decision-making abilities. It’s a classic that offers valuable insights into writing clean, maintainable code and making effective design decisions. Plus, it’s not just theoretical – it’s *pragmatic*, addressing real-world programming challenges for the modern programmer.
+This particular book is best for developers looking to enhance their practical programming skills and decision-making abilities. It’s a classic that offers valuable insights into writing clean, maintainable code and making effective design decisions. Plus, it’s not just theoretical – it’s _pragmatic_, addressing real-world programming challenges for the modern programmer.
 
 ### 6. [Web Design: A Beginner's Guide](https://www.amazon.com/Web-Design-Beginners-Guide-Second/dp/0071701346/ref=sr_1_11) by Wendy Willard
 
@@ -145,7 +145,7 @@ Alex Edwards is a software developer with experience in Go programming and web d
 
 ## Final thoughts
 
-I’ll actually mention just *one* more book before I let you go. Stephen Covey, author of that *7 Habits* book, has a great analogy that I will shameless co-op: the rocks, pebbles, sand analogy.
+I’ll actually mention just _one_ more book before I let you go. Stephen Covey, author of that _7 Habits_ book, has a great analogy that I will shameless co-op: the rocks, pebbles, sand analogy.
 
 Think of your free time as a container. Then think of all your obligations as rocks, pebbles, or sand, based on the importance. If you fill the container with pebbles first, then sand, you’ll find there’s no space for the big rock. You need to focus first on the big pieces, then fill in the medium stuff (pebbles), and then the tiny bits (sand).
 

@@ -250,7 +250,7 @@ Now, with generics, we can stop generating so much code! Code generation will st
 
 ## Using generics now
 
-You can play with generics today with Go 1.18! Make sure you just get your local toolchain updated to the latest version. You can get going immediately by playing around on [boot.dev's Golang playground](https://boot.dev/playground/go), it's running 1.18 at the time of writing.
+You can play with generics today with Go 1.18! Make sure you just get your local toolchain updated to the latest version. You can get going immediately by playing around on [boot.dev's Golang playground](https://www.boot.dev/playground/go), it's running 1.18 at the time of writing.
 
 ## How do generics work under the hood?
 

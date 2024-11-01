@@ -2,16 +2,16 @@
 title: "Running Go in the Browser with WASM and Web Workers"
 author: Lane Wagner
 date: "2020-09-23"
-categories: 
+categories:
   - "golang"
   - "javascript"
 images:
   - /img/800/WASM-Web-Workers.png
 ---
 
-We've recently made big changes to how we execute Go in the browser on [boot.dev](https://boot.dev/) and want to explain the enhancements. Web Workers are the reason we've been able to solve some of the serious browser-related coding problems that were holding us back. Consider this article a sequel to [Running Go in the Browser with Web Assembly](/golang/running-go-in-the-browser-with-web-assembly-wasm/).
+We've recently made big changes to how we execute Go in the browser on [boot.dev](https://www.boot.dev/) and want to explain the enhancements. Web Workers are the reason we've been able to solve some of the serious browser-related coding problems that were holding us back. Consider this article a sequel to [Running Go in the Browser with Web Assembly](/golang/running-go-in-the-browser-with-web-assembly-wasm/).
 
-While publishing our latest course, [Learn Algorithms](https://boot.dev/courses/learn-algorithms), we needed a way to print console output while code is still executing. We ran into a problem when running computationally expensive algorithms in the browser; the browser gets so bogged down that it can't render new lines of output. We decided to implement web workers, and they solved the problem handily.
+While publishing our latest course, [Learn Algorithms](https://www.boot.dev/courses/learn-algorithms-python), we needed a way to print console output while code is still executing. We ran into a problem when running computationally expensive algorithms in the browser; the browser gets so bogged down that it can't render new lines of output. We decided to implement web workers, and they solved the problem handily.
 
 ## The Problem
 
@@ -36,12 +36,12 @@ func main(){
 }
 ```
 
-Since adding Web Workers, now it appropriately prints each number at the time of execution. You can see for yourself on the [playground here](https://boot.dev/playground/go).
+Since adding Web Workers, now it appropriately prints each number at the time of execution. You can see for yourself on the [playground here](https://www.boot.dev/playground/go).
 
 ## What Is a Web Worker?
 
 > Web Workers are a simple means for web content to run scripts in background threads.
-> 
+>
 > [Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 
 In other words, its a way for us to finally break free from the single-threaded clutches of JavaScript! We can offload expensive tasks to another thread of execution. Doing this leaves the browser free to render updates on the screen.
@@ -53,35 +53,40 @@ As you know, we compile code in the editor to WASM on our servers. If you are cu
 To run a Web Worker, we need a script that defines the worker. It's just a JavaScript file:
 
 ```js
-addEventListener('message', async (e) => {
-	// initialize the Go WASM glue
-	const go = new self.Go();
+addEventListener(
+  "message",
+  async (e) => {
+    // initialize the Go WASM glue
+    const go = new self.Go();
 
-	// e.data contains the code from the main thread
-	const result = await WebAssembly.instantiate(e.data, go.importObject);
+    // e.data contains the code from the main thread
+    const result = await WebAssembly.instantiate(e.data, go.importObject);
 
-	// hijack the console.log function to capture stdout
-	let oldLog = console.log;
-	// send each line of output to the main thread
-	console.log = (line) => { postMessage({
-		message: line
-	}); };
+    // hijack the console.log function to capture stdout
+    let oldLog = console.log;
+    // send each line of output to the main thread
+    console.log = (line) => {
+      postMessage({
+        message: line,
+      });
+    };
 
-	// run the code
-	await go.run(result.instance);
-	console.log = oldLog;
+    // run the code
+    await go.run(result.instance);
+    console.log = oldLog;
 
-	// tell the main thread we are done
-	postMessage({
-		done: true
-	});
-}, false);
-  
+    // tell the main thread we are done
+    postMessage({
+      done: true,
+    });
+  },
+  false
+);
 ```
 
 The worker communicates with the main thread by listening to `message` events, and sending data back via the `postMessage` function.
 
-Note: I omitted the wasm\_exec.js file that is necessary for the worker to be able to run Go code, but it can be found on your machine if you have Go installed.
+Note: I omitted the wasm_exec.js file that is necessary for the worker to be able to run Go code, but it can be found on your machine if you have Go installed.
 
 ```
 cat $(go env GOROOT)/misc/wasm/wasm_exec.js
@@ -95,7 +100,7 @@ Now that we have a worker file that can execute compiled Web Assembly, let's tak
 export function getWorker(lang) {
   return {
     webWorker: new window.Worker(`/${lang}_worker.js`),
-    lang
+    lang,
   };
 }
 
@@ -133,7 +138,7 @@ this.output = [];
 this.isLoading = true;
 const wasm = await compileGo(this.code);
 await useWorker(this.worker, wasm, (data) => {
-  this.output.push(data); 
+  this.output.push(data);
 });
 this.isLoading = false;
 ```

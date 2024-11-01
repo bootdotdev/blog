@@ -2,13 +2,13 @@
 title: "Complete Guide to Removing Elements From Lists in Python"
 author: Lane Wagner
 date: "2021-12-09"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/trash.webp
 ---
 
-While lists aren't the most efficient [data structure](https://boot.dev/courses/learn-data-structures) if you'll be doing lots of deleting from the middle, there are definitely good ways to accomplish the task. The built-in [`remove()`](https://python-reference.readthedocs.io/en/latest/docs/list/remove.html) method should be your first option. Let's go over some examples.
+While lists aren't the most efficient [data structure](https://www.boot.dev/courses/learn-data-structures-python) if you'll be doing lots of deleting from the middle, there are definitely good ways to accomplish the task. The built-in [`remove()`](https://python-reference.readthedocs.io/en/latest/docs/list/remove.html) method should be your first option. Let's go over some examples.
 
 ## Remove element in Python list by value
 

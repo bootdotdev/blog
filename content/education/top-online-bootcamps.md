@@ -20,7 +20,7 @@ A quick distinction: many coding bootcamps are in person. But thanks to the pand
 
 A good online coding bootcamp will be a mix of instructor-led lessons, independent study, practice assignments, and group projects, much like you'd get at a university degree. The main difference is the speed at which you do these. Many online coding bootcamps require a steep time commitment of full-time work for 13-22 weeks in some cases. (Part-time or self-directed bootcamps range from 20-60 weeks.)
 
-Online coding bootcamps are also distinct from online learning platforms like [Boot.dev](https://boot.dev/) or [FreeCodeCamp.org](https://www.freecodecamp.org/). Those platforms offer a variety of courses with interactive lessons but are self-guided.
+Online coding bootcamps are also distinct from online learning platforms like [Boot.dev](https://www.boot.dev/) or [FreeCodeCamp.org](https://www.freecodecamp.org/). Those platforms offer a variety of courses with interactive lessons but are self-guided.
 
 They're also separate from websites like [Coursera](https://www.coursera.org/) that basically offer degrees or certificates through online courses from accredited universities in coding. They're intense, expensive, time-demanding, and in certain cases, very effective at teaching you to code.
 
@@ -144,7 +144,7 @@ This course trains you and functionality and interactive software. You'll also l
 
 Hack Reactor makes a big claim for their live online coding bootcamp: that you'll be able to get a job paying potentially up to $95,000 as a software engineer, totally able to deal with any potential problem or complex application that comes up in your future job. They go so far as to say that you will be a pro after the course.
 
-In this course, you'll work through hundreds of hours of problems to help you succeed in title interviews and in the actual job. You'll also learn how to plan, scope, build, and manage applications. You'll get experience working with React and develop a full-stack JavaScript skill set. Interesting way, they're also one of the few online coding bootcamps to assure you that you'll [learn the computer science fundamentals](https://boot.dev) which I consider very important.
+In this course, you'll work through hundreds of hours of problems to help you succeed in title interviews and in the actual job. You'll also learn how to plan, scope, build, and manage applications. You'll get experience working with React and develop a full-stack JavaScript skill set. Interesting way, they're also one of the few online coding bootcamps to assure you that you'll [learn the computer science fundamentals](https://www.boot.dev) which I consider very important.
 
 ### Details
 

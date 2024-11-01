@@ -20,13 +20,13 @@ All the best, Lane
 
 ## What we've done this month
 
-### [1. "Learn Cryptography" course released](https://boot.dev/courses/learn-cryptography)
+### [1. "Learn Cryptography" course released](https://www.boot.dev/courses/learn-cryptography-golang)
 
-Okay, technically we re-released it, but this new course is so much better than the old one. Allan and I have learned a lot about making awesome courses. If you're interested in cryptography, DevSecOps, or cyber security, and have already taken our [Learn Go course](https://boot.dev/courses/learn-golang), you should hit this up for sure.
+Okay, technically we re-released it, but this new course is so much better than the old one. Allan and I have learned a lot about making awesome courses. If you're interested in cryptography, DevSecOps, or cyber security, and have already taken our [Learn Go course](https://www.boot.dev/courses/learn-golang), you should hit this up for sure.
 
 ### 2. Tries and heaps chapters added
 
-We added 2 new chapters to the [Learn Data Structures](https://boot.dev/courses/learn-data-structures) and [Learn Advanced Algorithms](https://boot.dev/courses/learn-advanced-algorithms) courses: tries and heaps.
+We added 2 new chapters to the [Learn Data Structures](https://www.boot.dev/courses/learn-data-structures-python) and [Learn Advanced Algorithms](https://www.boot.dev/courses/learn-algorithms-2-python) courses: tries and heaps.
 
 ### 3. Better gem store experience
 
@@ -34,10 +34,10 @@ Last month we released an update to the game system that enables you to use gems
 
 ## What we're working on now
 
-* My wife is scheduled to give birth to our son on Feb 8th, so February is gonna be a bit slow, but Allan will still be working like a dog.
-* We want to do a major upgrade of the "Learn Functional Programming" course, but we're still working out some details on the direction we want to take with it.
-* "Deploy an API" will probably be our next course/project, though we're also working on other ideas like "Learn Kubernetes" and "Learn Networking"
-* So many of you have done the challenges in the Learn Python course! We're working to integrate the challenges directly into the course so that you don't need to tab out and back in to get to them. Once we're more satisfied with that experience, we'll be adding more challenges to other courses.
+- My wife is scheduled to give birth to our son on Feb 8th, so February is gonna be a bit slow, but Allan will still be working like a dog.
+- We want to do a major upgrade of the "Learn Functional Programming" course, but we're still working out some details on the direction we want to take with it.
+- "Deploy an API" will probably be our next course/project, though we're also working on other ideas like "Learn Kubernetes" and "Learn Networking"
+- So many of you have done the challenges in the Learn Python course! We're working to integrate the challenges directly into the course so that you don't need to tab out and back in to get to them. Once we're more satisfied with that experience, we'll be adding more challenges to other courses.
 
 ## Top picks for this month
 
@@ -61,6 +61,6 @@ This is a fascinating deep dive into Dropbox's SSD caching system and why removi
 
 ## Top plugs for this month
 
-* [(YouTube) Figuring our why your code is slow (IO timings)](https://www.youtube.com/watch?v=63Uo9Z_72M8)
-* [(YouTube) How HTTPs Works in 7 Minutes](https://www.youtube.com/watch?v=0kwLpf6ms94)
-* [(Article) Don't Start with Frameworks](https://blog.boot.dev/backend/dont-start-with-frameworks/)
+- [(YouTube) Figuring our why your code is slow (IO timings)](https://www.youtube.com/watch?v=63Uo9Z_72M8)
+- [(YouTube) How HTTPs Works in 7 Minutes](https://www.youtube.com/watch?v=0kwLpf6ms94)
+- [(Article) Don't Start with Frameworks](https://blog.boot.dev/backend/dont-start-with-frameworks/)

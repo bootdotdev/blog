@@ -2,7 +2,7 @@
 title: "C Sharp vs Python: Which Is the Best Programming Language?"
 author: Natalie Schooner
 date: "2023-04-27"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/pythononpiano.png.webp
@@ -24,11 +24,11 @@ I like to start these kinds of comparison articles with a bit of history. I find
 
 ### A brief history of C#
 
-In 2000, Microsoft's Anders Hejlsberg designed C#. It was nearly called *Cool*, which stands for **C**-like **o**bject-**o**riented **l**anguage. I don’t know about you, but I prefer C#.
+In 2000, Microsoft's Anders Hejlsberg designed C#. It was nearly called _Cool_, which stands for **C**-like **o**bject-**o**riented **l**anguage. I don’t know about you, but I prefer C#.
 
-C# is a statically typed, general-purpose language, that supports true object oriented programming (OOP), functional, and component-oriented programming, along with others. It’s *very* similar to Java, because it was invented to compete with it.
+C# is a statically typed, general-purpose language, that supports true object oriented programming (OOP), functional, and component-oriented programming, along with others. It’s _very_ similar to Java, because it was invented to compete with it.
 
-Its main claim to fame is its tight integration with the .NET framework, which allows for cross-language interoperability, automatic memory management, and access to a large class library. If you prefer a longer history, I encourage you to check out [Wikipedia’s page on C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=The%20C%23%20programming%20language%20was,of%20which%20were%20closed%2Dsource.).
+Its main claim to fame is its tight integration with the .NET framework, which allows for cross-language interoperability, automatic memory management, and access to a large class library. If you prefer a longer history, I encourage you to check out [Wikipedia’s page on C#](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=The%20C%23%20programming%20language%20was,of%20which%20were%20closed%2Dsource.>).
 
 ## A brief history of Python
 
@@ -36,7 +36,7 @@ You know what I love about Python’s history? Python stayed so true to its miss
 
 Today, the Python programming language is the most popular programming language because… it’s easy to read, write, and understand. It’s a high-level, interpreted programming, dynamically typed language that supports OOP, procedural, and functional programming. It has a vast community of developers, coders, and hobbyists who continually release amazing packages.
 
-It may have started as a hobby to keep Van Rossum busy during the week around Christmas when his office was closed. But in the three intervening decades, it has grown in leaps and bounds to become a beloved, useful language. If you want more history, the Wikipedia [page](https://en.wikipedia.org/wiki/Guido_van_Rossum) is great as is *Programming Python*’s [forward](https://www.python.org/doc/essays/foreword/).
+It may have started as a hobby to keep Van Rossum busy during the week around Christmas when his office was closed. But in the three intervening decades, it has grown in leaps and bounds to become a beloved, useful language. If you want more history, the Wikipedia [page](https://en.wikipedia.org/wiki/Guido_van_Rossum) is great as is _Programming Python_’s [forward](https://www.python.org/doc/essays/foreword/).
 
 It’s often described as a language with "batteries included" because of how jam-packed with useful resources the language is. Its main strengths are its syntax and rich set of libraries. Python is very popular for machine learning, data science, and artificial intelligence.
 
@@ -100,7 +100,7 @@ Look how readable that is! In my opinion, the Python code is much easier to unde
 
 But, if you were to run that code, you’d quickly discover one of Python’s weaknesses – it can be a little slow due to its dynamic type-checking and interpreted nature. C# code often runs up to 10 times faster than Python code, depending on the task.
 
-If you want more Python code examples to demonstrate how simple Python is to read, write, and understand, Boot.dev's [Learn Python](https://boot.dev/courses/learn-python) course is chock full of fun examples like this one.
+If you want more Python code examples to demonstrate how simple Python is to read, write, and understand, Boot.dev's [Learn Python](https://www.boot.dev/courses/learn-code-python) course is chock full of fun examples like this one.
 
 ## Which is best for beginners?
 
@@ -174,8 +174,8 @@ It's worth mentioning that both are a type of structured programming language �
 
 Let’s compare the two languages from a job perspective. I’ll look at:
 
-* job openings
-* salaries
+- job openings
+- salaries
 
 ### Job openings
 

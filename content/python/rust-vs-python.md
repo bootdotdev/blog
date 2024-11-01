@@ -2,7 +2,7 @@
 title: "Rust vs Python in Data Science, Systems Development & More"
 author: Meghan Reichenbach
 date: "2021-09-15"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/Rust-vs-Python-min.webp
@@ -30,11 +30,11 @@ Python is an excellent beginner language because of its insanely low learning cu
 
 Python also supports functional and procedural programming, the two easiest paradigms to learn, and comes with an amazing set of standard libraries, giving you access to an extensive list of facilities.
 
-We have an interactive course so you can [learn functional programming](https://boot.dev/courses/learn-functional-programming).
+We have an interactive course so you can [learn functional programming](https://www.boot.dev/courses/learn-functional-programming-python).
 
 Aside from being easy to learn, Python's also versatile. Its simplistic but powerful design has made it an excellent language for experimental fields, like machine learning and data science, but its security has also made it a key choice in back-end web development.
 
-Both are innovative fields that offer very different environments.  
+Both are innovative fields that offer very different environments.
 
 It's also incredibly popular, with companies like Spotify, Netflix, and Dropbox using Python to develop their platforms, along with its massive community of developers.
 
@@ -72,7 +72,7 @@ Even though Rust is a high-level language, it still possesses fewer abstractions
 
 Oppositely, Python's intuitiveness comes from having _more_ abstractions. So, it takes longer to interpret, and interpreted code is already much slower than compiled machine code.
 
-Rust's memory management system is also seriously efficient as the code is checked for invalid memory reference leaks, as well as other irregular behavior, at compile time. Python, however, uses a garbage collector to manage memory, which adds notorious drag time to performance.
+Rust's memory management system is also seriously efficient as the code is checked for invalid memory reference leaks, as well as other irregular behavior, at compile time. Python, however, uses a garbage collector to manage memory (which you can learn about in [TJ's Memory Management in C course](https://www.boot.dev/courses/learn-memory-management-c), which adds notorious drag time to performance.
 
 It's not all bad for Python though. Some extensions help increase performance, like PyPy and Cython, but they're better for specific applications.
 
@@ -98,7 +98,7 @@ Rust lacks the libraries and frameworks needed to manage ML, and tech giants and
 
 The community truly does make or break a language's potential in any field, because it directly influences the demand and creation of tools to support them. Overall, Python has the intrinsic and communal support to dominate as a machine learning language.
 
-**Hot tip:** Machine learning is essentially algorithms. Algorithms that leverage statistics to learn patterns and behaviors, so the more [advanced you are with algorithms](https://boot.dev/courses/learn-advanced-algorithms) the better your ML skills become.
+**Hot tip:** Machine learning is essentially algorithms. Algorithms that leverage statistics to learn patterns and behaviors, so the more [advanced you are with algorithms](https://www.boot.dev/courses/learn-algorithms-2-python) the better your ML skills become.
 
 ## Rust vs Python for Data Science
 
@@ -116,7 +116,7 @@ Rust has potential, but it struggles with visual implementations and has few dat
 
 The community also isn't as big, but it's very excited about the possibilities Rust poses for the industry. So, it's not a complete no, but if you're keen to work as a data scientist now, then Python is your best bet. But definitely keep a lookout for Rust in the future.
 
-**Hot tip:** Once you're comfortable with Python, take a [Big O data structure class](https://boot.dev/courses/learn-data-structures) to improve how you interact with the data.
+**Hot tip:** Once you're comfortable with Python, take a [Big O data structure course](https://www.boot.dev/courses/learn-data-structures-python) to improve how you interact with the data.
 
 ## Rust vs Python for System Development
 
@@ -152,6 +152,6 @@ So, it's really about which one is best for _you_ and your goals. Regardless, bo
 
 **For Further Study**
 
-If you're looking to learn Python, we built our [Learn Python course](https://boot.dev/courses/learn-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
+If you're looking to learn Python, we built our [Learn Python course](https://www.boot.dev/courses/learn-code-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
 
-[Learn Python Now](https://boot.dev/courses/learn-python)
+[Learn Python Now](https://www.boot.dev/courses/learn-code-python)

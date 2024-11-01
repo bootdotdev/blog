@@ -2,7 +2,7 @@
 title: "Qvault Hackathon Kickoff Jan 17th, 2022"
 author: Lane Wagner
 date: "2022-01-16"
-categories: 
+categories:
   - "javascript"
   - "news"
 ---
@@ -25,18 +25,18 @@ You only have 5 hours, so you should get something working before you spend a lo
 
 ### Useful resources
 
-* [Python playsound](https://pypi.org/project/playsound/)
-* [Audio in the browser w/ JavaScript](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)
-* [Python GUI with tkinter](https://docs.python.org/3/library/tkinter.html)
+- [Python playsound](https://pypi.org/project/playsound/)
+- [Audio in the browser w/ JavaScript](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)
+- [Python GUI with tkinter](https://docs.python.org/3/library/tkinter.html)
 
 ## Awards
 
 We'll have two categories of participants.
 
-* Professional developers (those who have had a coding job before)
-* Student developers (those who are still learning and haven't had a job)
+- Professional developers (those who have had a coding job before)
+- Student developers (those who are still learning and haven't had a job)
 
-We'll have 2 winners from each category. Each winner will get a free year-long subscription coupon to a [Boot.dev membership](https://boot.dev/pricing), which includes full access to the community, courses and projects on the platform. The winner can use the code themselves, or if they're already a member, share it with a friend!
+We'll have 2 winners from each category. Each winner will get a free year-long subscription coupon to a [Boot.dev membership](https://www.boot.dev/pricing), which includes full access to the community, courses and projects on the platform. The winner can use the code themselves, or if they're already a member, share it with a friend!
 
 In addition, 1st place in each category will get an hour of 1 on 1 time with Lane (me) the founder of Qvault to talk about whatever you want! We can work on code together, you can ask for career advice, or we can even just spend the time improving your resume.
 
@@ -44,8 +44,8 @@ In addition, 1st place in each category will get an hour of 1 on 1 time with Lan
 
 We'll score your project using the following metrics:
 
-* Product – how cool the application is from a user's perspective? Does it have great features? Are there any noticeable bugs
-* Technical merit – How well is the code organized and architected? Is it a clean code base?
+- Product – how cool the application is from a user's perspective? Does it have great features? Are there any noticeable bugs
+- Technical merit – How well is the code organized and architected? Is it a clean code base?
 
 ## Good luck!
 

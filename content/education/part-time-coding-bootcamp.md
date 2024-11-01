@@ -64,7 +64,7 @@ The price of online coding bootcamps varies a lot. Some are very affordable, som
 
 ## Asynchronous Part-Time Coding Bootcamps
 
-A self-paced coding bootcamp can be a useful option if you're really worried about time. Boot.dev has a great [asynchronous coding bootcamp](https://boot.dev) with several different options for focus areas. Their whole program only costs $30 per month. They also have a really strong community on Discord where you can share cool personal projects, get inspired by projects from others, attend tech talks, and even get help from people in industry with your [resume](/computer-science/computer-science-resumes/) and job applications.
+A self-paced coding bootcamp can be a useful option if you're really worried about time. Boot.dev has a great [asynchronous coding bootcamp](https://www.boot.dev) with several different options for focus areas. Their whole program only costs $30 per month. They also have a really strong community on Discord where you can share cool personal projects, get inspired by projects from others, attend tech talks, and even get help from people in industry with your [resume](/computer-science/computer-science-resumes/) and job applications.
 
 Outside of boot.dev, sites like Pluralsight and Udemy have lots of relatively [affordable courses to learn to code](https://www.creativebloq.com/web-design/online-coding-courses-11513890) which are also accessed with a monthly subscription.
 
@@ -86,6 +86,6 @@ If you haven't done too much prep work on your own, I recommend a longer course 
 
 It's great to try out one of the cheaper courses to build up some foundational knowledge. You'll get a feel for whether you need the added structure of a synchronous program to motivate yourself or you just want some more live interactions on your learning journey.
 
-Some of the asynchronous courses like [boot.dev](https://boot.dev/)'s have online communities which can help you when you get stuck, give you career advice, and help you figure out how to best expand and use your growing knowledge.
+Some of the asynchronous courses like [boot.dev](https://www.boot.dev/)'s have online communities which can help you when you get stuck, give you career advice, and help you figure out how to best expand and use your growing knowledge.
 
 Expanding your skills and knowledge into a brand new area will take time. A single bootcamp, regardless of how intense it is, will probably not be enough to successfully launch the start of your career as a software developer. A variety of books, mentors, programs, bootcamps, courses, and more will provide you with a thorough enough education to send you happily and competently on your way.

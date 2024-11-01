@@ -8,7 +8,7 @@ images:
   - /img/800/wizarddesk.png.webp
 ---
 
-I talk to boatloads of students who are starting to [learn to code](https://boot.dev), and invariably they are hyper-concerned about which programming languages and technologies they should be learning.
+I talk to boatloads of students who are starting to [learn to code](https://www.boot.dev), and invariably they are hyper-concerned about which programming languages and technologies they should be learning.
 
 Now, first of all, I don't think it matters all that much. You don't fail to break into tech because you learned JavaScript instead of Python, or Go instead of Rust. You fail for a bunch of other reasons, chief among them being a lack of dedication, time, and focus.
 

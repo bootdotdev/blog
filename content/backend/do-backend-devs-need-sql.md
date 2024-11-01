@@ -2,7 +2,7 @@
 title: "Do Backend Developers Need to Know SQL?"
 author: Natalie Schooner
 date: "2023-03-02"
-categories: 
+categories:
   - "backend"
 images:
   - /img/800/giant-future-database.png.webp
@@ -14,70 +14,70 @@ A while back, one of my friends bragged that he bagged a six-figure backend deve
 
 "It's so easy, anyone can do it," he said smugly as I labored to learn the basics of computer science the hard, slow, old-fashioned way (taking courses, reading books, building projects on my own). "You don't need to know the first thing about SQL to become a backend developer."
 
-A few weeks later, of course, he was summarily fired for being incompetent at his job. This proves a few things, first, my friend is a bit of a loser, but also that it's not enough to *look* good on paper to be a backend developer. You have to know these topics inside and out. [Learning SQL](https://boot.dev/courses/learn-sql) is no exception.
+A few weeks later, of course, he was summarily fired for being incompetent at his job. This proves a few things, first, my friend is a bit of a loser, but also that it's not enough to _look_ good on paper to be a backend developer. You have to know these topics inside and out. [Learning SQL](https://www.boot.dev/courses/learn-sql) is no exception.
 
 You might luck out like my pal did, but even if you do manage to snag a job through trickery and deceit, it's not enough to have a passing familiarity with CRUD operations and joins. You need to know the language well, and you need to understand the database theory behind it. Otherwise, you'll both struggle to get a job as a backend developer, and you definitely won't be able to keep it.
 
-The short answer to your question? Yes, incontrovertibly yes - *backend developers need to know SQL*.
+The short answer to your question? Yes, incontrovertibly yes - _backend developers need to know SQL_.
 
 If you want the long answer, then we'll cover:
 
-* What is SQL?
-* Is SQL frontend or backend?
-* Why do backend devs need to know SQL?
-* How can you learn SQL?
-* What other database tools and technologies should you know?
+- What is SQL?
+- Is SQL frontend or backend?
+- Why do backend devs need to know SQL?
+- How can you learn SQL?
+- What other database tools and technologies should you know?
 
 ## What is SQL?
 
 Before I explain in more detail why it's so imperative that backend developers know SQL, let's break down what SQL is in case it's a new-ish concept to you.
 
-> If you want to gain a solid understanding of SQL skills, look no further - we've got a [great course covering the basics of SQL](https://boot.dev/courses/learn-sql) and beyond.
+> If you want to gain a solid understanding of SQL skills, look no further - we've got a [great course covering the basics of SQL](https://www.boot.dev/courses/learn-sql) and beyond.
 
 SQL, or Structured Query Language, is a programming language used to manage and manipulate relational databases.
 
 At its core, SQL allows you to query and extract data from databases using commands like `SELECT`, `INSERT`, `UPDATE`, and `DELETE`. These commands let you perform operations like retrieving specific data, adding new data to a database, modifying existing data, and removing data altogether.
 
-It's not *exactly* a programming language (though I did include it as [one of the top backend technologies to learn in 2023](/backend/top-backend-technologies/#8-sql)) but it is a *query* language. Backend developers typically use SQL to communicate between their application code and relational databases.
+It's not _exactly_ a programming language (though I did include it as [one of the top backend technologies to learn in 2023](/backend/top-backend-technologies/#8-sql)) but it is a _query_ language. Backend developers typically use SQL to communicate between their application code and relational databases.
 
-### Is SQL front-end or back-end? 
+### Is SQL front-end or back-end?
 
 SQL is about as back-end as a language as you can get. When you think about the difference between [frontend and backend](/backend/frontend-vs-backend-meaning/) technologies, the frontend is what the user interacts with. The backend, usually hooked up to the database, is the process that fulfills that user request. SQL is the language used to store, manipulate, and retrieve data from that database.
 
 Why is SQL backend? Let's look at an example to illustrate why SQL is a backend language.
 
-Say, for instance, you want to log into [Boot.dev](https://boot.dev) to take another lesson in the Learn SQL course. When you log in to the application, the front end sends a request to the backend to retrieve your profile data. The backend then uses SQL queries to retrieve your profile information from the database, such as your name, email address, and profile picture.
+Say, for instance, you want to log into [Boot.dev](https://www.boot.dev) to take another lesson in the Learn SQL course. When you log in to the application, the front end sends a request to the backend to retrieve your profile data. The backend then uses SQL queries to retrieve your profile information from the database, such as your name, email address, and profile picture.
 
 Once the backend has retrieved your profile data, it sends it back to the front end in a format that can be displayed on your screen. The front end then uses HTML and CSS to render the profile data and display it to you.
 
-## How can you learn SQL for the backend? 
+## How can you learn SQL for the backend?
 
 [Like Go](/golang/become-golang-backend-dev/), SQL is one of these languages that is primarily back-end oriented. If you learn SQL, you're learning SQL for the backend by default.
 
 That being said, if you want to learn SQL for the back-end, there are a few key competencies you should check off. Here's a list:
 
-* Tables: Know how to create and structure tables in an efficient and organized manner to build a robust and effective database.
-* Constraints: Understand how to apply constraints to data so that it remains accurate and consistent over time, helping to prevent errors and maintain data integrity.
-* CRUD: Create, read, update, and delete information in a database.
-* Basic Queries: Write more flexible and powerful SQL queries, allowing you to retrieve the exact data you need.
-* Structuring: Know how to order and limit data sets to manage large amounts of data and improve query performance.
-* Aggregations: Understand how to perform calculations on entire data sets to extract meaningful insights from large amounts of data.
-* Subqueries: Nest queries within one another to perform complex queries and generate more specific results.
-* Normalization: Learn how to normalize a database to ensure that data is consistent and accurate, even as it grows and changes over time.
-* Joins: Understanding how to join multiple tables together to combine data from multiple sources.
-* Performance: Optimize SQL queries to ensure that databases are running and keeping applications running smoothly in production.
+- Tables: Know how to create and structure tables in an efficient and organized manner to build a robust and effective database.
+- Constraints: Understand how to apply constraints to data so that it remains accurate and consistent over time, helping to prevent errors and maintain data integrity.
+- CRUD: Create, read, update, and delete information in a database.
+- Basic Queries: Write more flexible and powerful SQL queries, allowing you to retrieve the exact data you need.
+- Structuring: Know how to order and limit data sets to manage large amounts of data and improve query performance.
+- Aggregations: Understand how to perform calculations on entire data sets to extract meaningful insights from large amounts of data.
+- Subqueries: Nest queries within one another to perform complex queries and generate more specific results.
+- Normalization: Learn how to normalize a database to ensure that data is consistent and accurate, even as it grows and changes over time.
+- Joins: Understanding how to join multiple tables together to combine data from multiple sources.
+- Performance: Optimize SQL queries to ensure that databases are running and keeping applications running smoothly in production.
 
 ### How can I learn this long laundry list of SQL skills?
 
-First, not coincidentally, this is a list of exactly the lessons you'll learn from our [Learn SQL](https://boot.dev/courses/learn-sql) course. You will build out real database tables and practice querying them in flexible ways right in your browser. Not only will you understand how to use SQL, but you will also learn when you should use it and in what situations. It's a great course!
+First, not coincidentally, this is a list of exactly the lessons you'll learn from our [Learn SQL](https://www.boot.dev/courses/learn-sql) course. You will build out real database tables and practice querying them in flexible ways right in your browser. Not only will you understand how to use SQL, but you will also learn when you should use it and in what situations. It's a great course!
 
 Want a more DIY approach? You can also look on YouTube and Google for tutorials covering each of these skills. For example, searching "[sql normalize a database" on YouTube](https://www.youtube.com/watch?v=siiYInWniFs) delivers a great 10-minute video tutorial on the subject.
 
 Finally, there are so many great textbooks on the subject that can help you learn the basics of SQL. I know, textbooks feel old and clunky, but in my opinion, textbooks are massively underrated. They are:
 
-* Curated
-* Complete
-* Comprehensive
+- Curated
+- Complete
+- Comprehensive
 
 In a way that a lot of online blogs and YouTube tutorials aren't, because they're written to be self-contained units of knowledge.
 
@@ -151,9 +151,9 @@ I've written more on the subject in my [blog post](/backend/top-backend-technolo
 
 ### NoSQL databases
 
-Wait a minute, why am I forcing you to read about NoSQL specifically in an article about why backend developers should know *SQL*?
+Wait a minute, why am I forcing you to read about NoSQL specifically in an article about why backend developers should know _SQL_?
 
-I know I said SQL is the "universal language," but not so fast. While SQL is the *most* common type of database, there are also NoSQL databases like MongoDB, Cassandra, and Redis that store data differently and can be more suitable for certain use cases.
+I know I said SQL is the "universal language," but not so fast. While SQL is the _most_ common type of database, there are also NoSQL databases like MongoDB, Cassandra, and Redis that store data differently and can be more suitable for certain use cases.
 
 I've written quite a bit about these, so if you want to learn more, I recommend reading the [NoSQL portion](/backend/top-backend-technologies/#top-five-back-end-nosql-databases) of my blog post on the [top backend technologies](/backend/top-backend-technologies) to know in 2023. SQL is great, but there are limitations.
 
@@ -168,7 +168,7 @@ Here's a brief table summarizing the main differences:
 | [Firebase](/backend/top-backend-technologies/#4-firebase)     | Owned by Google, cloud-hosted Backend-as-a-service                                                                                  |
 | [Cassandra](/backend/top-backend-technologies/#5-cassandra)   | Peer-to-peer network, used for super high volume workloads                                                                          |
 
-## Final thoughts 
+## Final thoughts
 
 Do backend developers need to know SQL? Yes, yes, a thousand times yes. It's a truly fundamental, necessary language to get a job as a backend developer and excel.
 

@@ -1,4 +1,4 @@
 ---
 type: redirect
-target: https://boot.dev/terms
+target: https://www.boot.dev/terms
 ---

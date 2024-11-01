@@ -2,7 +2,7 @@
 title: "The Pros and Cons of Django for Backend Development"
 author: Natalie Schooner
 date: "2023-07-17"
-categories: 
+categories:
   - "backend"
 images:
   - /img/800/pythondjangofantasy.png.webp
@@ -10,16 +10,16 @@ imageAlts:
   - "Midjourney imagining of Python Django in a Fantasy Setting"
 ---
 
-Django is a popular [Python](https://blog.boot.dev/python/)-based framework for building web applications. It provides pre-built components and conventions, which simplifies the web app development process and allows developers to focus on writing their application's specific logic rather than dealing with repetitive tasks. Basically, it’s all about *reusability*.
+Django is a popular [Python](https://blog.boot.dev/python/)-based framework for building web applications. It provides pre-built components and conventions, which simplifies the web app development process and allows developers to focus on writing their application's specific logic rather than dealing with repetitive tasks. Basically, it’s all about _reusability_.
 
 [Django](https://www.djangoproject.com/) was created by Adrian Holovaty and Simon Willison while working as web developers at the Lawrence Journal-World newspaper in Kansas, USA. They initially developed a collection of Python scripts to streamline the creation of news websites, got tired of copy-pasting code, and built a framework – Django – to streamline the boring bits. In 2005, they realized they had a hit on their hands and released it, open source, to the grateful public.
 
 All sounds good, right? But that doesn’t answer whether **Django is good for backend development**. When looking for a good language for backend dev, you want to consider:
 
-* **Scalability**: Can the framework handle increasing workload and user traffic by efficiently distributing resources and accommodating growth?
-* **Performance**: How well does the framework execute tasks, handle database queries, and respond quickly to user requests?
-* **Flexibility**: Does this framework let you adapt and customize the codebase to meet specific project requirements?
-* **Learning**: Does it have intuitive APIs, comprehensive documentation, code generation tools, and an active community for support?
+- **Scalability**: Can the framework handle increasing workload and user traffic by efficiently distributing resources and accommodating growth?
+- **Performance**: How well does the framework execute tasks, handle database queries, and respond quickly to user requests?
+- **Flexibility**: Does this framework let you adapt and customize the codebase to meet specific project requirements?
+- **Learning**: Does it have intuitive APIs, comprehensive documentation, code generation tools, and an active community for support?
 
 With that in mind, let’s go over the pros and cons of Django for backend development. I’ll also cover a brief comparison of two good alternatives, Flask and FastAPI.
 
@@ -72,7 +72,7 @@ Plus, you may need unnecessary overhead and require additional configuration jus
 
 ### Hard to learn
 
-I may surprise some people here because [Python is famous for how easy it is to learn](https://boot.dev/courses/learn-python). But in my opinion, Django has a steeper learning curve. While it does have a plug-and-play design, it can be hard, especially for beginners or non-Pythonistas who find its conventions and structure challenging to grasp.
+I may surprise some people here because [Python is famous for how easy it is to learn](https://www.boot.dev/courses/learn-code-python). But in my opinion, Django has a steeper learning curve. While it does have a plug-and-play design, it can be hard, especially for beginners or non-Pythonistas who find its conventions and structure challenging to grasp.
 
 Plus. you can’t just jump in headfirst as I mentioned above. To build anything, first, you’ll have to take the time to understand the framework's concepts and best practices.
 
@@ -138,7 +138,7 @@ If you’re looking for a more rapid development cycle, and have a project that 
 
 ## Going beyond frameworks
 
-If you’ll allow me a slight diversion, I want to highlight why I recommend *not* relying on frameworks, [especially as a beginner](https://blog.boot.dev/backend/dont-start-with-frameworks/). You can use them, sure! They can be good and help you make more things, faster. They automate away the boring things and they make your development more productive by handling boilerplate code, authentication, and database migrations.
+If you’ll allow me a slight diversion, I want to highlight why I recommend _not_ relying on frameworks, [especially as a beginner](https://blog.boot.dev/backend/dont-start-with-frameworks/). You can use them, sure! They can be good and help you make more things, faster. They automate away the boring things and they make your development more productive by handling boilerplate code, authentication, and database migrations.
 
 But, all that being said, they have a real downside too, especially for beginners. Frameworks like Django abstract away the fundamental concepts that all backend developers, even those without knowledge of Django’s conventions, will understand.
 

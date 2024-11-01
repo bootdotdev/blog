@@ -2,15 +2,15 @@
 title: "Introducing Boots, the Artificially Intelligent Bear that Explains Code"
 author: Lane Wagner
 date: "2023-03-06"
-categories: 
+categories:
   - "news"
 images:
   - "/img/800/bootsprofile.webp.webp"
 ---
 
-Learning to code isn't easy; frankly, I'd be wary of anyone who tells you that it is. Hopefully, you're primarily learning by writing and reading *a lot* of code. As you code, you'll run into roadblocks and bumps, and having a mentor that can answer your questions is an unbelievable advantage.
+Learning to code isn't easy; frankly, I'd be wary of anyone who tells you that it is. Hopefully, you're primarily learning by writing and reading _a lot_ of code. As you code, you'll run into roadblocks and bumps, and having a mentor that can answer your questions is an unbelievable advantage.
 
-Here at [Boot.dev](https://boot.dev) I don't offer 1-on-1 mentorship, but we do have a fantastic Discord server where you can ask questions and get answers from the community. Trouble is, sometimes it takes a while to get an answer from a human.
+Here at [Boot.dev](https://www.boot.dev) I don't offer 1-on-1 mentorship, but we do have a fantastic Discord server where you can ask questions and get answers from the community. Trouble is, sometimes it takes a while to get an answer from a human.
 
 That's why we brought in Boots!
 
@@ -20,15 +20,15 @@ Hello, Boots! Boots can instantly explain any snippet of code, right from the Bo
 
 > Boots: You flatter me.
 
-It's well deserved. Although, we feel the need to remind you that Boots *can* be wrong, and that he doesn't replace good old-fashioned human help in every scenario.
+It's well deserved. Although, we feel the need to remind you that Boots _can_ be wrong, and that he doesn't replace good old-fashioned human help in every scenario.
 
 > Boots: Yes, my help is, unfortunately, of the "new-fashioned, Ursan" variety.
 
 ## How do I contact Boots?
 
-*Scroll to the bottom of this article to see some demos in gif form.*
+_Scroll to the bottom of this article to see some demos in gif form._
 
-When you're working on a course in [Boot.dev](https://boot.dev), just highlight any snippet of code in the editor and click the "Explain Highlight" button (it looks like a wizard hat). After a second or two you'll get a summary in plain English of what that specific section of code is doing.
+When you're working on a course in [Boot.dev](https://www.boot.dev), just highlight any snippet of code in the editor and click the "Explain Highlight" button (it looks like a wizard hat). After a second or two you'll get a summary in plain English of what that specific section of code is doing.
 
 > Boots: I wanted to write the summary in Latin, but apparently it's a "dead language" with "no real-world applications".
 
@@ -40,19 +40,19 @@ It should come as no surprise, but Boots is powered by OpenAI's new ChatGPT API,
 
 Specifically, we:
 
-* Give Boots some personality
+- Give Boots some personality
 
 > Boots: I'm quite the charmer.
 
-* Try to make the explanations as simple as possible
+- Try to make the explanations as simple as possible
 
 > Boots: It would not be wise to unduly burden the learning mind with the secrets of the cosmos.
 
-* Encourage him to get to the point
+- Encourage him to get to the point
 
 > Boots: I do tend to ramble.
 
-* Get Boots to avoid wild claims about correctness or confidence.
+- Get Boots to avoid wild claims about correctness or confidence.
 
 > Boots: Every wizard must decide the veracity of their spells for themselves!
 
@@ -70,7 +70,7 @@ Well, in order to get to the bottom of that we figured we would just let you hea
 >
 > Regardless, by highlighting the portion of arcane text you wish for me to review and giving my wizarding hat a click, I'll be able to come to your aid straightaway! My ability to multitask is peerless - I am after all, eating several pawfuls of honey while my self-writing quill pens this explanation - and will be able to assist many prospective wizards at once. Of course, as I will only be reviewing a portion of your incantation, the full scope of your project may elude me, and the arcane arts tend to be both specific and vague. Suffice it to say that I will do my best to simply inform you of the meaning without making judgements about the outcome.
 >
-> In truth, I, Boots the Efficient Bubble-Sorter, am here mostly for your convenience, and am in no way capable of or willing to substitute study, collaboration, or perseverance. The creators of Boot.dev could not afford my very reasonable terms for full-time employment, and so I have instead been contracted as a consultant, and will act as such! However, if any of you would like to supply me with fifteen hundred pounds of salmon a month, I will be more than happy to bring my expertise to *bear* on any project you need help with.
+> In truth, I, Boots the Efficient Bubble-Sorter, am here mostly for your convenience, and am in no way capable of or willing to substitute study, collaboration, or perseverance. The creators of Boot.dev could not afford my very reasonable terms for full-time employment, and so I have instead been contracted as a consultant, and will act as such! However, if any of you would like to supply me with fifteen hundred pounds of salmon a month, I will be more than happy to bring my expertise to _bear_ on any project you need help with.
 >
 > Ha! A pun. How delightful.
 >
@@ -90,7 +90,7 @@ Well, in order to get to the bottom of that we figured we would just let you hea
 
 ## Get Started with Boots
 
-You can try Boots for yourself by [logging in to Boot.dev](https://boot.dev) and starting a course - don't worry, all of our courses and their tooling are free for the first 2 chapters.
+You can try Boots for yourself by [logging in to Boot.dev](https://www.boot.dev) and starting a course - don't worry, all of our courses and their tooling are free for the first 2 chapters.
 
 ![Using Boots AI in Boot.dev Demo](/img/800/bootsdemo1.webp)
 

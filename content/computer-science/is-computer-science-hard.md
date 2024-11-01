@@ -2,28 +2,28 @@
 title: "Is Computer Science Really that Hard?"
 author: Natalie Schooner
 date: "2023-04-05"
-categories: 
+categories:
   - "computer-science"
   - "jobs"
 images:
   - /img/800/android-studying-cs.webp
 ---
 
-Yes, computer science is hard, but you already know that. You don't want to know if computer science is hard. You want to know if it's *too* hard. You want to know if having to learn computer science is going to be a real obstacle in your way to achieving your goal.
+Yes, computer science is hard, but you already know that. You don't want to know if computer science is hard. You want to know if it's _too_ hard. You want to know if having to learn computer science is going to be a real obstacle in your way to achieving your goal.
 
 What's your goal? Only you know. Maybe your goal is:
 
-* Becoming a backend developer, game developer, or data engineer.
-* Learning programming languages like Python or JavaScript.
-* Increasing your salary by moving from entry-level data analyst to one of the jobs I mentioned above.
+- Becoming a backend developer, game developer, or data engineer.
+- Learning programming languages like Python or JavaScript.
+- Increasing your salary by moving from entry-level data analyst to one of the jobs I mentioned above.
 
-For all those cases, the answer is "Yes, computer science is hard – but not *too* hard." Beyond just your goal, the difficulty of learning computer science comes down to a few factors.
+For all those cases, the answer is "Yes, computer science is hard – but not _too_ hard." Beyond just your goal, the difficulty of learning computer science comes down to a few factors.
 
-* Do you know anything about programming?
-* Are you interested in code?
-* Do you like thinking about and solving thorny problems?
-* How much do you enjoy practicing things?
-* How comfortable are you stretching your comfort zone?
+- Do you know anything about programming?
+- Are you interested in code?
+- Do you like thinking about and solving thorny problems?
+- How much do you enjoy practicing things?
+- How comfortable are you stretching your comfort zone?
 
 This article is written for people who are thinking about getting a [job in backend development](/backend/become-backend-developer/) or software engineering and want to know if computer science is too hard to learn without a degree.
 
@@ -55,7 +55,7 @@ If someone tells you computer science isn't hard, it's probably because they thi
 
 The biggest reason computer science is hard is that computer science is a complex, broad concept that encompasses a lot of other complex, broad concepts. Look at that Wikipedia page I linked above and you'll quickly see exactly how wide-ranging computer science is.
 
-To learn computer science, you'll need to [understand algorithms](https://boot.dev/courses/learn-algorithms), data structures, and programming languages. And you'll need to learn them twice * once in theory, as you understand the concepts, and then again in practice, as you learn how to implement them. That takes a lot of thinking and practice to master.
+To learn computer science, you'll need to [understand algorithms](https://www.boot.dev/courses/learn-algorithms-python), [data structures](https://www.boot.dev/courses/learn-data-structures-python), and programming languages. And you'll need to learn them twice \* once in theory, as you understand the concepts, and then again in practice, as you learn how to implement them. That takes a lot of thinking and practice to master.
 
 ### Math skills
 
@@ -105,23 +105,23 @@ I've put "easy" in brackets. [Learning to code isn't ever easy](/jobs/how-much-d
 
 ### Get your game face on
 
-The most important thing you need to realize is that [coding can be fun](/about/#1-coding-is-fun-dont-make-it-dull), even addicting. The feedback loop between trying something and seeing if it works or not is almost instantaneous. And the rush of building something yourself and getting it to do what you want it to? It's incredible.
+The most important thing you need to realize is that coding can be fun, even addicting. The feedback loop between trying something and seeing if it works or not is almost instantaneous. And the rush of building something yourself and getting it to do what you want it to? It's incredible.
 
-The problem is that it's easy to forget that, because computer science is hard. You should be a [little uncomfortable](/about/#1-coding-is-fun-dont-make-it-dull), because that's how you learn best. However, if you get into the mindset that coding is a game, that it's hard but enjoyable, and start building and deploying things, then it's a lot easier to learn computer science.
+The problem is that it's easy to forget that, because computer science is hard. You should be a little uncomfortable, because that's how you learn best. However, if you get into the mindset that coding is a game, that it's hard but enjoyable, and start building and deploying things, then it's a lot easier to learn computer science.
 
 ### Practice with a plan
 
-When I wanted to learn painting, I thought I'd start with a self-portrait. I see my own face every day * how hard can it be to capture it? That's why my very first painting super sucked. I went into learning to paint without a plan.
+When I wanted to learn painting, I thought I'd start with a self-portrait. I see my own face every day \* how hard can it be to capture it? That's why my very first painting super sucked. I went into learning to paint without a plan.
 
 ![Natalie Self-Portrait](/img/800/nataliedrawing.png.webp)
 
-When you learn computer science, you should go in with a plan. That's how our founder Lane built [Boot.dev](https://boot.dev/). He developed a learning path that forces you to delve deep into programming fundamentals and write a ton of code. At the end, you have portfolio-worthy projects, a deep understanding of computer science and back-end development, and loads of coding practice.
+When you learn computer science, you should go in with a plan. That's how our founder Lane built [Boot.dev](https://www.boot.dev/). He developed a learning path that forces you to delve deep into programming fundamentals and write a ton of code. At the end, you have portfolio-worthy projects, a deep understanding of computer science and back-end development, and loads of coding practice.
 
 ### Look for community
 
 This is one of the toughest factors in learning computer science – it can be lonely out there. That's why one of the best ways to make it a more enjoyable journey is by looking for friends, colleagues, and peers.
 
-Boot.dev has a thriving [Discord group](https://boot.dev/community) complete with areas to show off your latest project, compete on leaderboards, or just chat about what's going well. Kaggle is another good place to find community as you work through computer science fundamentals. And of course Reddit has a thriving computer science community in various subreddits. Check out r/[WebDev](https://www.reddit.com/r/webdev/), [r/LearnProgramming](https://www.reddit.com/r/learnprogramming/), and [r/BadCode](https://www.reddit.com/r/badcode) for a few places to start.
+Boot.dev has a thriving [Discord group](https://www.boot.dev/community) complete with areas to show off your latest project, compete on leaderboards, or just chat about what's going well. Kaggle is another good place to find community as you work through computer science fundamentals. And of course Reddit has a thriving computer science community in various subreddits. Check out r/[WebDev](https://www.reddit.com/r/webdev/), [r/LearnProgramming](https://www.reddit.com/r/learnprogramming/), and [r/BadCode](https://www.reddit.com/r/badcode) for a few places to start.
 
 ### Don't cut corners
 

@@ -2,15 +2,13 @@
 title: "How to Restart All Pods in a Kubernetes Namespace"
 author: Lane Wagner
 date: "2020-10-26"
-categories: 
+categories:
   - "open-source"
 images:
   - /img/800/restart-k8s.webp
 ---
 
-Where I work, we use a repo-per-namespace setup and so it often happens that I want to restart all pods and deployments in a single Kubernetes namespace.
-
-Maybe I want to see the startup logs, or maybe I want to shut down production for a few seconds. Don't question my motives.
+Where I work, we use a repo-per-namespace setup and so it often happens that I want to **restart all pods and deployments in a single Kubernetes namespace**. Maybe I want to see the startup logs, or maybe I want to shut down production for a few seconds. _Don't question my motives_.
 
 Anyway, what matters is that bouncing all deployments one after another is inconvenient and I don't like typing.
 
@@ -39,7 +37,7 @@ It's fairly simple to use. Assuming I named the script `kubebounce.sh`:
 ./kubebounce.sh {NAMESPACE}
 ```
 
-I made a little [open-source repo](https://github.com/lane-c-wagner/kubebounce) with installation instructions if you want to add it to your $PATH. Be sure to star the repo if you find it useful.
+I made a little [open-source repo](https://github.com/wagslane/kubebounce) with installation instructions if you want to add it to your $PATH. Be sure to star the repo if you find it useful.
 
 ## How It Works
 
@@ -58,3 +56,5 @@ for deploy in $deploys; do
   kubectl -n $1 rollout restart deployments/$deploy
 done
 ```
+
+PS: I'm the author of a fully [interactive Kubernetes course on Boot.dev](https://www.boot.dev/courses/learn-kubernetes) if you'd like to learn more about Kubernetes.

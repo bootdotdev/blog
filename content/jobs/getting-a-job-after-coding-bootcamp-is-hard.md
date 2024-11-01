@@ -2,7 +2,7 @@
 title: "Why Students Struggle Getting a Job After Coding Bootcamp"
 author: Zulie Rane
 date: "2020-11-19"
-categories: 
+categories:
   - "computer-science"
   - "jobs"
 images:
@@ -18,8 +18,8 @@ The last thing you want to do is go back to school for another two or four very 
 However, as you do some more research on the big promises of bootcamps, you'll likely learn the path of getting a job after coding bootcamp can leave you drastically underprepared for the programming job market.
 
 > "_We see more and more students coming to boot.dev because they're having a hard time landing jobs after taking a bootcamp or completing web development crash courses._"
-> 
-> Lane Wagner, author of [boot.dev's computer science courses](https://boot.dev/).
+>
+> Lane Wagner, author of [boot.dev's computer science courses](https://www.boot.dev/).
 
 That's why so many coding bootcamp graduates leave their 15-week course thinking they'll glide into a job offer, only to find the process of getting a job after coding bootcamp is painful, arduous, and seemingly never-ending.
 
@@ -55,7 +55,7 @@ After you graduate, you might get to the interview stage for a job, only to find
 
 In short, even if you can attend a coding bootcamp, it's not the _complete_ solution many people think it is - you'll still lack the fundamental computer science knowledge that would make you stand out at job interviews and will let you actually do the job you want to be hired for. People who try getting a job after coding bootcamp will find it harder than they expect.
 
-The obvious answer to this is to study [computer science at college](/computer-science/compsci-certificate-vs-degree/), but that's even more expensive and time-consuming, and plenty of folks don't realize they want to do computer science until after they've already graduated college. 
+The obvious answer to this is to study [computer science at college](/computer-science/compsci-certificate-vs-degree/), but that's even more expensive and time-consuming, and plenty of folks don't realize they want to do computer science until after they've already graduated college.
 
 So what's the solution?
 
@@ -67,7 +67,7 @@ The rigid, time-intensive structure of in-person bootcamps doesn't suit many peo
 
 We wanted to create courses that people could dip in and out of, but that could still engage and teach effectively -- with our _learn by doing_ philosophy front and center.
 
-We've created a set of courses that form an equivalent CS degree, but that you can take on your own time, and even just take courses based on your own interests, such as our [Python Track](https://boot.dev/courses/learn-python). Actually completing real-life-mimicking lesson challenges forces you to learn and retain the concepts, and puts you far ahead of video lecture learners in your computer science journey.
+We've created a set of courses that form an equivalent CS degree, but that you can take on your own time, and even just take courses based on your own interests, such as our [Python Track](https://www.boot.dev/courses/learn-code-python). Actually completing real-life-mimicking lesson challenges forces you to learn and retain the concepts, and puts you far ahead of video lecture learners in your computer science journey.
 
 If you've completed a coding bootcamp but are still struggling to land a job, we've designed courses especially for you. Common areas that stump people in technical interviews include data structures and algorithms, which we've dedicated three courses to covering.
 

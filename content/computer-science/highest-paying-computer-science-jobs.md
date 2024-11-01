@@ -2,7 +2,7 @@
 title: "The Highest-Paying Computer Science Jobs"
 author: Lane Wagner
 date: "2020-12-09"
-categories: 
+categories:
   - "computer-science"
   - "jobs"
 images:
@@ -11,7 +11,7 @@ images:
 
 There are many jobs within the software industry, and most of them are easier to land or are higher-paying once you land them, if you have a solid grasp of computer science fundamentals. You don't need a degree from an accredited university in 90% of cases, but you do need to learn the material, whether it be online, on the job, or in a formal setting. Let's explore the most common computer science job titles and their associated compensation, details, and duties.
 
-If you don't feel you have a solid grasp of basic computer science skills yet, don't worry! Here at Boot.dev, we offer straightforward courses designed to get you a computer science job, without having to take out student loans or go to night school. You can [sign up and demo them](https://boot.dev/) for free.
+If you don't feel you have a solid grasp of basic computer science skills yet, don't worry! Here at Boot.dev, we offer straightforward courses designed to get you a computer science job, without having to take out student loans or go to night school. You can [sign up and demo them](https://www.boot.dev/) for free.
 
 ## Median salaries for CS jobs in the US
 
@@ -171,7 +171,7 @@ Common back-end databases
 - Building security into the server-side of a customer-facing application
 - Writing efficient database queries
 - Designing useful APIs for front-end developers
-- Design, build, deploy, operate, and maintain services often in a CI/CD environment
+- Design, build, deploy, operate, and maintain services often in a CI/CD environment (If you don't know about CI/CD, you can [check out Boot.dev's CI/CD course here](https://www.boot.dev/courses/learn-ci-cd-github-docker))
 - Build repeatable and automated integration and unit tests
 - Identify and participate in code refactoring needs
 - Participate in code reviews and architecture discussions

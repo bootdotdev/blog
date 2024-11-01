@@ -10,7 +10,7 @@ imageAlts:
   - "Mathematician with tablets: fantasy art"
 ---
 
-Let's be real here: we live in an age where everyone and their dog seems to think they need the latest, most expensive gadgets to get anything done. But when it comes to [learning how to code](https://boot.dev), do you really need that shiny, wallet-draining powerhouse of a machine?
+Let's be real here: we live in an age where everyone and their dog seems to think they need the latest, most expensive gadgets to get anything done. But when it comes to [learning how to code](https://www.boot.dev), do you really need that shiny, wallet-draining powerhouse of a machine?
 
 **Nope.**
 

@@ -38,13 +38,13 @@ I've been mentioning this course for a while now, but it's finally live! We've g
 
 ### 2. Team Plans
 
-We've made it *really easy* for your company to pay for your Boot.dev membership (and memberships for your team). Once you're logged in, navigate to the [teams tab](https://www.boot.dev/teams) and follow the instructions. Teams on Boot.dev work nearly identically to teams on GitHub:
+We've made it _really easy_ for your company to pay for your Boot.dev membership (and memberships for your team). Once you're logged in, navigate to the [teams tab](https://www.boot.dev/teams) and follow the instructions. Teams on Boot.dev work nearly identically to teams on GitHub:
 
-* Your manager can create a free account to manage billing themselves
-* You can join and leave teams at will with your personal Boot.dev account
-* Your personal progress will stay with you even if you leave the team
+- Your manager can create a free account to manage billing themselves
+- You can join and leave teams at will with your personal Boot.dev account
+- Your personal progress will stay with you even if you leave the team
 
-If you have any issues with team billing, [let us know](https://www.boot.dev/contact) and we can help.
+If you have any issues with team billing, [let us know](/contact) and we can help.
 
 ### 3. Sharpshooter Sprees
 
@@ -58,19 +58,19 @@ This new system is designed to keep the fun pressure of "get it right the first 
 
 ## What is yet to come
 
-* Smoothing out some of the difficulty spikes in the "Learn Python" course
-* Challenges and reworking of the "Learn JavaScript" course
-* Challenges for the SQL course
-* Lore for Boots
+- Smoothing out some of the difficulty spikes in the "Learn Python" course
+- Challenges and reworking of the "Learn JavaScript" course
+- Challenges for the SQL course
+- Lore for Boots
 
 ## Backend Banter Podcast
 
 This month's episodes include:
 
-* [#029 - Write Laravel, not PHP (feat. Aaron Francis)](https://www.backendbanter.fm/episodes/029-write-laravel-not-php-feat-aaron-francis)
-* [#028 - Learning Go: A Discussion of the Language with the Author, Jon Bodner](https://www.backendbanter.fm/episodes/028-learning-go-a-discussion-of-the-language-with-the-author-jon-bodner)
-* [#027 - 2023 vs 2001 Tech Recessions and Distributed Systems with Russ Ross](https://www.backendbanter.fm/episodes/026-2023-vs-2001-tech-recessions-and-distributed-systems-with-russ-ross)
-* [#026 - Why PubSub Architectures are Still Cool with Byron Ruth and David Gee](https://www.backendbanter.fm/episodes/026-why-pubsub-architectures-are-still-cool-with-byron-ruth-and-david-gee)
+- [#029 - Write Laravel, not PHP (feat. Aaron Francis)](https://www.backendbanter.fm/episodes/029-write-laravel-not-php-feat-aaron-francis)
+- [#028 - Learning Go: A Discussion of the Language with the Author, Jon Bodner](https://www.backendbanter.fm/episodes/028-learning-go-a-discussion-of-the-language-with-the-author-jon-bodner)
+- [#027 - 2023 vs 2001 Tech Recessions and Distributed Systems with Russ Ross](https://www.backendbanter.fm/episodes/026-2023-vs-2001-tech-recessions-and-distributed-systems-with-russ-ross)
+- [#026 - Why PubSub Architectures are Still Cool with Byron Ruth and David Gee](https://www.backendbanter.fm/episodes/026-why-pubsub-architectures-are-still-cool-with-byron-ruth-and-david-gee)
 
 The price of the podcast is a subscription on YouTube or in your podcast player of choice. I appreciate you.
 
@@ -90,4 +90,4 @@ This was a fun little read I found on Hacker News. The author is scared thinking
 
 ### [(Site) Advent of Code](https://adventofcode.com/2023/)
 
-Every year advent of code comes around. It's a fantastic way to learn a new language, or just have some fun. It's a time-bound programming challenge where you solve a new problem every day. The problems are fun, and we even have our own advent of code channel in the [Boot.dev discord](https://boot.dev/community). Come join us!
+Every year advent of code comes around. It's a fantastic way to learn a new language, or just have some fun. It's a time-bound programming challenge where you solve a new problem every day. The problems are fun, and we even have our own advent of code channel in the [Boot.dev discord](https://www.boot.dev/community). Come join us!

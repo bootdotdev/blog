@@ -14,7 +14,7 @@ JavaScript was originally designed to elevate websites above simple HTML and CSS
 
 What makes JavaScript so perfect for the web is that it is able to be fully integrated with HTML and CSS, the building blocks of every single page on the internet.
 
-JavaScript is often the language of choice for [learning how to program](https://boot.dev). It's well-known for not being fussy and is generally easy to work with, making it an ideal choice for beginners looking to teach themselves how to program. Since it's so diverse in its uses, you can "learn once, write anywhere," as React Native claims. Let me fill you in on all the things JavaScript is used for.
+JavaScript is often the language of choice for [learning how to program](https://www.boot.dev). It's well-known for not being fussy and is generally easy to work with, making it an ideal choice for beginners looking to teach themselves how to program. Since it's so diverse in its uses, you can "learn once, write anywhere," as React Native claims. Let me fill you in on all the things JavaScript is used for.
 
 ## Frontend web development with JavaScript
 

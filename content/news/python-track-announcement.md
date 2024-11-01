@@ -2,7 +2,7 @@
 title: "Four-Course Python Data Structures and Algorithms Track Released"
 author: Lane Wagner
 date: "2021-10-04"
-categories: 
+categories:
   - "news"
 ---
 
@@ -18,14 +18,14 @@ View our [full course curriculum here](https://github.com/bootdotdev/curriculum)
 
 [Our first Track](https://github.com/bootdotdev/curriculum/blob/main/ALGOS_DS_TRACK.md), featuring our Python courses, starts with our Learn Python course for Python beginners without much previous experience. Then, you move through our Algorithms and Data Structures courses, finishing up with our Advanced Algorithms course.
 
-[Start the track now](https://boot.dev/)
+[Start the track now](https://www.boot.dev/)
 
 **The entire Python Track consists of:**
 
-1. **[Learn Python](https://boot.dev/courses/learn-python)**
-2. **[Learn Algorithms](https://boot.dev/courses/learn-algorithms)**
-3. **[Learn Data Structures](https://boot.dev/courses/learn-data-structures)**
-4. **[Learn Advanced Algorithms](https://boot.dev/courses/learn-advanced-algorithms)**
+1. **[Learn Python](https://www.boot.dev/courses/learn-code-python)**
+2. **[Learn Algorithms](https://www.boot.dev/courses/learn-algorithms-python)**
+3. **[Learn Data Structures](https://www.boot.dev/courses/learn-data-structures-python)**
+4. **[Learn Advanced Algorithms](https://www.boot.dev/courses/learn-algorithms-2-python)**
 
 These 4 courses feature over 285 interactive lessons where you write Python code to solve challenges and gain practical experience to advance your skills. It's all browser-based with no downloads, and it's ideal for any would-be Python programmers starting from scratch, as well as for anyone more advanced who wants to ace their next technical interview by jumping straight in at the Learn Algorithms course.
 
@@ -49,10 +49,10 @@ Our goal is to help you get to where you want to be, in the most effective way p
 
 At boot.dev we're focused on one thing: [teaching computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/).
 
-Following our "learning by doing" philosophy, we design our courses to be as interactive as possible, cementing learning and helping you to actively code along to challenges, lessons, and answer multiple-choice questions. 
+Following our "learning by doing" philosophy, we design our courses to be as interactive as possible, cementing learning and helping you to actively code along to challenges, lessons, and answer multiple-choice questions.
 
 And having been on the other side in the recruitment game, we understand how employers think, and what they're looking for.
 
 We build our courses based on what gets you hired, and support our courses with interview prep articles and courses so you're fully prepared for your next coding job interview.
 
-[Learn To Code With boot.dev Now](https://boot.dev/)
+[Learn To Code With boot.dev Now](https://www.boot.dev/)

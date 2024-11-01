@@ -2,7 +2,7 @@
 title: "Elliptic Curve Cryptography: A Basic Introduction"
 author: Lane Wagner
 date: "2020-09-17"
-categories: 
+categories:
   - "bitcoin"
   - "cryptography"
   - "security"
@@ -16,11 +16,11 @@ Elliptic Curve Cryptography (ECC) is a modern [public-key encryption](https://se
 
 A common use of ECC is to encrypt data so that only authorized parties can decrypt it. This has several obvious use cases, but is most commonly used to encrypt Internet traffic.
 
-For example, in the [boot.dev web app](https://boot.dev/), I could use ECC to encrypt a confirmation email so that no one but the recipient could read the message.
+For example, in the [boot.dev web app](https://www.boot.dev/), I could use ECC to encrypt a confirmation email so that no one but the recipient could read the message.
 
 ## ECC is public-key cryptography
 
-There are many types of public-key cryptography, and Elliptic Curve Cryptography is just one flavor. Other algorithms include [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), [Diffie-Helman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange), etc.
+There are many types of public-key cryptography, and Elliptic Curve Cryptography is just one flavor. Other algorithms include [RSA](<https://en.wikipedia.org/wiki/RSA_(cryptosystem)>), [Diffie-Helman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange), etc.
 
 Let's go over a quick background of public-key cryptography as a jumping-off point, so that I can discuss ECC and build on top of these ideas. By all means, study more in-depth on public-key cryptography when you have the time.
 
@@ -142,4 +142,4 @@ If however, you know the number of hops you can use an [exponentiation](https://
 
 ECC is used as the cryptographic key algorithm in Bitcoin because it potentially can save ~90% of the resources used by a similar RSA system. It seems that each year we see more systems moving from RSA to a more modern elliptic curve approach.
 
-**If you want to learn more about cryptography**, try our [Learn Cryptography course](https://boot.dev/courses/learn-cryptography) for free.
+**If you want to learn more about cryptography**, try our [Learn Cryptography course](https://www.boot.dev/courses/learn-cryptography-golang) for free.

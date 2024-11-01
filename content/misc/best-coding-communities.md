@@ -25,11 +25,11 @@ That's why getting involved in a tech community is *so important*. With the rise
 
 Discord is a community-based chat app originally developed for gamers. That said, these days they've expanded and now there are a lot of prominent, popular Discord "servers" for coding. A "server" is an individual community focused on one topic.
 
-There are servers like [Boot.dev's back-end learning community](https://boot.dev/community), where people learning to code can go to find support, advice, and experience in languages like JavaScript, Python and Go. There are also topic-specific servers for [JavaScript](https://discord.me/speakjs), [TensorFlow](https://disboard.org/server/395520812347686912), [Python](https://discordapp.com/invite/python), and many more.
+There are servers like [Boot.dev's back-end learning community](https://www.boot.dev/community), where people learning to code can go to find support, advice, and experience in languages like JavaScript, Python and Go. There are also topic-specific servers for [JavaScript](https://discord.me/speakjs), [TensorFlow](https://disboard.org/server/395520812347686912), [Python](https://discordapp.com/invite/python), and many more.
 
 Discord is great for getting support in real-time. With so many different servers focused on sharing content, promoting projects, collaborating on open-source projects, specific tools and technologies, and even professional topics, it's easy to find help for a lot of different areas all in one place.
 
-The biggest bonus of Discord is that it creates a more intimate environment, meaning it's a lot easier to get 1:1 help or connect with a smaller group of people. Discord servers like [Boot.dev](https://boot.dev/)'s can provide you with a strong sense of community and support, which is crucial for the beginning stages of your programming career.
+The biggest bonus of Discord is that it creates a more intimate environment, meaning it's a lot easier to get 1:1 help or connect with a smaller group of people. Discord servers like [Boot.dev](https://www.boot.dev/)'s can provide you with a strong sense of community and support, which is crucial for the beginning stages of your programming career.
 
 ## 2. Reddit
 
@@ -115,7 +115,7 @@ Even if you do not avail of their in-person meet-ups, I think the mini-project g
 
 ## Which community is right for you?
 
-Different communities have different strengths. Some are great for real-time support by connecting with other individuals directly. For example, Discord servers such as [Boot.dev](https://boot.dev/community). Other communities are better for answering specific technical questions ([DEV](https://dev.to/), [CodeNewbie](https://www.codenewbie.org/), and [Dream in Code](https://www.dreamincode.net/)).
+Different communities have different strengths. Some are great for real-time support by connecting with other individuals directly. For example, Discord servers such as [Boot.dev](https://www.boot.dev/community). Other communities are better for answering specific technical questions ([DEV](https://dev.to/), [CodeNewbie](https://www.codenewbie.org/), and [Dream in Code](https://www.dreamincode.net/)).
 
 Personal connections will help you build up a collection of technical mentors. A close network is also great for mock interviews, referrals for jobs, etc. Especially when it comes to maintaining your motivation, inspiration, and emotional energy, a close-knit group of coding learners is the backbone to a successful start in the programming world.
 

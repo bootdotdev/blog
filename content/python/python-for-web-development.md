@@ -2,7 +2,7 @@
 title: "Can I Use Python for Web Development?"
 author: Natalie Schooner
 date: "2023-08-14"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/wagslane_A_majestic_castle_made_of_intertwined_Python_code_stan_24fe25ad-a8fa-40f5-823f-d840c0cd788a.png.webp
@@ -12,11 +12,11 @@ imageAlts:
 
 I love giving a short answer to these: yes, 100%, Python is a great tool for web development.
 
-I often run into a lot of developers who think they have to pick between Python *or* web development. I am always happy to do my best impression of the Old El Paso girl.
+I often run into a lot of developers who think they have to pick between Python _or_ web development. I am always happy to do my best impression of the Old El Paso girl.
 
 ![Old El Paso girl](https://i.imgur.com/AQRSWXX.png)
 
-In this article, I’ll give you the longer answer: *why* is Python good for web development? What does web development in Python look like? Where should you start?
+In this article, I’ll give you the longer answer: _why_ is Python good for web development? What does web development in Python look like? Where should you start?
 
 Let’s dive in.
 
@@ -30,11 +30,11 @@ OK, now what’s web development? As you are reading this article, you’re on a
 
 You’ve got:
 
-* Front-end development to create the user interface and user experience (UI/UX) of a website.
-* Back-end development to build the server-side logic and functionality that powers the website.
-* Web designers to create visually appealing and user-friendly layouts, color schemes, typography, and graphic elements for websites.
-* Web hosting and deployment to allow websites to be hosted on servers and made accessible on the internet.
-* Security and optimization to protect websites from cyber threats, protect data privacy, and ensure scalability.
+- Front-end development to create the user interface and user experience (UI/UX) of a website.
+- Back-end development to build the server-side logic and functionality that powers the website.
+- Web designers to create visually appealing and user-friendly layouts, color schemes, typography, and graphic elements for websites.
+- Web hosting and deployment to allow websites to be hosted on servers and made accessible on the internet.
+- Security and optimization to protect websites from cyber threats, protect data privacy, and ensure scalability.
 
 It’s a wide world out there. Ultimately, web development is the process of creating and maintaining websites and web applications that are accessible through the internet. It involves a combination of programming, design, and technical skills to build functional and visually appealing websites that cater to the needs of users.
 
@@ -44,13 +44,13 @@ Almost any language can be used for web development. But thanks to that long, va
 
 When you’re choosing a language for web development, you’re looking for a few key things:
 
-* **Wide Adoption.** The larger the developer community, the more resources are available to learn, improve, and handle weird edge cases.
-* **Web frameworks and libraries.** These robust and feature-rich frameworks make your life easy.
-* **Easiness.** You want simple syntax and clear documentation.
-* **Performance.** Can the language build or support a website that can handle high traffic and process data quickly?
-* **Scalability.** If your website isn’t huge now, you hope it will be tomorrow. You may want the potential for easy horizontal scaling and load balancing.
-* **Security features.** This includes libraries to implement secure coding practices
-* **Future-proofing.** This helps you keep up with the digital Joneses with modern web development trends like cloud hosting, container deployment, and more.
+- **Wide Adoption.** The larger the developer community, the more resources are available to learn, improve, and handle weird edge cases.
+- **Web frameworks and libraries.** These robust and feature-rich frameworks make your life easy.
+- **Easiness.** You want simple syntax and clear documentation.
+- **Performance.** Can the language build or support a website that can handle high traffic and process data quickly?
+- **Scalability.** If your website isn’t huge now, you hope it will be tomorrow. You may want the potential for easy horizontal scaling and load balancing.
+- **Security features.** This includes libraries to implement secure coding practices
+- **Future-proofing.** This helps you keep up with the digital Joneses with modern web development trends like cloud hosting, container deployment, and more.
 
 You should decide what you’re trying to do within web development, then see what languages are available for that, then make sure that language fits the requirements above, or at least the ones that are relevant to you. For example, if you’re a pro programmer, you can probably venture into some of the less user-friendly languages.
 
@@ -64,14 +64,14 @@ I recommend understanding how the underlying function works, then using a framew
 
 Frameworks in Python are robust and versatile for web development. Here are a few I recommend:
 
-* FastAPI: a modern, high-performance web framework that is particularly well-suited for building APIs quickly. It's known for its speed, automatic validation of request and response data, and built-in support for asynchronous programming.
-* Django: one of the most popular and comprehensive web frameworks in the Python ecosystem. It follows the "batteries-included" philosophy, providing a wide range of features for building complex web applications, including an ORM (Object-Relational Mapping), authentication, admin interface, and more.
-* Tornado: web framework and asynchronous networking library. It's designed for handling long-lived connections, making it a good choice for building real-time applications like chat applications or web sockets.
-* Bottle: a minimalist micro-framework for building simple web applications. It's lightweight and easy to use, making it suitable for smaller projects or prototyping.
+- FastAPI: a modern, high-performance web framework that is particularly well-suited for building APIs quickly. It's known for its speed, automatic validation of request and response data, and built-in support for asynchronous programming.
+- Django: one of the most popular and comprehensive web frameworks in the Python ecosystem. It follows the "batteries-included" philosophy, providing a wide range of features for building complex web applications, including an ORM (Object-Relational Mapping), authentication, admin interface, and more.
+- Tornado: web framework and asynchronous networking library. It's designed for handling long-lived connections, making it a good choice for building real-time applications like chat applications or web sockets.
+- Bottle: a minimalist micro-framework for building simple web applications. It's lightweight and easy to use, making it suitable for smaller projects or prototyping.
 
 Finally, it’s silly to pretend every web developer is doing it out of the goodness of their heart, or pure passion for the skill. Python is great for web development because of the high availability of Python web dev jobs. Plus, if you know Python, you can learn anything you need to do web dev with Python, making you functionally hireable for any web dev job.
 
-## What tools should you learn to use Python for web development? 
+## What tools should you learn to use Python for web development?
 
 Where to even begin? If you’re going to use Python for web development, there are a few supporting languages, frameworks, and tools that pair well together. Let’s break them down.
 
@@ -93,7 +93,7 @@ This mix will balance you out and make you a more well-rounded web developer.
 
 ### Version Control System
 
-This should go without saying, but in case it doesn’t, I’ll say it: you need version control to manage your codebase efficiently, collaborate with others, and keep track of changes. Git is the normal option.
+This should go without saying, but in case it doesn’t, I’ll say it: you need version control to manage your codebase efficiently, collaborate with others, and keep track of changes. Git is the normal option. If you're not familiar with Git, you can checkout [ThePrimeagen's Learn Git course here](https://www.boot.dev/courses/learn-git).
 
 ### Relational Databases
 

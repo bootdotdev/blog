@@ -10,9 +10,9 @@ images:
   - /img/800/rodolfo-barreto-ACB5nvhnm6c-unsplash.jpg.webp
 ---
 
-I get really frustrated when I see people and companies online selling unrealistic dreams when it comes to coding education. It's quite lucrative when you're in the edtech industry to heavily exaggerate (or even lie) about how long it will take for learners to get job-ready. I teach backend development skills at [Boot.dev](https://boot.dev) and try my best to give students realistic goals they can reach for.
+I get really frustrated when I see people and companies online selling unrealistic dreams when it comes to coding education. It's quite lucrative when you're in the edtech industry to heavily exaggerate (or even lie) about how long it will take for learners to get job-ready. I teach backend development skills at [Boot.dev](https://www.boot.dev) and try my best to give students realistic goals they can reach for.
 
-Read on to hear all about my thoughts on how long it will take to [learn back-end development](https://boot.dev/tracks/backend), but first let's cover some of the most important stuff right off the bat.
+Read on to hear all about my thoughts on how long it will take to [learn back-end development](https://www.boot.dev/tracks/backend), but first let's cover some of the most important stuff right off the bat.
 
 1. *Almost* no one is getting "job ready" in less than 16 weeks.
 2. If you're learning efficiently, it probably won't take more than 2 years to get "job ready".
@@ -68,4 +68,4 @@ My *guess* is that it takes about 20% longer to learn job-ready backend skills b
 
 ## How much data do you have to back this up?
 
-Not enough. All I've got right now are anecdotes from the hundreds of students I've talked to and worked with, and what I've seen from working in the industry. As [Boot.dev](https://boot.dev) grows, I plan to do some surveys and collect more data so I can continue to update this guide! In the meantime, this is what I've observed and what I'm hearing from the students I work with! [Let me know on Twitter](https://twitter.com/wagslane) if you think I've made a mistake!
+Not enough. All I've got right now are anecdotes from the hundreds of students I've talked to and worked with, and what I've seen from working in the industry. As [Boot.dev](https://www.boot.dev) grows, I plan to do some surveys and collect more data so I can continue to update this guide! In the meantime, this is what I've observed and what I'm hearing from the students I work with! [Let me know on Twitter](https://twitter.com/wagslane) if you think I've made a mistake!

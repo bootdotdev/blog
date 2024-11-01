@@ -2,12 +2,12 @@
 title: "Cryptography Course Released on Boot.dev"
 author: Lane Wagner
 date: "2023-01-24"
-categories: 
+categories:
   - "cryptography"
   - "golang"
   - "news"
   - "security"
-images: 
+images:
   - https://i.imgur.com/yHN4OVc.png
 imgAlts:
   - "Learn Cryptography course"
@@ -15,9 +15,9 @@ aliases:
   - /news/practical-cryptography-course-released
 ---
 
-Greetings! We're excited to announce that we've unveiled a brand-new [cryptography course](https://boot.dev/courses/learn-cryptography) on [Boot.dev](https://boot.dev). We're convinced that this new experience is truly one of a kind. If you want to learn cryptography while writing real code in the [Go programming language](https://boot.dev/courses/learn-golang), you should check it out.
+Greetings! We're excited to announce that we've unveiled a brand-new [cryptography course](https://www.boot.dev/courses/learn-cryptography-golang) on [Boot.dev](https://www.boot.dev). We're convinced that this new experience is truly one of a kind. If you want to learn cryptography while writing real code in the [Go programming language](https://www.boot.dev/courses/learn-golang), you should check it out.
 
-You can [get started for free here](https://boot.dev/courses/learn-cryptography).
+You can [get started for free here](https://www.boot.dev/courses/learn-cryptography-golang).
 
 ## Why learn cryptography?
 

@@ -2,7 +2,7 @@
 title: "4 Key Differences Between DevOps and DevSecOps"
 author: Natalie Schooner
 date: "2023-01-23"
-categories: 
+categories:
   - "devops"
   - "backend"
 images:
@@ -38,11 +38,11 @@ That main job breaks down into additional roles and responsibilities, but that's
 
 As a DevSecOps, you'll be doing the same but with more of an emphasis on security. This might be because you're working with projects that require a high level of security clearance. It might be because you're working for the government in some capacity, or because the product is especially vulnerable to attack.
 
-Either way, you're no longer just "building CI/CD pipelines" the way you would if you applied for a DevOps role. Now you're "building *and securing* CI/CD pipelines." (Those quotes are from two real job descriptions for DevOps and DevSecOps respectively!)
+Either way, you're no longer just "building CI/CD pipelines" the way you would if you applied for a DevOps role. Now you're "building _and securing_ CI/CD pipelines." (Those quotes are from two real job descriptions for DevOps and DevSecOps respectively!)
 
 Let's dive deeper.
 
-### As a DevOps, you're mainly focused on four areas: 
+### As a DevOps, you're mainly focused on four areas:
 
 **You're automating infrastructure**. This means you're automating the provisioning, configuration, and management of servers and other infrastructure.
 
@@ -54,7 +54,7 @@ You're building this system so software engineers can deploy changes more quickl
 
 And finally, **you're collaborating and communicating**. You sit in the middle of software development, operations developers, and other stakeholder teams. You are the person that people point fingers at when things start to break because it's your job to hold everything together and scale it up in a reliable and sustainable manner. Luckily, you're also the person that everyone trusts to keep things running.
 
-### How do the responsibilities of a DevOps compare to a DevSecOps engineer? 
+### How do the responsibilities of a DevOps compare to a DevSecOps engineer?
 
 You're still **building automated systems**, but with more of a focus on security automation. You are using tools and processes to automate testing and scanning.
 
@@ -83,10 +83,12 @@ That was a long old section. This one will be a little shorter. And to make it h
 | Linux/Unix admin skills                            | Linux/Unix administration                          |
 | Communication, collaboration                       | Communication, collaboration                       |
 | Problem-solving, analytical thinking               | Problem-solving, analytical thinking               |
-| *                                                  | Compliance regulations and industry standards      |
-| *                                                  | Network and web application security concepts      |
+| \*                                                 | Compliance regulations and industry standards      |
+| \*                                                 | Network and web application security concepts      |
 
 </div>
+
+We have an [interactive course on CI/CD here](https://www.boot.dev/courses/learn-ci-cd-github-docker) if you're interested.
 
 ### Background
 
@@ -124,7 +126,7 @@ As both a DevOps engineer and a DevSecOps engineer, you'll be expected to have a
 
 ### Education of a DevOps engineer vs a DevSecOps engineer
 
-Educational requirements are *very flexible* in this field. Most job descriptions will say they need someone with a BA in computer science, software engineering, or infosec if you want to get into DevSecOps.
+Educational requirements are _very flexible_ in this field. Most job descriptions will say they need someone with a BA in computer science, software engineering, or infosec if you want to get into DevSecOps.
 
 But the truth is that, for both roles, if you show up with a solid portfolio of projects, the skills I'll get into below, and some certifications, they certainly won't close the door on you. There simply aren't enough skilled workers in the field for employers to need you to wave around a diploma to get hired.
 
@@ -132,24 +134,24 @@ But the truth is that, for both roles, if you show up with a solid portfolio of 
 
 This is the real non-negotiable set of requirements to get hired as either a DevOps engineer or a DevSecOps engineer. Here's a more comprehensive breakdown of the skills required:
 
-* **Automation**: Experience with automation tools such as Ansible, Chef, or Puppet. Understand infrastructure as code and have the ability to automate provisioning, configuration, and management of servers and other infrastructure. If you're going into DevSecOps, you'll also want knowledge of security automation.
-* **Containerization and orchestration**: Knowledge of containerization and orchestration technologies like Docker and Kubernetes, Mesosphere, or Docker Swarm.
-* **Cloud**: Understand cloud-native architecture and be able to design, build, and manage cloud-based systems like AWS, Azure, or GCP.
-* **Monitoring and logging**: Know how to collect, analyze, and act on log data to improve system performance and troubleshoot issues using monitoring and logging tools like Prometheus, Grafana, or Elasticsearch.
-* **CI/CD**: Experience with CI/CD tools like Jenkins, Travis CI, or CircleCI. Understand how to automate the building, testing, and deployment of code.
-* **Scripting and programming**: Understand how to write scripts and code to automate tasks and improve system efficiency. Python is a good language to know here.
-* **Linux/Unix administration**: Understand how to manage and troubleshoot Linux/Unix-based systems.
-* **Networking**: Strong understanding of networking concepts, including IP addresses, DNS, load balancing, and firewalls.
-* **Troubleshooting and problem-solving**: Understand how to identify and solve problems quickly and effectively.
-* **Communication**: Strong communication skills to effectively collaborate with cross-functional teams and stakeholders.
+- **Automation**: Experience with automation tools such as Ansible, Chef, or Puppet. Understand infrastructure as code and have the ability to automate provisioning, configuration, and management of servers and other infrastructure. If you're going into DevSecOps, you'll also want knowledge of security automation.
+- **Containerization and orchestration**: Knowledge of containerization and orchestration technologies like Docker and [Kubernetes](https://www.boot.dev/courses/learn-kubernetes), Mesosphere, or Docker Swarm.
+- **Cloud**: Understand cloud-native architecture and be able to design, build, and manage cloud-based systems like AWS, Azure, or GCP.
+- **Monitoring and logging**: Know how to collect, analyze, and act on log data to improve system performance and troubleshoot issues using monitoring and logging tools like Prometheus, Grafana, or Elasticsearch.
+- **CI/CD**: Experience with CI/CD tools like Jenkins, Travis CI, or CircleCI. Understand how to automate the building, testing, and deployment of code.
+- **Scripting and programming**: Understand how to write scripts and code to automate tasks and improve system efficiency. Python is a good language to know here.
+- **Linux/Unix administration**: Understand how to manage and troubleshoot Linux/Unix-based systems.
+- **Networking**: Strong understanding of networking concepts, including IP addresses, DNS, load balancing, and firewalls.
+- **Troubleshooting and problem-solving**: Understand how to identify and solve problems quickly and effectively.
+- **Communication**: Strong communication skills to effectively collaborate with cross-functional teams and stakeholders.
 
 Then as a DevSecOps, you'll also need:
 
-* Experience with **security automation tools** like vulnerability scanners, penetration testing tools, and security testing frameworks.
-* Knowledge of **regulatory requirements** such as HIPAA, PCI-DSS, and SOC2, and industry standards such as ISO 27001 and NIST, depending on which industry you're in.
-* Experience with identifying, assessing, and mitigating **potential security threats** and vulnerabilities in the development process.
+- Experience with **security automation tools** like vulnerability scanners, penetration testing tools, and security testing frameworks.
+- Knowledge of **regulatory requirements** such as HIPAA, PCI-DSS, and SOC2, and industry standards such as ISO 27001 and NIST, depending on which industry you're in.
+- Experience with identifying, assessing, and mitigating **potential security threats** and vulnerabilities in the development process.
 
-That's *in addition* to all the regular DevOps skills I listed above.
+That's _in addition_ to all the regular DevOps skills I listed above.
 
 ## 3. Salaries
 
@@ -179,11 +181,11 @@ It's a little harder to look at DevSecOps jobs because they're not as common as 
 
 However, we can look at a few job listings for DevSecOps engineers and DevOps engineers at the same company, to see how the salaries compare.
 
-* You can get a [Sr. DevSecOps job](https://www.indeed.com/cmp/Career-Movement/jobs?jk=a9cf3737660f6afe&start=0) in Columbus, Ohio at a company called Career Movement, earning a salary of $150k to $200k. The same company [would hire](https://www.indeed.com/cmp/Career-Movement/salaries/Development-Operations-Engineer) a DevOps engineer at a salary of $133k.
-* Capgemini [is hiring](https://www.indeed.com/jobs?q=devsecops&l=&from=searchOnHP&vjk=e5ad8d106fc003f1) a DevSecOps engineer for an estimated $113k-$143k a year, located remotely. The [same company hires](https://www.indeed.com/cmp/Capgemini/salaries/DevOps-Architect) DevOps engineers at a median salary of $137k
-* Nexient [is hiring](https://www.indeed.com/jobs?q=devsecops&l=&from=searchOnHP&vjk=e5ad8d106fc003f1) a DevSecOps Manager for an estimated $114k-$145k per year remotely. Its [DevOps salary](https://www.indeed.com/cmp/Nexient-2/salaries/Development-Operations-Engineer) is quite low, just $93k.
+- You can get a [Sr. DevSecOps job](https://www.indeed.com/cmp/Career-Movement/jobs?jk=a9cf3737660f6afe&start=0) in Columbus, Ohio at a company called Career Movement, earning a salary of $150k to $200k. The same company [would hire](https://www.indeed.com/cmp/Career-Movement/salaries/Development-Operations-Engineer) a DevOps engineer at a salary of $133k.
+- Capgemini [is hiring](https://www.indeed.com/jobs?q=devsecops&l=&from=searchOnHP&vjk=e5ad8d106fc003f1) a DevSecOps engineer for an estimated $113k-$143k a year, located remotely. The [same company hires](https://www.indeed.com/cmp/Capgemini/salaries/DevOps-Architect) DevOps engineers at a median salary of $137k
+- Nexient [is hiring](https://www.indeed.com/jobs?q=devsecops&l=&from=searchOnHP&vjk=e5ad8d106fc003f1) a DevSecOps Manager for an estimated $114k-$145k per year remotely. Its [DevOps salary](https://www.indeed.com/cmp/Nexient-2/salaries/Development-Operations-Engineer) is quite low, just $93k.
 
-It seems like *most* companies who are hiring or have hired DevOps engineers or architects in the past are hiring DevSecOps engineers at a higher rate. This makes sense since it seems like the roles aren't doing different things.
+It seems like _most_ companies who are hiring or have hired DevOps engineers or architects in the past are hiring DevSecOps engineers at a higher rate. This makes sense since it seems like the roles aren't doing different things.
 
 It's more like if you're a DevSecOps, you do all the same stuff as a DevOps engineer plus a Sec component.
 

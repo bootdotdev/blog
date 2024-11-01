@@ -2,7 +2,7 @@
 title: "How to Get a Job as a Golang Developer"
 author: Natalie Schooner
 date: "2023-03-20"
-categories: 
+categories:
   - "jobs"
   - "golang"
 images:
@@ -29,19 +29,19 @@ But you shouldn't be here just because you want a cushy position, or you think i
 
 If you're reading this article, you should have:
 
-* Some Go proficiency.
-* Interest in coding.
-* A desire to learn your craft *in-depth*, without cutting corners.
+- Some Go proficiency.
+- Interest in coding.
+- A desire to learn your craft _in-depth_, without cutting corners.
 
-> If you're brand new to Go, I recommend you hop off this article and learn a little about it first. As part of our [backend-development career track](https://boot.dev/tracks/backend), we at Boot.dev offer a fantastic [Go intro course](https://boot.dev/courses/learn-golang) that will walk you through everything you need to know to get started with Go.
+> If you're brand new to Go, I recommend you hop off this article and learn a little about it first. As part of our [backend-development career track](https://www.boot.dev/tracks/backend), we at Boot.dev offer a fantastic [Go intro course](https://www.boot.dev/courses/learn-golang) that will walk you through everything you need to know to get started with Go.
 
 ## What you don't need
 
 Let's clear up some common misconceptions. If you're looking to get a job with Go, you do not need:
 
-* A computer science degree.
-* 100% proficiency in Go.
-* Deep knowledge of Go frameworks.
+- A computer science degree.
+- 100% proficiency in Go.
+- Deep knowledge of Go frameworks.
 
 A computer science degree is a nice-to-have, but it's expensive and time-consuming. Many jobs today don't mind if you're self-taught, as long as you have a portfolio of projects proving you have the skillset they need. **No degree, no problem**.
 
@@ -52,7 +52,7 @@ Instead, I recommend diving headfirst into coding. Have fun, don't rush it, and 
 Finally, **you don't need to know Go frameworks**, at least, not to start. There's a real temptation to use frameworks as a shortcut. But if you start with frameworks, you'll be left with:
 
 > "An entire codebase, with mountains of dependencies, and you'll understand how almost none of it works under the hood. When you encounter issues (and you will) you'll be spending hours trying to work backward."
-> 
+>
 > -- (Our founder, Lane, who has written a [few](/backend/dont-start-with-frameworks/) [articles](/backend/wrong-about-abstractions/) on the subject.)
 
 ## Step 1: Learn computer science fundamentals
@@ -89,13 +89,13 @@ As a Golang developer, you should understand the key four OOP concepts: abstract
 
 You will almost certainly be asked about this at interviews. Now, you can just memorize the definition of those concepts and rattle them off when prompted. That'll at least show you prepared. But if you want to demonstrate real understanding, you'll be better off if you actually understand them.
 
-Go isn't OOP per se, but there are times when it makes sense to force Go to behave like one. But for the sake of this section, I recommend learning about OOP using an OOP-native language like Python. We've got a [three-minute demo tutorial](https://boot.dev/courses/learn-object-oriented-programming) that will show you how to use OOP and how it works.
+Go isn't OOP per se, but there are times when it makes sense to force Go to behave like one. But for the sake of this section, I recommend learning about OOP using an OOP-native language like Python. We've got a [three-minute demo tutorial](https://www.boot.dev/courses/build-asteroids-python) that will show you how to use OOP and how it works.
 
 ### Algorithms and data structures
 
 Data structures are how you organize and store data in memory. An algorithm is just a good set of instructions to perform on that data. The two go hand in hand because you'll almost always use them both together. For example, a sorting algorithm will need a data structure for the data to be stored. How well the algorithm performs depends on which data structure you choose.
 
-Again, these are basics you can know in any language, so I recommend you use a tutorial [like this one](https://www.manning.com/liveproject/trees) to practice coding your algorithm and choosing data structures. We also have a [comprehensive algorithms course](https://boot.dev/courses/learn-algorithms) on Boot.dev that walks you through algorithms by actually building a demo product and an accompanying [data structures course](https://boot.dev/courses/learn-data-structures).
+Again, these are basics you can know in any language, so I recommend you use a tutorial [like this one](https://www.manning.com/liveproject/trees) to practice coding your algorithm and choosing data structures. We also have a [comprehensive algorithms course](https://www.boot.dev/courses/learn-algorithms-python) on Boot.dev that walks you through algorithms by actually building a demo product and an accompanying [data structures course](https://www.boot.dev/courses/learn-data-structures-python).
 
 ### Cryptography
 
@@ -105,7 +105,7 @@ Paraphrasing Austen slightly, but chances are you already know that if you want 
 
 Pro tip: make sure to fully spell out cryptography when you research it, or else you'll just get a bunch of bitcoin.
 
-Want to practice your cryptography skills? Again, we've got a [superb code-based tutorial](https://boot.dev/courses/learn-cryptography) on the subject. Aside from that, you could consider creating a simple cipher to encrypt and decrypt plaintext into and out of cyphertext. [Here's](https://www.golangprograms.com/cryptography.html) a basic tutorial walking you through that project.
+Want to practice your cryptography skills? Again, we've got a [superb code-based tutorial](https://www.boot.dev/courses/learn-cryptography-golang) on the subject. Aside from that, you could consider creating a simple cipher to encrypt and decrypt plaintext into and out of cyphertext. [Here's](https://www.golangprograms.com/cryptography.html) a basic tutorial walking you through that project.
 
 ## Step 2. Master coding basics
 
@@ -143,10 +143,10 @@ As a Golang developer, you need to know RESTFul design principles, request and r
 
 Show off your mastery of this skill by building a cute finance API with [this tutorial](https://github.com/benfl3713/finance-api). In the end, you'll have touched on:
 
-* CRUD
-* Authentication
-* MongoDB (which we'll get to in just a moment)
-* Asp.net
+- CRUD
+- Authentication
+- MongoDB (which we'll get to in just a moment)
+- Asp.net
 
 ### SQL and NoSQL databases
 
@@ -180,12 +180,12 @@ Once you've built a resume where every skill is easily demonstrated with a proje
 
 To get a job as a Golang developer, you need to demonstrate the following "soft" skills:
 
-* **Communication:** Can you talk to people? Can you explain complex topics simply to laypeople? Because you'll be doing a lot of that in your job. The best way to prove this is by clearly and thoroughly explaining your thoughts as you do the whiteboard portion of your interview.
-* **Problem-solving:** It's on almost every single job posting for the very simple reason that as a Golang developer, people will be looking to you to fix a lot of problems, not just the ones in your specific purview.
-* **Lateral thinking:** "Thinking outside the box" is harder to prove. I recommend you practice logic puzzles and riddles. This can be a lot of fun!
-* **Code reviews:** Many companies will ask that you participate in these. Join coding communities and offer to buddy up with people to do this.
-* **Big picture discussions:** Go back to those fundamentals. Are you able to contribute to a company's overall strategy? Can you intelligently recommend different architectural structures? Do you have thoughts on cryptography? Most companies don't want you to be a cog in the machine - they want people who have enough general knowledge in the field to spot bigger issues and know how to fix them, rather than just following instructions all the time.
-* **Ability to interview well:** [Be humble and confident](/jobs/confidence-in-job-interviews/). That's what it boils down to. It's easier to do that if you know what you're talking about, so I recommend doing as much interview question prep on websites like StrataScratch as you can. This will help you be more secure in your knowledge.
+- **Communication:** Can you talk to people? Can you explain complex topics simply to laypeople? Because you'll be doing a lot of that in your job. The best way to prove this is by clearly and thoroughly explaining your thoughts as you do the whiteboard portion of your interview.
+- **Problem-solving:** It's on almost every single job posting for the very simple reason that as a Golang developer, people will be looking to you to fix a lot of problems, not just the ones in your specific purview.
+- **Lateral thinking:** "Thinking outside the box" is harder to prove. I recommend you practice logic puzzles and riddles. This can be a lot of fun!
+- **Code reviews:** Many companies will ask that you participate in these. Join coding communities and offer to buddy up with people to do this.
+- **Big picture discussions:** Go back to those fundamentals. Are you able to contribute to a company's overall strategy? Can you intelligently recommend different architectural structures? Do you have thoughts on cryptography? Most companies don't want you to be a cog in the machine - they want people who have enough general knowledge in the field to spot bigger issues and know how to fix them, rather than just following instructions all the time.
+- **Ability to interview well:** [Be humble and confident](/jobs/confidence-in-job-interviews/). That's what it boils down to. It's easier to do that if you know what you're talking about, so I recommend doing as much interview question prep on websites like StrataScratch as you can. This will help you be more secure in your knowledge.
 
 ## Step 5. Portfolio and jobs
 
@@ -199,10 +199,10 @@ A resume is much more than a piece of paper. Once you've done all those projects
 
 You should carefully select the projects that work the best at showing off your skills. They should:
 
-* Have well-written tests
-* Have clean and well-organized codebases
-* Detailed `README.md` files describing what they do, and how to use them
-* Do something interesting. The more interesting your project, the more likely you are to pique the attention of a hiring manager
+- Have well-written tests
+- Have clean and well-organized codebases
+- Detailed `README.md` files describing what they do, and how to use them
+- Do something interesting. The more interesting your project, the more likely you are to pique the attention of a hiring manager
 
 It's also a good idea to [add libraries and packages](/jobs/libraries-and-packages-in-coding-portfolio) to your portfolio. This shows a deeper understanding of software engineering and architecture than most hiring managers are used to seeing.
 
@@ -214,9 +214,9 @@ It's much better to apply to one job every week and do a perfect job than applyi
 
 To apply intelligently, you should be:
 
-* **Doing company research**. Stay up to date with company announcements, developments, new products, and press releases. This especially matters with companies using Golang.
-* **Staying current with new tech**. Programming is a fast-moving field; Go is a new language that's growing fast. You can impress hiring managers just by knowing more about the latest buzzword than your peers.
-* **Practicing good network hygiene**. It's a shame, but a lot of job success comes from who you know, not necessarily what you know. Join communities and learn how to make friends. See how you can give back - with code reviews, feedback, introductions, or debugging help. Then see if anyone can help you.
+- **Doing company research**. Stay up to date with company announcements, developments, new products, and press releases. This especially matters with companies using Golang.
+- **Staying current with new tech**. Programming is a fast-moving field; Go is a new language that's growing fast. You can impress hiring managers just by knowing more about the latest buzzword than your peers.
+- **Practicing good network hygiene**. It's a shame, but a lot of job success comes from who you know, not necessarily what you know. Join communities and learn how to make friends. See how you can give back - with code reviews, feedback, introductions, or debugging help. Then see if anyone can help you.
 
 ## How to get a job as a Golang developer: practice, apply, and get accepted.
 

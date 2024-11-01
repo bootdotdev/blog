@@ -1,13 +1,13 @@
 ---
-title: "Announcing a \"Basic Intro to Coding\" Course in JavaScript"
+title: 'Announcing a "Basic Intro to Coding" Course in JavaScript'
 author: Lane Wagner
 date: "2020-07-06"
-categories: 
+categories:
   - "javascript"
   - "news"
 ---
 
-The [boot.dev app](https://boot.dev/) - our new gamified learning platform - just launched its first [JavaScript coding course](https://boot.dev/courses/learn-javascript/)! This one is short, sweet, and to the point. We created a thirty-exercise, two-module course that caters to students who have never seen a single line of code before. That's right, this is a code-in-the-browser course for absolute beginners.
+The [boot.dev app](https://www.boot.dev/) - our new gamified learning platform - just launched its first [JavaScript coding course](https://www.boot.dev/courses/learn-javascript/)! This one is short, sweet, and to the point. We created a thirty-exercise, two-module course that caters to students who have never seen a single line of code before. That's right, this is a code-in-the-browser course for absolute beginners.
 
 ## What is Taught?
 

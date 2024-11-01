@@ -179,4 +179,4 @@ func (cfg config) loginHandler(w http.ResponseWriter, r *http.Request) {
 }
 ```
 
-Let me know if this guide can be improved or if you have any questions. This is _roughly_ the process that we use at [boot.dev](https://boot.dev/) and it has worked well for us.
+Let me know if this guide can be improved or if you have any questions. This is _roughly_ the process that we use at [boot.dev](https://www.boot.dev/) and it has worked well for us.

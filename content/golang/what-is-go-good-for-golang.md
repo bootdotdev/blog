@@ -2,7 +2,7 @@
 title: "What is Go Good For? (And What Is Golang Used For?)"
 author: Jamie Dunmore
 date: "2021-07-16"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/What-is-Go-good-for-golang-min.webp
@@ -18,10 +18,10 @@ This combination makes Go one of the most effective languages for large-scale in
 
 The open-source Go project was first announced in 2009, and version 1.0 was officially released in 2012. Major new features have since been added, such as [generics](/golang/how-to-use-golangs-generics/) and error handling in 2018.
 
-**Go vs Golang: what to call Go**  
-  
-The official name of the language is Go, with the confusion over its name mostly due to the [golang.org](http://golang.org) domain name (go.org wasn't available).  
-  
+**Go vs Golang: what to call Go**
+
+The official name of the language is Go, with the confusion over its name mostly due to the [golang.org](http://golang.org) domain name (go.org wasn't available).
+
 Though the official term is Go, some find Golang is more convenient to use and prevents confusion with the strategy game Go, so it survives as a cherished alternative name.
 
 ## What is Go?
@@ -43,7 +43,7 @@ Go's static typing ensures conversions and compatibility while avoiding the run-
 
 ### Go is compiled rather than interpreted
 
-As a compiled language, Go is expressed in the instructions of the target machine in 0s and 1s. Whereas interpreted languages are interpreted (without compiling it into machine code), the program instructions use a virtual machine rather than the target machine. 
+As a compiled language, Go is expressed in the instructions of the target machine in 0s and 1s. Whereas interpreted languages are interpreted (without compiling it into machine code), the program instructions use a virtual machine rather than the target machine.
 
 This lets Go run faster and offer better performance than interpreted language programs. Compiled language errors prevent the code from compiling, whereas errors in the interpreted language programs are found at run-time, with interpreted languages able to modify code even while the program is still running.
 
@@ -55,7 +55,7 @@ Since Go was designed from the very beginning to run on multiple cores, it has r
 
 Go uses "goroutines" and channels, concurrent functions that allow the rest of the program to compute while they run, making for efficient dependency management.
 
-Goroutines are great as they continue if you have a network timeout or even an entire database failure, so you can work around any problems that come up. Go's automatic garbage collection mimics Python and makes for a more convenient coding experience. 
+Goroutines are great as they continue if you have a network timeout or even an entire database failure, so you can work around any problems that come up. Go's automatic garbage collection mimics Python and makes for a more convenient coding experience.
 
 Go modules is Golang's simple package manager publishable using a small set of commands. Go's `gofmt` tool is helpful for automatically formatting and indenting code, with other tools like Go run, Go get and Godoc also convenient. It's very versatile, and easy to replace your scripting languages with Golang.
 
@@ -75,11 +75,11 @@ For example, Go has very few data types, such as `int`, `string`, `bool`, `float
 
 The language itself is similar to C, just without some of C's frustrating inefficiencies that reduce the time required to clean complex code. If you have either previous Java or C experience, you'll have no issues understanding Go as all these languages follow the same procedural approach.
 
-- And if you're struggling to find a course that teaches you Go right from the beginning, try our [Learn Go course](https://boot.dev/courses/learn-golang).
+- And if you're struggling to find a course that teaches you Go right from the beginning, try our [Learn Go course](https://www.boot.dev/courses/learn-golang).
 
 ### Go is Fast
 
-Go code is compiled and directly translated into processor-understandable formats. This makes it far faster than languages like Java that first need to compile into byte code, before executing it via a virtual machine (VM). 
+Go code is compiled and directly translated into processor-understandable formats. This makes it far faster than languages like Java that first need to compile into byte code, before executing it via a virtual machine (VM).
 
 Boasting small application sizes, Go binary files can be up to 10x smaller than their Java equivalent. This is especially notable for large applications deployed on multiple servers, heavily reducing file loading time and [making for much-improved performance](https://www.bmc.com/blogs/go-vs-java/#:~:text=Go%20is%20faster%20than%20Java,Go%20performed%20better%20than%20Java.).
 
@@ -91,15 +91,15 @@ Languages like Rust and C++ use slightly less memory than Go, however, this is b
 
 Many languages designed prior to the adoption of multi-core processors (such as Java, JavaScript, C++ and Python) have difficulties scaling and are one-threaded. As a more modern language designed for multi-core processors, Go contains effective support for parallel processes (as do C#, Erlang and other languages). It's also designed in the internet age, so Go doesn't require third-party libraries for web service support.
 
-Goroutines are scalable and non-blocking, ideal for when multiple concurrent processes are required — and take up just 2kb of overhead memory. Goroutines are a convenient combination of Javascript's async features with standard Java multi-threading. As a result, open-source projects like Kubernetes, Docker, InfluxDB and Jaeger all opted for Go as their programming language.
+Goroutines are scalable and non-blocking, ideal for when multiple concurrent processes are required — and take up just 2kb of overhead memory. Goroutines are a convenient combination of Javascript's async features with standard Java multi-threading. As a result, open-source projects like [Kubernetes](https://www.boot.dev/courses/learn-kubernetes), Docker, InfluxDB and Jaeger all opted for Go as their programming language.
 
 Golang's quick and efficient compilation makes it effective for even the largest projects. Even the most complex projects can be quickly built and worked on efficiently to reduce bugs and aid easy debugging.
 
-On large projects where many developers work together to maintain and develop in teams, it's integral that they be able to work in sync and understand each other's solutions. Go is designed based on the philosophy that there should be very few solutions (ideally just one) rather than a wide variety of ambiguous solutions so that maintaining these large and complex projects is as simple as possible. 
+On large projects where many developers work together to maintain and develop in teams, it's integral that they be able to work in sync and understand each other's solutions. Go is designed based on the philosophy that there should be very few solutions (ideally just one) rather than a wide variety of ambiguous solutions so that maintaining these large and complex projects is as simple as possible.
 
 ## What is Go Used For?
 
-### Infrastructure 
+### Infrastructure
 
 Popular open-source tools like Kubernetes, Docker and Prometheus are written in Go for container deployment, scaling and management for running and bundling applications.
 
@@ -121,7 +121,7 @@ Large web apps like Monzo's online banking app have been built in Go since their
 
 SoundCloud have also been using Go [since as early as 2012](https://developers.soundcloud.com/blog/go-at-soundcloud) in their build and deployment system, though they mostly use Ruby on Rails. SoundCloud developed what eventually became Prometheus in 2012, which is now used by [AT&T, Honeywell, JP Morgan & Chase, and many other large companies](https://discovery.hgdata.com/product/prometheus).
 
-Our [boot.dev web app](https://boot.dev/), designed to teach you computer science interactively, is also written in Go.
+Our [boot.dev web app](https://www.boot.dev/), designed to teach you computer science interactively, is also written in Go.
 
 Other large companies that use Go include Google & YouTube (obviously), Medium, BBC, Dailymotion, SendGrid, and Badoo.
 
@@ -155,4 +155,4 @@ So should you learn Go, too?
 
 We absolutely think so.
 
-We're huge fans of Golang at Boot.dev, and created our [Learn Go courses](https://boot.dev/courses/learn-golang) to help teach Go as effectively as possible — by learning by doing. Our interactive lessons have you code in Go to fix problems, create programs, and we even built a specialized [Interview Prep course](https://www.boot.dev/courses/learn-job-search) for landing a job once you've gained the core skills.
+We're huge fans of Golang at Boot.dev, and created our [Learn Go courses](https://www.boot.dev/courses/learn-golang) to help teach Go as effectively as possible — by learning by doing. Our interactive lessons have you code in Go to fix problems, create programs, and we even built a specialized [Interview Prep course](https://www.boot.dev/courses/learn-job-search) for landing a job once you've gained the core skills.

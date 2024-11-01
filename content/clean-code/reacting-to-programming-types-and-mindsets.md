@@ -30,7 +30,7 @@ I've gone to external resources to try to find some arguments for dynamic typing
 
 > Dynamically typed languages often have simpler syntax and less boilerplate code
 
-True. I choose to start developers with Python on [Boot.dev](https://boot.dev) because I think it has a simple syntax.
+True. I choose to start developers with Python on [Boot.dev](https://www.boot.dev) because I think it has a simple syntax.
 
 Python makes for an amazing environment in which to learn programming, but that's *despite* the dynamic typing, not *because* of it.
 
