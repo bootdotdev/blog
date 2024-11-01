@@ -23,7 +23,7 @@
 }
 
 .bg-blue-textured {
-  background-image: url('/img/800/maptexture.webp'), url('/img/800/bg-blue.webp');
+  background: linear-gradient(rgba(20, 25, 39, 1), rgba(0, 0, 0, 0.2)), url('/img/800/maptexture.webp'), url('/img/800/bg-blue.webp');
   background-blend-mode: overlay;
   background-size: cover;
   background-repeat: no-repeat;
