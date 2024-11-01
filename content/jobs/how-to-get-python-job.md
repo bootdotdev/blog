@@ -2,12 +2,13 @@
 title: "How can I Get a Job as a Python Programmer?"
 author: Natalie Schooner
 date: "2023-03-27"
-categories: 
+categories:
   - "jobs"
   - "golang"
 images:
   - /img/800/snakesjobint.png.webp
 ---
+
 ## How to Get a Job as a Python Programmer
 
 "How much Python do I need to know to get a job? Do I need a degree?" I asked Jo, a hiring manager I'd met at a Python networking event, nervously.
@@ -58,17 +59,17 @@ In short, you need to learn how to code with Python, you need to understand the 
 
 ### Learn Python and coding syntax
 
-There are so many guides and courses and videos out there that can teach you Python and its coding syntax. We've got a [great one](https://boot.dev/courses/learn-python) at Boot.dev that's free to audit if you're looking for a place to start.
+There are so many guides and courses and videos out there that can teach you Python and its coding syntax. We've got a [great one](https://www.boot.dev/courses/learn-code-python) at Boot.dev that's free to audit if you're looking for a place to start.
 
 Rather than reinventing the wheel, I'll make this more of a checklist. Here are the basic Python principles you should grasp before you move on.
 
-* What are variables? How are they declared and used?
-* How can you compare different values to make logical decisions in a program?
-* How can you reuse code with loops?
-* How do you create and use lists?
-* How can you declare and call functions?
-* What are sets?
-* How do you handle errors?
+- What are variables? How are they declared and used?
+- How can you compare different values to make logical decisions in a program?
+- How can you reuse code with loops?
+- How do you create and use lists?
+- How can you declare and call functions?
+- What are sets?
+- How do you handle errors?
 
 Beyond pure Python, there are some other coding fundamentals I recommend learning.
 
@@ -77,7 +78,7 @@ Beyond pure Python, there are some other coding fundamentals I recommend learnin
 Why is this important?
 
 1. You learn different lessons. When I was writing about how to get a job as a backend Go developer, I talked about learning OOP with Python. Here, I emphasize learning networking with JavaScript. Different languages have different strengths and weaknesses. Learning more than one forces you to think more flexibly about how to solve problems.
-2. Hireability. No company wants a specialist, sadly. They want someone who can do it all. Not just Dev, but DevOps. Not just [DevOps, but DevSecOps.](/devops/devops-vs-devsecops/) And it's gotta be i[n the cloud](/devops/devops-vs-cloud-engineers/). If you can do Python *and* another language? You're that much more employable.
+2. Hireability. No company wants a specialist, sadly. They want someone who can do it all. Not just Dev, but DevOps. Not just [DevOps, but DevSecOps.](/devops/devops-vs-devsecops/) And it's gotta be i[n the cloud](/devops/devops-vs-cloud-engineers/). If you can do Python _and_ another language? You're that much more employable.
 
 **Clean code**: You do not code in a vacuum. You code with other Python programmers. You have to show the code to your boss. You will probably do code reviews. Clean code is essential.
 
@@ -91,7 +92,7 @@ This is the biggest problem with coding boot camps, in my opinion. They jam you 
 
 Luckily, as Jo said, you don't need either a degree or a bootcamp. Learn these concepts and then apply them in the "prove" step we'll get to a little later in the article.
 
-Because Python is such a great, user-friendly language, the good news is you can learn the most important computer science basics *with* Python. This is especially true for entry-level python developer skills.
+Because Python is such a great, user-friendly language, the good news is you can learn the most important computer science basics _with_ Python. This is especially true for entry-level python developer skills.
 
 **OOP:** Also known as object-oriented programming. I already made the "And I OOP–" joke in another blog about [how to get a Golang job](/jobs/how-to-get-golang-job/), so I'll refrain here. If you want to know how to get a job as a python programmer, it's even more important to know about OOP since Python is an OOP language.
 
@@ -102,9 +103,9 @@ All you need to know here is that object-oriented programming is a principle of 
 1. "Create a class for all dogs as a blueprint of information and behaviors (methods) that all dogs will have, regardless of type. This is also known as the parent class.
 2. Create subclasses to represent different subcategories of dogs under the main blueprint. These are also referred to as child classes.
 3. Add unique attributes and behaviors to the child classes to represent differences
-4.  Create objects from the child class that represents dogs within that subgroup."
+4. Create objects from the child class that represents dogs within that subgroup."
 
-**Where you can learn it**: At Boot.dev we have a [comprehensive, interactive OOP course in Python](https://boot.dev/courses/learn-object-oriented-programming). If you like videos I also recommend [Corey Schafer's video series](https://coreyms.com/development/python/python-oop-tutorials-complete-series) on Python OOP. But the real best way is to build a project that has a lot of duplicate code and find ways where objects can help you simplify and reduce the code. (a lot of how to get a job as a Python programmer comes down to DIY.)
+**Where you can learn it**: At Boot.dev we have a [comprehensive, interactive OOP course in Python](https://www.boot.dev/courses/build-asteroids-python). If you like videos I also recommend [Corey Schafer's video series](https://coreyms.com/development/python/python-oop-tutorials-complete-series) on Python OOP. But the real best way is to build a project that has a lot of duplicate code and find ways where objects can help you simplify and reduce the code. (a lot of how to get a job as a Python programmer comes down to DIY.)
 
 **Local dev environment**: This is an important step! Building a local dev environment will help you get more hands-on experience writing Python code. You'll need to choose and set up different packages, modules, and libraries.
 
@@ -114,12 +115,12 @@ All you need to know here is that object-oriented programming is a principle of 
 2. Make sure you're using a good command line interface (built-in Windows command line is terrible).
 3. Learn how to use the CLI.
 4. Set up a GitHub repo.
-5. Set up Git so you have reproducibility and code history.
+5. Set up Git so you have reproducibility and code history. You might need to [learn Git](https://www.boot.dev/courses/learn-git) first!
 6. Make sure your filesystem is set up in a well-organized way that makes sense and isn't haphazard.
 7. Make your first commit.
 8. Install and run Python
 
-**Where you can learn it**: We published a [full setup guide on Boot.dev](https://boot.dev/courses/build-local-dev-environment-python) that will take from zero to a complete professional setup. I also like Microsoft's [guide](https://learn.microsoft.com/en-us/windows/dev-environment/). They cover different types of languages and environments.
+**Where you can learn it**: We published a [full setup guide on Boot.dev](https://www.boot.dev/courses/build-bookbot-python) that will take from zero to a complete professional setup. I also like Microsoft's [guide](https://learn.microsoft.com/en-us/windows/dev-environment/). They cover different types of languages and environments.
 
 **Data structures and algorithms**: How do you put data somewhere? How do you get it back out? What if you need to process that data in some way? The answer to all those nebulous questions is "data structures."
 
@@ -131,7 +132,7 @@ Algorithms commonly get lumped in with data structures when learning computer sc
 
 It doesn't end there – you'll need a list or a table to display those lovely green bow ties to your user, and you'll want some kind of filtering or sorting algorithm to present them correctly.
 
-**Where you can learn it**: If you want to test your knowledge, you can audit our [Algorithms](https://boot.dev/courses/learn-algorithms) and [Data Structure](https://boot.dev/courses/learn-data-structures) courses for free. Find you're struggling a little? You can use a tutorial [like this one](https://www.manning.com/liveproject/trees) to practice. You're also welcome to go back to our courses – the algorithms course will walk you through building a demo product, and the courses are designed to complement each other.
+**Where you can learn it**: If you want to test your knowledge, you can audit our [Algorithms](https://www.boot.dev/courses/learn-algorithms-python) and [Data Structure](https://www.boot.dev/courses/learn-data-structures-python) courses for free. Find you're struggling a little? You can use a tutorial [like this one](https://www.manning.com/liveproject/trees) to practice. You're also welcome to go back to our courses – the algorithms course will walk you through building a demo product, and the courses are designed to complement each other.
 
 **Networking**: Networking is how different computer systems and servers over a network are connected and exchange data. Pop quiz! What is the difference between IPv4 and IPv6?
 
@@ -143,13 +144,13 @@ If you look at that list of acronyms and think, "WTF?" to yourself, then it's a 
 
 You'll need to establish a connection, authenticate with the server, retrieve and process the data, then upload the results back to the server.
 
-**Where you can learn it:** Our [Learn HTTP](https://boot.dev/courses/learn-http) course walks you through all those acronyms, as well as helps guide you through individual challenges that make up part of a bigger, real-world application. [Tutorialspoint](https://www.tutorialspoint.com/python/python_networking.htm) gives you a pretty in-depth walkthrough if you prefer reading to doing.
+**Where you can learn it:** Our [Learn HTTP](https://www.boot.dev/courses/learn-http-clients-golang) course walks you through all those acronyms, as well as helps guide you through individual challenges that make up part of a bigger, real-world application. [Tutorialspoint](https://www.tutorialspoint.com/python/python_networking.htm) gives you a pretty in-depth walkthrough if you prefer reading to doing.
 
-**Databases:** Different from data structures, which are *how* you organize data. This is absolutely a must-know for anyone who wants to know how to get a job as a Python programmer, and I've explained more about that [here](/backend/do-backend-devs-need-sql/). Databases are where data lives. You should have a good familiarity with SQL and NoSQL databases (which I've covered [here](/backend/top-backend-technologies/#top-six-back-end-sql-databases) and [here](/backend/top-backend-technologies/#top-five-back-end-nosql-databases) respectively).
+**Databases:** Different from data structures, which are _how_ you organize data. This is absolutely a must-know for anyone who wants to know how to get a job as a Python programmer, and I've explained more about that [here](/backend/do-backend-devs-need-sql/). Databases are where data lives. You should have a good familiarity with SQL and NoSQL databases (which I've covered [here](/backend/top-backend-technologies/#top-six-back-end-sql-databases) and [here](/backend/top-backend-technologies/#top-five-back-end-nosql-databases) respectively).
 
 **Example**: Say you need to store search log data. Do you know how to create a database, or which kind you should create? Do you know how to access that data using Python? How about manipulating it? Are you familiar with how Python and SQL work together?
 
-**Where you can learn it**: This is one of the few computer science basics where it's best to learn with a different language. I recommend our [SQL course](https://boot.dev/courses/learn-sql) to build out real database tables and practice querying them. And again, there's no substitute for learning by doing. Try connecting your Python project to a NoSQL database. Get it wrong. Figure out why. Get it right.
+**Where you can learn it**: This is one of the few computer science basics where it's best to learn with a different language. I recommend our [SQL course](https://www.boot.dev/courses/learn-sql) to build out real database tables and practice querying them. And again, there's no substitute for learning by doing. Try connecting your Python project to a NoSQL database. Get it wrong. Figure out why. Get it right.
 
 This is one of the few computer science basics I recommend doing in JavaScript, not Python. If you're thinking about how to get a job as a Python programmer, I recommend learning another language anyway as I'll get into below.
 
@@ -161,9 +162,9 @@ Let's go through them anyway to make sure that if you want to know how to get a 
 
 ## Prove you learned Python
 
-You know computer science basics, and you know Python! You're a Python beast and you can definitely get a job as a Python programmer. Except for one small issue * nobody will believe you unless you can prove it. You need to understand how to apply your coding knowledge to real-world problems.
+You know computer science basics, and you know Python! You're a Python beast and you can definitely get a job as a Python programmer. Except for one small issue \* nobody will believe you unless you can prove it. You need to understand how to apply your coding knowledge to real-world problems.
 
-Real-world problems are valuable to demonstrate you *really* know Python. If you can use Python to analyze a clean, sanitized data set, that's great. So can anyone else with access to StackOverflow.
+Real-world problems are valuable to demonstrate you _really_ know Python. If you can use Python to analyze a clean, sanitized data set, that's great. So can anyone else with access to StackOverflow.
 
 But can you use Python to effectively clean data? Can you make graphs that communicate the story you want to tell? Can you access and manipulate data already inside databases? That's what employers want to know.
 
@@ -187,10 +188,10 @@ What's high quality? What projects can help you get a job as a Python programmer
 
 They should:
 
-* Have well-written tests.
-* Have clean and well-organized codebases.
-* Have detailed README.md files describing what they do, and how to use them.
-* Do something interesting. The more interesting your project, the more likely you are to pique the attention of a hiring manager. (AKA, don't do the Titanic Survival Analysis project on Kaggle that everyone and their aunt has done. It's a great project. It's not interesting.)
+- Have well-written tests.
+- Have clean and well-organized codebases.
+- Have detailed README.md files describing what they do, and how to use them.
+- Do something interesting. The more interesting your project, the more likely you are to pique the attention of a hiring manager. (AKA, don't do the Titanic Survival Analysis project on Kaggle that everyone and their aunt has done. It's a great project. It's not interesting.)
 
 We also recommend [adding a library or a package to your portfolio](/jobs/libraries-and-packages-in-coding-portfolio/) to show true mastery and stand out from the competition.
 
@@ -204,7 +205,7 @@ Third, it's good practice to write about what you do. Start interesting conversa
 
 The PyCoach wrote an awesome [tutorial](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-using-python-79531426fde5) on Towards Data Science about exactly how to do this using Python. He's also a great creator to follow if you're interested in how to get a job as a Python programmer.
 
-If you don't want to create your website, you can use Medium, Dev.to, or HackerNoon to showcase your articles and work. I love what [Mahbub Zaman](https://medium.com/@lifeparticle) does * he writes consistently great tutorials using a variety of languages and tech stacks, as well as writing about soft programming skills. His example is great to follow if you're looking for an accessible way to start.
+If you don't want to create your website, you can use Medium, Dev.to, or HackerNoon to showcase your articles and work. I love what [Mahbub Zaman](https://medium.com/@lifeparticle) does \* he writes consistently great tutorials using a variety of languages and tech stacks, as well as writing about soft programming skills. His example is great to follow if you're looking for an accessible way to start.
 
 ### GitHub contribution
 
@@ -234,22 +235,22 @@ People hire people, not programmers. It's a subtle but important distinction. If
 
 The TL;DR is that hiring managers are looking for hires who will:
 
-* Save them time
-* Make them look good
-* Make their life easier
-* Build out their team, giving them more authority and influence
-* Deliver the project that will secure their next promotion
-* Be fun to work with
+- Save them time
+- Make them look good
+- Make their life easier
+- Build out their team, giving them more authority and influence
+- Deliver the project that will secure their next promotion
+- Be fun to work with
 
 That comes down to humility and confidence. Be sure of yourself, but not a know-it-all. Prove you're willing to be corrected, and to take feedback well, but that you won't need to be hand-held for the first six months.
 
-Make sure to practice interview questions a lot * that will help you be sure of your skills while not being arrogant. I recommend a platform like [StrataScratch](https://www.stratascratch.com/) that gives you real-life interview questions, as well as workable solutions.
+Make sure to practice interview questions a lot \* that will help you be sure of your skills while not being arrogant. I recommend a platform like [StrataScratch](https://www.stratascratch.com/) that gives you real-life interview questions, as well as workable solutions.
 
 ### Apply intelligently
 
 It is so tempting to shoot off your picture-perfect resume to every single half-decent job opening and hope for the best.
 
-This is *not* how to get a job as a Python programmer.
+This is _not_ how to get a job as a Python programmer.
 
 Take the time to look at every single job opening. Find the hiring manager on LinkedIn and send them a message. Make sure to tailor your resume to match the keywords on the post. Update your cover letter to reflect what the company values. Tweak your projects to be a better fit for what the job posting is looking for.
 
@@ -261,14 +262,14 @@ It shouldn't matter, but many jobs come down to who you know. This is as true in
 
 The good news is that Pythonistas are a friendly, helpful bunch. I recommend:
 
-* Joining Python communities on Slack
-* Contributing to open-source Python projects on GitHub
-* Creating useful Python packages that other Pythonistas can reuse
-* Commenting on Python blog posts you find interesting
+- Joining Python communities on Slack
+- Contributing to open-source Python projects on GitHub
+- Creating useful Python packages that other Pythonistas can reuse
+- Commenting on Python blog posts you find interesting
 
 And the most important thing? Give before you take. Networking is not transactional. It's providing value before you expect value to be provided to you.
 
-Take a minute and think * who would be a useful introduction to make? How can you make someone else's day easier? What would be a helpful contribution?
+Take a minute and think \* who would be a useful introduction to make? How can you make someone else's day easier? What would be a helpful contribution?
 
 That's how to get a job as a Python programmer.
 

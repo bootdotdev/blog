@@ -9,7 +9,7 @@ images:
   - /img/800/photo-1555532538-dcdbd01d373d.avif.webp
 ---
 
-I recently spent *far too long* fighting with Vue's `keyup` and `keydown` functionality while building [Boot.dev's](https://boot.dev) front-end. I wanted to handle `ctrl+period` keyboard events and it took me *forever* to find the part of the documentation that addressed my use case. Hopefully, this guide can save you some time!
+I recently spent *far too long* fighting with Vue's `keyup` and `keydown` functionality while building [Boot.dev's](https://www.boot.dev) front-end. I wanted to handle `ctrl+period` keyboard events and it took me *forever* to find the part of the documentation that addressed my use case. Hopefully, this guide can save you some time!
 
 **Take note: This guide is for Vue 3! If you're on Vue 2, find a different guide.**
 

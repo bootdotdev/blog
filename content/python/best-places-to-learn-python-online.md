@@ -2,7 +2,7 @@
 title: "The 28 Best Places to Learn Python Online"
 author: Natalie Schooner
 date: "2023-04-28"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/pythonincastele.png.webp
@@ -10,18 +10,18 @@ imageAlts:
   - "Python surrounding a castle"
 ---
 
-For anyone who wants to [learn Python online](https://boot.dev/courses/learn-python), it can be a bit overwhelming. When I Googled it, I came up with over 200 million hits.
+For anyone who wants to [learn Python online](https://www.boot.dev/courses/learn-code-python), it can be a bit overwhelming. When I Googled it, I came up with over 200 million hits.
 
 The frustrating thing is that despite having a ton of options, very few of them fit your needs. When I was a beginner who wanted to learn Python, I wanted:
 
-* An interactive platform
-* that didn't assume prior knowledge
-* that would give me something at the end that I could put on a portfolio
-* didn't cost too much
-* where I could learn on my own time
-* and had some kind of community element
+- An interactive platform
+- that didn't assume prior knowledge
+- that would give me something at the end that I could put on a portfolio
+- didn't cost too much
+- where I could learn on my own time
+- and had some kind of community element
 
-There were very few places that met *all* my criteria.
+There were very few places that met _all_ my criteria.
 
 Of course, other folks learning Python online might want different things, like being able to read a textbook or taking some kind of high-octane Python Bootcamp. You might want to get a Python certification, or maybe you need to only look at free online courses.
 
@@ -41,7 +41,7 @@ In this section, I’ll offer a brief description of each platform, how much it 
 
 ### Boot.dev
 
-Why not start with the best? [Boot.dev](https://boot.dev/) is the best way to [learn backend development](https://boot.dev/tracks/backend) the addictive way. It’s got a fantasy theme, you learn Python accompanied by Boots the Bear, and it’s designed to get you hooked on the fast, easy process of building Python code.
+Why not start with the best? [Boot.dev](https://www.boot.dev/) is the best way to [learn backend development](https://www.boot.dev/tracks/backend) the addictive way. It’s got a fantasy theme, you learn Python accompanied by Boots the Bear, and it’s designed to get you hooked on the fast, easy process of building Python code.
 
 With 15,000+ students, a highly active Discord server, and a focus on getting a job, Boot.dev is one of the best places to learn Python online.
 
@@ -49,7 +49,7 @@ With 15,000+ students, a highly active Discord server, and a focus on getting a 
 
 #### Price
 
-Boot.dev [costs](https://boot.dev/pricing) either \$39/month, \$228 a year, or \$999 for lifetime access. You can audit all the courses for free, but paying for membership gets you solutions and hints to the coursework, instant verification of answers, access to Discord, and certificates of completion.
+Boot.dev [costs](https://www.boot.dev/pricing) either \$39/month, \$228 a year, or \$999 for lifetime access. You can audit all the courses for free, but paying for membership gets you solutions and hints to the coursework, instant verification of answers, access to Discord, and certificates of completion.
 
 #### How long does it take to learn Python here?
 
@@ -80,6 +80,7 @@ is_smaller = # calculate is_smaller here
 [Codecademy](https://www.codecademy.com/) is like the vanilla coding platform, which I say as a compliment. It’s a comprehensive and structured way to learn Python online. Designed for beginners with little to no coding experience, Codecademy offers a gamified learning experience that makes learning to code fun and engaging.
 
 There’s a range of courses available, including Python. You can get in on either a basic free version or a paid version that unlocks additional content and features.
+
 #### Price
 
 As I mentioned, there’s a very basic free plan where you can get your feet wet with Python. Beyond that, you can choose the Plus plan to get more courses and quizzes. The Pro plan comes with professional certifications, technical interview prep, code challenges, and assessments.
@@ -96,7 +97,7 @@ Codecademy is great for beginners who want a structured and engaging way to lear
 
 #### Cons
 
-Once you’re no longer a beginner, Codecademy loses its shine. I also found it more like Duolingo for learning a language * very gamified, but at the cost of imparting actual understanding and meaning. Depending on your tastes, that may appeal to you or not.
+Once you’re no longer a beginner, Codecademy loses its shine. I also found it more like Duolingo for learning a language \* very gamified, but at the cost of imparting actual understanding and meaning. Depending on your tastes, that may appeal to you or not.
 
 #### Example task
 
@@ -214,12 +215,12 @@ The pros are that these have a huge amount of social proof. You can see exactly 
 
 They aren’t especially interactive, though some do offer code-along sessions. They’re also not created by professionals in many cases. They may be too short, or too boring, to teach you much. And they require a lot of self-discipline to complete in any meaningful way.
 
-### Best video tutorials to learn Python 
+### Best video tutorials to learn Python
 
-* [Corey Shafer's Python Series](https://www.youtube.com/@coreyms) - In-depth and comprehensive Python tutorials covering everything from basic syntax to advanced topics like web scraping and Django.
-* [Sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) - Python programming tutorials that cover a wide range of topics including data analysis, machine learning, and web development.
-* [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ) - Short and easy-to-follow Python tutorials with a focus on practical applications and projects.
-* [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh) - A comprehensive Python course that covers everything from the basics to advanced topics like data structures, algorithms, and GUI programming.
+- [Corey Shafer's Python Series](https://www.youtube.com/@coreyms) - In-depth and comprehensive Python tutorials covering everything from basic syntax to advanced topics like web scraping and Django.
+- [Sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) - Python programming tutorials that cover a wide range of topics including data analysis, machine learning, and web development.
+- [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ) - Short and easy-to-follow Python tutorials with a focus on practical applications and projects.
+- [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh) - A comprehensive Python course that covers everything from the basics to advanced topics like data structures, algorithms, and GUI programming.
 
 ## Text-based tutorials
 
@@ -229,7 +230,7 @@ What if you prefer to read? Text-based tutorials are a great option for any burg
 
 There are a plethora of free resources available online that provide detailed and comprehensive Python tutorials in written form.
 
-These tutorials cover everything from the basics of Python syntax and [data structures](https://boot.dev/courses/learn-data-structures) to more advanced topics like web scraping, data analysis, and machine learning. Many of these resources also provide practical examples and exercises to help reinforce the concepts learned.
+These tutorials cover everything from the basics of Python syntax and [data structures](https://www.boot.dev/courses/learn-data-structures-python) to more advanced topics like web scraping, data analysis, and machine learning. Many of these resources also provide practical examples and exercises to help reinforce the concepts learned.
 
 ### Cons
 
@@ -237,10 +238,10 @@ I can’t say that I have ever learned a brand new skill just by reading a blog.
 
 ### Best text-based online tutorials for learning Python
 
-* [Complete Python Tutorial for Absolute Beginners in 2023](/tutorials/python-tutorial/) - A comprehensive Python tutorial that covers all the basics of Python syntax in a massive free guide.
-​​* [Python.org](https://www.python.org/) - The official website for the Python programming language, featuring documentation, downloads, and community resources. It’s dry, but it’s comprehensive.
-* [Real Python](https://realpython.com/) - A comprehensive online platform for learning Python with a wide range of tutorials, articles, and video courses. Text-focused, but with bonus bits that make it a joy to learn with.
-* [PyLessons](https://pylessons.com/) - A popular text-based resource for learning Python online, offering free and comprehensive tutorials that cover a wide range of topics, from basic syntax to advanced topics like machine learning and data analysis.
+- [Complete Python Tutorial for Absolute Beginners in 2023](/tutorials/python-tutorial/) - A comprehensive Python tutorial that covers all the basics of Python syntax in a massive free guide.
+  ​​\* [Python.org](https://www.python.org/) - The official website for the Python programming language, featuring documentation, downloads, and community resources. It’s dry, but it’s comprehensive.
+- [Real Python](https://realpython.com/) - A comprehensive online platform for learning Python with a wide range of tutorials, articles, and video courses. Text-focused, but with bonus bits that make it a joy to learn with.
+- [PyLessons](https://pylessons.com/) - A popular text-based resource for learning Python online, offering free and comprehensive tutorials that cover a wide range of topics, from basic syntax to advanced topics like machine learning and data analysis.
 
 ## Books
 
@@ -262,12 +263,12 @@ Of course, self-paced is a double-edged sword. You need bucketloads of self-moti
 
 Here are some of my Python book faves. I’ve hyperlinked to physical books, but you can find many of these online.
 
-* [Python for Everybody](https://bookshop.org/p/books/python-for-everybody-exploring-data-in-python-3-sue-blumenberg/9738530?ean=9781530051120) - Offers an intro to Informatics-oriented programming using Python. There’s a focus on using Python to solve data analysis problems common in the world of Informatics.
-* [Python Crash Course](https://bookshop.org/p/books/python-crash-course-3rd-edition-eric-matthes/18414234?ean=9781718502703) - A fast-paced and project-based book that covers the fundamentals of Python programming and advanced topics like web development, data visualization, and game development.
-* [Automate the Boring Stuff](https://bookshop.org/p/books/automate-the-boring-stuff-with-python-2nd-edition-practical-programming-for-total-beginners-al-sweigart/7917412) - A book and online course that teaches how to automate tedious tasks using Python.
-* [Learning Python](https://bookshop.org/p/books/learning-python-powerful-object-oriented-programming-mark-lutz/7856741?ean=9781449355739) - A comprehensive book that covers the basics of Python programming, object-oriented programming, and advanced topics like network programming and web services.
-* [Head First Python](https://bookshop.org/p/books/head-first-python-a-brain-friendly-guide-paul-barry/8129967?ean=9781491919538) - A visually engaging book that uses a hands-on approach and real-world examples to teach Python programming concepts.
-* [Learn Python the Hard Way](https://bookshop.org/p/books/learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code-zed-shaw/9460564) - A popular book (that comes with an online course) that takes a project-based approach to teaching Python with a focus on practical programming skills.
+- [Python for Everybody](https://bookshop.org/p/books/python-for-everybody-exploring-data-in-python-3-sue-blumenberg/9738530?ean=9781530051120) - Offers an intro to Informatics-oriented programming using Python. There’s a focus on using Python to solve data analysis problems common in the world of Informatics.
+- [Python Crash Course](https://bookshop.org/p/books/python-crash-course-3rd-edition-eric-matthes/18414234?ean=9781718502703) - A fast-paced and project-based book that covers the fundamentals of Python programming and advanced topics like web development, data visualization, and game development.
+- [Automate the Boring Stuff](https://bookshop.org/p/books/automate-the-boring-stuff-with-python-2nd-edition-practical-programming-for-total-beginners-al-sweigart/7917412) - A book and online course that teaches how to automate tedious tasks using Python.
+- [Learning Python](https://bookshop.org/p/books/learning-python-powerful-object-oriented-programming-mark-lutz/7856741?ean=9781449355739) - A comprehensive book that covers the basics of Python programming, object-oriented programming, and advanced topics like network programming and web services.
+- [Head First Python](https://bookshop.org/p/books/head-first-python-a-brain-friendly-guide-paul-barry/8129967?ean=9781491919538) - A visually engaging book that uses a hands-on approach and real-world examples to teach Python programming concepts.
+- [Learn Python the Hard Way](https://bookshop.org/p/books/learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code-zed-shaw/9460564) - A popular book (that comes with an online course) that takes a project-based approach to teaching Python with a focus on practical programming skills.
 
 ## Online communities
 
@@ -283,10 +284,10 @@ Not a huge amount of structure. These are good in combination with one or more o
 
 ### Best online communities for learning Python
 
-* [Python subreddit](https://www.reddit.com/r/Python/) - A popular online community for Python enthusiasts and learners. Features discussions, Q&A, and news related to Python programming.
-* [Stack Overflow](https://stackoverflow.com/) - An online community for programmers of all levels. Offers a wealth of information and resources on Python programming through questions and answers, tutorials, and forums.
+- [Python subreddit](https://www.reddit.com/r/Python/) - A popular online community for Python enthusiasts and learners. Features discussions, Q&A, and news related to Python programming.
+- [Stack Overflow](https://stackoverflow.com/) - An online community for programmers of all levels. Offers a wealth of information and resources on Python programming through questions and answers, tutorials, and forums.
 
-Discord servers * Online communities hosted on Discord, a communication platform for gamers that are also used by programming communities. Provides a platform for real-time discussions, sharing code, and collaborating with other learners and Python enthusiasts. We’ve got a great one as part of Boot.dev membership.
+Discord servers \* Online communities hosted on Discord, a communication platform for gamers that are also used by programming communities. Provides a platform for real-time discussions, sharing code, and collaborating with other learners and Python enthusiasts. We’ve got a great one as part of Boot.dev membership.
 
 ## Coding challenge platforms
 
@@ -302,10 +303,10 @@ But they may not offer the same depth of content or guidance as other learning r
 
 ### The best coding challenge platforms to test your Python skills online
 
-* [StrataScratch](https://www.stratascratch.com/) - Provides a collection of real-world SQL and Python interview questions for users to practice with.
-* [Kaggle](https://www.kaggle.com/) - Offers a range of Python challenges, including competitions that involve real-world datasets and problems.
-* [HackerRank](https://www.hackerrank.com/) - An online platform for coding tests, offering a range of Python challenges and competitions.
-* [Codewars](https://www.codewars.com/) - A community-driven platform that offers a range of coding challenges, including Python challenges of varying difficulty levels.
+- [StrataScratch](https://www.stratascratch.com/) - Provides a collection of real-world SQL and Python interview questions for users to practice with.
+- [Kaggle](https://www.kaggle.com/) - Offers a range of Python challenges, including competitions that involve real-world datasets and problems.
+- [HackerRank](https://www.hackerrank.com/) - An online platform for coding tests, offering a range of Python challenges and competitions.
+- [Codewars](https://www.codewars.com/) - A community-driven platform that offers a range of coding challenges, including Python challenges of varying difficulty levels.
 
 ## Industry resources
 
@@ -323,18 +324,18 @@ These are designed for people learning Python for Microsoft or Google jobs. Pyth
 
 ### The best online corporate tools to learn Python
 
-[Google’s Python class](https://developers.google.com/edu/python) * A free class for people with some programming experience, including text, videos, and code exercises to learn Python. Google uses this material to teach Python to its employees and recommends some prior programming knowledge.
+[Google’s Python class](https://developers.google.com/edu/python) \* A free class for people with some programming experience, including text, videos, and code exercises to learn Python. Google uses this material to teach Python to its employees and recommends some prior programming knowledge.
 
-[Microsoft’s Python class](https://learn.microsoft.com/en-us/training/modules/intro-to-python/) * They mostly offer videos, but there are some examples and code exercises. This course is meant to be the foundation and – they encourage you to go out and learn on your own when you’re done.
+[Microsoft’s Python class](https://learn.microsoft.com/en-us/training/modules/intro-to-python/) \* They mostly offer videos, but there are some examples and code exercises. This course is meant to be the foundation and – they encourage you to go out and learn on your own when you’re done.
 
 ## Final thoughts on the best places to learn Python
 
 This isn’t intended to be the definitive answer. Think of this more like a signpost. Have a look at these online resources and communities, and decide which one works best for you. Ultimately, it’ll be a combination of:
 
-* Time
-* Money
-* Willpower
-* Interest
-* Learning style
+- Time
+- Money
+- Willpower
+- Interest
+- Learning style
 
 I recommend you try a few of each, and select a combination of resources to learn Python online that works best for you.

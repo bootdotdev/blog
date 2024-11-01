@@ -2,22 +2,22 @@
 title: "Maybe You Do Need Kubernetes"
 author: Lane Wagner
 date: "2024-03-08"
-categories: 
+categories:
   - "education"
 images:
   - /img/800/buildingarobot.png.webp
 ---
 
-Theo has this great video on Kubernetes, currently titled ["You Don't Need Kubernetes"](https://www.youtube.com/watch?v=H5sPGruv2yc). I'm a Kubernetes enjoyer, but I'm not here to argue about that. The part of the video I *do* want to discuss has nothing to do with k8s. It's where Theo draws the "Line of Primeagen".
+Theo has this great video on Kubernetes, currently titled ["You Don't Need Kubernetes"](https://www.youtube.com/watch?v=H5sPGruv2yc). I'm a Kubernetes enjoyer (I even wrote a [course on it](https://www.boot.dev/courses/learn-kubernetes), but I'm not here to argue about that. The part of the video I _do_ want to discuss has nothing to do with k8s. It's where Theo draws the "Line of Primeagen".
 
 He explains that some technologies trade scalability (performance, flexibility, whatever) for speed of development. Deploying Next.js using Vercel and Firebase is quick but it comes at a cost. As you scale up, either by adding users or by adding more complex features, you'll need to do one of two things:
 
-* Rewrite with something more flexible or performant
-* Pay a *lot* of money to a third-party to handle your problems for you
+- Rewrite with something more flexible or performant
+- Pay a _lot_ of money to a third-party to handle your problems for you
 
 So, the idea is that you should choose a fast-to-ship technology so that you can move faster and hire more cheaply.
 
-*...I can ship a Go app to k8s faster than I can get eslint, tsc, and vsc-de to cooperate... but I digress...*
+_...I can ship a Go app to k8s faster than I can get eslint, tsc, and vsc-de to cooperate... but I digress..._
 
 Then you stick with that strategy until you scale up to the "Line of Primeagen":
 
@@ -31,26 +31,26 @@ You gotta hire a Rust Chad and kick those React Andys to the curb. Or something.
 
 Well, nothing really. Theo's correct. If you're a founder, indiehacker, or engineer #1 at a startup, this is exactly how you should be thinking.
 
-The problem is that *you* aren't a founder, an indiehacker, or engineer #1 at a startup. 99% of my readers want to be a great engineer and earn a high salary as employee #2-10000 at a tech company. There's nothing wrong with that, but it means you should think about this stuff differently.
+The problem is that _you_ aren't a founder, an indiehacker, or engineer #1 at a startup. 99% of my readers want to be a great engineer and earn a high salary as employee #2-10000 at a tech company. There's nothing wrong with that, but it means you should think about this stuff differently.
 
-## What should *you* do?
+## What should _you_ do?
 
 When I look at that graph above, I think:
 
-> "How can *I* be the one they throw money at to come in and do the hard things?"
+> "How can _I_ be the one they throw money at to come in and do the hard things?"
 
 In other words:
 
-* When you're making a *business* decision, it's generally good to pick the simplest, fastest, and cheapest option
-* When you're making a *career* decision, it pays to be an expert in hard things
+- When you're making a _business_ decision, it's generally good to pick the simplest, fastest, and cheapest option
+- When you're making a _career_ decision, it pays to be an expert in hard things
 
-To be clear, I'm *not* saying that you should solve simple problems in complicated ways just to inflate your market value. That can have the opposite effect. Bad engineers do that. I'd say:
+To be clear, I'm _not_ saying that you should solve simple problems in complicated ways just to inflate your market value. That can have the opposite effect. Bad engineers do that. I'd say:
 
 > Gain the hard skills required to solve complex problems, but only deploy complex solutions when they're actually needed.
 
 ## Maybe you should learn Kubernetes
 
-People don't like to hear this, but *difficulty is a moat*. When something gets easy, it gets cheap. If you want to be paid a lot, you need to be **really good** at something that's both *in-demand* and *hard*. If it were easy, everyone would be doing it. That's why very few people actually made money dropshipping in 2015 or buying NFTs in 2017. 
+People don't like to hear this, but _difficulty is a moat_. When something gets easy, it gets cheap. If you want to be paid a lot, you need to be **really good** at something that's both _in-demand_ and _hard_. If it were easy, everyone would be doing it. That's why very few people actually made money dropshipping in 2015 or buying NFTs in 2017.
 
 ![making money agen](/img/800/makingmoneyagen.png.webp)
 

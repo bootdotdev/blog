@@ -25,21 +25,21 @@ We spent some time this month working on a new logo. We wanted something that wa
 
 ![boot dev logo](/img/800/bootdevlogofull.png.webp)
 
-### [2. New necromancers on the leaderboard](https://boot.dev/leaderboard)
+### [2. New necromancers on the leaderboard](https://www.boot.dev/leaderboard)
 
 The highest rank in Boot.dev at present is "Archmage" (unlocked at level 100) and the second highest is "Necromancer" (unlocked at level 90).
 
-We purposefully made Archmage practically impossible to reach, but with the new CI/CD course launching next month, I expect we'll have our first Archmage by the end of July. 
+We purposefully made Archmage practically impossible to reach, but with the new CI/CD course launching next month, I expect we'll have our first Archmage by the end of July.
 
-### [3. New videos in the Learn Algorithms course](https://boot.dev/courses/learn-algorithms)
+### [3. New videos in the Learn Algorithms course](https://www.boot.dev/courses/learn-algorithms-python)
 
 I added a few new videos to the Learn Algorithms course, next I want to tackle some of the videos for the Learn Data Structures course! You can find the videos embedded in the course itself, or in the [YouTube playlist](https://www.youtube.com/watch?v=_4DtU2_d7hs&list=PLw1W1TeNPmy7ZReuPutxhhrcfHe5yCdsT).
 
 ## What is yet to come
 
-* CI/CD course launches on July 10th
-* New assignment types for the Learn CI/CD course: "GitHub checks" and "HTTP tests"
-* Challenges and updates to the "Learn JavaScript" course
+- CI/CD course launches on July 10th
+- New assignment types for the Learn CI/CD course: "GitHub checks" and "HTTP tests"
+- Challenges and updates to the "Learn JavaScript" course
 
 ## The cream of the crop
 
@@ -59,13 +59,13 @@ As you might know I'm a VS Code guy, but have always been vim-curious. This was 
 
 This month's episodes include:
 
-* [#007 - Switching from .NET to Go with Bill Kennedy](https://www.backendbanter.fm/episodes/007-switching-from-net-to-go-with-bill-kennedy)
-* [#006 - Building a FAANG Career with Melkey (Senior Go Dev @ Twitch)](https://www.backendbanter.fm/episodes/006-building-a-faang-career-with-melkey-senior-go-dev-twitch)
-* [#005 - Scaling Databases Every Which Way with Glauber Costa](https://www.backendbanter.fm/episodes/005-scaling-databases-every-which-way-with-glauber-costa)
-* [#004 - PHD turned Backend Developer with Simon B](https://www.backendbanter.fm/episodes/004-phd-turned-backend-developer-with-simon-b)
+- [#007 - Switching from .NET to Go with Bill Kennedy](https://www.backendbanter.fm/episodes/007-switching-from-net-to-go-with-bill-kennedy)
+- [#006 - Building a FAANG Career with Melkey (Senior Go Dev @ Twitch)](https://www.backendbanter.fm/episodes/006-building-a-faang-career-with-melkey-senior-go-dev-twitch)
+- [#005 - Scaling Databases Every Which Way with Glauber Costa](https://www.backendbanter.fm/episodes/005-scaling-databases-every-which-way-with-glauber-costa)
+- [#004 - PHD turned Backend Developer with Simon B](https://www.backendbanter.fm/episodes/004-phd-turned-backend-developer-with-simon-b)
 
 Be sure to subscribe to the show on your podcast player of choice! And leave a review if you really want to help us out.
 
 ## Blog posts
 
-* [Awww, Do I Really Need to Learn X to Get a Job as a Developer?](https://blog.boot.dev/education/do-i-really-need-to-learn-x/)
+- [Awww, Do I Really Need to Learn X to Get a Job as a Developer?](https://blog.boot.dev/education/do-i-really-need-to-learn-x/)

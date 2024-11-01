@@ -2,7 +2,7 @@
 title: "What is Cryptography? A Complete Overview"
 author: Lane Wagner
 date: "2021-09-08"
-categories: 
+categories:
   - "cryptography"
 images:
   - /img/800/What-is-cryptography-guide-min.webp
@@ -57,7 +57,7 @@ There are two kinds of authentication typically used in cryptography.
 For a cryptosystem to be considered "secure enough" it needs to go through intense scrutiny by the security community. "Security through obscurity", or the fact that attackers may not have knowledge of your system, is something that should never be relied on. In fact, good systems do expose to attackers how they work. Only the private keys should be kept secret.
 
 > _The enemy knows the system. One ought to design systems under the assumption that the enemy will immediately gain full familiarity with them._
-> 
+>
 > According to [Kerckhoffs's principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)
 
 Always take reasonable steps to protect any keys that your software systems use.
@@ -115,7 +115,7 @@ If I want to receive a message from my wife, I would send her my public key. The
 
 My wife would then use my public key to encrypt a message for me. Now, since I'm the only one that owns the corresponding private key, I'll be able to decrypt that message once I receive it.
 
-Common asymmetric encryption algorithms [ECC](/cryptography/elliptic-curve-cryptography/) and [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)).
+Common asymmetric encryption algorithms [ECC](/cryptography/elliptic-curve-cryptography/) and [RSA](<https://en.wikipedia.org/wiki/RSA_(cryptosystem)>).
 
 <div class="tablewrap">
 
@@ -128,7 +128,7 @@ Common asymmetric encryption algorithms [ECC](/cryptography/elliptic-curve-crypt
 
 </div>
 
-### ****Hash Functions****
+### \***\*Hash Functions\*\***
 
 The third most common type of cryptography involves [hash functions](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/). No key is used in this algorithm. A fixed-length value is calculated from the plaintext, which makes it impossible for the contents of the plaintext to be recovered.
 
@@ -193,8 +193,8 @@ Cryptology is a _very_ young science. Although humans have had rudimentary forms
 - **1918** - [Enigma Machine](https://en.wikipedia.org/wiki/Enigma_machine). The Engima machine was invented by German engineer Arthur Scherbius at the end of World War I and was heavily used by German forces during World War II. The Enigma machine used 3 or more rotors that spin at different speeds as you type on the keyboard and output corresponding letters of the ciphertext. In the case of Enigma, the key was the initial setting of the rotors.
 - **1943** Alan Turing and others on his team at Bletchley Park, complete the "Heath Robinson", a specialized machine for cipher-breaking. This team was also responsible for cracking the Enigma Machine during the second world war.
 - **1948** – Claude Shannon [writes a paper](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) that is responsible for establishing our modern mathematical basis of information theory.
-- **1970** - [Lucifer Cipher](https://en.wikipedia.org/wiki/Lucifer_(cipher)). In the early 1970s, a team from IBM designed a cipher called Lucifer. The Nation Bureau of Standards (now NIST) in the U.S. put out a request for proposals for a block cipher that would become a national standard. Lucifer was eventually accepted and became [DES](https://en.wikipedia.org/wiki/Data_Encryption_Standard) (Data Encryption Standard).
-- **1977** - [RSA public key encryption](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) invented by Ron Rivest, Adi Shamir and Leonard Adleman.
+- **1970** - [Lucifer Cipher](<https://en.wikipedia.org/wiki/Lucifer_(cipher)>). In the early 1970s, a team from IBM designed a cipher called Lucifer. The Nation Bureau of Standards (now NIST) in the U.S. put out a request for proposals for a block cipher that would become a national standard. Lucifer was eventually accepted and became [DES](https://en.wikipedia.org/wiki/Data_Encryption_Standard) (Data Encryption Standard).
+- **1977** - [RSA public key encryption](<https://en.wikipedia.org/wiki/RSA_(cryptosystem)>) invented by Ron Rivest, Adi Shamir and Leonard Adleman.
 - **1991** - Phil Zimmermann releases [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy).
 - **1994** - [Secure Sockets Layer (SSL)](https://en.wikipedia.org/wiki/Secure_Sockets_Layer) encryption protocol released by Netscape, which now secures the majority of the modern web.
 - **1994** – [Peter Shor devises an algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm) which lets quantum computers determine the factorization of large integers quickly.
@@ -205,6 +205,6 @@ Cryptology is a _very_ young science. Although humans have had rudimentary forms
 
 ## For further study
 
-**For beginners:** If you've been inspired to learn cryptography as a beginner to coding and computer science, we have an entire computer science course curriculum to take you from complete beginner to graduate level. As cryptography is a more advanced topic, we suggest you start with our [Learn Python](https://boot.dev/courses/learn-python).
+**For beginners:** If you've been inspired to learn cryptography as a beginner to coding and computer science, we have an entire computer science course curriculum to take you from complete beginner to graduate level. As cryptography is a more advanced topic, we suggest you start with our [Learn Python](https://www.boot.dev/courses/learn-code-python).
 
-**For experienced coders:** We recommend our [Learn Cryptography course](https://boot.dev/courses/learn-cryptography) which covers everything from the basics of encryption and brute force attacks to stream ciphers, block ciphers, and hash functions.
+**For experienced coders:** We recommend our [Learn Cryptography course](https://www.boot.dev/courses/learn-cryptography-golang) which covers everything from the basics of encryption and brute force attacks to stream ciphers, block ciphers, and hash functions.

@@ -30,31 +30,31 @@ Using a terminal is an invaluable skill for any developer, but it's also often o
 
 Your conversations with Boots are now saved, so you can pick them up where you left off or review them later! You can also quickly start a new conversation without needing to refresh the page.
 
-Also, Boots used to only be available on multiple choice lessons *after* completing the assignment, and he wasn't available on all lesson types. We've now made Boots available on all lesson types, and he works the same way in all of them!
+Also, Boots used to only be available on multiple choice lessons _after_ completing the assignment, and he wasn't available on all lesson types. We've now made Boots available on all lesson types, and he works the same way in all of them!
 
 ### 4. Fellowship Achievements
 
-Our [Discord community](https://boot.dev/community) is easily one of our most valuable features for students. We already had amazing senior developers and students in there helping out beginners, but we wanted to reward them for their efforts. We've added a new "Fellowship" achievement type that you can earn by helping out other students in the community.
+Our [Discord community](https://www.boot.dev/community) is easily one of our most valuable features for students. We already had amazing senior developers and students in there helping out beginners, but we wanted to reward them for their efforts. We've added a new "Fellowship" achievement type that you can earn by helping out other students in the community.
 
 ## What is yet to come
 
-* More videos for the new "Shells and Terminals" course
-* More videos for the "Learn to Get a Coding Job" course
-* A global survey for everyone learning to code
-* Challenges and reworking of the "Learn JavaScript" course
-* More lore
-* Boss battles (I'll say no more at this time)
-* Course on memory management
-* Course on Git
+- More videos for the new "Shells and Terminals" course
+- More videos for the "Learn to Get a Coding Job" course
+- A global survey for everyone learning to code
+- Challenges and reworking of the "Learn JavaScript" course
+- More lore
+- Boss battles (I'll say no more at this time)
+- Course on memory management
+- Course on Git
 
 ## Backend Banter Podcast
 
 This month's episodes include:
 
-* [#038 - I Got Caught Rolling my Own Auth... feat. Dev Agrawal](https://www.backendbanter.fm/episodes/039-auth-with-dev-agrawal)
-* [#037 - Caddy Chronicles with Matt Holt](https://www.backendbanter.fm/episodes/caddy-chronicles-with-matt-holt)
-* [#036 - BadCop's Bash Breakdown](https://www.backendbanter.fm/episodes/ep-36)
-* [#035 - Discussing Roc and functional systems with Richard Fieldman](https://www.backendbanter.fm/episodes/035-discussing-roc-and-functional-systems-with-richard-fieldman)
+- [#038 - I Got Caught Rolling my Own Auth... feat. Dev Agrawal](https://www.backendbanter.fm/episodes/039-auth-with-dev-agrawal)
+- [#037 - Caddy Chronicles with Matt Holt](https://www.backendbanter.fm/episodes/caddy-chronicles-with-matt-holt)
+- [#036 - BadCop's Bash Breakdown](https://www.backendbanter.fm/episodes/ep-36)
+- [#035 - Discussing Roc and functional systems with Richard Fieldman](https://www.backendbanter.fm/episodes/035-discussing-roc-and-functional-systems-with-richard-fieldman)
 
 If you haven't yet, subscribe on YouTube, Spotify, or Apple Podcasts! If you leave a rating and a review, I'll love you forever.
 

@@ -8,7 +8,7 @@ images:
   - /img/800/history.jpeg
 ---
 
-When we first launched the [boot.dev's single-page-app](https://boot.dev/), we were using [Vue Router's](https://router.vuejs.org/) default hash routing. Hash routing looks ugly to the end-user, and when you want to be able to share parts of your app via direct link those hashes can get really annoying.
+When we first launched the [boot.dev's single-page-app](https://www.boot.dev/), we were using [Vue Router's](https://router.vuejs.org/) default hash routing. Hash routing looks ugly to the end-user, and when you want to be able to share parts of your app via direct link those hashes can get really annoying.
 
 We have since moved to the newer [HTML5 History Mode](https://router.vuejs.org/guide/essentials/history-mode.html) which doesn't have that obnoxious hash in the route. We had a bit of trouble coming up with a clean way to redirect those old hash routes to the new ones, however, so now that we've solved it we will share our findings.
 
@@ -95,7 +95,7 @@ export default router;
 
 Our goal is to redirect all of our old hash based (#) routes to the new non-hash versions. For example:
 
-[boot.dev/#/playground/go](https://boot.dev/playground/go) --> [boot.dev/playground/go](https://boot.dev/playground/go)
+[boot.dev/#/playground/go](https://www.boot.dev/playground/go) --> [boot.dev/playground/go](https://www.boot.dev/playground/go)
 
 All we do is add the following to our router:
 

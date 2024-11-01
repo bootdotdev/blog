@@ -2,7 +2,7 @@
 title: "9 Months with GPT-4: Can I Fire my Developers Yet?"
 author: Lane Wagner
 date: "2023-12-03"
-categories: 
+categories:
   - "computer-science"
 images:
   - /img/800/golemai.png.webp
@@ -16,19 +16,19 @@ I'm often asked about the future of AI-assisted programming, and while the short
 
 ## First, let's understand the state of the world
 
-GPT-4 is, as I write this, the most advanced general-purpose [LLM](https://en.wikipedia.org/wiki/Large_language_model) (large language model) on the market. It's important to understand that there is a big difference between a product that *uses* a model, and the model itself. For example:
+GPT-4 is, as I write this, the most advanced general-purpose [LLM](https://en.wikipedia.org/wiki/Large_language_model) (large language model) on the market. It's important to understand that there is a big difference between a product that _uses_ a model, and the model itself. For example:
 
-* ChatGPT is a web app that uses the GPT-3.5 and GPT-4 models
-* Boot.dev's "[Boots](/wiki/boots)" is an AI-powered teaching assistant that uses GPT-4
-* GitHub Copilot is a VSCode plugin that uses (a modified version?) of GPT-4
+- ChatGPT is a web app that uses the GPT-3.5 and GPT-4 models
+- Boot.dev's "[Boots](/wiki/boots)" is an AI-powered teaching assistant that uses GPT-4
+- GitHub Copilot is a VSCode plugin that uses (a modified version?) of GPT-4
 
-There is a *really big* difference between the GPT-3.5 and GPT-4 models. GPT-4 has about **10x** more parameters than GPT-3.5 and is trained on a much larger dataset. "Number of parameters" is confusing jargon, but to oversimplify, it's just the number of decision-making levers the model has fine-tuned throughout its training. To get hand-wavy about it, the more parameters a model has, the more sophisticated its understanding of the world can be.
+There is a _really big_ difference between the GPT-3.5 and GPT-4 models. GPT-4 has about **10x** more parameters than GPT-3.5 and is trained on a much larger dataset. "Number of parameters" is confusing jargon, but to oversimplify, it's just the number of decision-making levers the model has fine-tuned throughout its training. To get hand-wavy about it, the more parameters a model has, the more sophisticated its understanding of the world can be.
 
 It's worth understanding the difference between GPT-3.5 and GPT-4 because I've heard several people say, "meh, ChatGPT is not that great", only to find out they had only tried GPT-3.5. ChatGPT is not a model, it's a web app. GPT-4 is the model that was released this year that has everyone's heads turning, so make sure you're using the right one when you're evaluating it.
 
 ## Will AI eventually do all of our knowledge work?
 
-Probably. If I zoom out to first principles, I don't see any reason why it wouldn't, but the key phrase is "eventually". Saying "the market will crash" is almost certainly true, but it's not very useful. The question is *when*. You can only profit as an investor if you can predict with some accuracy *when* a market will crash.
+Probably. If I zoom out to first principles, I don't see any reason why it wouldn't, but the key phrase is "eventually". Saying "the market will crash" is almost certainly true, but it's not very useful. The question is _when_. You can only profit as an investor if you can predict with some accuracy _when_ a market will crash.
 
 The big problem is that it seems unclear whether improvements in the effectiveness of LLMs will have compounding, linear, or diminishing returns.
 
@@ -46,12 +46,12 @@ What seems more likely to me is that LLMs turn out to have linear or diminishing
 
 I've been aggressively using and testing GPT-4 ever since it was released. I run a business where nearly all our costs fall into two categories of human labor:
 
-* Writing educational content
-* Writing software that makes the aforementioned content fun and interactive
+- Writing educational content
+- Writing software that makes the aforementioned content fun and interactive
 
 As it so happens, generating text and code are the two things that GPT-4 is best at, so if I can increase my efficiency in those two areas, I can dramatically increase my profit margins. I'm highly incentivized to care.
 
-So, let's talk about **firing Allan**, my most tenured full-time employee. 
+So, let's talk about **firing Allan**, my most tenured full-time employee.
 
 Everyone at Boot.dev has Copilot and GPT-4 access. I figure if it makes us just 5% more effective, it pays for itself. I polled my coworkers, and we estimate that ChatGPT and Copilot make us about 20-30% more effective with our work. Certainly enough to pay for itself, but not enough to drastically disrupt our operations.
 
@@ -59,13 +59,13 @@ But for the sake of argument, let's pretend that GPT-4 made us 400% more effecti
 
 **This is smol-brain business logic.**
 
-I have an *incredible number* of technical projects that, upon completion, will add immense value to my business. Ambitious new features, tons of content to write, major refactors and migrations, and annoying bugs that at present are sitting *way back* on the back burner. It's all about balancing ROI at companies, and the companies that can effectively reinvest in growth outpace the ones that don't. If the costs of projects come down, then their ROI (return on investment) goes up.
+I have an _incredible number_ of technical projects that, upon completion, will add immense value to my business. Ambitious new features, tons of content to write, major refactors and migrations, and annoying bugs that at present are sitting _way back_ on the back burner. It's all about balancing ROI at companies, and the companies that can effectively reinvest in growth outpace the ones that don't. If the costs of projects come down, then their ROI (return on investment) goes up.
 
-If a new feature will generate $100,000 in revenue, but will cost $100,000 to build, then the ROI is 0, and I won't build it. However, if the cost of the feature comes down to $50,000, I stand to earn $50,000 in profit by shipping it. If I can get 400% more work out of each dev I hire, I'd hire *more* devs, not *fewer*. I'd be able to tackle more projects, and I'd be able to tackle them faster.
+If a new feature will generate $100,000 in revenue, but will cost $100,000 to build, then the ROI is 0, and I won't build it. However, if the cost of the feature comes down to $50,000, I stand to earn $50,000 in profit by shipping it. If I can get 400% more work out of each dev I hire, I'd hire _more_ devs, not _fewer_. I'd be able to tackle more projects, and I'd be able to tackle them faster.
 
 Caveat: There are cases where it makes sense for a company to layoff excess workers as the remaining employees become more efficient. This is mostly likely to happen in companies where developers are a cost center, not a profit center. If a company sells software (think Stripe), developers are part of the profit center. If you're a company that writes internal software to make operations more efficient (think Walmart), developers are a cost center.
 
-*It's usually best to work in profit centers, not cost centers.*
+_It's usually best to work in profit centers, not cost centers._
 
 ## But you won't need developers, just product managers
 
@@ -77,7 +77,7 @@ Some people are thinking that LLMs are the great equalizer. You won't need to kn
 
 We have experience with this already! In the early 2000s, if you wanted to sell stuff online, you had to hire a developer to build you a custom e-commerce site. They had to build shopping carts, checkout, coupon codes, billing, and inventory management, all from scratch. Today, if you're doing something common, like e-commerce or blogging, you don't need to hire a developer, you just use off-the-shelf software like Shopify or WordPress.
 
-*Automating tedious tasks is the soul of software development.* If we're not automating away the boring stuff so that we can go build newer, cooler stuff, why even call ourselves engineers? We're just code monkeys endlessly migrating the same stupid web app from one JavaScript framework to the Next.
+_Automating tedious tasks is the soul of software development._ If we're not automating away the boring stuff so that we can go build newer, cooler stuff, why even call ourselves engineers? We're just code monkeys endlessly migrating the same stupid web app from one JavaScript framework to the Next.
 
 Despite the proliferation of low-code tools over the last 20 years, the demand for developers has only exploded over the same period. Why? Because even though we automate vast swaths of common functionality, companies are constantly looking to get an edge, either by building internal tools to increase their own efficiency; or by building novel software products that they can sell to others who want that same edge.
 
@@ -87,7 +87,7 @@ All this to say, I think the impact of LLMs on "how much you need to know to shi
 
 I have a great administrative assistant. For the sake of the story let's just call him "Winston", mostly because that's the name his mother gave him at birth.
 
-The blog you're reading right now is a static site generated with Hugo. Blog posts are written in Markdown, and Git is our CMS (content management system). Winston takes care of a lot of the non-technical operations tasks here at Boot.dev. He hasn't done much coding in the past (though he's now learning on Boot.dev). Before ChatGPT I would have had to provide pages of documentation to him on how to use VS Code, edit markdown, commit to Git, and open pull requests for him to be able to make small content changes to the blog.
+The blog you're reading right now is a static site generated with Hugo. Blog posts are written in Markdown, and [Git](https://www.boot.dev/courses/learn-git) is our CMS (content management system). Winston takes care of a lot of the non-technical operations tasks here at Boot.dev. He hasn't done much coding in the past (though he's now learning on Boot.dev). Before ChatGPT I would have had to provide pages of documentation to him on how to use VS Code, edit markdown, commit to Git, and open pull requests for him to be able to make small content changes to the blog.
 
 I've given him access to GPT-4, and, yes, it takes him longer than it would take a tenured developer, but Winston walked himself through the process of editing markdown and making PRs without any help from me.
 
@@ -99,15 +99,15 @@ Some folks have hypothesized:
 
 > In the movies, when the AI takes over, it's not generating Python code. Humans tell the AI what to do, and the AI just does it, probably by JIT compiling some assembly code or something.
 
-That kind of AI might exist in the *far distant* future, but I doubt it's anywhere close. Even if the AI were 100% accurate at producing working executables, I don't trust *humans* to give the AI good instructions. Communicating with humans is *really hard*, even if you're a super-intelligent AI.
+That kind of AI might exist in the _far distant_ future, but I doubt it's anywhere close. Even if the AI were 100% accurate at producing working executables, I don't trust _humans_ to give the AI good instructions. Communicating with humans is _really hard_, even if you're a super-intelligent AI.
 
 ![tire swing project management meme 1](/img/800/tireswing1.png.webp)
 
 ![tire swing project management meme 2](/img/800/tireswing2.png.webp)
 
-My hot take? *Code is a better way to model software systems than natural language.*
+My hot take? _Code is a better way to model software systems than natural language._
 
-When things go wrong, we need some sort of inspectable instruction set that we can debug and fix. You thought JavaScript was a bad programming language? Try English. I'm a native speaker, I studied this clusterf**k of a language for 12 years, and I still don't understand why we have 6 different pronunciations for "ough". For the curious:
+When things go wrong, we need some sort of inspectable instruction set that we can debug and fix. You thought JavaScript was a bad programming language? Try English. I'm a native speaker, I studied this clusterf\*\*k of a language for 12 years, and I still don't understand why we have 6 different pronunciations for "ough". For the curious:
 
 1. "though" (like "snow")
 2. "rough" (like "tough")
@@ -116,7 +116,7 @@ When things go wrong, we need some sort of inspectable instruction set that we c
 5. "bough" (like "cow")
 6. "cough" (like "off")
 
-All this to say, once you know how to code, it's *much* easier to write code that describes a program than it is to write English that describes a program. Here's a Fibonacci calculation in Python:
+All this to say, once you know how to code, it's _much_ easier to write code that describes a program than it is to write English that describes a program. Here's a Fibonacci calculation in Python:
 
 ```py
 def fib(n):
@@ -129,8 +129,8 @@ And here it is in English:
 
 > To calculate the nth Fibonacci number, check if n is less than 2. If it is, then n is the nth Fibonacci number. Otherwise, it's the sum of the Fibonacci numbers of n minus 1 and n minus 2, which can be calculated recursively.
 
-Lawyers are paid a lot of money to write contracts in natural language. Why? Because it's *really hard* to write natural language that describes a contract. It's actually *easier* and *simpler* to use a language that's more explicit and less ambiguous. (Off-topic: can someone design a DSL for law?)
+Lawyers are paid a lot of money to write contracts in natural language. Why? Because it's _really hard_ to write natural language that describes a contract. It's actually _easier_ and _simpler_ to use a language that's more explicit and less ambiguous. (Off-topic: can someone design a DSL for law?)
 
 So, even if in 5-10 years we're doing "conversational programming" with GPT-4, I think that code will still be the output of the conversation, and developers, along with their "arcane" knowledge of programming languages will be the ones having the conversations.
 
-*Note: I publish programming courses for a living. If you want an unbiased opinion stop listening to me.*
+_Note: I publish programming courses for a living. If you want an unbiased opinion stop listening to me._

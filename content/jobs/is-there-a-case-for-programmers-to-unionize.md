@@ -8,7 +8,7 @@ images:
   - /img/800/worker-union.webp
 ---
 
-I've seen a lot of buzz recently about software developers wanting to form unions. I'm particularly interested in this topic while I'm #indiehacking [boot.dev, where my goal is to provide a free-to-audit university-quality CS education](https://boot.dev/). I also want to point out that at the time of writing I'm a full-time software developer working for a separate company (not boot.dev). I'm not a manager and boot.dev is just a side-project. As of right now, I'm pretty sure I'm a member of the proletariat.
+I've seen a lot of buzz recently about software developers wanting to form unions. I'm particularly interested in this topic while I'm #indiehacking [boot.dev, where my goal is to provide a free-to-audit university-quality CS education](https://www.boot.dev/). I also want to point out that at the time of writing I'm a full-time software developer working for a separate company (not boot.dev). I'm not a manager and boot.dev is just a side-project. As of right now, I'm pretty sure I'm a member of the proletariat.
 
 As I lay out my current thoughts on unions, I want to point out that I'm trying to keep an open mind about this subject as the experiences I've had in the job market don't reflect the experiences of the average developer. Also being based in the USA will mean I have a different perspective than those in other locations. Feel free to [reach out on Twitter](https://twitter.com/wagslane) to share your thoughts with me, especially if you think I'm missing something.
 

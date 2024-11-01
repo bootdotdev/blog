@@ -2,7 +2,7 @@
 title: "The Best Backend for Vue: 6 Options"
 author: Natalie Schooner
 date: "2023-07-11"
-categories: 
+categories:
   - "backend"
 images:
   - /img/800/wagslane_6_swords_in_a_circle_each_sword_a_different_element_4k_d39f4f5e-64f2-49e2-ac38-62b48625e8fe.png.webp
@@ -14,14 +14,14 @@ Part of being in the software development space means I’m near a lot of entrep
 
 For example, I recently grabbed lunch with my friend Alex, who was extolling the virtues of Vue to me. She’d designed a fun social media app designed to get the dog walkers of her neighborhood together. But she was stuck on picking the right backend technologies. Should she go with Node.js to keep everything consistent? Maybe. But she had a history working with Python – so maybe Django was a better choice.
 
-We talked it over for a while until she landed on Django, simply because she’s a Pythonista at heart and enjoys the language. But that choice was specific to *her* situation. For other folks, the best backend language for Vue might be Go, Ruby on Rails, PHP's Laravel, or something else entirely. My hope is that by the end of this article, you’ll know what the best backend for Vue for you is.
+We talked it over for a while until she landed on Django, simply because she’s a Pythonista at heart and enjoys the language. But that choice was specific to _her_ situation. For other folks, the best backend language for Vue might be Go, Ruby on Rails, PHP's Laravel, or something else entirely. My hope is that by the end of this article, you’ll know what the best backend for Vue for you is.
 
 In this article, I’ll give you:
 
-* Some interesting background about Vue
-* Some considerations to keep in mind for choosing the right backend for a Vue app
-* A note on decoupled architectures and why that matters
-* Six backend options to consider
+- Some interesting background about Vue
+- Some considerations to keep in mind for choosing the right backend for a Vue app
+- A note on decoupled architectures and why that matters
+- Six backend options to consider
 
 Let’s start.
 
@@ -31,7 +31,7 @@ Let’s start.
 
 Vue.js is a progressive JavaScript framework that is mostly used for building interactive and dynamic user interfaces, hence Alex’s fun dog-walking app. It's a frontend framework because it focuses on the client-side of the stack.
 
-People like Alex love Vue because it’s **so simple and easy to use**. Unlike some other frontend frameworks (*cough* React *cough*), Vue has a gentle learning curve, making it a popular choice for beginners and developers who want to quickly build user interfaces.
+People like Alex love Vue because it’s **so simple and easy to use**. Unlike some other frontend frameworks (_cough_ React _cough_), Vue has a gentle learning curve, making it a popular choice for beginners and developers who want to quickly build user interfaces.
 
 **Vue uses a component-based architecture –** this means you can break down your application into reusable and self-contained components, instead of writing all the code for the entire application in a single file. This modular approach promotes code reusability and maintainability.
 
@@ -39,9 +39,9 @@ Now let’s look at what you need to know when you choose a Vue backend.
 
 ### Factors we’re looking at:
 
-* **Familiarity and skillset.** If you want to spin up something quickly, go for whatever you already know or are using. But if you want to bulk up your knowledge? This is an opportunity to learn something new and expand your skills.
-* **Technical constraints.** Will your project need to be highly scalable? What security needs do you have? Real-time updates? Data complexity? Some projects may require more advanced backend features, while others may have simpler needs.
-* **Ecosystem and existing support.** Quick rule of thumb: check how active the subreddit is. You want a backend option that has a thriving, active, and generous community. You also want lots of documentation and libraries to try out for when things go wrong.
+- **Familiarity and skillset.** If you want to spin up something quickly, go for whatever you already know or are using. But if you want to bulk up your knowledge? This is an opportunity to learn something new and expand your skills.
+- **Technical constraints.** Will your project need to be highly scalable? What security needs do you have? Real-time updates? Data complexity? Some projects may require more advanced backend features, while others may have simpler needs.
+- **Ecosystem and existing support.** Quick rule of thumb: check how active the subreddit is. You want a backend option that has a thriving, active, and generous community. You also want lots of documentation and libraries to try out for when things go wrong.
 
 ### Decoupled architecture
 
@@ -49,7 +49,7 @@ I’ve talked a bit about decoupled architecture in our blog post about the [bes
 
 > "Decoupled architecture is when you separate the frontend and backend of your application, allowing them to function independently while communicating through APIs."
 
-As you might know already if you follow this blog, [Boot.dev’s](https://boot.dev) architecture is decoupled. The SPA (frontend) is served from the domain "boot.dev" while the API (backend) is served from a separate subdomain, "api.boot.dev".
+As you might know already if you follow this blog, [Boot.dev’s](https://www.boot.dev) architecture is decoupled. The SPA (frontend) is served from the domain "boot.dev" while the API (backend) is served from a separate subdomain, "api.boot.dev".
 
 I’ve also discussed the [pros](/backend/backend-for-react/#benefits-to-decoupling) and [cons](/backend/backend-for-react/#downsides-to-decoupled-architecture) of decoupling in that blog post, so I’ll summarize them briefly here:
 
@@ -80,7 +80,7 @@ Ah, Go. A Boot.dev favorite. We love Golang for too many reasons to count. You c
 
 But what is it, and why do we love it? Go, or Golang, is an open-source, statically typed, compiled language developed by Google. It’s known for its simplicity, efficiency, and its ability to handle concurrent operations thanks to its unique [goroutines](https://go.dev/tour/concurrency/1).
 
-> If you’d like to learn Go for backend development, check out our [full Golang course here](https://boot.dev/courses/learn-golang).
+> If you’d like to learn Go for backend development, check out our [full Golang course here](https://www.boot.dev/courses/learn-golang).
 
 Go is an excellent choice for creating highly performant backend systems. Why do I recommend it? Honestly, a lot of it comes down to **personal preference**. But there are objective reasons, too.
 
@@ -90,7 +90,7 @@ Aside from that, they’re a great match. Go+Vue both **perform well** and **let
 
 Basically, if you’re building an application that requires **high-performance and efficient resource utilization**, Go can be a great fit. Not for Alex’s dog-walking app necessarily, which is probably on the simpler side, but for more ambitious projects, they work great together.
 
-### When should I pick Go as a backend? 
+### When should I pick Go as a backend?
 
 A great example of showcasing Go’s strengths as the best backend for Vue is using it for a real-time analytics dashboard. Go's **efficiency, low memory footprint, and excellent performance under high load** make it a solid choice for computational and data-intensive tasks you handle in real-time analytics.
 
@@ -104,7 +104,7 @@ People love it for its robustness, scalability, and extensive ecosystem. Persona
 
 Java is a great choice as a Vue backend thanks to its excellent interoperability with JavaScript through frameworks like Nashorn and GraalVM, allowing seamless integration with Vue.js on the frontend.
 
-### When should I pick Java as a backend for Vue? 
+### When should I pick Java as a backend for Vue?
 
 For example, I’d recommend it when you are working on an **enterprise-level application** that requires high performance, scalability, and robustness. Java can handle complex business logic like no other, and its support for large-scale systems makes it an excellent choice for these kinds of projects.
 
@@ -128,9 +128,9 @@ Node.js is also great at handling real-time communication and scalability, makin
 
 Sure, let’s compare it to GraphQL on the Node.js server side.
 
-* GraphQL has a **different approach to API design**. Instead of Express.js’s RESTful API design, GraphQL allows clients to request specific data fields and shape the response according to their needs, reducing over-fetching or under-fetching of data.
-* **Backend flexibility**. Where Express.js gives you fine-grained control over the backend architecture, GraphQL's type system and introspection capabilities make it easier to explore the API and enable clients to query data with a self-documenting nature.
-* **Popularity and learning curve**. GraphQL is very much an up-and-comer, and has not been around as long as Express.js. For newer developers, it may be easier to stick with Express’s RESTful API model.
+- GraphQL has a **different approach to API design**. Instead of Express.js’s RESTful API design, GraphQL allows clients to request specific data fields and shape the response according to their needs, reducing over-fetching or under-fetching of data.
+- **Backend flexibility**. Where Express.js gives you fine-grained control over the backend architecture, GraphQL's type system and introspection capabilities make it easier to explore the API and enable clients to query data with a self-documenting nature.
+- **Popularity and learning curve**. GraphQL is very much an up-and-comer, and has not been around as long as Express.js. For newer developers, it may be easier to stick with Express’s RESTful API model.
 
 This should give you an idea of Express.js’s strengths and weaknesses. Ultimately, the choice between them depends on factors such as the complexity of data relationships, efficiency requirements, client preferences, and the development team's expertise.
 
@@ -160,9 +160,9 @@ First of all, if you haven't seen Quentin Tarantino's Django Unchained, stop rea
 
 OK, got that out of my system. Back to business. Django is a high-level Python web framework known for its "batteries-included" approach, providing a robust set of tools and functionalities for web development.
 
-Now, we at Boot.dev have some, ahem, controversial thoughts on "batteries included" tools. Basically, we think it’s so important to [understand the fundamentals](/backend/dont-start-with-frameworks/) of the tools you use, instead of blindly relying on them. That way, when they break, you can fix them. That doesn’t mean you shouldn’t *use* them, just that you should *understand* them.
+Now, we at Boot.dev have some, ahem, controversial thoughts on "batteries included" tools. Basically, we think it’s so important to [understand the fundamentals](/backend/dont-start-with-frameworks/) of the tools you use, instead of blindly relying on them. That way, when they break, you can fix them. That doesn’t mean you shouldn’t _use_ them, just that you should _understand_ them.
 
-To that end, if you’re interested in learning Python for backend development, you can check out our [full Python course here](https://boot.dev/courses/learn-python).
+To that end, if you’re interested in learning Python for backend development, you can check out our [full Python course here](https://www.boot.dev/courses/learn-code-python).
 
 Why do I recommend Django as the best backend for Vue? It has a lot of parallels with Ruby on Rails, but for Pythonistas rather than Javascripters. Like RoR, it follows similar **conventions**, like the MVC architectural pattern. It also has **an active community and rich library**. Finally, it’s just as well-suited for **building APIs and delivering JSON responses**, which can be seamlessly integrated with Vue.js on the frontend.
 
@@ -190,4 +190,4 @@ With Laravel's **resourceful routing and controller scaffolding**, you can gener
 
 These kinds of blog posts are always fun to write because there’s rarely a definitive answer. Hopefully, after reading these options for the best backend for Vue, one specific option is calling to you. Maybe you love Python, so Django’s a natural choice. Maybe you’re ready to take a step upw ith your developer skills, so you choose Go. Maybe you like the natural fit of Laravel and Vue, so that’s your pick.
 
-Ultimately, there’s no right or wrong answer. There’s just the best choice for *you*, your project, and your experience level. These six options just provide a starting point to think about what you need for your own Vue backend.
+Ultimately, there’s no right or wrong answer. There’s just the best choice for _you_, your project, and your experience level. These six options just provide a starting point to think about what you need for your own Vue backend.

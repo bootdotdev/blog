@@ -2,20 +2,20 @@
 title: "Our Learn Python Course Has Released"
 author: Lane Wagner
 date: "2021-07-27"
-categories: 
+categories:
   - "news"
   - "python"
 ---
 
-We've just launched our latest course, [Learn Python](https://boot.dev/courses/learn-python).
+We've just launched our latest course, [Learn Python](https://www.boot.dev/courses/learn-code-python).
 
-[Start the "Learn Python" Course Now](https://boot.dev/dashboard/courses)
+[Start the "Learn Python" Course Now](https://www.boot.dev/courses/learn-code-python)
 
 **What's more:** to celebrate the release, we're offering full FREE access to the entire course — yep, you can take the entire course for free for a month — but the code expires in just 14 days. Simply enter this code at checkout:
 
 YAYPYTHON
 
-Featuring more than 65 interactive, code-in-your-browser lessons across six modules, this course is perfect for new-to-beginner students who have completed our [Intro To Coding with JavaScript Courses](https://boot.dev/courses/learn-javascript) and picked up the basics of a trickier language by taking [Learn Go 1](https://boot.dev/courses/learn-golang).
+Featuring more than 65 interactive, code-in-your-browser lessons across six modules, this course is perfect for new-to-beginner students who have completed our [Intro To Coding with JavaScript Courses](https://www.boot.dev/courses/learn-javascript) and picked up the basics of a trickier language by taking [Learn Go](https://www.boot.dev/courses/learn-golang).
 
 View our [full course curriculum here](https://github.com/bootdotdev/curriculum)
 
@@ -30,7 +30,7 @@ Our Learn Python course features six modules covering:
 5. **Functions**
 6. **Dictionaries and sets**
 
-Completing all six modules will bring you up to an intermediate level, putting you in great position to complete our more advanced Python courses, including our [Data Structures](https://boot.dev/courses/learn-data-structures) and [Advanced Algorithms](https://boot.dev/courses/learn-advanced-algorithms) courses.
+Completing all six modules will bring you up to an intermediate level, putting you in great position to complete our more advanced Python courses, including our [Data Structures](https://www.boot.dev/courses/learn-data-structures-python) and [Advanced Algorithms](https://www.boot.dev/courses/learn-algorithms-2-python) courses.
 
 ## Why Python?
 
@@ -42,7 +42,7 @@ Python reads closer to standard English than almost any other language, is simpl
 
 At boot.dev we're focused on one thing: [teaching computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/).
 
-Following our "learning by doing" philosophy, we design our courses to be as interactive as possible, cementing learning and helping you to actively code along to challenges, lessons, and answer multiple-choice questions. 
+Following our "learning by doing" philosophy, we design our courses to be as interactive as possible, cementing learning and helping you to actively code along to challenges, lessons, and answer multiple-choice questions.
 
 And having been on the other side in the recruitment game, we understand how employers think, and what they're looking for.
 

@@ -23,33 +23,33 @@ All the best, Lane
 
 Backend Banter is our brand new podcast about backend technologies and careers! We've released 3 episodes so far, and we're releasing a new one every Monday. You can watch to the video version on [YouTube](https://www.youtube.com/playlist?list=PLw1W1TeNPmy6_qwxibW_51XhkuYYRBDLK) or subscribe on your [favorite podcast player](https://www.backendbanter.fm).
 
-Don't miss it, we have some *amazing* guests lined up. This is the place to get backend career advice from the best in the industry.
+Don't miss it, we have some _amazing_ guests lined up. This is the place to get backend career advice from the best in the industry.
 
-### [2. Challenges for "Learn Algorithms" and "Learn Data Structures"](https://boot.dev/courses/learn-algorithms)
+### [2. Challenges for "Learn Algorithms" and "Learn Data Structures"](https://www.boot.dev/courses/learn-algorithms-python)
 
 Optional challenges at the end of each chapter continue to be a popular request, and we now have them for the first 4 courses in the learning path:
 
-* [Learn Python](https://boot.dev/courses/learn-python)
-* [Learn OOP](https://boot.dev/courses/learn-object-oriented-programming)
-* [Learn Algorithms](https://boot.dev/courses/learn-algorithms)
-* [Learn Data Structures](https://boot.dev/courses/learn-data-structures)
+- [Learn Python](https://www.boot.dev/courses/learn-code-python)
+- [Learn OOP](https://www.boot.dev/courses/build-asteroids-python)
+- [Learn Algorithms](https://www.boot.dev/courses/learn-algorithms-python)
+- [Learn Data Structures](https://www.boot.dev/courses/learn-data-structures-python)
 
-### [3. Karma updates in the Discord Community](https://boot.dev/community)
+### [3. Karma updates in the Discord Community](https://www.boot.dev/community)
 
 Allan made some significant updates to the "Boots" bot in the Discord. Not only does he have much more personality now, but the way karma is awarded for helping others has been updated and is much more transparent.
 
-### [4. Daily Quests](https://boot.dev/questboard)
+### 4. Daily Quests
 
-Alongside your weekly quest, you can now also accept a *daily* quest!
+Alongside your weekly quest, you can now also accept a _daily_ quest!
 
 Daily quests are smaller, more bite-sized tasks that you can complete in a single day. They earn you XP instead of gems, so completing your dailies will actually help you in your progress toward your weekly quest.
 
 ## What is yet to come
 
-* A new CI/CD course is planned to be released in June
-* Challenges and updates to the "Learn JavaScript" course
-* A new backend banter pod every week on Monday
-* More explanatory videos in the DSA courses
+- A [new CI/CD course](https://www.boot.dev/courses/learn-ci-cd-github-docker) is planned to be released in June
+- Challenges and updates to the "Learn JavaScript" course
+- A new backend banter pod every week on Monday
+- More explanatory videos in the DSA courses
 
 ## The cream of the crop
 

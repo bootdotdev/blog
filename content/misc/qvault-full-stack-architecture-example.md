@@ -2,7 +2,7 @@
 title: "An Overview of Boot.dev's Full-Stack Architecture"
 author: Lane Wagner
 date: "2022-01-10"
-categories: 
+categories:
   - "misc"
 images:
   - /img/800/qvault-architecture-2.webp
@@ -12,10 +12,10 @@ Because I've had several inquiries on this topic, I thought it would be interest
 
 ## The blog - WordPress
 
-boot.dev started as a simple tech blog, it was essentially just my personal blogging site. Eventually, when I added the app to host interactive coding courses, I deployed it to [https://boot.dev](https://boot.dev). So, there are technically two different "front-ends" on boot.dev.
+boot.dev started as a simple tech blog, it was essentially just my personal blogging site. Eventually, when I added the app to host interactive coding courses, I deployed it to [https://www.boot.dev](https://www.boot.dev). So, there are technically two different "front-ends" on boot.dev.
 
-1. The blog and landing pages (WordPress) - [https://boot.dev/](https://boot.dev/)
-2. The courses and projects (a custom Vue.js web app) - [https://boot.dev/](https://boot.dev/)
+1. The blog and landing pages (WordPress) - [https://www.boot.dev/](https://www.boot.dev/)
+2. The courses and projects (a custom Vue.js web app) - [https://www.boot.dev/](https://www.boot.dev/)
 
 I use a custom deployment of [WordPress](https://wordpress.org/download/) hosted on [GCP's compute engine](https://cloud.google.com/compute) to serve all my blog posts and landing pages. This has been convenient because I don't need to edit code to update simple visuals. That said, it's also been a giant page in the butt as the site has grown, because sometimes it would be easier to just write some code. I'm looking at moving the blog to [Hugo](https://gohugo.io/) and hosting it on [Netlify](https://www.netlify.com/).
 
@@ -57,7 +57,7 @@ I really like [PostgresQL](https://www.postgresql.org/). I'm of the opinion that
 
 ## Payments - Stripe
 
-Not too much to say about Stripe, other than it makes payments pretty seamless for our [pro accounts](https://boot.dev/pricing). My biggest complaint about Stripe is that I had to write an annoying about of code for the "lifetime subscription" option because Stripe doesn't have that built-in.
+Not too much to say about Stripe, other than it makes payments pretty seamless for our [pro accounts](https://www.boot.dev/pricing). My biggest complaint about Stripe is that I had to write an annoying about of code for the "lifetime subscription" option because Stripe doesn't have that built-in.
 
 ## Deployments and source control - GitHub/GitHub Actions
 

@@ -2,15 +2,13 @@
 title: "How to Round a Float in Go"
 author: Lane Wagner
 date: "2022-11-13"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/round-thing.png.webp
 imageAlts:
   - "Generated with Stable Diffusion. Prompt: 'large round thing, dark, 4k, fantasy'"
 ---
-
-## Round float and format to string
 
 If you're rounding a floating point number in Go, it's most likely you want to format it in a string. Use the built-in [fmt.Sprintf()](https://pkg.go.dev/fmt#example-Sprintf) function.
 
@@ -39,3 +37,5 @@ To store the result as an `int`, use the same method as before and then cast the
 heightInMeters := 1.76234
 roundedToNearest := int(math.Round(x*100)/100) // 2
 ```
+
+PS: I've got a [fully interactive Golang course here](https://www.boot.dev/courses/learn-golang) if you're interested in learning more about Go. It's free to start!

@@ -2,7 +2,7 @@
 title: "The 8 Top Back-end Programming Languages for 2023"
 author: Natalie Schooner
 date: "2022-11-10"
-categories: 
+categories:
   - "backend"
 images:
   - /img/800/topbackendlanguages.png.webp
@@ -35,7 +35,7 @@ New backend programming languages are developed every year while existing ones a
 
 As we'll discuss in more detail later, we know from the StackOverflow data that a majority of developers use JavaScript. What's next on their to-learn list?
 
-StackOverflow reports that for many JavaScript developers, the most-desired language is Go. Over 10k JavaScript developers want to start or continue developing in Go and Rust. Go is also in demand for Python developers, with over 9k Pythonistas choosing to [learn or continue learning Go](https://boot.dev/courses/learn-golang) next.
+StackOverflow reports that for many JavaScript developers, the most-desired language is Go. Over 10k JavaScript developers want to start or continue developing in Go and Rust. Go is also in demand for Python developers, with over 9k Pythonistas choosing to [learn or continue learning Go](https://www.boot.dev/courses/learn-golang) next.
 
 Go is a relative newcomer on the scene, which explains why it's not the most popular language yet. Developed in 2009 by disgruntled backend developers in Google, Go (or Golang) is built based on the power and syntax of C. It's designed to focus on safety, simplicity, and speed.
 
@@ -99,7 +99,7 @@ Meta has been [using Rust since 2016](https://www.zdnet.com/article/the-rust-pro
 
 Java is an odd one. It's an old language, first released in 1996. It's still among the most popular languages, with 33.4% of professional developers using it and 38.7% of newbies using it. However, more of its users hate it than love it – only 45% of Java users want to keep using it. Plus, it's not in high demand. Only 5.6% of coders have expressed interest in learning how to code in Java.
 
-So why even put it on this list? One word: *legacy code*. Its age and simplicity have made it a standard backend programming language for Google, Netflix, Uber, Airbnb, Spotify, Amazon, and Facebook, all of whom use it for their product back-end development.
+So why even put it on this list? One word: _legacy code_. Its age and simplicity have made it a standard backend programming language for Google, Netflix, Uber, Airbnb, Spotify, Amazon, and Facebook, all of whom use it for their product back-end development.
 
 There is an old meme, "no one ever got fired for choosing Java". While Rust and Go are popular and super modern, Java is tried-and-true, albeit less sexy. It's a good language to learn if you want to work for big tech companies, but I expect as other, more flexible, and useful languages become more popular, Java will slowly fade in popularity.
 
@@ -109,9 +109,9 @@ That being said, that may be a multi-decade process. In the meantime, it's a goo
 
 Codegym [reports](https://codegym.cc/groups/posts/771-is-java-still-relevant-what-big-companies-use-it) that over 10k companies use Java for their backend. Of those, some notable names include:
 
-* LinkedIn
-* PayPal
-* Netflix
+- LinkedIn
+- PayPal
+- Netflix
 
 ## Most likely to linger: PHP
 
@@ -127,7 +127,7 @@ There's a [healthy use](https://www.trio.dev/blog/companies-using-php) of it amo
 
 ## Highest paying: Ruby
 
-If you want to make *bank* as a backend developer, Ruby is a great bet. StackOverflow respondents reported a median salary of $93,000.
+If you want to make _bank_ as a backend developer, Ruby is a great bet. StackOverflow respondents reported a median salary of $93,000.
 
 It's worth pointing out that other backend programming languages were higher paying, like Clojure ($106k), F# ($95k), and Erlang ($103k). However, those languages had a much smaller sample size. There were nearly 3,000 Ruby respondents, versus 681, 371, and 426 respectively for the three others.
 
@@ -147,9 +147,9 @@ SQL isn't a backend "programming" language in the typical sense of the word. It'
 
 > Yes, SQL is a programming language. No, you should not apply for a job as a "programmer" if you only know SQL.
 
-It's used by nearly *all* backend developers, so it merits inclusion on this list of the top backend programming languages for 2023. Almost half of StackOverflow's respondents use SQL, and 2/3s of people who use it love it. Plus, MySQL, PostgreSQL, and SQLite are the most popular databases, all of which rely on SQL to be queried. SQL is typically used alongside a general-purpose programming language like Go, Python or JavaScript.
+It's used by nearly _all_ backend developers, so it merits inclusion on this list of the top backend programming languages for 2023. Almost half of StackOverflow's respondents use SQL, and 2/3s of people who use it love it. Plus, MySQL, PostgreSQL, and SQLite are the most popular databases, all of which rely on SQL to be queried. SQL is typically used alongside a general-purpose programming language like Go, Python or JavaScript.
 
-If you want to [learn SQL](https://boot.dev/courses/learn-sql) (and I recommend you do if you want to get into backend development) [Boot.dev](https://boot.dev) has a great course running through the fundamentals.
+If you want to [learn SQL](https://www.boot.dev/courses/learn-sql) (and I recommend you do if you want to get into backend development) [Boot.dev](https://www.boot.dev) has a great course running through the fundamentals.
 
 ### Who's hiring for SQL?
 

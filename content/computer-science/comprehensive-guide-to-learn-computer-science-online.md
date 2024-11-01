@@ -3,7 +3,7 @@ title: "Comprehensive Guide to Learn Computer Science Online"
 author: Lane Wagner
 date: "2020-11-18"
 lastmod: "2022-08-24"
-categories: 
+categories:
   - "computer-science"
 images:
   - /img/800/learning-computer-science-online.webp
@@ -19,7 +19,7 @@ Learning computer science is an inexpensive and effective way to start your codi
 
 There are several main topics studied by computer science students in universities around the world. We will consider some of these topics as "mandatory" and others as "elective" or "optional". Take a look at the list below to get an idea. You should study these topics in the order given.
 
-Also, before diving into all the various requirements, I'd like to point out that I recently launched [Boot.dev - a resource designed to teach computer science through coding exercises](https://boot.dev/). If you're interested in a simple hands-on approach be sure to take a look at that, it's even free to audit.
+Also, before diving into all the various requirements, I'd like to point out that I recently launched [Boot.dev - a resource designed to teach computer science through coding exercises](https://www.boot.dev/). If you're interested in a simple hands-on approach be sure to take a look at that, it's even free to audit.
 
 ### Study These Computer Science Topics - Required
 
@@ -96,12 +96,12 @@ Coding can be really fun and has a low barrier to entry. The goal here is to get
 
 #### Resources
 
-* [Boot.dev's Basic Intro to JavaScript](https://boot.dev/courses/learn-javascript/)
-* [Edabit JavaScript Challenges](https://edabit.com/challenges/javascript)
-* [A Byte of Python](https://python.swaroopch.com/)
-* [The Python Tutorial](https://docs.python.org/3/tutorial/)
-* [Python for Everybody](https://www.py4e.com/lessons)
-* [FreeCodeCamp's Learn JS](https://www.freecodecamp.org/news/learn-javascript-full-course/)
+- [Boot.dev's Basic Intro to JavaScript](https://www.boot.dev/courses/learn-javascript/)
+- [Edabit JavaScript Challenges](https://edabit.com/challenges/javascript)
+- [A Byte of Python](https://python.swaroopch.com/)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/)
+- [Python for Everybody](https://www.py4e.com/lessons)
+- [FreeCodeCamp's Learn JS](https://www.freecodecamp.org/news/learn-javascript-full-course/)
 
 #### Goals
 
@@ -125,7 +125,7 @@ For example, how does a processor know to take the following expression written 
 
 Who taught the processor to understand Arabic numerals? Will, in reality, it doesn't, processors only work bitwise, on _binary_ numbers.
 
-Javascript is run by an interpreter (Node.js or the browser) which itself is a compiled program. The interpreter was written in a compiled language, like C, Rust, or Go, but then compiled into raw byte code that the CPU understands. To get a better handle on how computers, you know, *compute* things, writing assembly code can be very helpful.
+Javascript is run by an interpreter (Node.js or the browser) which itself is a compiled program. The interpreter was written in a compiled language, like C, Rust, or Go, but then compiled into raw byte code that the CPU understands. To get a better handle on how computers, you know, _compute_ things, writing assembly code can be very helpful.
 
 Assembly is the native language of the processor, and writing a bit of it can help us understand how the CPU processes stuff. Because assembly is so tightly coupled to CPU architecture, the language changes depending on the processor type. I recommend starting in ARM, it has a more elegant syntax than x86 in my opinion.
 
@@ -151,9 +151,10 @@ I'm in complete agreement with the traditional education system that familiarity
 ![tsp](/img/800/travelling_salesman_problem.png)
 
 #### Resources
-- [Boot.dev's Learn Algorithms course](https://boot.dev/courses/learn-algorithms)
-- [Boot.dev's Learn Data Structures course](https://boot.dev/courses/learn-data-structures)
-- [Boot.dev's Learn Advanced Algorithms course](https://boot.dev/courses/learn-advanced-algorithms)
+
+- [Boot.dev's Learn Algorithms course](https://www.boot.dev/courses/learn-algorithms-python)
+- [Boot.dev's Learn Data Structures course](https://www.boot.dev/courses/learn-data-structures-python)
+- [Boot.dev's Learn Advanced Algorithms course](https://www.boot.dev/courses/learn-algorithms-2-python)
 - [Data-Structures & Algorithms with JavaScript](https://github.com/GauravWalia19/Free-Algorithms-Books/blob/master/Library/src/JAVASCRIPT/Data-Structures-%26-Algorithms-with-JavaScript.pdf)
 - [Steven Skiena's Video Lectures](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
 - ["Algorithms" book by Dasgupta](https://freecomputerbooks.com/Algorithms.html)
@@ -228,7 +229,7 @@ I recommend [learning backend](/backend/become-backend-developer/) APIs using th
 
 #### Resources
 
-- [Learn Go - For Backend](https://boot.dev/courses/learn-golang)
+- [Learn Go - For Backend](https://www.boot.dev/courses/learn-golang)
 - [The Odin Project - Comprehensive Web Tutorials](https://www.theodinproject.com/)
 
 #### Goals
@@ -265,7 +266,7 @@ Functional programming concepts and styles are especially important in web devel
 
 #### Resources
 
-- Boot.dev's [Learn Functional Programming course](https://boot.dev/courses/learn-functional-programming)
+- Boot.dev's [Learn Functional Programming course](https://www.boot.dev/courses/learn-functional-programming-python)
 - eBook: [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/book.pdf)
 
 #### Goals
@@ -305,7 +306,7 @@ Cryptography underpins the security of all digital applications. Valuable engine
 
 #### Resources
 
-- Boot.dev's [Learn Cryptography course](https://boot.dev/courses/learn-cryptography)
+- Boot.dev's [Learn Cryptography course](https://www.boot.dev/courses/learn-cryptography-golang)
 - Christof Paar's [Youtube Lectures](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
 
 #### Goals
@@ -350,7 +351,7 @@ While many popular programming languages like JavaScript and Python are interpre
 
 #### Resources
 
-- eBook: [Compilers: Principles, Techniques and Tools](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Compiler%20Design/Alfred%20V.%20Aho,%20Monica%20S.%20Lam,%20Ravi%20Sethi,%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles,%20Techniques,%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf)
+- eBook: [Compilers: Principles, Techniques and Tools](<http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Compiler%20Design/Alfred%20V.%20Aho,%20Monica%20S.%20Lam,%20Ravi%20Sethi,%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles,%20Techniques,%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf>)
 - [Let's Build a Compiler Tutorial](https://compilers.iecc.com/crenshaw/)
 
 #### Goals
@@ -374,7 +375,7 @@ Distributed systems is the study of programs that can efficiently take advantage
 
 #### Resources
 
-- Boot.dev's [Learn Go course](https://boot.dev/courses/learn-golang)
+- Boot.dev's [Learn Go course](https://www.boot.dev/courses/learn-golang)
 - [Dixie State's Chord Assignment](http://cit.dixie.edu/cs/3410/asst_chord.php)
 - [Google's BigTable Research Paper - Read and take notes!](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf)
 - [Understanding Paxos](https://understandingpaxos.wordpress.com/)
@@ -412,7 +413,7 @@ While AI and ML used to be fairly niche fields, they are becoming more and more 
 
 #### Resources
 
-- [Artificial Intelligence, a Modern Approach](https://github.com/yanshengjia/ml-road/blob/master/resources/Artificial%20Intelligence%20-%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
+- [Artificial Intelligence, a Modern Approach](<https://github.com/yanshengjia/ml-road/blob/master/resources/Artificial%20Intelligence%20-%20A%20Modern%20Approach%20(3rd%20Edition).pdf>)
 - [Keras Tutorials](https://keras.io/guides/)
 
 #### Goals

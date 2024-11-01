@@ -14,7 +14,7 @@ A pile of hundreds of computer science resumes stands staunchly opposed to your 
 
 I've looked at hundreds of resumes from computer science students, researched other's opinions about what works and what doesn't, and compiled a list of the top 6 resume templates that will help you get your point across no matter your work experience, desired job position, or schooling history. These template samples are meant to be copied! Take one of these resume templates and swap all the information out for your own.
 
-As a point of interest before we get started, if you need an extra resume boost, or you're just looking to learn some computer science fundamentals, I've got you covered. Boot.dev regularly publishes [job-winning CS courses, so sign up here](https://boot.dev/) if you're into that sort of thing.
+As a point of interest before we get started, if you need an extra resume boost, or you're just looking to learn some computer science fundamentals, I've got you covered. Boot.dev regularly publishes [job-winning CS courses, so sign up here](https://www.boot.dev/) if you're into that sort of thing.
 
 ## Rules of Thumb Checklist
 

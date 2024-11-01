@@ -15,7 +15,7 @@ UUIDs are just a specific *kind* of ID. A universally unique identifier (UUID) i
 
 ## tl;dr
 
-In short, if you don't have *extremely* strict memory and performance requirements, I'd recommend using UUIDs instead of integer IDs. It reduces the chances of future ID conflicts and makes building a distributed architecture *much* easier. On [Boot.dev](https://boot.dev), my platform for developers who want to [learn back-end engineering](/backend/become-backend-developer/), I use UUIDs as the primary key for all database records.
+In short, if you don't have *extremely* strict memory and performance requirements, I'd recommend using UUIDs instead of integer IDs. It reduces the chances of future ID conflicts and makes building a distributed architecture *much* easier. On [Boot.dev](https://www.boot.dev), my platform for developers who want to [learn back-end engineering](/backend/become-backend-developer/), I use UUIDs as the primary key for all database records.
 
 ## Why use a UUID?
 

@@ -10,7 +10,7 @@ images:
 
 There are plenty of libraries out there that will have you up and running with a good tooltip solution in minutes. However, if you are like me, you are sick and tired of giant dependency trees that have the distinct possibility of breaking at any time. For that reason, we're going to build a custom single file tooltip component that you can build yourself and tweak to your heart's content. It might take 15 minutes instead of 3... sorry about that.
 
-As it happens, this is also the boilerplate for the tooltip component we use on [boot.dev's coding app.](https://boot.dev/)
+As it happens, this is also the boilerplate for the tooltip component we use on [boot.dev's coding app.](https://www.boot.dev/)
 
 ## The End Goal
 

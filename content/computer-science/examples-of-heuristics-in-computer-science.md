@@ -2,7 +2,7 @@
 title: "Examples of Heuristics in Computer Science"
 author: Winston Wagner
 date: "2020-11-30"
-categories: 
+categories:
   - "computer-science"
 images:
   - /img/800/Small-Man-on-Map-scaled.webp
@@ -27,7 +27,7 @@ Example problems and some of their common heuristics are given below.
 
 ![](/img/800/tsp-1024x606.jpg)
 
-The TSP is a famous [algorithm with a Big-O](https://boot.dev/courses/learn-algorithms) complexity of `O(n!)` and asks the question:
+The TSP is a famous [algorithm with a Big-O](https://www.boot.dev/courses/learn-algorithms-python) complexity of `O(n!)` and asks the question:
 
 > Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?
 
@@ -50,6 +50,7 @@ An example heuristic for this problem is a greedy algorithm, which sorts the ite
 Search engine optimization has been sought after for as long as search engines have been around. Individuals using search engines want to find the information they are looking for as swiftly as possible. With such an incredible amount of information available, search engines must utilize heuristics to expedite the search process. At the start, a heuristic could try each possibility at each step, but as the search continues, it can choose to stop the search at any time if the current possibility is worse than the best solution already located. In this way, the search engine can be optimized for speed and correctness.
 
 ## Applying Heuristics to Your Algorithms
+
 To apply heuristics to your algorithms, you need to know the solution or goal you're looking for ahead of time. If you know your end goal, you can specify rules that can help you achieve it. If the algorithm is being designed to find out how many moves a knight can make on a square, 8x8 chessboard while visiting every square, it's possible to create a heuristic that causes the knight to always choose the path with the most available moves afterward.
 
 However, because we're trying to create a specific path, it may be better to create a heuristic that causes the knight to choose the path with the fewest available moves afterward. Since the available decisions are much narrower, so too are the available solutions, and so they are found more quickly.

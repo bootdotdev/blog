@@ -2,13 +2,13 @@
 title: "Matlab vs Python: 6 Key Differences [Updated 2023]"
 author: Natalie Schooner
 date: "2023-04-16"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/lane_python_slithering_around_a_graph_sci_fi_fantasy_f36f8b88-348c-40f9-9b76-a0766c9114e2.png.webp
 ---
 
-This is one of those arguments where, outside of a few very specific examples, there's a clear answer. [Python](https://boot.dev/courses/learn-python) is better than MATLAB in (almost) every situation. But you're searching for the differences between MATLAB and Python, so clearly you're not convinced. Let's take a deeper look comparing Python vs MATLAB so you are finally persuaded.
+This is one of those arguments where, outside of a few very specific examples, there's a clear answer. [Python](https://www.boot.dev/courses/learn-code-python) is better than MATLAB in (almost) every situation. But you're searching for the differences between MATLAB and Python, so clearly you're not convinced. Let's take a deeper look comparing Python vs MATLAB so you are finally persuaded.
 
 ## History and definitions
 
@@ -22,7 +22,7 @@ Python was ideated in the late 1980s and was first implemented in December 1989 
 
 It's got a huge and growing functionality. It's good for simple tasks that beginners might be interested in, and complex tasks that organizations might want. Companies use Python for web development, data science, scientific computing, artificial intelligence, computer science, and more as developers create more libraries and functionalities.
 
-Its hallmarks? *Python is simple, readable, and easy to use, all with beautifully elegany syntax.*
+Its hallmarks? _Python is simple, readable, and easy to use, all with beautifully elegany syntax._
 
 ### What is MATLAB?
 
@@ -40,7 +40,7 @@ Almost every main difference between MATLAB versus Python comes down to this sim
 
 Python is open source, which means that, for example, a twenty-three year old guy named Armin can run an elaborate April Fool's joke by bundling all his libraries into a one-file microframework, realize it was actually a great idea, and release the Flask microframework, which would go on to become one of the two most popular web frameworks for Python. Flask is usable by anyone, for free.
 
-The open source nature of Python has fostered a vibrant community of developers to create and share a vast number of third-party libraries, frameworks, and tools, which are available for free for anyone to use and modify. This allows for a level of collaboration and innovation that you just can't get with proprietary software like MATLAB. This also makes it very easy to [learn Python](https://boot.dev/courses/learn-python) – there are so many people willing to help you through videos, tutorials, how-tos, books, and more, all for free or cheap.
+The open source nature of Python has fostered a vibrant community of developers to create and share a vast number of third-party libraries, frameworks, and tools, which are available for free for anyone to use and modify. This allows for a level of collaboration and innovation that you just can't get with proprietary software like MATLAB. This also makes it very easy to [learn Python](https://www.boot.dev/courses/learn-code-python) – there are so many people willing to help you through videos, tutorials, how-tos, books, and more, all for free or cheap.
 
 Ultimately I believe in the future of open source languages. Open source languages are more reproducible, cost-effective, community-driven, customizable, and transparent. And I'm not alone – even though MATLAB is most frequently used in universities, that's no longer the case.
 
@@ -103,15 +103,15 @@ Matlab has several standard libraries as well as some more niche and specialist 
 
 Here are some of the most popular and used MATLAB libraries:
 
-* **Simulink**: Modeling, simulating, and analyzing dynamic systems. e.g. control systems and communication systems.
-* **Image Processing Toolbox**: Analyzing and manipulating digital images
-* **Signal Processing Toolbox**: Filtering, spectral analysis, and feature extraction on signals
-* **Optimization Toolbox**: linear programming, quadratic programming, and nonlinear programming.
-* **Statistics and Machine Learning Toolbox**: hypothesis testing, regression analysis, and clustering.
+- **Simulink**: Modeling, simulating, and analyzing dynamic systems. e.g. control systems and communication systems.
+- **Image Processing Toolbox**: Analyzing and manipulating digital images
+- **Signal Processing Toolbox**: Filtering, spectral analysis, and feature extraction on signals
+- **Optimization Toolbox**: linear programming, quadratic programming, and nonlinear programming.
+- **Statistics and Machine Learning Toolbox**: hypothesis testing, regression analysis, and clustering.
 
 Overall, most MATLAB libraries are used for scientific and technical computing, focusing on engineering and physics.
 
-* You also get the standard IDE included in the price of your MATLAB license.
+- You also get the standard IDE included in the price of your MATLAB license.
 
 ### Python
 
@@ -119,20 +119,20 @@ While Python's libraries can't all claim to have been developed and tested by ex
 
 Here are the most popular community-developed libraries:
 
-* **NumPy**: A library for scientific computing with Python, providing support for large, multi-dimensional arrays and matrices, along with a large collection of mathematical functions to operate on them.
-* **Pandas**: A library for data analysis and manipulation that provides data structures for efficiently storing and querying large datasets.
-* **Matplotlib**: A plotting library for creating visualizations such as charts, graphs, and histograms.
-* **Scikit-learn**: A library for machine learning that provides a range of algorithms for classification, regression, and clustering, along with tools for data preprocessing and model evaluation.
-* **TensorFlow**: An open-source library for machine learning developed by Google, widely used for deep learning applications such as neural networks.
-* **Django**: A web framework for building web applications with Python.
-* **Flask**: A micro web framework for building web applications with Python.
+- **NumPy**: A library for scientific computing with Python, providing support for large, multi-dimensional arrays and matrices, along with a large collection of mathematical functions to operate on them.
+- **Pandas**: A library for data analysis and manipulation that provides data structures for efficiently storing and querying large datasets.
+- **Matplotlib**: A plotting library for creating visualizations such as charts, graphs, and histograms.
+- **Scikit-learn**: A library for machine learning that provides a range of algorithms for classification, regression, and clustering, along with tools for data preprocessing and model evaluation.
+- **TensorFlow**: An open-source library for machine learning developed by Google, widely used for deep learning applications such as neural networks.
+- **Django**: A web framework for building web applications with Python.
+- **Flask**: A micro web framework for building web applications with Python.
 
 While Python doesn't have a standard IDE like MATLAB does, there are several great options to choose from:
 
-* Visual Code Studio
-* PyCharm
-* Jupyter
-* Vim/NeoVim
+- Visual Code Studio
+- PyCharm
+- Jupyter
+- Vim/NeoVim
 
 Have a look around and pick the IDE that you like the look of.
 
@@ -166,7 +166,7 @@ As you can see, Python is anywhere from ~2x to ~7x more hireable, based just on 
 
 ## Cost
 
-Haven't I hammered this point home enough yet? Python is free forever because it's open source. The only currency you'll spend is time and energy as you work to [learn it](https://boot.dev/courses/learn-python).
+Haven't I hammered this point home enough yet? Python is free forever because it's open source. The only currency you'll spend is time and energy as you work to [learn it](https://www.boot.dev/courses/learn-code-python).
 
 MATLAB costs start at $99/year for students. For enterprise users, [the cost can rocket](https://www.mathworks.com/pricing-licensing.html) up to thousands of dollars per user, per year.
 
@@ -180,23 +180,23 @@ Now that you have a good understanding of MATLAB versus Python, let's tackle som
 
 ### Is MATLAB better than Python?
 
-* Almost always, no. For the vast majority of readers, Python is the better choice because it's free to use and get started with, the libraries make it a more versatile language, and it's just a better language for data science, machine learning, software development, and programming.
+- Almost always, no. For the vast majority of readers, Python is the better choice because it's free to use and get started with, the libraries make it a more versatile language, and it's just a better language for data science, machine learning, software development, and programming.
 
-* However, MATLAB performs better than Python in a few edge cases: matrix computation, signal processing, and certain types of industry modeling (like aviation, automotive, and aerospace modeling.)
+- However, MATLAB performs better than Python in a few edge cases: matrix computation, signal processing, and certain types of industry modeling (like aviation, automotive, and aerospace modeling.)
 
 ### Is MATLAB easier to learn than Python?
 
-* Yes, MATLAB is easier to learn than Python in the short run, because MATLAB has a good GUI that's intuitive for noncoders.
+- Yes, MATLAB is easier to learn than Python in the short run, because MATLAB has a good GUI that's intuitive for noncoders.
 
-* However, in the long run, Python's syntax is much simpler and more readable. You can also build and deploy faster in Python, which starts a positive feedback loop to keep you hooked on learning.
+- However, in the long run, Python's syntax is much simpler and more readable. You can also build and deploy faster in Python, which starts a positive feedback loop to keep you hooked on learning.
 
 ### Why do engineers use MATLAB instead of Python?
 
-* They don't, really. It's a common, but out-of-date misconception. You'll probably use it in college, but rarely in your career.
+- They don't, really. It's a common, but out-of-date misconception. You'll probably use it in college, but rarely in your career.
 
 ### Should I learn MATLAB before Python?
 
-* Absolutely not. Python gives you a much better grounding in the basics of coding, as well as being a much more useful, hireable language.
+- Absolutely not. Python gives you a much better grounding in the basics of coding, as well as being a much more useful, hireable language.
 
 ## Final thoughts on when to choose MATLAB or Python
 

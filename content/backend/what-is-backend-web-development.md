@@ -38,7 +38,7 @@ For example, if you work on the backend of an e-commerce website, you would crea
 
 Bad data equals a bad backend. That’s why it’s your job to handle data storage and retrieval, and ensure data integrity. You’ll also choose an appropriate database system and optimize database queries to significantly impact your application's performance and responsiveness.
 
-For example, in a healthcare industry web application, you would manage patient records, appointments, and medical data, ensuring confidentiality and efficient retrieval of information for healthcare professionals. If you're interestesd in learning more about SQL and databases check out our [Learn SQL course here](https://boot.dev/courses/learn-sql).
+For example, in a healthcare industry web application, you would manage patient records, appointments, and medical data, ensuring confidentiality and efficient retrieval of information for healthcare professionals. If you're interestesd in learning more about SQL and databases check out our [Learn SQL course here](https://www.boot.dev/courses/learn-sql).
 
 ### Security and Authentication
 

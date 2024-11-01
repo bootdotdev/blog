@@ -2,7 +2,7 @@
 title: "What is in a Back-End Developer's Job Description?"
 author: Natalie Schooner
 date: "2023-02-10"
-categories: 
+categories:
   - "backend"
 images:
   - /img/800/job-description-fantasy.png.webp
@@ -12,10 +12,10 @@ imageAlts:
 
 What's it like being a back-end developer? Well, it's different depending on which developer you ask.
 
-* "Sometimes it's fun, sometimes it's daunting." – Reddit user [Adventurous Quantum](https://www.reddit.com/r/webdev/comments/tc7kl0/comment/i0cj6wp/?utm_source=share&utm_medium=web2x&context=3)
-* "Mostly integrations and more integrations." – Reddit user [zaibuf](https://www.reddit.com/r/webdev/comments/tc7kl0/comment/i0co84n/?utm_source=share&utm_medium=web2x&context=3)
-* "It's pure logic and architecture that does or does not work." – Reddit user [Stanjan](https://www.reddit.com/r/webdev/comments/tc7kl0/comment/i0cmzdr/?utm_source=share&utm_medium=web2x&context=3)
-* "Bro dont get me started." – Reddit user [ApexWinrar111](https://www.reddit.com/r/webdev/comments/tc7kl0/comment/i0dnsc5/?utm_source=share&utm_medium=web2x&context=3)
+- "Sometimes it's fun, sometimes it's daunting." – Reddit user [Adventurous Quantum](https://www.reddit.com/r/webdev/comments/tc7kl0/comment/i0cj6wp/?utm_source=share&utm_medium=web2x&context=3)
+- "Mostly integrations and more integrations." – Reddit user [zaibuf](https://www.reddit.com/r/webdev/comments/tc7kl0/comment/i0co84n/?utm_source=share&utm_medium=web2x&context=3)
+- "It's pure logic and architecture that does or does not work." – Reddit user [Stanjan](https://www.reddit.com/r/webdev/comments/tc7kl0/comment/i0cmzdr/?utm_source=share&utm_medium=web2x&context=3)
+- "Bro dont get me started." – Reddit user [ApexWinrar111](https://www.reddit.com/r/webdev/comments/tc7kl0/comment/i0dnsc5/?utm_source=share&utm_medium=web2x&context=3)
 
 This article covers the nuts and bolts you'd expect to encounter in a typical back-end developer job description, but as you go through it, keep in mind that there's a huge amount of variation depending on where you get the job, what kind of tech stack they use, and what they need you for.
 
@@ -27,9 +27,9 @@ To understand what a back-end developer does, we need to understand the differen
 
 Here are some examples of things that back-end developers might do:
 
-* Design a scalable system that stores Instagram's billions of photos
-* Build a system to stream video content to Netflix's viewers
-* Write server-side code to match Uber drivers with passengers
+- Design a scalable system that stores Instagram's billions of photos
+- Build a system to stream video content to Netflix's viewers
+- Write server-side code to match Uber drivers with passengers
 
 In short, a "back-end developer" is someone who builds the back-end. A back-end developer's responsibilities include architecting, building, and maintaining the server-side components of a web application, including the database, APIs, and server-side logic.
 
@@ -37,9 +37,9 @@ If you want to get a job as a back-end developer (and who wouldn't, [back-end de
 
 I'll break down:
 
-* back-end technical skills, including languages and technologies
-* Responsibilities
-* Soft skills
+- back-end technical skills, including languages and technologies
+- Responsibilities
+- Soft skills
 
 Let's jump into a back-end developer's job description, component by component.
 
@@ -66,7 +66,7 @@ To get a job as a back-end developer, you'll need to be proficient in server-sid
 
 Source: [Top 8 back-end programming languages](/backend/best-backend-programming-languages/)
 
-All eight are worth getting your feet wet with, but I can speak with confidence on these three as they're the ones we have courses for on our own learning platform, [Boot.dev](https://boot.dev):
+All eight are worth getting your feet wet with, but I can speak with confidence on these three as they're the ones we have courses for on our own learning platform, [Boot.dev](https://www.boot.dev):
 
 1. **Python**: Python is used for back-end development because it's simple to learn and read, and it's ultra versatile. It has tons of libraries and frameworks that make it easy to build and maintain complex web applications. Here are some great [resources to get you started learning Python](/python/best-python-resources/).
 2. **Go (Golang)**: Go, developed by Google, is designed to build scalable and concurrent systems. It has a simple syntax, built-in concurrency support, and efficient memory management, making it a popular choice for building high-performance back-end systems. It's pretty fun to [learn Go](/golang/best-ways-to-learn-golang/)!
@@ -84,7 +84,7 @@ There are two general categories of databases: SQL and its mirror image, noSQL.
 
 ### SQL
 
-Most job descriptions ask that you [know SQL](https://boot.dev/courses/learn-sql), which is a very common, very popular database querying language. SQL stands for Structured Query Language. With SQL commands, back-end developers can access data that is stored in tables that are related to each other.
+Most job descriptions ask that you [know SQL](https://www.boot.dev/courses/learn-sql), which is a very common, very popular database querying language. SQL stands for Structured Query Language. With SQL commands, back-end developers can access data that is stored in tables that are related to each other.
 
 Most traditional SQL databases are good for vertical scaling. These databases typically scale in size by throwing more hardware at them.
 
@@ -92,9 +92,9 @@ Many job descriptions will also ask that you are familiar with the most popular 
 
 I've covered these in a previous article, so I'll summarize the main ones here:
 
-* [PostgreSQL](https://blog.boot.dev/backend/top-backend-technologies/#1-postgresql): the go-to database for production, and high-volume data operations. Aside from storing data, you can define data types, index types, and functional languages. Very customizable.
-* [SQLite](https://blog.boot.dev/backend/top-backend-technologies/#2-sqlite): Easier to get up and running, but only supports some data types, not all. Not super scalable, nor performance-optimized. Best for beginners or prototyping.
-* [MySQL](https://blog.boot.dev/backend/top-backend-technologies/#3-mysql): The most standard and popular of the options, though PostgreSQL is overtaking it in popularity since there's not much it can do that Postgres can't do better.
+- [PostgreSQL](https://blog.boot.dev/backend/top-backend-technologies/#1-postgresql): the go-to database for production, and high-volume data operations. Aside from storing data, you can define data types, index types, and functional languages. Very customizable.
+- [SQLite](https://blog.boot.dev/backend/top-backend-technologies/#2-sqlite): Easier to get up and running, but only supports some data types, not all. Not super scalable, nor performance-optimized. Best for beginners or prototyping.
+- [MySQL](https://blog.boot.dev/backend/top-backend-technologies/#3-mysql): The most standard and popular of the options, though PostgreSQL is overtaking it in popularity since there's not much it can do that Postgres can't do better.
 
 There are a few others – [MariaDB](https://blog.boot.dev/backend/top-backend-technologies/#4-mariadb) is getting more popular as another MySQL replacement as time goes on, [Oracle](https://blog.boot.dev/backend/top-backend-technologies/#5-oracle) is the enterprise option many bigger companies use, and [Microsoft SQL Server](https://blog.boot.dev/backend/top-backend-technologies/#6-microsoft-sql-server) is typically used for .NET, Windows-based projects.
 
@@ -106,11 +106,11 @@ These databases often (but not always) scale horizontally rather than vertically
 
 Let's cover a few you might see on a back-end developer job description:
 
-* [MongoDB](https://blog.boot.dev/backend/top-backend-technologies/#1-mongodb): The most popular NoSQL database according to StackOverflow's survey. It allows you to query documents by single or multiple keys, ranges or search texts. It's got a looser structure, more like JSON-esque documents.
-* [Redis](https://blog.boot.dev/backend/top-backend-technologies/#2-redis): You can only query it through primary key access, which means it's got a more limited query functionality. The benefit of using it is that Redis uses an in-memory key storage value, so data is stored on the host's RAM, not the desk. This makes it very quick, but you also have to limit the size of the dataset.
-* [Elasticsearch](https://blog.boot.dev/backend/top-backend-technologies/#3-elasticsearch): Used primarily for search and log analysis.
+- [MongoDB](https://blog.boot.dev/backend/top-backend-technologies/#1-mongodb): The most popular NoSQL database according to StackOverflow's survey. It allows you to query documents by single or multiple keys, ranges or search texts. It's got a looser structure, more like JSON-esque documents.
+- [Redis](https://blog.boot.dev/backend/top-backend-technologies/#2-redis): You can only query it through primary key access, which means it's got a more limited query functionality. The benefit of using it is that Redis uses an in-memory key storage value, so data is stored on the host's RAM, not the desk. This makes it very quick, but you also have to limit the size of the dataset.
+- [Elasticsearch](https://blog.boot.dev/backend/top-backend-technologies/#3-elasticsearch): Used primarily for search and log analysis.
 
-### Frameworks 
+### Frameworks
 
 Frameworks are often used, but it really depends on the language in question. For example, Go is a bit unique in that many developers don't use a framework at all when writing backend services in Go. However, in Python, Django and Flask are common.
 
@@ -126,9 +126,9 @@ However, in today's server-side framework world, you can happily just use the to
 
 So on every back-end developer job description, you'll see things like:
 
-* Django or Flask for Python
-* Ruby on Rails for Ruby
-* Express for Node.js (JavaScript)
+- Django or Flask for Python
+- Ruby on Rails for Ruby
+- Express for Node.js (JavaScript)
 
 It will depend on what language the job description primarily wants, but as with languages, most employers will be happy if you have some familiarity with some server-side frameworks.
 
@@ -142,7 +142,7 @@ REST stands for representational state transfer. It's a set of architectural con
 
 As you might imagine, those two proficiencies are pretty key for any back-end developer to know.
 
-### Deployment, server management, and DevOps 
+### Deployment, server management, and DevOps
 
 For a long time, "development" and "operations" were separate processes. Then, around 2007, IT operations and software development communities started to say, "Hey, shouldn't one hand know what the other is doing? Are we kind of headed for disaster because our objectives are competing? Maybe it's time we had a baby and called it DevOps?"
 
@@ -152,13 +152,13 @@ The upshot is that as a back-end developer, you'll be expected to at least colla
 
 As a back-end developer, you'll be expected to make web apps or APIs available to users. This is the deployment process.
 
-To do this, you'll need to be familiar with cloud platforms like Google Cloud, AWS, or Azure. You will also need proficiency in virtualization technologies like Docker and Kubernetes. Finally, you may need to be familiar with web server software like Nginx or Apache. Like anything else, you don't need to be an expert in *all* of these technologies, but you should be familiar with at least a couple of them.
+To do this, you'll need to be familiar with cloud platforms like Google Cloud, AWS, or Azure. You will also need proficiency in virtualization technologies like [Docker](https://www.boot.dev/courses/learn-docker) and [Kubernetes](https://www.boot.dev/courses/learn-kubernetes). Finally, you may need to be familiar with web server software like Nginx or Apache. Like anything else, you don't need to be an expert in _all_ of these technologies, but you should be familiar with at least a couple of them.
 
 The day may also come when DevOps and back-end developer job roles [coalesce into one](/devops/backend-devops-roles-merging/)!
 
 ## Responsibilities
 
-What do all those back-end developer skills and technologies let you *do*? They let you handle the very important back-end developer responsibilities. While these differ from one job description to another, these mostly conform to a few common responsibilities.
+What do all those back-end developer skills and technologies let you _do_? They let you handle the very important back-end developer responsibilities. While these differ from one job description to another, these mostly conform to a few common responsibilities.
 
 ### Design and implement back-end systems and architecture
 
@@ -232,7 +232,7 @@ For example, imagine you're at that healthcare company, designing a new database
 
 You need to know how to explain complex concepts in lay terms.
 
-## What can you expect to find in a back-end developer job description? 
+## What can you expect to find in a back-end developer job description?
 
 In summary, you can expect to find a mix of technologies, languages, and soft skills in any back-end developer job description. Those components will be used to fulfill the back-end developer's responsibilities.
 

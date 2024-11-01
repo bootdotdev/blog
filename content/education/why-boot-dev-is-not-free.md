@@ -9,7 +9,7 @@ images:
 lastmod: "2023-12-07"
 ---
 
-A few days ago I received an email regarding [Boot.dev](https://boot.dev) where the sender said:
+A few days ago I received an email regarding [Boot.dev](https://www.boot.dev) where the sender said:
 
 > I am ideologically opposed to charging people for online education
 
@@ -37,11 +37,11 @@ At the moment we have a simple way to fund ongoing development: memberships. I'l
 
 Reading and watching *all* of the content on Boot.dev is **free for everyone**. Additionally, all of the progress tracking, interactive code editors, game mechanics, and other features are free for the first few chapters of each course.
 
-After the first several chapters of any individual course, all of that extra interactive stuff shuts off, and to continue using it you'd need to [become a member](https://boot.dev/pricing). To reiterate, you can still read and watch all of the content for free, you just lost interactivity.
+After the first several chapters of any individual course, all of that extra interactive stuff shuts off, and to continue using it you'd need to [become a member](https://www.boot.dev/pricing). To reiterate, you can still read and watch all of the content for free, you just lost interactivity.
 
 ## Why memberships?
 
-Memberships are subscriptions that are billed monthly or yearly. We also offer [gift subscriptions](https://boot.dev/gifts) that are billed once, don't renew, and expire after a certain amount of time.
+Memberships are subscriptions that are billed monthly or yearly. We also offer [gift subscriptions](https://www.boot.dev/gifts) that are billed once, don't renew, and expire after a certain amount of time.
 
 Memberships work well for a few reasons:
 

@@ -16,7 +16,7 @@ Elatedly, Lane
 
 ## Patch notes
 
-### 1. New Course: [Learn Memory Management](https://www.boot.dev/courses/learn-memory-management)
+### 1. New Course: [Learn Memory Management](https://www.boot.dev/courses/learn-memory-management-c)
 
 ![tj memory management course](/img/800/learn-memory-management.png.webp)
 
@@ -26,11 +26,11 @@ Elatedly, Lane
 
 ![travvy course](/img/800/travvywalkthrough.jpg.webp)
 
-If you've ever hung out on our [Discord server](https://www.boot.dev/community), you'll know that the [Functional Programming course](https://www.boot.dev/courses/learn-functional-programming) is one of the larger difficulty spikes on the platform. As such, we've created a free 2+ hour walkthrough of the course in collaboration with Travvy. Check it out
+If you've ever hung out on our [Discord server](https://www.boot.dev/community), you'll know that the [Functional Programming course](https://www.boot.dev/courses/learn-functional-programming-python) is one of the larger difficulty spikes on the platform. As such, we've created a free 2+ hour walkthrough of the course in collaboration with Travvy. Check it out
 
 ### 3. HTTP Servers and Blog Aggregator Updates
 
-The old [HTTP Servers course](https://www.boot.dev/courses/learn-http-servers) was _before_ the SQL section, and the [blog aggregator](https://www.boot.dev/courses/build-blog-aggregator) was _after_ the SQL section. We've made drastic updates to those courses and moved their positions a bit within the track. The takeaways are that, aside from being new and improved overall:
+The old [HTTP Servers course](https://www.boot.dev/courses/learn-http-servers-golang) was _before_ the SQL section, and the [blog aggregator](https://www.boot.dev/courses/build-blog-aggregator) was _after_ the SQL section. We've made drastic updates to those courses and moved their positions a bit within the track. The takeaways are that, aside from being new and improved overall:
 
 - The HTTP Servers course now uses a PostgreSQL database instead of flat files
 - The Blog Aggregator course is now a CLI tool, which makes using and testing it _way_ easier and more fun

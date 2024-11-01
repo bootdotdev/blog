@@ -2,7 +2,7 @@
 title: "12 Codecademy Alternatives That Will Get You Where You Need to Go"
 author: Natalie Schooner
 date: "2023-05-04"
-categories: 
+categories:
   - "misc"
 images:
   - /img/800/wizardmakingachoice.png.webp
@@ -16,41 +16,39 @@ For any of those cases and more, this article will serve as a place to look for 
 
 Before we get into the meat of the article, I want to quickly outline who I’m writing this for. This breakdown for you if you:
 
-* Want to learn to code
-* Are looking for a job
-* Didn't enjoy Codecademy, or just want to know about other options
+- Want to learn to code
+- Are looking for a job
+- Didn't enjoy Codecademy, or just want to know about other options
 
 If that’s you, read on. Here are the twelve best alternatives to Codecademy. I’ll look at the price, pros, and cons compared to Codecademy.
 
-| Platform          | Price                                                         | Pros                                                       | Cons                                                           | Ideal learner                                                       |
-| ----------------- | ------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------- |
-| Codecademy        | $17.49 * $39.99/month                                         | Great for beginners                                        | Limited courses, not a lot of room to grow                     | Total beginner                                                      |
-| Boot.dev          | $19.99 * $39.99/month                                         | Best for backend, interactive, career-oriented             | Focus exclusively on backend                                   | Back-end development learner                                        |
-| Udemy             | $11.99 * $199.99/course or $16.58/month                       | Tons of options                                            | Variable quality, not much interaction                         | Not sure what you need to learn yet                                 |
-| Coursera/edX      | $9.99 * $300                                                  | Professional, accredited courses                           | Not much variety, not much interaction                         | Need a credit or certificate                                        |
-| FreeCodeCamp      | Free!                                                         | 3000+ hours of content                                     | Not a lot of direction, can be overwhelming                    | Motivated, and want to learn web dev                                |
-| Pluralsight       | $12 * $18.67/month                                            | Lots of options, work-oriented                             | Limited interaction, not a lot of direction                    | Have a specific career plan                                         |
-| LinkedIn Learning | $19.99 * $39.99/month (might be free with library membership) | Offers LinkedIn certificates, not just programming courses | Not specific to programming; usually a better option elsewhere | Active on LinkedIn                                                  |
-| TeamTreehouse     | $25 * $199/month                                              | Practical, hands-on, project-based                         | Expensive, mostly video-based lectures                         | Learn best through projects                                         |
-| Udacity           | $339 * $399/month                                             | Get to work with a real person, much more guidance         | Expensive, bad user feedback                                   | Need to pay money/be accountable to a real person to actually learn |
-| Dataquest         | $33 * $49/month                                               | Interactive, community-based                               | Limited to data science                                        | Data science learner                                                |
-| Scrimba           | Free to $200/month                                            | Interactive learning, lots of great free content           | Limited to frontend                                            | Front end learner                                                   |
-| Code.org          | Free                                                          | Beginner content, lots of it, quick wins                   | Not a lot of depth                                             | True beginners to programming                                       |
-| Self-taught       | Free * hundreds of dollars                                    | Cheap or free, it’s on your own schedule, self-directed    | Need tons of motivation and energy to see it through           | Extremely motivated self-starters                                   |
+| Platform          | Price                                                          | Pros                                                       | Cons                                                           | Ideal learner                                                       |
+| ----------------- | -------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Codecademy        | $17.49 \* $39.99/month                                         | Great for beginners                                        | Limited courses, not a lot of room to grow                     | Total beginner                                                      |
+| Boot.dev          | $29.99 \* $49.99/month                                         | Best for backend, interactive, career-oriented             | Focus on backend in Python, Go and SQL                         | Back-end development learner                                        |
+| Udemy             | $11.99 \* $199.99/course or $16.58/month                       | Tons of options                                            | Variable quality, not much interaction                         | Not sure what you need to learn yet                                 |
+| Coursera/edX      | $9.99 \* $300                                                  | Professional, accredited courses                           | Not much variety, not much interaction                         | Need a credit or certificate                                        |
+| FreeCodeCamp      | Free!                                                          | 3000+ hours of content                                     | Not a lot of direction, can be overwhelming                    | Motivated, and want to learn web dev                                |
+| Pluralsight       | $12 \* $18.67/month                                            | Lots of options, work-oriented                             | Limited interaction, not a lot of direction                    | Have a specific career plan                                         |
+| LinkedIn Learning | $19.99 \* $39.99/month (might be free with library membership) | Offers LinkedIn certificates, not just programming courses | Not specific to programming; usually a better option elsewhere | Active on LinkedIn                                                  |
+| TeamTreehouse     | $25 \* $199/month                                              | Practical, hands-on, project-based                         | Expensive, mostly video-based lectures                         | Learn best through projects                                         |
+| Udacity           | $339 \* $399/month                                             | Get to work with a real person, much more guidance         | Expensive, bad user feedback                                   | Need to pay money/be accountable to a real person to actually learn |
+| Dataquest         | $33 \* $49/month                                               | Interactive, community-based                               | Limited to data science                                        | Data science learner                                                |
+| Scrimba           | Free to $200/month                                             | Interactive learning, lots of great free content           | Limited to frontend                                            | Front end learner                                                   |
+| Code.org          | Free                                                           | Beginner content, lots of it, quick wins                   | Not a lot of depth                                             | True beginners to programming                                       |
+| Self-taught       | Free \* hundreds of dollars                                    | Cheap or free, it’s on your own schedule, self-directed    | Need tons of motivation and energy to see it through           | Extremely motivated self-starters                                   |
 
 ## 1. Boot.dev
 
-[Boot.dev](https://boot.dev/) is all about building strong coding foundations. The courses are geared around concepts and use coding languages to help you grasp those concepts, like [Functional Programming](https://boot.dev/courses/learn-functional-programming) or [Big-O algorithms](https://boot.dev/courses/learn-algorithms).
+[Boot.dev](https://www.boot.dev/) is all about building strong coding foundations. The courses are geared around concepts and use coding languages to help you grasp those concepts, like [Learn Functional Programming](https://www.boot.dev/courses/learn-functional-programming-python) or [Learn Algorithms](https://www.boot.dev/courses/learn-algorithms-python).
 
-Everything on Boot.dev is geared around helping you get a coding job. It won’t be fast – you can expect it to take between six to 18 months, depending on your pace – but it’s a reliable, interactive, fun way to learn to code.
+Everything on Boot.dev is geared around helping you get a coding job. It won’t be fast – you can expect it to [take around 12 months](/backend/how-long-to-become-backend-dev/), depending on your pace – but it’s a reliable, interactive, fun way to learn to code.
 
 ### How much does Boot.dev cost?
 
-You can audit any course for free, but to get interactive access, an invite to the chatty Discord server, verification of your answers, and certificates of completion, you should become a paying member.
+You can audit any course for free, but to get interactive access, an invite to the chatty Discord server, verification of your answers, and certificates of completion, you should [become a paying member](https://www.boot.dev/pricing).
 
-It costs between \$19.99 per month if you pay annually, or \$39/month paid monthly. You can also get a lifetime membership for \$999.
-
-![Bootdev pricing screenshot](/img/800/bootdevpricing.png.webp)
+It costs between \$29.99 per month if you pay annually, or \$49/month paid monthly.
 
 ### Pros of Boot.dev
 
@@ -122,7 +120,7 @@ Heck, Boot.dev has partnered with FreeCodeCamp to release some free stuff, like 
 
 ### Cons of FreeCodeCamp
 
-If you’re not keen on web dev, then much of FCC’s content won’t be *as* useful for you. It's still a great place to check out, but it's tailored towards beginner front-end developers.
+If you’re not keen on web dev, then much of FCC’s content won’t be _as_ useful for you. It's still a great place to check out, but it's tailored towards beginner front-end developers.
 
 ## 5. Pluralsight
 
@@ -172,24 +170,24 @@ Some people say the courses are too short or lack depth. It’s also worth highl
 
 [TeamTreehouse](https://teamtreehouse.com/) offers practical, project-based learning to help you build real-world coding skills. Many users write [glowing praise](https://www.reddit.com/r/learnprogramming/comments/1134xd6/my_experience_with_teamtreehouse/) of it.
 
-### How much does TeamTreehouse cost? 
+### How much does TeamTreehouse cost?
 
 [Prices](https://teamtreehouse.com/plans) start at \$25/month or \$250 a year for the basic plan. However, they themselves say that plan is mainly to "give coding or design a try." To either "level up your learning" or "launch your career," they recommend paying for the \$49/month plan or the \$199/month plan.
 
 These higher tier plans come with:
 
-* Conference sessions
-* Career talks
-* Supplemental coding content
-* Curated curriculum and projects
-* Project and peer reviews
-* Exclusive Slack community
+- Conference sessions
+- Career talks
+- Supplemental coding content
+- Curated curriculum and projects
+- Project and peer reviews
+- Exclusive Slack community
 
 ![team treehouse pricing](/img/800/PU7CDai.png.webp)
 
 ### Pros of TeamTreehouse
 
-Here at Boot.dev we firmly believe in the power of practical, hands-on practice. The best way to learn to code is not to read or watch but to *code.* TeamTreehouse seems to be on the same page. It’s a very interactive platform, with projects instead of lectures.
+Here at Boot.dev we firmly believe in the power of practical, hands-on practice. The best way to learn to code is not to read or watch but to _code._ TeamTreehouse seems to be on the same page. It’s a very interactive platform, with projects instead of lectures.
 
 ### Cons of TeamTreehouse
 
@@ -205,9 +203,9 @@ It’s expensive. Each course costs hundreds of dollars per month to access. The
 
 For example, for the course on How to Become a Data Scientist, Udacity estimates it will take you four months to complete it, working for 10 hours per week. You can either:
 
-* Pay \$399 per month; or
+- Pay \$399 per month; or
 
-* Pay \$1356 for four months, which works out to \$339 per month
+- Pay \$1356 for four months, which works out to \$339 per month
 
 ![udacity pricing](/img/800/h4xOg0J.png.webp)
 
@@ -219,7 +217,7 @@ For that price point, Udacity offers personalized feedback, with unlimited submi
 
 ### Cons of Udacity
 
-The main one is the price. There are also a lot of negative reviews on Reddit * I found folks [citing](https://www.reddit.com/r/learnprogramming/comments/s0ob6b/comment/hs3xrwf/?utm_source=share&utm_medium=web2x&context=3) "live mentors \[with\] less experience than the average bootcamp grad," [or](https://www.reddit.com/r/learnprogramming/comments/s0ob6b/comment/hs6tcav/?utm_source=share&utm_medium=web2x&context=3) "a big Ad campaign to get you to try AWS," as well as content [that](https://www.reddit.com/r/learnprogramming/comments/s0ob6b/warning_dont_get_scammed_by_udacity_nanodegrees/?utm_source=share&utm_medium=web2x&context=3) "is missing so many pieces and contains so many errors it is not worth it.
+The main one is the price. There are also a lot of negative reviews on Reddit \* I found folks [citing](https://www.reddit.com/r/learnprogramming/comments/s0ob6b/comment/hs3xrwf/?utm_source=share&utm_medium=web2x&context=3) "live mentors \[with\] less experience than the average bootcamp grad," [or](https://www.reddit.com/r/learnprogramming/comments/s0ob6b/comment/hs6tcav/?utm_source=share&utm_medium=web2x&context=3) "a big Ad campaign to get you to try AWS," as well as content [that](https://www.reddit.com/r/learnprogramming/comments/s0ob6b/warning_dont_get_scammed_by_udacity_nanodegrees/?utm_source=share&utm_medium=web2x&context=3) "is missing so many pieces and contains so many errors it is not worth it.
 
 Red flags, especially at that price point. That being said, there were enough positive comments and reviews that I still want to include it as a possible alternative.
 
@@ -249,16 +247,16 @@ Just as Boot.dev is to backend development and Dataquest is to data science, so 
 
 Scrimba does have a free tier with access to basic HTML, CSS, JavaScript and React intro courses. You can opt to pay \$18/month on a semester-long pay period, which gets you:
 
-* 77h Frontend Career Path
-* All 60+ courses
-* Full access to community
-* Course certificates
+- 77h Frontend Career Path
+- All 60+ courses
+- Full access to community
+- Course certificates
 
 And if you need more, you can go for their Bootcamp level, which costs \$600/quarter, and gets you:
 
-* Code review
-* Dedicated study group
-* Teacher-led sessions
+- Code review
+- Dedicated study group
+- Teacher-led sessions
 
 ### Pros of Scrimba
 
@@ -286,11 +284,11 @@ Code.org is home to many very easy-to-understand tutorials. It’s ideal for beg
 
 For anyone looking for any kind of depth, Code.org is not a great alternative. I’d recommend it as a starting point, but you won’t get employed off the back of Code.org.
 
-## 12. Self-taught * Textbooks, YouTube, Blogs
+## 12. Self-taught \* Textbooks, YouTube, Blogs
 
-Wherever I research coding platform alternatives, Reddit always has one main thing to say: you can almost always do it cheaper and better yourself. And it’s true – there’s such a wealth of resources out there, that you really *can* learn to code without paying a penny.
+Wherever I research coding platform alternatives, Reddit always has one main thing to say: you can almost always do it cheaper and better yourself. And it’s true – there’s such a wealth of resources out there, that you really _can_ learn to code without paying a penny.
 
-### How much does it cost to teach yourself to code? 
+### How much does it cost to teach yourself to code?
 
 It depends wildly. It can be anywhere from \$0 to several hundred dollars, depending on which resources or memberships you shell out for.
 
@@ -298,10 +296,10 @@ It depends wildly. It can be anywhere from \$0 to several hundred dollars, depen
 
 It’s cheap or free, it’s on your own schedule, and you can go in whatever direction you want. There’s no shortage of resources – I list several starting points for learning Python, for instance, here:
 
-* [Video tutorials](/python/best-places-to-learn-python-online/#video-tutorials)
-* [Text-based tutorials](/python/best-places-to-learn-python-online/#text-based-tutorials)
-* [Books](/python/best-places-to-learn-python-online/#text-based-tutorials)
-* [Online communities](/python/best-places-to-learn-python-online/#online-communities)
+- [Video tutorials](/python/best-places-to-learn-python-online/#video-tutorials)
+- [Text-based tutorials](/python/best-places-to-learn-python-online/#text-based-tutorials)
+- [Books](/python/best-places-to-learn-python-online/#text-based-tutorials)
+- [Online communities](/python/best-places-to-learn-python-online/#online-communities)
 
 ![learn coding fast meme](/img/800/oZylowU.png.webp)
 

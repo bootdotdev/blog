@@ -60,12 +60,12 @@ I've written before about [how to get a programming certificate](/computer-scien
 3. **Focus on what a certificate in computer science will give you.** Are you looking for a freelance boost, or a new job?
 4. **Find a source that will help you do the work.** Self-motivation can be tough, so find a course that is built to whatever you need to motivate yourself, whether gamification or companionship.
 5. **Do the work.** The more you do to make sure your choice is right in steps 1-4, the easier this one will be.
-6. **Proudly display your certificate.** For instance, tons of students have gone through Codecademy to get a programming certificate online, so employers have an idea of the reputation, and what they can expect from an employee who got a certificate from them. Meanwhile, boot.dev is a lesser-known example, but they offer the opportunity to create a [public developer portfolio page](https://boot.dev/u/wagslane) you can link to on your resume. 
+6. **Proudly display your certificate.** For instance, tons of students have gone through Codecademy to get a programming certificate online, so employers have an idea of the reputation, and what they can expect from an employee who got a certificate from them. Meanwhile, boot.dev is a lesser-known example, but they offer the opportunity to create a [public developer portfolio page](https://www.boot.dev/u/wagslane) you can link to on your resume. 
 
 Examples:
 
 - [Codecademy](https://www.codecademy.com/). Offers several different course options from specific languages to skills for a career path, to topics such as web development. It costs $39.99/month or $240/year when billed annually for the standard plan.
-- [Boot.dev](https://boot.dev/). Offers a range of courses from intros to coding, to specific languages, to skill development such as data structures. It costs $20/month or $72/year when billed annually for the standard plan.
+- [Boot.dev](https://www.boot.dev/). Offers a range of courses from intros to coding, to specific languages, to skill development such as data structures. It costs $20/month or $72/year when billed annually for the standard plan.
 - [Pluralsight](https://www.pluralsight.com/product/skills/individuals). This online course catalog is built specifically to help you get a job with the skills you learn. The standard plan costs $29/month of $299/year when billed annually.
 
 In summary, the process to get a programming certificate online from an online course comes with real benefits - it tends to be cheaper, and more self-paced than getting one from a university. However, that can also be a disadvantage - it's easier to be motivated to complete something when you've invested a lot of money, and someone is guiding you through the process. To combat those disadvantages, ensure you select an online course with a solid community that can help get you motivated to actually get the course done. 

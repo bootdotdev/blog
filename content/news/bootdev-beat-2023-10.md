@@ -28,10 +28,10 @@ The course is in private beta at the moment! It will be fully released this week
 
 Boots, our amazing in-app AI mentor has undergone some serious improvements. They include:
 
-* GPT 4 instead of GPT 3.5
-* He now uses the [Socratic teaching method](https://tilt.colostate.edu/the-socratic-method/) to help you solve problems instead of just giving you the answer
-* Chat-first, meaning you now just strike up a conversation instead of highlighting code
-* One-click button to include your code in the chat
+- GPT 4 instead of GPT 3.5
+- He now uses the [Socratic teaching method](https://tilt.colostate.edu/the-socratic-method/) to help you solve problems instead of just giving you the answer
+- Chat-first, meaning you now just strike up a conversation instead of highlighting code
+- One-click button to include your code in the chat
 
 ### 3. New notification system
 
@@ -39,11 +39,11 @@ We added a bell icon to the top left of the screen where all your quest completi
 
 ## What is yet to come
 
-* Working on a new style of explainer videos
-* New "Learn Kubernetes" course
-* Challenges and reworking of the "Learn JavaScript" course
-* Updates to make sharpshooter less painful and more rewarding
-* Plans for a new "unit test" assignment type
+- Working on a new style of explainer videos
+- [New "Learn Kubernetes" course](https://www.boot.dev/courses/learn-kubernetes)
+- Challenges and reworking of the "Learn JavaScript" course
+- Updates to make sharpshooter less painful and more rewarding
+- Plans for a new "unit test" assignment type
 
 ## Backend Banter Podcast
 
@@ -51,10 +51,10 @@ We created a [new trailer](https://www.youtube.com/watch?v=PclSNl1JRpI) for the 
 
 This month's episodes include:
 
-* [#020 - Running SQLite on the Edge with Pekka Enberg](https://www.backendbanter.fm/episodes/020-running-sqlite-on-the-edge-with-pekka-enberg)
-* [#019 - Full-time vs Freelancing vs Starting a Company with Rob Walling](https://www.backendbanter.fm/episodes/019-full-time-vs-freelancing-vs-starting-a-company-with-rob-walling)
-* [#018 - Data Engineering for Gophers with Miriah Peterson](https://www.backendbanter.fm/episodes/18-data-engineering-for-gophers-with-miriah-peterson)
-* [#017 - Writing Go at Multi-Million Dollar Companies with Mat Ryer](https://www.backendbanter.fm/episodes/017-writing-go-at-multi-million-dollar-companies-with-mat-ryer)
+- [#020 - Running SQLite on the Edge with Pekka Enberg](https://www.backendbanter.fm/episodes/020-running-sqlite-on-the-edge-with-pekka-enberg)
+- [#019 - Full-time vs Freelancing vs Starting a Company with Rob Walling](https://www.backendbanter.fm/episodes/019-full-time-vs-freelancing-vs-starting-a-company-with-rob-walling)
+- [#018 - Data Engineering for Gophers with Miriah Peterson](https://www.backendbanter.fm/episodes/18-data-engineering-for-gophers-with-miriah-peterson)
+- [#017 - Writing Go at Multi-Million Dollar Companies with Mat Ryer](https://www.backendbanter.fm/episodes/017-writing-go-at-multi-million-dollar-companies-with-mat-ryer)
 
 Be sure to subscribe to the show on your podcast player of choice! And leave a rating & review if you really want to help us out.
 

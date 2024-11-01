@@ -2,7 +2,7 @@
 title: "How Much Do Backend Developers Make?"
 author: Natalie Schooner
 date: "2022-10-25"
-categories: 
+categories:
   - "backend"
 images:
   - /img/800/inthemoney.png.webp
@@ -12,12 +12,12 @@ imageAlts:
 
 The short answer? On average, backend developers make either [$82,462](https://www.glassdoor.com/Salaries/backend-developer-salary-SRCH_KO0,17.htm), [$95,472](https://www.indeed.com/career/back-end-developer/salaries), or [$104,865](https://www.salary.com/research/salary/recruiting/back-end-developer-salary#:~:text=The%20average%20Back%20End%20Developer,have%20spent%20in%20your%20profession.) per year in base pay depending on who you ask. (I asked Glassdoor, Indeed, and Salary.com respectively.) StackOverflow uses medians instead, and their [survey](https://survey.stackoverflow.co/2022/#salary-united-states) suggests the **backend developers actually make upwards of $150,000 per year**.
 
-That said, none of those numbers is the full answer. If it were, I wouldn't be writing this entire post. If you want to know how much backend developers make, those numbers don't paint the full picture. First of all, not only is there a $70k discrepancy between some of these numbers, but even if they were all the same number, they're *averages and medians.* How much backend engineers earn depends on so many things! things like:
+That said, none of those numbers is the full answer. If it were, I wouldn't be writing this entire post. If you want to know how much backend developers make, those numbers don't paint the full picture. First of all, not only is there a $70k discrepancy between some of these numbers, but even if they were all the same number, they're _averages and medians._ How much backend engineers earn depends on so many things! things like:
 
-* Where they live
-* Who they work for
-* What skills they have
-* How good they are at negotiating and interviewing
+- Where they live
+- Who they work for
+- What skills they have
+- How good they are at negotiating and interviewing
 
 Before we dive into a more comprehensive answer, I want to quickly discuss [what backend developers are](/backend/become-backend-developer/). Backend developers are programmers that build and maintain the systems that store, process, and secure the data used by websites and apps. (In contrast, front-end developers control what you see and interact with on a browser or app)
 
@@ -25,7 +25,7 @@ Now let's get into figuring out how much backend developers earn.
 
 ## Are backend developers in demand?
 
-In short, *yes*. Backend developers have a high salary (whether it's $80k or $150k!), solid career prospects, and unshakeable job security because backend developers are in very high demand by very well-funded companies. The Bureau of Labor Statistics unhelpfully groups web developers and digital designers together, but still [estimates](https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm#tab-1) that for that group, the job outlook for the next decade is set to grow by 23% – much higher than the average job (which is around 5%).
+In short, _yes_. Backend developers have a high salary (whether it's $80k or $150k!), solid career prospects, and unshakeable job security because backend developers are in very high demand by very well-funded companies. The Bureau of Labor Statistics unhelpfully groups web developers and digital designers together, but still [estimates](https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm#tab-1) that for that group, the job outlook for the next decade is set to grow by 23% – much higher than the average job (which is around 5%).
 
 If I [search](https://www.linkedin.com/jobs/search/?currentJobId=3289579147&geoId=103644278&keywords=back%20end%20developer&location=United%20States&refresh=true) "back end developer" jobs on LinkedIn, I currently see 48,000+ job openings.
 
@@ -37,14 +37,14 @@ There are six basic concepts you should know pretty thoroughly if you want to ge
 
 Here's what you should know:
 
-* Coding basics in [Python](https://boot.dev/courses/learn-python), Go, or another back-end language
-* [Data structures](https://boot.dev/courses/learn-data-structures) and [algorithms](https://boot.dev/courses/learn-algorithms)
-* The basics of the web, like [HTTP](https://boot.dev/courses/learn-http)
-* [Simple web servers](https://boot.dev/courses/build-social-media-backend-golang)
-* Database fundamentals - [SQL](https://boot.dev/courses/learn-sql) or NoSQL
-* How to deploy to the internet
+- Coding basics in [Python](https://www.boot.dev/courses/learn-code-python), Go, or another back-end language
+- [Data structures](https://www.boot.dev/courses/learn-data-structures-python) and [algorithms](https://www.boot.dev/courses/learn-algorithms-python)
+- The basics of the web, like [HTTP](https://www.boot.dev/courses/learn-http-clients-golang)
+- [Simple web servers](https://www.boot.dev/courses/build-social-media-backend-golang)
+- Database fundamentals - [SQL](https://www.boot.dev/courses/learn-sql) or NoSQL
+- How to deploy to the internet
 
-The easiest, cheapest, most fun and most effective way to learn those six fundamentals is by taking our [backend development course](https://boot.dev/). You can also opt to learn backend development by running through these [six back-end projects](https://blog.boot.dev/backend/best-backend-projects/).
+The easiest, cheapest, most fun and most effective way to learn those six fundamentals is by taking our [backend development course](https://www.boot.dev/). You can also opt to learn backend development by running through these [six back-end projects](https://blog.boot.dev/backend/best-backend-projects/).
 
 ## How much does a backend developer earn?
 
@@ -88,7 +88,7 @@ The study found that grit, risk-taking, communication, and self-esteem all had a
 
 ![Percent increase vs. Skill](/img/800/percentingreasebackend.png.webp)
 
-Surprisingly, the study found that sociability did not show a rise in wages, but the authors speculated this could be because not many people said they *weren't* sociable, so there just wasn't enough data.
+Surprisingly, the study found that sociability did not show a rise in wages, but the authors speculated this could be because not many people said they _weren't_ sociable, so there just wasn't enough data.
 
 I compared that to the estimated wage increase corresponding to an extra level of schooling, which I took from [this](https://journals.sagepub.com/doi/abs/10.1177/1035304616674613) Czech study.
 
@@ -130,10 +130,10 @@ Like a backend developer, one of the main languages you'll use in [data science 
 
 When you think about how much backend developers make, there's so much more than just a flat number to consider. You need to think about:
 
-* Where you live, and where you'd be willing to move
-* What skills you have, and what skills you can gain
-* How much confidence you have, and whether you can bring that confidence to bear during interviews
+- Where you live, and where you'd be willing to move
+- What skills you have, and what skills you can gain
+- How much confidence you have, and whether you can bring that confidence to bear during interviews
 
 But overall? Backend developers make a lot of money, relatively speaking. Most enjoy their job. The skills are very flexible, meaning you could grow your career easily. And in the meantime, your job isn't going anywhere: the demand for backend developers is high, and the supply is low.
 
-Want to get started becoming a backend developer? Learn backend development the right way with our [Backend Developer course track](https://boot.dev/tracks/backend). You'll get portfolio projects, on-demand skills training, and a fantastic community of lifelong learners.
+Want to get started becoming a backend developer? Learn backend development the right way with our [Backend Developer course track](https://www.boot.dev/tracks/backend). You'll get portfolio projects, on-demand skills training, and a fantastic community of lifelong learners.

@@ -19,7 +19,7 @@ All the best, Lane
 
 ## Patch notes
 
-### [1. New Roles](https://boot.dev/achievements)
+### [1. New Roles](https://www.boot.dev/achievements)
 
 ![roles banner](/img/800/rolesbanner.png.webp)
 
@@ -27,18 +27,18 @@ We've created new icons to represent the roles that you unlock by completing cou
 
 We've also added 3 new roles: Druid, Necromancer, and Archmage.
 
-* **Apprentice:** Level 10
-* **Pupil:** Level 20
-* **Acolyte:** Level 30
-* **Disciple:** Level 40
-* **Scholar:** Level 50
-* **Mage:** Level 60
-* **Sage:** Level 70
-* **Druid:** Level 80
-* **Necromancer:** Level 90
-* **Archmage:** Level 100
+- **Apprentice:** Level 10
+- **Pupil:** Level 20
+- **Acolyte:** Level 30
+- **Disciple:** Level 40
+- **Scholar:** Level 50
+- **Mage:** Level 60
+- **Sage:** Level 70
+- **Druid:** Level 80
+- **Necromancer:** Level 90
+- **Archmage:** Level 100
 
-### [2. "Learn Go" Course Redressing](https://boot.dev/courses/learn-golang)
+### [2. "Learn Go" Course Redressing](https://www.boot.dev/courses/learn-golang)
 
 Allan and I spent the majority of our time this month making big updates to the "Learn Go" course and recording videos for it. All the videos are now recorded and edited, and we'll be releasing them on YouTube and as embedded videos in the course over the next few weeks. Keep an eye out for those to drop!
 
@@ -46,7 +46,7 @@ Allan and I spent the majority of our time this month making big updates to the 
 
 ![Boots the bear](/img/800/bootsprofile.webp.webp)
 
-Boots, our friendly explainer of code. has undergone a significant UI update. He now explains code *much* faster, and the results are streamed to your screen as they're generated. We also make some big changes to his AI prompts so that he has *full context* for each lesson you're working on. In my experience his answers are about 4x better in terms of accuracy and relevance.
+Boots, our friendly explainer of code. has undergone a significant UI update. He now explains code _much_ faster, and the results are streamed to your screen as they're generated. We also make some big changes to his AI prompts so that he has _full context_ for each lesson you're working on. In my experience his answers are about 4x better in terms of accuracy and relevance.
 
 ### 4. Backend Banter Podcast
 
@@ -60,10 +60,10 @@ You may have noticed that we're dressing up the site with a new UI. We're not do
 
 ## What is yet to come
 
-* More UI updates, Boot.dev won't just *be* a game, it will also look and feel like one
-* New challenges for the "Learn Algorithms" course
-* Big update to the "Learn JavaScript" course
-* A more obvious experience surrounding "karma" in the [community Discord](https://boot.dev/community)
+- More UI updates, Boot.dev won't just _be_ a game, it will also look and feel like one
+- New challenges for the "Learn Algorithms" course
+- Big update to the "Learn JavaScript" course
+- A more obvious experience surrounding "karma" in the [community Discord](https://www.boot.dev/community)
 
 ## The cream of the crop
 

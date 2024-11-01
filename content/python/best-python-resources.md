@@ -2,19 +2,19 @@
 title: "The 12 Most Engaging Resources for Learning Python"
 author: Natalie Schooner
 date: "2022-06-24"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/photo-1598618589929-b1433d05cfc6.avif.webp
 ---
 
-While it's straightforward to get *Hello World* implemented in Python, learning the ins and outs of the programming language takes a lot of time and effort.
+While it's straightforward to get _Hello World_ implemented in Python, learning the ins and outs of the programming language takes a lot of time and effort.
 
 There are so many aspects to consider [when conquering a programming language like Python](/python/why-learn-python): syntax, built-in functions, performance. Sometimes, a language will make your life easier. Other times, it won't. Knowing when is useful.
 
 Teaching yourself all of these things is doable, but it can be challenging to find the good stuff that will actually teach you well. Learning the basics of how to write a script in Python is something you can easily do on your own with the help of Stack Overflow, but learning which strategy Python's dictionaries use to merge will bring your code to the next level. This kind of theoretical information is practically impossible to just stumble upon yourself.
 
-That's why the best resources for [learning Python](https://boot.dev/courses/learn-python) come straight from the experts. Rather than sitting down and tinkering with some code until it does what you want it to do, you need to gain a big-picture understanding of Python, what makes it tick, and how that can influence your use of it.
+That's why the best resources for [learning Python](https://www.boot.dev/courses/learn-code-python) come straight from the experts. Rather than sitting down and tinkering with some code until it does what you want it to do, you need to gain a big-picture understanding of Python, what makes it tick, and how that can influence your use of it.
 
 To help you learn both the basics and how to take your [Python code to the next level](/python/python-best-practices), I've compiled a variety of resources. Each category has advantages in terms of how you learn best, how fresh the information is, and how accessible the expansion of the information is, so pick whatever works for you!
 
@@ -54,11 +54,11 @@ If you're planning to do a bootcamp or another paid course and you've never prog
 
 Some of the best resources for learning Python are more hands-on. If you're looking for a more intense learning route, a bootcamp or coding course might work best for you! Though I still recommend reading one of the above books before you dive into a course, courses are great for making you turn your theoretical knowledge and loose ideas into code.
 
-## [Learn Python](https://boot.dev/courses/learn-python)
+## [Learn Python](https://www.boot.dev/courses/learn-code-python)
 
 This course checks all the boxes you need it to, covering variables, comparisons, lists and loops, functions, dictionaries, sets, and more. Additionally, this course has lovely little programming activities scattered throughout the content. One of the stand-out aspects of this course is you get instant feedback on the code you've written, and if you're really stuck, you have access to well-written solutions to the problems, so you can learn from the professionals.
 
-*Learn Python* from boot.dev also gets you access to their active discord community. If you're hoping to break into the software industry, this community will help you do everything from prepping your resume, finding jobs that fit your skills and interests, and maybe even some mock interviews!
+_Learn Python_ from boot.dev also gets you access to their active discord community. If you're hoping to break into the software industry, this community will help you do everything from prepping your resume, finding jobs that fit your skills and interests, and maybe even some mock interviews!
 
 ## [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-LbJFQp70Ng6EWthQCcCudg&utm_medium=udemyads&utm_source=aff-campaign)
 

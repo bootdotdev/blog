@@ -2,16 +2,16 @@
 title: "Advanced Algorithms Course Released on Boot.dev"
 author: Lane Wagner
 date: "2021-04-05"
-categories: 
+categories:
   - "computer-science"
   - "news"
 ---
 
-Sorry it took so long for me to get this one out! [Learn Advanced Algorithms](https://boot.dev/courses/learn-advanced-algorithms) was just released, and I'm excited to let you all get your hands on it, even if you're just auditing it for free! The more advanced material takes quite a bit longer to produce, I wanted to triple-check to make sure I got everything correct and that I've presented it in a way that makes it easy to understand.
+Sorry it took so long for me to get this one out! [Learn Advanced Algorithms](https://www.boot.dev/courses/learn-algorithms-2-python) was just released, and I'm excited to let you all get your hands on it, even if you're just auditing it for free! The more advanced material takes quite a bit longer to produce, I wanted to triple-check to make sure I got everything correct and that I've presented it in a way that makes it easy to understand.
 
-The course, like its prerequisite, [Learn Data](https://boot.dev/courses/learn-data-structures) Structures](https://boot.dev/courses/learn-data-structures), is written in Python, so most of the algorithms you write will be Python classes. Aside from the Python coding exercises that you can complete in your browser, multiple-choice questions help ensure you've digested the reading material. Sometimes the more math-intensive stuff simply can't be learned easily through code, so you've got to do a bit of reading.
+The course, like its prerequisite, [Learn Data Structures](https://www.boot.dev/courses/learn-data-structures-python), is written in Python, so most of the algorithms you write will be Python classes. Aside from the Python coding exercises that you can complete in your browser, multiple-choice questions help ensure you've digested the reading material. Sometimes the more math-intensive stuff simply can't be learned easily through code, so you've got to do a bit of reading.
 
-While it's not completely necessary to take my [Learn Data Structures](https://boot.dev/courses/learn-data-structures) and [Learn Algorithms](https://boot.dev/courses/learn-algorithms) courses first, I would recommend it, even if you've learned this stuff before. It doesn't cost any extra, and the refresher will really help. I won't rehash all the Big-O complexity stuff here, because I'm assuming you're already familiar with it. In this course, we focus on implementing some of the more advanced algorithms that you would learn in a CS undergraduate degree and learn how you can recognize when algorithms of this sort will help you in your future career.
+While it's not completely necessary to take my [Learn Data Structures](https://www.boot.dev/courses/learn-data-structures-python) and [Learn Algorithms](https://www.boot.dev/courses/learn-algorithms-python) courses first, I would recommend it, even if you've learned this stuff before. It doesn't cost any extra, and the refresher will really help. I won't rehash all the Big-O complexity stuff here, because I'm assuming you're already familiar with it. In this course, we focus on implementing some of the more advanced algorithms that you would learn in a CS undergraduate degree and learn how you can recognize when algorithms of this sort will help you in your future career.
 
 ## What's included?
 

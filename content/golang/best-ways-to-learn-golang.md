@@ -2,7 +2,7 @@
 title: "The 7 Best Ways to Learn Golang and Find Your Inner Gopher"
 author: Natalie Schooner
 date: "2022-02-05"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/bestwaytolearngolang.webp
@@ -12,15 +12,15 @@ Golang was released in 2012, making it a relatively new language when compared t
 
 Literally, my LinkedIn page is constantly flooded with recruiters looking for Go programmers, so if you're looking to pick up a language, you've come to the right place.
 
-But what's the best way to [learn Golang](https://boot.dev/courses/learn-golang)?
+But what's the best way to [learn Golang](https://www.boot.dev/courses/learn-golang)?
 
 Like most things in life, there's no one right answer, and in this article, I'll break down the 7 best ways to learn Golang so you can find one that suits your unique circumstance.
 
 ## Learn Go the interactive way
 
-Science and students alike attest to the power of interactive learning, and that's why one of the best ways to learn Golang online is to do so interactively. For this style of teaching, my favorite go-to option is right [here on Boot.dev](https://boot.dev/courses/learn-golang). Its ingenious use of a browser-based coding portal makes practicing the coding techniques feel like second nature.
+Science and students alike attest to the power of interactive learning, and that's why one of the best ways to learn Golang online is to do so interactively. For this style of teaching, my favorite go-to option is right [here on Boot.dev](https://www.boot.dev/courses/learn-golang). Its ingenious use of a browser-based coding portal makes practicing the coding techniques feel like second nature.
 
-In their [Learn Go course](https://boot.dev/courses/learn-golang), where you'll get to practice basic and advanced coding methods like creating a local Go environment, concurrency, and special data types. The real cherry on top though is everything is geared towards getting you employed. So, not only do you get the necessary hands-on experience, but you'll get access to Go interview prep and learn what to expect and how to ace your next interview.
+In their [Learn Go course](https://www.boot.dev/courses/learn-golang), where you'll get to practice basic and advanced coding methods like creating a local Go environment, concurrency, and special data types. The real cherry on top though is everything is geared towards getting you employed. So, not only do you get the necessary hands-on experience, but you'll get access to Go interview prep and learn what to expect and how to ace your next interview.
 
 And once all that is done, you get to hop on discord to chat with the Boot.dev community to discuss not only the learning material but also current trending hot topics in the field.
 
@@ -50,7 +50,7 @@ Tech with Tim is a verified channel that has over [20 videos](https://www.youtub
 
 All of his Go videos were also made recently, so you don't have to worry about learning out-of-date concepts and methods.
 
-All in all, this channel, along with many others, give you the flexibility to create your own curriculum, which I know is highly desirable for experienced coders already intuitive enough with programming to not need the hand-holding aspect of online courses.  
+All in all, this channel, along with many others, give you the flexibility to create your own curriculum, which I know is highly desirable for experienced coders already intuitive enough with programming to not need the hand-holding aspect of online courses.
 
 ## Learn Go the fast way
 
@@ -70,7 +70,7 @@ Taking online courses often feels like picking up another full-time job. Between
 
 > CodeWars has entered the chat
 
-Codewars is a fantastic new coding platform that turns coding into a competitive browser-based game. Compete alongside other coders in your same skill level bracket in missions called "katas". Here you'll be tested on how fast and efficiently you solve the coding problem. 
+Codewars is a fantastic new coding platform that turns coding into a competitive browser-based game. Compete alongside other coders in your same skill level bracket in missions called "katas". Here you'll be tested on how fast and efficiently you solve the coding problem.
 
 You'll play through the ranks all while sharpening your skills and gaining new techniques by receiving instant feedback on your answers. The community is also a great place for collective wisdom and learning about different styles from all over the world. You'll even get the chance to craft your own katas for the platform.
 
@@ -84,7 +84,7 @@ If the above methods have left you longing for the simpler days, when you just n
 
 I wouldn't say this is the hard way per se, especially if you're akin to this style of learning, but it can take longer to learn and requires a certain level of attention and motivation from your end.
 
-Either way, the first book I draw your attention to is [The Go Programming Language by Alan A. A. Donovan and Brian W. Kernighan](https://www.gopl.io/). This book is like the bible of Golang, you'll see it first on nearly every list, reigning in praise from not only new programmers but also experienced ones.  
+Either way, the first book I draw your attention to is [The Go Programming Language by Alan A. A. Donovan and Brian W. Kernighan](https://www.gopl.io/). This book is like the bible of Golang, you'll see it first on nearly every list, reigning in praise from not only new programmers but also experienced ones.
 
 Constructed of 13 chapters, this book assumes the role of the reader as completely new to Golang and starts by breaking down basic concepts, data types, and the program structure of Go, then in later chapters moving onto concurrency, low-level programming, and testing.
 
@@ -96,7 +96,7 @@ This works because:
 
 1. You need to learn to walk before you can run. Programming itself is a craft that you need to understand before building elaborate applications.
 2. [Golang is an incredibly simple language to learn](/golang/why-learn-golang/), so it's an ideal language to support the teaching of programming as a whole, making this book the perfect culmination of fruitful learning for new coders.
-  
+
 These books also make great additions to the other forms of learning Golang, to help seal in knowledge and provide resources.
 
 ## Learn Golang the Certified Way
@@ -117,4 +117,4 @@ There are tons of ways to learn Golang, some better than others, and some workin
 
 Don't hesitate to try out multiple methods listed above, especially the free ones, and create your perfect learning environment.
 
-In the meantime, audit our [Learn Go course for free](https://boot.dev/courses/learn-golang), and head over to our playground for some light coding practice!
+In the meantime, audit our [Learn Go course for free](https://www.boot.dev/courses/learn-golang), and head over to our playground for some light coding practice!

@@ -2,7 +2,7 @@
 title: "Python vs Java: Performance, Salary & More Compared"
 author: Meghan Reichenbach
 date: "2021-09-10"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/Python-vs-Java-min.webp
@@ -42,7 +42,7 @@ Alternatively, Python's a great tool to have because it's easy to learn for ever
 
 I think what's also unique about Python is it's an amazing hobby language. Sure, we all want to make money, and you can do that with Python, but you can also work on clever and imaginative side projects. And because Python's so easy to learn, you don't have to be a programmer to use Python recreationally.
 
-Overall, both languages offer huge passionate communities that can't be ignored and offer real value in terms of career growth. However, Python hands down takes the cake for beginners, and you can see how easy it is for yourself [on our course here](https://boot.dev/courses/learn-python)!
+Overall, both languages offer huge passionate communities that can't be ignored and offer real value in terms of career growth. However, Python hands down takes the cake for beginners, and you can see how easy it is for yourself [on our course here](https://www.boot.dev/courses/learn-code-python)!
 
 But for experienced programmers, both languages are useful, with Python better for those looking to work in experimental fields and wanting to create their own projects, and Java best for those looking to maintain security in traditional institutions and work with a universal solution.
 
@@ -80,7 +80,7 @@ Now, I'm not saying to choose a language based on a popularity contest…but I a
 
 It's no secret that C languages reign supreme in game development, but that doesn't mean other languages don't have merit in the field.
 
-Python may not be as popular as C++ in the industry, but it's made a nice name for itself with games like Battlefield 2, EVE Online, and Pirates of the Caribbean on its portfolio. It also has a nice selection of frameworks that support game development, like Pygame, PyKyra, Pyglet – and much more. 
+Python may not be as popular as C++ in the industry, but it's made a nice name for itself with games like Battlefield 2, EVE Online, and Pirates of the Caribbean on its portfolio. It also has a nice selection of frameworks that support game development, like Pygame, PyKyra, Pyglet – and much more.
 
 Python's particularly skilled at image processing, graphics development, and the rapid prototyping of games. So even if you don't build with it, you can use it to easily progress through the prototyping stage.
 
@@ -102,7 +102,7 @@ Java doesn't possess the same popularity with ML, and that's because it wasn't c
 
 Java technically has the bandwidth to support the data, but it wasn't adopted because it's too complex to experiment nicely with and it's not flexible. Java also doesn't have nearly the amount of library groundwork Python does, but that may be because there wasn't a demand to develop them.
 
-In the end, Python naturally meshed with this field in a way Java couldn't compete with.  
+In the end, Python naturally meshed with this field in a way Java couldn't compete with.
 
 ## Big Data in Python vs Java
 
@@ -136,4 +136,4 @@ Regardless of what you choose, you'll land on your feet with a language supporte
 
 **Take action and learn to code:**
 
-If you're looking to learn Python, we built our [Learn Python course](https://boot.dev/courses/learn-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
+If you're looking to learn Python, we built our [Learn Python course](https://www.boot.dev/courses/learn-code-python) to take anyone from a beginner to having all the Python skills to pursue your dream Python programming job, such as in data science.
