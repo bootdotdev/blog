@@ -8,25 +8,27 @@
   }
 
   .block-button-primary {
-    @apply relative block origin-bottom overflow-hidden rounded-full border text-center text-sm text-gray-950 font-semibold bg-blend-soft-light px-4 py-2 shadow-md focus:outline-none disabled:scale-100 disabled:cursor-not-allowed btn-texture-yellow;
+    @apply relative block origin-bottom overflow-hidden rounded-full border text-center text-sm text-gray-900 font-semibold bg-blend-soft-light px-4 py-2 shadow-md focus:outline-none disabled:scale-100 disabled:cursor-not-allowed btn-texture-yellow;
   }
 
   .block-button-secondary {
-    @apply relative block origin-bottom overflow-hidden rounded-full border text-center text-sm text-gray-950 font-semibold bg-blend-soft-light px-4 py-2 shadow-md focus:outline-none disabled:scale-100 disabled:cursor-not-allowed btn-texture-gray;
+    @apply relative block origin-bottom overflow-hidden rounded-full border text-center text-sm text-gray-900 font-semibold bg-blend-soft-light px-4 py-2 shadow-md focus:outline-none disabled:scale-100 disabled:cursor-not-allowed btn-texture-gray;
   }
 }
 
-.bg-black-textured {
-  background-image: url('/img/800/bg-black.webp');
+.bg-image-black {
+  background-image: url(/img/maptexture.webp), url('/img/800/bg-black.webp');
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
-.bg-blue-textured {
-  background: linear-gradient(rgba(20, 25, 39, 1), rgba(0, 0, 0, 0.2)), url('/img/800/maptexture.webp'), url('/img/800/bg-blue.webp');
+.bg-image-blue {
+  background: url('/img/800/maptexture.webp'), linear-gradient(var(--gray-950), var(--gray-900));
   background-blend-mode: overlay;
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .bg-wooden-divider {
