@@ -577,7 +577,7 @@ video {
   line-height: 1.25rem;
   font-weight: 600;
   --tw-text-opacity: 1;
-  color: hsl(240 10% 3% / var(--tw-text-opacity));
+  color: hsl(240 9% 6% / var(--tw-text-opacity));
   background-blend-mode: soft-light;
   --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -1px var(--tw-shadow-color);
@@ -636,7 +636,7 @@ video {
   line-height: 1.25rem;
   font-weight: 600;
   --tw-text-opacity: 1;
-  color: hsl(240 10% 3% / var(--tw-text-opacity));
+  color: hsl(240 9% 6% / var(--tw-text-opacity));
   background-blend-mode: soft-light;
   --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -1px var(--tw-shadow-color);
@@ -1200,17 +1200,19 @@ video {
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 
-.bg-black-textured {
-  background-image: url('/img/800/bg-black.webp');
+.bg-image-black {
+  background-image: url(/img/maptexture.webp), url('/img/800/bg-black.webp');
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
-.bg-blue-textured {
-  background: linear-gradient(rgba(20, 25, 39, 1), rgba(0, 0, 0, 0.2)), url('/img/800/maptexture.webp'), url('/img/800/bg-blue.webp');
+.bg-image-blue {
+  background: url('/img/800/maptexture.webp'), linear-gradient(var(--gray-950), var(--gray-900));
   background-blend-mode: overlay;
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .bg-wooden-divider {
