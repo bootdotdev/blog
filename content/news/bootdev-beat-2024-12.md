@@ -16,7 +16,7 @@ Dutifully, Lane
 
 ## Patch notes
 
-### 1. 3-Month Gift Codess
+### 1. 3-Month Gift Codes
 
 This is a bit of a self-serving announcement, admittedly, but you can now purchase 3-month gift codes for Boot.dev. We wanted to give a sort of in-between option for anyone looking for a gift this year where 1-month might not be enough, but a full year can be a bit expensive. You can find the [gift codes here](https://www.boot.dev/gifts).
 
