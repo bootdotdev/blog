@@ -89,7 +89,7 @@ Now that you understand basic coding fundamentals in at least one programming la
 - What is an HTTP server?
 - How do webpages communicate with servers?
 
-Your goal here is to understand _why_ we need backend developers at all, and how the internet works at a basic networking level. I'd recommend actually doing a couple of small, simple front-end projects like these [JavaScript projects for beginners](javascript/javascript-projects-for-beginners/) so that you can understand the role a backend server plays in a web application.
+Your goal here is to understand _why_ we need backend developers at all, and how the internet works at a basic networking level. I'd recommend actually doing a couple of small, simple front-end projects like these [JavaScript projects for beginners](/javascript/javascript-projects-for-beginners/) so that you can understand the role a backend server plays in a web application.
 
 #### Resources
 

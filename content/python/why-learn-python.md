@@ -5,7 +5,7 @@ date: "2021-09-09"
 categories:
   - "python"
 images:
-  - /img/800/Why-https://www.boot.dev/courses/learn-code-python.webp
+  - /img/800/Why-learn-Python.webp
 ---
 
 Simple to learn, endlessly versatile, and perennially in demand by employers paying higher and higher salaries every year — it feels like there's a million reasons to learn Python.
