@@ -1,8 +1,8 @@
 ---
 title: "The History of Computer Science - A Timeline"
-author: Winston Wagner
+author: winston
 date: "2020-12-03"
-categories: 
+categories:
   - "computer-science"
 images:
   - /img/800/Clock-in-City-scaled.jpeg

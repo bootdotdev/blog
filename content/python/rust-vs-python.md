@@ -1,6 +1,6 @@
 ---
 title: "Rust vs Python in Data Science, Systems Development & More"
-author: Meghan Reichenbach
+author: meghan
 date: "2021-09-15"
 categories:
   - "python"

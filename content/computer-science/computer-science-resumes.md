@@ -1,6 +1,6 @@
 ---
 title: "6 Computer Science Resume Examples"
-author: Lane Wagner
+author: lane
 date: "2020-12-14"
 categories: 
   - "computer-science"

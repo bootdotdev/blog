@@ -1,6 +1,6 @@
 ---
 title: "Work at Boot.dev"
-author: Lane Wagner
+author: lane
 date: "2023-05-31"
 images:
   - "/img/800/wagslane_A_young_30_year_old_fire_mage_walking_into_a_beautiful_85f9ac70-080d-4515-8183-d7e649fa4690.png.webp"

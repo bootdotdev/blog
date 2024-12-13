@@ -1,6 +1,6 @@
 ---
 title: "19 Simple JavaScript Projects for Beginners [Updated for 2024]"
-author: Zulie Rane
+author: zulie
 date: "2021-10-08"
 categories:
   - "javascript"

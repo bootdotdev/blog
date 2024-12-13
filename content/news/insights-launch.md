@@ -1,6 +1,6 @@
 ---
 title: "We Just Launched Community Insights"
-author: Lane Wagner
+author: lane
 date: "2022-04-27"
 categories:
   - "news"

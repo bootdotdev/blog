@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. April 2023"
-author: Lane Wagner
+author: lane
 date: "2023-04-06"
 categories:
   - "news"
@@ -8,8 +8,6 @@ images:
   - /img/800/bootdevbeatdrumapril.png.webp
 imageAlts:
   - "Boot.dev Beat Drum"
-dofollows:
-  - "https://www.youtube.com"
 ---
 
 We released more this last March than I think we've ever released in a single month before. I've been biting my nails waiting to share it all in this month's newsletter.

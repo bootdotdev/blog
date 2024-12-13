@@ -1,6 +1,6 @@
 ---
 title: "AES-256 Cipher – Python Cryptography Examples"
-author: Lane Wagner
+author: lane
 date: "2020-02-06"
 categories: 
   - "cryptography"

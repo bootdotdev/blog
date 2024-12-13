@@ -1,8 +1,8 @@
 ---
 title: "Is AES-256 Quantum Resistant?"
-author: Lane Wagner
+author: lane
 date: "2020-09-10"
-categories: 
+categories:
   - "cryptography"
   - "security"
 images:
@@ -23,7 +23,7 @@ Because algorithms like RSA rely heavily on the fact that normal computers can't
 
 The following are examples of encryption that Shor's algorithm can break:
 
-- [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+- [RSA](<https://en.wikipedia.org/wiki/RSA_(cryptosystem)>)
 - [Diffie Hellman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
 - [ECC](/cryptography/elliptic-curve-cryptography/)
 

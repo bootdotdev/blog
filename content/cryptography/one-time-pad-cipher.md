@@ -1,6 +1,6 @@
 ---
 title: "Intro to the One-Time Pad Cipher"
-author: Lane Wagner
+author: lane
 date: "2021-06-28"
 categories: 
   - "cryptography"

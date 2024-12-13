@@ -1,8 +1,8 @@
 ---
 title: "How much do coding bootcamps cost?"
-author: Zulie Rane
+author: zulie
 date: "2022-05-24"
-categories: 
+categories:
   - "education"
 images:
   - /img/800/cost.avif.webp
@@ -10,7 +10,7 @@ images:
 
 ## And an answer to what you're really asking: "are coding bootcamps worth it?"
 
-I'll give you the quick answer right off the bat: **coding bootcamps cost 13,500 on average based on the data [collected by BestColleges](https://www.bestcolleges.com/bootcamps/payment/bootcamp-cost/#:~:text=Based%20on%20data%20from%20over,cost%20a%20few%20thousand%20dollars.)**. On the upper end of that range, coding bootcamps cost upwards of *$20,000*. Some of the less-expensive camps are a couple thousand dollars. It's 2022 as I write this, so those numbers have probably increased even more in the interim.
+I'll give you the quick answer right off the bat: **coding bootcamps cost 13,500 on average based on the data [collected by BestColleges](https://www.bestcolleges.com/bootcamps/payment/bootcamp-cost/#:~:text=Based%20on%20data%20from%20over,cost%20a%20few%20thousand%20dollars.)**. On the upper end of that range, coding bootcamps cost upwards of _$20,000_. Some of the less-expensive camps are a couple thousand dollars. It's 2022 as I write this, so those numbers have probably increased even more in the interim.
 
 The prices of coding bootcamps vary depending on a few different factors: whether you're on campus or online (online is usually cheaper by about $500); whether you're doing it full-time or part-time (part-time can be cheaper sometimes, but not always); whether it's a single coding language or a full-stack bootcamp (more comprehensive coding bootcamps cost more).
 
@@ -20,9 +20,9 @@ If that's all you needed, I could finish off this super-short article and send y
 
 You might want to know:
 
-* Is the cost of a coding bootcamp worth it?
-* I'm about to shell out $10,000 for this - what's the benefit to me?
-* Why should I spend thousands of dollars on this and not an alternative?
+- Is the cost of a coding bootcamp worth it?
+- I'm about to shell out $10,000 for this - what's the benefit to me?
+- Why should I spend thousands of dollars on this and not an alternative?
 
 Let's answer those questions.
 
@@ -40,7 +40,7 @@ Even if you're on the part-time model, many coding bootcamps expect a time commi
 
 Full-time coding bootcamps run for at least 12 weeks, but sometimes up to 20 weeks on the full-time model. Even if you think the price is worth it, definitely consider the time cost too.
 
-## Coding bootcamps cost much more than the alternatives. 
+## Coding bootcamps cost much more than the alternatives.
 
 It's also worth comparing the cost of coding bootcamps to the cost of specific courses. For example, if you were to go on Coursera, you'd be able to find a course in the basics of Python, run by the University of Michigan, that comes with a certificate. Coursera's [Python for Everyone specialization](https://www.coursera.org/specializations/python) costs $49/month. They estimate you'll get it done in eight months. That's $400.
 
@@ -52,7 +52,7 @@ Having a college-backed certificate is powerful, but what I said earlier still s
 
 Compared to the cost of a coding bootcamp, online courses or communities are a steal.
 
-## Coding bootcamps come with a lot of handholding. 
+## Coding bootcamps come with a lot of handholding.
 
 The real benefit to paying $13,500 for a coding bootcamp is that mentally, you're invested. (It's hard to casually drop thousands of dollars on something and then not pay up.) Like a gym membership or private training, the more money you spend, the more likely you are to follow through.
 

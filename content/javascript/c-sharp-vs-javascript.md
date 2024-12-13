@@ -1,6 +1,6 @@
 ---
 title: "C# vs JavaScript: Choosing the Best Language for You"
-author: Meghan Reichenbach
+author: meghan
 date: "2021-10-07"
 categories:
   - "javascript"

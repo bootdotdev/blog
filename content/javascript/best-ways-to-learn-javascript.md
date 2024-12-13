@@ -1,9 +1,9 @@
 ---
 title: "8 Best Ways to Learn JavaScript, Personalized"
-author: Meghan Reichenbach
+author: meghan
 date: "2022-02-05"
 lastmod: "2022-07-18"
-categories: 
+categories:
   - "javascript"
 images:
   - /img/800/bestwaystolearnJavaScript.webp
@@ -11,7 +11,7 @@ images:
 
 JavaScript is undoubtedly one of the best languages to learn as a developer, whether you've been at it for years or are just starting out. More than 97% of today's websites are powered by JavaScript. Regardless of what field you work in, you'll likely be exposed to JavaScript at some point, as the language is firmly entrenched in the online world.
 
-**But what is the best way to learn JavaScript?** That's a tough question, because what I think is the best way to learn JavaScript may not be the best way to learn it for you. So the question you should ask yourself is, "What's the best way to learn *for me*?"
+**But what is the best way to learn JavaScript?** That's a tough question, because what I think is the best way to learn JavaScript may not be the best way to learn it for you. So the question you should ask yourself is, "What's the best way to learn _for me_?"
 
 I've compiled the 7 best methods for learning JavaScript so you can find the best way for you. I'll show you the best methods online - and offline - and help you find the best way for you and your learning style.
 
@@ -98,7 +98,7 @@ While you can learn JavaScript from these texts alone, much like Codewars, I thi
 
 Did you even learn JavaScript if you didn't get a certificate?
 
-Well, yes, but it *feels* validating to be rewarded with a certificate at the end of your training, not only for yourself but for professionals and businesses that may require proof of your working knowledge.
+Well, yes, but it _feels_ validating to be rewarded with a certificate at the end of your training, not only for yourself but for professionals and businesses that may require proof of your working knowledge.
 
 Coursera is one of the top sites for this! As an online e-learning site that provides university-taught and accredited courses, as well as courses from tech giants like IBM, Coursera can get you a certificate without you needing to enroll in a university. Coursera doesn't specialize in computer science, but it still has plenty of options like the [JavaScript for Beginners class](https://www.coursera.org/specializations/javascript-beginner) from the University of California, where you'll learn from professors teaching at the university.
 

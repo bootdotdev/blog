@@ -1,6 +1,6 @@
 ---
 title: "What is in a Back-End Developer's Job Description?"
-author: Natalie Schooner
+author: natalie
 date: "2023-02-10"
 categories:
   - "backend"

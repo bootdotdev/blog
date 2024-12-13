@@ -1,6 +1,6 @@
 ---
 title: "What is Cryptography? A Complete Overview"
-author: Lane Wagner
+author: lane
 date: "2021-09-08"
 categories:
   - "cryptography"

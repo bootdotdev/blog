@@ -1,6 +1,6 @@
 ---
 title: "12 Codecademy Alternatives That Will Get You Where You Need to Go"
-author: Natalie Schooner
+author: natalie
 date: "2023-05-04"
 categories:
   - "misc"

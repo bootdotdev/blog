@@ -1,6 +1,6 @@
 ---
 title: '"Learn Algorithms" Course Released'
-author: Lane Wagner
+author: lane
 date: "2020-09-14"
 categories:
   - "golang"

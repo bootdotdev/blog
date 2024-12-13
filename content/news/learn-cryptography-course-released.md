@@ -1,6 +1,6 @@
 ---
 title: "Cryptography Course Released on Boot.dev"
-author: Lane Wagner
+author: lane
 date: "2023-01-24"
 categories:
   - "cryptography"

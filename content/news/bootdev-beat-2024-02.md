@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. February 2024"
-author: Lane Wagner
+author: lane
 date: "2024-01-31"
 categories:
   - "news"
@@ -8,8 +8,6 @@ images:
   - /img/800/febdrums.png.webp
 imageAlts:
   - "Boot.dev Beat Drum"
-dofollows:
-  - "https://skii.dev"
 ---
 
 **609,179**. That's the number of lessons you crazy folks have completed on [Boot.dev](https://www.boot.dev) in the last 30 days. Good work my fellow pupils.

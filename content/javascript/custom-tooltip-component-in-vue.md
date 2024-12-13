@@ -1,8 +1,8 @@
 ---
 title: "Creating a Custom Tooltip Component in Vue"
-author: Lane Wagner
+author: lane
 date: "2020-08-28"
-categories: 
+categories:
   - "javascript"
 images:
   - /img/800/Copy-of-Bcrypt.webp
@@ -17,17 +17,11 @@ As it happens, this is also the boilerplate for the tooltip component we use on 
 We are building a single file component, as such it will be a single file with the following structure:
 
 ```html
-<template>
-  
-</template>
+<template> </template>
 
-<script>
+<script></script>
 
-</script>
-
-<style scoped>
-
-</style>
+<style scoped></style>
 ```
 
 At the end of this walkthrough we will have a tooltip component that floats above the target element(s), fades in and out, activates on hover, and is reusable across our entire app. Let's take each section at a time.
@@ -38,12 +32,8 @@ At the end of this walkthrough we will have a tooltip component that floats abov
 <template>
   <div class="tooltip-box">
     <slot />
-    <div
-      class="tooltip"
-    >
-      <span
-        class="text"
-      >{{ text }}</span>
+    <div class="tooltip">
+      <span class="text">{{ text }}</span>
     </div>
   </div>
 </template>
@@ -59,12 +49,12 @@ Fairly simple setup here. We need:
 
 ```js
 export default {
-  props: { 
+  props: {
     text: {
       type: String,
-      required: true
-    }
-  }
+      required: true,
+    },
+  },
 };
 ```
 
@@ -73,21 +63,21 @@ Pretty straightforward, all we need is a required prop for our users to specify 
 ## The CSS
 
 ```css
-.tooltip-box { 
+.tooltip-box {
   position: relative;
   display: inline-block;
 }
 
-.tooltip-box:hover .tooltip{
+.tooltip-box:hover .tooltip {
   opacity: 1;
 }
 
-.tooltip { 
+.tooltip {
   color: #ffffff;
   text-align: center;
   padding: 5px 0;
   border-radius: 2px;
-  
+
   width: 120px;
   bottom: 100%;
   left: 50%;
@@ -127,76 +117,70 @@ The full component:
 <template>
   <div class="tooltip-box">
     <slot />
-    <div
-      class="tooltip"
-    >
-      <span
-        class="text"
-      >{{ text }}</span>
+    <div class="tooltip">
+      <span class="text">{{ text }}</span>
     </div>
   </div>
 </template>
 
 <script>
-export default {
-  props: { 
-    text: {
-      type: String,
-      required: true
-    }
-  }
-};
+  export default {
+    props: {
+      text: {
+        type: String,
+        required: true,
+      },
+    },
+  };
 </script>
 
 <style scoped>
-.tooltip-box { 
-  position: relative;
-  display: inline-block;
-}
+  .tooltip-box {
+    position: relative;
+    display: inline-block;
+  }
 
-.tooltip-box:hover .tooltip{
-  opacity: 1;
-}
+  .tooltip-box:hover .tooltip {
+    opacity: 1;
+  }
 
-.tooltip { 
-  color: #ffffff;
-  text-align: center;
-  padding: 5px 0;
-  border-radius: 2px;
-  
-  width: 120px;
-  bottom: 100%;
-  left: 50%;
-  margin-left: -60px;
+  .tooltip {
+    color: #ffffff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 2px;
 
-  opacity: 0;
-  transition: opacity 1s;
+    width: 120px;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
 
-  position: absolute;
-  z-index: 1;
+    opacity: 0;
+    transition: opacity 1s;
 
-  background: #a782e8;
-}
+    position: absolute;
+    z-index: 1;
 
-.text::after {
-  content: " ";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: #a782e8 transparent transparent transparent;
-}
+    background: #a782e8;
+  }
+
+  .text::after {
+    content: " ";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #a782e8 transparent transparent transparent;
+  }
 </style>
 ```
 
 And how to use it:
 
 ```html
-<Tooltip
-  text="Difficulty"
- >
-   <span> hover over me </span>
- </Tooltip>
+<Tooltip text="Difficulty">
+  <span> hover over me </span>
+</Tooltip>
 ```

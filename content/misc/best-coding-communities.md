@@ -1,23 +1,23 @@
 ---
 title: "Top 10 Communities For Learning to Code"
-author: Zulie Rane
+author: zulie
 date: "2022-04-20"
 lastmod: "2023-04-20"
-categories: 
+categories:
   - "misc"
 images:
   - /img/800/dwarfcommunity.png.webp
 imageAlts:
   - "A painting of a Dwarf Forest community"
 aliases:
- - /misc/top-12-best-communities-for-learning-to-code
+  - /misc/top-12-best-communities-for-learning-to-code
 ---
 
 ## Why you need a coding community
 
 The one thing that every programmer has in common, whether they've only ever implemented a "Hello World" program or they're considered a "senior" software engineer, is the need to continuously learn. New technologies, programming languages, frameworks, libraries, and conventions are constantly being introduced to the industry. As a beginner, it can be hard to suss out what you need to know to enter the profession, and once you're a proficient coder, it's tiring to constantly investigate trending topics in tech.
 
-That's why getting involved in a tech community is *so important*. With the rise of hybrid, remote, and freelance work, connecting with colleagues on your team and other teams within your company is harder than it used to be, and that's assuming you have other coding colleagues. "The Great Resignation", amongst higher-than-normal turnover rates make it hard to connect with those moving through the revolving door of employment. If you find yourself missing technical mentors, peers, or friends of a similar profession, your best bet is to reach out online to find friends within the many coding communities already in existence.
+That's why getting involved in a tech community is _so important_. With the rise of hybrid, remote, and freelance work, connecting with colleagues on your team and other teams within your company is harder than it used to be, and that's assuming you have other coding colleagues. "The Great Resignation", amongst higher-than-normal turnover rates make it hard to connect with those moving through the revolving door of employment. If you find yourself missing technical mentors, peers, or friends of a similar profession, your best bet is to reach out online to find friends within the many coding communities already in existence.
 
 ## 1. Discord
 
@@ -35,9 +35,9 @@ The biggest bonus of Discord is that it creates a more intimate environment, mea
 
 ![Reddit Screenshot](/img/800/rprogrammingss.png.webp)
 
-* [/r/programming](https://www.reddit.com/r/programming/)
-* [/r/computerscience](https://www.reddit.com/r/computerscience)
-* [/r/coding](https://www.reddit.com/r/coding/)
+- [/r/programming](https://www.reddit.com/r/programming/)
+- [/r/computerscience](https://www.reddit.com/r/computerscience)
+- [/r/coding](https://www.reddit.com/r/coding/)
 
 Reddit is a popular online forum for almost anything you can find on the internet. Under the umbrella of programming, there exist a lot of different subreddits for different topics like Java, JavaScript, Go, Rust, etc. The content is posted in a question/answer format, similar to that of GitHub, DEV, and CodeNewbie.
 
@@ -65,7 +65,7 @@ GitHub is a platform for developers to share code and collaborate on projects. I
 
 [Hacker News](https://news.ycombinator.com/) a list of programming news articles hosted by the famous [Y Combinator](https://www.ycombinator.com/). Hacker News is an aggregation site, so users are the ones sharing, upvoting, and deciding which articles make it to the top of the feed. They have a lot of great content for start-up/freelance career advice. On Hacker News, you can find lots of interesting articles, which can serve as good inspiration for what you can do with your coding skills, either on your own or at a company.
 
-You can connect with other users, but it's *mostly* for finding articles to read. Hacker News' biggest strength is providing current news about what's happening in the world of developers. If you're looking for tips regarding [useful libraries and tools](https://codecondo.com/programming-communities/), it's a wonderful place to look.
+You can connect with other users, but it's _mostly_ for finding articles to read. Hacker News' biggest strength is providing current news about what's happening in the world of developers. If you're looking for tips regarding [useful libraries and tools](https://codecondo.com/programming-communities/), it's a wonderful place to look.
 
 One additional bonus of Hacker News is that it has a job board for startups, so if that's the direction you're looking to head in, it will provide you with some good contacts.
 

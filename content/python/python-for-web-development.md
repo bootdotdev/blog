@@ -1,6 +1,6 @@
 ---
 title: "Can I Use Python for Web Development?"
-author: Natalie Schooner
+author: natalie
 date: "2023-08-14"
 categories:
   - "python"

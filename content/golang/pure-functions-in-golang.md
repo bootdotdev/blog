@@ -1,6 +1,6 @@
 ---
 title: "How to Make Pure Functions in Golang"
-author: Lane Wagner
+author: lane
 date: "2020-09-07"
 categories: 
   - "clean-code"

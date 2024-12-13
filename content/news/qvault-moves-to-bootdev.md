@@ -1,6 +1,6 @@
 ---
 title: "Qvault is moving to Boot.dev"
-author: Lane Wagner
+author: lane
 date: "2022-04-07"
 categories:
   - "news"

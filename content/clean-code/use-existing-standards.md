@@ -1,8 +1,8 @@
 ---
 title: "Check for Standards Before Creating a New One"
-author: Lane Wagner
+author: lane
 date: "2021-06-07"
-categories: 
+categories:
   - "clean-code"
 images:
   - /img/800/flags.webp

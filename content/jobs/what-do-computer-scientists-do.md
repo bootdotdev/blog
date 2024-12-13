@@ -1,6 +1,6 @@
 ---
 title: "What is a Computer Scientist, and What Do They Do?"
-author: Lane Wagner
+author: lane
 date: "2022-09-12"
 categories:
   - "computer-science"

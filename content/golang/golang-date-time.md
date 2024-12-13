@@ -1,8 +1,8 @@
 ---
 title: "Comprehensive Guide to Dates and Times in Go"
-author: Lane Wagner
+author: lane
 date: "2021-05-17"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/clock.webp
@@ -169,7 +169,6 @@ difference := end.Sub(start) fmt.Printf("difference = %v\n", difference)
 
 ### Compare two times to see which comes after the other
 
-  
 There are two functions that should take care of most of your time comparison needs.
 
 [time.After()](https://golang.org/pkg/time/#Time.After)

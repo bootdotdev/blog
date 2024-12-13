@@ -1,8 +1,8 @@
 ---
 title: "Best Practices for Interfaces in Go"
-author: Lane Wagner
+author: lane
 date: "2020-03-15"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/Go_Interfaces_Best_Practices.webp

@@ -1,6 +1,6 @@
 ---
 title: "Format on Save in Go with VS Code [2023]"
-author: Lane Wagner
+author: lane
 date: "2023-05-26"
 categories:
   - "golang"

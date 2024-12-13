@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. April 2024"
-author: Lane Wagner
+author: lane
 date: "2024-04-03"
 categories:
   - "news"
@@ -26,10 +26,10 @@ This new guided project comes directly after the functional programming course. 
 
 The purpose of all our game mechanics is to encourage great learning habits. As such, we needed to make some updates...
 
-* Boss battle achievements are no longer competitive, instead, they're based on the total number of bosses you've helped to defeat. We plan to do boss battles on a semi-random schedule every 4-8 weeks.
-* Bosses are defeated as the community gains XP. We removed the "damage" mechanic, it felt redundant.
-* You now get a static XP bonus as the event goes along, and it's based on how many fellow learners are participating.
-* We've added a live feed of the boss's health and the community's progress in the event.
+- Boss battle achievements are no longer competitive, instead, they're based on the total number of bosses you've helped to defeat. We plan to do boss battles on a semi-random schedule every 4-8 weeks.
+- Bosses are defeated as the community gains XP. We removed the "damage" mechanic, it felt redundant.
+- You now get a static XP bonus as the event goes along, and it's based on how many fellow learners are participating.
+- We've added a live feed of the boss's health and the community's progress in the event.
 
 ### 3. Profile heatmaps
 
@@ -39,20 +39,20 @@ Your public profile page now includes a GitHub-style heatmap of all your accompl
 
 ### 4. Miscellaneous improvements
 
-* Added 20+ optional challenges to the Learn Go course.
-* Big update to the OOP course
-* Big update to the algorithms course
-* More sidebar menus open as models so you don't lose your place in the course
-* Profile page leads much faster
-* The leaderboard has a live feed of lessons being completed, as well as a full redesign
+- Added 20+ optional challenges to the Learn Go course.
+- Big update to the OOP course
+- Big update to the algorithms course
+- More sidebar menus open as models so you don't lose your place in the course
+- Profile page leads much faster
+- The leaderboard has a live feed of lessons being completed, as well as a full redesign
 
 ## What is yet to come
 
-* New Course: "Learn Pub/Sub Architecture"
-* Chests (loot boxes) as the new primary reward system (don't worry, no microtransactions)
-* Baked Salmon, Seer Stones, and Potions to round out our shop of consumables
-* New Course: "Learn Memory Management in C"
-* New Course: "Learn Git"
+- New Course: "Learn Pub/Sub Architecture"
+- Chests (loot boxes) as the new primary reward system (don't worry, no microtransactions)
+- Baked Salmon, Seer Stones, and Potions to round out our shop of consumables
+- New Course: "Learn Memory Management in C"
+- New Course: "Learn Git"
 
 ## Backend Banter Podcast
 
@@ -60,10 +60,10 @@ There is a brand new [site](https://www.backendbanter.fm/), and because we moved
 
 This month's episodes include:
 
-* [#043 - Nuxt.js is better than Next.js ft. Daniel Roe](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/043---Nuxt-js-is-better-than-Next-js-ft--Daniel-Roe-e2h4j0k)
-* [#044 - Managers should know how to code ft. Thorsten Ball](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/044---Managers-should-know-how-to-code-ft--Thorsten-Ball-e2h4j06)
-* [#045 - Whiskey, Web, and Wagners](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/045---Whiskey--Web--and-Wagners-e2h72q7)
-* [#046 - How I Spent $100,000/mo on CI/CD](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/046---How-I-Spent-100-000mo-on-CICD-e2h9n35)
-* [#047 - From Nursing to Programming ft. Trash Puppy](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/047---From-Nursing-to-Programming-ft--Trash-Puppy-e2h9nbl)
+- [#043 - Nuxt.js is better than Next.js ft. Daniel Roe](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/043---Nuxt-js-is-better-than-Next-js-ft--Daniel-Roe-e2h4j0k)
+- [#044 - Managers should know how to code ft. Thorsten Ball](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/044---Managers-should-know-how-to-code-ft--Thorsten-Ball-e2h4j06)
+- [#045 - Whiskey, Web, and Wagners](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/045---Whiskey--Web--and-Wagners-e2h72q7)
+- [#046 - How I Spent $100,000/mo on CI/CD](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/046---How-I-Spent-100-000mo-on-CICD-e2h9n35)
+- [#047 - From Nursing to Programming ft. Trash Puppy](https://podcasters.spotify.com/pod/show/backend-banter-fm/episodes/047---From-Nursing-to-Programming-ft--Trash-Puppy-e2h9nbl)
 
 If you haven't yet, subscribe on [YouTube](https://www.youtube.com/@backendbanterfm), [Spotify](https://open.spotify.com/show/35trT95UkRVCkEb6tXndpF), or [Apple Podcasts](https://podcasts.apple.com/us/podcast/backend-banter/id1688115203)! If you leave a rating and a review, I'll love you forever.

@@ -1,6 +1,6 @@
 ---
 title: "Why is Exclusive Or (XOR) Important in Cryptography?"
-author: Lane Wagner
+author: lane
 date: "2020-01-18"
 categories: 
   - "cryptography"

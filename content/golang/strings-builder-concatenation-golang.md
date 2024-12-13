@@ -1,6 +1,6 @@
 ---
 title: "Concatenating with strings.Builder Quickly in Golang"
-author: Lane Wagner
+author: lane
 date: "2021-05-04"
 categories: 
   - "golang"

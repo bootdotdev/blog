@@ -1,8 +1,8 @@
 ---
 title: "Base64 vs Base58 Encoding"
-author: Lane Wagner
+author: lane
 date: "2020-11-03"
-categories: 
+categories:
   - "bitcoin"
   - "cryptography"
 images:
@@ -43,7 +43,7 @@ You could also call ASCII Base128 because its alphabet is made up of 128 charact
 ### Human Readability Rank: 3rd
 
 > Base64 is designed to carry data stored in binary formats across channels that only reliably support text content
-> 
+>
 > [Wikipedia](https://en.wikipedia.org/wiki/Base64)
 
 Base64 was essentially designed to trick computers... kind of. When we have binary but are only allowed to transport or display text, Base64 is a great choice.

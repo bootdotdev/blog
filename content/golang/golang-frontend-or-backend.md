@@ -1,6 +1,6 @@
 ---
 title: "Is Golang Best For Backend or Frontend Development?"
-author: Natalie Schooner
+author: natalie
 date: "2022-12-19"
 categories:
   - "golang"

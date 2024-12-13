@@ -1,6 +1,6 @@
 ---
 title: "How To Cache Images - React Native Expo (Managed)"
-author: Lane Wagner
+author: lane
 date: "2020-02-04"
 categories: 
   - "javascript"

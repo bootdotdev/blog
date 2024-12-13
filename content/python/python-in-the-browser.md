@@ -1,6 +1,6 @@
 ---
 title: "Running Python in the Browser with Web Assembly"
-author: Lane Wagner
+author: lane
 date: "2020-09-24"
 categories:
   - "javascript"

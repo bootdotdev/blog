@@ -1,6 +1,6 @@
 ---
 title: "Boot.dev Team Handbook"
-author: Lane Wagner
+author: lane
 date: "2023-06-12"
 images:
   - "/img/800/groupofmages.webp"

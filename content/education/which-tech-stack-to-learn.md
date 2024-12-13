@@ -1,6 +1,6 @@
 ---
 title: "JavaScript? Python? Go? Which Tech Stack Should You Learn?"
-author: Lane Wagner
+author: lane
 date: "2023-04-24"
 categories:
   - "education"

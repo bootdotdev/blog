@@ -1,6 +1,6 @@
 ---
 title: "How Hard Is Python to Learn?"
-author: Zulie Rane
+author: zulie
 date: "2022-01-24"
 lastmod: "2022-10-16"
 categories:

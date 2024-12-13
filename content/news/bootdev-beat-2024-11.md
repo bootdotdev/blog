@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. November 2024"
-author: Lane Wagner
+author: lane
 date: "2024-11-05"
 categories:
   - "news"

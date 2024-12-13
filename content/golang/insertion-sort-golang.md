@@ -1,8 +1,8 @@
 ---
 title: "How to Write Insertion Sort in Go"
-author: Lane Wagner
+author: lane
 date: "2021-06-14"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/insert.webp
@@ -52,7 +52,6 @@ Like [bubble sort](/golang/bubble-sort-golang/), the algorithm is just too slow 
 - Online: Can sort a list as it receives it
 
 Some production sorting implementations use merge sort for ver small inputs under a certain threshold (a very small threshold, usually about 10 items). Insertion sort is better for very small lists than some of the faster algorithms because:
-
 
 - There is no recursion overhead
 - Tiny memory footprint

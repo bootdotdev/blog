@@ -1,6 +1,6 @@
 ---
 title: "Boot.dev Launches Golang Crash Course - Learn Go"
-author: Lane Wagner
+author: lane
 date: "2020-07-02"
 categories:
   - "golang"

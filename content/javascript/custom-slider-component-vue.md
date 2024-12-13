@@ -1,8 +1,8 @@
 ---
 title: "How to Make a Custom Slider Component in Vue"
-author: Lane Wagner
+author: lane
 date: "2020-11-24"
-categories: 
+categories:
   - "javascript"
 images:
   - /img/800/vue-custom-slider.webp
@@ -29,7 +29,7 @@ You can see a [full demo on codesandbox here](https://codesandbox.io/s/custom-vu
           :max="max"
           class="slider"
           @input="onInput"
-        >
+        />
       </div>
     </div>
   </div>
@@ -45,28 +45,28 @@ export default {
   props: {
     value: {
       type: Number,
-      required: true
+      required: true,
     },
     min: {
       type: Number,
-      required: true
+      required: true,
     },
     max: {
       type: Number,
-      required: true
-    }
+      required: true,
+    },
   },
-  data(){
+  data() {
     return {
-      currentValue: this.value
+      currentValue: this.value,
     };
   },
   methods: {
     onInput() {
       // this.currentValue is a string because HTML is weird
-      this.$emit('input', parseInt(this.currentValue));
-    }
-  }
+      this.$emit("input", parseInt(this.currentValue));
+    },
+  },
 };
 ```
 
@@ -78,42 +78,42 @@ You may not be here for exactly my styling, but you're probably here so that you
 
 ```css
 .slider-component .slidecontainer {
-	width: 100%;
+  width: 100%;
 }
 
 .slider-component .slidecontainer .slider {
-	-webkit-appearance: none;
-	appearance: none;
-	width: 100%;
-	height: 4px;
-	border-radius: 2px;
-	background: #c2c2c2;
-	outline: none;
-	opacity: 0.7;
-	-webkit-transition: .2s;
-	transition: opacity .2s;
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 4px;
+  border-radius: 2px;
+  background: #c2c2c2;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
 }
 
 .slider-component .slidecontainer .slider:hover {
-	opacity: 1;
+  opacity: 1;
 }
 
 .slider-component .slidecontainer .slider::-webkit-slider-thumb {
-	-webkit-appearance: none;
-	appearance: none;
-	width: 18px;
-	height: 18px;
-	background: #D8A22E;
-	cursor: pointer;
-	border-radius: 50%;
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  background: #d8a22e;
+  cursor: pointer;
+  border-radius: 50%;
 }
 
 .slider-component .slidecontainer .slider::-moz-range-thumb {
-	width: 18px;
-	height: 18px;
-	background: #D8A22E;
-	cursor: pointer;
-	border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  background: #d8a22e;
+  cursor: pointer;
+  border-radius: 50%;
 }
 ```
 
@@ -134,80 +134,80 @@ The important thing to note here is that we're overriding the browsers defaults 
           :max="max"
           class="slider"
           @input="onInput"
-        >
+        />
       </div>
     </div>
   </div>
 </template>
 
 <script>
-export default {
-  props: {
-    value: {
-      type: Number,
-      required: true
+  export default {
+    props: {
+      value: {
+        type: Number,
+        required: true,
+      },
+      min: {
+        type: Number,
+        required: true,
+      },
+      max: {
+        type: Number,
+        required: true,
+      },
     },
-    min: {
-      type: Number,
-      required: true
+    data() {
+      return {
+        currentValue: this.value,
+      };
     },
-    max: {
-      type: Number,
-      required: true
-    }
-  },
-  data(){
-    return {
-      currentValue: this.value
-    };
-  },
-  methods: {
-    onInput() {
-      // this.currentValue is a string because HTML is weird
-      this.$emit('input', parseInt(this.currentValue));
-    }
-  }
-};
+    methods: {
+      onInput() {
+        // this.currentValue is a string because HTML is weird
+        this.$emit("input", parseInt(this.currentValue));
+      },
+    },
+  };
 </script>
 
 <style scoped>
-.slider-component .slidecontainer {
-	width: 100%;
-}
+  .slider-component .slidecontainer {
+    width: 100%;
+  }
 
-.slider-component .slidecontainer .slider {
-	-webkit-appearance: none;
-	appearance: none;
-	width: 100%;
-	height: 4px;
-	border-radius: 2px;
-	background: #c2c2c2;
-	outline: none;
-	opacity: 0.7;
-	-webkit-transition: .2s;
-	transition: opacity .2s;
-}
+  .slider-component .slidecontainer .slider {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
+    height: 4px;
+    border-radius: 2px;
+    background: #c2c2c2;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: 0.2s;
+    transition: opacity 0.2s;
+  }
 
-.slider-component .slidecontainer .slider:hover {
-	opacity: 1;
-}
+  .slider-component .slidecontainer .slider:hover {
+    opacity: 1;
+  }
 
-.slider-component .slidecontainer .slider::-webkit-slider-thumb {
-	-webkit-appearance: none;
-	appearance: none;
-	width: 18px;
-	height: 18px;
-	background: #D8A22E;
-	cursor: pointer;
-	border-radius: 50%;
-}
+  .slider-component .slidecontainer .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    background: #d8a22e;
+    cursor: pointer;
+    border-radius: 50%;
+  }
 
-.slider-component .slidecontainer .slider::-moz-range-thumb {
-	width: 18px;
-	height: 18px;
-	background: #D8A22E;
-	cursor: pointer;
-	border-radius: 50%;
-}
+  .slider-component .slidecontainer .slider::-moz-range-thumb {
+    width: 18px;
+    height: 18px;
+    background: #d8a22e;
+    cursor: pointer;
+    border-radius: 50%;
+  }
 </style>
 ```

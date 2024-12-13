@@ -1,6 +1,6 @@
 ---
 title: "Frontend? Gross. This is Why I've Always Preferred the Backend"
-author: Lane Wagner
+author: lane
 date: "2023-07-09"
 categories:
   - "backend"

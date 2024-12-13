@@ -1,8 +1,8 @@
 ---
 title: "Guard Clauses - How to Clean up Conditionals"
-author: Lane Wagner
+author: lane
 date: "2020-09-06"
-categories: 
+categories:
   - "clean-code"
 images:
   - /img/800/Guard-Clauses.webp
@@ -30,19 +30,19 @@ Let's take a look at an exaggerated example of nested conditional logic:
 ```js
 function getInsuranceAmount(status) {
   let amount;
-  if (!status.hasInsurance()){
+  if (!status.hasInsurance()) {
     amount = 1;
   } else {
-    if (status.isTotaled()){
+    if (status.isTotaled()) {
       amount = 10000;
     } else {
-      if (status.isDented()){
+      if (status.isDented()) {
         amount = 160;
-        if (status.isBigDent()){
+        if (status.isBigDent()) {
           amount = 270;
         }
       } else {
-        amount = 0
+        amount = 0;
       }
     }
   }
@@ -54,16 +54,16 @@ Could be written with guard clauses instead:
 
 ```js
 function getInsuranceAmount(status) {
-  if (!status.hasInsurance()){
+  if (!status.hasInsurance()) {
     return 1;
   }
-  if (status.isTotaled()){
+  if (status.isTotaled()) {
     return 10000;
   }
-  if (!status.isDented()){
+  if (!status.isDented()) {
     return 0;
   }
-  if (status.isBigDent()){
+  if (status.isBigDent()) {
     return 270;
   }
   return 160;

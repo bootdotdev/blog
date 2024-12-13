@@ -1,6 +1,6 @@
 ---
 title: "How To Correctly Validate Passwords - Most Websites Do It Wrong"
-author: Lane Wagner
+author: lane
 date: "2020-10-15"
 categories: 
   - "golang"

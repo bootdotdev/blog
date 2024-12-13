@@ -1,6 +1,6 @@
 ---
 title: "JavaScript vs TypeScript: What's the Difference?"
-author: Meghan Reichenbach
+author: meghan
 date: "2021-09-06"
 categories:
   - "javascript"

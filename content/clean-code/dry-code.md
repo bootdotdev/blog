@@ -1,9 +1,9 @@
 ---
 title: "What Is Dry Code, and Is It Always A Good Thing?"
-author: Lane Wagner
+author: lane
 date: "2021-01-25"
 lastmod: "2022-10-16"
-categories: 
+categories:
   - "clean-code"
 images:
   - /img/800/dry-desert-ai-generated-stable-diffusion.png.webp
@@ -23,50 +23,50 @@ DRY code is often held aloft as an ideal in the quest for clean code. Let's expl
 
 ```javascript
 export async function updateUserHandle(handle) {
-  if (!isLoggedIn()){
+  if (!isLoggedIn()) {
     // redirect to login screen
     return;
   }
   let token = localStorage.getItem(jwtKey);
   let decodedToken = decodeJWT(token);
   const hoursDelta = 24;
-  if (decodedToken.exp < (Date.now() + hoursDelta*60*60) / 1000){
+  if (decodedToken.exp < (Date.now() + hoursDelta * 60 * 60) / 1000) {
     refreshToken();
   }
   return await fetch(`${domain}/v1/users/handle`, {
-    method: 'PUT',
-    mode: 'cors',
+    method: "PUT",
+    mode: "cors",
     headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${token}`
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${token}`,
     },
     body: JSON.stringify({
-      handle
-    })
+      handle,
+    }),
   });
 }
 
 export async function updateUserInterests(interestUUIDs) {
-  if (!isLoggedIn()){
+  if (!isLoggedIn()) {
     // redirect to login screen
     return;
   }
   let token = localStorage.getItem(jwtKey);
   let decodedToken = decodeJWT(token);
   const hoursDelta = 24;
-  if (decodedToken.exp < (Date.now() + hoursDelta*60*60) / 1000){
+  if (decodedToken.exp < (Date.now() + hoursDelta * 60 * 60) / 1000) {
     refreshToken();
   }
   return await fetch(`${domain}/v1/users/interests`, {
-    method: 'PUT',
-    mode: 'cors',
+    method: "PUT",
+    mode: "cors",
     headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${token}`
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${token}`,
     },
     body: JSON.stringify({
-      interestUUIDs
-    })
+      interestUUIDs,
+    }),
   });
 }
 ```
@@ -74,18 +74,18 @@ export async function updateUserInterests(interestUUIDs) {
 You may have noticed that the beginnings of those two API calls are nearly identical - the first few lines check to see if a user is properly authenticated and sends authentication data in the respective requests. This might not be a big problem with just 2 API calls, but what if we have 30? Or maybe 1000? Instead, we can DRY up this code by writing a simple `fetchWithAuth()` function that centralizes all the client's authentication logic in a single place:
 
 ```js
-async function fetchWithAuth(url, params){
-  if (!isLoggedIn()){
+async function fetchWithAuth(url, params) {
+  if (!isLoggedIn()) {
     // redirect to login screen
     return;
   }
   let token = localStorage.getItem(jwtKey);
   let decodedToken = decodeJWT(token);
   const hoursDelta = 24;
-  if (decodedToken.exp < (Date.now() + hoursDelta*60*60) / 1000){
+  if (decodedToken.exp < (Date.now() + hoursDelta * 60 * 60) / 1000) {
     refreshToken();
   }
-  if (!params.headers){
+  if (!params.headers) {
     params.headers = {};
   }
   params.headers.Authorization = `Bearer ${token}`;
@@ -94,27 +94,27 @@ async function fetchWithAuth(url, params){
 
 export async function updateUserHandle(handle) {
   return await fetchWithAuth(`${domain}/v1/users/handle`, {
-    method: 'PUT',
-    mode: 'cors',
+    method: "PUT",
+    mode: "cors",
     headers: {
-      'Content-Type': 'application/json'
+      "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      handle
-    })
+      handle,
+    }),
   });
 }
 
 export async function updateUserInterests(interestUUIDs) {
   return await fetchWithAuth(`${domain}/v1/users/interests`, {
-    method: 'PUT',
-    mode: 'cors',
+    method: "PUT",
+    mode: "cors",
     headers: {
-      'Content-Type': 'application/json'
+      "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      interestUUIDs
-    })
+      interestUUIDs,
+    }),
   });
 }
 ```
@@ -125,24 +125,24 @@ It seems like a good idea to reduce code duplication right? Well, yes, in genera
 
 ### 1. Too many abstractions
 
-Sometimes two pieces of code happen to be the same at a given point in time, but later on, they become distinct in some way. It's really hard to guarantee that duplicate blocks of code will remain perfect copies of each other forever. A hypothetical example of this would be if the Facebook and Instagram APIs had the same way to create a social post. Just because they're *coincidentally* the same, probably doesn't mean that the logic should only be written once. One day, Instagram might introduce something dumb like "filters" or "stories" and all of a sudden the common abstraction needs crazy flags and parameters like:
+Sometimes two pieces of code happen to be the same at a given point in time, but later on, they become distinct in some way. It's really hard to guarantee that duplicate blocks of code will remain perfect copies of each other forever. A hypothetical example of this would be if the Facebook and Instagram APIs had the same way to create a social post. Just because they're _coincidentally_ the same, probably doesn't mean that the logic should only be written once. One day, Instagram might introduce something dumb like "filters" or "stories" and all of a sudden the common abstraction needs crazy flags and parameters like:
 
-* `is_story`
-* `is_instagram`
-* `filter_enum`
+- `is_story`
+- `is_instagram`
+- `filter_enum`
 
 ... and those flags make the logic do different things depending upon whether it's a Facebook or Instagram post.
 
-The solution is likely to remain disciplined about splitting out code that, while it may be similar *now*, is only *coincidentally* similar. We should try to only merge code that's *fundamentally* the same. A great example would be a math function like `log2`. That function should work for every case where you need to calculate a logarithm - each calculation of a log is *fundamentally* the same.
+The solution is likely to remain disciplined about splitting out code that, while it may be similar _now_, is only _coincidentally_ similar. We should try to only merge code that's _fundamentally_ the same. A great example would be a math function like `log2`. That function should work for every case where you need to calculate a logarithm - each calculation of a log is _fundamentally_ the same.
 
 ### 2. External dependency creation
 
 If two different projects share the same logic, it can often make sense to centralize it in a library package. While this is often a great idea, it can add overhead and can end up being more trouble than it's worth. For example, even if the abstraction makes sense, you're adding at least the following complexity to the project:
 
-* Management of the dependencies versions and running updates regularly
-* Requires multi-project updates to get a new change to a specific dependent
-* Often involves more remote infrastructure like NPM or PyPy
-* Gets harder to make "breaking" changes to the library's core functions - requires a higher standard of code quality and architecture
+- Management of the dependencies versions and running updates regularly
+- Requires multi-project updates to get a new change to a specific dependent
+- Often involves more remote infrastructure like NPM or PyPy
+- Gets harder to make "breaking" changes to the library's core functions - requires a higher standard of code quality and architecture
 
 ### 3. Localization complexity
 
@@ -161,7 +161,7 @@ Unfortunately, in large programs, we need functions, classes, methods, type defi
 
 In short, we should [optimize for simplicity first.](https://wagslane.dev/posts/optimize-for-simplicit-first/)
 
-With a highly compartmentalized project, when we see a function called `getUser()`, if we want to *really* know what's going on we have to peek into that function and remember the external calling context because we're now looking at an entirely different file. The cognitive burden becomes greater and greater the more definitions we need to jump through to grok a single logical pathway.
+With a highly compartmentalized project, when we see a function called `getUser()`, if we want to _really_ know what's going on we have to peek into that function and remember the external calling context because we're now looking at an entirely different file. The cognitive burden becomes greater and greater the more definitions we need to jump through to grok a single logical pathway.
 
 ## Takeaways - Code smells and heuristics
 
@@ -171,7 +171,7 @@ Since no code is perfect, we need to make use of some heuristics (rules of thumb
 
 In my opinion, WET is a better rule of thumb than DRY.
 
-WET stands for "write everything twice", and forces you to think a bit harder about whether or not a piece of logic *deserves* an abstraction. The rule of three is an alternative that says you should wait until you've written something three times before breaking it out.
+WET stands for "write everything twice", and forces you to think a bit harder about whether or not a piece of logic _deserves_ an abstraction. The rule of three is an alternative that says you should wait until you've written something three times before breaking it out.
 
 ### 2. Is it testable?
 
@@ -184,31 +184,31 @@ Pure functions are easy to write good unit tests for - if your abstraction is ea
 Take a look at the following example:
 
 ```js
-function getArea(height, width){
-  return height * width
+function getArea(height, width) {
+  return height * width;
 }
 ```
 
 This is a great function! It's very simple, and obviously can be used to calculate the area of any shape. Here's a bad example:
 
 ```js
-function getArea(height, width, isTriangle){
-  if (isTriangle){
-    return (height * width) / 2
+function getArea(height, width, isTriangle) {
+  if (isTriangle) {
+    return (height * width) / 2;
   }
-  return height * width
+  return height * width;
 }
 ```
 
 Special cases are bad news - I'm trying to be too abstract. Instead, I should just create two separate functions:
 
 ```js
-function getTriangleArea(height, width){
-  return (height * width) / 2
+function getTriangleArea(height, width) {
+  return (height * width) / 2;
 }
 
-function getRectangleArea(height, width){
-  return height * width
+function getRectangleArea(height, width) {
+  return height * width;
 }
 ```
 

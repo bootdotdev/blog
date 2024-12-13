@@ -1,8 +1,8 @@
 ---
 title: "6 Undeniable Reasons to Learn Computer Science"
-author: Zulie Rane
+author: zulie
 date: "2022-05-10"
-categories: 
+categories:
   - "computer-science"
 images:
   - /img/800/pexels-photo-1181332.webp.webp
@@ -32,7 +32,7 @@ Plus, these jobs will stay relevant for the long haul. We're barely scratching t
 
 Why learn computer science, especially if you've already got a degree in something unrelated? Plenty of folks worry that it's too late for them to learn computer science. They think that if they don't have a college degree, they may as well not bother. But nothing could be further from the truth.
 
-One of the benefits of computer science is that it's learnable by anyone, anywhere. You can choose to enroll in a [boot camp](https://www.boot.dev). You can choose to get an accreditation from a platform like Coursera. You can even learn computer science on your own with free resources like FreeCodeCamp. Companies are so desperate to hire people with computer science knowledge, and they're often *not looking for a degree*, they're just looking for people who can get the job done.
+One of the benefits of computer science is that it's learnable by anyone, anywhere. You can choose to enroll in a [boot camp](https://www.boot.dev). You can choose to get an accreditation from a platform like Coursera. You can even learn computer science on your own with free resources like FreeCodeCamp. Companies are so desperate to hire people with computer science knowledge, and they're often _not looking for a degree_, they're just looking for people who can get the job done.
 
 This means that even if you studied biology, or didn't get a degree at all, there's a way into a computer science track if you have the skills and experience. While many job opportunities in senior positions require some kind of a college degree, many of the entry-level ones only require proficiency in the right language, knowledge of the frameworks, and the ability to interview well.
 

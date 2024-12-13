@@ -1,6 +1,6 @@
 ---
 title: "Put that Framework Down Before Someone Gets Hurt"
-author: Lane Wagner
+author: lane
 date: "2023-11-06"
 categories: 
   - "webdev"

@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. November 2023"
-author: Lane Wagner
+author: lane
 date: "2023-10-30"
 categories:
   - "news"
@@ -8,9 +8,6 @@ images:
   - /img/800/novemberdrums.png.webp
 imageAlts:
   - "Boot.dev Beat Drum"
-dofollows:
-  - "https://salt.security"
-  - "https://www.se-radio.net"
   - "https://realpython.com"
 ---
 
@@ -24,34 +21,34 @@ Regards, Lane
 
 This is a massive change that we've been wanting to pull the trigger on for awhile now, and finally have! We now have distinct kinds of "in browser coding" lessons:
 
-* Standard output tests
-* Unit tests
+- Standard output tests
+- Unit tests
 
 Up until now, all lessons were tested based on standard output (what's printed to the console). If it matches, you pass. If not, you fail. That kind of testing is still good for some of the lessons, but for the majority of lessons, the new unit test type is a better experience.
 
 With the unit tests, instead of checking stdout, we check to make sure your function returns the correct values, and we do that programmatically. This has a few great benefits:
 
-* You can leave in your debugging "print" statements
-* You have nicely formatted feedback on each test with pass/fail conditions
-* The test code is in a separate read-only file so you don't accidentally modify it
-* You get practice working in a test-driven style
+- You can leave in your debugging "print" statements
+- You have nicely formatted feedback on each test with pass/fail conditions
+- The test code is in a separate read-only file so you don't accidentally modify it
+- You get practice working in a test-driven style
 
 ### 2. New Explainer Videos
 
 Now that we've started to get into an efficient routine with the podcast, I'm turning my attention back to making some more explainer videos for the courses themselves. I'm working on a new style of video that's more visual and fast paced. Here are a few examples:
 
-* [Should you learn Python?](https://www.youtube.com/watch?v=kLdw64oBeCI)
-* [The Queue Data Structure Explained](https://www.youtube.com/watch?v=CH6yLUtMZ28)
-* [Bitwise & Operator Explained](https://www.youtube.com/watch?v=LNlIP2zCXD4)
+- [Should you learn Python?](https://www.youtube.com/watch?v=kLdw64oBeCI)
+- [The Queue Data Structure Explained](https://www.youtube.com/watch?v=CH6yLUtMZ28)
+- [Bitwise & Operator Explained](https://www.youtube.com/watch?v=LNlIP2zCXD4)
 
-They're obviously not perfect, but I'm happy with the *idea* and we'll keep working to improve them.
+They're obviously not perfect, but I'm happy with the _idea_ and we'll keep working to improve them.
 
 ## What is yet to come
 
-* "Learn Kubernetes" course development is underway
-* Challenges and reworking of the "Learn JavaScript" course
-* Updates to make sharpshooter less painful and more rewarding
-* Lore for Boots
+- "Learn Kubernetes" course development is underway
+- Challenges and reworking of the "Learn JavaScript" course
+- Updates to make sharpshooter less painful and more rewarding
+- Lore for Boots
 
 ## Backend Banter Podcast
 
@@ -59,10 +56,10 @@ We created a [new trailer](https://www.youtube.com/watch?v=PclSNl1JRpI) for the 
 
 This month's episodes include:
 
-* [#024 - Behind HTMX: Carson Gross on the re-Rise of Hypermedia](https://www.backendbanter.fm/episodes/024-behind-htmx-carson-gross-on-the-re-rise-of-hypermedia)
-* [#023 - Has Web Development Regressed? A Conversation with Wes Bos](https://www.backendbanter.fm/episodes/023-has-web-development-regressed-a-conversation-with-wes-bos)
-* [#022 - Job Hunting as a Self-Taught Programmer with Don the Developer](https://www.backendbanter.fm/episodes/021-job-hunting-as-a-self-taught-programmer-with-don-the-developer)
-* [#021 - TypeScript vs Elixir: An FP Showdown with Theo Browne](https://www.backendbanter.fm/episodes/021-typescript-vs-elixir-an-fp-showdown-with-theo-browne)
+- [#024 - Behind HTMX: Carson Gross on the re-Rise of Hypermedia](https://www.backendbanter.fm/episodes/024-behind-htmx-carson-gross-on-the-re-rise-of-hypermedia)
+- [#023 - Has Web Development Regressed? A Conversation with Wes Bos](https://www.backendbanter.fm/episodes/023-has-web-development-regressed-a-conversation-with-wes-bos)
+- [#022 - Job Hunting as a Self-Taught Programmer with Don the Developer](https://www.backendbanter.fm/episodes/021-job-hunting-as-a-self-taught-programmer-with-don-the-developer)
+- [#021 - TypeScript vs Elixir: An FP Showdown with Theo Browne](https://www.backendbanter.fm/episodes/021-typescript-vs-elixir-an-fp-showdown-with-theo-browne)
 
 By the way, this show is NOT free. The cost is a podcast rating or a YouTube subscription. I can't verify that you've done your part, but we have an honor system here. If you have enjoyed more than one episode, do your part. I appreciate you.
 

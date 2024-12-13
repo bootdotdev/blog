@@ -1,6 +1,6 @@
 ---
 title: "Is Computer Science Really that Hard?"
-author: Natalie Schooner
+author: natalie
 date: "2023-04-05"
 categories:
   - "computer-science"

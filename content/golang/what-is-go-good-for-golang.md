@@ -1,6 +1,6 @@
 ---
 title: "What is Go Good For? (And What Is Golang Used For?)"
-author: Jamie Dunmore
+author: jamie
 date: "2021-07-16"
 categories:
   - "golang"

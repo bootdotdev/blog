@@ -1,6 +1,6 @@
 ---
 title: "Converting an Array to a JSON Object in JavaScript"
-author: Lane Wagner
+author: lane
 date: "2020-12-21"
 lastmod: "2022-10-01"
 categories:

@@ -1,6 +1,6 @@
 ---
 title: "If You're Learning Back-end, Don't Start with Frameworks"
-author: Lane Wagner
+author: lane
 date: "2023-01-16"
 categories:
   - "backend"

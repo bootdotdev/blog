@@ -1,6 +1,6 @@
 ---
 title: "Unexpected Printf Behavior in Go WASM - Nothing Prints"
-author: Lane Wagner
+author: lane
 date: "2020-08-10"
 categories: 
   - "golang"

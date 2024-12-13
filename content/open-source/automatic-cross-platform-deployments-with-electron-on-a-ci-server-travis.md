@@ -1,12 +1,12 @@
 ---
 title: "Automatic Cross-Platform Deployments with Electron"
-author: Lane Wagner
+author: lane
 date: "2019-08-08"
-categories: 
+categories:
   - "open-source"
 images:
   - /img/800/AutomaticwithElectron.png.webp
-imageAlts: 
+imageAlts:
   - "fantasy lightning wizard who wants cross platform deployments to be automatic"
 ---
 
@@ -38,13 +38,7 @@ Electron Builder uses your app's package.json file for most configuration.
     "test": "echo success"
   },
   "repository": "https://github.com/{USER_NAME}/{REPO_NAME}",
-  "keywords": [
-    "electron",
-    "ci",
-    "travis",
-    "tutorial",
-    "demo"
-  ],
+  "keywords": ["electron", "ci", "travis", "tutorial", "demo"],
   "author": "{USER_NAME}",
   "build": {
     "appId": "{APP_ID}",
@@ -80,7 +74,7 @@ Electron Builder uses your app's package.json file for most configuration.
 
 Replace all the configuration variables with your own values. The configuration variables are all caps in {BRACKETS}.
 
-You should have a license file named LICENSE at the root of your directory, as well as a copy called license\_en.txt in your build folder (build/license\_en.txt). Electron builder uses those licenses as the license agreement for the installers.
+You should have a license file named LICENSE at the root of your directory, as well as a copy called license_en.txt in your build folder (build/license_en.txt). Electron builder uses those licenses as the license agreement for the installers.
 
 Good practice for an appId is a reverse domain name. For example, ours is _dev.boot_.
 
@@ -106,7 +100,7 @@ Copy this code into _.travis.yml_ at the root of your repository:
 language: node_js
 
 node_js:
-  - '11.6.0'
+  - "11.6.0"
 
 # Always run two parallel builds: one on mac and one on linux
 # the linux build will use wine to be able to build windows and
@@ -168,16 +162,16 @@ deploy:
   skip_cleanup: true
   on:
     branch: prod
-    
+
 before_cache:
   - rm -rf $HOME/.cache/electron-builder/wine
 
-# only run this script on pull requests and merges into 
+# only run this script on pull requests and merges into
 # the 'master' and 'prod' branches
 branches:
   only:
-  - master
-  - prod
+    - master
+    - prod
 ```
 
 The comments in the above file should explain what each step does, but the basic idea is to _yarn test_ on each pull request to verify that a pull request doesn't break the app. Then, once code is merged into the prod branch, we trigger the following deploy script to build and push our code to GitHub Releases:
@@ -197,7 +191,7 @@ fi
 
 In order for your _.travis.yml_ script to have permission to upload code to GitHub Releases, then you will need to set an environment variable that contains an API token.
 
-In GitHub Navigate to your personal settings / Developer Settings / Generate New Token. Then go to your repository settings in Travis and you can add an environment variable. The variable name is GH\_TOKEN and the token is the one you created on GitHub. Make sure to keep the variable private (the default) on Travis so that it won't print the token in the logs.
+In GitHub Navigate to your personal settings / Developer Settings / Generate New Token. Then go to your repository settings in Travis and you can add an environment variable. The variable name is GH_TOKEN and the token is the one you created on GitHub. Make sure to keep the variable private (the default) on Travis so that it won't print the token in the logs.
 
 ## Done!
 

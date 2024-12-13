@@ -1,6 +1,6 @@
 ---
 title: "How to Use Golang's Generics [Updated since 1.18]"
-author: Lane Wagner
+author: lane
 date: "2021-12-06"
 categories: 
   - "golang"

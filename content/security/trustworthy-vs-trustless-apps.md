@@ -1,6 +1,6 @@
 ---
 title: "Trustworthy vs Trustless Apps"
-author: Lane Wagner
+author: lane
 date: "2019-07-23"
 categories: 
   - "bitcoin"

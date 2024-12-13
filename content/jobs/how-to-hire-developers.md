@@ -1,6 +1,6 @@
 ---
 title: "6 Tips for Hiring Developers"
-author: Lane Wagner
+author: lane
 date: "2020-10-13"
 categories: 
   - "jobs"

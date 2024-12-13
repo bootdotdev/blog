@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-author: Lane Wagner
+author: lane
 date: "2020-02-06"
 aliases:
   - "/affiliates"

@@ -1,8 +1,8 @@
 ---
 title: "Which Method of Iteration in JavaScript is Fastest?"
-author: Lane Wagner
+author: lane
 date: "2019-11-08"
-categories: 
+categories:
   - "javascript"
 images:
   - /img/800/ruinreborn_fasthorse.webp.webp
@@ -15,7 +15,7 @@ For a working example of these benchmarks, take a look at this [codepen](https:/
 ## 1st: Vanilla JS - Backwards
 
 ```js
-for (let i = arr.length-1; i>=0; i--){}
+for (let i = arr.length - 1; i >= 0; i--) {}
 ```
 
 ~ 30 milliseconds
@@ -25,7 +25,7 @@ Going **backwards is faster** than going forward! At each iteration the loop che
 ## 2nd: Vanilla JS - Forwards
 
 ```js
-for (let i = 0; i< arr.length; i++){}
+for (let i = 0; i < arr.length; i++) {}
 ```
 
 ~39 milliseconds
@@ -33,7 +33,7 @@ for (let i = 0; i< arr.length; i++){}
 ## 3rd: ES6 forEach()
 
 ```js
-arr.forEach(function(element) {});
+arr.forEach(function (element) {});
 ```
 
 ~180 milliseconds
@@ -43,7 +43,7 @@ Slow but with a more convenient syntax, nothing surprising here.
 ## 4th: jQuery Each
 
 ```js
-$.each(arr, function( index, value ) {});
+$.each(arr, function (index, value) {});
 ```
 
 ~225 milliseconds
@@ -53,7 +53,8 @@ Eeeeeew... jQuery. Convenient if you live in 2010. Very Slow.
 ## Wildcard: For..Of ES6
 
 ```js
-for (const item of arr){}
+for (const item of arr) {
+}
 ```
 
 First and second time running: 153 Milliseconds

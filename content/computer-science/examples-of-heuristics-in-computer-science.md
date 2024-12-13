@@ -1,6 +1,6 @@
 ---
 title: "Examples of Heuristics in Computer Science"
-author: Winston Wagner
+author: winston
 date: "2020-11-30"
 categories:
   - "computer-science"

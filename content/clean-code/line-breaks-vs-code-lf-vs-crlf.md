@@ -1,8 +1,8 @@
 ---
 title: "How to Get Consistent Line Breaks in VS Code (LF vs CRLF)"
-author: Lane Wagner
+author: lane
 date: "2020-06-18"
-categories: 
+categories:
   - "clean-code"
 images:
   - /img/800/vscode-preview.webp
@@ -34,7 +34,7 @@ For LF:
 
 ```json
 {
-    "files.eol": "\n",
+  "files.eol": "\n"
 }
 ```
 
@@ -42,7 +42,7 @@ CRLF:
 
 ```json
 {
-    "files.eol": "\r\n",
+  "files.eol": "\r\n"
 }
 ```
 
@@ -54,7 +54,7 @@ This setting will not automatically fix all files in your project that have the 
 
 `CR LF` stands for "Carriage Return, Line Feed" - it's a digital remnant of classic typewriters. With typewriters, you had to push the "carriage" (the thing that holds the paper) back into place, hence "Carriage Return".
 
-When everything went digital, some devices required a "Line Feed" character to terminate lines, so Microsoft decided to just make a new line have _both__ characters so that they would work correctly on all devices.
+When everything went digital, some devices required a "Line Feed" character to terminate lines, so Microsoft decided to just make a new line have \_both\_\_ characters so that they would work correctly on all devices.
 
 ![](/img/800/typewriter-form-unsplash-with-carriage-300x200.jpeg)
 

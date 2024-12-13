@@ -1,8 +1,8 @@
 ---
 title: "Using Concurrent Subscribers With RabbitMQ in Python (pika)"
-author: Lane Wagner
+author: lane
 date: "2020-05-26"
-categories: 
+categories:
   - "open-source"
   - "python"
 images:
@@ -32,7 +32,7 @@ EXCHANGE = 'exchange_name'
 THREADS = 5
 ```
 
-RABBIT\_URL is the connection string to the rabbit cluster. ROUTING\_KEY is the name of the [routing key](https://www.rabbitmq.com/tutorials/tutorial-four-python.html) we want our queue to receive messages from. QUEUE\_NAME is the name of the **queue** we want to create and bind to. EXCHANGE is the name of the [exchange](https://www.rabbitmq.com/tutorials/amqp-concepts.html) we are using. THREADS is the number of threads we want to spawn to process messages.
+RABBIT_URL is the connection string to the rabbit cluster. ROUTING_KEY is the name of the [routing key](https://www.rabbitmq.com/tutorials/tutorial-four-python.html) we want our queue to receive messages from. QUEUE_NAME is the name of the **queue** we want to create and bind to. EXCHANGE is the name of the [exchange](https://www.rabbitmq.com/tutorials/amqp-concepts.html) we are using. THREADS is the number of threads we want to spawn to process messages.
 
 Next let's import all the packages we will be using:
 
@@ -45,7 +45,6 @@ import threading
 
 The messages we consume will be in JSON format so we need a parser. Pika is the package to interact with RabbitMQ. We will use _time.sleep()_ to simulate i/o operations to ensure our concurrency is performing as expected. Lastly, the [threading](https://docs.python.org/3/library/threading.html) package allows us to spawn threads.
 
-  
 To make use of the threading package, let's subclass the Thread class:
 
 ```py
@@ -66,7 +65,7 @@ class ThreadedConsumer(threading.Thread):
         time.sleep(5)
         print(message)
         channel.basic_ack(delivery_tag=method.delivery_tag)
-        
+
     def run(self):
         print ('starting thread to consume from rabbit...')
         self.channel.start_consuming()
@@ -101,7 +100,7 @@ class ThreadedConsumer(threading.Thread):
         self.channel.basic_qos(prefetch_count=THREADS*10)
         self.channel.basic_consume(QUEUE_NAME, on_message_callback=self.callback)
         threading.Thread(target=self.channel.basic_consume(QUEUE_NAME, on_message_callback=self.callback))
-        
+
     def callback(self, channel, method, properties, body):
         message = json.loads(body)
         time.sleep(5)

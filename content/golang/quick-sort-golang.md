@@ -1,6 +1,6 @@
 ---
 title: "Quick Sort in Golang"
-author: Lane Wagner
+author: lane
 date: "2021-06-17"
 categories:
   - "golang"

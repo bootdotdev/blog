@@ -1,6 +1,6 @@
 ---
 title: "How the Boot.dev Game Works"
-author: Lane Wagner
+author: lane
 date: "2023-01-07"
 images:
   - /img/800/game2.png.webp

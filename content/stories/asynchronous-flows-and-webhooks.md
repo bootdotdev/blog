@@ -1,9 +1,7 @@
 ---
 title: "Introduction to Asynchronous Flows and Webhooks"
-author: Nick Abbene
+author: nick
 date: "2023-03-09"
-dofollows:
-  - "https://nickabbene.com"
 categories:
   - "misc"
   - "javascript"

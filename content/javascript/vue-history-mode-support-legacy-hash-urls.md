@@ -1,6 +1,6 @@
 ---
 title: "Vue History Mode - Support Legacy Hash URLs"
-author: Lane Wagner
+author: lane
 date: "2020-07-15"
 categories: 
   - "javascript"

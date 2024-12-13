@@ -1,8 +1,8 @@
 ---
 title: "(Very) Basic Intro to PGP (GPG)"
-author: Lane Wagner
+author: lane
 date: "2020-07-27"
-categories: 
+categories:
   - "cryptography"
   - "security"
 images:
@@ -62,35 +62,35 @@ PGP defines in the official [RFC 4880](https://tools.ietf.org/html/rfc4880) whic
 ### Symmetric Encryption Algorithms:
 
 > Implementations MUST implement [TripleDES](https://en.wikipedia.org/wiki/Triple_DES).
-> 
+>
 > Implementations SHOULD implement [AES-128](/cryptography/aes-256-cipher/) and [CAST5](https://en.wikipedia.org/wiki/CAST-128).
-> 
+>
 > Implementations that interoperate with PGP 2.6 or earlier need to support [IDEA](https://en.wikipedia.org/wiki/International_Data_Encryption_Algorithm), as that is the only symmetric cipher those versions use. Implementations MAY implement any other algorithm.
-> 
+>
 > [rfc4880 9.2](https://tools.ietf.org/html/rfc4880#section-9.2)
 
 ### Asymmetric Encryption Algorithms:
 
 > Implementations MUST implement DS for signatures, and [Elgamal](https://en.wikipedia.org/wiki/ElGamal_encryption) for encryption.
-> 
-> Implementations SHOULD implement [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) keys.
-> 
+>
+> Implementations SHOULD implement [RSA](<https://en.wikipedia.org/wiki/RSA_(cryptosystem)>) keys.
+>
 > RSA Encrypt-Only and RSA Sign-Only are deprecated and SHOULD NOT be generated but may be interpreted.
-> 
+>
 > See section 13.8 for notes on [Elliptic Curve](/cryptography/elliptic-curve-cryptography/), ECDSA, Elgamal Encrypt or Sign, and X9.42.
-> 
+>
 > _Implementations MAY implement any other algorithm._
-> 
+>
 > [rfc4880 9.1](https://tools.ietf.org/html/rfc4880#section-9.1)
 
 ### Digital Signature Algorithms:
 
 > Implementations MUST implement [SHA-1](/cryptography/how-sha-2-works-step-by-step-sha-256/). Implementations MAY implement other algorithms. [MD5](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) is deprecated.
-> 
+>
 > [rfc4880 9.4](https://tools.ietf.org/html/rfc4880#section-9.4)
 
 ### Compression Algorithms:
 
-> Implementations MUST implement uncompressed data. Implementations SHOULD implement [ZIP](https://en.wikipedia.org/wiki/Zip_(file_format)). Implementations MAY implement and other algorithms.
-> 
+> Implementations MUST implement uncompressed data. Implementations SHOULD implement [ZIP](<https://en.wikipedia.org/wiki/Zip_(file_format)>). Implementations MAY implement and other algorithms.
+>
 > [rfc4880 9.3](https://tools.ietf.org/html/rfc4880#section-9.3)

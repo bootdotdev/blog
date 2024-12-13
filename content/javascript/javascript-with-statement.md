@@ -1,6 +1,6 @@
 ---
 title: "JavaScript With Statement Explained – A Deep Dive"
-author: Lane Wagner
+author: lane
 date: "2020-01-15"
 categories: 
   - "javascript"

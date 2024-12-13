@@ -1,6 +1,6 @@
 ---
 title: "The Pros and Cons of Django for Backend Development"
-author: Natalie Schooner
+author: natalie
 date: "2023-07-17"
 categories:
   - "backend"

@@ -1,6 +1,6 @@
 ---
 title: "HLS Video Streaming with Node.JS - A Tutorial"
-author: Lane Wagner
+author: lane
 date: "2020-07-28"
 categories: 
   - "javascript"

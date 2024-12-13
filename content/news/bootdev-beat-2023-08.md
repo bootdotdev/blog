@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. August 2023"
-author: Lane Wagner
+author: lane
 date: "2023-07-28"
 categories:
   - "news"
@@ -8,8 +8,6 @@ images:
   - /img/800/bootdevbeatdrumdesert.png.webp
 imageAlts:
   - "Boot.dev Beat Drum"
-dofollows:
-  - "https://www.codenewbie.org"
 ---
 
 As I'm writing this on July 28th, we've had `118,984` lessons successfully completed by students on Boot.dev so far this July. This marks the first time we've had over 100k lessons completed in a month. While I'm ecstatic that we've been able to join you in so many of your learning journeys, I just want to emphasize that it's _your_ journey. We're here to provide the best resources and experience that we can, but _you_ deserve every ounce of credit for your hard work. **Keep it up friends.**

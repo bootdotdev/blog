@@ -1,6 +1,6 @@
 ---
 title: "Frequently Asked Questions"
-author: Lane Wagner
+author: lane
 date: "2020-02-06"
 images:
   - /img/800/bootdev-explorer.png.webp

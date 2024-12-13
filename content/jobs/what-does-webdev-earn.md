@@ -1,8 +1,8 @@
 ---
 title: "What Does a Web Developer Earn?"
-author: Natalie Schooner
+author: natalie
 date: "2023-09-13"
-categories: 
+categories:
   - "jobs"
 images:
   - /img/800/earningpotential.png.webp
@@ -10,12 +10,12 @@ images:
 
 As always, the short answer is easiest: On average, according to Indeed, an American web developer [earns](https://www.indeed.com/career/web-developer/salaries) \$81,034 per year.
 
-And like with all these articles I’ve written (including [backend developer salary](/backend/how-much-do-backend-devs-make/), [DevOps engineers](/devops/devops-salary/), [software engineers](/jobs/how-much-do-software-engineers-make/)) the *real* number depends on a bunch of other factors.
+And like with all these articles I’ve written (including [backend developer salary](/backend/how-much-do-backend-devs-make/), [DevOps engineers](/devops/devops-salary/), [software engineers](/jobs/how-much-do-software-engineers-make/)) the _real_ number depends on a bunch of other factors.
 
-* **Where is the job based?** Obviously, cities like Boston, San Francisco, and Austin tend to pay a little better than, say, Boise, Idaho.
-* **How much experience do you have?** Junior web devs earn less than senior ones.
-* **Are you comfortable haggling to get a higher number?** [One Glassdoor study](https://www.cnbc.com/2017/10/24/if-you-dont-negotiate-salary-you-could-lose-7500-a-year-glassdoor.html) found that the average American could earn \$7,500 more per year just by asking.
-* **Are you specializing or niching in any way?** StackOverflow’s [salary data](https://survey.stackoverflow.co/2023/#work-salary) is great for illustrating this – as you dive deeper into a specialization, your salary increases.
+- **Where is the job based?** Obviously, cities like Boston, San Francisco, and Austin tend to pay a little better than, say, Boise, Idaho.
+- **How much experience do you have?** Junior web devs earn less than senior ones.
+- **Are you comfortable haggling to get a higher number?** [One Glassdoor study](https://www.cnbc.com/2017/10/24/if-you-dont-negotiate-salary-you-could-lose-7500-a-year-glassdoor.html) found that the average American could earn \$7,500 more per year just by asking.
+- **Are you specializing or niching in any way?** StackOverflow’s [salary data](https://survey.stackoverflow.co/2023/#work-salary) is great for illustrating this – as you dive deeper into a specialization, your salary increases.
 
 I’ll dig into each of those facets. By the end of this article, you’ll know not just what a web developer earns, but whether that’s the right amount for your specific situation.
 
@@ -43,7 +43,7 @@ As you can see, Web Developers earn much less than other, similar job titles acc
 
 > "You might be setting up WP sites and doing a little bit of jQuery work or you might be building a Sitecore site from the ground up."
 
-Web developers might be seen as web designers, too, which as you can see commands a *very* low salary.
+Web developers might be seen as web designers, too, which as you can see commands a _very_ low salary.
 
 ![glassdoor web design salary](/img/800/glassdoorwebdesign.png.webp)
 
@@ -59,13 +59,13 @@ Web development can be divided into three categories: front-end (dealing with th
 
 HTML, CSS, and JavaScript are front-end staples, but for any full stack/backend roles, you’ll need to delve deeper into frameworks and libraries like React, Angular, or Vue for front-end, or Node.js, Django, or Ruby on Rails for the back-end. Languages typically include Ruby, Python, or Go.
 
-I want to take this opportunity to highlight what a web developer does compared to a web designer. I think part of that pay discrepancy is because many folks think these are the same thing – they are not. The main difference is that web developers develop the *whole* website, while web designers are into how the website looks and feels.
+I want to take this opportunity to highlight what a web developer does compared to a web designer. I think part of that pay discrepancy is because many folks think these are the same thing – they are not. The main difference is that web developers develop the _whole_ website, while web designers are into how the website looks and feels.
 
 Web designers also require less hard coding skills – any computer-savvy person can use a platform like Wix to design a web that looks pretty good. Web developers, meanwhile, are using those coding skills I mentioned earlier to craft something more custom.
 
 Compared to a full-stack developer, a web developer focuses more on the front-end development of a website, while a full-stack developer has a more comprehensive understanding of the entire web development process. Although, as I said, this perception isn’t always true.
 
-## Is becoming a web developer a good career? 
+## Is becoming a web developer a good career?
 
 Again, this depends on why you’re asking. There are great job prospects:
 

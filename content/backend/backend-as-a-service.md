@@ -1,8 +1,8 @@
 ---
 title: "What is Backend-as-a-Service?"
-author: Natalie Schooner
+author: natalie
 date: "2022-12-05"
-categories: 
+categories:
   - "backend"
 images:
   - /img/800/backend-as-a-service-scifi.png.webp
@@ -20,16 +20,16 @@ Most BaaS products on the market include services like cloud storage, database m
 
 There are numerous BaaS providers, each with a different pricing plan and a slightly different offering of the services they include with each tier or product. HiTechNector compiled a comprehensive [list of BaaS providers](https://www.hitechnectar.com/blogs/top-14-backend-as-a-service-providers/), including:
 
-* 8 Base
-* Apache Usergrid
-* AWS Amplify
-* Back4App
-* Backendless
-* Built.io backend
-* Couchbase
-* Windows Azure Mobile Services
-* Firebase
-* Supabase
+- 8 Base
+- Apache Usergrid
+- AWS Amplify
+- Back4App
+- Backendless
+- Built.io backend
+- Couchbase
+- Windows Azure Mobile Services
+- Firebase
+- Supabase
 
 Firebase is probably the best-known option of these, focusing on BaaS for mobile and web apps. Other options have specialized services, like built.io backend which offers social media integration.
 

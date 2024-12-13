@@ -1,6 +1,6 @@
 ---
 title: "Are Pointers in Go Faster Than Values?"
-author: Lane Wagner
+author: lane
 date: "2024-07-19"
 categories: 
   - "golang"

@@ -1,6 +1,6 @@
 ---
 title: "Is Open-Source Cryptography Really Secure?"
-author: Lane Wagner
+author: lane
 date: "2020-01-30"
 categories: 
   - "cryptography"

@@ -1,6 +1,6 @@
 ---
 title: "9 Months with GPT-4: Can I Fire my Developers Yet?"
-author: Lane Wagner
+author: lane
 date: "2023-12-03"
 categories:
   - "computer-science"

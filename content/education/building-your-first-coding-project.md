@@ -1,6 +1,6 @@
 ---
 title: "Build Your First Coding Project and Avoid Tutorial Hell"
-author: Lane Wagner
+author: lane
 date: "2023-07-04"
 categories: 
   - "education"

@@ -1,6 +1,6 @@
 ---
 title: "Creating and Remembering a Strong Passphrase"
-author: Lane Wagner
+author: lane
 date: "2019-08-03"
 categories: 
   - "cryptography"

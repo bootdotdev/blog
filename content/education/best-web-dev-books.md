@@ -1,6 +1,6 @@
 ---
 title: "Top 10 Books on Web Development in 2023"
-author: Natalie Schooner
+author: natalie
 date: "2023-09-05"
 categories:
   - "education"

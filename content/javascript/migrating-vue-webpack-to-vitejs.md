@@ -1,6 +1,6 @@
 ---
 title: "Migrating From Vue-CLI & Webpack to Vitejs"
-author: Lane Wagner
+author: lane
 date: "2021-04-26"
 categories: 
   - "javascript"

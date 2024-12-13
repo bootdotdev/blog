@@ -1,8 +1,8 @@
 ---
 title: "Writing Bubble Sort in Go from Scratch"
-author: Lane Wagner
+author: lane
 date: "2021-06-08"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/bubbles-in-water.webp

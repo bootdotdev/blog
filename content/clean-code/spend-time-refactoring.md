@@ -1,8 +1,8 @@
 ---
 title: "Slow Is Smooth, Smooth Is Fast - 25% of Our Time Refactoring"
-author: Lane Wagner
+author: lane
 date: "2020-09-01"
-categories: 
+categories:
   - "clean-code"
 images:
   - /img/800/photo-1559041881-74dd9fd9b600.jpeg

@@ -1,6 +1,6 @@
 ---
 title: "The Proper Use of Pointers in Go (Golang)"
-author: Lane Wagner
+author: lane
 date: "2019-09-25"
 categories: 
   - "clean-code"

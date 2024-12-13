@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. September 2024"
-author: Lane Wagner
+author: lane
 date: "2024-09-04"
 categories:
   - "news"

@@ -1,6 +1,6 @@
 ---
 title: "How can I Get a Job as a Python Programmer?"
-author: Natalie Schooner
+author: natalie
 date: "2023-03-27"
 categories:
   - "jobs"

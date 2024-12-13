@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. May 2023"
-author: Lane Wagner
+author: lane
 date: "2023-05-03"
 categories:
   - "news"
@@ -8,9 +8,6 @@ images:
   - /img/800/druminpoppyfield.webp
 imageAlts:
   - "Boot.dev Beat Drum"
-dofollows:
-  - "https://www.youtube.com"
-  - "https://d0nut.hashnode.dev"
 ---
 
 We hit some amazing milestones in April. We now have over 40,000 registered students and over 500,000 lessons completed on the platform! I hope your learnings are going well, and that everything we're building is helping you, even if it's in a small way.

@@ -1,8 +1,8 @@
 ---
 title: "How to Do a Coding Bootcamp Part-Time"
-author: Natalie Schooner
+author: natalie
 date: "2022-07-12"
-categories: 
+categories:
   - "education"
 images:
   - /img/800/pexels-photo-3785612.jpeg.webp
@@ -18,7 +18,7 @@ Once you've made the big decision and decided to do a coding bootcamp, it can be
 
 Recruiting processes take several weeks on their own, so I could potentially have been out of work for an extended period of time. And since I like money and having a career, that option was less than ideal.
 
-So, like a lot of people, I considered how to do a part-time [coding bootcamp *online*](/education/top-online-bootcamps/). But that's still usually 20+ hours of work per week. Some employers make it simple to cut back on your hours for a period of time. Others (like mine) may not be open to it. Since keeping your current employment is probably quite important, it's best to figure out if and how your work schedule may change before selecting a coding bootcamp to participate in.
+So, like a lot of people, I considered how to do a part-time [coding bootcamp _online_](/education/top-online-bootcamps/). But that's still usually 20+ hours of work per week. Some employers make it simple to cut back on your hours for a period of time. Others (like mine) may not be open to it. Since keeping your current employment is probably quite important, it's best to figure out if and how your work schedule may change before selecting a coding bootcamp to participate in.
 
 ## Choose the Right Coding Bootcamp for Your Situation
 

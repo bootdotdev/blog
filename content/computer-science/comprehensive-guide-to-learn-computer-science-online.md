@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Guide to Learn Computer Science Online"
-author: Lane Wagner
+author: lane
 date: "2020-11-18"
 lastmod: "2022-08-24"
 categories:

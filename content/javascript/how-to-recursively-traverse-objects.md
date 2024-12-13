@@ -1,6 +1,6 @@
 ---
 title: "How to Recursively Traverse JSON Objects"
-author: Lane Wagner
+author: lane
 date: "2019-09-22"
 categories:
   - "javascript"

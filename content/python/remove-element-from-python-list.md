@@ -1,6 +1,6 @@
 ---
 title: "Complete Guide to Removing Elements From Lists in Python"
-author: Lane Wagner
+author: lane
 date: "2021-12-09"
 categories:
   - "python"

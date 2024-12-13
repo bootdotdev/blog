@@ -1,6 +1,6 @@
 ---
 title: "Scala vs Go: Comparing Everything You Need to Know"
-author: Meghan Reichenbach
+author: meghan
 date: "2021-08-18"
 categories:
   - "golang"

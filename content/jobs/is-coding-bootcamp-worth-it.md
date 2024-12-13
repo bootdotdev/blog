@@ -1,8 +1,8 @@
 ---
 title: "Which is Worth It, Coding Bootcamp or a Computer Science Degree?"
-author: Zulie Rane
+author: zulie
 date: "2021-03-29"
-categories: 
+categories:
   - "computer-science"
   - "jobs"
 images:
@@ -17,11 +17,11 @@ However, if you're in the position of wondering how much coding bootcamps can co
 
 This is part of the reason many people say yes, is a coding bootcamp worth it: because computer science employers have a problem with the price of computer science degrees. There is a [sky-high demand](https://www.bestcolleges.com/blog/computer-science-degree/) for qualified, talented computer scientists. And the supply is low. **In 2019, there were half a million job openings but only 72k graduates. Coding bootcamps helped fill that gap.**
 
-Computer science jobs are interesting because they're some of the least traditional employers. What other subject can you imagine where a thirteen-week course could replace a four-year degree of structured learning? But they're desperate enough - and open-minded enough - to judge applicants by skills, not by the name on a piece of paper that cost hundreds of thousands of dollars and four years to accomplish. 
+Computer science jobs are interesting because they're some of the least traditional employers. What other subject can you imagine where a thirteen-week course could replace a four-year degree of structured learning? But they're desperate enough - and open-minded enough - to judge applicants by skills, not by the name on a piece of paper that cost hundreds of thousands of dollars and four years to accomplish.
 
-And the good news is that for people wondering about the cost of a bootcamp, you have a lot more flexibility than you would with other subjects. As long as you can prove you know what you're doing, you're in an excellent position to secure your dream job, with your favorite employer. 
+And the good news is that for people wondering about the cost of a bootcamp, you have a lot more flexibility than you would with other subjects. As long as you can prove you know what you're doing, you're in an excellent position to secure your dream job, with your favorite employer.
 
-Let's get into how much coding bootcamp costs, how much a computer science degree costs, and whether they're worth it for you. The short answer is that everyone's circumstance is different, so everyone's answer will be different. 
+Let's get into how much coding bootcamp costs, how much a computer science degree costs, and whether they're worth it for you. The short answer is that everyone's circumstance is different, so everyone's answer will be different.
 
 ## How much do coding bootcamps cost? Is a coding bootcamp worth it when you look at price?
 
@@ -31,7 +31,7 @@ But only comparing money ignores the **much greater cost of coding bootcamp**: w
 
 No matter how much or how little coding bootcamp costs you in terms of money, the one you choose will also cost you in time, which is another factor to consider in the question of is a coding bootcamp worth it. Coding bootcamps take less time than a computer science degree, yes, but dropping your life and spending several weeks or months on this coding bootcamp will cost you, too.
 
-While a degree is tough to balance with a job or life, it's possible. Coding bootcamps are so mentally demanding that you're forced to dedicate all that time to the single pursuit of completing the coding bootcamp. Every hour you spend grinding through lessons could be hours spent getting job experience, watching YouTube tutorials, or even just spending time with your dog. 
+While a degree is tough to balance with a job or life, it's possible. Coding bootcamps are so mentally demanding that you're forced to dedicate all that time to the single pursuit of completing the coding bootcamp. Every hour you spend grinding through lessons could be hours spent getting job experience, watching YouTube tutorials, or even just spending time with your dog.
 
 Furthermore, coding bootcamps are specialized. Should you learn Go or Python? A computer science degree would give you a solid foundation with experience in many languages and technologies, while a bootcamp will instead focus on a single path to an entry-level job, even if that means cutting corners and making it harder for you to progress in the future. A coding bootcamp will cost you the option of learning other languages or skills, because you have to commit to a single topic early on. Most coding bootcamp students lack the fundamental knowledge to make the right decision.
 
@@ -45,7 +45,7 @@ It all depends on your personal circumstances. It's also very important to consi
 
 ## How much does a Computer Science degree cost?
 
-One such alternative is a computer science degree. Of course, if you're reading this, you probably got a degree in another subject, or didn't want a degree in the first place, which is leading you to research how much a coding bootcamp costs, and if it's worth it. You might not even be considering a computer science degree as a possible alternative at this stage in your life. 
+One such alternative is a computer science degree. Of course, if you're reading this, you probably got a degree in another subject, or didn't want a degree in the first place, which is leading you to research how much a coding bootcamp costs, and if it's worth it. You might not even be considering a computer science degree as a possible alternative at this stage in your life.
 
 But that would be a mistake. Computer science degrees are definitely an option, no matter where you are in your life, and should be considered as an alternative to a coding bootcamp.
 
@@ -59,17 +59,17 @@ Computer science degrees cost more than coding bootcamps, of course, and they al
 
 Like a coding bootcamp, is a computer science degree worth it? Yes, under certain circumstances. If you have more time, you're less sure of how you want to use your computer science knowledge, and you need a thorough grounding in the basics, that cost is worth paying. If those circumstances don't fit your situation, a computer science degree may not be worth it for you.
 
-You run the risk of spending years and a ton of money when you don't actually need to. Even worse, you run the risk of spending money and time and then still dropping out before graduating, like [40% of US](https://educationdata.org/college-dropout-rates) undergraduates do. 
+You run the risk of spending years and a ton of money when you don't actually need to. Even worse, you run the risk of spending money and time and then still dropping out before graduating, like [40% of US](https://educationdata.org/college-dropout-rates) undergraduates do.
 
 ![](/img/800/college-job-comic-1024x553.png)
 
-[Tweet image via @dinoman\_j](https://twitter.com/dinoman_j/status/1371871108392235011) 
+[Tweet image via @dinoman_j](https://twitter.com/dinoman_j/status/1371871108392235011)
 
 ## Cheap and quick alternatives to coding bootcamp do exist
 
 If you've got this far and neither option is appealing to you, you'll be glad to know additional alternatives exist. Again, I want to reiterate how open-minded computer science employers are. They don't care _how_ you got the knowledge or skills. These employers just want to know you have what it takes. A diploma or a certificate from a coding bootcamp is a helpful way to get those skills and prove it, but [there are alternatives](/computer-science/compsci-certificate-vs-degree/) to coding bootcamps and degrees that take less time and money. Is a coding bootcamp worth it? Sometimes the cost is too high.
 
-First, there's always the option to become self-taught. Many universities offer lectures for free, and the wealth of information available on YouTube today is unimaginable. If you can put together a curriculum to [learn computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/) for yourself, it's extremely possible to receive free education and information from reputable and knowledgeable sources on the internet. 
+First, there's always the option to become self-taught. Many universities offer lectures for free, and the wealth of information available on YouTube today is unimaginable. If you can put together a curriculum to [learn computer science online](/computer-science/comprehensive-guide-to-learn-computer-science-online/) for yourself, it's extremely possible to receive free education and information from reputable and knowledgeable sources on the internet.
 
 The advantages are obvious - it's free, or very cheap. It's entirely self-paced. You can pick and choose the topics you cover. The costs are also pretty straightforward: it will take some time to get to the standard you'll need to be interviewing, plus you'll have to motivate yourself to carry on, where a teacher or lecturer may have motivated you in a degree track or a coding bootcamp.
 
@@ -79,7 +79,7 @@ There are also places to get a [computer science certificate online](/computer-s
 
 ## What's the right choice for me?
 
-At the end of the day, only you can answer that. Is a coding bootcamp worth it? Should you aim for a diploma instead? Can you lean into a [self-taught curriculum](https://github.com/bootdotdev/curriculum)? Is an online certificate enough for you? I can't answer that for you, because the right answer differs for everyone. 
+At the end of the day, only you can answer that. Is a coding bootcamp worth it? Should you aim for a diploma instead? Can you lean into a [self-taught curriculum](https://github.com/bootdotdev/curriculum)? Is an online certificate enough for you? I can't answer that for you, because the right answer differs for everyone.
 
 This guide is designed to help you provide an answer for yourself. By now, you should have a thorough grasp of the specific strengths and costs (monetary and otherwise) of each option. It's worth thoroughly considering and investigating each option before you invest money, or time which is just as valuable.
 

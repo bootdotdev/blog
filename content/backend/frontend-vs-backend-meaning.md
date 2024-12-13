@@ -1,6 +1,6 @@
 ---
 title: "What do Frontend and Backend Development Mean?"
-author: Natalie Schooner
+author: natalie
 date: "2022-12-13"
 categories:
   - "backend"

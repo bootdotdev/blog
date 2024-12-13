@@ -1,6 +1,6 @@
 ---
 title: "An Overview of Boot.dev's Full-Stack Architecture"
-author: Lane Wagner
+author: lane
 date: "2022-01-10"
 categories:
   - "misc"

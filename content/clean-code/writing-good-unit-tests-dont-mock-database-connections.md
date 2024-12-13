@@ -1,6 +1,6 @@
 ---
 title: "I Mock Your Mocks"
-author: Lane Wagner
+author: lane
 date: "2023-07-13"
 categories:
   - "clean-code"

@@ -1,8 +1,8 @@
 ---
 title: "Should you Learn Computer Science or Software Engineering?"
-author: Winston Wagner
+author: winston
 date: "2020-12-17"
-categories: 
+categories:
   - "computer-science"
 images:
   - /img/800/Ginger-staring-at-computer-scaled.webp

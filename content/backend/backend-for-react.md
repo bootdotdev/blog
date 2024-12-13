@@ -1,6 +1,6 @@
 ---
 title: "What’s the Best Backend For React? 5 Options to Choose From"
-author: Natalie Schooner
+author: natalie
 date: "2023-06-26"
 categories:
   - "backend"

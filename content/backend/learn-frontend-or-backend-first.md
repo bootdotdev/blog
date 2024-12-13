@@ -1,6 +1,6 @@
 ---
 title: "Should You Learn Front-end or Back-end Development First?"
-author: Lane Wagner
+author: lane
 date: "2022-10-13"
 categories:
   - "backend"

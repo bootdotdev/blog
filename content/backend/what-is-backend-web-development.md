@@ -1,8 +1,8 @@
 ---
 title: "What is Backend Web Development?"
-author: Natalie Schooner
+author: natalie
 date: "2023-08-07"
-categories: 
+categories:
   - "backend"
 images:
   - /img/800/seasonedbackendmage.png.webp
@@ -12,7 +12,7 @@ imageAlts:
 
 The boring answer is that backend web development is the process of building the server-side of websites and web applications. It primarily focuses on handling the logic, data processing, and communication between the user's web browser and the server.
 
-The slightly more fun answer is backend web development is responsible for making websites and web applications do something *interesting*. For example, backend web dev is what crunches the numbers for an analytics dashboard, decides which TikTok video to show you next, and ensures that no one can hack into your bank account. When you click buttons, submit forms, or interact with any feature on a website, it's the backend that springs into action, making things happen behind the scenes.
+The slightly more fun answer is backend web development is responsible for making websites and web applications do something _interesting_. For example, backend web dev is what crunches the numbers for an analytics dashboard, decides which TikTok video to show you next, and ensures that no one can hack into your bank account. When you click buttons, submit forms, or interact with any feature on a website, it's the backend that springs into action, making things happen behind the scenes.
 
 In my totally unbiased opinion, backend development as a whole is one of the best areas for career development for anyone who’s interested in being a programmer. You get to work with the coolest languages, like Go, Python, and Ruby. You get to learn about the most [useful backend technologies](/backend/top-backend-technologies/), like MongoDB, and RabbitMQ.
 
@@ -110,13 +110,13 @@ But – once you’ve got a solid grasp of the fundamentals, frameworks can be a
 
 Here are some of the top web development frameworks:
 
-* **Django:** A high-level Python web framework great for its robustness, scalability, and built-in features for rapid backend development. Read more about [Django for backend development](/backend/django-for-backend/) here.
-* **Flask:** Another Python web framework, Flask is lightweight and flexible, ideal for building small to medium-sized backend applications. (Here’s our [Django vs Flask](/backend/django-for-backend/#django-vs-flask-vs-fastapi) comparison.)
-* **FastAPI:** A modern Python web framework known for its speed and simplicity, well-suited for building high-performance APIs. (Here’s our [Django vs FastAPI](/backend/django-for-backend/#django-vs-flask-vs-fastapi) comparison.)
-* **Ruby on Rails:** A full-stack web application framework written in Ruby, which includes backend capabilities and follows a convention-over-configuration approach.
-* **Express.js:** While it's primarily a Node.js web application framework, Express.js is used for backend development to create APIs and handle server-side logic.
-* **ASP.NET Core:** A cross-platform, high-performance framework for building backend web applications with .NET.
-* **Laravel:** A PHP web application framework that provides expressive syntax and a range of tools for backend development.
+- **Django:** A high-level Python web framework great for its robustness, scalability, and built-in features for rapid backend development. Read more about [Django for backend development](/backend/django-for-backend/) here.
+- **Flask:** Another Python web framework, Flask is lightweight and flexible, ideal for building small to medium-sized backend applications. (Here’s our [Django vs Flask](/backend/django-for-backend/#django-vs-flask-vs-fastapi) comparison.)
+- **FastAPI:** A modern Python web framework known for its speed and simplicity, well-suited for building high-performance APIs. (Here’s our [Django vs FastAPI](/backend/django-for-backend/#django-vs-flask-vs-fastapi) comparison.)
+- **Ruby on Rails:** A full-stack web application framework written in Ruby, which includes backend capabilities and follows a convention-over-configuration approach.
+- **Express.js:** While it's primarily a Node.js web application framework, Express.js is used for backend development to create APIs and handle server-side logic.
+- **ASP.NET Core:** A cross-platform, high-performance framework for building backend web applications with .NET.
+- **Laravel:** A PHP web application framework that provides expressive syntax and a range of tools for backend development.
 
 There are plenty more, but those are a good jumping-off point.
 
@@ -172,7 +172,7 @@ Luckily, StackOverflow runs a survey each year including some [fascinating globa
 | Developer, mobile                             | \$68,192.5        |
 | Developer, front-end                          | \$59,970          |
 
-Different factors affect expected salary levels, such as location, experience level, and the company hiring. Also, keep in mind that these figures are *global*, so if you're in a country like the United States, salaries are much higher in reality. It’s also worth mentioning that with some upskilling into cloud dev, DevOps, and database administration, you can do the same job, but with a better paycheck:
+Different factors affect expected salary levels, such as location, experience level, and the company hiring. Also, keep in mind that these figures are _global_, so if you're in a country like the United States, salaries are much higher in reality. It’s also worth mentioning that with some upskilling into cloud dev, DevOps, and database administration, you can do the same job, but with a better paycheck:
 
 | Cloud infrastructure engineer | \$105,000  |
 | ----------------------------- | ---------- |
@@ -181,11 +181,11 @@ Different factors affect expected salary levels, such as location, experience le
 
 I’ve talked about "alternative" or more specialized backend web dev roles here:
 
-* [Golang backend developer](/golang/become-golang-backend-dev/)
-* [Data engineer](/backend/backend-engineer-vs-data-engineer/)
-* [Cloud engineer](/devops/devops-vs-cloud-engineers/)
-* [DevOps](/devops/backend-devops-roles-merging/)
-* [DevSecOps](/devops/devops-vs-devsecops/)
+- [Golang backend developer](/golang/become-golang-backend-dev/)
+- [Data engineer](/backend/backend-engineer-vs-data-engineer/)
+- [Cloud engineer](/devops/devops-vs-cloud-engineers/)
+- [DevOps](/devops/backend-devops-roles-merging/)
+- [DevSecOps](/devops/devops-vs-devsecops/)
 
 In terms of job lookout, the number of websites and web apps is not getting any smaller. The Bureau of Labor Statistics [expects](https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm) the role of "web developer" (an imperfect match up to backend web dev) to grow 23 percent between 2021 and 2031, which is way faster than most jobs they projected, which was just 0.5 percent.
 

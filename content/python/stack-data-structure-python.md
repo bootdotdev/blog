@@ -1,6 +1,6 @@
 ---
 title: "Understanding Stacks: Python Implementation of a Core Data Structure"
-author: Lane Wagner
+author: lane
 date: "2023-10-06"
 categories: 
   - "python"

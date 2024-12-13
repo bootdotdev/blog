@@ -1,6 +1,6 @@
 ---
 title: "Functional Programming Course Released"
-author: Lane Wagner
+author: lane
 date: "2020-10-19"
 categories:
   - "javascript"

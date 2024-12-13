@@ -1,6 +1,6 @@
 ---
 title: "Learn Go Fast - Top Courses and Resources"
-author: Lane Wagner
+author: lane
 date: "2020-11-02"
 categories:
   - "golang"

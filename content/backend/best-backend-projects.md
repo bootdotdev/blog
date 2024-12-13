@@ -1,6 +1,6 @@
 ---
 title: "The 6 Best Backend Project Ideas for Beginners"
-author: Natalie Schooner
+author: natalie
 date: "2022-10-19"
 categories:
   - "backend"
