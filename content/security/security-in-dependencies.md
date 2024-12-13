@@ -1,6 +1,6 @@
 ---
 title: "Security in Dependencies"
-author: Lane Wagner
+author: lane
 date: "2019-08-21"
 categories: 
   - "security"

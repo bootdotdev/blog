@@ -1,6 +1,6 @@
 ---
 title: "Awww, do I Really Need to Learn X to Get a Job as a Developer?"
-author: Lane Wagner
+author: lane
 date: "2023-06-24"
 categories:
   - "education"

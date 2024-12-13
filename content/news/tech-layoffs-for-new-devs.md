@@ -1,6 +1,6 @@
 ---
 title: "What do Tech Layoffs Mean for Budding Developers?"
-author: Lane Wagner
+author: lane
 date: "2022-11-11"
 categories:
   - "news"

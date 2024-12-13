@@ -1,6 +1,6 @@
 ---
 title: "JavaScript vs Java - Differences, Similarities, and History"
-author: Lane Wagner
+author: lane
 date: "2020-11-06"
 categories:
   - "javascript"

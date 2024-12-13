@@ -1,8 +1,8 @@
 ---
 title: "Is There a Case for Programmers to Unionize?"
-author: Lane Wagner
+author: lane
 date: "2021-02-15"
-categories: 
+categories:
   - "jobs"
 images:
   - /img/800/worker-union.webp

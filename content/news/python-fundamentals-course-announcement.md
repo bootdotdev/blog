@@ -1,6 +1,6 @@
 ---
 title: "Our Learn Python Course Has Released"
-author: Lane Wagner
+author: lane
 date: "2021-07-27"
 categories:
   - "news"

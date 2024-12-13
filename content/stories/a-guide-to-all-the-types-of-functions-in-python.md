@@ -1,13 +1,9 @@
 ---
 title: "All the Kinds of Functions in Python"
-author: Eteims
+author: eteims
 date: "2022-10-13"
 images:
   - /img/800/luca-bravo-XJXWbfSo2f0-unsplash.webp.webp
-dofollows:
-  - "https://github.com/EteimZ"
-  - "https://twitter.com/Eteims1"
-  - "https://dev.to/eteimz"
 categories:
   - "python"
 ---
@@ -29,9 +25,9 @@ print(num) # 2
 print(sq_num) # 4
 ```
 
-Impure functions are one of the most common type of function. they take an input either by value or reference and return a value. They are impure because they perform [side effects](https://en.wikipedia.org/wiki/Side_effect_(computer_science)). 
+Impure functions are one of the most common type of function. they take an input either by value or reference and return a value. They are impure because they perform [side effects](<https://en.wikipedia.org/wiki/Side_effect_(computer_science)>).
 
-In the example above, the function performs a side effect by altering the global variable `num`. This is a valid side effect, but you'll often also encounter "side effects" like  HTTP requests, printing to the console or accessing a database.
+In the example above, the function performs a side effect by altering the global variable `num`. This is a valid side effect, but you'll often also encounter "side effects" like HTTP requests, printing to the console or accessing a database.
 
 Impure functions are useful but are often error-prone and hard to test due to their side effects.
 
@@ -44,7 +40,7 @@ def sq(x):
 sq_num = sq(2) # returns 4
 ```
 
-Pure functions are functions with no side effects. They are similar to [functions](https://en.wikipedia.org/wiki/Function_(mathematics)) in mathematics. They take in an input and produce an output without altering any external states.
+Pure functions are functions with no side effects. They are similar to [functions](<https://en.wikipedia.org/wiki/Function_(mathematics)>) in mathematics. They take in an input and produce an output without altering any external states.
 
 It makes them easy to test and predictable. Pure functions are widely used in [functional programming](https://en.wikipedia.org/wiki/Functional_programming)
 
@@ -62,9 +58,9 @@ A subroutine is a function that doesn't return a value. It performs a task, and 
 
 ## Coroutine
 
-Coroutines are functions capable of multitasking cooperatively. A function working cooperatively can pause its execution and hand control off to another function when it is idle or performing a [blocking](https://en.wikipedia.org/wiki/Blocking_(computing)) task.
+Coroutines are functions capable of multitasking cooperatively. A function working cooperatively can pause its execution and hand control off to another function when it is idle or performing a [blocking](<https://en.wikipedia.org/wiki/Blocking_(computing)>) task.
 
-Coroutines are a form of [concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science)). They are preferred to other concurrency models like [multithreading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)). Thanks to the `async` and `await` keywords introduced in [PEP 492](https://peps.python.org/pep-0492/), they have become common and intuitive. Below is an example of coroutines in Python using the [asyncio](https://docs.python.org/3/library/asyncio.html) library.
+Coroutines are a form of [concurrency](<https://en.wikipedia.org/wiki/Concurrency_(computer_science)>). They are preferred to other concurrency models like [multithreading](<https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)>). Thanks to the `async` and `await` keywords introduced in [PEP 492](https://peps.python.org/pep-0492/), they have become common and intuitive. Below is an example of coroutines in Python using the [asyncio](https://docs.python.org/3/library/asyncio.html) library.
 
 ```python
 import asyncio
@@ -130,7 +126,7 @@ The code above implements an infinite counter using generators in Python. The bu
 
 ## Methods
 
-An Object is a collection of related data and functions. Functions in an object are called **methods**. Rather than manipulating the data directly, methods are used. This is known as **Encapsulation**. The method definition is contained in the **class** of the object along with its related data. When an instance of the class has been created the method can be accessed via the syntax `instance-name.method-name`.  
+An Object is a collection of related data and functions. Functions in an object are called **methods**. Rather than manipulating the data directly, methods are used. This is known as **Encapsulation**. The method definition is contained in the **class** of the object along with its related data. When an instance of the class has been created the method can be accessed via the syntax `instance-name.method-name`.
 
 ```python
 class Position:
@@ -194,12 +190,12 @@ The map function returns an iterator which needs to be converted to a list to ge
 ### filter()
 
 The `filter()` higher-order function takes in an array and another function,
-which is called the **predicate**. 
+which is called the **predicate**.
 It selects the entries in the array that are true based on the predicate function.
 
 ```python
 data = filter(lambda x: x % 2 == 0, [1,2,3,4,5,6,7,8,9,10])
-list(data) # [2, 4, 6, 8, 10] 
+list(data) # [2, 4, 6, 8, 10]
 ```
 
 The filter function also returns an iterator.
@@ -238,7 +234,7 @@ The `factory` function returns the `mult_by_10` function which is the **closure*
 
 ## Recursive function
 
-A recursive function is a function that can call itself. It has a base case, 
+A recursive function is a function that can call itself. It has a base case,
 which serves as it's termination point. Recursion is often an alternative to iteration.
 
 ```python

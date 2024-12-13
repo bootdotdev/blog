@@ -1,8 +1,8 @@
 ---
 title: "Education's Shameful State of the Art"
-author: Lane Wagner
+author: lane
 date: "2020-10-05"
-categories: 
+categories:
   - "misc"
 images:
   - /img/800/shame-scaled.jpeg
@@ -43,7 +43,7 @@ At [boot.dev](https://www.boot.dev/), the programs that we are assembling will b
 ## Traditional Education vs Mastery-Based
 
 > Mastery learning is an instructional strategy and educational philosophy... Mastery learning maintains that students must achieve a level of mastery in prerequisite knowledge before moving forward to learn subsequent information.
-> 
+>
 > [Wikipedia](https://en.wikipedia.org/wiki/Mastery_learning#:~:text=9%20References-,Definition,they%20are%20given%20enough%20time.)
 
 Colleges and Bootcamps put an artificial time constraint on learning. They say, "you have 4 months, learn what you can." If you learn 70% of what you needed to in that timeframe, they say "good enough" and move you on to more advanced concepts where you will likely have even bigger problems.
@@ -77,7 +77,7 @@ My own wife recently went to one of [boot.dev's](https://www.boot.dev/) biggest 
 
 ### What about making friends and socializing at College? College is about the experience as much as the education.
 
-I think this is a conflation of issues. In the future, with higher education being primarily online, I would imagine that young people's primary means of socializing will change. Hopefully, it shifts into something more inclusive, so that not only the college-privileged can participate.  
+I think this is a conflation of issues. In the future, with higher education being primarily online, I would imagine that young people's primary means of socializing will change. Hopefully, it shifts into something more inclusive, so that not only the college-privileged can participate.
 
 ### Nothing Beats Asking Professors For Help and Guidance
 

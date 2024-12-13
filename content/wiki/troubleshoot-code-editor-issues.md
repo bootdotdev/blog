@@ -1,6 +1,6 @@
 ---
 title: "Troubleshooting the Boot.dev Code Editor: Common Snags"
-author: Hunter Beckmann
+author: hunter
 date: "2023-12-07"
 images:
   - /img/800/frozen_wizard.png.webp
@@ -9,7 +9,6 @@ categories:
 ---
 
 As a Boot.dev student, you may have encountered frustrating moments when your code editor freezes or is stuck "Setting up your environment", leaving you wondering what went wrong. Don't worry; we're here to help. These issues can be caused by various factors, and in this blog post, we'll explore some common culprits and provide solutions to help you get back to coding smoothly.
-
 
 ## 1. Chrome Extensions Blocking the Python Interpreter
 
@@ -38,4 +37,3 @@ In rare cases, your internet service provider (ISP) may be causing issues. This 
 - **Contact ISP Support:** Reach out to your ISP's customer support to inquire about any known issues in your area and seek assistance in resolving the problem.
 
 If you've tried the solutions listed above and are still experiencing issues, don't hesitate to ask for help in the [Discord community](https://www.boot.dev/community).
-

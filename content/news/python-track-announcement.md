@@ -1,6 +1,6 @@
 ---
 title: "Four-Course Python Data Structures and Algorithms Track Released"
-author: Lane Wagner
+author: lane
 date: "2021-10-04"
 categories:
   - "news"

@@ -1,8 +1,8 @@
 ---
 title: "Go-CoNLLU - Some Much Needed Machine Learning Support in Go"
-author: Lane Wagner
+author: lane
 date: "2020-06-08"
-categories: 
+categories:
   - "golang"
   - "open-source"
 images:
@@ -60,4 +60,4 @@ func main() {
 
 All the sentences and tokens in the corpus will be printed to the console.
 
-If you need a .conllu corpus file you can download the Universal Dependencies English training model here: [en\_ewt-ud](https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/master/en_ewt-ud-train.conllu)[\-](https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/master/en_ewt-ud-train.conllu)[train.conllu](https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/master/en_ewt-ud-train.conllu)
+If you need a .conllu corpus file you can download the Universal Dependencies English training model here: [en_ewt-ud](https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/master/en_ewt-ud-train.conllu)[\-](https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/master/en_ewt-ud-train.conllu)[train.conllu](https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/master/en_ewt-ud-train.conllu)

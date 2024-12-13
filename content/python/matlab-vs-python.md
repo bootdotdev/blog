@@ -1,6 +1,6 @@
 ---
 title: "Matlab vs Python: 6 Key Differences [Updated 2023]"
-author: Natalie Schooner
+author: natalie
 date: "2023-04-16"
 categories:
   - "python"

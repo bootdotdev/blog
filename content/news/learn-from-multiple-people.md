@@ -1,6 +1,6 @@
 ---
 title: "The More Mentors, The Better (When Learning to Code)"
-author: Lane Wagner
+author: lane
 date: "2022-09-13"
 categories:
   - "news"

@@ -1,6 +1,6 @@
 ---
 title: "The Best Backend for Vue: 6 Options"
-author: Natalie Schooner
+author: natalie
 date: "2023-07-11"
 categories:
   - "backend"

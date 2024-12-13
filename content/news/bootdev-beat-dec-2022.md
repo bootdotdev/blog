@@ -1,6 +1,6 @@
 ---
 title: "Boot.dev Beat. December 2022"
-author: Lane Wagner
+author: lane
 date: "2023-01-06"
 categories:
   - "news"
@@ -8,9 +8,6 @@ images:
   - /img/800/beatdec.png.webp
 imageAlts:
   - "Boot.dev Beat December 2022 Cover Image"
-dofollows:
-  - "https://www.youtube.com/playlist?list=PL4lTrYcDuAfxAgSefXftJXbhw0qvjfOFo"
-  - "https://www.youtube.com/watch?v=Hybt9NdmsBw"
   - "https://fhur.me/posts/always-use-closed-open-intervals"
   - "https://abhinavg.net/2022/12/06/designing-go-libraries/"
 ---
@@ -43,10 +40,10 @@ This doesn't directly impact the Boot.dev platform, but we've started migrating 
 
 ## What we're working on now
 
-* Making the gem system more intuitive and easy to use. Right now you need to click on the gem icon or the sharpshooter icon to spend gems, but we want to make it more obvious how that works.
-* The next course we release will probably be "Learn Kubernetes", but we also spent a lot of this month recording a video walkthrough of "Learn HTTP" that we'll be releasing soon.
-* We want to do a major upgrade of the "Learn Functional Programming" and the "Learn Cryptography" courses.
-* We plan to add a few more key data structures (Tries and Heaps) to the "Learn Data Structures" course.
+- Making the gem system more intuitive and easy to use. Right now you need to click on the gem icon or the sharpshooter icon to spend gems, but we want to make it more obvious how that works.
+- The next course we release will probably be "Learn Kubernetes", but we also spent a lot of this month recording a video walkthrough of "Learn HTTP" that we'll be releasing soon.
+- We want to do a major upgrade of the "Learn Functional Programming" and the "Learn Cryptography" courses.
+- We plan to add a few more key data structures (Tries and Heaps) to the "Learn Data Structures" course.
 
 ## Top Picks for December
 

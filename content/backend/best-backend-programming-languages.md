@@ -1,6 +1,6 @@
 ---
 title: "The 8 Top Back-end Programming Languages for 2023"
-author: Natalie Schooner
+author: natalie
 date: "2022-11-10"
 categories:
   - "backend"

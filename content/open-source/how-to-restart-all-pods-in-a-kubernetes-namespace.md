@@ -1,6 +1,6 @@
 ---
 title: "How to Restart All Pods in a Kubernetes Namespace"
-author: Lane Wagner
+author: lane
 date: "2020-10-26"
 categories:
   - "open-source"

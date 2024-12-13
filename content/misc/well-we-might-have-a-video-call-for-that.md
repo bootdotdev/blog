@@ -1,6 +1,6 @@
 ---
 title: "Well, We Might Have a Video Call for That!"
-author: Lane Wagner
+author: lane
 date: "2021-09-27"
 categories: 
   - "news"

@@ -1,6 +1,6 @@
 ---
 title: "Ruby vs JavaScript: Which Language Should You Learn First?"
-author: Meghan Reichenbach
+author: meghan
 date: "2021-11-05"
 categories:
   - "javascript"

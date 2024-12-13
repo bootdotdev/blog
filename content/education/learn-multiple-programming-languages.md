@@ -1,6 +1,6 @@
 ---
 title: "Why We Force You to Learn Multiple Programming Languages"
-author: Lane Wagner
+author: lane
 date: "2022-06-13"
 categories: 
   - "education"

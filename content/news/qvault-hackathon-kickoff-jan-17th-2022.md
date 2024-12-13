@@ -1,6 +1,6 @@
 ---
 title: "Qvault Hackathon Kickoff Jan 17th, 2022"
-author: Lane Wagner
+author: lane
 date: "2022-01-16"
 categories:
   - "javascript"

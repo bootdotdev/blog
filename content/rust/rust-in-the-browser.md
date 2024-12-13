@@ -1,6 +1,6 @@
 ---
 title: "Running Rust in the Browser with Web Assembly"
-author: Lane Wagner
+author: lane
 date: "2020-10-12"
 categories:
   - "rust"

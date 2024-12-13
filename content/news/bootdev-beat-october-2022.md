@@ -1,6 +1,6 @@
 ---
 title: "Boot.dev Beat: October 2022 Edition"
-author: Lane Wagner
+author: lane
 date: "2022-10-31"
 categories:
   - "news"
@@ -8,9 +8,6 @@ images:
   - /img/800/bootdevbeatoct.png.webp
 imageAlts:
   - "Boot.dev Beat October 2022 Cover Image"
-dofollows:
-  - "https://www.youtube.com/watch?v=Z0GX2mTUtfo"
-  - "https://bernsteinbear.com/blog/cinder-jit-bisect/"
   - "https://www.willett.io/posts/precepts/"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A Complete Overview of Computer Science for Beginners"
-author: Taryn Brewer
+author: winston
 date: "2022-08-21"
 categories:
   - "computer-science"

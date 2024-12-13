@@ -1,6 +1,6 @@
 ---
 title: "How Do Brute-Force Attackers Know They Found The Key?"
-author: Lane Wagner
+author: lane
 date: "2020-02-11"
 categories: 
   - "cryptography"

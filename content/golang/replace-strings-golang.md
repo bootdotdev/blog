@@ -1,6 +1,6 @@
 ---
 title: "How Replace a String in Go - Top 5 Examples"
-author: Lane Wagner
+author: lane
 date: "2021-04-20"
 lastmod: "2022-10-01"
 categories: 

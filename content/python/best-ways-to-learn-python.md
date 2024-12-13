@@ -1,6 +1,6 @@
 ---
 title: "The 7 Best Ways to Learn Python"
-author: Zulie Rane
+author: zulie
 date: "2021-10-12"
 categories:
   - "python"

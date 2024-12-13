@@ -1,6 +1,6 @@
 ---
 title: "What is a DevOps Engineer's Salary?"
-author: Natalie Schooner
+author: natalie
 date: "2022-11-01"
 categories:
   - "devops"

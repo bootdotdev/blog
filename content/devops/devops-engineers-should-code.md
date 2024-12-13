@@ -1,6 +1,6 @@
 ---
 title: "Are You a DevOps Engineer If You Aren't Writing Code?"
-author: Lane Wagner
+author: lane
 date: "2022-09-12"
 categories:
   - "devops"

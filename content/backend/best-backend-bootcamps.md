@@ -1,6 +1,6 @@
 ---
 title: "The 7 Best Backend Bootcamps of 2022"
-author: Natalie Schooner
+author: natalie
 date: "2022-10-11"
 categories:
   - "backend"

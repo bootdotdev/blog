@@ -1,6 +1,6 @@
 ---
 title: "Julia vs Python: Which is Best to Learn First?"
-author: Zulie Rane
+author: zulie
 date: "2022-02-05"
 lastmod: "2022-10-01"
 categories:

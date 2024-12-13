@@ -1,6 +1,6 @@
 ---
 title: "The Problem with Education is a Problem of Incentives"
-author: Lane Wagner
+author: lane
 date: "2022-05-10"
 categories: 
   - "education"

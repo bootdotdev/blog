@@ -1,6 +1,6 @@
 ---
 title: "The 28 Best Places to Learn Python Online"
-author: Natalie Schooner
+author: natalie
 date: "2023-04-28"
 categories:
   - "python"

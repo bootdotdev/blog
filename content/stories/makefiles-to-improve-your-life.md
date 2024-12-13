@@ -1,9 +1,7 @@
 ---
 title: "Makefiles to improve your life"
-author: Casper Andersson
+author: casper
 date: "2022-10-19"
-dofollows:
-  - "https://casan.se"
 categories:
   - "misc"
 images:
@@ -92,10 +90,10 @@ Builds documentation. A popular way to handle documentation is through a
 website. This might generate the HTML from some other format, perhaps from
 markdown files using Pandoc, or some tool that parses the code and comments.
 
-
 ## Example
 
 We will use the below project structure.
+
 ```sh
 |------------------------
 |- Makefile
@@ -118,6 +116,7 @@ could be created by the Makefile as well.
 output/default_config.json: src/default_config.json
 	cp src/default_config.json output/default_config.json
 ```
+
 In Make terminology this is called a `target`. The target is
 `output/default_config.json`, which is the file we want to create. After the
 colon `:` comes the dependency `src/default_config.json`, the original file.
@@ -132,10 +131,12 @@ it says there is nothing to be done. Change something in
 
 To improve our Makefile we will make some more additions. Let's start with a
 `clean` command.
+
 ```make
 clean:
 	rm -f output/default_config.json
 ```
+
 I'm using `-f` to have it fail silently if there is nothing to remove. `clean`
 depends on nothing and will therefore always run. Unless a file named `clean`
 happens to exist. In that case it will never run because the target already
@@ -144,6 +145,7 @@ between commands and filenames we can add `.PHONY: clean` to the makefile. Now
 `clean` is never interpreted as a filename.
 
 Next we add some commands to more easily continue building upon it later.
+
 ```make
 all: copy_config
 
@@ -151,6 +153,7 @@ copy_config: output/default_config.json
 
 .PHONY: all copy_config clean
 ```
+
 With this we can invoke `make all` to do everything, placing it first will also
 make it the default when invoking `make` without arguments. Building
 `program.exe` could also be included as a dependency here. `make copy_config`
@@ -158,6 +161,7 @@ as short command for only copying the config. Finally, we add `all` and
 `copy_config` to `.PHONY`.
 
 In the end we are left with this:
+
 ```make
 .PHONY: all copy_config clean
 

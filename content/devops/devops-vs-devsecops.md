@@ -1,6 +1,6 @@
 ---
 title: "4 Key Differences Between DevOps and DevSecOps"
-author: Natalie Schooner
+author: natalie
 date: "2023-01-23"
 categories:
   - "devops"

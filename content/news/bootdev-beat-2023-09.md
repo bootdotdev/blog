@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. September 2023"
-author: Lane Wagner
+author: lane
 date: "2023-08-31"
 categories:
   - "news"
@@ -8,9 +8,6 @@ images:
   - /img/800/bootdevdrumshroom.png.webp
 imageAlts:
   - "Boot.dev Beat Drum"
-dofollows:
-  - "https://www.quantamagazine.org"
-  - "https://syntax.fm"
 ---
 
 The best part of working on [Boot.dev](https://www.boot.dev) is seeing you all make almost unbelievable strides in not only your understanding of fundamental concepts, but what you can now _build from scratch_. It's not just that, I've been hearing a lot of stories about the _confidence_ that's being gained by our alumnis after shipping so much code. That's a critical part of the journey.

@@ -1,6 +1,6 @@
 ---
 title: "How to Create a Custom Toggle Switch Component in Vue.js"
-author: Lane Wagner
+author: lane
 date: "2020-07-21"
 categories: 
   - "javascript"

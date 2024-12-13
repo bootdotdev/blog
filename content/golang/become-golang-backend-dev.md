@@ -1,6 +1,6 @@
 ---
 title: "How to Become a Golang Engineer (on the Back-End)"
-author: Natalie Schooner
+author: natalie
 date: "2023-02-23"
 categories:
   - "golang"

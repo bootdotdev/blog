@@ -1,6 +1,6 @@
 ---
 title: "Don't Go To Casting Hell - Use Default Native Types in Go"
-author: Lane Wagner
+author: lane
 date: "2020-05-21"
 categories: 
   - "clean-code"

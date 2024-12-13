@@ -1,8 +1,8 @@
 ---
 title: "I Wrote Go-TinyDate, The Missing Golang Date Package"
-author: Lane Wagner
+author: lane
 date: "2020-03-23"
-categories: 
+categories:
   - "golang"
   - "open-source"
 images:
@@ -78,7 +78,7 @@ func main(){
 	if err != nil {
 		fmt.Println(err.Error())
     }
-    
+
     td = td.Add(time.Hour * 48)
     fmt.Println(td)
     // prints 2020-04-05

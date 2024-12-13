@@ -1,6 +1,6 @@
 ---
 title: "Python vs JavaScript: What's the Difference and Which Should You Learn?"
-author: Meghan Reichenbach
+author: meghan
 date: "2021-08-24"
 lastmod: "2022-10-16"
 categories:

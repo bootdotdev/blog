@@ -1,6 +1,6 @@
 ---
 title: "Node.js vs Golang: Compared Over 6 Key Areas"
-author: Meghan Reichenbach
+author: meghan
 date: "2021-09-23"
 categories:
   - "golang"

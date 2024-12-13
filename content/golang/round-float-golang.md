@@ -1,6 +1,6 @@
 ---
 title: "How to Round a Float in Go"
-author: Lane Wagner
+author: lane
 date: "2022-11-13"
 categories:
   - "golang"

@@ -1,6 +1,6 @@
 ---
 title: "The Top 22 Backend Technologies to Learn in 2023"
-author: Natalie Schooner
+author: natalie
 date: "2022-11-16"
 categories:
   - "backend"

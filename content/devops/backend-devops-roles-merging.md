@@ -1,6 +1,6 @@
 ---
 title: "Full-Stack Ops: Back-end and DevOps Roles are Merging"
-author: Lane Wagner
+author: lane
 date: "2022-10-10"
 categories:
   - "devops"

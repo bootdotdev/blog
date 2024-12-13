@@ -1,8 +1,8 @@
 ---
 title: "Python vs C++: The Best Language To Learn For You"
-author: Meghan Reichenbach
+author: meghan
 date: "2021-11-17"
-categories: 
+categories:
   - "misc"
 images:
   - /img/800/PythonvsC-1-1.webp
@@ -46,7 +46,7 @@ C++, however, wants a language to accommodate the programmer.
 
 Its multiparadigm support and ability to code the same task in multiple ways make the language completely malleable. As a beginner, this flimsy structure is confusing and hard to grasp and risks you learning inefficient C++ coding habits.
 
-Ease of use isn't the only beginner quality a language needs though. It also needs versatility and resources. Python and C++ are definitely versatile, since they're both general-purpose languages and used across multiple fields, but they're also chock-full of resources from being in the industry for 30 years or more.  
+Ease of use isn't the only beginner quality a language needs though. It also needs versatility and resources. Python and C++ are definitely versatile, since they're both general-purpose languages and used across multiple fields, but they're also chock-full of resources from being in the industry for 30 years or more.
 
 However, Python comes with the nickname "batteries included" for a reason. The amount of support Python's standard library comes with is staggering, giving it a slight edge on C++ when it comes to resources.
 
@@ -70,7 +70,7 @@ You can see here in this sample where Python and C++ are challenged to generate 
 
 The same results are seen here in this [popular benchmark test](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/gpp-python3.html), where out of all 10 challenges C++ beat Python every time, often by a significant amount.
 
-Why is it so much slower? Well, for one, Python has a garbage collector. Garbage collectors are amazing for memory management, but it's a death sentence for performance time. Python's also interpreted, which takes longer than C++'s compilation, and it's dynamically typed, meaning a higher chance for errors at runtime.  
+Why is it so much slower? Well, for one, Python has a garbage collector. Garbage collectors are amazing for memory management, but it's a death sentence for performance time. Python's also interpreted, which takes longer than C++'s compilation, and it's dynamically typed, meaning a higher chance for errors at runtime.
 
 However, I don't believe performance is synonymous with speed, and where C++ is faster, Python handles bigger loads.
 
@@ -88,7 +88,7 @@ Python itself is a very secure language, which is perfect for building servers h
 
 Even though you can build web servers from scratch with Python's standard library alone, it has loads of frameworks and libraries that help support these functions, like Django and Flask.
 
-Python's readability comes in handy here since its intuitive syntax and "one way to do something" motto means all the programmers working on the project will mesh together seamlessly and interact with the code the same way.  
+Python's readability comes in handy here since its intuitive syntax and "one way to do something" motto means all the programmers working on the project will mesh together seamlessly and interact with the code the same way.
 
 There's also the fact that Python is a popular choice for this type of work, and the community is invested in advancing the language's server-side capabilities.
 

@@ -1,6 +1,6 @@
 ---
 title: "They Who Control Encryption"
-author: Lane Wagner
+author: lane
 date: "2020-08-12"
 categories:
   - "cryptography"

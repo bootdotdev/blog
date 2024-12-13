@@ -1,8 +1,8 @@
 ---
 title: "The Top 8 Online Coding Bootcamps for 2022"
-author: Zulie Rane
+author: zulie
 date: "2022-05-21"
-categories: 
+categories:
   - "education"
 images:
   - /img/800/pexels-photo-1181359.webp.webp

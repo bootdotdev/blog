@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. March 2024"
-author: Lane Wagner
+author: lane
 date: "2024-02-28"
 categories:
   - "news"
@@ -8,11 +8,9 @@ images:
   - /img/800/fantasydrumsinwintermarch.png.webp
 imageAlts:
   - "Boot.dev Beat Drum"
-dofollows:
-  - "https://docs.emailengine.app"
 ---
 
-Pythogoras escaped this month. The community rallied against the Serpent God, and while he was wounded and beaten back, he *escaped*. We'll be trying again later this month. Happy coding.
+Pythogoras escaped this month. The community rallied against the Serpent God, and while he was wounded and beaten back, he _escaped_. We'll be trying again later this month. Happy coding.
 
 Dutifully, Lane
 
@@ -38,31 +36,31 @@ We published chapter 1 of ["The March of Time"](https://www.boot.dev/lore) along
 
 ### 4. Other tweaks
 
-* Notification preferences in settings
-* Warning of XP loss for solution viewing
-* A11y improvements
-* Go and Advanced Algorithms courses migrated to "unit test" lesson format
-* "Run" (apart from "Submit") added to HTTP test lesson types
-* "Add certificate to LinkedIn" button
-* Autocomplete in the editor for Go lessons
+- Notification preferences in settings
+- Warning of XP loss for solution viewing
+- A11y improvements
+- Go and Advanced Algorithms courses migrated to "unit test" lesson format
+- "Run" (apart from "Submit") added to HTTP test lesson types
+- "Add certificate to LinkedIn" button
+- Autocomplete in the editor for Go lessons
 
 ## What is yet to come
 
-* New Guided Project: Build a Static Site Generator
-* Big update on how Boss Battles work
-* Challenges and reworking of the "Learn JavaScript" course
-* More lore
-* Course on memory management in C
-* Course on Git
+- New Guided Project: Build a Static Site Generator
+- Big update on how Boss Battles work
+- Challenges and reworking of the "Learn JavaScript" course
+- More lore
+- Course on memory management in C
+- Course on Git
 
 ## Backend Banter Podcast
 
 This month's episodes include:
 
-* [#042 - Rust is the WORST language to learn first ft. Teej DeVries](https://www.backendbanter.fm/episodes/042-rust-is-the-worst-language-to-learn-first-ft-teej-devries-875257f7-866a-479a-ad7f-c0dbac87199e)
-* [#041 - From Roblox to software founder ft. Lewis Menelaws](https://www.backendbanter.fm/episodes/041-from-roblox-to-software-founder-ft-lewis-menelaws)
-* [#040 - The man who wrote the book on DynamoDB ft. Alex DeBrie](https://www.backendbanter.fm/episodes/040-the-man-who-wrote-the-book-on-dynamodb-ft-alex-debrie)
-* [#039 - Get promoted by being lazy ft. Dax Raad](https://www.backendbanter.fm/episodes/039-get-promoted-by-being-lazy-ft-dax-raad)
+- [#042 - Rust is the WORST language to learn first ft. Teej DeVries](https://www.backendbanter.fm/episodes/042-rust-is-the-worst-language-to-learn-first-ft-teej-devries-875257f7-866a-479a-ad7f-c0dbac87199e)
+- [#041 - From Roblox to software founder ft. Lewis Menelaws](https://www.backendbanter.fm/episodes/041-from-roblox-to-software-founder-ft-lewis-menelaws)
+- [#040 - The man who wrote the book on DynamoDB ft. Alex DeBrie](https://www.backendbanter.fm/episodes/040-the-man-who-wrote-the-book-on-dynamodb-ft-alex-debrie)
+- [#039 - Get promoted by being lazy ft. Dax Raad](https://www.backendbanter.fm/episodes/039-get-promoted-by-being-lazy-ft-dax-raad)
 
 If you haven't yet, subscribe on [YouTube](https://www.youtube.com/@backendbanterfm), [Spotify](https://open.spotify.com/show/35trT95UkRVCkEb6tXndpF), or [Apple Podcasts](https://podcasts.apple.com/us/podcast/backend-banter/id1688115203)! If you leave a rating and a review, I'll love you forever.
 

@@ -1,6 +1,6 @@
 ---
 title: "The State of Learning to Code - 2024 Report"
-author: Lane Wagner
+author: lane
 date: "2024-10-21"
 categories:
   - "education"

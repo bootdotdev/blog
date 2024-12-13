@@ -1,6 +1,6 @@
 ---
 title: "Build a Blog Aggregator in Go [Deprecated]"
-author: Lane Wagner
+author: lane
 date: "2024-09-17"
 categories:
   - "tutorials"

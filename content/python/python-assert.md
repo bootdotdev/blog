@@ -1,8 +1,8 @@
 ---
 title: "Python Assert Statement, How to Test a Condition"
-author: Lane Wagner
+author: lane
 date: "2021-12-13"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/yell.webp

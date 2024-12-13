@@ -1,6 +1,6 @@
 ---
 title: "How to Use the Ternary Operator in Python"
-author: Lane Wagner
+author: lane
 date: "2021-12-09"
 lastmod: "2022-07-20"
 categories: 

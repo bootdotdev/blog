@@ -1,6 +1,6 @@
 ---
 title: "How to Create a Custom Checkbox Form in Vue"
-author: Lane Wagner
+author: lane
 date: "2020-11-25"
 categories: 
   - "javascript"

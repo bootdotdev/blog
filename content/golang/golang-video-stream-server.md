@@ -1,6 +1,6 @@
 ---
 title: "Create a Golang Video Streaming Server Using HLS"
-author: Lane Wagner
+author: lane
 date: "2020-09-04"
 categories:
   - "golang"

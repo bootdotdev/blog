@@ -1,8 +1,8 @@
 ---
 title: "Make Maps and Slices in Golang - A Guide to Initialization"
-author: Lane Wagner
+author: lane
 date: "2020-06-29"
-categories: 
+categories:
   - "clean-code"
   - "golang"
 images:

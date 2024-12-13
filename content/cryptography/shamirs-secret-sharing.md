@@ -1,8 +1,8 @@
 ---
 title: "Shamir's Secret Sharing Step-By-Step"
-author: Lane Wagner
+author: lane
 date: "2020-08-18"
-categories: 
+categories:
   - "cryptography"
   - "security"
 images:

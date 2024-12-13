@@ -1,8 +1,8 @@
 ---
 title: "BitBanged SPI in Go, An Explanation"
-author: Lane Wagner
+author: lane
 date: "2020-01-09"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/bitbanged-spi-in-go.webp

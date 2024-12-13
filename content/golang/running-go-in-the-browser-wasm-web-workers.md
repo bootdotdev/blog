@@ -1,6 +1,6 @@
 ---
 title: "Running Go in the Browser with WASM and Web Workers"
-author: Lane Wagner
+author: lane
 date: "2020-09-23"
 categories:
   - "golang"

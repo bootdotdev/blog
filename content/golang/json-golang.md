@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Guide to JSON in Go"
-author: Lane Wagner
+author: lane
 date: "2021-04-28"
 categories: 
   - "golang"

@@ -1,14 +1,14 @@
 ---
 title: "Programming types and (incorrect) mindsets"
-author: Lane Wagner
+author: lane
 date: "2023-05-08"
-categories: 
+categories:
   - "clean-code"
 images:
   - /img/800/rubberduckfantasy.webp
 ---
 
-DHH, the creator of Ruby on Rails, Hey, Basecamp, and a few other things, recently wrote an article titled "[Programming types and mindsets](https://world.hey.com/dhh/programming-types-and-mindsets-5b8490bc)", and I just *have* to chime in on this one.
+DHH, the creator of Ruby on Rails, Hey, Basecamp, and a few other things, recently wrote an article titled "[Programming types and mindsets](https://world.hey.com/dhh/programming-types-and-mindsets-5b8490bc)", and I just _have_ to chime in on this one.
 
 I thought we'd moved past this by now. A decade or so ago, it seemed like there was healthy banter about the pros and cons of dynamically typed vs statically typed languages, and genuinely interesting discussions about the tradeoffs took place. My perception, and certainly my belief at present is this:
 
@@ -16,7 +16,7 @@ I thought we'd moved past this by now. A decade or so ago, it seemed like there 
 
 "Hmm..." you might say. "That's not a very balanced take Lane." Agreed. DHH might even say that I'm expressing "utter disbelief that the other side might hold a reasonable position".
 
-I actually would *love* to hear some good reasons in support of the idea that dynamic typing helps *in any way*. Unfortunately, I don't see any concrete arguments in the original essay apart from statements like:
+I actually would _love_ to hear some good reasons in support of the idea that dynamic typing helps _in any way_. Unfortunately, I don't see any concrete arguments in the original essay apart from statements like:
 
 > [dynamic typing] allows the poetic syntax that results in such beautiful code
 
@@ -32,7 +32,7 @@ I've gone to external resources to try to find some arguments for dynamic typing
 
 True. I choose to start developers with Python on [Boot.dev](https://www.boot.dev) because I think it has a simple syntax.
 
-Python makes for an amazing environment in which to learn programming, but that's *despite* the dynamic typing, not *because* of it.
+Python makes for an amazing environment in which to learn programming, but that's _despite_ the dynamic typing, not _because_ of it.
 
 With languages that support type inference, 80% of the "boilerplate" code is just gone. In Python, we have:
 
@@ -46,11 +46,11 @@ and in Go, we have:
 x := 1
 ```
 
-The difference is that in the Go version, if I later try to use `x` as a string, or I pass it into a function that expects a non-integer, I'll be warned *before* I run my code.
+The difference is that in the Go version, if I later try to use `x` as a string, or I pass it into a function that expects a non-integer, I'll be warned _before_ I run my code.
 
 This is an outdated argument, and it originates from back when good type inference wasn't as common.
 
-Now, type inference does *not* eliminate the "boilerplate" syntax that is actually useful, namely, *function signatures*. For example, in Python, we have:
+Now, type inference does _not_ eliminate the "boilerplate" syntax that is actually useful, namely, _function signatures_. For example, in Python, we have:
 
 ```py
 def increment(x):
@@ -65,19 +65,19 @@ func increment(x int) int {
 }
 ```
 
-I'm sorry, but my take here is that if you're not interested in declaring to the world the expected inputs and outputs of your functions, *you're not interested in writing code that can be easily understood and maintained by humans*. In the dynamically typed world, the solution to this is to write more external documentation and add comments. I'd rather have my tooling be able to tell me what's going on from within my editor.
+I'm sorry, but my take here is that if you're not interested in declaring to the world the expected inputs and outputs of your functions, _you're not interested in writing code that can be easily understood and maintained by humans_. In the dynamically typed world, the solution to this is to write more external documentation and add comments. I'd rather have my tooling be able to tell me what's going on from within my editor.
 
 ### Argument 2. Enhanced productivity
 
 > Due to their flexibility and ease of use, dynamically typed languages can lead to increased productivity for certain tasks or projects, especially when rapid development or prototyping is crucial.
 
-It's true that certain languages "get out of your way" and can make certain tasks a bit easier. I need to parse a CSV? I'm probably whipping out Python. But that's not *because* it's a dynamically typed language. It's because:
+It's true that certain languages "get out of your way" and can make certain tasks a bit easier. I need to parse a CSV? I'm probably whipping out Python. But that's not _because_ it's a dynamically typed language. It's because:
 
-* The syntax reads like English
-* It's interpreted and therefore has no compilation step
-* It has an amazing wealth of libraries for those kinds of tasks
+- The syntax reads like English
+- It's interpreted and therefore has no compilation step
+- It has an amazing wealth of libraries for those kinds of tasks
 
-There's no *fundamental reason* that this syntax couldn't work with type safety:
+There's no _fundamental reason_ that this syntax couldn't work with type safety:
 
 ```py
 for car in cars:
@@ -92,7 +92,7 @@ And to be honest, I do find myself writing more and more CLI "scripts" in Go the
 
 > Dynamically typed languages often employ duck typing, which allows for more flexible and reusable code
 
-What is duck typing? Well, it's the idea that if something *acts* like a duck, it *is* a duck.
+What is duck typing? Well, it's the idea that if something _acts_ like a duck, it _is_ a duck.
 
 ```py
 class Mallard():
@@ -113,24 +113,24 @@ def main():
         print(duck.quack())
 ```
 
-Yup. Duck typing is *awesome*. But this version of duck typing is just duck typing without any compile-time, or heck, even *tooling*-time support. If I throw a `Tire()` object into my list of `ducks`, I won't know that it doesn't `.quack()` until I run my code and watch it fail. In a statically typed language, I would have been warned *before* I ran my code because I'd be using interfaces to *ensure* that my types can `.quack()`.
+Yup. Duck typing is _awesome_. But this version of duck typing is just duck typing without any compile-time, or heck, even _tooling_-time support. If I throw a `Tire()` object into my list of `ducks`, I won't know that it doesn't `.quack()` until I run my code and watch it fail. In a statically typed language, I would have been warned _before_ I ran my code because I'd be using interfaces to _ensure_ that my types can `.quack()`.
 
 ### 4. Using the same variable for different types
 
 > In dynamically typed languages, variables can hold values of different types at different times. This flexibility can be useful for certain programming tasks and patterns.
 
-I have nothing to say here. This is just bad practice. In no world should you be changing the *type* of thing a variable holds. I can't think of a better way to write spaghetti code, and hopefully this doesn't need any further explanation.
+I have nothing to say here. This is just bad practice. In no world should you be changing the _type_ of thing a variable holds. I can't think of a better way to write spaghetti code, and hopefully this doesn't need any further explanation.
 
 ## Is DHH just wrong?
 
 About typing? I think so. Is he also smarter than me? Likely. Is he more experienced than me? Absolutely.
 
-Here's the thing, I'm not saying Ruby and Python and JavaScript are unusable, or even that they're *worse* languages than all their statically typed counterparts. Every language I've used has things I like, and things I dislike. However, their dynamic nature is certainly a *flaw*, not a *feature*.
+Here's the thing, I'm not saying Ruby and Python and JavaScript are unusable, or even that they're _worse_ languages than all their statically typed counterparts. Every language I've used has things I like, and things I dislike. However, their dynamic nature is certainly a _flaw_, not a _feature_.
 
 All this said, I agree with DHH's point here:
 
 > That's not to say all matters of programming approaches boil down to equal but different mindsets. There are limits to this relativism. But dynamic vs static typing is certain within its confines. So too is functional vs object-oriented programming. Poles on both these axes have shown to deliver excellent software over the decades (and awful stuff too!).
 
-In many, many, *many* cases, the answer truly is that "it depends". OOP vs functional? It depends. Monolith vs services? It depends. Synchronous HTTP call vs async events? It depends.
+In many, many, _many_ cases, the answer truly is that "it depends". OOP vs functional? It depends. Monolith vs services? It depends. Synchronous HTTP call vs async events? It depends.
 
 **Static vs dynamic typing? Almost certainly static.**

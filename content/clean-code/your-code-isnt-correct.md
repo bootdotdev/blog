@@ -1,6 +1,6 @@
 ---
 title: "Your Code isn't Correct"
-author: Lane Wagner
+author: lane
 date: "2021-11-29"
 categories: 
   - "clean-code"

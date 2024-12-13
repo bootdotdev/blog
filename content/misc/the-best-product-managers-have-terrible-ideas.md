@@ -1,8 +1,8 @@
 ---
 title: "The Best Product Managers Have The Worst Ideas"
-author: Lane Wagner
+author: lane
 date: "2021-11-02"
-categories: 
+categories:
   - "misc"
 images:
   - /img/800/bad-idea.jpeg

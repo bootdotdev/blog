@@ -1,8 +1,8 @@
 ---
 title: "(Very) Basic Intro to Lattices in Cryptography"
-author: Lane Wagner
+author: lane
 date: "2020-08-21"
-categories: 
+categories:
   - "cryptography"
   - "security"
 images:
@@ -67,7 +67,7 @@ In the quantum world, things don't look so peachy. [Shor's algorithm](https://en
 
 ![shortest vector problem](/img/800/220px-SVP.svg_.png)
 
-[The shortest vector problem (SVP)](https://en.wikipedia.org/wiki/Lattice_problem#Shortest_vector_problem_(SVP)) is one of the fundamentals problems presented by lattices that allow them to be useful in cryptography.
+[The shortest vector problem (SVP)](<https://en.wikipedia.org/wiki/Lattice_problem#Shortest_vector_problem_(SVP)>) is one of the fundamentals problems presented by lattices that allow them to be useful in cryptography.
 
 Simply put, the goal of SVP is for the attacker to find the shortest vector from the origin (above in red) when given the basis of a lattice (above in blue). A zero vector doesn't work as an answer, we consider it trivial.
 

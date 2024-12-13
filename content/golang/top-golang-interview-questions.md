@@ -1,6 +1,6 @@
 ---
 title: "Top 15 Golang Interview Questions [Updated 2024]"
-author: Lane Wagner
+author: lane
 date: "2020-08-31"
 categories: 
   - "golang"

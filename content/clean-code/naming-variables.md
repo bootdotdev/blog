@@ -1,8 +1,8 @@
 ---
 title: "Naming Variables the Right Way"
-author: Lane Wagner
+author: lane
 date: "2021-04-01"
-categories: 
+categories:
   - "clean-code"
 images:
   - /img/800/yelling-at-computer.webp
@@ -98,7 +98,7 @@ twitterRequestsPerSecond, _ := strconv.Atoi(twitterRequestsPerSecondString
 If you're in a dynamically-typed language like JavaScript or Python you need to be a lot more careful about the names you use to describe variables. Ideally, the name implies the type of variable it is.
 
 - Boolean values should imply binary options. For example, prefer `isLarge = true` over `large = true`. Prefer `canRead = true` over `readPermissions = true`.
-- Don't hesitate to use `num`, `min`, `max`, `total` or `count` in variable names for clarity. For example, `num_cars =` 5` is better than `cars = 5`.
+- Don't hesitate to use `num`, `min`, `max`, `total` or `count` in variable names for clarity. For example, `num_cars =` 5`is better than`cars = 5`.
 - With arrays, imply the type contained in the array. For example, `fruits` could be an array like `["apple", "banana", "plum"]`, but it could just as easily be an array of _objects_ that describe fruits and their metadata. If there are only strings, imply it: `fruitNames = ["apple", "banana", "plum"]`.
 
 ### 5. Make variables names as long as necessary but no longer
@@ -156,7 +156,7 @@ for name in names:
 
 ### 8. Don't use abbreviations or acronyms without sufficient context
 
-Don't shorten names unless you *really* need to. It only makes sense if the variable name is already super long. For example, `con` is a popular abbreviation for a network connection, but it could also mean a drawback (pro vs con), or the [end of an array](https://en.wikipedia.org/wiki/Cons). If you're using it in a longer name with more context it's probably okay to abbreviate, but if not, then just use the full word.
+Don't shorten names unless you _really_ need to. It only makes sense if the variable name is already super long. For example, `con` is a popular abbreviation for a network connection, but it could also mean a drawback (pro vs con), or the [end of an array](https://en.wikipedia.org/wiki/Cons). If you're using it in a longer name with more context it's probably okay to abbreviate, but if not, then just use the full word.
 
 - Bad: `conn`
 - Better: `pluto_postgres_conn`

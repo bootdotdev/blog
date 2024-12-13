@@ -1,6 +1,6 @@
 ---
 title: "JavaScript Map Function Explained - A Deep Dive"
-author: Lane Wagner
+author: lane
 date: "2020-01-12"
 categories: 
   - "javascript"

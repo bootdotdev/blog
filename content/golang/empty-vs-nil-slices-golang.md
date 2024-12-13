@@ -1,8 +1,8 @@
 ---
 title: "Should You Return Empty or Nil Slices in Go?"
-author: Lane Wagner
+author: lane
 date: "2020-09-03"
-categories: 
+categories:
   - "clean-code"
   - "golang"
 images:

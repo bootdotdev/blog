@@ -1,6 +1,6 @@
 ---
 title: "How to Sort a Slice in Go"
-author: Lane Wagner
+author: lane
 date: "2020-05-27"
 categories: 
   - "clean-code"

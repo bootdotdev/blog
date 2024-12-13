@@ -1,6 +1,6 @@
 ---
 title: "What Would a Recession Mean For Developers?"
-author: Lane Wagner
+author: lane
 date: "2022-05-26"
 categories:
   - "news"

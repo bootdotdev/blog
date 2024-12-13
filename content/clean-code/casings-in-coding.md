@@ -2,7 +2,7 @@
 title: "Snake Case or Camel Case? A Guide to Programming Naming Conventions"
 categories:
   - "clean-code"
-author: Lane Wagner
+author: lane
 date: "2022-12-09"
 images:
   - /img/800/camel_vs_snake_case.webp

@@ -1,6 +1,6 @@
 ---
 title: "CI/CD Isn't Just About Efficiency"
-author: Lane Wagner
+author: lane
 date: "2022-09-26"
 categories:
   - "devops"

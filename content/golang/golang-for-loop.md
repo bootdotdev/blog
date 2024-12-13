@@ -1,6 +1,6 @@
 ---
 title: "For Loops in Go"
-author: Lane Wagner
+author: lane
 date: "2021-04-10"
 lastmod: "2022-10-12"
 categories: 

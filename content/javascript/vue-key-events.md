@@ -1,6 +1,6 @@
 ---
 title: "Keyup and Keydown Event Handlers in Vue 3"
-author: Lane Wagner
+author: lane
 date: "2022-09-04"
 categories: 
   - "javascript"

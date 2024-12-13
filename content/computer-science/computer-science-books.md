@@ -1,6 +1,6 @@
 ---
 title: "The Top 11 Computer Science Books for Self Study [2024]"
-author: Natalie Schooner
+author: natalie
 date: "2022-08-24"
 categories:
   - "computer-science"

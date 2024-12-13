@@ -1,8 +1,8 @@
 ---
 title: "(Very) Basic Intro to Hash Functions (SHA-256, MD5, etc)"
-author: Lane Wagner
+author: lane
 date: "2020-01-01"
-categories: 
+categories:
   - "bitcoin"
   - "cryptography"
   - "security"
@@ -84,7 +84,7 @@ Let's walk through an example algorithm I'm making up on the fly for this demons
 - We convert those two parts into base 10 numbers. Base 10 is the "normal" number system that we all learned in school. (all binary data really just number, you can look up how it converts binary to base 10 easily online elsewhere)
 
 > 110011110 → 414
-> 
+>
 > 000001100→ 12
 
 - We multiply the two numbers together

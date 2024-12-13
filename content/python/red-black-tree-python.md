@@ -1,8 +1,8 @@
 ---
 title: "Building a Red-Black Binary Tree in Python"
-author: Lane Wagner
+author: lane
 date: "2021-06-21"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/red-black.webp
@@ -21,7 +21,7 @@ The following tree is balanced because between its two branches one has a height
 ```
      A
    /   \
-  B     C 
+  B     C
  /
 D
 ```
@@ -33,9 +33,9 @@ The next tree is unbalanced because it's branches differ in height by more than 
    /   \
   B     C
  /     /
-D     E  
-     /  
-    G  
+D     E
+     /
+    G
 ```
 
 ## Why do we want balanced trees?
@@ -44,12 +44,12 @@ Balanced binary search trees ensure **speed**. The speed of an operation in a bi
 
 ```
        A
-     / 
+     /
     B
    /
   C
- /  
-D  
+ /
+D
 ```
 
 ## Properties of a red-black tree

@@ -1,9 +1,9 @@
 ---
 title: "Wrapping Errors in Go - How to Handle Nested Errors"
-author: Lane Wagner
+author: lane
 date: "2020-03-09"
 lastmod: "2022-04-15"
-categories: 
+categories:
   - "clean-code"
   - "golang"
 images:
@@ -12,7 +12,7 @@ images:
 
 Errors in Go are a hot topic. Many newcomers to the language immediately level their first criticism, "errors in go are clunky! Let me just use try/catch!" This criticism is well-meaning but misguided.
 
-The paradigm of errors as a *type*, rather than something to be *thrown*, simplifies error handling and brings it to the forefront. It also forces developers to think about errors at every step.
+The paradigm of errors as a _type_, rather than something to be _thrown_, simplifies error handling and brings it to the forefront. It also forces developers to think about errors at every step.
 
 > What will go wrong here? How should I handle it?
 
@@ -152,7 +152,7 @@ if errors.Is(err, io.EOF) {
 }
 ```
 
-As far as I know, when working with errors it's *always better* to use `%w` over `%v`.
+As far as I know, when working with errors it's _always better_ to use `%w` over `%v`.
 
 ## Manually unwrapping errors
 
@@ -175,4 +175,4 @@ Like all rules of thumb, there are exceptions.
 
 For example, if I'm writing a package that exposes the function `getNumberFromStdIn()` then my users (programmers using my package) don't need to know that `atoi()` failed, they just need to know that `getNumberFromStdIn()` failed. I probably don't want to be exposing too much internal logic to my API users. I can probably ignore the underlying error and create my own message from scratch that's more helpful to the end user.
 
-If it is glaringly obvious where an error comes from, there is also less reason to wrap it. Wrapping an error, in theory, should never hurt, but it *can* be unnecessarily verbose and a lot of extra work. As always, look at everything on a case-by-case basis.
+If it is glaringly obvious where an error comes from, there is also less reason to wrap it. Wrapping an error, in theory, should never hurt, but it _can_ be unnecessarily verbose and a lot of extra work. As always, look at everything on a case-by-case basis.

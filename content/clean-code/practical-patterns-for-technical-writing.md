@@ -1,8 +1,8 @@
 ---
 title: "Practical Patterns for Technical Writing"
-author: Ben Barten
+author: ben
 date: "2020-09-22"
-categories: 
+categories:
   - "clean-code"
 images:
   - /img/800/Practical-Patterns-Techincal-Writing.webp
@@ -99,5 +99,4 @@ As with anything, iteration, fast feedback, and reviews are important. Make use 
 
 Following these rules will most likely improve your technical writing by quite a bit. Especially in smaller companies, where you do not have explicit technical writes, learning this skill is quite valuable. Documentation is key to providing an excellent developer experience for your users.
 
-  
-If you want to know more about the topic or have a chat, I am happy to talk to you. Just follow me on Twitter at [@ben\_barten](https://twitter.com/ben_barten). For more of my content, check out [benbarten.com.](https://benbarten.com/)
+If you want to know more about the topic or have a chat, I am happy to talk to you. Just follow me on Twitter at [@ben_barten](https://twitter.com/ben_barten). For more of my content, check out [benbarten.com](https://benbarten.com/).

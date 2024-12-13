@@ -1,6 +1,6 @@
 ---
 title: "As a Developer, What Hardware Do You Truly Need?"
-author: Lane Wagner
+author: lane
 date: "2023-04-21"
 categories: 
   - "misc"

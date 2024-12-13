@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. October 2023"
-author: Lane Wagner
+author: lane
 date: "2023-10-01"
 categories:
   - "news"
@@ -8,8 +8,6 @@ images:
   - /img/800/October_2023_Blog_Art.png.webp
 imageAlts:
   - "Boot.dev Beat Drum"
-dofollows:
-  - "https://www.raspberrypi.com"
 ---
 
 Happy All Hallow's Eve. I hope you enjoy this month's cover art. It might be my favorite so far.

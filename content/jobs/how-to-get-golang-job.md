@@ -1,6 +1,6 @@
 ---
 title: "How to Get a Job as a Golang Developer"
-author: Natalie Schooner
+author: natalie
 date: "2023-03-20"
 categories:
   - "jobs"

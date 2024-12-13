@@ -1,6 +1,6 @@
 ---
 title: "Boots, a Wizard Bear that Codes"
-author: Allan Lires
+author: lane
 date: "2023-06-08"
 images:
   - /img/800/bootscamping.png.webp
