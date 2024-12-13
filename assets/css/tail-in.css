@@ -17,14 +17,15 @@
 }
 
 .bg-image-black {
-  background-image: url(/img/maptexture.webp), url('/img/800/bg-black.webp');
+  background-image: url("/img/800/bg-black.webp"), url("/img/maptexture2.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .bg-image-blue {
-  background: url('/img/800/maptexture.webp'), linear-gradient(var(--gray-950), var(--gray-900));
+  background: url("/img/800/maptexture2.webp"),
+    linear-gradient(var(--gray-950), var(--gray-900));
   background-blend-mode: overlay;
   background-size: cover;
   background-repeat: no-repeat;
@@ -32,26 +33,30 @@
 }
 
 .bg-wooden-divider {
-  background-image: url('/img/800/woodendividergem.webp');
+  background-image: url("/img/800/woodendividergem.webp");
 }
 
 .btn-texture-yellow {
   background-image: url("/img/800/smalltexture.webp"),
     radial-gradient(circle at center, rgba(255, 255, 255, 0.3), transparent 70%),
-    linear-gradient(to bottom,
+    linear-gradient(
+      to bottom,
       var(--yellow-350),
       var(--yellow-450),
-      var(--yellow-550));
+      var(--yellow-550)
+    );
   border-color: var(--yellow-200);
 }
 
 .btn-texture-yellow:hover {
   background-image: url("/img/800/smalltexture.webp"),
     radial-gradient(circle at center, rgba(255, 255, 255, 0.3), transparent 30%),
-    linear-gradient(to bottom,
+    linear-gradient(
+      to bottom,
       var(--yellow-500),
       var(--yellow-600),
-      var(--yellow-700));
+      var(--yellow-700)
+    );
   border-color: var(--yellow-450);
 }
 
