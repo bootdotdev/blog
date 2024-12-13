@@ -2,7 +2,7 @@
 title: "Create a Golang Video Streaming Server Using HLS"
 author: Lane Wagner
 date: "2020-09-04"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/stream-party.jpeg
@@ -13,7 +13,7 @@ In this tutorial, we'll go step-by-step through building a video streaming API (
 ## What is HLS?
 
 > HTTP Live Streaming is an HTTP-Based adaptive bitrate streaming communications protocol developed by Apple.
-> 
+>
 > [Wikipedia](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
 
 HLS is a streaming protocol that allows large media files to be served as many smaller text files that are broken up into roughly ~10-second increments. By breaking them up, the user's client-side application only needs to buffer ~10 seconds in advance. This saves the user a lot of potential bandwidth and allows songs or videos to start playback almost immediately.
@@ -26,7 +26,7 @@ Using [FFmpeg](https://www.ffmpeg.org/), we can easily convert mp3 files to HLS 
 
 Download a sample .mp3:
 
-[http://www.hubharp.com/web\_sound/BachGavotteShort.mp3](http://www.hubharp.com/web_sound/BachGavotteShort.mp3)
+[http://www.hubharp.com/web_sound/BachGavotteShort.mp3](http://www.hubharp.com/web_sound/BachGavotteShort.mp3)
 
 Install [FFmpeg](https://www.ffmpeg.org/). If you are on a Mac:
 
@@ -94,7 +94,7 @@ Now run the server:
 go run main.go
 ```
 
-Your server is live! Test your code and listen to the music stream by using an HLS media client. You can find a free online client here: [https://hls-js-latest.netlify.com/demo/](https://hls-js-latest.netlify.com/demo/)
+Your server is live! Test your code and listen to the music stream by using an HLS media client. You can find a free online [client here](https://livepush.io/hlsplayer/index.html)
 
 Simply paste your song's URI and listen:
 
