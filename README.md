@@ -12,7 +12,7 @@ You can read the [license here](/LICENSE). In short, you're free to copy and edi
 
 ## Quick start development
 
-Make sure you have `npm` and the latest version of [hugo](https://gohugo.io/getting-started/installing/) installed on your local machine.
+Make sure you have `npm` and the latest version of [hugo](https://gohugo.io/getting-started/installing/) installed on your machine.
 
 ```bash
 npm install
