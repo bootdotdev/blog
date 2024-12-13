@@ -1,8 +1,8 @@
 ---
-title: "Authenticate Users with \"Sign In With Google\" in Golang"
-author: Lane Wagner
+title: 'Authenticate Users with "Sign In With Google" in Golang'
+author: lane
 date: "2020-07-22"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/Screen-Shot-2020-07-20-at-3.webp
@@ -20,7 +20,7 @@ Once you are done with all that, you should have a button on your web page. When
 
 ```js
 function onSignIn(googleUser) {
-  const googleJWT = googleUser.getAuthResponse().id_token
+  const googleJWT = googleUser.getAuthResponse().id_token;
 }
 ```
 

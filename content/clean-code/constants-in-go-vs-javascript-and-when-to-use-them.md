@@ -1,6 +1,6 @@
 ---
 title: "The Nuances of Constants in Go; Go Isn't JavaScript"
-author: Lane Wagner
+author: lane
 date: "2020-10-22"
 categories: 
   - "clean-code"

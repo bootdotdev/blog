@@ -1,6 +1,6 @@
 ---
 title: "How and Why to Write Enums in Go"
-author: Lane Wagner
+author: lane
 date: "2021-04-19"
 categories:
   - "golang"

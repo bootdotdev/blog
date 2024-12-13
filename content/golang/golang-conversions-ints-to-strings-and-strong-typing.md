@@ -1,8 +1,8 @@
 ---
 title: "Golang Conversions - Ints To Strings And Strong Typing"
-author: Lane Wagner
+author: lane
 date: "2020-03-31"
-categories: 
+categories:
   - "clean-code"
   - "golang"
 images:

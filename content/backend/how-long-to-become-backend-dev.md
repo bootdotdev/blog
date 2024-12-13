@@ -1,6 +1,6 @@
 ---
 title: "How Long Does It Take to Become a Back End Developer?"
-author: Lane Wagner
+author: lane
 date: "2022-09-05"
 categories: 
   - "backend"

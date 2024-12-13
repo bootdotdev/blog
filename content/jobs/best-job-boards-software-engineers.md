@@ -1,6 +1,6 @@
 ---
 title: "How to Use the Best Software Engineering Job Boards"
-author: Lane Wagner
+author: lane
 date: "2022-08-05"
 categories: 
   - "jobs"

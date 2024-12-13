@@ -1,6 +1,6 @@
 ---
 title: "Will Banning Cryptography Keep the Country Safe?"
-author: Lane Wagner
+author: lane
 date: "2020-02-05"
 categories: 
   - "cryptography"

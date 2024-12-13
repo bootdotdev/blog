@@ -1,8 +1,8 @@
 ---
 title: "Top 8 Tricks to Learn Coding Fast"
-author: Lane Wagner
+author: lane
 date: "2021-02-22"
-categories: 
+categories:
   - "jobs"
 images:
   - /img/800/fast-motorcycle.webp

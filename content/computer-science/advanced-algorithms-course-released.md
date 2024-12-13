@@ -1,6 +1,6 @@
 ---
 title: "Advanced Algorithms Course Released on Boot.dev"
-author: Lane Wagner
+author: lane
 date: "2021-04-05"
 categories:
   - "computer-science"

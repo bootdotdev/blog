@@ -1,6 +1,6 @@
 ---
 title: "Boot.dev Hackathon September 1st, 2022"
-author: Lane Wagner
+author: lane
 date: "2022-09-03"
 categories:
   - "news"

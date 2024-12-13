@@ -1,6 +1,6 @@
 ---
 title: "C Sharp vs Python: Which Is the Best Programming Language?"
-author: Natalie Schooner
+author: natalie
 date: "2023-04-27"
 categories:
   - "python"

@@ -1,6 +1,6 @@
 ---
 title: "How to Make a Simple Vue Custom Select Component"
-author: Lane Wagner
+author: lane
 date: "2020-09-25"
 categories: 
   - "javascript"

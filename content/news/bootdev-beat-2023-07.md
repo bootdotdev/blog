@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. July 2023"
-author: Lane Wagner
+author: lane
 date: "2023-06-26"
 categories:
   - "news"
@@ -8,9 +8,6 @@ images:
   - /img/800/julydrumbootdevbeat.webp.webp
 imageAlts:
   - "Boot.dev Beat Drum"
-dofollows:
-  - "https://questdb.io/"
-  - "https://cupogo.dev/"
 ---
 
 June was hot. I got sunburned. What else happened... Oh yeah, I finished the new CI/CD course! It's slated to launch on July 10th, so watch out for that. We also are in the process of hiring a new Boot.dev team member to help us build harder better faster and stronger.

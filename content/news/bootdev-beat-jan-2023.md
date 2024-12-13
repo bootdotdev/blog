@@ -1,6 +1,6 @@
 ---
 title: "Boot.dev Beat. January 2023"
-author: Lane Wagner
+author: lane
 date: "2023-02-01"
 categories:
   - "news"

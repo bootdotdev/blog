@@ -1,6 +1,6 @@
 ---
 title: "Affiliate Program Terms of Service"
-author: Lane Wagner
+author: lane
 date: "2020-02-06"
 ---
 

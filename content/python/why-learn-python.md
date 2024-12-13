@@ -1,6 +1,6 @@
 ---
 title: "Why Learn Python? 9 Key Reasons"
-author: Zulie Rane
+author: zulie
 date: "2021-09-09"
 categories:
   - "python"

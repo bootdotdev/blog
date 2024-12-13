@@ -1,11 +1,9 @@
 ---
 title: "Write on the Boot.dev Blog"
-author: Lane Wagner
+author: lane
 date: "2022-09-02"
 images:
   - /img/800/write_for_boot.dev-boot.png.webp
-dofollows:
-  - "https://wagslane.devs"
 categories:
   - "writing"
 ---

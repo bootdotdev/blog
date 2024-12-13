@@ -1,8 +1,8 @@
 ---
 title: "Announcing Go-TinyTime, Go-TinyDate's Sister Package"
-author: Lane Wagner
+author: lane
 date: "2020-04-02"
-categories: 
+categories:
   - "golang"
   - "open-source"
 images:

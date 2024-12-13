@@ -1,6 +1,6 @@
 ---
 title: "Bcrypt Step by Step"
-author: Lane Wagner
+author: lane
 date: "2020-08-24"
 categories: 
   - "cryptography"

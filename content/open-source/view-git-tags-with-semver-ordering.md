@@ -1,6 +1,6 @@
 ---
 title: "View Git Tags with Semver Ordering"
-author: Lane Wagner
+author: lane
 date: "2021-02-09"
 categories:
   - "misc"

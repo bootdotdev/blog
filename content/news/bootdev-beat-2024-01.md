@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. January 2024"
-author: Lane Wagner
+author: lane
 date: "2024-01-03"
 categories:
   - "news"
@@ -8,13 +8,10 @@ images:
   - /img/800/ruinreborn_drums_fantasy_fantasy_drums_winter_winter_drums_snow_60fb9184-8eb7-479f-b205-b514ec06a61d.png.webp
 imageAlts:
   - "Boot.dev Beat Drum"
-dofollows:
-  - "https://mitchellh.com"
-  - "https://americanexpress.io"
   - "https://podcasts.apple.com"
 ---
 
-Hope you had a wonderful holiday! I know you might not have been able to take time off, but I hope you were able to spend *some* time with family and friends. I spent the whole week driving up and down the state of Utah. It was fun, but I'm happy to be back in my office. Kids can be exhausting. Love 'em, but they're exhausting.
+Hope you had a wonderful holiday! I know you might not have been able to take time off, but I hope you were able to spend _some_ time with family and friends. I spent the whole week driving up and down the state of Utah. It was fun, but I'm happy to be back in my office. Kids can be exhausting. Love 'em, but they're exhausting.
 
 Regards, Lane
 
@@ -22,7 +19,7 @@ Regards, Lane
 
 ### 1. Boots on all lesson types
 
-Historically, Boots has only been able to provide AI assistance on code completion and multiple choice lessons. We've enabled Boots on *all* lesson types, even lessons where you're completing a task on your local machine. Boots is aware of what you're trying to accomplish and will provide hints and suggestions to help you along the way.
+Historically, Boots has only been able to provide AI assistance on code completion and multiple choice lessons. We've enabled Boots on _all_ lesson types, even lessons where you're completing a task on your local machine. Boots is aware of what you're trying to accomplish and will provide hints and suggestions to help you along the way.
 
 ### 2. SQL course challenges
 
@@ -34,23 +31,23 @@ We spent a lot of our time this month just making small tweaks to various edge c
 
 ## What is yet to come
 
-* More videos for the "Learn to Get a Coding Job" course
-* A global survey for everyone learning to code
-* Challenges and reworking of the "Learn JavaScript" course
-* Lore
-* Boss battles (I'll say no more at this time)
+- More videos for the "Learn to Get a Coding Job" course
+- A global survey for everyone learning to code
+- Challenges and reworking of the "Learn JavaScript" course
+- Lore
+- Boss battles (I'll say no more at this time)
 
 ## Backend Banter Podcast
 
 This month's episodes include:
 
-* [#034 - Brain Oriented Programming with Philip Winston](https://www.backendbanter.fm/episodes/034-brain-oriented-programming-with-phillip-winston)
-* [#033 - WebI is not a package manager feat. AJ O'neal](https://www.backendbanter.fm/episodes/033-webi-is-not-a-package-manager-feat-aj-oneal)
-* [#032 - React Server Components... in Go? With JLarky](https://www.backendbanter.fm/episodes/032-react-server-components-in-go-with-j-larky)
-* [#031 - Trying (Practically) Every Functional Language and Landing on OCaml with Sabine](https://www.backendbanter.fm/episodes/031-trying-practically-every-functional-language-and-landing-on-ocaml-with-sabine)
-* [#030 - The Future of Backend JavaScript with a Node.js Maintainer: Matteo Collina](https://www.backendbanter.fm/episodes/030-the-future-of-backend-javascript-with-a-node-js-maintainer-matteo-collina)
+- [#034 - Brain Oriented Programming with Philip Winston](https://www.backendbanter.fm/episodes/034-brain-oriented-programming-with-phillip-winston)
+- [#033 - WebI is not a package manager feat. AJ O'neal](https://www.backendbanter.fm/episodes/033-webi-is-not-a-package-manager-feat-aj-oneal)
+- [#032 - React Server Components... in Go? With JLarky](https://www.backendbanter.fm/episodes/032-react-server-components-in-go-with-j-larky)
+- [#031 - Trying (Practically) Every Functional Language and Landing on OCaml with Sabine](https://www.backendbanter.fm/episodes/031-trying-practically-every-functional-language-and-landing-on-ocaml-with-sabine)
+- [#030 - The Future of Backend JavaScript with a Node.js Maintainer: Matteo Collina](https://www.backendbanter.fm/episodes/030-the-future-of-backend-javascript-with-a-node-js-maintainer-matteo-collina)
 
-The *steep* price of the podcast is a subscription on YouTube or in your podcast player of choice. I appreciate you.
+The _steep_ price of the podcast is a subscription on YouTube or in your podcast player of choice. I appreciate you.
 
 ## The cream of the crop
 

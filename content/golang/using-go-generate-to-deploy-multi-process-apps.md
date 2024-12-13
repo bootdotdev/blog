@@ -1,8 +1,8 @@
 ---
 title: "Using 'Go Generate' To Deploy Multi-Process Apps"
-author: Lane Wagner
+author: lane
 date: "2020-04-22"
-categories: 
+categories:
   - "clean-code"
   - "golang"
 images:
@@ -24,11 +24,10 @@ Our normal single-process repositories have the following structure:
 - `foo.go (other main package source files)`
 - `bar.go`
 - `internal (folder for packages intended just for this project)`
-    - `database (package for database access)`
-        - `database.go`
-    - `rabbit (package for rabbitmq access)`
-        - `rabbit.go`  
-            
+  - `database (package for database access)`
+    - `database.go`
+  - `rabbit (package for rabbitmq access)`
+    - `rabbit.go`
 
 As you can see, when there is only one program (one main.go) it's really easy to build and deploy. We just run:
 
@@ -43,15 +42,15 @@ from the root of the repository.
 Now let's say we have a project that has an API that is responsible for managing some long-running jobs. For example, we can pretend it manages RSS scraping jobs. Here is how we would build out the repository:
 
 - `cmd`
-    - `api`
-        - `main.go`
-    - `worker`
-        - `main.go`
+  - `api`
+    - `main.go`
+  - `worker`
+    - `main.go`
 - `internal (folder for packages intended just for this project)`
-    - `database (package for database access)`
-        - `database.go`
-    - `rss (package for rss scraping logic)`
-        - `rss.go`
+  - `database (package for database access)`
+    - `database.go`
+  - `rss (package for rss scraping logic)`
+    - `rss.go`
 - `gen.go`
 
 Here we have a **cmd** folder in the root, which then holds a directory for each executable. This allows us to still scope packages to the entire project, share a CI/CD pipeline, and keep code that is tightly coupled all in one place.

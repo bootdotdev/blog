@@ -1,6 +1,6 @@
 ---
 title: "Building Alerts with Percolate Queries in ElasticSearch"
-author: Lane Wagner
+author: lane
 date: "2019-11-14"
 categories: 
   - "open-source"

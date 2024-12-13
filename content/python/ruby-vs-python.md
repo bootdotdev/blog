@@ -1,6 +1,6 @@
 ---
 title: "Ruby vs Python: 10 Questions to Ask Before You Choose"
-author: Zulie Rane
+author: zulie
 date: "2021-10-25"
 categories:
   - "python"

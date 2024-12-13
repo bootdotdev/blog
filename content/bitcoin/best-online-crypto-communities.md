@@ -1,6 +1,6 @@
 ---
 title: "Top 8 Online Crypto Communities"
-author: Lane Wagner
+author: lane
 date: "2020-01-08"
 categories: 
   - "bitcoin"

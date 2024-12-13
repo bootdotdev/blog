@@ -1,6 +1,6 @@
 ---
 title: "Learn to Code the Slow Way"
-author: Lane Wagner
+author: lane
 date: "2023-09-10"
 categories: 
   - "education"

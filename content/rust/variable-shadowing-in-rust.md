@@ -1,8 +1,8 @@
 ---
-title: "Variable Shadowing In Rust - \"Let\" Is Immutable But Not Constant"
-author: Lane Wagner
+title: 'Variable Shadowing In Rust - "Let" Is Immutable But Not Constant'
+author: lane
 date: "2020-05-13"
-categories: 
+categories:
   - "rust"
 images:
   - /img/800/Variable_Shadowing.webp
@@ -58,7 +58,7 @@ fn main() {
     {
         let my_num = 6;
         println!("{}", my_num);
-    }  
+    }
     println!("{}", my_num);
 }
 ```

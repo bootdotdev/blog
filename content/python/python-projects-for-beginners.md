@@ -1,6 +1,6 @@
 ---
 title: "17 Fascinating Python Projects for Beginners"
-author: Zulie Rane
+author: zulie
 date: "2021-10-06"
 lastmod: "2022-07-19"
 categories:

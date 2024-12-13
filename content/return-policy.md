@@ -1,6 +1,6 @@
 ---
 title: "Return Policy"
-author: Lane Wagner
+author: lane
 date: "2020-02-06"
 ---
 

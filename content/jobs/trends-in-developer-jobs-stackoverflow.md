@@ -1,6 +1,6 @@
 ---
 title: "Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys"
-author: Lane Wagner
+author: lane
 date: "2022-10-24"
 categories:
   - "jobs"

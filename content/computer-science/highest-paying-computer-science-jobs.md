@@ -1,6 +1,6 @@
 ---
 title: "The Highest-Paying Computer Science Jobs"
-author: Lane Wagner
+author: lane
 date: "2020-12-09"
 categories:
   - "computer-science"

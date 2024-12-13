@@ -1,0 +1,54 @@
+[lane]
+name = "Lane Wagner"
+image = "/img/800/lane-profile.jpeg.webp"
+link = "https://www.boot.dev/teachers/lane-wagner/"
+
+[natalie]
+name = "Natalie Schooner"
+image = "https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/toMNGm1.jpeg"
+link = "https://medium.com/@natalie-schooner"
+
+[winston]
+name = "Winston Wagner"
+image = "https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/ShZG8Pz.jpeg"
+link = "https://www.linkedin.com/in/winston-wagner-247b6428a/"
+
+[jamie]
+name = "Jamie Dunmore"
+image = "https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/YX9jrQo.jpeg"
+link = "https://x.com/Jamie_IF"
+
+[zulie]
+name = "Zulie Rane"
+image = "https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/tPs4yj4.png"
+link = "https://www.zuliewrites.com/"
+
+[ben]
+name = "Ben Barten"
+image = "https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/2cm06nx.webp"
+link = "https://benbarten.com/"
+
+[casper]
+name = "Casper Andersson"
+image = "https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/42G3b7I.png"
+link = "https://casan.se/"
+
+[eteims]
+name = "Eteims"
+image = "https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/YmaoKx1.jpeg"
+link = "https://dev.to/eteimz"
+
+[hunter]
+name = "Hunter Beckmann"
+image = "https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/fQ6Goay.jpeg"
+link = "https://www.boot.dev/teachers/hunter-beckmann"
+
+[meghan]
+name = "Meghan Reichenbach"
+image = "https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/Rqb6tyo.jpeg"
+link = "https://x.com/MegsSEO"
+
+[nick]
+name = "Nick Abbene"
+image = "https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/quP7fK3.png"
+link = "https://github.com/nickabb"

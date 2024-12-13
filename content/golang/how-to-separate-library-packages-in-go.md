@@ -1,6 +1,6 @@
 ---
 title: "How To Separate Library Packages in Go"
-author: Lane Wagner
+author: lane
 date: "2020-03-29"
 categories: 
   - "golang"

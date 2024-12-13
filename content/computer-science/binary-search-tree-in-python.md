@@ -1,6 +1,6 @@
 ---
 title: "Writing a Binary Search Tree in Python with Examples"
-author: Lane Wagner
+author: lane
 date: "2021-01-12"
 lastmod: "2022-10-01"
 categories:

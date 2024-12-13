@@ -1,6 +1,6 @@
 ---
 title: "Concurrency In Rust; Can It Stack Up Against Go's Goroutines?"
-author: Lane Wagner
+author: lane
 date: "2020-05-11"
 categories: 
   - "golang"

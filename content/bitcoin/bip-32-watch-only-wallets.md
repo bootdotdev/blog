@@ -1,8 +1,8 @@
 ---
 title: "BIP 32 Watch-Only Wallets"
-author: Lane Wagner
+author: lane
 date: "2019-07-25"
-categories: 
+categories:
   - "bitcoin"
   - "cryptography"
   - "security"

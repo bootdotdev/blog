@@ -1,6 +1,6 @@
 ---
 title: "Top Web Development Programming Languages; A Comparison"
-author: Lane Wagner
+author: lane
 date: "2020-11-04"
 categories:
   - "golang"

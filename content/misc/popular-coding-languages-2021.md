@@ -1,6 +1,6 @@
 ---
 title: "The 8 Most Popular Coding Languages of 2022"
-author: Zulie Rane
+author: zulie
 date: "2021-01-04"
 categories:
   - "misc"

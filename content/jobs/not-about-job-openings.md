@@ -1,6 +1,6 @@
 ---
 title: "It's Not About the Job Openings"
-author: Lane Wagner
+author: lane
 date: "2023-03-30"
 categories: 
   - "jobs"

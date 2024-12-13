@@ -1,6 +1,6 @@
 ---
 title: "6 Differences Between DevOps and Cloud Engineers"
-author: Natalie Schooner
+author: natalie
 date: "2023-01-18"
 categories:
   - "devops"

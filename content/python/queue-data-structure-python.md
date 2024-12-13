@@ -1,6 +1,6 @@
 ---
 title: "Queue Data Structure in Python: Ordering at Its Best"
-author: Lane Wagner
+author: lane
 date: "2023-10-22"
 categories:
   - "python"

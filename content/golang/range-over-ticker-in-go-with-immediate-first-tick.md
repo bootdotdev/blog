@@ -1,8 +1,8 @@
 ---
 title: "Range Over Ticker In Go With Immediate First Tick"
-author: Lane Wagner
+author: lane
 date: "2020-04-30"
-categories: 
+categories:
   - "clean-code"
   - "golang"
 images:

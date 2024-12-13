@@ -1,8 +1,8 @@
 ---
 title: "Top 20 Entry-Level JavaScript Interview Questions"
-author: Jamie Dunmore
+author: jamie
 date: "2021-07-29"
-categories: 
+categories:
   - "javascript"
   - "jobs"
 images:
@@ -46,9 +46,9 @@ However, global variables can also be more difficult to debug as coupling occurs
 The `=` operator is for saying a variable is equal to something when declaring it, such as a string or a number:
 
 ```js
-let fifty = 50
+let fifty = 50;
 
-let greeting = "Hey there!"
+let greeting = "Hey there!";
 ```
 
 The `==` abstract equality operator checks for equality only in value, and is a less strict evaluator than the `===` operator. The `==` operator converts the variable values to the same type before comparing them — also known as type coercion.
@@ -56,23 +56,23 @@ The `==` abstract equality operator checks for equality only in value, and is a 
 Therefore, even if two different variables are named, such as the number `2` and string`'2'`, as variables are converted to the same value before comparing them, this will still evaluate to true:
 
 ```js
-console.log('2' == 2)
+console.log("2" == 2);
 // true
 
-console.log(0 == false)
+console.log(0 == false);
 // true
 ```
 
 The `===` strict equality operator does not use any form of type coercion, and to evaluate as `true` both the type and the value must be the same:
 
 ```js
-console.log('2' === 2)
+console.log("2" === 2);
 // false
 
-console.log(2 === 2)
+console.log(2 === 2);
 // true
 
-console.log(0 === false)
+console.log(0 === false);
 // false
 ```
 
@@ -81,7 +81,7 @@ console.log(0 === false)
 **Answer:**
 
 ```js
-console.log("Him & I are \"good\" friends.")
+console.log('Him & I are "good" friends.');
 ```
 
 The `\` character is used before the double quotes to be able to use these in the string.
@@ -89,7 +89,15 @@ The `\` character is used before the double quotes to be able to use these in th
 ## 5 -- Explain the `.pop()` and `.push()` methods using the following array:
 
 ```js
-let bootdotdev = ["the", "best", "coding", "courses", "ever", "like", "totally"];
+let bootdotdev = [
+  "the",
+  "best",
+  "coding",
+  "courses",
+  "ever",
+  "like",
+  "totally",
+];
 ```
 
 1. What would happen if you used `bootdotdev.pop()`
@@ -102,13 +110,24 @@ The `.pop()` method removes the last element in the array and returns it. In the
 The `.push()` method instead adds any included elements to the end of the array, and returns the new length of that array. In the array above, pushing:
 
 ```js
-bootdotdev.push("definitely", "start", "it")
+bootdotdev.push("definitely", "start", "it");
 ```
 
 would return the length `10` , and if you `console.log(bootdotdev)` you would get:
 
 ```js
-["the","best","coding","courses","ever","like","totally","definitely","start","it"]
+[
+  "the",
+  "best",
+  "coding",
+  "courses",
+  "ever",
+  "like",
+  "totally",
+  "definitely",
+  "start",
+  "it",
+];
 ```
 
 ## 6 -- What are higher order functions, and what are their benefits?
@@ -123,7 +142,7 @@ Take a look at how the map function accepts a function as a parameter and applie
 const primes = [3, 5, 7, 11];
 
 // pass a function to map
-const doubledPrimes = primes.map(x => x * 2);
+const doubledPrimes = primes.map((x) => x * 2);
 
 console.log(doubledPrimes);
 // expected output: Array [6, 10, 14, 22]
@@ -136,7 +155,7 @@ console.log(doubledPrimes);
 ```js
 for (let i = 1; i < 201; i++) {
   if (i % 3 === 0) {
-    console.log(i)
+    console.log(i);
   }
 }
 ```
@@ -150,16 +169,16 @@ The AND `&&` operator, the NOT `!` operator, and the OR `||` operator.
 The `&&` AND operator requires both operands to be true to evaluate to true. For example:
 
 ```js
-if (age >= 21 && drinksConsumed <= 10) { 
-     console.log('You can drink here.')
+if (age >= 21 && drinksConsumed <= 10) {
+  console.log("You can drink here.");
 }
 ```
 
 The `||` OR operator requires one of the operands to be true to evaluate to true. For example:
 
 ```js
-if (age >= 12 || height >= 150) { 
-     console.log('You can ride the rollercoaster.') 
+if (age >= 12 || height >= 150) {
+  console.log("You can ride the rollercoaster.");
 }
 ```
 
@@ -180,8 +199,10 @@ y = 5;
 
 ```js
 for (let i = 0; i < 100; i++) {
-  if (i === 10) { break; } // this ends the loop early (at 10 instead of 100)
-  console.log('the current number is: ' + i)
+  if (i === 10) {
+    break;
+  } // this ends the loop early (at 10 instead of 100)
+  console.log("the current number is: " + i);
 }
 ```
 
@@ -189,8 +210,10 @@ for (let i = 0; i < 100; i++) {
 
 ```js
 for (let i = 0; i < 100; i++) {
-  if (i%2 === 0) { continue; } // skips even numbers
-  console.log('The number is odd');
+  if (i % 2 === 0) {
+    continue;
+  } // skips even numbers
+  console.log("The number is odd");
 }
 ```
 
@@ -205,13 +228,13 @@ It's used to send data between computers, but can also be used by any programmin
 To convert a JSON string into a JavaScript object, use this function:
 
 ```js
-JSON.parse()
+JSON.parse();
 ```
 
 To convert an object into a JSON string, use this function:
 
 ```js
-JSON.stringify()
+JSON.stringify();
 ```
 
 ## 11 -- What are the `.slice()` and `.splice()` methods, and how do they differently affect arrays?
@@ -223,21 +246,33 @@ JSON.stringify()
 If one parameter is written, this will be used as the start parameter, and if two parameters are written, the second element will be used as the end parameter.
 
 ```js
-const reasonsToTryBootdotdev = ["free trial", "interactive", "browser based", "helpful community", "range of content"]; 
+const reasonsToTryBootdotdev = [
+  "free trial",
+  "interactive",
+  "browser based",
+  "helpful community",
+  "range of content",
+];
 
-reasonsToTryBootdotdev.slice(2,4)
+reasonsToTryBootdotdev.slice(2, 4);
 // ["browser based", "helpful community"]
 ```
 
 The `.splice()` method instead modifies the original array. It returns the deleted elements as arrays, and is often use to insert or remove elements to or from an existing array.
 
 ```js
-const reasonsToTryBootdotdev = ["free trial", "interactive", "browser based", "helpful community", "range of content"]; 
-const removed = reasonsToTryBootdotdev.splice(2,4)
-console.log(reasonsToTryBootdotdev)
+const reasonsToTryBootdotdev = [
+  "free trial",
+  "interactive",
+  "browser based",
+  "helpful community",
+  "range of content",
+];
+const removed = reasonsToTryBootdotdev.splice(2, 4);
+console.log(reasonsToTryBootdotdev);
 // ["free trial","interactive"]
 
-console.log(removed)
+console.log(removed);
 // ["browser based","helpful community","range of content"]
 ```
 
@@ -276,7 +311,7 @@ The `isNaN` function determines whether a value is, or is not, a number (Not-a-N
 **Answer:**
 
 ```js
-document.forms[0].submit()
+document.forms[0].submit();
 ```
 
 This will submit the first form on the page (index `0`).
@@ -297,11 +332,11 @@ The `then` method is used with Promises to execute based on whether the Promise 
 
 ```js
 const person = {
-   firstName: "Jamie",
-   age: 24,
-   eyeColor: "green",
-   id: 5000
-}
+  firstName: "Jamie",
+  age: 24,
+  eyeColor: "green",
+  id: 5000,
+};
 ```
 
 ## 18 -- Name 3 JavaScript frameworks and give a short description of what they're used for:

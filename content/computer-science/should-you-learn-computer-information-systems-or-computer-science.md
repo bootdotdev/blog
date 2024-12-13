@@ -1,8 +1,8 @@
 ---
 title: "Computer Information Systems vs Computer Science"
-author: Winston Wagner
+author: winston
 date: "2020-12-03"
-categories: 
+categories:
   - "computer-science"
 images:
   - /img/800/Glasses-in-front-of-Computer-scaled.webp

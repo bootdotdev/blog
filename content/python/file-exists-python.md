@@ -1,8 +1,8 @@
 ---
 title: "How to Check if a File Exists in Python"
-author: Lane Wagner
+author: lane
 date: "2021-12-08"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/file.webp
@@ -38,7 +38,7 @@ else:
     print("not found :(")
 ```
 
-## Use pathlib.Path(path).is\_file() to check for only files
+## Use pathlib.Path(path).is_file() to check for only files
 
 ```py
 from pathlib import Path
@@ -51,7 +51,7 @@ else:
     print("not found :(")
 ```
 
-## Use pathlib.Path(path).is\_dir() to check for only directories
+## Use pathlib.Path(path).is_dir() to check for only directories
 
 ```py
 from pathlib import Path
@@ -64,7 +64,7 @@ else:
     print("not found :(")
 ```
 
-## Use pathlib.Path(path).is\_symlink() to check for only symlinks
+## Use pathlib.Path(path).is_symlink() to check for only symlinks
 
 A [symlink](https://en.wikipedia.org/wiki/Symbolic_link) is a path that points to, or aliases another path in a filesystem.
 

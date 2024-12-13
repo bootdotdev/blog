@@ -1,6 +1,6 @@
 ---
 title: "5 Critical Differences Between DevOps and SRE Jobs"
-author: Natalie Schooner
+author: natalie
 date: "2023-01-30"
 categories:
   - "devops"

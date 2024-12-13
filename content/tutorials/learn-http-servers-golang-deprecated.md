@@ -1,6 +1,6 @@
 ---
 title: "Build a Web Server in Go [Deprecated]"
-author: Lane Wagner
+author: lane
 date: "2024-09-23"
 categories:
   - "tutorials"

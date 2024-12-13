@@ -1,6 +1,6 @@
 ---
 title: "Is there a course on <insert technology>?"
-author: Casper Andersson
+author: casper
 date: "2024-07-26"
 categories:
   - "education"

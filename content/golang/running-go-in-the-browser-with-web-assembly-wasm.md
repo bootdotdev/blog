@@ -1,6 +1,6 @@
 ---
 title: "Running Go in the Browser With Web Assembly (WASM)"
-author: Lane Wagner
+author: lane
 date: "2020-07-01"
 categories:
   - "golang"

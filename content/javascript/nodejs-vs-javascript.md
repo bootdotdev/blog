@@ -1,8 +1,8 @@
 ---
 title: "Node.js vs JavaScript: The Low-Down"
-author: Zulie Rane
+author: zulie
 date: "2021-11-09"
-categories: 
+categories:
   - "javascript"
 images:
   - /img/800/Nodejs-vs-Javascript-min.webp
@@ -26,7 +26,7 @@ JavaScript versus Node.js boils down to the matter of a flexible and simple fron
 
 ### JavaScript
 
-JavaScript is omnipresent on today's internet: [95%](https://generalassemb.ly/blog/what-makes-javascript-so-popular/#:~:text=There%20are%20over%201.8%20Billion,to%20GitHub's%202020%20Octoverse%20Report.) of the Internet's websites use it. There likely isn't a professional website that doesn't use JavaScript. It's essential for an elevated user experience when it comes to speed, reliability, and aesthetics of a website. 
+JavaScript is omnipresent on today's internet: [95%](https://generalassemb.ly/blog/what-makes-javascript-so-popular/#:~:text=There%20are%20over%201.8%20Billion,to%20GitHub's%202020%20Octoverse%20Report.) of the Internet's websites use it. There likely isn't a professional website that doesn't use JavaScript. It's essential for an elevated user experience when it comes to speed, reliability, and aesthetics of a website.
 
 JavaScript is a scripting language upon which most websites are based. It is often used [in combination with HTML and CSS](/javascript/html-css-javascript/) to render web pages, as JavaScript can be used to dynamically update HTML elements. It allows you to automatically refresh the page to update data, display information using cool visuals, and create interactive elements.
 
@@ -36,11 +36,11 @@ Remember, JavaScript alone should be thought of as a purely frontend (or client-
 
 ### Node.js
 
-Node.js is an environment that can run JavaScript code without a browser. It is built on Chrome's V8 JavaScript engine. The Node.js environment can be run on OS X, Windows, and Linux. It also includes a multitude of JavaScript libraries, which allow developers to leverage open source components and tools to get their applications built faster. 
+Node.js is an environment that can run JavaScript code without a browser. It is built on Chrome's V8 JavaScript engine. The Node.js environment can be run on OS X, Windows, and Linux. It also includes a multitude of JavaScript libraries, which allow developers to leverage open source components and tools to get their applications built faster.
 
 Unlike other server-side platforms, like the Apache HTTP server, Node.js is a single-thread server, meaning it just has one thread of execution versus multiple (read more about single vs multi-threaded processing [here](https://dzone.com/articles/multi-threaded-application-vs)). It is also, however, completely asynchronous. All of Node.js's associated libraries are also asynchronous. It's based on an event strategy. A call to an API is made, but execution continues instead of pausing the thread until the response comes back. Instead, a notification event is issued when the API's response is received, allowing other code to be executed in the meantime.
 
-Just because the Node.js processing is single-threaded does not mean you can't take advantage of your environment's multiple processing cores. Child processes can be spawned using Node.js's [child\_process.fork()](https://nodejs.org/api/child_process.html#child_process_child_process_fork_modulepath_args_options) API. Node.js is an open-source platform that is used by a lot of big tech companies, meaning that it is actively developed, a lot of documentation exists, and most questions are answered on popular software development forums.
+Just because the Node.js processing is single-threaded does not mean you can't take advantage of your environment's multiple processing cores. Child processes can be spawned using Node.js's [child_process.fork()](https://nodejs.org/api/child_process.html#child_process_child_process_fork_modulepath_args_options) API. Node.js is an open-source platform that is used by a lot of big tech companies, meaning that it is actively developed, a lot of documentation exists, and most questions are answered on popular software development forums.
 
 Complementary to JavaScript on its own though, Node.js is on the server-side. Rather than comparing Node.js vs JavaScript, you should understand that Node.js enables JavaScript code to be run on the server. The results are then downloaded and displayed in the browser.
 
@@ -64,7 +64,7 @@ Developers in the tech industry were fed up with the limitations of the Apache H
 
 If your application falls into the category of data-intensive real-time applications (DIRTs) or requires a lot of I/O interactions, Node.js will perform significantly better due to its asynchronous and Event-driven nature. I/O, or input/output, refers to when your program interacts with the outside world. This could be the input from a user's keyboard or saving some data to a database.
 
-These I/O interactions are typically handled by sending a request and waiting for a response. With Node.js's events, the request to save data can be sent off, the execution of the main process can continue without waiting on the response. When the response returns, it will be handled. This is significant because your main thread of execution isn't waiting around and can get other things done. 
+These I/O interactions are typically handled by sending a request and waiting for a response. With Node.js's events, the request to save data can be sent off, the execution of the main process can continue without waiting on the response. When the response returns, it will be handled. This is significant because your main thread of execution isn't waiting around and can get other things done.
 
 Another distinction is that Node.js has a dedicated server to run server-side requests, whereas JavaScript does not. If you use Node.js both the server and the client can initiate requests. Using just JavaScript, the client-side would need to frequently make requests, for example, has my inbox received any new emails in the last x seconds? With Node.js, your dedicated server would send a request to the client indicating that there's been a change in the state of the inbox.
 

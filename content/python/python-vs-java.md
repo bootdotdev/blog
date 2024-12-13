@@ -1,6 +1,6 @@
 ---
 title: "Python vs Java: Performance, Salary & More Compared"
-author: Meghan Reichenbach
+author: meghan
 date: "2021-09-10"
 categories:
   - "python"

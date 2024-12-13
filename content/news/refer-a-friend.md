@@ -1,6 +1,6 @@
 ---
 title: "Boot.dev's Refer a Friend Program"
-author: Lane Wagner
+author: lane
 date: "2020-12-29"
 categories:
   - "news"

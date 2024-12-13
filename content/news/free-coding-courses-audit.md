@@ -1,8 +1,8 @@
 ---
 title: "All Coding Courses on boot.dev Are Now Free to Audit"
-author: Lane Wagner
+author: lane
 date: "2021-03-15"
-categories: 
+categories:
   - "computer-science"
   - "news"
 images:

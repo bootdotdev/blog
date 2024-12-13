@@ -1,6 +1,6 @@
 ---
 title: "PHP vs JavaScript: Which is Best for Web Development?"
-author: Meghan Reichenbach
+author: meghan
 date: "2021-11-10"
 categories:
   - "javascript"

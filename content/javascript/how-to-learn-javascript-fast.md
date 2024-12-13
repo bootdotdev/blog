@@ -1,8 +1,8 @@
 ---
 title: "How Long Does It Take To Learn JavaScript? (& How To Learn Fast)"
-author: Zulie Rane
+author: zulie
 date: "2022-02-05"
-categories: 
+categories:
   - "javascript"
 images:
   - /img/800/pexels-pixabay-261895-2048x1356.webp
@@ -42,7 +42,7 @@ Before you dig into learning a programming language like JavaScript, make sure y
 
 Understand [why you are learning to program](/computer-science/why-learn-computer-science), so you can use that reason to motivate your studies and practice. Remaining motivated will be the biggest factor in your success with learning to program. Like learning any skill, one of the biggest obstacles that will slow you down is when you just don't feel like doing it today. One day turns into another and before you know it, you haven't touched your IDE in weeks. The clearer you are on your "why", the more determined you'll be on how to learn JavaScript fast.
 
-Having a reason or inspiration also makes it easy to focus on a single idea for a project for you to learn to program. Let's say you're interested in finance and want to build a budgeting app. The first thing you could figure out how to do would be to calculate the current balance of an account. Assuming you have the value of each transaction stored in an array, you could write a script that sums all the elements of the array together and prints out the balance. 
+Having a reason or inspiration also makes it easy to focus on a single idea for a project for you to learn to program. Let's say you're interested in finance and want to build a budgeting app. The first thing you could figure out how to do would be to calculate the current balance of an account. Assuming you have the value of each transaction stored in an array, you could write a script that sums all the elements of the array together and prints out the balance.
 
 Come up with an idea that fits your passion and can be expanded into a complex system. Also, take the time to think about the concepts of the idea you are most familiar with (like simple math) and consider what is the easiest thing for your application. In conclusion, for those who want to know how to learn JavaScript fast, start with understanding your own motivation.
 
@@ -58,7 +58,7 @@ There are dozens of very simple [examples](https://www.oreilly.com/library/view/
 
 ## How to learn JavaScript fast: Solve real problems
 
-The most important thing when determining how to learn JavaScript fast is to write a lot of code. If you only read through examples but don't ever actually type code, you'll never be able to program. 
+The most important thing when determining how to learn JavaScript fast is to write a lot of code. If you only read through examples but don't ever actually type code, you'll never be able to program.
 
 [Interactive learning](https://www.scholastic.com/parents/family-life/social-emotional-learning/technology-and-kids/understanding-interactive-learning.html) is about getting your hands dirty and interacting with the content. You can't just sit through lectures or watch Youtube videos on programming, you need to actually do it to know how to learn JavaScript fast. A lot of great online courses exist that provide you with structure and organize exercises for you in a stepwise fashion, like this one.
 
@@ -70,7 +70,7 @@ These websites are great because you don't have to deal with any of the overhead
 
 Make sure you spend a good amount of time working through the exercises on these sites. Don't be afraid to revisit exercises you already solved a little while ago. We quickly forget the exact implementation we used, and it's a quick way to practice programming again without having to think through the entire problem. However, it's important that you don't try to memorize solutions. This is counterproductive and will not help you in your quest.
 
-Leetcode and Hackerrank are also great practice for coding interview questions, so if your goal is to eventually get hired as a software developer, it can be handy to prime yourself for how to think about these kinds of questions. 
+Leetcode and Hackerrank are also great practice for coding interview questions, so if your goal is to eventually get hired as a software developer, it can be handy to prime yourself for how to think about these kinds of questions.
 
 This is the most crucial step in learning how to program quickly – figuring out how to get your ideas for how to solve a problem down into code that successfully runs. The satisfaction of solving these problems is often its own motivator to learn JavaScript fast.
 
@@ -88,7 +88,7 @@ Programming is a muscle that you have to flex if you want to be successful at it
 
 ## Final thoughts on how to learn JavaScript quickly
 
-If you are new to JavaScript, and want to know how to learn JavaScript fast, the fastest way to learn JavaScript is to re-implement something you've already done using another language in JavaScript. This will allow you to identify the similarities and differences between the programming language you know and JavaScript. If you're new to coding altogether, then the four strategies outlined above will make it fast for you to pick up this new coding language. As a bonus, any language you learn after JavaScript will come even quicker to you. 
+If you are new to JavaScript, and want to know how to learn JavaScript fast, the fastest way to learn JavaScript is to re-implement something you've already done using another language in JavaScript. This will allow you to identify the similarities and differences between the programming language you know and JavaScript. If you're new to coding altogether, then the four strategies outlined above will make it fast for you to pick up this new coding language. As a bonus, any language you learn after JavaScript will come even quicker to you.
 
 It's important that you harness your passions to motivate your education. CS can be applied to literally anything, so find the cross-section that sparks your interest. Remaining motivated is the key to learning JavaScript quickly, as the more work you put into learning it, the faster you'll be successfully programming with JavaScript.
 

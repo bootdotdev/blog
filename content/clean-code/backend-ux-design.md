@@ -1,8 +1,8 @@
 ---
 title: "Backend Developers are UX Designers Too"
-author: Lane Wagner
+author: lane
 date: "2021-04-12"
-categories: 
+categories:
   - "clean-code"
 images:
   - /img/800/design.webp
@@ -15,7 +15,7 @@ I'm here to contend that UX is extremely important in backend development as wel
 ## What is UX (user experience) design?
 
 > User experience design (UXD, UED, or XD) is the process of supporting user behavior through usability, usefulness, and desirability provided in the interaction with a product. User experience design encompasses traditional human-computer interaction (HCI) design and extends it by addressing all aspects of a product or service as perceived by users.
-> 
+>
 > [Wikipedia](https://en.wikipedia.org/wiki/User_experience_design)
 
 In other words, UX design is all about making it easy for your users to interact with your product, and get their tasks done in a straightforward manner.
@@ -49,28 +49,24 @@ POST /user/create
 
 json
 {
-  "email": "johndoe@example.com",
-  "password": "somethingsecure"
+"email": "johndoe@example.com",
+"password": "somethingsecure"
 }
-
 
 ### Response
 
 json
 {
-  "id": "some-new-id"
+"id": "some-new-id"
 }
-
 
 ## Delete user
 
 POST /users/delete/{email}
 
-
 ## Get user
 
 GET /user/{id}
-
 
 ## Update user
 
@@ -78,9 +74,9 @@ PUT /user
 
 json
 {
-  "id": "some-id-here",
-  "email: "johndoe@example.com",
-  "password: "somethingsecure"
+"id": "some-id-here",
+"email: "johndoe@example.com",
+"password: "somethingsecure"
 }
 ```
 

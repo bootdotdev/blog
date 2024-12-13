@@ -1,6 +1,6 @@
 ---
 title: "Maybe You Do Need Kubernetes"
-author: Lane Wagner
+author: lane
 date: "2024-03-08"
 categories:
   - "education"

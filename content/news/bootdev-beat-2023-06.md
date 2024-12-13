@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. June 2023"
-author: Lane Wagner
+author: lane
 date: "2023-05-31"
 categories:
   - "news"
@@ -8,9 +8,6 @@ images:
   - /img/800/giant_drum_hot_summer.png.webp
 imageAlts:
   - "Boot.dev Beat Drum"
-dofollows:
-  - "https://questdb.io/"
-  - "https://cupogo.dev/"
 ---
 
 May was a historic month for Boot.dev. We added more students to the backend learning path than we ever have in a single month before, and we're doing everything we can to build and release new, better courses at a faster clip. Thanks for hanging out and learning with us.

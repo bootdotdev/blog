@@ -1,6 +1,6 @@
 ---
 title: 'Boot.dev''s Lead Engineer Interviewed on "Running in Production"'
-author: Lane Wagner
+author: lane
 date: "2019-12-09"
 categories:
   - "news"

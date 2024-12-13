@@ -1,8 +1,8 @@
 ---
 title: "Simple Setup - Vue Linting in VS Code"
-author: Lane Wagner
+author: lane
 date: "2020-06-17"
-categories: 
+categories:
   - "javascript"
 images:
   - /img/800/Microsoft.webp
@@ -70,36 +70,15 @@ We need to set our linting rules:
     "node": true,
     "mocha": true
   },
-  "extends": [
-    "eslint:recommended",
-    "plugin:vue/recommended"
-  ],
+  "extends": ["eslint:recommended", "plugin:vue/recommended"],
   "rules": {
     "comma-dangle": "error",
-    "quotes": [
-      "error",
-      "single"
-    ],
-    "linebreak-style": [
-      "error",
-      "unix"
-    ],
-    "array-bracket-spacing": [
-      "error",
-      "always"
-    ],
-    "semi": [
-      "error",
-      "always"
-    ],
-    "eol-last": [
-      "error",
-      "always"
-    ],
-    "indent": [
-      "error",
-      2
-    ]
+    "quotes": ["error", "single"],
+    "linebreak-style": ["error", "unix"],
+    "array-bracket-spacing": ["error", "always"],
+    "semi": ["error", "always"],
+    "eol-last": ["error", "always"],
+    "indent": ["error", 2]
   },
   "parserOptions": {
     "parser": "babel-eslint",

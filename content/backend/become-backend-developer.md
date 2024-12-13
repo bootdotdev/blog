@@ -1,6 +1,6 @@
 ---
 title: "Learn Backend Development: Complete Path for Beginners [2024]"
-author: Lane Wagner
+author: lane
 date: "2022-07-24"
 categories:
   - "backend"

@@ -1,8 +1,8 @@
 ---
 title: "6 Things to Avoid When Contributing to Open-Source Projects"
-author: Lane Wagner
+author: lane
 date: "2020-10-21"
-categories: 
+categories:
   - "open-source"
 images:
   - /img/800/6-Things-to-Avoid-When-Contributing-to-Open-Source-Projects.jpeg
@@ -28,7 +28,7 @@ This one happens the most often to me in my own projects. Well-intentioned devel
 
 - Omitting semicolons in a project that prefers them
 - Using spaces in a project that has clearly been using tabs
-- Introducing snake\_case in a camelCase repo
+- Introducing snake_case in a camelCase repo
 
 When you contribute to an existing project, use the existing styling. No one gives two hoots about your preference on the "[tabs vs spaces](https://www.youtube.com/watch?v=SsoOG6ZeyUI)" debate in the context of this pull request.
 

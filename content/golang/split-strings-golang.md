@@ -1,6 +1,6 @@
 ---
 title: "Splitting a String into a Slice in Golang"
-author: Lane Wagner
+author: lane
 date: "2021-04-15"
 categories: 
   - "golang"

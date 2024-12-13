@@ -1,8 +1,8 @@
 ---
 title: "Why Boot.dev is Not Completely Free"
-author: Lane Wagner
+author: lane
 date: "2022-08-15"
-categories: 
+categories:
   - "education"
 images:
   - /img/800/money-free.avif.webp
@@ -19,11 +19,11 @@ I mean fair enough right? All of the information in the world exists online for 
 
 I started Boot.dev to try to build the most effective path to a career in backend development. Some of the pain points I wanted to alleviate include:
 
-* No "what should I learn next"? Or "tutorial hell" traps. A simple, linear, curriculum.
-* No skipping CS fundamentals. You're going to spend time learning algorithms, data structures, and different programming paradigms.
-* You'll write real code, and a lot of it.
-* The whole experience should be as fun and engaging as possible. Achievements, XP, levels, all the fun stuff.
-* The content will be *extremely* up to date. We won't have you learning Python 2 in 2022, using the `var` keyword in JavaScript, or GOPATH in Go.
+- No "what should I learn next"? Or "tutorial hell" traps. A simple, linear, curriculum.
+- No skipping CS fundamentals. You're going to spend time learning algorithms, data structures, and different programming paradigms.
+- You'll write real code, and a lot of it.
+- The whole experience should be as fun and engaging as possible. Achievements, XP, levels, all the fun stuff.
+- The content will be _extremely_ up to date. We won't have you learning Python 2 in 2022, using the `var` keyword in JavaScript, or GOPATH in Go.
 
 I can't accomplish these goals by spending a few months of my spare time writing content, then putting it out for free while I get back to work at a full-time job. The content wouldn't remain up to date, the game mechanics would be lackluster or nonexistent, and I simply wouldn't have the time be able to write all the content that I want to. I want this thing to be as thorough as a CS degree (but more streamlined) oncce it reaches its full splendor.
 
@@ -33,9 +33,9 @@ Right out of the gate, I'm bound by the constraint that I need to be able to ear
 
 ## So what is Boot.dev's business model anyways?
 
-At the moment we have a simple way to fund ongoing development: memberships. I'll get into the *why* in a second, but first let me explain what a membership is.
+At the moment we have a simple way to fund ongoing development: memberships. I'll get into the _why_ in a second, but first let me explain what a membership is.
 
-Reading and watching *all* of the content on Boot.dev is **free for everyone**. Additionally, all of the progress tracking, interactive code editors, game mechanics, and other features are free for the first few chapters of each course.
+Reading and watching _all_ of the content on Boot.dev is **free for everyone**. Additionally, all of the progress tracking, interactive code editors, game mechanics, and other features are free for the first few chapters of each course.
 
 After the first several chapters of any individual course, all of that extra interactive stuff shuts off, and to continue using it you'd need to [become a member](https://www.boot.dev/pricing). To reiterate, you can still read and watch all of the content for free, you just lost interactivity.
 
@@ -45,9 +45,9 @@ Memberships are subscriptions that are billed monthly or yearly. We also offer [
 
 Memberships work well for a few reasons:
 
-* Up front costs to students are low. Students can try out our teaching style and content for free, and only pay if they like it.
-* There's no weird loans, financing, or immense back-pay upon landing a job. You can cancel your membership at any time, and you'll never owe us anything.
-* We have ongoing costs (especially now with our AI tutor, Boots) so recurring revenue is a must on our end.
+- Up front costs to students are low. Students can try out our teaching style and content for free, and only pay if they like it.
+- There's no weird loans, financing, or immense back-pay upon landing a job. You can cancel your membership at any time, and you'll never owe us anything.
+- We have ongoing costs (especially now with our AI tutor, Boots) so recurring revenue is a must on our end.
 
 I think "pay once" courses work best for non-interactive content like books and downloadables, but memberships seem to be best for a living platform like ours where new features and content updates are released almost daily.
 

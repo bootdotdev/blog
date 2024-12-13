@@ -1,6 +1,6 @@
 ---
 title: "How Much Do Software Engineers Make?"
-author: Lane Wagner
+author: lane
 date: "2020-11-09"
 categories:
   - "misc"

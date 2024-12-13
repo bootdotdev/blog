@@ -1,14 +1,14 @@
 ---
 title: "Top 4 Practical Uses of JavaScript"
-author: Zulie Rane
+author: zulie
 date: "2022-01-30"
-categories: 
+categories:
   - "javascript"
 images:
   - /img/800/pexels-burst-374631-2048x1365.jpeg
 ---
 
-JavaScript is one of the most versatile programming languages, maybe even more flexible than Python. JavaScript is used on both the front and back end of web systems. Because of that, of the 1.8 billion websites in the world, [95% of them use JavaScript](https://generalassemb.ly/blog/what-makes-javascript-so-popular/#:~:text=There%20are%20over%201.8%20Billion,to%20GitHub's%202020%20Octoverse%20Report.). It's hard to interact with the modern Internet, with its pretty graphics and interactive maps, without using JavaScript. [Enable Marketing says](https://enablemarketing.com/makes-website-visually-appealing/#gref) the top four qualities of a visually appealing website are design and color, graphics and visuals, usability, and consistency. JavaScript is a major player in all four of those attributes. 
+JavaScript is one of the most versatile programming languages, maybe even more flexible than Python. JavaScript is used on both the front and back end of web systems. Because of that, of the 1.8 billion websites in the world, [95% of them use JavaScript](https://generalassemb.ly/blog/what-makes-javascript-so-popular/#:~:text=There%20are%20over%201.8%20Billion,to%20GitHub's%202020%20Octoverse%20Report.). It's hard to interact with the modern Internet, with its pretty graphics and interactive maps, without using JavaScript. [Enable Marketing says](https://enablemarketing.com/makes-website-visually-appealing/#gref) the top four qualities of a visually appealing website are design and color, graphics and visuals, usability, and consistency. JavaScript is a major player in all four of those attributes.
 
 JavaScript was originally designed to elevate websites above simple HTML and CSS. It is used to make web pages interactive. It was intended as a scripting language for web browsers. It's still used for that today, but also so much more. If you want to run programs in the browser, JavaScript is the language to do it in.
 
@@ -20,11 +20,11 @@ JavaScript is often the language of choice for [learning how to program](https:/
 
 When asking "What is JavaScript used for?" it's important to know that JavaScript is what makes web pages more interesting than a downloadable PDF. HTML and CSS are used to give web pages their structure and style, but JavaScript is absolutely necessary for sliders, pop-ups, accordions, and more.
 
-JavaScript is great for adding functionality to web pages, like form validation to check if what the user entered as an email address fits all of the requirements. JavaScript is the dominating language to run code in the browser. If you want anything more advanced than essentially pretty-looking text on a page, you'll need to use JavaScript. 
+JavaScript is great for adding functionality to web pages, like form validation to check if what the user entered as an email address fits all of the requirements. JavaScript is the dominating language to run code in the browser. If you want anything more advanced than essentially pretty-looking text on a page, you'll need to use JavaScript.
 
 JavaScript has a bunch of uses when it comes to frontend web development, including adding new HTML content to the page, changing existing content, and modifying styles (like making a "submit" button disappear after it's been clicked). More specifically, it allows the website to react to user actions and run things on mouse clicks or key presses. JavaScript can also handle [[sending requests](https://javascript.info/intro)] "over the network to remote servers, downloading, and uploading files"
 
-Another really cool thing that JavaScript allows you to do when developing websites is that it allows you to store data in your user's browser. There are a few [limitations](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Browser_storage_limits_and_eviction_criteria) to this, due to storage size limits and security concerns. But apart from this, client-side storage can be very useful. You can store a user's personalized site preferences or save previous site activity, like the contents of a shopping cart or whether they have already logged in. 
+Another really cool thing that JavaScript allows you to do when developing websites is that it allows you to store data in your user's browser. There are a few [limitations](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Browser_storage_limits_and_eviction_criteria) to this, due to storage size limits and security concerns. But apart from this, client-side storage can be very useful. You can store a user's personalized site preferences or save previous site activity, like the contents of a shopping cart or whether they have already logged in.
 
 [Mozilla highlights](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage) another application of JavaScript [in the browser](https://webplatform.github.io/docs/tutorials/your_first_look_at_javascript/#:~:text=To%20execute%20JavaScript%20in%20a,element%20with%20a%20src%20attribute.), which is to store"data and assets locally so a site will be quicker." If your website consists of two pages, and an API call is made to retrieve the data for each page when the user loads it, you can cache the data that was loaded for each page the first time the user visits. The user can switch between the different pages of your website without having to constantly reload the data, which will significantly reduce load times.
 

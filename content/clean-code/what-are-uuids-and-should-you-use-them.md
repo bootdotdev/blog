@@ -1,6 +1,6 @@
 ---
 title: "What are UUIDs, and are they better than regular IDs?"
-author: Lane Wagner
+author: lane
 date: "2021-07-23"
 categories: 
   - "clean-code"

@@ -1,6 +1,6 @@
 ---
 title: "Elliptic Curve Cryptography: A Basic Introduction"
-author: Lane Wagner
+author: lane
 date: "2020-09-17"
 categories:
   - "bitcoin"

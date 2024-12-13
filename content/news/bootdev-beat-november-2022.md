@@ -1,6 +1,6 @@
 ---
 title: "Boot.dev Beat. November 2022"
-author: Lane Wagner
+author: lane
 date: "2022-11-30"
 categories:
   - "news"
@@ -8,9 +8,6 @@ images:
   - /img/800/bootdevbeatnov.png.webp
 imageAlts:
   - "Boot.dev Beat November 2022 Cover Image"
-dofollows:
-  - "https://www.youtube.com/watch?v=MkaIrwOlP6Y"
-  - "https://www.youtube.com/watch?v=EkUuXQUByuw"
   - "https://podcasts.apple.com/us/podcast/running-containers-at-the-edge/id1462366641?i=1000574875303"
 ---
 

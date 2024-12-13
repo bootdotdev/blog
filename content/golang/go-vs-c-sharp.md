@@ -1,9 +1,9 @@
 ---
 title: "Go vs C#: Compared Over 5 Key Areas"
-author: Meghan Reichenbach
+author: meghan
 date: "2021-09-22"
 lastmod: "2022-04-22"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/Go-vs-C-Sharp-min.webp
@@ -25,7 +25,7 @@ If you're interested in finding out which language best suits you, then keep rea
 
 Before we get our hands dirty with comparisons, there are a few important similarities to discuss.
 
-As far as language makeup, Go and C# are both cross-platform languages with C language origins. C# is a object-oriented and C-based, so it has a very similar syntax to the C language, and the .NET framework allows it to work cross-platform, although it works best in Windows. C# is also "Microsoft's Java", so in a lot of ways it inherits class-based styling from Java, something Go does *not* do.
+As far as language makeup, Go and C# are both cross-platform languages with C language origins. C# is a object-oriented and C-based, so it has a very similar syntax to the C language, and the .NET framework allows it to work cross-platform, although it works best in Windows. C# is also "Microsoft's Java", so in a lot of ways it inherits class-based styling from Java, something Go does _not_ do.
 
 Golang is "C-inspired" but for all intents and purposes, it too has a similar syntax to the C language, but places a greater emphasis on readability.
 
@@ -49,7 +49,7 @@ Golang, like C#, is easy to learn for C programmers but also for anyone else. Th
 
 Large-scale projects, network servers, or cloud services all work well with Golang's nature. Its standard library comes ready to handle massive workloads and is even making its way into Big Data and machine learning. Since Golang is much newer than C#, it doesn't come with the same bustling community, but it's definitely growing.
 
-The key difference here is that *most* of Go's tools are native, while C# gets them from various frameworks and libraries. We're not saying .NET isn't impressive, but having optimized performance without the need for outside support encourages smoother programming.
+The key difference here is that _most_ of Go's tools are native, while C# gets them from various frameworks and libraries. We're not saying .NET isn't impressive, but having optimized performance without the need for outside support encourages smoother programming.
 
 Overall, C# is a better option if you're working on Windows applications or game development due to it's object oriented nature, but Go quite often pulls ahread in cross-platform work and web development.
 
@@ -65,7 +65,7 @@ Alternatively, C#'s performance stems from the .NET framework, which powers C#'s
 
 While C# is powerful, it's still slower than Go. Why? Mostly due to C#'s heavier feature set, Go is simply more lightweight. There's less overhead to your code in Go. Go programs tend to have smaller memory footprints, and generate fewer instructions. Go's simple language provides certain constraints that enable additional automatic optimization, optimizations that are otherwise unlikely to be made, like escape analysis and the inlining of lambda functions.
 
-In the end, Golang's raw CPU speed is very similar to C#, but because of its simplistic style and native compilation, its memory usage is much lighter and Go code compiles **much** faster than C# code. 
+In the end, Golang's raw CPU speed is very similar to C#, but because of its simplistic style and native compilation, its memory usage is much lighter and Go code compiles **much** faster than C# code.
 
 ## Go vs C#: Which has the best salary?
 
@@ -109,6 +109,6 @@ Chances are if you're here wanting to learn a new language, it's either because 
 
 C# is a superb choice If you're a devoted Windows programmer, interested in getting into game development, or looking to scale up your company's Windows applications.
 
-However, Golang is a better option for those looking for enterprise-worthy back-end support a team can pick up fast, or if you're interested in DevOps, and wider potential of future work.  
+However, Golang is a better option for those looking for enterprise-worthy back-end support a team can pick up fast, or if you're interested in DevOps, and wider potential of future work.
 
 All in all, these are two top-end languages that provide invaluable skills and will unquestionably level up your server-side development and résumé.

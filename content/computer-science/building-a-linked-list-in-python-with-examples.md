@@ -1,6 +1,6 @@
 ---
 title: "Building a Linked List in Python with Examples"
-author: Lane Wagner
+author: lane
 date: "2021-01-11"
 categories: 
   - "computer-science"

@@ -1,6 +1,6 @@
 ---
 title: "What is SHA-256?"
-author: Lane Wagner
+author: lane
 date: "2020-07-08"
 lastmod: "2022-10-12"
 categories:

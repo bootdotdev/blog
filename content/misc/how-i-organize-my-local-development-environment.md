@@ -1,6 +1,6 @@
 ---
 title: "How I Organize My Local Development Environment"
-author: Lane Wagner
+author: lane
 date: "2021-03-17"
 categories: 
   - "misc"

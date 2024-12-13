@@ -1,6 +1,6 @@
 ---
 title: "Want to Become a Python Back-end Developer? Start Here."
-author: Natalie Schooner
+author: natalie
 date: "2023-02-17"
 categories:
   - "python"

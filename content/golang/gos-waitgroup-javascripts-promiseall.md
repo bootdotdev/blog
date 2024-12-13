@@ -1,6 +1,6 @@
 ---
 title: "Go's WaitGroup vs JavaScript's PromiseAll"
-author: Lane Wagner
+author: lane
 date: "2020-06-04"
 categories: 
   - "golang"

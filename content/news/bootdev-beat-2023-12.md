@@ -1,6 +1,6 @@
 ---
 title: "The Boot.dev Beat. December 2023"
-author: Lane Wagner
+author: lane
 date: "2023-12-01"
 categories:
   - "news"
@@ -8,9 +8,6 @@ images:
   - /img/800/ruinreborn_drums_fantasy_fantasy_drums_fantasy_winter_drums_dru_f573fd41-0651-4079-a3cf-ec097c6ad834.png.webp
 imageAlts:
   - "Boot.dev Beat Drum"
-dofollows:
-  - "https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/"
-  - "https://adventofcode.com/2023/"
 ---
 
 Hope you had a splendid Turkey month. My wife, two kids, and I spent Thanksgiving in southern Utah. The fresh air was nice, AQI here in Northern Utah is 100+ right now... wouldn't recommend. Anyway, back to coding.

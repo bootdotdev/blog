@@ -1,6 +1,6 @@
 ---
 title: "The Benefits of Gamified Learning"
-author: Lane Wagner
+author: lane
 date: "2021-01-20"
 categories: 
   - "misc"

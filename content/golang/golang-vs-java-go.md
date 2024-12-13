@@ -1,6 +1,6 @@
 ---
 title: "Golang vs Java: 6 Key Comparisons"
-author: Meghan Reichenbach
+author: meghan
 date: "2021-08-04"
 categories:
   - "golang"

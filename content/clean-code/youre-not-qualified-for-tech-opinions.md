@@ -1,6 +1,6 @@
 ---
 title: "You're Not Qualified to Have an Opinion on TDD"
-author: Lane Wagner
+author: lane
 date: "2023-11-07"
 categories:
   - "clean-code"

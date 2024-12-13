@@ -1,8 +1,8 @@
 ---
 title: "Basic Intro to Key Derivation Functions"
-author: Lane Wagner
+author: lane
 date: "2019-12-30"
-categories: 
+categories:
   - "cryptography"
   - "security"
 images:

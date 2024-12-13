@@ -1,6 +1,6 @@
 ---
 title: "Systems and Processes that Aren't in Code are Terrifying"
-author: Lane Wagner
+author: lane
 date: "2019-10-03"
 categories:
   - "clean-code"

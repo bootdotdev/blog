@@ -1,6 +1,6 @@
 ---
 title: "7 Best Practices for Every Python Developer"
-author: Zulie Rane
+author: zulie
 date: "2022-01-04"
 categories:
   - "python"

@@ -1,8 +1,8 @@
 ---
 title: "How to Structure a Golang Project"
-author: Lane Wagner
+author: lane
 date: "2020-10-01"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/organize.webp
@@ -136,10 +136,9 @@ name: Tests
 
 on:
   pull_request:
-    branches: [ master ]
+    branches: [master]
 
 jobs:
-
   test:
     name: Test
     runs-on: ubuntu-latest
@@ -148,27 +147,26 @@ jobs:
       GOPROXY: "off"
 
     steps:
+      - name: Set up Go 1.146
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.146
+        id: go
 
-    - name: Set up Go 1.146
-      uses: actions/setup-go@v2
-      with:
-        go-version: 1.146
-      id: go
+      - name: Check out code into the Go module directory
+        uses: actions/checkout@v1
 
-    - name: Check out code into the Go module directory
-      uses: actions/checkout@v1
+      - name: Format
+        run: make lint
 
-    - name: Format
-      run: make lint
+      - name: Vet
+        run: make vet
 
-    - name: Vet
-      run: make vet
+      - name: Test
+        run: make test
 
-    - name: Test
-      run: make test
-
-    - name: Build
-      run: make build
+      - name: Build
+        run: make build
 ```
 
 Then, for your deploys you might use _something_ like this in `github/workflows/deploy.yml`:

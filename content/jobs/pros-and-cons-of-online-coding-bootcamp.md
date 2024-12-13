@@ -1,8 +1,8 @@
 ---
 title: "6 Pros and Cons of Online Coding Bootcamps"
-author: Natalie Schooner
+author: natalie
 date: "2022-07-18"
-categories: 
+categories:
   - "education"
 images:
   - /img/800/pexels-photo-1467277.webp.webp

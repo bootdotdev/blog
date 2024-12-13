@@ -1,6 +1,6 @@
 ---
 title: "What Are Golang's Anonymous Structs?"
-author: Lane Wagner
+author: lane
 date: "2020-04-21"
 categories:
   - "clean-code"

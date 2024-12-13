@@ -1,6 +1,6 @@
 ---
 title: "How to Create Constant Maps, Slices, & Arrays in Golang"
-author: Lane Wagner
+author: lane
 date: "2019-10-21"
 lastmod: "2022-10-01"
 categories:

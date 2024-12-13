@@ -1,6 +1,6 @@
 ---
 title: "How to Properly Use Defer in Golang"
-author: Lane Wagner
+author: lane
 date: "2021-06-01"
 categories: 
   - "golang"

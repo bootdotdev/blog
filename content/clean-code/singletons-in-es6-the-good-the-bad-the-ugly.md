@@ -1,8 +1,8 @@
 ---
 title: "Singletons in ES6 - The Good, The Bad, The Ugly"
-author: Lane Wagner
+author: lane
 date: "2019-11-04"
-categories: 
+categories:
   - "clean-code"
   - "javascript"
 images:
@@ -16,7 +16,7 @@ Singletons are fairly controversial as far as I can tell, especially in JavaScri
 ## What is a Singleton?
 
 > A singleton is a class that allows only a single instance of itself to be created and gives access to that created instance. It contains static variables that can accommodate unique and private instances of itself. We use it in scenarios when a user wants to restrict instantiation of a class to only one object. This is helpful usually when a single object is required to coordinate actions across a system.
-> 
+>
 > [techopedia](https://www.techopedia.com/definition/15830/singleton)
 
 Usually, in object-oriented programming, the idea is to define classes and create multiple instances of that class, each with its own state. This keeps code [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and easy to maintain.
@@ -38,9 +38,9 @@ let darkMode = false;
 
 // Define the functions that will expose that state
 const Settings = {
-  setDarkMode: (newVal) => darkMode = newVal,
+  setDarkMode: (newVal) => (darkMode = newVal),
   getDarkMode: () => darkMode,
-}
+};
 
 // Disallow new properties on our object
 Object.freeze(Settings);

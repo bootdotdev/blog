@@ -1,6 +1,6 @@
 ---
 title: "16 Great Coding Challenges You Can Try Out"
-author: Zulie Rane
+author: zulie
 date: "2021-06-24"
 categories:
   - "misc"

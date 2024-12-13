@@ -1,6 +1,6 @@
 ---
 title: "Introducing Boots, the Artificially Intelligent Bear that Explains Code"
-author: Lane Wagner
+author: lane
 date: "2023-03-06"
 categories:
   - "news"

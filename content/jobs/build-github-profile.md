@@ -1,6 +1,6 @@
 ---
 title: "How to Build the Best GitHub Profile for Your Job Search"
-author: Lane Wagner
+author: lane
 date: "2022-03-04"
 categories: 
   - "jobs"

@@ -1,6 +1,6 @@
 ---
 title: "Python vs PHP: 9 Critical Differences Examined"
-author: Zulie Rane
+author: zulie
 date: "2021-11-05"
 lastmod: "2023-02-09"
 categories:

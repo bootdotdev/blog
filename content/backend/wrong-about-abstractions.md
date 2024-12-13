@@ -1,6 +1,6 @@
 ---
 title: "I Didn't Explain Clearly, but Still Don't Learn Frameworks First"
-author: Lane Wagner
+author: lane
 date: "2023-01-17"
 categories:
   - "backend"

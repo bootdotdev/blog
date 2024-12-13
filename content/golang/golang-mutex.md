@@ -1,6 +1,6 @@
 ---
 title: "How to Use Mutexes in Go"
-author: Lane Wagner
+author: lane
 date: "2020-03-19"
 categories: 
   - "golang"

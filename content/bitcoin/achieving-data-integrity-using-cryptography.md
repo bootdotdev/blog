@@ -1,8 +1,8 @@
 ---
 title: "Achieving Data Integrity Using Cryptography"
-author: Lane Wagner
+author: lane
 date: "2020-05-04"
-categories: 
+categories:
   - "bitcoin"
   - "cryptography"
 images:
@@ -60,7 +60,7 @@ shasum -a 256 bitcoin-0.19.1-osx.dmg
 
 Which should print:
 
-> 206d8d92189d22e735393abebeb7a2e7237a119dd448b4a40df8c357da1287b2  bitcoin-0.19.1-osx.dmg
+> 206d8d92189d22e735393abebeb7a2e7237a119dd448b4a40df8c357da1287b2 bitcoin-0.19.1-osx.dmg
 
 Then print the downloaded (expected) checksum:
 
@@ -70,7 +70,7 @@ cat SHA256SUMS.asc | grep bitcoin-0.19.1-osx.dmg
 
 Which should match:
 
-> 206d8d92189d22e735393abebeb7a2e7237a119dd448b4a40df8c357da1287b2  bitcoin-0.19.1-osx.dmg
+> 206d8d92189d22e735393abebeb7a2e7237a119dd448b4a40df8c357da1287b2 bitcoin-0.19.1-osx.dmg
 
 If they match, congratulations! Your download has been verified. No man in the middle altered the program that you downloaded.
 

@@ -1,6 +1,6 @@
 ---
 title: "Merge Sort in Golang with Examples"
-author: Lane Wagner
+author: lane
 date: "2021-06-10"
 categories:
   - "golang"

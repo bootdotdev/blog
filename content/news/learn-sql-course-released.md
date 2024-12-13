@@ -1,6 +1,6 @@
 ---
 title: "New 'Learn SQL' Course Launched on Boot.dev"
-author: Lane Wagner
+author: lane
 date: "2022-09-19"
 categories:
   - "news"

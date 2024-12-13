@@ -1,6 +1,6 @@
 ---
 title: "Learn Python: A Free Tutorial for Beginners"
-author: Lane Wagner
+author: lane
 date: "2023-03-30"
 categories:
   - "tutorials"

@@ -1,14 +1,14 @@
 ---
 title: "Add Libraries and Packages to Your Coding Portfolio"
-author: Lane Wagner
+author: lane
 date: "2022-11-13"
-categories: 
+categories:
   - "jobs"
 images:
   - /img/800/library.png.webp
 ---
 
-Building a job-ready portfolio of coding projects doesn't happen overnight, but if you're like most self-taught developers, you've likely built up a nice collection of todo apps, calculators, and other toy programs. Here's the thing, applications for end-users are great, but I'm here to convince you that adding a *library* to your portfolio will make you *much* more hireable.
+Building a job-ready portfolio of coding projects doesn't happen overnight, but if you're like most self-taught developers, you've likely built up a nice collection of todo apps, calculators, and other toy programs. Here's the thing, applications for end-users are great, but I'm here to convince you that adding a _library_ to your portfolio will make you _much_ more hireable.
 
 A specific library that I wrote has helped me land jobs several times, but I'll talk about that more later.
 
@@ -29,14 +29,14 @@ Here are some examples.
 
 ## What is a "portfolio project" anyhow?
 
-A portfolio project is just a project that you feel comfortable sharing with potential employers - both the finished product *and* the code. Its primary purpose is simply to assist you in your job search, it shows what you're capable of building, and frankly, a great portfolio can do a lot for your [confidence in interviews](/jobs/confidence-in-job-interviews/). Not every project you build while learning to code should necessarily be a "portfolio" project. You'll build plenty of projects just for the sake of learning, or for fun.
+A portfolio project is just a project that you feel comfortable sharing with potential employers - both the finished product _and_ the code. Its primary purpose is simply to assist you in your job search, it shows what you're capable of building, and frankly, a great portfolio can do a lot for your [confidence in interviews](/jobs/confidence-in-job-interviews/). Not every project you build while learning to code should necessarily be a "portfolio" project. You'll build plenty of projects just for the sake of learning, or for fun.
 
-*Portfolio* projects require some additional work. I recommend picking just 2-3 projects that you'll actively showcase on a resume or GitHub profile page. You should hold these select projects to a higher standard. They should not only *work*, but also:
+_Portfolio_ projects require some additional work. I recommend picking just 2-3 projects that you'll actively showcase on a resume or GitHub profile page. You should hold these select projects to a higher standard. They should not only _work_, but also:
 
-* Have well-written tests
-* Have clean and well-organized codebases
-* Detailed README.md files describing what they do, and how to use them
-* Do something *interesting*. The more interesting your project, the more likely you are to pique the attention of a hiring manager
+- Have well-written tests
+- Have clean and well-organized codebases
+- Detailed README.md files describing what they do, and how to use them
+- Do something _interesting_. The more interesting your project, the more likely you are to pique the attention of a hiring manager
 
 **I recommend making at least one of your portfolio projects a library, and at least one an application.**
 
@@ -53,7 +53,7 @@ Let's go over each point in a bit more detail.
 
 ### 1. A library demonstrates engineering and architectural skills
 
-It's pretty easy to build a small app using *awful* coding and architectural practices. As long as it *works*, your users can't even tell the code is shitty right?
+It's pretty easy to build a small app using _awful_ coding and architectural practices. As long as it _works_, your users can't even tell the code is shitty right?
 
 With libraries, you can't get away with it. Your users are developers, so if your library's exposed functions, classes, and types are poorly written, it's dreadfully obvious. Conversely, it's easy and fast for someone skimming your documentation to see if your library has a good API.
 
@@ -61,9 +61,9 @@ When managers are browsing your work, it's important that they can quickly tell 
 
 ### 2. A random hiring manager is more likely to be your "target user"
 
-Building a cool app that people will use is *really hard*, and has very little to do with coding skills. However, it helps a lot in the hiring process if the people interviewing you think you've built some cool stuff.
+Building a cool app that people will use is _really hard_, and has very little to do with coding skills. However, it helps a lot in the hiring process if the people interviewing you think you've built some cool stuff.
 
-When you build an application, you're typically building it for a specific kind of person. For example, tinder is built for (mostly) single people looking for relationships. People in happy, monogamous relationships are unlikely to care about Tinder.  
+When you build an application, you're typically building it for a specific kind of person. For example, tinder is built for (mostly) single people looking for relationships. People in happy, monogamous relationships are unlikely to care about Tinder.
 
 However, when you're building a library, even if your interviewer isn't exactly the user of your library (due to a coding language mismatch for example), they will likely understand and appreciate the technical problem your library solves. Applications solve all sorts of problems, from medical billing to boredom. Libraries truly just solve a single problem: technical complexity, and that's something every developer understands.
 
@@ -83,8 +83,8 @@ The fact that most developers don't even have a good portfolio of projects will 
 
 I've now written a couple of little packages that have helped me in my job search. While I don't mention all of them in every interview, at least one has come up in my last 3 interviews. Well, the last 3 interviews in which I ended up taking the job. Here they are, in descending order of precedence in my portfolio:
 
-* [go-rabbitmq](https://github.com/wagslane/go-rabbitmq)
-* [go-password-validator](https://github.com/wagslane/go-password-validator)
-* [go-tinytime](https://github.com/wagslane/go-tinytime)
+- [go-rabbitmq](https://github.com/wagslane/go-rabbitmq)
+- [go-password-validator](https://github.com/wagslane/go-password-validator)
+- [go-tinytime](https://github.com/wagslane/go-tinytime)
 
 Good luck with your current and future job searches!

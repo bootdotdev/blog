@@ -1,6 +1,6 @@
 ---
 title: "Using a High-Level RabbitMQ Client in Golang"
-author: Lane Wagner
+author: lane
 date: "2021-03-10"
 categories: 
   - "golang"

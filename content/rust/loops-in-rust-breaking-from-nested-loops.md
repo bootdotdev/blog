@@ -1,6 +1,6 @@
 ---
 title: "How to Break From Nested Loops in Rust"
-author: Lane Wagner
+author: lane
 date: "2020-05-14"
 categories: 
   - "rust"

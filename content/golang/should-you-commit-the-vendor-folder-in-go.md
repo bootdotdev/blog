@@ -1,6 +1,6 @@
 ---
 title: "Should You Commit the Vendor Folder in Go?"
-author: Lane Wagner
+author: lane
 date: "2020-11-16"
 lastmod: "2022-04-19"
 categories:
