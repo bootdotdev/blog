@@ -56,9 +56,12 @@
             <div class="flex-1">
               <h2 class="text-2xl text-white mb-2">{{ .Title }}</h2>
 
+              {{ if .Params.author }}
               <span class="text-sm text-gray-400 mb-4">
-                {{ .Date.Format "Jan 02, 2006" }} by {{ .Params.author }}
+                {{ $author := index $.Site.Data.authors .Params.author }} {{
+                .Date.Format "Jan 02, 2006" }} by {{ $author.name }}
               </span>
+              {{ end }}
 
               <p class="hidden sm:block">{{ .Summary }}</p>
             </div>
