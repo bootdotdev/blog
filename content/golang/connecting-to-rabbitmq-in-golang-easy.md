@@ -2,14 +2,14 @@
 title: "Using a High-Level RabbitMQ Client in Golang"
 author: lane
 date: "2021-03-10"
-categories: 
+categories:
   - "golang"
   - "open-source"
 images:
   - /img/800/rabbit.webp
 ---
 
-If you've already read my [previous post](/golang/connecting-to-rabbitmq-in-golang/), you know that the [amqp package](https://github.com/streadway/amqp) is awesome and you can get up and running with just 40-50 lines of simple code. Unfortunately, the bare-bones amqp library doesn't handle a lot of the stuff you probably wish it did, things like reconnecting logic, the spawning of threads, queue and binding boilerplate, and flow control.
+So you might already know that the [amqp package](https://github.com/streadway/amqp) is awesome and you can get up and running with just 40-50 lines of simple code. Unfortunately, the bare-bones amqp library doesn't handle a lot of the stuff you probably wish it did, things like reconnecting logic, the spawning of threads, queue and binding boilerplate, and flow control.
 
 Fear not! I recently open-sourced my own package that neatly wraps Streadway's amqp library and provides those higher-level abstractions. Behold, [go-rabbitmq](https://github.com/wagslane/go-rabbitmq).
 
