@@ -156,7 +156,7 @@ It can be particularly confusing when the test suite we provide simply prints th
 
 ### Printing to debug your code
 
-Printing values and running your code is a great way to debug your code. You can see what values are stored in various variables, find your mistakes, and fix them. Add print statements and run your code as you go! It's a great habit to get into to make sure that each line you write is doing what you expect it to do.
+Printing values and running your code is a great way to debug your code. You can see what values are stored in various [variables](/tutorials/python/variables), find your mistakes, and fix them. Add print statements and run your code as you go! It's a great habit to get into to make sure that each line you write is doing what you expect it to do.
 
 In the real world, it's rare to leave `print()` statements in your code when you're done debugging. Similarly, you need to remember to remove any `print()` statements from your code before submitting your work because it will interfere with the tests!
 
