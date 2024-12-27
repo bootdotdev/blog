@@ -1,4 +1,4 @@
-# The Boot.dev Blog
+# Boot.dev Blog
 
 This is the source code and content for the Boot.dev blog, which can be found at [https://blog.boot.dev](https://blog.boot.dev).
 
