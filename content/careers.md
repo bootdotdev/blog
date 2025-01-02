@@ -13,7 +13,7 @@ If you're curious about what its like to work with us, check out our [public han
 
 ## Open positions
 
-### Director of Business Development & Sales
+### Business Development & Sales
 
 - **Location**: Remote (US Timezones Preferred)
 - **Salary**: DOE
@@ -33,25 +33,6 @@ Send an email to `lane at boot .dev` with:
 
 - Your resume
 - A personal note about why you're a good fit
-
-### Junior Video Editor/Animator
-
-- **Location**: Remote (US/Europe Timezones Preferred)
-- **Salary**: DOE
-- **Healthcare**: Yes if in the US
-- **PTO**: Unlimited
-- **Equity**: Yes, in the form of 4-year vesting stock options
-- **Years of experience**: 0-2
-- **Type**: 8 week contract to hire (benefits and equity post-contract)
-
-We're looking for our 2nd full time video editor/animator to help us create really goddamn cool educational programming videos. We have two YouTube channels:
-
-- https://www.youtube.com/@bootdotdev
-- https://www.youtube.com/@backendbanterfm
-
-The majority of the work will be on the first channel, creating the 3-5 minute explainer videos. You'll be given raw recordings of a talking head on a green screen, and be expected to turn it into the finished product. This requires getting to know the source material, and if you don't already know how to code, an interest in learning. You won't have all the concepts spelled out for you, you'll need to figure out how to accurately animate or otherwise visually show what's going on.
-
-We don't need someone with tons of experience, we need someone with great taste and that's able to get really good really fast.
 
 **How to apply:**
 
