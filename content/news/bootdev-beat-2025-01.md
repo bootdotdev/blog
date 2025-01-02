@@ -10,7 +10,7 @@ imageAlts:
   - "Boots in snow"
 ---
 
-Fastest boss defeat in the history of Boot.dev, a new AWS course, embers are live, and my chilren just won't stop being sick for more than 4 days at a time. Win some, lose some.
+Fastest boss defeat in the history of Boot.dev, a new AWS course, embers are live, and my children just won't stop being sick for more than 4 days at a time. Win some, lose some.
 
 Exhaustedly, Lane
 
