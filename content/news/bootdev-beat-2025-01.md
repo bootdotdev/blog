@@ -55,11 +55,9 @@ A new progress bar and just in-course navigation menu is live. We're really happ
 
 ### 5. Miscellaneous improvements
 
-- GitHub commits now count toward your daily streak, as well as completing Boot.dev lessons
-- Big updates to the beginning of the Python course, in particular there are now integrated info modals and lessons explaining the various game mechanics
-- Added solutions to the Git course
-- We spent a lot of time this month polishing up various UI rough edges, keyboard shortcuts and tooltips, making speed improvements, refactoring code, and fixing small bugs. Not really worth mentioning individually, but all together they'll help us move faster going forward.
-- We also have finished a lot of new content that just hasn't gone live yet, there are several new courses in the works.
+- Hundreds of small updates to lessons that weren't making good enough use of the Bootdev CLI
+- New info modals for all the game features
+- Silently shipped more TS course versions (expect a big update for the TS track in the coming months)
 
 ## What is yet to come
 
