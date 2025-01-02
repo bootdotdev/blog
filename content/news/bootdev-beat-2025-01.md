@@ -35,19 +35,19 @@ Our brand new [Learn File Servers and CDNs with S3 and CloudFront](https://www.b
 7. CDNs
 8. Resiliency
 
-It's a new addition to the core backend learning path, coming chronologicaly after the [Learn HTTP Servers](https://www.boot.dev/courses/learn-http-servers-golang) course.
+It's a new addition to the core backend learning path, coming chronologically after the [Learn HTTP Servers](https://www.boot.dev/courses/learn-http-servers-golang) course.
 
 ### 2. Streak Embers are live
 
 ![embers](/img/800/emberslit.png.webp)
 
-This has been a _much_ anticipated change to our streak system. Your Boot.dev streak is simply a measure of the number of days in a row that you've either completed a lesson or committed to a GitHub repository. Frozen flames are a relatively expensize item that is used to save your streak for 4 days when you are out on vacation or just can't get to your computer. However, we've found that a healthy coding habit doesn't really need to be 7/7 days of the week - and 5/7 days is perfectly reasonable. Embers solve this. You charge an ember when you go above and beyond for a day, and then when you miss a day in the future, the ember is consumed before any frozen flames, and before the strek is lost. They basically make the "daily" streak into more of a "5 days a week" streak, if you're putting in a solid effort.
+This has been a _much_ anticipated change to our streak system. Your Boot.dev streak is simply a measure of the number of days in a row that you've either completed a lesson or committed to a GitHub repository. Frozen flames are a relatively expensize item that is used to save your streak for 4 days when you are out on vacation or just can't get to your computer. However, we've found that a healthy coding habit doesn't really need to be 7/7 days of the week - and 5/7 days is perfectly reasonable. Embers solve this. You charge an ember when you go above and beyond for a day, and then when you miss a day in the future, the ember is consumed before any frozen flames, and before the streak is lost. They basically make the "daily" streak into more of a "5 days a week" streak, if you're putting in a solid effort.
 
 ### 3. Chapter 5 Lore Released
 
 ![chapter 5 lore](/img/800/guardianimage.png.CRYSsxuu.webp.webp)
 
-The community rallied this month to defeat "Kills the Joke, Vengeant". And he wasn't just defeated, but was truly brutalized - he went down in just over 2 days, our fastest boss kill yet. The lore for Chapter 5, where, (SPOLER AHEAD) Kills the Joke and Mortrunk's assault on Ruebenberg comes to a head, is [now live here](https://www.boot.dev/lore/the-guardian).
+The community rallied this month to defeat "Kills the Joke, Vengeant". And he wasn't just defeated, but was truly brutalized - he went down in just over 2 days, our fastest boss kill yet. The lore for Chapter 5, where, (SPOILER AHEAD) Kills the Joke and Mortrunk's assault on Ruebenberg comes to a head, is [now live here](https://www.boot.dev/lore/the-guardian).
 
 ### 4. More UI updates
 
