@@ -5,7 +5,7 @@ date: "2022-12-19"
 categories:
   - "golang"
 images:
-  - /img/800/gopherphone.webp
+  - /img/800/golang_fatgopher.webp
 ---
 
 Put simply, **Golang is best for the backend side of a web application or website**. There are many reasons that this is the case, so let's dive in, but before we do, let's cover some quick definitions.

@@ -5,7 +5,7 @@ categories:
 author: lane
 date: "2022-12-09"
 images:
-  - /img/800/snakescamels.png.webp
+  - /img/800/snake_vs_camel.webp
 imageAlts:
   - "Art by Stable Diffusion. Prompt: 'snakes and camels sci fi cinematic'"
 lastmod: "2024-10-31"

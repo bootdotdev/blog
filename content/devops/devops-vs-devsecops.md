@@ -6,7 +6,7 @@ categories:
   - "devops"
   - "backend"
 images:
-  - /img/800/cyberpunk-devsecops.png.webp
+  - /img/800/devops_devsecops.webp
 ---
 
 Doesn't it seem like every day there's a new mishmash of responsibilities into a job title? One day soon, someone will be hired as a DevOpSysSecInfraArc engineer.
