@@ -6,7 +6,7 @@ categories:
   - "devops"
   - "backend"
 images:
-  - /img/800/ruinreborn_remove_background_only-stylize_0_--ar_169_--sref_h_718d7539-819a-4525-a513-97ca4f0460d2_1 (1).png.webp
+  - /img/800/devops_devsecops.webp
 ---
 
 Doesn't it seem like every day there's a new mishmash of responsibilities into a job title? One day soon, someone will be hired as a DevOpSysSecInfraArc engineer.
