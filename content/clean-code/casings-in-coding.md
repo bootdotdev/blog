@@ -5,7 +5,7 @@ categories:
 author: lane
 date: "2022-12-09"
 images:
-  - /img/800/snakescamels.png.webp
+  - /img/800/ruinreborn_remove_nothing_--ar_169_--v_6.1_2edc0225-52b4-4dbd-8095-3b64a206b1d2_0.png.webp
 imageAlts:
   - "Art by Stable Diffusion. Prompt: 'snakes and camels sci fi cinematic'"
 lastmod: "2024-10-31"
