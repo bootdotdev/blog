@@ -17,7 +17,11 @@
     "eslint-plugin-html": "^7.1.0",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.7.1",
-    "sharp": "^0.30.7",
     "tailwindcss": "^3.1.8"
+  },
+  "dependencies": {
+    "18": "^0.0.0",
+    "node": "^22.8.0",
+    "sharp": "^0.33.5"
   }
 }
