@@ -32,7 +32,7 @@ As a backend developer, I used to Google stuff... 50 times a day? Maybe more. It
 
 _But_, today **about 50% of those queries** I now send to an LLM instead of Google. That's a crazy number. But, it saves me time. Finding what I wanted via Google took maybe 2-3x times longer, because I now have an LLM chat directly in my editor at all times (shoutout [Zed](https://zed.dev/) btw).
 
-If I'm skeptical of the response, its not working the way I expect, or I need a source, sure, I still use Google, but in many cases I actually trust the LLM _more_ than an outdated post on Reddit that's still somehow dominating the SERP. For example, the other day I was trying to use the Google Analytics API, and the feature I needed (I swear to God I searched for hours) wasn't documented anywhere. But, because the LLM had slurped up enough weird web forum data, it new what I should try. I tried it. It worked.
+If I'm skeptical of the response, its not working the way I expect, or I need a source, sure, I still use Google, but in many cases I actually trust the LLM _more_ than an outdated post on Reddit that's still somehow dominating the SERP. For example, the other day I was trying to use the Google Analytics API, and the feature I needed (I swear to God I searched for hours) wasn't documented anywhere. But, because the LLM had slurped up enough weird web forum data, it knew what I should try. I tried it. It worked.
 
 So at least on that front, Google is losing some ground to LLMs, but I'm still not any closer to firing Allan.
 
@@ -87,9 +87,9 @@ I do think LLMs pose a real threat to customer support roles. If your role can m
 
 We've built an internal bot that triages customer reported issues. It's not perfect, but we're always updating its prompt and examples, and we would spend at least 2x more time on customer issues if we didn't have it. It's also worth noting however, that the LLM isn't the _only_ part of that bot. A lot of the logic in the bot is just standard programming stuff, and would be _worse_ if we used an LLM. Things like connecting the customer's account to the issue, checking for duplicates, and chaining issues together are all done by "normal" code.
 
-### 3. Translating programming language
+### 3. Translating programming languages
 
-This one's pretty unique to us, but we spend months writing these in-depth, interactive coding courses, and then we want to allow students to take them in other programming language. Same concept or project, new language. At the moment, we're translating a lot of our Go content into TypeScript. We've had a lot of success by feeding an LLM some well written Go code, and getting back some TypeScript that does mostly the same thing.
+This one's pretty unique to us, but we spend months writing these in-depth, interactive coding courses, and then we want students to be able to take them in other programming languages. Same concept or project, new language. At the moment, we're translating a lot of our Go content into TypeScript. We've had a lot of success by feeding an LLM some well written Go code, and getting back some TypeScript that does mostly the same thing.
 
 It's far from perfect. Maybe 50% of the output code is useable, and the rest needs to be refactored or rewritten, but I actually think there's some promise here. We don't do many leetcode-style practice challenges at the moment (like challenges not tied to a specific concept) but we have some ideas for how we could use LLMs to save us a ton of time creating pretty incredible practice and review problems... I'll have to update you on that next year.
 
