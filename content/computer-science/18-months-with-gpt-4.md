@@ -93,11 +93,13 @@ This one's pretty unique to us, but we spend months writing these in-depth, inte
 
 It's far from perfect. Maybe 50% of the output code is useable, and the rest needs to be refactored or rewritten, but I actually think there's some promise here. We don't do many leetcode-style practice challenges at the moment (like challenges not tied to a specific concept) but we have some ideas for how we could use LLMs to save us a ton of time creating pretty incredible practice and review problems... I'll have to update you on that next year.
 
-## Wait, what about o1 and o3?
+## Wait, what about new "reasoning" models?
 
-OpenAI's o1 and o3 models are interesting - they're _way_ slower and _way_ more expensive, but they outperform on a lot of tasks by taking advantage of "thinking time". OpenAI calls it "private chain of thought". I've had more success with o1 than with gpt-4o when it comes to more complex single-shot prompts (e.g. do this, then do that, then do that, then give me the result). The problem is, I just don't _have_ many problems that need that extra little boost of "thinking time". I usually need a fairly simple piece of information, or a bit of code reformatted, or a line of code generated.
+OpenAI's o1 and o3 models are interesting - but they're currently _way_ slower and _way_ more expensive. They outperform on a lot of tasks by taking advantage of "thinking time". OpenAI calls it "private chain of thought". I've had more success with o1 than with gpt-4o when it comes to more complex single-shot prompts (e.g. do this, then do that, then do that, then give me the result). The problem is, I just don't _have_ many problems that need extra boost of "thinking time". I usually need a simple piece of information, a bit of code reformatted, or a line of code generated.
 
-I think o1 and o3 will have a big impact on very specific problems, but they've had far less impact on my day to day as a developer than gpt-4o and Claude Sonnet 3.5.
+I think reasoning models like o1 and o3 will have a big impact on specific problems, but they've had less impact on my day to day as a developer than gpt-4o and Claude Sonnet 3.5 due to the speed and cost.
+
+That said, the elephant in the room is Deepseek's brand new model R1 reasoning model. It's open source, incredibly cheap by comparison ([$0.55/M input tokens and $2.19/M output tokens](https://api-docs.deepseek.com/quick_start/pricing) vs o1's [$15.00/M input tokens and $60.00/M output tokens](https://beta.openai.com/pricing/)), and it's faster (At least as far as I can tell). The interesting thing about AI is how much its potential use cases change as it becomes cheaper and faster - I still think that even with nearly free and instant responses, the quality of the responses have to hit a much higher _quality_ mark to automate a significant portion of a developer's work flow. There might be some tasks that are low hanging fruit, however. For example, I think it is _very_ likely that we start getting a lot of useful CI/CD tools that use LLMs. Fix a small bug given a ticket, point out a better way to write a new function, etc. But implementing new features that span many files in a large codebase seems unlikely without **more massive improvements** in the _quality_ (not just speed and cost) of the responses.
 
 ## Predictions for the next year
 
