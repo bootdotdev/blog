@@ -1,0 +1,281 @@
+# Query: linux
+# ContextLines: 1
+
+81 results - 36 files
+
+content/backend/backend-engineer-vs-data-engineer.md:
+  57  - 2+ years of professional software engineering experience
+  58: - Experience with Linux and Python
+  59  
+
+content/backend/best-backend-bootcamps.md:
+   35  | Nucamp                   | Python, SQL, DevOps            | Instructor-led cohorts    | $1,925           | 16 weeks   | Highly rated             |
+   36: | Knowledgehut             | Intro to web dev, Linux, SDLC  | Instructor/self paced mix | $999 - $2,799    | ~18 weeks  | Beginner-friendly        |
+   37  | Nashua Community College | Java, SQL, AWS, DSA, OOP, DDL  | Instructor office hours   | $215 - $490      | 18 weeks   | Run by educational pros  |
+
+  151  
+  152: You'll start with an intro to web development. You'll go through the software development lifecycle using traditional and agile methodologies. You'll get to grips with working in a Linux environment. And you'll work with version control and code management.
+  153  
+
+content/backend/how-long-to-become-backend-dev.md:
+  25  1. Do you know how to navigate a command line interface?
+  26: 2. Are you familiar with <a href="https://www.boot.dev/courses/learn-linux">Linux</a> and Bash?
+  27  3. Are you already "computer savvy"?
+
+content/clean-code/line-breaks-vs-code-lf-vs-crlf.md:
+  12  
+  13: This is typically due to a difference in **line endings**, especially the difference in `LF` vs. `CRLF`. Unix systems like Linux and macOS use `LF`, the line feed character, for line breaks by default. Windows, on the other hand, is special and uses `CR/LF`, carriage return AND line feed characters, by default.
+  14  
+
+content/computer-science/comprehensive-guide-to-learn-computer-science-online.md:
+  390  
+  391: It's hard to write good software without understanding the software that your software runs on. Just like an understanding of CPU architecture, a good knowledge of how operating systems work will make you a valuable asset to any organization. Most developers only have a cursory knowledge of how <a href="https://www.boot.dev/courses/learn-linux">Linux</a> operates, and if you deploy on Linux like most of the world, your expertise will be well-rewarded.
+  392  
+
+  407  - Learn the basic Unix commands and become familiar with using advanced command-line
+  408: - Learn about the Linux kernel
+  409  
+
+content/computer-science/computer-science-books.md:
+  257  
+  258: It's not geared for beginners: you'll need access to a Linux system, and you should be familiar with C or C++.
+  259  
+
+content/computer-science/computer-science-for-beginners.md:
+  310  - [Learn to Code with Me](https://learntocodewith.me/podcast/) - Host Laurence Bradford aids aspiring techies and coders transitioning into the computer tech industry
+  311: - [Linux Action Show](https://www.jupiterbroadcasting.com/show/linuxactionshow/) - A weekly show that covers open-source and Linux news, reviews, and how-tos.
+  312  - [Packet Pushers](https://packetpushers.net/) - A networking and infrastructure engineering podcast by IT architects.
+
+  342  - [Freecodecamp.org](https://www.youtube.com/c/Freecodecamp) - Channel shares full courses on JavaScript, Python, HTML, CSS; even ethical data hacking
+  343: - [Joe Collins](https://www.youtube.com/user/BadEditPro/videos) - Want to know more about Linux? This channel covers that and more
+  344  - [Joe James](https://www.youtube.com/c/joejamesusa/about) - Learn math and programming with a focus on Python and Java.
+
+  349  - [Os First Timer](https://www.youtube.com/c/OsFirstTimer/about) - This channel shares extensive knowledge on different operating systems
+  350: - [Programming Knowledge](https://www.youtube.com/c/ProgrammingKnowledge/about) - Coding tutorials for Python, using Linux systems
+  351  - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh/videos) - Covers a wide range of programming languages such as Python, C#, and more in hour-long videos
+
+content/computer-science/computer-science-vs-software-engineering.md:
+   65  | ENGL 3010                                                                                       | Professional Writing and Business Ethics       |
+   66: | IT 1100                                                                                         | Introduction to Unix/Linux                     |
+   67  | MATH 1210                                                                                       | Calculus I (MA)                                |
+
+  200  
+  201: The main difference between a [computer science degree or certificate](/computer-science/guide-to-certificate-in-computer-science/) and a software engineering education is that computer science requires more high-level math and science classes, while the software engineering route includes more applied classes such as Unix/Linux and Web Design. If you can stick it out, most employers generally prefer a candidate with a computer science background, as software engineering principles can more easily be learned on the job.
+  202  
+
+content/computer-science/highest-paying-computer-science-jobs.md:
+  221  
+  222: Desktop developers write code for applications that run natively on a computer's operating systems like macOS, Windows, and Linux, and don't _necessarily_ require an internet connection. A desktop developer's responsibilities depend on the kind of apps the employer creates and the senior of the dev in question. Desktop and enterprise app developers prototype, build, implement, and maintain the source code behind apps like Microsoft Word, VS Code, Slack, Google Chrome, and over the operating systems themselves.
+  223  
+
+content/cryptography/what-is-entropy-in-cryptography.md:
+  36  
+  37: ### An example - How does the Linux kernel produce randomness for applications?
+  38  
+  39: A typical Linux machine can generate secure random numbers. Because Linux is conveniently open-source, I can provide you a link to [random.c](https://github.com/torvalds/linux/blob/a24d22b225ce158651378869a6b88105c4bdb887/drivers/char/random.c), a file responsible for randomness in the Linux kernel. By taking a look at the comments at the top of the file, we learn:
+  40  
+
+  54  
+  55: To sum up, random data is added to an entropy pool **constantly**. This randomness is based on "hard to predict" events within the machine. When a user desires randomness, a [hash](/cryptography/very-basic-intro-to-hash-functions-sha-256-md-5-etc/) is taken of the entropy pool and the result is supplied to the user. When we call any secure randomness function on a Linux machine, we are likely using this driver or one very similar to it.
+  56  
+
+  58  
+  59: A Linux machine that has sufficient entropy in its pool will usually contain `4096` bits of randomness. This is more than enough for several secure calculations to be performed. For perspective, a very strong private key typically contains `256` bits of entropy. If you want to see how much entropy your Linux machine currently has available, you can use the following command:
+  60  
+
+content/devops/devops-salary.md:
+  56  - Programming fundamentals, [ideally in Python](https://www.boot.dev/courses/learn-code-python), [Go](https://www.boot.dev/courses/learn-golang), and [JavaScript](https://www.boot.dev/courses/learn-javascript)
+  57: - Linux fundamentals
+  58  - Building, testing, deploying, and monitoring applications
+
+content/devops/devops-vs-devsecops.md:
+   82  | Scripting/programming                              | Scripting/programming                              |
+   83: | Linux/Unix admin skills                            | Linux/Unix administration                          |
+   84  | Communication, collaboration                       | Communication, collaboration                       |
+
+  142  - **Scripting and programming**: Understand how to write scripts and code to automate tasks and improve system efficiency. Python is a good language to know here.
+  143: - **Linux/Unix administration**: Understand how to manage and troubleshoot Linux/Unix-based systems.
+  144  - **Networking**: Strong understanding of networking concepts, including IP addresses, DNS, load balancing, and firewalls.
+
+content/devops/devops-vs-sre.md:
+   89  
+   90: In summary, DevOps need a strong knowledge of tools such as Jenkins, Ansible, and [Kubernetes](https://www.boot.dev/courses/learn-kubernetes), experience with programming languages such as Python and JavaScript, and an understanding of Agile methodologies and cloud computing. SREs require expertise with Linux/Unix, experience with programming languages such as Python, Go, and Shell scripting, and an understanding of distributed systems and network protocols.
+   91  
+
+  107  | Scripting/programming                              | Scripting/programming                              |
+  108: | Linux/Unix admin skills                            | Linux/Unix admin skills                            |
+  109  | Communication, collaboration                       | Communication, collaboration                       |
+
+  159  - Scripting and programming: Understand how to write scripts and code to automate tasks and improve system efficiency. Python is a good language to know here.
+  160: - Linux/Unix administration: Understand how to manage and troubleshoot Linux/Unix-based systems.
+  161  - Networking: Strong understanding of networking concepts, including IP addresses, DNS, load balancing, and firewalls.
+
+content/golang/become-golang-backend-dev.md:
+  160  
+  161: ### Linux
+  162  
+  163: <a href="https://www.boot.dev/courses/learn-linux">Linux</a> is one of the most popular operating systems for deploying backend systems and applications. You don't need to know it, but it certainly doesn't hurt.
+  164  
+  165: As a Go developer, you may find yourself using Linux as your development environment. Many Linux-based command-line tools are used in backend development, such as Git for version control, Docker for containerization, and Nginx for web server configuration.
+  166  
+
+content/golang/go-vs-c-sharp.md:
+  63  
+  64: Alternatively, C#'s performance stems from the .NET framework, which powers C#'s garbage collector and error handling. C# performs exceptionally well on windows machines where it's most optimized, buts still holds its own on Linux and Mac.
+  65  
+
+content/golang/golang-vs-java-go.md:
+  98  
+  99: Java boasts amazing platform independence. With the JVM it can run on <a href="https://www.boot.dev/courses/learn-linux">Linux</a>, Windows, and OSX and build amazing web applications, without compiling into binary _every single time_.
+  100  
+
+content/golang/golang-vs-python.md:
+  107  
+  108: Python definitely has longevity in its corner - it has been around for 30 years and has survived three crunchy and non compatible versions, it's outlasted many other obsolete languages, it's ranked on the top ten most popular languages since 2003, and it's carried on beyond the retirement of its [Benevolent Dictator for Life](https://www.linuxjournal.com/content/guido-van-rossum-stepping-down-role-pythons-benevolent-dictator-life) (AKA the founder, Guido) which happened in 2018. It's gaining new users at a rapid rate and shows no signs of slowing - in 2019, Pythonistas [outnumbered](https://www.zdnet.com/article/programming-languages-python-developers-now-outnumber-java-ones/) Java developers (who don't even have a cool and fun nickname as far as I'm aware) for the first time.
+  109  
+
+content/javascript/nodejs-vs-javascript.md:
+  38  
+  39: Node.js is an environment that can run JavaScript code without a browser. It is built on Chrome's V8 JavaScript engine. The Node.js environment can be run on OS X, Windows, and Linux. It also includes a multitude of JavaScript libraries, which allow developers to leverage open source components and tools to get their applications built faster.
+  40  
+
+content/javascript/php-vs-javascript.md:
+  90  
+  91: PHP is cross-platform compatible, so it works with Linux, Windows, and Mac, and it supports some amazing frameworks like Laravel, which is a virtual development environment making backend work easy and streamlined.
+  92  
+
+content/javascript/what-is-javascript-used-for.md:
+  38  
+  39: The Node.js environment can be run on OS X, Windows, and Linux. It also includes a bunch of Javascript libraries, which allow developers to leverage open source components and tools to get their applications built faster. Unlike other server-side platforms, like the Apache HTTP server, Node.js is a single-thread server. It is also, however, completely asynchronous. All of Node.js's associated libraries are also asynchronous. This takes away the headache of developing a thread-safe program, and you don't have to mess around with locks.
+  40  
+
+content/jobs/whats-the-job-outlook-for-computer-science-students.md:
+  66  
+  67: - <a href="https://www.boot.dev/courses/learn-linux">Linux</a> (operating system)
+  68  - PostgresSQL (database)
+
+content/misc/how-i-organize-my-local-development-environment.md:
+  59  
+  60: For the last few years, I've worked primarily on a Macbook Pro with the latest versions of Mac OS. Occasionally I'll use [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) & Ubuntu when I'm on my gaming PC though. The Windows Subsystem for Linux is a lifesaver, I can't stand the Windows command line.
+  61  
+  62: I almost always deploy using Docker on a Linux server (Debian typically), so my local environments of Mac OS and Ubuntu are usually pretty damn close to what's going on in production. I'm usually not writing code that interacts too heavily with the operating system anyhow.
+  63  
+
+content/misc/top-coding-languages-for-beginners.md:
+  60  
+  61: [Python](https://www.python.org/) is a joy to write, at least when you aren't fighting migrations between [Python 2 and Python 3](https://stackoverflow.blog/2019/11/14/why-is-the-migration-to-python-3-taking-so-long/). Python boasts simple syntax, is installed by default on most Linux machines, and has rich scientific and machine learning libraries and frameworks.
+  62  
+
+content/news/bootdev-beat-2023-06.md:
+  58  
+  59: ### [(Podcast) Cup o Go Interview with Lane](https://cupogo.dev/episodes/survey-says-i-use-linux-also-cons-proposals-releases-and-an-interview-with-lane-wagner)
+  60  
+
+content/news/bootdev-beat-2024-06.md:
+  51  - New Course: "Learn Git 2"
+  52: - New Course: "Linux System Administration" (this is a working title, we're still cooking...)
+  53  - Moving existing courses to the Boot.dev CLI
+
+content/news/bootdev-beat-2024-07.md:
+  50  - New Course: "Learn Memory Management in C"
+  51: - New Course: "Linux System Administration" (this is a working title, we're still cooking...)
+  52  - New Project: "Build an Asteroids Game"
+
+content/news/bootdev-beat-2024-08.md:
+  45  - New Course: "Learn Memory Management in C"
+  46: - New Course: "Linux System Administration" (this is a working title, we're still cooking...)
+  47  - New Project: "Build an Asteroids Game"
+
+content/news/bootdev-beat-2024-09.md:
+  58  - New Course: "Learn Memory Management in C"
+  59: - New Course: "Linux System Administration" (this is a working title, we're still cooking...)
+  60  - New Track Option: The second half of the backend development track in TypeScript
+
+content/news/learn-from-multiple-people.md:
+  12  
+  13: While I was working on my CS degree, I had very smart professors that disagreed vehemently on fundamental tooling and methodologies. For example, my advanced algorithms professor believed if you weren't using Linux and [Make](https://www.gnu.org/software/make/) to compile C++, you were too far gone to deserve help. On the contrary, my graphics professor built his C++ programs on Windows using Visual Studio's UI. I now have an opinion on the matter, but it was useful to me to be exposed to different approaches and their tradeoffs.
+  14  
+
+content/open-source/automatic-cross-platform-deployments-with-electron-on-a-ci-server-travis.md:
+  104  
+  105: # Always run two parallel builds: one on mac and one on linux
+  106: # the linux build will use wine to be able to build windows and
+  107: # linux apps
+  108  matrix:
+
+  117  
+  118:     - os: linux
+  119        dist: trusty
+
+  138      if [ "$TRAVIS_OS_NAME" == "osx" ]; then
+  139:       mkdir -p /tmp/git-lfs && curl -L https://github.com/github/git-lfs/releases/download/v2.3.1/git-lfs-$([ "$TRAVIS_OS_NAME" == "linux" ] && echo "linux" || echo "darwin")-amd64-2.3.1.tar.gz | tar -xz -C /tmp/git-lfs --strip-components 1
+  140        export PATH="/tmp/git-lfs:$PATH"
+
+  147    - |
+  148:     if [ "$TRAVIS_OS_NAME" == "linux" ]; then
+  149        docker run --rm \
+
+  186  else
+  187:     # deploy on windows and linux
+  188:     docker run --rm -e GH_TOKEN -v "${PWD}":/project -v ~/.cache/electron:/root/.cache/electron -v ~/.cache/electron-builder:/root/.cache/electron-builder electronuserland/builder:wine /bin/bash -c "yarn --link-duplicates --pure-lockfile && yarn release --linux AppImage --win"
+  189  fi
+
+content/python/learn-python-backend.md:
+  90  
+  91: ### Linux
+  92  
+  93: As you may already know, <a href="https://www.boot.dev/courses/learn-linux">Linux</a> is the most popular operating system for servers and cloud-based infrastructure.
+  94  
+  95: As a Python back-end developer, you should know how to operate in a <a href="https://www.boot.dev/courses/learn-linux">Linux</a> environment, which you'll almost certainly be working with. Do you know how the command line works? Can you work without a GUI?
+  96  
+
+content/python/python-versus-php.md:
+  39  
+  40: PHP is pretty great when it comes to getting it installed. It runs without issues on Windows, macOS, as well as Linux, and usually comes pre-installed on most web servers.
+  41  
+  42: Python, on the other hand, can require a bit more work. It comes pre-installed on Mac and Linux, but if that version is outdated, but you'll often need to install newer versions of Python, and maintaining multiple versions on one device can be tricky. Luckily, there's a cool tool called [pyenv](https://github.com/pyenv/pyenv) that was made just for managing multiple Python versions.
+  43  
+
+content/python/why-learn-python.md:
+  40  
+  41: Not only does it serve so many industries, but it's also incredibly versatile in how it works and adapts. You can seamlessly program in Python on Windows, Mac, or Linux, and you can even perform cross-language operations, for example, to call Java or C++ code.
+  42  
+
+content/stories/makefiles-to-improve-your-life.md:
+  59  
+  60: Make can handle separate install instructions for Windows and Mac/Linux when
+  61  selecting where to install it. `install` should typically support `PREFIX=`
+
+content/tutorials/build-blog-aggregator-golang-deprecated.md:
+   39  1. An editor. I use [VS code](https://code.visualstudio.com/), you can use whatever you like.
+   40: 2. A command line. I work on Mac OS/Linux, so instructions will be in Bash. I recommend [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install) if you're on Windows so you can still use Linux commands.
+   41  3. The latest [Go toolchain](https://golang.org/doc/install).
+
+  139  
+  140: **Linux / WSL (Debian). Here are the [docs from Microsoft](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-database#install-postgresql), but simply:**
+  141  
+
+  152  
+  153: 3. [ ] (Linux only) Update postgres password:
+  154  
+
+  163  - Mac: `brew services start postgresql`
+  164: - Linux: `sudo service postgresql start`
+  165  
+
+  170  - Mac: `psql postgres`
+  171: - Linux: `sudo -u postgres psql`
+  172  
+
+  196  
+  197: 8. [ ] Set the user password (Linux only)
+  198  
+
+  284  - Mac OS (no password, your username): `postgres://wagslane:@localhost:5432/blogator`
+  285: - Linux (password from last lesson, postgres user): `postgres://postgres:postgres@localhost:5432/blogator`
+  286  
+
+content/tutorials/learn-http-servers-golang-deprecated.md:
+  82  1. A code editor. I use [VS code](https://code.visualstudio.com/), but you can use whatever you're comfortable with.
+  83: 2. A command line. I work on Mac OS/Linux, so my instructions will be in Bash. I recommend [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install) if you're on Windows so you can still use Linux commands.
+  84  3. The [Go toolchain](https://golang.org/doc/install) with version `1.22+`.
