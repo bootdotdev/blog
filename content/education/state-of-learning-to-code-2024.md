@@ -67,7 +67,7 @@ By percentage, chapters 7, 8 and 9 have the biggest drop off rates, 11.5%, 10.5%
 
 ## How does Go compare to Python?
 
-Its important to understand that our Python course is an "intro to coding" course. It starts from zero. Our [Go course is "Go for developers"](https://www.boot.dev/courses/learn-golang) and assumes that you already understand coding concepts, and want to learn the Go-specific syntax and idioms. Most new learners on Boot.dev start in one of two places:
+It's important to understand that our Python course is an "intro to coding" course. It starts from zero. Our [Go course is "Go for developers"](https://www.boot.dev/courses/learn-golang) and assumes that you already understand coding concepts, and want to learn the Go-specific syntax and idioms. Most new learners on Boot.dev start in one of two places:
 
 1. Brand new coders in Python
 2. Experienced coders who just want to learn back-end development in Go
@@ -489,11 +489,11 @@ We've only been running this for a couple weeks (long enough to diagnose 229 tic
 
 ### Use case 2: Intentionally making content worse
 
-Alright that's a bit tongue in cheek, but... only a bit. I've tried many times to get AI to generate new lessons. I've given it our repository of lessons via fine-tuning, I've tried to shove examples of great human-written lessons in a context window, etc. But what I've gotten back is mostly slop (at least by our standards). Sure, it's usually correct, and it reads like correct English, but its just **so boring**. If you try to get the AI to use more creative language, it only does so superficially and cringily.
+Alright that's a bit tongue in cheek, but... only a bit. I've tried many times to get AI to generate new lessons. I've given it our repository of lessons via fine-tuning, I've tried to shove examples of great human-written lessons in a context window, etc. But what I've gotten back is mostly slop (at least by our standards). Sure, it's usually correct, and it reads like correct English, but it's just **so boring**. If you try to get the AI to use more creative language, it only does so superficially and cringily.
 
 So I've mostly given up on that for now - waiting for GPT 5 I guess.
 
-Anyhow, what it _is_ good at is reducing and reformatting. I'll spoil a new feature that we're working on here, called "spellbooks". Your spellbook is a UI feature easily accessibly via a keyboard command, that fuzzy searches through the "pages" you've unlocked. You unlock a spellbook page as you complete lessons. A spellbook page is just a condensed lesson: A short no-nonsense description of the concept, a few code examples, and links to documentation. The intention is:
+Anyhow, what it _is_ good at is reducing and reformatting. I'll spoil a new feature that we're working on here, called "spellbooks". Your spellbook is a UI feature easily accessible via a keyboard command, that fuzzy searches through the "pages" you've unlocked. You unlock a spellbook page as you complete lessons. A spellbook page is just a condensed lesson: A short no-nonsense description of the concept, a few code examples, and links to documentation. The intention is:
 
 1. You won't need to take notes
 2. You won't need to bookmark lessons
