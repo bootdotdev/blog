@@ -64,7 +64,7 @@ Back end developers on the other hand, focus more on what's on the opposite side
 
 Backend developers will also have to get cozy with other technologies that their backend systems interact with. Here's a short list of major examples:
 
-- Linux (operating system)
+- [Linux](https://www.boot.dev/courses/learn-linux) (operating system)
 - PostgresSQL (database)
 - Mongo DB (database)
 - ElasticSearch (database)

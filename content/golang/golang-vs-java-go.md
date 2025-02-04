@@ -96,7 +96,7 @@ Companies want applications and systems developed faster and more efficiently th
 
 Both Java and Go excel in back-end web development, but in different ways.
 
-Java boasts amazing platform independence. With the JVM it can run on Linux, Windows, and OSX and build amazing web applications, without compiling into binary _every single time_.
+Java boasts amazing platform independence. With the JVM it can run on [Linux](https://www.boot.dev/courses/learn-linux), Windows, and OSX and build amazing web applications, without compiling into binary _every single time_.
 
 It also has a large community that brings endless support, as well as tools and tech stacks that allow you to code complex servers in a stitch.
 

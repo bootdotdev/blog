@@ -23,7 +23,7 @@ I really believe those three key points, but there's *a lot* that goes into them
 ## How long it takes to learn to code depends on a few things
 
 1. Do you know how to navigate a command line interface?
-2. Are you familiar with Linux and Bash?
+2. Are you familiar with [Linux](https://www.boot.dev/courses/learn-linux) and Bash?
 3. Are you already "computer savvy"?
 4. Are you quick to pick up a new UI interface for apps that you use?
 5. Are you good at doing research and looking things up online?

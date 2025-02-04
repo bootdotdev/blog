@@ -90,9 +90,9 @@ Here are a few networking skills it's useful to know as a Python back-end develo
 
 ### Linux
 
-As you may already know, Linux is the most popular operating system for servers and cloud-based infrastructure.
+As you may already know, [Linux](https://www.boot.dev/courses/learn-linux) is the most popular operating system for servers and cloud-based infrastructure.
 
-As a Python back-end developer, you should know how to operate in a Linux environment, which you'll almost certainly be working with. Do you know how the command line works? Can you work without a GUI?
+As a Python back-end developer, you should know how to operate in a [Linux](https://www.boot.dev/courses/learn-linux) environment, which you'll almost certainly be working with. Do you know how the command line works? Can you work without a GUI?
 
 The answer to both of those questions should be "yes" before you pursue your path any further.
 
