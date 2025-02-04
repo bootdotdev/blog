@@ -160,7 +160,7 @@ It's similar but not the same as networking. APIs rely on network communication 
 
 ### Linux
 
-Linux is one of the most popular operating systems for deploying backend systems and applications. You don't need to know it, but it certainly doesn't hurt.
+[Linux](https://www.boot.dev/courses/learn-linux) is one of the most popular operating systems for deploying backend systems and applications. You don't need to know it, but it certainly doesn't hurt.
 
 As a Go developer, you may find yourself using Linux as your development environment. Many Linux-based command-line tools are used in backend development, such as Git for version control, Docker for containerization, and Nginx for web server configuration.
 

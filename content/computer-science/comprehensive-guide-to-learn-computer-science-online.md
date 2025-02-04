@@ -388,7 +388,7 @@ Distributed systems is the study of programs that can efficiently take advantage
 
 ### 5 - Operating Systems
 
-It's hard to write good software without understanding the software that your software runs on. Just like an understanding of CPU architecture, a good knowledge of how operating systems work will make you a valuable asset to any organization. Most developers only have a cursory knowledge of how Linux operates, and if you deploy on Linux like most of the world, your expertise will be well-rewarded.
+It's hard to write good software without understanding the software that your software runs on. Just like an understanding of CPU architecture, a good knowledge of how operating systems work will make you a valuable asset to any organization. Most developers only have a cursory knowledge of how [Linux](https://www.boot.dev/courses/learn-linux) operates, and if you deploy on Linux like most of the world, your expertise will be well-rewarded.
 
 ![Operating Systems](/img/800/img_5b68e80f77e33.png)
 
