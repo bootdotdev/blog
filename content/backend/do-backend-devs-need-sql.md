@@ -5,9 +5,9 @@ date: "2023-03-02"
 categories:
   - "backend"
 images:
-  - /img/800/giant-future-database.png.webp
+  - /img/800/ruinreborn_irises_looking_left_--ar_169_--v_6.1_67897c25-4c1a-408e-90c6-ee4e6fd8969a_3.png.webp
 imageAlts:
-  - "Midjourney prompt: giant futuristic database, 4k realistic detailed background"
+  - "A wizard can't decide between spellbooks."
 ---
 
 A while back, one of my friends bragged that he bagged a six-figure backend developer job after watching a few YouTube videos on APIs and reading parts a bit of the PostgreSQL documentation.

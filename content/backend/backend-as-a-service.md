@@ -5,9 +5,9 @@ date: "2022-12-05"
 categories:
   - "backend"
 images:
-  - /img/800/backend-as-a-service-scifi.png.webp
+  - /img/800/ruinreborn_remove_--ar_9151_--v_6.1_c4f1fc2e-5249-484a-9b60-7935d18172ed_3.png.webp
 imageAlts:
-  - "Stable Diffusion prompt for image: servers in space, sci fi, 4k, cinematic"
+  - "A fantasy ship at harbor"
 ---
 
 Plenty of people have heard of SaaS, or Software-as-a-Service, which is simply software made available by a third party over the internet. Think Salesforce, WordPress, or MailChimp. And most people know what a "[backend developer](/backend/become-backend-developer/)" is, that is, someone who is responsible for things building server-side systems like user authentication and data storage.

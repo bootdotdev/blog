@@ -6,7 +6,7 @@ categories:
   - "jobs"
   - "golang"
 images:
-  - /img/800/lane_gophers_in_a_job_interview_whisical_fantasy_setting_bb50879d-3834-4317-99bd-caab82f2daf0.png.webp
+  - /img/800/ruinreborn_blacksmith_--ar_169_--v_6.1_3f55aedb-3f07-4696-99b8-74512cb53033_2.png.webp
 ---
 
 Step 1: Learn Golang. Step 2: Apply for jobs. Step 3: Get accepted.
