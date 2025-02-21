@@ -7,6 +7,8 @@ categories:
   - "open-source"
 images:
   - /img/800/rabbit.webp
+aliases:
+  - /golang/connecting-to-rabbitmq-in-golang/
 ---
 
 So you might already know that the [amqp package](https://github.com/streadway/amqp) is awesome and you can get up and running with just 40-50 lines of simple code. Unfortunately, the bare-bones amqp library doesn't handle a lot of the stuff you probably wish it did, things like reconnecting logic, the spawning of threads, queue and binding boilerplate, and flow control.
