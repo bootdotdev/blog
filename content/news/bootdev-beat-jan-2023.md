@@ -30,7 +30,7 @@ We added 2 new chapters to the [Learn Data Structures](https://www.boot.dev/cour
 
 ### 3. Better gem store experience
 
-Last month we released an update to the game system that enables you to use gems to buy XP boosts, and to recover your sharpshooter progress if you lose it. While that was awesome, it wasn't obvious how to do it, so we've improved that experience. You can read about the [details of the game here](https://blog.boot.dev/wiki/the-game/).
+Last month we released an update to the game system that enables you to use gems to buy XP boosts, and to recover your sharpshooter progress if you lose it. While that was awesome, it wasn't obvious how to do it, so we've improved that experience.
 
 ## What we're working on now
 
