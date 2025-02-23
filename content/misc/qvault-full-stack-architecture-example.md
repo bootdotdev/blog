@@ -37,7 +37,7 @@ Here are some additional details on the technologies I'm using within the Vue ap
 
 ## The app's back-end - Golang server on Kubernetes
 
-The backend of the boot.dev app consists of two services, both written in [Golang](https://go.dev/), running on a [Kubernetes](https://kubernetes.io/) cluster in Google Cloud Platform on [auto-pilot mode](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview). One of them is an HTTP server that acts as the RESTful backend for the frontend. The other server powers the [Discord bot for our community](/news/roles-qvault-discord-server/).
+The backend of the boot.dev app consists of two services, both written in [Golang](https://go.dev/), running on a [Kubernetes](https://kubernetes.io/) cluster in Google Cloud Platform on [auto-pilot mode](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview). One of them is an HTTP server that acts as the RESTful backend for the frontend. The other server powers the [Discord bot for our community](https://www.boot.dev/community).
 
 I use Kubernetes so I don't have to worry about scalability or portability. If the app gets a big rush of traffic k8s will auto-scale the number of servers to handle the load. I also like that my server's applications are deployed on lightweight docker containers that I could easily move to another infrastructure technology if needs be.
 
