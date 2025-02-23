@@ -54,7 +54,7 @@ Depending on your goal, it's worth researching which language is easiest and has
 
 ## What Method Are You Using to Learn?
 
-While there probably are textbooks out there for any coding language you like, it's best to spend some time experimenting with different methods to see what works best for you. A [recent study from 2020 shows](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3654313) that gamification, a newer strategy for learning skills, can help drive motivation and engagement. For example, [boot.dev's gamified computer science learning platform](/news/qvaults-achievements-system/) uses achievements and gems to motivate students to not just start, but to achieve goals and complete courses.
+While there probably are textbooks out there for any coding language you like, it's best to spend some time experimenting with different methods to see what works best for you. A [recent study from 2020 shows](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3654313) that gamification, a newer strategy for learning skills, can help drive motivation and engagement. For example, [boot.dev's gamified coding education platform](https://www.boot.dev) uses achievements and gems to motivate students to not just start, but to achieve goals and complete courses.
 
 Coding is popular enough that free and paid resources exist for just about any language you may want to learn, no matter whether YouTube videos, courses, or textbooks are right for you.
 
