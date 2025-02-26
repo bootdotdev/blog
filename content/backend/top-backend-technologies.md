@@ -5,7 +5,7 @@ date: "2022-11-16"
 categories:
   - "backend"
 images:
-  - /img/800/technology.png.webp
+  - /img/800/ruinreborn_magical_knickknacks_--ar_169_--v_6.1_855eab9b-0d83-4f38-95e4-4812a60ad8a1_1.png.webp
 toc: true
 ---
 

@@ -5,7 +5,7 @@ date: "2023-01-06"
 categories:
   - "news"
 images:
-  - /img/800/beatdec.png.webp
+  - /img/800/Untitled design.png.webp
 imageAlts:
   - "Boot.dev Beat December 2022 Cover Image"
   - "https://fhur.me/posts/always-use-closed-open-intervals"
