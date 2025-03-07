@@ -16,7 +16,7 @@ Anticipatorily, Lane
 
 ## Patch notes
 
-### 1. New JavaScript Course
+### 1. [New JavaScript Course](https://www.boot.dev/courses/learn-javascript)
 
 ![Learn JavaScript Course](/img/800/jscourse.jpeg.webp)
 
@@ -71,7 +71,6 @@ _We haven't quite finished stripping out all the paywall logic, but it should be
 
 We publish _all_ of our explainer videos and course walkthroughs on our [YouTube channel](https://www.youtube.com/@bootdotdev?sub_confirmation=1) for _free_! We also just started season 2 of the [Backend Banter](https://www.backendbanter.fm) podcast:
 
-- [Does ADHD really make programming harder? ft. Chris Ferdinandi](https://www.youtube.com/watch?v=9ynX4znKFDA)
-- [Stop Worrying About AI feat. Danny Thompson](https://www.youtube.com/watch?v=Cc93qz4wPw4)
-- [Everyone is doing memory management wrong. feat. Ryan Fleury](https://www.youtube.com/watch?v=UeJPyuVxL-o)
-- [Is Elixir the Future? feat. José Valim](https://www.youtube.com/watch?v=yk9x3nX5MQo)
+- [Build skills, not degrees. ft. Madison Kanna | S02 E08](https://www.youtube.com/watch?v=5EpxZBtXT74)
+- [KRAZAM Unfiltered feat. Ben Burke | S02 E05](https://www.youtube.com/watch?v=kKW7a1oPIFY)
+- [Roll your own auth or you’re ngmi. ft. Dreams of Code | S02 E07](https://www.youtube.com/watch?v=1-w9HDOVIzQ)
