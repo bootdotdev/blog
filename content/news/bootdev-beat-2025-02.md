@@ -57,7 +57,7 @@ _We haven't quite finished stripping out all the paywall logic, but it should be
 ### 5. Miscellaneous improvements
 
 - The sidenav is gone! We've added all its functionality to the main topnav as well as the in-course menu
-- The [SQL course](https://www.boot.dev/courses/learn-sql) got a big UX update surrounding readonly test and up-migration files. The order in which the files run is also now more obvious.
+- The [SQL course](https://www.boot.dev/courses/learn-sql) got a big UX update surrounding read-only tests and up-migration files. The order in which the files run is also now more obvious.
 - More info modals have been added to explain game mechanics
 - You can now leave ratings and reviews on courses when you finish them, and the ratings are shown on the course landing pages
 
