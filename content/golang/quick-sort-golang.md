@@ -71,7 +71,7 @@ func quickSortStart(arr []int) []int {
 ## Example of using Quicksort in real code
 
 ```go
-fmt.Println(quickSortStart([]int{5, 6, 7, 2, 1, 0))
+fmt.Println(quickSortStart([]int{5, 6, 7, 2, 1, 0}))
 // prints
 // [0, 1, 2, 5, 6, 7]
 ```
