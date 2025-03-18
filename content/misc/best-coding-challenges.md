@@ -96,7 +96,7 @@ The downside is because they're so generic, there's no written solution or troub
 
 And then there are so many employers who are famous for their company coding challenges and interviews that they get their very own section.
 
-If you want to get a programming job at Google, you should look at Google's programming challenges. As of today, their [Kick Start coding challenge](https://codingcompetitions.withgoogle.com/) is still open for registration.
+If you want to get a programming job at Google, you should look at Google's programming challenges. As of today, their [Kick Start coding challenge](https://blog.google/technology/developers/join-kick-start-a-coding-competition-for-all-levels/) is still open for registration.
 
 IBM's [coding challenge](https://www.stratascratch.com/blog/amazon-data-scientist-interview-questions/) Call for Code is similar - it's a once-early program with awesome rewards like $200,000 for the winner. It's a huge challenge, asking participants to solve very real-world problems, but it's a great way to stretch.
 

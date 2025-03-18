@@ -131,7 +131,6 @@ Assembly is the native language of the processor, and writing a bit of it can he
 
 #### Resources
 
-- eBook: [Computer Organization and Design](https://ict.iitk.ac.in/wp-content/uploads/CS422-Computer-Architecture-ComputerOrganizationAndDesign5thEdition2014.pdf)
 - [Binary and Hexadecimal (Khan Academy)](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra#algebra-alternate-number-bases)
 - [Azeria Labs Writing Arm Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
@@ -181,7 +180,6 @@ Having a solid understanding of the math that makes computer science work will g
 #### Resources
 
 - [Khan Academy's Linear Algebra](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)
-- [Concrete Mathematics Book](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf)
 - [Discrete Mathematics - On Open Introduction](http://discrete.openmathbooks.org/pdfs/dmoi-tablet.pdf)
 - [Statistics 110: Probability (Stanford)](https://projects.iq.harvard.edu/stat110/home)
 
@@ -282,7 +280,6 @@ Computational theory, apart from pure math, is one of the most "pure" computer s
 
 #### Resources
 
-- eBook: Sipser's [Introduction to the Theory of Computation](https://notendur.hi.is/mae46/Haskolinn/5.%20misseri%20-%20Haust%202018/Formleg%20ma%CC%81l%20og%20reiknanleiki/Introduction%20to%20the%20theory%20of%20computation_third%20edition%20-%20Michael%20Sipser.pdf)
 - Dan Gusfield's [Lectures on YouTube](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
 - Online LaTeX Editor: [Overleaf](https://www.overleaf.com/)
 - [ADUni.org lectures and resources](http://aduni.org/courses/theory/index.php?view=cw)
@@ -377,7 +374,7 @@ Distributed systems is the study of programs that can efficiently take advantage
 
 - Boot.dev's [Learn Go course](https://www.boot.dev/courses/learn-golang)
 - [Dixie State's Chord Assignment](http://cit.dixie.edu/cs/3410/asst_chord.php)
-- [Google's BigTable Research Paper - Read and take notes!](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf)
+- [Google's BigTable Research Paper - Read and take notes!](https://research.google/pubs/bigtable-a-distributed-storage-system-for-structured-data/)
 - [Understanding Paxos](https://understandingpaxos.wordpress.com/)
 
 #### Goals
@@ -395,7 +392,6 @@ It's hard to write good software without understanding the software that your so
 #### Resources
 
 - [Dixie State's Sharks and Divers Exercise](http://cit.dixie.edu/cs/3400/asst_sharks.php)
-- eBook: [Operating System Concepts](https://github.com/rangaeeeee/books-os/blob/master/Operating%20System%20Concepts%20-%209th%20Edition.pdf)
 - Learn a systems language like Rust: [Tour of Rust](https://tourofrust.com/)
 
 #### Goals
