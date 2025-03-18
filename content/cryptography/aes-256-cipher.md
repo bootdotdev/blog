@@ -99,8 +99,6 @@ a5 5a 20 be
 
 ![mixcolumns in aes example](/img/800/1_RIsEo_r50T1595fhc7CKEw-1.png)
 
-[Common lounge](https://www.commonlounge.com/discussion/e32fdd267aaa4240a4464723bc74d0a5)
-
 8. The output of the multiplication is used as the input "message" in the next round of AES. It repeats each step 10 or more times in total, with one extra "add key" step at the end. Each round of "add key" will use a new round key, but each new round key is still derived from the same password and short key.
 
 - Add key

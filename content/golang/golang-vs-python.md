@@ -77,10 +77,6 @@ Machine Learning is one of those terms that encompasses a vast, vast range of po
 
 Python is certainly the most popular choice for coders who want to write a machine learning model.
 
-> Python leads the pack, with 57% of data scientists and machine learning developers using it and 33% prioritizing it for development.
->
-> [Christina Voskoglou of Developer Economics](https://towardsdatascience.com/what-is-the-best-programming-language-for-machine-learning-a745c156d6b7)
-
 Part of the reason Python is so popular for machine learning is that it's the home of TensorFlow, which is a deep learning framework released in Python. Where Go is good for its simple, easy-to-implement libraries and frameworks, Python's deep and rich history in complex, multitudinous frameworks is what makes it the best language for machine learning. TensorFlow is definitely chief among those libraries, but Keras and Scikit-learn are also notable libraries.
 
 It's worth noting that popularity isn't the same as quality. While Go [doesn't even rank on the top 10 languages for machine learning](https://github.blog/2019-01-24-the-state-of-the-octoverse-machine-learning/) in terms of popularity, [Websensa admitted in their post](https://websensa.com/en/2020/07/01/go-vs-python-which-one-is-better-for-machine-learning/) on which language is best that "Go is faster, more scalable, and performant so that it is perfect for large-scale projects. And that makes it one of the best choices to work on machine learning infrastructure." Perhaps in the future when debating between Golang vs Python, Go will be a machine learning coder's go-to.
