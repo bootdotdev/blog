@@ -105,7 +105,7 @@ All you need to know here is that object-oriented programming is a principle of 
 3. Add unique attributes and behaviors to the child classes to represent differences
 4. Create objects from the child class that represents dogs within that subgroup."
 
-**Where you can learn it**: At Boot.dev we have a [comprehensive, interactive OOP course in Python](https://www.boot.dev/courses/build-asteroids-python). If you like videos I also recommend [Corey Schafer's video series](https://coreyms.com/development/python/python-oop-tutorials-complete-series) on Python OOP. But the real best way is to build a project that has a lot of duplicate code and find ways where objects can help you simplify and reduce the code. (a lot of how to get a job as a Python programmer comes down to DIY.)
+**Where you can learn it**: At Boot.dev we have a [comprehensive, interactive OOP course in Python](https://www.boot.dev/courses/build-asteroids-python). If you like videos I also recommend [Corey Schafer's video series](https://www.youtube.com/user/schafer5) on Python OOP. But the real best way is to build a project that has a lot of duplicate code and find ways where objects can help you simplify and reduce the code. (a lot of how to get a job as a Python programmer comes down to DIY.)
 
 **Local dev environment**: This is an important step! Building a local dev environment will help you get more hands-on experience writing Python code. You'll need to choose and set up different packages, modules, and libraries.
 
@@ -203,7 +203,7 @@ Second, you can make your website itself a portfolio project. Python is great fo
 
 Third, it's good practice to write about what you do. Start interesting conversations, meet people, and show cool ways of doing new things. Talk about yourself and your interests. Websites are an awesome way to show you have what it takes to get a job as a Python programmer.
 
-The PyCoach wrote an awesome [tutorial](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-using-python-79531426fde5) on Towards Data Science about exactly how to do this using Python. He's also a great creator to follow if you're interested in how to get a job as a Python programmer.
+The PyCoach wrote an awesome [tutorial](https://medium.com/data-science/how-to-build-a-data-science-portfolio-website-using-python-79531426fde5) on Medium about exactly how to do this using Python. He's also a great creator to follow if you're interested in how to get a job as a Python programmer.
 
 If you don't want to create your website, you can use Medium, Dev.to, or HackerNoon to showcase your articles and work. I love what [Mahbub Zaman](https://medium.com/@lifeparticle) does \* he writes consistently great tutorials using a variety of languages and tech stacks, as well as writing about soft programming skills. His example is great to follow if you're looking for an accessible way to start.
 

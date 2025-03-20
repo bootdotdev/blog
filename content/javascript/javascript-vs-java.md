@@ -74,7 +74,7 @@ As you can see in the following benchmarks, Java fairly consistently performs be
 
 ![binary trees](/img/800/Screen-Shot-2020-01-13-at-8.51.55-AM.png)
 
-[source](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/javascript.html)
+[source](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html)
 
 What really slows JavaScript down is that it is interpreting code at runtime. At \*roughly\* each line of execution, the interpreter has to convert the JavaScript into machine code, a very slow process to be doing at runtime.
 

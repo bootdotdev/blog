@@ -50,7 +50,7 @@ But for experienced programmers, both languages are useful, with Python better f
 
 When it comes to performance, it's a bit of a double-edged sword.
 
-According to the [benchmark Python vs Java test](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python3-java.html), Java is undeniably faster. Java is statically typed, which means faster compilation, fewer errors, and better aim at targeted platforms. Moreover, Java has the Just-In-Time (JIT) compiler in tandem with the JVM, further improving speed.
+According to the [benchmark Python vs Java test](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html), Java is undeniably faster. Java is statically typed, which means faster compilation, fewer errors, and better aim at targeted platforms. Moreover, Java has the Just-In-Time (JIT) compiler in tandem with the JVM, further improving speed.
 
 Java's stable workflow also comes in handy with performance because the strict boundaries around writing and error handling make it predictable and strong, and able to manage performance even with heavy applications.
 

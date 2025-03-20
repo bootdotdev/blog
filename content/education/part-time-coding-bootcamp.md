@@ -72,7 +72,7 @@ Outside of boot.dev, sites like Pluralsight and Udemy have lots of relatively [a
 
 There are plenty of boot camps out there at a higher price point which do require you to meet synchronously with the program a few times a week.
 
-Codesmith has a 9-month [part-time remote program](https://www.codesmith.io/part-time-remote-software-engineering-immersive) which requires 20 hours committed per week. This program comes in at a higher price point, as it costs $20K. The part time coding bootcamp cost is usually a little higher than fulltime, but it also gives you more time to pay it, and lower monthly payments overall.
+Codesmith has a 9-month [part-time remote program](https://www.codesmith.io/immersive-program) which requires 20 hours committed per week. This program comes in at a higher price point, as it costs $20K. The part time coding bootcamp cost is usually a little higher than fulltime, but it also gives you more time to pay it, and lower monthly payments overall.
 
 There's a large variety of these kinds of programs. There may be a few which fit your schedule better in terms of which days of the week they meet on or whether it fits your budget.
 

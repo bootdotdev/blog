@@ -64,7 +64,7 @@ To keep this comparison fair, we're going to focus on comparing Ruby to JavaScri
 
 Comparing the performance of a backend language to a frontend language is like comparing fish to monkeys, and Node.js is what allows users to turn JavaScript into a backend language.
 
-Plus, more often than not, if someone in the real world is looking to compare the performance of these two languages, this is the aspect they'll be looking at. As seen in the popular benchmark games test, that already has a [Node.js vs Ruby](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/ruby-node.html) comparison. And as we can see from the results, Node.js beat Ruby every time.
+Plus, more often than not, if someone in the real world is looking to compare the performance of these two languages, this is the aspect they'll be looking at. As seen in the popular benchmark games test, that already has a [Node.js vs Ruby](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/node-ruby.html) comparison. And as we can see from the results, Node.js beat Ruby every time.
 
 There are a few reasons for this.
 

@@ -16,7 +16,7 @@ View our [full course curriculum here](https://github.com/bootdotdev/curriculum)
 
 ## What's Included?
 
-[Our first Track](https://github.com/bootdotdev/curriculum/blob/main/ALGOS_DS_TRACK.md), featuring our Python courses, starts with our Learn Python course for Python beginners without much previous experience. Then, you move through our Algorithms and Data Structures courses, finishing up with our Advanced Algorithms course.
+[Our first Track](https://github.com/bootdotdev/curriculum/tree/main), featuring our Python courses, starts with our Learn Python course for Python beginners without much previous experience. Then, you move through our Algorithms and Data Structures courses, finishing up with our Advanced Algorithms course.
 
 [Start the track now](https://www.boot.dev/)
 

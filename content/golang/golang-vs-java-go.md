@@ -110,7 +110,7 @@ You also don't have to worry about using 3rd party web servers or libraries as t
 
 ## Java vs Go: Which Is Better for Data Science?
 
-Java has brought some incredible tools to data science, like Hadoop, Hive, and Scala, and is a known [preferred development stack](https://towardsdatascience.com/top-programming-languages-for-data-science-in-2020-3425d756e2a7) for secure enterprise development. It's used for cleaning, exporting, importing, and visualizing data, as well as deep learning and analysis.
+Java has brought some incredible tools to data science, like Hadoop, Hive, and Scala, and is a known [preferred development stack](https://medium.com/data-science/top-programming-languages-for-data-science-in-2020-3425d756e2a7) for secure enterprise development. It's used for cleaning, exporting, importing, and visualizing data, as well as deep learning and analysis.
 
 And not to beat a dead horse, but if you've mastered Java, the ease of creating complex applications from scratch is unbeatable.
 

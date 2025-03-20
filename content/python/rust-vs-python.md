@@ -82,7 +82,7 @@ In the end, Rust's origin is founded on speed and stability, and it shows.
 
 Machine learning and Artificial Intelligence are arguably the "last frontier" of computer science, and needless to say, it's a fascinating time to get involved.
 
-Python is currently the [leading language in ML](https://towardsdatascience.com/what-is-the-best-programming-language-for-machine-learning-a745c156d6b7), with 57% of data scientists and machine learning developers using it, and 33% prioritizing it for development.
+Python is currently the [leading language in ML](https://medium.com/data-science/what-is-the-best-programming-language-for-machine-learning-a745c156d6b7), with 57% of data scientists and machine learning developers using it, and 33% prioritizing it for development.
 
 Its widespread adoption in the field can likely be attributed to Python's simplistic and consistent design. ML is largely experimental, and coding in a language with high readability makes experimenting not only easier but more enjoyable. Academics and researchers need to be able to read code, and Python is nothing if not human-readable.
 
