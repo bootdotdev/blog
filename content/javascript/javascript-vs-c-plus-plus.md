@@ -60,7 +60,7 @@ JavaScript has a loose programming style. If you mess up, there's some grace aro
 
 ### C++ Advantages
 
-But there are places where C++ excels compared to JavaScript. For one, once the code is compiled, C++ is much faster than JavaScript, often more than ten times faster. Once your C++ code has been compiled once, you're ready to rock and roll. [C++'s runtime is so much faster](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/node-gpp.html) because JavaScript still needs the interpreter to do loads of stuff before it's readable by the machine every single time it runs.
+But there are places where C++ excels compared to JavaScript. For one, once the code is compiled, C++ is much faster than JavaScript, often more than ten times faster. Once your C++ code has been compiled once, you're ready to rock and roll. C++'s runtime is so much faster because JavaScript still needs the interpreter to do loads of stuff before it's readable by the machine every single time it runs.
 
 C++ is more of a computational heavyweight as well. It's built to do some pretty chunky calculations. Lightweight can be good in some cases, but in other instances, you do want a language that can handle the hard stuff. This is what makes C++ (and its variants, like C and C#) so good at doing pretty much… anything. It can do these rapid-fire calculations that are necessary for gaming or landing the moon. In terms of C++ vs javascript performance, there's really no comparison.
 

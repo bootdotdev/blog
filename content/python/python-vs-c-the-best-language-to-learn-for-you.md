@@ -68,8 +68,6 @@ There's no point in skirting around the fact that Python is not a fast language,
 
 You can see here in this sample where Python and C++ are challenged to generate all the possible DNA K-mers. Python was able to generate [67 million 13-mers](https://towardsdatascience.com/how-fast-is-c-compared-to-python-978f18f474c7) in 61.23 seconds, but C++ generated them in a mere _2.42 seconds_, making it 25 times faster in this case.
 
-The same results are seen here in this [popular benchmark test](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/gpp-python3.html), where out of all 10 challenges C++ beat Python every time, often by a significant amount.
-
 Why is it so much slower? Well, for one, Python has a garbage collector. Garbage collectors are amazing for memory management, but it's a death sentence for performance time. Python's also interpreted, which takes longer than C++'s compilation, and it's dynamically typed, meaning a higher chance for errors at runtime.
 
 However, I don't believe performance is synonymous with speed, and where C++ is faster, Python handles bigger loads.

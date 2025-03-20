@@ -201,7 +201,7 @@ Nashua Community College costs $490 per credit if you're out of state, $323 per 
 
 The course runs for 18 weeks. You can expect to spend 1.5 hours per week on that instructor-led session, every Thursday. The course also asks you to spend 15-20 hours of your own time on assignments and course prep.
 
-If this is the best backend web development bootcamp for you, [here's the link](https://nashuacc.edu/career-training/individual-enrollment/back-end-coding-boot-camp/) to enroll.
+If this is the best backend web development bootcamp for you, [here's the link](https://nashuacc.edu/about/alumni/alumni-spotlight/nabu-back-end-coding-boot-camp-march-2021/) to enroll.
 
 ## 6. Technigo: Backend Development Upskill Bootcamp
 

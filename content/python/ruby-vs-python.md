@@ -93,7 +93,7 @@ The nice thing about both Ruby _and_ Python is that both have exceptional framew
 
 There are some philosophical differences between them. For example, I like Python specifically because there's really only one way to do things. If you like to be infinitely flexible, then I'd recommend Ruby for you.
 
-I found the [Ruby on Rails Doctrine](https://rubyonrails.org/doctrine/) really interesting to give a good perspective of who would find themselves more productive using Ruby versus Python. To get a good insight into who would be more productive using python, I loved this ancient (written in 2004, lol) almost prose poem called [The Zen of Python](https://www.python.org/dev/peps/pep-0020/).
+I found the [Ruby on Rails Doctrine](https://rubyonrails.org/doctrine) really interesting to give a good perspective of who would find themselves more productive using Ruby versus Python. To get a good insight into who would be more productive using python, I loved this ancient (written in 2004, lol) almost prose poem called [The Zen of Python](https://www.python.org/dev/peps/pep-0020/).
 
 Read both, decide which one you identify with more strongly, and there's your answer of which is more productive between Ruby and Python.
 

@@ -16,7 +16,7 @@ Universities and coding Bootcamps both suffer from a crippling cost of operation
 
 - Buildings and real estate. Their construction and ongoing maintenance.
 - Salaries of not just the professors, but the administrators, counselors, coaches, etc.
-- Overpriced textbooks. Students set aside [~$1,200/year](https://research.collegeboard.org/trends/college-pricing/figures-tables/average-estimated-undergraduate-budgets-sector-2019-20) just for books.
+- Overpriced textbooks. Students set aside [~$1,500/year](https://research.collegeboard.org/media/pdf/Trends-in-College-Pricing-and-Student-Aid-2024-ADA.pdf?) just for books.
 - Amenities that many students don't use. Tutoring centers, gyms, computer labs, libraries, pools, etc.
 
 The problem isn't just how _expensive_ college is, but how _inefficiently_ those funds are used. In the 2017-2018 school year, there were [4,298 colleges in the U.S](https://www.usnews.com/education/best-colleges/articles/2019-02-15/how-many-universities-are-in-the-us-and-why-that-number-is-changing). If we were to generously assume the number of Biology 101 professors to be only 2 per school, then there would be **17,192** nearly identical versions of _each_ Bio 101 lecture given _each_ year.

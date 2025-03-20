@@ -190,7 +190,7 @@ This kind of technology shifts with some regularity _ e.g., Spark and Hadoop use
 
 Maybe back-end development was once its own discipline. But in today's developer-poor job market, many jobs expect you to not just be a back-end developer, but also [have a hand in DevOps](/devops/backend-devops-roles-merging/), cloud engineering, and data engineering, among other disciplines.
 
-[This job](https://arc.dev/remote-jobs/details/go-developer-ft-freelance-worldwide-f9utu6q9g7), for example, also wants 2+ years of experience in database design. [This one](https://arc.dev/remote-jobs/j/mvi-group-gmbh-full-stack-developer-java-angular-ghw5adjhau) wants you to have comprehensive [knowledge of CI/CD](https://www.boot.dev/courses/learn-ci-cd-github-docker) solutions, which are typically in the DevOps field.
+[Remote jobs like these](https://arc.dev/remote-jobs), for example, also wants 2-5+ years of experience in database design. [This one](https://arc.dev/remote-jobs/j/mvi-group-gmbh-full-stack-developer-java-angular-ghw5adjhau) wants you to have comprehensive [knowledge of CI/CD](https://www.boot.dev/courses/learn-ci-cd-github-docker) solutions, which are typically in the DevOps field.
 
 You can't learn it all, but I recommend you dabble a bit in:
 
