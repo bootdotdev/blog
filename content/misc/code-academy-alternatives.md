@@ -80,7 +80,7 @@ The problem with anyone being able to upload a course is that sometimes you get 
 
 I also, personally, find that you need a huge amount of drive to get through the lessons. You can easily accumulate tons of courses, thinning you’re taking action towards your goal of getting a developer job, without ever taking the course and applying the knowledge
 
-![squirtle udemy meme](/img/800/squirtleudemymeme.png.web)
+![squirtle udemy meme](/img/800/squirtleudemymeme.png.webp)
 
 ## 3. Coursera / edX
 

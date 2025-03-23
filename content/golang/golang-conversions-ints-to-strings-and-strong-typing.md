@@ -37,8 +37,6 @@ In addition to strong typing being faster, strong typing allows the developer to
 
 ## Strong Typing Saves Memory
 
-![red floppy disk](https://i0.wp.com/boot.dev/wp-content/uploads/2020/03/photo-1533279443086-d1c19a186416.jpeg?fit=742%2C417&ssl=1)
-
 In one of our production apps, we were storing millions of **ints** in memory. Being on 64-bit machines, this means that we were storing 64 bits for each integer when in reality the integer stored was never greater than 10. By swapping out **ints** for **uint8s** we saved 80% of the memory that our application was using. The guy paying our cloud bill was quite happy about that.
 
 While changing int and float types can save memory, beware of these kinds of optimizations. A program can become quite hard to read if every other line is:
