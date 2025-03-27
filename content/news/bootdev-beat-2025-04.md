@@ -20,7 +20,7 @@ Lane
 
 ### 1. [New HTTP Protocol Course (build your own) is live](https://www.boot.dev/courses/learn-http-protocol-golang)
 
-![Learn HTTP Protocol course image](/img/800/jscourse.jpeg.webp)
+![Learn HTTP Protocol course image](/img/800/primehttpcourse.jpeg.webp)
 
 [ThePrimeagen](https://www.boot.dev/teachers/the-primeagen) has done it again, with a brand new course on the HTTP protocol... from scratch! In this advanced course, you'll start with a TCP socket and build your own HTTP server on top of it - parsing all the strings yourself! The chapters include:
 
