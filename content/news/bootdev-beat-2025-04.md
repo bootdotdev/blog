@@ -47,7 +47,6 @@ Before, the boss event would end and the boss screen would kinda just... go away
 ### 4. Miscellaneous improvements
 
 - Improved auto sync of the `/rule` command in the discord
-- New Boss end screen UI (much more satisfying than it just disappearing)
 - New lessons report a "still calibrating" difficulty so as to not confuse students
 - Streak reminders take frozen flames and embers into account properly
 - New danger, warning, and info callouts in the lesson UI
