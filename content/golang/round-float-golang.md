@@ -5,7 +5,7 @@ date: "2022-11-13"
 categories:
   - "golang"
 images:
-  - /img/800/round-thing.png.webp
+  - /img/800/ruinreborn_A_breathtaking_top-down_view_of_an_ancient_Mayan_c_12de6fed-8ce2-4477-8de8-916f9f78f5cd_2.png.webp
 imageAlts:
   - "Generated with Stable Diffusion. Prompt: 'large round thing, dark, 4k, fantasy'"
 ---
