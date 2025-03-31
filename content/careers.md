@@ -13,19 +13,33 @@ If you're curious about what its like to work with us, check out our [public han
 
 ## Open positions
 
-### Business Development & Sales
+### Video Editor/Animator
 
-- **Location**: Remote (US Timezones Preferred)
+- **Location**: Remote (any 'ol place)
 - **Salary**: DOE
-- **Healthcare**: Yes if in the US
+- **Healthcare**: Yes, _if_ in the US, otherwise, pay is adjusted accordingly
 - **PTO**: Unlimited
-- **Equity**: Yes, in the form of 4-year vesting stock options
 - **Years of experience**: 2-5+
-- **Type**: 12 week contract to hire (benefits and equity post-contract)
+- **Type**: 12 week contract to hire, then full time
 
-We are looking for our first dedicated business development/sales hire to help us expand our reach beyond the direct-to-consumer market and continue exponentially growing Boot dev. You will be expected to help develop, test, implement and maintain programs selling our product to schools, boot camps, corporate training departments and similar organizations. You will also be expected to develop relationships with companies and organizations that allow us to market our services to their customers, members and employees. While you do not need to be a programmer, the ideal candidate will have some experience with coding and online learning platforms, and be familiar with the edtech and corporate training industries.
+We are looking for our 3rd video editor/animator to join the Boot.dev team! Your job will be to _primarily_ edit and animate educational explainer videos for our YouTube channel and courses. Here are some examples:
 
-We need a highly motivated and outgoing personality who shares our drive to eliminate boredom and make e-learning fun.
+- https://storage.googleapis.com/qvault-webapp-dynamic-assets/lesson_videos/git-merge.mp4
+- https://storage.googleapis.com/qvault-webapp-dynamic-assets/lesson_videos/File-Servers-vs-JSON-API.mp4
+
+You will be given:
+
+- The raw greenscreen talking head footage
+- A script with notes about high-level ideas for what visuals to add
+- A link to the lesson the explainer is based on
+
+Your job will be to:
+
+- Edit the video
+- Add animations and visuals to help explain the concepts
+- Add sound effects and music
+
+This job not only requires solid editing and animation skills, but also a basic understanding of programming and a _strong willingness to learn about code_. While this is the primary job, you'll also help edit longer form videos like course walkthroughs, short form vertical content, and video ads.
 
 **How to apply:**
 
@@ -33,13 +47,5 @@ Send an email to `lane at boot .dev` with:
 
 - Your resume
 - A personal note about why you're a good fit
-
-**How to apply:**
-
-Send an email to `lane at boot .dev` with:
-
-- Your resume
-- A link to a YouTube video you really like (that's similar to our channel) with your analysis of what you like/dislike and what you would do differently
-- Links to your own work
-- A personal note about why you're a good fit
-- If you want to go above and beyond, try your hand at redoing one of our videos on the channel - see if you can do it better!
+- Links to your own work (the more similar to what we do, the better)
+- If you want to go above and beyond, try your hand at animating a small clip one of our explainer videos on our YouTube channel - see if you can do it better!
