@@ -5,7 +5,7 @@ date: "2022-08-05"
 categories: 
   - "jobs"
 images:
-  - /img/800/hunt.avif.webp
+  - /img/800/ruinreborn_ranger_fantasy_ranger_ranger_hiding_in_bushes_fant_6434583e-bfee-42cd-a9f1-e20f0d0f843e_0.png.webp
 ---
 
 With so many job boards out there, it can be terribly confusing to know where to start when you're looking for a programming job - especially if you're looking for your *first* programming job. I've found that where you search for jobs is just as important as other key preparation steps you should take in your job search, like building a [great resume](/computer-science/computer-science-resumes/) and [GitHub profile](/jobs/build-github-profile/).

@@ -5,7 +5,7 @@ date: "2022-08-16"
 categories:
   - "computer-science"
 images:
-  - /img/800/futureofcs.webp.webp
+  - /img/800/ruinreborn_magical_technology_airship_magical_airship_fantasy_194c740d-1f46-4c72-b438-7c35a3d9e1c3_2.png.webp
 ---
 
 In a word, the future of computer science is **promising**.

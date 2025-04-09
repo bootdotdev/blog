@@ -5,7 +5,7 @@ date: "2022-09-13"
 categories:
   - "news"
 images:
-  - /img/800/sinitta.webp
+  - /img/800/ruinreborn_council_of_wise_sages_sitting_in_a_circle_council__f153dfee-2f12-4e04-a251-e2d01d62e1d4_3.png.webp
 ---
 
 Vim or VS Code? Tabs or spaces? Rails or Django? The world of programming is fraught with decisions to be made. Sometimes experienced developers are able to share their beliefs in a somewhat objective way. That said, we're all human, and opinions can come across as gospel when we're not careful.

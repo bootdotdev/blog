@@ -6,7 +6,7 @@ categories:
   - "devops"
   - "backend"
 images:
-  - /img/800/FusionDanceFinaleGotenTrunksBuuSaga.webp.webp
+  - /img/800/ruinreborn_clay_golem_two_clay_golems_merging_simple_style_an_f51efe7f-8b12-4c5c-9536-4db4d9e9f7e6_2.png.webp
 ---
 
 ## It's time for some speculation on my part

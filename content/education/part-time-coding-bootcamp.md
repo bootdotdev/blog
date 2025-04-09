@@ -5,7 +5,7 @@ date: "2022-07-12"
 categories:
   - "education"
 images:
-  - /img/800/pexels-photo-3785612.jpeg.webp
+  - /img/800/ruinreborn_hand_--ar_169_--v_6.1_239b40be-1945-4ac7-9f65-98b3e7aaa315_1.png.webp
 ---
 
 ## Step 1: Develop a caffeine addiction.

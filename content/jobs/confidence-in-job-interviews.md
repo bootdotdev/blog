@@ -5,7 +5,7 @@ date: "2022-09-20"
 categories:
   - "jobs"
 images:
-  - /img/800/photo-1615564553104-47a08bbf1a0f.avif.webp
+  - /img/800/ruinreborn_fantasy_hero_fantasy_hero_pose_fantasy_hero_posing_1530d32a-90ec-4b98-ad7d-d486a0e8d441_1.png.webp
 ---
 
 I think we often do a great job of flogging the dead horse of whiteboarding problems when giving coding interview advice. Heck, that's what I've dedicated the entirety of [Boot.dev](https://www.boot.dev) to. While the _hard_ skills you'll need to be able to solve technical interview problems are necessary, it's also critically important to work on your _soft_ skills.

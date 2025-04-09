@@ -5,7 +5,7 @@ date: "2022-02-05"
 categories:
   - "javascript"
 images:
-  - /img/800/pexels-pixabay-261895-2048x1356.webp
+  - /img/800/ruinreborn_golden_pocket_watch_fantasy_art_fantasy_style_simp_15a5c904-a129-42fc-9f36-4dd795260eba_1.png.webp
 ---
 
 A good programming language is one that newcomers can learn fast. This is one of the reasons why JavaScript is so popular – it's possible to learn Javascript quickly and with minimum fuss.

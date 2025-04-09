@@ -6,7 +6,7 @@ categories:
   - "computer-science"
   - "jobs"
 images:
-  - /img/800/coding-with-coffee-min.jpeg
+  - /img/800/ruinreborn_fantasy_artificer_fantasy_art_anime_style_simple_s_d7c46a3b-8770-4605-87d8-db5c3d8539ce_3.png.webp
 ---
 
 At work, computer scientists build and deploy programs, algorithms, and systems to solve real-world problems. In most tech jobs, they spend the majority of their time working in teams on new software products. Some computer scientists are more research-oriented however, and may spend time developing new algorithms or pushing the boundaries of what academia knows about certain CS questions.

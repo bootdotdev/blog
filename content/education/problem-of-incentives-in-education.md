@@ -5,7 +5,7 @@ date: "2022-05-10"
 categories: 
   - "education"
 images:
-  - /img/800/cellular-education-classroom-159844.webp.webp
+  - /img/800/ruinreborn_kung_fu_master_teaching_apprentices_multiple_appre_52596b5a-05ca-4093-a7c1-04b2f3304002_0.png.webp
 ---
 
 I've found that almost anyone I talk to agrees with the statement:

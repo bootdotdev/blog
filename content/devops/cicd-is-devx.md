@@ -6,7 +6,7 @@ categories:
   - "devops"
   - "backend"
 images:
-  - /img/800/8020.avif.webp
+  - /img/800/ruinreborn_fantasy_art_fantasy_dwarf_fantasy_dwarf_working_in_1d0c16eb-542e-421f-b95b-fc7841104146_2.png.webp
 ---
 
 DevOps principles, and CI/CD specifically, are generally presented as a more efficient way to run a software development organization. While I hold the belief that CI/CD _is_ more efficient and effective than manually testing and deploying code, I'd like to talk about something we don't bring up quite as often.

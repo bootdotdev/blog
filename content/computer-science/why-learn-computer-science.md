@@ -5,7 +5,7 @@ date: "2022-05-10"
 categories:
   - "computer-science"
 images:
-  - /img/800/pexels-photo-1181332.webp.webp
+  - /img/800/ruinreborn_fantasy_art_fantasy_dwarf_fantasy_dwarf_working_in_1d0c16eb-542e-421f-b95b-fc7841104146_3.png.webp
 ---
 
 Is it a bit dramatic, perhaps, to say that the fate of the world rests on computer science and that's why you should [learn computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/)?

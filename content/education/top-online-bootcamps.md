@@ -5,7 +5,7 @@ date: "2022-05-21"
 categories:
   - "education"
 images:
-  - /img/800/pexels-photo-1181359.webp.webp
+  - /img/800/ruinreborn_fantasy_academy_fantasy_school_fantasy_style_fanta_b4a49e9a-e3cd-4b6f-a3c7-006904f80a64_2.png.webp
 ---
 
 ## I looked at the cost, duration, structure, and USP for each online coding bootcamp

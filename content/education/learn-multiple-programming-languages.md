@@ -5,7 +5,7 @@ date: "2022-06-13"
 categories: 
   - "education"
 images:
-  - /img/800/photo-1533709475520-a0745bba78bf.avif.webp
+  - /img/800/ruinreborn_fantasy_art_of_a_forked_road_forked_road_fantasy_a_1333dfc7-8d50-4e4b-a1b7-f23f70518345_3.png.webp
 ---
 
 I've been building [Boot.dev](https://www.boot.dev) as a side-project for the last couple of years, and have recently had many new students ask the same question:

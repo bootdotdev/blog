@@ -5,7 +5,7 @@ date: "2022-06-24"
 categories:
   - "python"
 images:
-  - /img/800/photo-1598618589929-b1433d05cfc6.avif.webp
+  - /img/800/ruinreborn_library_fantasy_library_simple_style_fantasy_style_4824e385-8dbc-4260-8fed-8fabb8085a5f_2.png.webp
 ---
 
 While it's straightforward to get _Hello World_ implemented in Python, learning the ins and outs of the programming language takes a lot of time and effort.

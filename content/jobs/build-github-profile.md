@@ -5,7 +5,7 @@ date: "2022-03-04"
 categories: 
   - "jobs"
 images:
-  - /img/800/github.webp
+  - /img/800/ruinreborn_sleeping_cat_black_sleeping_cat_fantasy_art_fantas_73749e28-12df-478f-b463-8b2df0b18608_2.png.webp
 ---
 
 I've reviewed a lot of resumes, both as an engineering manager and in the monthly resume workshops we do in the [Boot.dev Discord group](https://discord.gg/EEkFwbv). I'm convinced that these days a developer's GitHub profile is just as important as their resume itself. If you haven't started your first job yet, this advice is doubly important. Anyone looking to hire an entry-level developer is going to be diving into your public GitHub presence looking to get an idea for where your skill level is at.
