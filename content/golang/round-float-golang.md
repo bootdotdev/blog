@@ -5,9 +5,9 @@ date: "2022-11-13"
 categories:
   - "golang"
 images:
-  - /img/800/round-thing.png.webp
+  - /img/800/ruinreborn_giant_fantasy_zeppelin_art_--ar_169_--stylize_0_--_216c6852-a369-483d-b411-3c45df9b375c_3.png.webp
 imageAlts:
-  - "Generated with Stable Diffusion. Prompt: 'large round thing, dark, 4k, fantasy'"
+  -
 ---
 
 If you're rounding a floating point number in Go, it's most likely you want to format it in a string. Use the built-in [fmt.Sprintf()](https://pkg.go.dev/fmt#example-Sprintf) function.

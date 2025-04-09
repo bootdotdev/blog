@@ -5,7 +5,7 @@ date: "2022-10-13"
 categories:
   - "backend"
 images:
-  - /img/800/scales.jpg.webp
+  - /img/800/ruinreborn_fantasy_art_of_a_forked_road_forked_road_fantasy_a_389af8f8-3eb2-436d-900b-5ff92e26f084_1.png.webp
 ---
 
 So you want to get into web development, and you keep hearing about "front-end" and "back-end" positions. The question is, _which should you learn first_? As someone who's held both front-end and back-end positions, and even been a hiring manager, read on and I'll give you my thoughts.

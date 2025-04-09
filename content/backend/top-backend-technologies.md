@@ -5,7 +5,7 @@ date: "2022-11-16"
 categories:
   - "backend"
 images:
-  - /img/800/technology.png.webp
+  - /img/800/ruinreborn_A_vibrant_fantasy_scene_depicting_a_futuristic_sch_ad1e3d58-0b18-4bfd-9d69-68a58922c372_1.png.webp
 toc: true
 ---
 

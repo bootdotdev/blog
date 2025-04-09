@@ -5,7 +5,7 @@ date: "2022-11-13"
 categories:
   - "jobs"
 images:
-  - /img/800/library.png.webp
+  - /img/800/ruinreborn_fantasy_library_art_simple_--ar_169_--stylize_0_--_557561a1-fa48-4cbb-a463-af54a64596fa_0.png.webp
 ---
 
 Building a job-ready portfolio of coding projects doesn't happen overnight, but if you're like most self-taught developers, you've likely built up a nice collection of todo apps, calculators, and other toy programs. Here's the thing, applications for end-users are great, but I'm here to convince you that adding a _library_ to your portfolio will make you _much_ more hireable.
