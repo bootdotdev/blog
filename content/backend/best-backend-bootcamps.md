@@ -5,7 +5,7 @@ date: "2022-10-11"
 categories:
   - "backend"
 images:
-  - /img/800/soldiers-in-camo.webp
+  - /img/800/ruinreborn_fantasy_art_soldiers_training_studio_ghibli_style__195729c4-64df-46e9-9f09-51d7f09ce332_0.png.webp
 ---
 
 So you're looking for the very best backend bootcamp of 2022. You're not alone – most [backend engineers](https://blog.boot.dev/backend/backend-engineer-vs-data-engineer/#what-is-a-backend-engineer) [earn over six figures](https://www.glassdoor.com/Salaries/backend-engineer-salary-SRCH_KO0,16.htm) according to Glassdoor, plus they have wide and varied job prospects. It's a good gig.

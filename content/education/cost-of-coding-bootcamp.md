@@ -5,7 +5,7 @@ date: "2022-05-24"
 categories:
   - "education"
 images:
-  - /img/800/cost.avif.webp
+  - /img/800/ruinreborn_fantasy_art_purse_cut_cut_purse_cut_purse_spilling_9dcca4df-6edc-4b03-9b3e-251ef87b898b_0.png.webp
 ---
 
 ## And an answer to what you're really asking: "are coding bootcamps worth it?"

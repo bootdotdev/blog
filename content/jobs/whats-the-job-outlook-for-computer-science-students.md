@@ -6,7 +6,7 @@ categories:
   - "computer-science"
   - "jobs"
 images:
-  - /img/800/man-at-laptop-in-conference.avif.webp
+  - /img/800/ruinreborn_wizard_choosing_between_three_different_colored_gl_365b6487-4e98-49c9-a9f1-63adcdd7643d_1.png.webp
 ---
 
 The future is bright for career options in computer science with remote work opening up doors that weren't present before. Trying to navigate through computer science career options can be overwhelming what with all the options at your disposal. While we won't go through _every_ job option in the field today, we have a list of common yet crucial jobs to help you get started on finding the career that's right for you. But first...

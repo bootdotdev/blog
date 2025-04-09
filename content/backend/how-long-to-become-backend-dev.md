@@ -7,7 +7,7 @@ categories:
   - "jobs"
   - "education"
 images:
-  - /img/800/rodolfo-barreto-ACB5nvhnm6c-unsplash.jpg.webp
+  - /img/800/ruinreborn_clocktower_fantasy_clocktower_simple_style_anime_s_423db436-3375-42a5-845a-edfc0b15e1a8_3.png.webp
 ---
 
 I get really frustrated when I see people and companies online selling unrealistic dreams when it comes to coding education. It's quite lucrative when you're in the edtech industry to heavily exaggerate (or even lie) about how long it will take for learners to get job-ready. I teach backend development skills at [Boot.dev](https://www.boot.dev) and try my best to give students realistic goals they can reach for.

@@ -5,7 +5,7 @@ date: "2022-05-20"
 categories: 
   - "misc"
 images:
-  - /img/800/help.avif.webp
+  - /img/800/ruinreborn_beggar_fantasy_art_fantasy_style_simple_style_anim_86f919cb-7b1c-4844-beff-5198b5d37a26_2.png.webp
 ---
 
 I've spent an unhealthy amount of time online over the course of my life, and in the last couple years I've been managing a [Discord server](https://discord.gg/EEkFwbv) for people who are [learning computer science](https://www.boot.dev/). Like all online communities, we have ban, kick, and moderation policies so that we're not overrun with spammers and other non-contributors. However, I'm not perfect, and I have realized recently that we get a decent number of members who at first glance seemed like a spammer, but it turns out they just have *no idea* how to communicate online in a way that's useful to themselves and others.

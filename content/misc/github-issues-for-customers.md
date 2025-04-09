@@ -5,7 +5,7 @@ date: "2022-07-31"
 categories:
   - "misc"
 images:
-  - /img/800/github-cat-and-groot.avif.webp
+  - /img/800/ruinreborn_wizard_choosing_between_three_different_colored_gl_365b6487-4e98-49c9-a9f1-63adcdd7643d_3.png.webp
 ---
 
 Boot.dev has been my side-project for the last couple of years now. Being a [learning path for backend developers](https://www.boot.dev) focused on quality over quantity, I knew early on that it needed to have a _really tight_ feedback loop from students. We had (and still have) a [Discord server](https://discord.gg/EEkFwbv) where myself and the students hang out, and that worked okay at first. Unfortunately, Discord channels have a couple problems when it comes to issue tracking:

@@ -6,7 +6,7 @@ categories:
   - "devops"
   - "backend"
 images:
-  - /img/800/photo-1602992708529-c9fdb12905c9.avif.webp
+  - /img/800/ruinreborn_fantasy_orc_confused_scratching_head_simple_style__76f4ccd2-e8eb-4e23-a295-8b03a2d4ed39_3.png.webp
 ---
 
 "DevOps" is one of the most misunderstood terms in the software development industry. To be clear, I'm not the arbiter of truth when it comes to the definitions of words. That said, I'm here to say two things:

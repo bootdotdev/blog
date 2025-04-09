@@ -5,7 +5,7 @@ date: "2022-09-21"
 categories:
   - "backend"
 images:
-  - /img/800/pexels-photo-1181345.webp.webp
+  - /img/800/ruinreborn_wizard_duel_fantasy_wizard_duel_simple_style_fanta_6d1a3dea-95cc-4bd7-acf7-8354237685da_1.png.webp
 ---
 
 The sexiest job title of the decade, data scientist, has spawned about a dozen equally sexy but somewhat confusing and overlapping job titles. The primary offshoot of a data scientist is a _data engineer_. Let's talk about the difference between a data engineer and a back-end engineer, because frankly, the lines can get quite blurred.

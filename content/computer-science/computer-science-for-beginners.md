@@ -5,7 +5,7 @@ date: "2022-08-21"
 categories:
   - "computer-science"
 images:
-  - /img/800/pexels-photo-2422293.webp.webp
+  - /img/800/ruinreborn_kung_fu_master_teaching_apprentices_multiple_appre_52596b5a-05ca-4093-a7c1-04b2f3304002_2.png.webp
 lastmod: "2024-10-31"
 ---
 

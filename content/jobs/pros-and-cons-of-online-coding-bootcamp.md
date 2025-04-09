@@ -5,7 +5,7 @@ date: "2022-07-18"
 categories:
   - "education"
 images:
-  - /img/800/pexels-photo-1467277.webp.webp
+  - /img/800/ruinreborn_thief_walking_across_rope_thief_doing_second_story_eb0dcfb7-0a8d-4831-a282-650e369874e2_2.png.webp
 ---
 
 If you want to [learn to code](https://www.boot.dev), there are many strategies to get your coding skills from non-existent to employable. Some folks might go back to university and get a formal [education in computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/). Others prefer to teach themselves. And of course, you can always choose to put yourself through coding bootcamp.

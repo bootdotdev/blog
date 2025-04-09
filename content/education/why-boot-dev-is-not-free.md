@@ -5,7 +5,7 @@ date: "2022-08-15"
 categories:
   - "education"
 images:
-  - /img/800/money-free.avif.webp
+  - /img/800/ruinreborn_fantasy_art_purse_cut_cut_purse_cut_purse_spilling_7863ce44-bff3-474e-abd8-3dd6579172d0_1.png.webp
 lastmod: "2023-12-07"
 ---
 

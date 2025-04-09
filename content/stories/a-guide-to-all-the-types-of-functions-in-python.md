@@ -3,7 +3,7 @@ title: "All the Kinds of Functions in Python"
 author: eteims
 date: "2022-10-13"
 images:
-  - /img/800/luca-bravo-XJXWbfSo2f0-unsplash.webp.webp
+  - /img/800/ruinreborn_magical_rune_rune_carved_on_stone_fantasy_art_simp_c96b2dca-cbe3-44a7-9cd4-f2499ac36519_3.png.webp
 categories:
   - "python"
 ---
