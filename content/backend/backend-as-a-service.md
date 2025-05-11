@@ -85,7 +85,7 @@ If you have any functional requirements that extend out of the provided function
 
 Trying to customize using tools that were not meant for customization is an exhausting and frustrating challenge. If you've ever fought with Microsoft Word's formatting for a few minutes, you'll know. Overcoming that challenge with an entire backend system is significantly more difficult.
 
-If your requirements shift from a cookie-cutter backend, **your best bet is to [learn to develop your backend](https://www.boot.dev/tracks/backend)**. A lot of traditional backend elements are similar, and it's easy to find tutorials online for how to implement basic elements, like how to [enable user authentication](https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login) for a Python Flask app.
+If your requirements shift from a cookie-cutter backend, **your best bet is to [learn to develop your backend](https://www.boot.dev/tracks/backend-python-golang)**. A lot of traditional backend elements are similar, and it's easy to find tutorials online for how to implement basic elements, like how to [enable user authentication](https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login) for a Python Flask app.
 
 If you're already implementing the front end, then you know how to code. Backend development is a great skill set to add to your toolbox. If you want to be a back-end developer, or need custom work that a BAAS can't handle out-of-the-box, you can learn back-end development through coding programs like those of [Boot.dev](https://www.boot.dev/).
 

@@ -45,7 +45,7 @@ Each time you solve a new problem, or the same problem in a new way, you add fla
 
 ## Moving forward, not sideways
 
-Now, while I encourage you to embrace deviations, it's crucial not to lose sight of your core learning path (If you're a Boot.dev student, it's probably this [backend learning path](https://www.boot.dev/tracks/backend)).
+Now, while I encourage you to embrace deviations, it's crucial not to lose sight of your core learning path (If you're a Boot.dev student, it's probably this [backend learning path](https://www.boot.dev/tracks/backend-python-golang)).
 
 You don't want to end up in tutorial hell.
 

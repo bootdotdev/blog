@@ -62,7 +62,7 @@ Remember: your tech stack choice should align with your personal interests and c
 
 ## Don't be afraid to learn technologies that you won't use at work
 
-To become a well-rounded developer, there are a slew of _concepts_ that are important to learn. When designing the [learning path on Boot.dev](https://www.boot.dev/tracks/backend), I'm not only interested in teaching students a cluster of technologies, I'm focused on getting those concepts to stick. As it turns out, some languages and frameworks are better at teaching certain concepts than others.
+To become a well-rounded developer, there are a slew of _concepts_ that are important to learn. When designing the [learning path on Boot.dev](https://www.boot.dev/tracks/backend-python-golang), I'm not only interested in teaching students a cluster of technologies, I'm focused on getting those concepts to stick. As it turns out, some languages and frameworks are better at teaching certain concepts than others.
 
 For example, if you're working to become a back-end developer, here are some of the important concepts:
 

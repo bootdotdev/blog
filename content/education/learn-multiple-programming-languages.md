@@ -2,7 +2,7 @@
 title: "Why We Force You to Learn Multiple Programming Languages"
 author: lane
 date: "2022-06-13"
-categories: 
+categories:
   - "education"
 images:
   - /img/800/ruinreborn_fantasy_art_of_a_forked_road_forked_road_fantasy_a_1333dfc7-8d50-4e4b-a1b7-f23f70518345_3.png.webp
@@ -12,7 +12,7 @@ I've been building [Boot.dev](https://www.boot.dev) as a side-project for the la
 
 > "Why does your computer science curriculum require me to learn more than one programming language?"
 
-It seems that a good number of students join the platform with the opinion that they would rather "fully master a single language" than "split their efforts". While I plan to explain this better in the app itself moving forward, I wanted to write get this blog post out to provide an in-depth explanation of why we have you learn several languages over the course of our [back-end career path](https://www.boot.dev/tracks/backend).
+It seems that a good number of students join the platform with the opinion that they would rather "fully master a single language" than "split their efforts". While I plan to explain this better in the app itself moving forward, I wanted to write get this blog post out to provide an in-depth explanation of why we have you learn several languages over the course of our [back-end career path](https://www.boot.dev/tracks/backend-python-golang).
 
 ## First, some background on Boot.dev
 
@@ -20,29 +20,29 @@ So that you can understand where I'm coming from, let me explain what Boot.dev i
 
 Boot.dev is a batteries-included computer science curriculum in the browser. We have some [strong opinions](/about) about the best way to learn to code. For example:
 
-* We teach computer science and software engineering concepts first. Specific technologies are just a mechanism by which we teach the concepts.
-* We are fully hands-on
-* We have guided courses and unguided projects
-* We teach modern technologies and languages
-* We have a linear curriculum so students don't have to worry about what they should be learning next
-* We gamify the experience as much as possible to keep students motivated
+- We teach computer science and software engineering concepts first. Specific technologies are just a mechanism by which we teach the concepts.
+- We are fully hands-on
+- We have guided courses and unguided projects
+- We teach modern technologies and languages
+- We have a linear curriculum so students don't have to worry about what they should be learning next
+- We gamify the experience as much as possible to keep students motivated
 
 ## So why can't the whole curriculum be taught in a single language?
 
 If you look at the [full CS curriculum we have planned in our public roadmap on GitHub](https://github.com/bootdotdev/curriculum), you'll see that it's basically impossible. There are certain concepts that are so tightly coupled to specific technologies that it makes no sense to try to teach them all the same way. Let's look at a few trivial examples.
 
-* It's hard to really teach databases without SQL
-* It's hard to teach functional programming without a purely functional language
-* It's hard to teach OOP without an object oriented language
-* It's hard to teach hardware interfaces without an assembler
-* It's hard to teach typing without a strongly typed language
-* It's hard to teach web without JavaScript
-* It's hard to teach ML without Python
+- It's hard to really teach databases without SQL
+- It's hard to teach functional programming without a purely functional language
+- It's hard to teach OOP without an object oriented language
+- It's hard to teach hardware interfaces without an assembler
+- It's hard to teach typing without a strongly typed language
+- It's hard to teach web without JavaScript
+- It's hard to teach ML without Python
 
 In short, we have 2 competing goals:
 
-* We want to teach all the concepts using as few technologies as possible
-* We want to teach all the concepts using technologies that teach the concept best
+- We want to teach all the concepts using as few technologies as possible
+- We want to teach all the concepts using technologies that teach the concept best
 
 ## So how many languages are you going to teach me?
 
@@ -59,9 +59,9 @@ For example, JavaScript and Go have wildly different approaches to error flow:
 ```javascript
 // JavaScript
 try {
-  doSomethingDangerous()
-} catch (err){
-  console.log(err)
+  doSomethingDangerous();
+} catch (err) {
+  console.log(err);
 }
 ```
 
@@ -81,7 +81,7 @@ Personally, I don't think so. I really do think that if you were to focus on onl
 
 Some people assume that "learning to code" is about "learning a programming language". They think that if you learn Python, and then want to learn JavaScript, you'll be starting over from 0. **That couldn't be further from the truth.**
 
-Learning your second programming language will take 1/5th of the time that it took to learn your first, because ~80% of the concepts you learned will apply to both languages. Once you've used 3 or 4 different coding languages, you can look at code in almost any language and understand what it says. You might find yourself needing to look up syntax occasionally, *but everyone does that anyways*.
+Learning your second programming language will take 1/5th of the time that it took to learn your first, because ~80% of the concepts you learned will apply to both languages. Once you've used 3 or 4 different coding languages, you can look at code in almost any language and understand what it says. You might find yourself needing to look up syntax occasionally, _but everyone does that anyways_.
 
 ![meme](/img/800/fd066e1554c9a78bc499d06840e7dd02.png.webp)
 
@@ -89,17 +89,17 @@ Learning your second programming language will take 1/5th of the time that it to
 
 If you've browsed [the curriculum](https://github.com/bootdotdev/curriculum), you may have noticed that we've settled on 3 languages to teach the majority of the content:
 
-* JavaScript
-* Python
-* Go
+- JavaScript
+- Python
+- Go
 
-We're going to try to use these 3 languages for *as much as we possibly can*, only mixing in other technologies as required by the subject matter. For example, using SQL when we're talking about relational databases.
+We're going to try to use these 3 languages for _as much as we possibly can_, only mixing in other technologies as required by the subject matter. For example, using SQL when we're talking about relational databases.
 
 Let me explain why we chose these three in particular.
 
 ### Why JavaScript?
 
-You can't really get away from JavaScript these days. It's hard to [learn about backend programming](/backend/become-backend-developer/) (which is what most of our students are interested in) without first understanding *why* a backend exists. A backend only exists to power a front-end, so it makes sense that we would need to teach you a few front-end basics first. If you're going to build a front-end on the web, it almost certainly will use JavaScript, so our hand is forced on this one.
+You can't really get away from JavaScript these days. It's hard to [learn about backend programming](/backend/become-backend-developer/) (which is what most of our students are interested in) without first understanding _why_ a backend exists. A backend only exists to power a front-end, so it makes sense that we would need to teach you a few front-end basics first. If you're going to build a front-end on the web, it almost certainly will use JavaScript, so our hand is forced on this one.
 
 ### Why Python?
 

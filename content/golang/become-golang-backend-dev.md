@@ -247,7 +247,7 @@ Becoming certified is an important step on your journey to becoming a Go back-en
 
 Typically, you'll get certified after learning a course. There are so many places to get certifications, and almost all those platforms offer Golang certifications. Here's a selection:
 
-- [Boot.dev](https://www.boot.dev/tracks/backend): We offer not just a course, projects for your portfolio, and a kickass blog, but also a certification that says you can do the things you say you can!
+- [Boot.dev](https://www.boot.dev/tracks/backend-python-golang): We offer not just a course, projects for your portfolio, and a kickass blog, but also a certification that says you can do the things you say you can!
 - Coursera. Coursera offers courses run by industry and education professionals. Courses range from as generic as "[Getting Started with Go](https://www.coursera.org/learn/golang-getting-started)" to as specific as "[Use Go Code to Work With Google Cloud Data Sources](https://www.coursera.org/projects/googlecloud-use-go-code-to-work-with-google-cloud-data-sources-05wo8)."
 - Udemy. This one carries less weight since anyone can upload and teach a Go course, but it's still a good place to get certifications in more niche competencies, like "[Building Modern Web Apps with Go](https://www.udemy.com/course/building-modern-web-applications-with-go/)" or comprehensive tracks like "[Backend Master Class \[Golang + Postgres + Kubernetes + gRPC\]](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/)"
 

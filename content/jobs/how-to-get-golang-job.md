@@ -33,7 +33,7 @@ If you're reading this article, you should have:
 - Interest in coding.
 - A desire to learn your craft _in-depth_, without cutting corners.
 
-> If you're brand new to Go, I recommend you hop off this article and learn a little about it first. As part of our [backend-development career track](https://www.boot.dev/tracks/backend), we at Boot.dev offer a fantastic [Go intro course](https://www.boot.dev/courses/learn-golang) that will walk you through everything you need to know to get started with Go.
+> If you're brand new to Go, I recommend you hop off this article and learn a little about it first. As part of our [backend-development career track](https://www.boot.dev/tracks/backend-python-golang), we at Boot.dev offer a fantastic [Go intro course](https://www.boot.dev/courses/learn-golang) that will walk you through everything you need to know to get started with Go.
 
 ## What you don't need
 

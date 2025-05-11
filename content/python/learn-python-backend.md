@@ -207,7 +207,7 @@ Once you've added all your projects to your custom-build portfolio, you may want
 
 Here are some options to pursue which will demonstrate your capability in Python, back-end development, or both.
 
-- [Our back-end learn path](https://www.boot.dev/tracks/backend) at Boot.dev. To get the certificate, you'll need to prove mastery of Python (as well as Javascript and Go, two other important back-end programming languages). This course runs through all the critical skills I mentioned in the earlier section about necessary competencies. You'll also get some extra projects, as a bonus, to put on your portfolio.
+- [Our back-end learn path](https://www.boot.dev/tracks/backend-python-golang) at Boot.dev. To get the certificate, you'll need to prove mastery of Python (as well as Javascript and Go, two other important back-end programming languages). This course runs through all the critical skills I mentioned in the earlier section about necessary competencies. You'll also get some extra projects, as a bonus, to put on your portfolio.
 - Check out Coursera \* they have a slew of back-end certificates available from [IBM](https://www.coursera.org/professional-certificates/ibm-backend-development) to [Meta](https://www.coursera.org/professional-certificates/meta-back-end-developer) to Microsoft.
 - Look to your local (or not-so-local) [universities](https://www.pce.uw.edu/certificates/python-programming) to see if they offer any certificates.
 

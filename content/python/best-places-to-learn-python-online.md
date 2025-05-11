@@ -41,7 +41,7 @@ In this section, I’ll offer a brief description of each platform, how much it 
 
 ### Boot.dev
 
-Why not start with the best? [Boot.dev](https://www.boot.dev/) is the best way to [learn backend development](https://www.boot.dev/tracks/backend) the addictive way. It’s got a fantasy theme, you learn Python accompanied by Boots the Bear, and it’s designed to get you hooked on the fast, easy process of building Python code.
+Why not start with the best? [Boot.dev](https://www.boot.dev/) is the best way to [learn backend development](https://www.boot.dev/tracks/backend-python-golang) the addictive way. It’s got a fantasy theme, you learn Python accompanied by Boots the Bear, and it’s designed to get you hooked on the fast, easy process of building Python code.
 
 With 15,000+ students, a highly active Discord server, and a focus on getting a job, Boot.dev is one of the best places to learn Python online.
 

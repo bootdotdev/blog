@@ -136,7 +136,7 @@ The most common databases used in backend are MySQL, PostgreSQL, DynamoDB, and M
 
 If you're interested in learning how to develop backends and want to know what goes on behind the curtain of a software application, there are a lot of great ways to learn how!
 
-Whether you want to sign up for a [backend bootcamp](/backend/best-backend-bootcamps/) or start by following some tutorials, there are plenty of options. [Boot.dev](https://www.boot.dev/tracks/backend) is a great option if you want to learn at your own pace and avoid paying high course fees. [Nucamp](https://www.nucamp.co/bootcamp-overview/back-end-sql-devops-python) offers more hand-holding, but costs significantly more. [Nashua Community College](https://nashuacc.edu/) is more affordable than Nucamp, but offers less direct interaction with instructors.
+Whether you want to sign up for a [backend bootcamp](/backend/best-backend-bootcamps/) or start by following some tutorials, there are plenty of options. [Boot.dev](https://www.boot.dev/tracks/backend-python-golang) is a great option if you want to learn at your own pace and avoid paying high course fees. [Nucamp](https://www.nucamp.co/bootcamp-overview/back-end-sql-devops-python) offers more hand-holding, but costs significantly more. [Nashua Community College](https://nashuacc.edu/) is more affordable than Nucamp, but offers less direct interaction with instructors.
 
 If you want to go for a cheaper option than coding bootcamps, tutorials are a great way to go. They're almost always free, but it's the most extreme self-taught route, which can be frustrating and slow.
 

@@ -99,7 +99,7 @@ You may think, "well, that list of schools is lovely, but I'm completely broke"!
 15. [Citigroup Scholarship](https://www.citigroup.com/citi/foundation/)
 16. [CyberCorps Scholarship for Service](https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/academic-major/computer-science/cybercorps-scholarship-for-service)
 17. [Cybercorps Security Scholarship](https://www.sfs.opm.gov/)
-28. [Cybersecurity Public Service Scholarship Program](https://mhec.maryland.gov/preparing/Pages/FinancialAid/CyberSecurity-Scholarship-Program.aspx)
+18. [Cybersecurity Public Service Scholarship Program](https://mhec.maryland.gov/preparing/Pages/FinancialAid/CyberSecurity-Scholarship-Program.aspx)
 19. [Dell Scholarship](https://www.dellscholars.org/scholarship/)
 20. [Dr. Robert W. Sims Scholarship](https://faeds.org/scholarships/)
 21. [EDSF Scholarship](https://studentscholarships.org/scholarship/7113/edsf-scholarship-program)
@@ -352,7 +352,7 @@ If formal schooling and going completely self taught aren't the routes for you, 
 - [App Academy:](https://www.appacademy.io/) - Offers a 16-week on-campus training in New York City or San Francisco, but offers a 24-week online route. It can be done full or part-time and has you design four different projects for your personal portfolio
 - [Big Nerd Ranch:](https://bignerdranch.com/bootcamps/) - A one-week coding bootcamp that covers iOS, Android, Kotlin, Web, and UX/UI design.
 - [Bloom Institute of Technology:](https://www.bloomtech.com/) - The self-paced curriculum emphasizes developing skills in full-stack and back-end. It takes 4-18 months to complete, depending on how driven you feel in the moment
-- [Bootdev](https://www.boot.dev/): - Offers an excellent way to [learn back-end development](/backend/become-backend-developer/). It includes learning languages such as Javascript, HTTP, Python, and Go. In addition to available [courses](https://www.boot.dev/tracks/backend), it includes a robust Discord community for unity and support
+- [Bootdev](https://www.boot.dev/): - Offers an excellent way to [learn back-end development](/backend/become-backend-developer/). It includes learning languages such as Javascript, HTTP, Python, and Go. In addition to available [courses](https://www.boot.dev/tracks/backend-python-golang), it includes a robust Discord community for unity and support
 - [Codesmith:](https://www.codesmith.io/) - Depending on the program selected, the Codesmith boot camp ranges from 12-38 weeks. The curriculum focuses on different aspects of computer science, such as Front and Backend Development, along with gaining [real-world experience using Git and GitHub](https://www.boot.dev/courses/learn-git)
 - [Codeup:](https://codeup.com/) - Offers multiple programs in Web Development (20 weeks), IT Systems/Engineering (13 weeks), and Data Science (20 weeks)
 - [Codeworks:](https://www.collegeconsensus.com/bootcamps/rankings/best/) - Codeworks programs are offered in person in Barcelona, London, and Berlin, or remote in America and Europe. The programs range from 8-12 weeks, covering web development and network

@@ -61,7 +61,7 @@ Software development isn't easy, no matter what edtech and e-learning advertisem
 
 When the market is doing well and companies are making money hand over fist, they're willing to over-hire and snatch up devs that don't add as much value to the company as others do. When things are tight, less skilled developers are typically the first to go.
 
-This isn't new advice, but if you continue upskilling yourself, you'll simply be more valuable on the market. Again, giving up and getting discouraged about the state of the market is the last thing you want to do. If anything, take some time to [work on open source](/open-source/contributing-to-open-source/), [take courses, build projects](https://www.boot.dev/tracks/backend), and learn more about software.
+This isn't new advice, but if you continue upskilling yourself, you'll simply be more valuable on the market. Again, giving up and getting discouraged about the state of the market is the last thing you want to do. If anything, take some time to [work on open source](/open-source/contributing-to-open-source/), [take courses, build projects](https://www.boot.dev/tracks/backend-python-golang), and learn more about software.
 
 ### #3 Analyze your situation
 

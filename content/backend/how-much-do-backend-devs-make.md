@@ -136,4 +136,4 @@ When you think about how much backend developers make, there's so much more than
 
 But overall? Backend developers make a lot of money, relatively speaking. Most enjoy their job. The skills are very flexible, meaning you could grow your career easily. And in the meantime, your job isn't going anywhere: the demand for backend developers is high, and the supply is low.
 
-Want to get started becoming a backend developer? Learn backend development the right way with our [Backend Developer course track](https://www.boot.dev/tracks/backend). You'll get portfolio projects, on-demand skills training, and a fantastic community of lifelong learners.
+Want to get started becoming a backend developer? Learn backend development the right way with our [Backend Developer course track](https://www.boot.dev/tracks/backend-python-golang). You'll get portfolio projects, on-demand skills training, and a fantastic community of lifelong learners.
