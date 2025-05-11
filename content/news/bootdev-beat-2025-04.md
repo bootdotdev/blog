@@ -1,7 +1,7 @@
 ---
 title: "The Boot.dev Beat. April 2025"
 author: lane
-date: "2025-03-27"
+date: "2025-04-27"
 categories:
   - "news"
 images:
