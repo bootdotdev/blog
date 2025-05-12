@@ -10,7 +10,7 @@ imageAlts:
   - "Boots sketches of new emotes"
 ---
 
-Out biggest content release **ever** just dropped: the complete backend learning path, but now in Python and TypeScript! This is a massive update that we've been working on for a year, I hope you enjoy it!
+Our biggest content release **ever** just dropped: the complete backend learning path, but now in Python and TypeScript! This is a massive update that we've been working on for a year, I hope you enjoy it!
 
 Lane
 
