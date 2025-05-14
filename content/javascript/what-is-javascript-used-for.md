@@ -5,7 +5,7 @@ date: "2022-01-30"
 categories:
   - "javascript"
 images:
-  - /img/800/pexels-burst-374631-2048x1365.jpeg
+  - /img/800/ruinreborn_wizard_wizard_drinking_coffee_fantasy_art_simple_b_87c31bac-efb4-4235-88e0-4598a7a8cb60_1.png.webp
 ---
 
 JavaScript is one of the most versatile programming languages, maybe even more flexible than Python. JavaScript is used on both the front and back end of web systems. Because of that, of the 1.8 billion websites in the world, [95% of them use JavaScript](https://generalassemb.ly/blog/what-makes-javascript-so-popular/#:~:text=There%20are%20over%201.8%20Billion,to%20GitHub's%202020%20Octoverse%20Report.). It's hard to interact with the modern Internet, with its pretty graphics and interactive maps, without using JavaScript. [Enable Marketing says](https://enablemarketing.com/makes-website-visually-appealing/#gref) the top four qualities of a visually appealing website are design and color, graphics and visuals, usability, and consistency. JavaScript is a major player in all four of those attributes.

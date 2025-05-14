@@ -5,7 +5,7 @@ date: "2022-01-10"
 categories:
   - "misc"
 images:
-  - /img/800/qvault-architecture-2.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_huge_tower_tower_see_4d4d53d5-87f3-450d-91cc-7a5edef53bec_1.png.webp
 ---
 
 Because I've had several inquiries on this topic, I thought it would be interesting to publish some information on how the boot.dev website and platform work, and how I've organized all the technologies I'm using. I'll do my best to keep this list updated in the future as I migrate from older tools and technologies to newer ones, but assume that this might be a bit out of date by the time you read it.

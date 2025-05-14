@@ -6,7 +6,7 @@ lastmod: "2022-07-20"
 categories: 
   - "python"
 images:
-  - /img/800/ternary.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_fantasy_balloon_fant_9c75917c-4ec4-4d05-bf1d-b73dba1ea9a1_3.png.webp
 ---
 
 Developers love concise code that's easy to read, and that's exactly what ternary operators are for. The ternary operator in Python lets you perform a small `if/else` statement in a **single line**. Let's take a look at a few examples.

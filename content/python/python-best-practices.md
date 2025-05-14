@@ -5,7 +5,7 @@ date: "2022-01-04"
 categories:
   - "python"
 images:
-  - /img/800/stretching-women.jpeg
+  - /img/800/ruinreborn_fantasy_art_simple_background_fantasy_snake_charme_58af60bb-ad23-4dd6-ae48-087d185e259a_1.png.webp
 ---
 
 If you're looking to improve your coding, there are lots of steps you can take, but the first is focusing on Python best practices. It's really important that your code is readable, testable, and maintainable. From picking good variable names, refactoring code that gets repeated out into its own method, or having clean and logical lines of inheritance and abstraction, there are a lot of qualities that differentiate code that someone wants to work with from code that everyone dreads having to maintain or develop further.

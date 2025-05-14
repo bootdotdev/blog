@@ -5,7 +5,7 @@ date: "2022-01-22"
 categories:
   - "javascript"
 images:
-  - /img/800/JavaScript-vs-C-plus-plus-min.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_two_wizards_enjoying_8b7ae46d-0276-461c-87e2-298a1d99637a_3.png.webp
 ---
 
 Every coder is told to learn JavaScript, seeing that it's the foundation of the world wide web. And… every coder is taught that C++ is one of the most useful modern coding languages to learn. So no matter if you're brand new to the coding world, or you have a few languages under your belt, you might be wondering whether you should tackle JavaScript vs C++ for your first (or next) language.
