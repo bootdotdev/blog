@@ -5,7 +5,7 @@ date: "2022-02-05"
 categories:
   - "golang"
 images:
-  - /img/800/bestwaytolearngolang.webp
+  - /img/800/ruinreborn_fantasy_art_fantasy_gopher_fantasy_gopher_knight_r_2d0e8b71-cb9b-4e0b-a285-2637ed657849_0.png.webp
 ---
 
 Golang was released in 2012, making it a relatively new language when compared to competitors like Python, which was released nearly two decades prior, yet it's managed to stay ahead of the game as not only a coveted language by employers, but also loved by programmers.
