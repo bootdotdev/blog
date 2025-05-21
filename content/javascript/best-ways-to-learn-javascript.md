@@ -6,7 +6,7 @@ lastmod: "2022-07-18"
 categories:
   - "javascript"
 images:
-  - /img/800/bestwaystolearnJavaScript.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_fantasy_coffee_shop__c4d4a2a6-ffe0-4747-a5a7-16e18f3576f2_0.png.webp
 ---
 
 JavaScript is undoubtedly one of the best languages to learn as a developer, whether you've been at it for years or are just starting out. More than 97% of today's websites are powered by JavaScript. Regardless of what field you work in, you'll likely be exposed to JavaScript at some point, as the language is firmly entrenched in the online world.
