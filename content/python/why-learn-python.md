@@ -5,7 +5,7 @@ date: "2021-09-09"
 categories:
   - "python"
 images:
-  - /img/800/Why-learn-Python.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_fantasy_snake_coiled_1110f77d-399d-498a-b1cc-6a696a277240_0.png.webp
 ---
 
 Simple to learn, endlessly versatile, and perennially in demand by employers paying higher and higher salaries every year — it feels like there's a million reasons to learn Python.

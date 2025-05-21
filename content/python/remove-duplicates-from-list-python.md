@@ -5,7 +5,7 @@ date: "2021-12-09"
 categories:
   - "python"
 images:
-  - /img/800/list.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_removing_book_7d47a56d-f97f-4a27-8424-d4f59c28cfd3_0.png.webp
 ---
 
 Let's go over a few idiomatic ways to remove duplicates from lists in Python.

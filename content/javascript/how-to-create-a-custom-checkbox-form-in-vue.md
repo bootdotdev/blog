@@ -5,7 +5,7 @@ date: "2020-11-25"
 categories: 
   - "javascript"
 images:
-  - /img/800/custom-checkbox-component-vue-scaled.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_box_suggestion_box_-_ef1ee7b9-4e88-4e5f-a400-8b08ea4f596f_0.png.webp
 ---
 
 You have a problem. The browser's default checkbox form is ugly and outdated, but importing an entire library just to change the styling seems like overkill. Instead, let's build a custom checkbox form component from scratch. It will take 15 minutes to type up, or just 3 if you just copy and paste my boilerplate code.

@@ -5,7 +5,7 @@ date: "2020-11-30"
 categories:
   - "computer-science"
 images:
-  - /img/800/Small-Man-on-Map-scaled.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_map_--ar_169_--profi_2fd12f2f-856b-47aa-b621-93e69f142dea_3.png.webp
 ---
 
 Heuristics in [computer science](/computer-science/comprehensive-guide-to-learn-computer-science-online/) and artificial intelligence are "rules of thumb" used in algorithms to assist in finding approximate solutions to complex problems. Often, there's simply too much data to sift through to come to a solution promptly, so a heuristic algorithm is used to trade exactness for speed. However, because heuristics are based on individual rules unique to the problem they are solving, the specifics of the heuristics vary from problem to problem.

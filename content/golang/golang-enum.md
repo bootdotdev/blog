@@ -5,7 +5,7 @@ date: "2021-04-19"
 categories:
   - "golang"
 images:
-  - /img/800/list-with-pencil-and-paper.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_enumeration_--ar_169_c021d043-1ff0-4fbc-975e-8bad0af765d0_1.png.webp
 ---
 
 An enum (short for enumerator), is a set of named constant values. An enum is a powerful tool that allows developers to create complex sets of constants that have useful names and yet simple and unique values.

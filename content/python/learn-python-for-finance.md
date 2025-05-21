@@ -5,7 +5,7 @@ date: "2021-09-14"
 categories:
   - "python"
 images:
-  - /img/800/pexels-cottonbro-3943716-scaled.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_snake_coiled_around__4a395e8b-ef7b-43cc-a2bc-94cbf6722861_1.png.webp
 ---
 
 If you're thinking about dipping your toe into the finance sector for your career and you stumble across this article, you may be wondering, "How can Python help in finance?"

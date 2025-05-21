@@ -5,7 +5,7 @@ date: "2021-03-17"
 categories: 
   - "misc"
 images:
-  - /img/800/organize.webp
+  - /img/800/ruinreborn_simple_background_fantasy_art_organization_library_dc06c3e6-a1f7-459e-b242-8831507e8a01_1.png.webp
 ---
 
 When I was just getting into coding, I was _very_ disorganized. I would create a new text file in `My Documents`, work on it, never create a Git repository, accidentally delete it later, you get the idea. Nowadays I'm quite the opposite. To be honest, the thing that made me get my act together was the quite unpopular and now deprecated [GOPATH](https://golang.org/doc/gopath_code) that early versions of Go required developers to work in. I think it was the right move to not force that organization as a requirement, but I actually quite liked the method personally, and still use a version of it to this day.
