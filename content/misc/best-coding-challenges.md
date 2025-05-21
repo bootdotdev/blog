@@ -5,7 +5,7 @@ date: "2021-06-24"
 categories:
   - "misc"
 images:
-  - /img/800/pexels-anna-shvets-5262957-scaled.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_rogue_disarming_trap_7b5c5a7b-2b4a-4186-8161-89ddde2ffb24_2.png.webp
 ---
 
 Coding challenges are a fun way to improve your coding quickly.

@@ -5,7 +5,7 @@ date: "2021-09-27"
 categories:
   - "misc"
 images:
-  - /img/800/HTML-vs-CSS-vs-JavaScript-min.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizards_apprentice_a_6598473a-b210-4d81-9d82-b7e5c4e522ba_1.png.webp
 ---
 
 HTML, CSS, and JavaScript are the most important tools in your arsenal for all your web design escapades. Rather than compete, they complement and augment each other, and their power expounds when they're combined -- like internet Power Rangers.

@@ -5,7 +5,7 @@ date: "2021-02-15"
 categories:
   - "jobs"
 images:
-  - /img/800/worker-union.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_united_army_--ar_169_120707c0-2d48-42f3-8e57-ac916aa4b022_1.png.webp
 ---
 
 I've seen a lot of buzz recently about software developers wanting to form unions. I'm particularly interested in this topic while I'm #indiehacking [boot.dev, where my goal is to provide a free-to-audit university-quality CS education](https://www.boot.dev/). I also want to point out that at the time of writing I'm a full-time software developer working for a separate company (not boot.dev). I'm not a manager and boot.dev is just a side-project. As of right now, I'm pretty sure I'm a member of the proletariat.

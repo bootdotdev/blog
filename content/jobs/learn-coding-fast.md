@@ -5,7 +5,7 @@ date: "2021-02-22"
 categories:
   - "jobs"
 images:
-  - /img/800/fast-motorcycle.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_thief_sprinting_--ar_1035d116-1192-431f-8690-65ab53ba4523_1.png.webp
 ---
 
 The journey to becoming a gainfully employed software engineer can feel long. The good news is, you can learn smarter not harder. Apply these eight tricks and you'll be learning to program a lot faster than the average bear.

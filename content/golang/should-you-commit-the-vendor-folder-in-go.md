@@ -6,7 +6,7 @@ lastmod: "2022-04-19"
 categories:
   - "golang"
 images:
-  - /img/800/Should-You-Commit-Your-Vendor-Folder_.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_two_people_arguing_-_153eceaa-ae23-47c5-94c9-a59bb7a6b95f_0.png.webp
 ---
 
 If you're asking "should I commit the vendor folder in my Go project to Git?", the answer is "almost always". Let's talk about why committing is generally better than not.

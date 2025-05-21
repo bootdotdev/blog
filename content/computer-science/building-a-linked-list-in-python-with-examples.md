@@ -6,7 +6,7 @@ categories:
   - "computer-science"
   - "python"
 images:
-  - /img/800/list.jpeg
+  - /img/800/ruinreborn_fantasy_art_simple_background_snake_snake_looking__d8a3c60c-9d26-44e8-af42-39a1880d97fd_1.png.webp
 ---
 
 A linked list is a linear data structure where elements are not stored next to each other in memory. Unlike and array, elements in a linked list use pointers or references to *each other* to keep the list intact.

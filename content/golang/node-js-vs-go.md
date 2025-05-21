@@ -5,7 +5,7 @@ date: "2021-09-23"
 categories:
   - "golang"
 images:
-  - /img/800/Golang-vs-Nodejs-min.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_casting_scryi_837649bf-bc09-482b-b0b0-bfbd320a36c3_0.png.webp
 ---
 
 In 2009, the computer science world was blessed with two powerful tools: Golang and Node.js.

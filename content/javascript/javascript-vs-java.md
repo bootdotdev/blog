@@ -5,7 +5,7 @@ date: "2020-11-06"
 categories:
   - "javascript"
 images:
-  - /img/800/java-vs-javascript.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_two_wizards_--ar_169_b778e17f-6b72-4711-bf05-2d541e41b960_3.png.webp
 ---
 
 The naming of Java and JavaScript confuses many new programmers. They sound so similar, so one might think they have the same use-cases, similar properties, or maybe the same company created both languages. None of those assumptions are true! JavaScript is primarily used as a front-end in-the-browser language, like how we use it for [boot.dev's courses](https://www.boot.dev/). Java has been used for everything from games, to desktop apps, to backend APIs. Let's go over the differences between JavaScript vs Java in this quick read.

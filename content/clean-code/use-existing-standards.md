@@ -5,7 +5,7 @@ date: "2021-06-07"
 categories:
   - "clean-code"
 images:
-  - /img/800/flags.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_fantasy_librarian_--_84a9705a-c918-4ea2-a6f5-6db20a1c45d7_2.png.webp
 ---
 
 I recently had a ticket opened on my team's backlog board requesting the ability to bypass our API's caching system. For context, our front-end team uses my team's API to make fairly heavy requests to ElasticSearch, and one of the features of our API gateway is to cache the results of heavy aggregations for ~30 seconds. It turns out, every once in a while they need to run two of the same query within the ~30-second caching window and want an updated result set.

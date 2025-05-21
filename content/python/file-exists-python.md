@@ -5,7 +5,7 @@ date: "2021-12-08"
 categories:
   - "python"
 images:
-  - /img/800/file.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_peering_into__0b83a342-a1bf-4494-9a7a-275433b55a0c_3.png.webp
 ---
 
 When working with files in Python, you'll often need to check if a file exists before you do anything else with it, such as reading from or writing to it. Luckily, the Python standard library makes this a piece of cake.

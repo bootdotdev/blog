@@ -6,7 +6,7 @@ lastmod: "2022-04-22"
 categories:
   - "golang"
 images:
-  - /img/800/Go-vs-C-Sharp-min.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_ordering_food_16685b14-5820-4b0c-b63e-0255eced653a_1.png.webp
 ---
 
 Golang and C# offer a unique mixture of similarities and differences, having both been inspired by the same language, C.

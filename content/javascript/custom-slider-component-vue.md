@@ -5,7 +5,7 @@ date: "2020-11-24"
 categories:
   - "javascript"
 images:
-  - /img/800/vue-custom-slider.webp
+  - /img/800/ruinreborn_fantay_art_simple_background_person_sliding_down_m_8f7ae06c-a441-4304-8474-9f3d58412a7b_0.png.webp
 ---
 
 Creating a custom slider component can be tricky, especially if you want to create a lean standalone Vue component. In this quick article, you'll learn how to build a fully customizable slider component in Vue. Feel free to swap out the majority of the CSS to get the styling you want, but I'll give you a good jumping-off point.

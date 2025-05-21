@@ -5,7 +5,7 @@ date: "2021-01-06"
 categories:
   - "jobs"
 images:
-  - /img/800/Man-at-Desk.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_dejected_wizard_--ar_a5a248ab-b876-4667-915f-d399b15f75a0_0.png.webp
 ---
 
 It sounds like a pipe dream. A well-paid programming job, with no experience? Get out of town. Well, as it turns out, it's both just about as difficult as you believe, but probably easier than you think. As with most things, the main obstacle standing in the way of you getting a programming job with no experience is yourself.

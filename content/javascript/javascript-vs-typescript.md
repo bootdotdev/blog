@@ -5,7 +5,7 @@ date: "2021-09-06"
 categories:
   - "javascript"
 images:
-  - /img/800/JavaScript-vs-TypeScript-min.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_ordering_food_3eff5777-b37b-4655-9b6d-b4433e6a0a29_1.png.webp
 ---
 
 Whether you're new or old to the computer science community, you've probably asked yourself, "What is TypeScript?" and if you haven't, it won't be long before you do.

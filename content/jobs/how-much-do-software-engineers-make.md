@@ -5,7 +5,7 @@ date: "2020-11-09"
 categories:
   - "misc"
 images:
-  - /img/800/cash.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_treasure_hoard_--ar__a97b20c7-40bb-4828-8e22-ea9ef7bf545f_2.png.webp
 ---
 
 Software engineering continues to be one of the most lucrative career paths in the tech industry. The rewards go well beyond a high salary, corporate health insurance plans, and an increased opportunity to advance. Software engineers often receive benefits like unlimited time off, not needing to have shifts covered, lax or no dress code, and cool office amenities like free drinks, snacks, ping pong, etc. It can be a really great work culture.

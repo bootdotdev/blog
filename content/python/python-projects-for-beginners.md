@@ -6,7 +6,7 @@ lastmod: "2022-07-19"
 categories:
   - "python"
 images:
-  - /img/800/pexels-diego-madrigal-2062314-scaled.webp
+  - /img/800/ruinreborn_hand_--ar_9151_--stylize_0_--v_6.1_a292089b-6a4c-4b96-bd90-bef985c9872a_1.png.webp
 ---
 
 I've made no secret of the fact that I love Python, and that I believe [one of the best ways to learn Python](https://www.boot.dev/courses/learn-code-python) is by finding an awesome project you care about to work on. There's nothing more stimulating than passion and curiosity, and that makes the best projects for Python beginners usually something a little grittier than the standard tutorials.

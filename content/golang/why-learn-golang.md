@@ -6,7 +6,7 @@ lastmod: "2022-04-24"
 categories:
   - "golang"
 images:
-  - /img/800/pexels-jeshootscom-7432-scaled.webp
+  - /img/800/ruinreborn_fantasy_art_fantasy_gopher_fantasy_gopher_knight_r_2d0e8b71-cb9b-4e0b-a285-2637ed657849_3.png.webp
 ---
 
 Golang has skyrocketed in popularity year over year, making it one of the best choices for career-conscious developers to learn. As an example, StackOverflow's [Developer survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-language) saw it climb in popularity among developers from 10th in 2019 all the way to 5th in 2020. Additionally, a full 32% of [developers surveyed](https://insights.dice.com/2020/12/09/5-programming-languages-that-will-dominate-2021-python-go-more) in Insights Dice want to learn it. Go developers are paid well - globally, the StackOverflow survey [found](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-language) that Perl, Scala, and Go programmers have the highest salaries.
