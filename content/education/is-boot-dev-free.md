@@ -35,7 +35,7 @@ I felt like I needed to write this article because a lot of folks get rightfully
 
 ## Why subscriptions?
 
-Due to the nature of the interactive features (AI chats in particular, but also a bunch of other stuff), we have ongoing costs to host and maintain Boot.dev. One time purchases just don't really make sense in that paradigm.
+Due to the nature of the interactive features (AI chats in particular, but also a bunch of other stuff), we have ongoing costs to host and maintain Boot.dev. Lifetime purchases just don't really make sense in that paradigm.
 
 ## What if my company wants to pay?
 
