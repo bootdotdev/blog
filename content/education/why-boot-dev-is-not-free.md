@@ -1,54 +1,48 @@
 ---
-title: "Why Boot.dev is Not Completely Free"
+title: "Are Boot.dev Courses Free?"
 author: lane
-date: "2022-08-15"
+date: "2025-05-23"
 categories:
   - "education"
 images:
   - /img/800/ruinreborn_fantasy_art_purse_cut_cut_purse_cut_purse_spilling_7863ce44-bff3-474e-abd8-3dd6579172d0_1.png.webp
 lastmod: "2023-12-07"
+aliases:
+  - /education/why-boot-dev-is-not-free/
 ---
 
-A few days ago I received an email regarding [Boot.dev](https://www.boot.dev) where the sender said:
+Sometimes folks get confused and wonder, are [Boot.dev](https://www.boot.dev)'s programming courses really _free_?
 
-> I am ideologically opposed to charging people for online education
+First of all, the simple answer is **yes**, all of the _content_ on Boot.dev is free. That means that all the lesson explanations, the explainer videos, and the starter code is free. You can get all of it (not just the first few chapters, or the first course) without ever becoming a paid member.
 
-I mean fair enough right? All of the information in the world exists online for free (often on Wikipedia), why would you charge for something that anyone can access, and that people are willing to create without being paid? Well, let me explain why all the features on Boot.dev aren't free - though **all of the content is**.
+## So why pay?
 
-## The lifeblood of any project is ongoing development
+Now obviously, we do [offer memberships](https://www.boot.dev/pricing), so if all the content is free, what are you paying for? Put simply: **interactivity**. Our interactive features are only free for the first several chapters of each course so that you can try before you buy. After that, you'll go into read-only mode if you don't become a member. **If you're not a member, you'll lose these kinds of features**:
 
-I started Boot.dev to try to build the most effective path to a career in backend development. Some of the pain points I wanted to alleviate include:
+- Chatting with Boots (AI tutor)
+- Lesson submission and verification
+- Progress tracking
+- Solution viewing
+- Spellbooks (interactive cheat sheets)
+- Achievements, xp, and quests
+- Certificates of completion
 
-- No "what should I learn next"? Or "tutorial hell" traps. A simple, linear, curriculum.
-- No skipping CS fundamentals. You're going to spend time learning algorithms, data structures, and different programming paradigms.
-- You'll write real code, and a lot of it.
-- The whole experience should be as fun and engaging as possible. Achievements, XP, levels, all the fun stuff.
-- The content will be _extremely_ up to date. We won't have you learning Python 2 in 2022, using the `var` keyword in JavaScript, or GOPATH in Go.
+If that sounds interesting to you, you can [become a member now](https://www.boot.dev/pricing)!
 
-I can't accomplish these goals by spending a few months of my spare time writing content, then putting it out for free while I get back to work at a full-time job. The content wouldn't remain up to date, the game mechanics would be lackluster or nonexistent, and I simply wouldn't have the time be able to write all the content that I want to. I want this thing to be as thorough as a CS degree (but more streamlined) oncce it reaches its full splendor.
+## We're one of the only learning platforms like this
 
-This project, if it's going to accomplish its goals requires that myself and the rest of the team are able to continuously work on this thing full-time.
+I felt like I needed to write this article because a lot of folks get rightfully confused about our business model. Most educational sites have "free content" and "paid content", with all the interactivity we've baked into Boot.dev, we've realized we can take a very different approach. For our students who can afford the membership, the interactivity is such a big productivity and quality of life boost that they tend to pay, even when the content itself is all free.
 
-Right out of the gate, I'm bound by the constraint that I need to be able to earn a living wage for myself (and now a full team) as long as this thing is live.
+## Why subscriptions?
 
-## So what is Boot.dev's business model anyways?
+Due to the nature of the interactive features (AI chats in particular, but also a bunch of other stuff), we have ongoing costs to host and maintain Boot.dev. One time purchases just don't really make sense in that paradigm.
 
-At the moment we have a simple way to fund ongoing development: memberships. I'll get into the _why_ in a second, but first let me explain what a membership is.
+## What if my company wants to pay?
 
-Reading and watching _all_ of the content on Boot.dev is **free for everyone**. Additionally, all of the progress tracking, interactive code editors, game mechanics, and other features are free for the first few chapters of each course.
+We have [team plans](https://www.boot.dev/teams) available if you and your coworkers want to all sign up under one billing account. If you're looking for a solo subscription, but your company has a L&D stipend, you can also [easily get it expensed](https://www.boot.dev/expense).
 
-After the first several chapters of any individual course, all of that extra interactive stuff shuts off, and to continue using it you'd need to [become a member](https://www.boot.dev/pricing). To reiterate, you can still read and watch all of the content for free, you just lost interactivity.
+## Can I give a membership as a gift?
 
-## Why memberships?
+Yup! You can purchase one-time [gift codes here](https://www.boot.dev/gifts). They are _not_ recurring subscriptions, so you won't be charged again after the initial purchase. However, the access granted via the code does expire at the end of the period that you paid for. Gift codes can be [redeemed here](https://www.boot.dev/redeem).
 
-Memberships are subscriptions that are billed monthly or yearly. We also offer [gift subscriptions](https://www.boot.dev/gifts) that are billed once, don't renew, and expire after a certain amount of time.
-
-Memberships work well for a few reasons:
-
-- Up front costs to students are low. Students can try out our teaching style and content for free, and only pay if they like it.
-- There's no weird loans, financing, or immense back-pay upon landing a job. You can cancel your membership at any time, and you'll never owe us anything.
-- We have ongoing costs (especially now with our AI tutor, Boots) so recurring revenue is a must on our end.
-
-I think "pay once" courses work best for non-interactive content like books and downloadables, but memberships seem to be best for a living platform like ours where new features and content updates are released almost daily.
-
-I think the idea of "paying back" for a live bootcamp (or even University) isn't a bad idea. Nothing feels worse than dropping $10k on a bootcamp, then not landing a job. That said, it's also a bit like a bet against yourself, in the same way insurance is. That's not to say you shouldn't do it, it provides some peace of mind, but the folks who do land jobs are effectively subsidizing the folks who don't.
+<!--  -->
