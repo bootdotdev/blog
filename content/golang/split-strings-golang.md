@@ -5,7 +5,7 @@ date: "2021-04-15"
 categories: 
   - "golang"
 images:
-  - /img/800/splitting-a-lemon.jpeg
+  - /img/800/ruinreborn_knife_--ar_9151_--profile_vtavuvy_--stylize_0_--v__870ed647-d301-4303-8ce4-5505fb112e9a_1.png.webp
 ---
 
 I can't begin to tell you how often I split strings in Go. More often than not I'm just parsing a comma-separated list from an environment variable, and Go's standard library gives us some great tools for that kind of manipulation.

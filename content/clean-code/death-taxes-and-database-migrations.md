@@ -5,7 +5,7 @@ date: "2021-08-17"
 categories:
   - "clean-code"
 images:
-  - /img/800/migration.jpeg
+  - /img/800/ruinreborn_fantasy_art_simple_background_grim_reaper_--ar_169_fb15388e-435f-4bd8-b4fd-8d583e21bf81_2.png.webp
 ---
 
 ## In this world, nothing can be said to be certain, except death, taxes, and migrations.

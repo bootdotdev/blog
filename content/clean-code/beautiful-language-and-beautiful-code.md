@@ -4,7 +4,7 @@ date: "2021-06-30"
 categories: 
   - "clean-code"
 images:
-  - /img/800/language.jpeg
+  - /img/800/ruinreborn_fantasy_art_simple_background_beautiful_princess_-_2b2053d7-c396-4e8b-ad02-243528bdc43c_3.png.webp
 ---
 
 "Dead Poet's Society" is a classic film, and has become a recent favorite of mine. There's a scene in particular that I enjoy, where Robin William's character explains that it's bad practice to use terms like "very tired" or "very sad", instead we should use descriptive words like "exhausted" or "morose"!

@@ -5,7 +5,7 @@ date: "2021-09-08"
 categories:
   - "cryptography"
 images:
-  - /img/800/What-is-cryptography-guide-min.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_thief_fleeing_from_m_143728fb-f80a-4bac-9ad4-454178340ffe_1.png.webp
 ---
 
 ## What is cryptography?

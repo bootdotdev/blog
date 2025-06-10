@@ -6,7 +6,7 @@ categories:
   - "javascript"
   - "jobs"
 images:
-  - /img/800/JavaScript-Interview-Questions.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_ordering_food_ba9e514f-dc92-467b-97f0-ee4a805dd582_2.png.webp
 ---
 
 Versatile, powerful and ever-present, JavaScript is the world's most used programming language (for eight years and counting!) and shows no signs of slowing down. Check out these 20 practice interview questions for JavaScript! If you're on the job-hunt for an entry-level position, read on.
