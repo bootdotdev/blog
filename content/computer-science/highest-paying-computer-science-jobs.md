@@ -6,7 +6,7 @@ categories:
   - "computer-science"
   - "jobs"
 images:
-  - /img/800/man-at-computer-with-wallet.jpeg
+  - /img/800/ruinreborn_fantasy_art_simple_background_treasure_hoard_--ar__a97b20c7-40bb-4828-8e22-ea9ef7bf545f_1.png.webp
 ---
 
 There are many jobs within the software industry, and most of them are easier to land or are higher-paying once you land them, if you have a solid grasp of computer science fundamentals. You don't need a degree from an accredited university in 90% of cases, but you do need to learn the material, whether it be online, on the job, or in a formal setting. Let's explore the most common computer science job titles and their associated compensation, details, and duties.

@@ -5,7 +5,7 @@ date: "2021-01-19"
 categories:
   - "misc"
 images:
-  - /img/800/wheel-of-emotions.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_two_people_arguing_-_4a093762-fbf6-45ed-a553-9a0d302e6c2e_2.png.webp
 ---
 
 In my full-time role at [Nuvi](https://www.nuvi.com/blog/strategic-decision-making-nuvis-all-new-language-engine), I've been lucky enough to work on a team where we're able to push the boundaries in the natural language processing field. We built out several different "facets" that we score text on, including sentiment, emotion, vulgarity, tense, and currently, we're working on promotion detection.

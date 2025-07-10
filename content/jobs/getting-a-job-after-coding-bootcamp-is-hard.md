@@ -6,7 +6,7 @@ categories:
   - "computer-science"
   - "jobs"
 images:
-  - /img/800/laptop-2557468_1920.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_dejected_wizard_--ar_2edd1db9-df4a-44ca-84bb-ccaa6644b0ec_2.png.webp
 ---
 
 Imagine, like so many folks, that you decide what you want to study when you're just 18. You go to college, finish a four-year degree in mechanical engineering, and then realize what you actually want to do is get a job in coding. There are tons of benefits - pay, flexibility, personal satisfaction. It's a no-brainer.

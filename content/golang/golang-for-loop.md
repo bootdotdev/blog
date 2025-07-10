@@ -6,7 +6,7 @@ lastmod: "2022-10-12"
 categories: 
   - "golang"
 images:
-  - /img/800/gopher-on-a-loopy.png.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_man_walking_through__272124dd-e628-40e4-a2fe-0561c59eb8fc_1.png.webp
 ---
 
 For loops are a programmer's best friend! They allow us execute blocks of code repeatedly and iterate over collections of items. In Go, there are several different ways to write one.

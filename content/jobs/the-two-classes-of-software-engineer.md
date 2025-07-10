@@ -6,7 +6,7 @@ categories:
   - "computer-science"
   - "jobs"
 images:
-  - /img/800/grass-split.avif.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_two_wizards_--ar_169_b778e17f-6b72-4711-bf05-2d541e41b960_0.png.webp
 ---
 
 "Software engineer" has become a ubiquitous term for people who write, deploy, architect, or sometimes even simply test code. In reality, I think there are two classes of "software engineers"; those who understand computer science well enough to do challenging, innovative work, and those who just get by because they're familiar with a few high-level tools. The laziness with which the tech industry has adopted the term "software engineer" has made it harder for us to distinguish between the two.

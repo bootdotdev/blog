@@ -5,7 +5,7 @@ date: "2021-01-04"
 categories:
   - "misc"
 images:
-  - /img/800/pexels-thisisengineering-3861961-1-scaled.jpeg
+  - /img/800/ruinreborn_fantasy_art_simple_background_snake_snake_looking__d8a3c60c-9d26-44e8-af42-39a1880d97fd_2.png.webp
 ---
 
 ## And more importantly, how to choose the most popular coding language you should learn.
