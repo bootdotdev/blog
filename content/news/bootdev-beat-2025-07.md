@@ -23,7 +23,7 @@ We teamed up with CoderCoder and she did a full walkthrough of our [Learn JavaSc
 
 ### 2. Achivement Modal Rework
 
-![new achivement modal](/img/800/Screenshot 2025-07-09 at 8.24.46 PM.png.webp)
+![new achivement modal](/img/800/achivementsimage.webp)
 
 The old achivement modal left a lot to be desired. The big problem was that it didn't show you the full list of possible achievements, only the next one you're working toward. Now you can see them all in all their glory.
 
@@ -39,6 +39,7 @@ The [Leaderboard Page](https://www.boot.dev/leaderboard) has had a massive updat
 - We spent a good chunk of time refactoring how Boots works on the backend... which I know isn't particularly exciting _yet_, but it's teeing up some big features for the next couple of months
 - Images now load with no CLS in the lessons
 - Improved GitHub app syncing experience for streaks
+- The new `BOOT` server tag is available on the Discord... so go rep it!
 
 ## What is yet to come
 
