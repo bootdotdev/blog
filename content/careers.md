@@ -20,6 +20,7 @@ Years of Experience: 8+ (coding), 2+ (writing/editing)
 - Compensation:
   - $125k-$175k base + $50k bonus + 0.5% options (USA)
   - Bonus is based on course production frequency and quality
+  - Compensation is adjusted based on PPP/location if outside the US
 - Location: Remote (Worldwide)
 - Benefits: PTO + Health insurance (if in the US)
 
