@@ -13,19 +13,17 @@ If you're curious about what its like to work with us, check out our [public han
 
 ## Open positions
 
-### Course Producer - Remote - Full Time
+### Senior Course Producer - Remote - Full Time
 
 Years of Experience: 8+ (coding), 2+ (writing/editing)
 
-- Compensation (Depends on experience and location):
-  - Tier 1: $125k-$175k base + $50k bonus + 0.5% options (USA)
-  - Tier 2: $100k-$150k + $40k bonus + 0.4% options (Canada, UK, Australia, etc)
-  - Tier 3: $65k-$115k + $30k + 0.3% options (India, South America, etc)
-  - _Note: Options are 4-year vesting with a 1-year cliff, bonus is based on courses released_.
+- Compensation:
+  - $125k-$175k base + $50k bonus + 0.5% options (USA)
+  - Bonus is based on course production frequency and quality
 - Location: Remote (Worldwide)
 - Benefits: PTO + Health insurance (if in the US)
 
-We are looking for a Course Producer/Editor to help us create more programming and computer science courses on Boot.dev!
+We are looking for a course producer and editor to help us create more programming and computer science courses on Boot.dev!
 
 If you're a highly technical developer with a love for teaching, this could be the perfect role for you! Your main responsibility will be to work with course authors and our in-house engineering team to produce new high-quality interactive courses on the Boot.dev learning platform. Our courses are _highly_ engaging with coding challenges and quizzes along the way. They are _mostly_ written (in Markdown), however, each course also typically includes 5-10 explainer videos that our in-house animators and editors help create visuals for.
 
