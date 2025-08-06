@@ -5,7 +5,7 @@ date: "2021-11-17"
 categories:
   - "misc"
 images:
-  - /img/800/PythonvsC-1-1.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_choosing_betw_18602049-5777-4c61-bf75-08f18b94406d_3.png.webp
 ---
 
 It's either a blessing or a curse when choosing to learn Python or C++ because there couldn't be two more opposing languages to compare.

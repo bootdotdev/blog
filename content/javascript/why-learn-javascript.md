@@ -6,7 +6,7 @@ lastmod: "2022-11-14"
 categories:
   - "javascript"
 images:
-  - /img/800/pexels-artem-podrez-4492129-scaled.jpeg
+  - /img/800/ruinreborn_fantasy_art_simple_background_cup_of_coffee_--ar_1_23665868-c09c-4732-a73b-903e3e79e9df_3.png.webp
 ---
 
 "Why learn JavaScript?" I asked my sister when she was in college and starting to pick up the fundamentals of JavaScript. "Isn't it ancient? Do people still use it?"

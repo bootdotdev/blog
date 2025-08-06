@@ -5,7 +5,7 @@ date: "2021-06-17"
 categories:
   - "golang"
 images:
-  - /img/800/quick.webp
+  - /img/800/lilligantlover_A_short_female_halfling_wizard_fantasy_in_a_libr_81fffeb5-225a-42d0-9138-a447272a90c8.png.webp
 ---
 
 Quicksort is an efficient sorting algorithm commonly used in production sorting implementations. Like [Merge Sort](/golang/merge-sort-golang/), Quicksort is a [divide-and-conquer algorithm](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm). As the name implies, Quicksort is one of the fastest sorting algorithms, but you have to pay attention to detail in your implementation because if you're not careful, your speed can drop quickly.

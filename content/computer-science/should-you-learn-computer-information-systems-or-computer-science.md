@@ -5,7 +5,7 @@ date: "2020-12-03"
 categories:
   - "computer-science"
 images:
-  - /img/800/Glasses-in-front-of-Computer-scaled.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_two_people_arguing_-_153eceaa-ae23-47c5-94c9-a59bb7a6b95f_3.png.webp
 ---
 
 As technology continues to advance, the need for professionals who are capable of utilizing and understanding computers continues to grow. This demand creates a strong job market, with excellent pay and exclusive opportunities. However, there are two fields of study when it comes to working with this technology: Computer Information Systems and [Computer Science](/computer-science/comprehensive-guide-to-learn-computer-science-online/). Both are useful areas of study with in-demand skills, but what are the benefits of each, in comparison to each other? We explore that below.

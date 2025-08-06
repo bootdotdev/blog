@@ -5,7 +5,7 @@ date: "2021-11-29"
 categories: 
   - "clean-code"
 images:
-  - /img/800/done.jpeg
+  - /img/800/ruinreborn_fantasy_art_simple_background_rogue_trying_to_brea_7a75dbe3-62d8-4e62-adbe-193da225767e_0.png.webp
 ---
 
 There is a common trap that we fall into as developers, and it is believing that because some code "worked" that the code was written "correctly". In reality, for most technical problems, a good developer can likely point out several different solutions. Any of those solutions might be perfectly reasonable, while none of them is the single "correct way".

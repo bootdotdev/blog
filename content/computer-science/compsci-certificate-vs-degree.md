@@ -5,7 +5,7 @@ date: "2020-12-02"
 categories:
   - "computer-science"
 images:
-  - /img/800/pexels-artem-podrez-4492130-scaled.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_writ_of_nobility_--a_863969a0-992a-4b99-be7d-4f7f2501be40_1.png.webp
 lastmod: 2024-12-13
 ---
 

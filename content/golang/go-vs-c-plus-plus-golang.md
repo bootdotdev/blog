@@ -6,7 +6,7 @@ lastmod: "2022-10-01"
 categories:
   - "golang"
 images:
-  - /img/800/Go-vs-C-min.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_ordering_food_ba9e514f-dc92-467b-97f0-ee4a805dd582_3.png.webp
 ---
 
 Needing to be a math genius to [learn to code](https://www.boot.dev) is a thing of the past. High-level programming languages offer an alternative to low-level machine code, which makes coding more accessible than ever. Let's dive into how Golang, a modern higher-level language, matches up to C++, a tried-and-true low-level language. We'll cover the most important points like which language is more performant, which is easier to learn, which results in cleaner code, and which programming methodologies guide their respective designs.

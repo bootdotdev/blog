@@ -5,7 +5,7 @@ categories:
   - "clean-code"
 author: lane
 images:
-  - /img/800/calculus-on-a-chalkboard.webp
+  - /img/800/ruinreborn_simple_background_fantasy_art_organization_library_dc06c3e6-a1f7-459e-b242-8831507e8a01_0.png.webp
 ---
 
 Functional programming is a way to write code where programs are created strictly through functions. Functional programming has gained quite a bit of traction in recent years among the development community, mostly because of the benefits it provides.
