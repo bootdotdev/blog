@@ -43,14 +43,14 @@ For example, say you're learning about functions in Python, you:
 
 Great. You solved it. But are you really ready to move on to the next concept?
 
-You got _help_ with functions... so it would be nice if you could now pracitce functions _again_, and hopefully complete it this time _without help_?
+You got _help_ with functions... so it would be nice if you could now practice functions _again_, and hopefully complete it this time _without help_?
 
 Well, pre-training grounds, you only had two options:
 
 1. Reset the lesson and do it again - but that sucks because you already know the answer to that one
 2. Forge ahead to the next concept and challenge - but now you're building on top of a shaky foundation.
 
-So it can feel like everything is moving really fast. And the answer the the problem?
+So it can feel like everything is moving really fast. And the answer to the problem?
 
 **More practice challenges of course**!
 
@@ -64,7 +64,7 @@ So even if we did all that work (which would mean releasing fewer new courses) w
 
 All this to say... we launched The [Training Grounds](https://www.boot.dev/training) today, **and it solves this problem**!
 
-Of course it's 2025 so obviously it's an AI thing, but I swear it's not just one shot slop! we've been working on this system for quite awhile now, and a lot goes into it. It works like this:
+Of course it's 2025 so obviously it's an AI thing, but I swear it's not just one shot slop! We've been working on this system for quite a while now, and a lot goes into it. It works like this:
 
 1. You click "Next Challenge"
 2. The system looks at:
@@ -74,7 +74,7 @@ Of course it's 2025 so obviously it's an AI thing, but I swear it's not just one
 - What you've been struggling with
 - What might need to be reviewed based on time elapsed ([spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition))
 
-3. Based on all that it selects a topic, a difficulty, and a challenge type, and other metadata that will consistute a "good challenge" for you
+3. Based on all that it selects a topic, a difficulty, and a challenge type, and other metadata that will constitute a "good challenge" for you
 4. It sources examples from our existing hand-written challenges that match the type of challenge it's trying to create
 5. It creates a new challenge from scratch (GPT5/Claude Sonnet 4 at time of writing), using those examples as inspiration
 6. It runs the challenge on our backend to ensure it's valid and has a correct solution
