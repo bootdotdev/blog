@@ -1,7 +1,7 @@
-<nav class="z-50 border-b border-gray-700">
-  <div class="mx-auto px-2 sm:px-6 lg:px-8 top-nav-bar-height">
+<nav class="z-50 border-b border-gray-600 bg-image-blue">
+  <div class="mx-auto px-2 lg:px-8 top-nav-bar-height">
     <div class="relative flex items-center justify-between h-full">
-      <div class="absolute inset-y-0 left-0 flex items-center md:hidden">
+      <div class="absolute inset-y-0 left-0 flex items-center lg:hidden">
         <button
           type="button"
           onclick="clickMobileMenuToggle()"
@@ -43,9 +43,12 @@
         </button>
       </div>
 
-      <div class="flex-1 flex items-center justify-center sm:justify-evenly">
+      <div
+        class="flex-1 flex items-center justify-center sm:justify-evenly"
+        style="justify-content: space-between"
+      >
         <div class="h-full">
-          <h2 class="text-xl font-bold">
+          <h2 class="text-xl font-bold hidden lg:block">
             <a href="https://www.boot.dev">
               <img
                 src="/img/300/bootdev-logo-full-small.png"
@@ -55,115 +58,58 @@
             </a>
           </h2>
         </div>
-        <div class="hidden md:flex lg:ml-2">
-          <div class="flex text-sm h-full items-center lg:space-x-4">
-            <div class="group flex flex-col items-center justify-center">
+        <div
+          class="hidden lg:flex text-sm top-nav-bar-height items-center xl:space-x-4"
+        >
+          {{ range .Site.Menus.main }} {{ if .Params.top }}
+          <div class="nav-menu-item relative">
+            <div class="flex flex-col items-center justify-center">
               <a
-                href="https://www.boot.dev/tracks/backend"
-                class="text-gray-300 hover:text-white px-3 py-2 rounded"
+                href="{{.URL}}"
+                class="text-gray-300 hover:text-white px-3 py-4 rounded"
               >
-                Courses
+                {{ .Name }}
               </a>
-
               {{ partial "nav_focus_indicator.html" . }}
             </div>
 
-            <div class="group flex flex-col items-center justify-center">
-              <a
-                href="https://www.boot.dev/pricing"
-                class="text-gray-300 hover:text-white px-3 py-2 rounded"
-              >
-                Pricing
-              </a>
-
-              {{ partial "nav_focus_indicator.html" . }}
+            {{ if .HasChildren }} {{ $parent := .Name }}
+            <div
+              id="submenu-{{ .Name }}"
+              class="nav-submenu fixed under-top-nav-bar bg-white w-screen border-b border-gray-600 bg-image-blue w-[150vw]"
+              style="visibility: hidden; transform: translateX(-49%)"
+            >
+              <div class="flex space-x-6 xl:space-x-10 justify-center">
+                {{ range $child := .Children }}
+                <div class="flex flex-col items-center justify-center">
+                  <a
+                    href="{{.URL}}"
+                    class="text-gray-300 hover:text-white px-3 py-4 rounded w-max whitespace-nowrap"
+                  >
+                    {{ $child.Name }}
+                  </a>
+                  {{ partial "nav_focus_indicator.html" . }}
+                </div>
+                {{ end }}
+              </div>
             </div>
-
-            <div class="group flex flex-col items-center justify-center">
-              <a
-                href="https://www.boot.dev/leaderboard"
-                class="text-gray-300 hover:text-white px-3 py-2 rounded"
-              >
-                Leaderboard
-              </a>
-
-              {{ partial "nav_focus_indicator.html" . }}
-            </div>
-
-            <div class="group flex flex-col items-center justify-center">
-              <a
-                href="https://www.boot.dev/community"
-                class="text-gray-300 hover:text-white px-3 py-2 rounded"
-              >
-                Community
-              </a>
-
-              {{ partial "nav_focus_indicator.html" . }}
-            </div>
-
-            <div class="group flex flex-col items-center justify-center">
-              <a
-                href="https://www.boot.dev/lore"
-                class="text-gray-300 hover:text-white px-3 py-2 rounded"
-              >
-                Lore
-              </a>
-
-              {{ partial "nav_focus_indicator.html" . }}
-            </div>
-
-            <div class="group flex flex-col items-center justify-center">
-              <a
-                href="https://www.youtube.com/@bootdotdev"
-                class="text-gray-300 hover:text-white px-3 py-2 rounded"
-              >
-                Youtube
-              </a>
-
-              {{ partial "nav_focus_indicator.html" . }}
-            </div>
-
-            <div class="group flex flex-col items-center justify-center">
-              <a
-                href="https://www.backendbanter.fm/"
-                class="text-gray-300 hover:text-white px-3 py-2 rounded"
-              >
-                Podcast
-              </a>
-
-              {{ partial "nav_focus_indicator.html" . }}
-            </div>
-
-            <div class="group flex flex-col items-center justify-center">
-              <a
-                href="/"
-                class="text-gray-300 hover:text-white px-3 py-2 rounded"
-              >
-                Blog
-              </a>
-
-              {{ partial "nav_focus_indicator.html" . }}
-            </div>
-
-            <a href="https://www.boot.dev" class="block-button-primary">
-              Sign In
-            </a>
+            {{ end }}
           </div>
+          {{ end }} {{ end }}
         </div>
+        <a href="https://www.boot.dev" class="block-button-primary">
+          Sign In
+        </a>
+        <div class="block lg:hidden"></div>
       </div>
     </div>
   </div>
-
-  <div class="md:hidden" id="mobile-menu" style="display: none">
+  <div
+    class="md:hidden bg-image-blue border-b border-gray-600"
+    id="mobile-menu"
+    style="display: none"
+  >
     <div class="px-2 pt-2 pb-3 space-y-1">
-      <a
-        href="https://www.boot.dev"
-        class="bg-gray-900 text-white block px-3 py-2 rounded-md text-base font-medium"
-        aria-current="page"
-      >
-        Sign In
-      </a>
-
       <a
         href="https://www.boot.dev/tracks/backend"
         class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
@@ -179,13 +125,6 @@
       </a>
 
       <a
-        href="https://www.boot.dev/leaderboard"
-        class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-      >
-        Leaderboard
-      </a>
-
-      <a
         href="https://www.boot.dev/community"
         class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
       >
@@ -193,38 +132,10 @@
       </a>
 
       <a
-        href="https://www.boot.dev/lore"
+        href="https://www.boot.dev/leaderboard"
         class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
       >
-        Lore
-      </a>
-
-      <a
-        href="https://www.youtube.com/@bootdotdev"
-        class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-      >
-        Youtube
-      </a>
-
-      <a
-        href="https://www.backendbanter.fm/"
-        class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-      >
-        Podcast
-      </a>
-
-      <a
-        href="/about/"
-        class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-      >
-        About
-      </a>
-
-      <a
-        href="/"
-        class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-      >
-        Blog
+        Leaderboard
       </a>
     </div>
   </div>
