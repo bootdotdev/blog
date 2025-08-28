@@ -12,6 +12,8 @@ imageAlts:
 
 We've always said Boot.dev is fun... but we've never said it's _easy_.
 
+{{< bdyoutube GxN3aWszGU4 >}}
+
 I mean, it's not for lack of _trying_. We do everything we can to make the content as easy to understand as it can be:
 
 - We make meticulous updates to the explanations and lessons based on user feedback
