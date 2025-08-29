@@ -3,7 +3,8 @@ languageCode = 'en-us'
 title = 'Boot.dev Blog'
 disqusShortname = ""
 ignoreFiles = []
-paginate = 25
+[pagination]
+pagerSize = 25
 enableRobotsTXT = true
 summaryLength = 15
 pluralizelisttitles = false

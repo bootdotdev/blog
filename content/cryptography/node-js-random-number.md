@@ -2,7 +2,7 @@
 title: "Secure Random Numbers in Node.js"
 author: lane
 date: "2019-07-03"
-lastmod: 2022-10-01"
+lastmod: "2022-10-01"
 categories:
   - "cryptography"
   - "javascript"
