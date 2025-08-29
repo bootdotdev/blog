@@ -3,10 +3,12 @@ languageCode = 'en-us'
 title = 'Boot.dev Blog'
 disqusShortname = ""
 ignoreFiles = []
-paginate = 25
+[pagination]
+pagerSize = 25
 enableRobotsTXT = true
 summaryLength = 15
 pluralizelisttitles = false
+sectionPagesMenu = "main"
 
 [sitemap]
 changefreq = 'weekly'
@@ -56,3 +58,127 @@ weight = 100
 [[related.indices]]
 name = 'date'
 weight = 10
+
+[menu]
+  [[menu.main]]
+    name = "Courses"
+    url = "https://www.boot.dev/tracks/backend"
+    weight = 1
+    [menu.main.params]
+      top = true
+      external = true
+
+  [[menu.main]]
+    name = "Backend Path - Golang"
+    url = "https://www.boot.dev/tracks/backend-python-golang"
+    weight = 2
+    parent = "Courses"
+    [menu.main.params]
+      top = true
+      external = true
+
+  [[menu.main]]
+    name = "Backend Path - TypeScript"
+    url = "https://www.boot.dev/tracks/backend-python-typescript"
+    weight = 3
+    parent = "Courses"
+    [menu.main.params]
+      top = true
+      external = true
+
+  [[menu.main]]
+    name = "Training"
+    url = "https://www.boot.dev/training"
+    weight = 4
+    identifier = "Training"
+    [menu.main.params]
+      top = true
+      external = true
+
+  [[menu.main]]
+    name = "Pricing"
+    url = "https://www.boot.dev/pricing"
+    weight = 5
+    identifier = "Pricing"
+    [menu.main.params]
+      top = true
+      external = true
+
+  [[menu.main]]
+    name = "Gifts"
+    url = "https://www.boot.dev/gifts"
+    weight = 6
+    parent = "Pricing"
+    [menu.main.params]
+      top = true
+      external = true
+
+  [[menu.main]]
+    name = "Redeem"
+    url = "https://www.boot.dev/redeem"
+    weight = 7
+    parent = "Pricing"
+    [menu.main.params]
+      top = true
+      external = true
+
+  [[menu.main]]
+    name = "Teams"
+    url = "https://www.boot.dev/teams"
+    weight = 8
+    parent = "Pricing"
+    [menu.main.params]
+      top = true
+      external = true
+
+  [[menu.main]]
+    name = "Community"
+    url = "https://www.boot.dev/community"
+    weight = 9
+    identifier = "Community"
+    [menu.main.params]
+      top = true
+      external = true
+
+  [[menu.main]]
+    name = "Youtube"
+    url = "https://www.youtube.com/@bootdotdev"
+    weight = 10
+    parent = "Community"
+    [menu.main.params]
+      top = true
+      external = true
+
+  [[menu.main]]
+    name = "Podcast"
+    url = "https://www.backendbanter.fm/"
+    weight = 11
+    parent = "Community"
+    [menu.main.params]
+      top = true
+      external = true
+
+  [[menu.main]]
+    name = "Lore"
+    url = "https://www.boot.dev/lore"
+    weight = 12
+    parent = "Community"
+    [menu.main.params]
+      top = true
+      external = true
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 13
+    parent = "Community"
+    params = { top = true }
+
+  [[menu.main]]
+    name = "Leaderboard"
+    url = "https://www.boot.dev/leaderboard"
+    weight = 14
+    identified = "Leaderboard"
+    [menu.main.params]
+      top = true
+      external = true

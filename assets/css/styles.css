@@ -50,7 +50,7 @@
   --yellow-900: #3b2710;
   --yellow-950: #2a1c0c;
 
-  --top-nav-bar-height: 56px;
+  --top-nav-bar-height: 50px;
 }
 
 .h-full-minus-bar {
@@ -63,6 +63,25 @@
 
 .top-nav-bar-height {
   height: var(--top-nav-bar-height);
+}
+
+.under-top-nav-bar {
+  top: calc(var(--top-nav-bar-height) + 1px);
+}
+
+.nav-menu-item:focus-within .nav-submenu,
+.nav-menu-item:hover .nav-submenu {
+  visibility: visible !important;
+}
+
+.nav-menu-item:hover > div:not(.nav-submenu) .nav-indicator,
+.nav-menu-item:focus-within > div:not(.nav-submenu) .nav-indicator {
+  visibility: visible !important;
+}
+
+.nav-menu-item .nav-submenu div:hover > .nav-indicator,
+.nav-menu-item .nav-submenu div:focus-within > .nav-indicator {
+  visibility: visible !important;
 }
 
 body {
