@@ -46,4 +46,4 @@ The [Leaderboard Page](https://www.boot.dev/leaderboard) has had a massive updat
 - A new RAG course
 - A new feature... that is totally secret for now, but that has _something_ to do with better review and practice
 - Walkthrough of the TS course
-- Walktrhough of the HTTP Servers course
+- Walkthrough of the HTTP Servers course
