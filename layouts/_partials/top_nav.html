@@ -1,4 +1,4 @@
-<nav class="z-50 border-b border-gray-600 bg-image-blue">
+<nav class="z-50 border-b border-gray-600 bg-image-blue fixed w-dvw">
   <div class="mx-auto px-2 lg:px-8 top-nav-bar-height">
     <div class="relative flex items-center justify-between h-full">
       <div class="absolute inset-y-0 left-0 flex items-center lg:hidden">
@@ -76,7 +76,7 @@
             {{ if .HasChildren }} {{ $parent := .Name }}
             <div
               id="submenu-{{ .Name }}"
-              class="nav-submenu fixed under-top-nav-bar bg-white w-screen border-b border-gray-600 bg-image-blue w-[150vw]"
+              class="nav-submenu fixed under-top-nav-bar border-b border-gray-600 bg-image-blue w-[150vw]"
               style="visibility: hidden; transform: translateX(-49%)"
             >
               <div class="flex space-x-6 xl:space-x-10 justify-center">
@@ -105,38 +105,37 @@
     </div>
   </div>
   <div
-    class="md:hidden bg-image-blue border-b border-gray-600"
-    id="mobile-menu"
     style="display: none"
+    class="h-dvh w-dvw lg:invisible lg:h-0 lg:w-0"
+    id="mobile-menu"
   >
     <div class="px-2 pt-2 pb-3 space-y-1">
-      <a
-        href="https://www.boot.dev/tracks/backend"
-        class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-      >
-        Courses
-      </a>
-
-      <a
-        href="https://www.boot.dev/pricing"
-        class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-      >
-        Pricing
-      </a>
-
-      <a
-        href="https://www.boot.dev/community"
-        class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-      >
-        Community
-      </a>
-
-      <a
-        href="https://www.boot.dev/leaderboard"
-        class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-      >
-        Leaderboard
-      </a>
+      <ul class="flex flex-col gap-2">
+        {{ range .Site.Menus.main }} {{ if .Params.top }}
+        <li
+          id="mobile-nav-menu-item-{{ .Name }}"
+          class="block px-3 text-base font-medium text-gray-300 sm:text-lg"
+        >
+          <a href="{{.URL}}" class="hover:text-white">
+            <span>{{ .Name }}</span>
+          </a>
+          {{ if .HasChildren }} {{ $parent := .Name }}
+          <ul class="mt-3 border-t border-gray-600 py-2">
+            {{ range $child := .Children }}
+            <li
+              class="block px-3 py-1 text-sm font-normal text-gray-300 sm:text-base"
+              id="mobile-nav-submenu-item-{{ .Name }}"
+            >
+              <a href="{{.URL}}" class="hover:text-white">
+                <span> {{ $child.Name }} </span>
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+          {{ end }}
+        </li>
+        {{ end }} {{ end }}
+      </ul>
     </div>
   </div>
 </nav>
