@@ -1,14 +1,45 @@
 :root {
-  color-scheme: dark;
+  --red-100: #fcd9da;
+  --red-150: #fac7c8;
+  --red-200: #f8b4b5;
+  --red-250: #f7a1a3;
+  --red-300: #f58f91;
+  --red-350: #f37c7e;
+  --red-400: #f16a6c;
+  --red-450: #ef575a;
+  --red-500: #ed4245;
+  --red-550: #ec3235;
+  --red-600: #ea1f22;
+  --red-650: #e01518;
+  --red-700: #cd1316;
+  --red-750: #bb1114;
+  --red-800: #a81012;
+  --red-850: #950e10;
+  --red-900: #830c0e;
+  --red-950: #2e0405;
 
-  --red-500: #c05460;
+  --blue-300: #8794c0;
+  --blue-400: #6c7cb2;
+  --blue-500: #5466a0;
+  --blue-600: #465586;
 
-  --blue-300: hsl(235, 91%, 81%);
-  --blue-350: hsl(235, 89%, 77%);
-  --blue-400: hsl(235, 88%, 73%);
-  --blue-450: hsl(235, 87%, 69%);
-  --blue-500: hsl(235, 86%, 65%);
-  --blue-600: hsl(235, 89%, 57%);
+  --cyan-100: #d7ebfb;
+  --cyan-200: #b2d8f8;
+  --cyan-300: #8dc5f4;
+  --cyan-400: #67b3f1;
+  --cyan-500: #42a0ed;
+  --cyan-600: #1586e1;
+  --cyan-700: #1167ae;
+  --cyan-800: #0c497b;
+  --cyan-900: #072b48;
+  --cyan-950: #041b2e;
+
+  --green-500: #41f179;
+  --green-600: #11e956;
+  --green-700: #0db543;
+  --green-800: #09802f;
+  --green-900: #064c1c;
+  --green-950: #043212;
 
   --gray-50: #f5f7f9;
   --gray-100: #e8ecf1;
@@ -51,6 +82,8 @@
   --yellow-950: #2a1c0c;
 
   --top-nav-bar-height: 50px;
+
+  color-scheme: dark;
 }
 
 .h-full-minus-bar {
@@ -59,29 +92,6 @@
 
 .anchor {
   scroll-margin-top: 4rem;
-}
-
-.top-nav-bar-height {
-  height: var(--top-nav-bar-height);
-}
-
-.under-top-nav-bar {
-  top: calc(var(--top-nav-bar-height) + 1px);
-}
-
-.nav-menu-item:focus-within .nav-submenu,
-.nav-menu-item:hover .nav-submenu {
-  visibility: visible !important;
-}
-
-.nav-menu-item:hover > div:not(.nav-submenu) .nav-indicator,
-.nav-menu-item:focus-within > div:not(.nav-submenu) .nav-indicator {
-  visibility: visible !important;
-}
-
-.nav-menu-item .nav-submenu div:hover > .nav-indicator,
-.nav-menu-item .nav-submenu div:focus-within > .nav-indicator {
-  visibility: visible !important;
 }
 
 body {
@@ -244,4 +254,45 @@ main thead,
 tfoot,
 tr:nth-child(even) {
   background: var(--gray-700);
+}
+
+.h-full-minus-bar {
+  height: calc(100vh - var(--top-nav-bar-height) - 1px);
+}
+
+.anchor {
+  scroll-margin-top: 4rem;
+}
+
+.top-nav-bar-height {
+  height: var(--top-nav-bar-height);
+}
+
+.under-top-nav-bar {
+  top: calc(var(--top-nav-bar-height) + 1px);
+}
+
+.nav-menu-item:focus-within .nav-submenu,
+.nav-menu-item:hover .nav-submenu {
+  visibility: visible !important;
+}
+
+.nav-menu-item:hover > div:not(.nav-submenu) .nav-indicator,
+.nav-menu-item:focus-within > div:not(.nav-submenu) .nav-indicator {
+  visibility: visible !important;
+}
+
+.nav-menu-item .nav-submenu div:hover > .nav-indicator,
+.nav-menu-item .nav-submenu div:focus-within > .nav-indicator {
+  visibility: visible !important;
+}
+
+.nav-menu-item:focus-within #nav-focus-indicator-Blog,
+.nav-menu-item:hover #nav-focus-indicator-Blog {
+  visibility: visible !important;
+}
+
+#mobile-nav-menu-item-Blog a,
+#mobile-nav-submenu-item-Blog a {
+  color: white !important;
 }
