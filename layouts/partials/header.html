@@ -78,9 +78,9 @@
 
   {{ partial "favicons.html" . }}
   {{ partial "jsonld.html" . }}
-  {{ partial "opengraph.html" . }}
-  {{ partial "twitter_cards.html" . }}
-  {{ partial "schema.html" . }}
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
+  {{ template "_internal/schema.html" . }}
 </head>
 
 <body class="text-gray-250 m-0 bg-image-blue">
