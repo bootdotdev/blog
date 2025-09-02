@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
 <div class="flex flex-row">
-  <div class="flex-1 items-center w-full h-full-minus-bar overflow-y-auto">
+  <div class="flex-1 items-center w-full h-full-minus-bar overflow-y-auto p-14">
     <div class="max-w-4xl m-auto p-4 sm:p-8">
       <div class="mb-8 flex flex-row justify-center">
         <h1 class="text-4xl text-white mb-2">
@@ -63,7 +63,7 @@
               </span>
               {{ end }}
 
-              <p class="hidden sm:block">{{ .Summary }}</p>
+              <p class="hidden sm:block">{{ .Summary | plainify }}</p>
             </div>
           </a>
         </li>
