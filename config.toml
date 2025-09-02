@@ -1,4 +1,3 @@
-min_version = "0.149.0"
 baseURL = 'https://blog.boot.dev/'
 languageCode = 'en-us'
 title = 'Boot.dev Blog'
