@@ -5,7 +5,7 @@ date: "2025-09-04"
 images:
   - "/img/800/handwriting.png.webp"
 aliases:
-  - "/author-careers"
+  - "/author-careers/"
 ---
 
 We create most of our courses at Boot.dev in-house, but we also love to collaborate with talented authors! If you're interested in creating a course for Boot.dev, here's some preliminary info about how we work:
