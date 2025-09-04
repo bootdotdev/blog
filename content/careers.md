@@ -14,3 +14,7 @@ If you're curious about what its like to work with us, check out our [public han
 ## Open positions
 
 No positions at this time! Keep an eye out for future postings!
+
+## Creating Courses
+
+We're always looking for course authors to help us write new courses on a freelance basis. [Read more here](/author-careers)
