@@ -53,8 +53,8 @@
 
   {{ if .Description }}
   <meta name="description" content="{{ .Description }}" />
-  {{ else if .Summary }}
-  <meta name="description" content="{{ .Summary }}" />
+  {{ else if .Summary | plainify }}
+  <meta name="description" content="{{ .Summary | plainify }}" />
   {{ else }}
   <meta name="description" content="{{ .Site.Params.Description }}" />
   {{ end }}
