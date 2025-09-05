@@ -32,6 +32,16 @@
   background-position: center;
 }
 
+.bg-image-blue-fixed {
+  background: url("/img/800/maptexture2.webp"),
+    linear-gradient(var(--gray-950), var(--gray-900));
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
 .bg-wooden-divider {
   background-image: url("/img/800/woodendividergem.webp");
 }
