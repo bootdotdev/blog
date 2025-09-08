@@ -1,7 +1,7 @@
 ---
 title: "The Boot.dev Beat. September 2025"
 author: lane
-date: "2025-08-04"
+date: "2025-09-08"
 categories:
   - "news"
 images:
