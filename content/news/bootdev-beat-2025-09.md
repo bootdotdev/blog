@@ -23,7 +23,7 @@ Lane
 
 The [Training Grounds](https://www.boot.dev/training) solves the problem of "I need more practice challenges, these courses are moving too fast!"
 
-You can generate personalized practice challenges (both coding challenges and Boots interview challenges) anytime from the training grounds, and they're automatically tailored to where you're at in your journey. It looks at things like:
+You can generate personalized practice challenges (both coding challenges and Boots interview challenges) anytime from the training grounds, and they're automatically tailored to where you are in your journey. It looks at things like:
 
 - What courses you've completed
 - What topics you've learned recently
@@ -34,7 +34,7 @@ You can also share challenges and practice on the challenges that others have ge
 
 ### 2. Boots' Interview Lessons
 
-We're introducing an entirely new type of interactive lesson: the Boots' interview! It's _kinda_ like a multiple choice question... but much better for learning. You're asked an open-ended question by Boots, and then you chat back and forth with him interview-style until he's satisfied that you've covered the points that the instructor wanted to be sure you understood.
+We're introducing an entirely new type of interactive lesson: the Boots interview! It's _kinda_ like a multiple choice question... but much better for learning. You're asked an open-ended question by Boots, and then you chat back and forth with him interview-style until he's satisfied that you've covered the points that the instructor wanted to be sure you understood.
 
 Right now it's mostly used in the Training Grounds, but we'll be adding more of these types of lessons to the regular courses as well.
 
