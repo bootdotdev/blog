@@ -27,7 +27,7 @@ Reception of the [Training Grounds](https://www.boot.dev/training) has been fant
 
 Real-time voice chats with Boots are now live! We've replaced the "record a message" functionality with an actual "phone call" with Boots. Each time you begin speaking, if your code editor has changed, he automatically has the new context, so you can have buttery smooth conversations with him about the state of your editor.
 
-![realtime boots chat screenshot](/img/800/realtimeboots.png.webp)
+![realtime boots chat screenshot](/img/800/realtimechat.png.webp)
 
 Note: we're not exactly sure how expensive this is gonna be under production usage, so there may or may not be daily usage limits of some sort implemented at some point, but for now we're just monitoring it to see what that looks like, because realtime chat tokens do be expensive out here.
 
