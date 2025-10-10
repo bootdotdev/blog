@@ -5,11 +5,12 @@ title = 'Boot.dev Blog'
 disqusShortname = ""
 ignoreFiles = []
 summaryLength = 15
-[pagination]
-pagerSize = 25
 enableRobotsTXT = true
 pluralizelisttitles = false
 sectionPagesMenu = "main"
+
+[pagination]
+pagerSize = 25
 
 [sitemap]
 changefreq = 'weekly'
