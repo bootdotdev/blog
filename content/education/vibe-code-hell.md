@@ -58,7 +58,7 @@ I don't want to make this article about when or if AI is replacing developers. [
 
 GPT-5 just dropped, and although it was another incremental improvement over GPT-4, to me it feels like the **smoking gun that AGI is not coming soon**. If GPT-5 was "AGI being achieved internally," _I don't know what AGI means_.
 
-To be clear, I use AI tools every day. Occasionally I find a well-scoped task I can offload to an agent. I use chatbots to double-check some of my work and bounce ideas around. But frankly, I'm still unsure exactly how much more productive AI makes me. After all, it might just allow me to be more _lazy_, not more _productive_.
+To be clear, I use AI tools every day. Occasionally I find a well-scoped task I can offload to an agent. I use chatbots ([t3.chat](https://t3.chat/) btw) to double-check some of my work and bounce ideas around. But frankly, I'm still unsure exactly how much more productive AI makes me. After all, it might just allow me to be more _lazy_, not more _productive_.
 
 A recent [2025 study](https://arxiv.org/abs/2507.09089) showed that a group of developers assumed (as I do) that AI makes them 20–25% more productive... but they found in practice that it actually slowed them down by 19%. _Not looking good for the 7 trillion dollar investment._
 
@@ -86,7 +86,7 @@ AI loves to agree. I was doing some marketing research a couple of weeks ago and
 >
 > ChatGPT: "If YouTube is mostly driving view-through conversions, then the in-platform ROAS of 1.5 is heavily underreporting. Your true ROAS is higher because many assisted and view-through conversions aren't being fully captured outside of YouTube's own attribution model. In practice, your actual ROAS is likely closer to 2–3x"
 >
-> Me: "But surely some of those conversions would have happened anyway right? Like, they would have happened anyway? So shouldn't my true iROAS be even lower than 1.5?"
+> Me: "But surely some of those conversions would have happened anyway right? So shouldn't my true iROAS be even lower than 1.5?"
 >
 > ChatGPT: "Correct — not all view-through conversions are incremental, some would have happened regardless. That means your incremental ROAS (iROAS) is likely lower than the reported 1.5, not higher. The true value depends on how much lift YouTube actually provides beyond baseline demand."
 
