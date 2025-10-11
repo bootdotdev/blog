@@ -1,11 +1,13 @@
 ---
-title: "I'm in Vibe Code Hell"
+title: "I'm in Vibe Coding Hell"
 author: lane
 date: "2025-10-10"
 categories:
   - "education"
 images:
   - /img/800/vibecodehell.png.webp
+aliases:
+  - /education/vibe-code-hell/
 ---
 
 When I started thinking about the problems with coding education in 2019, "tutorial hell" was enemy number one. You'd know you were living in it if you:
@@ -30,9 +32,9 @@ There's still _plenty_ of interest in coding, so why are long-form tutorials on 
 
 Well, I talk to a _lot_ of students on Boot.dev. We get around 1,300 new registered users every day, many of whom join our [Discord](https://www.boot.dev/community). And at least anecdotally, I've noticed far fewer complaints about "tutorial hell" over the last 18 months.
 
-**Students are still struggling, they've just found a fresh new hell.** I've come to call it _"vibe code hell."_
+**Students are still struggling, they've just found a fresh new hell.** I've come to call it _"vibe coding hell."_
 
-## What Is "Vibe Code Hell"?
+## What Is "Vibe Coding Hell"?
 
 Tutorial hell was:
 
@@ -159,7 +161,7 @@ This is gonna be a really boring conclusion, but it's basically the same as esca
 - System prompts that push the LLM to ask questions using the Socratic method
 - System prompts that ask the LLM to cite sources and link to documentation when making claims
 
-Learning [_must_ be uncomfortable](https://pubmed.ncbi.nlm.nih.gov/24628487/). Tutorial hell allowed you to avoid discomfort by watching someone else code. Vibe code hell lets you avoid discomfort by having AI write code for you.
+Learning [_must_ be uncomfortable](https://pubmed.ncbi.nlm.nih.gov/24628487/). Tutorial hell allowed you to avoid discomfort by watching someone else code. Vibe coding hell lets you avoid discomfort by having AI write code for you.
 
 Real learning happens when you're stuck, frustrated, and most importantly **forced to problem-solve**. That's how your (human) neural network is rewired. Taken too far, this idea of "learning must be hard" can turn into an excuse for poor instructional design, but I'm not advocating for that. There are better and worse ways to teach. My point is that even when a concept is explained in the best possible way, the student still needs to wrestle with it and _use it themselves in a new context_ to really get it.
 
