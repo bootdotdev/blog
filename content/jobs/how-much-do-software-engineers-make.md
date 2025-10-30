@@ -42,7 +42,7 @@ And globally:
 As it happens, we have several great Go courses to jumpstart your career:
 
 - [Learn Go](https://www.boot.dev/courses/learn-golang)
-- [Learn Algorithms)](https://www.boot.dev/courses/learn-algorithms-python)
+- [Learn Algorithms)](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)
 - [Learn Cryptography](https://www.boot.dev/courses/learn-cryptography-golang)
 
 ## Is It Best to Specialize in One Language?

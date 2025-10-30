@@ -230,7 +230,7 @@ What if you prefer to read? Text-based tutorials are a great option for any burg
 
 There are a plethora of free resources available online that provide detailed and comprehensive Python tutorials in written form.
 
-These tutorials cover everything from the basics of Python syntax and [data structures](https://www.boot.dev/courses/learn-data-structures-python) to more advanced topics like web scraping, data analysis, and machine learning. Many of these resources also provide practical examples and exercises to help reinforce the concepts learned.
+These tutorials cover everything from the basics of Python syntax and [data structures](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python) to more advanced topics like web scraping, data analysis, and machine learning. Many of these resources also provide practical examples and exercises to help reinforce the concepts learned.
 
 ### Cons
 

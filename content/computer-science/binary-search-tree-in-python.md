@@ -19,8 +19,7 @@ A binary search tree, or BST for short, is a tree where each node is a value gre
 Also, if you're interested in _really_ learning this stuff, you should check out three of my courses:
 
 - [Learn Python course](https://www.boot.dev/courses/learn-code-python)
-- [Learn Algorithms course](https://www.boot.dev/courses/learn-algorithms-python)
-- [Learn Data Structures course](https://www.boot.dev/courses/learn-data-structures-python)
+- [Learn Data Structures and Algorithms course](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)
 
 ## Why would I use a binary search tree?
 

@@ -27,7 +27,7 @@ Example problems and some of their common heuristics are given below.
 
 ![](/img/800/tsp-1024x606.jpg)
 
-The TSP is a famous [algorithm with a Big-O](https://www.boot.dev/courses/learn-algorithms-python) complexity of `O(n!)` and asks the question:
+The TSP is a famous [algorithm with a Big-O](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python) complexity of `O(n!)` and asks the question:
 
 > Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?
 

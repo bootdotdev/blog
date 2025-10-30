@@ -26,7 +26,7 @@ Okay, technically we re-released it, but this new course is so much better than 
 
 ### 2. Tries and heaps chapters added
 
-We added 2 new chapters to the [Learn Data Structures](https://www.boot.dev/courses/learn-data-structures-python) and [Learn Advanced Algorithms](https://www.boot.dev/courses/learn-algorithms-2-python) courses: tries and heaps.
+We added 2 new chapters to the [Data Structures and Algorithms](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python) and [Data Structures and Algorithms 2](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python-2) courses: tries and heaps.
 
 ### 3. Better gem store experience
 

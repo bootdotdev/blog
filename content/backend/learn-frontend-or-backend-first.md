@@ -18,7 +18,7 @@ To be clear, it's the wild west out here. In tech, as long as you're willing to 
 
 Because you can start with either one, the most important question is "what do you enjoy most"?
 
-If you like building user interfaces (buttons, animations, dropdown menus, that sort of thing) then you might prefer front-end work. On the other hand, if you like data, networking, clever [algorithms](https://www.boot.dev/courses/learn-algorithms-python), and systems architecture, you might really love a back-end role.
+If you like building user interfaces (buttons, animations, dropdown menus, that sort of thing) then you might prefer front-end work. On the other hand, if you like data, networking, clever [algorithms](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python), and systems architecture, you might really love a back-end role.
 
 The beautiful thing about web development is that even if you specialize, you can always make a change later! Just because you start by [becoming a back-end engineer](/backend/become-backend-developer), doesn't mean you can't become a front-end developer later... which is a good thing, because that's exactly what I did!
 

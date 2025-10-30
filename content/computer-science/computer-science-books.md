@@ -1,12 +1,12 @@
 ---
-title: "The Top 11 Computer Science Books for Self Study [2024]"
+title: "The Top 11 Computer Science Books for Self Study [2025]"
 author: natalie
 date: "2022-08-24"
 categories:
   - "computer-science"
 images:
   - /img/800/stackofbooks.webp.webp
-lastmod: "2024-10-31"
+lastmod: "2025-10-25"
 ---
 
 In today's modern, fast-paced world, we look to StackOverflow, Reddit, and [hands-on courses](https://www.boot.dev) to learn about computer science and software engineering. But there are some real benefits to using books as an additional resource.
@@ -39,7 +39,7 @@ It covers:
 
 - Computing systems
 - Binary code
-- [Algorithms](https://www.boot.dev/courses/learn-algorithms-python)
+- [Algorithms](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)
 - Computational thinking
 - Loops, events, and procedures
 - Programming in Scratch and [Python](https://www.boot.dev/courses/learn-code-python)
@@ -117,7 +117,7 @@ Here are the five sections covered in this book:
 1. [Learn to program in Python 3](https://www.boot.dev/courses/learn-code-python) and build your first program.
 2. Learn Object-oriented programming and create a powerful Python program to get you hooked.
 3. [Learn to use tools like Git](https://www.boot.dev/courses/learn-git), [Bash](https://www.boot.dev/courses/learn-shells-and-terminals), and regular expressions. Then use your new coding skills to build a web scraper.
-4. Study Computer Science fundamentals like [data structures](https://www.boot.dev/courses/learn-data-structures-python) and [algorithms](https://www.boot.dev/courses/learn-algorithms-python).
+4. Study Computer Science fundamentals like [data structures and algorithms](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python).
 5. Finish with best coding practices, tips for working with a team, and advice on [landing a programming job](https://www.boot.dev/courses/learn-job-search).
 
 Helpful review:
@@ -238,7 +238,7 @@ This computer science tome (I hesitate to even call it a book) is considered the
 Here's what you can expect this book to cover:
 
 - Sorting and order statistics
-- [Data structures](https://www.boot.dev/courses/learn-data-structures-python)
+- [Data structures](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)
 - Advanced design and analysis techniques
 - Advanced data structures
 - Graph algorithms

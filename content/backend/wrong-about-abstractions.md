@@ -61,6 +61,6 @@ One of the [reasons I decided to start Boot.dev](https://blog.boot.dev/about/) w
 
 I talk to a lot of students. Some have a more academic background, and after getting a feel for their situation I often try to push them into building more projects and worrying less about inverting binary trees.
 
-Other students I've worked with are bootcamp graduates or have been self-teaching online. With them, I'm often pointing them to resources that explain the fundamentals of the stuff they're still fuzzy on. Things like my hands-on [HTTP](https://www.boot.dev/courses/learn-http-clients-golang), [Algorithms](https://www.boot.dev/courses/learn-algorithms-python), or [SQL](https://www.boot.dev/courses/learn-sql) courses.
+Other students I've worked with are bootcamp graduates or have been self-teaching online. With them, I'm often pointing them to resources that explain the fundamentals of the stuff they're still fuzzy on. Things like my hands-on [HTTP](https://www.boot.dev/courses/learn-http-clients-golang), [Algorithms](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python), or [SQL](https://www.boot.dev/courses/learn-sql) courses.
 
 At the end of the day, it just depends. If you're actively learning to code I hope this helps you figure out what kinds of things you should study _next_ to keep moving forward. Good luck!

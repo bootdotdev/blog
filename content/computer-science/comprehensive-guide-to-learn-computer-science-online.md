@@ -151,9 +151,8 @@ I'm in complete agreement with the traditional education system that familiarity
 
 #### Resources
 
-- [Boot.dev's Learn Algorithms course](https://www.boot.dev/courses/learn-algorithms-python)
-- [Boot.dev's Learn Data Structures course](https://www.boot.dev/courses/learn-data-structures-python)
-- [Boot.dev's Learn Advanced Algorithms course](https://www.boot.dev/courses/learn-algorithms-2-python)
+- [Boot.dev's Data Structures and Algorithms course](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)
+- [Boot.dev's Data Structures and Algorithms 2 course](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python-2)
 - [Data-Structures & Algorithms with JavaScript](https://github.com/GauravWalia19/Free-Algorithms-Books/blob/master/Library/src/JAVASCRIPT/Data-Structures-%26-Algorithms-with-JavaScript.pdf)
 - [Steven Skiena's Video Lectures](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
 - ["Algorithms" book by Dasgupta](https://freecomputerbooks.com/Algorithms.html)

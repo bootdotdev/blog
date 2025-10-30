@@ -27,7 +27,7 @@ Computer science includes:
 
 - Programming! You need to know how to write code. You can [start here in Python](https://www.boot.dev/courses/learn-code-python) if you're new.
 - Programming paradigms like [object-oriented programming](https://www.boot.dev/courses/learn-object-oriented-programming-python) and [functional programming](https://www.boot.dev/courses/learn-functional-programming-python)
-- The study of [algorithms](https://www.boot.dev/courses/learn-algorithms-python) and [data structures](https://www.boot.dev/courses/learn-data-structures-python)
+- The study of [algorithms and data structures](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python).
 - Understanding of [memory management](https://www.boot.dev/courses/learn-memory-management-c) and CPU architecture
 - Modeling data and information processes
 - Operating systems

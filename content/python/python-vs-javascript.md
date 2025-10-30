@@ -87,7 +87,7 @@ It's also compatible with Google's famous ML and deep learning library TensorFlo
 
 Even with this support, however, it was never adopted by the machine learning community. There are limited resources and no promise of new developments any time soon because current investment is focused on Python rather than JavaScript.
 
-**Hot tip:** Machine learning is largely the application of algorithms that use and learn from data. So, the more [advanced your algorithms](https://www.boot.dev/courses/learn-algorithms-2-python) are, the better machine learning developer you'll become.
+**Hot tip:** Machine learning is largely the application of algorithms that use and learn from data. So, the more advanced your algorithms are (check out [Data Structures and Algorithms 2](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python-2)), the better machine learning developer you'll become.
 
 ## Python vs JavaScript for Data Science
 

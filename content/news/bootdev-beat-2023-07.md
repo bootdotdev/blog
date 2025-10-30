@@ -28,9 +28,9 @@ The highest rank in Boot.dev at present is "Archmage" (unlocked at level 100) an
 
 We purposefully made Archmage practically impossible to reach, but with the new CI/CD course launching next month, I expect we'll have our first Archmage by the end of July.
 
-### [3. New videos in the Learn Algorithms course](https://www.boot.dev/courses/learn-algorithms-python)
+### [3. New videos in the Data Structures and Algorithms course](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)
 
-I added a few new videos to the Learn Algorithms course, next I want to tackle some of the videos for the Learn Data Structures course! You can find the videos embedded in the course itself, or in the [YouTube playlist](https://www.youtube.com/watch?v=_4DtU2_d7hs&list=PLw1W1TeNPmy7ZReuPutxhhrcfHe5yCdsT).
+I added a few new videos to the Data Structures and Algorithms course. You can find the videos embedded in the course itself, or in the [YouTube playlist](https://www.youtube.com/watch?v=_4DtU2_d7hs&list=PLw1W1TeNPmy7ZReuPutxhhrcfHe5yCdsT).
 
 ## What is yet to come
 

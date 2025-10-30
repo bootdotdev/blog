@@ -1,5 +1,5 @@
 ---
-title: "19 Simple JavaScript Projects for Beginners [Updated for 2024]"
+title: "19 Simple JavaScript Projects for Beginners [Updated for 2025]"
 author: zulie
 date: "2021-10-08"
 categories:

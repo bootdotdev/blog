@@ -132,7 +132,7 @@ Algorithms commonly get lumped in with data structures when learning computer sc
 
 It doesn't end there – you'll need a list or a table to display those lovely green bow ties to your user, and you'll want some kind of filtering or sorting algorithm to present them correctly.
 
-**Where you can learn it**: If you want to test your knowledge, you can audit our [Algorithms](https://www.boot.dev/courses/learn-algorithms-python) and [Data Structure](https://www.boot.dev/courses/learn-data-structures-python) courses for free. Find you're struggling a little? You can use a tutorial [like this one](https://www.manning.com/liveproject/trees) to practice. You're also welcome to go back to our courses – the algorithms course will walk you through building a demo product, and the courses are designed to complement each other.
+**Where you can learn it**: If you want to test your knowledge, you can audit our [Data Structures and Algorithms](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python) courses for free. Find you're struggling a little? You can use a tutorial [like this one](https://www.manning.com/liveproject/trees) to practice. You're also welcome to go back to our courses – the Data Structures and Algorithms course will walk you through building a demo product, and the courses are designed to complement each other.
 
 **Networking**: Networking is how different computer systems and servers over a network are connected and exchange data. Pop quiz! What is the difference between IPv4 and IPv6?
 
