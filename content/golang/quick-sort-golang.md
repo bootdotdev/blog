@@ -104,4 +104,4 @@ The random approach is easy to code, works practically all of the time, and as s
 
 One of the most popular solutions is to use the "median of three" approach. Three elements (for example: the first, middle, and last elements) of each partition are chosen and the median is found between them. That item is then used as the pivot. This approach has the advantage that it can't break down to `O(n^2)` time because we are guaranteed to never use the worst item in the partition as the pivot. That said, it can still be slow*er* because a true median isn't used.
 
-PS: If you'd like to learn more about sorting algorithms, check out my [algorithms course](https://www.boot.dev/courses/learn-algorithms-python). If you want to learn the Go language, check out my [Go course](https://www.boot.dev/courses/learn-golang).
+PS: If you'd like to learn more about sorting algorithms, check out my [Data Structures and Algorithms course](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python). If you want to learn the Go language, check out my [Go course](https://www.boot.dev/courses/learn-golang).

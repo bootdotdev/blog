@@ -38,7 +38,7 @@ There are six basic concepts you should know pretty thoroughly if you want to ge
 Here's what you should know:
 
 - Coding basics in [Python](https://www.boot.dev/courses/learn-code-python), Go, or another back-end language
-- [Data structures](https://www.boot.dev/courses/learn-data-structures-python) and [algorithms](https://www.boot.dev/courses/learn-algorithms-python)
+- [Data structures and algorithms](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)
 - The basics of the web, like [HTTP](https://www.boot.dev/courses/learn-http-clients-golang)
 - [Simple web servers](https://www.boot.dev/courses/build-social-media-backend-golang)
 - Database fundamentals - [SQL](https://www.boot.dev/courses/learn-sql) or NoSQL

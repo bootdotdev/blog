@@ -67,7 +67,7 @@ To become a well-rounded developer, there are a slew of _concepts_ that are impo
 For example, if you're working to become a back-end developer, here are some of the important concepts:
 
 - [OOP](https://www.boot.dev/courses/build-asteroids-python)
-- [DSA](https://www.boot.dev/courses/learn-algorithms-python)
+- [DSA](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)
 - [Databases](https://www.boot.dev/courses/learn-sql)
 - [HTTP + Basic networking](https://www.boot.dev/courses/learn-http-clients-golang)
 - [REST APIs](https://www.boot.dev/courses/learn-http-servers-golang)

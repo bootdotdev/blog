@@ -25,7 +25,7 @@ First things first: what are hard skills? These are the tangible, measurable abi
 
 1. **Code in specific languages** - like [Python](https://www.boot.dev/courses/learn-code-python), [JavaScript](https://www.boot.dev/courses/learn-javascript), or [Golang](https://www.boot.dev/courses/learn-golang).
 2. **Use technologies and tools** - such as Git, [Docker](https://www.boot.dev/courses/learn-docker), or AWS.
-3. **Understand [algorithms](https://www.boot.dev/courses/learn-algorithms-python) and [data structures](https://www.boot.dev/courses/learn-data-structures-python)** - because nobody wants to be that developer who can't reverse a string without Googling it first.
+3. **Understand [DSA](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)** - because nobody wants to be that developer who can't reverse a string without Googling it first.
 4. **A boatload of other things** - because programming is a vast and ever-expanding field.
 
 ### Importance of hard skills for landing a job

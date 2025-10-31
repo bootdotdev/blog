@@ -9,11 +9,11 @@ images:
   - /img/800/cangoimage.png.webp
 ---
 
-Recently I saw an interesting post on Reddit: “I would like to be more full-stack,” user [<u>Fenugurod</u>](https://www.reddit.com/r/golang/comments/ksdofe/what_do_you_guys_think_about_web_development_with/) said. “I was studying Tailwindcsss and I'm pretty sure I can create really nice UIs with it. But what do you guys think about web development with Go? Most of my friends simply say to embrace the JS ecosystem with Nuxt or Next and use Go simply as an API.”
+Recently I saw an interesting post on Reddit: "I would like to be more full-stack," user [<u>Fenugurod</u>](https://www.reddit.com/r/golang/comments/ksdofe/what_do_you_guys_think_about_web_development_with/) said. "I was studying Tailwindcsss and I'm pretty sure I can create really nice UIs with it. But what do you guys think about web development with Go? Most of my friends simply say to embrace the JS ecosystem with Nuxt or Next and use Go simply as an API."
 
 Here at Boot.dev, I’m biased. I love Go for nearly anything. It has so many great points – its concurrency, the goroutines, the compilation speed. But I also believe in using the right tool for the right job. The web development Go combo may be _workable_, but is it _ideal_?
 
-The developers of Go certainly think so, seeing as they’ve [<u>published a whole blog post</u>](https://go.dev/solutions/webdev) on the Web development Go combo. In their words, “Go delivers speed, security, and developer-friendly tools for Web Applications.”
+The developers of Go certainly think so, seeing as they’ve [<u>published a whole blog post</u>](https://go.dev/solutions/webdev) on the Web development Go combo. In their words, "Go delivers speed, security, and developer-friendly tools for Web Applications."
 
 ## Brief definitions:
 
@@ -35,7 +35,7 @@ If you’re in for the longer answer, let’s ride on down.
 
 ## Background of Go
 
-First, let’s _go_ back a bit to understand the background of Go. Basically, its simplicity, efficiency, and robust standard library provide developers with the tools you need to build scalable and maintainable web applications, along with enough safety tools for the British Government to use it. (““In particular, Go’s concurrency model makes it absurdly easy to build performant I/O-bound applications.” – [<u>Gov.uk’s web developers</u>](https://go.dev/solutions/webdev#featured-users)).
+First, let’s _go_ back a bit to understand the background of Go. Basically, its simplicity, efficiency, and robust standard library provide developers with the tools you need to build scalable and maintainable web applications, along with enough safety tools for the British Government to use it. (""In particular, Go’s concurrency model makes it absurdly easy to build performant I/O-bound applications." – [<u>Gov.uk’s web developers</u>](https://go.dev/solutions/webdev#featured-users)).
 
 Go, often referred to as Golang, was conceived in September 2007 by Robert Griesemer, Rob Pike, and Ken Thompson, all at Google, and was released to an eager public in November 2009. These men were shooting for a language without the unnecessary complexities of languages like C++ while maintaining their strengths. They wanted a system programming language that was modern, concise, and fast both in execution and compilation.
 
@@ -76,7 +76,7 @@ There are so many great programming language alternatives that can be used for w
 
 Go is a statically-typed, compiled programming language, which generally means superior performance in terms of raw execution speed compared to interpreted languages like Python. Its concurrency further boosts its performance in scenarios like web servers where handling multiple simultaneous connections is crucial.
 
-Python wins the award for beginners at the “hello world” stage. It is beloved for its simplicity and readability. But it is often slower than Go, especially in CPU-bound tasks. However, with frameworks like Django and FastAPI, Python remains a popular choice for web development, especially for applications where development speed is more critical than raw performance.
+Python wins the award for beginners at the "hello world" stage. It is beloved for its simplicity and readability. But it is often slower than Go, especially in CPU-bound tasks. However, with frameworks like Django and FastAPI, Python remains a popular choice for web development, especially for applications where development speed is more critical than raw performance.
 
 JavaScript, when run on the server-side using platforms like Node.js, offers event-driven, non-blocking I/O, making it suitable for I/O-bound tasks. Individual tasks might run slower than in Go, but Node.js can handle many tasks concurrently thanks to its event-driven architecture. But I would argue that Go's goroutines often provide a more straightforward approach to concurrency than Node.js's callback model.
 
@@ -93,7 +93,7 @@ It’s also worth highlighting that, no surprise, **Go plays well with the Googl
 
 There’s one final reason it makes sense to use a backend language like Go for full-stack web development: **an overall simpler ecosystem**. I loved how Reddit user Markuswustenberg put it in their answer to Fenugurod’s question above:
 
-“I've really embraced writing classic server-side-rendered UIs again. The simplicity is refreshing, and especially on smaller projects, where there's no dedicated backend and frontend team, it's nice to be able to just work on one codebase (in Go) and not write all the API glue code, handle network error cases, etc. Also, there's no context switch, and you don't have to keep up with the whole JS ecosystem, which I think is nice.”
+"I've really embraced writing classic server-side-rendered UIs again. The simplicity is refreshing, and especially on smaller projects, where there's no dedicated backend and frontend team, it's nice to be able to just work on one codebase (in Go) and not write all the API glue code, handle network error cases, etc. Also, there's no context switch, and you don't have to keep up with the whole JS ecosystem, which I think is nice."
 
 In short, Go is great for server-side rendering in small projects due to its simplicity. It offers a unified codebase, reducing complexities and stops you from having to keep up with what can sometimes feel like JavaScript’s Framework Of The Week.
 

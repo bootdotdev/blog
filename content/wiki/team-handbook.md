@@ -43,8 +43,8 @@ Now, let's talk about how to succeed with your work at Boot.dev.
 ## We add flair and be ourselves
 
 - **We don't use corporate language** when chatting with students.
-- **We don't write content that presents facts without personality**. Regurgitating information is not useful in 2024 - information is everywhere.
-- **We're aim to surprise and deligh**. That means being yourself when interacting with students, and having a lot of fun with it.
+- **We don't write content that presents facts without personality**. Regurgitating information is not useful in 2025 - information is everywhere.
+- **We aim to surprise and delight**. That means being yourself when interacting with students, and having a lot of fun with it.
 
 ## We avoid multitasking
 

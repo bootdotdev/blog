@@ -96,5 +96,5 @@ Merge sort has a complexity of `O(n*log(n))`. Don't be fooled because there aren
 
 PS: I've got two courses if you want to dig in deeper to this stuff:
 
-- [Learn Algorithms](https://www.boot.dev/courses/learn-algorithms-python)
+- [Data Structures and Algorithms](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)
 - [Learn Go](https://www.boot.dev/courses/learn-golang)

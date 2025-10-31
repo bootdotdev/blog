@@ -30,7 +30,7 @@ Our Learn Python course features six modules covering:
 5. **Functions**
 6. **Dictionaries and sets**
 
-Completing all six modules will bring you up to an intermediate level, putting you in great position to complete our more advanced Python courses, including our [Data Structures](https://www.boot.dev/courses/learn-data-structures-python) and [Advanced Algorithms](https://www.boot.dev/courses/learn-algorithms-2-python) courses.
+Completing all six modules will bring you up to an intermediate level, putting you in great position to complete our more advanced Python courses, including our [DSA](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python) and [DSA 2](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python-2) courses.
 
 ## Why Python?
 

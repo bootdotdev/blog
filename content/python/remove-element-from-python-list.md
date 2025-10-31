@@ -8,7 +8,7 @@ images:
   - /img/800/ruinreborn_fantasy_art_simple_background_fire_and_ice_snake_e_e4f734ba-e6ff-4247-8c0f-482ebbedc611_2.png.webp
 ---
 
-While lists aren't the most efficient [data structure](https://www.boot.dev/courses/learn-data-structures-python) if you'll be doing lots of deleting from the middle, there are definitely good ways to accomplish the task. The built-in [`remove()`](https://python-reference.readthedocs.io/en/latest/docs/list/remove.html) method should be your first option. Let's go over some examples.
+While lists aren't the most efficient [data structure](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python) if you'll be doing lots of deleting from the middle, there are definitely good ways to accomplish the task. The built-in [`remove()`](https://python-reference.readthedocs.io/en/latest/docs/list/remove.html) method should be your first option. Let's go over some examples.
 
 ## Remove element in Python list by value
 

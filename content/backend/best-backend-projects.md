@@ -52,7 +52,7 @@ Stick it on your portfolio and you're done.
 What skills are most in demand? If you want to [become a backend developer](/backend/become-backend-developer/), you'll need to demonstrate these six key skills to potential employers:
 
 - Coding basics in [Python](https://www.boot.dev/courses/learn-code-python), [Go](https://www.boot.dev/courses/learn-golang), or another back-end language
-- [Data structures](https://www.boot.dev/courses/learn-data-structures-python) and [algorithms](https://www.boot.dev/courses/learn-algorithms-python)
+- [Data Structures and Algorithms](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)
 - The basics of the web, like [HTTP](https://www.boot.dev/courses/learn-http-clients-golang)
 - [Simple web servers](https://www.boot.dev/courses/learn-http-servers-golang)
 - Database fundamentals - [SQL](https://www.boot.dev/courses/learn-sql) or NoSQL
@@ -86,7 +86,7 @@ This maze solver is super fun because you get to build something visual in Pytho
 
 That said, I also liked the Coursera [project](https://www.coursera.org/lecture/advanced-data-structures/project-shortest-path-programming-assignment-walkthrough-VaUIC) which walks you through a concept called "shortest path programming." You'll learn about graphs, search algorithms, graph algorithms, and graph data structures.
 
-If you're getting stuck, I recommend checking out Boot.dev's [Data Structures](https://www.boot.dev/courses/learn-data-structures-python) and [Algorithm](https://www.boot.dev/courses/learn-algorithms-python) courses. They each take 16 hours and will teach you everything you need to know about DSA fundamentals.
+If you're getting stuck, I recommend checking out Boot.dev's [Data Structures and Algorithms](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python) course. They each take 16 hours and will teach you everything you need to know about DSA fundamentals.
 
 ## [Project 3: A web crawler](https://www.boot.dev/courses/build-web-crawler-golang)
 

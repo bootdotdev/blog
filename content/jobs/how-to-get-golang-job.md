@@ -95,7 +95,7 @@ Go isn't OOP per se, but there are times when it makes sense to force Go to beha
 
 Data structures are how you organize and store data in memory. An algorithm is just a good set of instructions to perform on that data. The two go hand in hand because you'll almost always use them both together. For example, a sorting algorithm will need a data structure for the data to be stored. How well the algorithm performs depends on which data structure you choose.
 
-Again, these are basics you can know in any language, so I recommend you use a tutorial [like this one](https://www.manning.com/liveproject/trees) to practice coding your algorithm and choosing data structures. We also have a [comprehensive algorithms course](https://www.boot.dev/courses/learn-algorithms-python) on Boot.dev that walks you through algorithms by actually building a demo product and an accompanying [data structures course](https://www.boot.dev/courses/learn-data-structures-python).
+Again, these are basics you can know in any language, so I recommend you use a tutorial [like this one](https://www.manning.com/liveproject/trees) to practice coding your algorithm and choosing data structures. We also have a [comprehensive Data Structures and Algorithms course](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python) on Boot.dev that walks you through algorithms by actually building a demo product.
 
 ### Cryptography
 

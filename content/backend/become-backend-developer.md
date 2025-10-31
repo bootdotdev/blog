@@ -1,5 +1,5 @@
 ---
-title: "Learn Backend Development: Complete Path for Beginners [2024]"
+title: "Learn Backend Development: Complete Path for Beginners [2025]"
 author: lane
 date: "2022-07-24"
 categories:
@@ -8,18 +8,18 @@ images:
   - /img/800/cyberpunk_data_center.png.webp
 imgAlts:
   - "Midjourney Prompt: giant tech company campus, cyberpunk, fantasy, sci fi, beautiful"
-lastmod: "2024-10-31"
+lastmod: "2025-10-29"
 ---
 
 So you've decided you want to learn backend development so you can get a job -- congratulations! Many self-taught coders have a hard time deciding between all the various programming job options, but it's _so much easier_ to learn effectively if you have a clear goal, like backend work, in mind.
 
 **Before we get started, if you want the "quick answer", check out [Boot.dev](https://www.boot.dev) - it's a platform I built from the ground up to teach you backend development completely online.** You will never learn to become a backend developer just by reading a blog post. This is a deep dive into the _kinds_ of things you need to learn, rather than get started with a specific learning platform. If that sounds useful, read on!
 
-Below, we'll cover everything you need to learn back-end development in 2024 from knowing _nothing_ about programming to getting your first job as a backend developer. This article is a compilation of my own experience and expertise as a backend engineer and hiring manager, as well as other backend developer experts who I've consulted to ensure this can be the best guide it can be.
+Below, we'll cover everything you need to learn back-end development in 2025 from knowing _nothing_ about programming to getting your first job as a backend developer. This article is a compilation of my own experience and expertise as a backend engineer and hiring manager, as well as other backend developer experts who I've consulted to ensure this can be the best guide it can be.
 
 ## First, what is a backend developer?
 
-A backend developer is just one of many kinds of “programmers." Back end developers build and maintain the systems that store, process, and secure the data used by websites and apps. This is in contrast to front-end developers, who control everything you _see and interact with directly_ in your browser or on a mobile app.
+A backend developer is just one of many kinds of "programmers." Back end developers build and maintain the systems that store, process, and secure the data used by websites and apps. This is in contrast to front-end developers, who control everything you _see and interact with directly_ in your browser or on a mobile app.
 
 In short, a backend developer concerns themselves with [servers](https://en.wikipedia.org/wiki/Client%E2%80%93server_model), while front-end developers work on clients.
 
@@ -77,8 +77,7 @@ Your goal here should be to [learn computer science fundamentals](/computer-scie
 
 #### Resources for data structures and algorithms
 
-- [Learn Algorithms on Boot.dev](https://www.boot.dev/courses/learn-algorithms-python)
-- [Learn Data Structures on Boot.dev](https://www.boot.dev/courses/learn-data-structures-python)
+- [Data Structures and Algorithms on Boot.dev](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)
 - [Udemy](https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/)
 
 ### 3. Learn the basics of the web
@@ -125,7 +124,9 @@ I would recommend becoming familiar with a SQL database first, probably PostgreS
 
 #### Resources
 
-- [Learn SQL](https://www.boot.dev/courses/learn-sql/
+- [Boot.dev's backend path in Python and Go](https://www.boot.dev/tracks/backend-python-golang)
+- [Boot.dev's backend path in Python and TypeScript](https://www.boot.dev/tracks/backend-python-typescript)
+- [Learn SQL](https://www.boot.dev/courses/learn-sql/)
 - [Our top backend technologies](https://blog.boot.dev/backend/top-backend-technologies/)
 - [StrataScratch DB practice](https://www.stratascratch.com/)
 - [Codecademy](https://www.codecademy.com/learn/learn-sql)
@@ -137,7 +138,7 @@ Technologies to read up on:
 - MySQL
 - SQLite
 - ElasticSearch
-- MongoDB
+- Docker
 - CockroachDB
 - Redis
 
@@ -220,6 +221,7 @@ Most importantly, _do not stop learning and building_!!! I've seen so many devel
 You can be a backend programmer in almost any programming language, but here are some of my favorites in descending order:
 
 - [Go](https://go.dev/) - A modern, simple language that's good for performant, general-purpose servers
+- [TypeScript](https://www.typescriptlang.org/) - A superset of JavaScript that adds type safety, great for web apps
 - [Python](https://www.python.org/) - An elegant language good for simple backend apps
 - [JavaScript/Node.js](https://nodejs.org/en/) - Great for webapps, especially if the devs are full stack
 - [Rust](https://www.rust-lang.org/) - More complex code, but stunningly fast

@@ -55,7 +55,7 @@ If someone tells you computer science isn't hard, it's probably because they thi
 
 The biggest reason computer science is hard is that computer science is a complex, broad concept that encompasses a lot of other complex, broad concepts. Look at that Wikipedia page I linked above and you'll quickly see exactly how wide-ranging computer science is.
 
-To learn computer science, you'll need to [understand algorithms](https://www.boot.dev/courses/learn-algorithms-python), [data structures](https://www.boot.dev/courses/learn-data-structures-python), and programming languages. And you'll need to learn them twice \* once in theory, as you understand the concepts, and then again in practice, as you learn how to implement them. That takes a lot of thinking and practice to master.
+To learn computer science, you'll need to [understand algorithms and data structures](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python) and programming languages. And you'll need to learn them twice once in theory, as you understand the concepts, and then again in practice, as you learn how to implement them. That takes a lot of thinking and practice to master.
 
 ### Math skills
 

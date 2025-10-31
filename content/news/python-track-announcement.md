@@ -23,13 +23,12 @@ View our [full course curriculum here](https://github.com/bootdotdev/curriculum)
 **The entire Python Track consists of:**
 
 1. **[Learn Python](https://www.boot.dev/courses/learn-code-python)**
-2. **[Learn Algorithms](https://www.boot.dev/courses/learn-algorithms-python)**
-3. **[Learn Data Structures](https://www.boot.dev/courses/learn-data-structures-python)**
-4. **[Learn Advanced Algorithms](https://www.boot.dev/courses/learn-algorithms-2-python)**
+2. **[Data Structures and Algorithms](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)**
+3. **[Data Structures and Algorithms 2](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python-2)**
 
-These 4 courses feature over 285 interactive lessons where you write Python code to solve challenges and gain practical experience to advance your skills. It's all browser-based with no downloads, and it's ideal for any would-be Python programmers starting from scratch, as well as for anyone more advanced who wants to ace their next technical interview by jumping straight in at the Learn Algorithms course.
+These 3 courses feature over 285 interactive lessons where you write Python code to solve challenges and gain practical experience to advance your skills. It's all browser-based with no downloads, and it's ideal for any would-be Python programmers starting from scratch, as well as for anyone more advanced who wants to ace their next technical interview by jumping straight in at the Data Structures and Algorithms course.
 
-Completing all 4 courses will put you in a great position to land your next coding job -- the courses contain everything you need to become more employable.
+Completing all 3 courses will put you in a great position to land your next coding job -- the courses contain everything you need to become more employable.
 
 ## Why Python?
 
