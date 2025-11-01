@@ -6,7 +6,7 @@ categories:
   - "computer-science"
   - "news"
 images:
-  - /img/800/twentyintree.jpeg
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizards_apprentice_-_f6e8e353-bb10-41a9-87d6-c050dfa50a82_2.png.webp
 ---
 
 Last weekend I did a major revamp of [boot.dev's](https://www.boot.dev/) payment strategy, after toying with the first version since I launched in the summer of 2020, as it turns out, the microtransaction (gem) strategy didn't work out to the benefit of my students, nor to the growth of boot.dev. As a result, I've flipped my funding strategy on its head and decided to make all of [boot.dev's content](https://www.boot.dev/) free to audit. Let's take a look at exactly what that means.

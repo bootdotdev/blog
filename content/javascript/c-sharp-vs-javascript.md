@@ -5,7 +5,7 @@ date: "2021-10-07"
 categories:
   - "javascript"
 images:
-  - /img/800/JavaScript-vs-C-Sharp-min.png
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_ordering_food_e851ddef-a123-4c72-acad-39e49ef3bff1_3.png.webp
 ---
 
 JavaScript (JS), once regarded as simply a "glue language", has gone on to become [the most popular programming language](https://www.statista.com/statistics/793628/worldwide-developer-survey-most-used-languages/) in the world.

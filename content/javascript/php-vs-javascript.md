@@ -5,7 +5,7 @@ date: "2021-11-10"
 categories:
   - "javascript"
 images:
-  - /img/800/PHPvsJS.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_ordering_food_b22efcdb-7a6c-4bed-9bec-1f093b709b1b_1.png.webp
 ---
 
 When comparing programming languages, it's not often that you come across two that actually work well together, but that happens to be the case when it comes to PHP and JavaScript.

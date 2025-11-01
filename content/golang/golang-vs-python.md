@@ -6,7 +6,7 @@ categories:
   - "golang"
   - "python"
 images:
-  - /img/800/decurated-on-medium-1.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_gordian_knot_--ar_16_24cd7d51-2810-477c-8cf3-3ad4be14639e_2.png.webp
 ---
 
 ## These two coding languages duke it out - but who's the winner?

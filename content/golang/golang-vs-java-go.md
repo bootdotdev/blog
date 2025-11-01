@@ -5,7 +5,7 @@ date: "2021-08-04"
 categories:
   - "golang"
 images:
-  - /img/800/Go-vs-Java-min.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_ordering_food_ba9e514f-dc92-467b-97f0-ee4a805dd582_1.png.webp
 ---
 
 Golang (or Go) and Java offer an interesting comparison because despite their wide differences, there are also key similarities in how and where they're used by programmers.

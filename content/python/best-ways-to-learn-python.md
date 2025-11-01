@@ -5,7 +5,7 @@ date: "2021-10-12"
 categories:
   - "python"
 images:
-  - /img/800/Best-Ways-To-Learn-Python-min.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_wizard_with_s_e6647f97-9044-4aa5-b1c6-82171a160188_3.png.webp
 ---
 
 Everyone wants to know the best way to learn to code Python nowadays. It's a great language, as I've [written about](https://towardsdatascience.com/10-compelling-reasons-to-learn-python-for-data-science-fa31160321cb) before, with great career prospects and tons of useful features.

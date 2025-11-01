@@ -5,7 +5,7 @@ date: "2021-09-10"
 categories:
   - "python"
 images:
-  - /img/800/Python-vs-Java-min.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_ordering_food_3eff5777-b37b-4655-9b6d-b4433e6a0a29_2.png.webp
 ---
 
 Comparing Python and Java is a bit like comparing boats and cars. They both get you from point A to B and are fun to show off, but that's where the similarities end. And the same with Python and Java, they're both programming languages and known for powerful server-side coding, but after that, they become completely different tools.

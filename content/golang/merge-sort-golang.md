@@ -5,7 +5,7 @@ date: "2021-06-10"
 categories:
   - "golang"
 images:
-  - /img/800/swirl.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_fantasy_librarian_--_84a9705a-c918-4ea2-a6f5-6db20a1c45d7_3.png.webp
 lastmod: "2023-11-14"
 ---
 
