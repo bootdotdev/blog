@@ -70,7 +70,6 @@ That was a long old section. This one will be a little shorter. And to make it h
 
 ### Skills
 
-<div class="tablewrap">
 
 | DevOps                                             | DevSecOps                                          |
 | -------------------------------------------------- | -------------------------------------------------- |
@@ -86,13 +85,11 @@ That was a long old section. This one will be a little shorter. And to make it h
 | \*                                                 | Compliance regulations and industry standards      |
 | \*                                                 | Network and web application security concepts      |
 
-</div>
 
 We have an [interactive course on CI/CD here](https://www.boot.dev/courses/learn-ci-cd-github-docker) if you're interested.
 
 ### Background
 
-<div class="tablewrap">
 
 | DevOps                | DevSecOps             |
 | --------------------- | --------------------- |
@@ -100,11 +97,9 @@ We have an [interactive course on CI/CD here](https://www.boot.dev/courses/learn
 | System administration | System administration |
 | IT Operations         | Cyber Security        |
 
-</div>
 
 ### Education
 
-<div class="tablewrap">
 
 | DevOps                                     | DevSecOps                                     |
 | ------------------------------------------ | --------------------------------------------- |
@@ -112,7 +107,6 @@ We have an [interactive course on CI/CD here](https://www.boot.dev/courses/learn
 | Or equivalent work experience              | OR qquivalent work experience                 |
 | Applicable certifications                  | Applicable certificates like CISSP, CEH, GSEC |
 
-</div>
 
 What sort of background do you need to be able to handle all those important responsibilities? What degree do employers require? What skills and knowledge matter most?
 
@@ -159,7 +153,6 @@ Now we're onto the money. In previous articles, I've found it useful to break do
 
 Let's take a look at the top five cities for DevOps engineers, according to [Indeed's listings](https://www.indeed.com/career/development-operations-engineer/salaries?salaryType=YEARLY&from=careers_serp).
 
-<div class="tablewrap">
 
 | City          | Monthly salary | Monthly salary after taxes | Average 1Br rent | Monthly cost of living | Take-home monthly pay |
 | ------------- | -------------- | -------------------------- | ---------------- | ---------------------- | --------------------- |
@@ -169,7 +162,6 @@ Let's take a look at the top five cities for DevOps engineers, according to [Ind
 | New York, NY  | 11,113.83      | 7,092                      | 3,680            | 1,437.10               | 1,974.90              |
 | Dallas, TX    | 10,566.83      | 7,736                      | 1,450            | 1,103.90               | 5,182.10              |
 
-</div>
 
 And here's what that looks like when you put these numbers in a nice chart:
 
@@ -203,7 +195,6 @@ In short, both roles are expected to grow in the future, but demand for DevSecOp
 
 Let's take a more granular look by checking out the number of job openings for both DevOps and DevSecOps engineers across three of the most popular hiring platforms: LinkedIn, Indeed, and Glassdoor.
 
-<div class="tablewrap">
 
 | Platform  | DevOps                       | DevSecOps                    |
 | --------- | ---------------------------- | ---------------------------- |
@@ -211,7 +202,6 @@ Let's take a more granular look by checking out the number of job openings for b
 | Indeed    | 8,642 job openings available | 8,644 job openings available |
 | Glassdoor | 4,335 job openings available | 4,318 job openings available |
 
-</div>
 
 These are accurate as I write this article.
 

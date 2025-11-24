@@ -99,7 +99,6 @@ Most folks agree that when deciding to [learn frontend or backend first](/backen
 
 For that reason, most classic computer science programs teach their students first with Java. Because of its universal recognition and classic design, Java remains very popular as a backend programming language. Some of the other [top backend programming languages](/backend/best-backend-programming-languages/) include Go, Python, JavaScript, and Rust.
 
-<div class="tablewrap">
 
 | Language   | Category Winner                       | Who's hiring?                                  |
 | ---------- | ------------------------------------- | ---------------------------------------------- |
@@ -112,7 +111,6 @@ For that reason, most classic computer science programs teach their students fir
 | Ruby       | Highest paid                          | Crunchbase, Twitter, Etsy                      |
 | SQL        | Best non-programming backend language | Accenture, Dell, Microsoft                     |
 
-</div>
 
 _Table from our article on the subject of the best backend programming languages._
 

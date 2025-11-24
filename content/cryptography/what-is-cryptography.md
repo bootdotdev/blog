@@ -117,7 +117,6 @@ My wife would then use my public key to encrypt a message for me. Now, since I'm
 
 Common asymmetric encryption algorithms [ECC](/cryptography/elliptic-curve-cryptography/) and [RSA](<https://en.wikipedia.org/wiki/RSA_(cryptosystem)>).
 
-<div class="tablewrap">
 
 | Properties              | Symmetric                       | Asymmetric                                        |
 | ----------------------- | ------------------------------- | ------------------------------------------------- |
@@ -126,7 +125,6 @@ Common asymmetric encryption algorithms [ECC](/cryptography/elliptic-curve-crypt
 | **Use cases**           | Bulk encryption of data at rest | Encryption of data in transit between two parties |
 | **Principles provided** | Confidentiality                 | Confidentiality, authentication, non-repudiation  |
 
-</div>
 
 ### \***\*Hash Functions\*\***
 

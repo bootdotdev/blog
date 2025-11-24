@@ -36,7 +36,6 @@ That said, let's get into the data. I'll drop the script I wrote to create the a
 
 ## Web Trends: Full-Stack, Front-end and Back-end
 
-<div class="tablewrap">
 
 | year | fullstack | frontend | backend |
 | ---- | --------- | -------- | ------- |
@@ -51,7 +50,6 @@ That said, let's get into the data. I'll drop the script I wrote to create the a
 | 2021 | 39.42     | 21.85    | 34.84   |
 | 2022 | 39.17     | 21.72    | 36.99   |
 
-</div>
 
 In 2013 the ratio of "front-end" developers to "full stack" developers was 15/85, while the ratio of "back-end" developers to "full stack" developers was 24/76.
 
@@ -69,7 +67,6 @@ This actually surprised me, I expected the ratio of front-end to back-end engine
 
 ## IT Operations Trends: Back-end, DevOps and Traditional Ops
 
-<div class="tablewrap">
 
 | year | backend | devops | ops   |
 | ---- | ------- | ------ | ----- |
@@ -84,7 +81,6 @@ This actually surprised me, I expected the ratio of front-end to back-end engine
 | 2021 | 34.84   | 9.75   | 10.82 |
 | 2022 | 36.99   | 13.2   | 11.8  |
 
-</div>
 
 In my script I tried to split more "traditional ops" roles into the "ops" category, and the "devops" stuff into the "devops" role. For example, "SRE" I've considered as "devops", while "systems administrator" is "ops".
 
@@ -104,7 +100,6 @@ It's hard to care too much about these numbers, because [devops is mostly being 
 
 At first, I assumed we're simply seeing the same trend that we saw in web development: more generalists, less specialists. However, I grew skeptical because when I looked across *all* job categories, I noticed nearly *all* of them were trending down... which clearly can not be the case when we're looking at percentages - it's a zero sum game. I decided to add a new section to my script to dig in further. I calculated how many jobs on average each survey taker was laying claim to, and got this data:
 
-<div class="tablewrap">
 
 | year | backend | devops | ops   | avg_jobs_per_user |
 | ---- | ------- | ------ | ----- | ----------------- |
@@ -119,7 +114,6 @@ At first, I assumed we're simply seeing the same trend that we saw in web develo
 | 2021 | 34.84   | 9.75   | 10.82 | 2.21              |
 | 2022 | 36.99   | 13.2   | 11.8  | 2.27              |
 
-</div>
 
 It appears that from 2013-2015, developers were restricted to only submitting a single answer, which helps to account for the super low numbers. However, from 2019->2021 the average number of jobs per user went *down*, which is antithetical to the "more generalists" theory. It's also worth pointing out, that as the years went on, Stack OVerflow actually added more specialized categories, which I then took the liberty of grouping into these broader groups. So there's actually good evidence that developers *are* specializing more, or at the very least that there are more *possible ways* in which one can specialize.
 
@@ -127,7 +121,6 @@ That said, even after looking at this data I think there is still a good case to
 
 ## Data trends: Data science, data engineering, and back-end
 
-<div class="tablewrap">
 
 | year | type_data_science | data_engineer | backend |
 | ---- | ----------------- | ------------- | ------- |
@@ -142,7 +135,6 @@ That said, even after looking at this data I think there is still a good case to
 | 2021 | 5.12              | 5             | 34.84   |
 | 2022 | 4.67              | 4.91          | 36.99   |
 
-</div>
 
 ### Interpretation
 
@@ -152,7 +144,6 @@ It's super interesting to me that data engineering really only started to appear
 
 I've talked about my personal interpretations regarding the data that I found most the interesting, but here's *all* the data I aggregated so you can inspect it yourself:
 
-<div class="tablewrap">
 
 | year | avg_jobs_per_user | fullstack | frontend | backend | devops | ops   | mobile | desktop | embedded | data_science | data_engineer | game | management | qa   | education | design | analyst | marketer | ignore |
 | ---- | ----------------- | --------- | -------- | ------- | ------ | ----- | ------ | ------- | -------- | ------------ | ------------- | ---- | ---------- | ---- | --------- | ------ | ------- | -------- | ------ |
@@ -167,7 +158,6 @@ I've talked about my personal interpretations regarding the data that I found mo
 | 2021 | 2.21              | 39.42     | 21.85    | 34.84   | 9.75   | 10.82 | 11.74  | 13.23   | 5.51     | 5.12         | 5             | 2.53 | 6.37       | 4.33 | 5.56      | 5.53   | 4.54    | 0.76     | 34.51  |
 | 2022 | 2.27              | 39.17     | 21.72    | 36.99   | 13.2   | 11.8  | 10.42  | 13.03   | 5.35     | 4.67         | 4.91          | 2.51 | 10.44      | 4.23 | 5.78      | 5.14   | 4.37    | 0.71     | 32.06  |
 
-</div>
 
 ## Raw CSV Data
 

@@ -65,7 +65,6 @@ According to the [CodeInstitute](https://codeinstitute.net/global/blog/what-is-a
 
 PHP's Laravel ranks as the #8 most popular framework on GitHub, and Symfony and CodeIgniter come in at #13 and #14 respectively. Python's Django, however, beats out Laravel at #7 and Flask is #12.
 
-<div class="tablewrap">
 
 | Framework   | Language |
 | ----------- | -------- |
@@ -75,7 +74,6 @@ PHP's Laravel ranks as the #8 most popular framework on GitHub, and Symfony and 
 | Symfony     | PHP      |
 | CodeIgniter | PHP      |
 
-</div>
 
 ## Python versus PHP: Maintainability
 

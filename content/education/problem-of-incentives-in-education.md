@@ -27,7 +27,6 @@ Lambda School has been in the news over the past few years, sometimes good thing
 
 Let's look at a simple example using a hypothetical company "Auto Parts United". Here are a few of their salespeople, all of whom will be guinea pigs trying out 4 new compensation structures.
 
-<div class="tablewrap">
 
 | Name   | Base | Commission | Explanation                                               |
 | ------ | ---- | ---------- | --------------------------------------------------------- |
@@ -36,7 +35,6 @@ Let's look at a simple example using a hypothetical company "Auto Parts United".
 | George | 40k  | 10%, 20%   | 10% commission for the first 10 sales, then 20%           |
 | Taylor | 70k  | 10% capped | 10% commission for the first 10 sales, then no commission |
 
-</div>
 
 Based on historical data, the accounting department at "Auto Parts Unlimited" was able to show that if a salesperson made the *average* number of sales, 20 sales each month, then all of these compensation packages would end up paying them the same $100k yearly. As you can probably guess however, these different compensation structures create **very** different incentives for the salespeople.
 

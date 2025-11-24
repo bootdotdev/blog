@@ -62,7 +62,6 @@ Python's large community has developed a wide range of frameworks and libraries 
 
 Some major libraries and frameworks for different areas include:
 
-<div class="tablewrap">
 
 |                     |                                                                          |
 | ------------------- | ------------------------------------------------------------------------ |
@@ -72,7 +71,6 @@ Some major libraries and frameworks for different areas include:
 | Network Programming | Asyncio, Pulsar, Pyzmq, Diesel, Twisted                                  |
 | Scraping            | Beautiful Soup, LXML, Selenium, Scrapy, Requests                         |
 
-</div>
 
 Most Popular Python Libraries
 

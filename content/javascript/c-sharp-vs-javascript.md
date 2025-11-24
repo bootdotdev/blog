@@ -16,7 +16,6 @@ JavaScript was invented as a way to hold together and automate different compone
 
 On the other hand, we also have C#, pronounced C Sharp, which isn't _just_ a programming language, but rather a part of a larger ecosystem of Windows OS, Visual Studio, and Microsoft that requires the .NET runtime to work.
 
-<div class="tablewrap">
 
 | JavaScript               | C#               |
 | ------------------------ | ---------------- |
@@ -24,7 +23,6 @@ On the other hand, we also have C#, pronounced C Sharp, which isn't _just_ a pro
 | Multiparadigm            | Multiparadigm    |
 | Scripting language / OOP | OOP              |
 
-</div>
 
 Released five years after JavaScript, C# was created in response to Sun (now Oracle) forbidding Microsoft from changing Java, leading to Microsoft's own safe, performance-focused language that specializes in Windows applications.
 

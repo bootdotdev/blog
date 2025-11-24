@@ -23,7 +23,6 @@ The main advantage of using UUIDs is that you can create a UUID and use it to id
 
 Let's take a real-world example and analyze why using UUIDs can make our lives easier. Let's pretend we have a web application with a single database. One of the tables in that database is the "users" table. Each user has a primary key, and like many databases, that primary key is just an integer. So the first user will have the ID "1", the next will be "2", and so on.
 
-<div class="tablewrap">
 
 |     |                 |
 | --- | --------------- |
@@ -31,7 +30,6 @@ Let's take a real-world example and analyze why using UUIDs can make our lives e
 | 2   | Aristotle       |
 | 3   | Marcus Aurelius |
 
-</div>
 
 That may be fine for a while, but now imagine that we introduce more services into our backend architecture. For example, there may be a separate database that stores social media posts and we need to know which user made the posts. Well, we need to store a user ID, so we just start storing the user's ID in that separate database as a kind of foreign key. If we need a list of posts, we look in the "users" database to see what information we have about the author. So far, so good.
 

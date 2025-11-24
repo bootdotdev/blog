@@ -95,7 +95,6 @@ That's a lot of buzzwords, so let's break it down by skills, background, and edu
 
 ### Skills
 
-<div class="tablewrap">
 
 | DevOps                                             | SRE                                                |
 | -------------------------------------------------- | -------------------------------------------------- |
@@ -113,11 +112,9 @@ That's a lot of buzzwords, so let's break it down by skills, background, and edu
 | \*                                                 | Capacity planning and load testing                 |
 | \*                                                 | Security best practices and hardening              |
 
-</div>
 
 ### Background
 
-<div class="tablewrap">
 
 | DevOps                | SREs                   |
 | --------------------- | ---------------------- |
@@ -125,11 +122,9 @@ That's a lot of buzzwords, so let's break it down by skills, background, and edu
 | System administration | System administration  |
 | IT Operations         | Network administration |
 
-</div>
 
 ### Education
 
-<div class="tablewrap">
 
 | DevOps                                     | SREs                                                     |
 | ------------------------------------------ | -------------------------------------------------------- |
@@ -137,7 +132,6 @@ That's a lot of buzzwords, so let's break it down by skills, background, and edu
 | \*                                         | Ideally, a Masters in Computer Science or Engineering    |
 | Or equivalent work experience              | Or equivalent work experience                            |
 
-</div>
 
 As you can see, there's a lot of overlap. The same skills are used in different ways, and SREs also need some more skills in dealing with things going wrong.
 
@@ -189,7 +183,6 @@ There's an extremely high demand for both DevOps and SRE professionals in variou
 
 Let's use another chart to compare the numbers:
 
-<div class="tablewrap">
 
 | Platform  | DevOps                       | DevSecOps                    |
 | --------- | ---------------------------- | ---------------------------- |
@@ -197,7 +190,6 @@ Let's use another chart to compare the numbers:
 | Indeed    | 8,355 job openings available | 4,605 job openings available |
 | Glassdoor | 4,298 job openings available | 1,704 job openings available |
 
-</div>
 
 These are accurate as I write this article.
 
@@ -225,7 +217,6 @@ That's why it's useful to look at the take-home pay in the top five cities to re
 
 ### DevOps
 
-<div class="tablewrap">
 
 | City          | Monthly salary | Monthly salary after taxes | Average 1Br rent | Monthly cost of living | Take-home monthly pay |
 | ------------- | -------------- | -------------------------- | ---------------- | ---------------------- | --------------------- |
@@ -235,7 +226,6 @@ That's why it's useful to look at the take-home pay in the top five cities to re
 | New York, NY  | 11,113.83      | 7,092                      | 3,680            | 1,437.10               | 1,974.90              |
 | Dallas, TX    | 10,566.83      | 7,736                      | 1,450            | 1,103.90               | 5,182.10              |
 
-</div>
 
 And here are those numbers in a handy chart:
 

@@ -32,7 +32,6 @@ Fun fact: Despite the Go dev team's disdain of C++, Go ended up being very synta
 
 Here are the standard qualities of Java and Go:
 
-<div class="tablewrap">
 
 | Java                              | Go                              |
 | --------------------------------- | ------------------------------- |
@@ -42,7 +41,6 @@ Here are the standard qualities of Java and Go:
 | Memory intensive                  | Light on memory                 |
 | Multi-paradigm                    | Multi-paradigm                  |
 
-</div>
 
 As you can see, on a very _very_ base level, Java and Go seem quite similar, offering the same level of language as well as type style, but even behind these similarities, differences can be found.
 

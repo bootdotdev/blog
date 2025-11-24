@@ -26,7 +26,6 @@ That being said, everyone's definition of "best" is super subjective, so I'll in
 
 Let's jump in.
 
-<div class="tablewrap">
 
 | Backend Bootcamp         | Content Highlights             | Style                     | Price            | Duration   | Bonus Info               |
 | ------------------------ | ------------------------------ | ------------------------- | ---------------- | ---------- | ------------------------ |
@@ -38,7 +37,6 @@ Let's jump in.
 | Technigo                 | JS Stack, SQL, Docker          | Real-world problems       | $6570            | 22 weeks   | Better for upskilling    |
 | Springboard              | Comprehensive Java, SQL, MySQL | Video lectures + mentors  | $9,900 - $16,500 | 9 months   | Average $26k salary bump |
 
-</div>
 
 ## 1. Boot.dev's Online Backend Bootcamp
 

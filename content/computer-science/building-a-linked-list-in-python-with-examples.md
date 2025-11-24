@@ -128,7 +128,6 @@ Linked lists are immensely valuable in computer science because they uniquely al
 
 ### Big-O complexity of a linked list
 
-<div class="tablewrap">
 
 | Operation | Big-O Complexity |
 | --------- | ---------------- |
@@ -136,7 +135,6 @@ Linked lists are immensely valuable in computer science because they uniquely al
 | Delete    | O(1)             |
 | Index     | O(n)             |
 
-</div>
 
 Because of the fast operations, linked lists are used practically in many different scenarios, including:
 

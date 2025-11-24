@@ -16,7 +16,6 @@ The most popular coding language of 2021 will be based on what the coder in ques
 
 With so many constantly-shifting languages it's hard to know where to start, especially as open source languages change all the time, with new packages and frameworks. No matter what your interest or need is, if you want to know what the most popular coding languages will be in 2021, you'll find them on this list.
 
-<div class="tablewrap">
 
 |                                             |            |
 | ------------------------------------------- | ---------- |
@@ -29,7 +28,6 @@ With so many constantly-shifting languages it's hard to know where to start, esp
 | For quickly increasing your salary          | Go         |
 | For the future                              | Rust       |
 
-</div>
 
 Table describing the most popular coding languages of 2021 for different purposes.
 
