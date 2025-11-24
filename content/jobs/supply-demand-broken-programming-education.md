@@ -93,7 +93,7 @@ If you have a Google Ads account, you can access their Keyword Planner tool, whi
 | Data Engineer       | data engineer course    | 2,400            | 11.47%              |
 | DevOps Engineer     | devops course           | 880              | 4.20%               |
 | Data Analyst        | data analyst course     | 8,100            | 38.70%              |
-| AI Engineer         | machine learning course | 1,600            | 31.53%              |
+| AI Engineer         | machine learning course | 6,600            | 31.53%              |
 
 As someone who sells interactive backend courses for a living, this is a pretty scary table... It also explains why it was so easy to get Boot.dev to rank #1 for "backend course" on Google... but I digress.
 
