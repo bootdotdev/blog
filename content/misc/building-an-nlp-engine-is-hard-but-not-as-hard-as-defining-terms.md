@@ -39,7 +39,7 @@ The first one we had trouble with was:
 
 > I'm so nervous to go back to the office. Working from home has been great.
 
-Some of us had the idea that "anticipation" carried a connotation of "being excited". In other words, you can't really anticipate something if you _don't want_ it to happen. We eventually decided that this isn't a useful definition for several reasons. First, we already do sentiment classification separately, so baking positive sentiment into the anticipation facet isn't super helpful. Second, the opposite of anticipation in our emotion wheel is "surprise". We all agreed that surprises can be good or bad. It stands to reason the surpise's opposite, anticipation, should behave the same way.
+Some of us had the idea that "anticipation" carried a connotation of "being excited". In other words, you can't really anticipate something if you _don't want_ it to happen. We eventually decided that this isn't a useful definition for several reasons. First, we already do sentiment classification separately, so baking positive sentiment into the anticipation facet isn't super helpful. Second, the opposite of anticipation in our emotion wheel is "surprise". We all agreed that surprises can be good or bad. It stands to reason the surprise's opposite, anticipation, should behave the same way.
 
 The next problematic example arose a few days later:
 

@@ -128,7 +128,7 @@ use std::panic;
 use std::io;
 
 
-// these are the functions you'll need to privide with JS
+// these are the functions you'll need to provide with JS
 extern {
     fn print(ptr: *const c_char);
     fn eprint(ptr: *const c_char);
@@ -455,6 +455,6 @@ addEventListener(
       done: true,
     });
   },
-  false
+  false,
 );
 ```

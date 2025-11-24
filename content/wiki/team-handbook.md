@@ -56,7 +56,7 @@ Now, let's talk about how to succeed with your work at Boot.dev.
 
 - **We have opinions, and fight for them**. We have strong opinions, but we don't expect for our idea to win unless we make a case for it - which is best done with data, examples, and great reasoning. When our idea doesn't win, we disagree and commit to supporting the decision that was made.
 - **80/20 rule in all things**. Perfect is the enemy of done. Always shoot for 90% of the value, and cut the stuff that would add marginal value but take a lot more time.
-- **Quality is more important than quantity**. But there are ususally ways to get 90% of the perceived quality in 10% of the time by understanding what really moves the needle.
+- **Quality is more important than quantity**. But there are usually ways to get 90% of the perceived quality in 10% of the time by understanding what really moves the needle.
 - **Blast radius: If your plan fails, how bad is it really**? You'd be surprised how many things have a teensy-tiny blast radius and yet people are scared to just go for it. This goes the other way as well: aim for asymmetrical risk/reward.
 - **Know your numbers**. If you're in product, you should know retention, signups, funnels, difficulty spikes, etc. If you're in marketing your should know revenue, CPC, CAC, LTV, etc. You should know the important ones by heart, and know how to find the rest quickly.
 

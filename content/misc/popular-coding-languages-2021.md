@@ -16,7 +16,6 @@ The most popular coding language of 2021 will be based on what the coder in ques
 
 With so many constantly-shifting languages it's hard to know where to start, especially as open source languages change all the time, with new packages and frameworks. No matter what your interest or need is, if you want to know what the most popular coding languages will be in 2021, you'll find them on this list.
 
-
 |                                             |            |
 | ------------------------------------------- | ---------- |
 | For absolute beginners                      | Python     |
@@ -27,7 +26,6 @@ With so many constantly-shifting languages it's hard to know where to start, esp
 | For mobile apps and web development         | JavaScript |
 | For quickly increasing your salary          | Go         |
 | For the future                              | Rust       |
-
 
 Table describing the most popular coding languages of 2021 for different purposes.
 
@@ -153,7 +151,7 @@ On Stack Overflow's Developer Survey, it's 3rd both on the [list of most wanted 
 
 ### Why it's popular for this purpose
 
-There are several reasons it's the most popular coding language for coders who want to quickly increase their salary. First, it's a language that's built for big projects. Unlike Ruby, for instance, which is quick to build but hard to scale, Go was intentionally created by Google to help them with truly tremendously-sized projects and tasks faster. It's intentionally created to reduce time spent reading and debugging code to help make these tasks achieveable. This makes it an attractive language for many big companies that are aiming to achieve projects on this scale.
+There are several reasons it's the most popular coding language for coders who want to quickly increase their salary. First, it's a language that's built for big projects. Unlike Ruby, for instance, which is quick to build but hard to scale, Go was intentionally created by Google to help them with truly tremendously-sized projects and tasks faster. It's intentionally created to reduce time spent reading and debugging code to help make these tasks achievable. This makes it an attractive language for many big companies that are aiming to achieve projects on this scale.
 
 It's also reputed to be faster and easier than Perl to learn, which tops the list of highest salaries. Perl comes with several decades of history and opinions to wade through, while Go, created only in 2009, has a smaller and more modern syntax. Unlike many coding languages with bloated vocabularies, Go is small enough to "fit in your head," to paraphrase Samuel Jones, a data engineer who [wrote up a review of Go](https://willowtreeapps.com/ideas/the-pros-and-cons-of-programming-in-go#:~:text=Go's%20syntax%20is%20small%20compared,of%20time%20looking%20things%20up.&text=Non%2DGo%20programmers%2C%20especially%20those,usually%20understand%20what's%20going%20on.) after using it to build an API. This reduces time searching for answers and syntax online and in reference books.
 

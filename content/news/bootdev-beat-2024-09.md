@@ -10,7 +10,7 @@ imageAlts:
   - "Boots with a staff"
 ---
 
-The aracnum was _soooooo_ close to defeating the Hound of Zaggoroth in this month's boss fight. `88,297,514` xp was gained over the course of the event, and `90,000,000` was all that was needed to secure victory. It's a shame, but we can't win them all. The hound will return soon.
+The arcanum was _soooooo_ close to defeating the Hound of Zaggoroth in this month's boss fight. `88,297,514` xp was gained over the course of the event, and `90,000,000` was all that was needed to secure victory. It's a shame, but we can't win them all. The hound will return soon.
 
 Ashamedly, Lane
 

@@ -14,7 +14,7 @@ Python and R made a name for themselves as top-end competitors in the world of d
 
 ### Python
 
-Named after the British comedy group Monty Python, Python is a high-level, procedural, general-purpose programing language designed by Dutch computer scientist Guido van Rossum. Python was released in 1991 with multiparadigm, open-source, and dynamic typed properties, and has since become a key choice for back-end web development, data science, and machine learning.
+Named after the British comedy group Monty Python, Python is a high-level, procedural, general-purpose programming language designed by Dutch computer scientist Guido van Rossum. Python was released in 1991 with multiparadigm, open-source, and dynamic typed properties, and has since become a key choice for back-end web development, data science, and machine learning.
 
 ### R
 

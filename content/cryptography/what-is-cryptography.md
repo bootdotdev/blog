@@ -68,7 +68,7 @@ Let's take a look at a few rules of thumb for securely storing keys.
 
 1. **Protect your private keys with strong access control lists**, or ACLs. Follow the principle of least privilege, that is, only allow those you really need the keys to get access to them.
 2. **Use a secure password or secret manager** to keep track of your keys. Good secret managers will encrypt your keys using a strong [key-derivation function](/cryptography/key-derivation-functions/) like [bcrypt](/cryptography/bcrypt-step-by-step/) or [scrypt](/cryptography/very-basic-intro-to-the-scrypt-hash/).
-3. **In extreme cases, a hardware security module** is a physical device that can be used to store keys offline securely. Software applications can then access HSMs connected to the same machine. The HSM actualy performs decryption on the HSM itself, so the keys never leave the device.
+3. **In extreme cases, a hardware security module** is a physical device that can be used to store keys offline securely. Software applications can then access HSMs connected to the same machine. The HSM actually performs decryption on the HSM itself, so the keys never leave the device.
 
 Lastly, ensure you only use key strengths and operating modes that comply with the latest industry best practices. For example, AES-256 should typically be used over AES-128, if for no other reason than its larger key size provides more entropy when going up against a quantum algorithm.
 
@@ -117,14 +117,12 @@ My wife would then use my public key to encrypt a message for me. Now, since I'm
 
 Common asymmetric encryption algorithms [ECC](/cryptography/elliptic-curve-cryptography/) and [RSA](<https://en.wikipedia.org/wiki/RSA_(cryptosystem)>).
 
-
 | Properties              | Symmetric                       | Asymmetric                                        |
 | ----------------------- | ------------------------------- | ------------------------------------------------- |
 | **Keys**                | A single key                    | A private and public key                          |
 | **Speed**               | Faster, simple                  | Slower, more complex                              |
 | **Use cases**           | Bulk encryption of data at rest | Encryption of data in transit between two parties |
 | **Principles provided** | Confidentiality                 | Confidentiality, authentication, non-repudiation  |
-
 
 ### \***\*Hash Functions\*\***
 

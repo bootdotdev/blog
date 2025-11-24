@@ -123,7 +123,7 @@ Expected Response Body:
 ```
 
 As you can see, while we want to know if the document has been `ACCEPTED` or `DECLINED`, in our help desk world, we need
-to wait for a human to review it (the external API will artifically simulate a human review in this case by just waiting 2-5 seconds
+to wait for a human to review it (the external API will artificially simulate a human review in this case by just waiting 2-5 seconds
 before triggering our webhook - you can see this code in `external/routes/start.ts`)
 
 With that said, here's the structure of the payload we can expect to receive in our own API, via webhook.
@@ -181,7 +181,7 @@ Route.get("/", async () => {
   await axios.post(
     `${HELP_DESK_API}/document`,
     { documentUrl: "https://www.boot.dev/community/" },
-    { headers: { "X-Callback-Url": `${OUR_API}/document/update` } }
+    { headers: { "X-Callback-Url": `${OUR_API}/document/update` } },
   );
 });
 ```

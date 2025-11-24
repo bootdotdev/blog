@@ -29,7 +29,7 @@ If that's you, this article will be a useful resource in your job hunt.
 
 ## What is JavaScript?
 
-OK, I'm not going to assume **too** much prior knowledge. I want to quickly cover the basics so we'reon the same page.
+OK, I'm not going to assume **too** much prior knowledge. I want to quickly cover the basics so we're on the same page.
 
 TL;DR: JavaScript makes interactive web pages. That's it. But it's one of the [most commonly-used programming languages](https://survey.stackoverflow.co/2023/#technology-most-popular-technologies) and the [most-desired language](https://survey.stackoverflow.co/2023/#technology-admired-and-desired), according to StackOverflow's 2023 Developer Survey.
 
@@ -213,7 +213,7 @@ Once you've got a project in mind, treat it like baking a new recipe. Start by r
 
 ### Can I learn JavaScript by building projects?
 
-Building projects are one important component of learning JavaScript, but it's not everything. Learning the fundamentals that underpin computer sicnece are critical if you want to really **get** JS and understand how it works, how to debug, and how to use JavaScript to get an actual job.
+Building projects are one important component of learning JavaScript, but it's not everything. Learning the fundamentals that underpin computer science are critical if you want to really **get** JS and understand how it works, how to debug, and how to use JavaScript to get an actual job.
 
 ### How can a beginner practice JavaScript?
 

@@ -269,7 +269,7 @@ Through this partial application, new functions can be created.
 from functools import partial
 
 def add(x, y):
-    retrun x + y
+    return x + y
 
 add10 = partial(add, y=10)
 add10(2) # returns 12

@@ -2,7 +2,7 @@
 title: "How to Use Golang's Generics [Updated since 1.18]"
 author: lane
 date: "2021-12-06"
-categories: 
+categories:
   - "golang"
 images:
   - /img/800/blob.webp
@@ -44,7 +44,7 @@ Generics are a feature of many popular strongly-typed programming languages due 
 I'll try to summarize the [specification](https://go.googlesource.com/proposal/+/refs/heads/master/design/43651-type-parameters.md) for generics in Go in a few bullet points.
 
 - Functions and types can have an additional list of type parameters before their normal parameters, using square brackets to indicate the generic types used within the function body. These type parameters can be used like any other parameter in the rest of the definition and in the body of the text. For example,
-    - `func splitAnySlice[T any](s []T) ([]T, []T)`
+  - `func splitAnySlice[T any](s []T) ([]T, []T)`
 - The type parameters are defined using "constraints", which are interface types. Constraints define the required methods and allowed types for the type argument and describe the methods and operations available for the generic type.
 - Type inference often allows type arguments to be omitted.
 - A special built-in constraint called `any` behaves similarly to `interface{}`.
@@ -68,7 +68,7 @@ Sometimes you need the logic in your generic function to know a thing or two abo
 
 The `any` "constraint" works great if you're treating the value like a bucket of data, maybe you're moving it around, but you don't care at all about what's in the bucket.
 
-According to [the propsal](https://go.googlesource.com/proposal/+/refs/heads/master/design/43651-type-parameters.md), the operations permitted for the `any` type are as follows.
+According to [the proposal](https://go.googlesource.com/proposal/+/refs/heads/master/design/43651-type-parameters.md), the operations permitted for the `any` type are as follows.
 
 - declare variables of those types
 - assign other values of the same type to those variables
@@ -182,7 +182,7 @@ func allEqual[T comparable](s comparableSlice[T]) bool {
         }
         last = cur
     }
-    return true 
+    return true
 }
 
 func main() {

@@ -15,7 +15,7 @@ Golang is a procedural, open-source, compiled programming language developed by 
 
 Go continues to grow in popularity and has a devoted following of programmers affectionately known as "Gophers".
 
-C# on the other hand is an object-oriented (OOP), general-purpose programing language that was created in 2000 as a part of Microsoft's .NET initiative. It came about after Sun Microsystems, the original developer of Java, refused to let Microsoft edit their language, and thus C# was born.
+C# on the other hand is an object-oriented (OOP), general-purpose programming language that was created in 2000 as a part of Microsoft's .NET initiative. It came about after Sun Microsystems, the original developer of Java, refused to let Microsoft edit their language, and thus C# was born.
 
 It's important to note that C# is supported by the .NET framework, which supports multiple languages. You can use C# without .NET, but it's not very common. .NET is what gives C# its advantageous libraries and versatility.
 
