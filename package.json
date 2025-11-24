@@ -1,23 +1,23 @@
 {
   "name": "blog",
   "version": "1.0.0",
-  "scripts": {
-    "serve": "concurrently --kill-others \"tailwindcss -i ./assets/css/tail-in.css -o ./assets/css/tail-out.css --watch\" \"hugo server -D\"",
-    "lint": "eslint . --ext .js,.html",
-    "lint:fix": "eslint . --fix --ext .js,.html",
-    "image-min": "node scripts/image-min.js"
-  },
   "repository": "https://github.com/bootdotdev/blog",
   "author": "wagslane <lane.c.wagner@gmail.com>",
+  "scripts": {
+    "image-min": "node scripts/image-min.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "serve": "concurrently --kill-others \"tailwindcss -i ./assets/css/tail-in.css -o ./assets/css/tail-out.css --watch\" \"hugo server -D\""
+  },
   "devDependencies": {
-    "@tailwindcss/forms": "^0.5.2",
-    "concurrently": "^7.3.0",
-    "eslint": "^8.21.0",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-html": "^7.1.0",
-    "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.7.1",
-    "sharp": "^0.30.7",
-    "tailwindcss": "^3.1.8"
+    "@eslint/js": "^9.39.1",
+    "@eslint/markdown": "^7.5.1",
+    "@tailwindcss/forms": "^0.5.10",
+    "concurrently": "^9.2.1",
+    "eslint": "^9.39.1",
+    "globals": "^16.5.0",
+    "prettier": "^3.6.2",
+    "sharp": "^0.34.5",
+    "tailwindcss": "^3.4.18"
   }
 }
