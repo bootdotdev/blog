@@ -10,16 +10,16 @@ images:
 
 Markets are efficient, _right_?
 
-I understand that every ~10 years we find ourselves in _some_ sort of stock market bubble, but I do believe that _most_ markets are _mostly_ efficient. Everyone out there is looking for a good deal, and despite the well-known irrationalities of human psycology, most of us seem to do a good job of looking out for number one.
+I understand that every ~10 years we find ourselves in _some_ sort of stock market bubble, but I do believe that _most_ markets are _mostly_ efficient. Everyone out there is looking for a good deal, and despite the well-known irrationalities of human psychology, most of us seem to do a good job of looking out for number one.
 
 That said, when it comes to _which career in tech to choose_, I've come to believe that the market is **far from efficient**. Why? Because learners are choosing career paths on _hard mode_.
 
 See, I (and you may have too) assumed that the number of people trying to learn an employable skill would be proportional to:
 
-1. The liklihood of landing a job in that field
+1. The likelihood of landing a job in that field
 2. The average salary for that skill
 
-- Better change of employment = lower risk
+- Better chance of employment = lower risk
 - Higher salary = higher reward
 
 In theory the _best_ career path for any individual is the one with the _lowest_ competition for jobs, adjusted for salary. In other words, the one with the best combination of:
@@ -31,10 +31,10 @@ In theory the _best_ career path for any individual is the one with the _lowest_
 Here's a formula:
 
 ```
-score = (percentage of job openings / percentage of search volume) * (average salary / 1,000)
+score = (job openings / search volume) * average salary
 ```
 
-For an "efficient market" of eager learners, we'd expect new learners to prefer the career paths with the highest "scores", thus lowering the score for those paths, and on averate, somewhat breaking even across all paths.
+For an "efficient market" of eager learners, we'd expect new learners to prefer the career paths with the highest "scores", thus lowering the score for those paths, and on average, somewhat breaking even across all paths.
 
 _But that doesn't seem to be the case at all!_
 
@@ -126,7 +126,7 @@ Many folks assume that "fullstack" means "GOATed senior web developer that can d
 
 ## How many jobs openings are there for each role?
 
-I dug around quite a bit trying to find decent data on this... I really wish LinkedIn or Indeed would publish a big "job openings dataset", or make it easier to get aggregate counts of postings. Alas, that's not the case. Additionally, the Bureau of Labor Statistics publishes numbers, but their data is useless for this sort of analysis because the BLS has never heard of a "fullstack developer" or a "devops engineer". "Programmer" and "IT guy" is about as specific as they get when it comes to techincal roles.
+I dug around quite a bit trying to find decent data on this... I really wish LinkedIn or Indeed would publish a big "job openings dataset", or make it easier to get aggregate counts of postings. Alas, that's not the case. Additionally, the Bureau of Labor Statistics publishes numbers, but their data is useless for this sort of analysis because the BLS has never heard of a "fullstack developer" or a "devops engineer". "Programmer" and "IT guy" is about as specific as they get when it comes to technical roles.
 
 So, I ended up using the [JobData API](https://jobdataapi.com/). It ingests hundreds of thousands of job postings from around the web, and on [this page](https://jobdataapi.com/titles/) you can see the number of postings during the last 30 days for each job title. It's not great for looking at trends over time, but the data seems pretty solid for a November 2025 snapshot. Here's a small sample of the data:
 
@@ -160,7 +160,7 @@ Bar & Waiting Staff (427)
 
 _There are 2,073 total roles in the data_.
 
-Anyhow, I downloaded the data and manually [classified](https://github.com/bootdotdev/jobdata-november-2025?tab=readme-ov-file) all the _applicable_ roles (which ended up being about `100 / 2,073`) into the 7 roles that we care about. For exmaple:
+Anyhow, I downloaded the data and manually [classified](https://github.com/bootdotdev/jobdata-november-2025?tab=readme-ov-file) all the _applicable_ roles (which ended up being about `100 / 2,073`) into the 7 roles that we care about. For example:
 
 - "Business Analyst" -> Data Analyst
 - "Cloud Engineer" -> DevOps Engineer
@@ -189,13 +189,13 @@ As you can guess, making a classification isn't always cut-and-dry, so I tried t
 - Removed testing/qa roles
 - Removed customer support/sales roles
 - Removed product/project management roles
-- If a programming langauge is in the title, best-guess the role type
+- If a programming language is in the title, best-guess the role type
 
 With the data and my classification rules in mind, here are a few things worth noting:
 
 - I suspect **backend openings are under-classified and fullstack openings are over-classified**. I classified "Lead Software Engineer" and "Software Engineer II" as "fullstack" due to the generic nature of the titles, but I suspect there are more pure-backend devs with those titles than pure-frontend devs.
 - I suspect **data analysis is under-classified**. I ignored roles that _use_ data analysis but require additional training. Roles like "financial analyst" and "marketing analyst" were removed, so I might be under-counting there.
-- We still have no idea what an "AI Engineer" is, but at least in this dataset it's _mostly_ synonymous with "ML engineer", which I should usually involve training or fine-tuning models (which is why I think the "machine learning course" search keyword was a good choice).
+- We still have no idea what an "AI Engineer" is, but at least in this dataset it's _mostly_ synonymous with "ML engineer", which should usually involve training or fine-tuning models (which is why I think the "machine learning course" search keyword was a good choice).
 
 ## Bonus: How many people are already working in each role?
 
@@ -213,7 +213,7 @@ This is a slightly separate question, but I thought it would be good for purely 
 | Data Analyst        | 1.1%                      |
 | AI Engineer         | 1.5%                      |
 
-There _clearly_ aren't five times more data analysts in the world there there are frontend developers (right?!?!). I think it's safe to assume the data analysts simply don't hang out on Stack Overflow very much. So, I'm going to mostly ignore this data, except as another source to show the relationship between frontend, backend, and fullstack developers, which I _do_ think is fairly accurate.
+The relationship between backend, frontend and fullstack all feels reasonable, but I _really doubt_ there are 4x more frontend developers in the US than data analysts (right?!?). It seems more likely that data analysts simply don't hang out on Stack Overflow. So, I'm going to mostly ignore this data, except as another source to show the relationship between frontend, backend, and fullstack developers, which I _do_ think is fairly accurate.
 
 ## Which skills should I be learning?
 
@@ -229,13 +229,13 @@ The _real_ (commercially safe for me to say) answer to this question is "whichev
 | Data Analyst        | 10.22%                  | 38.70%                   | $100,000             |
 | AI Engineer         | 14.44%                  | 31.53%                   | $189,500             |
 
-Remembering our formula from earlier:
+Remembering our formula from earlier (I'll also divide by `1,000` to make the numbers a bit more manageable):
 
 ```
-score = (percentage of job openings / percentage of search volume) * (average salary / 1,000)
+score = (job openings / search volume) * (average salary / 1,000)
 ```
 
-We can calculate the "score" each role, and then reorder the rows from "best" to "worst":
+We can calculate the "score" for each role, and then reorder the rows from "best" to "worst":
 
 | Role                | Percentage Job Postings | Percentage Search Volume | Average Salary (USD) | Score |
 | ------------------- | ----------------------- | ------------------------ | -------------------- | ----- |
@@ -253,11 +253,11 @@ The crazy low number of people searching for "backend course" and the relatively
 
 Yes! And you should probably be wary of that bias...
 
-But I will tell you that I didn't set out to prove that "Backend is a great choice" as I started putting this data together, my goal really was to find out which career path we should focus on teaching _next_ and I just happend to find some unexpected data and decided to share it here. In fact, something that's super inconvenient for me is that we decided months ago that data analysis would be our next learning path, and this data suggests that it's actually the _worst_ one for students to jump into...
+But I will tell you that I didn't set out to prove that "Backend is a great choice" as I started putting this data together, my goal really was to find out which career path we should focus on teaching _next_ and I just happened to find some unexpected data and decided to share it here. In fact, something that's super inconvenient for me is that we decided months ago that data analysis would be our next learning path, and this data suggests that it's actually the _worst_ one for students to jump into...
 
 That said, there's another variable that's not captured here: _how hard it is to learn the skills_. Data analysis roles often require less study and training overall, which helps to explain why those courses would be so popular with students, especially those who are looking for a quick career change.
 
-So, I _really_ don't want anyone to make any multi-year career decitions based on this article alone... **do your own research!** The economy is in a crazy weird place right now, and has been for awhile. The only thing I can say for certain is that no matter which way you go about bettering yourself, _don't stop bettering yourself_! AI has been making a lot of waves and my biggest fear is that it's convinced entire swaths of people that _learning stuff is useless_, and that's just as false as it's always been.
+So, I _really_ don't want anyone to make any multi-year career decisions based on this article alone... **do your own research!** The economy is in a crazy weird place right now, and has been for a while. The only thing I can say for certain is that no matter which way you go about bettering yourself, _don't stop bettering yourself_! AI has been making a lot of waves and my biggest fear is that it's convinced entire swaths of people that _learning stuff is useless_, and that's just as false as it's always been.
 
 In the immortal words of The Hitchhiker's Guide to the Galaxy: _Don't Panic!_
 
