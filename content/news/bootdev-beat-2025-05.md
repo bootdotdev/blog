@@ -44,7 +44,7 @@ In the past, the backend learning path page kinda _doubled_ as a dashboard view.
 
 We've done away with that! Each learning path (of which there are now 2, of course) has its own page, but its really just a landing page of sorts for the path. An info page, if you will.
 
-The new dashboard view is your default page when you log in to Boot.dev, and it's designed to be a much more focused view into your progess, your goals, where you've been, where you're going, etc. For example, it has your streak, quests and potions front and center so that each time you start a session, you know where you stand.
+The new dashboard view is your default page when you log in to Boot.dev, and it's designed to be a much more focused view into your progress, your goals, where you've been, where you're going, etc. For example, it has your streak, quests and potions front and center so that each time you start a session, you know where you stand.
 
 ### 3. Leagues
 

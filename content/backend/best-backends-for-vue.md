@@ -122,7 +122,7 @@ Ultimately, Node.js's lightweight, async, and highly scalable nature, along with
 
 To give an example of a perfect fit, I’d recommend using this backend combo when developing with full stack JavaScript or TypeScript devs. You can a lot of developer productivity and efficiency by using the same language on the frontend and backend.
 
-Node.js is also great at handling real-time communication and scalability, making it ideal for chat applications that have spikes in use. Here’s a fun [example](https://blog.risingstack.com/nodejs-microservices-scaling-case-study/) case study – Rising Stack was abble to build a chat app that serviced millions of users. Plus, the full-stack JavaScript environment simplifies development.
+Node.js is also great at handling real-time communication and scalability, making it ideal for chat applications that have spikes in use. Here’s a fun [example](https://blog.risingstack.com/nodejs-microservices-scaling-case-study/) case study – Rising Stack was able to build a chat app that serviced millions of users. Plus, the full-stack JavaScript environment simplifies development.
 
 ### What if I want something other than Express.js?
 

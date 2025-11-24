@@ -21,11 +21,11 @@ Lane
 
 We teamed up with CoderCoder and she did a full walkthrough of our [Learn JavaScript](https://www.boot.dev/courses/learn-javascript) course on YouTube. You can see the [full video here](https://www.youtube.com/watch?v=OOOfBC1grl0). If you've been struggling learning the quirks of JS, this should help!
 
-### 2. Achivement Modal Rework
+### 2. Achievement Modal Rework
 
-![new achivement modal](/img/800/achivementsimage.webp)
+![new achievement modal](/img/800/achivementsimage.webp)
 
-The old achivement modal left a lot to be desired. The big problem was that it didn't show you the full list of possible achievements, only the next one you're working toward. Now you can see them all in all their glory.
+The old achievement modal left a lot to be desired. The big problem was that it didn't show you the full list of possible achievements, only the next one you're working toward. Now you can see them all in all their glory.
 
 ### 3. Leagues and Leaderboard Update
 
@@ -46,4 +46,4 @@ The [Leaderboard Page](https://www.boot.dev/leaderboard) has had a massive updat
 - A new RAG course
 - A new feature... that is totally secret for now, but that has _something_ to do with better review and practice
 - Walkthrough of the TS course
-- Walktrhough of the HTTP Servers course
+- Walkthrough of the HTTP Servers course

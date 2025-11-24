@@ -35,7 +35,7 @@ Additionally, Boot's backing models have been updated to the latest and greatest
 
 ### 4. Docker Course Update
 
-Our [Learn Docker](https://www.boot.dev/courses/learn-docker) course has been through a massive overhaul! It now is _much_ more interactive, but also has all new animated videos that explain the concepts in a more succint and visual way. In essence, the videos now match our normal style that you've seen on most other courses.
+Our [Learn Docker](https://www.boot.dev/courses/learn-docker) course has been through a massive overhaul! It now is _much_ more interactive, but also has all new animated videos that explain the concepts in a more succinct and visual way. In essence, the videos now match our normal style that you've seen on most other courses.
 
 ### 5. Miscellaneous improvements
 
