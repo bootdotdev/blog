@@ -1,18 +1,18 @@
 ---
-title: "Breaking Into Tech on Hard Mode: A Supply/Demand Analysis of Career Options"
+title: "Supply and Demand Are Broken in Programming Education"
 author: lane
-date: "2025-11-23"
+date: "2025-11-24"
 categories:
   - "jobs"
 images:
-  - /img/800/bootsthinkinschool.png.webp
+  - /img/800/gemsonscales.png.webp
 ---
 
 Markets are efficient, _right_?
 
 I understand that every ~10 years we find ourselves in _some_ sort of stock market bubble, but I do believe that _most_ markets are _mostly_ efficient. Everyone out there is looking for a good deal, and despite the well-known irrationalities of human psychology, most of us seem to do a good job of looking out for number one.
 
-That said, when it comes to _which career in tech to choose_, I've come to believe that the market is **far from efficient**. Why? Because learners are choosing career paths on _hard mode_.
+That said, when it comes to _which career in tech to choose_, I've come to believe that the market is **far from efficient**. Why? Because learners are choosing the career paths that are on _hard mode_.
 
 See, I assumed (and you may have too) that the number of people trying to learn an employable skill would be proportional to:
 
@@ -38,7 +38,7 @@ For an "efficient market" of eager learners, we'd expect new learners to prefer 
 
 _But that doesn't seem to be the case at all!_
 
-Anecdotally, back in 2020 it bothered me that the number of people wanting to learn frontend development seemed _so much_ higher than the number of people wanting to learn backend development. It struck me as odd, because on average backend developers earn a bit more and there are [_more_ backend developers overall](https://survey.stackoverflow.co/2025/developers#3-role).
+Anecdotally, back in 2020 it bothered me that the number of people wanting to learn frontend development seemed _so much_ higher than the number of people wanting to [learn backend development](https://www.boot.dev/tracks/backend-python-golang). It struck me as odd, because on average backend developers earn a bit more and there are [_more_ backend developers overall](https://survey.stackoverflow.co/2025/developers#3-role).
 
 Noting the gap in the market, I decided to build Boot.dev and teach backend development, and frankly things have gone quite well.
 
