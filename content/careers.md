@@ -43,6 +43,14 @@ This is our _first_ dedicated marketing hire (believe it or not). You'll work di
 - An interest in gaming and programming
 - Basic video and image editing skills
 
+**To apply:**
+
+Send an email to Lane at Boot.dev with the subject line "Performance Creative Strategist Application" and include:
+
+- A brief introduction about yourself and why you're interested in this role
+- Some of your best creative work (links or attachments)
+- Your resume
+
 ### Entry-Level Customer Support and QA - Remote - Full Time
 
 - Compensation (Depends on experience and location):
@@ -67,6 +75,14 @@ This is our _first_ dedicated marketing hire (believe it or not). You'll work di
 - Excellent written communication skills
 - Basic technical skills to troubleshoot common issues
 - Attention to detail and a need for the highest quality in everything you do
+
+**To apply:**
+
+Send an email to Lane at Boot.dev with the subject line "Customer Support Application" and include:
+
+- A brief introduction about yourself and why you're interested in this role
+- Your Boot.dev profile link (if you have one)
+- Your resume
 
 ## Creating Courses
 
