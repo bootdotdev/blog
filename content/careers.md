@@ -16,9 +16,9 @@ We're building the smartest way to learn to code by tackling the hardest problem
 This is our _first_ dedicated marketing hire (believe it or not). You'll work directly with Lane (the founder) to keep up our rapid growth trajectory. We're looking for a creative strategist that isn't afraid to also wear basically every other marketing hat as necessary, and grow into a marketing leadership role as we scale.
 
 - Compensation (Depends on experience and location):
-  - Tier 1: $100,000 base + $20,000 performance bonus + stock options (USA, etc)
-  - Tier 2: $75,000 + $15,000 performance bonus + stock options (Canada, UK, Australia, etc)
-  - Tier 3: $45,000 + $10,000 performance bonus + stock options (India, South America, etc)
+  - Tier 1: $100,000 base + $32,000 performance bonus + stock options (USA, etc)
+  - Tier 2: $75,000 + $16,000 performance bonus + stock options (Canada, UK, Australia, etc)
+  - Tier 3: $45,000 + $12,000 performance bonus + stock options (India, South America, etc)
   - _Note: Options are 4-year vesting with a 1-year cliff, bonus is based on marketing performance_
 - Location: Remote (Worldwide)
 - Benefits: PTO + Health insurance (if in the US)
