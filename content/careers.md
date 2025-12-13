@@ -51,39 +51,6 @@ Send an email to Lane at Boot.dev with the subject line "Performance Creative St
 - Some of your best creative work (links or attachments)
 - Your resume
 
-### Entry-Level Customer Support and QA - Remote - Full Time
-
-- Compensation (Depends on experience and location):
-  - Tier 1: $42,000 (USA, etc)
-  - Tier 2: $34,000 (UK, Australia, etc)
-  - Tier 3: $18,000 (India, Egypt, etc)
-- Location: Remote (Worldwide). _This specific role must not be in US timezones due to overlapping with our existing support team._
-
-**What you'll do:**
-
-- Provide customer support via email and Discord, helping users with billing and account related issues.
-- Assist with manual quality assurance (QA) for our course platform
-- Test new features and report bugs to the development team
-- Help maintain our knowledge base and documentation
-- Interact with our students in our Discord community and help them with their questions
-- Other fairly random one-off administrative tasks as needed
-
-**What you'll need to succeed:**
-
-- A love of gaming and a desire to learn programming
-- A lot of patience and empathy for our users
-- Excellent written communication skills
-- Basic technical skills to troubleshoot common issues
-- Attention to detail and a need for the highest quality in everything you do
-
-**To apply:**
-
-Send an email to Lane at Boot.dev with the subject line "Customer Support Application" and include:
-
-- A brief introduction about yourself and why you're interested in this role
-- Your Boot.dev profile link (if you have one)
-- Your resume
-
 ## Creating Courses
 
 We're always looking for course authors to help us write new courses on a freelance basis. [Read more here](/create-a-course)
