@@ -3,7 +3,7 @@ title: "Frequently Asked Questions"
 author: lane
 date: "2020-02-06"
 images:
-  - /img/800/bootdev-explorer.png.webp
+  - /img/800/bootsballanbackground.webp
 lastmod: "2023-10-17"
 ---
 

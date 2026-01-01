@@ -5,7 +5,7 @@ date: "2020-02-06"
 aliases:
   - "/affiliates"
 images:
-  - /img/800/bootdev-explorer.png.webp
+  - /img/800/bootsballanbackground.webp
 ---
 
 **Email us here:**
