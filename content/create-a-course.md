@@ -24,6 +24,7 @@ We create most of our courses at Boot.dev in-house, but we also love to collabor
 If you're interested in creating a course, send an email to `lane at boot dot dev` with the following information:
 
 - A bit about yourself and your background
+- Links to your previous techincal writing work
 - The course you'd like to create
 - Any questions you have about the process
 
