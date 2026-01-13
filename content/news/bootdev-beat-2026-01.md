@@ -5,7 +5,7 @@ date: "2026-01-13"
 categories:
   - "news"
 images:
-  - /img/800/newsletter_heading.png.web
+  - /img/800/newsletter_heading.png.webp
 imageAlts:
   - "Frozen lake and resolute achievement image"
 ---
