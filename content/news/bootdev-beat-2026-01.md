@@ -21,7 +21,7 @@ Lane
 
 ### 1. New Background Image
 
-For the last couple of years we've finally had the money and time to commission human artists for the assets we need on Boot**.**dev - I never liked resorting to AI art, but in the early days it was that or stock art, and, well, stock was worse.
+For the last couple of years we've finally had the money and time to commission human artists for the assets we need on Boot.dev - I never liked resorting to AI art, but in the early days it was that or stock art, and, well, stock was worse.
 
 Fast forward to today, and every piece of art on the platform has **now been** drawn by a human (there are some old blog posts, but the platform itself is solid), and today was the big one - the main hero image on the landing page.
 
