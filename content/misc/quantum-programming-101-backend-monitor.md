@@ -1,8 +1,8 @@
 ---
 title: "Quantum Programming 101: Backend Monitor"
-author: Macauley Coggins
+author: macauley
 date: "2020-05-12"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/QuantumProgramming101BackendMonitor.webp
@@ -10,13 +10,13 @@ images:
 
 ## Introduction
 
-In a previous tutorial we showed how you can get basic information on all quantum devices using backend\_overview().
+In a previous tutorial we showed how you can get basic information on all quantum devices using backend_overview().
 
-While this function is great to get information on all quantum devices at a glance it is not detailed on specific information such as qubit and gate errors. To get more detailed information on a quantum device (such as configuration and individual qubits and gates) you can use backend\_monitor().
+While this function is great to get information on all quantum devices at a glance it is not detailed on specific information such as qubit and gate errors. To get more detailed information on a quantum device (such as configuration and individual qubits and gates) you can use backend_monitor().
 
 ## Implementation
 
-Unlike backend\_overview() this is for getting information on a specific device so you have to pass the device name in to the function as an argument.
+Unlike backend_overview() this is for getting information on a specific device so you have to pass the device name in to the function as an argument.
 
 For example to get real time information on the IBMQ Burlngton device you enter the following:
 
@@ -33,7 +33,7 @@ backend_monitor(provider.backends.ibmq_vigo)
 ## Steps
 
 1. Copy and paste the code below in to a python file
-2. Enter your API token in the IBMQ.enable\_account('Insert API token here') part
+2. Enter your API token in the IBMQ.enable_account('Insert API token here') part
 3. Save and run
 
 ## Code
@@ -45,7 +45,7 @@ from qiskit.tools.monitor import backend_monitor
 IBMQ.enable_account('ENTER API KEY HERE') # Insert your API token in to here
 provider = IBMQ.get_provider(hub='ibm-q')
 
-backend_monitor(provider.backends.ibmq_burlington) # Function to get all information back about a quantum  device  
+backend_monitor(provider.backends.ibmq_burlington) # Function to get all information back about a quantum  device
 
 print('\nPress any key to close')
 input()
