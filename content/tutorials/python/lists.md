@@ -290,7 +290,7 @@ print(numbers)
 # Output: [5, 4, 3, 2, 1]
 ```
 
-## **xample**: Filter Messages
+## **Example**: Filter Messages
 
 When working with lists, you may need to filter out certain elements based on a condition. Python provides a powerful feature called list comprehension to achieve this.
 
