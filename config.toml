@@ -28,7 +28,10 @@ author = "lane"
 description = "You don't need a CS degree to get hired, but you do need computer science skills. Prepare to land an entry-level role in tech by building real coding projects."
 footer = "&copy; [Boot.dev](https://www.boot.dev) {Year}"
 logo = "/favicon-32x32.png"
+logoLarge = "/img/800/boots-logo-floating.png.webp"
 googleTagManager = "GTM-PT7FHFB"
+mainSiteURL = "https://www.boot.dev/"
+mainSiteName = "Boot.dev"
 
 [markup]
 [markup.tableOfContents]

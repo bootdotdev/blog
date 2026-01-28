@@ -1,8 +1,8 @@
 ---
 title: "Quantum Programming 101: Superdense Coding Tutorial"
-author: Macauley Coggins
+author: macauley
 date: "2020-04-20"
-categories: 
+categories:
   - "python"
 images:
   - /img/800/QuantumProgramming101SuperdenseCoding.webp
@@ -38,7 +38,7 @@ Next q0 is sent and the receiver has to decode the qubit. This is done by applyi
 ## How To Run The Program
 
 1. Copy and paste the code below in to a python file
-2. Enter your API token in the IBMQ.enable\_account('Insert API token here') part
+2. Enter your API token in the IBMQ.enable_account('Insert API token here') part
 3. Save and run
 
 ## Code
@@ -59,25 +59,25 @@ backend = provider.get_backend('ibmq_qasm_simulator')
 print('Provider: ',backend)
 
 #################### 00 ###########################
-circuit = QuantumCircuit(q,c) 
+circuit = QuantumCircuit(q,c)
 
 circuit.h(q[0]) # Hadamard gate applied to q0
 circuit.cx(q[0],q[1]) # CNOT gate applied
-circuit.cx(q[0],q[1]) 
-circuit.h(q[0])  
+circuit.cx(q[0],q[1])
+circuit.h(q[0])
 
-circuit.measure(q,c) # Qubits measured    
+circuit.measure(q,c) # Qubits measured
 
 job = execute(circuit, backend, shots=10)
-                               
-print('Executing Job...\n')                  
+
+print('Executing Job...\n')
 result = job.result()
 counts = result.get_counts(circuit)
 
 print('RESULT: ',counts,'\n')
 
 #################### 01 ###########################
-circuit = QuantumCircuit(q,c) 
+circuit = QuantumCircuit(q,c)
 
 circuit.h(q[0])
 circuit.cx(q[0],q[1])
@@ -86,49 +86,49 @@ circuit.cx(q[0],q[1])
 circuit.h(q[0])
 
 circuit.measure(q,c)
-       
+
 job = execute(circuit, backend, shots=10)
-                               
-print('Executing Job...\n')                  
+
+print('Executing Job...\n')
 result = job.result()
 counts = result.get_counts(circuit)
 
 print('RESULT: ',counts,'\n')
 
 #################### 10 ###########################
-circuit = QuantumCircuit(q,c) 
+circuit = QuantumCircuit(q,c)
 
 circuit.h(q[0])
 circuit.cx(q[0],q[1])
-circuit.z(q[0]) # Z-gate applied to q0 
+circuit.z(q[0]) # Z-gate applied to q0
 circuit.cx(q[0],q[1])
 circuit.h(q[0])
 
 circuit.measure(q,c)
-      
+
 job = execute(circuit, backend, shots=10)
-                               
-print('Executing Job...\n')                  
+
+print('Executing Job...\n')
 result = job.result()
 counts = result.get_counts(circuit)
 
 print('RESULT: ',counts,'\n')
 
 #################### 11 ###########################
-circuit = QuantumCircuit(q,c) 
+circuit = QuantumCircuit(q,c)
 
 circuit.h(q[0])
 circuit.cx(q[0],q[1])
-circuit.z(q[0]) # Z-gate applied 
-circuit.x(q[0]) # X-gate applied 
+circuit.z(q[0]) # Z-gate applied
+circuit.x(q[0]) # X-gate applied
 circuit.cx(q[0],q[1])
 circuit.h(q[0])
 
 circuit.measure(q,c)
 
 job = execute(circuit, backend, shots=10)
-                               
-print('Executing Job...\n')                  
+
+print('Executing Job...\n')
 result = job.result()
 counts = result.get_counts(circuit)
 

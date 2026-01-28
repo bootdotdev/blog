@@ -1,65 +1,66 @@
-{{ if .IsHome -}}
+{{- $mainSiteURL := .Site.Params.mainSiteURL -}} {{- $mainSiteName :=
+.Site.Params.mainSiteName -}} {{- $logoLarge := .Site.Params.logoLarge | absURL
+-}} {{- if .IsHome -}} {{- $schema := dict "@context" "https://schema.org"
+"@type" "WebSite" "@id" (printf "%s#website" .Site.BaseURL) "name" .Site.Title
+"url" (print .Site.BaseURL) "description" .Site.Params.description
+"thumbnailUrl" $logoLarge "isPartOf" (dict "@type" "WebSite" "@id" (printf
+"%s#website" $mainSiteURL) "name" $mainSiteName "url" $mainSiteURL ) -}}
 <script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "WebSite",
-    "name": "{{ .Site.Title }}",
-    "url": "{{ .Site.BaseURL }}",
-    "description": "{{ .Site.Params.description }}",
-    "thumbnailUrl": "{{ .Site.Params.Logo | absURL }}"
-}
+  {{ $schema | jsonify (dict "indent" "    ") | safeJS }}
 </script>
-{{ else if .IsPage }}
-{{ $author := or (.Params.author) (.Site.Author.name) }}
-{{ $org_name := .Site.Title }}
+
+{{- else if or .IsSection (eq .Kind "term") (eq .Kind "taxonomy") -}} {{-
+$schema := dict "@context" "https://schema.org" "@type" "CollectionPage" "@id"
+(printf "%s#collectionpage" .Permalink) "name" (.Title | plainify) "description"
+(cond (ne .Description "") (.Description | plainify) (printf "Articles about %s"
+(.Title | lower))) "url" (print .Permalink) "isPartOf" (dict "@type" "WebSite"
+"@id" (printf "%s#website" .Site.BaseURL) "name" .Site.Title "url" (print
+.Site.BaseURL) ) "breadcrumb" (dict "@type" "BreadcrumbList" "itemListElement"
+(slice (dict "@type" "ListItem" "position" 1 "name" $mainSiteName "item"
+$mainSiteURL) (dict "@type" "ListItem" "position" 2 "name" "Blog" "item" (print
+.Site.BaseURL)) (dict "@type" "ListItem" "position" 3 "name" (.Title | plainify)
+"item" (print .Permalink)) ) ) -}}
 <script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "BlogPosting",
-    "articleSection": "{{ .Section }}",
-    "name": "{{ .Title | safeJS }}",
-    "headline": "{{ .Title | safeJS }}",
-    "alternativeHeadline": "{{ .Params.lead }}",
-    "description": "{{ if .Description }}{{ .Description | safeJS }}{{ else }}{{if .IsPage}}{{ .Summary | plainify  }}{{ end }}{{ end }}",
-    "inLanguage": {{ .Site.LanguageCode | default "en-us" }},
-    "isFamilyFriendly": "true",
-    "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{ .Permalink }}"
-    },
-    "author" : {
-        "@type": "Person",
-        "name": "{{ $author }}"
-    },
-    "creator" : {
-        "@type": "Person",
-        "name": "{{ $author }}"
-    },
-    "accountablePerson" : {
-        "@type": "Person",
-        "name": "{{ $author }}"
-    },
-    "copyrightHolder" : "{{ $org_name }}",
-    "copyrightYear" : "{{ .Date.Format "2006" }}",
-    "dateCreated": "{{ .Date.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
-    "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
-    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
-    "publisher":{
-        "@type":"Organization",
-        "name": {{ $org_name }},
-        "url": {{ .Site.BaseURL }},
-        "logo": {
-            "@type": "ImageObject",
-            "url": "{{ .Site.Params.logo | absURL }}",
-            "width":"32",
-            "height":"32"
-        }
-    },
-    "image": {{ if .Params.images }}[{{ range $i, $e := .Params.images }}{{ if $i }}, {{ end }}{{ $e | absURL }}{{ end }}]{{ else}}{{.Site.Params.logo | absURL }}{{ end }},
-    "url" : "{{ .Permalink }}",
-    "wordCount" : "{{ .WordCount }}",
-    "genre" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
-    "keywords" : [ {{ range $index, $category := .Params.categories }}{{ if $index }}, {{ end }}"{{ $category }}" {{ end }}]
-}
+  {{ $schema | jsonify (dict "indent" "    ") | safeJS }}
 </script>
-{{ end }}
+
+{{- else if .IsPage -}} {{- /* Author lookup from data/authors.toml */ -}} {{-
+$authorKey := or (.Params.author) (.Site.Params.author) -}} {{- $authorData :=
+index .Site.Data.authors $authorKey -}} {{- $authorName := $authorKey -}} {{-
+$authorURL := "" -}} {{- if $authorData -}} {{- $authorName = $authorData.name
+-}} {{- $authorURL = $authorData.link -}} {{- end -}} {{- /* Transform /img/800/
+to /img/1200/ for Google Discover (requires 1200px+) */ -}} {{- $image := "" -}}
+{{- if .Params.images -}} {{- $firstImage := index .Params.images 0 -}} {{-
+$image = replace $firstImage "/img/800/" "/img/1200/" | absURL -}} {{- else -}}
+{{- $image = $logoLarge -}} {{- end -}} {{- /* Get section title for breadcrumb
+*/ -}} {{- $sectionPage := .Site.GetPage "section" .Section -}} {{-
+$sectionTitle := .Section | title -}} {{- if $sectionPage -}} {{- $sectionTitle
+= $sectionPage.Title -}} {{- end -}} {{- /* Build author object */ -}} {{-
+$author := dict "@type" "Person" "name" $authorName -}} {{- if $authorURL -}}
+{{- $author = dict "@type" "Person" "name" $authorName "url" $authorURL -}} {{-
+end -}} {{- /* Build description */ -}} {{- $description := "" -}} {{- if
+.Description -}} {{- $description = .Description | plainify -}} {{- else -}} {{-
+$description = .Summary | plainify | truncate 160 -}} {{- end -}} {{- /* Build
+schema */ -}} {{- $schema := dict "@context" "https://schema.org" "@type"
+"BlogPosting" "headline" (.Title | plainify) "description" $description "image"
+$image "author" $author "publisher" (dict "@type" "Organization" "name"
+$mainSiteName "url" $mainSiteURL "logo" (dict "@type" "ImageObject" "url"
+$logoLarge ) ) "datePublished" (.PublishDate.Format "2006-01-02T15:04:05Z07:00")
+"dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00") "mainEntityOfPage"
+(dict "@type" "WebPage" "@id" (print .Permalink) ) "isPartOf" (dict "@type"
+"WebSite" "@id" (printf "%s#website" .Site.BaseURL) "name" .Site.Title "url"
+(print .Site.BaseURL) ) "breadcrumb" (dict "@type" "BreadcrumbList"
+"itemListElement" (slice (dict "@type" "ListItem" "position" 1 "name"
+$mainSiteName "item" $mainSiteURL) (dict "@type" "ListItem" "position" 2 "name"
+"Blog" "item" (print .Site.BaseURL)) (dict "@type" "ListItem" "position" 3
+"name" $sectionTitle "item" (printf "%s%s/" .Site.BaseURL .Section)) (dict
+"@type" "ListItem" "position" 4 "name" (.Title | plainify) "item" (print
+.Permalink)) ) ) "inLanguage" (.Site.LanguageCode | default "en-us") "wordCount"
+.WordCount "articleSection" .Section -}} {{- /* Add keywords if categories exist
+*/ -}} {{- if .Params.categories -}} {{- $schema = merge $schema (dict
+"keywords" .Params.categories) -}} {{- end -}}
+
+<script type="application/ld+json">
+  {{ $schema | jsonify (dict "indent" "    ") | safeJS }}
+</script>
+{{- end -}}
