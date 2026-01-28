@@ -7,7 +7,7 @@ categories:
   - "javascript"
   - "python"
 images:
-  - /img/800/Top-Web-Development-Programming-Languages-A-Comparison.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_fantasy_king_--ar_16_7ebe58eb-9da3-418f-ad8f-1eac21d4509c_2.png.webp
 ---
 
 The software development industry is growing at a break-neck pace. Currently, there are close to [19 million](https://www.daxx.com/blog/development-trends/number-software-developers-world#:~:text=According%20to%20Evans%20Data%20Corporation,developers%20reached%204%2C2%20million.) software developers in the world, and this number is expected to [double](https://slashdata-website-cms.s3.amazonaws.com/sample_reports/EiWEyM5bfZe1Kug_.pdf) by 2030.

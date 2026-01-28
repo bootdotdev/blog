@@ -5,7 +5,7 @@ date: "2021-06-01"
 categories: 
   - "golang"
 images:
-  - /img/800/hand-signal.webp
+  - img/800/ruinreborn_fantasy_art_simple_background_character_holding_up_e00cd330-8731-4171-b1aa-efe31ef057ac_2.png.webp
 ---
 
 ## What is the "defer" keyword in Go?

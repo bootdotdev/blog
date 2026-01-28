@@ -5,7 +5,7 @@ date: "2021-12-06"
 categories:
   - "golang"
 images:
-  - /img/800/blob.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_haggling_merchants_-_ef691dfc-8830-42dc-bb80-cbf026f87477_1.png.webp
 ---
 
 Generics in Go have been [released with Go 1.18](https://go.dev/blog/go1.18)! This is one of the most eagerly-awaited features since the release of the language. Many devs have gone so far as to say Go's previous lack of generic types made the language too painful to use at all. Let's dive into what generics are, why you might use them in your own projects, and how they work in Go.

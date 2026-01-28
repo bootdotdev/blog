@@ -5,7 +5,7 @@ date: "2021-03-14"
 categories:
   - "jobs"
 images:
-  - /img/800/pexels-jesus-4198370-scaled.jpeg
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizards_apprentice_-_f6e8e353-bb10-41a9-87d6-c050dfa50a82_3.png.webp
 ---
 
 ## There are two main options to get a programming certificate online - online courses and universities.

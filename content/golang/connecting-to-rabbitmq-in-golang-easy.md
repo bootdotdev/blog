@@ -6,7 +6,7 @@ categories:
   - "golang"
   - "open-source"
 images:
-  - /img/800/rabbit.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_fantasy_rabbit_--ar__3debb245-0296-4bb5-8738-261f7d793f8d_1.png.webp
 aliases:
   - /golang/connecting-to-rabbitmq-in-golang/
 ---

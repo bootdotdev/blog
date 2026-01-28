@@ -7,7 +7,7 @@ categories:
   - "javascript"
   - "python"
 images:
-  - /img/800/Python-vs-JavaScript-min.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_ordering_food_91c03ab2-ce37-4e0d-8d9a-2ea1a758499f_1.png.webp
 toc: true
 ---
 

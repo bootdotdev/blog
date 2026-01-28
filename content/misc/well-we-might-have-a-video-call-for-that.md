@@ -5,7 +5,7 @@ date: "2021-09-27"
 categories: 
   - "news"
 images:
-  - /img/800/videocall.jpeg
+  - /img/800/ruinreborn_fantasy_art_simple_background_wizard_casting_scryi_837649bf-bc09-482b-b0b0-bfbd320a36c3_2.png.webp
 ---
 
 This article contains some of my thoughts on communications for distributed teams and is a response to [No, we won't have a video call for that!](https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/) by Florian Hass. Read his article first if you haven't yet, he makes some great points!

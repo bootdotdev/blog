@@ -5,7 +5,7 @@ date: "2021-04-12"
 categories:
   - "clean-code"
 images:
-  - /img/800/design.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_enumeration_--ar_169_c021d043-1ff0-4fbc-975e-8bad0af765d0_0.png.webp
 ---
 
 Too often I neglect the idea of UX design in backend work. The goal of user experience design is to give users a product that's easy to use. In the world of front-end development, that typically means making it obvious how to navigate your site, using commonly-understood icons, or implementing well-contrasted colors for foreground and background, making your site easy to read.

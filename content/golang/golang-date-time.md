@@ -5,7 +5,7 @@ date: "2021-05-17"
 categories:
   - "golang"
 images:
-  - /img/800/clock.webp
+  - /img/800/ruinreborn_fantasy_art_simple_background_fantasy_clock_tower__fbbd418a-e880-49d1-a2ca-7aa2d97c2e86_2.png.webp
 ---
 
 Keeping track of time in code has long been every developer's nightmare. While no language or package manages time perfectly, I think Golang does a pretty good job out-of-the-box. This full tutorial should answer ~90% of the questions you'll have about time management in Go.

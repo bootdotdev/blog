@@ -6,7 +6,7 @@ categories:
   - "computer-science"
   - "jobs"
 images:
-  - /img/800/pexels-olia-danilevich-4974915-scaled.jpeg
+  - /img/800/ruinreborn_fantasy_art_simple_background_soldiers_training_so_c17e272b-9773-401e-9f64-a7c9a10e0410_0.png.webp
 ---
 
 When you're in a position of wondering, "Is a coding bootcamp worth it?" you should look at several factors. Coding bootcamp costs, on average, [around $13,000](https://www.nerdwallet.com/article/loans/student-loans/how-much-is-coding-bootcamp). This holds true no matter if you choose to attend coding bootcamp in person or [online](/education/top-online-bootcamps), though there's a lot of variance in how much coding bootcamp costs, ranging from $3,000 to $20,000 depending on the language, the length, and who's running it.
